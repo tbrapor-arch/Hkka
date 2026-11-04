@@ -19,7 +19,7 @@ Needs Python 3.9+, PyYAML and git.
 ```sh
 make db                   # → data/build/hakka.db, data/build/sixian_core.csv
 make lookup W=今晡日       # Hakka characters, or a Mandarin gloss (今天)
-make lookup W=gimˊbuˊ     # MOE pinyin, tone marks or numbers (gim24bu24); no tone = any tone
+make lookup W=gimˊbuˊngidˋ # MOE pinyin, tone marks or numbers (gim24bu24ngid2); no tone = any tone
 make test                 # romanisation parser tests
 make sources              # docs/sources.yaml → docs/sources.md
 HAKKA_PRIVATE=../hakka-private make db   # also load the private Glossika sentences (local only)
