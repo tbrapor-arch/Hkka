@@ -248,6 +248,6 @@
   status: private
   note: >-
     Parsed into hakka-private/data/glossika/sentences.jsonl (tools/parse_glossika.py). Glossika's romanisation is its
-    own "Universal Pinyin", with surface (sandhi) tones and -p/-t/-k, not MOE pinyin. Use it to see which words
+    own "Universal Pinyin" (-p/-t/-k, its own tone marks, which do not always match the dictionary tones), not MOE pinyin. Use it to see which words
     everyday sentences need (glossika_freq in the database) and to check that lesson sentences sound natural; write
     the course's own sentences. Book 1 is mostly A1-A2, book 3 B1.

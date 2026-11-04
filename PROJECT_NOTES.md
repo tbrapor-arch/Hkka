@@ -14,7 +14,7 @@
    importers from the real files and replace the 2013 list as the core source.
 2. Check the licence and bulk download of the current MOE 臺灣客語辭典 (hakkadict.moe.edu.tw): headword audio.
 3. Tone sandhi engine for Sixian (`tools/sandhi.py`, as in Tsheh-tû); the main rule is 陰平 ˊ24 → ˇ11 before
-   ˊ24, 去聲 55 and 陽入 5. Test it against the workbook examples and Glossika's surface tones.
+   ˊ24, 去聲 55 and 陽入 5. Test it against the workbook examples (written with sandhi tones).
 4. Map Glossika's romanisation to MOE pinyin (tones and -p/-t/-k → -b/-d/-g, y → ii) so the Sixian sentences can be
    searched by key.
 5. `course/000-reading-pinyin.md`, then `syllabus.yaml`.
