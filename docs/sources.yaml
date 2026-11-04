@@ -89,44 +89,50 @@
     (wiki.hakka.gov.tw) are from 2013 and probably dead. This is the course's core list (v_core).
 
 - id: kaga-vocab-current
-  title: 客家委員會各年度認證教材詞彙及音檔 (certification vocabulary and audio, by year)
+  title: 客家委員會各年度認證教材詞彙及音檔 (certification vocabulary and audio, 115年度 = 2026)
   publisher: 客家委員會
-  year: ongoing (dataset listed 2025-12)
-  accents: [sixian, hailu, dapu, raoping, zhaoan, south-sixian]
-  use: [vocab, sentences, audio]
-  format: data.gov.tw dataset of links (CSV/JSON/XML list → files per year)
+  year: 107-115年度
+  accents: [sixian, hailu, dapu, raoping, zhaoan]
+  use: [vocab, sentences, audio, test]
+  format: .ods tables per level and accent, PDFs, audio zips; question banks (題庫) for 基礎級暨初級
   url: https://data.gov.tw/dataset/176002
   licence: 政府資料開放授權條款-第1版 (Open Government Data License v1, compatible with CC BY 4.0)
   status: to-import
   note: >-
-    Newer than kaga-vocab-102, with audio, and redistributable with attribution. data.gov.tw is not reachable from the
-    cloud build machine: download the list on your own machine into reference/gov/ and the importer will be written
-    from the real files. Also: 基礎級 level (new since 2023) and 南四縣.
+    The dataset points to three download pages: elearning.hakka.gov.tw/hakka/download-files?c=2 (基礎級暨初級),
+    c=3 (中級暨中高級, plus 語料選粹 corpus selections), c=5 (高級, plus sample tests). `sh data/fetch_gov.sh`
+    downloads the .ods tables for all five accents into reference/gov/115/ (`--audio` adds the Sixian and Hailu audio,
+    `--pdf` the PDFs and sample tests). Run it on your own machine; the importer will be written from the real files
+    and replace kaga-vocab-102 as the core source. No 南四縣 lists on these pages.
 
 - id: hakka-corpus
   title: 臺灣客語語料庫：客委會出版品或採錄品 (Taiwan Hakka Corpus)
   publisher: 客家委員會
-  year: dataset 2025-12
-  accents: [sixian, hailu, dapu, raoping, zhaoan]
+  year: dataset 2025-12 (file DTST20251200015)
+  accents: [sixian, hailu, dapu, raoping, zhaoan, south-sixian]
   use: [corpus, sentences]
-  format: CSV/JSON/XML — title, relation, mode (written/spoken), accent, date, full text
+  format: CSV, 755 texts (651 written, 104 spoken transcripts); Sixian 206 texts, ~300,000 characters
   url: https://data.gov.tw/dataset/176307
   licence: 政府資料開放授權條款-第1版
-  status: to-import
+  status: in-db
   note: >-
-    Written and spoken texts tagged by accent. For word frequency (the equivalent of Tsheh-tû's 2009 corpus) and graded
-    reading texts. Same download note as kaga-vocab-current.
+    Committed as data/gov/hakka_corpus_176307.csv (the open-data licence allows it with attribution; the cloud build
+    machine cannot download it). Texts: certification exam papers 97-106年度, children's rhymes, oral stories, 桐花文學獎
+    prize texts. build_db.py counts words in the Sixian texts by longest match on known words (corpus_freq), which
+    orders v_core together with Glossika.
 
 - id: hakka-100-sentences
   title: 客家委員會客語百句
   publisher: 客家委員會
   accents: [sixian, hailu, dapu, raoping, zhaoan]
   use: [sentences, audio]
-  format: data.gov.tw dataset
-  url: https://data.gov.tw/
+  format: data.gov.tw dataset; fields include accent, hakka, chinese
+  url: https://data.gov.tw/dataset/162998
   licence: 政府資料開放授權條款-第1版
   status: to-import
-  note: 100 everyday sentences. Search "客語百句" on data.gov.tw. Good for lesson 1-10 dialogues.
+  note: >-
+    100 everyday sentences per accent. Dataset id 162998 not yet confirmed (data.gov.tw cannot be fetched from the cloud
+    session): download its CSV by hand into data/gov/. Good for lesson 1-10 dialogues.
 
 - id: kaga-test-specs
   title: 客語能力認證簡章 + 分級制度及能力指標 (certification handbook and level descriptors)

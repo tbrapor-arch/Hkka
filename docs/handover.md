@@ -1,4 +1,4 @@
-# Handover (2026-11-04)
+# Handover (2026-11-04, updated 16:30)
 
 Where the Hakka course stands, what was decided, and what to do next. Read with `PROJECT_NOTES.md` and
 `docs/sources.md`.
@@ -30,8 +30,10 @@ make lookup W=今晡日
 - **Database** `tools/build_db.py`, schema `tools/schema.sql`:
   - `moe`: 15,456 readings with all six accents (`reading` table), definitions, examples, synonyms;
   - `kaga`: certification vocabulary 102年版 for five accents, Sixian 7,241 words with level, theme, glosses, example;
+  - `corpus`: 臺灣客語語料庫 (data.gov.tw 176307, committed in `data/gov/`): 755 texts, 206 Sixian; word counts
+    `corpus_freq` (169,092 Sixian tokens, longest-match segmentation);
   - private: 3,000 Glossika sentences + word segmentation (`glossika`, `glossika_word`, `entry.glossika_freq`);
-  - `v_core`: 6,637 Sixian certification words, basic level first, then by Glossika frequency.
+  - `v_core`: 6,637 Sixian certification words, basic level first, then by Glossika and corpus frequency.
 - **Checks**: 93% of Sixian certification words shared with the MOE dictionary have the same reading key (the rest are
   real variants or sandhi spellings); 78% of Glossika word tokens link to an entry. A fresh clone builds with
   `make db`.
@@ -47,10 +49,10 @@ make lookup W=今晡日
   with a "Sixian only" label on lessons. Audio is the limit beyond Sixian/Hailu.
 
 ## Next, in order
-1. **Open data from data.gov.tw** (by hand; the cloud machine cannot reach it): datasets
-   [176002](https://data.gov.tw/dataset/176002) (certification vocabulary + audio, current years, adds 基礎級 and
-   南四縣), [176307](https://data.gov.tw/dataset/176307) (Hakka corpus), 客語百句. Put the files in
-   `reference/gov/`, then write the importers from the real files and make the current list the core source.
+1. **115年度 certification material**: run `sh data/fetch_gov.sh` on your own machine (the cloud machine cannot reach
+   elearning.hakka.gov.tw), send the .ods files from `reference/gov/115/`, then write the importer from the real files
+   and make it the core source instead of the 2013 list. Also download 客語百句 (data.gov.tw 162998, to confirm) as CSV
+   into `data/gov/`.
 2. **Per-accent romanisation**: tone tables for Hailu (7 tones, ˋ53 ∅55 ˊ24 ˇ11 +33, checked ∅5 ˋ2) and the other
    accents in `tools/pinyin.py`; `key()` takes an accent; fill `entry.pkey` for the non-Sixian kaga rows.
 3. **Sixian tone sandhi** `tools/sandhi.py` (陰平 24 → 11 before 24, 55 and 陽入 5), tested against the MOE workbook.

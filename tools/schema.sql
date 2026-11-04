@@ -21,6 +21,7 @@ CREATE TABLE entry(
   audio_url TEXT,        -- original government URL (not fetched)
   pos TEXT,
   -- learner layers (enrich step in build_db.py)
+  corpus_freq INT,       -- occurrences in the Sixian texts of the Hakka Council corpus (longest-match segmentation)
   glossika_freq INT,     -- occurrences as a word in the Glossika Sixian sentences (private module only)
   core INT               -- 1 if in the core learner list (v_core)
 );
@@ -41,6 +42,10 @@ CREATE INDEX example_entry ON example(entry_id);
 
 CREATE TABLE variant(entry_id INT, hanzi TEXT, pinyin TEXT, pkey TEXT, kind TEXT);   -- kind: hanzi-alt | reading-alt
 CREATE TABLE relation(entry_id INT, other TEXT, rel TEXT);                           -- rel: synonym | antonym
+-- 臺灣客語語料庫 (data.gov.tw 176307), committed as data/gov/hakka_corpus_176307.csv under the OGDL v1.
+CREATE TABLE corpus(id INTEGER PRIMARY KEY, title TEXT, relation TEXT, mode TEXT, accents TEXT, year INT, content TEXT);
+CREATE TABLE corpus_freq(hanzi TEXT PRIMARY KEY, count INT, docs INT);   -- Sixian texts only
+
 CREATE TABLE syllable(syl TEXT PRIMARY KEY, n INT);                                  -- Sixian toneless syllables seen in MOE
 
 -- Private module (only when HAKKA_PRIVATE points at a checkout of Hkka-private). Never published.
@@ -55,6 +60,7 @@ CREATE VIEW v_sixian AS
 
 -- Core list: every Sixian certification word, basic level first, then by Glossika frequency.
 CREATE VIEW v_core AS
-  SELECT id, hanzi, pinyin, pkey, level, category, mandarin, english, glossika_freq
+  SELECT id, hanzi, pinyin, pkey, level, category, mandarin, english, corpus_freq, glossika_freq
   FROM entry WHERE source = 'kaga' AND accent = 'sixian' AND core = 1
-  ORDER BY CASE level WHEN '初級' THEN 1 WHEN '中級、中高級' THEN 2 ELSE 3 END, glossika_freq DESC, id;
+  ORDER BY CASE level WHEN '初級' THEN 1 WHEN '中級、中高級' THEN 2 ELSE 3 END,
+           coalesce(glossika_freq, 0) * 10 + coalesce(corpus_freq, 0) DESC, id;

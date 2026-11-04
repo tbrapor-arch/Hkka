@@ -131,6 +131,40 @@ def load_glossika(db, private):
     print(f"glossika: {n} sentences (private)")
 
 
+ACC_ZH = {"四縣腔": "sixian", "海陸腔": "hailu", "大埔腔": "dapu", "饒平腔": "raoping", "詔安腔": "zhaoan", "南四縣腔": "south-sixian"}
+HAN = re.compile(r"[\u3400-\u9fff\uf900-\ufaff\U00020000-\U0003ffff]+")
+
+
+def load_corpus(db, path):
+    """臺灣客語語料庫 CSV → corpus table, then word counts over the Sixian texts by longest match on known words."""
+    if not path.exists():
+        print(f"corpus: {path} not found, skipped"); return
+    rows = list(csv.DictReader(open(path, encoding="utf-8-sig")))
+    for r in rows:
+        accs = ",".join(ACC_ZH.get(a.strip(), a.strip()) for a in r["Accent"].split("、"))
+        db.execute("INSERT INTO corpus(title, relation, mode, accents, year, content) VALUES (?,?,?,?,?,?)",
+                   (nfc(r["Title"]), nfc(r["Relation"]), nfc(r["Mode"]), accs, int(r["Date"].strip() or 0), nfc(r["Content"])))
+    words = {hz for (hz,) in db.execute("SELECT hanzi FROM entry WHERE (source='moe' AND pkey IS NOT NULL) OR (source='kaga' AND accent='sixian')")}
+    longest = max(len(w) for w in words)
+    count, docs = Counter(), Counter()
+    texts = [c for (c,) in db.execute("SELECT content FROM corpus WHERE ',' || accents || ',' LIKE '%,sixian,%'")]
+    for t in texts:
+        t = re.sub(r"<[^>]+>[^<]*</[^>]+>|<[^>]+>|（[0-9：－:\-]+）|[男女]\d*：", " ", t)
+        seen = set()
+        for run in HAN.findall(t):
+            i = 0
+            while i < len(run):
+                for L in range(min(longest, len(run) - i), 0, -1):
+                    w = run[i:i + L]
+                    if L == 1 or w in words:
+                        count[w] += 1; seen.add(w); i += L
+                        break
+        docs.update(seen)
+    db.executemany("INSERT INTO corpus_freq VALUES (?,?,?)", [(w, n, docs[w]) for w, n in count.items()])
+    db.execute("UPDATE entry SET corpus_freq = (SELECT count FROM corpus_freq f WHERE f.hanzi = entry.hanzi)")
+    print(f"corpus: {len(rows)} texts, {len(texts)} Sixian, {sum(count.values())} Sixian word tokens")
+
+
 def enrich(db):
     db.execute("""UPDATE entry SET glossika_freq = (SELECT count(*) FROM glossika_word g WHERE g.hanzi = entry.hanzi)
                   WHERE source='kaga' AND accent='sixian' OR source='moe'""")
@@ -151,6 +185,7 @@ def main(raw, out):
     db.executemany("INSERT INTO source VALUES (?,?,?,?,?,?,?)", SOURCES)
     load_moe(db, raw)
     load_kaga(db, raw)
+    load_corpus(db, Path(__file__).resolve().parent.parent / "data" / "gov" / "hakka_corpus_176307.csv")
     if os.environ.get("HAKKA_PRIVATE"):
         load_glossika(db, os.environ["HAKKA_PRIVATE"])
     enrich(db)
