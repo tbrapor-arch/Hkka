@@ -14,6 +14,6 @@ Attribution text for Hakka Affairs Council open data: 資料來源：客家委�
 Romanisation throughout is the Ministry of Education's 臺灣客家語拼音方案 (2012 revision), Sixian (四縣腔).
 
 ## Private, local-only
-`HAKKA_PRIVATE=../hakka-private make db` also loads sentences parsed from the Glossika *Mass Sentences — Hakka
+`HAKKA_PRIVATE=../Hkka-private make db` also loads sentences parsed from the Glossika *Mass Sentences — Hakka
 Sixian/Hailu* books (© Glossika, all rights reserved). They stay in your local database. Nothing derived from them
 verbatim may be committed to this repository or published with the app.

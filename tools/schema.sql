@@ -43,7 +43,7 @@ CREATE TABLE variant(entry_id INT, hanzi TEXT, pinyin TEXT, pkey TEXT, kind TEXT
 CREATE TABLE relation(entry_id INT, other TEXT, rel TEXT);                           -- rel: synonym | antonym
 CREATE TABLE syllable(syl TEXT PRIMARY KEY, n INT);                                  -- Sixian toneless syllables seen in MOE
 
--- Private module (only when HAKKA_PRIVATE points at a checkout of hakka-private). Never published.
+-- Private module (only when HAKKA_PRIVATE points at a checkout of Hkka-private). Never published.
 CREATE TABLE glossika(id INTEGER PRIMARY KEY, book INT, en TEXT,
   sx_hanzi TEXT, sx_rom TEXT, sx_ipa TEXT, hl_hanzi TEXT, hl_rom TEXT, hl_ipa TEXT, aligned INT);
 CREATE TABLE glossika_word(sentence_id INT, pos INT, hanzi TEXT, rom TEXT, entry_id INT);

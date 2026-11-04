@@ -10,7 +10,7 @@ HEAD = {
     "in-db": "In the database (`make db`)",
     "to-import": "Open licence, importer still to write",
     "reference": "Reference only (read, cite, do not copy)",
-    "private": "Private (hakka-private only)",
+    "private": "Private (Hkka-private only)",
 }
 out = ["# Sources and documentation", "",
        "Generated from `docs/sources.yaml` by `tools/sources_md.py`; edit the YAML, not this file.", "",

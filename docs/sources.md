@@ -61,7 +61,7 @@ Licences were checked on 2026-11-04. Check again before importing anything new.
 
 **哈客網路學院 (Hakka e-learning college)** (`hakka-elearning`, website, video courses, 認證 vocabulary by theme with audio). Course 認證考題分析 a000000551; 認證詞彙 by theme. Watch and learn from; do not copy.
 
-**部編版 客語分級教材 (graded school textbooks, levels 1-9 + senior high)** (`moe-graded-textbooks`, PDF e-books). Theme order and grammar progression for children/teens. Senior high: sid=1195&mid=14533. Also on https://market.cloud.edu.tw (教育雲). Copies go in hakka-private/reference/, never here.
+**部編版 客語分級教材 (graded school textbooks, levels 1-9 + senior high)** (`moe-graded-textbooks`, PDF e-books). Theme order and grammar progression for children/teens. Senior high: sid=1195&mid=14533. Also on https://market.cloud.edu.tw (教育雲). Copies go in Hkka-private/reference/, never here.
 
 **客家語拼音學習網** (`happyhakka`, website). Syllable-by-syllable audio; the companion of moe-pinyin-workbook-sixian.
 
@@ -73,10 +73,10 @@ Licences were checked on 2026-11-04. Check again before importing anything new.
 
 **萌典 客語 (moedict.tw)** (`moedict-ui`, website / app). Quick lookups while writing lessons.
 
-## Private (hakka-private only)
+## Private (Hkka-private only)
 
 | Resource | Accents | Use | Licence |
 |---|---|---|---|
 | [Glossika Mass Sentences — Hakka Sixian/Hailu, Fluency 1-3](https://ai.glossika.com/) — Glossika (Michael Campbell; credited Can Qi, Shau Zu Ciin Min) | sixian, hailu | sentences | all rights reserved |
 
-**Glossika Mass Sentences — Hakka Sixian/Hailu, Fluency 1-3** (`glossika-sx-hl`, 3 PDFs, 3,000 sentences (EN, 四縣 characters + Glossika romanisation + IPA, 海陸 the same), 1,521-character index). Parsed into hakka-private/data/glossika/sentences.jsonl (tools/parse_glossika.py). Glossika's romanisation is its own "Universal Pinyin" (-p/-t/-k, its own tone marks, which do not always match the dictionary tones), not MOE pinyin. Use it to see which words everyday sentences need (glossika_freq in the database) and to check that lesson sentences sound natural; write the course's own sentences. Book 1 is mostly A1-A2, book 3 B1.
+**Glossika Mass Sentences — Hakka Sixian/Hailu, Fluency 1-3** (`glossika-sx-hl`, 3 PDFs, 3,000 sentences (EN, 四縣 characters + Glossika romanisation + IPA, 海陸 the same), 1,521-character index). Parsed into Hkka-private/data/glossika/sentences.jsonl (tools/parse_glossika.py). Glossika's romanisation is its own "Universal Pinyin" (-p/-t/-k, its own tone marks, which do not always match the dictionary tones), not MOE pinyin. Use it to see which words everyday sentences need (glossika_freq in the database) and to check that lesson sentences sound natural; write the course's own sentences. Book 1 is mostly A1-A2, book 3 B1.

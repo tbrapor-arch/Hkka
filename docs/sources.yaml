@@ -3,7 +3,7 @@
 #   status:  in-db        loaded by `make db` (downloaded at a pinned commit, not committed)
 #            to-import    open licence, importer not written yet (download by hand, see note)
 #            reference    read and cite; do not copy into the repo (licence does not allow it, or unclear)
-#            private      kept in hakka-private only
+#            private      kept in Hkka-private only
 #   use:     spec | vocab | sentences | corpus | audio | textbook | test | pronunciation | dictionary
 # Licences checked 2026-11-04; check again before importing anything new.
 
@@ -176,7 +176,7 @@
   status: reference
   note: >-
     Theme order and grammar progression for children/teens. Senior high: sid=1195&mid=14533. Also on
-    https://market.cloud.edu.tw (教育雲). Copies go in hakka-private/reference/, never here.
+    https://market.cloud.edu.tw (教育雲). Copies go in Hkka-private/reference/, never here.
 
 - id: happyhakka
   title: 客家語拼音學習網
@@ -247,7 +247,7 @@
   licence: all rights reserved
   status: private
   note: >-
-    Parsed into hakka-private/data/glossika/sentences.jsonl (tools/parse_glossika.py). Glossika's romanisation is its
+    Parsed into Hkka-private/data/glossika/sentences.jsonl (tools/parse_glossika.py). Glossika's romanisation is its
     own "Universal Pinyin" (-p/-t/-k, its own tone marks, which do not always match the dictionary tones), not MOE pinyin. Use it to see which words
     everyday sentences need (glossika_freq in the database) and to check that lesson sentences sound natural; write
     the course's own sentences. Book 1 is mostly A1-A2, book 3 B1.

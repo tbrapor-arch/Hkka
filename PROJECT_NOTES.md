@@ -1,7 +1,7 @@
 # Project notes
 
 ## State (2026-11-04)
-- Repos created: `hakka` (public), `hakka-private` (private), same split as Tsheh-tû.
+- Repos: `Hkka` (public), `Hkka-private` (private), same split as Tsheh-tû.
 - Documentation catalogue: `docs/sources.yaml` (19 resources, licence and status for each).
 - Database: MOE dictionary + 102年版 certification vocabulary in `hakka.db`; Glossika sentences from the private repo.
 - Checks: for the 2,870 Sixian certification words whose characters are also MOE headwords, 2,669 (93%) have the same

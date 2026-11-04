@@ -1,4 +1,4 @@
-# hakka
+# Hkka
 
 A Hakka course in English for people who already speak Mandarin, with an open vocabulary database behind it.
 Accent: **Sixian 四縣腔** (Taiwan). Romanisation: **MOE Hakka pinyin** (臺灣客家語拼音方案). Sister project of
@@ -22,7 +22,7 @@ make lookup W=今晡日       # Hakka characters, or a Mandarin gloss (今天)
 make lookup W=gimˊbuˊngidˋ # MOE pinyin, tone marks or numbers (gim24bu24ngid2); no tone = any tone
 make test                 # romanisation parser tests
 make sources              # docs/sources.yaml → docs/sources.md
-HAKKA_PRIVATE=../hakka-private make db   # also load the private Glossika sentences (local only)
+HAKKA_PRIVATE=../Hkka-private make db   # also load the private Glossika sentences (local only)
 ```
 
 ## What the database gives you
@@ -33,7 +33,7 @@ HAKKA_PRIVATE=../hakka-private make db   # also load the private Glossika senten
 - `v_core`: the 6,637 certification words, basic level first; with the private module, ranked by how often they
   occur in 3,000 everyday sentences
 
-See `tools/schema.sql` for tables, `ATTRIBUTION.md` for sources and licences, `docs/sources.md` for everything else
+Start with `docs/handover.md`. See `tools/schema.sql` for tables, `ATTRIBUTION.md` for sources and licences, `docs/sources.md` for everything else
 that exists (textbooks, the romanisation manual, the speech database, newer open data still to import).
 
 ## Licences

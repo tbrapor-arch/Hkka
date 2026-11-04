@@ -1,6 +1,6 @@
 # make data      download open sources (data/raw)
 # make db        build data/build/hakka.db and data/build/sixian_core.csv
-#                HAKKA_PRIVATE=../hakka-private make db  also loads the private Glossika sentences (local only)
+#                HAKKA_PRIVATE=../Hkka-private make db  also loads the private Glossika sentences (local only)
 # make lookup W=今晡日
 # make sources  render docs/sources.yaml → docs/sources.md
 PY = python3 -I

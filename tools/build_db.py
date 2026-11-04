@@ -2,7 +2,7 @@
 """Build data/build/hakka.db from the open sources in data/raw (see data/fetch.sh).
 
   python3 -I tools/build_db.py data/raw data/build/hakka.db
-Set HAKKA_PRIVATE=/path/to/hakka-private to also load the private Glossika sentences (local build only).
+Set HAKKA_PRIVATE=/path/to/Hkka-private to also load the private Glossika sentences (local build only).
 """
 import csv, json, os, re, sqlite3, sys, unicodedata
 from collections import Counter
@@ -19,7 +19,7 @@ SOURCES = [
     ("kaga", "客家委員會 客語能力認證基本詞彙 (102年版, via Taiwanese-Corpus/hakka_elearning)", "2013", "Government work; same lists now published under 政府資料開放授權條款-第1版 on data.gov.tw", 1, "with attribution",
      "Certification vocabulary per accent and level, English glosses, example sentences."),
     ("glossika", "Glossika Mass Sentences — Hakka Sixian/Hailu, Fluency 1-3 (private)", "2015", "All rights reserved", 0, "never",
-     "Loaded only from a local hakka-private checkout. Do not publish anything derived verbatim."),
+     "Loaded only from a local Hkka-private checkout. Do not publish anything derived verbatim."),
 ]
 
 
