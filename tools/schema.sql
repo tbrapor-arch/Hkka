@@ -46,6 +46,21 @@ CREATE TABLE relation(entry_id INT, other TEXT, rel TEXT);                      
 CREATE TABLE corpus(id INTEGER PRIMARY KEY, title TEXT, relation TEXT, mode TEXT, accents TEXT, year INT, content TEXT);
 CREATE TABLE corpus_freq(hanzi TEXT PRIMARY KEY, count INT, docs INT);   -- Sixian texts only
 
+-- 客語百句 (data.gov.tw 162998, file DTST20230600025), committed as data/gov/hakka_100_sentences_162998.csv.
+-- Same sentence in six accents: join on (set_year, num). hanzi_damaged = 1 when the source lost characters ('?', PUA).
+CREATE TABLE sentence(id INTEGER PRIMARY KEY, set_year INT, num INT, accent TEXT, hanzi TEXT, hanzi_damaged INT,
+  mandarin TEXT, pinyin TEXT, pinyin_raw TEXT, pkey TEXT, audio_url TEXT);
+CREATE INDEX sentence_set ON sentence(set_year, num);
+CREATE VIEW v_sentence_parallel AS
+  SELECT set_year, num, max(mandarin) AS mandarin,
+    max(CASE accent WHEN 'sixian' THEN hanzi || ' | ' || pinyin END) AS sixian,
+    max(CASE accent WHEN 'hailu' THEN hanzi || ' | ' || pinyin END) AS hailu,
+    max(CASE accent WHEN 'dapu' THEN hanzi || ' | ' || pinyin END) AS dapu,
+    max(CASE accent WHEN 'raoping' THEN hanzi || ' | ' || pinyin END) AS raoping,
+    max(CASE accent WHEN 'zhaoan' THEN hanzi || ' | ' || pinyin END) AS zhaoan,
+    max(CASE accent WHEN 'south-sixian' THEN hanzi || ' | ' || pinyin END) AS south_sixian
+  FROM sentence GROUP BY set_year, num;
+
 CREATE TABLE syllable(syl TEXT PRIMARY KEY, n INT);                                  -- Sixian toneless syllables seen in MOE
 
 -- Private module (only when HAKKA_PRIVATE points at a checkout of Hkka-private). Never published.

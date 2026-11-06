@@ -32,6 +32,7 @@ HAKKA_PRIVATE=../Hkka-private make db   # also load the private Glossika sentenc
 - 7,241 Sixian certification words (1,678 初級, 4,959 中級/中高級, 604 loanwords) with level, theme,
   English and Mandarin glosses and an example sentence each; the same lists for 海陸, 大埔, 饒平 and 詔安
 - the Hakka Council corpus (755 texts, 206 in Sixian) with word frequencies
+- 客語百句: 195 everyday sentences side by side in all six accents (`v_sentence_parallel`), with audio links
 - one tone-value key for both spellings (`konˊbangˋua` = `kon24-bang31-ua55`), so sources can be joined
 - `v_core`: the 6,637 certification words, basic level first; with the private module, ranked by how often they
   occur in 3,000 everyday sentences

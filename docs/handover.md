@@ -1,4 +1,4 @@
-# Handover (2026-11-04, updated 16:30)
+# Handover (updated 2026-11-07)
 
 Where the Hakka course stands, what was decided, and what to do next. Read with `PROJECT_NOTES.md` and
 `docs/sources.md`.
@@ -32,6 +32,8 @@ make lookup W=今晡日
   - `kaga`: certification vocabulary 102年版 for five accents, Sixian 7,241 words with level, theme, glosses, example;
   - `corpus`: 臺灣客語語料庫 (data.gov.tw 176307, committed in `data/gov/`): 755 texts, 206 Sixian; word counts
     `corpus_freq` (169,092 Sixian tokens, longest-match segmentation);
+  - `sentence`: 客語百句 (data.gov.tw 162998, in `data/gov/`): 195 sentences × six accents, view
+    `v_sentence_parallel`; tone marks normalised; 225 of 1,053 rows lost a character (`hanzi_damaged`);
   - private: 3,000 Glossika sentences + word segmentation (`glossika`, `glossika_word`, `entry.glossika_freq`);
   - `v_core`: 6,637 Sixian certification words, basic level first, then by Glossika and corpus frequency.
 - **Checks**: 93% of Sixian certification words shared with the MOE dictionary have the same reading key (the rest are
@@ -51,17 +53,18 @@ make lookup W=今晡日
 ## Next, in order
 1. **115年度 certification material**: run `sh data/fetch_gov.sh` on your own machine (the cloud machine cannot reach
    elearning.hakka.gov.tw), send the .ods files from `reference/gov/115/`, then write the importer from the real files
-   and make it the core source instead of the 2013 list. Also download 客語百句 (data.gov.tw 162998, to confirm) as CSV
-   into `data/gov/`.
+   and make it the core source instead of the 2013 list (Windows: `data/fetch_gov.ps1` makes hakka-gov-115.zip).
 2. **Per-accent romanisation**: tone tables for Hailu (7 tones, ˋ53 ∅55 ˊ24 ˇ11 +33, checked ∅5 ˋ2) and the other
    accents in `tools/pinyin.py`; `key()` takes an accent; fill `entry.pkey` for the non-Sixian kaga rows.
 3. **Sixian tone sandhi** `tools/sandhi.py` (陰平 24 → 11 before 24, 55 and 陽入 5), tested against the MOE workbook.
-4. **Glossika → MOE pinyin** mapping, after checking what its tone marks are (今晡日 is gímbúngi̠t there,
+4. **Repair the 客語百句 lost characters** from the romanisation (syllable at the '?' → MOE character), reviewed by
+   hand; the Sixian set has 44 damaged rows.
+5. **Glossika → MOE pinyin** mapping, after checking what its tone marks are (今晡日 is gímbúngi̠t there,
    MOE gimˊbuˊngidˋ). Then Glossika sentences can be searched by key.
-5. **Licence of the current MOE 臺灣客語辭典** (hakkadict.moe.edu.tw) and its bulk download: headword audio.
-6. `course/000-reading-pinyin.md`, then `course/syllabus.yaml` aimed at the certification levels
+6. **Licence of the current MOE 臺灣客語辭典** (hakkadict.moe.edu.tw) and its bulk download: headword audio.
+7. `course/000-reading-pinyin.md`, then `course/syllabus.yaml` aimed at the certification levels
    (`docs/sources.md` › kaga-test-specs for the can-do descriptors), then lessons with the `accent` layer.
-7. App: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent setting.
+8. App: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent setting.
 
 ## Things to know
 - The cloud session cannot create GitHub repos, and cannot reach Taiwanese government sites from the shell (data.gov.tw,

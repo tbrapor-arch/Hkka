@@ -122,17 +122,22 @@
     orders v_core together with Glossika.
 
 - id: hakka-100-sentences
-  title: 客家委員會客語百句
-  publisher: 客家委員會
-  accents: [sixian, hailu, dapu, raoping, zhaoan]
+  title: 客家委員會客語百句 (Hakka in 100 sentences, 2012 and 2014 sets)
+  publisher: 客家委員會 (easytalk.hakka.gov.tw)
+  year: 2012, 2014 (file DTST20230600025)
+  accents: [sixian, hailu, dapu, raoping, zhaoan, south-sixian]
   use: [sentences, audio]
-  format: data.gov.tw dataset; fields include accent, hakka, chinese
+  format: CSV, 1,053 rows (accent, hakka, chinese, phonetic, mp3 URL); 195 sentences, 149 in all six accents
   url: https://data.gov.tw/dataset/162998
   licence: 政府資料開放授權條款-第1版
-  status: to-import
+  status: in-db
   note: >-
-    100 everyday sentences per accent. Dataset id 162998 not yet confirmed (data.gov.tw cannot be fetched from the cloud
-    session): download its CSV by hand into data/gov/. Good for lesson 1-10 dialogues.
+    Committed as data/gov/hakka_100_sentences_162998.csv; table `sentence`, view `v_sentence_parallel` (one row per
+    sentence, one column per accent): the first real data for the accent switch. The file types tone marks with
+    look-alike punctuation (’ for ˊ, ‘ for ˋ, ＋ for +, ^ for ˆ); build_db normalises them, checked against the MOE
+    Sixian readings. 225 rows lost a character to '?' or a private-use code point in an encoding conversion
+    (`hanzi_damaged = 1`; e.g. 你愛食麼?飲料 = 麼个); the romanisation and the audio are intact. Audio URLs are
+    from 2012/2014 and not checked.
 
 - id: kaga-test-specs
   title: 客語能力認證簡章 + 分級制度及能力指標 (certification handbook and level descriptors)

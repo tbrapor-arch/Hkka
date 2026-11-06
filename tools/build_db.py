@@ -165,6 +165,33 @@ def load_corpus(db, path):
     print(f"corpus: {len(rows)} texts, {len(texts)} Sixian, {sum(count.values())} Sixian word tokens")
 
 
+S100_ACC = {"si": "sixian", "ha": "hailu", "da": "dapu", "ra": "raoping", "zh": "zhaoan", "nsi": "south-sixian"}
+# The file types tone marks with look-alike punctuation; checked against the MOE readings for Sixian (’=ˊ ‘=ˋ).
+S100_MARKS = str.maketrans({"’": "ˊ", "‘": "ˋ", "＋": "+", "^": "ˆ", "？": "?"})
+
+
+def load_sentences100(db, path):
+    if not path.exists():
+        print(f"sentences100: {path} not found, skipped"); return
+    n = dmg = 0
+    for r in csv.DictReader(open(path, encoding="utf-8-sig")):
+        r = {k: (v or "").strip() for k, v in r.items()}
+        acc = S100_ACC.get(r["accent"])
+        u = r["URL"].replace("hakka.v.tw", "hakka.gov.tw")
+        y = re.search(r"/public/(?:20)?(12|14)/", u)
+        num = re.search(r"(\d+)\.mp3$", u)
+        hz = nfc(r["hakka"])
+        # a '?' inside the sentence (not the final question mark) is a character lost in an encoding conversion
+        damaged = int(bool(re.search(r"\?(?!\s*$)", hz) or re.search("[\ue000-\uf8ff]", hz)))
+        p = re.sub(r"\s+", " ", nfc(r["phonetic"]).translate(S100_MARKS)).strip()
+        db.execute("INSERT INTO sentence(set_year, num, accent, hanzi, hanzi_damaged, mandarin, pinyin, pinyin_raw, pkey, audio_url) "
+                   "VALUES (?,?,?,?,?,?,?,?,?,?)",
+                   (2000 + int(y.group(1)) if y else None, int(num.group(1)) if num else None, acc, hz, damaged,
+                    nfc(r["chinese"]), p, r["phonetic"], py.key(p) if acc == "sixian" else None, u))
+        n += 1; dmg += damaged
+    print(f"sentences100: {n} sentences, {dmg} with lost characters")
+
+
 def enrich(db):
     db.execute("""UPDATE entry SET glossika_freq = (SELECT count(*) FROM glossika_word g WHERE g.hanzi = entry.hanzi)
                   WHERE source='kaga' AND accent='sixian' OR source='moe'""")
@@ -186,6 +213,7 @@ def main(raw, out):
     load_moe(db, raw)
     load_kaga(db, raw)
     load_corpus(db, Path(__file__).resolve().parent.parent / "data" / "gov" / "hakka_corpus_176307.csv")
+    load_sentences100(db, Path(__file__).resolve().parent.parent / "data" / "gov" / "hakka_100_sentences_162998.csv")
     if os.environ.get("HAKKA_PRIVATE"):
         load_glossika(db, os.environ["HAKKA_PRIVATE"])
     enrich(db)
