@@ -53,11 +53,14 @@ make lookup W=今晡日
   with a "Sixian only" label on lessons. Audio is the limit beyond Sixian/Hailu.
 
 ## Course decisions (2026-11-07)
-Same shape as Tsheh-tû (100 lessons, review every 7th, second wave from 50, then 進修), **faster pace (~20 new words per
-lesson)**, **Sam in Miaoli** as backdrop, **Hailu written alongside Sixian**, **no native speaker** (lint against the
+Same shape as Tsheh-tû (100 lessons, review every 7th, second wave from 50, then 進修), **faster, progressive pace (12 → 25 new
+words per lesson, `course/pacing.md`)**, **Sam in Miaoli** as backdrop, **Hailu written alongside Sixian**, **no native speaker** (lint against the
 official lists, `check: true` on unattested patterns). Details and the vocabulary split: `course/README.md`.
 
 ## Next, in order
+0. **Reference articles**: run `data/fetch_references.ps1` (61 files: MOE 客語知識庫 grammar, vocabulary and
+   pronunciation articles, romanisation manual and workbooks, 語料選粹), store them in `Hkka-private/reference/moe/`,
+   then write `course/grammar-inventory.md` from them.
 1. **Audio** for the 115年度 lists: `fetch_gov.ps1 -Audio` (Sixian + Hailu zips, large). Decide where it lives
    (not in git: Git LFS, a release asset, or object storage), then link word ids to files.
 2. **Per-accent romanisation**: tone tables for Hailu (7 tones, ˋ53 ∅55 ˊ24 ˇ11 +33, checked ∅5 ˋ2) and the other

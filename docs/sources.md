@@ -72,6 +72,9 @@ Licences were checked on 2026-11-04. Check again before importing anything new.
 
 | Resource | Accents | Use | Licence |
 |---|---|---|---|
+| [教育部《臺灣客語辭典》客語知識庫 (short expert articles)](https://hakkadict.moe.edu.tw/resource/) — 教育部; authors 江敏華, 葉瑞娟, 賴文英, 黃漢君, 何純惠, 徐貴榮, 徐汎平, 彭心怡 and others | sixian, hailu, south-sixian, dapu, raoping, zhaoan | spec, pronunciation | MOE publication, no open licence stated |
 | [Glossika Mass Sentences — Hakka Sixian/Hailu, Fluency 1-3](https://ai.glossika.com/) — Glossika (Michael Campbell; credited Can Qi, Shau Zu Ciin Min) | sixian, hailu | sentences | all rights reserved |
+
+**教育部《臺灣客語辭典》客語知識庫 (short expert articles)** (`moe-knowledge-articles`, PDFs, 2-6 pp. each; 語法 36, 詞彙 46, 語音 12, 綜論 17 (and culture categories)). The grammar source for the course (no native speaker): aspect (時貌句, 等, 啊 short-duration), 同/摎 (disposal), 分 (give/passive), 給予句式, 雙賓句, 比較句 and 差比句, 複句, 語序, 會, 好, 正, 過, 有, 恁, 來去, 目的句式, 緊X緊Y, V等來, 毋係 me55, reduplication, affixes, internal differences between accents; vocabulary articles on pronouns, negatives, degree adverbs, 仔, 轉/歸, loanwords; pronunciation: Sixian/Hailu tone sandhi, 文白異讀, syllable structure. data/fetch_references.ps1 downloads 61 files (with the pinyin manual and workbooks and the 語料選粹 texts) for Hkka-private/reference/moe/. Summaries in our own words only.
 
 **Glossika Mass Sentences — Hakka Sixian/Hailu, Fluency 1-3** (`glossika-sx-hl`, 3 PDFs, 3,000 sentences (EN, 四縣 characters + Glossika romanisation + IPA, 海陸 the same), 1,521-character index). Parsed into Hkka-private/data/glossika/sentences.jsonl (tools/parse_glossika.py). Glossika's romanisation is its own "Universal Pinyin" (-p/-t/-k, its own tone marks, which do not always match the dictionary tones), not MOE pinyin. Use it to see which words everyday sentences need (glossika_freq in the database) and to check that lesson sentences sound natural; write the course's own sentences. Book 1 is mostly A1-A2, book 3 B1.

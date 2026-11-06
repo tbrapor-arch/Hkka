@@ -62,6 +62,24 @@
     Successor of moe-dict-2023, larger. Check its 授權 page and 客語資源下載 section for a bulk download before scraping
     anything. Headword audio would be the course's word audio, as in Tsheh-tû.
 
+- id: moe-knowledge-articles
+  title: 教育部《臺灣客語辭典》客語知識庫 (short expert articles)
+  publisher: 教育部; authors 江敏華, 葉瑞娟, 賴文英, 黃漢君, 何純惠, 徐貴榮, 徐汎平, 彭心怡 and others
+  year: 2018-2025 (107-114年)
+  accents: [sixian, hailu, south-sixian, dapu, raoping, zhaoan]
+  use: [spec, pronunciation]
+  format: PDFs, 2-6 pp. each; 語法 36, 詞彙 46, 語音 12, 綜論 17 (and culture categories)
+  url: https://hakkadict.moe.edu.tw/resource/
+  licence: MOE publication, no open licence stated
+  status: private
+  note: >-
+    The grammar source for the course (no native speaker): aspect (時貌句, 等, 啊 short-duration), 同/摎 (disposal),
+    分 (give/passive), 給予句式, 雙賓句, 比較句 and 差比句, 複句, 語序, 會, 好, 正, 過, 有, 恁, 來去, 目的句式,
+    緊X緊Y, V等來, 毋係 me55, reduplication, affixes, internal differences between accents; vocabulary articles on
+    pronouns, negatives, degree adverbs, 仔, 轉/歸, loanwords; pronunciation: Sixian/Hailu tone sandhi, 文白異讀,
+    syllable structure. data/fetch_references.ps1 downloads 61 files (with the pinyin manual and workbooks and the
+    語料選粹 texts) for Hkka-private/reference/moe/. Summaries in our own words only.
+
 - id: moe-recommended-chars
   title: 臺灣客家語書寫推薦用字 (recommended characters, batches 1-2)
   publisher: 教育部

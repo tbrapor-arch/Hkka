@@ -23,9 +23,10 @@ In the 100 most frequent words, 68 are not plain Mandarin. That is where the tim
   play), every 7th a review.
 
 ## Decisions (2026-11-07)
-- **Pace: faster than Tsheh-tû.** About **20 new words per lesson** in part 1 (86 new lessons ≈ 1,700 words):
-  all of 基礎級 + 初級 (1,330) and about a third of 中級. Early lessons a little lighter (15–18) while pinyin and tones
-  settle. 進修 covers the rest of 中級 and the start of 中高級 (about 40 new words per text).
+- **Pace: faster than Tsheh-tû, and progressive like it.** From 12 new words per lesson (lessons 1–6) to 25
+  (lessons 78–100), about 1,740 in part 1: all of 基礎級 + 初級 (1,330) and about 400 words of 中級. The number of
+  Hakka-only words and false friends per lesson is capped (6 → 10). See `pacing.md`. 進修 covers the rest of 中級 and
+  the start of 中高級 (about 40 new words per text).
 - **Story backdrop: Sam in Miaoli.** The same Sam as in Tsheh-tû, now staying with a Hakka family in 苗栗 (Sixian
   heartland). The characters stay a backdrop; vocabulary and structures come first.
 - **Hailu alongside.** Every dialogue line is written in Sixian and in Hailu (海陸) at once, for the accent switch.
