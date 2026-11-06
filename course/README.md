@@ -1,11 +1,45 @@
-# course/
+# Course content
 
-Lessons will live here (YAML, one file per lesson, Assimil-style: dialogue → translation → notes → exercises), on the
-model of Tsheh-tû's `course/`. Not started: the first step is the documentation catalogue (`docs/sources.md`) and the
-vocabulary database (`make db`).
+Audience: English-speaking learners who already read Traditional Chinese and speak Mandarin at around B2 / HSK 5,
+exactly as in [Tsheh-tû](https://github.com/tbrapor-arch/tsehtu). The course leans on that: words with the same
+characters as Mandarin are learned as pronunciation, and teaching time goes to false friends, Hakka-only words, tone
+sandhi and grammar words.
 
-Planned order:
-1. `000-reading-pinyin.md`: MOE pinyin and the six Sixian tones, after the MOE workbook (`moe-pinyin-workbook-sixian`).
-2. `syllabus.yaml`: themes and grammar points per lesson, aimed at the certification levels
-   (基礎級 → 初級 → 中級), using `v_core` for vocabulary order.
-3. Lessons 001…
+How the core vocabulary splits for this learner (3,030 words, 115年度 基礎級 + 初級 + 中級, Sixian; measured
+2026-11-07 against the HSK word list and the official Mandarin glosses):
+- **1,394 same as Mandarin** (你, 去, 看, 做…): only the reading is new.
+- **485 Hakka-only** (𠊎, 佢, 个, 毋, 吂, 恁, 屋下, 食…): most grammar words are here; these get the notes.
+- **367 same characters, different use**, possible false friends (無 = 嗎 / 沒有, 當 = 很, 係 = 是, 愛 = 要, 該 = 那, 好 = 喜歡).
+- **784 partial** (做得 = 可以, 今晡日 = 今天, 睡目 = 睡覺…).
+In the 100 most frequent words, 68 are not plain Mandarin. That is where the time goes.
+
+## Shape (same as Tsheh-tû)
+- Part 1: **100 lessons**, every 7th a review (7, 14, … 98) with no new material. Each lesson: a dialogue with a topic
+  title, notes, two short exercises (translate, fill the gap).
+- First wave: all 100 lessons, each new. Second wave: from lesson 50, finishing lesson N brings back lesson N−49,
+  read in English first and said in Hakka.
+- Dialogue length as in Tsheh-tû: 8–10 lines at the start, 15 by lesson 51, 18–20 at the end; reviews about 10.
+- Part 2: **進修** (perfectionnement), 70 longer texts in varied genres (dialogue, tale, letter, essay, interview,
+  play), every 7th a review.
+
+## Decisions (2026-11-07)
+- **Pace: faster than Tsheh-tû.** About **20 new words per lesson** in part 1 (86 new lessons ≈ 1,700 words):
+  all of 基礎級 + 初級 (1,330) and about a third of 中級. Early lessons a little lighter (15–18) while pinyin and tones
+  settle. 進修 covers the rest of 中級 and the start of 中高級 (about 40 new words per text).
+- **Story backdrop: Sam in Miaoli.** The same Sam as in Tsheh-tû, now staying with a Hakka family in 苗栗 (Sixian
+  heartland). The characters stay a backdrop; vocabulary and structures come first.
+- **Hailu alongside.** Every dialogue line is written in Sixian and in Hailu (海陸) at once, for the accent switch.
+  Sixian is the reference; the Hailu line uses Hailu words, not a transliteration (see the 38% of Glossika sentences
+  that change words between the two). Notes on Hailu differences where they teach something.
+- **No native speaker for now.** Every word must exist in the official lists or the MOE dictionary for that accent
+  (checked by lint); sentence patterns follow the official example sentences (7,729 in Sixian); any line built on a
+  pattern not attested there is marked `check: true` for a later native review. Audio: official word and sentence
+  recordings where they exist; dialogue audio is an open question.
+
+## Rules for content (as in Tsheh-tû)
+1. Everything here is original. No sentences, dialogues, storylines or notes from published courses (Glossika
+   included: it may be used to choose words and check naturalness, never copied).
+2. Romanisation: MOE Hakka pinyin. Characters: MOE recommended characters.
+3. Every word in a dialogue must be found in `data/build/hakka.db` for that accent.
+4. A sentence copied from the MOE dictionary or the official lists is marked `source: moe` / `source: kaga115` and is
+   not edited.

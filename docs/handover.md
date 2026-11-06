@@ -52,6 +52,11 @@ make lookup W=今晡日
   若 vs 你个). So: lesson lines get one text per accent, Sixian is the reference, Hailu second, others vocabulary-only
   with a "Sixian only" label on lessons. Audio is the limit beyond Sixian/Hailu.
 
+## Course decisions (2026-11-07)
+Same shape as Tsheh-tû (100 lessons, review every 7th, second wave from 50, then 進修), **faster pace (~20 new words per
+lesson)**, **Sam in Miaoli** as backdrop, **Hailu written alongside Sixian**, **no native speaker** (lint against the
+official lists, `check: true` on unattested patterns). Details and the vocabulary split: `course/README.md`.
+
 ## Next, in order
 1. **Audio** for the 115年度 lists: `fetch_gov.ps1 -Audio` (Sixian + Hailu zips, large). Decide where it lives
    (not in git: Git LFS, a release asset, or object storage), then link word ids to files.
@@ -63,7 +68,9 @@ make lookup W=今晡日
 5. **Glossika → MOE pinyin** mapping, after checking what its tone marks are (今晡日 is gímbúngi̠t there,
    MOE gimˊbuˊngidˋ). Then Glossika sentences can be searched by key.
 6. **Licence of the current MOE 臺灣客語辭典** (hakkadict.moe.edu.tw) and its bulk download: headword audio.
-7. `course/000-reading-pinyin.md`, then `course/syllabus.yaml` aimed at the certification levels
+7. Tooling before lesson 1: lesson template with Sixian + Hailu lines, `make lint`, `make coverage`, HSK layer
+   (`cognate` class per word), `course/grammar-inventory.md`; then `course/000-reading-pinyin.md`, then
+   `course/syllabus.yaml` aimed at the certification levels
    (`docs/sources.md` › kaga-test-specs for the can-do descriptors), then lessons with the `accent` layer.
 8. App: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent setting.
 
