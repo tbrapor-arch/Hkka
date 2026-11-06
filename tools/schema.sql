@@ -14,7 +14,7 @@ CREATE TABLE entry(
   pinyin TEXT,           -- Sixian reading in tone-mark spelling (konˊbangˋua)
   pkey TEXT,             -- Sixian tone-value key
   toneless TEXT,
-  level TEXT,            -- certification level: 初級 | 中級、中高級 | 外來語 (kaga only)
+  level TEXT,            -- certification level. kaga115: 基礎級 初級 中級 中高級 高級; kaga (2013): 初級 | 中級、中高級 | 外來語
   category TEXT,         -- certification theme (人體, 飲食 …) where known
   mandarin TEXT,         -- Mandarin gloss
   english TEXT,
@@ -61,6 +61,10 @@ CREATE VIEW v_sentence_parallel AS
     max(CASE accent WHEN 'south-sixian' THEN hanzi || ' | ' || pinyin END) AS south_sixian
   FROM sentence GROUP BY set_year, num;
 
+-- 115年度 certification question banks (基礎級暨初級), data/gov/115/basic_elementary_bank_*.ods
+CREATE TABLE exam_item(id INTEGER PRIMARY KEY, accent TEXT, section TEXT, num INT, question TEXT,
+  options TEXT, answer INT, translation TEXT);   -- options: JSON list; answer: 1-based index
+
 CREATE TABLE syllable(syl TEXT PRIMARY KEY, n INT);                                  -- Sixian toneless syllables seen in MOE
 
 -- Private module (only when HAKKA_PRIVATE points at a checkout of Hkka-private). Never published.
@@ -73,9 +77,20 @@ CREATE VIEW v_sixian AS
   SELECT e.*, (SELECT group_concat(definition_zh, '；') FROM sense s WHERE s.entry_id = e.id) AS def_zh
   FROM entry e WHERE e.accent = 'sixian' OR (e.source = 'moe' AND e.pkey IS NOT NULL);
 
--- Core list: every Sixian certification word, basic level first, then by Glossika frequency.
+-- Core list: the 115年度 Sixian certification words of 基礎級, 初級 and 中級, by level, then by frequency
+-- (Glossika when the private module is loaded, weighted ×10, plus the Hakka corpus).
 CREATE VIEW v_core AS
-  SELECT id, hanzi, pinyin, pkey, level, category, mandarin, english, corpus_freq, glossika_freq
-  FROM entry WHERE source = 'kaga' AND accent = 'sixian' AND core = 1
-  ORDER BY CASE level WHEN '初級' THEN 1 WHEN '中級、中高級' THEN 2 ELSE 3 END,
+  SELECT id, src_id, hanzi, pinyin, pkey, level, category, pos, mandarin, corpus_freq, glossika_freq
+  FROM entry WHERE source = 'kaga115' AND accent = 'sixian' AND core = 1
+  ORDER BY CASE level WHEN '基礎級' THEN 1 WHEN '初級' THEN 2 WHEN '中級' THEN 3 WHEN '中高級' THEN 4 ELSE 5 END,
            coalesce(glossika_freq, 0) * 10 + coalesce(corpus_freq, 0) DESC, id;
+
+-- The same certification word in every accent (same level and number in all five lists).
+CREATE VIEW v_word_parallel AS
+  SELECT src_id, level, max(mandarin) AS mandarin,
+    max(CASE accent WHEN 'sixian' THEN hanzi || ' ' || pinyin END) AS sixian,
+    max(CASE accent WHEN 'hailu' THEN hanzi || ' ' || pinyin END) AS hailu,
+    max(CASE accent WHEN 'dapu' THEN hanzi || ' ' || pinyin END) AS dapu,
+    max(CASE accent WHEN 'raoping' THEN hanzi || ' ' || pinyin END) AS raoping,
+    max(CASE accent WHEN 'zhaoan' THEN hanzi || ' ' || pinyin END) AS zhaoan
+  FROM entry WHERE source = 'kaga115' GROUP BY src_id;

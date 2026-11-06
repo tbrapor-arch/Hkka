@@ -25,7 +25,7 @@ def main(dbp, w):
     for (eid,) in rows:
         e = db.execute("SELECT source, hanzi, accent, pinyin, pkey, level, category, mandarin, english, glossika_freq FROM entry WHERE id=?", (eid,)).fetchone()
         src, hz, acc, pin, key, lvl, cat, man, en, gf = e
-        if src == "kaga" and acc != "sixian":
+        if src in ("kaga", "kaga115") and acc != "sixian":
             continue
         print(f"\n{hz}  {pin or ''}   [{src}{' ' + lvl if lvl else ''}{' · ' + cat if cat else ''}]  {key or ''}")
         if man or en:

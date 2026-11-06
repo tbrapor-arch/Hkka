@@ -10,6 +10,7 @@ Licences were checked on 2026-11-04. Check again before importing anything new.
 |---|---|---|---|
 | [教育部臺灣客家語常用詞辭典 (g0v JSON)](https://github.com/g0v/moedict-data-hakka) — 教育部; data by g0v/moedict-data-hakka (Audrey Tang, Pierre Magistry) | sixian, hailu, dapu, raoping, zhaoan, south-sixian | dictionary, sentences | CC BY-ND 3.0 TW (dictionary text); conversion CC0; 華語對照表 not under the licence |
 | [客語能力認證基本詞彙 102年版 (certification vocabulary, 2013 edition)](https://github.com/Taiwanese-Corpus/hakka_elearning) — 客家委員會 Hakka Affairs Council; merged by Taiwanese-Corpus/hakka_elearning | sixian, hailu, dapu, raoping, zhaoan | vocab, sentences, audio | government work; the same lists are now open data (政府資料開放授權條款-第1版) |
+| [客語能力認證詞彙 115年度 (certification vocabulary 2026, 基礎級 to 高級) + 基礎級暨初級題庫](https://data.gov.tw/dataset/176002) — 客家委員會 | sixian, hailu, dapu, raoping, zhaoan | vocab, sentences, test | 政府資料開放授權條款-第1版 (Open Government Data License v1, compatible with CC BY 4.0) |
 | [臺灣客語語料庫：客委會出版品或採錄品 (Taiwan Hakka Corpus)](https://data.gov.tw/dataset/176307) — 客家委員會 | sixian, hailu, dapu, raoping, zhaoan, south-sixian | corpus, sentences | 政府資料開放授權條款-第1版 |
 | [客家委員會客語百句 (Hakka in 100 sentences, 2012 and 2014 sets)](https://data.gov.tw/dataset/162998) — 客家委員會 (easytalk.hakka.gov.tw) | sixian, hailu, dapu, raoping, zhaoan, south-sixian | sentences, audio | 政府資料開放授權條款-第1版 |
 
@@ -17,17 +18,11 @@ Licences were checked on 2026-11-04. Check again before importing anything new.
 
 **客語能力認證基本詞彙 102年版 (certification vocabulary, 2013 edition)** (`kaga-vocab-102`, CSV, Sixian 1,678 初級 + 4,959 中級/中高級 + 604 loanwords). Level, theme (類別), Mandarin and English gloss, one example sentence per word with Mandarin. The audio URLs (wiki.hakka.gov.tw) are from 2013 and probably dead. This is the course's core list (v_core).
 
+**客語能力認證詞彙 115年度 (certification vocabulary 2026, 基礎級 to 高級) + 基礎級暨初級題庫** (`kaga-vocab-current`, 30 .ods files; Sixian 7,892 words (488 基礎級, 842 初級, 1,711 中級, 2,146 中高級, 2,826 高級), 7,729 examples; 5,055 exam items (all accents)). Committed in data/gov/115/ (downloaded with data/fetch_gov.ps1 / fetch_gov.sh from elearning.hakka.gov.tw/hakka/download-files?c=2, c=3, c=5). Source `kaga115`: the core source of the course (v_core = 基礎級 + 初級 + 中級). The five accent lists share their numbering (src_id 'level:編號'), so v_word_parallel gives each word in every accent; "此腔無此詞條" rows (word absent in that accent) are skipped. Question banks in exam_item: listening, dialogue, reading (multiple choice with answer), picture description, speaking prompts, 242 sentences to repeat. 96% of Sixian words shared with the MOE dictionary have the same reading key. Audio zips are separate (fetch with -Audio / --audio), not in the repo.
+
 **臺灣客語語料庫：客委會出版品或採錄品 (Taiwan Hakka Corpus)** (`hakka-corpus`, CSV, 755 texts (651 written, 104 spoken transcripts); Sixian 206 texts, ~300,000 characters). Committed as data/gov/hakka_corpus_176307.csv (the open-data licence allows it with attribution; the cloud build machine cannot download it). Texts: certification exam papers 97-106年度, children's rhymes, oral stories, 桐花文學獎 prize texts. build_db.py counts words in the Sixian texts by longest match on known words (corpus_freq), which orders v_core together with Glossika.
 
 **客家委員會客語百句 (Hakka in 100 sentences, 2012 and 2014 sets)** (`hakka-100-sentences`, CSV, 1,053 rows (accent, hakka, chinese, phonetic, mp3 URL); 195 sentences, 149 in all six accents). Committed as data/gov/hakka_100_sentences_162998.csv; table `sentence`, view `v_sentence_parallel` (one row per sentence, one column per accent): the first real data for the accent switch. The file types tone marks with look-alike punctuation (’ for ˊ, ‘ for ˋ, ＋ for +, ^ for ˆ); build_db normalises them, checked against the MOE Sixian readings. 225 rows lost a character to '?' or a private-use code point in an encoding conversion (`hanzi_damaged = 1`; e.g. 你愛食麼?飲料 = 麼个); the romanisation and the audio are intact. Audio URLs are from 2012/2014 and not checked.
-
-## Open licence, importer still to write
-
-| Resource | Accents | Use | Licence |
-|---|---|---|---|
-| [客家委員會各年度認證教材詞彙及音檔 (certification vocabulary and audio, 115年度 = 2026)](https://data.gov.tw/dataset/176002) — 客家委員會 | sixian, hailu, dapu, raoping, zhaoan | vocab, sentences, audio, test | 政府資料開放授權條款-第1版 (Open Government Data License v1, compatible with CC BY 4.0) |
-
-**客家委員會各年度認證教材詞彙及音檔 (certification vocabulary and audio, 115年度 = 2026)** (`kaga-vocab-current`, .ods tables per level and accent, PDFs, audio zips; question banks (題庫) for 基礎級暨初級). The dataset points to three download pages: elearning.hakka.gov.tw/hakka/download-files?c=2 (基礎級暨初級), c=3 (中級暨中高級, plus 語料選粹 corpus selections), c=5 (高級, plus sample tests). `sh data/fetch_gov.sh` downloads the .ods tables for all five accents into reference/gov/115/ (`--audio` adds the Sixian and Hailu audio, `--pdf` the PDFs and sample tests). Run it on your own machine; the importer will be written from the real files and replace kaga-vocab-102 as the core source. No 南四縣 lists on these pages.
 
 ## Reference only (read, cite, do not copy)
 

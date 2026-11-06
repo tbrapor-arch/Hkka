@@ -29,13 +29,15 @@ make lookup W=今晡日
   taken from the MOE dictionary (659 Sixian syllables).
 - **Database** `tools/build_db.py`, schema `tools/schema.sql`:
   - `moe`: 15,456 readings with all six accents (`reading` table), definitions, examples, synonyms;
-  - `kaga`: certification vocabulary 102年版 for five accents, Sixian 7,241 words with level, theme, glosses, example;
+  - `kaga115`: **core source**, certification vocabulary 115年度 (2026) in `data/gov/115/`, five accents with parallel
+    numbering (`v_word_parallel`); Sixian 7,892 words 基礎級→高級, 7,729 examples; `exam_item`: 5,055 question-bank items;
+  - `kaga`: the older 102年版 (2013) lists, kept for English glosses and comparison;
   - `corpus`: 臺灣客語語料庫 (data.gov.tw 176307, committed in `data/gov/`): 755 texts, 206 Sixian; word counts
     `corpus_freq` (169,092 Sixian tokens, longest-match segmentation);
   - `sentence`: 客語百句 (data.gov.tw 162998, in `data/gov/`): 195 sentences × six accents, view
     `v_sentence_parallel`; tone marks normalised; 225 of 1,053 rows lost a character (`hanzi_damaged`);
   - private: 3,000 Glossika sentences + word segmentation (`glossika`, `glossika_word`, `entry.glossika_freq`);
-  - `v_core`: 6,637 Sixian certification words, basic level first, then by Glossika and corpus frequency.
+  - `v_core`: 3,030 Sixian words (115年度 基礎級 + 初級 + 中級), by level, then by Glossika and corpus frequency.
 - **Checks**: 93% of Sixian certification words shared with the MOE dictionary have the same reading key (the rest are
   real variants or sandhi spellings); 78% of Glossika word tokens link to an entry. A fresh clone builds with
   `make db`.
@@ -51,9 +53,8 @@ make lookup W=今晡日
   with a "Sixian only" label on lessons. Audio is the limit beyond Sixian/Hailu.
 
 ## Next, in order
-1. **115年度 certification material**: run `sh data/fetch_gov.sh` on your own machine (the cloud machine cannot reach
-   elearning.hakka.gov.tw), send the .ods files from `reference/gov/115/`, then write the importer from the real files
-   and make it the core source instead of the 2013 list (Windows: `data/fetch_gov.ps1` makes hakka-gov-115.zip).
+1. **Audio** for the 115年度 lists: `fetch_gov.ps1 -Audio` (Sixian + Hailu zips, large). Decide where it lives
+   (not in git: Git LFS, a release asset, or object storage), then link word ids to files.
 2. **Per-accent romanisation**: tone tables for Hailu (7 tones, ˋ53 ∅55 ˊ24 ˇ11 +33, checked ∅5 ˋ2) and the other
    accents in `tools/pinyin.py`; `key()` takes an accent; fill `entry.pkey` for the non-Sixian kaga rows.
 3. **Sixian tone sandhi** `tools/sandhi.py` (陰平 24 → 11 before 24, 55 and 陽入 5), tested against the MOE workbook.

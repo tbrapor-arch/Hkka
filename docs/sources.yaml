@@ -89,21 +89,23 @@
     (wiki.hakka.gov.tw) are from 2013 and probably dead. This is the course's core list (v_core).
 
 - id: kaga-vocab-current
-  title: 客家委員會各年度認證教材詞彙及音檔 (certification vocabulary and audio, 115年度 = 2026)
+  title: 客語能力認證詞彙 115年度 (certification vocabulary 2026, 基礎級 to 高級) + 基礎級暨初級題庫
   publisher: 客家委員會
-  year: 107-115年度
+  year: 115年度 (2026)
   accents: [sixian, hailu, dapu, raoping, zhaoan]
-  use: [vocab, sentences, audio, test]
-  format: .ods tables per level and accent, PDFs, audio zips; question banks (題庫) for 基礎級暨初級
+  use: [vocab, sentences, test]
+  format: 30 .ods files; Sixian 7,892 words (488 基礎級, 842 初級, 1,711 中級, 2,146 中高級, 2,826 高級), 7,729 examples; 5,055 exam items (all accents)
   url: https://data.gov.tw/dataset/176002
   licence: 政府資料開放授權條款-第1版 (Open Government Data License v1, compatible with CC BY 4.0)
-  status: to-import
+  status: in-db
   note: >-
-    The dataset points to three download pages: elearning.hakka.gov.tw/hakka/download-files?c=2 (基礎級暨初級),
-    c=3 (中級暨中高級, plus 語料選粹 corpus selections), c=5 (高級, plus sample tests). `sh data/fetch_gov.sh`
-    downloads the .ods tables for all five accents into reference/gov/115/ (`--audio` adds the Sixian and Hailu audio,
-    `--pdf` the PDFs and sample tests). Run it on your own machine; the importer will be written from the real files
-    and replace kaga-vocab-102 as the core source. No 南四縣 lists on these pages.
+    Committed in data/gov/115/ (downloaded with data/fetch_gov.ps1 / fetch_gov.sh from
+    elearning.hakka.gov.tw/hakka/download-files?c=2, c=3, c=5). Source `kaga115`: the core source of the course
+    (v_core = 基礎級 + 初級 + 中級). The five accent lists share their numbering (src_id 'level:編號'), so
+    v_word_parallel gives each word in every accent; "此腔無此詞條" rows (word absent in that accent) are skipped.
+    Question banks in exam_item: listening, dialogue, reading (multiple choice with answer), picture description,
+    speaking prompts, 242 sentences to repeat. 96% of Sixian words shared with the MOE dictionary have the same reading
+    key. Audio zips are separate (fetch with -Audio / --audio), not in the repo.
 
 - id: hakka-corpus
   title: 臺灣客語語料庫：客委會出版品或採錄品 (Taiwan Hakka Corpus)
