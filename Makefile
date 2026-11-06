@@ -21,6 +21,7 @@ lookup:
 
 test:
 	$(PY) tools/pinyin.py --test
+	$(PY) tools/sandhi.py --test
 
 clean:
 	rm -rf $(OUT)
