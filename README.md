@@ -23,6 +23,7 @@ make lookup W=gimˊbuˊngidˋ # MOE pinyin, tone marks or numbers (gim24bu24ngid
 make test                 # romanisation parser tests
 make sources              # docs/sources.yaml → docs/sources.md
 sh data/fetch_gov.sh      # on your own machine: 115年度 certification tables into reference/gov/115/
+# Windows: powershell -ExecutionPolicy Bypass -File data\fetch_gov.ps1   (→ hakka-gov-115.zip)
 HAKKA_PRIVATE=../Hkka-private make db   # also load the private Glossika sentences (local only)
 ```
 
