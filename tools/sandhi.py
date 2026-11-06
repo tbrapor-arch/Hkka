@@ -5,11 +5,13 @@ Rule (MOE 客家語拼音學習手冊 四縣腔, lesson 25; 客家語拼音方�
 (ˊ 24) is read 陽平-like ˇ 11 when the next syllable is 陰平 (24), 去聲 (55) or 陽入 (5). Before 陽平 (11),
 上聲 (31) or 陰入 (2) it keeps 24. Only the last syllable of a group never changes.
 
-A tone group ends at punctuation, at '|' (explicit break, as in Tsheh-tû's `groups` field) or at the end of the line.
-Words are not a boundary: 豬肝盡補 zuˊ gonˊ qin buˋ → zuˇ gonˊ qin buˋ (MOE example).
+A tone group ends at punctuation, at '|' or at the end of the line. Sandhi works inside a phrase, not across a
+phrase break: in the MOE example 麻油炒豬肝 | 盡補 ("pig liver fried in sesame oil | is very nourishing"),
+豬 zuˊ → zuˇ before 肝 gonˊ, but 肝 keeps ˊ before 盡 qin. So lesson lines mark phrase breaks with '|' in their
+`groups` field, as in Tsheh-tû; without '|' the whole clause is one group.
 Spoken Hakka varies (the MOE workbook says so); the course marks the citation tones and shows these as a guide.
 
-  python3 -I tools/sandhi.py "maˇ iuˇ cauˋ zuˊ gonˊ qin buˋ"
+  python3 -I tools/sandhi.py "maˇ iuˇ cauˋ zuˊ gonˊ | qin buˋ"
 """
 import re, sys
 from pathlib import Path
@@ -50,7 +52,7 @@ def _test():
     cases = {   # MOE Sixian workbook, lesson 25 and front matter
         "aˊ meˊ": "aˇ meˊ", "aˊ poˇ": "aˊ poˇ", "aˊ jiˋ": "aˊ jiˋ", "aˊ tai": "aˇ tai",
         "aˊ bagˋ": "aˊ bagˋ", "vuˊ pag": "vuˇ pag",
-        "maˇ iuˇ cauˋ zuˊ gonˊ qin buˋ": "maˇ iuˇ cauˋ zuˇ gonˊ qin buˋ",
+        "maˇ iuˇ cauˋ zuˊ gonˊ | qin buˋ": "maˇ iuˇ cauˋ zuˇ gonˊ qin buˋ",
         "banˊ maˊ": "banˇ maˊ",
         "cuˊ siib": "cuˇ siib", "suˊ liuˇ": "suˊ liuˇ", "cuˊ samˊ": "cuˇ samˊ", "suˊ abˋ": "suˊ abˋ",
         "zuˊ, gonˊ": "zuˊ, gonˊ", "zuˊ | gonˊ": "zuˊ gonˊ",
