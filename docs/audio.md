@@ -14,7 +14,7 @@ The course must sound **Taiwanese Sixian**, not Mainland Hakka. No Mainland voic
 ## Layers
 | What | Audio | Status |
 |---|---|---|
-| Certification words and their example sentences (115年度, Sixian + Hailu) | **real recordings**, 客委會 | **cut**: one clip per word + one per word's examples for 基礎級, 初級, 中級 (Sixian + Hailu, 6,060 words); 中高級/高級 to run. See below |
+| Certification words and their example sentences (115年度, Sixian + Hailu) | **real recordings**, 客委會 | **cut**: one clip per word + one per word's examples for 基礎級, 初級, 中級 (Sixian + Hailu) and 中高級 (Sixian): 8,174 words; Hailu 中高級 and 高級 to run. See below |
 | Lesson lines that match an official example sentence | the real recording of that sentence | lint to flag matches (to write) |
 | Other lesson lines (dialogues we write) | **Taiwanese Hakka TTS**, labelled "synthetic" in the app | engines under test, see below |
 | Glossika | none in the app (private, for the learner's own listening) | — |
@@ -65,7 +65,11 @@ statement; a ready test set for comparing synthetic voices.
   Hand checks on test files (Sixian, Hailu, 中級, 高級) were 10/10; a Whisper round trip on 300 random clips found no
   clear shift (Mandarin Whisper is weak evidence on Hakka words). Known limits: a word read twice keeps the repeat in
   the `.ex` clip; when a word has several examples they share one `.ex` clip.
-- To do: run `audio-cut` with `set=upper` (中高級, 高級); split multi-example clips; flag lesson lines that are official
+- 2026-11-07: Sixian 中高級 cut too (`set=sixian-zgj`, 2,114 words, 1,270 with the number heard). One file
+  (017--081-090) had pauses too short between number and word: the cutter now retries with 0.2 s silences; that
+  file was re-cut locally and lives in `audio/extra/` (the session cannot upload release assets).
+  Sixian now has a word clip for every 基礎級–中高級 word (5,144).
+- To do: Hailu 中高級 and 高級 (`set=upper`, cost ≈ 400 Actions minutes per set of 4 zips); split multi-example clips; flag lesson lines that are official
   examples so they use the real `.ex` audio.
 
 ## Checking quality without a native speaker
