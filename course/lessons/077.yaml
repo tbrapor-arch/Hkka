@@ -34,12 +34,12 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "He went to 美濃 for two days and came back a southerner. Are you daft or what, Sam?"
-    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇抑毋係？", pinyin: "giˇ hi mi nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong ia mˇ he?"}
-    hl: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇抑毋係？", pinyin: "gi hiˇ mi nung liongˊ ngid, zhonˊ loi ciu+ bienˇ shang nam pu+ ngin leˋ. Sam, ngi ngongˇ rha+ m heˇ?"}
+    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "giˇ hi mi nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong dong ia mˇ he?"}
+    hl: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "gi hiˇ mi nung liongˊ ngid, zhonˊ loi ciu+ bienˇ shang nam pu+ ngin leˋ. Sam, ngi ngongˇ dongˇ rha+ m heˇ?"}
   - n: 6
     speaker: Sam
     en: "In 美濃 they say 歸去 for 轉去, and they call 粄條 面帕粄."
-    sx: {hanzi: "美濃人講歸去，就係轉去；粄條，佢等安做面帕粄。", pinyin: "mi nungˇ nginˇ gongˋ guiˊ hi, qiu he zonˋ hi; banˋ tiauˇ, giˇ denˋ onˊ zo mien pa banˋ."}
+    sx: {hanzi: "美濃人講歸去，就係轉去；粄條，佢兜安做面帕粄。", pinyin: "mi nungˇ nginˇ gongˋ guiˊ hi, qiu he zonˋ hi; banˋ tiauˇ, giˇ deuˊ onˊ zo mien pa banˋ."}
     hl: {hanzi: "美濃人講歸去，就係轉去；粄條，佢兜安做面帕粄。", pinyin: "mi nung ngin gongˊ guiˋ hiˇ, ciu+ heˇ zhonˊ hiˇ; banˊ tiau, gi deuˋ onˋ zoˇ mienˇ paˇ banˊ."}
     check: true
   - n: 7
@@ -65,7 +65,7 @@ dialogue:
   - n: 11
     speaker: 阿姆
     en: "Then I'll keep this umbrella for the day you start. Remember to go to bed early the night before!"
-    sx: {hanzi: "恁樣這枝遮仔，留到你上班該日正用。前一暗晡，愛記得早兜仔睡目哦！", pinyin: "anˋ ngiongˇ iaˋ giˊ zaˊ eˋ, liuˇ do nˇ songˊ banˊ ge ngidˋ zang iung. qienˇ idˋ am buˊ, oi gi dedˋ zoˋ deuˊ eˋ soi mugˋ oˋ!"}
+    sx: {hanzi: "恁樣這枝遮仔，留到你上班該日正用。前一暗晡，愛記得早兜仔睡目哦！", pinyin: "anˋ ngiongˇ iaˋ giˊ zaˊ eˋ, liuˇ do nˇ songˊ banˊ ge ngidˋ zang iung. qienˇ idˋ am buˊ, oi gi dedˋ zoˋ deuˊ eˋ soi mugˋ oˊ!"}
     hl: {hanzi: "恁樣這枝遮仔，留到你上班該日正用。前一暗晡，愛記得早兜仔睡目哦！", pinyin: "an ngiong liaˊ giˋ zhaˋ er, liu doˇ ngi shongˋ banˋ gai ngid zhangˇ rhung+. cien rhid amˇ buˋ, oiˇ giˇ ded zoˊ deuˋ er shoi+ mug oˊ!"}
     check: true
   - n: 12
@@ -96,8 +96,8 @@ notes:
   - ref: 9
     topic: culture
     text: >
-      Grandpa's 你乜轉來了 "and you've come back" answers A-in's line about the young people leaving: his longest speech
-      in this lesson is four syllables, and it is about her.
+      Grandpa's 你乜轉來了 "and you've come back" answers A-in's line about the young people leaving: he says only two short
+      lines in this lesson, and this one is about her.
   - ref: 11
     topic: grammar
     text: >
@@ -107,8 +107,8 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu this month: 當 for 蓋, 𠊎兜 / 佢兜 for 𠊎等 / 佢等, 轉去 for 歸去 (except where the southern word is quoted), 抵水
-      for 抵雨, 炊 for 蒸, 呢 neˇ and 哦 oˊ.
+      Hailu this month: 當 for 蓋, 𠊎兜 for 𠊎等, 轉去 for 歸去 (except where the southern word is quoted), 呢 neˇ
+      and 哦 oˊ. 抵水 and 炊 are not Hailu-only: Sixian uses them too (lesson 72).
 
 new_words: []
 

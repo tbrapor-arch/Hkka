@@ -65,14 +65,14 @@ dialogue:
     hl: {hanzi: "歸去就係轉去。", pinyin: "guiˋ hiˇ ciu+ heˇ zhonˊ hiˇ."}
   - n: 11
     speaker: 鍾伯
-    en: "Right. Put your bags down, and we'll take you two for 粄條."
-    sx: {hanzi: "好。行李放好，𠊎等帶你兜去食粄條。", pinyin: "hoˋ. hangˇ liˋ biong hoˋ, ngaiˇ denˋ dai nˇ deuˊ hi siid banˋ tiauˇ."}
-    hl: {hanzi: "好。行李放好，𠊎兜帶你兜去食粄條。", pinyin: "hoˊ. hang liˊ biongˇ hoˊ, ngai deuˋ daiˇ ngi deuˋ hiˇ shidˋ banˊ tiau."}
+    en: "Right. Put your bags down; this evening we'll take you two for 粄條."
+    sx: {hanzi: "好。行李放好，暗晡𠊎等帶你兜去食粄條。", pinyin: "hoˋ. hangˇ liˋ biong hoˋ, am buˊ ngaiˇ denˋ dai nˇ deuˊ hi siid banˋ tiauˇ."}
+    hl: {hanzi: "好。行李放好，暗晡𠊎兜帶你兜去食粄條。", pinyin: "hoˊ. hang liˊ biongˇ hoˊ, amˇ buˋ ngai deuˋ daiˇ ngi deuˋ hiˇ shidˋ banˊ tiau."}
   - n: 12
     speaker: 鍾伯姆
     en: "Not 粄條: 面帕粄! In 六堆 we call it 面帕粄."
     sx: {hanzi: "毋係粄條，係面帕粄！六堆人安做面帕粄。", pinyin: "mˇ he banˋ tiauˇ, he mien pa banˋ! liugˋ duiˊ nginˇ onˊ zo mien pa banˋ."}
-    hl: {hanzi: "毋係粄條，係面帕粄！六堆人安做面帕粄。", pinyin: "m heˇ banˊ tiau, heˇ mienˇ paˇ banˊ! liug duiˋ ngin onˋ zoˇ mienˇ paˇ banˊ."}
+    hl: {hanzi: "毋係粄條，係面帕粄！六堆人安到面帕粄。", pinyin: "m heˇ banˊ tiau, heˇ mienˇ paˇ banˊ! liug duiˋ ngin onˋ doˇ mienˇ paˇ banˊ."}
   - n: 13
     speaker: Sam
     en: "(to A-in) Here even the food has a different name."
@@ -80,9 +80,21 @@ dialogue:
     hl: {hanzi: "這位連食个東西都安到無共樣。", pinyin: "liaˊ vui+ lien shidˋ gaiˇ dungˋ siˋ du+ onˋ doˇ mo kiung+ rhong+."}
   - n: 14
     speaker: 鍾伯
-    en: "After you've eaten, take a stroll behind the house. The fields at the foot of the hill are lovely, and very peaceful."
-    sx: {hanzi: "食飽，你兜去屋背行行啊。山腳个田蓋靚，蓋安靜。", pinyin: "siid bauˋ, nˇ deuˊ hi vugˋ boi hangˇ hangˇ a. sanˊ giogˋ ge tienˇ goi jiangˊ, goi onˊ qin."}
-    hl: {hanzi: "食飽，你兜去屋背行行啊。山腳个田當靚，當安靜。", pinyin: "shidˋ bauˊ, ngi deuˋ hiˇ vug boiˇ hang hang a+. sanˋ giog gaiˇ tien dongˋ ziangˋ, dongˋ onˋ cin+."}
+    en: "Before that, take a stroll behind the house. The fields at the foot of the hill are lovely, and there are banana groves all round."
+    sx: {hanzi: "還吂食，你兜先去屋背行行啊。山腳个田蓋靚，四片都係弓蕉園。", pinyin: "hanˇ mangˇ siid, nˇ deuˊ xienˊ hi vugˋ boi hangˇ hangˇ a. sanˊ giogˋ ge tienˇ goi jiangˊ, xi pienˋ du he giungˊ zeuˊ ienˇ."}
+    hl: {hanzi: "還吂食，你兜先去屋背行行啊。山腳个田當靚，四片都係弓蕉園。", pinyin: "han mang shidˋ, ngi deuˋ senˋ hiˇ vug boiˇ hang hang a+. sanˋ giog gaiˇ tien dongˋ ziangˋ, siˇ pienˊ du+ heˇ giungˋ ziauˋ rhan."}
+    check: true
+  - n: 15
+    speaker: Sam
+    en: "(later, in the courtyard) What a lovely place! The 伙房 courtyard right in the middle of the fields: I've never seen anything like it."
+    sx: {hanzi: "這隻地方蓋靚！伙房个禾埕在田中央，𠊎毋識看過。", pinyin: "iaˋ zagˋ ti fongˊ goi jiangˊ! foˋ fongˇ ge voˇ tangˇ coiˊ tienˇ dungˊ ongˊ, ngaiˇ mˇ siidˋ kon go."}
+    hl: {hanzi: "這隻地方當靚！伙房个禾埕在田中央，𠊎毋識看過。", pinyin: "liaˊ zhag ti+ fongˋ dongˋ ziangˋ! foˊ fong gaiˇ vo tang coiˋ tien dungˋ ongˋ, ngai m shid konˇ goˇ."}
+  - n: 16
+    speaker: 阿英
+    en: "(laughing) 'Lovely' with a 蓋 already! The countryside is quiet like this: you can hear the birds."
+    sx: {hanzi: "你乜講「蓋」了！鄉下就係恁安靜，聽得著鳥仔。", pinyin: "nˇ me gongˋ goi leˊ! hiongˊ ha qiu he anˋ onˊ qin, tangˊ dedˋ doˋ diauˊ eˋ."}
+    hl: {hanzi: "你乜講「蓋」了！鄉下就係恁安靜，聽得著鳥仔。", pinyin: "ngi meˇ gongˊ goiˇ leˋ! hiongˋ ha+ ciu+ heˇ anˊ onˋ cin+, tangˋ ded doˊ diauˋ er."}
+    check: true
 
 notes:
   - ref: 1
@@ -93,21 +105,25 @@ notes:
   - ref: 3
     topic: grammar
     text: >
-      蓋 goi "very": the MOE dictionary lists it with the sense 很、極. In the official example sentences a second
-      wording is often given in brackets, and there 當（蓋）appears over 1,300 times (臺灣个文旦柚當(蓋)好食): 當 is the
-      northern word, 蓋 the bracketed alternative. That 蓋 is the southern (六堆, 美濃) word is general knowledge, and it
-      is what 鍾伯姆 says; in Miaoli, keep saying 當. The Hailu line says 當 as usual.
+      蓋 goi "very": the MOE dictionary lists it with the sense 很、極. The data has a set of 176 everyday sentences
+      recorded in southern Sixian (南四縣), parallel to the Sixian set: 蓋 is in 20 of them, and where the Sixian set says
+      當 the southern one says 蓋: 今晡日天時蓋好 "the weather is lovely today", 寒天著膨線衫蓋燒暖 "a woollen jumper is
+      very warm in winter". The official example sentences also give it as a bracketed alternative, 當（蓋）, 1,236
+      times (臺灣个文旦柚當(蓋)好食). In Miaoli, keep saying 當. The Hailu line says 當 as usual.
   - ref: 6
     topic: grammar
     text: >
-      𠊎等 ngaiˇ denˋ "we": MOE defines it as 我們, and the brackets of the official examples give 𠊎兜（𠊎等）thirty
-      times (𠊎兜（𠊎等）愛去看電影，你愛跈無？). Again the north says 𠊎兜, the south 𠊎等. 聽識 "follow, understand
+      𠊎等 "we": MOE defines it as 我們 and gives the Sixian reading ngaiˇ denˋ and the southern one ngaiˇ denˊ; one of the
+      southern sentences has it (ngaiˇ denˊ…共下鬥等買美食, where Sixian says 這兜). In the official examples' brackets,
+      𠊎等 stands for both 𠊎兜 (10 times: 𠊎兜（𠊎等）愛去看電影，你愛跈無？) and 𫣆兜 (16 times, plus 𫣆, 𫣆俚): the
+      south does not make the north's split between "we without you" and "we with you" in the same way. 聽識 "follow, understand
       (by ear)": 聽 + 識 (lesson 26); 聽毋識 "not understand": 𠊎頭先聽毋識，請你再過講一擺 is an official example.
   - ref: 8
     topic: grammar
     text: >
-      歸去 guiˊ hi "go back home" = 轉去: MOE gives 歸 the sense 返回, and the brackets have 轉（歸）over a hundred times
-      (阿爸逐（每）日都轉（歸）屋下食晝). 歸 is also "the whole" (歸日, 歸屋下): context decides.
+      歸去 guiˊ hi "go back home" = 轉去: MOE gives 歸 the sense 返回. Two southern sentences have it where the Sixian set
+      has 轉: 阿姆毋曾歸來 "Mum hasn't come home yet", 歸來了！ "back home!" (Sixian 轉來了). The brackets of the official
+      examples have 轉（歸）over a hundred times (阿爸逐（每）日都轉（歸）屋下食晝). 歸 is also "the whole" (歸日, 歸屋下): context decides.
   - ref: 12
     topic: culture
     text: >
@@ -163,7 +179,7 @@ exercises:
       hl: {hanzi: "伙房个禾埕在田中央，這隻地方當靚！", pinyin: "foˊ fong gaiˇ vo tang coiˋ tien dungˋ ongˋ, liaˊ zhag ti+ fongˋ dongˋ ziangˋ!"}
       check: true
   fill:
-    - en: "(southern) very good"
+    - en: "very good (southern word; the Hailu column keeps 當)"
       sx: {hanzi: "___好", pinyin: "___ hoˋ", answer_hanzi: "蓋", answer: "goi"}
       hl: {hanzi: "___好", pinyin: "___ hoˊ", answer_hanzi: "當", answer: "dongˋ"}
     - en: "(southern) We're going back home on Sunday."

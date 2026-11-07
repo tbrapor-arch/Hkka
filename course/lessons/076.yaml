@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿姆
     en: "The wok's very hot. Careful, now!"
-    sx: {hanzi: "這鑊仔燒燒，你愛細義，毋好凴著哦！", pinyin: "iaˋ vog eˋ seuˊ seuˊ, nˇ oi se ngi, mˇ hoˋ ben doˋ oˋ!"}
-    hl: {hanzi: "這鑊仔燒燒，你愛細義，毋好凴著哦！", pinyin: "liaˊ vogˋ er shauˋ shauˋ, ngi oiˇ seˇ ngi+, m hoˊ benˇ doˊ oˊ!"}
+    sx: {hanzi: "這鑊仔燒燒，你斯愛細義，莫凴著哦！", pinyin: "iaˋ vog eˋ seuˊ seuˊ, nˇ siiˊ oi se ngi, mog ben doˋ oˊ!"}
+    hl: {hanzi: "這鑊仔燒燒，你斯愛細義，毋好凴著哦！", pinyin: "liaˊ vogˋ er shauˋ shauˋ, ngi siiˋ oiˇ seˇ ngi+, m hoˊ benˇ doˊ oˊ!"}
   - n: 7
     speaker: Sam
     en: "Oil first; fry the spring onions till they smell good, then put the pork in."
@@ -53,45 +53,67 @@ dialogue:
     hl: {hanzi: "蝦米乜放兜仔落去，當香。", pinyin: "ha miˊ meˇ biongˇ deuˋ er logˋ hiˇ, dongˋ hiongˋ."}
   - n: 9
     speaker: Sam
-    en: "Now the 粄條, give it a quick stir… Mrs Liu, taste it: is the salt right?"
-    sx: {hanzi: "粄條放落去，摝摝仔……阿姆，你嘗看啊鹹淡。", pinyin: "banˋ tiauˇ biong log hi, lugˋ lugˋ eˋ … aˊ meˊ, nˇ songˇ kon a hamˇ tamˊ."}
-    hl: {hanzi: "粄條放落去，摝摝仔……阿姆，你嘗看啊鹹淡。", pinyin: "banˊ tiau biongˇ logˋ hiˇ, lug lug er … a+ meˋ, ngi shong konˇ a+ ham tamˋ."}
+    en: "Now the 粄條, give it a quick stir… Mrs Liu, come and taste it for salt."
+    sx: {hanzi: "粄條放落去，摝摝仔……伯姆，你來嘗鹹淡。", pinyin: "banˋ tiauˇ biong log hi, lugˋ lugˋ eˋ … bagˋ meˊ, nˇ loiˇ songˇ hamˇ tamˊ."}
+    hl: {hanzi: "粄條放落去，摝摝仔……伯姆，你來嘗鹹淡。", pinyin: "banˊ tiau biongˇ logˋ hiˇ, lug lug er … bag meˋ, ngi loi shong ham tamˋ."}
   - n: 10
     speaker: 阿姆
     en: "Just right. You've learnt it!"
     sx: {hanzi: "鹹淡堵堵好。你學會了！", pinyin: "hamˇ tamˊ duˋ duˋ hoˋ. nˇ hog voi leˊ!"}
     hl: {hanzi: "鹹淡堵堵好。你學會了！", pinyin: "ham tamˋ duˊ duˊ hoˊ. ngi hogˋ voi+ leˋ!"}
   - n: 11
+    speaker: 阿姆
+    en: "And there's more: I've cooked the mung-bean soup through, and the rice noodles are blanched."
+    sx: {hanzi: "還有：綠豆湯𠊎煮熟了，米粉乜煠好了。", pinyin: "hanˇ iuˊ: liug teu tongˊ ngaiˇ zuˋ sug leˊ, miˋ funˋ me sab hoˋ leˊ."}
+    hl: {hanzi: "還有：綠豆湯𠊎煮熟了，米粉乜煠好了。", pinyin: "han rhiuˋ: liugˋ teu+ tongˋ ngai zhuˊ shugˋ leˋ, miˊ funˊ meˇ sabˋ hoˊ leˋ."}
+    check: true
+  - n: 12
+    speaker: Sam
+    en: "So many dishes! And the fish?"
+    sx: {hanzi: "恁多菜！魚仔呢？", pinyin: "anˋ doˊ coi! ngˇ eˋ neˇ?"}
+    hl: {hanzi: "恁多菜！魚仔呢？", pinyin: "anˊ doˋ coiˇ! ng er neˇ?"}
+  - n: 13
+    speaker: 阿姆
+    en: "I'll steam the fish and braise the pork. You just do your fried pork, and don't leave it half raw."
+    sx: {hanzi: "魚仔𠊎來蒸，豬肉𠊎來滷。你炒炒肉就好，莫炒到還生生。", pinyin: "ngˇ eˋ ngaiˇ loiˇ ziinˊ, zuˊ ngiugˋ ngaiˇ loiˇ luˊ. nˇ cauˋ cauˋ ngiugˋ qiu hoˋ, mog cauˋ do hanˇ sangˊ sangˊ."}
+    hl: {hanzi: "魚仔𠊎來蒸，豬肉𠊎來滷。你炒炒肉就好，莫炒到還生生。", pinyin: "ng er ngai loi zhinˋ, zhuˋ ngiug ngai loi luˋ. ngi cauˊ cauˊ ngiug ciu+ hoˊ, mogˋ cauˊ doˇ han sangˋ sangˋ."}
+    check: true
+  - n: 14
+    speaker: Sam
+    en: "Right! A bit of pepper, and a quick stir…"
+    sx: {hanzi: "好！胡椒放兜仔，攪攪啊……", pinyin: "hoˋ! fuˇ zeuˊ biong deuˊ eˋ, giauˊ giauˊ a …"}
+    hl: {hanzi: "好！胡椒放兜仔，攪攪啊……", pinyin: "hoˊ! fu ziauˋ biongˇ deuˋ er, giauˋ giauˋ a+ …"}
+  - n: 15
     speaker: 阿明
     en: "(sniffing) You can smell it from far off… It does smell good."
     sx: {hanzi: "遠遠就鼻著了……實在香。", pinyin: "ienˋ ienˋ qiu pi doˋ leˊ … siid cai hiongˊ."}
     hl: {hanzi: "遠遠就鼻著了……實在香。", pinyin: "rhanˊ rhanˊ ciu+ pi+ doˊ leˋ … shidˋ cai+ hiongˋ."}
-  - n: 12
+  - n: 16
     speaker: 阿婆
     en: "(calling from the hall) Is it ready? Can we eat?"
     sx: {hanzi: "好食飯了無？", pinyin: "hoˋ siid fan leˊ moˇ?"}
     hl: {hanzi: "好食飯了無？", pinyin: "hoˊ shidˋ pon+ leˋ mo?"}
-  - n: 13
+  - n: 17
     speaker: Sam
     en: "Ready! Dinner's served!"
     sx: {hanzi: "好了！好食飯了！", pinyin: "hoˋ leˊ! hoˋ siid fan leˊ!"}
     hl: {hanzi: "好了！好食飯了！", pinyin: "hoˊ leˋ! hoˊ shidˋ pon+ leˋ!"}
-  - n: 14
+  - n: 18
     speaker: 阿公
     en: "(at the table, after the first mouthful) …Good."
     sx: {hanzi: "……好食。", pinyin: "… hoˋ siid."}
     hl: {hanzi: "……好食。", pinyin: "… hoˊ shidˋ."}
-  - n: 15
+  - n: 19
     speaker: 阿婆
     en: "Grandpa says it's good! He doesn't say that three times a year!"
     sx: {hanzi: "阿公講好食！佢一年講無三擺！", pinyin: "aˊ gungˊ gongˋ hoˋ siid! giˇ idˋ ngienˇ gongˋ moˇ samˊ baiˋ!"}
     hl: {hanzi: "阿公講好食！佢一年講無三擺！", pinyin: "a+ gungˋ gongˊ hoˊ shidˋ! gi rhid ngien gongˊ mo samˋ baiˊ!"}
-  - n: 16
+  - n: 20
     speaker: 阿英
-    en: "Thank you, Sam. This is the best 粄條 I've ever had."
-    sx: {hanzi: "Sam，恁仔細。這係𠊎食過盡好食个粄條。", pinyin: "Sam, anˋ ziiˋ se. iaˋ he ngaiˇ siid go qin hoˋ siid ge banˋ tiauˇ."}
-    hl: {hanzi: "Sam，承蒙你。這係𠊎食過最好食个粄條。", pinyin: "Sam, shin mung ngi. liaˊ heˇ ngai shidˋ goˇ zuiˇ hoˊ shidˋ gaiˇ banˊ tiau."}
-  - n: 17
+    en: "Thank you, Sam. This is the best 粄條 I've ever had. Tonight we celebrate!"
+    sx: {hanzi: "Sam，恁仔細。這係𠊎食過盡好食个粄條。今暗晡大家來慶祝！", pinyin: "Sam, anˋ ziiˋ se. iaˋ he ngaiˇ siid go qin hoˋ siid ge banˋ tiauˇ. gimˊ am buˊ tai gaˊ loiˇ kin zugˋ!"}
+    hl: {hanzi: "Sam，承蒙你。這係𠊎食過盡好食个粄條。今暗晡大家來慶祝！", pinyin: "Sam, shin mung ngi. liaˊ heˇ ngai shidˋ goˇ cin+ hoˊ shidˋ gaiˇ banˊ tiau. gimˋ amˇ buˋ tai+ gaˋ loi kinˇ zhug!"}
+  - n: 21
     speaker: 阿明
     en: "(muttering into his bowl) Mine was good too…"
     sx: {hanzi: "𠊎煮个乜當好食……", pinyin: "ngaiˇ zuˋ ge me dongˊ hoˋ siid …"}
@@ -102,8 +124,8 @@ notes:
     topic: grammar
     text: >
       摎 + object + verb + result + 來 "get the thing done (this way)": 摎豬肉切絲來 "cut the pork into strips", as in the
-      official 𠊎摎豬肉切絲來炒青菜. 摎 lauˊ (lesson 40) here takes the thing handled, like Mandarin 把: 摎面洗淨來 "wash
-      your face clean" is another official example. 絲 siiˊ "strip, thread".
+      official sentence, which in Sixian reads 𠊎同豬肉切絲來炒青菜 (the Hailu version has 摎). Sixian uses both 同 and
+      摎 (lesson 40); here they take the thing handled, like Mandarin 把. 絲 siiˊ "strip, thread".
   - ref: 4
     topic: grammar
     text: >
@@ -113,13 +135,13 @@ notes:
   - ref: 6
     topic: grammar
     text: >
-      An official example, almost word for word (the course leaves out 斯 "then"): 這鑊仔燒燒，你斯愛細義，毋好凴著哦！. 燒燒 "piping hot" (AA, lesson 45);
+      An official example, word for word in each accent: Sixian 這鑊仔燒燒，你斯愛細義，莫凴著哦！, Hailu …毋好凴著哦！. 斯 "then, so" (lesson 65). 燒燒 "piping hot" (AA, lesson 45);
       細義 se ngi "careful"; 凴著 ben doˋ "lean on (it) by accident"; 哦 (lesson 74) makes it a friendly warning.
   - ref: 7
     topic: grammar
     text: >
       先…，正… "first…, and only then…": 蔥仔炒香，正放豬肉落去 "fry the onions till fragrant, then put the pork in", after
-      the official 蔥仔炒香正放卵落去. 落去 log hi "in, down into (it)" after a verb of putting. 落油 "put the oil in".
+      the official 蔥仔炒香了正放卵落去 (Sixian; the Hailu version reads 蔥仔炒香正放卵). 落去 log hi "in, down into (it)" after a verb of putting. 落油 "put the oil in".
   - ref: 9
     topic: vocab
     text: >
@@ -129,22 +151,23 @@ notes:
     topic: grammar
     text: >
       堵堵好 (lesson 50) "just right": 錢愛算到堵堵好 is an official example. Don't confuse it with 堵好 "as it happens, by chance".
-  - ref: 12
+  - ref: 16
     topic: grammar
     text: >
       好食飯了 "dinner's ready", literally "(we) can eat now": 好 + verb again (line 4), here with 了 for the change. 好食飯了，
       𠊎來摎大家添飯 is official.
-  - ref: 11
+  - ref: 15
     topic: vocab
     text: >
       鼻 pi "smell (something)": the same word as "nose" (鼻公, lesson 24), used as a verb. 遠遠就鼻著了 "you can smell it
-      from far off" follows the official 味緒實在香，遠遠就鼻著了！ In the exercises: Hailu says 炊 for 蒸 "steam" (lesson 50).
-  - ref: 15
+      from far off" follows the official 味緒實在香，遠遠就鼻著了！ 蒸 "steam" (line 13): Hailu often says 炊 (lesson 50), and so does
+      Sixian (20 Sixian examples, 22 Hailu).
+  - ref: 19
     topic: grammar
     text: >
       一年講無三擺 "doesn't say it three times a year": 無 + number + 擺, "not even… times", as in the official
-      吾哥在海外做生理，一年轉無三擺.
-  - ref: 16
+      吾哥在海外做生理，一年轉無三擺 (Hailu has 𠊎哥 for 吾哥).
+  - ref: 20
     topic: grammar
     text: >
       𠊎食過盡好食个粄條 "the best 粄條 I've ever had": 食過 "have eaten (in my experience)" + 盡 "most". Elsewhere 盡 is "very"

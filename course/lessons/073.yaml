@@ -40,13 +40,13 @@ dialogue:
     speaker: 鍾伯
     en: "Hardly anyone. In the old days everyone grew it; now the barns have all gone empty."
     sx: {hanzi: "盡少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "qin seuˋ leˊ. teuˇ baiˋ tai gaˊ du zung, iaˋ ha ienˊ leuˇ du kungˊ tedˋ hi leˊ."}
-    hl: {hanzi: "最少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "zuiˇ shauˊ leˋ. teu baiˊ tai+ gaˋ du+ zhungˇ, liaˊ ha+ rhanˋ leu du+ kungˋ ted hiˇ leˋ."}
+    hl: {hanzi: "盡少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "cin+ shauˊ leˋ. teu baiˊ tai+ gaˋ du+ zhungˇ, liaˊ ha+ rhanˋ leu du+ kungˋ ted hiˇ leˋ."}
     check: true
   - n: 7
     speaker: 鍾伯姆
-    en: "(catching up) The young people all go off to work elsewhere. In the countryside it's mostly old folk."
-    sx: {hanzi: "後生人都出外食頭路，鄉下大部分係老人家。", pinyin: "heu sangˊ nginˇ du cudˋ ngoi siid teuˇ lu, hiongˊ ha tai pu fun he loˋ nginˇ gaˊ."}
-    hl: {hanzi: "後生人都出外食頭路，鄉下大部分係老人家。", pinyin: "heu+ sangˋ ngin du+ chud ngoi+ shidˋ teu lu+, hiongˋ ha+ tai+ pu+ fun+ heˇ loˊ ngin gaˋ."}
+    en: "(catching up) The young people all go off to work elsewhere. In the countryside it's mostly old folk, and they help one another."
+    sx: {hanzi: "後生人都出外食頭路，鄉下大部分係老人家，大家互相𢯭手。", pinyin: "heu sangˊ nginˇ du cudˋ ngoi siid teuˇ lu, hiongˊ ha tai pu fun he loˋ nginˇ gaˊ, tai gaˊ fu xiongˊ ten suˋ."}
+    hl: {hanzi: "後生人都出外食頭路，鄉下大部分係老人家，大家互相𢯭手。", pinyin: "heu+ sangˋ ngin du+ chud ngoi+ shidˋ teu lu+, hiongˋ ha+ tai+ pu+ fun+ heˇ loˊ ngin gaˋ, tai+ gaˋ fu+ siongˋ tenˇ shiuˊ."}
   - n: 8
     speaker: Sam
     en: "美濃 has become so quiet…"
@@ -58,26 +58,42 @@ dialogue:
     sx: {hanzi: "係較安靜，毋過也較靚了。這下有人專門來看菸樓、翕相。", pinyin: "he ka onˊ qin, mˇ go ia ka jiangˊ leˊ. iaˋ ha iuˊ nginˇ zonˊ munˇ loiˇ kon ienˊ leuˇ, hibˋ xiong."}
     hl: {hanzi: "係較安靜，毋過也較靚了。這下有人專門來看菸樓、翕相。", pinyin: "heˇ haˇ onˋ cin+, m goˇ rha+ haˇ ziangˋ leˋ. liaˊ ha+ rhiuˋ ngin zhonˋ mun loi konˇ rhanˋ leu, hib siongˇ."}
   - n: 10
+    speaker: Sam
+    en: "That tall thing on the roof: is it a chimney?"
+    sx: {hanzi: "屋頂高高該隻，係煙囪係無？", pinyin: "vugˋ dangˋ goˊ goˊ ge zagˋ, he ienˊ cungˊ he moˇ?"}
+    hl: {hanzi: "屋頂高高該隻，係煙囪係無？", pinyin: "vug dangˊ goˋ goˋ gai zhag, heˇ rhanˋ cungˋ heˇ mo?"}
+    check: true
+  - n: 11
+    speaker: 鍾伯
+    en: "It is. Some of the old barns have been pulled down, but you can still see them by the roads and at the edges of the fields."
+    sx: {hanzi: "係。有兜舊菸樓拆忒了，毋過路脣、田脣還看得著。", pinyin: "he. iuˊ deuˊ kiu ienˊ leuˇ cagˋ tedˋ leˊ, mˇ go lu sunˇ, tienˇ sunˇ hanˇ kon dedˋ doˋ."}
+    hl: {hanzi: "係。有兜舊菸樓拆忒了，毋過路脣、田脣還看得著。", pinyin: "heˇ. rhiuˋ deuˋ kiu+ rhanˋ leu cag ted leˋ, m goˇ lu+ shun, tien shun han konˇ ded doˊ."}
+  - n: 12
+    speaker: 阿英
+    en: "That's 美濃's history."
+    sx: {hanzi: "這就係美濃个歷史。", pinyin: "iaˋ qiu he mi nungˇ ge lid siiˋ."}
+    hl: {hanzi: "這就係美濃个歷史。", pinyin: "liaˊ ciu+ heˇ mi nung gaiˇ lidˋ siiˊ."}
+  - n: 13
     speaker: 鍾伯
     en: "(pointing across a field) Over that way is where 鍾理和 lived. He was a famous writer."
     sx: {hanzi: "該片係鍾理和頭擺歇个屋仔。鍾理和先生係臺灣大名鼎鼎个文學家。", pinyin: "ge pienˋ he zungˊ liˊ foˇ teuˇ baiˋ hed ge vugˋ eˇ. zungˊ liˊ foˇ xinˊ sangˊ he toiˇ vanˇ tai miangˇ dinˋ dinˋ ge vunˇ hog gaˊ."}
     hl: {hanzi: "該片係鍾理和頭擺歇个屋仔。鍾理和先生係臺灣大名鼎鼎个文學家。", pinyin: "gai pienˊ heˇ zhungˋ liˋ vo teu baiˊ hied gaiˇ vug er. zhungˋ liˋ vo sinˋ sangˋ heˇ toi van tai+ miang dinˊ dinˊ gaiˇ vun hogˋ gaˋ."}
-  - n: 11
+  - n: 14
     speaker: Sam
     en: "Was he from 美濃?"
     sx: {hanzi: "佢係美濃人？", pinyin: "giˇ he mi nungˇ nginˇ?"}
     hl: {hanzi: "佢係美濃人？", pinyin: "gi heˇ mi nung ngin?"}
-  - n: 12
+  - n: 15
     speaker: 鍾伯
     en: "He was. He wrote about our life here, the farming families' life."
     sx: {hanzi: "係。佢寫𠊎等美濃人个生活，耕田人个生活。", pinyin: "he. giˇ xiaˋ ngaiˇ denˋ mi nungˇ nginˇ ge senˊ fad, gangˊ tienˇ nginˇ ge senˊ fad."}
     hl: {hanzi: "係。佢寫𠊎兜美濃人个生活，耕田人个生活。", pinyin: "heˇ. gi siaˊ ngai deuˋ mi nung ngin gaiˇ senˋ fadˋ, gangˋ tien ngin gaiˇ senˋ fadˋ."}
-  - n: 13
+  - n: 16
     speaker: 阿英
     en: "(looking at her phone) Oh! Today's Mother's Day. I must call Mum."
     sx: {hanzi: "啊，今晡日係母親節！𠊎愛打電話分吾姆。", pinyin: "a, gimˊ buˊ ngidˋ he muˊ qinˊ jiedˋ! ngaiˇ oi daˋ tien fa bunˊ ngaˊ meˊ."}
     hl: {hanzi: "啊，今晡日係母親節！𠊎愛打電話分𠊎姆。", pinyin: "a+, gimˋ buˋ ngid heˇ muˋ cinˋ zied! ngai oiˇ daˊ tien+ faˇ bunˋ ngai meˋ."}
-  - n: 14
+  - n: 17
     speaker: 阿英
     en: "(on the phone) Mum, happy Mother's Day! …What did I buy you? I'm not telling. You'll see when I'm home!"
     sx: {hanzi: "阿姆，母親節快樂！……買麼个東西？毋講，轉來正知！", pinyin: "aˊ meˊ, muˊ qinˊ jiedˋ kuai log! … maiˊ maˋ ge dungˊ xiˊ? mˇ gongˋ, zonˋ loiˇ zang diˊ!"}
@@ -104,7 +120,8 @@ notes:
       頭擺… 這下… "in the old days… now…": the two time words set up a contrast, as in the official 頭擺个人用水無像這下恁方便
       "in the old days, water wasn't as easy to get as it is now". 空忒去 "has gone empty": adjective + 忒去, "has become
       (and stayed)…", here with 忒 (gone) and 去 (away). The official examples have 忒去 mostly after verbs (食忒去, 倒忒去);
-      after an adjective the line is marked for checking.
+      after an adjective the line is marked for checking. 盡少 "very few": 盡 is "very" here, as often as "most" (lesson
+      8); Hailu says 盡少 too (16 examples, against one 最少).
   - ref: 7
     topic: vocab
     text: >
@@ -115,12 +132,12 @@ notes:
     text: >
       變到恁安靜 "has become so quiet": 變到 + 恁 + adjective, "has turned so…", as in the official 一轉到春尾就變到恁燒暖
       "as soon as it's late spring it turns so warm".
-  - ref: 10
+  - ref: 13
     topic: culture
     text: >
       鍾理和先生係臺灣大名鼎鼎个文學家 is an official example, word for word. 大名鼎鼎 "of great renown", a four-character
       phrase. That 鍾理和 (1915–1960) came from 美濃 and wrote about its farming life is general knowledge.
-  - ref: 14
+  - ref: 17
     topic: grammar
     text: >
       轉來正知 "you'll know when you're… when I'm back": 正 "only then" (lesson 24). The umbrella of lesson 72 is the
@@ -137,6 +154,7 @@ new_words:
   - {hanzi: 大名鼎鼎, pinyin: "tai miangˇ dinˋ dinˋ", en: "very famous", hl: {hanzi: 大名鼎鼎, pinyin: "tai+ miang dinˊ dinˊ"}}
   - {hanzi: 臺灣, pinyin: "toiˇ vanˇ", en: "Taiwan", hl: {hanzi: 臺灣, pinyin: "toi van"}}
   - {hanzi: 耕田人, pinyin: "gangˊ tienˇ nginˇ", en: "farmer", hl: {hanzi: 耕田人, pinyin: "gangˋ tien ngin"}}
+  - {hanzi: 後生人, pinyin: "heu sangˊ nginˇ", en: "young people", hl: {hanzi: 後生人, pinyin: "heu+ sangˋ ngin"}}
   - {hanzi: 拆, pinyin: "cagˋ", en: "pull down, take apart", hl: {hanzi: 拆, pinyin: "cag"}}
   - {hanzi: 煙囪, pinyin: "ienˊ cungˊ", en: "chimney", hl: {hanzi: 煙囪, pinyin: "rhanˋ cungˋ"}}
   - {hanzi: 外, pinyin: "ngoi", en: "outside, away (出外)", hl: {hanzi: 外, pinyin: "ngoi+"}}

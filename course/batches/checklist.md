@@ -113,3 +113,12 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - 一開始 "at the start"; never 頭先 (= "just now").
 - Before writing "not in the data", check the MOE definitions too (五月雪 is in the 桐花 entry).
 - Keep a story decision for the lesson the brief gives it (A-in's job: the interview in 75, so 68–70 only decide to go).
+
+## Added after the batch 11 review
+- Sam calls Mrs Liu 伯姆, never 阿姆 (阿姆 is "Mum", for A-in and A-min only).
+- An official sentence often differs between accents (同 / 摎, 莫 / 毋好, 了 / none): quote each accent's own version.
+- Southern Sixian (美濃, 六堆): use the 176 parallel sentences, `sentence.accent='south-sixian'`, before the brackets.
+- "Young people" is 後生人 (年輕人 has no examples).
+- Sentence-final 哦 is oˊ (MOE 勸誡 sense); 呢 neˇ and noˋ are free variants in Sixian.
+- 姐婆 is the maternal grandmother (外婆), not Grandma's mother.
+- Hailu also says 盡 for "very" (盡少, 盡想你呢); don't swap it for 最 in the Hailu column.

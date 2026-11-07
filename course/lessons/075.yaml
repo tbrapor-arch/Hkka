@@ -13,20 +13,19 @@ names: [彭主任, 黃先生, 劉小姐, 劉英, 阿英, 苗栗, 美濃, 六堆]
 dialogue:
   - n: 1
     speaker: 彭主任
-    en: "Miss Liu, please sit down. Have you had lunch? …Ah no, it's only ten. Have you eaten this morning?"
-    sx: {hanzi: "劉小姐，請坐。朝晨食過了無？", pinyin: "lauˇ seuˋ jiˋ, qiangˋ coˊ. zeuˊ siinˇ siid go leˊ moˇ?"}
-    hl: {hanzi: "劉小姐，請坐。朝晨食過了無？", pinyin: "liu siauˊ ziˊ, ciangˊ coˋ. zhauˋ shin shidˋ goˇ leˋ mo?"}
-    check: true
+    en: "Miss Liu, please sit down. Have you eaten?"
+    sx: {hanzi: "劉小姐，請坐。食飽吂？", pinyin: "lauˇ seuˋ jiˋ, qiangˋ coˊ. siid bauˋ mangˇ?"}
+    hl: {hanzi: "劉小姐，請坐。食飽吂？", pinyin: "liu siauˊ ziˊ, ciangˊ coˋ. shidˋ bauˊ mang?"}
   - n: 2
     speaker: 阿英
-    en: "I have, thank you."
-    sx: {hanzi: "食過了。恁仔細。", pinyin: "siid go leˊ. anˋ ziiˋ se."}
-    hl: {hanzi: "食過了。承蒙你。", pinyin: "shidˋ goˇ leˋ. shin mung ngi."}
+    en: "I have, thank you, sir."
+    sx: {hanzi: "食過了。恁仔細，主任。", pinyin: "siid go leˊ. anˋ ziiˋ se, zuˋ im."}
+    hl: {hanzi: "食過了。承蒙你，主任。", pinyin: "shidˋ goˇ leˋ. shin mung ngi, zhuˊ rhim+."}
   - n: 3
     speaker: 彭主任
-    en: "Then first, would you introduce yourself?"
-    sx: {hanzi: "先請你紹介自家。", pinyin: "xienˊ qiangˋ nˇ seu gie qi gaˊ."}
-    hl: {hanzi: "先請你紹介自家。", pinyin: "senˋ ciangˊ ngi shauˇ gaiˇ cid gaˋ."}
+    en: "I've read your CV. Then first, would you introduce yourself?"
+    sx: {hanzi: "你个履歷𠊎看過了。先請你紹介自家。", pinyin: "nˇ ge liˊ lid ngaiˇ kon go leˊ. xienˊ qiangˋ nˇ seu gie qi gaˊ."}
+    hl: {hanzi: "你个履歷𠊎看過了。先請你紹介自家。", pinyin: "ngi gaiˇ liˋ lidˋ ngai konˇ goˇ leˋ. senˋ ciangˊ ngi shauˇ gaiˇ cid gaˋ."}
   - n: 4
     speaker: 阿英
     en: "My name is Liu Ying; I'm from 苗栗. At university I studied literature, and I've worked for three years for a company in Taipei."
@@ -39,9 +38,9 @@ dialogue:
     hl: {hanzi: "你對客家文化有麼个想法？", pinyin: "ngi duiˇ hag gaˋ vun faˇ rhiuˋ maˊ gaiˇ siongˊ fab?"}
   - n: 6
     speaker: 阿英
-    en: "Hakka culture isn't only in museums. It's in people's homes. My grandmother makes 粄 every year and sings mountain songs; my grandfather grows tea."
-    sx: {hanzi: "客家文化毋係淨在博物館肚，係在大家个屋下。吾婆逐年做粄、唱山歌；吾公種茶。", pinyin: "hagˋ gaˊ vunˇ fa mˇ he qiang coiˊ bogˋ vud gonˋ duˋ, he coiˊ tai gaˊ ge vugˋ kaˊ. ngaˊ poˇ dagˋ ngienˇ zo banˋ, cong sanˊ goˊ; ngaˊ gungˊ zung caˇ."}
-    hl: {hanzi: "客家文化毋係淨在博物館肚，係在大家个屋下。𠊎阿婆逐年做粄、唱山歌；𠊎阿公種茶。", pinyin: "hag gaˋ vun faˇ m heˇ ciang+ coiˋ bog vudˋ gonˊ duˊ, heˇ coiˋ tai+ gaˋ gaiˇ vug haˋ. ngai a+ po dag ngien zoˇ banˊ, chongˇ sanˋ goˋ; ngai a+ gungˋ zhungˇ ca."}
+    en: "Hakka culture isn't only in museums. It's in people's homes. My grandmother makes 粄 every year; my grandfather grows tea, and in the old days sang mountain songs in the tea garden."
+    sx: {hanzi: "客家文化毋係淨在博物館肚，係在大家个屋下。吾婆逐年做粄；吾公種茶，頭擺在茶園唱山歌。", pinyin: "hagˋ gaˊ vunˇ fa mˇ he qiang coiˊ bogˋ vud gonˋ duˋ, he coiˊ tai gaˊ ge vugˋ kaˊ. ngaˊ poˇ dagˋ ngienˇ zo banˋ; ngaˊ gungˊ zung caˇ, teuˇ baiˋ coiˊ caˇ ienˇ cong sanˊ goˊ."}
+    hl: {hanzi: "客家文化毋係淨在博物館肚，係在大家个屋下。𠊎阿婆逐年做粄；𠊎阿公種茶，頭擺在茶園唱山歌。", pinyin: "hag gaˋ vun faˇ m heˇ ciang+ coiˋ bog vudˋ gonˊ duˊ, heˇ coiˋ tai+ gaˋ gaiˇ vug haˋ. ngai a+ po dag ngien zoˇ banˊ; ngai a+ gungˋ zhungˇ ca, teu baiˊ coiˋ ca rhan chongˇ sanˋ goˋ."}
   - n: 7
     speaker: 黃先生
     en: "Have you ever been to 六堆?"
@@ -53,41 +52,54 @@ dialogue:
     sx: {hanzi: "有。上禮拜正去過美濃，看過菸樓、紙遮仔，乜聽過南部个口音。", pinyin: "iuˊ. song liˊ bai zang hi go mi nungˇ, kon go ienˊ leuˇ, ziiˋ zaˊ eˋ, me tangˊ go namˇ pu ge kieuˋ imˊ."}
     hl: {hanzi: "有。上禮拜正去過美濃，看過菸樓、紙遮仔，乜聽過南部个口音。", pinyin: "rhiuˋ. shong+ liˋ baiˇ zhangˇ hiˇ goˇ mi nung, konˇ goˇ rhanˋ leu, zhiˊ zhaˋ er, meˇ tangˋ goˇ nam pu+ gaiˇ kieuˊ rhimˋ."}
   - n: 9
+    speaker: 黃先生
+    en: "This is a public-sector job: organising events, sorting out records, and promoting the Hakka language to young people."
+    sx: {hanzi: "這隻頭路係公家个：辦活動、整理資料，向後生人推廣客家語言。", pinyin: "iaˋ zagˋ teuˇ lu he gungˊ gaˊ ge: pan fad tung, ziinˋ liˊ ziiˊ liau, hiong heu sangˊ nginˇ tuiˊ gongˋ hagˋ gaˊ ngiˊ ngienˇ."}
+    hl: {hanzi: "這隻頭路係公家个：辦活動、整理資料，向後生人推廣客家語言。", pinyin: "liaˊ zhag teu lu+ heˇ gungˋ gaˋ gaiˇ: pan+ fadˋ tungˋ, zhinˊ liˋ ziiˋ liau+, hiongˇ heu+ sangˋ ngin tuiˋ gongˊ hag gaˋ ngiˋ ngien."}
+    check: true
+  - n: 10
+    speaker: 阿英
+    en: "I have a plan: to preserve my grandmother's mountain songs and use them to teach young people."
+    sx: {hanzi: "𠊎有一隻計畫：保存阿婆个山歌，拿來教後生人。", pinyin: "ngaiˇ iuˊ idˋ zagˋ gie vag: boˋ sunˇ aˊ poˇ ge sanˊ goˊ, naˊ loiˇ gauˊ heu sangˊ nginˇ."}
+    hl: {hanzi: "𠊎有一隻計畫：保存阿婆个山歌，拿來教後生人。", pinyin: "ngai rhiuˋ rhid zhag gieˇ vagˋ: boˊ sun a+ po gaiˇ sanˋ goˋ, naˋ loi gauˋ heu+ sangˋ ngin."}
+    check: true
+  - n: 11
     speaker: 彭主任
     en: "If we took you on, when could you start?"
     sx: {hanzi: "若係請你來，你幾時做得上班？", pinyin: "na he qiangˋ nˇ loiˇ, nˇ giˋ siiˇ zo dedˋ songˊ banˊ?"}
     hl: {hanzi: "若係請你來，你幾時做得上班？", pinyin: "na+ heˇ ciangˊ ngi loi, ngi giˊ shi zoˇ ded shongˋ banˋ?"}
-  - n: 10
+  - n: 12
     speaker: 阿英
     en: "Next month."
     sx: {hanzi: "下隻月就做得。", pinyin: "ha zagˋ ngied qiu zo dedˋ."}
     hl: {hanzi: "下隻月就做得。", pinyin: "ha+ zhag ngiedˋ ciu+ zoˇ ded."}
-  - n: 11
+  - n: 13
     speaker: 彭主任
-    en: "Good. We'll let you know. Thank you."
-    sx: {hanzi: "好。𠊎兜會通知你。恁仔細。", pinyin: "hoˋ. ngaiˇ deuˊ voi tungˊ diˊ nˇ. anˋ ziiˋ se."}
-    hl: {hanzi: "好。𠊎兜會通知你。承蒙你。", pinyin: "hoˊ. ngai deuˋ voi+ tungˋ diˋ ngi. shin mung ngi."}
-  - n: 12
+    en: "Good. Fill in this form first, and we'll let you know. Thank you."
+    sx: {hanzi: "好。這張表你先填好，𠊎兜會通知你。恁仔細。", pinyin: "hoˋ. iaˋ zongˊ beuˋ nˇ xienˊ tienˇ hoˋ, ngaiˇ deuˊ voi tungˊ diˊ nˇ. anˋ ziiˋ se."}
+    hl: {hanzi: "好。這張表你先填好，𠊎兜會通知你。承蒙你。", pinyin: "hoˊ. liaˊ zhongˋ biauˊ ngi senˋ tien hoˊ, ngai deuˋ voi+ tungˋ diˋ ngi. shin mung ngi."}
+  - n: 14
     speaker: 阿婆
     en: "(at home, four in the afternoon) The phone's ringing! A-in, it's for you!"
     sx: {hanzi: "電話響了！阿英，你个！", pinyin: "tien fa hiongˋ leˊ! aˊ inˊ, nˇ ge!"}
     hl: {hanzi: "電話響了！阿英，你个！", pinyin: "tien+ faˇ hiongˊ leˋ! a+ rhinˋ, ngi gaiˇ!"}
-  - n: 13
+  - n: 15
     speaker: 阿英
-    en: "(putting the phone down, very calmly) I've had the notice to start work. I've passed the interview."
-    sx: {hanzi: "收著上班通知了。這擺个面試過關了。", pinyin: "suˊ doˋ songˊ banˊ tungˊ diˊ leˊ. iaˋ baiˋ ge mien cii go guanˊ leˊ."}
-    hl: {hanzi: "收著上班通知了。這擺个面試過關了。", pinyin: "shiuˋ doˊ shongˋ banˋ tungˋ diˋ leˋ. liaˊ baiˊ gaiˇ mienˇ chiˇ goˇ guanˋ leˋ."}
-  - n: 14
+    en: "(putting the phone down, very calmly) This afternoon I got the notice to start work. I've passed the interview."
+    sx: {hanzi: "下晝收著上班通知，這擺个面試過關哩。", pinyin: "haˊ zu suˊ doˋ songˊ banˊ tungˊ diˊ, iaˋ baiˋ ge mien cii go guanˊ leˊ."}
+    hl: {hanzi: "下晝收著上班通知，這擺个面試過關哩。", pinyin: "haˋ zhiuˇ shiuˋ doˊ shongˋ banˋ tungˋ diˋ, liaˊ baiˊ gaiˇ mienˇ chiˇ goˇ guanˋ li+."}
+    source: kaga115
+  - n: 16
     speaker: Sam
     en: "Congratulations! So you're coming back to Miaoli!"
     sx: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˊ hiˋ! anˋ ngiongˇ nˇ oi zonˋ loiˇ meuˇ lidˋ leˊ!"}
     hl: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˋ hiˊ! an ngiong ngi oiˇ zhonˊ loi miau lid leˋ!"}
-  - n: 15
+  - n: 17
     speaker: 阿英
     en: "I am. I've decided: I'm taking it."
     sx: {hanzi: "係。𠊎決定了，𠊎愛去。", pinyin: "he. ngaiˇ giedˋ tin leˊ, ngaiˇ oi hi."}
     hl: {hanzi: "係。𠊎決定了，𠊎愛去。", pinyin: "heˇ. ngai gied tin+ leˋ, ngai oiˇ hiˇ."}
-  - n: 16
+  - n: 18
     speaker: 阿婆
     en: "Grandma's not interfering… but Grandma's very happy!"
     sx: {hanzi: "阿婆毋管……毋過阿婆當歡喜！", pinyin: "aˊ poˇ mˇ gonˋ … mˇ go aˊ poˇ dongˊ fonˊ hiˋ!"}
@@ -97,10 +109,11 @@ notes:
   - ref: 1
     topic: grammar
     text: >
-      食過了無？ "have you eaten?": 過 after a verb marks something done and finished (食過飯了 "has had a meal"), as in the
-      official example 阿公頭先食過飯咧 "Grandpa ate a moment ago". It is the polite opener even in an office. 劉小姐
+      食飽吂？ "have you eaten?" (lesson 3), the greeting MOE files as 見面招呼語: it is the polite opener even in an
+      office. In A-in's answer, 食過了 "I have (eaten)", 過 after a verb marks something done and finished (食過飯了
+      "has had a meal"), as in the official Sixian example 阿公頭先食過飯吔 "Grandpa ate a moment ago". 劉小姐
       "Miss Liu" is how a stranger addresses her (小姐 is not in the word lists; the course treats the title as part of
-      the name). The line is marked for checking.
+      the name). 主任 zuˋ im "director, head (of an office)".
   - ref: 4
     topic: grammar
     text: >
@@ -110,8 +123,8 @@ notes:
   - ref: 6
     topic: grammar
     text: >
-      毋係淨…，係… "not only…, but…": 淨 (lesson 46) "only". 吾婆, 吾公 "my grandmother, my grandfather": in front of
-      strangers A-in uses the possessive kin terms of lesson 2 (吾 + kin, no 个). The Hailu line says 𠊎阿婆, as Hailu
+      毋係淨…，係… "not only…, but…": 淨 (lesson 46) "only". 吾婆, 吾公 "my grandmother, my grandfather": the possessive kin
+      terms of lesson 2 (吾 + kin, no 个), the usual way to say it. The Hailu line says 𠊎阿婆, as Hailu
       does (lesson 2). 博物館 bogˋ vud gonˋ "museum".
   - ref: 7
     topic: grammar
@@ -119,13 +132,13 @@ notes:
       有 + verb + 過 "have ever…": 你有去過六堆無？ "have you ever been to 六堆?", answered 有 "yes, I have" or 無 "no".
       The 有 marks something that has actually happened (已然), the 過 that it is in your experience. Line 8 strings
       three of them: 去過, 看過, 聽過.
-  - ref: 13
+  - ref: 15
     topic: grammar
     text: >
-      An official example, almost word for word: 下晝收著上班通知，這擺个面試過關哩 "this afternoon he got the notice to
+      An official example, word for word: 下晝收著上班通知，這擺个面試過關哩 "this afternoon he got the notice to
       start: he'd passed the interview". 過關 "get through, pass" (literally "pass the barrier"); 通知 "notice; notify"
-      (line 11).
-  - ref: 15
+      (line 13). 哩 here is the same as 了.
+  - ref: 17
     topic: culture
     text: >
       The decision is A-in's, and she makes it the moment the phone call ends. Grandma, true to lesson 42, does not
@@ -133,6 +146,8 @@ notes:
 
 new_words:
   - {hanzi: 請坐, pinyin: "qiangˋ coˊ", en: "please sit down", hl: {hanzi: 請坐, pinyin: "ciangˊ coˋ"}}
+  - {hanzi: 整理, pinyin: "ziinˋ liˊ", en: "sort out, put in order", hl: {hanzi: 整理, pinyin: "zhinˊ liˋ"}}
+  - {hanzi: 哩, pinyin: "leˊ", en: "(at the end) = 了", hl: {hanzi: 哩, pinyin: "li+"}}
   - {hanzi: 主任, pinyin: "zuˋ im", en: "director, head (of a section)", hl: {hanzi: 主任, pinyin: "zhuˊ rhim+"}}
   - {hanzi: 大學, pinyin: "tai hog", en: "university", hl: {hanzi: 大學, pinyin: "tai+ hogˋ"}}
   - {hanzi: 博物館, pinyin: "bogˋ vud gonˋ", en: "museum", hl: {hanzi: 博物館, pinyin: "bog vudˋ gonˊ"}}
@@ -147,7 +162,6 @@ new_words:
   - {hanzi: 履歷, pinyin: "liˊ lid", en: "CV, record", hl: {hanzi: 履歷, pinyin: "liˋ lidˋ"}}
   - {hanzi: 填, pinyin: "tienˇ", en: "fill in", hl: {hanzi: 填, pinyin: "tien"}}
   - {hanzi: 表, pinyin: "beuˋ", en: "form, table", hl: {hanzi: 表, pinyin: "biauˊ"}}
-  - {hanzi: 年輕, pinyin: "ngienˇ kiangˊ", en: "young", hl: {hanzi: 年輕, pinyin: "ngien kiangˋ"}}
   - {hanzi: 吾公, pinyin: "ngaˊ gungˊ", en: "my grandfather", hl: {hanzi: 阿公, pinyin: "a+ gungˋ"}}
   - {hanzi: 吾婆, pinyin: "ngaˊ poˇ", en: "my grandmother", hl: {hanzi: 阿婆, pinyin: "a+ po"}}
   - {hanzi: 北, pinyin: "bedˋ", en: "north (臺北 Taipei)", hl: {hanzi: 北, pinyin: "bed"}}
@@ -164,8 +178,8 @@ exercises:
       sx: {hanzi: "你有去過客家博物館無？——無，毋識去過。", pinyin: "nˇ iuˊ hi go hagˋ gaˊ bogˋ vud gonˋ moˇ? — moˇ, mˇ siidˋ hi go."}
       hl: {hanzi: "你有去過客家博物館無？——無，毋識去過。", pinyin: "ngi rhiuˋ hiˇ goˇ hag gaˋ bog vudˋ gonˊ mo? — mo, m shid hiˇ goˇ."}
     - en: "The plan: preserve the Hakka language, and promote it among young people."
-      sx: {hanzi: "計畫係保存客家語言，向年輕人推廣。", pinyin: "gie vag he boˋ sunˇ hagˋ gaˊ ngiˊ ngienˇ, hiong ngienˇ kiangˊ nginˇ tuiˊ gongˋ."}
-      hl: {hanzi: "計畫係保存客家語言，向年輕人推廣。", pinyin: "gieˇ vagˋ heˇ boˊ sun hag gaˋ ngiˋ ngien, hiongˇ ngien kiangˋ ngin tuiˋ gongˊ."}
+      sx: {hanzi: "計畫係保存客家語言，向後生人推廣。", pinyin: "gie vag he boˋ sunˇ hagˋ gaˊ ngiˊ ngienˇ, hiong heu sangˊ nginˇ tuiˊ gongˋ."}
+      hl: {hanzi: "計畫係保存客家語言，向後生人推廣。", pinyin: "gieˇ vagˋ heˇ boˊ sun hag gaˋ ngiˋ ngien, hiongˇ heu+ sangˋ ngin tuiˋ gongˊ."}
       check: true
     - en: "She has worked for the government for a year, and organised many events."
       sx: {hanzi: "佢在公家做過一年，辦過當多活動。", pinyin: "giˇ coiˊ gungˊ gaˊ zo go idˋ ngienˇ, pan go dongˊ doˊ fad tung."}

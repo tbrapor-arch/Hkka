@@ -23,9 +23,9 @@ dialogue:
     hl: {hanzi: "當靚！係用麼个做个？", pinyin: "dongˋ ziangˋ! heˇ rhung+ maˊ gaiˇ zoˇ gaiˇ?"}
   - n: 3
     speaker: 林師傅
-    en: "Bamboo for the ribs, paper on top. Then you paint the flowers, and coat it with tung oil."
-    sx: {hanzi: "竹仔做骨，紙做面。畫好花，再過搽桐油。", pinyin: "zugˋ eˇ zo gudˋ, ziiˋ zo mien. fa hoˋ faˊ, zai go caˇ tungˇ iuˇ."}
-    hl: {hanzi: "竹仔做骨，紙做面。畫好花，再過搽桐油。", pinyin: "zhug er zoˇ gud, zhiˊ zoˇ mienˇ. fa+ hoˊ faˋ, zaiˇ goˇ ca tung rhiu."}
+    en: "Bamboo for the ribs, paper on top. Then you paint the flowers, and coat it with tung oil, boiled with charcoal: then the paper won't spoil."
+    sx: {hanzi: "竹仔做骨，紙做面。畫好花，再過搽桐油；桐油摎火炭共下煮，紙正毋會壞。", pinyin: "zugˋ eˇ zo gudˋ, ziiˋ zo mien. fa hoˋ faˊ, zai go caˇ tungˇ iuˇ; tungˇ iuˇ lauˊ foˋ tan kiung ha zuˋ, ziiˋ zang mˇ voi fai."}
+    hl: {hanzi: "竹仔做骨，紙做面。畫好花，再過搽桐油；桐油摎火炭共下煮，紙正毋會壞。", pinyin: "zhug er zoˇ gud, zhiˊ zoˇ mienˇ. fa+ hoˊ faˋ, zaiˇ goˇ ca tung rhiu; tung rhiu lauˋ foˊ tanˇ kiung+ ha+ zhuˊ, zhiˊ zhangˇ m voi+ fai+."}
     check: true
   - n: 4
     speaker: 阿英
@@ -41,12 +41,12 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "So in the old days, umbrellas were for keeping off the rain?"
-    sx: {hanzi: "頭擺个遮仔，係用來抵雨个係無？", pinyin: "teuˇ baiˋ ge zaˊ eˋ, he iung loiˇ daiˋ iˋ ge he moˇ?"}
+    sx: {hanzi: "頭擺个遮仔，係用來抵水个係無？", pinyin: "teuˇ baiˋ ge zaˊ eˋ, he iung loiˇ daiˋ suiˋ ge he moˇ?"}
     hl: {hanzi: "頭擺个遮仔，係用來抵水个係無？", pinyin: "teu baiˊ gaiˇ zhaˋ er, heˇ rhung+ loi diˊ shuiˊ gaiˇ heˇ mo?"}
   - n: 7
     speaker: 林師傅
     en: "Against the rain and the sun. Now, of all things, they've become works of art, for people to admire."
-    sx: {hanzi: "抵雨也抵日頭。這下嗄變成藝術品，分人欣賞。", pinyin: "daiˋ iˋ ia daiˋ ngidˋ teuˇ. iaˋ ha sa bien sangˇ ngi sud pinˋ, bunˊ nginˇ himˊ songˋ."}
+    sx: {hanzi: "抵水也抵日頭。這下嗄變成藝術品，分人欣賞。", pinyin: "daiˋ suiˋ ia daiˋ ngidˋ teuˇ. iaˋ ha sa bien sangˇ ngi sud pinˋ, bunˊ nginˇ himˊ songˋ."}
     hl: {hanzi: "抵水也抵日頭。這下嗄變成藝術品，分人欣賞。", pinyin: "diˊ shuiˊ rha+ diˊ ngid teu. liaˊ ha+ saˇ bienˇ shang ngi+ sudˋ pinˊ, bunˋ ngin hiunˋ shongˊ."}
   - n: 8
     speaker: 阿英
@@ -65,9 +65,9 @@ dialogue:
     hl: {hanzi: "一千二！蓋貴！", pinyin: "rhid cienˋ ngi+! goiˇ guiˇ!"}
   - n: 11
     speaker: 阿英
-    en: "(laughing) You've picked it up already!"
-    sx: {hanzi: "你學會了！", pinyin: "nˇ hog voi leˊ!"}
-    hl: {hanzi: "你學會了！", pinyin: "ngi hogˋ voi+ leˋ!"}
+    en: "(laughing) You've picked it up already! …All right, we'll just buy one."
+    sx: {hanzi: "你學會了！……好，𫣆買一枝就好。", pinyin: "nˇ hog voi leˊ! … hoˋ, enˊ maiˊ idˋ giˊ qiu hoˋ."}
+    hl: {hanzi: "你學會了！……好，𫣆買一枝就好。", pinyin: "ngi hogˋ voi+ leˋ! … hoˊ, enˋ maiˋ rhid giˋ ciu+ hoˊ."}
   - n: 12
     speaker: 鍾伯姆
     en: "(that evening, in the noodle shop) Two bowls of 面帕粄, and a plate of fried egg."
@@ -93,7 +93,8 @@ notes:
   - ref: 1
     topic: culture
     text: >
-      This line is an official example sentence, word for word: 油紙做个遮仔係美濃盡有名个手工藝. 手工藝 "handicraft":
+      This line is an official example sentence, word for word: 油紙做个遮仔係美濃盡有名个手工藝. 盡有名 "the most
+      famous": 盡 is "most" here, and just as often "very" (lesson 8). 手工藝 "handicraft":
       手 + 工藝 "craft". Another official sentence, about tung oil: 桐油摎火炭共下煮出來个烏油，係做紙遮仔當重要个材料
       "the black oil made by boiling tung oil with charcoal is an important material for paper umbrellas".
   - ref: 3
@@ -110,13 +111,15 @@ notes:
   - ref: 6
     topic: grammar
     text: >
-      用來 + verb "used for": 係用來抵雨个 "was used to keep off the rain". 抵 daiˋ "block, shield from" (Hailu diˊ),
-      a Hakka word: 抵雨, 抵日頭. In Hailu the rain is 水 (lesson 9), so 抵水.
+      用來 + verb "used for": 係用來抵水个 "was used to keep off the rain". 抵 daiˋ "block, shield from" (Hailu diˊ),
+      a Hakka word: 抵水, 抵日頭. 抵水 and 抵雨 both occur in Sixian (three examples each); Hailu has 抵水 only. The
+      official sentence (line 7) writes 抵水, with 雨 as a bracketed alternative.
   - ref: 7
     topic: grammar
     text: >
-      The official sentence: 油紙遮上早係用來抵雨也抵日頭个，這下嗄變成藝術品，分人欣賞哩. Here it is split between Sam
-      and the craftsman. 嗄 (lesson 41) "of all things": nobody expected an umbrella to end up in a museum. 變成 "become":
+      The official sentence: 油紙遮上早(頭擺)係用來抵水(雨)也(乜)抵日頭个，這下嗄變成藝術品，分人欣賞哩 (the brackets
+      give alternative words). Here it is split between Sam and the craftsman. 嗄 (lesson 41) "of all things": nobody
+      expected an umbrella to become a work of art. 變成 "become":
       變 (lesson 64) + 成. 藝術 "art" from lesson 67, + 品 "piece". 分人欣賞 "for people to admire": 分 + person + verb, "let someone…".
   - ref: 8
     topic: grammar
@@ -170,7 +173,7 @@ exercises:
     - en: "Mother's Day is coming: what are you going to buy for your mum?"
       sx: {hanzi: "母親節會到了，你愛買麼个東西送若姆？", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, nˇ oi maiˊ maˋ ge dungˊ xiˊ sung ngiaˊ meˊ?"}
       hl: {hanzi: "母親節會到了，你愛買麼个東西送若姆？", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngi oiˇ maiˋ maˊ gaiˇ dungˋ siˋ sungˇ ngia meˋ?"}
-    - en: "At New Year, Grandma's mother used to make rice cakes for us."
+    - en: "At New Year and at festivals, our maternal grandmother makes rice cakes for us."
       sx: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "go ngienˇ go jiedˋ, jiaˋ poˇ du voi zo banˋ eˋ bunˊ enˊ siid."}
       hl: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "goˇ ngien goˇ zied, ziaˊ po du+ voi+ zoˇ banˊ er bunˋ enˋ shidˋ."}
       source: kaga115

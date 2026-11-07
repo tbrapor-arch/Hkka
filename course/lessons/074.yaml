@@ -1,8 +1,8 @@
 id: 74
 title:
   en: "Phone call to Taipei"
-  sx: {hanzi: "你戇抑毋係？", pinyin: "nˇ ngong ia mˇ he?"}
-  hl: {hanzi: "你戇抑毋係？", pinyin: "ngi ngongˇ rha+ m heˇ?"}
+  sx: {hanzi: "你戇噹抑毋係？", pinyin: "nˇ ngong dong ia mˇ he?"}
+  hl: {hanzi: "你戇噹抑毋係？", pinyin: "ngi ngongˇ dongˇ rha+ m heˇ?"}
 review: false
 setting: >-
   Wednesday 12 May, half past nine in the evening. The Miaoli county office has called A-in for an interview (面試)
@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "Are you silly or what? Your own family is Hakka culture!"
-    sx: {hanzi: "你戇抑毋係？若屋下就係客家文化！", pinyin: "nˇ ngong ia mˇ he? ngiaˊ vugˋ kaˊ qiu he hagˋ gaˊ vunˇ fa!"}
-    hl: {hanzi: "你戇抑毋係？若屋下就係客家文化！", pinyin: "ngi ngongˇ rha+ m heˇ? ngia vug haˋ ciu+ heˇ hag gaˋ vun faˇ!"}
+    sx: {hanzi: "你戇噹抑毋係？若屋下就係客家文化！", pinyin: "nˇ ngong dong ia mˇ he? ngiaˊ vugˋ kaˊ qiu he hagˋ gaˊ vunˇ fa!"}
+    hl: {hanzi: "你戇噹抑毋係？若屋下就係客家文化！", pinyin: "ngi ngongˇ dongˇ rha+ m heˇ? ngia vug haˋ ciu+ heˇ hag gaˋ vun faˇ!"}
   - n: 7
     speaker: 阿英
     en: "(laughing at last) You… you're starting to talk more and more like Grandma."
@@ -50,13 +50,12 @@ dialogue:
     speaker: Sam
     en: "We haven't seen you for so long. Grandma misses you terribly, you know."
     sx: {hanzi: "恁久無看著你，阿婆盡想你呢。", pinyin: "anˋ giuˋ moˇ kon doˋ nˇ, aˊ poˇ qin xiongˋ nˇ noˋ."}
-    hl: {hanzi: "恁久無看著你，阿婆最想你呢。", pinyin: "anˊ giuˊ mo konˇ doˊ ngi, a+ po zuiˇ siongˊ ngi neˇ."}
+    hl: {hanzi: "恁久無看著你，阿婆盡想你呢。", pinyin: "anˊ giuˊ mo konˇ doˊ ngi, a+ po cin+ siongˊ ngi neˇ."}
   - n: 9
     speaker: 阿英
-    en: "It's only been a week! …Well, yes. I miss everyone too."
-    sx: {hanzi: "正一隻禮拜定定！……乜係。𠊎乜想大家。", pinyin: "zang idˋ zagˋ liˊ bai tin tin! … me he. ngaiˇ me xiongˋ tai gaˊ."}
-    hl: {hanzi: "正一隻禮拜定定！……乜係。𠊎乜想大家。", pinyin: "zhangˇ rhid zhag liˋ baiˇ tin+ tin+! … meˇ heˇ. ngai meˇ siongˊ tai+ gaˋ."}
-    check: true
+    en: "It's only been three days! …Well, yes. I miss everyone too."
+    sx: {hanzi: "正三日定定！……乜係。𠊎乜想大家。", pinyin: "zang samˊ ngidˋ tin tin! … me he. ngaiˇ me xiongˋ tai gaˊ."}
+    hl: {hanzi: "正三日定定！……乜係。𠊎乜想大家。", pinyin: "zhangˇ samˋ ngid tin+ tin+! … meˇ heˇ. ngai meˇ siongˊ tai+ gaˋ."}
   - n: 10
     speaker: Sam
     en: "I'll ask you questions, and you practise. …'Please introduce yourself.'"
@@ -75,7 +74,7 @@ dialogue:
   - n: 13
     speaker: Sam
     en: "Don't forget to take your diploma on Monday!"
-    sx: {hanzi: "禮拜一，畢業證書愛記得帶哦！", pinyin: "liˊ bai idˋ, bidˋ ngiab ziin suˊ oi gi dedˋ dai oˋ!"}
+    sx: {hanzi: "禮拜一，畢業證書愛記得帶哦！", pinyin: "liˊ bai idˋ, bidˋ ngiab ziin suˊ oi gi dedˋ dai oˊ!"}
     hl: {hanzi: "禮拜一，畢業證書愛記得帶哦！", pinyin: "liˋ baiˇ rhid, bid ngiabˋ zhinˇ shuˋ oiˇ giˇ ded daiˇ oˊ!"}
   - n: 14
     speaker: 阿英
@@ -88,21 +87,38 @@ dialogue:
     sx: {hanzi: "當好。毋過屋下無你，當安靜。", pinyin: "dongˊ hoˋ. mˇ go vugˋ kaˊ moˇ nˇ, dongˊ onˊ qin."}
     hl: {hanzi: "當好。毋過屋下無你，當安靜。", pinyin: "dongˋ hoˊ. m goˇ vug haˋ mo ngi, dongˋ onˋ cin+."}
   - n: 16
+    speaker: Sam
+    en: "On Monday, are you going to wear a suit?"
+    sx: {hanzi: "禮拜一，你愛著西裝無？", pinyin: "liˊ bai idˋ, nˇ oi zogˋ xiˊ zongˊ moˇ?"}
+    hl: {hanzi: "禮拜一，你愛著西裝無？", pinyin: "liˋ baiˇ rhid, ngi oiˇ zhog siˋ zongˋ mo?"}
+  - n: 17
+    speaker: 阿英
+    en: "Yes. For an interview you have to make a special effort."
+    sx: {hanzi: "愛。面試愛特別細義。", pinyin: "oi. mien cii oi tid pied se ngi."}
+    hl: {hanzi: "愛。面試愛特別細義。", pinyin: "oiˇ. mienˇ chiˇ oiˇ tidˋ piedˋ seˇ ngi+."}
+    check: true
+  - n: 18
+    speaker: Sam
+    en: "And on Saturday I'm cooking for everyone. I have to buy spring onions and garlic… and not mix them up."
+    sx: {hanzi: "禮拜六𠊎愛煮菜分大家食。愛去買蔥仔摎蒜仔……毋好買毋著。", pinyin: "liˊ bai liugˋ ngaiˇ oi zuˋ coi bunˊ tai gaˊ siid. oi hi maiˊ cungˊ eˋ lauˊ son eˋ … mˇ hoˋ maiˊ mˇ cog."}
+    hl: {hanzi: "禮拜六𠊎愛煮菜分大家食。愛去買蔥仔摎蒜仔……毋好買毋著。", pinyin: "liˋ baiˇ liug ngai oiˇ zhuˊ coiˇ bunˋ tai+ gaˋ shidˋ. oiˇ hiˇ maiˋ cungˋ er lauˋ sonˇ er … m hoˊ maiˋ m chogˋ."}
+    check: true
+  - n: 19
     speaker: 阿英
     en: "(after a silence) …Everyone will be rooting for me, won't they?"
     sx: {hanzi: "……大家會為𠊎加油，係毋係？", pinyin: "… tai gaˊ voi vi ngaiˇ gaˊ iuˇ, he mˇ he?"}
     hl: {hanzi: "……大家會為𠊎加油，係毋係？", pinyin: "… tai+ gaˋ voi+ vui+ ngai gaˋ rhiu, heˇ m heˇ?"}
-  - n: 17
+  - n: 20
     speaker: Sam
     en: "Of course. You're sure to succeed."
     sx: {hanzi: "當然。你一定會成功。", pinyin: "dongˊ ienˇ. nˇ idˋ tin voi siinˇ gungˊ."}
     hl: {hanzi: "當然。你一定會成功。", pinyin: "dongˋ rhan. ngi rhid tin+ voi+ shin gungˋ."}
-  - n: 18
+  - n: 21
     speaker: 阿英
     en: "And if I fail?"
     sx: {hanzi: "若係失敗呢？", pinyin: "na he siidˋ pai neˇ?"}
     hl: {hanzi: "若係失敗呢？", pinyin: "na+ heˇ shid pai+ neˇ?"}
-  - n: 19
+  - n: 22
     speaker: Sam
     en: "If you fail… you come home and eat Grandma's 粄. Now go to bed early. Good night."
     sx: {hanzi: "失敗就轉來食阿婆个粄。好睡目了，早兜仔睡。", pinyin: "siidˋ pai qiu zonˋ loiˇ siid aˊ poˇ ge banˋ. hoˋ soi mugˋ leˊ, zoˋ deuˊ eˋ soi."}
@@ -124,8 +140,8 @@ notes:
     text: >
       …抑毋係？ "…or what?, …or not?": a rough, friendly tag that doubts what you've just said. The official examples
       use it for teasing: 戇噹抑毋係？喊你買蔥仔嗄買著蒜仔轉來 "are you daft or what? I asked for spring onions and you
-      bought garlic". 戇 ngong "silly, daft". You may hear 毋係 run together as one syllable at the end of a sentence; the
-      data never writes it that way, so the course doesn't either.
+      bought garlic". 戇噹 ngong dong "silly, daft" (MOE: 呆愚). That 毋係 is often run together into one syllable at
+      the end of a sentence is general knowledge; the data never writes it that way, so the course doesn't either.
   - ref: 7
     topic: grammar
     text: >
@@ -134,16 +150,18 @@ notes:
     topic: grammar
     text: >
       呢 at the end of a statement, not a question, softens it and invites a reaction: "you know". The official
-      example is almost this line: 恁久無看著你，𫣆大家人都盡想你呢. The word lists give Sixian 呢 two readings, neˇ and
-      noˋ; the softening 呢 is written noˋ here, and the "and you?" 呢 of line 11 neˇ (lesson 30). 盡想你 "misses you
+      example is almost this line: 恁久無看著你，𫣆大家人都盡想你呢. MOE gives Sixian 呢 two readings, neˇ and noˋ,
+      with the same senses and a "你呢？" example under each: they are free variants. The course writes noˋ here and neˇ
+      in "and you?" (line 14), as in lesson 30. 盡想你 "misses you
       very much": 盡 "very", as often as "most".
   - ref: 13
     topic: grammar
     text: >
-      哦 oˋ at the end turns an instruction into a friendly reminder or warning: 畢業證書愛記得帶哦！ "don't forget your
-      diploma!" is an official example, word for word; so is 毋好毋記得哦！ "don't you forget!". Without 哦 it sounds like
+      哦 oˊ at the end turns an instruction into a friendly reminder or warning: MOE files this 哦 (勸誡) under oˊ, and
+      the official example 毋好毋記得哦！ "don't you forget!" has it. The official sentence for this line writes it with
+      喔, a character the word lists don't have: 畢業證書愛記得帶喔！ "don't forget your diploma!". Without 哦 it sounds like
       an order. 畢業證書 "diploma (degree certificate)".
-  - ref: 19
+  - ref: 22
     topic: grammar
     text: >
       好睡目了 "time for bed": 好 hoˋ + verb "it's time to…, (all is ready) so that one can…": 好食飯了 "dinner's ready",
@@ -156,17 +174,17 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu gives 呢 as neˇ in all its uses, and 哦 as oˊ. 最 for Sixian 盡 (lesson 58).
+      Hailu gives 呢 as neˇ in all its uses, and 哦 as oˊ. Hailu says 盡 for "very" too (盡想你呢 is the official Hailu wording).
 
 new_words:
   - {hanzi: 信心, pinyin: "xin ximˊ", en: "confidence", hl: {hanzi: 信心, pinyin: "sinˇ simˋ"}}
   - {hanzi: 千萬, pinyin: "qienˊ van", en: "on no account (+ negative)", hl: {hanzi: 千萬, pinyin: "cienˋ van+"}}
   - {hanzi: 差錯, pinyin: "caˊ co", en: "slip, mistake", hl: {hanzi: 差錯, pinyin: "caˋ coˇ"}}
   - {hanzi: 經驗, pinyin: "ginˊ ngiam", en: "experience", hl: {hanzi: 經驗, pinyin: "ginˋ ngiam+"}}
-  - {hanzi: 戇, pinyin: "ngong", en: "silly, daft", hl: {hanzi: 戇, pinyin: "ngongˇ"}}
+  - {hanzi: 戇噹, pinyin: "ngong dong", en: "silly, daft", hl: {hanzi: 戇噹, pinyin: "ngongˇ dongˇ"}}
   - {hanzi: 抑, pinyin: "ia", en: "or (抑毋係 or what?)", hl: {hanzi: 抑, pinyin: "rha+"}}
   - {hanzi: 呢, pinyin: "noˋ", en: "(softening) you know", hl: {hanzi: 呢, pinyin: "neˇ"}}
-  - {hanzi: 哦, pinyin: "oˋ", en: "(friendly reminder, warning)", hl: {hanzi: 哦, pinyin: "oˊ"}}
+  - {hanzi: 哦, pinyin: "oˊ", en: "(friendly reminder, warning)", hl: {hanzi: 哦, pinyin: "oˊ"}}
   - {hanzi: 畢業, pinyin: "bidˋ ngiab", en: "graduate", hl: {hanzi: 畢業, pinyin: "bid ngiabˋ"}}
   - {hanzi: 證書, pinyin: "ziin suˊ", en: "certificate", hl: {hanzi: 證書, pinyin: "zhinˇ shuˋ"}}
   - {hanzi: 為, pinyin: "vi", en: "for (為𠊎 for me)", hl: {hanzi: 為, pinyin: "vui+"}}
@@ -183,13 +201,13 @@ new_words:
 exercises:
   translate:
     - en: "Are you daft or what? I asked you to buy spring onions and you bought garlic!"
-      sx: {hanzi: "你戇抑毋係？喊你買蔥仔，你嗄買著蒜仔轉來！", pinyin: "nˇ ngong ia mˇ he? ham nˇ maiˊ cungˊ eˋ, nˇ sa maiˊ doˋ son eˋ zonˋ loiˇ!"}
-      hl: {hanzi: "你戇抑毋係？喊你買蔥仔，你嗄買著蒜仔轉來！", pinyin: "ngi ngongˇ rha+ m heˇ? hamˇ ngi maiˋ cungˋ er, ngi saˇ maiˋ doˊ sonˇ er zhonˊ loi!"}
+      sx: {hanzi: "你戇噹抑毋係？喊你買蔥仔，你嗄買著蒜仔轉來！", pinyin: "nˇ ngong dong ia mˇ he? ham nˇ maiˊ cungˊ eˋ, nˇ sa maiˊ doˋ son eˋ zonˋ loiˇ!"}
+      hl: {hanzi: "你戇噹抑毋係？喊你買蔥仔，你嗄買著蒜仔轉來！", pinyin: "ngi ngongˇ dongˇ rha+ m heˇ? hamˇ ngi maiˋ cungˋ er, ngi saˇ maiˋ doˊ sonˇ er zhonˊ loi!"}
     - en: "He has no confidence at all about tomorrow's interview."
       sx: {hanzi: "對天光日个面試，佢全無信心。", pinyin: "dui tienˊ gongˊ ngidˋ ge mien cii, giˇ qionˇ moˇ xin ximˊ."}
       hl: {hanzi: "對韶早个面試，佢全無信心。", pinyin: "duiˇ shau zoˊ gaiˇ mienˇ chiˇ, gi cion mo sinˇ simˋ."}
     - en: "Don't you forget, now!"
-      sx: {hanzi: "毋好毋記得哦！", pinyin: "mˇ hoˋ mˇ gi dedˋ oˋ!"}
+      sx: {hanzi: "毋好毋記得哦！", pinyin: "mˇ hoˋ mˇ gi dedˋ oˊ!"}
       hl: {hanzi: "毋好毋記得哦！", pinyin: "m hoˊ m giˇ ded oˊ!"}
     - en: "Her Hakka is getting better and better."
       sx: {hanzi: "佢个客話越來越好。", pinyin: "giˇ ge hagˋ fa ied loiˇ ied hoˋ."}
@@ -202,13 +220,13 @@ exercises:
       hl: {hanzi: "佢今晡日為著參加面試，特別著西裝。祝佢好運！", pinyin: "gi gimˋ buˋ ngid vui+ doˊ camˋ gaˋ mienˇ chiˇ, tidˋ piedˋ zhog siˋ zongˋ. zhug gi hoˊ rhun+!"}
   fill:
     - en: "Are you silly, or what?"
-      sx: {hanzi: "你戇___？", pinyin: "nˇ ngong ___?", answer_hanzi: "抑毋係", answer: "ia mˇ he"}
-      hl: {hanzi: "你戇___？", pinyin: "ngi ngongˇ ___?", answer_hanzi: "抑毋係", answer: "rha+ m heˇ"}
+      sx: {hanzi: "你戇噹___？", pinyin: "nˇ ngong dong ___?", answer_hanzi: "抑毋係", answer: "ia mˇ he"}
+      hl: {hanzi: "你戇噹___？", pinyin: "ngi ngongˇ dongˇ ___?", answer_hanzi: "抑毋係", answer: "rha+ m heˇ"}
     - en: "And you? (how about you?)"
       sx: {hanzi: "你___？", pinyin: "nˇ ___?", answer_hanzi: "呢", answer: "neˇ"}
       hl: {hanzi: "你___？", pinyin: "ngi ___?", answer_hanzi: "呢", answer: "neˇ"}
     - en: "Don't forget it, mind!"
-      sx: {hanzi: "愛記得帶___！", pinyin: "oi gi dedˋ dai ___!", answer_hanzi: "哦", answer: "oˋ"}
+      sx: {hanzi: "愛記得帶___！", pinyin: "oi gi dedˋ dai ___!", answer_hanzi: "哦", answer: "oˊ"}
       hl: {hanzi: "愛記得帶___！", pinyin: "oiˇ giˇ ded daiˇ ___!", answer_hanzi: "哦", answer: "oˊ"}
 
 audio: []
