@@ -96,3 +96,6 @@ CREATE VIEW v_word_parallel AS
     max(CASE accent WHEN 'raoping' THEN hanzi || ' ' || pinyin END) AS raoping,
     max(CASE accent WHEN 'zhaoan' THEN hanzi || ' ' || pinyin END) AS zhaoan
   FROM entry WHERE source = 'kaga115' GROUP BY src_id;
+-- Private module: recordings cut from the Hakka Council 115 vocabulary audio (Hkka-private audio/manifest.json).
+-- path is relative to Hkka-private/audio/clips. kind: word | ex (all example sentences of the word, in order).
+CREATE TABLE audio_clip(entry_id INT, accent TEXT, kind TEXT, path TEXT, number_heard INT);

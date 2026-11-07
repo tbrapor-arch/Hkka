@@ -2,7 +2,8 @@
 """Build data/build/hakka.db from the open sources in data/raw (see data/fetch.sh).
 
   python3 -I tools/build_db.py data/raw data/build/hakka.db
-Set HAKKA_PRIVATE=/path/to/Hkka-private to also load the private Glossika sentences (local build only).
+Set HAKKA_PRIVATE=/path/to/Hkka-private to also load the private Glossika sentences and the audio clip index
+(local build only).
 """
 import csv, json, os, re, sqlite3, sys, unicodedata
 from collections import Counter
@@ -172,6 +173,24 @@ def load_glossika(db, private):
                        (r["id"], i, w, rom[i] if sx["aligned"] and i < len(rom) else None, lookup.get(w)))
         n += 1
     print(f"glossika: {n} sentences (private)")
+
+
+def load_audio(db, private):
+    path = Path(private) / "audio" / "manifest.json"
+    if not path.exists():
+        print(f"audio: {path} not found, skipped"); return
+    ids = {(acc, sid): eid for eid, acc, sid in db.execute("SELECT id, accent, src_id FROM entry WHERE source='kaga115'")}
+    n = miss = 0
+    for key, c in json.load(open(path, encoding="utf-8"))["clips"].items():
+        acc, sid = key.split("|", 1)
+        eid = ids.get((acc, sid))
+        if eid is None:
+            miss += 1; continue
+        for kind in ("word", "ex"):
+            if c.get(kind):
+                db.execute("INSERT INTO audio_clip VALUES (?,?,?,?,?)", (eid, acc, kind, c[kind], int(c.get("number_heard", 0))))
+                n += 1
+    print(f"audio: {n} clips (private){f', {miss} keys without an entry' if miss else ''}")
 
 
 ACC_ZH = {"四縣腔": "sixian", "海陸腔": "hailu", "大埔腔": "dapu", "饒平腔": "raoping", "詔安腔": "zhaoan", "南四縣腔": "south-sixian"}
@@ -384,6 +403,7 @@ def main(raw, out):
     load_sentences100(db, Path(__file__).resolve().parent.parent / "data" / "gov" / "hakka_100_sentences_162998.csv")
     if os.environ.get("HAKKA_PRIVATE"):
         load_glossika(db, os.environ["HAKKA_PRIVATE"])
+        load_audio(db, os.environ["HAKKA_PRIVATE"])
     enrich(db)
     enrich_mandarin(db, load_hsk(raw))
     db.commit()
