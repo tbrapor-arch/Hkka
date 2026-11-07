@@ -19,7 +19,7 @@ dialogue:
     speaker: Sam
     en: "Thank you. Grandma talks to me every day."
     sx: {hanzi: "恁仔細。阿婆逐日同𠊎講話。", pinyin: "anˋ ziiˋ se. aˊ poˇ dagˋ ngidˋ tungˇ ngaiˇ gongˋ fa."}
-    hl: {hanzi: "承蒙。阿婆逐日摎𠊎講話。", pinyin: "shin mung. a+ po dag ngid lauˋ ngai gongˊ faˇ."}
+    hl: {hanzi: "承蒙你。阿婆逐日摎𠊎講話。", pinyin: "shin mung ngi. a+ po dag ngid lauˋ ngai gongˊ faˇ."}
   - n: 3
     speaker: 阿英
     en: "And Grandpa, does he talk to you too?"
@@ -33,20 +33,18 @@ dialogue:
   - n: 5
     speaker: 阿英
     en: "Yesterday he said a lot!"
-    sx: {hanzi: "昨晡日佢講當多！", pinyin: "coˊ buˊ ngidˋ giˇ gongˋ dongˊ doˊ!"}
-    hl: {hanzi: "昨晡日佢講當多！", pinyin: "coˋ buˋ ngid gi gongˊ dongˋ doˋ!"}
+    sx: {hanzi: "昨晡日佢講恁多！", pinyin: "coˊ buˊ ngidˋ giˇ gongˋ anˋ doˊ!"}
+    hl: {hanzi: "昨晡日佢講恁多！", pinyin: "coˋ buˋ ngid gi gongˊ anˊ doˋ!"}
   - n: 6
     speaker: 阿英
     en: "(at a narrow plank over a ditch) After you."
-    sx: {hanzi: "你行先。", pinyin: "nˇ hangˇ xienˊ."}
-    hl: {hanzi: "你行先。", pinyin: "ngi hang senˋ."}
-    check: true
+    sx: {hanzi: "你先行。", pinyin: "nˇ xienˊ hangˇ."}
+    hl: {hanzi: "你先行。", pinyin: "ngi senˋ hang."}
   - n: 7
     speaker: Sam
     en: "No, no, after you."
-    sx: {hanzi: "毋使，毋使，你行先。", pinyin: "mˇ siiˋ, mˇ siiˋ, nˇ hangˇ xienˊ."}
-    hl: {hanzi: "毋使，毋使，你行先。", pinyin: "m siiˊ, m siiˊ, ngi hang senˋ."}
-    check: true
+    sx: {hanzi: "毋使，毋使，你先行。", pinyin: "mˇ siiˋ, mˇ siiˋ, nˇ xienˊ hangˇ."}
+    hl: {hanzi: "毋使，毋使，你先行。", pinyin: "m siiˊ, m siiˊ, ngi senˋ hang."}
   - n: 8
     speaker: 阿英
     en: "(laughing) A-min's classmate taught you that, didn't she?"
@@ -65,15 +63,15 @@ dialogue:
   - n: 11
     speaker: Sam
     en: "Let's go across together, shall we?"
-    sx: {hanzi: "𠊎兜共下行，好無？", pinyin: "ngaiˇ deuˊ kiung ha hangˇ, hoˋ moˇ?"}
-    hl: {hanzi: "𠊎兜共下行，好無？", pinyin: "ngai deuˋ kiung+ ha+ hang, hoˊ mo?"}
+    sx: {hanzi: "𫣆兜共下行，好無？", pinyin: "enˊ deuˊ kiung ha hangˇ, hoˋ moˇ?"}
+    hl: {hanzi: "𫣆兜共下行，好無？", pinyin: "enˋ deuˋ kiung+ ha+ hang, hoˊ mo?"}
 
 notes:
   - ref: 1
     topic: grammar
     text: >
       Comparing: X 比 Y 較 + adjective (比頭擺較好 "better than before"), 同 X 共樣 "the same as X", 無共樣 "different".
-      較 alone is "more": 較細兜 "a bit smaller".
+      較 alone is "more": 較細兜仔 "a bit smaller".
   - ref: 2
     topic: grammar
     text: >
@@ -87,7 +85,7 @@ notes:
   - ref: 6
     topic: grammar
     text: >
-      Word order: 你行先 "after you", with 先 after the verb (lessons 17 and 38). People: 你兩儕 "you two", 幾多儕？
+      "After you": 你先行 (lesson 17). "We": 𠊎兜 (not you), 𫣆兜 (you and I). People: 你兩儕 "you two", 幾多儕？
       "how many people?".
   - ref: 8
     topic: grammar
@@ -103,8 +101,8 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu pairs added this week: 寒 / 冷 (cold), 盡 / 最 (most), 還係 / 抑係 (or). Everything else in this lesson is
-      the same words in Hailu sounds.
+      Hailu in this lesson: 承蒙你 for 恁仔細, 摎 for 同. This week's other pairs: 寒 / 冷 for feeling cold, 還係 /
+      抑係 for "or", 盡好食 / 最好食 for "favourite". 𫣆兜 and 𠊎兜 are the same in both.
 
 new_words: []
 
@@ -120,9 +118,9 @@ exercises:
       sx: {hanzi: "先同菜洗好，正炒。", pinyin: "xienˊ tungˇ coi seˋ hoˋ, zang cauˋ."}
       hl: {hanzi: "先摎菜洗好，正炒。", pinyin: "senˋ lauˋ coiˇ seˊ hoˊ, zhangˇ cauˊ."}
     - en: "On Saturday do you want to go out, or stay home and rest?"
-      sx: {hanzi: "禮拜六你愛出去尞，還係在屋下歇睏？", pinyin: "liˊ bai liugˋ nˇ oi cudˋ hi liau, hanˇ he cai vugˋ kaˊ hiedˋ kun?"}
-      hl: {hanzi: "禮拜六你愛出去尞，抑係在屋下歇睏？", pinyin: "liˋ baiˇ liug ngi oiˇ chud hiˇ liau+, rha+ heˇ cai+ vug haˋ hied kunˇ?"}
-    - en: "A-in won't be back until next Friday."
+      sx: {hanzi: "禮拜六你愛出去尞，還係在屋下歇睏？", pinyin: "liˊ bai liugˋ nˇ oi cudˋ hi liau, hanˇ he coiˊ vugˋ kaˊ hiedˋ kun?"}
+      hl: {hanzi: "禮拜六你愛出去尞，抑係在屋下歇睏？", pinyin: "liˋ baiˇ liug ngi oiˇ chud hiˇ liau+, rha+ heˇ coiˋ vug haˋ hied kunˇ?"}
+    - en: "A-in won't be back until Friday."
       sx: {hanzi: "阿英禮拜五正會轉來。", pinyin: "aˊ inˊ liˊ bai ngˋ zang voi zonˋ loiˇ."}
       hl: {hanzi: "阿英禮拜五正會轉來。", pinyin: "a+ rhinˋ liˋ baiˇ ngˊ zhangˇ voi+ zhonˊ loi."}
   fill:

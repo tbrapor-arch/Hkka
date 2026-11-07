@@ -127,8 +127,6 @@ new_words:
   - {hanzi: 燒, pinyin: "seuˊ", en: "hot (to the touch)", hl: {hanzi: 燒, pinyin: "shauˋ"}}
   - {hanzi: 熱, pinyin: "ngied", en: "hot (weather)", hl: {hanzi: 熱, pinyin: "ngiedˋ"}}
   - {hanzi: 衫, pinyin: "samˊ", en: "top, shirt", hl: {hanzi: 衫, pinyin: "samˋ"}}
-  - {hanzi: 七, pinyin: "qidˋ", en: "seven", hl: {hanzi: 七, pinyin: "cid"}}
-  - {hanzi: 九, pinyin: "giuˋ", en: "nine", hl: {hanzi: 九, pinyin: "giuˊ"}}
 
 exercises:
   translate:

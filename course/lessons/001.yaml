@@ -19,7 +19,7 @@ dialogue:
     speaker: Sam
     en: "Thank you, A-in!"
     sx: {hanzi: "恁仔細，阿英！", pinyin: "anˋ ziiˋ se, aˊ inˊ!"}
-    hl: {hanzi: "承蒙，阿英！", pinyin: "shin mung, a+ rhinˋ!"}
+    hl: {hanzi: "承蒙你，阿英！", pinyin: "shin mung ngi, a+ rhinˋ!"}
   - n: 3
     speaker: 阿英
     en: "You can speak Hakka!"
@@ -62,10 +62,9 @@ notes:
   - ref: 0
     topic: culture
     text: >
-      苗栗 Miaoli is the county of northern Taiwan where Hakka is most at home, and most of its Hakka speak Sixian
-      (四縣), the accent this course follows. The Liu family lives just outside the county town. You will hear Hailu
-      (海陸), the other big northern accent, from lesson 50; every line is already written in both, and the app can
-      switch.
+      苗栗 Miaoli is a Hakka heartland and the stronghold of Sixian (四縣), the accent this course follows. The Liu
+      family lives just outside the county town. Every line is also written in Hailu (海陸), the other big northern
+      accent, and the app can switch; the Hailu notes point out where it differs.
   - ref: 1
     topic: pronunciation
     text: >
@@ -94,7 +93,8 @@ notes:
     topic: vocab
     text: >
       一息仔 idˋ xid eˋ "a little, a bit" (一點點). 仔 eˋ is a very common noun ending; it often makes things small or
-      familiar. The modest answer to any compliment on your Hakka.
+      familiar. Said aloud, 仔 copies the end of the syllable before it (Lesson 0, §5): idˋ xid leˋ. The modest answer to
+      any compliment on your Hakka.
   - ref: 5
     topic: grammar
     text: >
@@ -126,7 +126,7 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      In Hailu, "thank you" is 承蒙 shin mung, and "my little brother" is 𠊎老弟 ngai loˊ taiˋ: Hailu uses 𠊎
+      In Hailu, "thank you" is 承蒙你 shin mung ngi (承蒙 with an object), and "my little brother" is 𠊎老弟 ngai loˊ taiˋ: Hailu uses 𠊎
       where Sixian has 吾 before a family word. Notice the tone code (Lesson 0, §8): Sixian 講 gongˋ is Hailu gongˊ,
       Sixian 歡 fonˊ is Hailu fonˋ.
 
@@ -175,6 +175,6 @@ exercises:
       hl: {hanzi: "佢___阿英。", pinyin: "gi ___ a+ rhinˋ.", answer_hanzi: "毋係", answer: "m heˇ"}
     - en: "Thank you, A-min!"
       sx: {hanzi: "___，阿明！", pinyin: "___, aˊ minˇ!", answer_hanzi: "恁仔細", answer: "anˋ ziiˋ se"}
-      hl: {hanzi: "___，阿明！", pinyin: "___, a+ min!", answer_hanzi: "承蒙", answer: "shin mung"}
+      hl: {hanzi: "___，阿明！", pinyin: "___, a+ min!", answer_hanzi: "承蒙你", answer: "shin mung ngi"}
 
 audio: []

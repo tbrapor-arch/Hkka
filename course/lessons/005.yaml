@@ -23,7 +23,7 @@ dialogue:
     hl: {hanzi: "一斤四十，三斤一百。", pinyin: "rhid ginˋ siˇ shibˋ, samˋ ginˋ rhid bag."}
   - n: 3
     speaker: 阿姆
-    en: "I'll have three catties. And the loofahs?"
+    en: "I'll have three catties. And the luffas?"
     sx: {hanzi: "𠊎愛三斤。菜瓜幾多錢？", pinyin: "ngaiˇ oi samˊ ginˊ. coi guaˊ giˋ doˊ qienˇ?"}
     hl: {hanzi: "𠊎愛三斤。菜瓜幾多錢？", pinyin: "ngai oiˇ samˋ ginˋ. coiˇ guaˋ giˊ doˋ cien?"}
   - n: 4
@@ -45,7 +45,7 @@ dialogue:
     speaker: Sam
     en: "Thank you!"
     sx: {hanzi: "恁仔細！", pinyin: "anˋ ziiˋ se!"}
-    hl: {hanzi: "承蒙！", pinyin: "shin mung!"}
+    hl: {hanzi: "承蒙你！", pinyin: "shin mung ngi!"}
   - n: 8
     speaker: 頭家
     en: "You can speak Hakka!"
@@ -78,12 +78,12 @@ notes:
     text: >
       Numbers so far: 一 idˋ, 二 ngi, 三 samˊ, 四 xi, 五 ngˋ, 十 siib, 百 bagˋ. Watch 四 xi and 十 siib: one is
       open and high, the other ends in a clipped -b. 四十 xi siib "forty", 一百 idˋ bagˋ "a hundred". 五 ngˋ is a
-      syllable with no vowel at all. Six to nine come next lesson.
+      syllable with no vowel at all. Six to nine come next lesson. And sandhi again: 三斤 is said samˇ ginˊ.
   - ref: 4
     topic: grammar
     text: >
-      Classifiers, as in Mandarin, but with Hakka choices. 條 tiauˇ for long things: 一條菜瓜 "a loofah" (菜瓜 coi
-      guaˊ, the gourd that goes into Hakka soups and stir-fries). 粒 liab for small round things: 一粒柑仔 "a
+      Classifiers, as in Mandarin, but with Hakka choices. 條 tiauˇ for long things: 一條菜瓜 "a luffa" (菜瓜 coi
+      guaˊ, the sponge gourd, the gourd that goes into Hakka soups and stir-fries). 粒 liab for small round things: 一粒柑仔 "a
       mandarin". 隻 zagˋ (line 10) is the everyday one: animals, and many objects that Mandarin counts with 個.
   - ref: 4
     topic: grammar
@@ -104,7 +104,7 @@ notes:
   - ref: 10
     topic: vocab
     text: >
-      雞仔 gieˊ eˋ "chicken", the everyday word (the bird and the meat). 買 maiˊ "buy", with a rising tone where
+      雞仔 gieˊ eˋ "chicken", the everyday word for the bird (the meat is usually 雞肉). 買 maiˊ "buy", with a rising tone where
       Mandarin has tone 3: like 有 iuˊ, an m-, n-, l- or vowel-initial tone-3 word (Lesson 0, §3). Its partner 賣
       "sell" is mai, high and level.
   - ref: 0
@@ -123,7 +123,7 @@ new_words:
   - {hanzi: 十, pinyin: "siib", en: "ten", hl: {hanzi: 十, pinyin: "shibˋ"}}
   - {hanzi: 三, pinyin: "samˊ", en: "three", hl: {hanzi: 三, pinyin: "samˋ"}}
   - {hanzi: 百, pinyin: "bagˋ", en: "hundred", hl: {hanzi: 百, pinyin: "bag"}}
-  - {hanzi: 菜瓜, pinyin: "coi guaˊ", en: "loofah (gourd)", hl: {hanzi: 菜瓜, pinyin: "coiˇ guaˋ"}}
+  - {hanzi: 菜瓜, pinyin: "coi guaˊ", en: "luffa, sponge gourd", hl: {hanzi: 菜瓜, pinyin: "coiˇ guaˋ"}}
   - {hanzi: 條, pinyin: "tiauˇ", en: "(classifier for long things)", hl: {hanzi: 條, pinyin: "tiau"}}
   - {hanzi: 二, pinyin: "ngi", en: "two (in numbers)", hl: {hanzi: 二, pinyin: "ngi+"}}
   - {hanzi: 總共, pinyin: "zungˋ kiung", en: "altogether", hl: {hanzi: 總共, pinyin: "zungˊ kiung+"}}
@@ -155,7 +155,7 @@ exercises:
     - en: "How much is it?"
       sx: {hanzi: "___錢？", pinyin: "___ qienˇ?", answer_hanzi: "幾多", answer: "giˋ doˊ"}
       hl: {hanzi: "___錢？", pinyin: "___ cien?", answer_hanzi: "幾多", answer: "giˊ doˋ"}
-    - en: "Two loofahs."
+    - en: "Two luffas."
       sx: {hanzi: "兩___菜瓜。", pinyin: "liongˋ ___ coi guaˊ.", answer_hanzi: "條", answer: "tiauˇ"}
       hl: {hanzi: "兩___菜瓜。", pinyin: "liongˊ ___ coiˇ guaˋ.", answer_hanzi: "條", answer: "tiau"}
     - en: "Three mandarins."

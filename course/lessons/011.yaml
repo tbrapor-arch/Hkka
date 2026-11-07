@@ -128,13 +128,13 @@ exercises:
       hl: {hanzi: "𠊎最好食番薯。", pinyin: "ngai zuiˇ hauˇ shidˋ fanˋ shu."}
     - en: "No need, thank you."
       sx: {hanzi: "毋使，恁仔細。", pinyin: "mˇ siiˋ, anˋ ziiˋ se."}
-      hl: {hanzi: "毋使，承蒙。", pinyin: "m siiˊ, shin mung."}
+      hl: {hanzi: "毋使，承蒙你。", pinyin: "m siiˊ, shin mung ngi."}
     - en: "I'd like a catty of pork."
       sx: {hanzi: "𠊎想愛一斤豬肉。", pinyin: "ngaiˇ xiongˋ oi idˋ ginˊ zuˊ ngiugˋ."}
       hl: {hanzi: "𠊎想愛一斤豬肉。", pinyin: "ngai siongˊ oiˇ rhid ginˋ zhuˋ ngiug."}
     - en: "A-min's friend is at school."
-      sx: {hanzi: "阿明个朋友在學校。", pinyin: "aˊ minˇ ge penˇ iuˊ cai hog gauˋ."}
-      hl: {hanzi: "阿明个朋友在學校。", pinyin: "a+ min gaiˇ pen rhiuˋ cai+ hogˋ gauˊ."}
+      sx: {hanzi: "阿明个朋友在學校。", pinyin: "aˊ minˇ ge penˇ iuˊ coiˊ hog gauˋ."}
+      hl: {hanzi: "阿明个朋友在學校。", pinyin: "a+ min gaiˇ pen rhiuˋ coiˋ hogˋ gauˊ."}
   fill:
     - en: "Are the rice noodles good?"
       sx: {hanzi: "粄條___食無？", pinyin: "banˋ tiauˇ ___ siid moˇ?", answer_hanzi: "好", answer: "hoˋ"}

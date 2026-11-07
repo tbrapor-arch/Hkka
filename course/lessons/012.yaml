@@ -60,7 +60,7 @@ dialogue:
     speaker: Sam
     en: "(weakly) …Thank you, Grandma."
     sx: {hanzi: "……恁仔細，阿婆。", pinyin: "… anˋ ziiˋ se, aˊ poˇ."}
-    hl: {hanzi: "……承蒙，阿婆。", pinyin: "… shin mung, a+ po."}
+    hl: {hanzi: "……承蒙你，阿婆。", pinyin: "… shin mung ngi, a+ po."}
 
 notes:
   - ref: 2

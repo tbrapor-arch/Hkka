@@ -1,8 +1,8 @@
 id: 17
 title:
   en: "Lost in Miaoli"
-  sx: {hanzi: "你行先", pinyin: "nˇ hangˇ xienˊ"}
-  hl: {hanzi: "你行先", pinyin: "ngi hang senˋ"}
+  sx: {hanzi: "你先行", pinyin: "nˇ xienˊ hangˇ"}
+  hl: {hanzi: "你先行", pinyin: "ngi senˋ hang"}
 review: false
 setting: >-
   Wednesday afternoon in 苗栗 town. Mrs Liu has sent Sam for soy sauce from "the shop opposite the station". He has
@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: Sam
     en: "Excuse me, I don't know the way. How do I get to the station?"
-    sx: {hanzi: "細妹仔，𠊎毋知路。火車頭仰般去？", pinyin: "se moi eˋ, ngaiˇ mˇ diˊ lu. foˋ caˊ teuˇ ngiongˋ banˊ hi?"}
-    hl: {hanzi: "細妹仔，𠊎毋知路。火車頭仰般去？", pinyin: "seˇ moiˇ er, ngai m diˋ lu+. foˊ chaˋ teu ngiongˊ banˋ hiˇ?"}
+    sx: {hanzi: "細妹仔，借問，𠊎毋知路。火車頭仰般去？", pinyin: "se moi eˋ, jia mun, ngaiˇ mˇ diˊ lu. foˋ caˊ teuˇ ngiongˋ banˊ hi?"}
+    hl: {hanzi: "細妹仔，借問，𠊎毋知路。火車頭仰般去？", pinyin: "seˇ moiˇ er, ziaˇ munˇ, ngai m diˋ lu+. foˊ chaˋ teu ngiongˊ banˋ hiˇ?"}
   - n: 2
     speaker: 細妹仔
     en: "The station? I'm going there too. I'll take you."
@@ -38,25 +38,23 @@ dialogue:
   - n: 6
     speaker: 細妹仔
     en: "(at a narrow gap between parked scooters) After you."
-    sx: {hanzi: "你行先。", pinyin: "nˇ hangˇ xienˊ."}
-    hl: {hanzi: "你行先。", pinyin: "ngi hang senˋ."}
-    check: true
+    sx: {hanzi: "你先行。", pinyin: "nˇ xienˊ hangˇ."}
+    hl: {hanzi: "你先行。", pinyin: "ngi senˋ hang."}
   - n: 7
     speaker: Sam
     en: "No, no, after you."
-    sx: {hanzi: "毋使，毋使，你行先。", pinyin: "mˇ siiˋ, mˇ siiˋ, nˇ hangˇ xienˊ."}
-    hl: {hanzi: "毋使，毋使，你行先。", pinyin: "m siiˊ, m siiˊ, ngi hang senˋ."}
-    check: true
+    sx: {hanzi: "毋使，毋使，你先行。", pinyin: "mˇ siiˋ, mˇ siiˋ, nˇ xienˊ hangˇ."}
+    hl: {hanzi: "毋使，毋使，你先行。", pinyin: "m siiˊ, m siiˊ, ngi senˋ hang."}
   - n: 8
     speaker: 細妹仔
     en: "(two minutes later) Here's the station. The shop's just opposite."
-    sx: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˋ caˊ teuˇ do leˊ. diam qiu cai dui mien."}
-    hl: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˊ chaˋ teu doˇ leˋ. diamˇ ciu+ cai+ duiˇ mienˇ."}
+    sx: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˋ caˊ teuˇ do leˊ. diam qiu coiˊ dui mien."}
+    hl: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˊ chaˋ teu doˇ leˋ. diamˇ ciu+ coiˋ duiˇ mienˇ."}
   - n: 9
     speaker: Sam
     en: "Thank you! …I walked past it three times."
-    sx: {hanzi: "恁仔細！……𠊎行過三擺。", pinyin: "anˋ ziiˋ se! … ngaiˇ hangˇ go samˊ baiˋ."}
-    hl: {hanzi: "承蒙！……𠊎行過三擺。", pinyin: "shin mung! … ngai hang goˇ samˋ baiˊ."}
+    sx: {hanzi: "恁仔細！……𠊎行過去三擺了！", pinyin: "anˋ ziiˋ se! … ngaiˇ hangˇ go hi samˊ baiˋ leˊ!"}
+    hl: {hanzi: "承蒙你！……𠊎行過去三擺了！", pinyin: "shin mung ngi! … ngai hang goˇ hiˇ samˋ baiˊ leˋ!"}
   - n: 10
     speaker: 細妹仔
     en: "(laughing) I'll tell A-min!"
@@ -83,14 +81,10 @@ notes:
   - ref: 6
     topic: grammar
     text: >
-      你行先 "you go first": Hakka can put 先 xienˊ after the verb, where Mandarin says 你先走. It is the polite
-      "after you" at a door or on a narrow path, and it starts a small politeness duel (line 7) that someone has to
-      lose. The order 你先行 is also heard. More words that like to come after the verb in Hakka are in lesson 38.
-  - ref: 6
-    topic: grammar
-    text: >
-      These two lines are marked for checking by a native speaker: the pattern is described in the MOE articles on
-      Hakka word order, but none of the official example sentences has 行先 itself.
+      你先行 "you go first, after you" (你先走): the polite words at a door or on a narrow path, and the start of a
+      small politeness duel (line 7) that someone has to lose. 先 xienˊ "first". The MOE articles on word order also
+      describe 你行先, with 先 after the verb, an older Hakka order you may hear from older speakers; lesson 38 has
+      the words that really do like to come after the verb (食加一碗).
   - ref: 8
     topic: vocab
     text: >
@@ -99,12 +93,12 @@ notes:
   - ref: 9
     topic: grammar
     text: >
-      行過三擺 "walked past three times": 過 here is "go past", and 擺 baiˋ "time, occasion" (the 擺 of 逐擺): 三擺
+      行過去三擺 "walked past (it) three times": 行過去 "walk past", a direction after the verb, and 擺 baiˋ "time, occasion" (the 擺 of 逐擺): 三擺
       "three times". 一擺, 兩擺: 擺 is Hakka's 次.
   - ref: 0
     topic: hailu
     text: >
-      Hailu: 先 senˋ, 識 shid, 對面 duiˇ mienˇ. 你行先 is also Hailu.
+      Hailu: 先 senˋ, 識 shid, 對面 duiˇ mienˇ. 你先行 is also Hailu.
 
 new_words:
   - {hanzi: 細妹仔, pinyin: "se moi eˋ", en: "girl, young woman", hl: {hanzi: 細妹仔, pinyin: "seˇ moiˇ er"}}
@@ -123,7 +117,6 @@ new_words:
   - {hanzi: 後背, pinyin: "heu boi", en: "behind, at the back", hl: {hanzi: 後背, pinyin: "heu+ boiˇ"}}
   - {hanzi: 隔壁, pinyin: "gagˋ biagˋ", en: "next door", hl: {hanzi: 隔壁, pinyin: "gag biag"}}
   - {hanzi: 出, pinyin: "cudˋ", en: "go out, come out", hl: {hanzi: 出, pinyin: "chud"}}
-  - {hanzi: 落去, pinyin: "log hi", en: "go in, go down", hl: {hanzi: 落去, pinyin: "logˋ hiˇ"}}
 
 exercises:
   translate:
@@ -131,20 +124,20 @@ exercises:
       sx: {hanzi: "學校仰般去？", pinyin: "hog gauˋ ngiongˋ banˊ hi?"}
       hl: {hanzi: "學校仰般去？", pinyin: "hogˋ gauˊ ngiongˊ banˋ hiˇ?"}
     - en: "The soy sauce shop is next door to the station."
-      sx: {hanzi: "豆油店在火車頭隔壁。", pinyin: "teu iuˇ diam cai foˋ caˊ teuˇ gagˋ biagˋ."}
-      hl: {hanzi: "豆油店在火車頭隔壁。", pinyin: "teu+ rhiu diamˇ cai+ foˊ chaˋ teu gag biag."}
+      sx: {hanzi: "豆油店在火車頭隔壁。", pinyin: "teu iuˇ diam coiˊ foˋ caˊ teuˇ gagˋ biagˋ."}
+      hl: {hanzi: "豆油店在火車頭隔壁。", pinyin: "teu+ rhiu diamˇ coiˋ foˊ chaˋ teu gag biag."}
     - en: "Do you know her? — No, I don't."
       sx: {hanzi: "你識佢無？——毋識。", pinyin: "nˇ siidˋ giˇ moˇ? — mˇ siidˋ."}
       hl: {hanzi: "你識佢無？——毋識。", pinyin: "ngi shid gi mo? — m shid."}
     - en: "The small shop is behind the school."
-      sx: {hanzi: "細个店在學校後背。", pinyin: "se ge diam cai hog gauˋ heu boi."}
-      hl: {hanzi: "細个店在學校後背。", pinyin: "seˇ gaiˇ diamˇ cai+ hogˋ gauˊ heu+ boiˇ."}
+      sx: {hanzi: "細个店在學校後背。", pinyin: "se ge diam coiˊ hog gauˋ heu boi."}
+      hl: {hanzi: "細个店在學校後背。", pinyin: "seˇ gaiˇ diamˇ coiˋ hogˋ gauˊ heu+ boiˇ."}
     - en: "Grandpa has gone out; Grandma has gone into the garden."
-      sx: {hanzi: "阿公出去了，阿婆落去菜園了。", pinyin: "aˊ gungˊ cudˋ hi leˊ, aˊ poˇ log hi coi ienˇ leˊ."}
-      hl: {hanzi: "阿公出去了，阿婆落去菜園了。", pinyin: "a+ gungˋ chud hiˇ leˋ, a+ po logˋ hiˇ coiˇ rhan leˋ."}
+      sx: {hanzi: "阿公出去了，阿婆去菜園了。", pinyin: "aˊ gungˊ cudˋ hi leˊ, aˊ poˇ hi coi ienˇ leˊ."}
+      hl: {hanzi: "阿公出去了，阿婆去菜園了。", pinyin: "a+ gungˋ chud hiˇ leˋ, a+ po hiˇ coiˇ rhan leˋ."}
     - en: "Every time I come, A-min is at school."
-      sx: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngaiˇ dagˋ baiˋ loiˇ, aˊ minˇ du cai hog gauˋ."}
-      hl: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngai dag baiˊ loi, a+ min du+ cai+ hogˋ gauˊ."}
+      sx: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngaiˇ dagˋ baiˋ loiˇ, aˊ minˇ du coiˊ hog gauˋ."}
+      hl: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngai dag baiˊ loi, a+ min du+ coiˋ hogˋ gauˊ."}
   fill:
     - en: "After you."
       sx: {hanzi: "你行___。", pinyin: "nˇ hangˇ ___.", answer_hanzi: "先", answer: "xienˊ"}
@@ -153,7 +146,7 @@ exercises:
       sx: {hanzi: "𠊎___你去。", pinyin: "ngaiˇ ___ nˇ hi.", answer_hanzi: "帶", answer: "dai"}
       hl: {hanzi: "𠊎___你去。", pinyin: "ngai ___ ngi hiˇ.", answer_hanzi: "帶", answer: "daiˇ"}
     - en: "The shop is across the street."
-      sx: {hanzi: "店在___。", pinyin: "diam cai ___.", answer_hanzi: "對面", answer: "dui mien"}
-      hl: {hanzi: "店在___。", pinyin: "diamˇ cai+ ___.", answer_hanzi: "對面", answer: "duiˇ mienˇ"}
+      sx: {hanzi: "店在___。", pinyin: "diam coiˊ ___.", answer_hanzi: "對面", answer: "dui mien"}
+      hl: {hanzi: "店在___。", pinyin: "diamˇ coiˋ ___.", answer_hanzi: "對面", answer: "duiˇ mienˇ"}
 
 audio: []

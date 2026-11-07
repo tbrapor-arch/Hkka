@@ -14,12 +14,12 @@ dialogue:
     speaker: 阿婆
     en: "Sam, come and help in the kitchen! Tonight we're making 客家小炒."
     sx: {hanzi: "Sam，來灶下𢯭手！暗晡愛煮客家小炒。", pinyin: "Sam, loiˇ zo haˊ ten suˋ! am buˊ oi zuˋ hagˋ gaˊ seuˋ cauˋ."}
-    hl: {hanzi: "Sam，來灶下𢯭手！暗晡愛煮客家小炒。", pinyin: "Sam, loi zoˇ haˋ tenˇ shiuˊ! amˇ buˋ oiˇ zhuˊ hag gaˋ shauˊ cauˊ."}
+    hl: {hanzi: "Sam，來灶下𢯭手！暗晡愛煮客家小炒。", pinyin: "Sam, loi zoˇ haˋ tenˇ shiuˊ! amˇ buˋ oiˇ zhuˊ hag gaˋ siauˊ cauˊ."}
   - n: 2
     speaker: Sam
     en: "客家小炒? Is that A-in's favourite?"
     sx: {hanzi: "客家小炒？係阿英盡好食个菜？", pinyin: "hagˋ gaˊ seuˋ cauˋ? he aˊ inˊ qin hau siid ge coi?"}
-    hl: {hanzi: "客家小炒？係阿英最好食个菜？", pinyin: "hag gaˋ shauˊ cauˊ? heˇ a+ rhinˋ zuiˇ hauˇ shidˋ gaiˇ coiˇ?"}
+    hl: {hanzi: "客家小炒？係阿英最好食个菜？", pinyin: "hag gaˋ siauˊ cauˊ? heˇ a+ rhinˋ zuiˇ hauˇ shidˋ gaiˇ coiˇ?"}
   - n: 3
     speaker: 阿婆
     en: "It is. First, cut up the pork belly."
@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: 阿婆
     en: "No, smaller than that."
-    sx: {hanzi: "毋係，切較細兜。", pinyin: "mˇ he, qiedˋ ka se deuˊ."}
-    hl: {hanzi: "毋係，切較細兜。", pinyin: "m heˇ, cied haˇ seˇ deuˋ."}
+    sx: {hanzi: "毋係，切較細兜仔。", pinyin: "mˇ he, qiedˋ ka se deuˊ eˋ."}
+    hl: {hanzi: "毋係，切較細兜仔。", pinyin: "m heˇ, cied haˇ seˇ deuˋ er."}
   - n: 6
     speaker: 阿婆
     en: "(heating the wok) Oil first. Fry the pork first, and only then put in the squid and the celery."
@@ -53,14 +53,14 @@ dialogue:
     hl: {hanzi: "……放豆油。", pinyin: "… biongˇ teu+ rhiu."}
   - n: 9
     speaker: Sam
-    en: "(tasting) It smells wonderful!"
+    en: "(sniffing the wok) It smells wonderful!"
     sx: {hanzi: "當香！", pinyin: "dongˊ hiongˊ!"}
     hl: {hanzi: "當香！", pinyin: "dongˋ hiongˋ!"}
   - n: 10
     speaker: 阿婆
     en: "Now you can make 客家小炒! A-in will be so pleased."
     sx: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "nˇ voi zuˋ hagˋ gaˊ seuˋ cauˋ leˊ! aˊ inˊ voi dongˊ fonˊ hiˋ."}
-    hl: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "ngi voi+ zhuˊ hag gaˋ shauˊ cauˊ leˋ! a+ rhinˋ voi+ dongˋ fonˋ hiˊ."}
+    hl: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "ngi voi+ zhuˊ hag gaˋ siauˊ cauˊ leˋ! a+ rhinˋ voi+ dongˋ fonˋ hiˊ."}
 
 notes:
   - ref: 1
@@ -84,8 +84,8 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      較細兜 "a bit smaller": 較 + adjective + 兜 "a bit more so". 兜, the plural of 𠊎兜, is also "some, a little":
-      較大兜 "a bit bigger", 較遽兜 "a bit faster".
+      較細兜仔 "a bit smaller": 較 + adjective + 兜仔 "a bit more so". 兜, the plural of 𠊎兜, is also "some, a little":
+      較大兜仔 "a bit bigger", 較遽兜仔 "a bit faster".
   - ref: 6
     topic: grammar
     text: >
@@ -95,7 +95,7 @@ notes:
   - ref: 8
     topic: culture
     text: >
-      The second time a member of this family has been asked about sugar (lesson 4). Hakka cooking leans on salt,
+      The third sugar scene (lessons 4 and 7). Hakka cooking leans on salt,
       soy sauce and preserved vegetables; sugar is not what this family reaches for.
   - ref: 10
     topic: vocab
@@ -104,7 +104,7 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu uses 摎 for 把: 摎三層肉切好. Its 炒 is cauˊ, 小 shauˊ.
+      Hailu uses 摎 for 把: 摎三層肉切好. Its 炒 is cauˊ, 小 siauˊ.
   - ref: 0
     topic: vocab
     text: >
@@ -125,6 +125,8 @@ new_words:
   - {hanzi: 鹽, pinyin: "iamˇ", en: "salt", hl: {hanzi: 鹽, pinyin: "rham"}}
   - {hanzi: 蔥, pinyin: "cungˊ", en: "spring onion", hl: {hanzi: 蔥, pinyin: "cungˋ"}}
   - {hanzi: 魚, pinyin: "ngˇ", en: "fish", hl: {hanzi: 魚, pinyin: "ng"}}
+  - {hanzi: 仔, pinyin: "eˋ", en: "(noun ending; after 兜: 'a little')", hl: {hanzi: 仔, pinyin: "er"}}
+  - {hanzi: 煎, pinyin: "jienˊ", en: "pan-fry", hl: {hanzi: 煎, pinyin: "zienˋ"}}
   - {hanzi: 肚, pinyin: "duˋ", en: "inside (after a noun: 鑊肚, 店肚)", hl: {hanzi: 肚, pinyin: "duˊ"}}
   - {hanzi: 鹹, pinyin: "hamˇ", en: "salty", hl: {hanzi: 鹹, pinyin: "ham"}}
 
@@ -142,12 +144,15 @@ exercises:
     - en: "Grandma is very pleased today."
       sx: {hanzi: "阿婆今晡日當歡喜。", pinyin: "aˊ poˇ gimˊ buˊ ngidˋ dongˊ fonˊ hiˋ."}
       hl: {hanzi: "阿婆今晡日當歡喜。", pinyin: "a+ po gimˋ buˋ ngid dongˋ fonˋ hiˊ."}
-    - en: "Is it salty? — Not salty, it's sweet."
-      sx: {hanzi: "鹹無？——毋鹹，當甜。", pinyin: "hamˇ moˇ? — mˇ hamˇ, dongˊ tiamˇ."}
-      hl: {hanzi: "鹹無？——毋鹹，當甜。", pinyin: "ham mo? — m ham, dongˋ tiam."}
-    - en: "Fry the fish first, then the vegetables."
-      sx: {hanzi: "先炒魚，正炒菜。", pinyin: "xienˊ cauˋ ngˇ, zang cauˋ coi."}
-      hl: {hanzi: "先炒魚，正炒菜。", pinyin: "senˋ cauˊ ng, zhangˇ cauˊ coiˇ."}
+    - en: "Is it too salty? — Not at all, it smells lovely."
+      sx: {hanzi: "會鹹無？——毋會鹹，當香。", pinyin: "voi hamˇ moˇ? — mˇ voi hamˇ, dongˊ hiongˊ."}
+      hl: {hanzi: "會鹹無？——毋會鹹，當香。", pinyin: "voi+ ham mo? — m voi+ ham, dongˋ hiongˋ."}
+    - en: "Grandma is frying fish."
+      sx: {hanzi: "阿婆在該煎魚。", pinyin: "aˊ poˇ du ge jienˊ ngˇ."}
+      hl: {hanzi: "阿婆在該煎魚。", pinyin: "a+ po diˇ gai zienˋ ng."}
+    - en: "Fry the meat first, then the vegetables."
+      sx: {hanzi: "先炒肉，正炒菜。", pinyin: "xienˊ cauˋ ngiugˋ, zang cauˋ coi."}
+      hl: {hanzi: "先炒肉，正炒菜。", pinyin: "senˋ cauˊ ngiug, zhangˇ cauˊ coiˇ."}
   fill:
     - en: "First cut up the pork."
       sx: {hanzi: "先___豬肉切好。", pinyin: "xienˊ ___ zuˊ ngiugˋ qiedˋ hoˋ.", answer_hanzi: "同", answer: "tungˇ"}

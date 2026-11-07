@@ -26,12 +26,12 @@ dialogue:
     speaker: Sam
     en: "Drink tea? …Yes please! Thank you."
     sx: {hanzi: "食茶？……愛！恁仔細。", pinyin: "siid caˇ? … oi! anˋ ziiˋ se."}
-    hl: {hanzi: "食茶？……愛！承蒙。", pinyin: "shidˋ ca? … oiˇ! shin mung."}
+    hl: {hanzi: "食茶？……愛！承蒙你。", pinyin: "shidˋ ca? … oiˇ! shin mung ngi."}
   - n: 4
     speaker: Sam
     en: "Grandpa, where's A-in?"
-    sx: {hanzi: "阿公，阿英在哪位？", pinyin: "aˊ gungˊ, aˊ inˊ cai nai vi?"}
-    hl: {hanzi: "阿公，阿英在哪位？", pinyin: "a+ gungˋ, a+ rhinˋ cai+ nai+ vui+?"}
+    sx: {hanzi: "阿公，阿英在哪位？", pinyin: "aˊ gungˊ, aˊ inˊ coiˊ nai vi?"}
+    hl: {hanzi: "阿公，阿英在哪位？", pinyin: "a+ gungˋ, a+ rhinˋ coiˋ nai+ vui+?"}
   - n: 5
     speaker: 阿公
     en: "Her room. Still asleep."
@@ -51,8 +51,8 @@ dialogue:
   - n: 8
     speaker: 阿婆
     en: "(through the window) Sam, in this house we don't put sugar in tea!"
-    sx: {hanzi: "Sam，吾屋下个茶毋放糖！", pinyin: "Sam, ngaˊ vugˋ kaˊ ge caˇ mˇ biong tongˇ!"}
-    hl: {hanzi: "Sam，𠊎屋下个茶毋放糖！", pinyin: "Sam, ngai vug haˋ gaiˇ ca m biongˇ tong!"}
+    sx: {hanzi: "Sam，吾屋下食茶毋放糖！", pinyin: "Sam, ngaˊ vugˋ kaˊ siid caˇ mˇ biong tongˇ!"}
+    hl: {hanzi: "Sam，𠊎屋下食茶毋放糖！", pinyin: "Sam, ngai vug haˋ shidˋ ca m biongˇ tong!"}
   - n: 9
     speaker: Sam
     en: "(sips) …It's sweet!"
@@ -69,7 +69,7 @@ notes:
     topic: grammar
     text: >
       在該 du ge + verb is "be doing", Mandarin 在 / 正在: 你在該做麼个？ "what are you doing?". Literally "at that
-      (place)": 該 is the "that" of lesson 2. Note the reading: 在 is du in this phrase, not cai. 做 zo "do, make", as
+      (place)": 該 is the "that" of lesson 2. Note the reading: 在 is du in this phrase. 做 zo "do, make", as
       in Mandarin.
   - ref: 2
     topic: grammar
@@ -85,7 +85,7 @@ notes:
   - ref: 4
     topic: grammar
     text: >
-      在 cai alone is "be at": 阿英在哪位？ "where is A-in?". 哪位 nai vi "where" (Mandarin 哪裡). The place word
+      在 coiˊ alone is "be at": 阿英在哪位？ "where is A-in?". 哪位 nai vi "where" (Mandarin 哪裡). The place word
       comes after 在, as in Mandarin.
   - ref: 5
     topic: grammar
@@ -122,7 +122,7 @@ new_words:
   - {hanzi: 泡茶, pinyin: "pau caˇ", en: "make tea", hl: {hanzi: 泡茶, pinyin: "pauˇ ca"}}
   - {hanzi: 食茶, pinyin: "siid caˇ", en: "drink tea", hl: {hanzi: 食茶, pinyin: "shidˋ ca"}}
   - {hanzi: 茶, pinyin: "caˇ", en: "tea", hl: {hanzi: 茶, pinyin: "ca"}}
-  - {hanzi: 在, pinyin: "cai", en: "be at", hl: {hanzi: 在, pinyin: "cai+"}}
+  - {hanzi: 在, pinyin: "coiˊ", en: "be at", hl: {hanzi: 在, pinyin: "coiˋ"}}
   - {hanzi: 哪位, pinyin: "nai vi", en: "where", hl: {hanzi: 哪位, pinyin: "nai+ vui+"}}
   - {hanzi: 厥, pinyin: "giaˊ", en: "his, her, its", hl: {hanzi: 厥, pinyin: "gia"}}
   - {hanzi: 睡目, pinyin: "soi mugˋ", en: "sleep", hl: {hanzi: 睡目, pinyin: "shoi+ mug"}}
@@ -141,11 +141,11 @@ exercises:
       sx: {hanzi: "有粥無？", pinyin: "iuˊ zugˋ moˇ?"}
       hl: {hanzi: "有糜無？", pinyin: "rhiuˋ moi mo?"}
     - en: "Grandma is at home."
-      sx: {hanzi: "阿婆在屋下。", pinyin: "aˊ poˇ cai vugˋ kaˊ."}
-      hl: {hanzi: "阿婆在屋下。", pinyin: "a+ po cai+ vug haˋ."}
+      sx: {hanzi: "阿婆在屋下。", pinyin: "aˊ poˇ coiˊ vugˋ kaˊ."}
+      hl: {hanzi: "阿婆在屋下。", pinyin: "a+ po coiˋ vug haˋ."}
     - en: "This is his tea."
       sx: {hanzi: "這係厥茶。", pinyin: "iaˋ he giaˊ caˇ."}
-      hl: {hanzi: "這係厥茶。", pinyin: "liaˊ heˇ gia ca."}
+      hl: {hanzi: "這係佢个茶。", pinyin: "liaˊ heˇ gi gaiˇ ca."}
     - en: "I didn't put any sugar in."
       sx: {hanzi: "𠊎無放糖。", pinyin: "ngaiˇ moˇ biong tongˇ."}
       hl: {hanzi: "𠊎無放糖。", pinyin: "ngai mo biongˇ tong."}
@@ -157,7 +157,7 @@ exercises:
       sx: {hanzi: "食茶___？", pinyin: "siid caˇ ___?", answer_hanzi: "無", answer: "moˇ"}
       hl: {hanzi: "食茶___？", pinyin: "shidˋ ca ___?", answer_hanzi: "無", answer: "mo"}
     - en: "Where is Grandpa?"
-      sx: {hanzi: "阿公在___？", pinyin: "aˊ gungˊ cai ___?", answer_hanzi: "哪位", answer: "nai vi"}
-      hl: {hanzi: "阿公在___？", pinyin: "a+ gungˋ cai+ ___?", answer_hanzi: "哪位", answer: "nai+ vui+"}
+      sx: {hanzi: "阿公在___？", pinyin: "aˊ gungˊ coiˊ ___?", answer_hanzi: "哪位", answer: "nai vi"}
+      hl: {hanzi: "阿公在___？", pinyin: "a+ gungˋ coiˋ ___?", answer_hanzi: "哪位", answer: "nai+ vui+"}
 
 audio: []

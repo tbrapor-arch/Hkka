@@ -32,13 +32,13 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "She's asking you: the mountains, or the seaside?"
-    sx: {hanzi: "佢問你：愛去爬山，還係去海脣？", pinyin: "giˇ mun nˇ: oi hi paˇ sanˊ, hanˇ he hi hoiˋ sunˇ?"}
-    hl: {hanzi: "佢問你：愛去爬山，抑係去海脣？", pinyin: "gi munˇ ngi: oiˇ hiˇ pa sanˋ, rha+ heˇ hiˇ hoiˊ shun?"}
+    sx: {hanzi: "佢問你：愛去蹶山，還係去海脣？", pinyin: "giˇ mun nˇ: oi hi kied sanˊ, hanˇ he hi hoiˋ sunˇ?"}
+    hl: {hanzi: "佢問你：愛去蹶山，抑係去海脣？", pinyin: "gi munˇ ngi: oiˇ hiˇ kiedˋ sanˋ, rha+ heˇ hiˇ hoiˊ shun?"}
   - n: 6
     speaker: Sam
     en: "The mountains!"
-    sx: {hanzi: "爬山！", pinyin: "paˇ sanˊ!"}
-    hl: {hanzi: "爬山！", pinyin: "pa sanˋ!"}
+    sx: {hanzi: "蹶山！", pinyin: "kied sanˊ!"}
+    hl: {hanzi: "蹶山！", pinyin: "kiedˋ sanˋ!"}
   - n: 7
     speaker: 阿公
     en: "(not looking up) It'll be cold. Wear the coat."
@@ -57,8 +57,8 @@ dialogue:
   - n: 10
     speaker: 阿公
     en: "(to A-min) You stay home and have tea with me."
-    sx: {hanzi: "你在屋下，同𠊎食茶。", pinyin: "nˇ cai vugˋ kaˊ, tungˇ ngaiˇ siid caˇ."}
-    hl: {hanzi: "你在屋下，摎𠊎食茶。", pinyin: "ngi cai+ vug haˋ, lauˋ ngai shidˋ ca."}
+    sx: {hanzi: "你留在屋下，同𠊎食茶。", pinyin: "nˇ liuˇ coiˊ vugˋ kaˊ, tungˇ ngaiˇ siid caˇ."}
+    hl: {hanzi: "你留在屋下，摎𠊎食茶。", pinyin: "ngi liu coiˋ vug haˋ, lauˋ ngai shidˋ ca."}
 
 notes:
   - ref: 1
@@ -66,13 +66,13 @@ notes:
     text: >
       轉來 zonˋ loiˇ "come back (home)": the other half of lesson 6's 轉去. A-in 轉去 to Taipei and 轉來 to Miaoli; the
       family has been waiting two weeks to say this word. Days of the week: 禮拜 liˊ bai + a number, 禮拜一 Monday to
-      禮拜六 Saturday, and 禮拜日 Sunday. 禮拜 alone is "week" (星期), the false friend: in Mandarin it sounds like
-      church.
+      禮拜六 Saturday, and 禮拜日 Sunday. 禮拜 alone is "week" (星期), as in Taiwan Mandarin.
   - ref: 2
     topic: grammar
     text: >
       佢盡好食个菜 "the dish she likes best": 盡好 (hau) + verb + 个 + noun, a whole phrase before the noun, as in
-      Mandarin 她最喜歡吃的菜. You will find out on Friday what it is.
+      Mandarin 她最喜歡吃的菜. You will find out on Friday what it is. Careful: 盡好食 can also mean
+      "really tasty" (好 hoˋ, 盡 "very"); the tone of 好 and the context decide.
   - ref: 3
     topic: vocab
     text: >
@@ -82,10 +82,10 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      "Or" in a question: 還係 hanˇ he (愛去爬山，還係去海脣？ "do you want to go to the mountains or the seaside?").
+      "Or" in a question: 還係 hanˇ he (愛去蹶山，還係去海脣？ "do you want to go to the mountains or the seaside?").
       抑係 ia he means the same and is at least as common: 你愛食麵抑係食飯？. In a statement, 還係 is "still" (as in
-      Mandarin 還是). 問 mun "ask". 海脣 hoiˋ sunˇ "seaside": 脣 is "lip, edge", so a riverbank is 河脣. 爬山 paˇ sanˊ
-      "go up into the mountains, go hiking".
+      Mandarin 還是). 問 mun "ask". 海脣 hoiˋ sunˇ "seaside": 脣 is "lip, edge", so a riverbank is 河壩脣. 蹶山 kied sanˊ
+      "go up into the mountains, go hiking" (蹶 "climb"); 爬山, the Mandarin word, is understood too.
   - ref: 9
     topic: grammar
     text: >
@@ -102,7 +102,7 @@ new_words:
   - {hanzi: 朝晨, pinyin: "zeuˊ siinˇ", en: "morning", hl: {hanzi: 朝晨, pinyin: "zhauˋ shin"}}
   - {hanzi: 尞, pinyin: "liau", en: "relax, have fun, visit", hl: {hanzi: 尞, pinyin: "liau+"}}
   - {hanzi: 問, pinyin: "mun", en: "ask", hl: {hanzi: 問, pinyin: "munˇ"}}
-  - {hanzi: 爬山, pinyin: "paˇ sanˊ", en: "go hiking, climb a mountain", hl: {hanzi: 爬山, pinyin: "pa sanˋ"}}
+  - {hanzi: 蹶山, pinyin: "kied sanˊ", en: "go hiking, climb a mountain", hl: {hanzi: 蹶山, pinyin: "kiedˋ sanˋ"}}
   - {hanzi: 還係, pinyin: "hanˇ he", en: "or (in questions); still", hl: {hanzi: 抑係, pinyin: "rha+ heˇ"}}
   - {hanzi: 海脣, pinyin: "hoiˋ sunˇ", en: "seaside", hl: {hanzi: 海脣, pinyin: "hoiˊ shun"}}
   - {hanzi: 儕, pinyin: "saˇ", en: "(classifier for people)", hl: {hanzi: 儕, pinyin: "sa"}}
@@ -113,6 +113,7 @@ new_words:
   - {hanzi: 便當, pinyin: "pien dongˊ", en: "lunch box", hl: {hanzi: 便當, pinyin: "pien+ dongˋ"}}
   - {hanzi: 山, pinyin: "sanˊ", en: "mountain, hill", hl: {hanzi: 山, pinyin: "sanˋ"}}
   - {hanzi: 海, pinyin: "hoiˋ", en: "sea", hl: {hanzi: 海, pinyin: "hoiˊ"}}
+  - {hanzi: 留, pinyin: "liuˇ", en: "stay, keep", hl: {hanzi: 留, pinyin: "liu"}}
   - {hanzi: 煮, pinyin: "zuˋ", en: "cook, boil", hl: {hanzi: 煮, pinyin: "zhuˊ"}}
 
 exercises:
@@ -133,14 +134,14 @@ exercises:
       sx: {hanzi: "阿婆問 Sam：你愛帶便當無？", pinyin: "aˊ poˇ mun Sam: nˇ oi dai pien dongˊ moˇ?"}
       hl: {hanzi: "阿婆問 Sam：你愛帶便當無？", pinyin: "a+ po munˇ Sam: ngi oiˇ daiˇ pien+ dongˋ mo?"}
   fill:
-    - en: "The mountains, or the sea?"
+    - en: "The mountains, or the sea? (the 還 one)"
       sx: {hanzi: "去山，___去海？", pinyin: "hi sanˊ, ___ hi hoiˋ?", answer_hanzi: "還係", answer: "hanˇ he"}
       hl: {hanzi: "去山，___去海？", pinyin: "hiˇ sanˋ, ___ hiˇ hoiˊ?", answer_hanzi: "抑係", answer: "rha+ heˇ"}
     - en: "A-in is coming back on Friday."
       sx: {hanzi: "阿英禮拜五會___。", pinyin: "aˊ inˊ liˊ bai ngˋ voi ___.", answer_hanzi: "轉來", answer: "zonˋ loiˇ"}
       hl: {hanzi: "阿英禮拜五會___。", pinyin: "a+ rhinˋ liˋ baiˇ ngˊ voi+ ___.", answer_hanzi: "轉來", answer: "zhonˊ loi"}
     - en: "Let's go together."
-      sx: {hanzi: "𠊎兜___去。", pinyin: "ngaiˇ deuˊ ___ hi.", answer_hanzi: "共下", answer: "kiung ha"}
-      hl: {hanzi: "𠊎兜___去。", pinyin: "ngai deuˋ ___ hiˇ.", answer_hanzi: "共下", answer: "kiung+ ha+"}
+      sx: {hanzi: "𫣆兜___去。", pinyin: "enˊ deuˊ ___ hi.", answer_hanzi: "共下", answer: "kiung ha"}
+      hl: {hanzi: "𫣆兜___去。", pinyin: "enˋ deuˋ ___ hiˇ.", answer_hanzi: "共下", answer: "kiung+ ha+"}
 
 audio: []

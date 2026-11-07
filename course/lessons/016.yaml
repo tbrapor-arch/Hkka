@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: 阿爸
     en: "Don't worry. You make the tea, I'll do the selling."
-    sx: {hanzi: "毋使驚。你泡茶，𠊎就賣。", pinyin: "mˇ siiˋ giangˊ. nˇ pau caˇ, ngaiˇ qiu mai."}
-    hl: {hanzi: "毋使驚。你泡茶，𠊎就賣。", pinyin: "m siiˊ giangˋ. ngi pauˇ ca, ngai ciu+ mai+."}
+    sx: {hanzi: "毋使驚。你泡茶，𠊎來賣。", pinyin: "mˇ siiˋ giangˊ. nˇ pau caˇ, ngaiˇ loiˇ mai."}
+    hl: {hanzi: "毋使驚。你泡茶，𠊎來賣。", pinyin: "m siiˊ giangˋ. ngi pauˇ ca, ngai loi mai+."}
   - n: 6
     speaker: Sam
     en: "(at the shop, to the first customer) Please, have a cup of tea!"
@@ -69,7 +69,7 @@ dialogue:
     speaker: 人客
     en: "(smiling) A friend… I see. Two catties, please."
     sx: {hanzi: "朋友……好。兩斤，恁仔細。", pinyin: "penˇ iuˊ … hoˋ. liongˋ ginˊ, anˋ ziiˋ se."}
-    hl: {hanzi: "朋友……好。兩斤，承蒙。", pinyin: "pen rhiuˋ … hoˊ. liongˊ ginˋ, shin mung."}
+    hl: {hanzi: "朋友……好。兩斤，承蒙你。", pinyin: "pen rhiuˋ … hoˊ. liongˊ ginˋ, shin mung ngi."}
 
 notes:
   - ref: 1
@@ -92,8 +92,8 @@ notes:
   - ref: 4
     topic: grammar
     text: >
-      Verb + 過 go is "have done (before)", as in Mandarin: 賣過 "have sold". The negative uses 無, never 毋: 𠊎無賣過茶
-      "I've never sold tea". 好！ "OK, sure!" (好 hoˋ). 你來𢯭手好無？ "will you come and help?": …好無？ "OK?" makes a
+      Verb + 過 go is "have done (before)", as in Mandarin: 賣過 "have sold". The plain negative is 無 (𠊎無賣過茶 "I've never sold
+      tea"), never *毋賣過; with 識 you get 毋識賣過 (lesson 20). 𠊎來賣 "I'll do the selling": 來 + verb volunteers. 好！ "OK, sure!" (好 hoˋ). 你來𢯭手好無？ "will you come and help?": …好無？ "OK?" makes a
       request.
   - ref: 6
     topic: vocab
@@ -147,8 +147,8 @@ exercises:
       sx: {hanzi: "阿明五點正會來。", pinyin: "aˊ minˇ ngˋ diamˋ zang voi loiˇ."}
       hl: {hanzi: "阿明五點正會來。", pinyin: "a+ min ngˊ diamˊ zhangˇ voi+ loi."}
     - en: "Have you ever eaten rice noodles?"
-      sx: {hanzi: "你食過粄條無？", pinyin: "nˇ siid go banˋ tiauˇ moˇ?"}
-      hl: {hanzi: "你食過粄條無？", pinyin: "ngi shidˋ goˇ banˊ tiau mo?"}
+      sx: {hanzi: "你有食過粄條無？", pinyin: "nˇ iuˊ siid go banˋ tiauˇ moˇ?"}
+      hl: {hanzi: "你有食過粄條無？", pinyin: "ngi rhiuˋ shidˋ goˇ banˊ tiau mo?"}
     - en: "Grandma is Hakka; Sam isn't."
       sx: {hanzi: "阿婆係客人，Sam 毋係。", pinyin: "aˊ poˇ he hagˋ nginˇ, Sam mˇ he."}
       hl: {hanzi: "阿婆係客人，Sam 毋係。", pinyin: "a+ po heˇ hag ngin, Sam m heˇ."}

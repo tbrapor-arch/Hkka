@@ -1,8 +1,8 @@
 id: 6
 title:
   en: "What time is it?"
-  sx: {hanzi: "這下幾點？", pinyin: "iaˋ ha giˋ diamˋ?"}
-  hl: {hanzi: "這下幾點？", pinyin: "liaˊ ha+ giˊ diamˊ?"}
+  sx: {hanzi: "這下幾多點？", pinyin: "iaˋ ha giˋ doˊ diamˋ?"}
+  hl: {hanzi: "這下幾多點？", pinyin: "liaˊ ha+ giˊ doˋ diamˊ?"}
 review: false
 setting: >-
   Sunday, late afternoon. A-in comes downstairs with her bag. Mr Liu is starting the car to take her to the station.
@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: Sam
     en: "What time's the train?"
-    sx: {hanzi: "幾點个火車？", pinyin: "giˋ diamˋ ge foˋ caˊ?"}
-    hl: {hanzi: "幾點个火車？", pinyin: "giˊ diamˊ gaiˇ foˊ chaˋ?"}
+    sx: {hanzi: "幾多點个火車？", pinyin: "giˋ doˊ diamˋ ge foˋ caˊ?"}
+    hl: {hanzi: "幾多點个火車？", pinyin: "giˊ doˋ diamˊ gaiˇ foˊ chaˋ?"}
   - n: 6
     speaker: 阿英
     en: "Six o'clock."
@@ -60,7 +60,7 @@ dialogue:
     speaker: Sam
     en: "…Thank you?"
     sx: {hanzi: "……恁仔細？", pinyin: "… anˋ ziiˋ se?"}
-    hl: {hanzi: "……承蒙？", pinyin: "… shin mung?"}
+    hl: {hanzi: "……承蒙你？", pinyin: "… shin mung ngi?"}
 
 notes:
   - ref: 1
@@ -88,13 +88,13 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      幾點 giˋ diamˋ "what time": 幾 as in 幾多. 六點 "six o'clock", 五點半 "half past five" (半 ban "half"), as in
-      Mandarin. 幾點个火車 "a train at what time": 个 links the time to the noun, like 的.
+      幾多點 giˋ doˊ diamˋ "what time", literally "how many o'clock", with the 幾多 of the market. 六點 "six o'clock", 五點半 "half past five" (半 ban "half"), as in
+      Mandarin. 幾多點个火車 "a train at what time": 个 links the time to the noun, like 的.
   - ref: 5
     topic: false-friend
     text: >
-      A trap for later: 點鐘 diamˋ zungˊ is "hour", the length of time, so 一點鐘 is "one hour", never "one o'clock".
-      For the time of day, just 點: 一點 "one o'clock".
+      A trap for later: 點鐘 diamˋ zungˊ usually means "hour", the length of time, so 兩點鐘 is "two hours", not
+      "two o'clock" (though 十點鐘 can be ten o'clock too). For the time of day, plain 點 is safest: 兩點.
   - ref: 8
     topic: grammar
     text: >
@@ -119,7 +119,8 @@ new_words:
   - {hanzi: 今晡日, pinyin: "gimˊ buˊ ngidˋ", en: "today", hl: {hanzi: 今晡日, pinyin: "gimˋ buˋ ngid"}}
   - {hanzi: 天光日, pinyin: "tienˊ gongˊ ngidˋ", en: "tomorrow", hl: {hanzi: 韶早, pinyin: "shau zoˊ"}}
   - {hanzi: 做事, pinyin: "zo se", en: "work", hl: {hanzi: 做事, pinyin: "zoˇ she+"}}
-  - {hanzi: 幾, pinyin: "giˋ", en: "how many, which (幾)", hl: {hanzi: 幾, pinyin: "giˊ"}}
+  - {hanzi: 七, pinyin: "qidˋ", en: "seven", hl: {hanzi: 七, pinyin: "cid"}}
+  - {hanzi: 九, pinyin: "giuˋ", en: "nine", hl: {hanzi: 九, pinyin: "giuˊ"}}
   - {hanzi: 點, pinyin: "diamˋ", en: "o'clock", hl: {hanzi: 點, pinyin: "diamˊ"}}
   - {hanzi: 火車, pinyin: "foˋ caˊ", en: "train", hl: {hanzi: 火車, pinyin: "foˊ chaˋ"}}
   - {hanzi: 六, pinyin: "liugˋ", en: "six", hl: {hanzi: 六, pinyin: "liug"}}
@@ -138,17 +139,17 @@ exercises:
       sx: {hanzi: "阿公愛去哪位？", pinyin: "aˊ gungˊ oi hi nai vi?"}
       hl: {hanzi: "阿公愛去哪位？", pinyin: "a+ gungˋ oiˇ hiˇ nai+ vui+?"}
     - en: "What time is it now?"
-      sx: {hanzi: "這下幾點？", pinyin: "iaˋ ha giˋ diamˋ?"}
-      hl: {hanzi: "這下幾點？", pinyin: "liaˊ ha+ giˊ diamˊ?"}
+      sx: {hanzi: "這下幾多點？", pinyin: "iaˋ ha giˋ doˊ diamˋ?"}
+      hl: {hanzi: "這下幾多點？", pinyin: "liaˊ ha+ giˊ doˋ diamˊ?"}
     - en: "I have to work tomorrow at eight."
       sx: {hanzi: "𠊎天光日八點愛做事。", pinyin: "ngaiˇ tienˊ gongˊ ngidˋ badˋ diamˋ oi zo se."}
       hl: {hanzi: "𠊎韶早八點愛做事。", pinyin: "ngai shau zoˊ bad diamˊ oiˇ zoˇ she+."}
     - en: "A-min slept until half past six."
       sx: {hanzi: "阿明睡到六點半。", pinyin: "aˊ minˇ soi do liugˋ diamˋ ban."}
       hl: {hanzi: "阿明睡到六點半。", pinyin: "a+ min shoi+ doˇ liug diamˊ banˇ."}
-    - en: "Yesterday A-in was going back to Taipei; today she isn't going."
-      sx: {hanzi: "昨晡日阿英愛轉去臺北，今晡日毋去了。", pinyin: "coˊ buˊ ngidˋ aˊ inˊ oi zonˋ hi toiˇ bedˋ, gimˊ buˊ ngidˋ mˇ hi leˊ."}
-      hl: {hanzi: "昨晡日阿英愛轉去臺北，今晡日毋去了。", pinyin: "coˋ buˋ ngid a+ rhinˋ oiˇ zhonˊ hiˇ toi bed, gimˋ buˋ ngid m hiˇ leˋ."}
+    - en: "Yesterday A-min went to bed at nine; today, at seven."
+      sx: {hanzi: "昨晡日阿明九點睡，今晡日七點。", pinyin: "coˊ buˊ ngidˋ aˊ minˇ giuˋ diamˋ soi, gimˊ buˊ ngidˋ qidˋ diamˋ."}
+      hl: {hanzi: "昨晡日阿明九點睡，今晡日七點。", pinyin: "coˋ buˋ ngid a+ min giuˊ diamˊ shoi+, gimˋ buˋ ngid cid diamˊ."}
   fill:
     - en: "What are you going to Taipei for?"
       sx: {hanzi: "你去臺北做___？", pinyin: "nˇ hi toiˇ bedˋ zo ___?", answer_hanzi: "麼个", answer: "maˋ ge"}

@@ -25,8 +25,8 @@ dialogue:
   - n: 3
     speaker: 阿姆
     en: "Come on, we're going to buy you a padded coat."
-    sx: {hanzi: "來，𠊎兜去買一領襖婆。", pinyin: "loiˇ, ngaiˇ deuˊ hi maiˊ idˋ liangˊ oˋ poˇ."}
-    hl: {hanzi: "來，𠊎兜去買一領襖婆。", pinyin: "loi, ngai deuˋ hiˇ maiˋ rhid liangˋ oˊ po."}
+    sx: {hanzi: "來，𫣆兜去買一領襖婆。", pinyin: "loiˇ, enˊ deuˊ hi maiˊ idˋ liangˊ oˋ poˇ."}
+    hl: {hanzi: "來，𫣆兜去買一領襖婆。", pinyin: "loi, enˋ deuˋ hiˇ maiˋ rhid liangˋ oˊ po."}
   - n: 4
     speaker: Sam
     en: "A coat… grandma?"
@@ -50,8 +50,8 @@ dialogue:
   - n: 8
     speaker: 頭家娘
     en: "Not dear at all! They're the same: twelve hundred."
-    sx: {hanzi: "毋貴，毋貴！兩領共樣，一千二。", pinyin: "mˇ gui, mˇ gui! liongˋ liangˊ kiung iong, idˋ qienˊ ngi."}
-    hl: {hanzi: "毋貴，毋貴！兩領共樣，一千二。", pinyin: "m guiˇ, m guiˇ! liongˊ liangˋ kiung+ rhong+, rhid cienˋ ngi+."}
+    sx: {hanzi: "毋會貴，毋會貴！兩領共樣，一千二。", pinyin: "mˇ voi gui, mˇ voi gui! liongˋ liangˊ kiung iong, idˋ qienˊ ngi."}
+    hl: {hanzi: "毋會貴，毋會貴！兩領共樣，一千二。", pinyin: "m voi+ guiˇ, m voi+ guiˇ! liongˊ liangˋ kiung+ rhong+, rhid cienˋ ngi+."}
   - n: 9
     speaker: Sam
     en: "(trying it on) How's that?"
@@ -73,8 +73,8 @@ notes:
     topic: false-friend
     text: >
       著 zogˋ is "wear, put on" (穿): 著恁少 "wearing so little". It is the 著 of lesson 10 (cog "right") written the
-      same and said differently. 寒 honˇ "cold" is what a person feels (Mandarin 冷); 冷 langˊ is used for cold things
-      and weather too. This line is an official example sentence, word for word; it is what every Hakka mother says
+      same and said differently. 寒 honˇ (lesson 9) is the usual word for feeling cold; 冷 is also heard, and is the word
+      for cold things. This line is an official example sentence, word for word; it is what every Hakka mother says
       in December.
   - ref: 2
     topic: grammar
@@ -86,6 +86,11 @@ notes:
     text: >
       領 liangˊ is the classifier for clothes (Mandarin 件): 一領衫, 一領襖婆. And for blankets and mats. 襖婆 oˋ poˇ
       "padded coat, winter coat".
+  - ref: 3
+    topic: grammar
+    text: >
+      𫣆兜 enˊ deuˊ "we, you and I": Mrs Liu is taking Sam, so the "we" includes the person spoken to. Compare lesson 10:
+      𠊎兜 is "we, not you". 𫣆 is written with its own character; 𫣆兩儕 "the two of us".
   - ref: 5
     topic: vocab
     text: >
@@ -95,9 +100,13 @@ notes:
     topic: grammar
     text: >
       Comparing: X 比 Y 較 + adjective. 這領比該領較靚 "this one is nicer than that one". Mandarin can say 比較漂亮 or
-      just 漂亮 after 比; Hakka nearly always puts 較 ka in. Without 比, 較 alone is "more": 較靚 "nicer", 較貴 "dearer".
+      just 漂亮 after 比; Hakka usually puts 較 ka in. Without 比, 較 alone is "more": 較靚 "nicer", 較貴 "dearer".
       係無？ at the end asks for agreement: "isn't it?". 靚 jiangˊ "pretty, nice-looking", the everyday Hakka word, as
       in Cantonese.
+  - ref: 8
+    topic: grammar
+    text: >
+      毋會貴 "not dear (at all)": an adjective is negated with 毋會 or 無, not bare 毋: 毋會辣, 毋會寒, 無甜.
   - ref: 8
     topic: grammar
     text: >
@@ -127,6 +136,7 @@ new_words:
   - {hanzi: 貴, pinyin: "gui", en: "expensive", hl: {hanzi: 貴, pinyin: "guiˇ"}}
   - {hanzi: 共樣, pinyin: "kiung iong", en: "the same", hl: {hanzi: 共樣, pinyin: "kiung+ rhong+"}}
   - {hanzi: 千, pinyin: "qienˊ", en: "thousand", hl: {hanzi: 千, pinyin: "cienˋ"}}
+  - {hanzi: 𫣆兜, pinyin: "enˊ deuˊ", en: "we (you and I, including the listener)", hl: {hanzi: 𫣆兜, pinyin: "enˋ deuˋ"}}
   - {hanzi: 仰般, pinyin: "ngiongˋ banˊ", en: "how; how is it", hl: {hanzi: 仰般, pinyin: "ngiongˊ banˋ"}}
   - {hanzi: 便宜, pinyin: "pienˇ ngiˇ", en: "cheap", hl: {hanzi: 便宜, pinyin: "pien ngi"}}
   - {hanzi: 多, pinyin: "doˊ", en: "many, much", hl: {hanzi: 多, pinyin: "doˋ"}}

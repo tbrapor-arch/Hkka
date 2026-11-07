@@ -127,8 +127,8 @@ exercises:
       sx: {hanzi: "阿明盡好食粄條，𠊎想愛食湯。", pinyin: "aˊ minˇ qin hau siid banˋ tiauˇ, ngaiˇ xiongˋ oi siid tongˊ."}
       hl: {hanzi: "阿明最好食粄條，𠊎想愛食湯。", pinyin: "a+ min zuiˇ hauˇ shidˋ banˊ tiau, ngai siongˊ oiˇ shidˋ tongˋ."}
     - en: "We're at home. Where are you all?"
-      sx: {hanzi: "𠊎兜在屋下。你兜在哪位？", pinyin: "ngaiˇ deuˊ cai vugˋ kaˊ. nˇ deuˊ cai nai vi?"}
-      hl: {hanzi: "𠊎兜在屋下。你兜在哪位？", pinyin: "ngai deuˋ cai+ vug haˋ. ngi deuˋ cai+ nai+ vui+?"}
+      sx: {hanzi: "𠊎兜在屋下。你兜在哪位？", pinyin: "ngaiˇ deuˊ coiˊ vugˋ kaˊ. nˇ deuˊ coiˊ nai vi?"}
+      hl: {hanzi: "𠊎兜在屋下。你兜在哪位？", pinyin: "ngai deuˋ coiˋ vug haˋ. ngi deuˋ coiˋ nai+ vui+?"}
   fill:
     - en: "This chilli is the hottest."
       sx: {hanzi: "這粒辣椒仔___辣。", pinyin: "iaˋ liab lad zeuˊ eˋ ___ lad.", answer_hanzi: "盡", answer: "qin"}

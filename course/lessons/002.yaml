@@ -30,7 +30,7 @@ dialogue:
     speaker: Sam
     en: "Thank you, Grandma."
     sx: {hanzi: "恁仔細，阿婆。", pinyin: "anˋ ziiˋ se, aˊ poˇ."}
-    hl: {hanzi: "承蒙，阿婆。", pinyin: "shin mung, a+ po."}
+    hl: {hanzi: "承蒙你，阿婆。", pinyin: "shin mung ngi, a+ po."}
   - n: 5
     speaker: 阿公
     en: "Sit."
@@ -55,13 +55,13 @@ dialogue:
   - n: 9
     speaker: Sam
     en: "Thank you, Mrs Liu!"
-    sx: {hanzi: "恁仔細，阿姆！", pinyin: "anˋ ziiˋ se, aˊ meˊ!"}
-    hl: {hanzi: "承蒙，阿姆！", pinyin: "shin mung, a+ meˋ!"}
+    sx: {hanzi: "恁仔細，伯姆！", pinyin: "anˋ ziiˋ se, bagˋ meˊ!"}
+    hl: {hanzi: "承蒙你，伯姆！", pinyin: "shin mung ngi, bag meˊ!"}
   - n: 10
     speaker: 阿明
     en: "(to A-in) Another thank-you…"
     sx: {hanzi: "又係恁仔細……", pinyin: "iu he anˋ ziiˋ se…"}
-    hl: {hanzi: "又係承蒙……", pinyin: "rhiu+ heˇ shin mung…"}
+    hl: {hanzi: "又係承蒙你……", pinyin: "rhiu+ heˇ shin mung ngi…"}
 
 notes:
   - ref: 1
@@ -69,7 +69,7 @@ notes:
     text: >
       The family words: 阿公 aˊ gungˊ grandfather, 阿婆 aˊ poˇ grandmother (both on the father's side), 阿爸 aˊ baˊ
       dad, 阿姆 aˊ meˊ mum. 阿公 you know from Taiwan Mandarin. Careful with the other two: in Mandarin 阿婆 is any old
-      woman and 阿姆 can be a nanny, but here they are Grandma and Mum. In sandhi, 阿 turns low before the rising 公,
+      woman, and if you know Taigi, its 阿姆 is an aunt; here they are Grandma and Mum. In sandhi, 阿 turns low before the rising 公,
       爸, 姆 (aˇ gungˊ, aˇ baˊ, aˇ meˊ) and stays before 婆.
   - ref: 1
     topic: grammar
@@ -79,9 +79,10 @@ notes:
   - ref: 2
     topic: grammar
     text: >
-      "My grandma" is 吾婆 ngaˊ poˇ: after 吾 "my", the 阿 drops. So 吾公, 吾婆, 吾爸, 吾姆, never *吾阿婆. The same
+      "My grandma" is 吾婆 ngaˊ poˇ: after 吾 "my", the 阿 drops. So 吾公, 吾婆, 吾爸, 吾姆 (forms like 厥阿姆 do occur, but the short ones are usual). The same
       goes for "your" and "his/her": 若 ngiaˊ (若爸 "your dad") and 厥 giaˊ (厥姆 "his mum"), which you'll meet soon.
-      An easy way to hold them: each is its pronoun plus -a. 𠊎 ngaiˇ → 吾 ngaˊ, 你 ngiˇ → 若 ngiaˊ, 佢 giˇ → 厥 giaˊ.
+      An easy way to hold them: each keeps its pronoun's opening sound, ends in -a and rises. 𠊎 ngaiˇ → 吾 ngaˊ, 你
+      ngiˇ → 若 ngiaˊ, 佢 giˇ → 厥 giaˊ.
   - ref: 2
     topic: false-friend
     text: >
@@ -108,6 +109,12 @@ notes:
     text: >
       个 ge is the Hakka 的: 𠊎个 "mine", 你个 "yours". It is the second most frequent word in Hakka; you will see it in
       almost every line from now on. It is also the general classifier (lesson 5).
+  - ref: 9
+    topic: culture
+    text: >
+      Sam does not call A-in's mother 阿姆 "Mum": she is 伯姆 bagˋ meˊ to him, literally "wife of father's elder
+      brother", the polite way to address a friend's mother. The family call her 阿姆; Sam, the guest, says 伯姆.
+      (A-in briefed him on the train.)
   - ref: 10
     topic: vocab
     text: >
@@ -134,6 +141,7 @@ new_words:
   - {hanzi: 若, pinyin: "ngiaˊ", en: "your", hl: {hanzi: 若个, pinyin: "ngia gaiˇ"}}
   - {hanzi: 間房, pinyin: "gienˊ fongˇ", en: "bedroom", hl: {hanzi: 間房, pinyin: "gienˋ fong"}}
   - {hanzi: 个, pinyin: "ge", en: "'s, of (的)", hl: {hanzi: 个, pinyin: "gaiˇ"}}
+  - {hanzi: 伯姆, pinyin: "bagˋ meˊ", en: "auntie (a friend's mother; father's elder brother's wife)", hl: {hanzi: 伯姆, pinyin: "bag meˊ"}}
   - {hanzi: 又, pinyin: "iu", en: "again", hl: {hanzi: 又, pinyin: "rhiu+"}}
 
 exercises:
@@ -141,7 +149,7 @@ exercises:
     - en: "This is my dad, and that's my mum."
       sx: {hanzi: "這係吾爸，該係吾姆。", pinyin: "iaˋ he ngaˊ baˊ, ge he ngaˊ meˊ."}
       hl: {hanzi: "這係𠊎爸，該係𠊎姆。", pinyin: "liaˊ heˇ ngai baˋ, gai heˇ ngai meˋ."}
-    - en: "Is that your grandpa?"
+    - en: "So that's your grandpa?"
       sx: {hanzi: "該就係若公？", pinyin: "ge qiu he ngiaˊ gungˊ?"}
       hl: {hanzi: "該就係若公？", pinyin: "gai ciu+ heˇ ngia gungˋ?"}
     - en: "This is mine, that's yours."

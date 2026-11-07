@@ -20,7 +20,7 @@ dialogue:
     speaker: Sam
     en: "Yes, I have, thank you!"
     sx: {hanzi: "食飽了，恁仔細！", pinyin: "siid bauˋ leˊ, anˋ ziiˋ se!"}
-    hl: {hanzi: "食飽了，承蒙！", pinyin: "shidˋ bauˊ leˋ, shin mung!"}
+    hl: {hanzi: "食飽了，承蒙你！", pinyin: "shidˋ bauˊ leˋ, shin mung ngi!"}
   - n: 3
     speaker: 阿婆
     en: "Eaten? You haven't eaten yet! Come, have a bowl of congee."
@@ -90,7 +90,7 @@ notes:
     topic: false-friend
     text: >
       愛 oi is the everyday "want to, need to", Mandarin 要: 𠊎愛食雞卵 "I want (to eat) eggs". It is not "love".
-      Grandma's 你愛食 is "you have to eat". When a Mandarin speaker hears 我愛吃… he hears a confession; a Hakka
+      "You have to eat" is 你愛食. When a Mandarin speaker hears 我愛吃… he hears a confession; a Hakka
       speaker hears an order at a breakfast stall. An egg is 雞卵 gieˊ lonˋ (卵 = 蛋).
   - ref: 5
     topic: grammar
@@ -107,7 +107,8 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu calls congee 糜 moi, not 粥. Its 食 is shidˋ: Hailu has the sh, zh, ch sounds Sixian lost. And watch the
+      Hailu calls congee 糜 moi, not 粥. Its 食 is shidˋ: Hailu has the sh, zh, ch sounds Sixian lost. Rice, a meal, is 飯 fan in Sixian
+      but pon+ in Hailu: the old p- that Mandarin f- hides (Lesson 0, §6). And watch the
       tone code on 食飽: Sixian siid bauˋ, Hailu shidˋ bauˊ.
 
 new_words:

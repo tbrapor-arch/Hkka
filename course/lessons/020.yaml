@@ -5,7 +5,7 @@ title:
   hl: {hanzi: "頭擺", pinyin: "teu baiˊ"}
 review: false
 setting: >-
-  Saturday dinner. A-in is home, the 客家小炒 is on the table, and Sam has spent the day hiking with her. Over the rice,
+  Saturday dinner. A-in is home, what is left of Friday's 客家小炒 is on the table, and Sam has spent the day hiking with her. Over the rice,
   A-in tries something nobody has tried in a long time.
 names: [阿英, 阿明, 公館]
 
@@ -22,9 +22,9 @@ dialogue:
     hl: {hanzi: "頭擺……", pinyin: "teu baiˊ …"}
   - n: 3
     speaker: 阿公
-    en: "When I was young there were no buses. Every morning I carried the tea on a pole and walked to 公館 to sell it."
-    sx: {hanzi: "𠊎後生个時節，無巴士。逐日朝晨㧡茶，行路去公館賣。", pinyin: "ngaiˇ heu sangˊ ge siiˇ jiedˋ, moˇ ba siiˋ. dagˋ ngidˋ zeuˊ siinˇ kaiˊ caˇ, hangˇ lu hi gungˊ gonˋ mai."}
-    hl: {hanzi: "𠊎後生个時節，無巴士。逐日朝晨㧡茶，行路去公館賣。", pinyin: "ngai heu+ sangˋ gaiˇ shi zied, mo ba siiˋ. dag ngid zhauˋ shin kaiˋ ca, hang lu+ hiˇ gungˋ gonˊ mai+."}
+    en: "When I was young there was no money for the bus. Every morning I carried the tea on a pole and walked to 公館 to sell it."
+    sx: {hanzi: "𠊎後生个時節，無錢坐巴士。逐日朝晨㧡茶，行路去公館賣。", pinyin: "ngaiˇ heu sangˊ ge siiˇ jiedˋ, moˇ qienˇ coˊ ba siiˋ. dagˋ ngidˋ zeuˊ siinˇ kaiˊ caˇ, hangˇ lu hi gungˊ gonˋ mai."}
+    hl: {hanzi: "𠊎後生个時節，無錢坐巴士。逐日朝晨㧡茶，行路去公館賣。", pinyin: "ngai heu+ sangˋ gaiˇ shi zied, mo cien coˋ ba siiˋ. dag ngid zhauˋ shin kaiˋ ca, hang lu+ hiˇ gungˋ gonˊ mai+."}
   - n: 4
     speaker: Sam
     en: "Walked to 公館?"
@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: 阿公
     en: "Walked. Two hours."
-    sx: {hanzi: "行路。兩點鐘。", pinyin: "hangˇ lu. liongˋ diamˋ zungˊ."}
-    hl: {hanzi: "行路。兩點鐘。", pinyin: "hang lu+. liongˊ diamˊ zhungˋ."}
+    sx: {hanzi: "行路。兩點鐘久。", pinyin: "hangˇ lu. liongˋ diamˋ zungˊ giuˋ."}
+    hl: {hanzi: "行路。兩點鐘久。", pinyin: "hang lu+. liongˊ diamˊ zhungˋ giuˊ."}
   - n: 6
     speaker: 阿明
     en: "Sam wanted to walk to 公館 too!"
@@ -48,8 +48,8 @@ dialogue:
   - n: 8
     speaker: 阿婆
     en: "In those days he sang mountain songs in the tea garden every day."
-    sx: {hanzi: "該下佢逐日在茶園唱山歌。", pinyin: "ge ha giˇ dagˋ ngidˋ cai caˇ ienˇ cong sanˊ goˊ."}
-    hl: {hanzi: "該下佢逐日在茶園唱山歌。", pinyin: "gai ha+ gi dag ngid cai+ ca rhan chongˇ sanˋ goˋ."}
+    sx: {hanzi: "該下佢逐日在茶園唱山歌。", pinyin: "ge ha giˇ dagˋ ngidˋ coiˊ caˇ ienˇ cong sanˊ goˊ."}
+    hl: {hanzi: "該下佢逐日在茶園唱山歌。", pinyin: "gai ha+ gi dag ngid coiˋ ca rhan chongˇ sanˋ goˋ."}
   - n: 9
     speaker: 阿英
     en: "Grandpa, sing one!"
@@ -63,8 +63,8 @@ dialogue:
   - n: 11
     speaker: 阿婆
     en: "(to Sam, delighted) He's talked a lot today!"
-    sx: {hanzi: "佢今晡日講當多話了！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ dongˊ doˊ fa leˊ!"}
-    hl: {hanzi: "佢今晡日講當多話了！", pinyin: "gi gimˋ buˋ ngid gongˊ dongˋ doˋ faˇ leˋ!"}
+    sx: {hanzi: "佢今晡日講恁多話了！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ anˋ doˊ fa leˊ!"}
+    hl: {hanzi: "佢今晡日講恁多話了！", pinyin: "gi gimˋ buˋ ngid gongˊ anˊ doˋ faˇ leˋ!"}
 
 notes:
   - ref: 1
@@ -82,7 +82,8 @@ notes:
     topic: false-friend
     text: >
       點鐘 diamˋ zungˊ is "hour" (小時), as promised in lesson 6: 兩點鐘 is "two hours", not "two o'clock" (that is 兩點).
-      From the Liu house to 公館 and back with a full load: Grandpa did it before breakfast.
+      A length of time takes 久 giuˋ "long" after it: 兩點鐘久 "two hours (long)". Each way, with a full load on a
+      shoulder pole.
   - ref: 7
     topic: grammar
     text: >
@@ -98,8 +99,7 @@ notes:
   - ref: 11
     topic: vocab
     text: >
-      講當多話 "say a lot (of words)": 話 fa "speech, words", the 話 of 客話. Eleven lines, and Grandpa had four of them:
-      a record.
+      講恁多話 "say so much": 話 fa "speech, words" (lesson 10). Eleven lines, and Grandpa had five of them: a record.
   - ref: 0
     topic: hailu
     text: >
@@ -120,6 +120,7 @@ new_words:
   - {hanzi: 今年, pinyin: "gimˊ ngienˇ", en: "this year", hl: {hanzi: 今年, pinyin: "gimˋ ngien"}}
   - {hanzi: 歲, pinyin: "se", en: "year (of age)", hl: {hanzi: 歲, pinyin: "soiˇ"}}
   - {hanzi: 辛苦, pinyin: "xinˊ kuˋ", en: "hard, tiring (life, work)", hl: {hanzi: 辛苦, pinyin: "sinˋ kuˊ"}}
+  - {hanzi: 久, pinyin: "giuˋ", en: "long (time)", hl: {hanzi: 久, pinyin: "giuˊ"}}
   - {hanzi: 歌, pinyin: "goˊ", en: "song", hl: {hanzi: 歌, pinyin: "goˋ"}}
   - {hanzi: 老人家, pinyin: "loˋ nginˇ gaˊ", en: "old person, the elderly", hl: {hanzi: 老人家, pinyin: "loˊ ngin gaˋ"}}
 
@@ -144,17 +145,17 @@ exercises:
       sx: {hanzi: "老人家好講頭擺个事情。", pinyin: "loˋ nginˇ gaˊ hau gongˋ teuˇ baiˋ ge sii qinˇ."}
       hl: {hanzi: "老人家好講頭擺个事情。", pinyin: "loˊ ngin gaˋ hauˇ gongˊ teu baiˊ gaiˇ sii+ cin."}
     - en: "From here to the station is one hour on foot."
-      sx: {hanzi: "行路去火車頭愛一點鐘。", pinyin: "hangˇ lu hi foˋ caˊ teuˇ oi idˋ diamˋ zungˊ."}
-      hl: {hanzi: "行路去火車頭愛一點鐘。", pinyin: "hang lu+ hiˇ foˊ chaˋ teu oiˇ rhid diamˊ zhungˋ."}
+      sx: {hanzi: "行路去火車頭愛一點鐘久。", pinyin: "hangˇ lu hi foˋ caˊ teuˇ oi idˋ diamˋ zungˊ giuˋ."}
+      hl: {hanzi: "行路去火車頭愛一點鐘久。", pinyin: "hang lu+ hiˇ foˊ chaˋ teu oiˇ rhid diamˊ zhungˋ giuˊ."}
   fill:
     - en: "He has never walked it."
       sx: {hanzi: "佢毋___行過。", pinyin: "giˇ mˇ ___ hangˇ go.", answer_hanzi: "識", answer: "siidˋ"}
       hl: {hanzi: "佢毋___行過。", pinyin: "gi m ___ hang goˇ.", answer_hanzi: "識", answer: "shid"}
-    - en: "At that time there was no train."
-      sx: {hanzi: "___無火車。", pinyin: "___ moˇ foˋ caˊ.", answer_hanzi: "該下", answer: "ge ha"}
-      hl: {hanzi: "___無火車。", pinyin: "___ mo foˊ chaˋ.", answer_hanzi: "該下", answer: "gai ha+"}
+    - en: "At that time (that very time, not 'in the old days') there were no buses."
+      sx: {hanzi: "___無巴士。", pinyin: "___ moˇ ba siiˋ.", answer_hanzi: "該下", answer: "ge ha"}
+      hl: {hanzi: "___無巴士。", pinyin: "___ mo ba siiˋ.", answer_hanzi: "該下", answer: "gai ha+"}
     - en: "Two hours."
-      sx: {hanzi: "兩___。", pinyin: "liongˋ ___.", answer_hanzi: "點鐘", answer: "diamˋ zungˊ"}
-      hl: {hanzi: "兩___。", pinyin: "liongˊ ___.", answer_hanzi: "點鐘", answer: "diamˊ zhungˋ"}
+      sx: {hanzi: "兩___久。", pinyin: "liongˋ ___ giuˋ.", answer_hanzi: "點鐘", answer: "diamˋ zungˊ"}
+      hl: {hanzi: "兩___久。", pinyin: "liongˊ ___ giuˊ.", answer_hanzi: "點鐘", answer: "diamˊ zhungˋ"}
 
 audio: []

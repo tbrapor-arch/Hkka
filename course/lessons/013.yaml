@@ -13,18 +13,18 @@ dialogue:
   - n: 1
     speaker: Sam
     en: "Excuse me, sir, may I ask: what number bus goes to 公館?"
-    sx: {hanzi: "阿伯，借問，去公館愛坐幾號巴士？", pinyin: "aˊ bagˋ, jia mun, hi gungˊ gonˋ oi coˊ giˋ ho ba siiˋ?"}
-    hl: {hanzi: "阿伯，借問，去公館愛坐幾號巴士？", pinyin: "a+ bag, ziaˇ munˇ, hiˇ gungˋ gonˊ oiˇ coˋ giˊ ho+ ba siiˋ?"}
+    sx: {hanzi: "阿伯，借問，去公館愛坐幾多號巴士？", pinyin: "aˊ bagˋ, jia mun, hi gungˊ gonˋ oi coˊ giˋ doˊ ho ba siiˋ?"}
+    hl: {hanzi: "阿伯，借問，去公館愛坐幾多號巴士？", pinyin: "a+ bag, ziaˇ munˇ, hiˇ gungˋ gonˊ oiˇ coˋ giˊ doˋ ho+ ba siiˋ?"}
   - n: 2
     speaker: 阿伯
     en: "Number five. The stop's over there: go straight on, it's on the left."
-    sx: {hanzi: "五號。車牌在該位：直直行，在左片。", pinyin: "ngˋ ho. caˊ paiˇ cai ge vi: ciid ciid hangˇ, cai zoˋ pienˋ."}
-    hl: {hanzi: "五號。車牌在該位：直直行，在左片。", pinyin: "ngˊ ho+. chaˋ pai cai+ gai vui+: chidˋ chidˋ hang, cai+ zoˊ pienˊ."}
+    sx: {hanzi: "五號。車牌在該位：直直行，在左片。", pinyin: "ngˋ ho. caˊ paiˇ coiˊ ge vi: ciid ciid hangˇ, coiˊ zoˋ pienˋ."}
+    hl: {hanzi: "五號。車牌在該位：直直行，在左片。", pinyin: "ngˊ ho+. chaˋ pai coiˋ gai vui+: chidˋ chidˋ hang, coiˋ zoˊ pienˊ."}
   - n: 3
     speaker: Sam
     en: "Thank you, sir!"
     sx: {hanzi: "恁仔細，阿伯！", pinyin: "anˋ ziiˋ se, aˊ bagˋ!"}
-    hl: {hanzi: "承蒙，阿伯！", pinyin: "shin mung, a+ bag!"}
+    hl: {hanzi: "承蒙你，阿伯！", pinyin: "shin mung ngi, a+ bag!"}
   - n: 4
     speaker: 阿伯
     en: "(two minutes later, shouting) The five's coming! Run! Run!"
@@ -72,7 +72,7 @@ notes:
     text: >
       阿伯 aˊ bagˋ "uncle", literally father's elder brother, and the polite way to address any older man you don't
       know. 借問 jia mun "may I ask, excuse me": the opener for asking the way. 坐 coˊ "sit" also means "ride, take" (a bus, a train), as in Mandarin. 巴士 ba siiˋ "bus", from English (公車 is heard too);
-      幾號 "what number".
+      幾多號 "what number".
   - ref: 2
     topic: vocab
     text: >
@@ -133,8 +133,8 @@ exercises:
       sx: {hanzi: "阿婆逐日行路去菜園。", pinyin: "aˊ poˇ dagˋ ngidˋ hangˇ lu hi coi ienˇ."}
       hl: {hanzi: "阿婆逐日行路去菜園。", pinyin: "a+ po dag ngid hang lu+ hiˇ coiˇ rhan."}
     - en: "The bus stop is on the right."
-      sx: {hanzi: "車牌在右片。", pinyin: "caˊ paiˇ cai iu pienˋ."}
-      hl: {hanzi: "車牌在正手片。", pinyin: "chaˋ pai cai+ zhinˇ shiuˊ pienˊ."}
+      sx: {hanzi: "車牌在右片。", pinyin: "caˊ paiˇ coiˊ iu pienˋ."}
+      hl: {hanzi: "車牌在正手片。", pinyin: "chaˋ pai coiˋ zhinˇ shiuˊ pienˊ."}
     - en: "Don't be afraid, it isn't spicy."
       sx: {hanzi: "毋使驚，毋會辣。", pinyin: "mˇ siiˋ giangˊ, mˇ voi lad."}
       hl: {hanzi: "毋使驚，毋會辣。", pinyin: "m siiˊ giangˋ, m voi+ ladˋ."}
@@ -146,8 +146,8 @@ exercises:
       sx: {hanzi: "莫___，行！", pinyin: "mog ___, hangˇ!", answer_hanzi: "走", answer: "zeuˋ"}
       hl: {hanzi: "莫___，行！", pinyin: "mogˋ ___, hang!", answer_hanzi: "走", answer: "zeuˊ"}
     - en: "It's over there."
-      sx: {hanzi: "在該___。", pinyin: "cai ge ___.", answer_hanzi: "位", answer: "vi"}
-      hl: {hanzi: "在該___。", pinyin: "cai+ gai ___.", answer_hanzi: "位", answer: "vui+"}
+      sx: {hanzi: "在該___。", pinyin: "coiˊ ge ___.", answer_hanzi: "位", answer: "vi"}
+      hl: {hanzi: "在該___。", pinyin: "coiˋ gai ___.", answer_hanzi: "位", answer: "vui+"}
     - en: "What are you doing tonight?"
       sx: {hanzi: "你___愛做麼个？", pinyin: "nˇ ___ oi zo maˋ ge?", answer_hanzi: "暗晡", answer: "am buˊ"}
       hl: {hanzi: "你___愛做麼个？", pinyin: "ngi ___ oiˇ zoˇ maˊ gaiˇ?", answer_hanzi: "暗晡", answer: "amˇ buˋ"}

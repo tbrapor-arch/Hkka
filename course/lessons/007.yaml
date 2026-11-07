@@ -8,7 +8,7 @@ setting: >-
   Monday, seven in the morning. A-in is in Taipei, Mr Liu at work, A-min at school, Grandpa on the porch. Sam and
   Grandma are alone in the kitchen for the first time. Nothing new in the dialogue: everything comes from lessons 1–6.
   The notes gather what you have met so far.
-names: [阿英, 阿明]
+names: [阿英, 阿明, 臺北]
 
 dialogue:
   - n: 1
@@ -30,38 +30,48 @@ dialogue:
     speaker: Sam
     en: "Yes please, thank you!"
     sx: {hanzi: "愛，恁仔細！", pinyin: "oi, anˋ ziiˋ se!"}
-    hl: {hanzi: "愛，承蒙！", pinyin: "oiˇ, shin mung!"}
+    hl: {hanzi: "愛，承蒙你！", pinyin: "oiˇ, shin mung ngi!"}
   - n: 5
     speaker: 阿婆
-    en: "A-in isn't home today, so you'll have to speak Hakka."
-    sx: {hanzi: "今晡日阿英無在屋下，你愛講客話。", pinyin: "gimˊ buˊ ngidˋ aˊ inˊ moˇ cai vugˋ kaˊ, nˇ oi gongˋ hagˋ fa."}
-    hl: {hanzi: "今晡日阿英無在屋下，你愛講客話。", pinyin: "gimˋ buˋ ngid a+ rhinˋ mo cai+ vug haˋ, ngi oiˇ gongˊ hag voiˋ."}
+    en: "The mandarins yesterday, how much were they a catty?"
+    sx: {hanzi: "昨晡日个柑仔，一斤幾多錢？", pinyin: "coˊ buˊ ngidˋ ge gamˊ eˋ, idˋ ginˊ giˋ doˊ qienˇ?"}
+    hl: {hanzi: "昨晡日个柑仔，一斤幾多錢？", pinyin: "coˋ buˋ ngid gaiˇ gamˋ er, rhid ginˋ giˊ doˋ cien?"}
   - n: 6
+    speaker: Sam
+    en: "Forty. Three catties for a hundred, and the stallholder gave me one!"
+    sx: {hanzi: "四十。三斤一百，頭家送𠊎一粒！", pinyin: "xi siib. samˊ ginˊ idˋ bagˋ, teuˇ gaˊ sung ngaiˇ idˋ liab!"}
+    hl: {hanzi: "四十。三斤一百，頭家送𠊎一粒！", pinyin: "siˇ shibˋ. samˋ ginˋ rhid bag, teu gaˋ sungˇ ngai rhid liab!"}
+  - n: 7
+    speaker: 阿婆
+    en: "Now that A-in's gone back to Taipei, you'll have to speak Hakka."
+    sx: {hanzi: "這下阿英轉去臺北了，你愛講客話。", pinyin: "iaˋ ha aˊ inˊ zonˋ hi toiˇ bedˋ leˊ, nˇ oi gongˋ hagˋ fa."}
+    hl: {hanzi: "這下阿英轉去臺北了，你愛講客話。", pinyin: "liaˊ ha+ a+ rhinˋ zhonˊ hiˇ toi bed leˋ, ngi oiˇ gongˊ hag voiˋ."}
+  - n: 8
     speaker: Sam
     en: "I can speak a little."
     sx: {hanzi: "𠊎會講一息仔。", pinyin: "ngaiˇ voi gongˋ idˋ xid eˋ."}
     hl: {hanzi: "𠊎會講一息仔。", pinyin: "ngai voi+ gongˊ rhid sid er+."}
-  - n: 7
+  - n: 9
     speaker: 阿婆
     en: "A little? Go on, say something!"
     sx: {hanzi: "一息仔？你講！", pinyin: "idˋ xid eˋ? nˇ gongˋ!"}
     hl: {hanzi: "一息仔？你講！", pinyin: "rhid sid er+? ngi gongˊ!"}
-  - n: 8
+  - n: 10
     speaker: Sam
     en: "(pointing) This is congee. This is an egg. And that's… tea."
     sx: {hanzi: "這係粥。這係雞卵。該係……茶。", pinyin: "iaˋ he zugˋ. iaˋ he gieˊ lonˋ. ge he … caˇ."}
     hl: {hanzi: "這係糜。這係雞卵。該係……茶。", pinyin: "liaˊ heˇ moi. liaˊ heˇ gaiˋ lonˊ. gai heˇ … ca."}
-  - n: 9
+  - n: 11
     speaker: 阿婆
     en: "Tea! No sugar!"
     sx: {hanzi: "茶！毋放糖！", pinyin: "caˇ! mˇ biong tongˇ!"}
     hl: {hanzi: "茶！毋放糖！", pinyin: "ca! m biongˇ tong!"}
-  - n: 10
+  - n: 12
     speaker: Sam
     en: "Right, right… no sugar."
     sx: {hanzi: "係，係……毋放糖。", pinyin: "he, he … mˇ biong tongˇ."}
     hl: {hanzi: "係，係……毋放糖。", pinyin: "heˇ, heˇ … m biongˇ tong."}
-  - n: 11
+  - n: 13
     speaker: 阿婆
     en: "(laughing) You can speak Hakka! Come on, have two bowls!"
     sx: {hanzi: "你會講客話！來，食兩碗！", pinyin: "nˇ voi gongˋ hagˋ fa! loiˇ, siid liongˋ vonˋ!"}
@@ -71,7 +81,7 @@ notes:
   - ref: 0
     topic: grammar
     text: >
-      People. 𠊎 ngaiˇ I, 你 nˇ you, 佢 giˇ he/she. "My, your, his": 吾 ngaˊ, 若 ngiaˊ, 厥 giaˊ (the pronoun plus -a).
+      People. 𠊎 ngaiˇ I, 你 nˇ you, 佢 giˇ he/she. "My, your, his": 吾 ngaˊ, 若 ngiaˊ, 厥 giaˊ (the pronoun's first sound + -a, rising).
       Before a family word they take the short form and no 阿: 吾婆, 若爸, 厥姆; elsewhere 个 ge does the job of 的
       (𠊎个, 阿明个). Family: 阿公, 阿婆, 阿爸, 阿姆, 老弟, 阿姊.
   - ref: 2
@@ -85,19 +95,19 @@ notes:
     topic: grammar
     text: >
       Questions so far: …無？ for yes/no (你愛雞卵無？, 有糖無？), …吂？ for "yet?" (食飽吂？), and the question
-      words 麼个 what, 做麼个 why / what for, 哪位 where, 幾多 how much, 幾點 what time.
-  - ref: 5
+      words 麼个 what, 做麼个 why / what for, 哪位 where, 幾多 how much, 幾多點 what time.
+  - ref: 7
     topic: grammar
     text: >
-      Where and what's going on: 在 cai "be at" (阿英無在屋下 "A-in isn't home"), 在該 du ge + verb "be doing" (在該
+      Where and what's going on: 在 coiˊ "be at" (阿英無在屋下 "A-in isn't home"), 在該 du ge + verb "be doing" (在該
       泡茶). Time words go before the verb, often first in the sentence: 今晡日, 昨晡日, 天光日, 這下 "now".
-  - ref: 8
+  - ref: 10
     topic: grammar
     text: >
-      Counting: 一 二 三 四 五 六 八 十 百 (七 and 九 are coming), 兩 before a classifier. Classifiers: 隻 animals and
+      Counting: 一 二 三 四 五 六 八 十 百 七 九, 兩 before a classifier. Classifiers: 隻 animals and
       things, 粒 small round things, 條 long things; 碗 and 斤 as measures. 這 / 該 point: 這係… "this is", 該係…
       "that is". 該 is never "should".
-  - ref: 11
+  - ref: 13
     topic: sandhi
     text: >
       The sandhi you have met: a rising syllable ˊ goes low before another rising one, before a high level one or a
@@ -115,8 +125,8 @@ new_words: []
 exercises:
   translate:
     - en: "Grandpa isn't home. He's gone to buy tea."
-      sx: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "aˊ gungˊ moˇ cai vugˋ kaˊ, giˇ hi maiˊ caˇ leˊ."}
-      hl: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "a+ gungˋ mo cai+ vug haˋ, gi hiˇ maiˋ ca leˋ."}
+      sx: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "aˊ gungˊ moˇ coiˊ vugˋ kaˊ, giˇ hi maiˊ caˇ leˊ."}
+      hl: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "a+ gungˋ mo coiˋ vug haˋ, gi hiˇ maiˋ ca leˋ."}
     - en: "This is my room, that's my brother's."
       sx: {hanzi: "這係𠊎个間房，該係吾老弟个。", pinyin: "iaˋ he ngaiˇ ge gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge."}
       hl: {hanzi: "這係𠊎个間房，該係𠊎老弟个。", pinyin: "liaˊ heˇ ngai gaiˇ gienˋ fong, gai heˇ ngai loˊ taiˋ gaiˇ."}
