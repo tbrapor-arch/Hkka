@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 阿傑
     en: "肚飢? Here we say 肚屎枵."
-    sx: {hanzi: "肚飢？𫣆兜講肚屎枵。", pinyin: "duˋ giˊ? enˊ deuˊ gongˋ duˋ siiˋ iauˊ."}
-    hl: {hanzi: "肚飢？𫣆兜講肚屎枵。", pinyin: "duˊ giˋ? enˋ deuˋ gongˊ duˊ shiˊ iauˋ."}
+    sx: {hanzi: "肚飢？𠊎兜講肚屎枵。", pinyin: "duˋ giˊ? ngaiˇ deuˊ gongˋ duˋ siiˋ iauˊ."}
+    hl: {hanzi: "肚飢？𠊎兜講肚屎枵。", pinyin: "duˊ giˋ? ngai deuˋ gongˊ duˊ shiˊ iauˋ."}
   - n: 4
     speaker: Sam
     en: "肚屎枵… that's hard to say! 肚飢 is easier."
@@ -43,21 +43,21 @@ dialogue:
     hl: {hanzi: "恁……毋係，承蒙你！", pinyin: "anˊ … m heˇ, shin mung ngi!"}
   - n: 7
     speaker: 阿蘭嫂
-    en: "Dried-radish omelette, braised pork, aubergine, bitter melon, and rice. Come and help us eat it up."
-    sx: {hanzi: "菜脯卵、爌肉、吊菜仔、苦瓜，還有飯。你來𢯭食。", pinyin: "coi puˋ lonˋ, kong ngiugˋ, diau coi eˋ, fuˋ guaˊ, hanˇ iuˊ fan. nˇ loiˇ ten siid."}
-    hl: {hanzi: "菜脯卵、爌肉、吊菜仔、苦瓜，還有飯。你來𢯭食。", pinyin: "coiˇ buˊ lonˊ, kongˇ ngiug, diauˇ coiˇ er, fuˊ guaˋ, han rhiuˋ pon+. ngi loi tenˇ shidˋ."}
+    en: "Dried-radish omelette, braised pork, aubergine, bitter melon, greens, and rice. Come and help us eat it up."
+    sx: {hanzi: "菜脯卵、爌肉、吊菜仔、苦瓜、青菜，還有飯。你來𢯭食。", pinyin: "coi puˋ lonˋ, kong ngiugˋ, diau coi eˋ, fuˋ guaˊ, qiangˊ coi, hanˇ iuˊ fan. nˇ loiˇ ten siid."}
+    hl: {hanzi: "菜脯卵、爌肉、吊菜仔、苦瓜、青菜，還有飯。你來𢯭食。", pinyin: "coiˇ buˊ lonˊ, kongˇ ngiug, diauˇ coiˇ er, fuˊ guaˋ, ciangˋ coiˇ, han rhiuˋ pon+. ngi loi tenˇ shidˋ."}
     check: true
   - n: 8
     speaker: Sam
     en: "(shovelling it in) Mm, the rice (fan) is really good!"
-    sx: {hanzi: "這飯當好食！", pinyin: "iaˋ fan dongˊ hoˋ siid!"}
-    hl: {hanzi: "這飯當好食！", pinyin: "liaˊ fan dongˋ hoˊ shidˋ!"}
+    sx: {hanzi: "這碗飯當好食！", pinyin: "iaˋ vonˋ fan dongˊ hoˋ siid!"}
+    hl: {hanzi: "這碗飯當好食！", pinyin: "liaˊ vonˊ fan dongˋ hoˊ shidˋ!"}
     check: true
   - n: 9
     speaker: 阿傑
-    en: "Don't shovel it in so fast… And you say fan; we say pon."
-    sx: {hanzi: "莫划恁遽……你講 fan，𫣆兜講 pon。", pinyin: "mog paˇ anˋ giagˋ … nˇ gongˋ fan, enˊ deuˊ gongˋ pon."}
-    hl: {hanzi: "莫划恁遽……你講 fan，𫣆兜講 pon。", pinyin: "mogˋ pa anˊ giag … ngi gongˊ fan, enˋ deuˋ gongˊ pon."}
+    en: "You say fan; we say pon… And don't shovel your rice in so fast!"
+    sx: {hanzi: "你講 fan，𠊎兜講 pon……莫划飯划恁遽！", pinyin: "nˇ gongˋ fan, ngaiˇ deuˊ gongˋ pon … mog paˇ fan paˇ anˋ giagˋ!"}
+    hl: {hanzi: "你講 fan，𠊎兜講 pon……莫划飯划恁遽！", pinyin: "ngi gongˊ fan, ngai deuˋ gongˊ pon … mogˋ paˋ pon+ pa anˊ giag!"}
     check: true
   - n: 10
     speaker: Sam
@@ -81,9 +81,9 @@ dialogue:
     hl: {hanzi: "好做？你做看啊！", pinyin: "hoˊ zoˇ? ngi zoˇ konˇ a+!"}
   - n: 14
     speaker: 阿傑
-    en: "…I'll stick to eating."
-    sx: {hanzi: "……𠊎食就好。", pinyin: "… ngaiˇ siid qiu hoˋ."}
-    hl: {hanzi: "……𠊎食就好。", pinyin: "… ngai shidˋ ciu+ hoˊ."}
+    en: "…I'll stick to eating. 阿蘭嫂, give me some more rice, I'm starving."
+    sx: {hanzi: "……𠊎食就好。阿蘭嫂，摎𠊎添飯，𠊎當餓。", pinyin: "… ngaiˇ siid qiu hoˋ. aˊ lanˇ soˋ, lauˊ ngaiˇ tiamˊ fan, ngaiˇ dongˊ ngo."}
+    hl: {hanzi: "……𠊎食就好。阿蘭嫂，摎𠊎添飯，𠊎當餓。", pinyin: "… ngai shidˋ ciu+ hoˊ. a+ lan soˊ, lauˋ ngai tiamˋ pon+, ngai dongˋ ngo+."}
   - n: 15
     speaker: 阿蘭嫂
     en: "Sam, how does it taste?"
@@ -96,9 +96,9 @@ dialogue:
     hl: {hanzi: "當好食！就係有兜仔嘴燥。", pinyin: "dongˋ hoˊ shidˋ! ciu+ heˇ rhiuˋ deuˋ er zhoiˇ zauˋ."}
   - n: 17
     speaker: 阿傑
-    en: "Here, have some soy milk."
-    sx: {hanzi: "來，食豆乳。", pinyin: "loiˇ, siid teu nen."}
-    hl: {hanzi: "來，食豆乳。", pinyin: "loi, shidˋ teu+ nenˇ."}
+    en: "Here, have some soy milk. Tonight, for dinner, I'll buy you 粄條."
+    sx: {hanzi: "來，食豆乳。今暗晡食夜，𠊎請你食粄條。", pinyin: "loiˇ, siid teu nen. gimˊ am buˊ siid ia, ngaiˇ qiangˋ nˇ siid banˋ tiauˇ."}
+    hl: {hanzi: "來，食豆乳。今暗晡食夜，𠊎請你食粄條。", pinyin: "loi, shidˋ teu+ nenˇ. gimˋ amˇ buˋ shidˋ rha+, ngai ciangˊ ngi shidˋ banˊ tiau."}
 
 notes:
   - ref: 2
@@ -106,7 +106,8 @@ notes:
     text: >
       Third trip-up, checked in the word lists: "hungry" is Sixian 肚飢 duˋ giˊ (lesson 27), Hailu 肚屎枵 duˊ shiˊ iauˋ,
       literally "belly-guts-empty". Sam's line is written with his own Miaoli word in both columns, because that is
-      what he says: the Hailu column of line 2 is marked for checking for that reason.
+      what he says: the Hailu column of line 2 is marked for checking for that reason. The difference is a matter of
+      the word lists, not a wall: Sixian official examples have 肚屎枵 too, in 4 sentences (肚屎枵﹝飢﹞了，尋一家飯館食東西).
   - ref: 4
     topic: grammar
     text: >
@@ -121,7 +122,8 @@ notes:
   - ref: 6
     topic: hailu
     text: >
-      Sam is learning: he starts the Miaoli 恁仔細 and switches to the 竹東 承蒙你 (lessons 53, 56) in mid-word.
+      Sam is learning: he starts 恁仔細 and switches to 承蒙你 (lesson 53), the word his 竹東 hosts use, in mid-word.
+      Sixian has 承蒙 too (11 official examples, e.g. 承蒙你个招待，有閒正來尞); in 竹東 it is simply the usual word.
   - ref: 7
     topic: culture
     text: >
@@ -133,10 +135,11 @@ notes:
     topic: hailu
     text: >
       Fourth trip-up: 飯 is fan in Sixian, pon+ in Hailu (lesson 3 gave both). 划飯 paˇ fan "shovel rice into your mouth
-      (bowl at your lips)" is in the word lists; 莫划恁遽 "don't shovel so fast". The character is the same; the word in
-      the mouth is not. Most of the differences between the two accents are like this one: tones (lesson 0's Sixian
-      → Hailu tone code), a few initials (Sixian z, c, s against Hailu zh, ch, sh in many words), and a short list of
-      words that differ outright (肚飢 / 肚屎枵, 天光日 / 韶早, 恁仔細 / 承蒙). Line 8's Hailu column keeps Sam's fan.
+      (bowl at your lips)" is in the word lists; 莫划飯划恁遽 "don't shovel your rice in so fast" (the attested pattern
+      划飯划當遽; the Hailu list writes 划 pa alone, paˋ in 划飯). The character is the same; the word in the mouth is
+      not, and here not even the tone pattern helps: fan and pon are two different syllables. Most differences between
+      the accents are tones (lesson 0's Sixian → Hailu tone code) and a few initials (Sixian z, c, s against Hailu zh,
+      ch, sh); a shorter list are different words (天光日 / 韶早). Line 8's Hailu column keeps Sam's fan.
   - ref: 15
     topic: vocab
     text: >
@@ -212,7 +215,7 @@ exercises:
       sx: {hanzi: "坐等來，先食___。", pinyin: "coˊ denˋ loiˇ, xienˊ siid ___.", answer_hanzi: "等來", answer: "denˋ loiˇ"}
       hl: {hanzi: "坐等來，先食___。", pinyin: "coˋ denˊ loi, senˋ shidˋ ___.", answer_hanzi: "等來", answer: "denˊ loi"}
     - en: "Easy to make."
-      sx: {hanzi: "___。", pinyin: "___.", answer_hanzi: "好做", answer: "hoˋ zo"}
-      hl: {hanzi: "___。", pinyin: "___.", answer_hanzi: "好做", answer: "hoˊ zoˇ"}
+      sx: {hanzi: "___做。", pinyin: "___ zo.", answer_hanzi: "好", answer: "hoˋ"}
+      hl: {hanzi: "___做。", pinyin: "___ zoˇ.", answer_hanzi: "好", answer: "hoˊ"}
 
 audio: []
