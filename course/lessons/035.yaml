@@ -1,0 +1,151 @@
+id: 35
+title:
+  en: "Review 5"
+  sx: {hanzi: "下二擺愛轉來", pinyin: "ha ngi baiˋ oi zonˋ loiˇ"}
+  hl: {hanzi: "下二擺愛轉來", pinyin: "ha+ ngi+ baiˊ oiˇ zhonˊ loi"}
+review: true
+setting: >-
+  Miaoli station, the next morning: the platform where Sam got off the train in lesson 1. The cold wave has come, as
+  forecast. Lucie is wearing Grandpa's enormous jacket. Nothing new in the dialogue: everything comes from lessons
+  1–34.
+names: [Lucie, 阿英, 阿明, 財伯姆, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Has she got her phone? Don't let her lose it again!"
+    sx: {hanzi: "手機仔拿等無？莫又打毋見忒了！", pinyin: "suˋ giˊ eˋ naˊ denˋ moˇ? mog iu daˋ mˇ gien tedˋ leˊ!"}
+    hl: {hanzi: "手機拿等無？莫又打毋見忒了！", pinyin: "shiuˊ giˋ naˋ denˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
+  - n: 2
+    speaker: Sam
+    en: "She's holding it. She's looked for it twice already this morning."
+    sx: {hanzi: "拿等了。佢頭先尋過兩擺。", pinyin: "naˊ denˋ leˊ. giˇ teuˇ xienˊ qimˇ go liongˋ baiˋ."}
+    hl: {hanzi: "拿等了。佢頭先尋過兩擺。", pinyin: "naˋ denˊ leˋ. gi teu senˋ cim goˇ liongˊ baiˊ."}
+  - n: 3
+    speaker: 阿英
+    en: "Come on, let's take a photo! Everyone, look this way!"
+    sx: {hanzi: "來，𫣆兜翕一張！大家看這位！", pinyin: "loiˇ, enˊ deuˊ hibˋ idˋ zongˊ! tai gaˊ kon iaˋ vi!"}
+    hl: {hanzi: "來，𫣆兜翕一張！大家看這位！", pinyin: "loi, enˋ deuˋ hib rhid zhongˋ! tai+ gaˋ konˇ liaˊ vui+!"}
+  - n: 4
+    speaker: 阿明
+    en: "Lucie, Grandpa's jacket is nice and warm, isn't it?"
+    sx: {hanzi: "Lucie，阿公个衫當燒暖，係毋係？", pinyin: "Lucie, aˊ gungˊ ge samˊ dongˊ seuˊ nonˊ, he mˇ he?"}
+    hl: {hanzi: "Lucie，阿公个衫當燒暖，係毋係？", pinyin: "Lucie, a+ gungˋ gaiˇ samˋ dongˋ shauˋ nonˋ, heˇ m heˇ?"}
+  - n: 5
+    speaker: Lucie
+    en: "(in French, to Sam) What's he saying?"
+    sx: {hanzi: "Qu'est-ce qu'il dit ?", pinyin: "Qu'est-ce qu'il dit ?"}
+    hl: {hanzi: "Qu'est-ce qu'il dit ?", pinyin: "Qu'est-ce qu'il dit ?"}
+  - n: 6
+    speaker: 阿婆
+    en: "Sam, tell her: if she has time, she must come back another time. Grandma will cook for her."
+    sx: {hanzi: "Sam，你同佢講，若係有閒，下二擺愛轉來，阿婆煮菜分佢食。", pinyin: "Sam, nˇ tungˇ giˇ gongˋ, na he iuˊ hanˇ, ha ngi baiˋ oi zonˋ loiˇ, aˊ poˇ zuˋ coi bunˊ giˇ siid."}
+    hl: {hanzi: "Sam，你摎佢講，若係有閒，下二擺愛轉來，阿婆煮菜分佢食。", pinyin: "Sam, ngi lauˋ gi gongˊ, na+ heˇ rhiuˋ han, ha+ ngi+ baiˊ oiˇ zhonˊ loi, a+ po zhuˊ coiˇ bunˋ gi shidˋ."}
+  - n: 7
+    speaker: 財伯姆
+    en: "(hurrying along the platform) Grandma Liu! So that's Sam's girlfriend, is it?"
+    sx: {hanzi: "阿婆！該就係 Sam 个女朋友，係毋係？", pinyin: "aˊ poˇ! ge qiu he Sam ge ngˋ penˇ iuˊ, he mˇ he?"}
+    hl: {hanzi: "阿婆！該就係 Sam 个女朋友，係毋係？", pinyin: "a+ po! gai ciu+ heˇ Sam gaiˇ ngˊ pen rhiuˋ, heˇ m heˇ?"}
+  - n: 8
+    speaker: 阿婆
+    en: "No! I told you: it's his sister!"
+    sx: {hanzi: "毋係！𠊎講過了，係厥老妹！", pinyin: "mˇ he! ngaiˇ gongˋ go leˊ, he giaˊ loˋ moi!"}
+    hl: {hanzi: "毋係！𠊎講過了，係厥老妹！", pinyin: "m heˇ! ngai gongˊ goˇ leˋ, heˇ gia loˊ moiˇ!"}
+  - n: 9
+    speaker: 阿公
+    en: "The train's here."
+    sx: {hanzi: "車來了。", pinyin: "caˊ loiˇ leˊ."}
+    hl: {hanzi: "車來了。", pinyin: "chaˋ loi leˋ."}
+  - n: 10
+    speaker: Lucie
+    en: "(to Grandma, in Hakka, carefully) Thank you!"
+    sx: {hanzi: "恁仔細！", pinyin: "anˋ ziiˋ se!"}
+    hl: {hanzi: "承蒙你！", pinyin: "shin mung ngi!"}
+  - n: 11
+    speaker: 阿婆
+    en: "(delighted) She can speak Hakka!"
+    sx: {hanzi: "佢會講客話！", pinyin: "giˇ voi gongˋ hagˋ fa!"}
+    hl: {hanzi: "佢會講客話！", pinyin: "gi voi+ gongˊ hag voiˋ!"}
+  - n: 12
+    speaker: Sam
+    en: "I taught her."
+    sx: {hanzi: "𠊎教个。", pinyin: "ngaiˇ gauˊ ge."}
+    hl: {hanzi: "𠊎教个。", pinyin: "ngai gauˋ gaiˇ."}
+  - n: 13
+    speaker: 阿明
+    en: "No you didn't. I did!"
+    sx: {hanzi: "毋係，係𠊎教个！", pinyin: "mˇ he, he ngaiˇ gauˊ ge!"}
+    hl: {hanzi: "毋係，係𠊎教个！", pinyin: "m heˇ, heˇ ngai gauˋ gaiˇ!"}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      拿等 "holding (it), have (it) on you": V等 from lesson 29. 莫又打毋見忒了 "don't lose it again": 打毋見忒 from lesson
+      33. 尋過兩擺 "has looked for it twice": 過 "(have done) before" (lesson 9) and 擺 "times" (lesson 24).
+  - ref: 4
+    topic: grammar
+    text: >
+      …係毋係？ at the end turns a statement into "…, isn't it?" (lesson 32). 燒暖 "warm" is from last night's cold wave
+      (lesson 34).
+  - ref: 6
+    topic: grammar
+    text: >
+      A sentence that uses half the week: 若係 "if" (lesson 32), 有閒 "free" (lesson 16), 下二擺 "another time" (lesson 25),
+      分佢食 "for her to eat" (分 as "give", lesson 24). Grandma gives Sam the message, not Lucie: you talk to the
+      interpreter, and he passes it on.
+  - ref: 8
+    topic: grammar
+    text: >
+      𠊎講過了 "I told you (already)". The gossip of lesson 32 has done its job: 財伯姆 has come all the way to the
+      station to see for herself.
+  - ref: 10
+    topic: culture
+    text: >
+      Lucie's one Hakka word, the first one Sam learnt in lesson 1 (in Hailu, 承蒙你). She has been listening all week.
+  - ref: 13
+    topic: culture
+    text: >
+      係𠊎教个 "it was me who taught her": the 係…个 frame once more, with 係 at the front for contrast. Cover the
+      English and tell Lucie's week in your own Hakka: the strawberries, the parcel of tea, A-in's birthday, the
+      neighbours, the phone, the cold wave.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this week: 手機 for 手機仔, 韶早 for 天光日, 冷 for 寒 (a person feeling cold), 冷著 for 寒著, and 係毋係 in three
+      syllables, heˇ m heˇ, as in Sixian.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "I hear Lucie lost her phone. Is it true?"
+      sx: {hanzi: "聽講 Lucie 个手機仔打毋見忒了，有影無？", pinyin: "tangˊ gongˋ Lucie ge suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ, iuˊ iangˋ moˇ?"}
+      hl: {hanzi: "聽講 Lucie 个手機打毋見忒了，有影無？", pinyin: "tangˋ gongˊ Lucie gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ, rhiuˋ rhangˊ mo?"}
+    - en: "It was in Grandpa's pocket. He picked it up off the table."
+      sx: {hanzi: "在阿公个袋仔。佢在桌項拈个。", pinyin: "coiˊ aˊ gungˊ ge toi eˋ. giˇ coiˊ zogˋ hong ngiamˊ ge."}
+      hl: {hanzi: "在阿公个袋仔。佢在桌項拈个。", pinyin: "coiˋ a+ gungˋ gaiˇ toi+ er. gi coiˋ zog hong+ ngiamˋ gaiˇ."}
+    - en: "Sam's hat was blown away by the wind."
+      sx: {hanzi: "Sam 个帽仔分風吹走了。", pinyin: "Sam ge mo eˋ bunˊ fungˊ coiˊ zeuˋ leˊ."}
+      hl: {hanzi: "Sam 个帽仔分風吹走了。", pinyin: "Sam gaiˇ mo+ er bunˋ fungˋ choiˋ zeuˊ leˋ."}
+    - en: "Sam posted the tea to his mum; Grandpa gave Lucie his jacket."
+      sx: {hanzi: "Sam 寄茶米分厥姆，阿公送衫分 Lucie。", pinyin: "Sam gi caˇ miˋ bunˊ giaˊ meˊ, aˊ gungˊ sung samˊ bunˊ Lucie."}
+      hl: {hanzi: "Sam 寄茶米分厥姆，阿公送衫分 Lucie。", pinyin: "Sam giˇ ca miˊ bunˋ gia meˋ, a+ gungˋ sungˇ samˋ bunˋ Lucie."}
+    - en: "If it snows tomorrow, will the plane leave on time?"
+      sx: {hanzi: "若係天光日落雪，飛行機會準時無？", pinyin: "na he tienˊ gongˊ ngidˋ log xiedˋ, biˊ hangˇ giˊ voi zunˋ siiˇ moˇ?"}
+      hl: {hanzi: "若係韶早落雪，飛行機會準時無？", pinyin: "na+ heˇ shau zoˊ logˋ sied, fuiˋ hang giˋ voi+ zhunˊ shi mo?"}
+    - en: "A-in made a wish first, and only then blew."
+      sx: {hanzi: "阿英先許願，正吹。", pinyin: "aˊ inˊ xienˊ hiˋ ngien, zang coiˊ."}
+      hl: {hanzi: "阿英先許願，正吹。", pinyin: "a+ rhinˋ senˋ hiˊ ngien+, zhangˇ choiˋ."}
+  fill:
+    - en: "Did you find it? — No, I can't find it."
+      sx: {hanzi: "尋著無？——___。", pinyin: "qimˇ doˋ moˇ? — ___.", answer_hanzi: "尋無", answer: "qimˇ moˇ"}
+      hl: {hanzi: "尋著無？——___。", pinyin: "cim doˊ mo? — ___.", answer_hanzi: "尋無", answer: "cim mo"}
+    - en: "I've forgotten again."
+      sx: {hanzi: "𠊎又___了。", pinyin: "ngaiˇ iu ___ leˊ.", answer_hanzi: "毋記得", answer: "mˇ gi dedˋ"}
+      hl: {hanzi: "𠊎又___了。", pinyin: "ngai rhiu+ ___ leˋ.", answer_hanzi: "毋記得", answer: "m giˇ ded"}
+    - en: "Keep eating, don't wait for me."
+      sx: {hanzi: "你___食，毋使等𠊎。", pinyin: "nˇ ___ siid, mˇ siiˋ denˋ ngaiˇ.", answer_hanzi: "緊", answer: "ginˋ"}
+      hl: {hanzi: "你___食，毋使等𠊎。", pinyin: "ngi ___ shidˋ, m siiˊ denˊ ngai.", answer_hanzi: "緊", answer: "ginˊ"}
+
+audio: []
