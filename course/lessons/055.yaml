@@ -1,0 +1,175 @@
+id: 55
+title:
+  en: "天穿日 and a suitcase"
+  sx: {hanzi: "恁大仔个皮箱", pinyin: "an tai eˋ ge piˇ xiongˊ"}
+  hl: {hanzi: "恁大仔个皮箱", pinyin: "an tai+ er gaiˇ pi siongˋ"}
+review: false
+setting: >-
+  Thursday 25 February, the twentieth day of the first month: 天穿日. Three weeks have gone by since the New Year. This
+  afternoon 阿舅 is coming to drive Sam to 竹東. It is seven in the morning; A-min has gone to school, and Sam is packing
+  under supervision.
+names: [竹東]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, is your luggage all ready?"
+    sx: {hanzi: "Sam，行李準備好勢吂？", pinyin: "Sam, hangˇ liˋ zunˋ pi hoˋ se mangˇ?"}
+    hl: {hanzi: "Sam，行李準備好勢吂？", pinyin: "Sam, hang liˊ zhunˊ pi+ hoˊ sheˇ mang?"}
+  - n: 2
+    speaker: Sam
+    en: "It's ready. Just the one suitcase."
+    sx: {hanzi: "好了。淨一隻皮箱定定。", pinyin: "hoˋ leˊ. qiang idˋ zagˋ piˇ xiongˊ tin tin."}
+    hl: {hanzi: "好了。淨一隻皮箱定定。", pinyin: "hoˊ leˋ. ciang+ rhid zhag pi siongˋ tin+ tin+."}
+  - n: 3
+    speaker: 阿婆
+    en: "A suitcase only this big? Will a month's clothes fit in it?"
+    sx: {hanzi: "恁大仔个皮箱？裝得落一隻月个衫褲無？", pinyin: "an tai eˋ ge piˇ xiongˊ? zongˊ dedˋ log idˋ zagˋ ngied ge samˊ fu moˇ?"}
+    hl: {hanzi: "恁大仔个皮箱？張得落一隻月个衫褲無？", pinyin: "an tai+ er gaiˇ pi siongˋ? zhongˋ ded logˋ rhid zhag ngiedˋ gaiˇ samˋ fuˇ mo?"}
+  - n: 4
+    speaker: Sam
+    en: "They'll fit. I've only got this many clothes."
+    sx: {hanzi: "裝得落。𠊎个衫褲正恁多仔定定。", pinyin: "zongˊ dedˋ log. ngaiˇ ge samˊ fu zang an doˊ eˋ tin tin."}
+    hl: {hanzi: "張得落。𠊎个衫褲正恁多仔定定。", pinyin: "zhongˋ ded logˋ. ngai gaiˇ samˋ fuˇ zhangˇ an doˋ er tin+ tin+."}
+  - n: 5
+    speaker: 阿婆
+    en: "So few! It's cold in 竹東! (putting things in) This packet of sweet 粄, this packet of dried persimmons… and this warm jacket. It's Grandpa's."
+    sx: {hanzi: "恁少！竹東當寒！這包甜粄，這包柿餅……還有這領燒暖衫，阿公个。", pinyin: "anˋ seuˋ! zugˋ dungˊ dongˊ honˇ! iaˋ bauˊ tiamˇ banˋ, iaˋ bauˊ cii biangˋ … hanˇ iuˊ iaˋ liangˊ seuˊ nonˊ samˊ, aˊ gungˊ ge."}
+    hl: {hanzi: "恁少！竹東當冷！這包甜粄，這包柿餅……還有這領燒暖衫，阿公个。", pinyin: "anˊ shauˊ! zhug dungˋ dongˋ langˋ! liaˊ bauˋ tiam banˊ, liaˊ bauˋ ki+ biangˊ … han rhiuˋ liaˊ liangˋ shauˋ nonˋ samˋ, a+ gungˋ gaiˇ."}
+  - n: 6
+    speaker: 阿公
+    en: "(from the doorway) That one's mine!"
+    sx: {hanzi: "該領係𠊎个！", pinyin: "ge liangˊ he ngaiˇ ge!"}
+    hl: {hanzi: "該領係𠊎个！", pinyin: "gai liangˋ heˇ ngai gaiˇ!"}
+  - n: 7
+    speaker: 阿婆
+    en: "You've got two more."
+    sx: {hanzi: "你還有兩領。", pinyin: "nˇ hanˇ iuˊ liongˋ liangˊ."}
+    hl: {hanzi: "你還有兩領。", pinyin: "ngi han rhiuˋ liongˊ liangˋ."}
+  - n: 8
+    speaker: Sam
+    en: "Grandma, what day is it today? Lots of people outside are burning incense."
+    sx: {hanzi: "阿婆，今晡日係麼个日仔？外背當多人在該燒香。", pinyin: "aˊ poˇ, gimˊ buˊ ngidˋ he maˋ ge ngidˋ eˇ? ngoi boi dongˊ doˊ nginˇ du ge seuˊ hiongˊ."}
+    hl: {hanzi: "阿婆，今晡日係麼个日仔？外背當多人在該燒香。", pinyin: "a+ po, gimˋ buˋ ngid heˇ maˊ gaiˇ ngid er? ngo+ boiˇ dongˋ doˋ ngin diˇ gai shauˋ hiongˋ."}
+  - n: 9
+    speaker: 阿婆
+    en: "Today is 天穿日. The story goes that long ago the sky had a hole in it and somebody mended it; Hakka people still keep the day in memory of it."
+    sx: {hanzi: "今晡日係天穿日。傳說頭擺天穿一隻空，有人補天，客家人到今還過天穿日來紀念。", pinyin: "gimˊ buˊ ngidˋ he tienˊ conˊ ngidˋ. conˇ sodˋ teuˇ baiˋ tienˊ conˊ idˋ zagˋ kungˊ, iuˊ nginˇ buˋ tienˊ, hagˋ gaˊ nginˇ do gimˊ hanˇ go tienˊ conˊ ngidˋ loiˇ gi ngiam."}
+    hl: {hanzi: "今晡日係天穿日。傳說頭擺天穿一隻空，有人補天，客家人到今還過天穿日來紀念。", pinyin: "gimˋ buˋ ngid heˇ tienˋ chonˋ ngid. chon shod teu baiˊ tienˋ chonˋ rhid zhag kungˋ, rhiuˋ ngin buˊ tienˋ, hag gaˋ ngin doˇ gimˋ han goˇ tienˋ chonˋ ngid loi giˇ ngiam+."}
+  - n: 10
+    speaker: 阿婆
+    en: "天穿日 is a day off: you mustn't work, or the sky will leak."
+    sx: {hanzi: "天穿日愛放尞，毋好做事，做事天會漏。", pinyin: "tienˊ conˊ ngidˋ oi biong liau, mˇ hoˋ zo se, zo se tienˊ voi leu."}
+    hl: {hanzi: "天穿日愛放尞，毋好做事，做事天會漏。", pinyin: "tienˋ chonˋ ngid oiˇ biongˇ liau+, m hoˊ zoˇ she+, zoˇ she+ tienˋ voi+ leu+."}
+    check: true
+  - n: 11
+    speaker: Sam
+    en: "No work? But I'm going to 竹東 today to work!"
+    sx: {hanzi: "毋好做事？毋過𠊎今晡日愛去竹東做事！", pinyin: "mˇ hoˋ zo se? mˇ go ngaiˇ gimˊ buˊ ngidˋ oi hi zugˋ dungˊ zo se!"}
+    hl: {hanzi: "毋好做事？毋過𠊎今晡日愛去竹東做事！", pinyin: "m hoˊ zoˇ she+? m goˇ ngai gimˋ buˋ ngid oiˇ hiˇ zhug dungˋ zoˇ she+!"}
+  - n: 12
+    speaker: 阿婆
+    en: "You start tomorrow. …And every 天穿日 there's a mountain-song contest in 竹東."
+    sx: {hanzi: "你天光日正做。……逐年天穿日，竹東都有山歌比賽。", pinyin: "nˇ tienˊ gongˊ ngidˋ zang zo. … dagˋ ngienˇ tienˊ conˊ ngidˋ, zugˋ dungˊ du iuˊ sanˊ goˊ biˋ soi."}
+    hl: {hanzi: "你韶早正做。……逐年天穿日，竹東都有山歌比賽。", pinyin: "ngi shau zoˊ zhangˇ zoˇ. … dag ngien tienˋ chonˋ ngid, zhug dungˋ du+ rhiuˋ sanˋ goˋ biˊ soiˇ."}
+  - n: 13
+    speaker: 阿公
+    en: "(after a pause, to Grandma) You go and sing."
+    sx: {hanzi: "你去唱。", pinyin: "nˇ hi cong."}
+    hl: {hanzi: "你去唱。", pinyin: "ngi hiˇ chongˇ."}
+  - n: 14
+    speaker: 阿婆
+    en: "Me? …(she looks at the suitcase, then at Sam) All right. I'll go to 竹東 with Sam. You're coming too."
+    sx: {hanzi: "𠊎？……好。𠊎跈 Sam 去竹東。你乜愛去。", pinyin: "ngaiˇ? … hoˋ. ngaiˇ tenˇ Sam hi zugˋ dungˊ. nˇ me oi hi."}
+    hl: {hanzi: "𠊎？……好。𠊎跈 Sam 去竹東。你乜愛去。", pinyin: "ngai? … hoˊ. ngai ten Sam hiˇ zhug dungˋ. ngi meˇ oiˇ hiˇ."}
+
+notes:
+  - ref: 3
+    topic: grammar
+    text: >
+      Two words written 恁, two tones. 恁 anˋ (lesson 8) "so": 恁少！ (line 5) "so few!", 恁大 "so big". 恁 an, level tone,
+      before …仔, is "only this much": 恁大仔 "only this big", 恁多仔 (line 4) "only this many". Official examples:
+      生个卵像鳥卵仔恁大仔 "it lays eggs only the size of a bird's", 拿著恁多仔定定 "took only this much". With 正…定定 (line
+      4) it is "a mere…". The tone does the work; Hailu has the same pair, anˊ and an.
+  - ref: 3
+    topic: grammar
+    text: >
+      裝得落 "it will go in, there's room": V得落 "can V into it", 裝毋落 "won't go in". 裝 zongˊ "put in, pack"; Hailu
+      says 張 zhongˋ. 皮箱 "suitcase", 行李 (line 1) "luggage". 準備好勢吂？ "all ready?", from an official example
+      (行李準備好勢吂？).
+  - ref: 9
+    topic: culture
+    text: >
+      天穿日 tienˊ conˊ ngidˋ, lunar 1/20, the day "the sky got a hole", is the Hakka festival promised in lesson 22. An
+      official example tells the story: 女媧娘…煉石補天，故所客家人到如今還過天穿日來紀念 "the goddess Nüwa melted stones
+      and mended the sky, and that is why Hakka people still keep 天穿日 in her memory". It is now 全國客家日, the national
+      Hakka Day. 傳說 "the story goes", 補 "mend", 空 kungˊ "hole", 紀念 "commemorate".
+  - ref: 10
+    topic: culture
+    text: >
+      The custom of resting on 天穿日 (放尞 "have a day off"), so as not to "make the sky leak", is widely described but has no official example
+      sentence in our data: the line is marked for a check. 漏 leu "leak".
+  - ref: 12
+    topic: culture
+    text: >
+      An official example word for word: 逐年天穿日，竹東都有山歌比賽 "every 天穿日 there is a mountain-song contest in
+      竹東". 比賽 "contest, competition". Grandma's song, promised in lessons 37 and 42, is on its way.
+
+new_words:
+  - {hanzi: 行李, pinyin: "hangˇ liˋ", en: "luggage", hl: {hanzi: 行李, pinyin: "hang liˊ"}}
+  - {hanzi: 準備, pinyin: "zunˋ pi", en: "prepare, get ready", hl: {hanzi: 準備, pinyin: "zhunˊ pi+"}}
+  - {hanzi: 皮箱, pinyin: "piˇ xiongˊ", en: "suitcase", hl: {hanzi: 皮箱, pinyin: "pi siongˋ"}}
+  - {hanzi: 恁大仔, pinyin: "an tai eˋ", en: "only this big", hl: {hanzi: 恁大仔, pinyin: "an tai+ er"}}
+  - {hanzi: 恁多仔, pinyin: "an doˊ eˋ", en: "only this much, only this many", hl: {hanzi: 恁多仔, pinyin: "an doˋ er"}}
+  - {hanzi: 裝, pinyin: "zongˊ", en: "put in, pack, fill", hl: {hanzi: 張, pinyin: "zhongˋ"}}
+  - {hanzi: 日仔, pinyin: "ngidˋ eˇ", en: "day, date", hl: {hanzi: 日仔, pinyin: "ngid er"}}
+  - {hanzi: 天穿日, pinyin: "tienˊ conˊ ngidˋ", en: "天穿日 (lunar 1/20, Hakka Day)", hl: {hanzi: 天穿日, pinyin: "tienˋ chonˋ ngid"}}
+  - {hanzi: 穿, pinyin: "conˊ", en: "have a hole, be pierced; pierce", hl: {hanzi: 穿, pinyin: "chonˋ"}}
+  - {hanzi: 傳說, pinyin: "conˇ sodˋ", en: "legend; the story goes", hl: {hanzi: 傳說, pinyin: "chon shod"}}
+  - {hanzi: 補, pinyin: "buˋ", en: "mend, patch", hl: {hanzi: 補, pinyin: "buˊ"}}
+  - {hanzi: 紀念, pinyin: "gi ngiam", en: "commemorate; souvenir", hl: {hanzi: 紀念, pinyin: "giˇ ngiam+"}}
+  - {hanzi: 漏, pinyin: "leu", en: "leak", hl: {hanzi: 漏, pinyin: "leu+"}}
+  - {hanzi: 比賽, pinyin: "biˋ soi", en: "contest, competition", hl: {hanzi: 比賽, pinyin: "biˊ soiˇ"}}
+  - {hanzi: 到今, pinyin: "do gimˊ", en: "to this day, up to now", hl: {hanzi: 到今, pinyin: "doˇ gimˋ"}}
+  - {hanzi: 政府, pinyin: "ziin fuˋ", en: "government", hl: {hanzi: 政府, pinyin: "zhinˇ fuˊ"}}
+  - {hanzi: 架, pinyin: "ga", en: "rack, shelf", hl: {hanzi: 架, pinyin: "gaˇ"}}
+  - {hanzi: 放尞, pinyin: "biong liau", en: "have a day off, a holiday", hl: {hanzi: 放尞, pinyin: "biongˇ liau+"}}
+  - {hanzi: 屋頂, pinyin: "vugˋ dangˋ", en: "roof", hl: {hanzi: 屋頂, pinyin: "vug dangˊ"}}
+  - {hanzi: 定, pinyin: "tin", en: "fix, set (a date)", hl: {hanzi: 定, pinyin: "tin+"}}
+
+exercises:
+  translate:
+    - en: "The government has made 天穿日 the national Hakka Day."
+      sx: {hanzi: "政府定天穿日做客家日。", pinyin: "ziin fuˋ tin tienˊ conˊ ngidˋ zo hagˋ gaˊ ngidˋ."}
+      hl: {hanzi: "政府定天穿日做客家日。", pinyin: "zhinˇ fuˊ tin+ tienˋ chonˋ ngid zoˇ hag gaˋ ngid."}
+      check: true
+    - en: "Only this big a box: how can so many things fit in it?"
+      sx: {hanzi: "這箱仔正恁大仔，仰般裝得落恁多東西？", pinyin: "iaˋ xiongˊ eˋ zang an tai eˋ, ngiongˋ banˊ zongˊ dedˋ log anˋ doˊ dungˊ xiˊ?"}
+      hl: {hanzi: "這箱仔正恁大仔，仰般張得落恁多東西？", pinyin: "liaˊ siongˋ er zhangˇ an tai+ er, ngiongˊ banˋ zhongˋ ded logˋ anˊ doˋ dungˋ siˋ?"}
+    - en: "The roof leaks; it needs mending."
+      sx: {hanzi: "屋頂會漏，愛補。", pinyin: "vugˋ dangˋ voi leu, oi buˋ."}
+      hl: {hanzi: "屋頂會漏，愛補。", pinyin: "vug dangˊ voi+ leu+, oiˇ buˊ."}
+      check: true
+    - en: "Put the suitcase up on the rack."
+      sx: {hanzi: "皮箱放到架項去。", pinyin: "piˇ xiongˊ biong do ga hong hi."}
+      hl: {hanzi: "皮箱放到架項去。", pinyin: "pi siongˋ biongˇ doˇ gaˇ hong+ hiˇ."}
+      check: true
+    - en: "My shirt has a hole in it; mend it for me."
+      sx: {hanzi: "𠊎个衫穿一隻空，摎𠊎補一下。", pinyin: "ngaiˇ ge samˊ conˊ idˋ zagˋ kungˊ, lauˊ ngaiˇ buˋ idˋ ha."}
+      hl: {hanzi: "𠊎个衫穿一隻空，摎𠊎補一下。", pinyin: "ngai gaiˇ samˋ chonˋ rhid zhag kungˋ, lauˋ ngai buˊ rhid ha+."}
+      check: true
+    - en: "Is everything ready for the contest?"
+      sx: {hanzi: "比賽準備好勢吂？", pinyin: "biˋ soi zunˋ pi hoˋ se mangˇ?"}
+      hl: {hanzi: "比賽準備好勢吂？", pinyin: "biˊ soiˇ zhunˊ pi+ hoˊ sheˇ mang?"}
+  fill:
+    - en: "So few!"
+      sx: {hanzi: "___少！", pinyin: "___ seuˋ!", answer_hanzi: "恁", answer: "anˋ"}
+      hl: {hanzi: "___少！", pinyin: "___ shauˊ!", answer_hanzi: "恁", answer: "anˊ"}
+    - en: "Only this big."
+      sx: {hanzi: "___。", pinyin: "___.", answer_hanzi: "恁大仔", answer: "an tai eˋ"}
+      hl: {hanzi: "___。", pinyin: "___.", answer_hanzi: "恁大仔", answer: "an tai+ er"}
+    - en: "Will it fit? — It will."
+      sx: {hanzi: "裝得落無？——___。", pinyin: "zongˊ dedˋ log moˇ? — ___.", answer_hanzi: "裝得落", answer: "zongˊ dedˋ log"}
+      hl: {hanzi: "張得落無？——___。", pinyin: "zhongˋ ded logˋ mo? — ___.", answer_hanzi: "張得落", answer: "zhongˋ ded logˋ"}
+
+audio: []
