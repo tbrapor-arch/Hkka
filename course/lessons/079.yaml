@@ -1,0 +1,203 @@
+id: 79
+title:
+  en: "Visiting hours"
+  sx: {hanzi: "人來就好", pinyin: "nginˇ loiˇ qiu hoˋ"}
+  hl: {hanzi: "人來就好", pinyin: "ngin loi ciu+ hoˊ"}
+review: false
+setting: >-
+  Thursday 3 June, three in the afternoon, visiting hours. Grandpa's leg is up on two pillows. The neighbours from
+  lesson 32, 阿財伯 (leaning on a stick) and 財伯姆 (carrying far too much), come through the door.
+names: [財伯姆, 阿財伯, 劉]
+
+dialogue:
+  - n: 1
+    speaker: 財伯姆
+    en: "Grandma Liu! We've come to visit the patient and ask after uncle."
+    sx: {hanzi: "劉阿婆！𠊎兜來探病，問候阿伯。", pinyin: "liuˇ aˊ poˇ! ngaiˇ deuˊ loiˇ tamˋ piang, mun onˊ aˊ bagˋ."}
+    hl: {hanzi: "劉阿婆！𠊎兜來探病，問候阿伯。", pinyin: "liu a+ po! ngai deuˋ loi tamˇ piang+, munˇ onˋ a+ bag."}
+    check: true
+  - n: 2
+    speaker: 阿婆
+    en: "Coming is enough, and you've brought presents too. You're too kind."
+    sx: {hanzi: "人來就好，還擐等路來，恁客氣。", pinyin: "nginˇ loiˇ qiu hoˋ, hanˇ kuan denˋ lu loiˇ, anˋ hagˋ hi."}
+    hl: {hanzi: "人來就好，還擐等路來，恁客氣。", pinyin: "ngin loi ciu+ hoˊ, han kuan+ denˊ lu+ loi, anˊ hag hiˇ."}
+    source: kaga115
+  - n: 3
+    speaker: 財伯姆
+    en: "Not at all. This box of apples and these flowers are for him. And I've cooked some 麵線卵, to chase his bad luck away."
+    sx: {hanzi: "毋使客氣。這盒蘋果、這束花分阿伯。還有，𠊎煮麵線卵來，分阿伯過運。", pinyin: "mˇ siiˋ hagˋ hi. iaˋ hab lin goˋ, iaˋ sogˋ faˊ bunˊ aˊ bagˋ. hanˇ iuˊ, ngaiˇ zuˋ mien xien lonˋ loiˇ, bunˊ aˊ bagˋ go iun."}
+    hl: {hanzi: "毋使客氣。這盒蘋果、這束花分阿伯。還有，𠊎煮麵線卵來，分阿伯過運。", pinyin: "m siiˊ hag hiˇ. liaˊ habˋ linˋ goˇ, liaˊ sog faˋ bunˋ a+ bag. han rhiuˋ, ngai zhuˊ mien+ sienˇ lonˊ loi, bunˋ a+ bag goˇ rhun+."}
+    check: true
+  - n: 4
+    speaker: 阿婆
+    en: "Thank you!"
+    sx: {hanzi: "恁仔細！", pinyin: "anˋ ziiˋ se!"}
+    hl: {hanzi: "承蒙你兜！", pinyin: "shin mung ngi deuˋ!"}
+  - n: 5
+    speaker: 財伯姆
+    en: "(to Grandpa) Uncle, you look well today."
+    sx: {hanzi: "阿伯，你今晡日面色當好。", pinyin: "aˊ bagˋ, nˇ gimˊ buˊ ngidˋ mien sedˋ dongˊ hoˋ."}
+    hl: {hanzi: "阿伯，你今晡日面色當好。", pinyin: "a+ bag, ngi gimˋ buˋ ngid mienˇ sed dongˋ hoˊ."}
+  - n: 6
+    speaker: 阿婆
+    en: "(answering for him) He sleeps in the daytime and wakes up at night. He's bored stiff in the ward."
+    sx: {hanzi: "佢日時頭睡，暗晡醒。在病房當無聊。", pinyin: "giˇ ngidˋ siiˇ teuˇ soi, am buˊ xiangˋ. coiˊ piang fongˇ dongˊ moˇ liauˇ."}
+    hl: {hanzi: "佢日時頭睡，暗晡醒。在病房當無聊。", pinyin: "gi ngid shi teu shoi+, amˇ buˋ siangˊ. coiˋ piang+ fong dongˋ mo liau."}
+    check: true
+  - n: 7
+    speaker: 阿財伯
+    en: "(waving his stick, laughing) Old brother, once you're out, you'll need a stick too!"
+    sx: {hanzi: "老阿哥，你出院以後，乜愛擎棍仔哦！", pinyin: "loˋ aˊ goˊ, nˇ cudˋ ien iˊ heu, me oi kiaˇ gun eˋ oˊ!"}
+    hl: {hanzi: "老阿哥，你出院以後，乜愛擎棍仔哦！", pinyin: "loˊ a+ goˋ, ngi chud rhanˇ rhiˋ heu+, meˇ oiˇ kia gunˇ er oˊ!"}
+  - n: 8
+    speaker: 阿公
+    en: "You first."
+    sx: {hanzi: "你先。", pinyin: "nˇ xienˊ."}
+    hl: {hanzi: "你先。", pinyin: "ngi senˋ."}
+  - n: 9
+    speaker: 財伯姆
+    en: "Stop joking, you two. A patient needs peace and rest."
+    sx: {hanzi: "莫講笑了。病人愛安心歇睏。", pinyin: "mog gongˋ seu leˊ. piang nginˇ oi onˊ ximˊ hiedˋ kun."}
+    hl: {hanzi: "莫講笑了。病人愛安心歇睏。", pinyin: "mogˋ gongˊ siauˇ leˋ. piang+ ngin oiˇ onˋ simˋ hied kunˇ."}
+  - n: 10
+    speaker: 護士
+    en: "Excuse me, visiting time is over. Uncle has to rest."
+    sx: {hanzi: "失禮，探病个時間過了。阿伯愛歇睏了。", pinyin: "siidˋ liˊ, tamˋ piang ge siiˇ gienˊ go leˊ. aˊ bagˋ oi hiedˋ kun leˊ."}
+    hl: {hanzi: "失禮，探病个時間過了。阿伯愛歇睏了。", pinyin: "shid liˋ, tamˇ piang+ gaiˇ shi gienˋ goˇ leˋ. a+ bag oiˇ hied kunˇ leˋ."}
+    check: true
+  - n: 11
+    speaker: 財伯姆
+    en: "All right, all right. Get well, uncle, and come home soon."
+    sx: {hanzi: "好，好。阿伯，好好歇睏，早兜仔轉屋下。", pinyin: "hoˋ, hoˋ. aˊ bagˋ, hoˋ hoˋ hiedˋ kun, zoˋ deuˊ eˋ zonˋ vugˋ kaˊ."}
+    hl: {hanzi: "好，好。阿伯，好好歇睏，早兜仔轉屋下。", pinyin: "hoˊ, hoˊ. a+ bag, hoˊ hoˊ hied kunˇ, zoˊ deuˋ er zhonˊ vug haˋ."}
+  - n: 12
+    speaker: 阿婆
+    en: "Come and see us when you're free!"
+    sx: {hanzi: "有閒正來尞！", pinyin: "iuˊ hanˇ zang loiˇ liau!"}
+    hl: {hanzi: "有閒正來尞！", pinyin: "rhiuˋ han zhangˇ loi liau+!"}
+  - n: 13
+    speaker: Sam
+    en: "(once they've gone) Grandma, they say 'no need to be polite', you say 'thank you', they say 'no need to be polite' again…"
+    sx: {hanzi: "阿婆，佢兜講毋使客氣，你講恁仔細，佢兜又講毋使客氣……", pinyin: "aˊ poˇ, giˇ deuˊ gongˋ mˇ siiˋ hagˋ hi, nˇ gongˋ anˋ ziiˋ se, giˇ deuˊ iu gongˋ mˇ siiˋ hagˋ hi …"}
+    hl: {hanzi: "阿婆，佢兜講毋使客氣，你講承蒙，佢兜又講毋使客氣……", pinyin: "a+ po, gi deuˋ gongˊ m siiˊ hag hiˇ, ngi gongˊ shin mung, gi deuˋ rhiu+ gongˊ m siiˊ hag hiˇ …"}
+  - n: 14
+    speaker: 阿婆
+    en: "That's manners. When people bring you things, you say thank you; when you thank them, they say no need. The way it's always been done."
+    sx: {hanzi: "這就係禮數。人送東西，你講恁仔細；你講恁仔細，人講毋使客氣。頭擺就係恁樣个規矩。", pinyin: "iaˋ qiu he liˊ su. nginˇ sung dungˊ xiˊ, nˇ gongˋ anˋ ziiˋ se; nˇ gongˋ anˋ ziiˋ se, nginˇ gongˋ mˇ siiˋ hagˋ hi. teuˇ baiˋ qiu he anˋ ngiongˇ ge guiˊ giˋ."}
+    hl: {hanzi: "這就係禮數。人送東西，你講承蒙；你講承蒙，人講毋使客氣。頭擺就係恁樣个規矩。", pinyin: "liaˊ ciu+ heˇ liˋ suˇ. ngin sungˇ dungˋ siˋ, ngi gongˊ shin mung; ngi gongˊ shin mung, ngin gongˊ m siiˊ hag hiˇ. teu baiˊ ciu+ heˇ an ngiong gaiˇ guiˋ giˊ."}
+  - n: 15
+    speaker: 阿公
+    en: "(from the bed, suddenly) The 麵線卵."
+    sx: {hanzi: "麵線卵。", pinyin: "mien xien lonˋ."}
+    hl: {hanzi: "麵線卵。", pinyin: "mien+ sienˇ lonˊ."}
+
+notes:
+  - ref: 2
+    topic: culture
+    text: >
+      The official example sentence, word for word: 人來就好，還擐等路來，恁客氣 "coming is enough, and you bring presents
+      too: so kind". 等路 "a present brought on a visit" and 擐 "carry (by a handle)" from lesson 52. The reply is
+      always 毋使客氣 "no need to be polite" (line 3), from the official 請坐啊！毋使客氣.
+  - ref: 3
+    topic: culture
+    text: >
+      麵線卵 mien xien lonˋ "thin noodles with an egg". An official example: 客家人食麵線卵…有過運个意義 "when Hakka people
+      eat 麵線卵… it is to get past bad luck" (過運). After an accident, it is the dish a neighbour brings. 盒 hab
+      "box" (classifier), 束 sogˋ "bunch": 一盒蘋果, 一束花. The whole line is marked for a check: the official sentence
+      gives the custom, not this way of offering it.
+  - ref: 4
+    topic: grammar
+    text: >
+      恁仔細！ stands alone, as always (lesson 1). Hailu says 承蒙你 / 承蒙你兜, with the person after it (lesson 53).
+      That is the one place where the two columns of this lesson differ in substance.
+  - ref: 5
+    topic: vocab
+    text: >
+      面色 mien sedˋ "complexion, how someone looks": 你今晡日面色當好 "you look well today". From the official saying
+      出門看天色，入門看面色 "outside, watch the sky; indoors, watch people's faces". 氣色 is a near-synonym.
+  - ref: 6
+    topic: vocab
+    text: >
+      日時頭 "in the daytime", 暗晡 "in the evening, at night" (lesson 25), 醒 xiangˋ "wake up". 無聊 moˇ liauˇ "bored,
+      boring", as in Mandarin.
+  - ref: 8
+    topic: culture
+    text: >
+      你先 "you first": Grandpa's reply to "you'll need a stick too" uses the 先 of 你先行 "after you" (lesson 17). Two
+      syllables, and the neighbour laughs the hardest. 擎 "hold (a stick, an umbrella)" from lesson 61; 棍仔 "stick"
+      from lesson 36.
+  - ref: 12
+    topic: grammar
+    text: >
+      有閒正來尞 "come round when you're free", the farewell set phrase of lesson 54: 正 at the end of a condition, "when…,
+      then". Said to visitors leaving a hospital ward, it is pure politeness.
+  - ref: 14
+    topic: culture
+    text: >
+      禮數 liˊ su "manners, the proper forms" and 規矩 guiˊ giˋ "rules, the way things are done". Grandma's lesson in
+      politeness is the course's own summary, not a quotation: thanks, refusal of thanks, and nobody keeps count.
+
+new_words:
+  - {hanzi: 探病, pinyin: "tamˋ piang", en: "visit a patient", hl: {hanzi: 探病, pinyin: "tamˇ piang+"}}
+  - {hanzi: 盒, pinyin: "hab", en: "box (classifier)", hl: {hanzi: 盒, pinyin: "habˋ"}}
+  - {hanzi: 蘋果, pinyin: "lin goˋ", en: "apple", hl: {hanzi: 蘋果, pinyin: "linˋ goˇ"}}
+  - {hanzi: 束, pinyin: "sogˋ", en: "bunch (of flowers)", hl: {hanzi: 束, pinyin: "sog"}}
+  - {hanzi: 麵線卵, pinyin: "mien xien lonˋ", en: "noodles with an egg (eaten to shake off bad luck)", hl: {hanzi: 麵線卵, pinyin: "mien+ sienˇ lonˊ"}}
+  - {hanzi: 運, pinyin: "iun", en: "luck, fortune (過運 get past bad luck)", hl: {hanzi: 運, pinyin: "rhun+"}}
+  - {hanzi: 日時頭, pinyin: "ngidˋ siiˇ teuˇ", en: "in the daytime", hl: {hanzi: 日時頭, pinyin: "ngid shi teu"}}
+  - {hanzi: 問候, pinyin: "mun onˊ", en: "ask after, greet", hl: {hanzi: 問候, pinyin: "munˇ onˋ"}}
+  - {hanzi: 招待, pinyin: "zeuˊ tai", en: "hospitality; receive (guests)", hl: {hanzi: 招待, pinyin: "zhauˋ tai+"}}
+  - {hanzi: 關心, pinyin: "guanˊ ximˊ", en: "care about, be concerned for", hl: {hanzi: 關心, pinyin: "guanˋ simˋ"}}
+  - {hanzi: 好好, pinyin: "hoˋ hoˋ", en: "properly, well", hl: {hanzi: 好好, pinyin: "hoˊ hoˊ"}}
+  - {hanzi: 面色, pinyin: "mien sedˋ", en: "complexion, how someone looks", hl: {hanzi: 面色, pinyin: "mienˇ sed"}}
+  - {hanzi: 氣色, pinyin: "hi sedˋ", en: "complexion, colour (in the face)", hl: {hanzi: 氣色, pinyin: "hiˇ sed"}}
+  - {hanzi: 醒, pinyin: "xiangˋ", en: "wake up", hl: {hanzi: 醒, pinyin: "siangˊ"}}
+  - {hanzi: 無聊, pinyin: "moˇ liauˇ", en: "bored, boring", hl: {hanzi: 無聊, pinyin: "mo liau"}}
+  - {hanzi: 安心, pinyin: "onˊ ximˊ", en: "at ease, with peace of mind", hl: {hanzi: 安心, pinyin: "onˋ simˋ"}}
+  - {hanzi: 時間, pinyin: "siiˇ gienˊ", en: "time", hl: {hanzi: 時間, pinyin: "shi gienˋ"}}
+  - {hanzi: 禮數, pinyin: "liˊ su", en: "manners, etiquette", hl: {hanzi: 禮數, pinyin: "liˋ suˇ"}}
+  - {hanzi: 枕頭, pinyin: "ziimˋ teuˇ", en: "pillow", hl: {hanzi: 枕頭, pinyin: "zhimˊ teu"}}
+  - {hanzi: 面帕, pinyin: "mien pa", en: "face towel, flannel", hl: {hanzi: 面帕, pinyin: "mienˇ paˇ"}}
+  - {hanzi: 雜誌, pinyin: "cab zii", en: "magazine", hl: {hanzi: 雜誌, pinyin: "cabˋ zhiˇ"}}
+  - {hanzi: 心情, pinyin: "ximˊ qinˇ", en: "mood", hl: {hanzi: 心情, pinyin: "simˋ cin"}}
+  - {hanzi: 悶, pinyin: "mun", en: "stifled, fed up (with nothing to do)", hl: {hanzi: 悶, pinyin: "munˇ"}}
+  - {hanzi: 好料, pinyin: "hoˋ liau", en: "good food, treats", hl: {hanzi: 好料, pinyin: "hoˊ liau+"}}
+
+exercises:
+  translate:
+    - en: "Here, sit down. No need to be polite."
+      sx: {hanzi: "請坐啊！毋使客氣。", pinyin: "qiangˋ coˊ a! mˇ siiˋ hagˋ hi."}
+      hl: {hanzi: "請坐啊！毋使客氣。", pinyin: "ciangˊ coˋ a+! m siiˊ hag hiˇ."}
+      source: kaga115
+    - en: "Put another pillow under his leg, and bring a face towel."
+      sx: {hanzi: "佢个腳下背加一隻枕頭，乜拿一條面帕來。", pinyin: "giˇ ge giogˋ haˊ boi gaˊ idˋ zagˋ ziimˋ teuˇ, me naˊ idˋ tiauˇ mien pa loiˇ."}
+      hl: {hanzi: "佢个腳下背加一隻枕頭，乜拿一條面帕來。", pinyin: "gi gaiˇ giog haˋ boiˇ gaˋ rhid zhag zhimˊ teu, meˇ naˋ rhid tiau mienˇ paˇ loi."}
+      check: true
+    - en: "Grandpa is fed up in hospital; Sam brings him a magazine."
+      sx: {hanzi: "阿公在醫院當悶，Sam 拿一本雜誌分佢看。", pinyin: "aˊ gungˊ coiˊ iˊ ien dongˊ mun, Sam naˊ idˋ bunˋ cab zii bunˊ giˇ kon."}
+      hl: {hanzi: "阿公在醫院當悶，Sam 拿一本雜誌分佢看。", pinyin: "a+ gungˋ coiˋ rhiˋ rhanˇ dongˋ munˇ, Sam naˋ rhid bunˊ cabˋ zhiˇ bunˋ gi konˇ."}
+    - en: "His colour is better today, and his mood is good too."
+      sx: {hanzi: "佢今晡日氣色較好，心情乜當好。", pinyin: "giˇ gimˊ buˊ ngidˋ hi sedˋ ka hoˋ, ximˊ qinˇ me dongˊ hoˋ."}
+      hl: {hanzi: "佢今晡日氣色較好，心情乜當好。", pinyin: "gi gimˋ buˋ ngid hiˇ sed haˇ hoˊ, simˋ cin meˇ dongˋ hoˊ."}
+    - en: "Once he's home, Grandma will cook him all kinds of treats."
+      sx: {hanzi: "轉屋下以後，阿婆會煮好料分佢補身體。", pinyin: "zonˋ vugˋ kaˊ iˊ heu, aˊ poˇ voi zuˋ hoˋ liau bunˊ giˇ buˋ siinˊ tiˋ."}
+      hl: {hanzi: "轉屋下以後，阿婆會煮好料分佢補身體。", pinyin: "zhonˊ vug haˋ rhiˋ heu+, a+ po voi+ zhuˊ hoˊ liau+ bunˋ gi buˊ shinˋ tiˊ."}
+    - en: "Thank you for your hospitality; come and see us when you're free."
+      sx: {hanzi: "承蒙你个招待，有閒正來尞。", pinyin: "siinˇ mungˇ nˇ ge zeuˊ tai, iuˊ hanˇ zang loiˇ liau."}
+      hl: {hanzi: "承蒙你个招待，有閒正來尞。", pinyin: "shin mung ngi gaiˇ zhauˋ tai+, rhiuˋ han zhangˇ loi liau+."}
+      source: kaga115
+    - en: "The neighbours really care about Grandpa."
+      sx: {hanzi: "鄰舍當關心阿公。", pinyin: "linˇ sa dongˊ guanˊ ximˊ aˊ gungˊ."}
+      hl: {hanzi: "鄰舍當關心阿公。", pinyin: "lin shaˇ dongˋ guanˋ simˋ a+ gungˋ."}
+  fill:
+    - en: "Thank you! — Not at all."
+      sx: {hanzi: "恁仔細！——___。", pinyin: "anˋ ziiˋ se! — ___.", answer_hanzi: "毋使客氣", answer: "mˇ siiˋ hagˋ hi"}
+      hl: {hanzi: "承蒙你！——___。", pinyin: "shin mung ngi! — ___.", answer_hanzi: "毋使客氣", answer: "m siiˊ hag hiˇ"}
+    - en: "We've come to visit the patient."
+      sx: {hanzi: "𠊎兜來___了。", pinyin: "ngaiˇ deuˊ loiˇ ___ leˊ.", answer_hanzi: "探病", answer: "tamˋ piang"}
+      hl: {hanzi: "𠊎兜來___了。", pinyin: "ngai deuˋ loi ___ leˋ.", answer_hanzi: "探病", answer: "tamˇ piang+"}
+    - en: "Visiting time is over."
+      sx: {hanzi: "探病个___過了。", pinyin: "tamˋ piang ge ___ go leˊ.", answer_hanzi: "時間", answer: "siiˇ gienˊ"}
+      hl: {hanzi: "探病个___過了。", pinyin: "tamˇ piang+ gaiˇ ___ goˇ leˋ.", answer_hanzi: "時間", answer: "shi gienˋ"}
+
+audio: []

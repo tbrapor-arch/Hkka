@@ -9,7 +9,7 @@ setting: >-
   wet slope of the tea field and fell. His knee is swollen and he cut his hand on the shears; Mr Liu drove him in, and
   the doctor kept him overnight. Grandma has been there since seven. Sam has come on the first bus. A-in starts at the
   county office today.
-names: [護士, 阿英, 苗栗]
+names: [阿英, 苗栗]
 
 dialogue:
   - n: 1
@@ -90,7 +90,7 @@ dialogue:
   - n: 16
     speaker: 護士
     en: "(laughing) Uncle's words are dearer than his medicine! Here, uncle, we're taking you for a blood test. Into the wheelchair."
-    sx: {hanzi: "阿伯个話，比藥仔還較貴哦！來，阿伯，𠊎兜推你去抽血。坐輪椅。", pinyin: "aˊ bagˋ ge fa, biˋ iog eˋ hanˇ ka gui oˋ! loiˇ, aˊ bagˋ, ngaiˇ deuˊ toiˊ nˇ hi cuˊ hiedˋ. coˊ lunˇ iˋ."}
+    sx: {hanzi: "阿伯个話，比藥仔還較貴哦！來，阿伯，𠊎兜推你去抽血。坐輪椅。", pinyin: "aˊ bagˋ ge fa, biˋ iog eˋ hanˇ ka gui oˊ! loiˇ, aˊ bagˋ, ngaiˇ deuˊ toiˊ nˇ hi cuˊ hiedˋ. coˊ lunˇ iˋ."}
     hl: {hanzi: "阿伯个話，比藥仔還較貴哦！來，阿伯，𠊎兜推你去抽血。坐輪椅。", pinyin: "a+ bag gaiˇ faˇ, biˊ rhogˋ er han haˇ guiˇ oˊ! loi, a+ bag, ngai deuˋ toiˋ ngi hiˇ chiuˋ hied. coˋ lun rhiˊ."}
     check: true
 
@@ -141,6 +141,7 @@ notes:
 new_words:
   - {hanzi: 醫院, pinyin: "iˊ ien", en: "hospital", hl: {hanzi: 醫院, pinyin: "rhiˋ rhanˇ"}}
   - {hanzi: 院, pinyin: "ien", en: "(in 戴院, 出院) hospital", hl: {hanzi: 院, pinyin: "rhanˇ"}}
+  - {hanzi: 護士, pinyin: "fu sii", en: "nurse", hl: {hanzi: 護士, pinyin: "fu+ sii+"}}
   - {hanzi: 病房, pinyin: "piang fongˇ", en: "ward, hospital room", hl: {hanzi: 病房, pinyin: "piang+ fong"}}
   - {hanzi: 著傷, pinyin: "cog songˊ", en: "get hurt, be injured", hl: {hanzi: 著傷, pinyin: "chogˋ shongˋ"}}
   - {hanzi: 檢查, pinyin: "giamˋ caˇ", en: "examine, test", hl: {hanzi: 檢查, pinyin: "giamˊ ca"}}
@@ -181,9 +182,9 @@ exercises:
     - en: "He's only just out of hospital and still weak: no heavy work."
       sx: {hanzi: "佢正出院，身體還弱弱，毋好做粗事。", pinyin: "giˇ zang cudˋ ien, siinˊ tiˋ hanˇ ngiog ngiog, mˇ hoˋ zo cuˊ se."}
       hl: {hanzi: "佢正出院，身體還弱弱，毋好做粗事。", pinyin: "gi zhangˇ chud rhanˇ, shinˋ tiˊ han ngiogˋ ngiogˋ, m hoˊ zoˇ cuˋ she+."}
-    - en: "Change into these clothes; the nurse is coming."
-      sx: {hanzi: "這領衫換起來，護士愛來了。", pinyin: "iaˋ liangˊ samˊ von hiˋ loiˇ, fu sii oi loiˇ leˊ."}
-      hl: {hanzi: "這領衫換起來，護士愛來了。", pinyin: "liaˊ liangˋ samˋ von+ hiˊ loi, fu+ sii+ oiˇ loi leˋ."}
+    - en: "Put this shirt on; the nurse is coming."
+      sx: {hanzi: "這領衫著起來，護士愛來了。", pinyin: "iaˋ liangˊ samˊ zogˋ hiˋ loiˇ, fu sii oi loiˇ leˊ."}
+      hl: {hanzi: "這領衫著起來，護士愛來了。", pinyin: "liaˊ liangˋ samˋ zhog hiˊ loi, fu+ sii+ oiˇ loi leˋ."}
       check: true
   fill:
     - en: "His knee is swollen."
