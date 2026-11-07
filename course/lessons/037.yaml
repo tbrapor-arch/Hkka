@@ -1,0 +1,174 @@
+id: 37
+title:
+  en: "Grandpa sings"
+  sx: {hanzi: "唱一條山歌", pinyin: "cong idˋ tiauˇ sanˊ goˊ"}
+  hl: {hanzi: "唱一條山歌", pinyin: "chongˇ rhid tiau sanˋ goˋ"}
+review: false
+setting: >-
+  The same evening, after the guests have gone. The 擂茶 bowl is empty, Grandpa is in a good mood, and Sam remembers
+  lesson 20, when Grandpa refused to sing.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Grandpa, you sang mountain songs in the tea garden in the old days. Will you sing me one tonight?"
+    sx: {hanzi: "阿公，你頭擺在茶園唱山歌。今暗晡唱一條分𠊎聽，好無？", pinyin: "aˊ gungˊ, nˇ teuˇ baiˋ coiˊ caˇ ienˇ cong sanˊ goˊ. gimˊ am buˊ cong idˋ tiauˇ bunˊ ngaiˇ tangˊ, hoˋ moˇ?"}
+    hl: {hanzi: "阿公，你頭擺在茶園唱山歌。今暗晡唱一條分𠊎聽，好無？", pinyin: "a+ gungˋ, ngi teu baiˊ coiˋ ca rhan chongˇ sanˋ goˋ. gimˋ amˇ buˋ chongˇ rhid tiau bunˋ ngai tangˋ, hoˊ mo?"}
+  - n: 2
+    speaker: 阿公
+    en: "I'm old. My voice isn't nice to listen to any more."
+    sx: {hanzi: "𠊎老了，聲毋好聽了。", pinyin: "ngaiˇ loˋ leˊ, sangˊ mˇ hoˋ tangˊ leˊ."}
+    hl: {hanzi: "𠊎老了，聲毋好聽了。", pinyin: "ngai loˊ leˋ, shangˋ m hoˊ tangˋ leˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "Don't listen to him. When he was young, everyone knew what a good singer he was."
+    sx: {hanzi: "莫聽佢講。佢後生个時節，大家都知佢當會唱。", pinyin: "mog tangˊ giˇ gongˋ. giˇ heu sangˊ ge siiˇ jiedˋ, tai gaˊ du diˊ giˇ dongˊ voi cong."}
+    hl: {hanzi: "莫聽佢講。佢後生个時節，大家都知佢當會唱。", pinyin: "mogˋ tangˋ gi gongˊ. gi heu+ sangˋ gaiˇ shi zied, tai+ gaˋ du+ diˋ gi dongˋ voi+ chongˇ."}
+  - n: 4
+    speaker: 阿婆
+    en: "And I married him because I heard him sing."
+    sx: {hanzi: "𠊎就係聽佢唱山歌，正嫁分佢个。", pinyin: "ngaiˇ qiu he tangˊ giˇ cong sanˊ goˊ, zang ga bunˊ giˇ ge."}
+    hl: {hanzi: "𠊎就係聽佢唱山歌，正嫁分佢个。", pinyin: "ngai ciu+ heˇ tangˋ gi chongˇ sanˋ goˋ, zhangˇ gaˇ bunˋ gi gaiˇ."}
+  - n: 5
+    speaker: 阿明
+    en: "What?! Grandma, you never told us that!"
+    sx: {hanzi: "麼个？阿婆，你無講過！", pinyin: "maˋ ge? aˊ poˇ, nˇ moˇ gongˋ go!"}
+    hl: {hanzi: "麼个？阿婆，你無講過！", pinyin: "maˊ gaiˇ? a+ po, ngi mo gongˊ goˇ!"}
+  - n: 6
+    speaker: 阿公
+    en: "(after a long silence, clearing his throat, he sings) 'A lifetime gives you your young days only once: / I sing a mountain song to let my girl know.'"
+    sx: {hanzi: "人生難得後生時，唱條山歌分妹知。", pinyin: "nginˇ senˊ nanˇ dedˋ heu sangˊ siiˇ, cong tiauˇ sanˊ goˊ bunˊ moi diˊ."}
+    hl: {hanzi: "人生難得後生時，唱條山歌分妹知。", pinyin: "ngin senˋ nan ded heu+ sangˋ shi, chongˇ tiau sanˋ goˋ bunˋ moiˇ diˋ."}
+  - n: 7
+    speaker: 阿明
+    en: "(as everyone claps) Grandpa, that was lovely!"
+    sx: {hanzi: "阿公，當好聽！", pinyin: "aˊ gungˊ, dongˊ hoˋ tangˊ!"}
+    hl: {hanzi: "阿公，當好聽！", pinyin: "a+ gungˋ, dongˋ hoˊ tangˋ!"}
+  - n: 8
+    speaker: Sam
+    en: "人生 'senˊ'… 後生 'sangˊ'? The same character, read two ways?"
+    sx: {hanzi: "人生……後生？同一隻字，兩種讀法？", pinyin: "nginˇ senˊ … heu sangˊ? tungˇ idˋ zagˋ sii, liongˋ zungˋ tug fabˋ?"}
+    hl: {hanzi: "人生……後生？同一隻字，兩種讀法？", pinyin: "ngin senˋ … heu+ sangˋ? tung rhid zhag sii+, liongˊ zhungˊ tugˋ fab?"}
+  - n: 9
+    speaker: 阿公
+    en: "Yes. The way you read a word in books isn't the same as the way you say it."
+    sx: {hanzi: "係。讀書个讀法同講話个講法無共樣。", pinyin: "he. tug suˊ ge tug fabˋ tungˇ gongˋ fa ge gongˋ fabˋ moˇ kiung iong."}
+    hl: {hanzi: "係。讀書个讀法摎講話个講法無共樣。", pinyin: "heˇ. tugˋ shuˋ gaiˇ tugˋ fab lauˋ gongˊ faˇ gaiˇ gongˊ fab mo kiung+ rhong+."}
+  - n: 10
+    speaker: 阿婆
+    en: "(softly) You still remember that song?"
+    sx: {hanzi: "你還記得這條歌？", pinyin: "nˇ hanˇ gi dedˋ iaˋ tiauˇ goˊ?"}
+    hl: {hanzi: "你還記得這條歌？", pinyin: "ngi han giˇ ded liaˊ tiau goˋ?"}
+  - n: 11
+    speaker: 阿公
+    en: "I remember. Fifty years now."
+    sx: {hanzi: "記得。五十年了。", pinyin: "gi dedˋ. ngˋ siib ngienˇ leˊ."}
+    hl: {hanzi: "記得。五十年了。", pinyin: "giˇ ded. ngˊ shibˋ ngien leˋ."}
+  - n: 12
+    speaker: 阿明
+    en: "Grandpa, sing another one!"
+    sx: {hanzi: "阿公，還愛一條！", pinyin: "aˊ gungˊ, hanˇ oi idˋ tiauˇ!"}
+    hl: {hanzi: "阿公，還愛一條！", pinyin: "a+ gungˋ, han oiˇ rhid tiau!"}
+  - n: 13
+    speaker: 阿公
+    en: "No more. (to Grandma, quietly) You sing."
+    sx: {hanzi: "毋唱了。……你唱。", pinyin: "mˇ cong leˊ. … nˇ cong."}
+    hl: {hanzi: "毋唱了。……你唱。", pinyin: "m chongˇ leˋ. … ngi chongˇ."}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      聲 sangˊ "voice, sound"; 好聽 "nice to listen to" (好 hoˋ + 聽), like 好食 "tasty", 好看 "nice to look at": 毋好聽 "not
+      nice to hear".
+  - ref: 4
+    topic: grammar
+    text: >
+      聽佢唱山歌，正嫁分佢 "heard him sing, and only then married him": 正 "only then" (lesson 24). 嫁分佢 "marry him": 嫁
+      (lesson 23) + 分 "to". 就係…个 frames the whole explanation: "that's why".
+  - ref: 6
+    topic: culture
+    text: >
+      The verse is written for this course, in the shape of a 山歌 line: seven syllables, a pair of lines rhyming on
+      時 siiˇ / 知 diˊ. Traditional 山歌 were improvised on the slopes, often as a sung exchange between a young man and a
+      young woman. 妹 here is "my girl", the way songs address her; 阿哥 is the boy.
+  - ref: 8
+    topic: grammar
+    text: >
+      Two readings of one character. Many characters have an everyday reading, used in speech, and a learned reading,
+      used in reading aloud and in words that came through books:
+      生 sangˊ in 生日 "birthday", 後生 "young", 生 "raw"; senˊ in 人生 "life", 發生 "happen", 一生人 "a lifetime".
+      白 pag in 白 "white", 白菜 "cabbage"; ped in 明白 "understand".
+      行 hangˇ in 行路 "walk"; hongˇ in 銀行 "bank" (the Mandarin háng).
+      The dictionary gives each word its reading: learn the word, not the character.
+  - ref: 9
+    topic: vocab
+    text: >
+      讀法 "way of reading" and 講法 "way of saying": verb + 法 "the way of doing it".
+      同一隻字 "the same character": 字 (lesson 26), with 隻 as its classifier here.
+  - ref: 13
+    topic: culture
+    text: >
+      Grandpa's longest speech in the course is a song; his reply to "another one" is two words, and the next song is
+      Grandma's. You will hear it in a later lesson.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu reads 明白 min pagˋ, with the everyday 白: the split between readings is not the same in every accent, which
+      is one more reason to learn words, not characters.
+
+new_words:
+  - {hanzi: 聲, pinyin: "sangˊ", en: "voice, sound", hl: {hanzi: 聲, pinyin: "shangˋ"}}
+  - {hanzi: 好聽, pinyin: "hoˋ tangˊ", en: "nice to listen to", hl: {hanzi: 好聽, pinyin: "hoˊ tangˋ"}}
+  - {hanzi: 人生, pinyin: "nginˇ senˊ", en: "life (a lifetime)", hl: {hanzi: 人生, pinyin: "ngin senˋ"}}
+  - {hanzi: 得, pinyin: "dedˋ", en: "get, obtain", hl: {hanzi: 得, pinyin: "ded"}}
+  - {hanzi: 時, pinyin: "siiˇ", en: "time, days (in songs and set phrases)", hl: {hanzi: 時, pinyin: "shi"}}
+  - {hanzi: 妹, pinyin: "moi", en: "girl (in songs); younger sister", hl: {hanzi: 妹, pinyin: "moiˇ"}}
+  - {hanzi: 讀, pinyin: "tug", en: "read (aloud), study", hl: {hanzi: 讀, pinyin: "tugˋ"}}
+  - {hanzi: 法, pinyin: "fabˋ", en: "way, method (讀法, 講法)", hl: {hanzi: 法, pinyin: "fab"}}
+  - {hanzi: 事, pinyin: "sii", en: "matter, thing (that happens)", hl: {hanzi: 事, pinyin: "sii+"}}
+  - {hanzi: 講法, pinyin: "gongˋ fabˋ", en: "way of saying", hl: {hanzi: 講法, pinyin: "gongˊ fab"}}
+  - {hanzi: 種, pinyin: "zungˋ", en: "kind, sort", hl: {hanzi: 種, pinyin: "zhungˊ"}}
+  - {hanzi: 發生, pinyin: "fadˋ senˊ", en: "happen", hl: {hanzi: 發生, pinyin: "fad senˋ"}}
+  - {hanzi: 一生人, pinyin: "idˋ senˊ nginˇ", en: "a lifetime", hl: {hanzi: 一生人, pinyin: "rhid senˋ ngin"}}
+  - {hanzi: 明白, pinyin: "minˇ ped", en: "understand", hl: {hanzi: 明白, pinyin: "min pagˋ"}}
+  - {hanzi: 銀行, pinyin: "ngiunˇ hongˇ", en: "bank", hl: {hanzi: 銀行, pinyin: "ngiun hong"}}
+  - {hanzi: 白菜, pinyin: "pag coi", en: "Chinese cabbage", hl: {hanzi: 白菜, pinyin: "pagˋ coiˇ"}}
+  - {hanzi: 意思, pinyin: "i sii", en: "meaning", hl: {hanzi: 意思, pinyin: "rhiˇ siiˇ"}}
+  - {hanzi: 恬恬, pinyin: "diamˊ diamˊ", en: "quiet, silent", hl: {hanzi: 恬恬, pinyin: "diamˋ diamˋ"}}
+  - {hanzi: 生, pinyin: "sangˊ", en: "raw; (in 生日, 後生) life, birth", hl: {hanzi: 生, pinyin: "sangˋ"}}
+  - {hanzi: 唸, pinyin: "ngiam", en: "nag; recite", hl: {hanzi: 唸, pinyin: "ngiam+"}}
+
+exercises:
+  translate:
+    - en: "What does this song mean?"
+      sx: {hanzi: "這條歌係麼个意思？", pinyin: "iaˋ tiauˇ goˊ he maˋ ge i sii?"}
+      hl: {hanzi: "這條歌係麼个意思？", pinyin: "liaˊ tiau goˋ heˇ maˊ gaiˇ rhiˇ siiˇ?"}
+    - en: "Do you understand? — I understand."
+      sx: {hanzi: "你明白無？——𠊎明白。", pinyin: "nˇ minˇ ped moˇ? — ngaiˇ minˇ ped."}
+      hl: {hanzi: "你明白無？——𠊎明白。", pinyin: "ngi min pagˋ mo? — ngai min pagˋ."}
+    - en: "Be quiet, Grandpa is singing."
+      sx: {hanzi: "恬恬，阿公在該唱歌。", pinyin: "diamˊ diamˊ, aˊ gungˊ du ge cong goˊ."}
+      hl: {hanzi: "恬恬，阿公在該唱歌。", pinyin: "diamˋ diamˋ, a+ gungˋ diˇ gai chongˇ goˋ."}
+    - en: "Grandma nags him every day: 'Go to the bank! Buy the cabbage!'"
+      sx: {hanzi: "阿婆逐日唸佢：「去銀行！買白菜！」", pinyin: "aˊ poˇ dagˋ ngidˋ ngiam giˇ: hi ngiunˇ hongˇ! maiˊ pag coi!"}
+      hl: {hanzi: "阿婆逐日唸佢：「去銀行！買白菜！」", pinyin: "a+ po dag ngid ngiam+ gi: hiˇ ngiun hong! maiˋ pagˋ coiˇ!"}
+    - en: "What happened? — Nothing. Grandpa sang a song."
+      sx: {hanzi: "發生麼个事？——無麼个。阿公唱一條歌。", pinyin: "fadˋ senˊ maˋ ge sii? — moˇ maˋ ge. aˊ gungˊ cong idˋ tiauˇ goˊ."}
+      hl: {hanzi: "發生麼个事？——無麼个。阿公唱一條歌。", pinyin: "fad senˋ maˊ gaiˇ sii+? — mo maˊ gaiˇ. a+ gungˋ chongˇ rhid tiau goˋ."}
+    - en: "Grandpa has drunk this kind of tea all his life."
+      sx: {hanzi: "阿公一生人食這種茶。", pinyin: "aˊ gungˊ idˋ senˊ nginˇ siid iaˋ zungˋ caˇ."}
+      hl: {hanzi: "阿公一生人食這種茶。", pinyin: "a+ gungˋ rhid senˋ ngin shidˋ liaˊ zhungˊ ca."}
+    - en: "Raw vegetables? Hakka people don't eat them."
+      sx: {hanzi: "生个菜？客家人毋食。", pinyin: "sangˊ ge coi? hagˋ gaˊ nginˇ mˇ siid."}
+      hl: {hanzi: "生个菜？客家人毋食。", pinyin: "sangˋ gaiˇ coiˇ? hag gaˋ ngin m shidˋ."}
+  fill:
+    - en: "His voice is lovely."
+      sx: {hanzi: "佢个聲當___。", pinyin: "giˇ ge sangˊ dongˊ ___.", answer_hanzi: "好聽", answer: "hoˋ tangˊ"}
+      hl: {hanzi: "佢个聲當___。", pinyin: "gi gaiˇ shangˋ dongˋ ___.", answer_hanzi: "好聽", answer: "hoˊ tangˋ"}
+    - en: "Two kinds of reading."
+      sx: {hanzi: "兩___讀法。", pinyin: "liongˋ ___ tug fabˋ.", answer_hanzi: "種", answer: "zungˋ"}
+      hl: {hanzi: "兩___讀法。", pinyin: "liongˊ ___ tugˋ fab.", answer_hanzi: "種", answer: "zhungˊ"}
+
+audio: []
