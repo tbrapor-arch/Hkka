@@ -6,15 +6,16 @@ title:
 review: false
 setting: >-
   Tuesday 9 March, eight in the evening, in 阿舅's living room above the factory. 姐婆, A-in's grandmother on her
-  mother's side, never misses the Hakka TV news in Hailu. Sam has been told to sit down and listen.
+  mother's side, never misses the Hakka TV news in Hailu; 阿舅 is reading the paper beside her. Sam has been told to
+  sit down and listen. The bulletin ends, as it often does, with a look back at local events.
 names: [姐婆, 主播, 苗栗, 新竹, 竹東, 劉阿婆, 阿英]
 
 dialogue:
   - n: 1
     speaker: 姐婆
-    en: "Sam, come and watch the news. Hakka TV: the news in Hailu."
-    sx: {hanzi: "Sam，來看新聞。客家電視，海陸話个新聞。", pinyin: "Sam, loiˇ kon xinˊ vunˇ. hagˋ gaˊ tien sii, hoiˋ liugˋ fa ge xinˊ vunˇ."}
-    hl: {hanzi: "Sam，來看新聞。客家電視，海陸話个新聞。", pinyin: "Sam, loi konˇ sinˋ vun. hag gaˋ tien+ shi+, hoiˊ liugˋ voiˋ gaiˇ sinˋ vun."}
+    en: "Sam, come and watch the news. Hakka TV: the news programme in Hailu."
+    sx: {hanzi: "Sam，來看新聞。客家電視，海陸話个新聞節目。", pinyin: "Sam, loiˇ kon xinˊ vunˇ. hagˋ gaˊ tien sii, hoiˋ liugˋ fa ge xinˊ vunˇ jiedˋ mug."}
+    hl: {hanzi: "Sam，來看新聞。客家電視，海陸話个新聞節目。", pinyin: "Sam, loi konˇ sinˋ vun. hag gaˋ tien+ shi+, hoiˊ liugˋ voiˋ gaiˇ sinˋ vun zied mugˋ."}
   - n: 2
     speaker: 主播
     en: "Good evening, everyone. Here is today's news."
@@ -22,9 +23,9 @@ dialogue:
     hl: {hanzi: "各位鄉親，大家好。這係今晡日个新聞報導。", pinyin: "gog vui+ hiongˋ cinˋ, tai+ gaˋ hoˊ. liaˊ heˇ gimˋ buˋ ngid gaiˇ sinˋ vun boˇ toˋ."}
   - n: 3
     speaker: 主播
-    en: "Because the cold wave has passed, the weather will be warmer over the next few days."
-    sx: {hanzi: "因為寒流過了，故所這幾日天時會較燒暖。", pinyin: "inˊ vi honˇ liuˇ go leˊ, gu soˋ iaˋ giˋ ngidˋ tienˊ siiˇ voi ka seuˊ nonˊ."}
-    hl: {hanzi: "因為寒流過了，所以這幾日天時會較燒暖。", pinyin: "rhinˋ vui+ hon liu goˇ leˋ, soˊ rhiˋ liaˊ giˊ ngid tienˋ shi voi+ haˇ shauˋ nonˋ."}
+    en: "Because a cold spell has passed, the weather will be warmer over the next few days."
+    sx: {hanzi: "因為一陣寒流過忒，故所這幾日天時會較燒暖。", pinyin: "inˊ vi idˋ ciin honˇ liuˇ go tedˋ, gu soˋ iaˋ giˋ ngidˋ tienˊ siiˇ voi ka seuˊ nonˊ."}
+    hl: {hanzi: "因為一陣寒流過忒，所以這幾日天時會較燒暖。", pinyin: "rhinˋ vui+ rhid chin+ hon liu goˇ ted, soˊ rhiˋ liaˊ giˊ ngid tienˋ shi voi+ haˇ shauˋ nonˋ."}
   - n: 4
     speaker: 主播
     en: "Tomorrow's high is twenty-two degrees; it may rain in the afternoon."
@@ -43,14 +44,14 @@ dialogue:
     hl: {hanzi: "海陸講所以，四縣講故所。你當會聽。", pinyin: "hoiˊ liugˋ gongˊ soˊ rhiˋ, siˇ rhanˇ gongˊ guˇ soˊ. ngi dongˋ voi+ tangˋ."}
   - n: 7
     speaker: 主播
-    en: "Next: the 桐花 will flower in April; 苗栗 and 新竹 expect several hundred thousand visitors."
-    sx: {hanzi: "下一隻新聞：四月桐花會開，苗栗、新竹會有幾十萬遊客。", pinyin: "ha idˋ zagˋ xinˊ vunˇ: xi ngied tungˇ faˊ voi koiˊ, meuˇ lidˋ, xinˊ zugˋ voi iuˊ giˋ siib van iuˇ hagˋ."}
-    hl: {hanzi: "下一隻新聞：四月桐花會開，苗栗、新竹會有幾十萬遊客。", pinyin: "ha+ rhid zhag sinˋ vun: siˇ ngiedˋ tung faˋ voi+ koiˋ, miau lidˋ, sinˋ zhug voi+ rhiuˋ giˊ shibˋ van+ rhiu hag."}
+    en: "Next item: the 桐花 will flower in April; 苗栗 and 新竹 counties expect several hundred thousand visitors."
+    sx: {hanzi: "下一條新聞：四月桐花會開，苗栗縣、新竹縣會有幾十萬遊客。", pinyin: "ha idˋ tiauˇ xinˊ vunˇ: xi ngied tungˇ faˊ voi koiˊ, meuˇ lidˋ ien, xinˊ zugˋ ien voi iuˊ giˋ siib van iuˇ hagˋ."}
+    hl: {hanzi: "下一條新聞：四月桐花會開，苗栗縣、新竹縣會有幾十萬遊客。", pinyin: "ha+ rhid tiau sinˋ vun: siˇ ngiedˋ tung faˋ voi+ koiˋ, miau lidˋ rhanˇ, sinˋ zhug rhanˇ voi+ rhiuˋ giˊ shibˋ van+ rhiu hag."}
   - n: 8
     speaker: 主播
-    en: "At this year's 天穿日 mountain-song contest in 竹東, two hundred-odd singers took part. The oldest was Grandma Liu from Miaoli, seventy-five."
-    sx: {hanzi: "今年竹東天穿日个山歌比賽，有兩百零人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "gimˊ ngienˇ zugˋ dungˊ tienˊ conˊ ngidˋ ge sanˊ goˊ biˋ soi, iuˊ liongˋ bagˋ langˇ nginˇ camˊ gaˊ. ngienˇ giˋ zui tai ge, he meuˇ lidˋ loiˇ ge liuˇ aˊ poˇ, qidˋ siib ngˋ se."}
-    hl: {hanzi: "今年竹東天穿日个山歌比賽，有兩百零人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "gimˋ ngien zhug dungˋ tienˋ chonˋ ngid gaiˇ sanˋ goˋ biˊ soiˇ, rhiuˋ liongˊ bag lang ngin camˋ gaˋ. ngien giˊ zuiˇ tai+ gaiˇ, heˇ miau lidˋ loi gaiˇ liu a+ po, cid shibˋ ngˊ soiˇ."}
+    en: "At last month's 天穿日 mountain-song contest in 竹東, two hundred-odd singers took part. The oldest was Grandma Liu from Miaoli, seventy-five."
+    sx: {hanzi: "上隻月竹東天穿日个山歌比賽，有兩百零个人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "song zagˋ ngied zugˋ dungˊ tienˊ conˊ ngidˋ ge sanˊ goˊ biˋ soi, iuˊ liongˋ bagˋ langˇ ge nginˇ camˊ gaˊ. ngienˇ giˋ zui tai ge, he meuˇ lidˋ loiˇ ge liuˇ aˊ poˇ, qidˋ siib ngˋ se."}
+    hl: {hanzi: "上隻月竹東天穿日个山歌比賽，有兩百零个人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "shong+ zhag ngiedˋ zhug dungˋ tienˋ chonˋ ngid gaiˇ sanˋ goˋ biˊ soiˇ, rhiuˋ liongˊ bag lang gaiˇ ngin camˋ gaˋ. ngien giˊ zuiˇ tai+ gaiˇ, heˇ miau lidˋ loi gaiˇ liu a+ po, cid shibˋ ngˊ soiˇ."}
   - n: 9
     speaker: 姐婆
     en: "Look! It's your grandma from Miaoli!"
@@ -99,11 +100,13 @@ notes:
     text: >
       因為…故所… "because…, therefore…": the cause first, the result after, as in Mandarin 因為…所以…. 故所 gu soˋ is the
       Sixian word in the lists; Hailu has 所以 soˊ rhiˋ, and the newsreader, speaking Hailu, says 所以. In the official
-      examples 故所 is often glossed ﹝所以﹞, and both are understood everywhere.
+      examples 故所 is often glossed ﹝所以﹞; parallel official sentences swap the word (Sixian 弓蕉外銷受着退貨，故所這下…,
+      Hailu …所以這下…), but Hailu examples still have 故所 now and then, and Sixian examples have 所以 hundreds of times.
+      一陣寒流過忒 "a cold spell has passed" is an official sentence in both accents.
   - ref: 4
     topic: grammar
     text: >
-      Numbers: 二十二度 "twenty-two degrees". 可能會落雨 "it may rain": 可能 koˋ nenˇ "possibly" + 會 (lesson 34). Hailu: 落水.
+      Numbers: 二十二度 "twenty-two degrees". 可能會落雨 "it may rain": 可能 koˋ nenˇ "possibly" + 會 "will" (lesson 34). Hailu: 落水.
   - ref: 5
     topic: hailu
     text: >
@@ -115,11 +118,11 @@ notes:
       Big numbers: 萬 van "ten thousand" is the unit, as in Mandarin. 幾十萬 "several hundred thousand" (literally "a few
       tens of ten-thousands"), 一萬兩千 "twelve thousand", 三萬五千 "thirty-five thousand". 桐花 tungˇ faˊ: the white
       tung-tree blossom; by general knowledge, it whitens the hills of 苗栗 and 新竹 in April and May.
-      遊客 "visitors, tourists". 下一隻新聞 "the next news item".
+      遊客 "visitors, tourists". 下一條新聞 "the next news item": 條 is the classifier for news (有一條新聞講…). 縣 ien "county".
   - ref: 8
     topic: grammar
     text: >
-      兩百零人 "two hundred-odd people": 零 langˇ after a round number is "and a few more" (百零桌 "a hundred-odd tables",
+      兩百零个人 "two hundred-odd people", with the classifier (這間工廠請有兩百零個工人): 零 langˇ after a round number is "and a few more" (百零桌 "a hundred-odd tables",
       兩百零萬 "two million-odd" are official examples). 年紀最大个 "the oldest": 最 zui "most" + adjective, the
       Mandarin-style superlative (盡 also means "most", lesson 8). 參加 "take part in".
   - ref: 10
@@ -131,7 +134,7 @@ notes:
     topic: culture
     text: >
       佢睡忒了 "she'll be asleep": 忒 after the verb, "gone (to sleep)". Grandpa goes to bed at nine (lesson 51); Grandma,
-      after a contest and a three-hour drive, earlier.
+      earlier still.
   - ref: 14
     topic: culture
     text: >
@@ -155,6 +158,7 @@ new_words:
   - {hanzi: 參加, pinyin: "camˊ gaˊ", en: "take part in, join", hl: {hanzi: 參加, pinyin: "camˋ gaˋ"}}
   - {hanzi: 得著, pinyin: "dedˋ doˋ", en: "obtain, win", hl: {hanzi: 得著, pinyin: "ded doˊ"}}
   - {hanzi: 第, pinyin: "ti", en: "(ordinal prefix) No.", hl: {hanzi: 第, pinyin: "ti+"}}
+  - {hanzi: 陣, pinyin: "ciin", en: "(classifier for a spell of weather, a gust)", hl: {hanzi: 陣, pinyin: "chin+"}}
   - {hanzi: 節目, pinyin: "jiedˋ mug", en: "programme (TV, radio)", hl: {hanzi: 節目, pinyin: "zied mug"}}
   - {hanzi: 記者, pinyin: "gi zaˋ", en: "reporter", hl: {hanzi: 記者, pinyin: "giˇ zhaˊ"}}
   - {hanzi: 縣, pinyin: "ien", en: "county", hl: {hanzi: 縣, pinyin: "rhanˇ"}}
@@ -170,9 +174,9 @@ exercises:
     - en: "Because it rained, there were few visitors."
       sx: {hanzi: "因為落雨，故所遊客當少。", pinyin: "inˊ vi log iˋ, gu soˋ iuˇ hagˋ dongˊ seuˋ."}
       hl: {hanzi: "因為落水，所以遊客當少。", pinyin: "rhinˋ vui+ logˋ shuiˊ, soˊ rhiˋ rhiu hag dongˋ shauˊ."}
-    - en: "Miaoli county has a population of about five hundred and forty thousand."
-      sx: {hanzi: "苗栗縣个人口差毋多五十四萬。", pinyin: "meuˇ lidˋ ien ge nginˇ kieuˋ caˊ mˇ doˊ ngˋ siib xi van."}
-      hl: {hanzi: "苗栗縣个人口差毋多五十四萬。", pinyin: "miau lidˋ rhanˇ gaiˇ ngin kieuˊ caˋ m doˋ ngˊ shibˋ siˇ van+."}
+    - en: "Miaoli county has a population of over five hundred thousand."
+      sx: {hanzi: "苗栗縣个人口有五十幾萬。", pinyin: "meuˇ lidˋ ien ge nginˇ kieuˋ iuˊ ngˋ siib giˋ van."}
+      hl: {hanzi: "苗栗縣个人口有五十幾萬。", pinyin: "miau lidˋ rhanˇ gaiˇ ngin kieuˊ rhiuˋ ngˊ shibˋ giˊ van+."}
       check: true
     - en: "The reporter asked the county government how many people took part."
       sx: {hanzi: "記者問縣政府，有幾多人參加。", pinyin: "gi zaˋ mun ien ziin fuˋ, iuˊ giˋ doˊ nginˇ camˊ gaˊ."}
