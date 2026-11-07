@@ -34,6 +34,9 @@ DB = os.path.join(ROOT, "data/build/hakka.db")
 CJK = re.compile(r"[㐀-鿿豈-﫿\U00020000-\U0003ffff]")
 ACC = {"sx": "sixian", "hl": "hailu"}
 HARD = {"false-friend", "hakka-only"}
+# Particles the lists only contain inside longer entries: 啊 in 動啊着 tungˊ a doˋ / tungˋ a+ doˊ, 睞啊過 (kaga), and
+# in the MOE example sentences 嗒看啊, 試看啊, 看看啊 (VV啊 and V看啊, lesson 36).
+PARTICLES = {"sixian": {"啊": "a55"}, "hailu": {"啊": "a33"}}
 
 
 def caps(n):
@@ -54,6 +57,8 @@ class Lexicon:
                 if hz and k:
                     self.words[acc][hz].add(k)
                     self.inv[acc].update(re.sub(r"\d+$", "", s) for s in k.split("-"))
+            for hz, k in PARTICLES[acc].items():   # attested only inside listed phrases, never as a headword
+                self.words[acc][hz].add(k)
             py.set_inventory(self.inv[acc], acc)
         self.maxlen = max(len(h) for h in self.words["sixian"])
         self.info = {}
