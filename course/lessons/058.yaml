@@ -1,0 +1,203 @@
+id: 58
+title:
+  en: "Colleagues"
+  sx: {hanzi: "一頭食，一頭講", pinyin: "idˋ teuˇ siid, idˋ teuˇ gongˋ"}
+  hl: {hanzi: "一頭食，一頭講", pinyin: "rhid teu shidˋ, rhid teu gongˊ"}
+review: false
+setting: >-
+  Monday 1 March, nine o'clock: the break. The first batch of the day is boxed and the steamers are quiet for half
+  an hour. 阿蘭嫂 has brought a pot from home; 阿傑 is eating with one hand and scrolling with the other.
+names: [阿蘭嫂, 阿傑, 阿英, 苗栗, 新竹]
+
+dialogue:
+  - n: 1
+    speaker: 阿蘭嫂
+    en: "Take a break, have some breakfast. I've brought rice porridge, nice and hot."
+    sx: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒。", pinyin: "hiedˋ idˋ ha, siid zeuˊ. ngaiˇ zuˋ moiˇ loiˇ leˊ, seuˊ seuˊ."}
+    hl: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒。", pinyin: "hied rhid ha+, shidˋ zhauˋ. ngai zhuˊ moi loi leˋ, shauˋ shauˋ."}
+  - n: 2
+    speaker: Sam
+    en: "Porridge? Lovely!"
+    sx: {hanzi: "糜？當好！", pinyin: "moiˇ? dongˊ hoˋ!"}
+    hl: {hanzi: "糜？當好！", pinyin: "moi? dongˋ hoˊ!"}
+  - n: 3
+    speaker: 阿蘭嫂
+    en: "Do you Miaoli people say 糜 too?"
+    sx: {hanzi: "你兜苗栗人乜講糜無？", pinyin: "nˇ deuˊ meuˇ lid nginˇ me gongˋ moiˇ moˇ?"}
+    hl: {hanzi: "你兜苗栗人乜講糜無？", pinyin: "ngi deuˋ miau lidˋ ngin meˇ gongˊ moi mo?"}
+  - n: 4
+    speaker: 阿傑
+    en: "Some say 糜, some say something else. Sam, your Hailu's getting better and better."
+    sx: {hanzi: "有講糜个，乜有講別樣个。Sam，你个海陸話越來越好了。", pinyin: "iuˊ gongˋ moiˇ ge, me iuˊ gongˋ ped iong ge. Sam, nˇ ge hoiˋ liugˋ fa ied loiˇ ied hoˋ leˊ."}
+    hl: {hanzi: "有講糜个，乜有講別樣个。Sam，你个海陸話越來越好了。", pinyin: "rhiuˋ gongˊ moi gaiˇ, meˇ rhiuˋ gongˊ pedˋ rhong+ gaiˇ. Sam, ngi gaiˇ hoiˊ liugˋ voiˋ rhadˋ loi rhadˋ hoˊ leˋ."}
+  - n: 5
+    speaker: Sam
+    en: "Better and better? No: the more I speak, the more mixed up it gets."
+    sx: {hanzi: "越來越好？毋係，緊講緊亂。", pinyin: "ied loiˇ ied hoˋ? mˇ he, ginˋ gongˋ ginˋ lon."}
+    hl: {hanzi: "越來越好？毋係，緊講緊亂。", pinyin: "rhadˋ loi rhadˋ hoˊ? m heˇ, ginˊ gongˊ ginˊ lon+."}
+  - n: 6
+    speaker: 阿蘭嫂
+    en: "That's how it is to start with. It'll come."
+    sx: {hanzi: "頭先都係恁樣。慢慢就會。", pinyin: "teuˇ xienˊ du he anˋ ngiongˇ. man man qiu voi."}
+    hl: {hanzi: "頭先都係恁樣。慢慢就會。", pinyin: "teu senˋ du+ heˇ an ngiong. man+ man+ ciu+ voi+."}
+    check: true
+  - n: 7
+    speaker: 阿傑
+    en: "(eating and looking at his phone at the same time) Sam… has A-in got a boyfriend?"
+    sx: {hanzi: "Sam……阿英有男朋友無？", pinyin: "Sam … aˊ inˊ iuˊ namˇ penˇ iuˊ moˇ?"}
+    hl: {hanzi: "Sam……阿英有男朋友無？", pinyin: "Sam … a+ rhinˋ rhiuˋ nam pen rhiuˋ mo?"}
+  - n: 8
+    speaker: Sam
+    en: "Why ask me?"
+    sx: {hanzi: "做麼个問𠊎？", pinyin: "zo maˋ ge mun ngaiˇ?"}
+    hl: {hanzi: "做麼个問𠊎？", pinyin: "zoˇ maˊ gaiˇ munˇ ngai?"}
+  - n: 9
+    speaker: 阿傑
+    en: "On the second day of the New Year she came to the factory with her uncle. I saw her. She's really pretty!"
+    sx: {hanzi: "初二佢跈阿舅來工廠，𠊎看著佢。當靚！", pinyin: "cuˊ ngi giˇ tenˇ aˊ kiuˊ loiˇ gungˊ congˋ, ngaiˇ kon doˋ giˇ. dongˊ jiangˊ!"}
+    hl: {hanzi: "初二佢跈阿舅來工廠，𠊎看著佢。當靚！", pinyin: "cuˋ ngi+ gi ten a+ kiuˋ loi gungˋ chong, ngai konˇ doˊ gi. dongˋ ziangˋ!"}
+  - n: 10
+    speaker: 阿蘭嫂
+    en: "阿傑, don't talk and eat at the same time."
+    sx: {hanzi: "阿傑，莫一頭食，一頭講話。", pinyin: "aˊ kiedˋ, mog idˋ teuˇ siid, idˋ teuˇ gongˋ fa."}
+    hl: {hanzi: "阿傑，莫一頭食，一頭講話。", pinyin: "a+ kied, mogˋ rhid teu shidˋ, rhid teu gongˊ faˇ."}
+  - n: 11
+    speaker: Sam
+    en: "I… I don't know."
+    sx: {hanzi: "𠊎……𠊎毋知。", pinyin: "ngaiˇ … ngaiˇ mˇ diˊ."}
+    hl: {hanzi: "𠊎……𠊎毋知。", pinyin: "ngai … ngai m diˋ."}
+  - n: 12
+    speaker: 阿蘭嫂
+    en: "Look at that: Sam's embarrassed! He's gone all red in the face!"
+    sx: {hanzi: "你看，Sam 見笑了！面紅紅！", pinyin: "nˇ kon, Sam gien seu leˊ! mien fungˇ fungˇ!"}
+    hl: {hanzi: "你看，Sam 見笑了！面紅紅！", pinyin: "ngi konˇ, Sam gienˇ siauˇ leˋ! mienˇ fung fung!"}
+  - n: 13
+    speaker: 阿傑
+    en: "Ohh… I get it."
+    sx: {hanzi: "……𠊎知了。", pinyin: "… ngaiˇ diˊ leˊ."}
+    hl: {hanzi: "……𠊎知了。", pinyin: "… ngai diˋ leˋ."}
+  - n: 14
+    speaker: 阿蘭嫂
+    en: "That's enough chatter. Back to work! The more you chat, the less you get done."
+    sx: {hanzi: "好了，莫打嘴鼓了，做事！緊打嘴鼓，緊做毋煞。", pinyin: "hoˋ leˊ, mog daˋ zoi guˋ leˊ, zo se! ginˋ daˋ zoi guˋ, ginˋ zo mˇ sod."}
+    hl: {hanzi: "好了，莫打嘴鼓了，做事！緊打嘴鼓，緊做毋煞。", pinyin: "hoˊ leˋ, mogˋ daˊ zhoiˇ guˊ leˋ, zoˇ she+! ginˊ daˊ zhoiˇ guˊ, ginˊ zoˇ m sod."}
+    check: true
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      歇一下 "take a break": 歇 (lesson 22) + 一下 "a moment". 糜 moiˇ "rice porridge"; 燒燒 "nice and hot", the AA of
+      lesson 45. 食朝 "breakfast" (lesson 25): at
+      a factory that starts at five, breakfast is at nine.
+  - ref: 3
+    topic: hailu
+    text: >
+      Not a trip-up this time, and 阿蘭嫂 is checking. The word lists give Sixian 粥 zugˋ (lesson 3) and Hailu 糜 moi for
+      "rice porridge"; but Sixian official examples use 糜 as well (𠊎盡好食糜傍豆腐乳 "I love rice porridge with
+      fermented tofu", with 粥 given as the alternative). So 阿傑's answer in line 4 is exact: some Miaoli people say 糜,
+      some say 粥. 你兜苗栗人 "you Miaoli people": 你兜 + a noun.
+  - ref: 4
+    topic: grammar
+    text: >
+      越來越 ied loiˇ ied "more and more": 越來越好 "better and better", 越來越少 "fewer and fewer". It is the newer
+      pattern, from Mandarin, and it is everywhere in the official examples (93 of them). 有講糜个，乜有講別樣个 "some say
+      糜, some say something else": 有 + verb + 个. 海陸話 "Hailu (speech)": 海陸 + 話, as 四縣話 (lesson 53).
+  - ref: 5
+    topic: grammar
+    text: >
+      緊講緊亂 "the more I speak, the more mixed up it gets": 緊 X 緊 Y, the Hakka pattern (lesson 51: 緊食緊愛食). The
+      official examples use it for the same things Mandarin uses 越…越 for: 這下个筆記型電腦，緊做緊輕 "laptops get
+      lighter and lighter". 亂 lon "in a muddle".
+  - ref: 7
+    topic: vocab
+    text: >
+      男朋友 "boyfriend": 男 namˇ + 朋友, built like 女朋友 (lesson 32). 阿傑 is not shy.
+  - ref: 9
+    topic: grammar
+    text: >
+      佢跈阿舅來工廠 "she came to the factory with her uncle": 跈 "go along with" (lesson 40). 初二 cuˊ ngi "the second day
+      (of the month, of the New Year)". 靚 "pretty" (lesson 15).
+  - ref: 10
+    topic: grammar
+    text: >
+      一頭…一頭… "while, at the same time": 莫一頭食，一頭講話 "don't eat and talk at the same time". The official example:
+      一頭讀書，一頭搞電腦，容易分心 "studying and playing on the computer at the same time, you get distracted".
+  - ref: 12
+    topic: grammar
+    text: >
+      見笑 gien seu "embarrassed, shy": a Hakka word, not the Mandarin "laugh at". 面紅紅 "red in the face": the AA
+      adjective of lesson 45, after its noun. The A-in and Sam thread moves one step:
+      Sam does not answer, and his face does it for him.
+  - ref: 14
+    topic: vocab
+    text: >
+      打嘴鼓 daˋ zoi guˋ "chat, chatter", literally "beat the mouth drum". 做毋煞 "can't get it finished": 煞 "finish"
+      (lesson 33), with 毋 in the middle. 阿蘭嫂's second sentence is a 緊…緊… of her own making: marked for checking.
+
+new_words:
+  - {hanzi: 糜, pinyin: "moiˇ", en: "rice porridge", hl: {hanzi: 糜, pinyin: "moi"}}
+  - {hanzi: 越, pinyin: "ied", en: "the more (越來越 more and more)", hl: {hanzi: 越, pinyin: "rhadˋ"}}
+  - {hanzi: 亂, pinyin: "lon", en: "in a muddle, messy", hl: {hanzi: 亂, pinyin: "lon+"}}
+  - {hanzi: 男, pinyin: "namˇ", en: "male (男朋友 boyfriend)", hl: {hanzi: 男, pinyin: "nam"}}
+  - {hanzi: 初二, pinyin: "cuˊ ngi", en: "the second (of the month); the second day of the New Year", hl: {hanzi: 初二, pinyin: "cuˋ ngi+"}}
+  - {hanzi: 一頭, pinyin: "idˋ teuˇ", en: "(一頭…一頭…) while, at the same time", hl: {hanzi: 一頭, pinyin: "rhid teu"}}
+  - {hanzi: 打嘴鼓, pinyin: "daˋ zoi guˋ", en: "chat, chatter", hl: {hanzi: 打嘴鼓, pinyin: "daˊ zhoiˇ guˊ"}}
+  - {hanzi: 豆腐, pinyin: "teu fu", en: "tofu", hl: {hanzi: 豆腐, pinyin: "teu+ fu+"}}
+  - {hanzi: 豆腐乳, pinyin: "teu fu iˊ", en: "fermented tofu", hl: {hanzi: 豆腐乳, pinyin: "teu+ fu+ rhi"}}
+  - {hanzi: 麵包, pinyin: "mien bauˊ", en: "bread", hl: {hanzi: 麵包, pinyin: "mien+ bauˋ"}}
+  - {hanzi: 菜脯, pinyin: "coi puˋ", en: "dried radish", hl: {hanzi: 菜脯, pinyin: "coiˇ buˊ"}}
+  - {hanzi: 燒燒, pinyin: "seuˊ seuˊ", en: "nice and hot", hl: {hanzi: 燒燒, pinyin: "shauˋ shauˋ"}}
+  - {hanzi: 別樣, pinyin: "ped iong", en: "something else, another kind", hl: {hanzi: 別樣, pinyin: "pedˋ rhong+"}}
+  - {hanzi: 陸, pinyin: "liugˋ", en: "land (海陸 Hailu)", hl: {hanzi: 陸, pinyin: "liugˋ"}}
+  - {hanzi: 見笑, pinyin: "gien seu", en: "embarrassed, shy", hl: {hanzi: 見笑, pinyin: "gienˇ siauˇ"}}
+  - {hanzi: 搞, pinyin: "gauˋ", en: "play (with), mess about", hl: {hanzi: 搞, pinyin: "gauˊ"}}
+  - {hanzi: 薪水, pinyin: "xinˊ suiˋ", en: "pay, wages", hl: {hanzi: 薪水, pinyin: "sinˋ shuiˊ"}}
+  - {hanzi: 公司, pinyin: "gungˊ siiˊ", en: "company", hl: {hanzi: 公司, pinyin: "gungˋ siiˋ"}}
+  - {hanzi: 分心, pinyin: "funˊ ximˊ", en: "get distracted", hl: {hanzi: 分心, pinyin: "funˋ simˋ"}}
+  - {hanzi: 容易, pinyin: "iungˇ i", en: "easy; easily", hl: {hanzi: 容易, pinyin: "rhung rhiˇ"}}
+
+exercises:
+  translate:
+    - en: "I love rice porridge with fermented tofu."
+      sx: {hanzi: "𠊎盡好食糜傍豆腐乳。", pinyin: "ngaiˇ qin hau siid moiˇ bongˋ teu fu iˊ."}
+      hl: {hanzi: "𠊎最好食糜傍豆腐乳。", pinyin: "ngai zuiˇ hauˇ shidˋ moi bongˊ teu+ fu+ rhi."}
+    - en: "Grandma eats rice porridge in the morning; she doesn't like bread."
+      sx: {hanzi: "阿婆朝晨食糜，毋好食麵包。", pinyin: "aˊ poˇ zeuˊ siinˇ siid moiˇ, mˇ hau siid mien bauˊ."}
+      hl: {hanzi: "阿婆朝晨食糜，毋好食麵包。", pinyin: "a+ po zhauˋ shin shidˋ moi, m hauˇ shidˋ mien+ bauˋ."}
+    - en: "Fermented tofu is made from tofu."
+      sx: {hanzi: "豆腐乳係用豆腐做个。", pinyin: "teu fu iˊ he iung teu fu zo ge."}
+      hl: {hanzi: "豆腐乳係用豆腐做个。", pinyin: "teu+ fu+ rhi heˇ rhung+ teu+ fu+ zoˇ gaiˇ."}
+    - en: "阿傑 works at a company in 新竹 now? — No, at 阿舅's factory."
+      sx: {hanzi: "阿傑這下在新竹个公司做事無？——毋係，在阿舅个工廠。", pinyin: "aˊ kiedˋ iaˋ ha coiˊ xinˊ zugˋ ge gungˊ siiˊ zo se moˇ? — mˇ he, coiˊ aˊ kiuˊ ge gungˊ congˋ."}
+      hl: {hanzi: "阿傑這下在新竹个公司做事無？——毋係，在阿舅个工廠。", pinyin: "a+ kied liaˊ ha+ coiˋ sinˋ zhug gaiˇ gungˋ siiˋ zoˇ she+ mo? — m heˇ, coiˋ a+ kiuˋ gaiˇ gungˋ chong."}
+    - en: "Studying and playing on the computer at the same time, you get distracted easily."
+      sx: {hanzi: "一頭讀書，一頭搞電腦，容易分心。", pinyin: "idˋ teuˇ tug suˊ, idˋ teuˇ gauˋ tien noˋ, iungˇ i funˊ ximˊ."}
+      hl: {hanzi: "一頭讀書，一頭搞電腦，容易分心。", pinyin: "rhid teu tugˋ shuˋ, rhid teu gauˊ tien+ noˊ, rhung rhiˇ funˋ simˋ."}
+      source: kaga115
+    - en: "Laptops these days get lighter and lighter."
+      sx: {hanzi: "這下个電腦，緊做緊輕。", pinyin: "iaˋ ha ge tien noˋ, ginˋ zo ginˋ kiangˊ."}
+      hl: {hanzi: "這下个電腦，緊做緊輕。", pinyin: "liaˊ ha+ gaiˇ tien+ noˊ, ginˊ zoˇ ginˊ kiangˋ."}
+    - en: "There are fewer and fewer people who make 粄條 by hand."
+      sx: {hanzi: "用手做粄條个人越來越少了。", pinyin: "iung suˋ zo banˋ tiauˇ ge nginˇ ied loiˇ ied seuˋ leˊ."}
+      hl: {hanzi: "用手做粄條个人越來越少了。", pinyin: "rhung+ shiuˊ zoˇ banˊ tiau gaiˇ ngin rhadˋ loi rhadˋ shauˊ leˋ."}
+    - en: "Rice porridge with dried radish: easy to eat."
+      sx: {hanzi: "糜傍菜脯，當容易食。", pinyin: "moiˇ bongˋ coi puˋ, dongˊ iungˇ i siid."}
+      hl: {hanzi: "糜傍菜脯，當容易食。", pinyin: "moi bongˊ coiˇ buˊ, dongˋ rhung rhiˇ shidˋ."}
+      check: true
+    - en: "阿傑's pay isn't much, but he likes it here."
+      sx: {hanzi: "阿傑个薪水無幾多，毋過佢好在這做事。", pinyin: "aˊ kiedˋ ge xinˊ suiˋ moˇ giˋ doˊ, mˇ go giˇ hau coiˊ iaˋ zo se."}
+      hl: {hanzi: "阿傑个薪水無幾多，毋過佢好在這做事。", pinyin: "a+ kied gaiˇ sinˋ shuiˊ mo giˊ doˋ, m goˇ gi hauˇ coiˋ liaˊ zoˇ she+."}
+      check: true
+  fill:
+    - en: "Better and better."
+      sx: {hanzi: "___好。", pinyin: "___ hoˋ.", answer_hanzi: "越來越", answer: "ied loiˇ ied"}
+      hl: {hanzi: "___好。", pinyin: "___ hoˊ.", answer_hanzi: "越來越", answer: "rhadˋ loi rhadˋ"}
+    - en: "The more I speak, the more mixed up it gets."
+      sx: {hanzi: "___講___亂。", pinyin: "___ gongˋ ___ lon.", answer_hanzi: "緊", answer: "ginˋ"}
+      hl: {hanzi: "___講___亂。", pinyin: "___ gongˊ ___ lon+.", answer_hanzi: "緊", answer: "ginˊ"}
+    - en: "Don't eat and talk at the same time."
+      sx: {hanzi: "莫___食，___講話。", pinyin: "mog ___ siid, ___ gongˋ fa.", answer_hanzi: "一頭", answer: "idˋ teuˇ"}
+      hl: {hanzi: "莫___食，___講話。", pinyin: "mogˋ ___ shidˋ, ___ gongˊ faˇ.", answer_hanzi: "一頭", answer: "rhid teu"}
+
+audio: []
