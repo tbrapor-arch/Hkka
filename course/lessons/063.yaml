@@ -1,0 +1,161 @@
+id: 63
+title:
+  en: "Review 9"
+  sx: {hanzi: "信肚講毋出來个", pinyin: "xin duˋ gongˋ mˇ cudˋ loiˇ ge"}
+  hl: {hanzi: "信肚講毋出來个", pinyin: "sinˇ duˊ gongˊ m chud loi gaiˇ"}
+review: true
+setting: >-
+  Friday 26 March, Sam's last evening in 竹東. 阿舅 has laid the round table upstairs for a farewell dinner: 姐婆,
+  阿蘭嫂 and 阿傑 are there, and the 粄條 is from this morning's batch. Tomorrow Sam takes the train back to Miaoli.
+  Nothing new in the dialogue: everything comes from lessons 1–62.
+names: [阿蘭嫂, 阿傑, 姐婆, 阿英, 竹東, 苗栗, 北埔]
+
+dialogue:
+  - n: 1
+    speaker: 阿舅
+    en: "Everyone, sit down! Tonight is Sam's last evening in 竹東."
+    sx: {hanzi: "大家坐等來！今暗晡係 Sam 在竹東个最後一暗晡。", pinyin: "tai gaˊ coˊ denˋ loiˇ! gimˊ am buˊ he Sam coiˊ zugˋ dungˊ ge zui heu idˋ am buˊ."}
+    hl: {hanzi: "大家坐等來！今暗晡係 Sam 在竹東个最後一暗晡。", pinyin: "tai+ gaˋ coˋ denˊ loi! gimˋ amˇ buˋ heˇ Sam coiˋ zhug dungˋ gaiˇ zuiˇ heu+ rhid amˇ buˋ."}
+  - n: 2
+    speaker: 姐婆
+    en: "A month, gone just like that."
+    sx: {hanzi: "一隻月，恁遽就過忒了。", pinyin: "idˋ zagˋ ngied, anˋ giagˋ qiu go tedˋ leˊ."}
+    hl: {hanzi: "一隻月，恁遽就過忒了。", pinyin: "rhid zhag ngiedˋ, anˊ giag ciu+ goˇ ted leˋ."}
+  - n: 3
+    speaker: 阿蘭嫂
+    en: "On the first day you said 寒. Now you say 冷."
+    sx: {hanzi: "第一日你講寒，這下你會講冷了。", pinyin: "ti idˋ ngidˋ nˇ gongˋ honˇ, iaˋ ha nˇ voi gongˋ langˊ leˊ."}
+    hl: {hanzi: "第一日你講寒，這下你會講冷了。", pinyin: "ti+ rhid ngid ngi gongˊ hon, liaˊ ha+ ngi voi+ gongˊ langˋ leˋ."}
+  - n: 4
+    speaker: Sam
+    en: "And 肚屎枵, 落水, 糜, 正手片, 所以…"
+    sx: {hanzi: "還有肚屎枵、落水、糜、正手片、所以……", pinyin: "hanˇ iuˊ duˋ siiˋ iauˊ, log suiˋ, moiˇ, ziin suˋ pienˋ, soˋ iˊ …"}
+    hl: {hanzi: "還有肚屎枵、落水、糜、正手片、所以……", pinyin: "han rhiuˋ duˊ shiˊ iauˋ, logˋ shuiˊ, moi, zhinˇ shiuˊ pienˊ, soˊ rhiˋ …"}
+  - n: 5
+    speaker: 阿傑
+    en: "Your Hailu is better and better!"
+    sx: {hanzi: "你个海陸話越來越好了！", pinyin: "nˇ ge hoiˋ liugˋ fa ied loiˇ ied hoˋ leˊ!"}
+    hl: {hanzi: "你个海陸話越來越好了！", pinyin: "ngi gaiˇ hoiˊ liugˋ voiˋ rhadˋ loi rhadˋ hoˊ leˋ!"}
+  - n: 6
+    speaker: Sam
+    en: "But when I get back to Miaoli, Grandma will say: what are you speaking?"
+    sx: {hanzi: "毋過轉到苗栗，阿婆會講：你講麼个話？", pinyin: "mˇ go zonˋ do meuˇ lidˋ, aˊ poˇ voi gongˋ: nˇ gongˋ maˋ ge fa?"}
+    hl: {hanzi: "毋過轉到苗栗，阿婆會講：你講麼个話？", pinyin: "m goˇ zhonˊ doˇ miau lidˋ, a+ po voi+ gongˊ: ngi gongˊ maˊ gaiˇ faˇ?"}
+  - n: 7
+    speaker: 阿蘭嫂
+    en: "Sam, take this bag of dried radish back with you, so Grandma can make a radish omelette."
+    sx: {hanzi: "Sam，這包菜脯分你帶轉去，分阿婆煎菜脯卵。", pinyin: "Sam, iaˋ bauˊ coi puˋ bunˊ nˇ dai zonˋ hi, bunˊ aˊ poˇ jienˊ coi puˋ lonˋ."}
+    hl: {hanzi: "Sam，這包菜脯分你帶轉去，分阿婆煎菜脯卵。", pinyin: "Sam, liaˊ bauˋ coiˇ buˊ bunˋ ngi daiˇ zhonˊ hiˇ, bunˋ a+ po zienˋ coiˇ buˊ lonˊ."}
+  - n: 8
+    speaker: Sam
+    en: "Thank you, 阿蘭嫂! (his phone rings) …Hello? A-in?"
+    sx: {hanzi: "承蒙你，阿蘭嫂！……阿英？", pinyin: "siinˇ mungˇ nˇ, aˊ lanˇ soˋ! … aˊ inˊ?"}
+    hl: {hanzi: "承蒙你，阿蘭嫂！……阿英？", pinyin: "shin mung ngi, a+ lan soˊ! … a+ rhinˋ?"}
+  - n: 9
+    speaker: 阿英
+    en: "(on the phone) Sam, I got your letter."
+    sx: {hanzi: "Sam，你个信𠊎收到了。", pinyin: "Sam, nˇ ge xin ngaiˇ suˊ do leˊ."}
+    hl: {hanzi: "Sam，你个信𠊎收到了。", pinyin: "Sam, ngi gaiˇ sinˇ ngai shiuˋ doˇ leˋ."}
+  - n: 10
+    speaker: Sam
+    en: "Did you… read it?"
+    sx: {hanzi: "你……看了無？", pinyin: "nˇ … kon leˊ moˇ?"}
+    hl: {hanzi: "你……看了無？", pinyin: "ngi … konˇ leˋ mo?"}
+  - n: 11
+    speaker: 阿英
+    en: "I did. Tomorrow I'll wait for you at Miaoli station."
+    sx: {hanzi: "看了。天光日𠊎在苗栗火車頭等你。", pinyin: "kon leˊ. tienˊ gongˊ ngidˋ ngaiˇ coiˊ meuˇ lidˋ foˋ caˊ teuˇ denˋ nˇ."}
+    hl: {hanzi: "看了。韶早𠊎在苗栗火車頭等你。", pinyin: "konˇ leˋ. shau zoˊ ngai coiˋ miau lidˋ foˊ chaˋ teu denˊ ngi."}
+  - n: 12
+    speaker: 阿英
+    en: "What you couldn't get out in the letter… you can say when you see me."
+    sx: {hanzi: "信肚講毋出來个……見面正講。", pinyin: "xin duˋ gongˋ mˇ cudˋ loiˇ ge … gien mien zang gongˋ."}
+    hl: {hanzi: "信肚講毋出來个……見面正講。", pinyin: "sinˇ duˊ gongˊ m chud loi gaiˇ … gienˇ mienˇ zhangˇ gongˊ."}
+    check: true
+  - n: 13
+    speaker: 阿傑
+    en: "(to 阿蘭嫂) Look, Sam's gone red in the face again!"
+    sx: {hanzi: "你看，Sam 个面又紅紅了！", pinyin: "nˇ kon, Sam ge mien iu fungˇ fungˇ leˊ!"}
+    hl: {hanzi: "你看，Sam 个面又紅紅了！", pinyin: "ngi konˇ, Sam gaiˇ mienˇ rhiu+ fung fung leˋ!"}
+  - n: 14
+    speaker: 阿蘭嫂
+    en: "Sam! Don't eat and talk on the phone at the same time!"
+    sx: {hanzi: "Sam！莫一頭食，一頭打電話！", pinyin: "Sam! mog idˋ teuˇ siid, idˋ teuˇ daˋ tien fa!"}
+    hl: {hanzi: "Sam！莫一頭食，一頭打電話！", pinyin: "Sam! mogˋ rhid teu shidˋ, rhid teu daˊ tien+ faˇ!"}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      坐等來 (lessons 52, 59), the host's formula. 最後一暗晡 "the last evening": 最 (lesson 60) + 後.
+  - ref: 2
+    topic: grammar
+    text: >
+      恁遽就過忒了 "gone so fast": 恁 + adjective, 就, and 忒 "away, gone" after the verb (lesson 33).
+  - ref: 3
+    topic: hailu
+    text: >
+      The month's trip-ups in two lines: 寒 / 冷 (lesson 57), 肚飢 / 肚屎枵 (59), 落雨 / 落水 (61), 粥 / 糜 (58), 右片 /
+      正手片 (57), 故所 / 所以 (60). 第一日 "the first day": 第 + number (lesson 60).
+  - ref: 6
+    topic: grammar
+    text: >
+      轉到苗栗 "get back to Miaoli": 轉 (lesson 61) + 到. 你講麼个話？ "what (language) are you speaking?", Grandma's
+      imagined reaction.
+  - ref: 7
+    topic: grammar
+    text: >
+      分你帶轉去，分阿婆煎菜脯卵 "for you to take back, for Grandma to make a radish omelette": 分 twice, "give" and then
+      "so that (someone) can", the purpose 分 of lesson 62.
+  - ref: 12
+    topic: culture
+    text: >
+      信肚講毋出來个 "what couldn't be said in the letter": 信 + 肚 "inside" (lesson 25), 講毋出來 (lesson 62), and 个 "the
+      thing that". 見面正講 "say it when we meet": 正 "only then". A-in has read between the lines. Marked for checking
+      as a whole: the construction is the course's, not an official example.
+  - ref: 14
+    topic: grammar
+    text: >
+      一頭…一頭… "while" (lesson 58), 阿蘭嫂's rule from the first week. Cover the English and tell Sam's month in 竹東 in
+      your own Hakka: the factory, the colleagues, the lunch box, Grandma on the news, the rain in 北埔, the letter.
+  - ref: 0
+    topic: hailu
+    text: >
+      This batch made the Hailu column the one the story speaks. Read lessons 57–62 again from the Hailu line only:
+      the words that change (糜, 肚屎枵, 落水, 所以, 韶早, 承蒙) are few; the tones change in every word.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Every day the factory starts at five; you'll get used to it."
+      sx: {hanzi: "工廠逐日五點就會開工，你會慣勢。", pinyin: "gungˊ congˋ dagˋ ngidˋ ngˋ diamˋ qiu voi koiˊ gungˊ, nˇ voi guan se."}
+      hl: {hanzi: "工廠逐日五點就會開工，你會慣勢。", pinyin: "gungˋ chong dag ngid ngˊ diamˊ ciu+ voi+ koiˋ gungˋ, ngi voi+ guanˇ sheˇ."}
+    - en: "Because it rained, (therefore) we went to 北埔 for 擂茶."
+      sx: {hanzi: "因為落雨，故所𫣆兜去北埔食擂茶。", pinyin: "inˊ vi log iˋ, gu soˋ enˊ deuˊ hi bedˋ buˊ siid luiˇ caˇ."}
+      hl: {hanzi: "因為落水，所以𫣆兜去北埔食擂茶。", pinyin: "rhinˋ vui+ logˋ shuiˊ, soˊ rhiˋ enˋ deuˋ hiˇ bed buˋ shidˋ lui ca."}
+    - en: "Have a go at grinding it: slowly, until it's nice and fine."
+      sx: {hanzi: "你試擂看仔：慢慢仔擂，擂到幼幼仔。", pinyin: "nˇ cii luiˇ kon eˋ: man man eˋ luiˇ, luiˇ do iu iu eˋ."}
+      hl: {hanzi: "你試擂看仔：慢慢仔擂，擂到幼幼仔。", pinyin: "ngi chiˇ lui konˇ er: man+ man+ er lui, lui doˇ rhiuˇ rhiuˇ er."}
+    - en: "Grandma came third; several hundred thousand people saw her on TV."
+      sx: {hanzi: "阿婆得著第三名，有幾十萬人在電視看著佢。", pinyin: "aˊ poˇ dedˋ doˋ ti samˊ miangˇ, iuˊ giˋ siib van nginˇ coiˊ tien sii kon doˋ giˇ."}
+      hl: {hanzi: "阿婆得著第三名，有幾十萬人在電視看著佢。", pinyin: "a+ po ded doˊ ti+ samˋ miang, rhiuˋ giˊ shibˋ van+ ngin coiˋ tien+ shi+ konˇ doˊ gi."}
+      check: true
+    - en: "I miss Miaoli; I'm going home on Saturday."
+      sx: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngaiˇ dongˊ xiongˋ ngiam meuˇ lidˋ, liˊ bai liugˋ qiu zonˋ leˊ."}
+      hl: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngai dongˋ siongˊ ngiam+ miau lidˋ, liˋ baiˇ liug ciu+ zhonˊ leˋ."}
+    - en: "Rice porridge with dried radish is easy to make and tasty."
+      sx: {hanzi: "糜傍菜脯，好做又好食。", pinyin: "moiˇ bongˋ coi puˋ, hoˋ zo iu hoˋ siid."}
+      hl: {hanzi: "糜傍菜脯，好做又好食。", pinyin: "moi bongˊ coiˇ buˊ, hoˊ zoˇ rhiu+ hoˊ shidˋ."}
+  fill:
+    - en: "The more I speak, the better it gets."
+      sx: {hanzi: "___講___好。", pinyin: "___ gongˋ ___ hoˋ.", answer_hanzi: "緊", answer: "ginˋ"}
+      hl: {hanzi: "___講___好。", pinyin: "___ gongˊ ___ hoˊ.", answer_hanzi: "緊", answer: "ginˊ"}
+    - en: "It's been raining on and off."
+      sx: {hanzi: "落啊落___。", pinyin: "log a log ___.", answer_hanzi: "仔", answer: "eˋ"}
+      hl: {hanzi: "落啊落___。", pinyin: "logˋ a+ logˋ ___.", answer_hanzi: "仔", answer: "er"}
+    - en: "I'm hungry! (in Hailu)"
+      sx: {hanzi: "𠊎當___！", pinyin: "ngaiˇ dongˊ ___!", answer_hanzi: "肚屎枵", answer: "duˋ siiˋ iauˊ"}
+      hl: {hanzi: "𠊎當___！", pinyin: "ngai dongˋ ___!", answer_hanzi: "肚屎枵", answer: "duˊ shiˊ iauˋ"}
+
+audio: []
