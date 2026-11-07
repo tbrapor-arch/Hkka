@@ -24,15 +24,19 @@ Never splice word recordings into sentences: no sandhi, robotic prosody.
 ## TTS candidates (Taiwan-trained only)
 | Engine | Accents | Input | Licence | Notes |
 |---|---|---|---|---|
-| 客委會 語音合成 API (speech.hakka.gov.tw) | Sixian, Hailu, Dapu | Hakka characters, Hakka pinyin, or Mandarin | terms not found yet | built on the HAT data; offered to the 2025 客語AI應用黑客松 teams. Find how to get a key and whether generated audio may ship in an app |
+| 客委會 web TTS (speech.hakka.gov.tw/TTS/Synthesis) | Sixian M/F, Hailu M/F | Hakka characters (pinyin input untested) | site content under the Council's open-data statement (free, non-exclusive, sublicensable, irrevocable, cite source); synthesized output not named explicitly | free, no login; one sentence at a time, download valid for the session (members: last 10). No public API; the API existed for the 2025 客語AI應用黑客松 teams |
 | VoxHakka (United Link + National United University), `formospeech/yourtts-htia-240704` | all six | pinyin (via `formog2p`) or characters | **CC BY-NC 4.0** on Hugging Face (the 2024 paper and press said CC BY 4.0; the model card now says NC) | YourTTS (VITS), multi-speaker, runs on CPU. Demo: HF space `united-link/taiwanese-hakka-tts` |
 | formospeech F5-TTS / OmniVoice Hakka | Sixian, Hailu (+) | text + reference audio (zero-shot) | CC BY-NC 4.0, gated | newer, voice cloning from a reference clip |
-| HAT TTS set (60 h Sixian, 60 h Hailu) to train our own voice | Sixian, Hailu | — | signed agreement; use limited to AI system development, no sublicensing or sale | last resort |
+| HAT TTS set (60 h per accent: 30 h male + 30 h female, studio, single track) to train or fine-tune our own voice | Sixian, Hailu | — | signed agreement; individuals may apply; perpetual; fee per set (NT$1,000); **commercial use permitted, education encouraged; models we train are ours**, the corpus itself cannot be resold or sublicensed; credit "台灣客語語音資料庫（客委會授權）" (speech.hakka.gov.tw FAQ and AboutDB) | the clean-licence route: our own voice, no NC restriction |
 
 **Licence consequence:** NC audio can ship in a free app as separately licensed assets with attribution, but cannot
 go under the course's CC BY-SA. Keep TTS audio out of the content licence; say so in ATTRIBUTION.md.
 
 **Feed pinyin, not characters**: we control readings (文白) and apply sandhi ourselves (`tools/sandhi.py`).
+
+**Reference recordings**: speech.hakka.gov.tw/search/list (音檔試聽) has searchable HAT sample recordings by accent,
+gender, age and speaker type, each with characters and tone-number pinyin, downloadable. Under the site's open-data
+statement; a ready test set for comparing synthetic voices.
 
 ## First VoxHakka test (2026-11-07)
 - Runs on CPU in the cloud session (Python 3.11, `TTS==0.22.0`, `formog2p`; download with `HF_HUB_DISABLE_XET=1`).
@@ -55,5 +59,7 @@ go under the course's CC BY-SA. Keep TTS audio out of the content licence; say s
 ## Next
 1. Finish the `audio-115` upload; map file names to word ids and example ids; convert to Opus/AAC for the app.
 2. Compare VoxHakka (pinyin input) with the real recordings of the same official example sentences.
-3. Find the 客委會 TTS API key procedure and terms; test it on the same sentences.
-4. Pick the engine; write `tools/tts.py` (pinyin + sandhi in, cached audio out, keyed by text hash).
+3. 客委會 web TTS: synthesize the same sentences by hand (characters; try tone-number pinyin too), compare.
+4. If the lesson voice must be clean of NC terms: apply for HAT-TTS-Sixian (+ Hailu) as an individual and fine-tune
+   VoxHakka/YourTTS on it.
+5. Pick the engine; write `tools/tts.py` (pinyin + sandhi in, cached audio out, keyed by text hash).
