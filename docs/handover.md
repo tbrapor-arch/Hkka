@@ -58,9 +58,8 @@ words per lesson, `course/pacing.md`)**, **Sam in Miaoli** as backdrop, **Hailu 
 official lists, `check: true` on unattested patterns). Details and the vocabulary split: `course/README.md`.
 
 ## Next, in order
-0. **Reference articles**: run `data/fetch_references.ps1` (61 files: MOE 客語知識庫 grammar, vocabulary and
-   pronunciation articles, romanisation manual and workbooks, 語料選粹), store them in `Hkka-private/reference/moe/`,
-   then write `course/grammar-inventory.md` from them.
+0. ~~Reference articles~~ done: 54 MOE 客語知識庫 articles, manual and both workbooks in `Hkka-private/reference/moe/`;
+   `course/grammar-inventory.md` written from them (17 sections, stages A/B/C, Hailu differences).
 1. **Audio** for the 115年度 lists: `fetch_gov.ps1 -Audio` (Sixian + Hailu zips, large). Decide where it lives
    (not in git: Git LFS, a release asset, or object storage), then link word ids to files.
 2. **Per-accent romanisation**: tone tables for Hailu (7 tones, ˋ53 ∅55 ˊ24 ˇ11 +33, checked ∅5 ˋ2) and the other
@@ -72,7 +71,7 @@ official lists, `check: true` on unattested patterns). Details and the vocabular
    MOE gimˊbuˊngidˋ). Then Glossika sentences can be searched by key.
 6. **Licence of the current MOE 臺灣客語辭典** (hakkadict.moe.edu.tw) and its bulk download: headword audio.
 7. Tooling before lesson 1: lesson template with Sixian + Hailu lines, `make lint`, `make coverage`, HSK layer
-   (`cognate` class per word), `course/grammar-inventory.md`; then `course/000-reading-pinyin.md`, then
+   (`cognate` class per word); then `course/000-reading-pinyin.md`, then
    `course/syllabus.yaml` aimed at the certification levels
    (`docs/sources.md` › kaga-test-specs for the can-do descriptors), then lessons with the `accent` layer.
 8. App: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent setting.
