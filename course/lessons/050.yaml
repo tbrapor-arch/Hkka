@@ -1,0 +1,192 @@
+id: 50
+title:
+  en: "Making 粄 for the New Year"
+  sx: {hanzi: "逐年過年都會打粄", pinyin: "dagˋ ngienˇ go ngienˇ du voi daˋ banˋ"}
+  hl: {hanzi: "逐年過年都會打粄", pinyin: "dag ngien goˇ ngien du+ voi+ daˊ banˊ"}
+review: false
+setting: >-
+  Thursday 4 February 2027, the day before New Year's Eve. A-min's school has broken up for the winter holidays. The
+  house has been swept from top to bottom, the couplets are waiting to go up, and the kitchen belongs to Grandma and
+  Mrs Liu. Sam is summoned.
+names: [阿明, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "Sam, come and give us a hand! Today we're making 粄."
+    sx: {hanzi: "Sam，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, loiˇ ten suˋ! enˊ deuˊ gimˊ buˊ ngidˋ oi daˋ banˋ."}
+    hl: {hanzi: "Sam，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, loi tenˇ shiuˊ! enˋ deuˋ gimˋ buˋ ngid oiˇ daˊ banˊ."}
+  - n: 2
+    speaker: Sam
+    en: "粄? What kind?"
+    sx: {hanzi: "打粄？打麼个粄？", pinyin: "daˋ banˋ? daˋ maˋ ge banˋ?"}
+    hl: {hanzi: "打粄？打麼个粄？", pinyin: "daˊ banˊ? daˊ maˊ gaiˇ banˊ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "Sweet 粄, risen 粄 and radish 粄. Every New Year we make them."
+    sx: {hanzi: "甜粄、發粄摎蘿蔔粄。逐年過年，𫣆兜都會做。", pinyin: "tiamˇ banˋ, fadˋ banˋ lauˊ loˇ ped banˋ. dagˋ ngienˇ go ngienˇ, enˊ deuˊ du voi zo."}
+    hl: {hanzi: "甜粄、發粄摎菜頭粄。逐年過年，𫣆兜都會做。", pinyin: "tiam banˊ, fad banˊ lauˋ coiˇ teu banˊ. dag ngien goˇ ngien, enˋ deuˋ du+ voi+ zoˇ."}
+  - n: 4
+    speaker: Sam
+    en: "Why three kinds?"
+    sx: {hanzi: "做麼个愛做三種？", pinyin: "zo maˋ ge oi zo samˊ zungˋ?"}
+    hl: {hanzi: "做麼个愛做三種？", pinyin: "zoˇ maˊ gaiˇ oiˇ zoˇ samˋ zhungˊ?"}
+  - n: 5
+    speaker: 阿姆
+    en: "Sweet 粄 for a sweet year. Risen 粄 stands for getting rich. And radish 粄… A-min loves it."
+    sx: {hanzi: "甜粄係甜甜个。發粄表示會發財。蘿蔔粄……阿明盡好食。", pinyin: "tiamˇ banˋ he tiamˇ tiamˇ ge. fadˋ banˋ beuˋ sii voi fadˋ coiˇ. loˇ ped banˋ … aˊ minˇ qin hau siid."}
+    hl: {hanzi: "甜粄係甜甜个。發粄表示會發財。菜頭粄……阿明最好食。", pinyin: "tiam banˊ heˇ tiam tiam gaiˇ. fad banˊ biauˊ shi+ voi+ fad coi. coiˇ teu banˊ … a+ min zuiˇ hauˇ shidˋ."}
+  - n: 6
+    speaker: 阿明
+    en: "Fried radish 粄 smells fantastic!"
+    sx: {hanzi: "蘿蔔粄煎來食，當香！", pinyin: "loˇ ped banˋ jienˊ loiˇ siid, dongˊ hiongˊ!"}
+    hl: {hanzi: "菜頭粄煎來食，當香！", pinyin: "coiˇ teu banˊ zienˋ loi shidˋ, dongˋ hiongˋ!"}
+  - n: 7
+    speaker: 阿婆
+    en: "Sam, do you know how to make 粄?"
+    sx: {hanzi: "Sam，你曉得做粄無？", pinyin: "Sam, nˇ hiauˋ dedˋ zo banˋ moˇ?"}
+    hl: {hanzi: "Sam，你曉得做粄無？", pinyin: "Sam, ngi hiauˊ ded zoˇ banˊ mo?"}
+  - n: 8
+    speaker: Sam
+    en: "I don't know how to make it. But I've eaten it!"
+    sx: {hanzi: "𠊎毋曉得做。毋過𠊎識食過！", pinyin: "ngaiˇ mˇ hiauˋ dedˋ zo. mˇ go ngaiˇ siidˋ siid go!"}
+    hl: {hanzi: "𠊎毋曉得做。毋過𠊎識食過！", pinyin: "ngai m hiauˊ ded zoˇ. m goˇ ngai shid shidˋ goˇ!"}
+  - n: 9
+    speaker: 阿婆
+    en: "Eating it: that, Grandma knows."
+    sx: {hanzi: "食，阿婆知。", pinyin: "siid, aˊ poˇ diˊ."}
+    hl: {hanzi: "食，阿婆知。", pinyin: "shidˋ, a+ po diˋ."}
+  - n: 10
+    speaker: 阿姆
+    en: "(pouring rice batter into the steaming tray) Batter in, sugar in… then two hours in the steamer, on the stove."
+    sx: {hanzi: "米漿放落去，加糖……在灶頭炊兩點鐘。", pinyin: "miˋ jiongˊ biong log hi, gaˊ tongˇ … coiˊ zo teuˇ cuiˊ liongˋ diamˋ zungˊ."}
+    hl: {hanzi: "米漿放落去，加糖……在灶頭炊兩點鐘。", pinyin: "miˊ ziongˋ biongˇ logˋ hiˇ, gaˋ tong … coiˋ zoˇ teu chuiˋ liongˊ diamˊ zhungˋ."}
+    check: true
+  - n: 11
+    speaker: 阿婆
+    en: "When you make risen 粄, remember to put the leaven in, or it won't rise."
+    sx: {hanzi: "打發粄該下，愛記得放發酵，無就毋會發。", pinyin: "daˋ fadˋ banˋ ge ha, oi gi dedˋ biong fadˋ gau, moˇ qiu mˇ voi fadˋ."}
+    hl: {hanzi: "打發粄該下，愛記得放發酵，無就毋會發。", pinyin: "daˊ fad banˊ gai ha+, oiˇ giˇ ded biongˇ fad gauˇ, mo ciu+ m voi+ fad."}
+  - n: 12
+    speaker: 阿明
+    en: "(two hours later, hovering) Has it risen?"
+    sx: {hanzi: "發了無？", pinyin: "fadˋ leˊ moˇ?"}
+    hl: {hanzi: "發了無？", pinyin: "fad leˋ mo?"}
+  - n: 13
+    speaker: 阿姆
+    en: "It has! Beautifully! A good sign for the new year."
+    sx: {hanzi: "發了！當發！新年會發財。", pinyin: "fadˋ leˊ! dongˊ fadˋ! xinˊ ngienˇ voi fadˋ coiˇ."}
+    hl: {hanzi: "發了！當發！新年會發財。", pinyin: "fad leˋ! dongˋ fad! sinˋ ngien voi+ fad coi."}
+  - n: 14
+    speaker: 阿婆
+    en: "A-min! No eating on the sly!"
+    sx: {hanzi: "阿明！莫偷食！", pinyin: "aˊ minˇ! mog teuˊ siid!"}
+    hl: {hanzi: "阿明！莫偷食！", pinyin: "a+ min! mogˋ teuˋ shidˋ!"}
+  - n: 15
+    speaker: 阿明
+    en: "(mouth full) I'm not eating on the sly… I'm having a taste!"
+    sx: {hanzi: "𠊎無偷食……𠊎在該嗒看啊！", pinyin: "ngaiˇ moˇ teuˊ siid … ngaiˇ du ge dab kon a!"}
+    hl: {hanzi: "𠊎無偷食……𠊎在該嗒看啊！", pinyin: "ngai mo teuˋ shidˋ … ngai diˇ gai dabˋ konˇ a+!"}
+
+notes:
+  - ref: 0
+    topic: method
+    text: >
+      The second wave starts today. Keep going forward as before, and from now on also go back each day to one early
+      lesson, starting with lesson 1: cover the Hakka, read the English, and say the Hakka aloud. Lesson 51 sends you
+      back to lesson 2, and so on. What you once only understood, you now produce.
+  - ref: 1
+    topic: vocab
+    text: >
+      打粄 "make 粄": 打 (lesson 33) is the everyday verb for making them; 做粄 says the same. 粄 banˋ (lesson 11) covers
+      every rice-flour cake and noodle.
+  - ref: 3
+    topic: grammar
+    text: >
+      逐年過年…都會做 "every New Year, we make them": 會 for what happens as a rule, a habit, not "will". The official
+      example sentence says the same thing: 原在人逐年過年就會挨粄來做甜粄、發粄摎菜頭粄 "people used to grind rice every
+      New Year to make sweet, risen and radish 粄". 逐年 "every year", like 逐日 (lesson 17).
+  - ref: 5
+    topic: culture
+    text: >
+      Each 粄 carries a wish: 甜粄 for sweetness, 發粄 "risen 粄" for 發財 "getting rich" (過年打發粄，表示會發財, an
+      official example). 甜甜个 "sweet": the AA form of lesson 45. 表示 beuˋ sii "stand for, mean".
+  - ref: 7
+    topic: grammar
+    text: >
+      Three "know"s, all in one scene (lessons 9, 17, 26): 曉得做粄 "know how to make 粄" (a skill), 識食過 "have eaten it
+      (before)" (識 + V過 is "have ever done", as 毋識講過 is "have never said"), 阿婆知 "Grandma knows (that)" (a fact).
+  - ref: 10
+    topic: vocab
+    text: >
+      炊 cuiˊ "steam" (Hailu chuiˋ): 炊粄, the word in every official 粄 sentence; 蒸 is the Mandarin-looking alternative.
+      米漿 "rice batter", 灶頭 "the stove". The details of Mrs Liu's method are marked for a check.
+  - ref: 11
+    topic: grammar
+    text: >
+      An official example word for word: 打發粄該下，愛記得放發酵，無就毋會發. 該下 (lesson 20) "at that time, when": 打發粄該下
+      "when you make risen 粄". 無就 "or else, otherwise". 發 fadˋ "rise" (dough), and also "prosper".
+  - ref: 14
+    topic: vocab
+    text: >
+      偷食 "eat on the sly": 偷 from 偷偷仔 (lesson 46). A-min's defence uses 嗒看啊 from lesson 36.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 菜頭粄 for 蘿蔔粄, 炊 chuiˋ, 最好食 for 盡好食.
+
+new_words:
+  - {hanzi: 甜粄, pinyin: "tiamˇ banˋ", en: "sweet rice cake (New Year)", hl: {hanzi: 甜粄, pinyin: "tiam banˊ"}}
+  - {hanzi: 發粄, pinyin: "fadˋ banˋ", en: "risen rice cake (New Year)", hl: {hanzi: 發粄, pinyin: "fad banˊ"}}
+  - {hanzi: 蘿蔔粄, pinyin: "loˇ ped banˋ", en: "radish cake", hl: {hanzi: 菜頭粄, pinyin: "coiˇ teu banˊ"}}
+  - {hanzi: 表示, pinyin: "beuˋ sii", en: "stand for, mean, show", hl: {hanzi: 表示, pinyin: "biauˊ shi+"}}
+  - {hanzi: 發財, pinyin: "fadˋ coiˇ", en: "get rich, prosper", hl: {hanzi: 發財, pinyin: "fad coi"}}
+  - {hanzi: 發, pinyin: "fadˋ", en: "rise (dough); prosper", hl: {hanzi: 發, pinyin: "fad"}}
+  - {hanzi: 米, pinyin: "miˋ", en: "rice (uncooked)", hl: {hanzi: 米, pinyin: "miˊ"}}
+  - {hanzi: 米漿, pinyin: "miˋ jiongˊ", en: "rice batter", hl: {hanzi: 米漿, pinyin: "miˊ ziongˋ"}}
+  - {hanzi: 灶頭, pinyin: "zo teuˇ", en: "stove", hl: {hanzi: 灶頭, pinyin: "zoˇ teu"}}
+  - {hanzi: 炊, pinyin: "cuiˊ", en: "steam (粄)", hl: {hanzi: 炊, pinyin: "chuiˋ"}}
+  - {hanzi: 發酵, pinyin: "fadˋ gau", en: "leaven, yeast", hl: {hanzi: 發酵, pinyin: "fad gauˇ"}}
+  - {hanzi: 無就, pinyin: "moˇ qiu", en: "or else, otherwise", hl: {hanzi: 無就, pinyin: "mo ciu+"}}
+  - {hanzi: 新年, pinyin: "xinˊ ngienˇ", en: "the New Year", hl: {hanzi: 新年, pinyin: "sinˋ ngien"}}
+  - {hanzi: 偷食, pinyin: "teuˊ siid", en: "eat on the sly", hl: {hanzi: 偷食, pinyin: "teuˋ shidˋ"}}
+  - {hanzi: 黏, pinyin: "ngiamˇ", en: "sticky; stick", hl: {hanzi: 黏, pinyin: "ngiam"}}
+  - {hanzi: 掃, pinyin: "so", en: "sweep", hl: {hanzi: 掃, pinyin: "soˇ"}}
+  - {hanzi: 貼, pinyin: "diabˋ", en: "stick (up), paste", hl: {hanzi: 貼, pinyin: "dab"}}
+  - {hanzi: 春聯, pinyin: "cunˊ lienˇ", en: "New Year couplets", hl: {hanzi: 春聯, pinyin: "chunˋ lien"}}
+  - {hanzi: 年三十, pinyin: "ngienˇ samˊ siib", en: "New Year's Eve", hl: {hanzi: 年三十, pinyin: "ngien samˋ shibˋ"}}
+  - {hanzi: 習俗, pinyin: "xib xiug", en: "custom", hl: {hanzi: 習俗, pinyin: "sibˋ siugˋ"}}
+
+exercises:
+  translate:
+    - en: "Sweet 粄 is very sticky."
+      sx: {hanzi: "甜粄當黏。", pinyin: "tiamˇ banˋ dongˊ ngiamˇ."}
+      hl: {hanzi: "甜粄當黏。", pinyin: "tiam banˊ dongˋ ngiam."}
+    - en: "Every year before the New Year, we sweep the house and put up the couplets."
+      sx: {hanzi: "逐年過年前，𫣆兜都會掃屋、貼春聯。", pinyin: "dagˋ ngienˇ go ngienˇ qienˇ, enˊ deuˊ du voi so vugˋ, diabˋ cunˊ lienˇ."}
+      hl: {hanzi: "逐年過年前，𫣆兜都會掃屋、貼春聯。", pinyin: "dag ngien goˇ ngien cien, enˋ deuˋ du+ voi+ soˇ vug, dab chunˋ lien."}
+      check: true
+    - en: "Tomorrow is New Year's Eve."
+      sx: {hanzi: "天光日係年三十。", pinyin: "tienˊ gongˊ ngidˋ he ngienˇ samˊ siib."}
+      hl: {hanzi: "韶早係年三十。", pinyin: "shau zoˊ heˇ ngien samˋ shibˋ."}
+    - en: "Fry the radish cake in the wok."
+      sx: {hanzi: "蘿蔔粄放落鑊煎。", pinyin: "loˇ ped banˋ biong log vog jienˊ."}
+      hl: {hanzi: "菜頭粄放落鑊煎。", pinyin: "coiˇ teu banˊ biongˇ logˋ vogˋ zienˋ."}
+    - en: "Eating radish cake at New Year has become a Hakka custom."
+      sx: {hanzi: "過年食蘿蔔粄，係客家人个習俗。", pinyin: "go ngienˇ siid loˇ ped banˋ, he hagˋ gaˊ nginˇ ge xib xiug."}
+      hl: {hanzi: "過年食菜頭粄，係客家人个習俗。", pinyin: "goˇ ngien shidˋ coiˇ teu banˊ, heˇ hag gaˋ ngin gaiˇ sibˋ siugˋ."}
+    - en: "Rice is used to make 粄."
+      sx: {hanzi: "米做得做粄。", pinyin: "miˋ zo dedˋ zo banˋ."}
+      hl: {hanzi: "米做得做粄。", pinyin: "miˊ zoˇ ded zoˇ banˊ."}
+  fill:
+    - en: "Every year we make 粄."
+      sx: {hanzi: "___，𫣆兜都會打粄。", pinyin: "___, enˊ deuˊ du voi daˋ banˋ.", answer_hanzi: "逐年", answer: "dagˋ ngienˇ"}
+      hl: {hanzi: "___，𫣆兜都會打粄。", pinyin: "___, enˋ deuˋ du+ voi+ daˊ banˊ.", answer_hanzi: "逐年", answer: "dag ngien"}
+    - en: "Put the leaven in, or else it won't rise."
+      sx: {hanzi: "放發酵，___毋會發。", pinyin: "biong fadˋ gau, ___ mˇ voi fadˋ.", answer_hanzi: "無就", answer: "moˇ qiu"}
+      hl: {hanzi: "放發酵，___毋會發。", pinyin: "biongˇ fad gauˇ, ___ m voi+ fad.", answer_hanzi: "無就", answer: "mo ciu+"}
+    - en: "I've eaten it (before)."
+      sx: {hanzi: "𠊎___食過。", pinyin: "ngaiˇ ___ siid go.", answer_hanzi: "識", answer: "siidˋ"}
+      hl: {hanzi: "𠊎___食過。", pinyin: "ngai ___ shidˋ goˇ.", answer_hanzi: "識", answer: "shid"}
+
+audio: []
