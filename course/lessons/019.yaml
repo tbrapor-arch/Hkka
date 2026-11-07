@@ -1,0 +1,162 @@
+id: 19
+title:
+  en: "Cooking 客家小炒 with Grandma"
+  sx: {hanzi: "先炒肉，正放魷魚", pinyin: "xienˊ cauˋ ngiugˋ, zang biong iuˇ ngˇ"}
+  hl: {hanzi: "先炒肉，正放魷魚", pinyin: "senˋ cauˊ ngiug, zhangˇ biongˇ rhiu ng"}
+review: false
+setting: >-
+  Friday, five in the afternoon. A-in's bus gets in at seven. Grandma has been in the kitchen since three; now she
+  needs another pair of hands.
+names: [客家小炒, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, come and help in the kitchen! Tonight we're making 客家小炒."
+    sx: {hanzi: "Sam，來灶下𢯭手！暗晡愛煮客家小炒。", pinyin: "Sam, loiˇ zo haˊ ten suˋ! am buˊ oi zuˋ hagˋ gaˊ seuˋ cauˋ."}
+    hl: {hanzi: "Sam，來灶下𢯭手！暗晡愛煮客家小炒。", pinyin: "Sam, loi zoˇ haˋ tenˇ shiuˊ! amˇ buˋ oiˇ zhuˊ hag gaˋ shauˊ cauˊ."}
+  - n: 2
+    speaker: Sam
+    en: "客家小炒? Is that A-in's favourite?"
+    sx: {hanzi: "客家小炒？係阿英盡好食个菜？", pinyin: "hagˋ gaˊ seuˋ cauˋ? he aˊ inˊ qin hau siid ge coi?"}
+    hl: {hanzi: "客家小炒？係阿英最好食个菜？", pinyin: "hag gaˋ shauˊ cauˊ? heˇ a+ rhinˋ zuiˇ hauˇ shidˋ gaiˇ coiˇ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "It is. First, cut up the pork belly."
+    zh: "是。你先把五花肉切好。"
+    sx: {hanzi: "係。你先同三層肉切好。", pinyin: "he. nˇ xienˊ tungˇ samˊ cenˇ ngiugˋ qiedˋ hoˋ."}
+    hl: {hanzi: "係。你先摎三層肉切好。", pinyin: "heˇ. ngi senˋ lauˋ samˋ cen ngiug cied hoˊ."}
+  - n: 4
+    speaker: Sam
+    en: "(cutting large chunks) Like this?"
+    sx: {hanzi: "恁樣切？", pinyin: "anˋ ngiongˇ qiedˋ?"}
+    hl: {hanzi: "恁樣切？", pinyin: "an ngiong cied?"}
+  - n: 5
+    speaker: 阿婆
+    en: "No, smaller than that."
+    sx: {hanzi: "毋係，切較細兜。", pinyin: "mˇ he, qiedˋ ka se deuˊ."}
+    hl: {hanzi: "毋係，切較細兜。", pinyin: "m heˇ, cied haˇ seˇ deuˋ."}
+  - n: 6
+    speaker: 阿婆
+    en: "(heating the wok) Oil first. Fry the pork first, and only then put in the squid and the celery."
+    sx: {hanzi: "先放油。先炒肉，正放魷魚同芹菜。", pinyin: "xienˊ biong iuˇ. xienˊ cauˋ ngiugˋ, zang biong iuˇ ngˇ tungˇ kiunˇ coi."}
+    hl: {hanzi: "先放油。先炒肉，正放魷魚摎芹菜。", pinyin: "senˋ biongˇ rhiu. senˋ cauˊ ngiug, zhangˇ biongˇ rhiu ng lauˋ kiun coiˇ."}
+  - n: 7
+    speaker: Sam
+    en: "Does it need sugar?"
+    sx: {hanzi: "愛放糖無？", pinyin: "oi biong tongˇ moˇ?"}
+    hl: {hanzi: "愛放糖無？", pinyin: "oiˇ biongˇ tong mo?"}
+  - n: 8
+    speaker: 阿婆
+    en: "(with the exact look Grandpa gave him) …Soy sauce."
+    sx: {hanzi: "……放豆油。", pinyin: "… biong teu iuˇ."}
+    hl: {hanzi: "……放豆油。", pinyin: "… biongˇ teu+ rhiu."}
+  - n: 9
+    speaker: Sam
+    en: "(tasting) It smells wonderful!"
+    sx: {hanzi: "當香！", pinyin: "dongˊ hiongˊ!"}
+    hl: {hanzi: "當香！", pinyin: "dongˋ hiongˋ!"}
+  - n: 10
+    speaker: 阿婆
+    en: "Now you can make 客家小炒! A-in will be so pleased."
+    sx: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "nˇ voi zuˋ hagˋ gaˊ seuˋ cauˋ leˊ! aˊ inˊ voi dongˊ fonˊ hiˋ."}
+    hl: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "ngi voi+ zhuˊ hag gaˋ shauˊ cauˊ leˋ! a+ rhinˋ voi+ dongˋ fonˋ hiˊ."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      客家小炒 hagˋ gaˊ seuˋ cauˋ, "Hakka stir-fry": strips of pork belly fried until they give up their fat, then dried
+      squid, dried tofu, celery and spring onions, with soy sauce. It is on the menu of almost every Hakka restaurant in
+      Taiwan, and is said to have begun as a way to use up the pork and dried squid offered to the gods at festivals. 灶下 zo haˊ "kitchen" (廚房),
+      literally "below the stove".
+  - ref: 3
+    topic: grammar
+    text: >
+      同 + object + verb puts the object first, like Mandarin 把: 你先同三層肉切好 "first cut up the pork belly"
+      (你先把五花肉切好). Hailu and many Sixian speakers say 摎 here: 摎三層肉切好. Use it when you do something to a
+      particular thing: cut it, wash it, put it somewhere. 切好 "cut (properly), finish cutting": 好 after a verb is
+      "done, ready", as in 洗好 "washed".
+  - ref: 4
+    topic: vocab
+    text: >
+      恁樣 anˋ ngiongˇ "like this, this way" (這樣). 恁 again, the "so" of 恁大. Point at your work and say 恁樣？
+  - ref: 5
+    topic: grammar
+    text: >
+      較細兜 "a bit smaller": 較 + adjective + 兜 "a bit more so". 兜, the plural of 𠊎兜, is also "some, a little":
+      較大兜 "a bit bigger", 較遽兜 "a bit faster".
+  - ref: 6
+    topic: grammar
+    text: >
+      先…正… "first…, (and only) then…": 先炒肉，正放魷魚 "fry the pork first, then put in the squid". The 正 of lesson
+      16 (三點正來 "not until three") in its other job. Recipes, directions and plans are built on it. 魷魚 iuˇ ngˇ
+      "squid" (魚 ngˇ "fish": a syllable with no vowel, as in 五 ngˋ); 芹菜 kiunˇ coi "celery"; 油 iuˇ "oil".
+  - ref: 8
+    topic: culture
+    text: >
+      The second time a member of this family has been asked about sugar (lesson 4). Hakka cooking leans on salt,
+      soy sauce and preserved vegetables; sugar is not what this family reaches for.
+  - ref: 10
+    topic: vocab
+    text: >
+      歡喜 fonˊ hiˋ "happy, pleased", the everyday word (Mandarin 高興). 會 + verb + 了 "can (do it) now". 炒 cauˋ "stir-fry".
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu uses 摎 for 把: 摎三層肉切好. Its 炒 is cauˊ, 小 shauˊ.
+  - ref: 0
+    topic: vocab
+    text: >
+      肚 duˋ after a noun is "inside": 鑊肚 "in the wok", 店肚 "in the shop" (Mandarin 裡). The same 肚 as 肚屎 "belly".
+
+new_words:
+  - {hanzi: 灶下, pinyin: "zo haˊ", en: "kitchen", hl: {hanzi: 灶下, pinyin: "zoˇ haˋ"}}
+  - {hanzi: 三層肉, pinyin: "samˊ cenˇ ngiugˋ", en: "pork belly", hl: {hanzi: 三層肉, pinyin: "samˋ cen ngiug"}}
+  - {hanzi: 切, pinyin: "qiedˋ", en: "cut", hl: {hanzi: 切, pinyin: "cied"}}
+  - {hanzi: 恁樣, pinyin: "anˋ ngiongˇ", en: "like this, this way", hl: {hanzi: 恁樣, pinyin: "an ngiong"}}
+  - {hanzi: 油, pinyin: "iuˇ", en: "oil", hl: {hanzi: 油, pinyin: "rhiu"}}
+  - {hanzi: 炒, pinyin: "cauˋ", en: "stir-fry", hl: {hanzi: 炒, pinyin: "cauˊ"}}
+  - {hanzi: 魷魚, pinyin: "iuˇ ngˇ", en: "squid", hl: {hanzi: 魷魚, pinyin: "rhiu ng"}}
+  - {hanzi: 芹菜, pinyin: "kiunˇ coi", en: "celery", hl: {hanzi: 芹菜, pinyin: "kiun coiˇ"}}
+  - {hanzi: 歡喜, pinyin: "fonˊ hiˋ", en: "happy, pleased", hl: {hanzi: 歡喜, pinyin: "fonˋ hiˊ"}}
+  - {hanzi: 洗, pinyin: "seˋ", en: "wash", hl: {hanzi: 洗, pinyin: "seˊ"}}
+  - {hanzi: 鑊, pinyin: "vog", en: "wok", hl: {hanzi: 鑊, pinyin: "vogˋ"}}
+  - {hanzi: 鹽, pinyin: "iamˇ", en: "salt", hl: {hanzi: 鹽, pinyin: "rham"}}
+  - {hanzi: 蔥, pinyin: "cungˊ", en: "spring onion", hl: {hanzi: 蔥, pinyin: "cungˋ"}}
+  - {hanzi: 魚, pinyin: "ngˇ", en: "fish", hl: {hanzi: 魚, pinyin: "ng"}}
+  - {hanzi: 肚, pinyin: "duˋ", en: "inside (after a noun: 鑊肚, 店肚)", hl: {hanzi: 肚, pinyin: "duˊ"}}
+  - {hanzi: 鹹, pinyin: "hamˇ", en: "salty", hl: {hanzi: 鹹, pinyin: "ham"}}
+
+exercises:
+  translate:
+    - en: "Wash the celery first, then cut it."
+      sx: {hanzi: "先同芹菜洗好，正切。", pinyin: "xienˊ tungˇ kiunˇ coi seˋ hoˋ, zang qiedˋ."}
+      hl: {hanzi: "先摎芹菜洗好，正切。", pinyin: "senˋ lauˋ kiun coiˇ seˊ hoˊ, zhangˇ cied."}
+    - en: "Put some salt in the wok."
+      sx: {hanzi: "鑊肚放一息仔鹽。", pinyin: "vog duˋ biong idˋ xid eˋ iamˇ."}
+      hl: {hanzi: "鑊肚放一息仔鹽。", pinyin: "vogˋ duˊ biongˇ rhid sid er+ rham."}
+    - en: "Is that how you cut spring onions?"
+      sx: {hanzi: "蔥係恁樣切个？", pinyin: "cungˊ he anˋ ngiongˇ qiedˋ ge?"}
+      hl: {hanzi: "蔥係恁樣切个？", pinyin: "cungˋ heˇ an ngiong cied gaiˇ?"}
+    - en: "Grandma is very pleased today."
+      sx: {hanzi: "阿婆今晡日當歡喜。", pinyin: "aˊ poˇ gimˊ buˊ ngidˋ dongˊ fonˊ hiˋ."}
+      hl: {hanzi: "阿婆今晡日當歡喜。", pinyin: "a+ po gimˋ buˋ ngid dongˋ fonˋ hiˊ."}
+    - en: "Is it salty? — Not salty, it's sweet."
+      sx: {hanzi: "鹹無？——毋鹹，當甜。", pinyin: "hamˇ moˇ? — mˇ hamˇ, dongˊ tiamˇ."}
+      hl: {hanzi: "鹹無？——毋鹹，當甜。", pinyin: "ham mo? — m ham, dongˋ tiam."}
+    - en: "Fry the fish first, then the vegetables."
+      sx: {hanzi: "先炒魚，正炒菜。", pinyin: "xienˊ cauˋ ngˇ, zang cauˋ coi."}
+      hl: {hanzi: "先炒魚，正炒菜。", pinyin: "senˋ cauˊ ng, zhangˇ cauˊ coiˇ."}
+  fill:
+    - en: "First cut up the pork."
+      sx: {hanzi: "先___豬肉切好。", pinyin: "xienˊ ___ zuˊ ngiugˋ qiedˋ hoˋ.", answer_hanzi: "同", answer: "tungˇ"}
+      hl: {hanzi: "先___豬肉切好。", pinyin: "senˋ ___ zhuˋ ngiug cied hoˊ.", answer_hanzi: "摎", answer: "lauˋ"}
+    - en: "Like this?"
+      sx: {hanzi: "___切？", pinyin: "___ qiedˋ?", answer_hanzi: "恁樣", answer: "anˋ ngiongˇ"}
+      hl: {hanzi: "___切？", pinyin: "___ cied?", answer_hanzi: "恁樣", answer: "an ngiong"}
+    - en: "Fry the pork first, then put in the squid."
+      sx: {hanzi: "先炒肉，___放魷魚。", pinyin: "xienˊ cauˋ ngiugˋ, ___ biong iuˇ ngˇ.", answer_hanzi: "正", answer: "zang"}
+      hl: {hanzi: "先炒肉，___放魷魚。", pinyin: "senˋ cauˊ ngiug, ___ biongˇ rhiu ng.", answer_hanzi: "正", answer: "zhangˇ"}
+
+audio: []

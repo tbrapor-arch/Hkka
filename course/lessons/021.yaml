@@ -1,0 +1,139 @@
+id: 21
+title:
+  en: "Review 3"
+  sx: {hanzi: "苗栗當細", pinyin: "meuˇ lid dongˊ se"}
+  hl: {hanzi: "苗栗當細", pinyin: "miau lidˋ dongˋ seˇ"}
+review: true
+setting: >-
+  Sunday morning. A-in and Sam walk along the path through the family's tea garden before her bus back to Taipei.
+  Nothing new in the dialogue: everything comes from lessons 1–20.
+names: [阿明, 苗栗, 阿英, 客家小炒]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Sam, your Hakka is better than before!"
+    sx: {hanzi: "Sam，你个客話比頭擺較好了！", pinyin: "Sam, nˇ ge hagˋ fa biˋ teuˇ baiˋ ka hoˋ leˊ!"}
+    hl: {hanzi: "Sam，你个客話比頭擺較好了！", pinyin: "Sam, ngi gaiˇ hag voiˋ biˊ teu baiˊ haˇ hoˊ leˋ!"}
+  - n: 2
+    speaker: Sam
+    en: "Thank you. Grandma talks to me every day."
+    sx: {hanzi: "恁仔細。阿婆逐日同𠊎講話。", pinyin: "anˋ ziiˋ se. aˊ poˇ dagˋ ngidˋ tungˇ ngaiˇ gongˋ fa."}
+    hl: {hanzi: "承蒙。阿婆逐日摎𠊎講話。", pinyin: "shin mung. a+ po dag ngid lauˋ ngai gongˊ faˇ."}
+  - n: 3
+    speaker: 阿英
+    en: "And Grandpa, does he talk to you too?"
+    sx: {hanzi: "阿公乜同你講無？", pinyin: "aˊ gungˊ me tungˇ nˇ gongˋ moˇ?"}
+    hl: {hanzi: "阿公乜摎你講無？", pinyin: "a+ gungˋ meˇ lauˋ ngi gongˊ mo?"}
+  - n: 4
+    speaker: Sam
+    en: "A little. Grandpa doesn't say much."
+    sx: {hanzi: "一息仔。阿公講話當少。", pinyin: "idˋ xid eˋ. aˊ gungˊ gongˋ fa dongˊ seuˋ."}
+    hl: {hanzi: "一息仔。阿公講話當少。", pinyin: "rhid sid er+. a+ gungˋ gongˊ faˇ dongˋ shauˊ."}
+  - n: 5
+    speaker: 阿英
+    en: "Yesterday he said a lot!"
+    sx: {hanzi: "昨晡日佢講當多！", pinyin: "coˊ buˊ ngidˋ giˇ gongˋ dongˊ doˊ!"}
+    hl: {hanzi: "昨晡日佢講當多！", pinyin: "coˋ buˋ ngid gi gongˊ dongˋ doˋ!"}
+  - n: 6
+    speaker: 阿英
+    en: "(at a narrow plank over a ditch) After you."
+    sx: {hanzi: "你行先。", pinyin: "nˇ hangˇ xienˊ."}
+    hl: {hanzi: "你行先。", pinyin: "ngi hang senˋ."}
+    check: true
+  - n: 7
+    speaker: Sam
+    en: "No, no, after you."
+    sx: {hanzi: "毋使，毋使，你行先。", pinyin: "mˇ siiˋ, mˇ siiˋ, nˇ hangˇ xienˊ."}
+    hl: {hanzi: "毋使，毋使，你行先。", pinyin: "m siiˊ, m siiˊ, ngi hang senˋ."}
+    check: true
+  - n: 8
+    speaker: 阿英
+    en: "(laughing) A-min's classmate taught you that, didn't she?"
+    sx: {hanzi: "係阿明个同學教你个，係無？", pinyin: "he aˊ minˇ ge tungˇ hog gauˊ nˇ ge, he moˇ?"}
+    hl: {hanzi: "係阿明个同學教你个，係無？", pinyin: "heˇ a+ min gaiˇ tung hogˋ gauˋ ngi gaiˇ, heˇ mo?"}
+  - n: 9
+    speaker: Sam
+    en: "…How do you know?"
+    sx: {hanzi: "……你仰般知？", pinyin: "… nˇ ngiongˋ banˊ diˊ?"}
+    hl: {hanzi: "……你仰般知？", pinyin: "… ngi ngiongˊ banˋ diˋ?"}
+  - n: 10
+    speaker: 阿英
+    en: "A-min told me. Miaoli is a very small place!"
+    sx: {hanzi: "阿明講个。苗栗當細！", pinyin: "aˊ minˇ gongˋ ge. meuˇ lid dongˊ se!"}
+    hl: {hanzi: "阿明講个。苗栗當細！", pinyin: "a+ min gongˊ gaiˇ. miau lidˋ dongˋ seˇ!"}
+  - n: 11
+    speaker: Sam
+    en: "Let's go across together, shall we?"
+    sx: {hanzi: "𠊎兜共下行，好無？", pinyin: "ngaiˇ deuˊ kiung ha hangˇ, hoˋ moˇ?"}
+    hl: {hanzi: "𠊎兜共下行，好無？", pinyin: "ngai deuˋ kiung+ ha+ hang, hoˊ mo?"}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      Comparing: X 比 Y 較 + adjective (比頭擺較好 "better than before"), 同 X 共樣 "the same as X", 無共樣 "different".
+      較 alone is "more": 較細兜 "a bit smaller".
+  - ref: 2
+    topic: grammar
+    text: >
+      同 tungˇ (or 摎 lauˊ) does three jobs now: "and" (魷魚同芹菜), "with, to" (同𠊎講話), and, before an object and
+      its verb, the Mandarin 把 (同三層肉切好). Hailu uses 摎 for all three.
+  - ref: 4
+    topic: grammar
+    text: >
+      Time: 頭擺 "in the old days", 該下 "at that time", 這下 "now"; 後生个時節 "when (he) was young"; 先…正… "first…
+      then…"; 三點正來 "not until three". Experience: 賣過 "have sold", 無賣過 / 毋識行過 "have never…".
+  - ref: 6
+    topic: grammar
+    text: >
+      Word order: 你行先 "after you", with 先 after the verb (lessons 17 and 38). People: 你兩儕 "you two", 幾多儕？
+      "how many people?".
+  - ref: 8
+    topic: grammar
+    text: >
+      係…个 picks out who or when: 係阿明个同學教你个 "it was A-min's classmate who taught you", 阿明講个 "A-min told
+      me". Questions so far: …無？, …吂？, …係無？ "isn't it?", …好無？ "OK?", …還係 / 抑係…？ "or…?".
+  - ref: 10
+    topic: culture
+    text: >
+      Three weeks in, the town has already turned Sam into a story: the bus stop (13), the tea shop (16), the station
+      (17). In a Hakka small town, news travels by kinship and classmates. A-in's 苗栗當細 is affectionate, not a
+      complaint.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu pairs added this week: 寒 / 冷 (cold), 盡 / 最 (most), 還係 / 抑係 (or). Everything else in this lesson is
+      the same words in Hailu sounds.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Have you ever made 客家小炒? — Never."
+      sx: {hanzi: "你識煮過客家小炒無？——毋識。", pinyin: "nˇ siidˋ zuˋ go hagˋ gaˊ seuˋ cauˋ moˇ? — mˇ siidˋ."}
+      hl: {hanzi: "你識煮過客家小炒無？——毋識。", pinyin: "ngi shid zhuˊ goˇ hag gaˋ shauˊ cauˊ mo? — m shid."}
+    - en: "This coat is thicker than that one."
+      sx: {hanzi: "這領襖婆比該領較厚。", pinyin: "iaˋ liangˊ oˋ poˇ biˋ ge liangˊ ka heu."}
+      hl: {hanzi: "這領襖婆比該領較厚。", pinyin: "liaˊ liangˋ oˊ po biˊ gai liangˋ haˇ heu+."}
+    - en: "Wash the vegetables first, then fry them."
+      sx: {hanzi: "先同菜洗好，正炒。", pinyin: "xienˊ tungˇ coi seˋ hoˋ, zang cauˋ."}
+      hl: {hanzi: "先摎菜洗好，正炒。", pinyin: "senˋ lauˋ coiˇ seˊ hoˊ, zhangˇ cauˊ."}
+    - en: "On Saturday do you want to go out, or stay home and rest?"
+      sx: {hanzi: "禮拜六你愛出去尞，還係在屋下歇睏？", pinyin: "liˊ bai liugˋ nˇ oi cudˋ hi liau, hanˇ he cai vugˋ kaˊ hiedˋ kun?"}
+      hl: {hanzi: "禮拜六你愛出去尞，抑係在屋下歇睏？", pinyin: "liˋ baiˇ liug ngi oiˇ chud hiˇ liau+, rha+ heˇ cai+ vug haˋ hied kunˇ?"}
+    - en: "A-in won't be back until next Friday."
+      sx: {hanzi: "阿英禮拜五正會轉來。", pinyin: "aˊ inˊ liˊ bai ngˋ zang voi zonˋ loiˇ."}
+      hl: {hanzi: "阿英禮拜五正會轉來。", pinyin: "a+ rhinˋ liˋ baiˇ ngˊ zhangˇ voi+ zhonˊ loi."}
+  fill:
+    - en: "When I was young…"
+      sx: {hanzi: "𠊎後生个___……", pinyin: "ngaiˇ heu sangˊ ge ___ …", answer_hanzi: "時節", answer: "siiˇ jiedˋ"}
+      hl: {hanzi: "𠊎後生个___……", pinyin: "ngai heu+ sangˋ gaiˇ ___ …", answer_hanzi: "時節", answer: "shi zied"}
+    - en: "I've never sold tea."
+      sx: {hanzi: "𠊎無賣___茶。", pinyin: "ngaiˇ moˇ mai ___ caˇ.", answer_hanzi: "過", answer: "go"}
+      hl: {hanzi: "𠊎無賣___茶。", pinyin: "ngai mo mai+ ___ ca.", answer_hanzi: "過", answer: "goˇ"}
+    - en: "Your coat is the same as mine."
+      sx: {hanzi: "你个襖婆同𠊎个___。", pinyin: "nˇ ge oˋ poˇ tungˇ ngaiˇ ge ___.", answer_hanzi: "共樣", answer: "kiung iong"}
+      hl: {hanzi: "你个襖婆摎𠊎个___。", pinyin: "ngi gaiˇ oˊ po lauˋ ngai gaiˇ ___.", answer_hanzi: "共樣", answer: "kiung+ rhong+"}
+
+audio: []

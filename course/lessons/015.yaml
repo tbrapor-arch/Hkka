@@ -1,0 +1,157 @@
+id: 15
+title:
+  en: "Buying a coat"
+  sx: {hanzi: "這領比該領較靚", pinyin: "iaˋ liangˊ biˋ ge liangˊ ka jiangˊ"}
+  hl: {hanzi: "這領比該領較靚", pinyin: "liaˊ liangˋ biˊ gai liangˋ haˇ ziangˋ"}
+review: false
+setting: >-
+  Monday morning, the first cold front of the winter. Sam comes down to breakfast in a T-shirt. Mrs Liu looks at him
+  and puts down her bowl.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "Dressed like that, aren't you cold?"
+    zh: "穿這麼少，會冷嗎？"
+    source: kaga115
+    sx: {hanzi: "著恁少，會寒無？", pinyin: "zogˋ anˋ seuˋ, voi honˇ moˇ?"}
+    hl: {hanzi: "著恁少，會冷無？", pinyin: "zhog anˊ shauˊ, voi+ langˋ mo?"}
+  - n: 2
+    speaker: Sam
+    en: "I am, very… My clothes are thin."
+    sx: {hanzi: "會，當寒……𠊎个衫當薄。", pinyin: "voi, dongˊ honˇ … ngaiˇ ge samˊ dongˊ pog."}
+    hl: {hanzi: "會，當冷……𠊎个衫當薄。", pinyin: "voi+, dongˋ langˋ … ngai gaiˇ samˋ dongˋ pogˋ."}
+  - n: 3
+    speaker: 阿姆
+    en: "Come on, we're going to buy you a padded coat."
+    sx: {hanzi: "來，𠊎兜去買一領襖婆。", pinyin: "loiˇ, ngaiˇ deuˊ hi maiˊ idˋ liangˊ oˋ poˇ."}
+    hl: {hanzi: "來，𠊎兜去買一領襖婆。", pinyin: "loi, ngai deuˋ hiˇ maiˋ rhid liangˋ oˊ po."}
+  - n: 4
+    speaker: Sam
+    en: "A coat… grandma?"
+    sx: {hanzi: "襖……婆？", pinyin: "oˋ … poˇ?"}
+    hl: {hanzi: "襖……婆？", pinyin: "oˊ … po?"}
+  - n: 5
+    speaker: 阿姆
+    en: "(laughing) A 襖婆 is a thick coat, not a grandma!"
+    sx: {hanzi: "襖婆就係厚个衫，毋係阿婆！", pinyin: "oˋ poˇ qiu he heu ge samˊ, mˇ he aˊ poˇ!"}
+    hl: {hanzi: "襖婆就係厚个衫，毋係阿婆！", pinyin: "oˊ po ciu+ heˇ heu+ gaiˇ samˋ, m heˇ a+ po!"}
+  - n: 6
+    speaker: Sam
+    en: "(in a shop in town, holding up two coats) This one's nicer than that one, isn't it?"
+    sx: {hanzi: "阿姆，這領比該領較靚，係無？", pinyin: "aˊ meˊ, iaˋ liangˊ biˋ ge liangˊ ka jiangˊ, he moˇ?"}
+    hl: {hanzi: "阿姆，這領比該領較靚，係無？", pinyin: "a+ meˋ, liaˊ liangˋ biˊ gai liangˋ haˇ ziangˋ, heˇ mo?"}
+  - n: 7
+    speaker: 阿姆
+    en: "Nicer. And dearer."
+    sx: {hanzi: "較靚，乜較貴。", pinyin: "ka jiangˊ, me ka gui."}
+    hl: {hanzi: "較靚，乜較貴。", pinyin: "haˇ ziangˋ, meˇ haˇ guiˇ."}
+  - n: 8
+    speaker: 頭家娘
+    en: "Not dear at all! They're the same: twelve hundred."
+    sx: {hanzi: "毋貴，毋貴！兩領共樣，一千二。", pinyin: "mˇ gui, mˇ gui! liongˋ liangˊ kiung iong, idˋ qienˊ ngi."}
+    hl: {hanzi: "毋貴，毋貴！兩領共樣，一千二。", pinyin: "m guiˇ, m guiˇ! liongˊ liangˋ kiung+ rhong+, rhid cienˋ ngi+."}
+  - n: 9
+    speaker: Sam
+    en: "(trying it on) How's that?"
+    sx: {hanzi: "仰般？", pinyin: "ngiongˋ banˊ?"}
+    hl: {hanzi: "仰般？", pinyin: "ngiongˊ banˋ?"}
+  - n: 10
+    speaker: 阿姆
+    en: "Very nice… exactly like A-min's!"
+    sx: {hanzi: "當靚……同阿明个共樣！", pinyin: "dongˊ jiangˊ … tungˇ aˊ minˇ ge kiung iong!"}
+    hl: {hanzi: "當靚……摎阿明个共樣！", pinyin: "dongˋ ziangˋ … lauˋ a+ min gaiˇ kiung+ rhong+!"}
+  - n: 11
+    speaker: Sam
+    en: "…I'll take the other one."
+    sx: {hanzi: "……𠊎買該領。", pinyin: "… ngaiˇ maiˊ ge liangˊ."}
+    hl: {hanzi: "……𠊎買該領。", pinyin: "… ngai maiˋ gai liangˋ."}
+
+notes:
+  - ref: 1
+    topic: false-friend
+    text: >
+      著 zogˋ is "wear, put on" (穿): 著恁少 "wearing so little". It is the 著 of lesson 10 (cog "right") written the
+      same and said differently. 寒 honˇ "cold" is what a person feels (Mandarin 冷); 冷 langˊ is used for cold things
+      and weather too. This line is an official example sentence, word for word; it is what every Hakka mother says
+      in December.
+  - ref: 2
+    topic: grammar
+    text: >
+      Answer a 會…無？ question with 會 "yes, I am" or 毋會 "no". 薄 pog "thin" (of cloth, paper), with its opposite
+      厚 heu "thick", line 5.
+  - ref: 3
+    topic: grammar
+    text: >
+      領 liangˊ is the classifier for clothes (Mandarin 件): 一領衫, 一領襖婆. And for blankets and mats. 襖婆 oˋ poˇ
+      "padded coat, winter coat".
+  - ref: 5
+    topic: vocab
+    text: >
+      Hakka words often end in 公, 婆, 牯, 嫲 that have lost any sense of man or woman: 襖婆 is a coat, 蝦公 a shrimp,
+      刀嫲 a knife. Sam will meet more and will stop asking.
+  - ref: 6
+    topic: grammar
+    text: >
+      Comparing: X 比 Y 較 + adjective. 這領比該領較靚 "this one is nicer than that one". Mandarin can say 比較漂亮 or
+      just 漂亮 after 比; Hakka nearly always puts 較 ka in. Without 比, 較 alone is "more": 較靚 "nicer", 較貴 "dearer".
+      係無？ at the end asks for agreement: "isn't it?". 靚 jiangˊ "pretty, nice-looking", the everyday Hakka word, as
+      in Cantonese.
+  - ref: 8
+    topic: grammar
+    text: >
+      共樣 kiung iong "the same" (一樣), and its opposite 無共樣. "The same as X" is 同 X 共樣 (line 10). 一千二 "twelve
+      hundred": as in Mandarin, the last unit can be dropped. 頭家娘 teuˇ gaˊ ngiongˇ is the woman who runs the shop.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu says 冷 where Sixian says 寒: 會冷無？ The comparison is the same (比…較…), with 較 haˇ. 摎 again for 同.
+
+new_words:
+  - {hanzi: 著, pinyin: "zogˋ", en: "wear, put on", hl: {hanzi: 著, pinyin: "zhog"}}
+  - {hanzi: 少, pinyin: "seuˋ", en: "few, little", hl: {hanzi: 少, pinyin: "shauˊ"}}
+  - {hanzi: 寒, pinyin: "honˇ", en: "cold (feel cold)", hl: {hanzi: 冷, pinyin: "langˋ"}}
+  - {hanzi: 薄, pinyin: "pog", en: "thin", hl: {hanzi: 薄, pinyin: "pogˋ"}}
+  - {hanzi: 領, pinyin: "liangˊ", en: "(classifier for clothes)", hl: {hanzi: 領, pinyin: "liangˋ"}}
+  - {hanzi: 襖婆, pinyin: "oˋ poˇ", en: "padded coat, winter coat", hl: {hanzi: 襖婆, pinyin: "oˊ po"}}
+  - {hanzi: 厚, pinyin: "heu", en: "thick", hl: {hanzi: 厚, pinyin: "heu+"}}
+  - {hanzi: 比, pinyin: "biˋ", en: "than (in comparisons)", hl: {hanzi: 比, pinyin: "biˊ"}}
+  - {hanzi: 較, pinyin: "ka", en: "more (comparative)", hl: {hanzi: 較, pinyin: "haˇ"}}
+  - {hanzi: 靚, pinyin: "jiangˊ", en: "pretty, nice-looking", hl: {hanzi: 靚, pinyin: "ziangˋ"}}
+  - {hanzi: 貴, pinyin: "gui", en: "expensive", hl: {hanzi: 貴, pinyin: "guiˇ"}}
+  - {hanzi: 共樣, pinyin: "kiung iong", en: "the same", hl: {hanzi: 共樣, pinyin: "kiung+ rhong+"}}
+  - {hanzi: 千, pinyin: "qienˊ", en: "thousand", hl: {hanzi: 千, pinyin: "cienˋ"}}
+  - {hanzi: 便宜, pinyin: "pienˇ ngiˇ", en: "cheap", hl: {hanzi: 便宜, pinyin: "pien ngi"}}
+  - {hanzi: 多, pinyin: "doˊ", en: "many, much", hl: {hanzi: 多, pinyin: "doˋ"}}
+  - {hanzi: 人, pinyin: "nginˇ", en: "person, people", hl: {hanzi: 人, pinyin: "ngin"}}
+
+exercises:
+  translate:
+    - en: "Mandarins are cheaper than chillies."
+      sx: {hanzi: "柑仔比番椒較便宜。", pinyin: "gamˊ eˋ biˋ fanˊ zeuˊ ka pienˇ ngiˇ."}
+      hl: {hanzi: "柑仔比番椒較便宜。", pinyin: "gamˋ er biˊ fanˋ ziauˋ haˇ pien ngi."}
+    - en: "Today is colder than yesterday."
+      sx: {hanzi: "今晡日比昨晡日較寒。", pinyin: "gimˊ buˊ ngidˋ biˋ coˊ buˊ ngidˋ ka honˇ."}
+      hl: {hanzi: "今晡日比昨晡日較冷。", pinyin: "gimˋ buˋ ngid biˊ coˋ buˋ ngid haˇ langˋ."}
+    - en: "These two coats aren't the same."
+      sx: {hanzi: "這兩領襖婆無共樣。", pinyin: "iaˋ liongˋ liangˊ oˋ poˇ moˇ kiung iong."}
+      hl: {hanzi: "這兩領襖婆無共樣。", pinyin: "liaˊ liongˊ liangˋ oˊ po mo kiung+ rhong+."}
+    - en: "A lot of people buy this one."
+      sx: {hanzi: "這領當多人買。", pinyin: "iaˋ liangˊ dongˊ doˊ nginˇ maiˊ."}
+      hl: {hanzi: "這領當多人買。", pinyin: "liaˊ liangˋ dongˋ doˋ ngin maiˋ."}
+    - en: "Grandma is wearing a thick coat."
+      sx: {hanzi: "阿婆著一領厚个襖婆。", pinyin: "aˊ poˇ zogˋ idˋ liangˊ heu ge oˋ poˇ."}
+      hl: {hanzi: "阿婆著一領厚个襖婆。", pinyin: "a+ po zhog rhid liangˋ heu+ gaiˇ oˊ po."}
+  fill:
+    - en: "This one is nicer than that one."
+      sx: {hanzi: "這領___該領較靚。", pinyin: "iaˋ liangˊ ___ ge liangˊ ka jiangˊ.", answer_hanzi: "比", answer: "biˋ"}
+      hl: {hanzi: "這領___該領較靚。", pinyin: "liaˊ liangˋ ___ gai liangˋ haˇ ziangˋ.", answer_hanzi: "比", answer: "biˊ"}
+    - en: "Wearing so little!"
+      sx: {hanzi: "___恁少！", pinyin: "___ anˋ seuˋ!", answer_hanzi: "著", answer: "zogˋ"}
+      hl: {hanzi: "___恁少！", pinyin: "___ anˊ shauˊ!", answer_hanzi: "著", answer: "zhog"}
+    - en: "Your coat is the same as mine."
+      sx: {hanzi: "若襖婆同𠊎个___。", pinyin: "ngiaˊ oˋ poˇ tungˇ ngaiˇ ge ___.", answer_hanzi: "共樣", answer: "kiung iong"}
+      hl: {hanzi: "若个襖婆摎𠊎个___。", pinyin: "ngia gaiˇ oˊ po lauˋ ngai gaiˇ ___.", answer_hanzi: "共樣", answer: "kiung+ rhong+"}
+
+audio: []

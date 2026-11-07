@@ -1,0 +1,155 @@
+id: 17
+title:
+  en: "Lost in Miaoli"
+  sx: {hanzi: "你行先", pinyin: "nˇ hangˇ xienˊ"}
+  hl: {hanzi: "你行先", pinyin: "ngi hang senˋ"}
+review: false
+setting: >-
+  Wednesday afternoon in 苗栗 town. Mrs Liu has sent Sam for soy sauce from "the shop opposite the station". He has
+  been walking for twenty minutes and the station has not appeared. A schoolgirl in uniform is waiting at the lights.
+names: [阿明, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Excuse me, I don't know the way. How do I get to the station?"
+    sx: {hanzi: "細妹仔，𠊎毋知路。火車頭仰般去？", pinyin: "se moi eˋ, ngaiˇ mˇ diˊ lu. foˋ caˊ teuˇ ngiongˋ banˊ hi?"}
+    hl: {hanzi: "細妹仔，𠊎毋知路。火車頭仰般去？", pinyin: "seˇ moiˇ er, ngai m diˋ lu+. foˊ chaˋ teu ngiongˊ banˋ hiˇ?"}
+  - n: 2
+    speaker: 細妹仔
+    en: "The station? I'm going there too. I'll take you."
+    sx: {hanzi: "火車頭？𠊎乜愛去，𠊎帶你去。", pinyin: "foˋ caˊ teuˇ? ngaiˇ me oi hi, ngaiˇ dai nˇ hi."}
+    hl: {hanzi: "火車頭？𠊎乜愛去，𠊎帶你去。", pinyin: "foˊ chaˋ teu? ngai meˇ oiˇ hiˇ, ngai daiˇ ngi hiˇ."}
+  - n: 3
+    speaker: 細妹仔
+    en: "(looking at him) You're Sam, aren't you? A-min says you speak Hakka."
+    sx: {hanzi: "你係 Sam，係無？阿明講你會講客話。", pinyin: "nˇ he Sam, he moˇ? aˊ minˇ gongˋ nˇ voi gongˋ hagˋ fa."}
+    hl: {hanzi: "你係 Sam，係無？阿明講你會講客話。", pinyin: "ngi heˇ Sam, heˇ mo? a+ min gongˊ ngi voi+ gongˊ hag voiˋ."}
+  - n: 4
+    speaker: Sam
+    en: "Do you know A-min?"
+    sx: {hanzi: "你識阿明？", pinyin: "nˇ siidˋ aˊ minˇ?"}
+    hl: {hanzi: "你識阿明？", pinyin: "ngi shid a+ min?"}
+  - n: 5
+    speaker: 細妹仔
+    en: "We're classmates."
+    sx: {hanzi: "𠊎兜係同學。", pinyin: "ngaiˇ deuˊ he tungˇ hog."}
+    hl: {hanzi: "𠊎兜係同學。", pinyin: "ngai deuˋ heˇ tung hogˋ."}
+  - n: 6
+    speaker: 細妹仔
+    en: "(at a narrow gap between parked scooters) After you."
+    sx: {hanzi: "你行先。", pinyin: "nˇ hangˇ xienˊ."}
+    hl: {hanzi: "你行先。", pinyin: "ngi hang senˋ."}
+    check: true
+  - n: 7
+    speaker: Sam
+    en: "No, no, after you."
+    sx: {hanzi: "毋使，毋使，你行先。", pinyin: "mˇ siiˋ, mˇ siiˋ, nˇ hangˇ xienˊ."}
+    hl: {hanzi: "毋使，毋使，你行先。", pinyin: "m siiˊ, m siiˊ, ngi hang senˋ."}
+    check: true
+  - n: 8
+    speaker: 細妹仔
+    en: "(two minutes later) Here's the station. The shop's just opposite."
+    sx: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˋ caˊ teuˇ do leˊ. diam qiu cai dui mien."}
+    hl: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˊ chaˋ teu doˇ leˋ. diamˇ ciu+ cai+ duiˇ mienˇ."}
+  - n: 9
+    speaker: Sam
+    en: "Thank you! …I walked past it three times."
+    sx: {hanzi: "恁仔細！……𠊎行過三擺。", pinyin: "anˋ ziiˋ se! … ngaiˇ hangˇ go samˊ baiˋ."}
+    hl: {hanzi: "承蒙！……𠊎行過三擺。", pinyin: "shin mung! … ngai hang goˇ samˋ baiˊ."}
+  - n: 10
+    speaker: 細妹仔
+    en: "(laughing) I'll tell A-min!"
+    sx: {hanzi: "𠊎愛同阿明講！", pinyin: "ngaiˇ oi tungˇ aˊ minˇ gongˋ!"}
+    hl: {hanzi: "𠊎愛摎阿明講！", pinyin: "ngai oiˇ lauˋ a+ min gongˊ!"}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      細妹仔 se moi eˋ "girl, young woman", and a friendly way to address one. 細 se is "small" (Mandarin 小) in
+      everyday Hakka: 細人仔 "child", 細倈仔 "boy". 火車頭 foˋ caˊ teuˇ "railway station", literally "train head".
+      火車頭仰般去？ "how do you get to the station?": the place first, then 仰般去 "how go".
+  - ref: 2
+    topic: vocab
+    text: >
+      帶 dai "take (someone somewhere), bring": 𠊎帶你去 "I'll take you". 路 lu "road, way": 毋知路 "don't know the way".
+  - ref: 4
+    topic: false-friend
+    text: >
+      識 siidˋ "know (a person), recognise" (認識): 你識阿明？ "do you know A-min?"; 毋識 "don't know (him)". In Mandarin
+      識 is mostly bookish; here it is everyday, and it will soon also mean "have ever (done)". 同學 tungˇ hog
+      "classmate", as in Mandarin.
+  - ref: 6
+    topic: grammar
+    text: >
+      你行先 "you go first": Hakka can put 先 xienˊ after the verb, where Mandarin says 你先走. It is the polite
+      "after you" at a door or on a narrow path, and it starts a small politeness duel (line 7) that someone has to
+      lose. The order 你先行 is also heard. More words that like to come after the verb in Hakka are in lesson 38.
+  - ref: 6
+    topic: grammar
+    text: >
+      These two lines are marked for checking by a native speaker: the pattern is described in the MOE articles on
+      Hakka word order, but none of the official example sentences has 行先 itself.
+  - ref: 8
+    topic: vocab
+    text: >
+      火車頭到了 "here's the station", literally "the station has arrived": 到 do "arrive". 店 diam "shop"; 對面 dui mien
+      "opposite, across the street", as in Mandarin.
+  - ref: 9
+    topic: grammar
+    text: >
+      行過三擺 "walked past three times": 過 here is "go past", and 擺 baiˋ "time, occasion" (the 擺 of 逐擺): 三擺
+      "three times". 一擺, 兩擺: 擺 is Hakka's 次.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 先 senˋ, 識 shid, 對面 duiˇ mienˇ. 你行先 is also Hailu.
+
+new_words:
+  - {hanzi: 細妹仔, pinyin: "se moi eˋ", en: "girl, young woman", hl: {hanzi: 細妹仔, pinyin: "seˇ moiˇ er"}}
+  - {hanzi: 路, pinyin: "lu", en: "road, way", hl: {hanzi: 路, pinyin: "lu+"}}
+  - {hanzi: 火車頭, pinyin: "foˋ caˊ teuˇ", en: "railway station", hl: {hanzi: 火車頭, pinyin: "foˊ chaˋ teu"}}
+  - {hanzi: 帶, pinyin: "dai", en: "take, bring (someone)", hl: {hanzi: 帶, pinyin: "daiˇ"}}
+  - {hanzi: 識, pinyin: "siidˋ", en: "know (a person)", hl: {hanzi: 識, pinyin: "shid"}}
+  - {hanzi: 同學, pinyin: "tungˇ hog", en: "classmate", hl: {hanzi: 同學, pinyin: "tung hogˋ"}}
+  - {hanzi: 先, pinyin: "xienˊ", en: "first", hl: {hanzi: 先, pinyin: "senˋ"}}
+  - {hanzi: 店, pinyin: "diam", en: "shop", hl: {hanzi: 店, pinyin: "diamˇ"}}
+  - {hanzi: 對面, pinyin: "dui mien", en: "opposite, across the street", hl: {hanzi: 對面, pinyin: "duiˇ mienˇ"}}
+  - {hanzi: 擺, pinyin: "baiˋ", en: "time, occasion (次)", hl: {hanzi: 擺, pinyin: "baiˊ"}}
+  - {hanzi: 豆油, pinyin: "teu iuˇ", en: "soy sauce", hl: {hanzi: 豆油, pinyin: "teu+ rhiu"}}
+  - {hanzi: 細, pinyin: "se", en: "small", hl: {hanzi: 細, pinyin: "seˇ"}}
+  - {hanzi: 後背, pinyin: "heu boi", en: "behind, at the back", hl: {hanzi: 後背, pinyin: "heu+ boiˇ"}}
+  - {hanzi: 隔壁, pinyin: "gagˋ biagˋ", en: "next door", hl: {hanzi: 隔壁, pinyin: "gag biag"}}
+  - {hanzi: 出, pinyin: "cudˋ", en: "go out, come out", hl: {hanzi: 出, pinyin: "chud"}}
+  - {hanzi: 落去, pinyin: "log hi", en: "go in, go down", hl: {hanzi: 落去, pinyin: "logˋ hiˇ"}}
+
+exercises:
+  translate:
+    - en: "How do I get to the school?"
+      sx: {hanzi: "學校仰般去？", pinyin: "hog gauˋ ngiongˋ banˊ hi?"}
+      hl: {hanzi: "學校仰般去？", pinyin: "hogˋ gauˊ ngiongˊ banˋ hiˇ?"}
+    - en: "The soy sauce shop is next door to the station."
+      sx: {hanzi: "豆油店在火車頭隔壁。", pinyin: "teu iuˇ diam cai foˋ caˊ teuˇ gagˋ biagˋ."}
+      hl: {hanzi: "豆油店在火車頭隔壁。", pinyin: "teu+ rhiu diamˇ cai+ foˊ chaˋ teu gag biag."}
+    - en: "Do you know her? — No, I don't."
+      sx: {hanzi: "你識佢無？——毋識。", pinyin: "nˇ siidˋ giˇ moˇ? — mˇ siidˋ."}
+      hl: {hanzi: "你識佢無？——毋識。", pinyin: "ngi shid gi mo? — m shid."}
+    - en: "The small shop is behind the school."
+      sx: {hanzi: "細个店在學校後背。", pinyin: "se ge diam cai hog gauˋ heu boi."}
+      hl: {hanzi: "細个店在學校後背。", pinyin: "seˇ gaiˇ diamˇ cai+ hogˋ gauˊ heu+ boiˇ."}
+    - en: "Grandpa has gone out; Grandma has gone into the garden."
+      sx: {hanzi: "阿公出去了，阿婆落去菜園了。", pinyin: "aˊ gungˊ cudˋ hi leˊ, aˊ poˇ log hi coi ienˇ leˊ."}
+      hl: {hanzi: "阿公出去了，阿婆落去菜園了。", pinyin: "a+ gungˋ chud hiˇ leˋ, a+ po logˋ hiˇ coiˇ rhan leˋ."}
+  fill:
+    - en: "After you."
+      sx: {hanzi: "你行___。", pinyin: "nˇ hangˇ ___.", answer_hanzi: "先", answer: "xienˊ"}
+      hl: {hanzi: "你行___。", pinyin: "ngi hang ___.", answer_hanzi: "先", answer: "senˋ"}
+    - en: "I'll take you there."
+      sx: {hanzi: "𠊎___你去。", pinyin: "ngaiˇ ___ nˇ hi.", answer_hanzi: "帶", answer: "dai"}
+      hl: {hanzi: "𠊎___你去。", pinyin: "ngai ___ ngi hiˇ.", answer_hanzi: "帶", answer: "daiˇ"}
+    - en: "The shop is across the street."
+      sx: {hanzi: "店在___。", pinyin: "diam cai ___.", answer_hanzi: "對面", answer: "dui mien"}
+      hl: {hanzi: "店在___。", pinyin: "diamˇ cai+ ___.", answer_hanzi: "對面", answer: "duiˇ mienˇ"}
+
+audio: []

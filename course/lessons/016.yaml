@@ -1,0 +1,170 @@
+id: 16
+title:
+  en: "A busy day at the tea shop"
+  sx: {hanzi: "你有閒無？", pinyin: "nˇ iuˊ hanˇ moˇ?"}
+  hl: {hanzi: "你有閒無？", pinyin: "ngi rhiuˋ han mo?"}
+review: false
+setting: >-
+  Tuesday morning. Mr Liu, whom Sam has mostly seen leaving at seven and coming back at eight, has a small shop in
+  town that sells the family's tea. Today his assistant is away until the afternoon.
+names: [阿華, 阿英, 阿明, 劉, 臺北]
+
+dialogue:
+  - n: 1
+    speaker: 阿爸
+    en: "Sam, are you free today?"
+    sx: {hanzi: "Sam，你今晡日有閒無？", pinyin: "Sam, nˇ gimˊ buˊ ngidˋ iuˊ hanˇ moˇ?"}
+    hl: {hanzi: "Sam，你今晡日有閒無？", pinyin: "Sam, ngi gimˋ buˋ ngid rhiuˋ han mo?"}
+  - n: 2
+    speaker: Sam
+    en: "Yes. Why?"
+    sx: {hanzi: "有閒。做麼个？", pinyin: "iuˊ hanˇ. zo maˋ ge?"}
+    hl: {hanzi: "有閒。做麼个？", pinyin: "rhiuˋ han. zoˇ maˊ gaiˇ?"}
+  - n: 3
+    speaker: 阿爸
+    en: "Business is good today, and A-hua won't be in until three. Can you come and help?"
+    sx: {hanzi: "今晡日生理當好，阿華下晝三點正會來。你來𢯭手好無？", pinyin: "gimˊ buˊ ngidˋ senˊ liˊ dongˊ hoˋ, aˊ faˇ haˊ zu samˊ diamˋ zang voi loiˇ. nˇ loiˇ ten suˋ hoˋ moˇ?"}
+    hl: {hanzi: "今晡日生理當好，阿華下晝三點正會來。你來𢯭手好無？", pinyin: "gimˋ buˋ ngid senˋ liˋ dongˋ hoˊ, a+ fa haˋ zhiuˇ samˋ diamˊ zhangˇ voi+ loi. ngi loi tenˇ shiuˊ hoˊ mo?"}
+  - n: 4
+    speaker: Sam
+    en: "Sure! …But I've never sold tea."
+    sx: {hanzi: "好！……𠊎無賣過茶。", pinyin: "hoˋ! … ngaiˇ moˇ mai go caˇ."}
+    hl: {hanzi: "好！……𠊎無賣過茶。", pinyin: "hoˊ! … ngai mo mai+ goˇ ca."}
+  - n: 5
+    speaker: 阿爸
+    en: "Don't worry. You make the tea, I'll do the selling."
+    sx: {hanzi: "毋使驚。你泡茶，𠊎就賣。", pinyin: "mˇ siiˋ giangˊ. nˇ pau caˇ, ngaiˇ qiu mai."}
+    hl: {hanzi: "毋使驚。你泡茶，𠊎就賣。", pinyin: "m siiˊ giangˋ. ngi pauˇ ca, ngai ciu+ mai+."}
+  - n: 6
+    speaker: Sam
+    en: "(at the shop, to the first customer) Please, have a cup of tea!"
+    sx: {hanzi: "請食一杯茶！", pinyin: "qiangˋ siid idˋ biˊ caˇ!"}
+    hl: {hanzi: "請食一杯茶！", pinyin: "ciangˊ shidˋ rhid buiˋ ca!"}
+  - n: 7
+    speaker: 人客
+    en: "This tea smells wonderful! Did you make it?"
+    sx: {hanzi: "這茶當香！係你泡个？", pinyin: "iaˋ caˇ dongˊ hiongˊ! he nˇ pau ge?"}
+    hl: {hanzi: "這茶當香！係你泡个？", pinyin: "liaˊ ca dongˋ hiongˋ! heˇ ngi pauˇ gaiˇ?"}
+  - n: 8
+    speaker: Sam
+    en: "Yes, I did."
+    sx: {hanzi: "係，係𠊎泡个。", pinyin: "he, he ngaiˇ pau ge."}
+    hl: {hanzi: "係，係𠊎泡个。", pinyin: "heˇ, heˇ ngai pauˇ gaiˇ."}
+  - n: 9
+    speaker: 人客
+    en: "Are you Mr Liu's… son-in-law?"
+    sx: {hanzi: "你係劉先生个……婿郎？", pinyin: "nˇ he liuˇ xinˊ sangˊ ge … se longˇ?"}
+    hl: {hanzi: "你係劉先生个……婿郎？", pinyin: "ngi heˇ liu sinˋ sangˋ gaiˇ … seˇ long?"}
+  - n: 10
+    speaker: 阿爸
+    en: "No, no!"
+    sx: {hanzi: "毋係，毋係！", pinyin: "mˇ he, mˇ he!"}
+    hl: {hanzi: "毋係，毋係！", pinyin: "m heˇ, m heˇ!"}
+  - n: 11
+    speaker: Sam
+    en: "I'm A-in's friend."
+    sx: {hanzi: "𠊎係阿英个朋友。", pinyin: "ngaiˇ he aˊ inˊ ge penˇ iuˊ."}
+    hl: {hanzi: "𠊎係阿英个朋友。", pinyin: "ngai heˇ a+ rhinˋ gaiˇ pen rhiuˋ."}
+  - n: 12
+    speaker: 人客
+    en: "(smiling) A friend… I see. Two catties, please."
+    sx: {hanzi: "朋友……好。兩斤，恁仔細。", pinyin: "penˇ iuˊ … hoˋ. liongˋ ginˊ, anˋ ziiˋ se."}
+    hl: {hanzi: "朋友……好。兩斤，承蒙。", pinyin: "pen rhiuˋ … hoˊ. liongˊ ginˋ, shin mung."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      有閒 iuˊ hanˇ "free, have time" and 無閒 moˇ hanˇ "busy" (Mandarin 有空 / 忙). 閒 is "leisure": you have some or
+      you don't. 無閒 is the everyday "busy"; 忙 is rarely heard.
+  - ref: 3
+    topic: false-friend
+    text: >
+      生理 senˊ liˊ is "business, trade" (生意), not physiology. 生理當好 "business is good". 𢯭手 ten suˋ "help, lend a
+      hand" (幫忙), with a character made for Hakka. 下晝 haˊ zu "afternoon"; 上晝 song zu "morning", 當晝 dongˊ zu
+      "midday".
+  - ref: 3
+    topic: grammar
+    text: >
+      正 zang after a time means "not until, only then" (Mandarin 才): 三點正會來 "won't come until three". The time
+      comes first, then 正, then the verb, the same order as 三點才來. One of the most useful little words in Hakka; it
+      also means "just (now)" and "then", later.
+  - ref: 4
+    topic: grammar
+    text: >
+      Verb + 過 go is "have done (before)", as in Mandarin: 賣過 "have sold". The negative uses 無, never 毋: 𠊎無賣過茶
+      "I've never sold tea". 好！ "OK, sure!" (好 hoˋ). 你來𢯭手好無？ "will you come and help?": …好無？ "OK?" makes a
+      request.
+  - ref: 6
+    topic: vocab
+    text: >
+      請 qiangˋ "please; invite": 請食茶 "please have some tea", what you say as you hand a cup to a guest. 杯 biˊ
+      "cup" (Mandarin bēi; Hailu buiˋ).
+  - ref: 7
+    topic: grammar
+    text: >
+      係…个 picks out who or how, like Mandarin 是…的: 係你泡个？ "was it you who made it?", 係𠊎泡个 "it was me".
+      香 hiongˊ "fragrant, smell good".
+  - ref: 7
+    topic: false-friend
+    text: >
+      人客 nginˇ hagˋ is a guest or a customer (Mandarin 客人, the other way round). Don't turn it round in Hakka: 客人
+      hagˋ nginˇ means "Hakka people". 阿婆係客人 "Grandma is Hakka".
+  - ref: 9
+    topic: culture
+    text: >
+      婿郎 se longˇ "son-in-law". 劉先生 "Mr Liu": 先生 after a surname is "Mr". The customer is asking what everyone in
+      the street has been wondering; by tomorrow, the answer will not matter.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 正 zhangˇ, 𢯭手 tenˇ shiuˊ, 杯 buiˋ, 婿郎 seˇ long. 無閒 and 有閒 are the same words; 閒 han.
+
+new_words:
+  - {hanzi: 有閒, pinyin: "iuˊ hanˇ", en: "free, have time", hl: {hanzi: 有閒, pinyin: "rhiuˋ han"}}
+  - {hanzi: 無閒, pinyin: "moˇ hanˇ", en: "busy", hl: {hanzi: 無閒, pinyin: "mo han"}}
+  - {hanzi: 生理, pinyin: "senˊ liˊ", en: "business, trade", hl: {hanzi: 生理, pinyin: "senˋ liˋ"}}
+  - {hanzi: 下晝, pinyin: "haˊ zu", en: "afternoon", hl: {hanzi: 下晝, pinyin: "haˋ zhiuˇ"}}
+  - {hanzi: 正, pinyin: "zang", en: "not until, only then (才)", hl: {hanzi: 正, pinyin: "zhangˇ"}}
+  - {hanzi: 𢯭手, pinyin: "ten suˋ", en: "help, lend a hand", hl: {hanzi: 𢯭手, pinyin: "tenˇ shiuˊ"}}
+  - {hanzi: 過, pinyin: "go", en: "(after a verb) have done before", hl: {hanzi: 過, pinyin: "goˇ"}}
+  - {hanzi: 賣, pinyin: "mai", en: "sell", hl: {hanzi: 賣, pinyin: "mai+"}}
+  - {hanzi: 泡, pinyin: "pau", en: "steep, make (tea)", hl: {hanzi: 泡, pinyin: "pauˇ"}}
+  - {hanzi: 請, pinyin: "qiangˋ", en: "please; invite", hl: {hanzi: 請, pinyin: "ciangˊ"}}
+  - {hanzi: 杯, pinyin: "biˊ", en: "cup", hl: {hanzi: 杯, pinyin: "buiˋ"}}
+  - {hanzi: 香, pinyin: "hiongˊ", en: "fragrant, smell good", hl: {hanzi: 香, pinyin: "hiongˋ"}}
+  - {hanzi: 人客, pinyin: "nginˇ hagˋ", en: "guest, customer", hl: {hanzi: 人客, pinyin: "ngin hag"}}
+  - {hanzi: 婿郎, pinyin: "se longˇ", en: "son-in-law", hl: {hanzi: 婿郎, pinyin: "seˇ long"}}
+  - {hanzi: 上晝, pinyin: "song zu", en: "morning (before noon)", hl: {hanzi: 上晝, pinyin: "shong+ zhiuˇ"}}
+  - {hanzi: 當晝, pinyin: "dongˊ zu", en: "midday, noon", hl: {hanzi: 當晝, pinyin: "dongˋ zhiuˇ"}}
+  - {hanzi: 客人, pinyin: "hagˋ nginˇ", en: "Hakka people", hl: {hanzi: 客人, pinyin: "hag ngin"}}
+
+exercises:
+  translate:
+    - en: "I'm busy this morning; I'm free this afternoon."
+      sx: {hanzi: "𠊎上晝無閒，下晝有閒。", pinyin: "ngaiˇ song zu moˇ hanˇ, haˊ zu iuˊ hanˇ."}
+      hl: {hanzi: "𠊎上晝無閒，下晝有閒。", pinyin: "ngai shong+ zhiuˇ mo han, haˋ zhiuˇ rhiuˋ han."}
+    - en: "A-min won't be here until five."
+      sx: {hanzi: "阿明五點正會來。", pinyin: "aˊ minˇ ngˋ diamˋ zang voi loiˇ."}
+      hl: {hanzi: "阿明五點正會來。", pinyin: "a+ min ngˊ diamˊ zhangˇ voi+ loi."}
+    - en: "Have you ever eaten rice noodles?"
+      sx: {hanzi: "你食過粄條無？", pinyin: "nˇ siid go banˋ tiauˇ moˇ?"}
+      hl: {hanzi: "你食過粄條無？", pinyin: "ngi shidˋ goˇ banˊ tiau mo?"}
+    - en: "Grandma is Hakka; Sam isn't."
+      sx: {hanzi: "阿婆係客人，Sam 毋係。", pinyin: "aˊ poˇ he hagˋ nginˇ, Sam mˇ he."}
+      hl: {hanzi: "阿婆係客人，Sam 毋係。", pinyin: "a+ po heˇ hag ngin, Sam m heˇ."}
+    - en: "We have guests at midday."
+      sx: {hanzi: "當晝有人客來。", pinyin: "dongˊ zu iuˊ nginˇ hagˋ loiˇ."}
+      hl: {hanzi: "當晝有人客來。", pinyin: "dongˋ zhiuˇ rhiuˋ ngin hag loi."}
+  fill:
+    - en: "He won't come until three."
+      sx: {hanzi: "佢三點___會來。", pinyin: "giˇ samˊ diamˋ ___ voi loiˇ.", answer_hanzi: "正", answer: "zang"}
+      hl: {hanzi: "佢三點___會來。", pinyin: "gi samˋ diamˊ ___ voi+ loi.", answer_hanzi: "正", answer: "zhangˇ"}
+    - en: "I've never been to Taipei."
+      sx: {hanzi: "𠊎無去___臺北。", pinyin: "ngaiˇ moˇ hi ___ toiˇ bedˋ.", answer_hanzi: "過", answer: "go"}
+      hl: {hanzi: "𠊎無去___臺北。", pinyin: "ngai mo hiˇ ___ toi bed.", answer_hanzi: "過", answer: "goˇ"}
+    - en: "Can you come and help?"
+      sx: {hanzi: "你來___好無？", pinyin: "nˇ loiˇ ___ hoˋ moˇ?", answer_hanzi: "𢯭手", answer: "ten suˋ"}
+      hl: {hanzi: "你來___好無？", pinyin: "ngi loi ___ hoˊ mo?", answer_hanzi: "𢯭手", answer: "tenˇ shiuˊ"}
+
+audio: []
