@@ -1,0 +1,159 @@
+id: 8
+title:
+  en: "Grandma's garden"
+  sx: {hanzi: "當辣！", pinyin: "dongˊ lad!"}
+  hl: {hanzi: "當辣！", pinyin: "dongˋ ladˋ!"}
+review: false
+setting: >-
+  Tuesday, four in the afternoon. Behind the house, between the tea bushes and the road, Grandma keeps a vegetable
+  garden. She has a basket; Sam has nothing to do, so now he has a basket too.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, come and see my garden!"
+    sx: {hanzi: "Sam，來看吾菜園！", pinyin: "Sam, loiˇ kon ngaˊ coi ienˇ!"}
+    hl: {hanzi: "Sam，來看𠊎个菜園！", pinyin: "Sam, loi konˇ ngai gaiˇ coiˇ rhan!"}
+  - n: 2
+    speaker: Sam
+    en: "It's so big! Grandma, what are all these vegetables?"
+    sx: {hanzi: "恁大！阿婆，這兜係麼个菜？", pinyin: "anˋ tai! aˊ poˇ, iaˋ deuˊ he maˋ ge coi?"}
+    hl: {hanzi: "恁大！阿婆，這兜係麼个菜？", pinyin: "anˊ tai+! a+ po, liaˊ deuˋ heˇ maˊ gaiˇ coiˇ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "This is mustard greens, and that's sweet potato. Look at this one, it's the biggest!"
+    sx: {hanzi: "這係芥菜，該係番薯。你看，這條盡大！", pinyin: "iaˋ he gie coi, ge he fanˊ suˇ. nˇ kon, iaˋ tiauˇ qin tai!"}
+    hl: {hanzi: "這係芥菜，該係番薯。你看，這條最大！", pinyin: "liaˊ heˇ gaiˇ coiˇ, gai heˇ fanˋ shu. ngi konˇ, liaˊ tiau zuiˇ tai+!"}
+  - n: 4
+    speaker: Sam
+    en: "The mustard greens are very… green."
+    zh: "芥菜很……綠。"
+    sx: {hanzi: "芥菜當……綠。", pinyin: "gie coi dongˊ … liug."}
+    hl: {hanzi: "芥菜當……綠。", pinyin: "gaiˇ coiˇ dongˋ … liugˋ."}
+  - n: 5
+    speaker: 阿婆
+    en: "Green? In Hakka we say 青!"
+    sx: {hanzi: "綠？客話講「青」！", pinyin: "liug? hagˋ fa gongˋ \"qiangˊ\"!"}
+    hl: {hanzi: "綠？客話講「青」！", pinyin: "liugˋ? hag voiˋ gongˊ \"ciangˋ\"!"}
+  - n: 6
+    speaker: Sam
+    en: "Green… And those red ones, what are they?"
+    sx: {hanzi: "青……該兜紅个係麼个？", pinyin: "qiangˊ … ge deuˊ fungˇ ge he maˋ ge?"}
+    hl: {hanzi: "青……該兜紅个係麼个？", pinyin: "ciangˋ … gai deuˋ fung gaiˇ heˇ maˊ gaiˇ?"}
+  - n: 7
+    speaker: 阿婆
+    en: "Chillies. Very hot!"
+    sx: {hanzi: "番椒。當辣！", pinyin: "fanˊ zeuˊ. dongˊ lad!"}
+    hl: {hanzi: "番椒。當辣！", pinyin: "fanˋ ziauˋ. dongˋ ladˋ!"}
+  - n: 8
+    speaker: Sam
+    en: "(bites one anyway) …Hot! Really, really hot!"
+    sx: {hanzi: "……辣！盡辣！", pinyin: "… lad! qin lad!"}
+    hl: {hanzi: "……辣！最辣！", pinyin: "… ladˋ! zuiˇ ladˋ!"}
+  - n: 9
+    speaker: 阿婆
+    en: "(not very sorry) Sweet, is it?"
+    sx: {hanzi: "甜無？", pinyin: "tiamˇ moˇ?"}
+    hl: {hanzi: "甜無？", pinyin: "tiam mo?"}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      看 kon "look, see": Mandarin kàn, high and level in Hakka. 菜園 coi ienˇ "vegetable garden". 吾菜園 "my garden":
+      吾 also goes straight before ordinary nouns (吾菜園, 吾屋下), though with things 吾个菜園 is just as good.
+  - ref: 2
+    topic: grammar
+    text: >
+      恁 anˋ "so, this (much)": 恁大！ "so big!". It goes before an adjective, like Mandarin 這麼 / 那麼. 這兜 iaˋ deuˊ
+      "these" and 該兜 ge deuˊ "those" (line 6): 兜 makes a plural of 這 and 該, like 些 in 這些 / 那些.
+  - ref: 3
+    topic: false-friend
+    text: >
+      盡 qin is "the most" in Sixian: 這條盡大 "this one is the biggest". In Mandarin 盡 is "to the limit" and the
+      superlative is 最; in Sixian it is 盡 (and 最 is creeping in from Mandarin). 芥菜 gie coi "mustard greens", the
+      Hakka vegetable: salted and dried, it becomes 鹹菜 and 福菜, which you will eat all year. 番薯 fanˊ suˇ
+      "sweet potato".
+  - ref: 4
+    topic: false-friend
+    text: >
+      當 dongˊ is the everyday "very", Mandarin 很: 當大 "very big", 當辣 "very hot". It has nothing to do with Mandarin
+      當 "act as" or 應當. Rising tone, and in speech it often takes over a whole sentence: 當好！ "great!". Grandma
+      uses it in every second sentence; so will you.
+  - ref: 5
+    topic: false-friend
+    text: >
+      青 qiangˊ is the colour of plants (and of the sky and the sea: green and blue are one colour here). Mandarin has
+      綠 for leaves; Hakka understands 綠 liug, but for a vegetable it says 青. The other colours are as in Mandarin:
+      紅 fungˇ red, 白 pag white, 黃 vongˇ yellow, except black, 烏 vuˊ (Mandarin 黑).
+  - ref: 6
+    topic: grammar
+    text: >
+      紅个 "red ones": 个 after an adjective makes it a noun, like Mandarin 紅的. 該兜紅个 "those red ones".
+  - ref: 7
+    topic: vocab
+    text: >
+      番椒 fanˊ zeuˊ "chilli pepper" (辣椒). 番 marks things that came from overseas, as in 番薯: chillies and sweet
+      potatoes both arrived from the Americas. 辣 lad "hot (spicy)". Sandhi: 番 fanˊ before 椒 zeuˊ is said fanˇ, but
+      before 薯 suˇ it stays fanˊ.
+  - ref: 9
+    topic: culture
+    text: >
+      Grandma's 甜無？ "sweet?" is a callback to lesson 4: Sam called the oolong sweet. Teasing a guest is a sign that
+      he is not a guest any more.
+  - ref: 0
+    topic: hailu
+    text: >
+      Where Sixian says 盡 for "most", Hailu says 最 zuiˇ: 這條最大. Hailu also tends to put 个 after 𠊎 before a
+      thing (𠊎个菜園). 恁 is anˊ, 當 dongˋ: the tone code again.
+
+new_words:
+  - {hanzi: 看, pinyin: "kon", en: "look, see", hl: {hanzi: 看, pinyin: "konˇ"}}
+  - {hanzi: 菜園, pinyin: "coi ienˇ", en: "vegetable garden", hl: {hanzi: 菜園, pinyin: "coiˇ rhan"}}
+  - {hanzi: 恁, pinyin: "anˋ", en: "so, this (much)", hl: {hanzi: 恁, pinyin: "anˊ"}}
+  - {hanzi: 大, pinyin: "tai", en: "big", hl: {hanzi: 大, pinyin: "tai+"}}
+  - {hanzi: 這兜, pinyin: "iaˋ deuˊ", en: "these", hl: {hanzi: 這兜, pinyin: "liaˊ deuˋ"}}
+  - {hanzi: 菜, pinyin: "coi", en: "vegetable; dish", hl: {hanzi: 菜, pinyin: "coiˇ"}}
+  - {hanzi: 芥菜, pinyin: "gie coi", en: "mustard greens", hl: {hanzi: 芥菜, pinyin: "gaiˇ coiˇ"}}
+  - {hanzi: 番薯, pinyin: "fanˊ suˇ", en: "sweet potato", hl: {hanzi: 番薯, pinyin: "fanˋ shu"}}
+  - {hanzi: 盡, pinyin: "qin", en: "the most", hl: {hanzi: 最, pinyin: "zuiˇ"}}
+  - {hanzi: 當, pinyin: "dongˊ", en: "very (很)", hl: {hanzi: 當, pinyin: "dongˋ"}}
+  - {hanzi: 綠, pinyin: "liug", en: "green (Mandarin word)", hl: {hanzi: 綠, pinyin: "liugˋ"}}
+  - {hanzi: 青, pinyin: "qiangˊ", en: "green, blue", hl: {hanzi: 青, pinyin: "ciangˋ"}}
+  - {hanzi: 該兜, pinyin: "ge deuˊ", en: "those", hl: {hanzi: 該兜, pinyin: "gai deuˋ"}}
+  - {hanzi: 紅, pinyin: "fungˇ", en: "red", hl: {hanzi: 紅, pinyin: "fung"}}
+  - {hanzi: 番椒, pinyin: "fanˊ zeuˊ", en: "chilli pepper", hl: {hanzi: 番椒, pinyin: "fanˋ ziauˋ"}}
+  - {hanzi: 辣, pinyin: "lad", en: "hot, spicy", hl: {hanzi: 辣, pinyin: "ladˋ"}}
+  - {hanzi: 烏, pinyin: "vuˊ", en: "black", hl: {hanzi: 烏, pinyin: "vuˋ"}}
+  - {hanzi: 白, pinyin: "pag", en: "white", hl: {hanzi: 白, pinyin: "pagˋ"}}
+
+exercises:
+  translate:
+    - en: "This tea is very sweet."
+      sx: {hanzi: "這茶當甜。", pinyin: "iaˋ caˇ dongˊ tiamˇ."}
+      hl: {hanzi: "這茶當甜。", pinyin: "liaˊ ca dongˋ tiam."}
+    - en: "This sweet potato is the biggest."
+      sx: {hanzi: "這條番薯盡大。", pinyin: "iaˋ tiauˇ fanˊ suˇ qin tai."}
+      hl: {hanzi: "這條番薯最大。", pinyin: "liaˊ tiau fanˋ shu zuiˇ tai+."}
+    - en: "The white ones are mine, the black ones are A-min's."
+      sx: {hanzi: "白个係𠊎个，烏个係阿明个。", pinyin: "pag ge he ngaiˇ ge, vuˊ ge he aˊ minˇ ge."}
+      hl: {hanzi: "白个係𠊎个，烏个係阿明个。", pinyin: "pagˋ gaiˇ heˇ ngai gaiˇ, vuˋ gaiˇ heˇ a+ min gaiˇ."}
+    - en: "Grandma's sweet potatoes are so big!"
+      sx: {hanzi: "阿婆个番薯恁大！", pinyin: "aˊ poˇ ge fanˊ suˇ anˋ tai!"}
+      hl: {hanzi: "阿婆个番薯恁大！", pinyin: "a+ po gaiˇ fanˋ shu anˊ tai+!"}
+    - en: "Are the chillies hot?"
+      sx: {hanzi: "番椒辣無？", pinyin: "fanˊ zeuˊ lad moˇ?"}
+      hl: {hanzi: "番椒辣無？", pinyin: "fanˋ ziauˋ ladˋ mo?"}
+  fill:
+    - en: "Mustard greens are green."
+      sx: {hanzi: "芥菜係___个。", pinyin: "gie coi he ___ ge.", answer_hanzi: "青", answer: "qiangˊ"}
+      hl: {hanzi: "芥菜係___个。", pinyin: "gaiˇ coiˇ heˇ ___ gaiˇ.", answer_hanzi: "青", answer: "ciangˋ"}
+    - en: "This one is the hottest."
+      sx: {hanzi: "這條___辣。", pinyin: "iaˋ tiauˇ ___ lad.", answer_hanzi: "盡", answer: "qin"}
+      hl: {hanzi: "這條___辣。", pinyin: "liaˊ tiau ___ ladˋ.", answer_hanzi: "最", answer: "zuiˇ"}
+    - en: "The garden is very big."
+      sx: {hanzi: "菜園___大。", pinyin: "coi ienˇ ___ tai.", answer_hanzi: "當", answer: "dongˊ"}
+      hl: {hanzi: "菜園___大。", pinyin: "coiˇ rhan ___ tai+.", answer_hanzi: "當", answer: "dongˋ"}
+
+audio: []

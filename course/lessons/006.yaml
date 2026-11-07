@@ -1,0 +1,163 @@
+id: 6
+title:
+  en: "What time is it?"
+  sx: {hanzi: "這下幾點？", pinyin: "iaˋ ha giˋ diamˋ?"}
+  hl: {hanzi: "這下幾點？", pinyin: "liaˊ ha+ giˊ diamˊ?"}
+review: false
+setting: >-
+  Sunday, late afternoon. A-in comes downstairs with her bag. Mr Liu is starting the car to take her to the station.
+names: [阿英, 阿明, 臺北]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "A-in, where are you going?"
+    sx: {hanzi: "阿英，你愛去哪位？", pinyin: "aˊ inˊ, nˇ oi hi nai vi?"}
+    hl: {hanzi: "阿英，你愛去哪位？", pinyin: "a+ rhinˋ, ngi oiˇ hiˇ nai+ vui+?"}
+  - n: 2
+    speaker: 阿英
+    en: "Back to Taipei."
+    zh: "回臺北。"
+    sx: {hanzi: "轉去臺北。", pinyin: "zonˋ hi toiˇ bedˋ."}
+    hl: {hanzi: "轉去臺北。", pinyin: "zhonˊ hiˇ toi bed."}
+  - n: 3
+    speaker: Sam
+    en: "Today? What are you going back for?"
+    zh: "今天？回去做什麼？"
+    sx: {hanzi: "今晡日？轉去做麼个？", pinyin: "gimˊ buˊ ngidˋ? zonˋ hi zo maˋ ge?"}
+    hl: {hanzi: "今晡日？轉去做麼个？", pinyin: "gimˋ buˋ ngid? zhonˊ hiˇ zoˇ maˊ gaiˇ?"}
+  - n: 4
+    speaker: 阿英
+    en: "I've got work tomorrow."
+    sx: {hanzi: "天光日愛做事。", pinyin: "tienˊ gongˊ ngidˋ oi zo se."}
+    hl: {hanzi: "韶早愛做事。", pinyin: "shau zoˊ oiˇ zoˇ she+."}
+  - n: 5
+    speaker: Sam
+    en: "What time's the train?"
+    sx: {hanzi: "幾點个火車？", pinyin: "giˋ diamˋ ge foˋ caˊ?"}
+    hl: {hanzi: "幾點个火車？", pinyin: "giˊ diamˊ gaiˇ foˊ chaˋ?"}
+  - n: 6
+    speaker: 阿英
+    en: "Six o'clock."
+    sx: {hanzi: "六點。", pinyin: "liugˋ diamˋ."}
+    hl: {hanzi: "六點。", pinyin: "liug diamˊ."}
+  - n: 7
+    speaker: 阿明
+    en: "It's half past five now!"
+    sx: {hanzi: "這下五點半了！", pinyin: "iaˋ ha ngˋ diamˋ ban leˊ!"}
+    hl: {hanzi: "這下五點半了！", pinyin: "liaˊ ha+ ngˊ diamˊ banˇ leˋ!"}
+  - n: 8
+    speaker: 阿明
+    en: "(to Sam) Yesterday my sister slept till ten!"
+    sx: {hanzi: "阿姊昨晡日睡到十點！", pinyin: "aˊ jiˋ coˊ buˊ ngidˋ soi do siib diamˋ!"}
+    hl: {hanzi: "阿姊昨晡日睡到十點！", pinyin: "a+ ze coˋ buˋ ngid shoi+ doˇ shibˋ diamˊ!"}
+  - n: 9
+    speaker: 阿英
+    en: "A-min! …Sam, from now on you'll have to speak Hakka. Grandma doesn't speak Mandarin."
+    sx: {hanzi: "阿明！……Sam，這下你愛講客話了。阿婆毋會講華語。", pinyin: "aˊ minˇ! … Sam, iaˋ ha nˇ oi gongˋ hagˋ fa leˊ. aˊ poˇ mˇ voi gongˋ faˇ ngiˊ."}
+    hl: {hanzi: "阿明！……Sam，這下你愛講客話了。阿婆毋會講華語。", pinyin: "a+ min! … Sam, liaˊ ha+ ngi oiˇ gongˊ hag voiˋ leˋ. a+ po m voi+ gongˊ fa ngiˋ."}
+  - n: 10
+    speaker: Sam
+    en: "…Thank you?"
+    sx: {hanzi: "……恁仔細？", pinyin: "… anˋ ziiˋ se?"}
+    hl: {hanzi: "……承蒙？", pinyin: "… shin mung?"}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      去 hi "go": Mandarin qù, Hakka hi, high and level (Lesson 0, §6: q- often becomes h- or k-). 你愛去哪位？
+      "where are you going?" is also the passing greeting in the street, like 食飽吂.
+  - ref: 2
+    topic: vocab
+    text: >
+      轉去 zonˋ hi "go back (home)", Mandarin 回去. 轉 zonˋ means returning to where you belong: 轉去 going back,
+      轉來 coming back. For A-in, Taipei is where she lives now, so she 轉去; when she comes to Miaoli she 轉來 too.
+      Hakka families have two homes in their verbs.
+  - ref: 3
+    topic: grammar
+    text: >
+      做麼个 zo maˋ ge, literally "do what", is "what for, why": 轉去做麼个？ "why are you going back?". It is one of
+      the most frequent questions in Hakka. 今晡日 gimˊ buˊ ngidˋ "today".
+  - ref: 4
+    topic: vocab
+    text: >
+      The three days: 昨晡日 coˊ buˊ ngidˋ yesterday, 今晡日 gimˊ buˊ ngidˋ today, 天光日 tienˊ gongˊ ngidˋ
+      tomorrow ("the day when the sky gets light"). All three start with a rising syllable before another rising one,
+      so in speech: coˇ buˊ, gimˇ buˊ, tienˇ gongˊ (Lesson 0, §4). 做事 zo se is "work" (工作); note 事 read se here.
+  - ref: 5
+    topic: grammar
+    text: >
+      幾點 giˋ diamˋ "what time": 幾 as in 幾多. 六點 "six o'clock", 五點半 "half past five" (半 ban "half"), as in
+      Mandarin. 幾點个火車 "a train at what time": 个 links the time to the noun, like 的.
+  - ref: 5
+    topic: false-friend
+    text: >
+      A trap for later: 點鐘 diamˋ zungˊ is "hour", the length of time, so 一點鐘 is "one hour", never "one o'clock".
+      For the time of day, just 點: 一點 "one o'clock".
+  - ref: 8
+    topic: grammar
+    text: >
+      睡到十點 "slept until ten": 到 do "until, up to" after a verb. Hakka has a saying for this, 睡到日頭晒屎胐,
+      "sleep till the sun bakes your backside". A-min doesn't need it; his sister's face says enough. 阿姊 aˊ jiˋ
+      "big sister".
+  - ref: 9
+    topic: grammar
+    text: >
+      這下 iaˋ ha "now" (現在), the time word of the lesson. 這下你愛講客話了 "now you'll have to speak Hakka": 了 at
+      the end again marks the new situation. 華語 faˇ ngiˊ "Mandarin" (Taiwan's usual name for it). A-in will not be
+      back for a while; the next lessons are Sam on his own.
+  - ref: 0
+    topic: hailu
+    text: >
+      "Tomorrow" is a different word in Hailu: 韶早 shau zoˊ, where Sixian says 天光日. One of the classic pairs (with
+      恁仔細 / 承蒙). 這下 is liaˊ ha+, and 做事 zoˇ she+.
+
+new_words:
+  - {hanzi: 去, pinyin: "hi", en: "go", hl: {hanzi: 去, pinyin: "hiˇ"}}
+  - {hanzi: 轉去, pinyin: "zonˋ hi", en: "go back (home)", hl: {hanzi: 轉去, pinyin: "zhonˊ hiˇ"}}
+  - {hanzi: 今晡日, pinyin: "gimˊ buˊ ngidˋ", en: "today", hl: {hanzi: 今晡日, pinyin: "gimˋ buˋ ngid"}}
+  - {hanzi: 天光日, pinyin: "tienˊ gongˊ ngidˋ", en: "tomorrow", hl: {hanzi: 韶早, pinyin: "shau zoˊ"}}
+  - {hanzi: 做事, pinyin: "zo se", en: "work", hl: {hanzi: 做事, pinyin: "zoˇ she+"}}
+  - {hanzi: 幾, pinyin: "giˋ", en: "how many, which (幾)", hl: {hanzi: 幾, pinyin: "giˊ"}}
+  - {hanzi: 點, pinyin: "diamˋ", en: "o'clock", hl: {hanzi: 點, pinyin: "diamˊ"}}
+  - {hanzi: 火車, pinyin: "foˋ caˊ", en: "train", hl: {hanzi: 火車, pinyin: "foˊ chaˋ"}}
+  - {hanzi: 六, pinyin: "liugˋ", en: "six", hl: {hanzi: 六, pinyin: "liug"}}
+  - {hanzi: 這下, pinyin: "iaˋ ha", en: "now", hl: {hanzi: 這下, pinyin: "liaˊ ha+"}}
+  - {hanzi: 半, pinyin: "ban", en: "half", hl: {hanzi: 半, pinyin: "banˇ"}}
+  - {hanzi: 阿姊, pinyin: "aˊ jiˋ", en: "big sister", hl: {hanzi: 阿姊, pinyin: "a+ ze"}}
+  - {hanzi: 昨晡日, pinyin: "coˊ buˊ ngidˋ", en: "yesterday", hl: {hanzi: 昨晡日, pinyin: "coˋ buˋ ngid"}}
+  - {hanzi: 睡, pinyin: "soi", en: "sleep, lie down", hl: {hanzi: 睡, pinyin: "shoi+"}}
+  - {hanzi: 到, pinyin: "do", en: "until, to (a point)", hl: {hanzi: 到, pinyin: "doˇ"}}
+  - {hanzi: 華語, pinyin: "faˇ ngiˊ", en: "Mandarin (language)", hl: {hanzi: 華語, pinyin: "fa ngiˋ"}}
+  - {hanzi: 八, pinyin: "badˋ", en: "eight", hl: {hanzi: 八, pinyin: "bad"}}
+
+exercises:
+  translate:
+    - en: "Where is Grandpa going?"
+      sx: {hanzi: "阿公愛去哪位？", pinyin: "aˊ gungˊ oi hi nai vi?"}
+      hl: {hanzi: "阿公愛去哪位？", pinyin: "a+ gungˋ oiˇ hiˇ nai+ vui+?"}
+    - en: "What time is it now?"
+      sx: {hanzi: "這下幾點？", pinyin: "iaˋ ha giˋ diamˋ?"}
+      hl: {hanzi: "這下幾點？", pinyin: "liaˊ ha+ giˊ diamˊ?"}
+    - en: "I have to work tomorrow at eight."
+      sx: {hanzi: "𠊎天光日八點愛做事。", pinyin: "ngaiˇ tienˊ gongˊ ngidˋ badˋ diamˋ oi zo se."}
+      hl: {hanzi: "𠊎韶早八點愛做事。", pinyin: "ngai shau zoˊ bad diamˊ oiˇ zoˇ she+."}
+    - en: "A-min slept until half past six."
+      sx: {hanzi: "阿明睡到六點半。", pinyin: "aˊ minˇ soi do liugˋ diamˋ ban."}
+      hl: {hanzi: "阿明睡到六點半。", pinyin: "a+ min shoi+ doˇ liug diamˊ banˇ."}
+    - en: "Yesterday A-in was going back to Taipei; today she isn't going."
+      sx: {hanzi: "昨晡日阿英愛轉去臺北，今晡日毋去了。", pinyin: "coˊ buˊ ngidˋ aˊ inˊ oi zonˋ hi toiˇ bedˋ, gimˊ buˊ ngidˋ mˇ hi leˊ."}
+      hl: {hanzi: "昨晡日阿英愛轉去臺北，今晡日毋去了。", pinyin: "coˋ buˋ ngid a+ rhinˋ oiˇ zhonˊ hiˇ toi bed, gimˋ buˋ ngid m hiˇ leˋ."}
+  fill:
+    - en: "What are you going to Taipei for?"
+      sx: {hanzi: "你去臺北做___？", pinyin: "nˇ hi toiˇ bedˋ zo ___?", answer_hanzi: "麼个", answer: "maˋ ge"}
+      hl: {hanzi: "你去臺北做___？", pinyin: "ngi hiˇ toi bed zoˇ ___?", answer_hanzi: "麼个", answer: "maˊ gaiˇ"}
+    - en: "Grandma doesn't speak Mandarin."
+      sx: {hanzi: "阿婆毋會講___。", pinyin: "aˊ poˇ mˇ voi gongˋ ___.", answer_hanzi: "華語", answer: "faˇ ngiˊ"}
+      hl: {hanzi: "阿婆毋會講___。", pinyin: "a+ po m voi+ gongˊ ___.", answer_hanzi: "華語", answer: "fa ngiˋ"}
+    - en: "It's six o'clock now."
+      sx: {hanzi: "___六點了。", pinyin: "___ liugˋ diamˋ leˊ.", answer_hanzi: "這下", answer: "iaˋ ha"}
+      hl: {hanzi: "___六點了。", pinyin: "___ liug diamˊ leˋ.", answer_hanzi: "這下", answer: "liaˊ ha+"}
+
+audio: []

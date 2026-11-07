@@ -1,0 +1,149 @@
+id: 11
+title:
+  en: "The breakfast stall"
+  sx: {hanzi: "粄條好食無？", pinyin: "banˋ tiauˇ hoˋ siid moˇ?"}
+  hl: {hanzi: "粄條好食無？", pinyin: "banˊ tiau hoˊ shidˋ mo?"}
+review: false
+setting: >-
+  Friday, ten to seven. A-min takes Sam to the breakfast stall by his school in town, where the owner has known him
+  since he was six. Flat rice noodles, 粄條, are what everyone orders.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: 頭家
+    en: "Morning, A-min! What'll it be today?"
+    sx: {hanzi: "阿明，早！今晡日食麼个？", pinyin: "aˊ minˇ, zoˋ! gimˊ buˊ ngidˋ siid maˋ ge?"}
+    hl: {hanzi: "阿明，早！今晡日食麼个？", pinyin: "a+ min, zoˊ! gimˋ buˋ ngid shidˋ maˊ gaiˇ?"}
+  - n: 2
+    speaker: 阿明
+    en: "A bowl of rice noodles, with an egg."
+    sx: {hanzi: "一碗粄條，加卵。", pinyin: "idˋ vonˋ banˋ tiauˇ, gaˊ lonˋ."}
+    hl: {hanzi: "一碗粄條，加卵。", pinyin: "rhid vonˊ banˊ tiau, gaˋ lonˊ."}
+  - n: 3
+    speaker: 頭家
+    en: "Your friend?"
+    sx: {hanzi: "你个朋友？", pinyin: "nˇ ge penˇ iuˊ?"}
+    hl: {hanzi: "你个朋友？", pinyin: "ngi gaiˇ pen rhiuˋ?"}
+  - n: 4
+    speaker: 阿明
+    en: "Yes, this is Sam."
+    sx: {hanzi: "係，佢係 Sam。", pinyin: "he, giˇ he Sam."}
+    hl: {hanzi: "係，佢係 Sam。", pinyin: "heˇ, gi heˇ Sam."}
+  - n: 5
+    speaker: Sam
+    en: "Morning! Are the rice noodles good?"
+    sx: {hanzi: "頭家，早！粄條好食無？", pinyin: "teuˇ gaˊ, zoˋ! banˋ tiauˇ hoˋ siid moˇ?"}
+    hl: {hanzi: "頭家，早！粄條好食無？", pinyin: "teu gaˋ, zoˊ! banˊ tiau hoˊ shidˋ mo?"}
+  - n: 6
+    speaker: 頭家
+    en: "Very good! A-min loves my noodles more than anyone."
+    sx: {hanzi: "當好食！阿明盡好食𠊎个粄條。", pinyin: "dongˊ hoˋ siid! aˊ minˇ qin hau siid ngaiˇ ge banˋ tiauˇ."}
+    hl: {hanzi: "當好食！阿明最好食𠊎个粄條。", pinyin: "dongˋ hoˊ shidˋ! a+ min zuiˇ hauˇ shidˋ ngai gaiˇ banˊ tiau."}
+  - n: 7
+    speaker: 阿明
+    en: "(to Sam) Order it yourself. What do you want?"
+    sx: {hanzi: "你自家講。你想食麼个？", pinyin: "nˇ qi gaˊ gongˋ. nˇ xiongˋ siid maˋ ge?"}
+    hl: {hanzi: "你自家講。你想食麼个？", pinyin: "ngi cid gaˋ gongˊ. ngi siongˊ shidˋ maˊ gaiˇ?"}
+  - n: 8
+    speaker: Sam
+    en: "I'd like a bowl of noodles. No egg, but with meat."
+    sx: {hanzi: "𠊎想愛一碗粄條。毋使加卵，加肉。", pinyin: "ngaiˇ xiongˋ oi idˋ vonˋ banˋ tiauˇ. mˇ siiˋ gaˊ lonˋ, gaˊ ngiugˋ."}
+    hl: {hanzi: "𠊎想愛一碗粄條。毋使加卵，加肉。", pinyin: "ngai siongˊ oiˇ rhid vonˊ banˊ tiau. m siiˊ gaˋ lonˊ, gaˋ ngiug."}
+  - n: 9
+    speaker: 頭家
+    en: "Right you are!"
+    sx: {hanzi: "好！", pinyin: "hoˋ!"}
+    hl: {hanzi: "好！", pinyin: "hoˊ!"}
+  - n: 10
+    speaker: Sam
+    en: "(first mouthful) …Very good!"
+    sx: {hanzi: "……當好食！", pinyin: "… dongˊ hoˋ siid!"}
+    hl: {hanzi: "……當好食！", pinyin: "… dongˋ hoˊ shidˋ!"}
+  - n: 11
+    speaker: 阿明
+    en: "Told you. It's half past seven, I've got to get to school!"
+    sx: {hanzi: "𠊎講了。七點半了，𠊎愛去學校！", pinyin: "ngaiˇ gongˋ leˊ. qidˋ diamˋ ban leˊ, ngaiˇ oi hi hog gauˋ!"}
+    hl: {hanzi: "𠊎講了。七點半了，𠊎愛去學校！", pinyin: "ngai gongˊ leˋ. cid diamˊ banˇ leˋ, ngai oiˇ hiˇ hogˋ gauˊ!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      粄 banˋ is the Hakka word for everything made from rice flour or rice dough: cakes, dumplings, noodles. 粄條
+      banˋ tiauˇ are the flat rice noodles of Miaoli and Hsinchu, eaten in soup or dry, at breakfast as much as at
+      lunch. In the south they are called 面帕粄 "towel 粄", for the shape.
+  - ref: 5
+    topic: false-friend
+    text: >
+      Two words written 好. 好 hoˋ is "good", as in Mandarin: 好食 hoˋ siid "tasty", 好！ "OK!". 好 hau, high and
+      level, is "to like, to love doing" (喜歡): 阿明盡好食粄條 "A-min loves eating rice noodles more than anything".
+      So 好食 is either "tasty" (hoˋ) or "fond of eating" (hau), and only the tone tells you which. Line 6 has both.
+  - ref: 6
+    topic: grammar
+    text: >
+      盡 qin before a verb of liking: 盡好食 "likes eating most of all". 當好食 "very tasty": 當 + 好 + verb works like
+      Mandarin 很好吃. The same shape gives 好看 "good-looking" and 好聽 "nice to hear".
+  - ref: 7
+    topic: grammar
+    text: >
+      想 xiongˋ "think; feel like": 你想食麼个？ "what do you feel like eating?". 想愛 xiongˋ oi (line 8) is "would like",
+      softer than plain 愛, and the polite way to order. 自家 qi gaˊ "oneself" (自己): 你自家講 "say it yourself".
+      A-min the teacher.
+  - ref: 8
+    topic: grammar
+    text: >
+      毋使 mˇ siiˋ "no need to" (不用, 不必): 毋使加卵 "no egg (needed)". It is also the polite refusal, 毋使, 毋使,
+      "no, no, don't bother" (毋使，恁仔細 "no thanks"); 毋使客氣 "don't mention it" comes later. 加 gaˊ "add": 加卵 "add an egg",
+      加肉 "with meat". At a stall, 卵 alone is enough; 雞卵 is the full word.
+  - ref: 0
+    topic: hailu
+    text: >
+      In Hailu, 好 "like" is hauˇ and "good" is hoˊ: the same split, other tones. Hailu says 最 for "most" (最好食).
+      想 is siongˊ, 自家 cid gaˋ.
+
+new_words:
+  - {hanzi: 粄, pinyin: "banˋ", en: "rice-flour food (cakes, noodles)", hl: {hanzi: 粄, pinyin: "banˊ"}}
+  - {hanzi: 加, pinyin: "gaˊ", en: "add", hl: {hanzi: 加, pinyin: "gaˋ"}}
+  - {hanzi: 卵, pinyin: "lonˋ", en: "egg", hl: {hanzi: 卵, pinyin: "lonˊ"}}
+  - {hanzi: 朋友, pinyin: "penˇ iuˊ", en: "friend", hl: {hanzi: 朋友, pinyin: "pen rhiuˋ"}}
+  - {hanzi: 好, pinyin: "hoˋ", en: "good; OK", hl: {hanzi: 好, pinyin: "hoˊ"}}
+  - {hanzi: 好, pinyin: "hau", en: "like, be fond of", hl: {hanzi: 好, pinyin: "hauˇ"}}
+  - {hanzi: 自家, pinyin: "qi gaˊ", en: "oneself", hl: {hanzi: 自家, pinyin: "cid gaˋ"}}
+  - {hanzi: 想, pinyin: "xiongˋ", en: "think; feel like", hl: {hanzi: 想, pinyin: "siongˊ"}}
+  - {hanzi: 想愛, pinyin: "xiongˋ oi", en: "would like", hl: {hanzi: 想愛, pinyin: "siongˊ oiˇ"}}
+  - {hanzi: 毋使, pinyin: "mˇ siiˋ", en: "no need to; don't bother", hl: {hanzi: 毋使, pinyin: "m siiˊ"}}
+  - {hanzi: 肉, pinyin: "ngiugˋ", en: "meat", hl: {hanzi: 肉, pinyin: "ngiug"}}
+  - {hanzi: 學校, pinyin: "hog gauˋ", en: "school", hl: {hanzi: 學校, pinyin: "hogˋ gauˊ"}}
+  - {hanzi: 湯, pinyin: "tongˊ", en: "soup", hl: {hanzi: 湯, pinyin: "tongˋ"}}
+  - {hanzi: 豬肉, pinyin: "zuˊ ngiugˋ", en: "pork", hl: {hanzi: 豬肉, pinyin: "zhuˋ ngiug"}}
+
+exercises:
+  translate:
+    - en: "Grandma's chicken soup is very good."
+      sx: {hanzi: "阿婆个雞仔湯當好食。", pinyin: "aˊ poˇ ge gieˊ eˋ tongˊ dongˊ hoˋ siid."}
+      hl: {hanzi: "阿婆个雞仔湯當好食。", pinyin: "a+ po gaiˇ gaiˋ er tongˋ dongˋ hoˊ shidˋ."}
+    - en: "I love sweet potatoes."
+      sx: {hanzi: "𠊎盡好食番薯。", pinyin: "ngaiˇ qin hau siid fanˊ suˇ."}
+      hl: {hanzi: "𠊎最好食番薯。", pinyin: "ngai zuiˇ hauˇ shidˋ fanˋ shu."}
+    - en: "No need, thank you."
+      sx: {hanzi: "毋使，恁仔細。", pinyin: "mˇ siiˋ, anˋ ziiˋ se."}
+      hl: {hanzi: "毋使，承蒙。", pinyin: "m siiˊ, shin mung."}
+    - en: "I'd like a catty of pork."
+      sx: {hanzi: "𠊎想愛一斤豬肉。", pinyin: "ngaiˇ xiongˋ oi idˋ ginˊ zuˊ ngiugˋ."}
+      hl: {hanzi: "𠊎想愛一斤豬肉。", pinyin: "ngai siongˊ oiˇ rhid ginˋ zhuˋ ngiug."}
+    - en: "A-min's friend is at school."
+      sx: {hanzi: "阿明个朋友在學校。", pinyin: "aˊ minˇ ge penˇ iuˊ cai hog gauˋ."}
+      hl: {hanzi: "阿明个朋友在學校。", pinyin: "a+ min gaiˇ pen rhiuˋ cai+ hogˋ gauˊ."}
+  fill:
+    - en: "Are the rice noodles good?"
+      sx: {hanzi: "粄條___食無？", pinyin: "banˋ tiauˇ ___ siid moˇ?", answer_hanzi: "好", answer: "hoˋ"}
+      hl: {hanzi: "粄條___食無？", pinyin: "banˊ tiau ___ shidˋ mo?", answer_hanzi: "好", answer: "hoˊ"}
+    - en: "No need to add an egg."
+      sx: {hanzi: "___加卵。", pinyin: "___ gaˊ lonˋ.", answer_hanzi: "毋使", answer: "mˇ siiˋ"}
+      hl: {hanzi: "___加卵。", pinyin: "___ gaˋ lonˊ.", answer_hanzi: "毋使", answer: "m siiˊ"}
+    - en: "Say it yourself."
+      sx: {hanzi: "你___講。", pinyin: "nˇ ___ gongˋ.", answer_hanzi: "自家", answer: "qi gaˊ"}
+      hl: {hanzi: "你___講。", pinyin: "ngi ___ gongˊ.", answer_hanzi: "自家", answer: "cid gaˋ"}
+
+audio: []

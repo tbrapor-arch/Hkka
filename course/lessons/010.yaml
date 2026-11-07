@@ -1,0 +1,156 @@
+id: 10
+title:
+  en: "A phone call with A-in"
+  sx: {hanzi: "佢係吾先生", pinyin: "giˇ he ngaˊ xinˊ sangˊ"}
+  hl: {hanzi: "佢係𠊎先生", pinyin: "gi heˇ ngai sinˋ sangˋ"}
+review: false
+setting: >-
+  Thursday evening. Sam's phone rings: A-in, from Taipei. A-min is doing his homework in the next room, with the door
+  open.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Sam? It's A-in. Have you eaten?"
+    sx: {hanzi: "Sam？𠊎係阿英。食飽吂？", pinyin: "Sam? ngaiˇ he aˊ inˊ. siid bauˋ mangˇ?"}
+    hl: {hanzi: "Sam？𠊎係阿英。食飽吂？", pinyin: "Sam? ngai heˇ a+ rhinˋ. shidˋ bauˊ mang?"}
+  - n: 2
+    speaker: Sam
+    en: "Yes, two bowls. Grandma makes me eat two bowls every day!"
+    sx: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "siid bauˋ leˊ, siid liongˋ vonˋ. aˊ poˇ dagˋ ngidˋ hemˊ ngaiˇ siid liongˋ vonˋ!"}
+    hl: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "shidˋ bauˊ leˋ, shidˋ liongˊ vonˊ. a+ po dag ngid hemˋ ngai shidˋ liongˊ vonˊ!"}
+  - n: 3
+    speaker: 阿英
+    en: "How are you all getting on at home? Does Grandpa talk to you?"
+    zh: "你們在家怎麼樣？爺爺有跟你說話嗎？"
+    sx: {hanzi: "你兜在屋下仰般？阿公有同你講無？", pinyin: "nˇ deuˊ cai vugˋ kaˊ ngiongˋ banˊ? aˊ gungˊ iuˊ tungˇ nˇ gongˋ moˇ?"}
+    hl: {hanzi: "你兜在屋下仰般？阿公有摎你講無？", pinyin: "ngi deuˋ cai+ vug haˋ ngiongˊ banˋ? a+ gungˋ rhiuˋ lauˋ ngi gongˊ mo?"}
+  - n: 4
+    speaker: Sam
+    en: "He does! He said 'it's going to rain', and it rained."
+    sx: {hanzi: "有！佢講「會落雨」，就落雨了。", pinyin: "iuˊ! giˇ gongˋ \"voi log iˋ\", qiu log iˋ leˊ."}
+    hl: {hanzi: "有！佢講「會落水」，就落水了。", pinyin: "rhiuˋ! gi gongˊ \"voi+ logˋ shuiˊ\", ciu+ logˋ shuiˊ leˋ."}
+  - n: 5
+    speaker: 阿英
+    en: "He's right every time."
+    sx: {hanzi: "佢逐擺都著。", pinyin: "giˇ dagˋ baiˋ du cog."}
+    hl: {hanzi: "佢逐擺都著。", pinyin: "gi dag baiˊ du+ chogˋ."}
+  - n: 6
+    speaker: Sam
+    en: "A-min talks Hakka with me too. He says he's my teacher."
+    sx: {hanzi: "阿明乜同𠊎講客話。佢講佢係吾先生。", pinyin: "aˊ minˇ me tungˇ ngaiˇ gongˋ hagˋ fa. giˇ gongˋ giˇ he ngaˊ xinˊ sangˊ."}
+    hl: {hanzi: "阿明乜摎𠊎講客話。佢講佢係𠊎先生。", pinyin: "a+ min meˇ lauˋ ngai gongˊ hag voiˋ. gi gongˊ gi heˇ ngai sinˋ sangˋ."}
+  - n: 7
+    speaker: 阿英
+    en: "(laughing) Your 先生?"
+    sx: {hanzi: "若先生？", pinyin: "ngiaˊ xinˊ sangˊ?"}
+    hl: {hanzi: "若先生？", pinyin: "ngia sinˋ sangˋ?"}
+  - n: 8
+    speaker: Sam
+    en: "Yes… teacher. He teaches me Hakka."
+    sx: {hanzi: "係……先生。佢教𠊎客話。", pinyin: "he … xinˊ sangˊ. giˇ gauˊ ngaiˇ hagˋ fa."}
+    hl: {hanzi: "係……先生。佢教𠊎客話。", pinyin: "heˇ … sinˋ sangˋ. gi gauˋ ngai hag voiˋ."}
+  - n: 9
+    speaker: 阿英
+    en: "Sam, 先生 also means husband!"
+    sx: {hanzi: "Sam，「先生」乜係老公！", pinyin: "Sam, \"xinˊ sangˊ\" me he loˋ gungˊ!"}
+    hl: {hanzi: "Sam，「先生」乜係老公！", pinyin: "Sam, \"sinˋ sangˋ\" meˇ heˇ loˊ gungˋ!"}
+  - n: 10
+    speaker: 阿明
+    en: "(from the next room) I'm NOT his husband!"
+    sx: {hanzi: "𠊎毋係佢老公！", pinyin: "ngaiˇ mˇ he giˇ loˋ gungˊ!"}
+    hl: {hanzi: "𠊎毋係佢老公！", pinyin: "ngai m heˇ gi loˊ gungˋ!"}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      喊 hemˊ "call; tell (someone) to": 阿婆喊𠊎食 "Grandma tells me to eat", like Mandarin 叫我吃. It is also how
+      you call someone over (喊阿明來) and what you call someone (lesson 25). Also read ham. 逐日 dagˋ ngidˋ "every
+      day": 逐 dagˋ is Hakka's "every" (每), and 逐擺 (line 5) is "every time".
+  - ref: 3
+    topic: grammar
+    text: >
+      Plurals: add 兜 deuˊ. 𠊎兜 "we", 你兜 "you (all)", 佢兜 "they". Careful with 𠊎兜: it means "we, not including
+      you". When Sam tells A-in about the family he says 𠊎兜 (Grandma, Grandpa, A-min and him, not her). An "all of
+      us, you included" form exists too; you will hear it later. 仰般 "how" also asks how things are: 你兜仰般？ "how
+      are you all?".
+  - ref: 3
+    topic: false-friend
+    text: >
+      同 tungˇ "with, to": 同你講 "talk to you", 同𠊎講客話 "speak Hakka with me". Mandarin 同 is bookish; in Hakka it
+      is the everyday 跟 / 和. Many northern Sixian speakers say 摎 lauˊ instead, with the same meaning; Hailu always
+      says 摎. You will hear both in Miaoli.
+  - ref: 5
+    topic: false-friend
+    text: >
+      著 cog "right, correct" (對): 佢逐擺都著 "he's right every time"; 毋著 "wrong". Same character as Mandarin 著
+      zhe / zháo, nothing to do with them. (Another 著, zogˋ, means "wear"; lesson 15.)
+  - ref: 6
+    topic: vocab
+    text: >
+      乜 me "also, too" (也). A one-syllable Hakka word you'll use constantly: 𠊎乜愛 "me too".
+  - ref: 7
+    topic: false-friend
+    text: >
+      先生 xinˊ sangˊ is "teacher" in Hakka, and also "doctor", "Mr", and "husband". 吾先生 normally means "my
+      teacher"; a woman saying it may well mean "my husband". A-in knows exactly which meaning she is choosing to hear.
+      The everyday word for husband is 老公 loˋ gungˊ (and for wife, 餔娘, later).
+  - ref: 8
+    topic: vocab
+    text: >
+      教 gauˊ "teach": 佢教𠊎客話 "he teaches me Hakka", two objects as in Mandarin. Rising tone, like the Mandarin
+      first-tone jiāo it corresponds to.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu uses 摎 lauˋ where Sixian has 同: 摎你講, 摎𠊎講客話. "My teacher" is 𠊎先生. 著 is chogˋ, with the
+      Hailu ch-.
+
+new_words:
+  - {hanzi: 逐日, pinyin: "dagˋ ngidˋ", en: "every day", hl: {hanzi: 逐日, pinyin: "dag ngid"}}
+  - {hanzi: 喊, pinyin: "hemˊ", en: "call; tell (someone) to", hl: {hanzi: 喊, pinyin: "hemˋ"}}
+  - {hanzi: 同, pinyin: "tungˇ", en: "with, to; and", hl: {hanzi: 摎, pinyin: "lauˋ"}}
+  - {hanzi: 逐擺, pinyin: "dagˋ baiˋ", en: "every time", hl: {hanzi: 逐擺, pinyin: "dag baiˊ"}}
+  - {hanzi: 都, pinyin: "du", en: "all, always (都)", hl: {hanzi: 都, pinyin: "du+"}}
+  - {hanzi: 著, pinyin: "cog", en: "right, correct", hl: {hanzi: 著, pinyin: "chogˋ"}}
+  - {hanzi: 乜, pinyin: "me", en: "also, too", hl: {hanzi: 乜, pinyin: "meˇ"}}
+  - {hanzi: 先生, pinyin: "xinˊ sangˊ", en: "teacher; doctor; husband; Mr", hl: {hanzi: 先生, pinyin: "sinˋ sangˋ"}}
+  - {hanzi: 教, pinyin: "gauˊ", en: "teach", hl: {hanzi: 教, pinyin: "gauˋ"}}
+  - {hanzi: 老公, pinyin: "loˋ gungˊ", en: "husband", hl: {hanzi: 老公, pinyin: "loˊ gungˋ"}}
+  - {hanzi: 𠊎兜, pinyin: "ngaiˇ deuˊ", en: "we (not including you)", hl: {hanzi: 𠊎兜, pinyin: "ngai deuˋ"}}
+  - {hanzi: 兜, pinyin: "deuˊ", en: "(plural after a pronoun)", hl: {hanzi: 兜, pinyin: "deuˋ"}}
+  - {hanzi: 摎, pinyin: "lauˊ", en: "with, to (= 同)", hl: {hanzi: 摎, pinyin: "lauˋ"}}
+  - {hanzi: 麼人, pinyin: "maˋ nginˇ", en: "who", hl: {hanzi: 麼人, pinyin: "maˊ ngin"}}
+  - {hanzi: 電話, pinyin: "tien fa", en: "telephone", hl: {hanzi: 電話, pinyin: "tien+ faˇ"}}
+
+exercises:
+  translate:
+    - en: "We're going to the market tomorrow."
+      sx: {hanzi: "𠊎兜天光日愛去買菜。", pinyin: "ngaiˇ deuˊ tienˊ gongˊ ngidˋ oi hi maiˊ coi."}
+      hl: {hanzi: "𠊎兜韶早愛去買菜。", pinyin: "ngai deuˋ shau zoˊ oiˇ hiˇ maiˋ coiˇ."}
+    - en: "They're not at home."
+      sx: {hanzi: "佢兜無在屋下。", pinyin: "giˇ deuˊ moˇ cai vugˋ kaˊ."}
+      hl: {hanzi: "佢兜無在屋下。", pinyin: "gi deuˋ mo cai+ vug haˋ."}
+    - en: "Grandma tells A-min to sleep."
+      sx: {hanzi: "阿婆喊阿明去睡目。", pinyin: "aˊ poˇ hemˊ aˊ minˇ hi soi mugˋ."}
+      hl: {hanzi: "阿婆喊阿明去睡目。", pinyin: "a+ po hemˋ a+ min hiˇ shoi+ mug."}
+    - en: "I want to talk to Grandpa too."
+      sx: {hanzi: "𠊎乜愛摎阿公講。", pinyin: "ngaiˇ me oi lauˊ aˊ gungˊ gongˋ."}
+      hl: {hanzi: "𠊎乜愛摎阿公講。", pinyin: "ngai meˇ oiˇ lauˋ a+ gungˋ gongˊ."}
+    - en: "Every time I eat, Grandma says 'two bowls!'"
+      sx: {hanzi: "𠊎逐擺食飯，阿婆都講「兩碗！」", pinyin: "ngaiˇ dagˋ baiˋ siid fan, aˊ poˇ du gongˋ \"liongˋ vonˋ!\""}
+      hl: {hanzi: "𠊎逐擺食飯，阿婆都講「兩碗！」", pinyin: "ngai dag baiˊ shidˋ pon+, a+ po du+ gongˊ \"liongˊ vonˊ!\""}
+  fill:
+    - en: "You're right."
+      sx: {hanzi: "你講___。", pinyin: "nˇ gongˋ ___.", answer_hanzi: "著", answer: "cog"}
+      hl: {hanzi: "你講___。", pinyin: "ngi gongˊ ___.", answer_hanzi: "著", answer: "chogˋ"}
+    - en: "Who teaches you Hakka? — My teacher."
+      sx: {hanzi: "麼人教你客話？——吾___。", pinyin: "maˋ nginˇ gauˊ nˇ hagˋ fa? — ngaˊ ___.", answer_hanzi: "先生", answer: "xinˊ sangˊ"}
+      hl: {hanzi: "麼人教你客話？——𠊎___。", pinyin: "maˊ ngin gauˋ ngi hag voiˋ? — ngai ___.", answer_hanzi: "先生", answer: "sinˋ sangˋ"}
+    - en: "A-in talks to Sam on the phone."
+      sx: {hanzi: "阿英___Sam 講電話。", pinyin: "aˊ inˊ ___ Sam gongˋ tien fa.", answer_hanzi: "同", answer: "tungˇ"}
+      hl: {hanzi: "阿英___Sam 講電話。", pinyin: "a+ rhinˋ ___ Sam gongˊ tien+ faˇ.", answer_hanzi: "摎", answer: "lauˋ"}
+
+audio: []

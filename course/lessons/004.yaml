@@ -1,0 +1,163 @@
+id: 4
+title:
+  en: "Morning tea"
+  sx: {hanzi: "食茶無？", pinyin: "siid caˇ moˇ?"}
+  hl: {hanzi: "食茶無？", pinyin: "shidˋ ca mo?"}
+review: false
+setting: >-
+  Later that Saturday morning. Grandpa sits on the porch with a small clay teapot and three cups. Grandma is in the
+  kitchen; the window is open.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Morning, Grandpa! What are you doing?"
+    zh: "爺爺早！你在做什麼？"
+    sx: {hanzi: "阿公，早！你在該做麼个？", pinyin: "aˊ gungˊ, zoˋ! nˇ du ge zo maˋ ge?"}
+    hl: {hanzi: "阿公，早！你在該做麼个？", pinyin: "a+ gungˋ, zoˊ! ngi diˇ gai zoˇ maˊ gaiˇ?"}
+  - n: 2
+    speaker: 阿公
+    en: "Making tea. Want some?"
+    zh: "泡茶。喝茶嗎？"
+    sx: {hanzi: "泡茶。食茶無？", pinyin: "pau caˇ. siid caˇ moˇ?"}
+    hl: {hanzi: "泡茶。食茶無？", pinyin: "pauˇ ca. shidˋ ca mo?"}
+  - n: 3
+    speaker: Sam
+    en: "Drink tea? …Yes please! Thank you."
+    sx: {hanzi: "食茶？……愛！恁仔細。", pinyin: "siid caˇ? … oi! anˋ ziiˋ se."}
+    hl: {hanzi: "食茶？……愛！承蒙。", pinyin: "shidˋ ca? … oiˇ! shin mung."}
+  - n: 4
+    speaker: Sam
+    en: "Grandpa, where's A-in?"
+    sx: {hanzi: "阿公，阿英在哪位？", pinyin: "aˊ gungˊ, aˊ inˊ cai nai vi?"}
+    hl: {hanzi: "阿公，阿英在哪位？", pinyin: "a+ gungˋ, a+ rhinˋ cai+ nai+ vui+?"}
+  - n: 5
+    speaker: 阿公
+    en: "Her room. Still asleep."
+    sx: {hanzi: "厥間房。還在該睡目。", pinyin: "giaˊ gienˊ fongˇ. hanˇ du ge soi mugˋ."}
+    hl: {hanzi: "厥間房。還在該睡目。", pinyin: "gia gienˋ fong. han diˇ gai shoi+ mug."}
+  - n: 6
+    speaker: Sam
+    en: "Grandpa, is there any sugar?"
+    zh: "爺爺，有糖嗎？"
+    sx: {hanzi: "阿公，有糖無？", pinyin: "aˊ gungˊ, iuˊ tongˇ moˇ?"}
+    hl: {hanzi: "阿公，有糖無？", pinyin: "a+ gungˋ, rhiuˋ tong mo?"}
+  - n: 7
+    speaker: 阿公
+    en: "(a long look) …No."
+    sx: {hanzi: "……無。", pinyin: "… moˇ."}
+    hl: {hanzi: "……無。", pinyin: "… mo."}
+  - n: 8
+    speaker: 阿婆
+    en: "(through the window) Sam, in this house we don't put sugar in tea!"
+    sx: {hanzi: "Sam，吾屋下个茶毋放糖！", pinyin: "Sam, ngaˊ vugˋ kaˊ ge caˇ mˇ biong tongˇ!"}
+    hl: {hanzi: "Sam，𠊎屋下个茶毋放糖！", pinyin: "Sam, ngai vug haˋ gaiˇ ca m biongˇ tong!"}
+  - n: 9
+    speaker: Sam
+    en: "(sips) …It's sweet!"
+    sx: {hanzi: "……甜！", pinyin: "… tiamˇ!"}
+    hl: {hanzi: "……甜！", pinyin: "… tiam!"}
+  - n: 10
+    speaker: 阿公
+    en: "(the first smile of the day) No sugar in it."
+    sx: {hanzi: "無放糖。", pinyin: "moˇ biong tongˇ."}
+    hl: {hanzi: "無放糖。", pinyin: "mo biongˇ tong."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      在該 du ge + verb is "be doing", Mandarin 在 / 正在: 你在該做麼个？ "what are you doing?". Literally "at that
+      (place)": 該 is the "that" of lesson 2. Note the reading: 在 is du in this phrase, not cai. 做 zo "do, make", as
+      in Mandarin.
+  - ref: 2
+    topic: grammar
+    text: >
+      A yes/no question ends in 無 moˇ: 食茶無？ "(do you want to) have tea?", 有糖無？ "is there sugar?". It works like
+      Mandarin 嗎, but it is the word "not have", so the question is really "…or not?". Answer with the verb (食 / 愛 /
+      有) or with 無.
+  - ref: 2
+    topic: vocab
+    text: >
+      食茶 siid caˇ "drink tea": tea is eaten in Hakka, as Sam suspected from lesson 3. 泡茶 pau caˇ is "make tea"
+      (steep the leaves), as in Mandarin. This is local oolong from the family's own bushes; Mr Liu sells it.
+  - ref: 4
+    topic: grammar
+    text: >
+      在 cai alone is "be at": 阿英在哪位？ "where is A-in?". 哪位 nai vi "where" (Mandarin 哪裡). The place word
+      comes after 在, as in Mandarin.
+  - ref: 5
+    topic: grammar
+    text: >
+      厥 giaˊ "his, her" completes the set from lesson 2: 吾 my, 若 your, 厥 his/her. 厥間房 "her room". Grandpa
+      answers in two pieces and no verb in the first; Hakka, like Mandarin, drops whatever is obvious. 睡目 soi mugˋ
+      "sleep" (Mandarin 睡覺; 目 is "eye").
+  - ref: 6
+    topic: grammar
+    text: >
+      有 iuˊ "there is, have". Its opposite is 無, the word you have been using since lesson 3. 有糖無？ is
+      "is there sugar or not?". The tone of 有 is rising (ˊ), not falling as in Mandarin yǒu: one of the Mandarin
+      tone-3 words that go to ˊ (Lesson 0, §3).
+  - ref: 8
+    topic: vocab
+    text: >
+      屋下 vugˋ kaˊ is "home, the household" (Mandarin 家): 吾屋下 "my home, our house". 放 biong "put": the old
+      b- reading of Mandarin f- (Lesson 0, §6).
+  - ref: 10
+    topic: grammar
+    text: >
+      無放糖 "(I) didn't put any sugar in": 無 before a verb says it didn't happen. Compare line 8, 毋放糖 "(we) don't
+      put sugar in" as a rule. Good oolong has a natural sweetness that comes back after you swallow; that is what Sam
+      tastes.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu says 在該 diˇ gai (Sixian du ge) and 𠊎屋下 for "our house". 有 is rhiuˋ: Hailu's rh- is a buzzed y.
+      睡目 shoi+ mug, with the Hailu mid tone + (33).
+
+new_words:
+  - {hanzi: 在該, pinyin: "du ge", en: "(before a verb) be doing; there", hl: {hanzi: 在該, pinyin: "diˇ gai"}}
+  - {hanzi: 做, pinyin: "zo", en: "do, make", hl: {hanzi: 做, pinyin: "zoˇ"}}
+  - {hanzi: 泡茶, pinyin: "pau caˇ", en: "make tea", hl: {hanzi: 泡茶, pinyin: "pauˇ ca"}}
+  - {hanzi: 食茶, pinyin: "siid caˇ", en: "drink tea", hl: {hanzi: 食茶, pinyin: "shidˋ ca"}}
+  - {hanzi: 茶, pinyin: "caˇ", en: "tea", hl: {hanzi: 茶, pinyin: "ca"}}
+  - {hanzi: 在, pinyin: "cai", en: "be at", hl: {hanzi: 在, pinyin: "cai+"}}
+  - {hanzi: 哪位, pinyin: "nai vi", en: "where", hl: {hanzi: 哪位, pinyin: "nai+ vui+"}}
+  - {hanzi: 厥, pinyin: "giaˊ", en: "his, her, its", hl: {hanzi: 厥, pinyin: "gia"}}
+  - {hanzi: 睡目, pinyin: "soi mugˋ", en: "sleep", hl: {hanzi: 睡目, pinyin: "shoi+ mug"}}
+  - {hanzi: 有, pinyin: "iuˊ", en: "have, there is", hl: {hanzi: 有, pinyin: "rhiuˋ"}}
+  - {hanzi: 糖, pinyin: "tongˇ", en: "sugar", hl: {hanzi: 糖, pinyin: "tong"}}
+  - {hanzi: 屋下, pinyin: "vugˋ kaˊ", en: "home, household", hl: {hanzi: 屋下, pinyin: "vug haˋ"}}
+  - {hanzi: 放, pinyin: "biong", en: "put", hl: {hanzi: 放, pinyin: "biongˇ"}}
+  - {hanzi: 甜, pinyin: "tiamˇ", en: "sweet", hl: {hanzi: 甜, pinyin: "tiam"}}
+
+exercises:
+  translate:
+    - en: "A-min is still asleep."
+      sx: {hanzi: "阿明還在該睡目。", pinyin: "aˊ minˇ hanˇ du ge soi mugˋ."}
+      hl: {hanzi: "阿明還在該睡目。", pinyin: "a+ min han diˇ gai shoi+ mug."}
+    - en: "Is there any congee?"
+      sx: {hanzi: "有粥無？", pinyin: "iuˊ zugˋ moˇ?"}
+      hl: {hanzi: "有糜無？", pinyin: "rhiuˋ moi mo?"}
+    - en: "Grandma is at home."
+      sx: {hanzi: "阿婆在屋下。", pinyin: "aˊ poˇ cai vugˋ kaˊ."}
+      hl: {hanzi: "阿婆在屋下。", pinyin: "a+ po cai+ vug haˋ."}
+    - en: "This is his tea."
+      sx: {hanzi: "這係厥茶。", pinyin: "iaˋ he giaˊ caˇ."}
+      hl: {hanzi: "這係厥茶。", pinyin: "liaˊ heˇ gia ca."}
+    - en: "I didn't put any sugar in."
+      sx: {hanzi: "𠊎無放糖。", pinyin: "ngaiˇ moˇ biong tongˇ."}
+      hl: {hanzi: "𠊎無放糖。", pinyin: "ngai mo biongˇ tong."}
+  fill:
+    - en: "What is A-in doing?"
+      sx: {hanzi: "阿英___做麼个？", pinyin: "aˊ inˊ ___ zo maˋ ge?", answer_hanzi: "在該", answer: "du ge"}
+      hl: {hanzi: "阿英___做麼个？", pinyin: "a+ rhinˋ ___ zoˇ maˊ gaiˇ?", answer_hanzi: "在該", answer: "diˇ gai"}
+    - en: "Do you want some tea?"
+      sx: {hanzi: "食茶___？", pinyin: "siid caˇ ___?", answer_hanzi: "無", answer: "moˇ"}
+      hl: {hanzi: "食茶___？", pinyin: "shidˋ ca ___?", answer_hanzi: "無", answer: "mo"}
+    - en: "Where is Grandpa?"
+      sx: {hanzi: "阿公在___？", pinyin: "aˊ gungˊ cai ___?", answer_hanzi: "哪位", answer: "nai vi"}
+      hl: {hanzi: "阿公在___？", pinyin: "a+ gungˋ cai+ ___?", answer_hanzi: "哪位", answer: "nai+ vui+"}
+
+audio: []

@@ -1,0 +1,167 @@
+id: 2
+title:
+  en: "The Liu house"
+  sx: {hanzi: "這係吾婆", pinyin: "iaˋ he ngaˊ poˇ"}
+  hl: {hanzi: "這係𠊎婆", pinyin: "liaˊ heˇ ngai po"}
+review: false
+setting: >-
+  Twenty minutes later, a two-storey house among tea bushes outside 苗栗. Grandma is at the door before the car stops;
+  Grandpa does not get up from his chair.
+names: [苗栗, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Grandma! Grandpa! Sam's here!"
+    sx: {hanzi: "阿婆！阿公！Sam 來了！", pinyin: "aˊ poˇ! aˊ gungˊ! Sam loiˇ leˊ!"}
+    hl: {hanzi: "阿婆！阿公！Sam 來了！", pinyin: "a+ po! a+ gungˋ! Sam loi leˋ!"}
+  - n: 2
+    speaker: 阿英
+    en: "Sam, this is my grandma, and that's my grandpa."
+    zh: "Sam，這是我奶奶，那是我爺爺。"
+    sx: {hanzi: "Sam，這係吾婆，該係吾公。", pinyin: "Sam, iaˋ he ngaˊ poˇ, ge he ngaˊ gungˊ."}
+    hl: {hanzi: "Sam，這係𠊎婆，該係𠊎公。", pinyin: "Sam, liaˊ heˇ ngai po, gai heˇ ngai gungˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "So you're Sam? Welcome, welcome!"
+    sx: {hanzi: "你就係 Sam？歡迎，歡迎！", pinyin: "nˇ qiu he Sam? fonˊ ngiangˇ, fonˊ ngiangˇ!"}
+    hl: {hanzi: "你就係 Sam？歡迎，歡迎！", pinyin: "ngi ciu+ heˇ Sam? fonˋ ngiang, fonˋ ngiang!"}
+  - n: 4
+    speaker: Sam
+    en: "Thank you, Grandma."
+    sx: {hanzi: "恁仔細，阿婆。", pinyin: "anˋ ziiˋ se, aˊ poˇ."}
+    hl: {hanzi: "承蒙，阿婆。", pinyin: "shin mung, a+ po."}
+  - n: 5
+    speaker: 阿公
+    en: "Sit."
+    sx: {hanzi: "坐。", pinyin: "coˊ."}
+    hl: {hanzi: "坐。", pinyin: "coˋ."}
+  - n: 6
+    speaker: 阿英
+    en: "Dad, Mum, this is Sam."
+    sx: {hanzi: "阿爸，阿姆，佢係 Sam。", pinyin: "aˊ baˊ, aˊ meˊ, giˇ he Sam."}
+    hl: {hanzi: "阿爸，阿姆，佢係 Sam。", pinyin: "a+ baˋ, a+ meˋ, gi heˇ Sam."}
+  - n: 7
+    speaker: 阿姆
+    en: "Welcome! Come, Sam, this is your room."
+    zh: "歡迎！來，Sam，這是你的房間。"
+    sx: {hanzi: "歡迎！來，Sam，這係若間房。", pinyin: "fonˊ ngiangˇ! loiˇ, Sam, iaˋ he ngiaˊ gienˊ fongˇ."}
+    hl: {hanzi: "歡迎！來，Sam，這係若个間房。", pinyin: "fonˋ ngiang! loi, Sam, liaˊ heˇ ngia gaiˇ gienˋ fong."}
+  - n: 8
+    speaker: 阿明
+    en: "That one's mine."
+    sx: {hanzi: "該係𠊎个。", pinyin: "ge he ngaiˇ ge."}
+    hl: {hanzi: "該係𠊎个。", pinyin: "gai heˇ ngai gaiˇ."}
+  - n: 9
+    speaker: Sam
+    en: "Thank you, Mrs Liu!"
+    sx: {hanzi: "恁仔細，阿姆！", pinyin: "anˋ ziiˋ se, aˊ meˊ!"}
+    hl: {hanzi: "承蒙，阿姆！", pinyin: "shin mung, a+ meˋ!"}
+  - n: 10
+    speaker: 阿明
+    en: "(to A-in) Another thank-you…"
+    sx: {hanzi: "又係恁仔細……", pinyin: "iu he anˋ ziiˋ se…"}
+    hl: {hanzi: "又係承蒙……", pinyin: "rhiu+ heˇ shin mung…"}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      The family words: 阿公 aˊ gungˊ grandfather, 阿婆 aˊ poˇ grandmother (both on the father's side), 阿爸 aˊ baˊ
+      dad, 阿姆 aˊ meˊ mum. 阿公 you know from Taiwan Mandarin. Careful with the other two: in Mandarin 阿婆 is any old
+      woman and 阿姆 can be a nanny, but here they are Grandma and Mum. In sandhi, 阿 turns low before the rising 公,
+      爸, 姆 (aˇ gungˊ, aˇ baˊ, aˇ meˊ) and stays before 婆.
+  - ref: 1
+    topic: grammar
+    text: >
+      了 leˊ at the end of a sentence marks a new situation, like Mandarin 了: Sam 來了 "Sam's here (now)". It is a
+      rising tone, not a neutral one.
+  - ref: 2
+    topic: grammar
+    text: >
+      "My grandma" is 吾婆 ngaˊ poˇ: after 吾 "my", the 阿 drops. So 吾公, 吾婆, 吾爸, 吾姆, never *吾阿婆. The same
+      goes for "your" and "his/her": 若 ngiaˊ (若爸 "your dad") and 厥 giaˊ (厥姆 "his mum"), which you'll meet soon.
+      An easy way to hold them: each is its pronoun plus -a. 𠊎 ngaiˇ → 吾 ngaˊ, 你 ngiˇ → 若 ngiaˊ, 佢 giˇ → 厥 giaˊ.
+  - ref: 2
+    topic: false-friend
+    text: >
+      該 ge is "that", Mandarin 那: 這係… 該係… "this is… that is…". It has nothing to do with Mandarin 該 "should".
+      It is one of the most frequent words in Hakka (number 12 in the course's frequency list), so the reflex is
+      worth building now.
+  - ref: 3
+    topic: grammar
+    text: >
+      你就係 Sam？ "So you're Sam?": 就 qiu as in Mandarin 就是, the person in front of you being the one expected.
+      Grandma talks; Grandpa, in line 5, will not use two words where one will do.
+  - ref: 5
+    topic: pronunciation
+    text: >
+      坐 coˊ: Mandarin zuò, Hakka coˊ, with a puff of air (c = ts with aspiration) and a rising tone. Many Mandarin
+      tone-4 words with voiced old initials come out aspirated in Hakka: 坐 coˊ, 大 tai, 弟 taiˊ.
+  - ref: 7
+    topic: vocab
+    text: >
+      間房 gienˊ fongˇ is "bedroom", Mandarin 房間 the other way round. 若間房 "your room": 若 straight before the
+      noun. Before ordinary things you can also add 个 (若个間房); before family words, never.
+  - ref: 8
+    topic: grammar
+    text: >
+      个 ge is the Hakka 的: 𠊎个 "mine", 你个 "yours". It is the second most frequent word in Hakka; you will see it in
+      almost every line from now on. It is also the general classifier (lesson 5).
+  - ref: 10
+    topic: vocab
+    text: >
+      又係 iu he "again" (又是). A-min has started counting.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu says 𠊎婆, 𠊎公 (𠊎 before a family word, no 吾), and "your" is 若个 ngia gaiˇ. Its 个 is gaiˇ, its 該 gai,
+      its 這 liaˊ. Before a family word Hailu also uses plain 若 (若公 "your grandpa"). 阿 is a+ (mid level) in every Hailu kinship word.
+
+new_words:
+  - {hanzi: 阿婆, pinyin: "aˊ poˇ", en: "grandmother (father's mother)", hl: {hanzi: 阿婆, pinyin: "a+ po"}}
+  - {hanzi: 阿公, pinyin: "aˊ gungˊ", en: "grandfather (father's father)", hl: {hanzi: 阿公, pinyin: "a+ gungˋ"}}
+  - {hanzi: 了, pinyin: "leˊ", en: "(end of sentence) new situation, 了", hl: {hanzi: 了, pinyin: "leˋ"}}
+  - {hanzi: 婆, pinyin: "poˇ", en: "grandmother (after 吾, 若, 厥)", hl: {hanzi: 婆, pinyin: "po"}}
+  - {hanzi: 公, pinyin: "gungˊ", en: "grandfather (after 吾, 若, 厥)", hl: {hanzi: 公, pinyin: "gungˋ"}}
+  - {hanzi: 該, pinyin: "ge", en: "that (那)", hl: {hanzi: 該, pinyin: "gai"}}
+  - {hanzi: 就, pinyin: "qiu", en: "just, precisely; then (就)", hl: {hanzi: 就, pinyin: "ciu+"}}
+  - {hanzi: 坐, pinyin: "coˊ", en: "sit", hl: {hanzi: 坐, pinyin: "coˋ"}}
+  - {hanzi: 阿爸, pinyin: "aˊ baˊ", en: "dad", hl: {hanzi: 阿爸, pinyin: "a+ baˋ"}}
+  - {hanzi: 阿姆, pinyin: "aˊ meˊ", en: "mum", hl: {hanzi: 阿姆, pinyin: "a+ meˋ"}}
+  - {hanzi: 爸, pinyin: "baˊ", en: "dad (after 吾, 若, 厥)", hl: {hanzi: 爸, pinyin: "baˋ"}}
+  - {hanzi: 姆, pinyin: "meˊ", en: "mum (after 吾, 若, 厥)", hl: {hanzi: 姆, pinyin: "meˋ"}}
+  - {hanzi: 若, pinyin: "ngiaˊ", en: "your", hl: {hanzi: 若个, pinyin: "ngia gaiˇ"}}
+  - {hanzi: 間房, pinyin: "gienˊ fongˇ", en: "bedroom", hl: {hanzi: 間房, pinyin: "gienˋ fong"}}
+  - {hanzi: 个, pinyin: "ge", en: "'s, of (的)", hl: {hanzi: 个, pinyin: "gaiˇ"}}
+  - {hanzi: 又, pinyin: "iu", en: "again", hl: {hanzi: 又, pinyin: "rhiu+"}}
+
+exercises:
+  translate:
+    - en: "This is my dad, and that's my mum."
+      sx: {hanzi: "這係吾爸，該係吾姆。", pinyin: "iaˋ he ngaˊ baˊ, ge he ngaˊ meˊ."}
+      hl: {hanzi: "這係𠊎爸，該係𠊎姆。", pinyin: "liaˊ heˇ ngai baˋ, gai heˇ ngai meˋ."}
+    - en: "Is that your grandpa?"
+      sx: {hanzi: "該就係若公？", pinyin: "ge qiu he ngiaˊ gungˊ?"}
+      hl: {hanzi: "該就係若公？", pinyin: "gai ciu+ heˇ ngia gungˋ?"}
+    - en: "This is mine, that's yours."
+      sx: {hanzi: "這係𠊎个，該係你个。", pinyin: "iaˋ he ngaiˇ ge, ge he nˇ ge."}
+      hl: {hanzi: "這係𠊎个，該係你个。", pinyin: "liaˊ heˇ ngai gaiˇ, gai heˇ ngi gaiˇ."}
+    - en: "Grandma, A-in's here!"
+      sx: {hanzi: "阿婆，阿英來了！", pinyin: "aˊ poˇ, aˊ inˊ loiˇ leˊ!"}
+      hl: {hanzi: "阿婆，阿英來了！", pinyin: "a+ po, a+ rhinˋ loi leˋ!"}
+    - en: "A-min again!"
+      sx: {hanzi: "又係阿明！", pinyin: "iu he aˊ minˇ!"}
+      hl: {hanzi: "又係阿明！", pinyin: "rhiu+ heˇ a+ min!"}
+  fill:
+    - en: "This is my grandma."
+      sx: {hanzi: "這係___婆。", pinyin: "iaˋ he ___ poˇ.", answer_hanzi: "吾", answer: "ngaˊ"}
+      hl: {hanzi: "這係___婆。", pinyin: "liaˊ heˇ ___ po.", answer_hanzi: "𠊎", answer: "ngai"}
+    - en: "That's A-min's."
+      sx: {hanzi: "該係阿明___。", pinyin: "ge he aˊ minˇ ___.", answer_hanzi: "个", answer: "ge"}
+      hl: {hanzi: "該係阿明___。", pinyin: "gai heˇ a+ min ___.", answer_hanzi: "个", answer: "gaiˇ"}
+    - en: "Sit, A-in."
+      sx: {hanzi: "___，阿英。", pinyin: "___, aˊ inˊ.", answer_hanzi: "坐", answer: "coˊ"}
+      hl: {hanzi: "___，阿英。", pinyin: "___, a+ rhinˋ.", answer_hanzi: "坐", answer: "coˋ"}
+
+audio: []

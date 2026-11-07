@@ -1,0 +1,157 @@
+id: 3
+title:
+  en: "Have you eaten?"
+  sx: {hanzi: "食飽吂？", pinyin: "siid bauˋ mangˇ?"}
+  hl: {hanzi: "食飽吂？", pinyin: "shidˋ bauˊ mang?"}
+review: false
+setting: >-
+  Saturday, seven in the morning. Grandma has been up since five. Sam comes down to the kitchen still half asleep;
+  A-min is already at the table.
+names: [阿明, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Morning, Sam! Have you eaten?"
+    zh: "早！Sam，吃飽了沒？"
+    sx: {hanzi: "Sam，早！食飽吂？", pinyin: "Sam, zoˋ! siid bauˋ mangˇ?"}
+    hl: {hanzi: "Sam，早！食飽吂？", pinyin: "Sam, zoˊ! shidˋ bauˊ mang?"}
+  - n: 2
+    speaker: Sam
+    en: "Yes, I have, thank you!"
+    sx: {hanzi: "食飽了，恁仔細！", pinyin: "siid bauˋ leˊ, anˋ ziiˋ se!"}
+    hl: {hanzi: "食飽了，承蒙！", pinyin: "shidˋ bauˊ leˋ, shin mung!"}
+  - n: 3
+    speaker: 阿婆
+    en: "Eaten? You haven't eaten yet! Come, have a bowl of congee."
+    sx: {hanzi: "食飽了？你還吂食！來，食一碗粥。", pinyin: "siid bauˋ leˊ? nˇ hanˇ mangˇ siid! loiˇ, siid idˋ vonˋ zugˋ."}
+    hl: {hanzi: "食飽了？你還吂食！來，食一碗糜。", pinyin: "shidˋ bauˊ leˋ? ngi han mang shidˋ! loi, shidˋ rhid vonˊ moi."}
+  - n: 4
+    speaker: 阿明
+    en: "Grandma, I want eggs!"
+    zh: "奶奶，我要吃雞蛋！"
+    sx: {hanzi: "阿婆，𠊎愛食雞卵！", pinyin: "aˊ poˇ, ngaiˇ oi siid gieˊ lonˋ!"}
+    hl: {hanzi: "阿婆，𠊎愛食雞卵！", pinyin: "a+ po, ngai oiˇ shidˋ gaiˋ lonˊ!"}
+  - n: 5
+    speaker: 阿婆
+    en: "There are no eggs left. Eat your congee!"
+    sx: {hanzi: "雞卵無了。食粥！", pinyin: "gieˊ lonˋ moˇ leˊ. siid zugˋ!"}
+    hl: {hanzi: "雞卵無了。食糜！", pinyin: "gaiˋ lonˊ mo leˋ. shidˋ moi!"}
+  - n: 6
+    speaker: 阿明
+    en: "I'm not eating congee…"
+    sx: {hanzi: "𠊎毋食粥……", pinyin: "ngaiˇ mˇ siid zugˋ…"}
+    hl: {hanzi: "𠊎毋食糜……", pinyin: "ngai m shidˋ moi…"}
+  - n: 7
+    speaker: 阿婆
+    en: "If you won't, Sam will."
+    sx: {hanzi: "你毋食，Sam 食。", pinyin: "nˇ mˇ siid, Sam siid."}
+    hl: {hanzi: "你毋食，Sam 食。", pinyin: "ngi m shidˋ, Sam shidˋ."}
+  - n: 8
+    speaker: 阿明
+    en: "…I'll eat, I'll eat. Two bowls!"
+    sx: {hanzi: "……𠊎食，𠊎食。食兩碗！", pinyin: "… ngaiˇ siid, ngaiˇ siid. siid liongˋ vonˋ!"}
+    hl: {hanzi: "……𠊎食，𠊎食。食兩碗！", pinyin: "… ngai shidˋ, ngai shidˋ. shidˋ liongˊ vonˊ!"}
+  - n: 9
+    speaker: 阿婆
+    en: "(half an hour later) Sam, have you eaten?"
+    sx: {hanzi: "Sam，食飽吂？", pinyin: "Sam, siid bauˋ mangˇ?"}
+    hl: {hanzi: "Sam，食飽吂？", pinyin: "Sam, shidˋ bauˊ mang?"}
+  - n: 10
+    speaker: Sam
+    en: "Yes, I have!"
+    sx: {hanzi: "食飽了！", pinyin: "siid bauˋ leˊ!"}
+    hl: {hanzi: "食飽了！", pinyin: "shidˋ bauˊ leˋ!"}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      食飽吂？ siid bauˋ mangˇ "eaten (your fill) yet?" is how Hakka speakers greet each other at any hour, the
+      cousin of Taiwan Mandarin 吃飽沒. The expected reply is 食飽了 "yes, I have", whatever the truth. Sam knows the
+      formula; what he doesn't know yet is that at seven in the morning, at Grandma's table, it is also a real question.
+      早 zoˋ alone is a quick "morning!".
+  - ref: 1
+    topic: grammar
+    text: >
+      吂 mangˇ is "not yet" (還沒). At the end of a question it asks "…yet?": 食飽吂？ "eaten yet?". Before a verb it
+      says it hasn't happened yet: 你還吂食 "you haven't eaten yet" (還 hanˇ "still", as in Mandarin).
+  - ref: 1
+    topic: vocab
+    text: >
+      食 siid is "eat", Mandarin 吃: the single most useful Hakka verb. It also covers drinking (食茶, next lesson) and
+      smoking. Its -d is cut off short and the tone is high (no mark = high): siid, not "seed".
+  - ref: 3
+    topic: vocab
+    text: >
+      粥 zugˋ congee, the Hakka breakfast. 一碗粥 idˋ vonˋ zugˋ "a bowl of congee": the bowl is the measure, as in
+      Mandarin. Two bowls is 兩碗 liongˋ vonˋ (line 8), with 兩 for counting, like Mandarin.
+  - ref: 4
+    topic: false-friend
+    text: >
+      愛 oi is the everyday "want to, need to", Mandarin 要: 𠊎愛食雞卵 "I want (to eat) eggs". It is not "love".
+      Grandma's 你愛食 is "you have to eat". When a Mandarin speaker hears 我愛吃… he hears a confession; a Hakka
+      speaker hears an order at a breakfast stall. An egg is 雞卵 gieˊ lonˋ (卵 = 蛋).
+  - ref: 5
+    topic: grammar
+    text: >
+      Three negatives in one breakfast. 無 moˇ is "there isn't, have not" (沒有): 雞卵無了 "there are no eggs (any
+      more)". 毋 mˇ is "won't, not" (不): 𠊎毋食粥 "I'm not eating congee". 吂 mangˇ is "not yet". So 毋食 "won't eat",
+      無食 "didn't eat", 吂食 "hasn't eaten yet". If you can choose between 不 and 沒 in Mandarin, you can choose
+      between 毋 and 無; 吂 is the one Mandarin has to say in two words.
+  - ref: 7
+    topic: grammar
+    text: >
+      你毋食，Sam 食 "if you won't, Sam will": no word for "if" is needed; two clauses side by side do it, as they can
+      in Mandarin.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu calls congee 糜 moi, not 粥. Its 食 is shidˋ: Hailu has the sh, zh, ch sounds Sixian lost. And watch the
+      tone code on 食飽: Sixian siid bauˋ, Hailu shidˋ bauˊ.
+
+new_words:
+  - {hanzi: 早, pinyin: "zoˋ", en: "early; good morning", hl: {hanzi: 早, pinyin: "zoˊ"}}
+  - {hanzi: 食, pinyin: "siid", en: "eat (吃); also drink", hl: {hanzi: 食, pinyin: "shidˋ"}}
+  - {hanzi: 食飽, pinyin: "siid bauˋ", en: "have eaten, be full", hl: {hanzi: 食飽, pinyin: "shidˋ bauˊ"}}
+  - {hanzi: 吂, pinyin: "mangˇ", en: "not yet; (end of question) …yet?", hl: {hanzi: 吂, pinyin: "mang"}}
+  - {hanzi: 還, pinyin: "hanˇ", en: "still, yet (還)", hl: {hanzi: 還, pinyin: "han"}}
+  - {hanzi: 一, pinyin: "idˋ", en: "one, a", hl: {hanzi: 一, pinyin: "rhid"}}
+  - {hanzi: 碗, pinyin: "vonˋ", en: "bowl", hl: {hanzi: 碗, pinyin: "vonˊ"}}
+  - {hanzi: 粥, pinyin: "zugˋ", en: "congee, rice porridge", hl: {hanzi: 糜, pinyin: "moi"}}
+  - {hanzi: 愛, pinyin: "oi", en: "want to, need to (要)", hl: {hanzi: 愛, pinyin: "oiˇ"}}
+  - {hanzi: 雞卵, pinyin: "gieˊ lonˋ", en: "(hen's) egg", hl: {hanzi: 雞卵, pinyin: "gaiˋ lonˊ"}}
+  - {hanzi: 無, pinyin: "moˇ", en: "not have, there isn't (沒有)", hl: {hanzi: 無, pinyin: "mo"}}
+  - {hanzi: 毋, pinyin: "mˇ", en: "not, won't (不)", hl: {hanzi: 毋, pinyin: "m"}}
+  - {hanzi: 兩, pinyin: "liongˋ", en: "two (counting)", hl: {hanzi: 兩, pinyin: "liongˊ"}}
+  - {hanzi: 飯, pinyin: "fan", en: "rice, meal", hl: {hanzi: 飯, pinyin: "pon+"}}
+
+exercises:
+  translate:
+    - en: "A-min hasn't eaten yet."
+      sx: {hanzi: "阿明還吂食飯。", pinyin: "aˊ minˇ hanˇ mangˇ siid fan."}
+      hl: {hanzi: "阿明還吂食飯。", pinyin: "a+ min han mang shidˋ pon+."}
+    - en: "I don't eat eggs."
+      sx: {hanzi: "𠊎毋食雞卵。", pinyin: "ngaiˇ mˇ siid gieˊ lonˋ."}
+      hl: {hanzi: "𠊎毋食雞卵。", pinyin: "ngai m shidˋ gaiˋ lonˊ."}
+    - en: "There's no congee left."
+      sx: {hanzi: "粥無了。", pinyin: "zugˋ moˇ leˊ."}
+      hl: {hanzi: "糜無了。", pinyin: "moi mo leˋ."}
+    - en: "Grandma, I want two bowls!"
+      sx: {hanzi: "阿婆，𠊎愛兩碗！", pinyin: "aˊ poˇ, ngaiˇ oi liongˋ vonˋ!"}
+      hl: {hanzi: "阿婆，𠊎愛兩碗！", pinyin: "a+ po, ngai oiˇ liongˊ vonˊ!"}
+    - en: "Morning, A-in! Have you eaten?"
+      sx: {hanzi: "阿英，早！食飽吂？", pinyin: "aˊ inˊ, zoˋ! siid bauˋ mangˇ?"}
+      hl: {hanzi: "阿英，早！食飽吂？", pinyin: "a+ rhinˋ, zoˊ! shidˋ bauˊ mang?"}
+  fill:
+    - en: "Have you eaten (yet)?"
+      sx: {hanzi: "你食飽___？", pinyin: "nˇ siid bauˋ ___?", answer_hanzi: "吂", answer: "mangˇ"}
+      hl: {hanzi: "你食飽___？", pinyin: "ngi shidˋ bauˊ ___?", answer_hanzi: "吂", answer: "mang"}
+    - en: "There are no eggs left."
+      sx: {hanzi: "雞卵___了。", pinyin: "gieˊ lonˋ ___ leˊ.", answer_hanzi: "無", answer: "moˇ"}
+      hl: {hanzi: "雞卵___了。", pinyin: "gaiˋ lonˊ ___ leˋ.", answer_hanzi: "無", answer: "mo"}
+    - en: "He won't eat it, so I will."
+      sx: {hanzi: "佢___食，𠊎食。", pinyin: "giˇ ___ siid, ngaiˇ siid.", answer_hanzi: "毋", answer: "mˇ"}
+      hl: {hanzi: "佢___食，𠊎食。", pinyin: "gi ___ shidˋ, ngai shidˋ.", answer_hanzi: "毋", answer: "m"}
+
+audio: []

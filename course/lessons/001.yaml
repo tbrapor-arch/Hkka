@@ -1,0 +1,180 @@
+id: 1
+title:
+  en: "Arriving in Miaoli"
+  sx: {hanzi: "歡迎來苗栗", pinyin: "fonˊ ngiangˇ loiˇ meuˇ lid"}
+  hl: {hanzi: "歡迎來苗栗", pinyin: "fonˋ ngiang loi miau lidˋ"}
+review: false
+setting: >-
+  苗栗 station, a Friday evening. Sam has come down from Taipei to spend a year with the Liu family. A-in, his friend
+  from Taipei, is waiting on the platform with her little brother.
+names: [苗栗, 阿英, 阿明, 劉]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Sam, welcome to Miaoli!"
+    sx: {hanzi: "Sam，歡迎來苗栗！", pinyin: "Sam, fonˊ ngiangˇ loiˇ meuˇ lid!"}
+    hl: {hanzi: "Sam，歡迎來苗栗！", pinyin: "Sam, fonˋ ngiang loi miau lidˋ!"}
+  - n: 2
+    speaker: Sam
+    en: "Thank you, A-in!"
+    sx: {hanzi: "恁仔細，阿英！", pinyin: "anˋ ziiˋ se, aˊ inˊ!"}
+    hl: {hanzi: "承蒙，阿英！", pinyin: "shin mung, a+ rhinˋ!"}
+  - n: 3
+    speaker: 阿英
+    en: "You can speak Hakka!"
+    zh: "你會說客家話！"
+    sx: {hanzi: "你會講客話！", pinyin: "nˇ voi gongˋ hagˋ fa!"}
+    hl: {hanzi: "你會講客話！", pinyin: "ngi voi+ gongˊ hag voiˋ!"}
+  - n: 4
+    speaker: Sam
+    en: "A little."
+    sx: {hanzi: "一息仔。", pinyin: "idˋ xid eˋ."}
+    hl: {hanzi: "一息仔。", pinyin: "rhid sid er+."}
+  - n: 5
+    speaker: 阿英
+    en: "Sam, this is my little brother, A-min. A-min, this is Sam."
+    zh: "Sam，這是我弟弟阿明。阿明，他是Sam。"
+    sx: {hanzi: "Sam，這係吾老弟，阿明。阿明，佢係 Sam。", pinyin: "Sam, iaˋ he ngaˊ loˋ taiˊ, aˊ minˇ. aˊ minˇ, giˇ he Sam."}
+    hl: {hanzi: "Sam，這係𠊎老弟，阿明。阿明，佢係 Sam。", pinyin: "Sam, liaˊ heˇ ngai loˊ taiˋ, a+ min. a+ min, gi heˇ Sam."}
+  - n: 6
+    speaker: 阿明
+    en: "What's your surname?"
+    sx: {hanzi: "你姓麼个？", pinyin: "nˇ xiang maˋ ge?"}
+    hl: {hanzi: "你姓麼个？", pinyin: "ngi siangˇ maˊ gaiˇ?"}
+  - n: 7
+    speaker: Sam
+    en: "My surname is… Sam."
+    sx: {hanzi: "𠊎姓……Sam。", pinyin: "ngaiˇ xiang… Sam."}
+    hl: {hanzi: "𠊎姓……Sam。", pinyin: "ngai siangˇ… Sam."}
+  - n: 8
+    speaker: 阿明
+    en: "Sam isn't a surname!"
+    sx: {hanzi: "Sam 毋係姓！", pinyin: "Sam mˇ he xiang!"}
+    hl: {hanzi: "Sam 毋係姓！", pinyin: "Sam m heˇ siangˇ!"}
+  - n: 9
+    speaker: Sam
+    en: "Right, right… My surname is Brown."
+    sx: {hanzi: "係，係……𠊎姓 Brown。", pinyin: "he, he… ngaiˇ xiang Brown."}
+    hl: {hanzi: "係，係……𠊎姓 Brown。", pinyin: "heˇ, heˇ… ngai siangˇ Brown."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      苗栗 Miaoli is the county of northern Taiwan where Hakka is most at home, and most of its Hakka speak Sixian
+      (四縣), the accent this course follows. The Liu family lives just outside the county town. You will hear Hailu
+      (海陸), the other big northern accent, from lesson 50; every line is already written in both, and the app can
+      switch.
+  - ref: 1
+    topic: pronunciation
+    text: >
+      歡迎 fonˊ ngiangˇ shows two of the regular sound shifts from Mandarin (Lesson 0, §6): Mandarin h- before u
+      often becomes f- (huān → fonˊ), and many Mandarin y- words start with ng- (yíng → ngiangˇ). Try the ng- alone
+      first, as at the end of English "sing", then open into the vowel. 來 loiˇ is low and flat: ˇ is not a dip.
+  - ref: 2
+    topic: vocab
+    text: >
+      恁仔細 anˋ ziiˋ se is "thank you" in Sixian, the word everyone in Miaoli says (多謝 doˊ qia is also understood).
+      It is usually explained as "you are so thoughtful": 恁 anˋ "so", 仔細 ziiˋ se "careful". Three syllables,
+      falling, falling, high: an-zii-SE.
+  - ref: 2
+    topic: sandhi
+    text: >
+      Said aloud, 阿英 aˊ inˊ is aˇ inˊ: a rising syllable (ˊ) turns low (ˇ) before another rising one. It is the only
+      big sandhi rule in Sixian (Lesson 0, §4), and 阿 + name is where you will hear it most: 阿英 aˇ inˊ, but 阿明
+      aˊ minˇ stays, because 明 is low.
+  - ref: 3
+    topic: vocab
+    text: >
+      講 gongˋ is the everyday "speak, say"; 說 belongs to books. 客話 hagˋ fa is the Hakka language (Mandarin
+      客家話). 會 voi is "can" for something learned, as in Mandarin: 你會講客話 "you can speak Hakka". Note 話 fa:
+      Mandarin hu- again becoming f-.
+  - ref: 4
+    topic: vocab
+    text: >
+      一息仔 idˋ xid eˋ "a little, a bit" (一點點). 仔 eˋ is a very common noun ending; it often makes things small or
+      familiar. The modest answer to any compliment on your Hakka.
+  - ref: 5
+    topic: grammar
+    text: >
+      係 he is 是: 這係… "this is…", 佢係 Sam "he is Sam". 佢 giˇ is he, she and it, as spoken Mandarin 他 covers
+      everyone. With 𠊎 ngaiˇ "I, me" and 你 nˇ "you", you now have the three pronouns. 你 is also said ngiˇ, the
+      older form; nˇ is what you will hear most.
+  - ref: 5
+    topic: grammar
+    text: >
+      吾老弟 ngaˊ loˋ taiˊ "my little brother": 吾 ngaˊ is "my", and it goes straight before a family word, with
+      nothing in between. 老弟 is a younger brother (老 here has nothing to do with age; a younger sister is 老妹).
+      Lesson 2 does "my, your, his" properly.
+  - ref: 6
+    topic: vocab
+    text: >
+      麼个 maˋ ge is 什麼 "what". 你姓麼个？ is the plain way to ask a surname, fine from a teenager; adults ask
+      more politely, which comes later. 姓 xiang: x before i, as in pinyin.
+  - ref: 8
+    topic: grammar
+    text: >
+      毋係 mˇ he "is not" (不是). The "not" of 係 is always 毋 mˇ, a syllable that is just a hummed m, low and flat.
+      Hakka has several words for "not" where Mandarin has 不 and 沒; 毋 is the first. A-min's correction is fair:
+      Sam put his first name where the surname goes.
+  - ref: 9
+    topic: grammar
+    text: >
+      係 on its own is "yes, that's right", the way Mandarin answers 是. Doubled, 係，係…, it is the embarrassed
+      "right, right".
+  - ref: 0
+    topic: hailu
+    text: >
+      In Hailu, "thank you" is 承蒙 shin mung, and "my little brother" is 𠊎老弟 ngai loˊ taiˋ: Hailu uses 𠊎
+      where Sixian has 吾 before a family word. Notice the tone code (Lesson 0, §8): Sixian 講 gongˋ is Hailu gongˊ,
+      Sixian 歡 fonˊ is Hailu fonˋ.
+
+new_words:
+  - {hanzi: 歡迎, pinyin: "fonˊ ngiangˇ", en: "welcome", hl: {hanzi: 歡迎, pinyin: "fonˋ ngiang"}}
+  - {hanzi: 來, pinyin: "loiˇ", en: "come", hl: {hanzi: 來, pinyin: "loi"}}
+  - {hanzi: 恁仔細, pinyin: "anˋ ziiˋ se", en: "thank you", hl: {hanzi: 承蒙, pinyin: "shin mung"}}
+  - {hanzi: 你, pinyin: "nˇ", en: "you", hl: {hanzi: 你, pinyin: "ngi"}}
+  - {hanzi: 會, pinyin: "voi", en: "can, know how to", hl: {hanzi: 會, pinyin: "voi+"}}
+  - {hanzi: 講, pinyin: "gongˋ", en: "speak, say", hl: {hanzi: 講, pinyin: "gongˊ"}}
+  - {hanzi: 客話, pinyin: "hagˋ fa", en: "the Hakka language", hl: {hanzi: 客話, pinyin: "hag voiˋ"}}
+  - {hanzi: 一息仔, pinyin: "idˋ xid eˋ", en: "a little, a bit", hl: {hanzi: 一息仔, pinyin: "rhid sid er+"}}
+  - {hanzi: 這, pinyin: "iaˋ", en: "this", hl: {hanzi: 這, pinyin: "liaˊ"}}
+  - {hanzi: 係, pinyin: "he", en: "be (是); yes", hl: {hanzi: 係, pinyin: "heˇ"}}
+  - {hanzi: 吾, pinyin: "ngaˊ", en: "my", hl: {hanzi: 𠊎, pinyin: "ngai"}}
+  - {hanzi: 老弟, pinyin: "loˋ taiˊ", en: "younger brother", hl: {hanzi: 老弟, pinyin: "loˊ taiˋ"}}
+  - {hanzi: 佢, pinyin: "giˇ", en: "he, she, it", hl: {hanzi: 佢, pinyin: "gi"}}
+  - {hanzi: 姓, pinyin: "xiang", en: "surname; be surnamed", hl: {hanzi: 姓, pinyin: "siangˇ"}}
+  - {hanzi: 麼个, pinyin: "maˋ ge", en: "what", hl: {hanzi: 麼个, pinyin: "maˊ gaiˇ"}}
+  - {hanzi: 𠊎, pinyin: "ngaiˇ", en: "I, me", hl: {hanzi: 𠊎, pinyin: "ngai"}}
+  - {hanzi: 毋係, pinyin: "mˇ he", en: "is not (不是)", hl: {hanzi: 毋係, pinyin: "m heˇ"}}
+
+exercises:
+  translate:
+    - en: "This is A-min."
+      sx: {hanzi: "這係阿明。", pinyin: "iaˋ he aˊ minˇ."}
+      hl: {hanzi: "這係阿明。", pinyin: "liaˊ heˇ a+ min."}
+    - en: "I can speak a little Hakka."
+      sx: {hanzi: "𠊎會講一息仔客話。", pinyin: "ngaiˇ voi gongˋ idˋ xid eˋ hagˋ fa."}
+      hl: {hanzi: "𠊎會講一息仔客話。", pinyin: "ngai voi+ gongˊ rhid sid er+ hag voiˋ."}
+    - en: "He isn't my little brother."
+      sx: {hanzi: "佢毋係吾老弟。", pinyin: "giˇ mˇ he ngaˊ loˋ taiˊ."}
+      hl: {hanzi: "佢毋係𠊎老弟。", pinyin: "gi m heˇ ngai loˊ taiˋ."}
+    - en: "Welcome, A-in!"
+      sx: {hanzi: "阿英，歡迎！", pinyin: "aˊ inˊ, fonˊ ngiangˇ!"}
+      hl: {hanzi: "阿英，歡迎！", pinyin: "a+ rhinˋ, fonˋ ngiang!"}
+    - en: "What did you say?"
+      sx: {hanzi: "你講麼个？", pinyin: "nˇ gongˋ maˋ ge?"}
+      hl: {hanzi: "你講麼个？", pinyin: "ngi gongˊ maˊ gaiˇ?"}
+  fill:
+    - en: "My surname is Liu."
+      sx: {hanzi: "𠊎___劉。", pinyin: "ngaiˇ ___ liuˇ.", answer_hanzi: "姓", answer: "xiang"}
+      hl: {hanzi: "𠊎___劉。", pinyin: "ngai ___ liu.", answer_hanzi: "姓", answer: "siangˇ"}
+    - en: "She isn't A-in."
+      sx: {hanzi: "佢___阿英。", pinyin: "giˇ ___ aˊ inˊ.", answer_hanzi: "毋係", answer: "mˇ he"}
+      hl: {hanzi: "佢___阿英。", pinyin: "gi ___ a+ rhinˋ.", answer_hanzi: "毋係", answer: "m heˇ"}
+    - en: "Thank you, A-min!"
+      sx: {hanzi: "___，阿明！", pinyin: "___, aˊ minˇ!", answer_hanzi: "恁仔細", answer: "anˋ ziiˋ se"}
+      hl: {hanzi: "___，阿明！", pinyin: "___, a+ min!", answer_hanzi: "承蒙", answer: "shin mung"}
+
+audio: []

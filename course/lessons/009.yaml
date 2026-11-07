@@ -1,0 +1,154 @@
+id: 9
+title:
+  en: "It's going to rain"
+  sx: {hanzi: "會落雨", pinyin: "voi log iˋ"}
+  hl: {hanzi: "會落水", pinyin: "voi+ logˋ shuiˊ"}
+review: false
+setting: >-
+  Wednesday morning, a blue sky. Grandma is carrying out the washing; Grandpa is on the porch with his tea, looking at
+  the hills.
+names: [阿明, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "The sun's strong today. Sam, come and hang out the washing!"
+    sx: {hanzi: "今晡日日頭當大。Sam，來晒衫褲！", pinyin: "gimˊ buˊ ngidˋ ngidˋ teuˇ dongˊ tai. Sam, loiˇ sai samˊ fu!"}
+    hl: {hanzi: "今晡日日頭當大。Sam，來晒衫褲！", pinyin: "gimˋ buˋ ngid ngid teu dongˋ tai+. Sam, loi saiˇ samˋ fuˇ!"}
+  - n: 2
+    speaker: 阿公
+    en: "(looking at the hills) It's going to rain."
+    sx: {hanzi: "會落雨。", pinyin: "voi log iˋ."}
+    hl: {hanzi: "會落水。", pinyin: "voi+ logˋ shuiˊ."}
+  - n: 3
+    speaker: Sam
+    en: "Rain? The sky's so blue, the sun's so strong… It won't!"
+    sx: {hanzi: "會落雨？天恁青，日頭恁大……毋會！", pinyin: "voi log iˋ? tienˊ anˋ qiangˊ, ngidˋ teuˇ anˋ tai … mˇ voi!"}
+    hl: {hanzi: "會落水？天恁青，日頭恁大……毋會！", pinyin: "voi+ logˋ shuiˊ? tienˋ anˊ ciangˋ, ngid teu anˊ tai+ … m voi+!"}
+  - n: 4
+    speaker: 阿婆
+    en: "If Grandpa says it'll rain, it'll rain."
+    sx: {hanzi: "阿公講會落雨，就會落雨。", pinyin: "aˊ gungˊ gongˋ voi log iˋ, qiu voi log iˋ."}
+    hl: {hanzi: "阿公講會落水，就會落水。", pinyin: "a+ gungˋ gongˊ voi+ logˋ shuiˊ, ciu+ voi+ logˋ shuiˊ."}
+  - n: 5
+    speaker: 阿婆
+    en: "(three hours later) Sam! It's raining! Quick, get the washing in!"
+    sx: {hanzi: "Sam！落雨了！遽遽收衫褲！", pinyin: "Sam! log iˋ leˊ! giagˋ giagˋ suˊ samˊ fu!"}
+    hl: {hanzi: "Sam！落水了！遽遽收衫褲！", pinyin: "Sam! logˋ shuiˊ leˋ! giag giag shiuˋ samˋ fuˇ!"}
+  - n: 6
+    speaker: Sam
+    en: "(back on the porch, soaked) Such heavy rain…"
+    sx: {hanzi: "雨恁大……", pinyin: "iˋ anˋ tai …"}
+    hl: {hanzi: "水恁大……", pinyin: "shuiˊ anˊ tai+ …"}
+  - n: 7
+    speaker: 阿公
+    en: "(perfectly dry) I told you."
+    sx: {hanzi: "𠊎講了。", pinyin: "ngaiˇ gongˋ leˊ."}
+    hl: {hanzi: "𠊎講了。", pinyin: "ngai gongˊ leˋ."}
+  - n: 8
+    speaker: Sam
+    en: "Grandpa, how did you know?"
+    sx: {hanzi: "阿公，你仰般知？", pinyin: "aˊ gungˊ, nˇ ngiongˋ banˊ diˊ?"}
+    hl: {hanzi: "阿公，你仰般知？", pinyin: "a+ gungˋ, ngi ngiongˊ banˋ diˋ?"}
+  - n: 9
+    speaker: 阿公
+    en: "Look at the sky."
+    sx: {hanzi: "看天。", pinyin: "kon tienˊ."}
+    hl: {hanzi: "看天。", pinyin: "konˇ tienˋ."}
+  - n: 10
+    speaker: 阿公
+    en: "(pouring a cup) Cold? Have some hot tea."
+    sx: {hanzi: "冷無？食燒茶。", pinyin: "langˊ moˇ? siid seuˊ caˇ."}
+    hl: {hanzi: "冷無？食燒茶。", pinyin: "langˋ mo? shidˋ shauˋ ca."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      日頭 ngidˋ teuˇ "the sun" (太陽); 日頭當大 "the sun is strong", literally "very big". 晒衫褲 sai samˊ fu "hang
+      the washing out in the sun". 衫褲 "clothes", literally "tops and trousers"; 衫 samˊ alone is a top, a shirt.
+  - ref: 2
+    topic: grammar
+    text: >
+      會 voi, which you know as "can" (會講客話), also says what is going to happen: 會落雨 "it's going to rain".
+      Mandarin does this too (會下雨), but Hakka leans on it harder: 會 can mean "about to, any minute now", as in
+      會落雨了 "it's about to rain". Its negative is 毋會 "won't" (line 3). 落雨 log iˋ "rain" (下雨): rain "falls".
+  - ref: 4
+    topic: grammar
+    text: >
+      阿公講會落雨，就會落雨 "if Grandpa says it'll rain, it'll rain": as in lesson 3, the "if" is unspoken, and 就
+      qiu "then" carries it, as in Mandarin.
+  - ref: 5
+    topic: grammar
+    text: >
+      落雨了 "it's raining (now)": 了 at the end marks the change, as in 雞卵無了 and 這下五點半了. 遽遽 giagˋ giagˋ
+      "quick, hurry" (快快). 收 suˊ "take in, collect", as in Mandarin.
+  - ref: 7
+    topic: grammar
+    text: >
+      𠊎講了 "I told you (so)", three syllables of pure satisfaction. Grandpa has now said nine words in four lessons
+      and been right every time.
+  - ref: 8
+    topic: vocab
+    text: >
+      仰般 ngiongˋ banˊ "how" (怎麼, 怎樣): 你仰般知？ "how do you know?". 知 diˊ "know" (知道); 毋知 "don't know".
+      Mandarin zh- → d- here: 知 zhī → diˊ, an old pronunciation Hakka kept.
+  - ref: 10
+    topic: false-friend
+    text: >
+      Two kinds of hot. 燒 seuˊ is hot to the touch: 燒茶 "hot tea", 粥當燒 "the congee is very hot". 熱 ngied is hot
+      weather or a hot body: 今晡日當熱 "it's very hot today". Mandarin 燒 is "burn" or "fever"; here it is the
+      everyday word for anything you can scald your tongue on. 冷 langˊ "cold".
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu does not say 落雨: it says 落水 logˋ shuiˊ, "water falls", and rain is 水. So 會落水 "it's going to rain",
+      水恁大 "such heavy rain". 燒 is shauˋ, 收 shiuˋ.
+
+new_words:
+  - {hanzi: 日頭, pinyin: "ngidˋ teuˇ", en: "the sun", hl: {hanzi: 日頭, pinyin: "ngid teu"}}
+  - {hanzi: 晒, pinyin: "sai", en: "put in the sun, dry", hl: {hanzi: 晒, pinyin: "saiˇ"}}
+  - {hanzi: 衫褲, pinyin: "samˊ fu", en: "clothes", hl: {hanzi: 衫褲, pinyin: "samˋ fuˇ"}}
+  - {hanzi: 落雨, pinyin: "log iˋ", en: "rain (verb)", hl: {hanzi: 落水, pinyin: "logˋ shuiˊ"}}
+  - {hanzi: 天, pinyin: "tienˊ", en: "sky", hl: {hanzi: 天, pinyin: "tienˋ"}}
+  - {hanzi: 遽遽, pinyin: "giagˋ giagˋ", en: "quickly, hurry", hl: {hanzi: 遽遽, pinyin: "giag giag"}}
+  - {hanzi: 收, pinyin: "suˊ", en: "take in, collect", hl: {hanzi: 收, pinyin: "shiuˋ"}}
+  - {hanzi: 雨, pinyin: "iˋ", en: "rain (noun)", hl: {hanzi: 水, pinyin: "shuiˊ"}}
+  - {hanzi: 仰般, pinyin: "ngiongˋ banˊ", en: "how", hl: {hanzi: 仰般, pinyin: "ngiongˊ banˋ"}}
+  - {hanzi: 知, pinyin: "diˊ", en: "know", hl: {hanzi: 知, pinyin: "diˋ"}}
+  - {hanzi: 冷, pinyin: "langˊ", en: "cold", hl: {hanzi: 冷, pinyin: "langˋ"}}
+  - {hanzi: 燒, pinyin: "seuˊ", en: "hot (to the touch)", hl: {hanzi: 燒, pinyin: "shauˋ"}}
+  - {hanzi: 熱, pinyin: "ngied", en: "hot (weather)", hl: {hanzi: 熱, pinyin: "ngiedˋ"}}
+  - {hanzi: 衫, pinyin: "samˊ", en: "top, shirt", hl: {hanzi: 衫, pinyin: "samˋ"}}
+  - {hanzi: 七, pinyin: "qidˋ", en: "seven", hl: {hanzi: 七, pinyin: "cid"}}
+  - {hanzi: 九, pinyin: "giuˋ", en: "nine", hl: {hanzi: 九, pinyin: "giuˊ"}}
+
+exercises:
+  translate:
+    - en: "It's going to rain tomorrow."
+      sx: {hanzi: "天光日會落雨。", pinyin: "tienˊ gongˊ ngidˋ voi log iˋ."}
+      hl: {hanzi: "韶早會落水。", pinyin: "shau zoˊ voi+ logˋ shuiˊ."}
+    - en: "This congee is very hot."
+      sx: {hanzi: "這碗粥當燒。", pinyin: "iaˋ vonˋ zugˋ dongˊ seuˊ."}
+      hl: {hanzi: "這碗糜當燒。", pinyin: "liaˊ vonˊ moi dongˋ shauˋ."}
+    - en: "It's so hot today!"
+      sx: {hanzi: "今晡日恁熱！", pinyin: "gimˊ buˊ ngidˋ anˋ ngied!"}
+      hl: {hanzi: "今晡日恁熱！", pinyin: "gimˋ buˋ ngid anˊ ngiedˋ!"}
+    - en: "Grandma is drying A-min's shirt."
+      sx: {hanzi: "阿婆在該晒阿明个衫。", pinyin: "aˊ poˇ du ge sai aˊ minˇ ge samˊ."}
+      hl: {hanzi: "阿婆在該晒阿明个衫。", pinyin: "a+ po diˇ gai saiˇ a+ min gaiˇ samˋ."}
+    - en: "I don't know. It's seven now; at nine A-in is coming."
+      sx: {hanzi: "𠊎毋知。這下七點，九點阿英會來。", pinyin: "ngaiˇ mˇ diˊ. iaˋ ha qidˋ diamˋ, giuˋ diamˋ aˊ inˊ voi loiˇ."}
+      hl: {hanzi: "𠊎毋知。這下七點，九點阿英會來。", pinyin: "ngai m diˋ. liaˊ ha+ cid diamˊ, giuˊ diamˊ a+ rhinˋ voi+ loi."}
+  fill:
+    - en: "It's raining!"
+      sx: {hanzi: "落雨___！", pinyin: "log iˋ ___!", answer_hanzi: "了", answer: "leˊ"}
+      hl: {hanzi: "落水___！", pinyin: "logˋ shuiˊ ___!", answer_hanzi: "了", answer: "leˋ"}
+    - en: "How do you know?"
+      sx: {hanzi: "你___知？", pinyin: "nˇ ___ diˊ?", answer_hanzi: "仰般", answer: "ngiongˋ banˊ"}
+      hl: {hanzi: "你___知？", pinyin: "ngi ___ diˋ?", answer_hanzi: "仰般", answer: "ngiongˊ banˋ"}
+    - en: "Have some hot tea."
+      sx: {hanzi: "食___茶。", pinyin: "siid ___ caˇ.", answer_hanzi: "燒", answer: "seuˊ"}
+      hl: {hanzi: "食___茶。", pinyin: "shidˋ ___ ca.", answer_hanzi: "燒", answer: "shauˋ"}
+
+audio: []

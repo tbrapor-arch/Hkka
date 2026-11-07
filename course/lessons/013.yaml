@@ -1,0 +1,154 @@
+id: 13
+title:
+  en: "The bus to 公館"
+  sx: {hanzi: "走！", pinyin: "zeuˋ!"}
+  hl: {hanzi: "走！", pinyin: "zeuˊ!"}
+review: false
+setting: >-
+  Sunday morning. Sam's stomach is better, and he has decided to go to 公館, the next town, on his own. He walks down
+  to the main road and asks an old man sitting outside a shop.
+names: [公館]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Excuse me, sir, what number bus goes to 公館?"
+    sx: {hanzi: "阿伯，去公館愛坐幾號巴士？", pinyin: "aˊ bagˋ, hi gungˊ gonˋ oi coˊ giˋ ho ba siiˋ?"}
+    hl: {hanzi: "阿伯，去公館愛坐幾號巴士？", pinyin: "a+ bag, hiˇ gungˋ gonˊ oiˇ coˋ giˊ ho+ ba siiˋ?"}
+  - n: 2
+    speaker: 阿伯
+    en: "Number five. The stop's over there: go straight on, it's on the left."
+    sx: {hanzi: "五號。車站在該位：直直行，在左片。", pinyin: "ngˋ ho. caˊ zam cai ge vi: ciid ciid hangˇ, cai zoˋ pienˋ."}
+    hl: {hanzi: "五號。車站在該位：直直行，在左片。", pinyin: "ngˊ ho+. chaˋ zhamˇ cai+ gai vui+: chidˋ chidˋ hang, cai+ zoˊ pienˊ."}
+  - n: 3
+    speaker: Sam
+    en: "Thank you, sir!"
+    sx: {hanzi: "恁仔細，阿伯！", pinyin: "anˋ ziiˋ se, aˊ bagˋ!"}
+    hl: {hanzi: "承蒙，阿伯！", pinyin: "shin mung, a+ bag!"}
+  - n: 4
+    speaker: 阿伯
+    en: "(two minutes later, shouting) The five's coming! Run! Run!"
+    sx: {hanzi: "五號來了！走！走！", pinyin: "ngˋ ho loiˇ leˊ! zeuˋ! zeuˋ!"}
+    hl: {hanzi: "五號來了！走！走！", pinyin: "ngˊ ho+ loi leˋ! zeuˊ! zeuˊ!"}
+  - n: 5
+    speaker: Sam
+    en: "(strolling on, waving) Yes, yes, I'm going!"
+    sx: {hanzi: "係，係，𠊎在該走！", pinyin: "he, he, ngaiˇ du ge zeuˋ!"}
+    hl: {hanzi: "係，係，𠊎在該走！", pinyin: "heˇ, heˇ, ngai diˇ gai zeuˊ!"}
+  - n: 6
+    speaker: 阿伯
+    en: "You're walking! RUN! Quick!"
+    sx: {hanzi: "你在該行！走！遽遽走！", pinyin: "nˇ du ge hangˇ! zeuˋ! giagˋ giagˋ zeuˋ!"}
+    hl: {hanzi: "你在該行！走！遽遽走！", pinyin: "ngi diˇ gai hang! zeuˊ! giag giag zeuˊ!"}
+  - n: 7
+    speaker: Sam
+    en: "(running now, far too late) Wait for me!"
+    sx: {hanzi: "等𠊎！", pinyin: "denˋ ngaiˇ!"}
+    hl: {hanzi: "等𠊎！", pinyin: "denˊ ngai!"}
+  - n: 8
+    speaker: 阿伯
+    en: "(as the bus pulls away) Don't worry, there's one every twenty minutes."
+    sx: {hanzi: "毋使驚，二十分鐘一班。", pinyin: "mˇ siiˋ giangˊ, ngi siib funˊ zungˊ idˋ banˊ."}
+    hl: {hanzi: "毋使驚，二十分鐘一班。", pinyin: "m siiˊ giangˋ, ngi+ shibˋ funˋ zhungˋ rhid banˋ."}
+  - n: 9
+    speaker: Sam
+    en: "Twenty minutes? I'll walk."
+    sx: {hanzi: "二十分鐘？𠊎行路去。", pinyin: "ngi siib funˊ zungˊ? ngaiˇ hangˇ lu hi."}
+    hl: {hanzi: "二十分鐘？𠊎行路去。", pinyin: "ngi+ shibˋ funˋ zhungˋ? ngai hang lu+ hiˇ."}
+  - n: 10
+    speaker: 阿伯
+    en: "Walk? You'll be walking till tonight!"
+    sx: {hanzi: "行路？行到暗晡！", pinyin: "hangˇ lu? hangˇ do am buˊ!"}
+    hl: {hanzi: "行路？行到暗晡！", pinyin: "hang lu+? hang doˇ amˇ buˋ!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      公館 gungˊ gonˋ is a township a few kilometres east of Miaoli town, almost entirely Hakka, known for red dates,
+      福菜 (the dried mustard greens of lesson 8) and pottery kilns.
+  - ref: 1
+    topic: vocab
+    text: >
+      阿伯 aˊ bagˋ "uncle", literally father's elder brother, and the polite way to address any older man you don't
+      know. 坐 coˊ "sit" also means "ride, take" (a bus, a train), as in Mandarin. 巴士 ba siiˋ "bus", from English;
+      幾號 "what number".
+  - ref: 2
+    topic: vocab
+    text: >
+      Directions: 直直行 ciid ciid hangˇ "go straight on", 左片 zoˋ pienˋ "the left (side)", 右片 iu pienˋ "the
+      right". 片 is "side" (邊). 該位 ge vi "over there": 位 vi is "place", so 這位 / 該位 / 哪位 are "here / there /
+      where". 車站 caˊ zam "bus stop, station".
+  - ref: 4
+    topic: false-friend
+    text: >
+      The big one. 走 zeuˋ is "run" (Mandarin 跑), as it was in classical Chinese. "Walk" is 行 hangˇ. So 走！ shouted
+      at a bus stop means "run!", and 𠊎在該走 means "I'm running", which Sam, strolling, plainly is not. 行路 hangˇ
+      lu "walk, go on foot" (走路).
+  - ref: 7
+    topic: vocab
+    text: >
+      等 denˋ "wait (for)": 等𠊎！ "wait for me!". As in Mandarin.
+  - ref: 8
+    topic: false-friend
+    text: >
+      驚 giangˊ is "be afraid, worry" (怕), the everyday word, not just "startled": 毋使驚 "don't worry, no need to
+      be scared". 分鐘 funˊ zungˊ "minute"; 一班 "one run (of a bus)".
+  - ref: 10
+    topic: grammar
+    text: >
+      行到暗晡 "walk until evening": 到 "until", as in 睡到十點. 暗晡 am buˊ "evening, tonight" (晚上). 公館 is not
+      that far; the old man is enjoying himself.
+  - ref: 0
+    topic: hailu
+    text: >
+      In Hailu, "the right" is 正手片 zhinˇ shiuˊ pienˊ, "the right-hand side", not 右片. 走 zeuˊ and 行 hang mean
+      what they mean in Sixian: run and walk.
+
+new_words:
+  - {hanzi: 阿伯, pinyin: "aˊ bagˋ", en: "uncle; (to an older man) sir", hl: {hanzi: 阿伯, pinyin: "a+ bag"}}
+  - {hanzi: 號, pinyin: "ho", en: "number", hl: {hanzi: 號, pinyin: "ho+"}}
+  - {hanzi: 巴士, pinyin: "ba siiˋ", en: "bus", hl: {hanzi: 巴士, pinyin: "ba siiˋ"}}
+  - {hanzi: 車站, pinyin: "caˊ zam", en: "bus stop, station", hl: {hanzi: 車站, pinyin: "chaˋ zhamˇ"}}
+  - {hanzi: 位, pinyin: "vi", en: "place", hl: {hanzi: 位, pinyin: "vui+"}}
+  - {hanzi: 直直, pinyin: "ciid ciid", en: "straight on", hl: {hanzi: 直直, pinyin: "chidˋ chidˋ"}}
+  - {hanzi: 行, pinyin: "hangˇ", en: "walk, go", hl: {hanzi: 行, pinyin: "hang"}}
+  - {hanzi: 左片, pinyin: "zoˋ pienˋ", en: "left (side)", hl: {hanzi: 左片, pinyin: "zoˊ pienˊ"}}
+  - {hanzi: 右片, pinyin: "iu pienˋ", en: "right (side)", hl: {hanzi: 正手片, pinyin: "zhinˇ shiuˊ pienˊ"}}
+  - {hanzi: 走, pinyin: "zeuˋ", en: "run", hl: {hanzi: 走, pinyin: "zeuˊ"}}
+  - {hanzi: 等, pinyin: "denˋ", en: "wait (for)", hl: {hanzi: 等, pinyin: "denˊ"}}
+  - {hanzi: 驚, pinyin: "giangˊ", en: "be afraid, worry", hl: {hanzi: 驚, pinyin: "giangˋ"}}
+  - {hanzi: 分鐘, pinyin: "funˊ zungˊ", en: "minute", hl: {hanzi: 分鐘, pinyin: "funˋ zhungˋ"}}
+  - {hanzi: 班, pinyin: "banˊ", en: "(a scheduled run: bus, train)", hl: {hanzi: 班, pinyin: "banˋ"}}
+  - {hanzi: 行路, pinyin: "hangˇ lu", en: "walk, go on foot", hl: {hanzi: 行路, pinyin: "hang lu+"}}
+  - {hanzi: 暗晡, pinyin: "am buˊ", en: "evening, tonight", hl: {hanzi: 暗晡, pinyin: "amˇ buˋ"}}
+
+exercises:
+  translate:
+    - en: "Run! The train's coming!"
+      sx: {hanzi: "走！火車來了！", pinyin: "zeuˋ! foˋ caˊ loiˇ leˊ!"}
+      hl: {hanzi: "走！火車來了！", pinyin: "zeuˊ! foˊ chaˋ loi leˋ!"}
+    - en: "Grandma walks to her vegetable garden every day."
+      sx: {hanzi: "阿婆逐日行路去菜園。", pinyin: "aˊ poˇ dagˋ ngidˋ hangˇ lu hi coi ienˇ."}
+      hl: {hanzi: "阿婆逐日行路去菜園。", pinyin: "a+ po dag ngid hang lu+ hiˇ coiˇ rhan."}
+    - en: "The bus stop is on the right."
+      sx: {hanzi: "車站在右片。", pinyin: "caˊ zam cai iu pienˋ."}
+      hl: {hanzi: "車站在正手片。", pinyin: "chaˋ zhamˇ cai+ zhinˇ shiuˊ pienˊ."}
+    - en: "Don't be afraid, it isn't spicy."
+      sx: {hanzi: "毋使驚，毋辣。", pinyin: "mˇ siiˋ giangˊ, mˇ lad."}
+      hl: {hanzi: "毋使驚，毋辣。", pinyin: "m siiˊ giangˋ, m ladˋ."}
+    - en: "Wait for me, I'll be there in five minutes."
+      sx: {hanzi: "等𠊎，五分鐘就到。", pinyin: "denˋ ngaiˇ, ngˋ funˊ zungˊ qiu do."}
+      hl: {hanzi: "等𠊎，五分鐘就到。", pinyin: "denˊ ngai, ngˊ funˋ zhungˋ ciu+ doˇ."}
+  fill:
+    - en: "Don't run, walk!"
+      sx: {hanzi: "莫___，行！", pinyin: "mog ___, hangˇ!", answer_hanzi: "走", answer: "zeuˋ"}
+      hl: {hanzi: "莫___，行！", pinyin: "mogˋ ___, hang!", answer_hanzi: "走", answer: "zeuˊ"}
+    - en: "It's over there."
+      sx: {hanzi: "在該___。", pinyin: "cai ge ___.", answer_hanzi: "位", answer: "vi"}
+      hl: {hanzi: "在該___。", pinyin: "cai+ gai ___.", answer_hanzi: "位", answer: "vui+"}
+    - en: "What are you doing tonight?"
+      sx: {hanzi: "你___愛做麼个？", pinyin: "nˇ ___ oi zo maˋ ge?", answer_hanzi: "暗晡", answer: "am buˊ"}
+      hl: {hanzi: "你___愛做麼个？", pinyin: "ngi ___ oiˇ zoˇ maˊ gaiˇ?", answer_hanzi: "暗晡", answer: "amˇ buˋ"}
+
+audio: []

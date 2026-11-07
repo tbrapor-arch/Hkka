@@ -1,0 +1,143 @@
+id: 7
+title:
+  en: "Review 1"
+  sx: {hanzi: "你講！", pinyin: "nˇ gongˋ!"}
+  hl: {hanzi: "你講！", pinyin: "ngi gongˊ!"}
+review: true
+setting: >-
+  Monday, seven in the morning. A-in is in Taipei, Mr Liu at work, A-min at school, Grandpa on the porch. Sam and
+  Grandma are alone in the kitchen for the first time. Nothing new in the dialogue: everything comes from lessons 1–6.
+  The notes gather what you have met so far.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Morning, Sam! Have you eaten?"
+    sx: {hanzi: "Sam，早！食飽吂？", pinyin: "Sam, zoˋ! siid bauˋ mangˇ?"}
+    hl: {hanzi: "Sam，早！食飽吂？", pinyin: "Sam, zoˊ! shidˋ bauˊ mang?"}
+  - n: 2
+    speaker: Sam
+    en: "Morning, Grandma! …Not yet."
+    sx: {hanzi: "阿婆，早！……還吂。", pinyin: "aˊ poˇ, zoˋ! … hanˇ mangˇ."}
+    hl: {hanzi: "阿婆，早！……還吂。", pinyin: "a+ po, zoˊ! … han mang."}
+  - n: 3
+    speaker: 阿婆
+    en: "Not yet? Come, sit, have some congee! Do you want an egg?"
+    sx: {hanzi: "還吂？來，坐，食粥！你愛雞卵無？", pinyin: "hanˇ mangˇ? loiˇ, coˊ, siid zugˋ! nˇ oi gieˊ lonˋ moˇ?"}
+    hl: {hanzi: "還吂？來，坐，食糜！你愛雞卵無？", pinyin: "han mang? loi, coˋ, shidˋ moi! ngi oiˇ gaiˋ lonˊ mo?"}
+  - n: 4
+    speaker: Sam
+    en: "Yes please, thank you!"
+    sx: {hanzi: "愛，恁仔細！", pinyin: "oi, anˋ ziiˋ se!"}
+    hl: {hanzi: "愛，承蒙！", pinyin: "oiˇ, shin mung!"}
+  - n: 5
+    speaker: 阿婆
+    en: "A-in isn't home today, so you'll have to speak Hakka."
+    sx: {hanzi: "今晡日阿英無在屋下，你愛講客話。", pinyin: "gimˊ buˊ ngidˋ aˊ inˊ moˇ cai vugˋ kaˊ, nˇ oi gongˋ hagˋ fa."}
+    hl: {hanzi: "今晡日阿英無在屋下，你愛講客話。", pinyin: "gimˋ buˋ ngid a+ rhinˋ mo cai+ vug haˋ, ngi oiˇ gongˊ hag voiˋ."}
+  - n: 6
+    speaker: Sam
+    en: "I can speak a little."
+    sx: {hanzi: "𠊎會講一息仔。", pinyin: "ngaiˇ voi gongˋ idˋ xid eˋ."}
+    hl: {hanzi: "𠊎會講一息仔。", pinyin: "ngai voi+ gongˊ rhid sid er+."}
+  - n: 7
+    speaker: 阿婆
+    en: "A little? Go on, say something!"
+    sx: {hanzi: "一息仔？你講！", pinyin: "idˋ xid eˋ? nˇ gongˋ!"}
+    hl: {hanzi: "一息仔？你講！", pinyin: "rhid sid er+? ngi gongˊ!"}
+  - n: 8
+    speaker: Sam
+    en: "(pointing) This is congee. This is an egg. And that's… tea."
+    sx: {hanzi: "這係粥。這係雞卵。該係……茶。", pinyin: "iaˋ he zugˋ. iaˋ he gieˊ lonˋ. ge he … caˇ."}
+    hl: {hanzi: "這係糜。這係雞卵。該係……茶。", pinyin: "liaˊ heˇ moi. liaˊ heˇ gaiˋ lonˊ. gai heˇ … ca."}
+  - n: 9
+    speaker: 阿婆
+    en: "Tea! No sugar!"
+    sx: {hanzi: "茶！毋放糖！", pinyin: "caˇ! mˇ biong tongˇ!"}
+    hl: {hanzi: "茶！毋放糖！", pinyin: "ca! m biongˇ tong!"}
+  - n: 10
+    speaker: Sam
+    en: "Right, right… no sugar."
+    sx: {hanzi: "係，係……毋放糖。", pinyin: "he, he … mˇ biong tongˇ."}
+    hl: {hanzi: "係，係……毋放糖。", pinyin: "heˇ, heˇ … m biongˇ tong."}
+  - n: 11
+    speaker: 阿婆
+    en: "(laughing) You can speak Hakka! Come on, have two bowls!"
+    sx: {hanzi: "你會講客話！來，食兩碗！", pinyin: "nˇ voi gongˋ hagˋ fa! loiˇ, siid liongˋ vonˋ!"}
+    hl: {hanzi: "你會講客話！來，食兩碗！", pinyin: "ngi voi+ gongˊ hag voiˋ! loi, shidˋ liongˊ vonˊ!"}
+
+notes:
+  - ref: 0
+    topic: grammar
+    text: >
+      People. 𠊎 ngaiˇ I, 你 nˇ you, 佢 giˇ he/she. "My, your, his": 吾 ngaˊ, 若 ngiaˊ, 厥 giaˊ (the pronoun plus -a).
+      Before a family word they take the short form and no 阿: 吾婆, 若爸, 厥姆; elsewhere 个 ge does the job of 的
+      (𠊎个, 阿明个). Family: 阿公, 阿婆, 阿爸, 阿姆, 老弟, 阿姊.
+  - ref: 2
+    topic: grammar
+    text: >
+      Three ways to say "not". 毋 mˇ for will and plain fact (毋食 "won't eat", 毋放糖 "we don't put sugar"), and
+      always before 係 (毋係). 無 moˇ for "there isn't, didn't" (無了 "none left", 無放糖 "didn't put any", 無在屋下
+      "isn't home"). 吂 mangˇ for "not yet" (還吂 "not yet"). Sam's answer in line 2 is the honest one; the formula
+      is 食飽了.
+  - ref: 3
+    topic: grammar
+    text: >
+      Questions so far: …無？ for yes/no (你愛雞卵無？, 有糖無？), …吂？ for "yet?" (食飽吂？), and the question
+      words 麼个 what, 做麼个 why / what for, 哪位 where, 幾多 how much, 幾點 what time.
+  - ref: 5
+    topic: grammar
+    text: >
+      Where and what's going on: 在 cai "be at" (阿英無在屋下 "A-in isn't home"), 在該 du ge + verb "be doing" (在該
+      泡茶). Time words go before the verb, often first in the sentence: 今晡日, 昨晡日, 天光日, 這下 "now".
+  - ref: 8
+    topic: grammar
+    text: >
+      Counting: 一 二 三 四 五 六 八 十 百 (七 and 九 are coming), 兩 before a classifier. Classifiers: 隻 animals and
+      things, 粒 small round things, 條 long things; 碗 and 斤 as measures. 這 / 該 point: 這係… "this is", 該係…
+      "that is". 該 is never "should".
+  - ref: 11
+    topic: sandhi
+    text: >
+      The sandhi you have met: a rising syllable ˊ goes low before another rising one, before a high level one or a
+      high clipped one. 阿婆 stays aˊ poˇ, but 阿公 aˇ gungˊ, 阿姆 aˇ meˊ, 阿英 aˇ inˊ; 今晡日 gimˇ buˊ ngidˋ, 天光日
+      tienˇ gongˊ ngidˋ. Read lines 1–11 aloud and find the others.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu pairs so far: 恁仔細 / 承蒙 (thank you), 天光日 / 韶早 (tomorrow), 粥 / 糜 (congee), 吾婆 / 𠊎婆 (my
+      grandma), 若 / 若个 (your, before things). The rest is the same words in the Hailu sounds: sh, zh, ch, rh, and
+      the tone code of Lesson 0, §8.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Grandpa isn't home. He's gone to buy tea."
+      sx: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "aˊ gungˊ moˇ cai vugˋ kaˊ, giˇ hi maiˊ caˇ leˊ."}
+      hl: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "a+ gungˋ mo cai+ vug haˋ, gi hiˇ maiˋ ca leˋ."}
+    - en: "This is my room, that's my brother's."
+      sx: {hanzi: "這係𠊎个間房，該係吾老弟个。", pinyin: "iaˋ he ngaiˇ ge gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge."}
+      hl: {hanzi: "這係𠊎个間房，該係𠊎老弟个。", pinyin: "liaˊ heˇ ngai gaiˇ gienˋ fong, gai heˇ ngai loˊ taiˋ gaiˇ."}
+    - en: "Is there any tea? I want to drink tea."
+      sx: {hanzi: "有茶無？𠊎愛食茶。", pinyin: "iuˊ caˇ moˇ? ngaiˇ oi siid caˇ."}
+      hl: {hanzi: "有茶無？𠊎愛食茶。", pinyin: "rhiuˋ ca mo? ngai oiˇ shidˋ ca."}
+    - en: "Tomorrow at eight Sam is going to buy two catties of mandarins."
+      sx: {hanzi: "天光日八點，Sam 愛去買兩斤柑仔。", pinyin: "tienˊ gongˊ ngidˋ badˋ diamˋ, Sam oi hi maiˊ liongˋ ginˊ gamˊ eˋ."}
+      hl: {hanzi: "韶早八點，Sam 愛去買兩斤柑仔。", pinyin: "shau zoˊ bad diamˊ, Sam oiˇ hiˇ maiˋ liongˊ ginˋ gamˋ er."}
+    - en: "What's your mum doing?"
+      sx: {hanzi: "若姆在該做麼个？", pinyin: "ngiaˊ meˊ du ge zo maˋ ge?"}
+      hl: {hanzi: "若姆在該做麼个？", pinyin: "ngia meˋ diˇ gai zoˇ maˊ gaiˇ?"}
+  fill:
+    - en: "I'm not eating eggs."
+      sx: {hanzi: "𠊎___食雞卵。", pinyin: "ngaiˇ ___ siid gieˊ lonˋ.", answer_hanzi: "毋", answer: "mˇ"}
+      hl: {hanzi: "𠊎___食雞卵。", pinyin: "ngai ___ shidˋ gaiˋ lonˊ.", answer_hanzi: "毋", answer: "m"}
+    - en: "A-min hasn't eaten yet."
+      sx: {hanzi: "阿明還___食。", pinyin: "aˊ minˇ hanˇ ___ siid.", answer_hanzi: "吂", answer: "mangˇ"}
+      hl: {hanzi: "阿明還___食。", pinyin: "a+ min han ___ shidˋ.", answer_hanzi: "吂", answer: "mang"}
+    - en: "There's no congee left."
+      sx: {hanzi: "粥___了。", pinyin: "zugˋ ___ leˊ.", answer_hanzi: "無", answer: "moˇ"}
+      hl: {hanzi: "糜___了。", pinyin: "moi ___ leˋ.", answer_hanzi: "無", answer: "mo"}
+
+audio: []

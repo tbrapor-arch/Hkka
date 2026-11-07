@@ -1,0 +1,165 @@
+id: 5
+title:
+  en: "At the market"
+  sx: {hanzi: "一斤幾多錢？", pinyin: "idˋ ginˊ giˋ doˊ qienˇ?"}
+  hl: {hanzi: "一斤幾多錢？", pinyin: "rhid ginˋ giˊ doˋ cien?"}
+review: false
+setting: >-
+  Sunday morning, the market in 苗栗. Mrs Liu shops fast and Sam carries the bags. The first stall is fruit and
+  vegetables; it is November, and the mandarins are in.
+names: [苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "How much are the mandarins?"
+    zh: "老闆，橘子多少錢？"
+    sx: {hanzi: "頭家，柑仔一斤幾多錢？", pinyin: "teuˇ gaˊ, gamˊ eˋ idˋ ginˊ giˋ doˊ qienˇ?"}
+    hl: {hanzi: "頭家，柑仔一斤幾多錢？", pinyin: "teu gaˋ, gamˋ er rhid ginˋ giˊ doˋ cien?"}
+  - n: 2
+    speaker: 頭家
+    en: "Forty a catty, three catties for a hundred."
+    sx: {hanzi: "一斤四十，三斤一百。", pinyin: "idˋ ginˊ xi siib, samˊ ginˊ idˋ bagˋ."}
+    hl: {hanzi: "一斤四十，三斤一百。", pinyin: "rhid ginˋ siˇ shibˋ, samˋ ginˋ rhid bag."}
+  - n: 3
+    speaker: 阿姆
+    en: "I'll have three catties. And the loofahs?"
+    sx: {hanzi: "𠊎愛三斤。菜瓜幾多錢？", pinyin: "ngaiˇ oi samˊ ginˊ. coi guaˊ giˋ doˊ qienˇ?"}
+    hl: {hanzi: "𠊎愛三斤。菜瓜幾多錢？", pinyin: "ngai oiˇ samˋ ginˋ. coiˇ guaˋ giˊ doˋ cien?"}
+  - n: 4
+    speaker: 頭家
+    en: "Twenty each."
+    sx: {hanzi: "一條二十。", pinyin: "idˋ tiauˇ ngi siib."}
+    hl: {hanzi: "一條二十。", pinyin: "rhid tiau ngi+ shibˋ."}
+  - n: 5
+    speaker: 阿姆
+    en: "Two, then."
+    sx: {hanzi: "兩條。", pinyin: "liongˋ tiauˇ."}
+    hl: {hanzi: "兩條。", pinyin: "liongˊ tiau."}
+  - n: 6
+    speaker: 頭家
+    en: "That's a hundred and forty altogether. (to Sam) Here, have a mandarin!"
+    sx: {hanzi: "總共一百四十。……送你一粒！", pinyin: "zungˋ kiung idˋ bagˋ xi siib. … sung nˇ idˋ liab!"}
+    hl: {hanzi: "總共一百四十。……送你一粒！", pinyin: "zungˊ kiung+ rhid bag siˇ shibˋ. … sungˇ ngi rhid liab!"}
+  - n: 7
+    speaker: Sam
+    en: "Thank you!"
+    sx: {hanzi: "恁仔細！", pinyin: "anˋ ziiˋ se!"}
+    hl: {hanzi: "承蒙！", pinyin: "shin mung!"}
+  - n: 8
+    speaker: 頭家
+    en: "You can speak Hakka!"
+    sx: {hanzi: "你會講客話！", pinyin: "nˇ voi gongˋ hagˋ fa!"}
+    hl: {hanzi: "你會講客話！", pinyin: "ngi voi+ gongˊ hag voiˋ!"}
+  - n: 9
+    speaker: Sam
+    en: "A little."
+    sx: {hanzi: "一息仔。", pinyin: "idˋ xid eˋ."}
+    hl: {hanzi: "一息仔。", pinyin: "rhid sid er+."}
+  - n: 10
+    speaker: 阿姆
+    en: "Come on, Sam, we still have to buy a chicken."
+    sx: {hanzi: "來，Sam，還愛買一隻雞仔。", pinyin: "loiˇ, Sam, hanˇ oi maiˊ idˋ zagˋ gieˊ eˋ."}
+    hl: {hanzi: "來，Sam，還愛買一隻雞仔。", pinyin: "loi, Sam, han oiˇ maiˋ rhid zhag gaiˋ er."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      頭家 teuˇ gaˊ is what you call whoever runs a shop or stall (Mandarin 老闆). 幾多 giˋ doˊ is "how much, how many"
+      (多少); 幾多錢？ "how much (money)?". The pattern 一斤幾多錢？ "how much a catty?" is the market question.
+  - ref: 1
+    topic: false-friend
+    text: >
+      斤 ginˊ is the Taiwanese catty, 600 grams, not the mainland 500 g 斤. Prices at markets are still per 斤.
+      柑仔 gamˊ eˋ "mandarin orange" (橘子); said gamˊ meˋ, because 仔 takes the -m before it (Lesson 0, §5).
+  - ref: 2
+    topic: pronunciation
+    text: >
+      Numbers so far: 一 idˋ, 二 ngi, 三 samˊ, 四 xi, 五 ngˋ, 十 siib, 百 bagˋ. Watch 四 xi and 十 siib: one is
+      open and high, the other ends in a clipped -b. 四十 xi siib "forty", 一百 idˋ bagˋ "a hundred". 五 ngˋ is a
+      syllable with no vowel at all. Six to nine come next lesson.
+  - ref: 4
+    topic: grammar
+    text: >
+      Classifiers, as in Mandarin, but with Hakka choices. 條 tiauˇ for long things: 一條菜瓜 "a loofah" (菜瓜 coi
+      guaˊ, the gourd that goes into Hakka soups and stir-fries). 粒 liab for small round things: 一粒柑仔 "a
+      mandarin". 隻 zagˋ (line 10) is the everyday one: animals, and many objects that Mandarin counts with 個.
+  - ref: 4
+    topic: grammar
+    text: >
+      二 ngi and 兩 liongˋ split as in Mandarin: 二十 "twenty" in numbers, 兩條 "two (of them)" before a classifier.
+      二 ngi is Mandarin èr with the ng- you already know from 人 nginˇ and 日 ngidˋ (Lesson 0, §6).
+  - ref: 6
+    topic: vocab
+    text: >
+      總共 zungˋ kiung "altogether". 送 sung "give (as a present)": 送你一粒 "one for you, free". A small gift is
+      normal at a stall where the customer comes back every week.
+  - ref: 8
+    topic: culture
+    text: >
+      Lines 8 and 9 are lesson 1 again, word for word. That is how it goes: every stallholder in Miaoli will be
+      delighted that the foreigner speaks Hakka, and you will have this exchange a hundred times. Have the answer
+      ready.
+  - ref: 10
+    topic: vocab
+    text: >
+      雞仔 gieˊ eˋ "chicken", the everyday word (the bird and the meat). 買 maiˊ "buy", with a rising tone where
+      Mandarin has tone 3: like 有 iuˊ, an m-, n-, l- or vowel-initial tone-3 word (Lesson 0, §3). Its partner 賣
+      "sell" is mai, high and level.
+  - ref: 0
+    topic: hailu
+    text: >
+      In Hailu, 隻 is zhag, 十 shibˋ, 二 ngi+. The tone code at work on numbers: Sixian 三 samˊ, 四 xi, 五 ngˋ;
+      Hailu 三 samˋ, 四 siˇ, 五 ngˊ.
+
+new_words:
+  - {hanzi: 頭家, pinyin: "teuˇ gaˊ", en: "boss; stallholder", hl: {hanzi: 頭家, pinyin: "teu gaˋ"}}
+  - {hanzi: 柑仔, pinyin: "gamˊ eˋ", en: "mandarin orange", hl: {hanzi: 柑仔, pinyin: "gamˋ er"}}
+  - {hanzi: 斤, pinyin: "ginˊ", en: "catty (600 g)", hl: {hanzi: 斤, pinyin: "ginˋ"}}
+  - {hanzi: 幾多, pinyin: "giˋ doˊ", en: "how much, how many", hl: {hanzi: 幾多, pinyin: "giˊ doˋ"}}
+  - {hanzi: 錢, pinyin: "qienˇ", en: "money", hl: {hanzi: 錢, pinyin: "cien"}}
+  - {hanzi: 四, pinyin: "xi", en: "four", hl: {hanzi: 四, pinyin: "siˇ"}}
+  - {hanzi: 十, pinyin: "siib", en: "ten", hl: {hanzi: 十, pinyin: "shibˋ"}}
+  - {hanzi: 三, pinyin: "samˊ", en: "three", hl: {hanzi: 三, pinyin: "samˋ"}}
+  - {hanzi: 百, pinyin: "bagˋ", en: "hundred", hl: {hanzi: 百, pinyin: "bag"}}
+  - {hanzi: 菜瓜, pinyin: "coi guaˊ", en: "loofah (gourd)", hl: {hanzi: 菜瓜, pinyin: "coiˇ guaˋ"}}
+  - {hanzi: 條, pinyin: "tiauˇ", en: "(classifier for long things)", hl: {hanzi: 條, pinyin: "tiau"}}
+  - {hanzi: 二, pinyin: "ngi", en: "two (in numbers)", hl: {hanzi: 二, pinyin: "ngi+"}}
+  - {hanzi: 總共, pinyin: "zungˋ kiung", en: "altogether", hl: {hanzi: 總共, pinyin: "zungˊ kiung+"}}
+  - {hanzi: 送, pinyin: "sung", en: "give (as a gift)", hl: {hanzi: 送, pinyin: "sungˇ"}}
+  - {hanzi: 粒, pinyin: "liab", en: "(classifier for small round things)", hl: {hanzi: 粒, pinyin: "liab"}}
+  - {hanzi: 買, pinyin: "maiˊ", en: "buy", hl: {hanzi: 買, pinyin: "maiˋ"}}
+  - {hanzi: 隻, pinyin: "zagˋ", en: "(everyday classifier: animals, things)", hl: {hanzi: 隻, pinyin: "zhag"}}
+  - {hanzi: 雞仔, pinyin: "gieˊ eˋ", en: "chicken", hl: {hanzi: 雞仔, pinyin: "gaiˋ er"}}
+  - {hanzi: 五, pinyin: "ngˋ", en: "five", hl: {hanzi: 五, pinyin: "ngˊ"}}
+
+exercises:
+  translate:
+    - en: "How much is a catty of eggs?"
+      sx: {hanzi: "雞卵一斤幾多錢？", pinyin: "gieˊ lonˋ idˋ ginˊ giˋ doˊ qienˇ?"}
+      hl: {hanzi: "雞卵一斤幾多錢？", pinyin: "gaiˋ lonˊ rhid ginˋ giˊ doˋ cien?"}
+    - en: "I want five catties of mandarins."
+      sx: {hanzi: "𠊎愛五斤柑仔。", pinyin: "ngaiˇ oi ngˋ ginˊ gamˊ eˋ."}
+      hl: {hanzi: "𠊎愛五斤柑仔。", pinyin: "ngai oiˇ ngˊ ginˋ gamˋ er."}
+    - en: "Grandma wants to buy two chickens."
+      sx: {hanzi: "阿婆愛買兩隻雞仔。", pinyin: "aˊ poˇ oi maiˊ liongˋ zagˋ gieˊ eˋ."}
+      hl: {hanzi: "阿婆愛買兩隻雞仔。", pinyin: "a+ po oiˇ maiˋ liongˊ zhag gaiˋ er."}
+    - en: "Altogether a hundred and twenty."
+      sx: {hanzi: "總共一百二十。", pinyin: "zungˋ kiung idˋ bagˋ ngi siib."}
+      hl: {hanzi: "總共一百二十。", pinyin: "zungˊ kiung+ rhid bag ngi+ shibˋ."}
+    - en: "This one's for you (a gift)."
+      sx: {hanzi: "這粒送你。", pinyin: "iaˋ liab sung nˇ."}
+      hl: {hanzi: "這粒送你。", pinyin: "liaˊ liab sungˇ ngi."}
+  fill:
+    - en: "How much is it?"
+      sx: {hanzi: "___錢？", pinyin: "___ qienˇ?", answer_hanzi: "幾多", answer: "giˋ doˊ"}
+      hl: {hanzi: "___錢？", pinyin: "___ cien?", answer_hanzi: "幾多", answer: "giˊ doˋ"}
+    - en: "Two loofahs."
+      sx: {hanzi: "兩___菜瓜。", pinyin: "liongˋ ___ coi guaˊ.", answer_hanzi: "條", answer: "tiauˇ"}
+      hl: {hanzi: "兩___菜瓜。", pinyin: "liongˊ ___ coiˇ guaˋ.", answer_hanzi: "條", answer: "tiau"}
+    - en: "Three mandarins."
+      sx: {hanzi: "三___柑仔。", pinyin: "samˊ ___ gamˊ eˋ.", answer_hanzi: "粒", answer: "liab"}
+      hl: {hanzi: "三___柑仔。", pinyin: "samˋ ___ gamˋ er.", answer_hanzi: "粒", answer: "liab"}
+
+audio: []

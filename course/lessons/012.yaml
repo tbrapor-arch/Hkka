@@ -1,0 +1,152 @@
+id: 12
+title:
+  en: "Not feeling well"
+  sx: {hanzi: "𠊎肚屎痛", pinyin: "ngaiˇ duˋ siiˋ tung"}
+  hl: {hanzi: "𠊎肚屎痛", pinyin: "ngai duˊ shiˊ tungˇ"}
+review: false
+setting: >-
+  Saturday, eight in the morning. Sam has not come down for breakfast, which has never happened. Grandma goes up to
+  look; Mrs Liu follows.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, have you eaten? …Sam?"
+    sx: {hanzi: "Sam，食飽吂？……Sam？", pinyin: "Sam, siid bauˋ mangˇ? … Sam?"}
+    hl: {hanzi: "Sam，食飽吂？……Sam？", pinyin: "Sam, shidˋ bauˊ mang? … Sam?"}
+  - n: 2
+    speaker: Sam
+    en: "Grandma… my stomach hurts."
+    sx: {hanzi: "阿婆……𠊎肚屎痛。", pinyin: "aˊ poˇ … ngaiˇ duˋ siiˋ tung."}
+    hl: {hanzi: "阿婆……𠊎肚屎痛。", pinyin: "a+ po … ngai duˊ shiˊ tungˇ."}
+  - n: 3
+    speaker: 阿婆
+    en: "Your stomach? Your face is so white!"
+    sx: {hanzi: "肚屎痛？你个面恁白！", pinyin: "duˋ siiˋ tung? nˇ ge mien anˋ pag!"}
+    hl: {hanzi: "肚屎痛？你个面恁白！", pinyin: "duˊ shiˊ tungˇ? ngi gaiˇ mienˇ anˊ pagˋ!"}
+  - n: 4
+    speaker: 阿姆
+    en: "(a hand on his forehead) No temperature. What did you eat yesterday?"
+    sx: {hanzi: "頭那無燒。昨晡日食麼个？", pinyin: "teuˇ naˇ moˇ seuˊ. coˊ buˊ ngidˋ siid maˋ ge?"}
+    hl: {hanzi: "頭那無燒。昨晡日食麼个？", pinyin: "teu na mo shauˋ. coˋ buˋ ngid shidˋ maˊ gaiˇ?"}
+  - n: 5
+    speaker: Sam
+    en: "Rice noodles, chicken, two bowls of congee… and chillies."
+    sx: {hanzi: "粄條、雞仔、兩碗粥……還有番椒。", pinyin: "banˋ tiauˇ, gieˊ eˋ, liongˋ vonˋ zugˋ … hanˇ iuˊ fanˊ zeuˊ."}
+    hl: {hanzi: "粄條、雞仔、兩碗糜……還有番椒。", pinyin: "banˊ tiau, gaiˋ er, liongˊ vonˊ moi … han rhiuˋ fanˋ ziauˋ."}
+  - n: 6
+    speaker: 阿婆
+    en: "Chillies! You shouldn't eat chillies!"
+    sx: {hanzi: "番椒！你毋好食番椒！", pinyin: "fanˊ zeuˊ! nˇ mˇ hoˋ siid fanˊ zeuˊ!"}
+    hl: {hanzi: "番椒！你毋好食番椒！", pinyin: "fanˋ ziauˋ! ngi m hoˊ shidˋ fanˋ ziauˋ!"}
+  - n: 7
+    speaker: Sam
+    en: "Do I need to see a doctor?"
+    sx: {hanzi: "愛去看先生無？", pinyin: "oi hi kon xinˊ sangˊ moˇ?"}
+    hl: {hanzi: "愛去看先生無？", pinyin: "oiˇ hiˇ konˇ sinˋ sangˋ mo?"}
+  - n: 8
+    speaker: 阿姆
+    en: "No need. Rest today, and don't eat anything cold."
+    sx: {hanzi: "毋使。今晡日歇睏，莫食冷个。", pinyin: "mˇ siiˋ. gimˊ buˊ ngidˋ hiedˋ kun, mog siid langˊ ge."}
+    hl: {hanzi: "毋使。今晡日歇睏，莫食冷个。", pinyin: "m siiˊ. gimˋ buˋ ngid hied kunˇ, mogˋ shidˋ langˋ gaiˇ."}
+  - n: 9
+    speaker: 阿婆
+    en: "(back with a tray) Here, hot congee. One bowl is enough; no need for two."
+    sx: {hanzi: "來，食燒粥。一碗就好，毋使兩碗。", pinyin: "loiˇ, siid seuˊ zugˋ. idˋ vonˋ qiu hoˋ, mˇ siiˋ liongˋ vonˋ."}
+    hl: {hanzi: "來，食燒糜。一碗就好，毋使兩碗。", pinyin: "loi, shidˋ shauˋ moi. rhid vonˊ ciu+ hoˊ, m siiˊ liongˊ vonˊ."}
+  - n: 10
+    speaker: Sam
+    en: "(weakly) …Thank you, Grandma."
+    sx: {hanzi: "……恁仔細，阿婆。", pinyin: "… anˋ ziiˋ se, aˊ poˇ."}
+    hl: {hanzi: "……承蒙，阿婆。", pinyin: "… shin mung, a+ po."}
+
+notes:
+  - ref: 2
+    topic: vocab
+    text: >
+      肚屎 duˋ siiˋ "belly, stomach" (肚子): the ordinary word, not a rude one, whatever the second character suggests.
+      痛 tung "hurt": 肚屎痛 "stomach ache", 頭那痛 "headache". The body so far: 頭那 teuˇ naˇ head, 面 mien face, 目珠
+      mugˋ zuˊ eyes, 嘴 zoi mouth, 手 suˋ hand, 腳 giogˋ foot and leg.
+  - ref: 3
+    topic: false-friend
+    text: >
+      面 mien is "face" (Mandarin 臉), as in old Chinese 面: 你个面恁白 "your face is so white". It is not noodles
+      (that is 麵, also mien) and not "side". 頭 alone is not your head either; the head is 頭那 (line 4).
+  - ref: 4
+    topic: grammar
+    text: >
+      頭那無燒 "your head isn't hot": 燒 from lesson 9, hot to the touch. A fever is 發燒 fadˋ seuˊ, the same word as
+      Mandarin.
+  - ref: 6
+    topic: grammar
+    text: >
+      Three ways to say "don't", all in this lesson. 毋好 mˇ hoˋ "you shouldn't" (advice, or a rule): 毋好食番椒.
+      莫 mog "don't!" (short, direct): 莫食冷个 "don't eat cold things". 毋使 mˇ siiˋ "no need to": 毋使兩碗.
+      Mandarin uses 不要 for the first two and 不用 for the third. 毋好食 can also just mean "not tasty": 這碗粥
+      毋好食. Context decides.
+  - ref: 7
+    topic: vocab
+    text: >
+      先生 again, in its "doctor" sense: 看先生 "see a doctor" (看醫生). Lesson 10's teacher, husband and doctor, all
+      in one word; no one in Miaoli finds this confusing but you.
+  - ref: 8
+    topic: vocab
+    text: >
+      歇睏 hiedˋ kun "rest, take a break" (休息). 冷个 "cold things": 个 after an adjective again, as in 紅个. Grandma
+      and Mrs Liu agree that cold food is bad for a sick stomach; so does most of Taiwan.
+  - ref: 9
+    topic: grammar
+    text: >
+      一碗就好 "one bowl is fine, one is enough": 就好 "and that's that". And for the first time in this course,
+      Grandma says 毋使兩碗.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 肚屎 duˊ shiˊ, 莫 mogˋ, 嘴 zhoiˇ, 手 shiuˊ. The three "don't"s are the same words.
+
+new_words:
+  - {hanzi: 肚屎, pinyin: "duˋ siiˋ", en: "belly, stomach", hl: {hanzi: 肚屎, pinyin: "duˊ shiˊ"}}
+  - {hanzi: 痛, pinyin: "tung", en: "hurt, ache", hl: {hanzi: 痛, pinyin: "tungˇ"}}
+  - {hanzi: 面, pinyin: "mien", en: "face", hl: {hanzi: 面, pinyin: "mienˇ"}}
+  - {hanzi: 頭那, pinyin: "teuˇ naˇ", en: "head", hl: {hanzi: 頭那, pinyin: "teu na"}}
+  - {hanzi: 還有, pinyin: "hanˇ iuˊ", en: "and also, and there's", hl: {hanzi: 還有, pinyin: "han rhiuˋ"}}
+  - {hanzi: 毋好, pinyin: "mˇ hoˋ", en: "shouldn't; not good", hl: {hanzi: 毋好, pinyin: "m hoˊ"}}
+  - {hanzi: 莫, pinyin: "mog", en: "don't!", hl: {hanzi: 莫, pinyin: "mogˋ"}}
+  - {hanzi: 歇睏, pinyin: "hiedˋ kun", en: "rest", hl: {hanzi: 歇睏, pinyin: "hied kunˇ"}}
+  - {hanzi: 目珠, pinyin: "mugˋ zuˊ", en: "eye", hl: {hanzi: 目珠, pinyin: "mug zhuˋ"}}
+  - {hanzi: 嘴, pinyin: "zoi", en: "mouth", hl: {hanzi: 嘴, pinyin: "zhoiˇ"}}
+  - {hanzi: 手, pinyin: "suˋ", en: "hand", hl: {hanzi: 手, pinyin: "shiuˊ"}}
+  - {hanzi: 腳, pinyin: "giogˋ", en: "foot, leg", hl: {hanzi: 腳, pinyin: "giog"}}
+  - {hanzi: 發燒, pinyin: "fadˋ seuˊ", en: "have a fever", hl: {hanzi: 發燒, pinyin: "fad shauˋ"}}
+  - {hanzi: 藥仔, pinyin: "iog eˋ", en: "medicine", hl: {hanzi: 藥仔, pinyin: "rhogˋ er"}}
+
+exercises:
+  translate:
+    - en: "My head hurts, and my eyes hurt too."
+      sx: {hanzi: "𠊎頭那痛，目珠乜痛。", pinyin: "ngaiˇ teuˇ naˇ tung, mugˋ zuˊ me tung."}
+      hl: {hanzi: "𠊎頭那痛，目珠乜痛。", pinyin: "ngai teu na tungˇ, mug zhuˋ meˇ tungˇ."}
+    - en: "Don't eat it, it's very hot!"
+      sx: {hanzi: "莫食，當燒！", pinyin: "mog siid, dongˊ seuˊ!"}
+      hl: {hanzi: "莫食，當燒！", pinyin: "mogˋ shidˋ, dongˋ shauˋ!"}
+    - en: "A-min has a fever; he has to take his medicine."
+      sx: {hanzi: "阿明發燒，愛食藥仔。", pinyin: "aˊ minˇ fadˋ seuˊ, oi siid iog eˋ."}
+      hl: {hanzi: "阿明發燒，愛食藥仔。", pinyin: "a+ min fad shauˋ, oiˇ shidˋ rhogˋ er."}
+    - en: "(after a chilli) My mouth is on fire!"
+      sx: {hanzi: "𠊎个嘴當辣！", pinyin: "ngaiˇ ge zoi dongˊ lad!"}
+      hl: {hanzi: "𠊎个嘴當辣！", pinyin: "ngai gaiˇ zhoiˇ dongˋ ladˋ!"}
+    - en: "My hands are cold, and so are my feet."
+      sx: {hanzi: "𠊎个手當冷，腳乜冷。", pinyin: "ngaiˇ ge suˋ dongˊ langˊ, giogˋ me langˊ."}
+      hl: {hanzi: "𠊎个手當冷，腳乜冷。", pinyin: "ngai gaiˇ shiuˊ dongˋ langˋ, giog meˇ langˋ."}
+  fill:
+    - en: "My stomach hurts."
+      sx: {hanzi: "𠊎___痛。", pinyin: "ngaiˇ ___ tung.", answer_hanzi: "肚屎", answer: "duˋ siiˋ"}
+      hl: {hanzi: "𠊎___痛。", pinyin: "ngai ___ tungˇ.", answer_hanzi: "肚屎", answer: "duˊ shiˊ"}
+    - en: "Don't eat cold things!"
+      sx: {hanzi: "___食冷个！", pinyin: "___ siid langˊ ge!", answer_hanzi: "莫", answer: "mog"}
+      hl: {hanzi: "___食冷个！", pinyin: "___ shidˋ langˋ gaiˇ!", answer_hanzi: "莫", answer: "mogˋ"}
+    - en: "No need to see a doctor."
+      sx: {hanzi: "___去看先生。", pinyin: "___ hi kon xinˊ sangˊ.", answer_hanzi: "毋使", answer: "mˇ siiˋ"}
+      hl: {hanzi: "___去看先生。", pinyin: "___ hiˇ konˇ sinˋ sangˋ.", answer_hanzi: "毋使", answer: "m siiˊ"}
+
+audio: []
