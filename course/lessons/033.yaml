@@ -1,0 +1,170 @@
+id: 33
+title:
+  en: "Lucie's phone"
+  sx: {hanzi: "手機仔打毋見忒了", pinyin: "suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ"}
+  hl: {hanzi: "手機打毋見忒了", pinyin: "shiuˊ giˋ daˊ m gienˇ ted leˋ"}
+review: false
+setting: >-
+  Breakfast, two days before Lucie flies home. Lucie comes down the stairs in a panic; Sam translates, and the whole
+  family starts searching.
+names: [Lucie, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: Lucie
+    en: "(in French) Sam! My phone… I can't find it!"
+    sx: {hanzi: "Sam ! Mon téléphone… Je ne le trouve plus !", pinyin: "Sam ! Mon téléphone… Je ne le trouve plus !"}
+    hl: {hanzi: "Sam ! Mon téléphone… Je ne le trouve plus !", pinyin: "Sam ! Mon téléphone… Je ne le trouve plus !"}
+  - n: 2
+    speaker: Sam
+    en: "Grandma, Lucie's lost her phone!"
+    sx: {hanzi: "阿婆，Lucie 个手機仔打毋見忒了！", pinyin: "aˊ poˇ, Lucie ge suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ!"}
+    hl: {hanzi: "阿婆，Lucie 个手機打毋見忒了！", pinyin: "a+ po, Lucie gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ!"}
+  - n: 3
+    speaker: 阿婆
+    en: "No need to panic. Where did she put it a moment ago?"
+    sx: {hanzi: "毋使驚。佢頭先放在哪位？", pinyin: "mˇ siiˋ giangˊ. giˇ teuˇ xienˊ biong coiˊ nai vi?"}
+    hl: {hanzi: "毋使驚。佢頭先放在哪位？", pinyin: "m siiˊ giangˋ. gi teu senˋ biongˇ coiˋ nai+ vui+?"}
+  - n: 4
+    speaker: Sam
+    en: "She doesn't remember. Last night she still had it: she was on it in bed."
+    sx: {hanzi: "佢毋記得了。昨暗晡還有，佢在床項打電話。", pinyin: "giˇ mˇ gi dedˋ leˊ. coˊ am buˊ hanˇ iuˊ, giˇ coiˊ congˇ hong daˋ tien fa."}
+    hl: {hanzi: "佢毋記得了。昨暗晡還有，佢在床項打電話。", pinyin: "gi m giˇ ded leˋ. coˋ amˇ buˋ han rhiuˋ, gi coiˋ cong hong+ daˊ tien+ faˇ."}
+  - n: 5
+    speaker: 阿明
+    en: "Did it fall out in the car? I'll go and look."
+    sx: {hanzi: "係毋係跌忒在車項？𠊎去尋。", pinyin: "he mˇ he diedˋ tedˋ coiˊ caˊ hong? ngaiˇ hi qimˇ."}
+    hl: {hanzi: "係毋係跌忒在車項？𠊎去尋。", pinyin: "heˇ m heˇ died ted coiˋ chaˋ hong+? ngai hiˇ cim."}
+  - n: 6
+    speaker: 阿英
+    en: "(a minute later) Not in the car. Not under the stools either."
+    sx: {hanzi: "車項尋無。凳仔下背乜尋無。", pinyin: "caˊ hong qimˇ moˇ. den eˋ haˊ boi me qimˇ moˇ."}
+    hl: {hanzi: "車項尋無。凳仔下背乜尋無。", pinyin: "chaˋ hong+ cim mo. denˇ er haˋ boiˇ meˇ cim mo."}
+  - n: 7
+    speaker: 阿英
+    en: "I'll ring it. Everyone, listen!"
+    sx: {hanzi: "𠊎打手機仔分佢。大家聽！", pinyin: "ngaiˇ daˋ suˋ giˊ eˋ bunˊ giˇ. tai gaˊ tangˊ!"}
+    hl: {hanzi: "𠊎打手機分佢。大家聽！", pinyin: "ngai daˊ shiuˊ giˋ bunˋ gi. tai+ gaˋ tangˋ!"}
+  - n: 8
+    speaker: 阿婆
+    en: "It's ringing! … Grandpa, it's in your pocket!"
+    sx: {hanzi: "響了！……阿公，在你个袋仔！", pinyin: "hiongˋ leˊ! … aˊ gungˊ, coiˊ nˇ ge toi eˋ!"}
+    hl: {hanzi: "響了！……阿公，在你个袋仔！", pinyin: "hiongˊ leˋ! … a+ gungˋ, coiˋ ngi gaiˇ toi+ er!"}
+  - n: 9
+    speaker: 阿公
+    en: "(taking it out, puzzled) Isn't this mine?"
+    sx: {hanzi: "這……毋係𠊎个？", pinyin: "iaˋ … mˇ he ngaiˇ ge?"}
+    hl: {hanzi: "這……毋係𠊎个？", pinyin: "liaˊ … m heˇ ngai gaiˇ?"}
+  - n: 10
+    speaker: 阿婆
+    en: "Yours is on the table! The two of them are the same black, and you can't even tell your own!"
+    sx: {hanzi: "你个在桌項！兩支共樣烏，你連自家个都毋知！", pinyin: "nˇ ge coiˊ zogˋ hong! liongˋ giˊ kiung iong vuˊ, nˇ lienˇ qi gaˊ ge du mˇ diˊ!"}
+    hl: {hanzi: "你个在桌項！兩支共樣烏，你連自家个都毋知！", pinyin: "ngi gaiˇ coiˋ zog hong+! liongˊ giˋ kiung+ rhong+ vuˋ, ngi lien cid gaˋ gaiˇ du+ m diˋ!"}
+  - n: 11
+    speaker: 阿公
+    en: "I picked it up off the table just now… Here, give it back to her."
+    sx: {hanzi: "𠊎頭先在桌項拈个……好，還分佢。", pinyin: "ngaiˇ teuˇ xienˊ coiˊ zogˋ hong ngiamˊ ge … hoˋ, vanˇ bunˊ giˇ."}
+    hl: {hanzi: "𠊎頭先在桌項拈个……好，還分佢。", pinyin: "ngai teu senˋ coiˋ zog hong+ ngiamˋ gaiˇ … hoˊ, van bunˋ gi."}
+  - n: 12
+    speaker: Lucie
+    en: "(in French, hugging Grandpa) Thank you, Grandpa!"
+    sx: {hanzi: "Merci, Grandpa !", pinyin: "Merci, Grandpa !"}
+    hl: {hanzi: "Merci, Grandpa !", pinyin: "Merci, Grandpa !"}
+  - n: 13
+    speaker: 阿婆
+    en: "Right, it's found. Everyone eat up; we'll talk once we've finished eating."
+    sx: {hanzi: "好了，尋著了。大家緊食，食煞正講。", pinyin: "hoˋ leˊ, qimˇ doˋ leˊ. tai gaˊ ginˋ siid, siid sod zang gongˋ."}
+    hl: {hanzi: "好了，尋著了。大家緊食，食煞正講。", pinyin: "hoˊ leˋ, cim doˊ leˋ. tai+ gaˋ ginˊ shidˋ, shidˋ sod zhangˇ gongˊ."}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      Two ways to lose something. 打毋見忒 daˋ mˇ gien tedˋ "lose, mislay", literally "hit-not-see-away": you no longer know
+      where it is. 跌忒 diedˋ tedˋ (line 5) "drop, lose": it fell somewhere. 忒 is the "away, gone" ending of lesson 27
+      (鹹忒 "too salty"): here, after a verb, it says the thing is gone. 手機仔 "mobile phone" (Hailu 手機).
+  - ref: 3
+    topic: grammar
+    text: >
+      毋使驚 "don't worry, no need to be afraid": 毋使 (lesson 11) only reassures, where 莫 (lesson 12) "don't!" forbids. 頭先 teuˇ xienˊ "a moment ago, just now".
+  - ref: 4
+    topic: grammar
+    text: >
+      記得 gi dedˋ "remember", 毋記得 "forget" (literally "not remember"): Hakka has no separate word for "forget" in
+      everyday speech. 昨暗晡 "last night": 昨 "yesterday" + 暗晡 "evening". 床項 "in bed": 項 "on" again (lesson 29).
+  - ref: 6
+    topic: grammar
+    text: >
+      尋 qimˇ "look for" (the Mandarin 找); 尋無 "look for and not find, can't find"; 尋著 (line 13) "look for and find,
+      found". The verb says what you did, the ending says how it came out: 看著 "saw", 尋著 "found", 尋無 "didn't find".
+      下背 haˊ boi "under, underneath".
+  - ref: 10
+    topic: grammar
+    text: >
+      共樣 "the same" (lesson 15): 兩支共樣烏 "the two (phones) are the same black". 支 is the classifier for a phone. 連自家个都
+      毋知 "doesn't even know his own": 連…都 "even", as in Mandarin.
+  - ref: 11
+    topic: grammar
+    text: >
+      拈 ngiamˊ "pick up (a small thing)". 還分佢 "give it back to her": 還 (lesson 30) + 分 "to".
+  - ref: 13
+    topic: grammar
+    text: >
+      食煞 "finish eating": 煞 sod "end, finish" goes after the verb, like 忒 and 著: 講煞 "finish talking", 做煞 "finish
+      working". 食煞正講 "eat first, talk after": 正 "only then" (lesson 24, 食飽正食). 好 does the same job when the
+      result is "done properly": 洗好 "washed (and done)", 放好 "put away properly".
+
+new_words:
+  - {hanzi: 手機仔, pinyin: "suˋ giˊ eˋ", en: "mobile phone", hl: {hanzi: 手機, pinyin: "shiuˊ giˋ"}}
+  - {hanzi: 打毋見忒, pinyin: "daˋ mˇ gien tedˋ", en: "lose, mislay", hl: {hanzi: 打毋見忒, pinyin: "daˊ m gienˇ ted"}}
+  - {hanzi: 跌忒, pinyin: "diedˋ tedˋ", en: "drop, lose", hl: {hanzi: 跌忒, pinyin: "died ted"}}
+  - {hanzi: 頭先, pinyin: "teuˇ xienˊ", en: "a moment ago, just now", hl: {hanzi: 頭先, pinyin: "teu senˋ"}}
+  - {hanzi: 記得, pinyin: "gi dedˋ", en: "remember", hl: {hanzi: 記得, pinyin: "giˇ ded"}}
+  - {hanzi: 毋記得, pinyin: "mˇ gi dedˋ", en: "forget", hl: {hanzi: 毋記得, pinyin: "m giˇ ded"}}
+  - {hanzi: 昨暗晡, pinyin: "coˊ am buˊ", en: "last night", hl: {hanzi: 昨暗晡, pinyin: "coˋ amˇ buˋ"}}
+  - {hanzi: 床, pinyin: "congˇ", en: "bed", hl: {hanzi: 床, pinyin: "cong"}}
+  - {hanzi: 打, pinyin: "daˋ", en: "hit; make (a call)", hl: {hanzi: 打, pinyin: "daˊ"}}
+  - {hanzi: 尋, pinyin: "qimˇ", en: "look for", hl: {hanzi: 尋, pinyin: "cim"}}
+  - {hanzi: 尋無, pinyin: "qimˇ moˇ", en: "can't find", hl: {hanzi: 尋無, pinyin: "cim mo"}}
+  - {hanzi: 下背, pinyin: "haˊ boi", en: "under, underneath", hl: {hanzi: 下背, pinyin: "haˋ boiˇ"}}
+  - {hanzi: 響, pinyin: "hiongˋ", en: "ring, make a sound", hl: {hanzi: 響, pinyin: "hiongˊ"}}
+  - {hanzi: 袋仔, pinyin: "toi eˋ", en: "pocket; bag", hl: {hanzi: 袋仔, pinyin: "toi+ er"}}
+  - {hanzi: 支, pinyin: "giˊ", en: "(classifier for phones, pens, sticks)", hl: {hanzi: 支, pinyin: "giˋ"}}
+  - {hanzi: 連, pinyin: "lienˇ", en: "even (連…都)", hl: {hanzi: 連, pinyin: "lien"}}
+  - {hanzi: 拈, pinyin: "ngiamˊ", en: "pick up", hl: {hanzi: 拈, pinyin: "ngiamˋ"}}
+  - {hanzi: 凳仔, pinyin: "den eˋ", en: "stool, chair", hl: {hanzi: 凳仔, pinyin: "denˇ er"}}
+  - {hanzi: 桌, pinyin: "zogˋ", en: "table (in compounds: 桌項 on the table)", hl: {hanzi: 桌, pinyin: "zog"}}
+  - {hanzi: 著, pinyin: "doˋ", en: "(after a verb) and got it: 尋著 found", hl: {hanzi: 著, pinyin: "doˊ"}}
+  - {hanzi: 地泥, pinyin: "ti naiˇ", en: "the ground, the floor", hl: {hanzi: 地泥, pinyin: "ti+ nai"}}
+  - {hanzi: 起來, pinyin: "hiˋ loiˇ", en: "up (after a verb)", hl: {hanzi: 起來, pinyin: "hiˊ loi"}}
+  - {hanzi: 煞, pinyin: "sod", en: "finish (after a verb)", hl: {hanzi: 煞, pinyin: "sod"}}
+
+exercises:
+  translate:
+    - en: "I've lost my phone. Have you seen it?"
+      sx: {hanzi: "𠊎个手機仔打毋見忒了，你有看著無？", pinyin: "ngaiˇ ge suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ, nˇ iuˊ kon doˋ moˇ?"}
+      hl: {hanzi: "𠊎个手機打毋見忒了，你有看著無？", pinyin: "ngai gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ, ngi rhiuˋ konˇ doˊ mo?"}
+    - en: "No need to look for it: it's under the bed."
+      sx: {hanzi: "毋使尋，在床下背。", pinyin: "mˇ siiˋ qimˇ, coiˊ congˇ haˊ boi."}
+      hl: {hanzi: "毋使尋，在床下背。", pinyin: "m siiˊ cim, coiˋ cong haˋ boiˇ."}
+    - en: "Grandma has finished talking; Sam has washed the bowls."
+      sx: {hanzi: "阿婆講煞了，Sam 碗洗好了。", pinyin: "aˊ poˇ gongˋ sod leˊ, Sam vonˋ seˋ hoˋ leˊ."}
+      hl: {hanzi: "阿婆講煞了，Sam 碗洗好了。", pinyin: "a+ po gongˊ sod leˋ, Sam vonˊ seˊ hoˊ leˋ."}
+    - en: "Do you remember? We ate here last night."
+      sx: {hanzi: "你記得無？𫣆兜昨暗晡在這食飯。", pinyin: "nˇ gi dedˋ moˇ? enˊ deuˊ coˊ am buˊ coiˊ iaˋ siid fan."}
+      hl: {hanzi: "你記得無？𫣆兜昨暗晡在這食飯。", pinyin: "ngi giˇ ded mo? enˋ deuˋ coˋ amˇ buˋ coiˋ liaˊ shidˋ fan+."}
+    - en: "Our two phones are the same: both black."
+      sx: {hanzi: "𠊎兜兩支手機仔共樣，都係烏个。", pinyin: "ngaiˇ deuˊ liongˋ giˊ suˋ giˊ eˋ kiung iong, du he vuˊ ge."}
+      hl: {hanzi: "𠊎兜兩支手機共樣，都係烏个。", pinyin: "ngai deuˋ liongˊ giˋ shiuˊ giˋ kiung+ rhong+, du+ heˇ vuˋ gaiˇ."}
+  fill:
+    - en: "I forgot."
+      sx: {hanzi: "𠊎___了。", pinyin: "ngaiˇ ___ leˊ.", answer_hanzi: "毋記得", answer: "mˇ gi dedˋ"}
+      hl: {hanzi: "𠊎___了。", pinyin: "ngai ___ leˋ.", answer_hanzi: "毋記得", answer: "m giˇ ded"}
+    - en: "Found it!"
+      sx: {hanzi: "___著了！", pinyin: "___ doˋ leˊ!", answer_hanzi: "尋", answer: "qimˇ"}
+      hl: {hanzi: "___著了！", pinyin: "___ doˊ leˋ!", answer_hanzi: "尋", answer: "cim"}
+    - en: "Pick it up, it's fallen on the ground."
+      sx: {hanzi: "___起來，跌忒在地泥項。", pinyin: "___ hiˋ loiˇ, diedˋ tedˋ coiˊ ti naiˇ hong.", answer_hanzi: "拈", answer: "ngiamˊ"}
+      hl: {hanzi: "___起來，跌忒在地泥項。", pinyin: "___ hiˊ loi, died ted coiˋ ti+ nai hong+.", answer_hanzi: "拈", answer: "ngiamˋ"}
+
+audio: []
