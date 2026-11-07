@@ -69,13 +69,50 @@ def load_moe(db, raw):
     print(f"moe: {n} entries, {len(sylls)} Sixian syllables")
 
 
+def _expand_slashes(text):
+    """'gimˊ/ginˊ buˊ ngidˋ' → ['gimˊ buˊ ngidˋ', 'ginˊ buˊ ngidˋ']: a slash offers alternatives for one token."""
+    tokens = text.split()
+    if not any("/" in t for t in tokens):
+        return [text] if text else []
+    out = []
+    width = max(len(t.split("/")) for t in tokens)
+    for k in range(width):
+        out.append(" ".join(t.split("/")[min(k, len(t.split("/")) - 1)] for t in tokens))
+    return [nfc(x) for x in dict.fromkeys(out)]
+
+
+def _take_groups(s, open_, close):
+    """Remove top-level groups delimited by open_/close (nesting allowed); return (rest, [group contents])."""
+    rest, groups, depth, cur = [], [], 0, []
+    for ch in s:
+        if ch in open_:
+            if depth: cur.append(ch)
+            depth += 1
+        elif ch in close and depth:
+            depth -= 1
+            if depth: cur.append(ch)
+            else: groups.append("".join(cur)); cur = []
+        elif depth:
+            cur.append(ch)
+        else:
+            rest.append(ch)
+    return "".join(rest), groups
+
+
 def split_alts(s):
-    """'窗框(窗門框、窗斗)' → ('窗框', ['窗門框','窗斗']); 'ngiabˋ lang 【ngiabˋ nang】' → ('ngiabˋ lang', ['ngiabˋ nang'])"""
+    """'窗框(窗門框、窗斗)' → ('窗框', ['窗門框','窗斗']); 'gimˊ/ginˊ buˊ ngidˋ' → ('gimˊ buˊ ngidˋ', ['ginˊ buˊ ngidˋ']);
+    'nai vi【nai eˋ (lai/nai eˊ)】' → ('nai vi', ['nai eˋ', 'lai eˊ', 'nai eˊ'])."""
     s = nfc(s)
-    alts = [a for grp in re.findall(r"[(（【\[](.*?)[)）】\]]", s) for a in re.split(r"[、/，,]", grp) if a.strip()]
-    main = nfc(re.sub(r"[(（【\[].*?[)）】\]]", "", s))
-    main, *slash = [nfc(x) for x in main.split("/")]     # 'gimˊ buˊ ngidˋ/ginˊ buˊ ngidˋ'
-    return main, slash + [nfc(a) for a in alts]
+    rest, groups = _take_groups(s, "【[", "】]")
+    rest, paren = _take_groups(rest, "(（", ")）")
+    groups += paren
+    mains = _expand_slashes(nfc(rest))
+    alts = mains[1:]
+    for g in groups:
+        for part in re.split(r"[、，,]", g):
+            sub_main, sub_alts = split_alts(part) if part.strip() else ("", [])
+            alts += [a for a in [sub_main] + sub_alts if a]
+    return (mains[0] if mains else ""), [a for a in dict.fromkeys(alts) if a and a != (mains[0] if mains else "")]
 
 
 def load_kaga(db, raw):

@@ -19,14 +19,23 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import pinyin as py  # noqa: E402
 
 TRIGGERS = {"24", "55", "5"}
+# 仔 suffix forms in Sixian (assimilated to the preceding final: 雞仔 gieˊ eˋ, 豬仔 zuˊ veˋ, 柑仔 gamˊ meˋ …)
+ZAI = {"e", "ve", "ie", "me", "ne", "nge", "be", "le", "ge"}
 
 
 def apply(syllables):
-    """[(syl, value)] in one tone group → [(syl, spoken value)]."""
+    """[(syl, value)] in one tone group → [(syl, spoken value)].
+    Rule 1: 陰平 24 → 11 before 24, 55, 5.  Rule 2 (仔 suffix, MOE article 107_015): 仔 eˋ 31 → eˇ 11 after
+    上聲 31 or 陰入 2 (草仔 coˋ eˇ, 鐵仔 tiedˋ leˇ)."""
     out = []
     for i, (s, v) in enumerate(syllables):
         nxt = syllables[i + 1][1] if i + 1 < len(syllables) else None
-        out.append((s, "11" if v == "24" and nxt in TRIGGERS else v))
+        prev = syllables[i - 1][1] if i else None
+        if v == "24" and nxt in TRIGGERS:
+            v = "11"
+        elif v == "31" and s in ZAI and prev in ("31", "2"):
+            v = "11"
+        out.append((s, v))
     return out
 
 
@@ -56,6 +65,10 @@ def _test():
         "banˊ maˊ": "banˇ maˊ",
         "cuˊ siib": "cuˇ siib", "suˊ liuˇ": "suˊ liuˇ", "cuˊ samˊ": "cuˇ samˊ", "suˊ abˋ": "suˊ abˋ",
         "zuˊ, gonˊ": "zuˊ, gonˊ", "zuˊ | gonˊ": "zuˊ gonˊ",
+        # MOE article 107_015 (Sixian/Hailu sandhi): 天光 tienˇ gongˊ, 添飯, 三月; 仔 after 上聲 / 陰入
+        "tienˊ gongˊ": "tienˇ gongˊ", "tiamˊ fan": "tiamˇ fan", "samˊ ngied": "samˇ ngied",
+        "coˋ eˋ": "coˋ eˇ", "tiedˋ leˋ": "tiedˋ leˇ", "banˋ neˋ": "banˋ neˇ", "gieˊ eˋ": "gieˊ eˋ",
+        "zuˊ veˋ": "zuˊ veˋ",
     }
     for a, b in cases.items():
         got = spoken(a)
