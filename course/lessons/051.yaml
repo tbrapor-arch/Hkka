@@ -1,0 +1,192 @@
+id: 51
+title:
+  en: "New Year's Eve"
+  sx: {hanzi: "年三十暗晡", pinyin: "ngienˇ samˊ siib am buˊ"}
+  hl: {hanzi: "年三十暗晡", pinyin: "ngien samˋ shibˋ amˇ buˋ"}
+review: false
+setting: >-
+  Friday 5 February, New Year's Eve. Everyone is home: A-in since this morning, Mr Liu with the shop shut until the
+  fifth. On the table in the main room stand the offerings, pork, a chicken and a fish, and the incense is lit. The
+  round table is laid for seven.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿爸
+    en: "On New Year's Eve we first pay our respects to the ancestors, and only then eat the reunion dinner."
+    sx: {hanzi: "年三十暗晡，先拜阿公婆，正食團圓飯。", pinyin: "ngienˇ samˊ siib am buˊ, xienˊ bai aˊ gungˊ poˇ, zang siid tonˇ ienˇ fan."}
+    hl: {hanzi: "年三十暗晡，先拜阿公婆，正食團圓飯。", pinyin: "ngien samˋ shibˋ amˇ buˋ, senˋ baiˇ a+ gungˋ po, zhangˇ shidˋ ton rhan pon+."}
+  - n: 2
+    speaker: Sam
+    en: "阿公婆? But Grandpa and Grandma are right here!"
+    sx: {hanzi: "阿公婆？阿公摎阿婆就在這位啊！", pinyin: "aˊ gungˊ poˇ? aˊ gungˊ lauˊ aˊ poˇ qiu coiˊ iaˋ vi a!"}
+    hl: {hanzi: "阿公婆？阿公摎阿婆就在這位啊！", pinyin: "a+ gungˋ po? a+ gungˋ lauˋ a+ po ciu+ coiˋ liaˊ vui+ a+!"}
+    check: true
+  - n: 3
+    speaker: 阿英
+    en: "Not them! 阿公婆 are the ancestors: the family from long ago."
+    sx: {hanzi: "毋係！阿公婆就係祖公，頭擺个人。", pinyin: "mˇ he! aˊ gungˊ poˇ qiu he zuˋ gungˊ, teuˇ baiˋ ge nginˇ."}
+    hl: {hanzi: "毋係！阿公婆就係祖公，頭擺个人。", pinyin: "m heˇ! a+ gungˋ po ciu+ heˇ zuˊ gungˋ, teu baiˊ gaiˇ ngin."}
+  - n: 4
+    speaker: 阿婆
+    en: "(planting the incense in the incense burner, before the ancestors' tablet) Ancestors, this year Sam is spending the New Year in our house too."
+    sx: {hanzi: "阿公婆，今年 Sam 乜在𫣆兜屋下過年。", pinyin: "aˊ gungˊ poˇ, gimˊ ngienˇ Sam me coiˊ enˊ deuˊ vugˋ kaˊ go ngienˇ."}
+    hl: {hanzi: "阿公婆，今年 Sam 乜在𫣆兜屋下過年。", pinyin: "a+ gungˋ po, gimˋ ngien Sam meˇ coiˋ enˋ deuˋ vug haˋ goˇ ngien."}
+  - n: 5
+    speaker: 阿姆
+    en: "(at the round table) Come on, have some 長年菜. Eat it and you'll live to a hundred."
+    sx: {hanzi: "來，食長年菜。食長年菜，做得長命百歲。", pinyin: "loiˇ, siid congˇ ngienˇ coi. siid congˇ ngienˇ coi, zo dedˋ congˇ miang bagˋ se."}
+    hl: {hanzi: "來，食長年菜。食長年菜，做得長命百歲。", pinyin: "loi, shidˋ chong ngien coiˇ. shidˋ chong ngien coiˇ, zoˇ ded chong miang+ bag soiˇ."}
+  - n: 6
+    speaker: Sam
+    en: "It's a bit bitter… but the more you eat, the more you want!"
+    sx: {hanzi: "有兜仔苦……毋過緊食緊愛食！", pinyin: "iuˊ deuˊ eˋ fuˋ … mˇ go ginˋ siid ginˋ oi siid!"}
+    hl: {hanzi: "有兜仔苦……毋過緊食緊愛食！", pinyin: "rhiuˋ deuˋ er fuˊ … m goˇ ginˊ shidˋ ginˊ oiˇ shidˋ!"}
+  - n: 7
+    speaker: 阿明
+    en: "Grandpa! Happy New Year and prosperity! Hand over the red envelope!"
+    sx: {hanzi: "阿公！恭喜發財，紅包拿來！", pinyin: "aˊ gungˊ! giungˊ hiˋ fadˋ coiˇ, fungˇ bauˊ naˊ loiˇ!"}
+    hl: {hanzi: "阿公！恭喜發財，紅包拿來！", pinyin: "a+ gungˋ! giungˋ hiˊ fad coi, fung bauˋ naˋ loi!"}
+  - n: 8
+    speaker: 阿公
+    en: "(taking out a red envelope) Here."
+    sx: {hanzi: "拿去。", pinyin: "naˊ hi."}
+    hl: {hanzi: "拿去。", pinyin: "naˋ hiˇ."}
+  - n: 9
+    speaker: 阿婆
+    en: "And Sam has one too."
+    sx: {hanzi: "Sam 乜有一隻。", pinyin: "Sam me iuˊ idˋ zagˋ."}
+    hl: {hanzi: "Sam 乜有一隻。", pinyin: "Sam meˇ rhiuˋ rhid zhag."}
+  - n: 10
+    speaker: Sam
+    en: "Me too? But I'm a grown-up!"
+    sx: {hanzi: "𠊎乜有？毋過𠊎係大人了！", pinyin: "ngaiˇ me iuˊ? mˇ go ngaiˇ he tai nginˇ leˊ!"}
+    hl: {hanzi: "𠊎乜有？毋過𠊎係大人了！", pinyin: "ngai meˇ rhiuˋ? m goˇ ngai heˇ tai+ ngin leˋ!"}
+  - n: 11
+    speaker: 阿婆
+    en: "In Grandma's house, you're a child."
+    sx: {hanzi: "在阿婆屋下，你就係細人仔。", pinyin: "coiˊ aˊ poˇ vugˋ kaˊ, nˇ qiu he se nginˇ eˋ."}
+    hl: {hanzi: "在阿婆屋下，你就係細人仔。", pinyin: "coiˋ a+ po vug haˋ, ngi ciu+ heˇ seˇ ngin er."}
+  - n: 12
+    speaker: 阿爸
+    en: "(watching A-min reach for the radish cake again) A-min is getting fatter and fatter."
+    sx: {hanzi: "阿明緊來緊大箍了。", pinyin: "aˊ minˇ ginˋ loiˇ ginˋ tai kieuˊ leˊ."}
+    hl: {hanzi: "阿明緊來緊大箍了。", pinyin: "a+ min ginˊ loi ginˊ tai+ kieuˋ leˋ."}
+  - n: 13
+    speaker: 阿明
+    en: "It's Grandma's fault: her 粄 is too good! …Tonight we're letting off firecrackers and playing cards till dawn!"
+    sx: {hanzi: "係阿婆个粄忒好食！……今暗晡𫣆兜愛放紙炮仔，打牌仔打到天光！", pinyin: "he aˊ poˇ ge banˋ tedˋ hoˋ siid! … gimˊ am buˊ enˊ deuˊ oi biong ziiˋ pau eˋ, daˋ paiˇ eˋ daˋ do tienˊ gongˊ!"}
+    hl: {hanzi: "係阿婆个粄忒好食！……今暗晡𫣆兜愛放紙炮仔，打牌仔打到天光！", pinyin: "heˇ a+ po gaiˇ banˊ ted hoˊ shidˋ! … gimˋ amˇ buˋ enˋ deuˋ oiˇ biongˇ zhiˊ pauˇ er, daˊ pai er daˊ doˇ tienˋ gongˋ!"}
+  - n: 14
+    speaker: 阿公
+    en: "(getting up) I'm going to bed at nine."
+    sx: {hanzi: "𠊎九點睡目。", pinyin: "ngaiˇ giuˋ diamˋ soi mugˋ."}
+    hl: {hanzi: "𠊎九點睡目。", pinyin: "ngai giuˊ diamˊ shoi+ mug."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      Almost an official example word for word: 年三十暗晡，先拜祖公正食團圓飯 "on New Year's Eve, first worship the
+      ancestors, then eat the reunion dinner". 拜 (lesson 22) "worship, pay respects to", here the ancestors. 團圓飯 "reunion
+      dinner": 團圓 "be together as a family". The offerings are 三牲, pork, chicken and fish.
+  - ref: 2
+    topic: false-friend
+    text: >
+      阿公婆 aˊ gungˊ poˇ, all in one word, is "the ancestors", and 阿公婆牌 their tablet in the main room: 新娘正入門，愛先
+      拜阿公婆 "a new bride first pays her respects to the ancestors". Sam heard 阿公 + 阿婆. 祖公 (line 3) says the same.
+  - ref: 5
+    topic: culture
+    text: >
+      長年菜 congˇ ngienˇ coi, mustard greens stewed long, eaten at New Year 望大家做得長命百歲 "so that everyone may live
+      to a hundred" (official example). The leaves are long, and so, the wish goes, is your life.
+  - ref: 6
+    topic: grammar
+    text: >
+      緊 X 緊 Y "the more X, the more Y": 緊食緊愛食 "the more you eat, the more you want" (an official example, said of
+      watermelon in summer). With 來, it is "more and more": 緊來緊大箍 (line 12) "fatter and fatter", 緊來緊多 "more and
+      more". 緊 is the "keep on" of lesson 29.
+  - ref: 7
+    topic: culture
+    text: >
+      恭喜發財，紅包拿來！ "Happy New Year, hand over the red envelope!": the official examples quote it as what you hear at
+      every New Year. Children get 紅包 from grandparents and parents, and grown-ups keep giving them to the old.
+  - ref: 11
+    topic: grammar
+    text: >
+      大人 "grown-up, adult" and 細人仔 (lesson 31) "child". 在阿婆屋下 "in Grandma's house": no word for "in" is needed
+      after 在.
+  - ref: 13
+    topic: grammar
+    text: >
+      打牌仔打到天光 "play cards till dawn": the verb is repeated before 到 when it has an object (打牌仔 + 打到…). 天光 "daybreak"
+      is the 天光 of 天光日 "tomorrow" (lesson 6). 放紙炮仔 "let off firecrackers": 三十暗晡，家家屋屋都會放紙炮仔迎新年
+      (official example).
+
+new_words:
+  - {hanzi: 阿公婆, pinyin: "aˊ gungˊ poˇ", en: "the ancestors", hl: {hanzi: 阿公婆, pinyin: "a+ gungˋ po"}}
+  - {hanzi: 祖公, pinyin: "zuˋ gungˊ", en: "ancestors, forefathers", hl: {hanzi: 祖公, pinyin: "zuˊ gungˋ"}}
+  - {hanzi: 團圓, pinyin: "tonˇ ienˇ", en: "(of a family) be together, reunion", hl: {hanzi: 團圓, pinyin: "ton rhan"}}
+  - {hanzi: 團圓飯, pinyin: "tonˇ ienˇ fan", en: "reunion dinner", hl: {hanzi: 團圓飯, pinyin: "ton rhan pon+"}}
+  - {hanzi: 長年菜, pinyin: "congˇ ngienˇ coi", en: "New Year mustard greens", hl: {hanzi: 長年菜, pinyin: "chong ngien coiˇ"}}
+  - {hanzi: 長命, pinyin: "congˇ miang", en: "long life", hl: {hanzi: 長命, pinyin: "chong miang+"}}
+  - {hanzi: 大人, pinyin: "tai nginˇ", en: "adult, grown-up", hl: {hanzi: 大人, pinyin: "tai+ ngin"}}
+  - {hanzi: 大箍, pinyin: "tai kieuˊ", en: "fat, plump", hl: {hanzi: 大箍, pinyin: "tai+ kieuˋ"}}
+  - {hanzi: 香爐, pinyin: "hiongˊ luˇ", en: "incense burner", hl: {hanzi: 香爐, pinyin: "hiongˋ lu"}}
+  - {hanzi: 年初一, pinyin: "ngienˇ cuˊ idˋ", en: "New Year's Day (lunar)", hl: {hanzi: 年初一, pinyin: "ngien cuˋ rhid"}}
+  - {hanzi: 紙, pinyin: "ziiˋ", en: "paper", hl: {hanzi: 紙, pinyin: "zhiˊ"}}
+  - {hanzi: 炮, pinyin: "pau", en: "firecracker (紙炮仔)", hl: {hanzi: 炮, pinyin: "pauˇ"}}
+  - {hanzi: 孝順, pinyin: "hau sun", en: "dutiful (to parents and grandparents)", hl: {hanzi: 孝順, pinyin: "hauˇ shun+"}}
+  - {hanzi: 天光, pinyin: "tienˊ gongˊ", en: "daybreak, dawn", hl: {hanzi: 天光, pinyin: "tienˋ gongˋ"}}
+  - {hanzi: 三牲, pinyin: "samˊ senˊ", en: "the three offerings (pork, chicken, fish)", hl: {hanzi: 三牲, pinyin: "samˋ senˋ"}}
+  - {hanzi: 廳下, pinyin: "tangˊ haˊ", en: "main room, living room", hl: {hanzi: 廳下, pinyin: "tangˋ haˋ"}}
+  - {hanzi: 雞公, pinyin: "gieˊ gungˊ", en: "rooster", hl: {hanzi: 雞公, pinyin: "gaiˋ gungˋ"}}
+  - {hanzi: 鴨, pinyin: "abˋ", en: "duck", hl: {hanzi: 鴨, pinyin: "ab"}}
+  - {hanzi: 全家, pinyin: "qionˇ gaˊ", en: "the whole family", hl: {hanzi: 全家, pinyin: "cion gaˋ"}}
+  - {hanzi: 入門, pinyin: "ngib munˇ", en: "come in (through the door); marry into the family", hl: {hanzi: 入門, pinyin: "ngibˋ mun"}}
+  - {hanzi: 守, pinyin: "suˋ", en: "keep, guard; stay up", hl: {hanzi: 守, pinyin: "shiuˊ"}}
+
+exercises:
+  translate:
+    - en: "On New Year's Eve the whole family eats together."
+      sx: {hanzi: "年三十暗晡，全家人共下食團圓飯。", pinyin: "ngienˇ samˊ siib am buˊ, qionˇ gaˊ nginˇ kiung ha siid tonˇ ienˇ fan."}
+      hl: {hanzi: "年三十暗晡，全家人共下食團圓飯。", pinyin: "ngien samˋ shibˋ amˇ buˋ, cion gaˋ ngin kiung+ ha+ shidˋ ton rhan pon+."}
+    - en: "A new bride first pays her respects to the ancestors."
+      sx: {hanzi: "新娘正入門，愛先拜阿公婆。", pinyin: "xinˊ ngiongˇ zang ngib munˇ, oi xienˊ bai aˊ gungˊ poˇ."}
+      hl: {hanzi: "新娘正入門，愛先拜阿公婆。", pinyin: "sinˋ ngiong zhangˇ ngibˋ mun, oiˇ senˋ baiˇ a+ gungˋ po."}
+      source: kaga115
+    - en: "The offerings: pork, a rooster and a fish. No duck."
+      sx: {hanzi: "三牲：豬肉、雞公摎魚。無鴨。", pinyin: "samˊ senˊ: zuˊ ngiugˋ, gieˊ gungˊ lauˊ ngˇ. moˇ abˋ."}
+      hl: {hanzi: "三牲：豬肉、雞公摎魚。無鴨。", pinyin: "samˋ senˋ: zhuˋ ngiug, gaiˋ gungˋ lauˋ ng. mo ab."}
+      check: true
+    - en: "Long-life greens are made with mustard greens."
+      sx: {hanzi: "長年菜係用芥菜煮个。", pinyin: "congˇ ngienˇ coi he iung gie coi zuˋ ge."}
+      hl: {hanzi: "長年菜係用芥菜煮个。", pinyin: "chong ngien coiˇ heˇ rhung+ gaiˇ coiˇ zhuˊ gaiˇ."}
+    - en: "The more he talks, the more he wants to talk."
+      sx: {hanzi: "佢緊講緊愛講。", pinyin: "giˇ ginˋ gongˋ ginˋ oi gongˋ."}
+      hl: {hanzi: "佢緊講緊愛講。", pinyin: "gi ginˊ gongˊ ginˊ oiˇ gongˊ."}
+    - en: "A-min wants to stay up till dawn; the grown-ups are in the main room playing cards."
+      sx: {hanzi: "阿明愛守到天光；大人在廳下打牌仔。", pinyin: "aˊ minˇ oi suˋ do tienˊ gongˊ; tai nginˇ coiˊ tangˊ haˊ daˋ paiˇ eˋ."}
+      hl: {hanzi: "阿明愛守到天光；大人在廳下打牌仔。", pinyin: "a+ min oiˇ shiuˊ doˇ tienˋ gongˋ; tai+ ngin coiˋ tangˋ haˋ daˊ pai er."}
+      check: true
+    - en: "On New Year's Eve you have to go home, so the whole family is together."
+      sx: {hanzi: "年三十暗晡，愛轉去屋下，全家人團圓。", pinyin: "ngienˇ samˊ siib am buˊ, oi zonˋ hi vugˋ kaˊ, qionˇ gaˊ nginˇ tonˇ ienˇ."}
+      hl: {hanzi: "年三十暗晡，愛轉去屋下，全家人團圓。", pinyin: "ngien samˋ shibˋ amˇ buˋ, oiˇ zhonˊ hiˇ vug haˋ, cion gaˋ ngin ton rhan."}
+    - en: "Tomorrow is New Year's Day. A-min is very good to his grandparents: he gives Grandpa his 粄 first."
+      sx: {hanzi: "天光日係年初一。阿明當孝順，粄先分阿公食。", pinyin: "tienˊ gongˊ ngidˋ he ngienˇ cuˊ idˋ. aˊ minˇ dongˊ hau sun, banˋ xienˊ bunˊ aˊ gungˊ siid."}
+      hl: {hanzi: "韶早係年初一。阿明當孝順，粄先分阿公食。", pinyin: "shau zoˊ heˇ ngien cuˋ rhid. a+ min dongˋ hauˇ shun+, banˊ senˋ bunˋ a+ gungˋ shidˋ."}
+    - en: "Grandma burns incense and puts it in the incense burner."
+      sx: {hanzi: "阿婆燒香，放在香爐。", pinyin: "aˊ poˇ seuˊ hiongˊ, biong coiˊ hiongˊ luˇ."}
+      hl: {hanzi: "阿婆燒香，放在香爐。", pinyin: "a+ po shauˋ hiongˋ, biongˇ coiˋ hiongˋ lu."}
+  fill:
+    - en: "Fatter and fatter."
+      sx: {hanzi: "緊來___大箍。", pinyin: "ginˋ loiˇ ___ tai kieuˊ.", answer_hanzi: "緊", answer: "ginˋ"}
+      hl: {hanzi: "緊來___大箍。", pinyin: "ginˊ loi ___ tai+ kieuˋ.", answer_hanzi: "緊", answer: "ginˊ"}
+    - en: "Happy New Year, prosperity!"
+      sx: {hanzi: "恭喜___！", pinyin: "giungˊ hiˋ ___!", answer_hanzi: "發財", answer: "fadˋ coiˇ"}
+      hl: {hanzi: "恭喜___！", pinyin: "giungˋ hiˊ ___!", answer_hanzi: "發財", answer: "fad coi"}
+    - en: "Live to a hundred!"
+      sx: {hanzi: "___百歲！", pinyin: "___ bagˋ se!", answer_hanzi: "長命", answer: "congˇ miang"}
+      hl: {hanzi: "___百歲！", pinyin: "___ bag soiˇ!", answer_hanzi: "長命", answer: "chong miang+"}
+
+audio: []
