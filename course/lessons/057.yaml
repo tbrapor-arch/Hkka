@@ -5,8 +5,8 @@ title:
   hl: {hanzi: "逐日朝晨五點就會開工", pinyin: "dag ngid zhauˋ shin ngˊ diamˊ ciu+ voi+ koiˋ gungˋ"}
 review: false
 setting: >-
-  Friday 26 February, the day after 天穿日, five in the morning. 阿舅's 粄條 factory is a long shed behind his house in
-  竹東, full of steam. Sam sleeps in a room upstairs. Two people are already at work: 阿蘭嫂, who has been here thirty
+  Friday 26 February, the day after 天穿日, five in the morning. 阿舅's 粄條 factory is a long shed in 竹東, full of steam;
+  Sam sleeps in a room above the factory. Two people are already at work: 阿蘭嫂, who has been here thirty
   years and speaks only Hailu, and 阿傑, who is twenty-two and has been here half a year. From this lesson on, everyone
   around Sam speaks Hailu: read the Hailu line as the one they actually say.
 names: [阿蘭嫂, 阿傑, 竹東]
@@ -25,13 +25,13 @@ dialogue:
   - n: 3
     speaker: 阿蘭嫂
     en: "'Freezing' (寒)? In 竹東 we say 冷. Here, put on an apron, and your cap."
-    sx: {hanzi: "寒？𫣆兜竹東講冷。來，圍身裙著起來，帽仔戴起來。", pinyin: "honˇ? enˊ deuˊ zugˋ dungˊ gongˋ langˊ. loiˇ, viˇ siinˊ kiunˇ zogˋ hiˋ loiˇ, mo eˋ dai hiˋ loiˇ."}
-    hl: {hanzi: "寒？𫣆兜竹東講冷。來，圍身裙著起來，帽仔戴起來。", pinyin: "hon? enˋ deuˋ zhug dungˋ gongˊ langˋ. loi, vui shinˋ kiun zhog hiˊ loi, mo+ er daiˇ hiˊ loi."}
+    sx: {hanzi: "寒？𠊎兜竹東講冷。來，圍身裙著起來，帽仔戴起來。", pinyin: "honˇ? ngaiˇ deuˊ zugˋ dungˊ gongˋ langˊ. loiˇ, viˇ siinˊ kiunˇ zogˋ hiˋ loiˇ, mo eˋ dai hiˋ loiˇ."}
+    hl: {hanzi: "寒？𠊎兜竹東講冷。來，圍身裙著起來，帽仔戴起來。", pinyin: "hon? ngai deuˋ zhug dungˋ gongˊ langˋ. loi, vui shinˋ kiun zhog hiˊ loi, mo+ er daiˇ hiˊ loi."}
   - n: 4
     speaker: 阿舅
-    en: "This is 阿蘭嫂: she's been here thirty years. That's 阿傑: he only started half a year ago. Your colleagues."
-    sx: {hanzi: "這係阿蘭嫂，佢在這做三十年了。該係阿傑，佢正來半年。你个同事。", pinyin: "iaˋ he aˊ lanˇ soˋ, giˇ coiˊ iaˋ zo samˊ siib ngienˇ leˊ. ge he aˊ kiedˋ, giˇ zang loiˇ ban ngienˇ. nˇ ge tungˇ sii."}
-    hl: {hanzi: "這係阿蘭嫂，佢在這做三十年了。該係阿傑，佢正來半年。你个同事。", pinyin: "liaˊ heˇ a+ lan soˊ, gi coiˋ liaˊ zoˇ samˋ shibˋ ngien leˋ. gai heˇ a+ kied, gi zhangˇ loi banˇ ngien. ngi gaiˇ tung sii+."}
+    en: "This is 阿蘭嫂: she works very hard, and she's been here thirty years. That's 阿傑: he only started half a year ago. Your colleagues."
+    sx: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年了。該係阿傑，佢正來半年。你个同事。", pinyin: "iaˋ he aˊ lanˇ soˋ, giˇ zo se dongˊ ngin ziinˊ, coiˊ iaˋ zo samˊ siib ngienˇ leˊ. ge he aˊ kiedˋ, giˇ zang loiˇ ban ngienˇ. nˇ ge tungˇ sii."}
+    hl: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年了。該係阿傑，佢正來半年。你个同事。", pinyin: "liaˊ heˇ a+ lan soˊ, gi zoˇ she+ dongˋ ngin+ zhinˋ, coiˋ liaˊ zoˇ samˋ shibˋ ngien leˋ. gai heˇ a+ kied, gi zhangˇ loi banˇ ngien. ngi gaiˇ tung sii+."}
   - n: 5
     speaker: 阿傑
     en: "Hi, Sam! Anything you don't know, just ask me."
@@ -39,18 +39,18 @@ dialogue:
     hl: {hanzi: "Sam，你好！有麼个毋知，問𠊎就好。", pinyin: "Sam, ngi hoˊ! rhiuˋ maˊ gaiˇ m diˋ, munˇ ngai ciu+ hoˊ."}
   - n: 6
     speaker: 阿蘭嫂
-    en: "First wash your hands. Making 粄條, you have to be clean."
-    sx: {hanzi: "先洗手。做粄條，愛淨俐。", pinyin: "xienˊ seˋ suˋ. zo banˋ tiauˇ, oi qiang li."}
-    hl: {hanzi: "先洗手。做粄條，愛淨俐。", pinyin: "senˋ seˊ shiuˊ. zoˇ banˊ tiau, oiˇ ciang+ li+."}
+    en: "First wash your hands: that's the factory rule. Making 粄條, you have to be clean."
+    sx: {hanzi: "先洗手，這係工廠个規矩。做粄條，愛淨俐。", pinyin: "xienˊ seˋ suˋ, iaˋ he gungˊ congˋ ge guiˊ giˋ. zo banˋ tiauˇ, oi qiang li."}
+    hl: {hanzi: "先洗手，這係工廠个規矩。做粄條，愛淨俐。", pinyin: "senˋ seˊ shiuˊ, liaˊ heˇ gungˋ chong gaiˇ guiˋ giˊ. zoˇ banˊ tiau, oiˇ ciang+ li+."}
   - n: 7
     speaker: 阿舅
     en: "Pour the batter into the trays and steam it ten minutes, and it's cooked."
-    sx: {hanzi: "米漿倒落盤仔，炊十分鐘就熟了。", pinyin: "miˋ jiongˊ do log panˇ eˋ, cuiˊ siib funˊ zungˊ qiu sug leˊ."}
+    sx: {hanzi: "米漿倒落盤仔，炊十分鐘就熟了。", pinyin: "miˋ jiongˊ do log panˇ eˋ, coiˊ siib funˊ zungˊ qiu sug leˊ."}
     hl: {hanzi: "米漿倒落盤仔，炊十分鐘就熟了。", pinyin: "miˊ ziongˋ doˇ logˋ pan er, chuiˋ shibˋ funˋ zhungˋ ciu+ shugˋ leˋ."}
   - n: 8
     speaker: 阿舅
     en: "When it's steamed, take it out and cut it into strips. Every day we make two thousand catties."
-    sx: {hanzi: "炊好，拿出來，切條。逐日會做兩千斤。", pinyin: "cuiˊ hoˋ, naˊ cudˋ loiˇ, qiedˋ tiauˇ. dagˋ ngidˋ voi zo liongˋ qienˊ ginˊ."}
+    sx: {hanzi: "炊好，拿出來，切條。逐日會做兩千斤。", pinyin: "coiˊ hoˋ, naˊ cudˋ loiˇ, qiedˋ tiauˇ. dagˋ ngidˋ voi zo liongˋ qienˊ ginˊ."}
     hl: {hanzi: "炊好，拿出來，切條。逐日會做兩千斤。", pinyin: "chuiˋ hoˊ, naˋ chud loi, cied tiau. dag ngid voi+ zoˇ liongˊ cienˋ ginˋ."}
   - n: 9
     speaker: Sam
@@ -70,20 +70,19 @@ dialogue:
     check: true
   - n: 12
     speaker: 阿傑
-    en: "That's right. You'll get used to it bit by bit."
-    sx: {hanzi: "係啊。你慢慢就會慣勢。", pinyin: "he a. nˇ man man qiu voi guan se."}
-    hl: {hanzi: "係啊。你慢慢就會慣勢。", pinyin: "heˇ a+. ngi man+ man+ ciu+ voi+ guanˇ sheˇ."}
+    en: "That's right. You'll get used to it bit by bit. Careful, the floor's slippery!"
+    sx: {hanzi: "係啊。你慢慢就會慣勢。注意，地泥當滑！", pinyin: "he a. nˇ man man qiu voi guan se. zu i, ti naiˇ dongˊ vad!"}
+    hl: {hanzi: "係啊。你慢慢就會慣勢。注意，地泥當滑！", pinyin: "heˇ a+. ngi man+ man+ ciu+ voi+ guanˇ sheˇ. zhuˇ rhiˇ, ti+ nai dongˋ vadˋ!"}
   - n: 13
     speaker: 阿舅
-    en: "(at twelve) Right, lunch. We start again at one."
-    sx: {hanzi: "好，食晝了。下晝一點正做過。", pinyin: "hoˋ, siid zu leˊ. haˊ zu idˋ diamˋ zang zo go."}
-    hl: {hanzi: "好，食晝了。下晝一點正做過。", pinyin: "hoˊ, shidˋ zhiuˇ leˋ. haˋ zhiuˇ rhid diamˊ zhangˇ zoˇ goˇ."}
+    en: "(at twelve) Right, lunch. We start again at one, and finish at four."
+    sx: {hanzi: "好，食晝了。下晝一點正做過，四點下班。", pinyin: "hoˋ, siid zu leˊ. haˊ zu idˋ diamˋ zang zo go, xi diamˋ haˊ banˊ."}
+    hl: {hanzi: "好，食晝了。下晝一點正做過，四點下班。", pinyin: "hoˊ, shidˋ zhiuˇ leˋ. haˋ zhiuˇ rhid diamˊ zhangˇ zoˇ goˇ, siˇ diamˊ haˋ banˋ."}
   - n: 14
     speaker: Sam
     en: "My arms are aching. And I'm wet with sweat."
     sx: {hanzi: "𠊎个手當痠，歸身都係汗。", pinyin: "ngaiˇ ge suˋ dongˊ sonˊ, guiˊ siinˊ du he hon."}
     hl: {hanzi: "𠊎个手當痠，歸身都係汗。", pinyin: "ngai gaiˇ shiuˊ dongˋ sonˋ, guiˋ shinˋ du+ heˇ hon+."}
-    check: true
   - n: 15
     speaker: 阿蘭嫂
     en: "Don't worry. Work here a month and you'll be used to it. It's like this every day."
@@ -100,8 +99,8 @@ notes:
   - ref: 3
     topic: hailu
     text: >
-      First trip-up of the month. In Miaoli a person is 寒 (lesson 9); in 竹東, as in all Hailu, a person is 冷 too:
-      冷無？ "are you cold?". 阿蘭嫂's reply works in both columns, because she is quoting the word. 圍身裙 viˇ siinˊ kiunˇ
+      First trip-up of the month. In Miaoli a person is 寒 (lesson 9); in 竹東 a person is 冷 too: the Hailu
+      example 風恁大，著恁少會冷無？ "with this wind and so little on, aren't you cold?". 阿蘭嫂's reply works in both columns, because she is quoting the word. 圍身裙 viˇ siinˊ kiunˇ
       "apron", literally "wrap-body skirt".
   - ref: 4
     topic: grammar
@@ -116,7 +115,7 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      炊 cuiˊ "steam" (lesson 50): 粄條 batter is steamed in flat trays, then cut. 熟 sug "cooked". 倒落 "pour in".
+      炊 coiˊ "steam" (lesson 50): 粄條 batter is steamed in flat trays, then cut. 熟 sug "cooked". 倒落 "pour in".
   - ref: 8
     topic: grammar
     text: >
@@ -140,8 +139,8 @@ notes:
   - ref: 14
     topic: vocab
     text: >
-      歸身都係汗 "sweat all over": 歸身 "the whole body", 汗 hon "sweat". Marked for checking: the official examples have
-      歸身 and 汗 separately, not this sentence.
+      歸身都係汗 "sweat all over": 歸身 "the whole body", 汗 hon "sweat". The official example 佢轉來个時節歸身汗 "when he got
+      back he was sweating all over".
 
 new_words:
   - {hanzi: 開工, pinyin: "koiˊ gungˊ", en: "start work (for the day)", hl: {hanzi: 開工, pinyin: "koiˋ gungˋ"}}
