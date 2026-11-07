@@ -6,7 +6,7 @@ title:
 review: false
 setting: >-
   Saturday 13 March. It has rained since Thursday, a fine grey rain that stops and starts. The factory is shut at
-  weekends. 阿傑 turns up at nine with two raincoats and a plan: the bus to 北埔, twenty minutes up the valley, where
+  weekends. 阿傑 turns up at nine with two umbrellas and a plan: the bus to 北埔, up the valley, where
   the old street is all 擂茶 shops.
 names: [阿傑, 北埔, 苗栗, 劉家, 阿英]
 
@@ -14,14 +14,14 @@ dialogue:
   - n: 1
     speaker: Sam
     en: "(at the window, looking out again and again) It's raining again."
-    sx: {hanzi: "又落雨了。", pinyin: "iu log iˋ leˊ."}
-    hl: {hanzi: "又落雨了。", pinyin: "rhiu+ logˋ rhiˊ leˋ."}
+    sx: {hanzi: "又落雨了。歸日陰天。", pinyin: "iu log iˋ leˊ. guiˊ ngidˋ imˊ tienˊ."}
+    hl: {hanzi: "又落雨了。歸日陰天。", pinyin: "rhiu+ logˋ rhiˊ leˋ. guiˋ ngid rhimˋ tienˋ."}
     check: true
   - n: 2
     speaker: 阿傑
     en: "落雨? Here we say 落水. And it's only a drizzle: 水毛仔."
-    sx: {hanzi: "落雨？𫣆兜講落水。又係雨毛仔定定。", pinyin: "log iˋ? enˊ deuˊ gongˋ log suiˋ. iu he iˋ moˊ eˋ tin tin."}
-    hl: {hanzi: "落雨？𫣆兜講落水。又係水毛仔定定。", pinyin: "logˋ rhiˊ? enˋ deuˋ gongˊ logˋ shuiˊ. rhiu+ heˇ shuiˊ moˋ er tin+ tin+."}
+    sx: {hanzi: "落雨？𠊎兜講落水。又係雨毛仔定定。", pinyin: "log iˋ? ngaiˇ deuˊ gongˋ log suiˋ. iu he iˋ moˊ eˋ tin tin."}
+    hl: {hanzi: "落雨？𠊎兜講落水。又係水毛仔定定。", pinyin: "logˋ rhiˊ? ngai deuˋ gongˊ logˋ shuiˊ. rhiu+ heˇ shuiˊ moˋ er tin+ tin+."}
   - n: 3
     speaker: Sam
     en: "落水… Grandma in Miaoli says 落水 sometimes too. But I say 落雨."
@@ -30,8 +30,8 @@ dialogue:
   - n: 4
     speaker: 阿傑
     en: "It's been stopping and starting since Thursday. Come on, let's go to 北埔 for 擂茶. Take an umbrella."
-    sx: {hanzi: "禮拜四到今，落啊落仔，落到毋停。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˊ bai xi do gimˊ, log a log eˋ, log do mˇ tinˇ. loiˇ, enˊ deuˊ hi bedˋ buˊ siid luiˇ caˇ. zaˊ eˋ kiaˇ denˋ."}
-    hl: {hanzi: "禮拜四到今，落啊落仔，落到毋停。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˋ baiˇ siˇ doˇ gimˋ, logˋ a+ logˋ er, logˋ doˇ m tin. loi, enˋ deuˋ hiˇ bed buˋ shidˋ lui ca. zhaˋ er kia denˊ."}
+    sx: {hanzi: "禮拜四到今，落啊落仔。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˊ bai xi do gimˊ, log a log eˋ. loiˇ, enˊ deuˊ hi bedˋ buˊ siid luiˇ caˇ. zaˊ eˋ kiaˇ denˋ."}
+    hl: {hanzi: "禮拜四到今，落啊落仔。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˋ baiˇ siˇ doˇ gimˋ, logˋ a+ logˋ er. loi, enˋ deuˋ hiˇ bed buˋ shidˋ lui ca. zhaˋ er kia denˊ."}
     check: true
   - n: 5
     speaker: 頭家
@@ -68,13 +68,13 @@ dialogue:
   - n: 11
     speaker: 頭家
     en: "It's still raining outside, and thundering. Have another bowl."
-    sx: {hanzi: "外背還在該落水，還打雷公。食加一碗添。", pinyin: "ngoi boi hanˇ du ge log suiˋ, hanˇ daˋ luiˇ gungˊ. siid gaˊ idˋ vonˋ tiamˊ."}
+    sx: {hanzi: "外背還在該落雨，還打雷公。食加一碗添。", pinyin: "ngoi boi hanˇ du ge log iˋ, hanˇ daˋ luiˇ gungˊ. siid gaˊ idˋ vonˋ tiamˊ."}
     hl: {hanzi: "外背還在該落水，還打雷公。食加一碗添。", pinyin: "ngo+ boiˇ han diˇ gai logˋ shuiˊ, han daˊ lui gungˋ. shidˋ gaˋ rhid vonˊ tiamˋ."}
   - n: 12
     speaker: Sam
     en: "(at the door, an hour later) The rain's stopped! …The sun's out!"
-    sx: {hanzi: "停了！……出日頭了！", pinyin: "tinˇ leˊ! … cudˋ ngidˋ teuˇ leˊ!"}
-    hl: {hanzi: "停了！……出日頭了！", pinyin: "tin leˋ! … chud ngid teu leˋ!"}
+    sx: {hanzi: "停了！……出日頭了！天晴了！", pinyin: "tinˇ leˊ! … cudˋ ngidˋ teuˇ leˊ! tienˊ qiangˇ leˊ!"}
+    hl: {hanzi: "停了！……出日頭了！天晴了！", pinyin: "tin leˋ! … chud ngid teu leˋ! tienˋ ciang leˋ!"}
   - n: 13
     speaker: 阿傑
     en: "(stepping out, straight into a puddle) …My shoes are soaked."
@@ -83,15 +83,26 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "There's a puddle! Try looking where you're going."
-    sx: {hanzi: "該有水窟！你試看路看仔。", pinyin: "ge iuˊ suiˋ fudˋ! nˇ cii kon lu kon eˋ."}
-    hl: {hanzi: "該有水窟！你試看路看仔。", pinyin: "gai rhiuˋ shuiˊ fud! ngi chiˇ konˇ lu+ konˇ er."}
+    sx: {hanzi: "該位有水窟！你試看路看仔。", pinyin: "ge vi iuˊ suiˋ fudˋ! nˇ cii kon lu kon eˋ."}
+    hl: {hanzi: "該位有水窟！你試看路看仔。", pinyin: "gai vui+ rhiuˋ shuiˊ fud! ngi chiˇ konˇ lu+ konˇ er."}
+    check: true
+  - n: 15
+    speaker: 阿傑
+    en: "(too late: he slips, and gets up limping) …I've fallen over. I've twisted my ankle."
+    sx: {hanzi: "……𠊎跌倒了。腳扭著了。", pinyin: "… ngaiˇ diedˋ doˋ leˊ. giogˋ ngiuˋ doˋ leˊ."}
+    hl: {hanzi: "……𠊎跢倒了。腳扭著了。", pinyin: "… ngai doiˋ doˊ leˋ. giog ngiuˊ doˊ leˋ."}
+  - n: 16
+    speaker: Sam
+    en: "(helping him along, the two of them hobbling home) Next time, let's go in waterproof shoes."
+    sx: {hanzi: "下二擺，𫣆兜著水鞋去。", pinyin: "ha ngi baiˋ, enˊ deuˊ zogˋ suiˋ haiˇ hi."}
+    hl: {hanzi: "下二擺，𫣆兜著水鞋去。", pinyin: "ha+ ngi+ baiˊ, enˋ deuˋ zhog shuiˊ hai hiˇ."}
     check: true
 
 notes:
   - ref: 1
     topic: hailu
     text: >
-      The fifth trip-up of the month, checked in the word lists: "rain" is Sixian 落雨 log iˋ, Hailu 落水 logˋ shuiˊ, and
+      The sixth trip-up of the month, checked in the word lists: "rain" is Sixian 落雨 log iˋ, Hailu 落水 logˋ shuiˊ, and
       "drizzle" Sixian 雨毛仔, Hailu 水毛仔. As with 糜 (lesson 58), Miaoli speakers say 落水 as well: an official Sixian
       example reads 正落過水﹝雨﹞ "it has just rained". Sam's 落雨 is kept in both columns, because it is his word: line 1
       and the Hailu of line 3 are marked for that reason.
@@ -106,9 +117,10 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      試擂看仔 "have a go at grinding": 試 + V + 看仔, the form Hailu speakers prefer for "try (and see)". Sixian has 試V看啊
-      (lesson 36); both are in the official examples (Hailu 換頭試看仔 "try the other end"; Sixian 試看看仔). Note the
-      tone of 仔 here: eˋ, as in all the 仔 of this course.
+      試擂看仔 "have a go at grinding": 試 + V + 看仔, another form of the 試V看啊 of lesson 36. Both forms occur in both
+      accents, and 看啊 is by far the commoner: in the official examples, Hailu has 看啊 49 times and 看仔 twice (換頭試看仔
+      "try the other end"), Sixian 看啊 71 times and 看仔 4 times (試看看仔). 頭家 and Sam use the rarer one here; you can
+      always say 試擂看啊. 仔 is eˋ in Sixian and er in Hailu, as everywhere.
   - ref: 6
     topic: grammar
     text: >
@@ -118,7 +130,7 @@ notes:
     topic: culture
     text: >
       Sam passes on Grandma's lesson 36 word for word: 慢慢仔擂，愛擂到幼幼仔. Lesson 36 had 擂茶 at home; 北埔, up the valley
-      from 竹東, sells it to visitors, and its 柿餅 (lesson 54) too.
+      from 竹東, sells it to visitors.
   - ref: 10
     topic: grammar
     text: >
@@ -134,6 +146,11 @@ notes:
       你試看路看仔 "try looking at the road (for once)": the 試…看仔 frame round a verb with its object. Sam's sentence, and
       marked: a native speaker may well prefer plain 你看路啊.
 
+  - ref: 15
+    topic: hailu
+    text: >
+      跌倒 "fall over" is Sixian; Hailu says 跢倒 doiˋ doˊ (both in the lists). 腳扭著 "twisted ankle": the Hailu official
+      example has 腳扭着, the Sixian one 撓著腳. 水鞋 "rain boots" (MOE).
 new_words:
   - {hanzi: 雨毛仔, pinyin: "iˋ moˊ eˋ", en: "drizzle", hl: {hanzi: 水毛仔, pinyin: "shuiˊ moˋ er"}}
   - {hanzi: 有時節, pinyin: "iuˊ siiˇ jiedˋ", en: "sometimes", hl: {hanzi: 有時節, pinyin: "rhiuˋ shi zied"}}
@@ -150,9 +167,10 @@ new_words:
   - {hanzi: 門口, pinyin: "munˇ heuˋ", en: "doorway, front door", hl: {hanzi: 門口, pinyin: "mun heuˊ"}}
   - {hanzi: 跛, pinyin: "baiˊ", en: "limp", hl: {hanzi: 跛, pinyin: "bai"}}
   - {hanzi: 撞, pinyin: "cong", en: "bump into, hit", hl: {hanzi: 撞, pinyin: "cong+"}}
+  - {hanzi: 跌倒, pinyin: "diedˋ doˋ", en: "fall over", hl: {hanzi: 跢倒, pinyin: "doiˋ doˊ"}}
+  - {hanzi: 水鞋, pinyin: "suiˋ haiˇ", en: "rain boots, waterproof shoes", hl: {hanzi: 水鞋, pinyin: "shuiˊ hai"}}
   - {hanzi: 扭, pinyin: "ngiuˋ", en: "twist, sprain", hl: {hanzi: 扭, pinyin: "ngiuˊ"}}
   - {hanzi: 籃球, pinyin: "lamˇ kiuˇ", en: "basketball", hl: {hanzi: 籃球, pinyin: "lam kiu"}}
-  - {hanzi: 機車, pinyin: "giˊ caˊ", en: "scooter, motorbike", hl: {hanzi: 機車, pinyin: "giˋ chaˋ"}}
   - {hanzi: 歸日, pinyin: "guiˊ ngidˋ", en: "all day", hl: {hanzi: 歸日, pinyin: "guiˋ ngid"}}
   - {hanzi: 企, pinyin: "kiˊ", en: "stand", hl: {hanzi: 企, pinyin: "kiˋ"}}
 
@@ -160,15 +178,16 @@ exercises:
   translate:
     - en: "He sprained his ankle playing basketball yesterday, and now he walks with a limp."
       sx: {hanzi: "佢昨晡日打籃球扭著腳，行路跛啊跛仔。", pinyin: "giˇ coˊ buˊ ngidˋ daˋ lamˇ kiuˇ ngiuˋ doˋ giogˋ, hangˇ lu baiˊ a baiˊ eˋ."}
-      hl: {hanzi: "佢昨晡日打籃球扭著腳，行路跛啊跛仔。", pinyin: "gi coˋ buˋ ngid daˊ lam kiu ngiuˊ doˊ giog, hang lu+ bai a+ bai er."}
+      hl: {hanzi: "佢昨晡日打籃球腳扭著，行路跛啊跛仔。", pinyin: "gi coˋ buˋ ngid daˊ lam kiu giog ngiuˊ doˊ, hang lu+ bai a+ bai er."}
       check: true
     - en: "Hearing A-in was coming home, Grandma stood at the door all day, looking and looking."
       sx: {hanzi: "聽講阿英愛轉，阿婆歸日企在門口望啊望仔。", pinyin: "tangˊ gongˋ aˊ inˊ oi zonˋ, aˊ poˇ guiˊ ngidˋ kiˊ coiˊ munˇ heuˋ mong a mong eˋ."}
       hl: {hanzi: "聽講阿英愛轉，阿婆歸日企在門口望啊望仔。", pinyin: "tangˇ gongˊ a+ rhinˋ oiˇ zhonˊ, a+ po guiˋ ngid kiˋ coiˋ mun heuˊ mong+ a+ mong+ er."}
       check: true
-    - en: "He was hit by a scooter yesterday; now he limps."
-      sx: {hanzi: "佢昨晡日分機車撞著，這下行路跛啊跛仔。", pinyin: "giˇ coˊ buˊ ngidˋ bunˊ giˊ caˊ cong doˋ, iaˋ ha hangˇ lu baiˊ a baiˊ eˋ."}
-      hl: {hanzi: "佢昨晡日分機車撞著，這下行路跛啊跛仔。", pinyin: "gi coˋ buˋ ngid bunˋ giˋ chaˋ cong+ doˊ, liaˊ ha+ hang lu+ bai a+ bai er."}
+    - en: "He was hit by a car yesterday; now he limps."
+      source: kaga115
+      sx: {hanzi: "佢昨晡日分車仔撞著，這下行路跛啊跛仔。", pinyin: "giˇ coˊ buˊ ngidˋ bunˊ caˊ eˋ cong doˋ, iaˋ ha hangˇ lu baiˊ a baiˊ eˋ."}
+      hl: {hanzi: "佢昨晡日分車仔撞著，這下行路跛啊跛仔。", pinyin: "gi coˋ buˋ ngid bunˋ chaˋ er cong+ doˊ, liaˊ ha+ hang lu+ bai a+ bai er."}
     - en: "Overcast today; tomorrow it'll clear up."
       sx: {hanzi: "今晡日陰天，天光日會天晴。", pinyin: "gimˊ buˊ ngidˋ imˊ tienˊ, tienˊ gongˊ ngidˋ voi tienˊ qiangˇ."}
       hl: {hanzi: "今晡日陰天，韶早會天晴。", pinyin: "gimˋ buˋ ngid rhimˋ tienˋ, shau zoˊ voi+ tienˋ ciang."}
