@@ -5,7 +5,7 @@ title:
   hl: {hanzi: "撿採忒細……", pinyin: "giamˊ caiˊ ted seˇ …"}
 review: false
 setting: >-
-  Tuesday evening. A-min is supposed to be doing his homework at the family computer. Sam passes behind him and sees,
+  Tuesday evening. A-min is supposed to be doing his homework (功課, lesson 26) at the family computer. Sam passes behind him and sees,
   on the screen, a jacket.
 names: [阿明]
 
@@ -18,14 +18,13 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "You're buying it online?"
-    sx: {hanzi: "你在網路項買？", pinyin: "nˇ coiˊ miongˋ lu hong maiˊ?"}
-    hl: {hanzi: "你在網路項買？", pinyin: "ngi coiˋ miongˊ lu+ hong+ maiˋ?"}
+    sx: {hanzi: "你在網路買？", pinyin: "nˇ coiˊ miongˋ lu maiˊ?"}
+    hl: {hanzi: "你在網路買？", pinyin: "ngi coiˋ miongˊ lu+ maiˋ?"}
   - n: 3
     speaker: 阿明
-    en: "Yes. Online it's cheap, and you don't have to go out."
-    sx: {hanzi: "係啊。網路項當便宜，又毋使出門。", pinyin: "he a. miongˋ lu hong dongˊ pienˇ ngiˇ, iu mˇ siiˋ cudˋ munˇ."}
-    hl: {hanzi: "係啊。網路項當便宜，又毋使出門。", pinyin: "heˇ a+. miongˊ lu+ hong+ dongˋ pien ngi, rhiu+ m siiˊ chud mun."}
-    check: true
+    en: "Yes. Shopping online is really convenient, and you don't have to go out."
+    sx: {hanzi: "係啊。在網路買東西當方便，又毋使出門。", pinyin: "he a. coiˊ miongˋ lu maiˊ dungˊ xiˊ dongˊ fongˊ pien, iu mˇ siiˋ cudˋ munˇ."}
+    hl: {hanzi: "係啊。在網路買東西當方便，又毋使出門。", pinyin: "heˇ a+. coiˋ miongˊ lu+ maiˋ dungˋ siˋ dongˋ fongˋ pien+, rhiu+ m siiˊ chud mun."}
   - n: 4
     speaker: Sam
     en: "How much is it?"
@@ -43,9 +42,9 @@ dialogue:
     hl: {hanzi: "……好。就這擺。", pinyin: "… hoˊ. ciu+ liaˊ baiˊ."}
   - n: 7
     speaker: 阿明
-    en: "Large or small? In case it's too small…"
-    sx: {hanzi: "愛大號抑係細號？撿採忒細……", pinyin: "oi tai ho ia he se ho? giamˋ caiˋ tedˋ se …"}
-    hl: {hanzi: "愛大號抑係細號？撿採忒細……", pinyin: "oiˇ tai+ ho+ rha+ heˇ seˇ ho+? giamˊ caiˊ ted seˇ …"}
+    en: "What size do I want? In case it's too small…"
+    sx: {hanzi: "這領衫愛麼个尺寸？撿採忒細……", pinyin: "iaˋ liangˊ samˊ oi maˋ ge cagˋ cun? giamˋ caiˋ tedˋ se …"}
+    hl: {hanzi: "這領衫愛麼个尺寸？撿採忒細……", pinyin: "liaˊ liangˋ samˋ oiˇ maˊ gaiˇ chag cunˇ? giamˊ caiˊ ted seˇ …"}
   - n: 8
     speaker: Sam
     en: "If it's too small, can you change it?"
@@ -54,9 +53,8 @@ dialogue:
   - n: 9
     speaker: 阿明
     en: "Yes. The website says you can change it within seven days."
-    sx: {hanzi: "做得。網站講，七日肚做得換。", pinyin: "zo dedˋ. miongˋ zam gongˋ, qidˋ ngidˋ duˋ zo dedˋ von."}
-    hl: {hanzi: "做得。網站講，七日肚做得換。", pinyin: "zoˇ ded. miongˊ zhamˇ gongˊ, cid ngid duˊ zoˇ ded von+."}
-    check: true
+    sx: {hanzi: "做得。網站講，七日內做得換。", pinyin: "zo dedˋ. miongˋ zam gongˋ, qidˋ ngidˋ nui zo dedˋ von."}
+    hl: {hanzi: "做得。網站講，七日內做得換。", pinyin: "zoˇ ded. miongˊ zhamˇ gongˊ, cid ngid nui+ zoˇ ded von+."}
   - n: 10
     speaker: Sam
     en: "Where does it get sent to?"
@@ -74,9 +72,9 @@ dialogue:
     hl: {hanzi: "好了。淨衫定定，好無？", pinyin: "hoˊ leˋ. ciang+ samˋ tin+ tin+, hoˊ mo?"}
   - n: 13
     speaker: 阿明
-    en: "(alone, muttering) These shoes are cool too… just one more pair. Nobody'll know."
-    sx: {hanzi: "這雙鞋乜當派頭……加一雙。無人會知。", pinyin: "iaˋ sungˊ haiˇ me dongˊ pai teuˇ … gaˊ idˋ sungˊ. moˇ nginˇ voi diˊ."}
-    hl: {hanzi: "這雙鞋乜當派頭……加一雙。無人會知。", pinyin: "liaˊ sungˋ hai meˇ dongˋ paiˇ teu … gaˋ rhid sungˋ. mo ngin voi+ diˋ."}
+    en: "(alone, muttering) These shoes are cool too… I'll quietly add a pair. Nobody'll know."
+    sx: {hanzi: "這雙鞋乜當派頭……偷偷仔加一雙。無人會知。", pinyin: "iaˋ sungˊ haiˇ me dongˊ pai teuˇ … teuˊ teuˊ eˋ gaˊ idˋ sungˊ. moˇ nginˇ voi diˊ."}
+    hl: {hanzi: "這雙鞋乜當派頭……偷偷加一雙。無人會知。", pinyin: "liaˊ sungˋ hai meˇ dongˋ paiˇ teu … teuˋ teuˋ gaˋ rhid sungˋ. mo ngin voi+ diˋ."}
   - n: 14
     speaker: 阿婆
     en: "(from the kitchen) A-min, what are you doing over there?"
@@ -84,9 +82,9 @@ dialogue:
     hl: {hanzi: "阿明，你在該做麼个？", pinyin: "a+ min, ngi diˇ gai zoˇ maˊ gaiˇ?"}
   - n: 15
     speaker: 阿明
-    en: "Nothing! Homework, on the computer!"
-    sx: {hanzi: "無！在電腦項讀書！", pinyin: "moˇ! coiˊ tien noˋ hong tug suˊ!"}
-    hl: {hanzi: "無！在電腦項讀書！", pinyin: "mo! coiˋ tien+ noˊ hong+ tugˋ shuˋ!"}
+    en: "Nothing! Doing my homework!"
+    sx: {hanzi: "無！在該做功課！", pinyin: "moˇ! du ge zo gungˊ ko!"}
+    hl: {hanzi: "無！在該做功課！", pinyin: "mo! diˇ gai zoˇ gungˋ koˇ!"}
 
 notes:
   - ref: 1
@@ -98,8 +96,8 @@ notes:
     topic: vocab
     text: >
       New things get new words, mostly read from the Mandarin characters in Hakka: 網路 miongˋ lu "the internet",
-      網站 "website", 電腦 tien noˋ "computer", 信用卡 "credit card", 號碼 "number". 網路項 "on the internet": 項 "on",
-      as in 桌項.
+      網站 "website", 電腦 tien noˋ "computer", 信用卡 "credit card", 號碼 "number". 在網路買東西 "shop online" (line 3) is an
+      official sentence: 在網路 "on the internet", with 在, not 項.
   - ref: 4
     topic: vocab
     text: >
@@ -109,12 +107,13 @@ notes:
     text: >
       撿採 giamˋ caiˋ "in case, if by any chance": 撿採忒細 "in case it's too small". Like 若係 and 係講 (lesson 43), it
       opens a condition, but it expects the worst. Official example: 撿採阿松無來，還有阿森做得𢯭手 "in case A-song doesn't
-      come, there's still A-sen to help". 大號 / 細號 "large / small size": 號 "number" (lesson 13).
+      come, there's still A-sen to help". 尺寸 cagˋ cun "size": 這領衫係麼个尺寸？ "what size is this?" is an
+      official sentence.
   - ref: 9
     topic: grammar
     text: >
-      七日肚 "within seven days": 肚 "inside" (間房肚, lesson 25) also works for time. Marked for checking. 換 von
-      "exchange, change"; 退 "send back, return".
+      七日內 "within seven days": 內 nui "within", as in the official 三日內. (肚 "inside" is for places: 間房肚, lesson
+      25.) 換 von "exchange, change"; 退 "send back, return".
   - ref: 11
     topic: grammar
     text: >
@@ -147,6 +146,7 @@ new_words:
   - {hanzi: 合身, pinyin: "gagˋ siinˊ", en: "(of clothes) fit well", hl: {hanzi: 合身, pinyin: "gag shinˋ"}}
   - {hanzi: 方便, pinyin: "fongˊ pien", en: "convenient", hl: {hanzi: 方便, pinyin: "fongˋ pien+"}}
   - {hanzi: 遮仔, pinyin: "zaˊ eˋ", en: "umbrella", hl: {hanzi: 遮仔, pinyin: "zhaˋ er"}}
+  - {hanzi: 內, pinyin: "nui", en: "within (a time)", hl: {hanzi: 內, pinyin: "nui+"}}
   - {hanzi: 尺寸, pinyin: "cagˋ cun", en: "size, measurements", hl: {hanzi: 尺寸, pinyin: "chag cunˇ"}}
 
 exercises:
@@ -168,6 +168,9 @@ exercises:
       sx: {hanzi: "你个卡號碼有十六隻數字。", pinyin: "nˇ ge kaˋ ho maˊ iuˊ siib liugˋ zagˋ su sii."}
       hl: {hanzi: "你个卡號碼有十六隻數字。", pinyin: "ngi gaiˇ kaˊ ho+ maˋ rhiuˋ shibˋ liug zhag suˇ sii+."}
       check: true
+    - en: "A-min does his homework on the computer."
+      sx: {hanzi: "阿明用電腦做功課。", pinyin: "aˊ minˇ iung tien noˋ zo gungˊ ko."}
+      hl: {hanzi: "阿明用電腦做功課。", pinyin: "a+ min rhung+ tien+ noˊ zoˇ gungˋ koˇ."}
   fill:
     - en: "In case it rains, take an umbrella."
       sx: {hanzi: "___落雨，帶遮仔。", pinyin: "___ log iˋ, dai zaˊ eˋ.", answer_hanzi: "撿採", answer: "giamˋ caiˋ"}

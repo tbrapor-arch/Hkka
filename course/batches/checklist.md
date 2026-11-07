@@ -71,3 +71,14 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - No claims about how long or short a character's lines are unless you have counted.
 - Check a rhyme on the Sixian finals as well as the Hailu ones (時 siiˇ / 知 diˊ only rhymes in Hailu).
 - 頭家 is the owner or boss, not the waiter (服務生).
+
+## Added after the batch 7 review
+- Demonstrative + classifier for every noun, including 帖: 這張帖仔 (or the attested 行帖分).
+- 毋著 has two readings: mˇ cog "wrong, at fault" (係𠊎毋著); after a verb, mˇ doˋ "not manage to" (拿佢毋著, 做毋著
+  "can't do it"). Don't use 做毋著 for "did wrong".
+- 恁仔細 stands alone; give the reason in its own clause (感謝大家來！恁仔細！). Hailu 承蒙 can take the person.
+- Quote official sentences exactly, character for character (斯會 is not 就會), and mark them `source: kaga115`.
+- No claims about customs (weddings, red envelopes, households) without an example sentence; say "general
+  knowledge" when that is the source.
+- Check every "lesson N" in the notes by grep before committing.
+- "Online" is 在網路, not 網路項; "within N days" is N日內.

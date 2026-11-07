@@ -17,9 +17,9 @@ dialogue:
     hl: {hanzi: "Sam……失禮。", pinyin: "Sam … shid liˋ."}
   - n: 2
     speaker: 阿明
-    en: "Though I really wanted these shoes, what I did was wrong. I shouldn't have used your card behind your back."
-    sx: {hanzi: "雖然𠊎當想愛這雙鞋，毋過𠊎做毋著。𠊎毋應該偷偷仔用你个卡。", pinyin: "suiˊ ienˇ ngaiˇ dongˊ xiongˋ oi iaˋ sungˊ haiˇ, mˇ go ngaiˇ zo mˇ cog. ngaiˇ mˇ in goiˊ teuˊ teuˊ eˋ iung nˇ ge kaˋ."}
-    hl: {hanzi: "雖然𠊎當想愛這雙鞋，毋過𠊎做毋著。𠊎毋應該偷偷用你个卡。", pinyin: "suiˋ rhan ngai dongˋ siongˊ oiˇ liaˊ sungˋ hai, m goˇ ngai zoˇ m chogˋ. ngai m rhinˇ goiˋ teuˋ teuˋ rhung+ ngi gaiˇ kaˊ."}
+    en: "Though I really wanted these shoes, it was my fault. I shouldn't have used your card behind your back."
+    sx: {hanzi: "雖然𠊎當想愛這雙鞋，毋過係𠊎毋著。𠊎毋應該偷偷仔用你个卡。", pinyin: "suiˊ ienˇ ngaiˇ dongˊ xiongˋ oi iaˋ sungˊ haiˇ, mˇ go he ngaiˇ mˇ cog. ngaiˇ mˇ in goiˊ teuˊ teuˊ eˋ iung nˇ ge kaˋ."}
+    hl: {hanzi: "雖然𠊎當想愛這雙鞋，毋過係𠊎毋著。𠊎毋應該偷偷用你个卡。", pinyin: "suiˋ rhan ngai dongˋ siongˊ oiˇ liaˊ sungˋ hai, m goˇ heˇ ngai m chogˋ. ngai m rhinˇ goiˋ teuˋ teuˋ rhung+ ngi gaiˇ kaˊ."}
   - n: 3
     speaker: Sam
     en: "So you admit it?"
@@ -62,9 +62,9 @@ dialogue:
     hl: {hanzi: "正經？你就像𠊎个阿哥。", pinyin: "zhinˇ ginˋ? ngi ciu+ ciongˇ ngai gaiˇ a+ goˋ."}
   - n: 11
     speaker: 阿婆
-    en: "(who has been listening at the foot of the stairs) That's it! 'Quarrel at the head of the bed, make up at the foot!'"
-    sx: {hanzi: "好了！床頭吵，床尾和！", pinyin: "hoˋ leˊ! congˇ teuˇ cauˇ, congˇ miˊ foˇ!"}
-    hl: {hanzi: "好了！床頭吵，床尾和！", pinyin: "hoˊ leˋ! cong teu cau, cong muiˋ fo!"}
+    en: "(who has been listening at the foot of the stairs) When a child admits he was wrong, everyone forgives him. As they say: 'quarrel at the head of the bed, make up at the foot!'"
+    sx: {hanzi: "細人仔既然承認自家毋著，大家就原諒佢。人講：床頭吵，床尾和！", pinyin: "se nginˇ eˋ gi ienˇ siinˇ ngin qi gaˊ mˇ cog, tai gaˊ qiu ngienˇ liong giˇ. nginˇ gongˋ: congˇ teuˇ cauˇ, congˇ miˊ foˇ!"}
+    hl: {hanzi: "細人仔既然承認自家毋著，大家就原諒佢。人講：床頭吵，床尾和！", pinyin: "seˇ ngin er giˇ rhan shin ngin+ cid gaˋ m chogˋ, tai+ gaˋ ciu+ ngien liong+ gi. ngin gongˊ: cong teu cau, cong muiˋ fo!"}
   - n: 12
     speaker: 阿明
     en: "Grandma, that saying's about husbands and wives!"
@@ -86,28 +86,35 @@ notes:
     topic: grammar
     text: >
       雖然…，毋過… "although…, (but)…": unlike English, Hakka says both: 雖然𠊎當想愛這雙鞋，毋過𠊎做毋著. Official example:
-      佢雖然在外地讀書，毋過三不二時就會轉屋下一擺 "although he studies far away, he comes home every now and then".
-      做毋著 "did wrong": 做 + 毋著 (lesson 47). 應該 in goiˊ "should, ought to"; 毋應該 "shouldn't have".
+      佢雖然在外地讀書，毋過三不二時斯會轉屋下一擺 "although he studies far away, he comes home every now and then".
+      係𠊎毋著 "it was my fault": 毋著 mˇ cog (lesson 47), as in 明明就係佢毋著. (Not 做毋著, which reads mˇ doˋ and means
+      "couldn't do it".) 應該 in goiˊ "should, ought to"; 毋應該 "shouldn't have".
   - ref: 4
     topic: grammar
     text: >
       毋單止 A，還 B "not only A, but also B": 𠊎毋單止愛退鞋，還愛還你錢. 毋單止 mˇ danˊ ziiˋ is a block ("not just
-      stopping at"); the official examples also have 毋單淨…還…. Line 8 uses it again.
+      stopping at"); the official examples have 毋單淨…還… far more often (88 examples against 7), so expect to hear that
+      too. Line 8 uses it again.
   - ref: 6
     topic: culture
     text: >
-      Children's New Year red envelopes are meant to be saved: 存起來 "put away, saved". 存 sunˇ "keep, deposit"; 存錢 "save
-      money". A-min's 舊年个紅包 has survived a whole year, which tells you how sorry he is.
+      A-min put last year's New Year red envelope away: 存起來 "put away, saved". 存 sunˇ "keep, deposit"; 存錢 "save
+      money". Handing over the envelope he kept for a whole year tells you how sorry he is.
   - ref: 9
     topic: vocab
     text: >
       原諒 ngienˇ liong "forgive". 錢算𠊎送分你个紅包 "count the money as a red envelope from me": 算 "count as"
       (lesson 25). Sam gives A-min's own envelope back to him as his.
   - ref: 11
+    topic: grammar
+    text: >
+      Grandma's first sentence is an official one, word for word: 細人仔既然承認自家毋著，大家就原諒佢 "since the child
+      admits he was wrong, everyone forgives him". 既然 gi ienˇ "since, now that"; 承認 (lesson 47) "admit".
+  - ref: 11
     topic: culture
     text: >
       床頭吵，床尾和 "quarrel at the head of the bed, make up at its foot": a saying about married couples, quoted in an
-      official example (佢兩公婆早就和好了). 兩公婆 (line 12) "husband and wife, the couple". Grandma knows exactly what the
+      official example (人講「床頭吵，床尾和。」佢兩公婆早就和好了！). 兩公婆 (line 12) "husband and wife, the couple". Grandma knows exactly what the
       saying is about. 該句 "that sentence, that saying": 句 classifier for sayings and sentences.
 
 new_words:
@@ -127,11 +134,13 @@ new_words:
   - {hanzi: 兩公婆, pinyin: "liongˋ gungˊ poˇ", en: "husband and wife, the couple", hl: {hanzi: 兩公婆, pinyin: "liongˊ gungˋ po"}}
   - {hanzi: 句, pinyin: "gi", en: "(classifier for sentences, sayings)", hl: {hanzi: 句, pinyin: "giˇ"}}
   - {hanzi: 差毋多, pinyin: "caˊ mˇ doˊ", en: "nearly, about the same", hl: {hanzi: 差毋多, pinyin: "caˋ m doˋ"}}
-  - {hanzi: 另外, pinyin: "nang ngoi", en: "besides, in addition", hl: {hanzi: 另外, pinyin: "nang+ ngoi+"}}
+  - {hanzi: 既然, pinyin: "gi ienˇ", en: "since, now that", hl: {hanzi: 既然, pinyin: "giˇ rhan"}}
+  - {hanzi: 再, pinyin: "zai", en: "again", hl: {hanzi: 再, pinyin: "zaiˇ"}}
   - {hanzi: 賠, pinyin: "poiˇ", en: "pay compensation; lose money", hl: {hanzi: 賠, pinyin: "poi"}}
   - {hanzi: 後, pinyin: "heu", en: "after, later (幾年後)", hl: {hanzi: 後, pinyin: "heu+"}}
   - {hanzi: 爛, pinyin: "lan", en: "broken, torn", hl: {hanzi: 爛, pinyin: "lan+"}}
   - {hanzi: 頭, pinyin: "teuˇ", en: "head; end (床頭 head of the bed)", hl: {hanzi: 頭, pinyin: "teu"}}
+  - {hanzi: 提, pinyin: "tiˇ", en: "bring forward (提早 earlier); lift", hl: {hanzi: 提, pinyin: "ti"}}
   - {hanzi: 甚至, pinyin: "siimˋ zii", en: "even (going as far as)", hl: {hanzi: 甚至, pinyin: "shimˊ zhiˇ"}}
 
 exercises:
@@ -139,26 +148,25 @@ exercises:
     - en: "Although we have no money now, if we save a little every day we can buy a house in a few years."
       sx: {hanzi: "雖然這下無錢，毋過逐日存兜仔，幾年後就做得買屋。", pinyin: "suiˊ ienˇ iaˋ ha moˇ qienˇ, mˇ go dagˋ ngidˋ sunˇ deuˊ eˋ, giˋ ngienˇ heu qiu zo dedˋ maiˊ vugˋ."}
       hl: {hanzi: "雖然這下無錢，毋過逐日存兜仔，幾年後就做得買屋。", pinyin: "suiˋ rhan liaˊ ha+ mo cien, m goˇ dag ngid sun deuˋ er, giˊ ngien heu+ ciu+ zoˇ ded maiˋ vug."}
-    - en: "He wasn't late at all: he even came early."
-      sx: {hanzi: "佢毋單止無慢到，甚至還較早到。", pinyin: "giˇ mˇ danˊ ziiˋ moˇ man do, siimˋ zii hanˇ ka zoˋ do."}
-      hl: {hanzi: "佢毋單止無慢到，甚至還較早到。", pinyin: "gi m danˋ zhiˊ mo man+ doˇ, shimˊ zhiˇ han haˇ zoˊ doˇ."}
+    - en: "Not only wasn't he late, he even came early."
+      sx: {hanzi: "佢毋單止無慢到，甚至還提早到。", pinyin: "giˇ mˇ danˊ ziiˋ moˇ man do, siimˋ zii hanˇ tiˇ zoˋ do."}
+      hl: {hanzi: "佢毋單止無慢到，甚至還提早到。", pinyin: "gi m danˋ zhiˊ mo man+ doˇ, shimˊ zhiˇ han ti zoˊ doˇ."}
     - en: "The couple have made up already."
       sx: {hanzi: "佢兩公婆早就和好了。", pinyin: "giˇ liongˋ gungˊ poˇ zoˋ qiu foˇ hoˋ leˊ."}
       hl: {hanzi: "佢兩公婆早就和好了。", pinyin: "gi liongˊ gungˋ po zoˊ ciu+ fo hoˊ leˋ."}
     - en: "You broke the window: you have to pay for it."
       sx: {hanzi: "你打爛窗門，愛賠。", pinyin: "nˇ daˋ lan cungˊ munˇ, oi poiˇ."}
       hl: {hanzi: "你打爛窗門，愛賠。", pinyin: "ngi daˊ lan+ cungˋ mun, oiˇ poi."}
-    - en: "Sam and A-min are like brothers. Besides, they never quarrel any more."
-      sx: {hanzi: "Sam 同阿明像兄弟。另外，佢兜無吵了。", pinyin: "Sam tungˇ aˊ minˇ qiong hiungˊ ti. nang ngoi, giˇ deuˊ moˇ cauˇ leˊ."}
-      hl: {hanzi: "Sam 摎阿明像兄弟。另外，佢兜無吵了。", pinyin: "Sam lauˋ a+ min ciongˇ hiungˋ ti+. nang+ ngoi+, gi deuˋ mo cau leˋ."}
-      check: true
+    - en: "Sam and A-min are like brothers; they won't quarrel again."
+      sx: {hanzi: "Sam 同阿明像兄弟，佢兜毋會再冤家了。", pinyin: "Sam tungˇ aˊ minˇ qiong hiungˊ ti, giˇ deuˊ mˇ voi zai ienˊ gaˊ leˊ."}
+      hl: {hanzi: "Sam 摎阿明像兄弟，佢兜毋會再冤家了。", pinyin: "Sam lauˋ a+ min ciongˇ hiungˋ ti+, gi deuˋ m voi+ zaiˇ rhanˋ gaˋ leˋ."}
     - en: "A-min is saving money to buy a phone."
       sx: {hanzi: "阿明在該存錢，愛買手機仔。", pinyin: "aˊ minˇ du ge sunˇ qienˇ, oi maiˊ suˋ giˊ eˋ."}
       hl: {hanzi: "阿明在該存錢，愛買手機。", pinyin: "a+ min diˇ gai sun cien, oiˇ maiˋ shiuˊ giˋ."}
   fill:
-    - en: "Although I wanted it, I did wrong."
-      sx: {hanzi: "___𠊎想愛，___𠊎做毋著。", pinyin: "___ ngaiˇ xiongˋ oi, ___ ngaiˇ zo mˇ cog.", answer_hanzi: "雖然……毋過", answer: "suiˊ ienˇ … mˇ go"}
-      hl: {hanzi: "___𠊎想愛，___𠊎做毋著。", pinyin: "___ ngai siongˊ oiˇ, ___ ngai zoˇ m chogˋ.", answer_hanzi: "雖然……毋過", answer: "suiˋ rhan … m goˇ"}
+    - en: "Although I wanted it, it was my fault."
+      sx: {hanzi: "___𠊎想愛，___係𠊎毋著。", pinyin: "___ ngaiˇ xiongˋ oi, ___ he ngaiˇ mˇ cog.", answer_hanzi: "雖然……毋過", answer: "suiˊ ienˇ … mˇ go"}
+      hl: {hanzi: "___𠊎想愛，___係𠊎毋著。", pinyin: "___ ngai siongˊ oiˇ, ___ heˇ ngai m chogˋ.", answer_hanzi: "雖然……毋過", answer: "suiˋ rhan … m goˇ"}
     - en: "I forgive you."
       sx: {hanzi: "𠊎___你。", pinyin: "ngaiˇ ___ nˇ.", answer_hanzi: "原諒", answer: "ngienˇ liong"}
       hl: {hanzi: "𠊎___你。", pinyin: "ngai ___ ngi.", answer_hanzi: "原諒", answer: "ngien liong+"}

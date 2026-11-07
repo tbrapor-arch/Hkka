@@ -42,9 +42,9 @@ dialogue:
     hl: {hanzi: "你係有錢人，兩千三算麼个？", pinyin: "ngi heˇ rhiuˋ cien ngin, liongˊ cienˋ samˋ sonˇ maˊ gaiˇ?"}
   - n: 7
     speaker: Sam
-    en: "I'm not rich! You lied to me."
-    sx: {hanzi: "𠊎毋係有錢人！你騙𠊎。", pinyin: "ngaiˇ mˇ he iuˊ qienˇ nginˇ! nˇ pien ngaiˇ."}
-    hl: {hanzi: "𠊎毋係有錢人！你騙𠊎。", pinyin: "ngai m heˇ rhiuˋ cien ngin! ngi pienˇ ngai."}
+    en: "I'm not rich! You lied to me, and you wasted money."
+    sx: {hanzi: "𠊎毋係有錢人！你騙𠊎，又浪費錢。", pinyin: "ngaiˇ mˇ he iuˊ qienˇ nginˇ! nˇ pien ngaiˇ, iu long fi qienˇ."}
+    hl: {hanzi: "𠊎毋係有錢人！你騙𠊎，又浪費錢。", pinyin: "ngai m heˇ rhiuˋ cien ngin! ngi pienˇ ngai, rhiu+ long+ fuiˇ cien."}
   - n: 8
     speaker: 阿婆
     en: "(from the kitchen door) What's going on? Why so loud?"
@@ -61,21 +61,32 @@ dialogue:
     sx: {hanzi: "佢偷偷仔用𠊎个卡。這下𠊎兜冤家了。", pinyin: "giˇ teuˊ teuˊ eˋ iung ngaiˇ ge kaˋ. iaˋ ha ngaiˇ deuˊ ienˊ gaˊ leˊ."}
     hl: {hanzi: "佢偷偷用𠊎个卡。這下𠊎兜冤家了。", pinyin: "gi teuˋ teuˋ rhung+ ngai gaiˇ kaˊ. liaˊ ha+ ngai deuˋ rhanˋ gaˋ leˋ."}
   - n: 11
+    speaker: 阿婆
+    en: "(sighing) He really does love an argument. It's plainly his fault, and he still shouts at people."
+    sx: {hanzi: "佢實在當好詏，明明就係佢毋著，還恁大聲罵人。", pinyin: "giˇ siid cai dongˊ hau au, minˇ minˇ qiu he giˇ mˇ cog, hanˇ anˋ tai sangˊ ma nginˇ."}
+    hl: {hanzi: "佢實在當好詏，明明就係佢毋著，還恁大聲罵人。", pinyin: "gi shidˋ cai+ dongˋ hauˇ auˇ, min min ciu+ heˇ gi m chogˋ, han anˊ tai+ shangˋ maˇ ngin."}
+    source: kaga115
+  - n: 12
+    speaker: Sam
+    en: "And he won't admit he did it on purpose."
+    sx: {hanzi: "佢乜毋承認佢係故意个。", pinyin: "giˇ me mˇ siinˇ ngin giˇ he gu i ge."}
+    hl: {hanzi: "佢乜毋承認佢係故意个。", pinyin: "gi meˇ m shin ngin+ gi heˇ guˇ rhiˇ gaiˇ."}
+  - n: 13
     speaker: 阿公
     en: "(from his armchair, without looking up) Where are the shoes?"
     sx: {hanzi: "鞋呢？", pinyin: "haiˇ neˇ?"}
     hl: {hanzi: "鞋呢？", pinyin: "hai neˇ?"}
-  - n: 12
+  - n: 14
     speaker: Sam
     en: "He's taken them up to his room. He's locked the door; I can't get at them."
     sx: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "giˇ naˊ songˊ hi gienˊ fongˇ leˊ. munˇ guanˊ denˋ, ngaiˇ naˊ giˇ mˇ doˋ."}
     hl: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "gi naˋ shongˋ hiˇ gienˋ fong leˋ. mun guanˋ denˊ, ngai naˋ gi m doˊ."}
     check: true
-  - n: 13
+  - n: 15
     speaker: 阿公
-    en: "He's in the wrong. But you mustn't shout like that either."
-    sx: {hanzi: "佢毋著。毋過你乜莫恁大聲。", pinyin: "giˇ mˇ cog. mˇ go nˇ me mog anˋ tai sangˊ."}
-    hl: {hanzi: "佢毋著。毋過你乜莫恁大聲。", pinyin: "gi m chogˋ. m goˇ ngi meˇ mogˋ anˊ tai+ shangˋ."}
+    en: "He's in the wrong. But you, keep your voice down."
+    sx: {hanzi: "佢毋著。毋過你乜愛細聲兜。", pinyin: "giˇ mˇ cog. mˇ go nˇ me oi se sangˊ deuˊ."}
+    hl: {hanzi: "佢毋著。毋過你乜愛細聲兜。", pinyin: "gi m chogˋ. m goˇ ngi meˇ oiˇ seˇ shangˋ deuˋ."}
 
 notes:
   - ref: 1
@@ -86,7 +97,8 @@ notes:
     topic: grammar
     text: >
       毋著 mˇ cog "wrong, at fault": 係網站毋著 "it's the website that's wrong", 佢毋著 (line 13) "he's in the wrong". 著 cog
-      alone is "right, correct" (lesson 10), so 毋著 is literally "not right". Official example: 明明就係佢毋著，還恁大聲罵人 "it's
+      alone is "right, correct" (lesson 10), so 毋著 is literally "not right". Read it mˇ cog when it means
+      "wrong". After a verb, the same characters are mˇ doˋ, "not manage to" (拿佢毋著, line 14; 做毋著 "can't do it"). Official example: 明明就係佢毋著，還恁大聲罵人 "it's
       plainly his fault, and he still shouts at people".
   - ref: 3
     topic: grammar
@@ -109,17 +121,23 @@ notes:
     text: >
       冤家 ienˊ gaˊ "quarrel, have a row": 𠊎兜冤家了 "we've fallen out". Not "enemies" as in Mandarin 冤家: a Hakka
       false friend. 騙 pien (line 7) "lie to, cheat".
-  - ref: 12
+  - ref: 11
+    topic: vocab
+    text: >
+      Grandma's line is an official sentence, word for word. 好詏 hau au "argumentative, love an argument": 好 hau "be
+      fond of" (lesson 26) + 詏 "argue". 明明 "plainly", 罵人 "shout at people". 浪費 (line 7) "waste"; 承認 (line 12)
+      "admit", 故意 "on purpose".
+  - ref: 14
     topic: grammar
     text: >
       拿佢毋著 "can't get hold of it": verb + 佢 + 毋著 is "try to do it and fail": 摸佢毋著 "couldn't touch her" (a dream,
       in an official example), 收買佢毋著 "couldn't bribe him". 佢 here is "it", the shoes; the pattern is Hakka, with no
       Mandarin model. 拿上去 "taken up (there)". Marked for checking with 拿 as the verb.
-  - ref: 13
+  - ref: 15
     topic: culture
     text: >
-      Grandpa gives each side half: he blames A-min, and he tells Sam to lower his voice. In a Hakka household the elder
-      who says least is the judge.
+      Grandpa gives each side half: he blames A-min, and he tells Sam to lower his voice. 細聲兜 "a bit more quietly":
+      細聲 "softly", with 兜 "a bit" (official example: 細聲兜，細嬰兒仔堵堵睡忒).
 
 new_words:
   - {hanzi: 花, pinyin: "faˊ", en: "spend (money); flower", hl: {hanzi: 花, pinyin: "faˋ"}}
@@ -141,6 +159,8 @@ new_words:
   - {hanzi: 承認, pinyin: "siinˇ ngin", en: "admit", hl: {hanzi: 承認, pinyin: "shin ngin+"}}
   - {hanzi: 故意, pinyin: "gu i", en: "on purpose", hl: {hanzi: 故意, pinyin: "guˇ rhiˇ"}}
   - {hanzi: 細義, pinyin: "se ngi", en: "careful", hl: {hanzi: 細義, pinyin: "seˇ ngi+"}}
+  - {hanzi: 實在, pinyin: "siid cai", en: "really, truly", hl: {hanzi: 實在, pinyin: "shidˋ cai+"}}
+  - {hanzi: 明明, pinyin: "minˇ minˇ", en: "plainly, obviously", hl: {hanzi: 明明, pinyin: "min min"}}
   - {hanzi: 錯, pinyin: "co", en: "mistake; wrong", hl: {hanzi: 錯, pinyin: "coˇ"}}
 
 exercises:

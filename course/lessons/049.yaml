@@ -6,16 +6,16 @@ title:
 review: true
 setting: >-
   Sunday lunch, a week after the wedding. A-in is home. A-min is wearing the new jacket, indoors. 財伯姆 comes round
-  with a bag of wedding sweets, as the bride's family does for the neighbours. Nothing new in the dialogue: everything
+  with a bag of sweets left over from the banquet. Nothing new in the dialogue: everything
   comes from lessons 1–48.
 names: [財伯姆, 阿英, 阿明, 劉]
 
 dialogue:
   - n: 1
     speaker: 財伯姆
-    en: "Grandma Liu! Thank you all for coming to the banquet. These sweets are for you."
-    sx: {hanzi: "劉阿婆！恁仔細你兜來食酒。這兜糖仔分你兜。", pinyin: "liuˇ aˊ poˇ! anˋ ziiˋ se nˇ deuˊ loiˇ siid jiuˋ. iaˋ deuˊ tongˇ eˋ bunˊ nˇ deuˊ."}
-    hl: {hanzi: "劉阿婆！承蒙你兜來食酒。這兜糖仔分你兜。", pinyin: "liu a+ po! shin mung ngi deuˋ loi shidˋ ziuˊ. liaˊ deuˋ tong er bunˋ ngi deuˋ."}
+    en: "Grandma Liu! Thank you! You all came to the banquet, it was so lively. These sweets are for you."
+    sx: {hanzi: "劉阿婆！恁仔細！你兜來食酒，當鬧熱。這兜糖仔分你兜。", pinyin: "liuˇ aˊ poˇ! anˋ ziiˋ se! nˇ deuˊ loiˇ siid jiuˋ, dongˊ nau ngied. iaˋ deuˊ tongˇ eˋ bunˊ nˇ deuˊ."}
+    hl: {hanzi: "劉阿婆！承蒙你兜！你兜來食酒，當鬧熱。這兜糖仔分你兜。", pinyin: "liu a+ po! shin mung ngi deuˋ! ngi deuˋ loi shidˋ ziuˊ, dongˋ nau+ ngiedˋ. liaˊ deuˋ tong er bunˋ ngi deuˋ."}
   - n: 2
     speaker: 阿婆
     en: "Congratulations again! The bride was so pretty."
@@ -30,8 +30,8 @@ dialogue:
   - n: 4
     speaker: 阿明
     en: "I bought it online. Sam helped."
-    sx: {hanzi: "在網路項買个。Sam 摎𠊎𢯭手。", pinyin: "coiˊ miongˋ lu hong maiˊ ge. Sam lauˊ ngaiˇ ten suˋ."}
-    hl: {hanzi: "在網路項買个。Sam 摎𠊎𢯭手。", pinyin: "coiˋ miongˊ lu+ hong+ maiˋ gaiˇ. Sam lauˋ ngai tenˇ shiuˊ."}
+    sx: {hanzi: "在網路買个。Sam 摎𠊎𢯭手。", pinyin: "coiˊ miongˋ lu maiˊ ge. Sam lauˊ ngaiˇ ten suˋ."}
+    hl: {hanzi: "在網路買个。Sam 摎𠊎𢯭手。", pinyin: "coiˋ miongˊ lu+ maiˋ gaiˇ. Sam lauˋ ngai tenˇ shiuˊ."}
   - n: 5
     speaker: Sam
     en: "(drily) Helped? He paid with my card."
@@ -77,8 +77,9 @@ notes:
   - ref: 1
     topic: culture
     text: >
-      After a wedding the family hands round sweets to those who came: 這兜糖仔分你兜. 食酒 "come to the banquet" (lessons
-      27 and 43).
+      恁仔細！ stands alone (lesson 44), and the reason follows. The sweets are what is left of the wedding sweets:
+      an official example says that as the guests leave, 新人會企在門口，請人客食喜糖 "the newly-weds stand at the door and
+      offer the guests wedding sweets". 食酒 "come to the banquet" (lessons 27 and 43).
   - ref: 2
     topic: grammar
     text: >
@@ -87,12 +88,12 @@ notes:
   - ref: 4
     topic: grammar
     text: >
-      在網路項買个 "(I) bought it online": the 係…个 frame without 係, as in lesson 32 (阿財講个). 摎𠊎𢯭手 "helped me":
+      在網路買个 "(I) bought it online" (lesson 46): the 係…个 frame without 係, as in lesson 32 (阿財講个). 摎𠊎𢯭手 "helped me":
       摎 + person (lesson 40).
   - ref: 6
     topic: grammar
     text: >
-      嫁老公 for a woman, 討餔娘 for a man (lesson 43). Count how many times this question has been asked since lesson 16.
+      嫁老公 for a woman, 討餔娘 for a man (lesson 43). Count how many times this question has been asked since lesson 23.
   - ref: 10
     topic: grammar
     text: >
@@ -128,9 +129,9 @@ exercises:
       sx: {hanzi: "耕田人看天食飯。", pinyin: "gangˊ tienˇ nginˇ kon tienˊ siid fan."}
       hl: {hanzi: "耕田人看天食飯。", pinyin: "gangˋ tien ngin konˇ tienˋ shidˋ pon+."}
   fill:
-    - en: "Although it's cheap, it's not good."
-      sx: {hanzi: "___當便宜，___毋好。", pinyin: "___ dongˊ pienˇ ngiˇ, ___ mˇ hoˋ.", answer_hanzi: "雖然……毋過", answer: "suiˊ ienˇ … mˇ go"}
-      hl: {hanzi: "___當便宜，___毋好。", pinyin: "___ dongˋ pien ngi, ___ m hoˊ.", answer_hanzi: "雖然……毋過", answer: "suiˋ rhan … m goˇ"}
+    - en: "Although it's cheap, it doesn't taste good."
+      sx: {hanzi: "___當便宜，___毋會好食。", pinyin: "___ dongˊ pienˇ ngiˇ, ___ mˇ voi hoˋ siid.", answer_hanzi: "雖然……毋過", answer: "suiˊ ienˇ … mˇ go"}
+      hl: {hanzi: "___當便宜，___毋會好食。", pinyin: "___ dongˋ pien ngi, ___ m voi+ hoˊ shidˋ.", answer_hanzi: "雖然……毋過", answer: "suiˋ rhan … m goˇ"}
     - en: "A man takes a wife."
       sx: {hanzi: "男仔人___。", pinyin: "namˇ eˋ nginˇ ___.", answer_hanzi: "討餔娘", answer: "toˋ buˊ ngiongˇ"}
       hl: {hanzi: "男仔人___。", pinyin: "nam er ngin ___.", answer_hanzi: "討餔娘", answer: "toˊ buˋ ngiong"}
