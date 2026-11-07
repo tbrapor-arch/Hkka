@@ -1,0 +1,183 @@
+id: 44
+title:
+  en: "The wedding banquet"
+  sx: {hanzi: "戴等笠嫲唚嘴", pinyin: "dai denˋ libˋ maˇ jimˊ zoi"}
+  hl: {hanzi: "戴等笠嫲唚嘴", pinyin: "daiˇ nenˊ lib ma zimˋ zhoiˇ"}
+review: false
+setting: >-
+  Saturday evening, a red marquee across the lane from the 伯公 shrine: thirty round tables, a stage, a karaoke machine.
+  A-in is home for the weekend. The Lius sit at the neighbours' table, and the dishes keep coming.
+names: [財伯姆, 阿財伯, 阿興, 阿英, 阿明, 阿珠, 劉]
+
+dialogue:
+  - n: 1
+    speaker: 阿珠
+    en: "(an elderly relative of the bride's side, taking Grandma's hands) Grandma Liu! Haven't seen you for ages!"
+    sx: {hanzi: "劉阿婆！恁久無看著你！", pinyin: "liuˇ aˊ poˇ! anˋ giuˋ moˇ kon doˋ nˇ!"}
+    hl: {hanzi: "劉阿婆！恁久無看著你！", pinyin: "liu a+ po! anˊ giuˊ mo konˇ doˊ ngi!"}
+  - n: 2
+    speaker: 阿婆
+    en: "A-tsu! Ten years at least! You haven't changed a bit."
+    sx: {hanzi: "阿珠！有十年了！你還係恁後生。", pinyin: "aˊ zuˊ! iuˊ siib ngienˇ leˊ! nˇ hanˇ he anˋ heu sangˊ."}
+    hl: {hanzi: "阿珠！有十年了！你還係恁後生。", pinyin: "a+ zhuˋ! rhiuˋ shibˋ ngien leˋ! ngi han heˇ anˊ heu+ sangˋ."}
+  - n: 3
+    speaker: 阿明
+    en: "(as the bride passes in her third dress) The bride is so pretty!"
+    sx: {hanzi: "新娘當靚！", pinyin: "xinˊ ngiongˇ dongˊ jiangˊ!"}
+    hl: {hanzi: "新娘當靚！", pinyin: "sinˋ ngiong dongˋ ziangˋ!"}
+  - n: 4
+    speaker: 阿婆
+    en: "As the saying goes: 'three parts looks, seven parts dress.'"
+    sx: {hanzi: "俗語講：「三分人才，七分打扮。」", pinyin: "xiug ngiˊ gongˋ: samˊ funˊ nginˇ coiˇ, qidˋ funˊ daˋ ban."}
+    hl: {hanzi: "俗語講：「三分人才，七分打扮。」", pinyin: "siugˋ ngiˋ gongˊ: samˋ funˋ ngin coi, cid funˋ daˊ banˇ."}
+  - n: 5
+    speaker: 阿英
+    en: "Grandma! Don't say that, she might hear you."
+    sx: {hanzi: "阿婆！莫恁樣講，佢會聽著。", pinyin: "aˊ poˇ! mog anˋ ngiongˇ gongˋ, giˇ voi tangˊ doˋ."}
+    hl: {hanzi: "阿婆！莫恁樣講，佢會聽著。", pinyin: "a+ po! mogˋ an ngiong gongˊ, gi voi+ tangˋ doˊ."}
+  - n: 6
+    speaker: 財伯姆
+    en: "(coming over) The bride and groom are going round every table to toast the guests. Get your glasses ready!"
+    sx: {hanzi: "新娘公、新娘愛逐張桌去摎人客敬酒。杯仔拿等！", pinyin: "xinˊ ngiongˇ gungˊ, xinˊ ngiongˇ oi dagˋ zongˊ zogˋ hi lauˊ nginˇ hagˋ gin jiuˋ. biˊ eˋ naˊ denˋ!"}
+    hl: {hanzi: "新娘公、新娘愛逐張桌去摎人客敬酒。杯仔拿等！", pinyin: "sinˋ ngiong gungˋ, sinˋ ngiong oiˇ dag zhongˋ zog hiˇ lauˋ ngin hag ginˇ ziuˊ. buiˋ er naˋ nenˊ!"}
+  - n: 7
+    speaker: 阿興
+    en: "(the groom, red in the face, raising his glass) Thank you all for coming! Bottoms up!"
+    sx: {hanzi: "恁仔細大家來！乾杯！", pinyin: "anˋ ziiˋ se tai gaˊ loiˇ! gonˊ biˊ!"}
+    hl: {hanzi: "承蒙大家來！乾杯！", pinyin: "shin mung tai+ gaˋ loi! gonˋ buiˋ!"}
+  - n: 8
+    speaker: 阿婆
+    en: "Congratulations! May the two of you be happy together for a hundred years."
+    sx: {hanzi: "恭喜，恭喜！祝你兩儕百年好合。", pinyin: "giungˊ hiˋ, giungˊ hiˋ! zugˋ nˇ liongˋ saˇ bagˋ ngienˇ hoˋ hab."}
+    hl: {hanzi: "恭喜，恭喜！祝你兩儕百年好合。", pinyin: "giungˋ hiˊ, giungˋ hiˊ! zhug ngi liongˊ sa bag ngien hoˊ habˋ."}
+    check: true
+  - n: 9
+    speaker: 財伯姆
+    en: "(looking from A-in to Sam and back) Grandma Liu, when do we get to drink at your house?"
+    sx: {hanzi: "劉阿婆，幾時愛食你屋下个酒？", pinyin: "liuˇ aˊ poˇ, giˋ siiˇ oi siid nˇ vugˋ kaˊ ge jiuˋ?"}
+    hl: {hanzi: "劉阿婆，幾時愛食你屋下个酒？", pinyin: "liu a+ po, giˊ shi oiˇ shidˋ ngi vug haˋ gaiˇ ziuˊ?"}
+    check: true
+  - n: 10
+    speaker: 阿婆
+    en: "(glancing at A-in, then firmly at her bowl) Grandma isn't interfering any more."
+    sx: {hanzi: "阿婆毋管了。", pinyin: "aˊ poˇ mˇ gonˋ leˊ."}
+    hl: {hanzi: "阿婆毋管了。", pinyin: "a+ po m gonˊ leˋ."}
+  - n: 11
+    speaker: 阿公
+    en: "(who has said nothing all evening, to no one in particular) Kissing with your conical hats on."
+    sx: {hanzi: "戴等笠嫲唚嘴。", pinyin: "dai denˋ libˋ maˇ jimˊ zoi."}
+    hl: {hanzi: "戴等笠嫲唚嘴。", pinyin: "daiˇ nenˊ lib ma zimˋ zhoiˇ."}
+  - n: 12
+    speaker: Sam
+    en: "(whispering to A-min) What does that mean?"
+    sx: {hanzi: "該係麼个意思？", pinyin: "ge he maˋ ge i sii?"}
+    hl: {hanzi: "該係麼个意思？", pinyin: "gai heˇ maˊ gaiˇ rhiˇ siiˇ?"}
+  - n: 13
+    speaker: 阿明
+    en: "It's a 師傅話, a saying with a hidden end. Hats on, you can't get close: 'still a long way off'."
+    sx: {hanzi: "這係師傅話。戴等笠嫲，唚毋著：差得遠！", pinyin: "iaˋ he siiˊ fu fa. dai denˋ libˋ maˇ, jimˊ mˇ doˋ: caˊ dedˋ ienˋ!"}
+    hl: {hanzi: "這係師傅話。戴等笠嫲，唚毋著：差得遠！", pinyin: "liaˊ heˇ siiˋ fu+ faˇ. daiˇ nenˊ lib ma, zimˋ m doˊ: caˋ ded rhanˊ!"}
+  - n: 14
+    speaker: 阿英
+    en: "(very busy with the fish) This fish is delicious."
+    sx: {hanzi: "這尾魚當好食。", pinyin: "iaˋ miˊ ngˇ dongˊ hoˋ siid."}
+    hl: {hanzi: "這尾魚當好食。", pinyin: "liaˊ muiˋ ng dongˋ hoˊ shidˋ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      恁久無看著你！ "long time no see!": the greeting of lesson 22, now with 你 at the end, as in the official examples
+      (恁久無看著你，前暫仔你去哪？). 阿珠 is from the bride's side; at a village wedding the two families meet old
+      acquaintances at every table.
+  - ref: 4
+    topic: culture
+    text: >
+      俗語 xiug ngiˊ "saying, proverb", and 老古人言 "the words of the old folk" for the same thing: four- or seven-syllable
+      lines quoted as they are. 三分人才，七分打扮 "three parts looks, seven parts dress" is an official example; 人才
+      "looks, appearance", 打扮 "dress up, get up". Learn a saying as a whole, like a word.
+  - ref: 6
+    topic: culture
+    text: >
+      敬酒 gin jiuˋ "toast (someone)": 摎人客敬酒 "toast the guests", with 摎 (lesson 40) for the person. 新郎新娘愛逐張桌
+      去摎人客敬酒 is the official example this line follows. 杯仔 "glass, cup"; 乾杯 "bottoms up". 逐張桌 "every table":
+      張 is the classifier for tables.
+  - ref: 8
+    topic: culture
+    text: >
+      恭喜 giungˊ hiˋ "congratulations", said twice. 祝 "wish (someone something)" + 百年好合 "a hundred years of harmony",
+      the wedding formula; an official example has the longer couplet 夫妻和合百年好. Marked for checking: wedding
+      wishes vary.
+  - ref: 9
+    topic: culture
+    text: >
+      幾時愛食你屋下个酒？ "when do we drink at your house?" is the village way of asking when your child will marry.
+      Marked for checking as a set phrase. Grandma keeps the promise of lesson 42.
+  - ref: 11
+    topic: culture
+    text: >
+      師傅話 siiˊ fu fa: a two-part saying, like 戴等笠嫲唚嘴 "kissing with conical hats on". You say the first half and the
+      listener supplies the meaning, here 差得遠 caˊ dedˋ ienˋ "a long way off" (an official example explains this one).
+      Grandpa means A-in and Sam, or perhaps A-in and marriage in general. He does not say which. 唚 jimˊ "kiss"; 唚毋著
+      "can't manage to kiss": V毋著 is "try and fail" (lesson 47 has more).
+  - ref: 14
+    topic: vocab
+    text: >
+      尾 miˊ is the classifier for fish (Hailu muiˋ): 這尾魚 "this fish". A-in has found something urgent to do.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 承蒙 shin mung for 恁仔細, 杯 buiˋ, 尾 muiˋ, 唚 zimˋ, and V等 nenˊ (拿等, 戴等).
+
+new_words:
+  - {hanzi: 俗語, pinyin: "xiug ngiˊ", en: "saying, proverb", hl: {hanzi: 俗語, pinyin: "siugˋ ngiˋ"}}
+  - {hanzi: 老古人言, pinyin: "loˋ guˋ nginˇ ngienˇ", en: "old saying, the wisdom of the old folk", hl: {hanzi: 老古人言, pinyin: "loˊ guˊ ngin ngien"}}
+  - {hanzi: 師傅話, pinyin: "siiˊ fu fa", en: "two-part saying (歇後語)", hl: {hanzi: 師傅話, pinyin: "siiˋ fu+ faˇ"}}
+  - {hanzi: 人才, pinyin: "nginˇ coiˇ", en: "looks, appearance", hl: {hanzi: 人才, pinyin: "ngin coi"}}
+  - {hanzi: 打扮, pinyin: "daˋ ban", en: "dress up", hl: {hanzi: 打扮, pinyin: "daˊ banˇ"}}
+  - {hanzi: 分, pinyin: "funˊ", en: "part, tenth", hl: {hanzi: 分, pinyin: "funˋ"}}
+  - {hanzi: 敬酒, pinyin: "gin jiuˋ", en: "drink a toast to", hl: {hanzi: 敬酒, pinyin: "ginˇ ziuˊ"}}
+  - {hanzi: 酒, pinyin: "jiuˋ", en: "alcohol, wine", hl: {hanzi: 酒, pinyin: "ziuˊ"}}
+  - {hanzi: 乾杯, pinyin: "gonˊ biˊ", en: "bottoms up, cheers", hl: {hanzi: 乾杯, pinyin: "gonˋ buiˋ"}}
+  - {hanzi: 恭喜, pinyin: "giungˊ hiˋ", en: "congratulations", hl: {hanzi: 恭喜, pinyin: "giungˋ hiˊ"}}
+  - {hanzi: 祝, pinyin: "zugˋ", en: "wish (someone something)", hl: {hanzi: 祝, pinyin: "zhug"}}
+  - {hanzi: 唚, pinyin: "jimˊ", en: "kiss", hl: {hanzi: 唚, pinyin: "zimˋ"}}
+  - {hanzi: 差得遠, pinyin: "caˊ dedˋ ienˋ", en: "a long way off, far from it", hl: {hanzi: 差得遠, pinyin: "caˋ ded rhanˊ"}}
+  - {hanzi: 尾, pinyin: "miˊ", en: "(classifier for fish)", hl: {hanzi: 尾, pinyin: "muiˋ"}}
+  - {hanzi: 祝福, pinyin: "zugˋ fugˋ", en: "blessing; wish well", hl: {hanzi: 祝福, pinyin: "zhug fug"}}
+  - {hanzi: 派頭, pinyin: "pai teuˇ", en: "smart, stylish", hl: {hanzi: 派頭, pinyin: "paiˇ teu"}}
+  - {hanzi: 新人, pinyin: "xinˊ nginˇ", en: "the newly-weds", hl: {hanzi: 新人, pinyin: "sinˋ ngin"}}
+  - {hanzi: 家, pinyin: "gaˊ", en: "home, family (in set phrases)", hl: {hanzi: 家, pinyin: "gaˋ"}}
+  - {hanzi: 合, pinyin: "hab", en: "join, be in harmony", hl: {hanzi: 合, pinyin: "habˋ"}}
+  - {hanzi: 逐, pinyin: "dagˋ", en: "every (逐張, 逐日)", hl: {hanzi: 逐, pinyin: "dag"}}
+  - {hanzi: 半朝, pinyin: "ban zeuˊ", en: "half a morning", hl: {hanzi: 半朝, pinyin: "banˇ zhauˋ"}}
+
+exercises:
+  translate:
+    - en: "Everyone toasts the newly-weds."
+      sx: {hanzi: "大家摎新人敬酒。", pinyin: "tai gaˊ lauˊ xinˊ nginˇ gin jiuˋ."}
+      hl: {hanzi: "大家摎新人敬酒。", pinyin: "tai+ gaˋ lauˋ sinˋ ngin ginˇ ziuˊ."}
+    - en: "The groom looks very smart today."
+      sx: {hanzi: "新娘公今晡日當派頭。", pinyin: "xinˊ ngiongˇ gungˊ gimˊ buˊ ngidˋ dongˊ pai teuˇ."}
+      hl: {hanzi: "新娘公今晡日當派頭。", pinyin: "sinˋ ngiong gungˋ gimˋ buˋ ngid dongˋ paiˇ teu."}
+    - en: "A saying: 'A thousand days at home are good; half a morning away is hard.'"
+      sx: {hanzi: "俗語講：「在家千日好，出門半朝難。」", pinyin: "xiug ngiˊ gongˋ: coiˊ gaˊ qienˊ ngidˋ hoˋ, cudˋ munˇ ban zeuˊ nanˇ."}
+      hl: {hanzi: "俗語講：「在家千日好，出門半朝難。」", pinyin: "siugˋ ngiˋ gongˊ: coiˋ gaˋ cienˋ ngid hoˊ, chud mun banˇ zhauˋ nan."}
+    - en: "Grandpa doesn't drink alcohol; he drinks tea."
+      sx: {hanzi: "阿公毋食酒，佢食茶。", pinyin: "aˊ gungˊ mˇ siid jiuˋ, giˇ siid caˇ."}
+      hl: {hanzi: "阿公毋食酒，佢食茶。", pinyin: "a+ gungˋ m shidˋ ziuˊ, gi shidˋ ca."}
+    - en: "We wish them well; that's an old saying, not mine."
+      sx: {hanzi: "𠊎兜祝福佢兜。該係老古人言，毋係𠊎講个。", pinyin: "ngaiˇ deuˊ zugˋ fugˋ giˇ deuˊ. ge he loˋ guˋ nginˇ ngienˇ, mˇ he ngaiˇ gongˋ ge."}
+      hl: {hanzi: "𠊎兜祝福佢兜。該係老古人言，毋係𠊎講个。", pinyin: "ngai deuˋ zhug fug gi deuˋ. gai heˇ loˊ guˊ ngin ngien, m heˇ ngai gongˊ gaiˇ."}
+  fill:
+    - en: "Long time no see!"
+      sx: {hanzi: "___無看著你！", pinyin: "___ moˇ kon doˋ nˇ!", answer_hanzi: "恁久", answer: "anˋ giuˋ"}
+      hl: {hanzi: "___無看著你！", pinyin: "___ mo konˇ doˊ ngi!", answer_hanzi: "恁久", answer: "anˊ giuˊ"}
+    - en: "Congratulations, congratulations!"
+      sx: {hanzi: "___，___！", pinyin: "___, ___!", answer_hanzi: "恭喜", answer: "giungˊ hiˋ"}
+      hl: {hanzi: "___，___！", pinyin: "___, ___!", answer_hanzi: "恭喜", answer: "giungˋ hiˊ"}
+    - en: "Kissing with conical hats on: still a long way off."
+      sx: {hanzi: "戴等笠嫲唚嘴：___。", pinyin: "dai denˋ libˋ maˇ jimˊ zoi: ___.", answer_hanzi: "差得遠", answer: "caˊ dedˋ ienˋ"}
+      hl: {hanzi: "戴等笠嫲唚嘴：___。", pinyin: "daiˇ nenˊ lib ma zimˋ zhoiˇ: ___.", answer_hanzi: "差得遠", answer: "caˋ ded rhanˊ"}
+
+audio: []
