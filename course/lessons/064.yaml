@@ -1,0 +1,202 @@
+id: 64
+title:
+  en: "Back in Miaoli"
+  sx: {hanzi: "你轉來了！", pinyin: "nˇ zonˋ loiˇ leˊ!"}
+  hl: {hanzi: "你轉來了！", pinyin: "ngi zhonˊ loi leˋ!"}
+review: false
+setting: >-
+  Saturday 27 March, half past eleven, the platform of 苗栗 station, where Sam first got off the train in lesson 1. A-in
+  is waiting, as she promised on the phone (lesson 63). Sam has a suitcase, a bag of 菜脯 from 阿蘭嫂, and a month of
+  Hailu in his mouth.
+names: [阿英, 阿明, 阿蘭嫂, 竹東, 苗栗, 美濃]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Sam! Over here!"
+    sx: {hanzi: "Sam！這位！", pinyin: "Sam! iaˋ vi!"}
+    hl: {hanzi: "Sam！這位！", pinyin: "Sam! liaˊ vui+!"}
+  - n: 2
+    speaker: Sam
+    en: "A-in! You've come to meet me so early!"
+    sx: {hanzi: "阿英！你恁早就來接𠊎？", pinyin: "aˊ inˊ! nˇ anˋ zoˋ qiu loiˇ jiabˋ ngaiˇ?"}
+    hl: {hanzi: "阿英！你恁早就來接𠊎？", pinyin: "a+ rhinˋ! ngi anˊ zoˊ ciu+ loi ziab ngai?"}
+  - n: 3
+    speaker: 阿英
+    en: "We said I'd wait for you at the station. …You've got thinner, and the sun's made you brown. You look different."
+    sx: {hanzi: "講好在火車頭等你。……你瘦了，乜晒烏了，看起來無共樣了。", pinyin: "gongˋ hoˋ coiˊ foˋ caˊ teuˇ denˋ nˇ. … nˇ ceu leˊ, me sai vuˊ leˊ, kon hiˋ loiˇ moˇ kiung iong leˊ."}
+    hl: {hanzi: "講好在火車頭等你。……你瘦了，乜晒烏了，看起來無共樣了。", pinyin: "gongˊ hoˊ coiˋ foˊ chaˋ teu denˊ ngi. … ngi seuˇ leˋ, meˇ saiˇ vuˋ leˋ, konˇ hiˊ loi mo kiung+ rhong+ leˋ."}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "The factory in 竹東 is hot, all that steam, and I was worn out every day. I'll carry the suitcase myself."
+    sx: {hanzi: "竹東个工廠當熱，逐日都當悿。皮箱𠊎自家擐。", pinyin: "zugˋ dungˊ ge gungˊ congˋ dongˊ ngied, dagˋ ngidˋ du dongˊ tiamˋ. piˇ xiongˊ ngaiˇ qi gaˊ kuan."}
+    hl: {hanzi: "竹東个工廠當熱，逐日都當悿。皮箱𠊎自家擐。", pinyin: "zhug dungˋ gaiˇ gungˋ chongˊ dongˋ ngiedˋ, dag ngid du+ dongˋ tiamˊ. pi siongˋ ngai cid gaˋ kuan+."}
+  - n: 5
+    speaker: 阿英
+    en: "(while they walk) So… what was it you couldn't say in the letter?"
+    sx: {hanzi: "該……信肚講毋出來个，係麼个？", pinyin: "ge … xin duˋ gongˋ mˇ cudˋ loiˇ ge, he maˋ ge?"}
+    hl: {hanzi: "該……信肚講毋出來个，係麼个？", pinyin: "gai … sinˇ duˊ gongˊ m chud loi gaiˇ, heˇ maˊ gaiˇ?"}
+  - n: 6
+    speaker: Sam
+    en: "That… I…"
+    sx: {hanzi: "該……𠊎……", pinyin: "ge … ngaiˇ …"}
+    hl: {hanzi: "該……𠊎……", pinyin: "gai … ngai …"}
+  - n: 7
+    speaker: 阿明
+    en: "(bursting out of the car park) Sam! You're back! You gave me a fright, you're so brown! Grandma says hurry home for lunch!"
+    sx: {hanzi: "Sam！你轉來了！恁烏，嚇著𠊎！阿婆喊你遽遽轉屋下食晝！", pinyin: "Sam! nˇ zonˋ loiˇ leˊ! anˋ vuˊ, hagˋ doˋ ngaiˇ! aˊ poˇ ham nˇ giagˋ giagˋ zonˋ vugˋ kaˊ siid zu!"}
+    hl: {hanzi: "Sam！你轉來了！恁烏，嚇著𠊎！阿婆喊你遽遽轉屋下食晝！", pinyin: "Sam! ngi zhonˊ loi leˋ! anˊ vuˋ, hag doˊ ngai! a+ po hamˇ ngi giag giag zhonˊ vug haˋ shidˋ zhiuˇ!"}
+  - n: 8
+    speaker: 阿婆
+    en: "(at the door) Sam's home! Come here, let Grandma give you a hug. Sit down. Are you hungry?"
+    sx: {hanzi: "Sam 轉來了！來，阿婆抱一下。坐等來。肚飢無？", pinyin: "Sam zonˋ loiˇ leˊ! loiˇ, aˊ poˇ pau idˋ ha. coˊ denˋ loiˇ. duˋ giˊ moˇ?"}
+    hl: {hanzi: "Sam 轉來了！來，阿婆抱一下。坐等來。肚屎枵無？", pinyin: "Sam zhonˊ loi leˋ! loi, a+ po pau+ rhid ha+. coˋ denˊ loi. duˊ shiˊ iauˋ mo?"}
+  - n: 9
+    speaker: Sam
+    en: "I'm starving! (in Hailu) …肚屎枵!"
+    sx: {hanzi: "𠊎當肚飢！……肚屎枵！", pinyin: "ngaiˇ dongˊ duˋ giˊ! … duˋ siiˋ iauˊ!"}
+    hl: {hanzi: "𠊎當肚屎枵！……肚屎枵！", pinyin: "ngai dongˋ duˊ shiˊ iauˋ! … duˊ shiˊ iauˋ!"}
+    check: true
+  - n: 10
+    speaker: 阿婆
+    en: "(laughing) Listen to him! A month in 竹東, and he comes back talking Hailu!"
+    sx: {hanzi: "你聽！去竹東一隻月，轉來就講海陸話了！", pinyin: "nˇ tangˊ! hi zugˋ dungˊ idˋ zagˋ ngied, zonˋ loiˇ qiu gongˋ hoiˋ liugˋ fa leˊ!"}
+    hl: {hanzi: "你聽！去竹東一隻月，轉來就講海陸話了！", pinyin: "ngi tangˋ! hiˇ zhug dungˋ rhid zhag ngiedˋ, zhonˊ loi ciu+ gongˊ hoiˊ liug faˇ leˋ!"}
+  - n: 11
+    speaker: 阿公
+    en: "Back is what counts."
+    sx: {hanzi: "轉來就好。", pinyin: "zonˋ loiˇ qiu hoˋ."}
+    hl: {hanzi: "轉來就好。", pinyin: "zhonˊ loi ciu+ hoˊ."}
+  - n: 12
+    speaker: Sam
+    en: "Grandma, 阿蘭嫂 sent you some 菜脯. And I saw you on the news! Third place!"
+    sx: {hanzi: "阿婆，阿蘭嫂分你个菜脯。還有，𠊎在新聞看著你！第三名！", pinyin: "aˊ poˇ, aˊ lanˇ soˋ bunˊ nˇ ge coi puˋ. hanˇ iuˊ, ngaiˇ coiˊ xinˊ vunˇ kon doˋ nˇ! ti samˊ miangˇ!"}
+    hl: {hanzi: "阿婆，阿蘭嫂分你个菜脯。還有，𠊎在新聞看著你！第三名！", pinyin: "a+ po, a+ lan soˊ bunˋ ngi gaiˇ coiˇ buˊ. han rhiuˋ, ngai coiˋ sinˋ vun konˇ doˊ ngi! ti+ samˋ miang!"}
+  - n: 13
+    speaker: 阿婆
+    en: "Don't, don't. An old woman on the TV… (changing the subject) Monday is 清明: we're going to sweep the graves, and you're coming with us."
+    sx: {hanzi: "莫講，莫講，老人家上電視……禮拜一係清明，愛去掛紙，你乜跈𫣆兜去。", pinyin: "mog gongˋ, mog gongˋ, loˋ nginˇ gaˊ songˊ tien sii … liˊ bai idˋ he qiangˊ miangˇ, oi hi gua ziiˋ, nˇ me tenˇ enˊ deuˊ hi."}
+    hl: {hanzi: "莫講，莫講，老人家上電視……禮拜一係清明，愛去掛紙，你乜跈𫣆兜去。", pinyin: "mogˋ gongˊ, mogˋ gongˊ, loˊ ngin gaˋ shongˋ tien+ shi+ … liˋ baiˇ rhid heˇ ciangˋ miang, oiˇ hiˇ guaˇ zhiˊ, ngi meˇ ten enˋ deuˋ hiˇ."}
+  - n: 14
+    speaker: 阿英
+    en: "(to Sam, quietly, as everyone sits down) The thing in the letter… some other time?"
+    sx: {hanzi: "信肚个……下二擺正講？", pinyin: "xin duˋ ge … ha ngi baiˋ zang gongˋ?"}
+    hl: {hanzi: "信肚个……下二擺正講？", pinyin: "sinˇ duˊ gaiˇ … ha+ ngi+ baiˊ zhangˇ gongˊ?"}
+  - n: 15
+    speaker: Sam
+    en: "Some other time."
+    sx: {hanzi: "下二擺正講。", pinyin: "ha ngi baiˋ zang gongˋ."}
+    hl: {hanzi: "下二擺正講。", pinyin: "ha+ ngi+ baiˊ zhangˇ gongˊ."}
+
+notes:
+  - ref: 7
+    topic: grammar
+    text: >
+      轉 zonˋ is "go back, return home", and it takes a direction like any verb of movement: 轉來 "come back (here)",
+      the word of the person who is at home (你轉來了！, line 8 Sam 轉來了！); 轉去 "go back (there)", the word of the
+      person who is leaving; 轉屋下 "go home". An official example: 放學轉屋下以後，功課寫忒正做得尞 "after school, once home,
+      homework first, then play". Speakers in the south (美濃, lesson 71) say 歸 for this 轉; in the north, 歸 is "whole"
+      (歸屋下 "the whole family").
+  - ref: 3
+    topic: grammar
+    text: >
+      看起來 kon hiˋ loiˇ "look, seem": 看起來無共樣了 "(you) look different". 晒烏 "tanned": 晒 (lesson 9) "be in the sun" + 烏
+      "black". 瘦 (lesson 45) "thin".
+  - ref: 7
+    topic: vocab
+    text: >
+      嚇著 hagˋ doˋ "give a fright": 嚇著𠊎 "you scared me". 嚇 "frighten" + 著, the "it got there" ending of 看著.
+      悿 tiamˋ (line 4) "worn out" is the everyday Hakka word for "tired". 接 jiabˋ (line 2) "meet (someone arriving)".
+  - ref: 9
+    topic: grammar
+    text: >
+      Sam's habit from 竹東 (lesson 59): 肚屎枵 is Hailu for 肚飢. In the Hailu column he says it twice, so the joke is
+      only visible in Sixian; the line is marked for checking.
+  - ref: 10
+    topic: vocab
+    text: >
+      海陸話 "Hailu": 海陸 from 海豐 and 陸豐, the two counties the Hailu speakers' families came from (lesson 53).
+      一隻月 "a month": 月 counted with 隻.
+  - ref: 13
+    topic: culture
+    text: >
+      清明 qiangˊ miangˇ, the spring festival of the dead (Monday 5 April 2027), and 掛紙 gua ziiˋ "sweep the graves":
+      literally "hang paper", from the paper weighted down on the grave mound. An official example: 清明掛紙係客家人
+      當看重个一項風俗 "清明 grave-sweeping is a custom Hakka people take very seriously". Grandma changes the subject
+      as soon as she is praised; you will hear the 清明 lesson next.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 肚屎枵 for 肚飢, 嚇 hag, 清明 ciangˋ miang, 掛紙 guaˇ zhiˊ.
+
+new_words:
+  - {hanzi: 看起來, pinyin: "kon hiˋ loiˇ", en: "look, seem", hl: {hanzi: 看起來, pinyin: "konˇ hiˊ loi"}}
+  - {hanzi: 嚇, pinyin: "hagˋ", en: "frighten", hl: {hanzi: 嚇, pinyin: "hag"}}
+  - {hanzi: 嚇著, pinyin: "hagˋ doˋ", en: "give a fright, be startled", hl: {hanzi: 嚇著, pinyin: "hag doˊ"}}
+  - {hanzi: 清明, pinyin: "qiangˊ miangˇ", en: "清明, the festival of the dead", hl: {hanzi: 清明, pinyin: "ciangˋ miang"}}
+  - {hanzi: 掛紙, pinyin: "gua ziiˋ", en: "sweep the graves", hl: {hanzi: 掛紙, pinyin: "guaˇ zhiˊ"}}
+  - {hanzi: 南部, pinyin: "namˇ pu", en: "the south", hl: {hanzi: 南部, pinyin: "nam pu+"}}
+  - {hanzi: 北部, pinyin: "bedˋ pu", en: "the north", hl: {hanzi: 北部, pinyin: "bed pu+"}}
+  - {hanzi: 變, pinyin: "bien", en: "change, become", hl: {hanzi: 變, pinyin: "bienˇ"}}
+  - {hanzi: 變到, pinyin: "bien do", en: "turn into, become", hl: {hanzi: 變到, pinyin: "bienˇ doˇ"}}
+  - {hanzi: 樣仔, pinyin: "iong eˋ", en: "look, appearance; (…个樣仔) as if", hl: {hanzi: 樣仔, pinyin: "rhong+ er"}}
+  - {hanzi: 聽無, pinyin: "tangˊ moˇ", en: "not catch, not understand (by ear)", hl: {hanzi: 聽無, pinyin: "tangˇ mo"}}
+  - {hanzi: 開車, pinyin: "koiˊ caˊ", en: "drive", hl: {hanzi: 開車, pinyin: "koiˋ chaˋ"}}
+  - {hanzi: 車站, pinyin: "caˊ zam", en: "station, stop", hl: {hanzi: 車站, pinyin: "chaˋ zhamˇ"}}
+  - {hanzi: 載, pinyin: "zai", en: "carry, give a lift", hl: {hanzi: 載, pinyin: "zaiˇ"}}
+  - {hanzi: 接, pinyin: "jiabˋ", en: "meet (someone arriving), receive", hl: {hanzi: 接, pinyin: "ziab"}}
+  - {hanzi: 悿, pinyin: "tiamˋ", en: "tired, worn out", hl: {hanzi: 悿, pinyin: "tiamˊ"}}
+  - {hanzi: 抱, pinyin: "pau", en: "hug, hold in one's arms", hl: {hanzi: 抱, pinyin: "pau+"}}
+  - {hanzi: 位所, pinyin: "vi soˋ", en: "place", hl: {hanzi: 位所, pinyin: "vui+ soˊ"}}
+  - {hanzi: 行李, pinyin: "hangˇ liˋ", en: "luggage", hl: {hanzi: 行李, pinyin: "hang liˊ"}}
+  - {hanzi: 緊張, pinyin: "ginˋ zongˊ", en: "nervous", hl: {hanzi: 緊張, pinyin: "ginˊ zhongˋ"}}
+
+exercises:
+  translate:
+    - en: "A-min drove? — No, Dad drove; he gave us a lift home."
+      sx: {hanzi: "阿明開車？——毋係，阿爸開車，載𠊎兜轉屋下。", pinyin: "aˊ minˇ koiˊ caˊ? — mˇ he, aˊ baˊ koiˊ caˊ, zai ngaiˇ deuˊ zonˋ vugˋ kaˊ."}
+      hl: {hanzi: "阿明開車？——毋係，阿爸開車，載𠊎兜轉屋下。", pinyin: "a+ min koiˋ chaˋ? — m heˇ, a+ baˋ koiˋ chaˋ, zaiˇ ngai deuˋ zhonˊ vug haˋ."}
+    - en: "People in the south and in the north speak differently; sometimes I can't catch it."
+      sx: {hanzi: "南部人同北部人講話無共樣，有時節𠊎聽無。", pinyin: "namˇ pu nginˇ tungˇ bedˋ pu nginˇ gongˋ fa moˇ kiung iong, iuˊ siiˇ jiedˋ ngaiˇ tangˊ moˇ."}
+      hl: {hanzi: "南部人摎北部人講話無共樣，有時節𠊎聽無。", pinyin: "nam pu+ ngin lauˋ bed pu+ ngin gongˊ faˇ mo kiung+ rhong+, rhiuˋ shi zied ngai tangˇ mo."}
+    - en: "Grandma's 菜脯 has been drying in the sun for three days."
+      sx: {hanzi: "阿婆个菜脯晒三日了。", pinyin: "aˊ poˇ ge coi puˋ sai samˊ ngidˋ leˊ."}
+      hl: {hanzi: "阿婆个菜脯晒三日了。", pinyin: "a+ po gaiˇ coiˇ buˊ saiˇ samˋ ngid leˋ."}
+    - en: "阿蘭嫂's 菜脯 has dried a lovely yellow in the sun."
+      sx: {hanzi: "阿蘭嫂个菜脯晒到黃黃。", pinyin: "aˊ lanˇ soˋ ge coi puˋ sai do vongˇ vongˇ."}
+      hl: {hanzi: "阿蘭嫂个菜脯晒到黃黃。", pinyin: "a+ lan soˊ gaiˇ coiˇ buˊ saiˇ doˇ vong vong."}
+    - en: "竹東 is a lively place."
+      sx: {hanzi: "竹東係當鬧熱个位所。", pinyin: "zugˋ dungˊ he dongˊ nau ngied ge vi soˋ."}
+      hl: {hanzi: "竹東係當鬧熱个位所。", pinyin: "zhug dungˋ heˇ dongˋ nau+ ngiedˋ gaiˇ vui+ soˊ."}
+    - en: "Is this all your luggage? It's very heavy!"
+      sx: {hanzi: "你个行李就係這兜？當重！", pinyin: "nˇ ge hangˇ liˋ qiu he iaˋ deuˊ? dongˊ cungˊ!"}
+      hl: {hanzi: "你个行李就係這兜？當重！", pinyin: "ngi gaiˇ hang liˊ ciu+ heˇ liaˊ deuˋ? dongˋ chungˋ!"}
+    - en: "Don't frighten the children!"
+      sx: {hanzi: "莫嚇細人仔！", pinyin: "mog hagˋ se nginˇ eˋ!"}
+      hl: {hanzi: "莫嚇細人仔！", pinyin: "mogˋ hag seˇ ngin er!"}
+    - en: "A-in looks nervous."
+      sx: {hanzi: "阿英看起來當緊張。", pinyin: "aˊ inˊ kon hiˋ loiˇ dongˊ ginˋ zongˊ."}
+      hl: {hanzi: "阿英看起來當緊張。", pinyin: "a+ rhinˋ konˇ hiˊ loi dongˋ ginˊ zhongˋ."}
+    - en: "In a month Sam has turned into a 竹東 man!"
+      sx: {hanzi: "一隻月，Sam 就變到竹東人了！", pinyin: "idˋ zagˋ ngied, Sam qiu bien do zugˋ dungˊ nginˇ leˊ!"}
+      hl: {hanzi: "一隻月，Sam 就變到竹東人了！", pinyin: "rhid zhag ngiedˋ, Sam ciu+ bienˇ doˇ zhug dungˋ ngin leˋ!"}
+    - en: "Where's the bus stop? — Over there, next to the factory."
+      sx: {hanzi: "車站在哪位？——在該，工廠个隔壁。", pinyin: "caˊ zam coiˊ nai vi? — coiˊ ge, gungˊ congˋ ge gagˋ biagˋ."}
+      hl: {hanzi: "車站在哪位？——在該，工廠个隔壁。", pinyin: "chaˋ zhamˇ coiˋ nai+ vui+? — coiˋ gai, gungˋ chongˊ gaiˇ gag biag."}
+    - en: "Grandpa's never changed: he looks just as he did fifty years ago."
+      sx: {hanzi: "阿公毋識變：看起來像五十年前个樣仔。", pinyin: "aˊ gungˊ mˇ siidˋ bien: kon hiˋ loiˇ qiong ngˋ siib ngienˇ qienˇ ge iong eˋ."}
+      hl: {hanzi: "阿公毋識變：看起來像五十年前个樣仔。", pinyin: "a+ gungˋ m shid bienˇ: konˇ hiˊ loi ciongˇ ngˊ shibˋ ngien cien gaiˇ rhong+ er."}
+      check: true
+  fill:
+    - en: "You're back! (said by the one at home)"
+      sx: {hanzi: "你___了！", pinyin: "nˇ ___ leˊ!", answer_hanzi: "轉來", answer: "zonˋ loiˇ"}
+      hl: {hanzi: "你___了！", pinyin: "ngi ___ leˋ!", answer_hanzi: "轉來", answer: "zhonˊ loi"}
+    - en: "I'm going back to 竹東 tomorrow. (said in Miaoli)"
+      sx: {hanzi: "𠊎天光日愛___竹東。", pinyin: "ngaiˇ tienˊ gongˊ ngidˋ oi ___ zugˋ dungˊ.", answer_hanzi: "轉去", answer: "zonˋ hi"}
+      hl: {hanzi: "𠊎韶早愛___竹東。", pinyin: "ngai shau zoˊ oiˇ ___ zhug dungˋ.", answer_hanzi: "轉去", answer: "zhonˊ hiˇ"}
+    - en: "You gave me a fright!"
+      sx: {hanzi: "___𠊎了！", pinyin: "___ ngaiˇ leˊ!", answer_hanzi: "嚇著", answer: "hagˋ doˋ"}
+      hl: {hanzi: "___𠊎了！", pinyin: "___ ngai leˋ!", answer_hanzi: "嚇著", answer: "hag doˊ"}
+
+audio: []
