@@ -1,0 +1,191 @@
+id: 38
+title:
+  en: "Sam's treat"
+  sx: {hanzi: "食加一碗添", pinyin: "siid gaˊ idˋ vonˋ tiamˊ"}
+  hl: {hanzi: "食加一碗添", pinyin: "shidˋ gaˋ rhid vonˊ tiamˋ"}
+review: false
+setting: >-
+  Tuesday evening. To thank the family for Lucie's week, Sam takes them out to a Hakka restaurant in town. A round
+  table, a menu, and a draught from the door.
+names: [阿明, 客家小炒, Lucie]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Tonight's on me! Order as much as you like from the menu."
+    sx: {hanzi: "今暗晡𠊎請！菜單項个菜盡量點。", pinyin: "gimˊ am buˊ ngaiˇ qiangˋ! coi danˊ hong ge coi qin liong diamˋ."}
+    hl: {hanzi: "今暗晡𠊎請！菜單項个菜盡量點。", pinyin: "gimˋ amˇ buˋ ngai ciangˊ! coiˇ danˋ hong+ gaiˇ coiˇ cin+ liong+ diamˊ."}
+  - n: 2
+    speaker: 阿婆
+    en: "No need for so much. Three or four dishes will do."
+    sx: {hanzi: "毋使恁多，點三四盤就好。", pinyin: "mˇ siiˋ anˋ doˊ, diamˋ samˊ xi panˇ qiu hoˋ."}
+    hl: {hanzi: "毋使恁多，點三四盤就好。", pinyin: "m siiˊ anˊ doˋ, diamˊ samˋ siˇ pan ciu+ hoˊ."}
+  - n: 3
+    speaker: 服務生
+    en: "What would you like?"
+    sx: {hanzi: "你兜愛食麼个？", pinyin: "nˇ deuˊ oi siid maˋ ge?"}
+    hl: {hanzi: "你兜愛食麼个？", pinyin: "ngi deuˋ oiˇ shidˋ maˊ gaiˇ?"}
+  - n: 4
+    speaker: 阿明
+    en: "客家小炒, pork, cabbage, and a big bowl of soup!"
+    sx: {hanzi: "客家小炒、豬肉、白菜，還有一碗公湯！", pinyin: "hagˋ gaˊ seuˋ cauˋ, zuˊ ngiugˋ, pag coi, hanˇ iuˊ idˋ vonˋ gungˊ tongˊ!"}
+    hl: {hanzi: "客家小炒、豬肉、白菜，還有一碗公湯！", pinyin: "hag gaˋ siauˊ chauˊ, zhuˋ ngiug, pagˋ coiˇ, han rhiuˋ rhid vonˊ gungˋ tongˋ!"}
+  - n: 5
+    speaker: 阿婆
+    en: "Go easy on the salt in the dishes: Grandpa mustn't eat things that salty."
+    sx: {hanzi: "菜放少兜鹽，阿公做毋得食恁鹹。", pinyin: "coi biong seuˋ deuˊ iamˇ, aˊ gungˊ zomˇ dedˋ siid anˋ hamˇ."}
+    hl: {hanzi: "菜放少兜鹽，阿公做毋得食恁鹹。", pinyin: "coiˇ biongˇ shauˊ deuˋ rham, a+ gungˋ zoˇ m ded shidˋ anˊ ham."}
+  - n: 6
+    speaker: 阿公
+    en: "(pulling his collar up) The door's open. It's cold in here."
+    sx: {hanzi: "門開等，這位當寒。", pinyin: "munˇ koiˊ denˋ, iaˋ vi dongˊ honˇ."}
+    hl: {hanzi: "門開等，這位當冷。", pinyin: "mun koiˋ denˊ, liaˊ vui+ dongˋ langˋ."}
+  - n: 7
+    speaker: 阿婆
+    en: "You're a layer short! Your thick jacket went home with Lucie."
+    sx: {hanzi: "你著少一領衫！你个燒暖衫分 Lucie 著轉去了。", pinyin: "nˇ zogˋ seuˋ idˋ liangˊ samˊ! nˇ ge seuˊ nonˊ samˊ bunˊ Lucie zogˋ zonˋ hi leˊ."}
+    hl: {hanzi: "你著少一領衫！你个燒暖衫分 Lucie 著轉去了。", pinyin: "ngi zhog shauˊ rhid liangˋ samˋ! ngi gaiˇ shauˋ nonˋ samˋ bunˋ Lucie zhog zhonˊ hiˇ leˋ."}
+    check: true
+  - n: 8
+    speaker: Sam
+    en: "Sorry, Grandpa…"
+    sx: {hanzi: "阿公，敗勢……", pinyin: "aˊ gungˊ, paiˇ se …"}
+    hl: {hanzi: "阿公，敗勢……", pinyin: "a+ gungˋ, pai+ sheˇ …"}
+  - n: 9
+    speaker: 阿公
+    en: "Never mind. Once I've eaten I'll be warm."
+    sx: {hanzi: "無要緊。食飽就燒暖了。", pinyin: "moˇ ieu ginˋ. siid bauˋ qiu seuˊ nonˊ leˊ."}
+    hl: {hanzi: "無要緊。食飽就燒暖了。", pinyin: "moˇ rhauˇ ginˊ. shidˋ bauˊ ciu+ shauˋ nonˋ leˋ."}
+  - n: 10
+    speaker: 阿明
+    en: "(half an hour later, to the waiter) One more bowl of rice! (to the table) Sam's paying, so I'm having another bowl!"
+    sx: {hanzi: "飯加一碗！……Sam 請，𠊎愛食加一碗添！", pinyin: "fan gaˊ idˋ vonˋ! … Sam qiangˋ, ngaiˇ oi siid gaˊ idˋ vonˋ tiamˊ!"}
+    hl: {hanzi: "飯加一碗！……Sam 請，𠊎愛食加一碗添！", pinyin: "pon+ gaˋ rhid vonˊ! … Sam ciangˊ, ngai oiˇ shidˋ gaˋ rhid vonˊ tiamˋ!"}
+  - n: 11
+    speaker: 阿婆
+    en: "That's your third! You'll be too full to eat any more."
+    sx: {hanzi: "你食三碗了！等下食毋落。", pinyin: "nˇ siid samˊ vonˋ leˊ! denˋ ha siid mˇ log."}
+    hl: {hanzi: "你食三碗了！等下食毋落。", pinyin: "ngi shidˋ samˋ vonˊ leˋ! denˊ ha+ shidˋ m logˋ."}
+  - n: 12
+    speaker: Sam
+    en: "(at the end, to the waiter) The bill, please."
+    sx: {hanzi: "頭家，算數。", pinyin: "teuˇ gaˊ, son sii."}
+    hl: {hanzi: "頭家，算數。", pinyin: "teu gaˋ, sonˇ siiˇ."}
+    check: true
+  - n: 13
+    speaker: 服務生
+    en: "It's been paid. The lady paid a moment ago."
+    sx: {hanzi: "算過了。該隻阿婆頭先算忒了。", pinyin: "son go leˊ. ge zagˋ aˊ poˇ teuˇ xienˊ son tedˋ leˊ."}
+    hl: {hanzi: "算過了。該隻阿婆頭先算忒了。", pinyin: "sonˇ goˇ leˋ. gai zhag a+ po teu senˋ sonˇ ted leˋ."}
+  - n: 14
+    speaker: Sam
+    en: "Grandma! We agreed I was paying!"
+    sx: {hanzi: "阿婆！講好係𠊎請个！", pinyin: "aˊ poˇ! gongˋ hoˋ he ngaiˇ qiangˋ ge!"}
+    hl: {hanzi: "阿婆！講好係𠊎請个！", pinyin: "a+ po! gongˊ hoˊ heˇ ngai ciangˊ gaiˇ!"}
+  - n: 15
+    speaker: 阿婆
+    en: "Next time."
+    sx: {hanzi: "下二擺。", pinyin: "ha ngi baiˋ."}
+    hl: {hanzi: "下二擺。", pinyin: "ha+ ngi+ baiˊ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      𠊎請 "I'm treating, it's on me": 請 (lesson 16, "invite") alone. 菜單項个菜盡量點 "order as much as you like from the
+      menu" is almost word for word an official example sentence: the formula of every host. 點 "order (a dish)".
+  - ref: 2
+    topic: grammar
+    text: >
+      三四盤 "three or four dishes": two numbers side by side are "about", as in Mandarin. 盤 "plate" (lesson 27) counts
+      the dishes.
+  - ref: 5
+    topic: grammar
+    text: >
+      放少兜鹽 "put in less salt": 少兜 "a bit less" goes after the verb, before the thing, exactly like 加: 加兜鹽 "a bit
+      more salt". The official example: 這盤菜放少兜鹽就毋會恁鹹 "put less salt in this dish and it won't be so salty".
+  - ref: 7
+    topic: grammar
+    text: >
+      著少一領衫 "wearing one layer too few": verb + 少 + amount says you did too little of it; verb + 加 + amount (line
+      10) says do more. Both words sit between the verb and the number. The 加 form is well attested (著加一領衫添 "put
+      on one more layer"); the 少 form of this exact line is marked for checking.
+  - ref: 9
+    topic: vocab
+    text: >
+      敗勢 paiˇ se "sorry, embarrassed" (line 8) and 無要緊 moˇ ieu ginˋ "never mind, it doesn't matter": the everyday
+      apology and its answer.
+  - ref: 10
+    topic: grammar
+    text: >
+      食加一碗添 "eat one more bowl": 加 + amount after the verb, and 添 tiamˊ "more, in addition" at the very end. 添 is a
+      Hakka favourite: 睡加一下添 "sleep a little longer", 等加一下添 "wait a bit more". 飯加一碗 "one more bowl of rice",
+      the waiter's version, puts the food first.
+  - ref: 11
+    topic: grammar
+    text: >
+      食毋落 "can't eat any more (it won't go down)": 落 log "down", with 毋 between verb and ending. 等下 "in a moment".
+  - ref: 13
+    topic: culture
+    text: >
+      算數 son sii "settle the bill"; 算過了 "it's settled". Grandma paying behind the guest's back is a classic of
+      Taiwanese restaurants, and the 下二擺 "next time" that follows never comes. A saying from the official examples:
+      講著食，大家就擠等來；講著算數，大家就閃開開 "talk about eating and everyone crowds in; talk about the bill and
+      everyone scatters".
+
+new_words:
+  - {hanzi: 菜單, pinyin: "coi danˊ", en: "menu", hl: {hanzi: 菜單, pinyin: "coiˇ danˋ"}}
+  - {hanzi: 盡量, pinyin: "qin liong", en: "as much as you can, freely", hl: {hanzi: 盡量, pinyin: "cin+ liong+"}}
+  - {hanzi: 服務生, pinyin: "fug vu senˊ", en: "waiter, waitress", hl: {hanzi: 服務生, pinyin: "fugˋ muˇ senˋ"}}
+  - {hanzi: 餐廳, pinyin: "conˊ tangˊ", en: "restaurant", hl: {hanzi: 餐廳, pinyin: "conˋ tangˋ"}}
+  - {hanzi: 敗勢, pinyin: "paiˇ se", en: "sorry; embarrassed", hl: {hanzi: 敗勢, pinyin: "pai+ sheˇ"}}
+  - {hanzi: 無要緊, pinyin: "moˇ ieu ginˋ", en: "never mind, it doesn't matter", hl: {hanzi: 無要緊, pinyin: "moˇ rhauˇ ginˊ"}}
+  - {hanzi: 添, pinyin: "tiamˊ", en: "(at the end) more, in addition", hl: {hanzi: 添, pinyin: "tiamˋ"}}
+  - {hanzi: 食毋落, pinyin: "siid mˇ log", en: "can't eat any more", hl: {hanzi: 食毋落, pinyin: "shidˋ m logˋ"}}
+  - {hanzi: 算數, pinyin: "son sii", en: "settle the bill", hl: {hanzi: 算數, pinyin: "sonˇ siiˇ"}}
+  - {hanzi: 失禮, pinyin: "siidˋ liˊ", en: "excuse me; rude", hl: {hanzi: 失禮, pinyin: "shid liˋ"}}
+  - {hanzi: 停, pinyin: "tinˇ", en: "stop", hl: {hanzi: 停, pinyin: "tin"}}
+  - {hanzi: 有名, pinyin: "iuˊ miangˇ", en: "famous", hl: {hanzi: 有名, pinyin: "rhiuˋ miang"}}
+  - {hanzi: 間, pinyin: "gienˊ", en: "(classifier for buildings, shops, rooms)", hl: {hanzi: 間, pinyin: "gienˋ"}}
+  - {hanzi: 開, pinyin: "koiˊ", en: "open", hl: {hanzi: 開, pinyin: "koiˋ"}}
+  - {hanzi: 門, pinyin: "munˇ", en: "door", hl: {hanzi: 門, pinyin: "mun"}}
+  - {hanzi: 碗公, pinyin: "vonˋ gungˊ", en: "big bowl", hl: {hanzi: 碗公, pinyin: "vonˊ gungˋ"}}
+  - {hanzi: 筷仔, pinyin: "kuai eˋ", en: "chopsticks", hl: {hanzi: 箸, pinyin: "chu+"}}
+  - {hanzi: 雙, pinyin: "sungˊ", en: "pair", hl: {hanzi: 雙, pinyin: "sungˋ"}}
+  - {hanzi: 圓桌, pinyin: "ienˇ zogˋ", en: "round table", hl: {hanzi: 圓桌, pinyin: "rhan zog"}}
+
+exercises:
+  translate:
+    - en: "Excuse me, is there a round table?"
+      sx: {hanzi: "失禮，有圓桌無？", pinyin: "siidˋ liˊ, iuˊ ienˇ zogˋ moˇ?"}
+      hl: {hanzi: "失禮，有圓桌無？", pinyin: "shid liˋ, rhiuˋ rhan zog mo?"}
+    - en: "This restaurant's 客家小炒 is famous."
+      sx: {hanzi: "這間餐廳个客家小炒當有名。", pinyin: "iaˋ gienˊ conˊ tangˊ ge hagˋ gaˊ seuˋ cauˋ dongˊ iuˊ miangˇ."}
+      hl: {hanzi: "這間餐廳个客家小炒當有名。", pinyin: "liaˊ gienˋ conˋ tangˋ gaiˇ hag gaˋ siauˊ chauˊ dongˋ rhiuˋ miang."}
+    - en: "Waiter, could we have the menu? What's the name of this dish?"
+      sx: {hanzi: "服務生，菜單分𠊎兜。這盤菜喊做麼个名？", pinyin: "fug vu senˊ, coi danˊ bunˊ ngaiˇ deuˊ. iaˋ panˇ coi ham zo maˋ ge miangˇ?"}
+      hl: {hanzi: "服務生，菜單分𠊎兜。這盤菜喊做麼个名？", pinyin: "fugˋ muˇ senˋ, coiˇ danˋ bunˋ ngai deuˋ. liaˊ pan coiˇ hamˇ zoˇ maˊ gaiˇ miang?"}
+    - en: "Wait a bit longer; the soup isn't ready yet."
+      sx: {hanzi: "等加一下添，湯吂好。", pinyin: "denˋ gaˊ idˋ ha tiamˊ, tongˊ mangˇ hoˋ."}
+      hl: {hanzi: "等加一下添，湯吂好。", pinyin: "denˊ gaˋ rhid ha+ tiamˋ, tongˋ mang hoˊ."}
+    - en: "Stop eating! You can't eat any more."
+      sx: {hanzi: "停，莫食了！你食毋落了。", pinyin: "tinˇ, mog siid leˊ! nˇ siid mˇ log leˊ."}
+      hl: {hanzi: "停，莫食了！你食毋落了。", pinyin: "tin, mogˋ shidˋ leˋ! ngi shidˋ m logˋ leˋ."}
+    - en: "Put on one more layer, it's cold outside."
+      sx: {hanzi: "著加一領衫添，外背當寒。", pinyin: "zogˋ gaˊ idˋ liangˊ samˊ tiamˊ, ngoi boi dongˊ honˇ."}
+      hl: {hanzi: "著加一領衫添，外背當冷。", pinyin: "zhog gaˋ rhid liangˋ samˋ tiamˋ, ngo+ boiˇ dongˋ langˋ."}
+    - en: "Pass me a pair of chopsticks."
+      sx: {hanzi: "拿一雙筷仔分𠊎。", pinyin: "naˊ idˋ sungˊ kuai eˋ bunˊ ngaiˇ."}
+      hl: {hanzi: "拿一雙箸分𠊎。", pinyin: "naˋ rhid sungˋ chu+ bunˋ ngai."}
+  fill:
+    - en: "One more bowl!"
+      sx: {hanzi: "食加一碗___！", pinyin: "siid gaˊ idˋ vonˋ ___!", answer_hanzi: "添", answer: "tiamˊ"}
+      hl: {hanzi: "食加一碗___！", pinyin: "shidˋ gaˋ rhid vonˊ ___!", answer_hanzi: "添", answer: "tiamˋ"}
+    - en: "Sorry! — Never mind."
+      sx: {hanzi: "___！——無要緊。", pinyin: "___! — moˇ ieu ginˋ.", answer_hanzi: "敗勢", answer: "paiˇ se"}
+      hl: {hanzi: "___！——無要緊。", pinyin: "___! — moˇ rhauˇ ginˊ.", answer_hanzi: "敗勢", answer: "pai+ sheˇ"}
+    - en: "Less salt, please."
+      sx: {hanzi: "放___鹽。", pinyin: "biong ___ iamˇ.", answer_hanzi: "少兜", answer: "seuˋ deuˊ"}
+      hl: {hanzi: "放___鹽。", pinyin: "biongˇ ___ rham.", answer_hanzi: "少兜", answer: "shauˊ deuˋ"}
+
+audio: []

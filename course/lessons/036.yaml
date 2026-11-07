@@ -75,7 +75,7 @@ dialogue:
     speaker: 阿婆
     en: "This one is savoury. Use it to wash down rice and vegetables. …There, the guests are here!"
     sx: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來了！", pinyin: "iaˋ vonˋ he hamˇ ge, zo dedˋ bongˋ fan siid. … hoˋ, nginˇ hagˋ loiˇ leˊ!"}
-    hl: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來了！", pinyin: "liaˊ vonˊ heˇ ham gaiˇ, zoˇ ded bongˊ fan+ shidˋ. … hoˊ, ngin hag loi leˋ!"}
+    hl: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來了！", pinyin: "liaˊ vonˊ heˇ ham gaiˇ, zoˇ ded bongˊ pon+ shidˋ. … hoˊ, ngin hag loi leˋ!"}
     check: true
 
 notes:
