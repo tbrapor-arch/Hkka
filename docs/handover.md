@@ -1,4 +1,4 @@
-# Handover (updated 2026-11-07, 13:30)
+# Handover (updated 2026-11-07, 23:30)
 
 Where the Hakka course stands, what was decided, and what to do next. Read with `PROJECT_NOTES.md` and
 `docs/sources.md`.
@@ -72,9 +72,20 @@ official lists, `check: true` on unattested patterns). Details and the vocabular
 - Database: tone keys for all six accents (Hailu agrees with MOE 96.7%), `entry.cognate` / `entry.hsk`, English glosses
   for 2,119 of the 3,030 core words.
 
+## Lessons written (2026-11-07)
+Lessons **1–42** (six batches of seven, reviews at 7, 14, …, 42), `make lint` clean, 632 words taught.
+- Each batch has a brief in `course/batches/NN.md` (the week, scenes, threads, voices, load) and was reviewed by a
+  fresh agent against the database; the pitfalls found go into `course/batches/checklist.md`, which every batch follows.
+- Story so far: Sam (French, as in Tsheh-tû) with the 劉 family in Miaoli from late November; the 伯公 opera week;
+  Lucie's week (she speaks only French); the end of the year (擂茶, Grandpa's 山歌, the restaurant, the doctor, the tea
+  field, A-in's 相親). Open threads: Grandma's song (promised in 37/42), A-in and Sam (teased in 32 and 41).
+- `check: true` marks lines whose pattern has no official example; collect them for a native speaker.
+- Lint accepts the particle 啊 (only attested inside longer entries) through `PARTICLES` in `tools/lint.py`.
+
 ## Next, in order
-1. **Write lesson 1**, then 2–6, with `make lint` clean; check the Hailu lines word by word. Start from `make coverage`
-   (the next words: 𠊎, 个, 佢, 無, 當, 係, 愛…).
+1. **Batch 7, lessons 43–49** (from `course/syllabus.yaml`): write `course/batches/07.md` first, keep the calendar
+   (January; Lunar New Year falls in February), follow `checklist.md`, then a fresh review. Word count runs a little
+   under target (17–20 against 21): lengthen dialogues rather than padding exercises.
 2. **Audio** (plan: `docs/audio.md`). The six 115年度 zips are being uploaded as release `audio-115` on Hkka-private;
    then link word and example ids to files and convert for the app. In parallel, test the Taiwanese Hakka TTS engines
    (VoxHakka, the 客委會 API) on official example sentences against their real recordings.
