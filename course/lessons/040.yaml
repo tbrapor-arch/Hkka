@@ -1,0 +1,168 @@
+id: 40
+title:
+  en: "In the tea field"
+  sx: {hanzi: "摎阿公𢯭手", pinyin: "lauˊ aˊ gungˊ ten suˋ"}
+  hl: {hanzi: "摎阿公𢯭手", pinyin: "lauˋ a+ gungˋ tenˇ shiuˊ"}
+review: false
+setting: >-
+  Sunday, a bright cold morning. Grandpa is over his fever and wants to prune the tea bushes before the new year, so
+  that they put out new shoots in spring. His thick jacket is in France.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿公
+    en: "Sam, can you give me a hand? The tea needs pruning."
+    sx: {hanzi: "Sam，你做得摎𠊎𢯭手無？茶愛剪了。", pinyin: "Sam, nˇ zo dedˋ lauˊ ngaiˇ ten suˋ moˇ? caˇ oi jienˋ leˊ."}
+    hl: {hanzi: "Sam，你做得摎𠊎𢯭手無？茶愛剪了。", pinyin: "Sam, ngi zoˇ ded lauˋ ngai tenˇ shiuˊ mo? ca oiˇ zienˊ leˋ."}
+  - n: 2
+    speaker: Sam
+    en: "Of course! I'll come with you."
+    sx: {hanzi: "做得！𠊎跈你去。", pinyin: "zo dedˋ! ngaiˇ tenˇ nˇ hi."}
+    hl: {hanzi: "做得！𠊎跈你去。", pinyin: "zoˇ ded! ngai ten ngi hiˇ."}
+  - n: 3
+    speaker: 阿公
+    en: "(in the tea field, showing him) Look: with the shears, like this."
+    sx: {hanzi: "你看，用茶剪仔，恁樣剪。", pinyin: "nˇ kon, iung caˇ jienˋ eˋ, anˋ ngiongˇ jienˋ."}
+    hl: {hanzi: "你看，用茶剪仔，恁樣剪。", pinyin: "ngi konˇ, rhung+ ca zienˊ er, an ngiong zienˊ."}
+  - n: 4
+    speaker: Sam
+    en: "How much do I cut?"
+    sx: {hanzi: "愛剪幾多？", pinyin: "oi jienˋ giˋ doˊ?"}
+    hl: {hanzi: "愛剪幾多？", pinyin: "oiˇ zienˊ giˊ doˋ?"}
+  - n: 5
+    speaker: 阿公
+    en: "Cut it down to this height. Don't cut it too short."
+    sx: {hanzi: "剪到恁高就好。莫剪忒短。", pinyin: "jienˋ do anˋ goˊ qiu hoˋ. mog jienˋ tedˋ donˋ."}
+    hl: {hanzi: "剪到恁高就好。莫剪忒短。", pinyin: "zienˊ doˇ anˊ goˋ ciu+ hoˊ. mogˋ zienˊ ted donˊ."}
+  - n: 6
+    speaker: 阿公
+    en: "Follow behind me: I'll do that side, you do this side."
+    sx: {hanzi: "你跈等𠊎。𠊎剪該片，你剪這片。", pinyin: "nˇ tenˇ denˋ ngaiˇ. ngaiˇ jienˋ ge pienˋ, nˇ jienˋ iaˋ pienˋ."}
+    hl: {hanzi: "你跈等𠊎。𠊎剪該片，你剪這片。", pinyin: "ngi ten nenˊ ngai. ngai zienˊ gai pienˊ, ngi zienˊ liaˊ pienˊ."}
+  - n: 7
+    speaker: Sam
+    en: "(an hour later, straightening up) Grandpa, my back hurts…"
+    sx: {hanzi: "阿公，𠊎个腰骨痛……", pinyin: "aˊ gungˊ, ngaiˇ ge ieuˊ gudˋ tung …"}
+    hl: {hanzi: "阿公，𠊎个腰骨痛……", pinyin: "a+ gungˋ, ngai gaiˇ rhauˋ gud tungˇ …"}
+  - n: 8
+    speaker: 阿公
+    en: "A young man with backache? I'm seventy-eight, and I do this every day."
+    sx: {hanzi: "後生人腰骨痛？𠊎七十八歲，逐日做。", pinyin: "heu sangˊ nginˇ ieuˊ gudˋ tung? ngaiˇ qidˋ siib badˋ se, dagˋ ngidˋ zo."}
+    hl: {hanzi: "後生人腰骨痛？𠊎七十八歲，逐日做。", pinyin: "heu+ sangˋ ngin rhauˋ gud tungˇ? ngai cid shibˋ bad soiˇ, dag ngid zoˇ."}
+  - n: 9
+    speaker: 阿婆
+    en: "(arriving with a flask of tea and a jacket) Grandpa, I've brought you a jacket. Put on another layer!"
+    sx: {hanzi: "阿公，𠊎摎你拿衫來了。著加一領添！", pinyin: "aˊ gungˊ, ngaiˇ lauˊ nˇ naˊ samˊ loiˇ leˊ. zogˋ gaˊ idˋ liangˊ tiamˊ!"}
+    hl: {hanzi: "阿公，𠊎摎你拿衫來了。著加一領添！", pinyin: "a+ gungˋ, ngai lauˋ ngi naˋ samˋ loi leˋ. zhog gaˋ rhid liangˋ tiamˋ!"}
+  - n: 10
+    speaker: 阿公
+    en: "No need. Working keeps me warm."
+    sx: {hanzi: "毋使。做事就燒暖了。", pinyin: "mˇ siiˋ. zo se qiu seuˊ nonˊ leˊ."}
+    hl: {hanzi: "毋使。做事就燒暖了。", pinyin: "m siiˊ. zoˇ she+ ciu+ shauˋ nonˋ leˋ."}
+  - n: 11
+    speaker: 阿婆
+    en: "Last week you had a fever, and now you won't wear a jacket! And put on your hat: the sun's strong."
+    sx: {hanzi: "上禮拜發燒，這下又毋著衫！笠嫲乜戴起來，日頭恁烈。", pinyin: "song liˊ bai fadˋ seuˊ, iaˋ ha iu mˇ zogˋ samˊ! libˋ maˇ me dai hiˋ loiˇ, ngidˋ teuˇ anˋ ladˋ."}
+    hl: {hanzi: "上禮拜發燒，這下又毋著衫！笠嫲乜戴起來，日頭恁烈。", pinyin: "shong+ liˋ baiˇ fad shauˋ, liaˊ ha+ rhiu+ m zhog samˋ! lib ma meˇ daiˇ hiˊ loi, ngid teu anˊ lad."}
+  - n: 12
+    speaker: Sam
+    en: "Grandma, if we all do it together, we'll be done sooner."
+    sx: {hanzi: "阿婆，𫣆兜共下做，較遽做好。", pinyin: "aˊ poˇ, enˊ deuˊ kiung ha zo, ka giagˋ zo hoˋ."}
+    hl: {hanzi: "阿婆，𫣆兜共下做，較遽做好。", pinyin: "a+ po, enˋ deuˋ kiung+ ha+ zoˇ, haˇ giag zoˇ hoˊ."}
+  - n: 13
+    speaker: 阿婆
+    en: "(rolling up her sleeves) All right, I'll lend a hand too."
+    sx: {hanzi: "好，𠊎乜來𢯭手。", pinyin: "hoˋ, ngaiˇ me loiˇ ten suˋ."}
+    hl: {hanzi: "好，𠊎乜來𢯭手。", pinyin: "hoˊ, ngai meˇ loi tenˇ shiuˊ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      摎 lauˊ (lesson 10) + person + verb "(do something) for someone": 摎𠊎𢯭手 "give me a hand", 摎你拿衫來 (line 9) "brought a jacket
+      for you". In Hailu, 摎 does all the work of Sixian 同 ("and", "with", "to"); Sixian uses both
+      words, and the official examples have 摎𠊎拿一張報紙 "get me a newspaper", 摎𠊎買罐墨水轉來 "buy me a pot of ink".
+      𢯭手 (lesson 16) "help, lend a hand".
+  - ref: 2
+    topic: grammar
+    text: >
+      跈 tenˇ "follow, go along with": 𠊎跈你去 "I'll come with you"; 跈等 (line 6) "following, behind": 你跈等𠊎 "stay behind
+      me". 跈等 also means "straight after, at once": 跈等就來 "coming right away". Not to be confused with 𢯭 ten in
+      𢯭手, which has a different tone.
+  - ref: 3
+    topic: culture
+    text: >
+      剪茶 "cut the tea": 頭擺人用手摘茶，這下人用茶剪仔剪茶 "in the old days people picked tea by hand; now they cut it with
+      tea shears" (official example). In winter the bushes are pruned back so they flush again in spring.
+  - ref: 5
+    topic: grammar
+    text: >
+      剪到恁高 "cut it to this height" (with a hand showing how high): 恁 + adjective with a gesture is "this…". 莫剪忒短
+      "don't cut it too short": 忒 + adjective "too" (lesson 27). 高 goˊ "tall, high", 短 donˋ "short", 長 congˇ "long",
+      矮 aiˋ "short, low".
+  - ref: 6
+    topic: vocab
+    text: >
+      該片 "that side", 這片 "this side": 片 pienˋ "side", Hakka's word for 邊. 腰骨 ieuˊ gudˋ (line 7) "the small of the
+      back": everyone who has worked a tea field knows the word.
+  - ref: 12
+    topic: grammar
+    text: >
+      共下做 "do it together": 共下 (lesson 18) before the verb. 較遽做好 "get it done sooner": 較 + adjective before the
+      verb, 做好 "done" (lesson 33).
+
+new_words:
+  - {hanzi: 剪, pinyin: "jienˋ", en: "cut (with shears), prune", hl: {hanzi: 剪, pinyin: "zienˊ"}}
+  - {hanzi: 跈, pinyin: "tenˇ", en: "follow, go with", hl: {hanzi: 跈, pinyin: "ten"}}
+  - {hanzi: 跈等, pinyin: "tenˇ denˋ", en: "following; straight after", hl: {hanzi: 跈等, pinyin: "ten denˊ"}}
+  - {hanzi: 高, pinyin: "goˊ", en: "tall, high", hl: {hanzi: 高, pinyin: "goˋ"}}
+  - {hanzi: 短, pinyin: "donˋ", en: "short", hl: {hanzi: 短, pinyin: "donˊ"}}
+  - {hanzi: 長, pinyin: "congˇ", en: "long", hl: {hanzi: 長, pinyin: "chong"}}
+  - {hanzi: 矮, pinyin: "aiˋ", en: "short (in height), low", hl: {hanzi: 矮, pinyin: "aiˊ"}}
+  - {hanzi: 片, pinyin: "pienˋ", en: "side", hl: {hanzi: 片, pinyin: "pienˊ"}}
+  - {hanzi: 腰骨, pinyin: "ieuˊ gudˋ", en: "small of the back", hl: {hanzi: 腰骨, pinyin: "rhauˋ gud"}}
+  - {hanzi: 笠嫲, pinyin: "libˋ maˇ", en: "conical hat", hl: {hanzi: 笠嫲, pinyin: "lib ma"}}
+  - {hanzi: 烈, pinyin: "ladˋ", en: "fierce, strong (of sun, fire)", hl: {hanzi: 烈, pinyin: "lad"}}
+  - {hanzi: 報紙, pinyin: "bo ziiˋ", en: "newspaper", hl: {hanzi: 報紙, pinyin: "boˇ zhiˊ"}}
+  - {hanzi: 草, pinyin: "coˋ", en: "grass, weeds", hl: {hanzi: 草, pinyin: "coˊ"}}
+  - {hanzi: 好勢, pinyin: "hoˋ se", en: "properly done, neat", hl: {hanzi: 好勢, pinyin: "hoˊ sheˇ"}}
+  - {hanzi: 鋸, pinyin: "gi", en: "saw", hl: {hanzi: 鋸, pinyin: "giˇ"}}
+  - {hanzi: 樹椏, pinyin: "su aˊ", en: "branch", hl: {hanzi: 樹椏, pinyin: "shu+ aˋ"}}
+  - {hanzi: 葉, pinyin: "iab", en: "leaf", hl: {hanzi: 葉, pinyin: "rhabˋ"}}
+  - {hanzi: 新, pinyin: "xinˊ", en: "new", hl: {hanzi: 新, pinyin: "sinˋ"}}
+  - {hanzi: 直, pinyin: "ciid", en: "straight", hl: {hanzi: 直, pinyin: "chidˋ"}}
+
+exercises:
+  translate:
+    - en: "Please get me a newspaper."
+      sx: {hanzi: "拜託，摎𠊎拿一張報紙。", pinyin: "bai togˋ, lauˊ ngaiˇ naˊ idˋ zongˊ bo ziiˋ."}
+      hl: {hanzi: "拜託，摎𠊎拿一張報紙。", pinyin: "baiˇ tog, lauˋ ngai naˋ rhid zhongˋ boˇ zhiˊ."}
+    - en: "A-min is tall; Grandma is short."
+      sx: {hanzi: "阿明當高，阿婆當矮。", pinyin: "aˊ minˇ dongˊ goˊ, aˊ poˇ dongˊ aiˋ."}
+      hl: {hanzi: "阿明當高，阿婆當矮。", pinyin: "a+ min dongˋ goˋ, a+ po dongˋ aiˊ."}
+    - en: "The grass in the tea field is long: cut it short."
+      sx: {hanzi: "茶園个草當長，剪短來。", pinyin: "caˇ ienˇ ge coˋ dongˊ congˇ, jienˋ donˋ loiˇ."}
+      hl: {hanzi: "茶園个草當長，剪短來。", pinyin: "ca rhan gaiˇ coˊ dongˋ chong, zienˊ donˊ loi."}
+      check: true
+    - en: "Grandpa cuts very neatly, and the rows are dead straight."
+      sx: {hanzi: "阿公剪到當好勢，當直。", pinyin: "aˊ gungˊ jienˋ do dongˊ hoˋ se, dongˊ ciid."}
+      hl: {hanzi: "阿公剪到當好勢，當直。", pinyin: "a+ gungˋ zienˊ doˇ dongˋ hoˊ sheˇ, dongˋ chidˋ."}
+    - en: "The branches are too long: cut them with the saw."
+      sx: {hanzi: "樹椏忒長，用鋸剪短。", pinyin: "su aˊ tedˋ congˇ, iung gi jienˋ donˋ."}
+      hl: {hanzi: "樹椏忒長，用鋸剪短。", pinyin: "shu+ aˋ ted chong, rhung+ giˇ zienˊ donˊ."}
+    - en: "Cut off the old leaves, and keep the new ones."
+      sx: {hanzi: "老葉剪忒，新葉留等。", pinyin: "loˋ iab jienˋ tedˋ, xinˊ iab liuˇ denˋ."}
+      hl: {hanzi: "老葉剪忒，新葉留等。", pinyin: "loˊ rhabˋ zienˊ ted, sinˋ rhabˋ liu nenˊ."}
+  fill:
+    - en: "Can you give me a hand?"
+      sx: {hanzi: "你做得摎𠊎___無？", pinyin: "nˇ zo dedˋ lauˊ ngaiˇ ___ moˇ?", answer_hanzi: "𢯭手", answer: "ten suˋ"}
+      hl: {hanzi: "你做得摎𠊎___無？", pinyin: "ngi zoˇ ded lauˋ ngai ___ mo?", answer_hanzi: "𢯭手", answer: "tenˇ shiuˊ"}
+    - en: "I'll come with you."
+      sx: {hanzi: "𠊎___你去。", pinyin: "ngaiˇ ___ nˇ hi.", answer_hanzi: "跈", answer: "tenˇ"}
+      hl: {hanzi: "𠊎___你去。", pinyin: "ngai ___ ngi hiˇ.", answer_hanzi: "跈", answer: "ten"}
+    - en: "Let's do it together."
+      sx: {hanzi: "𫣆兜___做。", pinyin: "enˊ deuˊ ___ zo.", answer_hanzi: "共下", answer: "kiung ha"}
+      hl: {hanzi: "𫣆兜___做。", pinyin: "enˋ deuˋ ___ zoˇ.", answer_hanzi: "共下", answer: "kiung+ ha+"}
+
+audio: []
