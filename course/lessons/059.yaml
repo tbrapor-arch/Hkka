@@ -1,0 +1,218 @@
+id: 59
+title:
+  en: "The lunch box"
+  sx: {hanzi: "肚飢？肚屎枵！", pinyin: "duˋ giˊ? duˋ siiˋ iauˊ!"}
+  hl: {hanzi: "肚飢？肚屎枵！", pinyin: "duˊ giˋ? duˊ shiˊ iauˋ!"}
+review: false
+setting: >-
+  Wednesday 3 March, twelve o'clock. 阿蘭嫂 and 阿傑 bring lunch boxes from home and eat at the long table by the
+  door. Sam, who has been eating at 阿舅's every day, has been told that today the family is out.
+names: [阿蘭嫂, 阿傑]
+
+dialogue:
+  - n: 1
+    speaker: 阿蘭嫂
+    en: "Lunchtime! Sam, where's your lunch box?"
+    sx: {hanzi: "食晝了！Sam，你个便當呢？", pinyin: "siid zu leˊ! Sam, nˇ ge pien dongˊ neˇ?"}
+    hl: {hanzi: "食晝了！Sam，你个便當呢？", pinyin: "shidˋ zhiuˇ leˋ! Sam, ngi gaiˇ pien+ dongˋ neˇ?"}
+  - n: 2
+    speaker: Sam
+    en: "I didn't bring one… and I'm starving."
+    sx: {hanzi: "𠊎無帶……毋過𠊎當肚飢。", pinyin: "ngaiˇ moˇ dai … mˇ go ngaiˇ dongˊ duˋ giˊ."}
+    hl: {hanzi: "𠊎無帶……毋過𠊎當肚飢。", pinyin: "ngai mo daiˇ … m goˇ ngai dongˋ duˊ giˋ."}
+    check: true
+  - n: 3
+    speaker: 阿傑
+    en: "肚飢? Here we say 肚屎枵."
+    sx: {hanzi: "肚飢？𫣆兜講肚屎枵。", pinyin: "duˋ giˊ? enˊ deuˊ gongˋ duˋ siiˋ iauˊ."}
+    hl: {hanzi: "肚飢？𫣆兜講肚屎枵。", pinyin: "duˊ giˋ? enˋ deuˋ gongˊ duˊ shiˊ iauˋ."}
+  - n: 4
+    speaker: Sam
+    en: "肚屎枵… that's hard to say! 肚飢 is easier."
+    sx: {hanzi: "肚屎枵……當毋好講！肚飢較好講。", pinyin: "duˋ siiˋ iauˊ … dongˊ mˇ hoˋ gongˋ! duˋ giˊ ka hoˋ gongˋ."}
+    hl: {hanzi: "肚屎枵……當毋好講！肚飢較好講。", pinyin: "duˊ shiˊ iauˋ … dongˋ m hoˊ gongˊ! duˊ giˋ haˇ hoˊ gongˊ."}
+  - n: 5
+    speaker: 阿蘭嫂
+    en: "Don't worry, I've brought plenty. Here, sit down, and start eating first."
+    sx: {hanzi: "毋使驚，𠊎帶當多。來，坐等來，先食等來。", pinyin: "mˇ siiˋ giangˊ, ngaiˇ dai dongˊ doˊ. loiˇ, coˊ denˋ loiˇ, xienˊ siid denˋ loiˇ."}
+    hl: {hanzi: "毋使驚，𠊎帶當多。來，坐等來，先食等來。", pinyin: "m siiˊ giangˋ, ngai daiˇ dongˋ doˋ. loi, coˋ denˊ loi, senˋ shidˋ denˊ loi."}
+  - n: 6
+    speaker: Sam
+    en: "Thank y… I mean, 承蒙你!"
+    sx: {hanzi: "恁……毋係，承蒙你！", pinyin: "anˋ … mˇ he, siinˇ mungˇ nˇ!"}
+    hl: {hanzi: "恁……毋係，承蒙你！", pinyin: "anˊ … m heˇ, shin mung ngi!"}
+  - n: 7
+    speaker: 阿蘭嫂
+    en: "Dried-radish omelette, braised pork, aubergine, bitter melon, and rice. Come and help us eat it up."
+    sx: {hanzi: "菜脯卵、爌肉、吊菜仔、苦瓜，還有飯。你來𢯭食。", pinyin: "coi puˋ lonˋ, kong ngiugˋ, diau coi eˋ, fuˋ guaˊ, hanˇ iuˊ fan. nˇ loiˇ ten siid."}
+    hl: {hanzi: "菜脯卵、爌肉、吊菜仔、苦瓜，還有飯。你來𢯭食。", pinyin: "coiˇ buˊ lonˊ, kongˇ ngiug, diauˇ coiˇ er, fuˊ guaˋ, han rhiuˋ pon+. ngi loi tenˇ shidˋ."}
+    check: true
+  - n: 8
+    speaker: Sam
+    en: "(shovelling it in) Mm, the rice (fan) is really good!"
+    sx: {hanzi: "這飯當好食！", pinyin: "iaˋ fan dongˊ hoˋ siid!"}
+    hl: {hanzi: "這飯當好食！", pinyin: "liaˊ fan dongˋ hoˊ shidˋ!"}
+    check: true
+  - n: 9
+    speaker: 阿傑
+    en: "Don't shovel it in so fast… And you say fan; we say pon."
+    sx: {hanzi: "莫划恁遽……你講 fan，𫣆兜講 pon。", pinyin: "mog paˇ anˋ giagˋ … nˇ gongˋ fan, enˊ deuˊ gongˋ pon."}
+    hl: {hanzi: "莫划恁遽……你講 fan，𫣆兜講 pon。", pinyin: "mogˋ pa anˊ giag … ngi gongˊ fan, enˋ deuˋ gongˊ pon."}
+    check: true
+  - n: 10
+    speaker: Sam
+    en: "Pon? How come it's so different?"
+    sx: {hanzi: "Pon？仰會差恁多？", pinyin: "Pon? ngiongˋ voi caˊ anˋ doˊ?"}
+    hl: {hanzi: "Pon？仰會差恁多？", pinyin: "Pon? ngiongˊ voi+ caˋ anˊ doˋ?"}
+  - n: 11
+    speaker: 阿蘭嫂
+    en: "Sixian and Hailu: the same characters, read differently."
+    sx: {hanzi: "四縣、海陸，字共樣，讀法無共樣。", pinyin: "xi ien, hoiˋ liugˋ, sii kiung iong, tug fabˋ moˇ kiung iong."}
+    hl: {hanzi: "四縣、海陸，字共樣，讀法無共樣。", pinyin: "siˇ rhanˇ, hoiˊ liugˋ, sii+ kiung+ rhong+, tugˋ fab mo kiung+ rhong+."}
+  - n: 12
+    speaker: 阿傑
+    en: "The radish omelette is 阿蘭嫂's speciality. Tasty, and easy to make."
+    sx: {hanzi: "菜脯卵係阿蘭嫂个拿手好菜。好食，乜好做。", pinyin: "coi puˋ lonˋ he aˊ lanˇ soˋ ge naˊ suˋ hoˋ coi. hoˋ siid, me hoˋ zo."}
+    hl: {hanzi: "菜脯卵係阿蘭嫂个拿手好菜。好食，乜好做。", pinyin: "coiˇ buˊ lonˊ heˇ a+ lan soˊ gaiˇ naˋ shiuˊ hoˊ coiˇ. hoˊ shidˋ, meˇ hoˊ zoˇ."}
+  - n: 13
+    speaker: 阿蘭嫂
+    en: "Easy to make? You make it, then, and we'll see!"
+    sx: {hanzi: "好做？你做看啊！", pinyin: "hoˋ zo? nˇ zo kon a!"}
+    hl: {hanzi: "好做？你做看啊！", pinyin: "hoˊ zoˇ? ngi zoˇ konˇ a+!"}
+  - n: 14
+    speaker: 阿傑
+    en: "…I'll stick to eating."
+    sx: {hanzi: "……𠊎食就好。", pinyin: "… ngaiˇ siid qiu hoˋ."}
+    hl: {hanzi: "……𠊎食就好。", pinyin: "… ngai shidˋ ciu+ hoˊ."}
+  - n: 15
+    speaker: 阿蘭嫂
+    en: "Sam, how does it taste?"
+    sx: {hanzi: "Sam，味緒仰般？", pinyin: "Sam, mi xi ngiongˋ banˊ?"}
+    hl: {hanzi: "Sam，味緒仰般？", pinyin: "Sam, mui+ siˇ ngiongˊ banˋ?"}
+  - n: 16
+    speaker: Sam
+    en: "Delicious! Only now I'm thirsty."
+    sx: {hanzi: "當好食！就係有兜仔嘴燥。", pinyin: "dongˊ hoˋ siid! qiu he iuˊ deuˊ eˋ zoi zauˊ."}
+    hl: {hanzi: "當好食！就係有兜仔嘴燥。", pinyin: "dongˋ hoˊ shidˋ! ciu+ heˇ rhiuˋ deuˋ er zhoiˇ zauˋ."}
+  - n: 17
+    speaker: 阿傑
+    en: "Here, have some soy milk."
+    sx: {hanzi: "來，食豆乳。", pinyin: "loiˇ, siid teu nen."}
+    hl: {hanzi: "來，食豆乳。", pinyin: "loi, shidˋ teu+ nenˇ."}
+
+notes:
+  - ref: 2
+    topic: hailu
+    text: >
+      Third trip-up, checked in the word lists: "hungry" is Sixian 肚飢 duˋ giˊ (lesson 27), Hailu 肚屎枵 duˊ shiˊ iauˋ,
+      literally "belly-guts-empty". Sam's line is written with his own Miaoli word in both columns, because that is
+      what he says: the Hailu column of line 2 is marked for checking for that reason.
+  - ref: 4
+    topic: grammar
+    text: >
+      好 hoˋ + verb "easy to": 較好講 "easier to say", 好做 (line 12) "easy to make", 當毋好講 "really hard to say". It is
+      the 好 of 好食 "tasty" and 好聽 "nice to listen to" (lesson 37), not 好 hau "like doing" (lesson 11). The official
+      examples: 特多龍个布仔好洗又遽燥 "polyester is easy to wash and dries fast", 這條路當毋好行 "this road is hard going".
+  - ref: 5
+    topic: grammar
+    text: >
+      坐等來 "sit down (and stay sitting)", 先食等來 "start eating first (without waiting)": V等來 from lesson 52, the host's
+      formula. 𠊎帶當多 "I've brought plenty".
+  - ref: 6
+    topic: hailu
+    text: >
+      Sam is learning: he starts the Miaoli 恁仔細 and switches to the 竹東 承蒙你 (lessons 53, 56) in mid-word.
+  - ref: 7
+    topic: culture
+    text: >
+      菜脯卵 "omelette with dried radish": in the official examples, 雞嫲生个雞卵分阿婆收轉去煎菜脯卵 "Grandma took the hen's
+      eggs home to fry a radish omelette". 爌肉 "braised pork belly" is 阿姆个拿手好菜 "Mum's speciality" in another example.
+      吊菜仔 "aubergine" (a Hakka word), 苦瓜 "bitter melon". 你來𢯭食 "come and help eat it up": 𢯭 (𢯭手, lesson 16) +
+      食, a word in the lists, and the polite way to share a lunch box. The line is marked because the menu is ours.
+  - ref: 9
+    topic: hailu
+    text: >
+      Fourth trip-up: 飯 is fan in Sixian, pon+ in Hailu (lesson 3 gave both). 划飯 paˇ fan "shovel rice into your mouth
+      (bowl at your lips)" is in the word lists; 莫划恁遽 "don't shovel so fast". The character is the same; the word in
+      the mouth is not. Most of the differences between the two accents are like this one: tones (lesson 0's Sixian
+      → Hailu tone code), a few initials (Sixian z, c, s against Hailu zh, ch, sh in many words), and a short list of
+      words that differ outright (肚飢 / 肚屎枵, 天光日 / 韶早, 恁仔細 / 承蒙). Line 8's Hailu column keeps Sam's fan.
+  - ref: 15
+    topic: vocab
+    text: >
+      味緒 mi xi "taste, flavour": 味緒仰般？ "how does it taste?". 嘴燥 zoi zauˊ "thirsty", literally "mouth dry"
+      (燥, lesson 54). 豆乳 teu nen "soy milk": the soy-sauce 豆油 of lesson 17 is the other famous bean product.
+  - ref: 10
+    topic: grammar
+    text: >
+      仰會差恁多？ "how come it's so different?": 仰會 "how come" (lesson 9), 差 caˊ "differ, be different", 恁多 "so much".
+  - ref: 12
+    topic: vocab
+    text: >
+      拿手好菜 "speciality dish": 拿 + 手 "good at, one's forte", from the official example 該係阿姆个拿手好菜.
+
+new_words:
+  - {hanzi: 枵, pinyin: "iauˊ", en: "empty, hungry (Hailu 肚屎枵)", hl: {hanzi: 枵, pinyin: "iauˋ"}}
+  - {hanzi: 爌肉, pinyin: "kong ngiugˋ", en: "braised pork belly", hl: {hanzi: 爌肉, pinyin: "kongˇ ngiug"}}
+  - {hanzi: 吊菜仔, pinyin: "diau coi eˋ", en: "aubergine, eggplant", hl: {hanzi: 吊菜仔, pinyin: "diauˇ coiˇ er"}}
+  - {hanzi: 苦瓜, pinyin: "fuˋ guaˊ", en: "bitter melon", hl: {hanzi: 苦瓜, pinyin: "fuˊ guaˋ"}}
+  - {hanzi: 𢯭食, pinyin: "ten siid", en: "help eat (something) up", hl: {hanzi: 𢯭食, pinyin: "tenˇ shidˋ"}}
+  - {hanzi: 划飯, pinyin: "paˇ fan", en: "shovel rice in (with chopsticks)", hl: {hanzi: 划飯, pinyin: "paˋ pon+"}}
+  - {hanzi: 划, pinyin: "paˇ", en: "shovel (food) in", hl: {hanzi: 划, pinyin: "pa"}}
+  - {hanzi: 差, pinyin: "caˊ", en: "differ; be short of", hl: {hanzi: 差, pinyin: "caˋ"}}
+  - {hanzi: 味緒, pinyin: "mi xi", en: "taste, flavour", hl: {hanzi: 味緒, pinyin: "mui+ siˇ"}}
+  - {hanzi: 嘴燥, pinyin: "zoi zauˊ", en: "thirsty", hl: {hanzi: 嘴燥, pinyin: "zhoiˇ zauˋ"}}
+  - {hanzi: 豆乳, pinyin: "teu nen", en: "soy milk", hl: {hanzi: 豆乳, pinyin: "teu+ nenˇ"}}
+  - {hanzi: 青菜, pinyin: "qiangˊ coi", en: "green vegetables", hl: {hanzi: 青菜, pinyin: "ciangˋ coiˇ"}}
+  - {hanzi: 食物, pinyin: "siid vud", en: "food", hl: {hanzi: 食物, pinyin: "shidˋ vudˋ"}}
+  - {hanzi: 魚肉, pinyin: "ngˇ ngiugˋ", en: "fish (as food)", hl: {hanzi: 魚肉, pinyin: "ng ngiug"}}
+  - {hanzi: 餓, pinyin: "ngo", en: "starving (strong)", hl: {hanzi: 餓, pinyin: "ngo+"}}
+  - {hanzi: 酸醋, pinyin: "sonˊ cii", en: "vinegar", hl: {hanzi: 酸醋, pinyin: "sonˋ siiˇ"}}
+  - {hanzi: 添飯, pinyin: "tiamˊ fan", en: "serve (a bowl of) rice", hl: {hanzi: 添飯, pinyin: "tiamˋ pon+"}}
+  - {hanzi: 食夜, pinyin: "siid ia", en: "have dinner", hl: {hanzi: 食夜, pinyin: "shidˋ rha+"}}
+  - {hanzi: 布, pinyin: "bu", en: "cloth", hl: {hanzi: 布, pinyin: "buˇ"}}
+  - {hanzi: 雞嫲, pinyin: "gieˊ maˇ", en: "hen", hl: {hanzi: 雞嫲, pinyin: "gaiˋ ma"}}
+  - {hanzi: 筍, pinyin: "sunˋ", en: "bamboo shoot", hl: {hanzi: 筍, pinyin: "sunˊ"}}
+  - {hanzi: 臭, pinyin: "cu", en: "smelly; (of food) gone off", hl: {hanzi: 臭, pinyin: "chiuˇ"}}
+
+exercises:
+  translate:
+    - en: "This cloth is easy to wash and dries fast."
+      sx: {hanzi: "這種布好洗又遽燥。", pinyin: "iaˋ zungˋ bu hoˋ seˋ iu giagˋ zauˊ."}
+      hl: {hanzi: "這種布好洗又遽燥。", pinyin: "liaˊ zhungˊ buˇ hoˊ seˊ rhiu+ giag zauˋ."}
+    - en: "It has just rained, and this road is really hard going."
+      sx: {hanzi: "正落過水，這條路當毋好行。", pinyin: "zang log go suiˋ, iaˋ tiauˇ lu dongˊ mˇ hoˋ hangˇ."}
+      hl: {hanzi: "正落過水，這條路當毋好行。", pinyin: "zhangˇ logˋ goˇ shuiˊ, liaˊ tiau lu+ dongˋ m hoˊ hang."}
+    - en: "Grandma took the hen's eggs home to fry a radish omelette."
+      sx: {hanzi: "雞嫲生个雞卵分阿婆收轉去煎菜脯卵了。", pinyin: "gieˊ maˇ sangˊ ge gieˊ lonˋ bunˊ aˊ poˇ suˊ zonˋ hi jienˊ coi puˋ lonˋ leˊ."}
+      hl: {hanzi: "雞嫲生个雞卵分阿婆收轉去煎菜脯卵了。", pinyin: "gaiˋ ma sangˋ gaiˇ gaiˋ lonˊ bunˋ a+ po shiuˋ zhonˊ hiˇ zienˋ coiˇ buˊ lonˊ leˋ."}
+      source: kaga115
+    - en: "This soup is too bland; add a little salt. — Careful, don't make it too salty."
+      sx: {hanzi: "這碗湯忒淡，加兜仔鹽。——莫加忒多，會忒鹹。", pinyin: "iaˋ vonˋ tongˊ tedˋ tamˊ, gaˊ deuˊ eˋ iamˇ. — mog gaˊ tedˋ doˊ, voi tedˋ hamˇ."}
+      hl: {hanzi: "這碗湯忒淡，加兜仔鹽。——莫加忒多，會忒鹹。", pinyin: "liaˊ vonˊ tongˋ ted tamˋ, gaˋ deuˋ er rham. — mogˋ gaˋ ted doˋ, voi+ ted ham."}
+    - en: "Serve me some rice, I'm starving. — Don't shovel it in so fast!"
+      sx: {hanzi: "摎𠊎添飯，𠊎當餓。——莫划飯划恁遽！", pinyin: "lauˊ ngaiˇ tiamˊ fan, ngaiˇ dongˊ ngo. — mog paˇ fan paˇ anˋ giagˋ!"}
+      hl: {hanzi: "摎𠊎添飯，𠊎當餓。——莫划飯划恁遽！", pinyin: "lauˋ ngai tiamˋ pon+, ngai dongˋ ngo+. — mogˋ paˋ pon+ pa anˊ giag!"}
+      check: true
+    - en: "What's for dinner tonight? — Fish, green vegetables and bamboo shoots."
+      sx: {hanzi: "今暗晡食夜食麼个？——魚肉、青菜摎筍。", pinyin: "gimˊ am buˊ siid ia siid maˋ ge? — ngˇ ngiugˋ, qiangˊ coi lauˊ sunˋ."}
+      hl: {hanzi: "今暗晡食夜食麼个？——魚肉、青菜摎筍。", pinyin: "gimˋ amˇ buˋ shidˋ rha+ shidˋ maˊ gaiˇ? — ng ngiug, ciangˋ coiˇ lauˋ sunˊ."}
+    - en: "This food has gone off: it smells. Don't eat it."
+      sx: {hanzi: "這兜食物臭了，莫食。", pinyin: "iaˋ deuˊ siid vud cu leˊ, mog siid."}
+      hl: {hanzi: "這兜食物臭了，莫食。", pinyin: "liaˊ deuˋ shidˋ vudˋ chiuˇ leˋ, mogˋ shidˋ."}
+    - en: "Add a little vinegar to the bitter melon."
+      sx: {hanzi: "苦瓜加兜仔酸醋。", pinyin: "fuˋ guaˊ gaˊ deuˊ eˋ sonˊ cii."}
+      hl: {hanzi: "苦瓜加兜仔酸醋。", pinyin: "fuˊ guaˋ gaˋ deuˋ er sonˋ siiˇ."}
+      check: true
+  fill:
+    - en: "I'm hungry. (in Hailu)"
+      sx: {hanzi: "𠊎當___。", pinyin: "ngaiˇ dongˊ ___.", answer_hanzi: "肚屎枵", answer: "duˋ siiˋ iauˊ"}
+      hl: {hanzi: "𠊎當___。", pinyin: "ngai dongˋ ___.", answer_hanzi: "肚屎枵", answer: "duˊ shiˊ iauˋ"}
+    - en: "Sit down and start eating."
+      sx: {hanzi: "坐等來，先食___。", pinyin: "coˊ denˋ loiˇ, xienˊ siid ___.", answer_hanzi: "等來", answer: "denˋ loiˇ"}
+      hl: {hanzi: "坐等來，先食___。", pinyin: "coˋ denˊ loi, senˋ shidˋ ___.", answer_hanzi: "等來", answer: "denˊ loi"}
+    - en: "Easy to make."
+      sx: {hanzi: "___。", pinyin: "___.", answer_hanzi: "好做", answer: "hoˋ zo"}
+      hl: {hanzi: "___。", pinyin: "___.", answer_hanzi: "好做", answer: "hoˊ zoˇ"}
+
+audio: []
