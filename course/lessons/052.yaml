@@ -1,0 +1,190 @@
+id: 52
+title:
+  en: "New Year's Day"
+  sx: {hanzi: "坐等來！", pinyin: "coˊ denˋ loiˇ!"}
+  hl: {hanzi: "坐等來！", pinyin: "coˋ denˊ loi!"}
+review: false
+setting: >-
+  Saturday 6 February, 年初一, the first day of the year. Nobody sweeps today, so as not to sweep the luck away. At ten
+  o'clock the first visitors arrive: the neighbours 阿財伯 and 財伯姆, in new clothes, with a bag of tangerines.
+names: [阿財伯, 財伯姆, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "A-tsai! 財伯姆! Happy New Year!"
+    sx: {hanzi: "阿財伯、財伯姆！新年快樂！", pinyin: "aˊ coiˇ bagˋ, coiˇ bagˋ meˊ! xinˊ ngienˇ kuai log!"}
+    hl: {hanzi: "阿財伯、財伯姆！新年快樂！", pinyin: "a+ coi bag, coi bag meˋ! sinˋ ngien kuaiˇ logˋ!"}
+  - n: 2
+    speaker: 財伯姆
+    en: "Happy New Year, and may everything go as you wish!"
+    sx: {hanzi: "恭喜新年快樂，萬事如意！", pinyin: "giungˊ hiˋ xinˊ ngienˇ kuai log, van sii iˇ i!"}
+    hl: {hanzi: "恭喜新年快樂，萬事如意！", pinyin: "giungˋ hiˊ sinˋ ngien kuaiˇ logˋ, van+ sii+ rhi rhiˇ!"}
+  - n: 3
+    speaker: 阿婆
+    en: "Come in, come in! Sit yourselves down!"
+    sx: {hanzi: "入來，入來！坐等來！", pinyin: "ngib loiˇ, ngib loiˇ! coˊ denˋ loiˇ!"}
+    hl: {hanzi: "入來，入來！坐等來！", pinyin: "ngibˋ loi, ngibˋ loi! coˋ denˊ loi!"}
+    check: true
+  - n: 4
+    speaker: 阿財伯
+    en: "Going visiting at New Year empty-handed is bad manners. These tangerines are for you."
+    sx: {hanzi: "過年空手去拜年，當失禮。這兜柑仔分你兜。", pinyin: "go ngienˇ kungˊ suˋ hi bai ngienˇ, dongˊ siidˋ liˊ. iaˋ deuˊ gamˊ eˋ bunˊ nˇ deuˊ."}
+    hl: {hanzi: "過年空手去拜年，當失禮。這兜柑仔分你兜。", pinyin: "goˇ ngien kungˋ shiuˊ hiˇ baiˇ ngien, dongˋ shid liˋ. liaˊ deuˋ gamˋ er bunˋ ngi deuˋ."}
+  - n: 5
+    speaker: 阿婆
+    en: "You shouldn't have! Come, have some tea first, and help yourselves to sweets and melon seeds while you're at it."
+    sx: {hanzi: "恁客氣！來，先食茶，糖仔、瓜子先食等來。", pinyin: "anˋ hagˋ hi! loiˇ, xienˊ siid caˇ, tongˇ eˋ, guaˊ ziiˋ xienˊ siid denˋ loiˇ."}
+    hl: {hanzi: "恁客氣！來，先食茶，糖仔、瓜子先食等來。", pinyin: "anˊ hag hiˇ! loi, senˋ shidˋ ca, tong er, guaˋ ziiˊ senˋ shidˋ denˊ loi."}
+    check: true
+  - n: 6
+    speaker: 財伯姆
+    en: "Sam, your first New Year in Taiwan. Having fun?"
+    sx: {hanzi: "Sam，你頭擺在臺灣過年。好尞無？", pinyin: "Sam, nˇ teuˇ baiˋ coiˊ toiˇ vanˊ go ngienˇ. hoˋ liau moˇ?"}
+    hl: {hanzi: "Sam，你頭擺在臺灣過年。好尞無？", pinyin: "Sam, ngi teu baiˊ coiˋ toi van goˇ ngien. hoˊ liau+ mo?"}
+    check: true
+  - n: 7
+    speaker: Sam
+    en: "Great fun! Last night A-min was letting off firecrackers till the middle of the night."
+    sx: {hanzi: "當好尞！昨暗晡阿明放紙炮仔放到半夜。", pinyin: "dongˊ hoˋ liau! coˊ am buˊ aˊ minˇ biong ziiˋ pau eˋ biong do ban ia."}
+    hl: {hanzi: "當好尞！昨暗晡阿明放紙炮仔放到半夜。", pinyin: "dongˋ hoˊ liau+! coˋ amˇ buˋ a+ min biongˇ zhiˊ pauˇ er biongˇ doˇ banˇ rha+."}
+  - n: 8
+    speaker: 阿明
+    en: "Uncle A-tsai, prosperity to you!"
+    sx: {hanzi: "阿財伯，恭喜發財！", pinyin: "aˊ coiˇ bagˋ, giungˊ hiˋ fadˋ coiˇ!"}
+    hl: {hanzi: "阿財伯，恭喜發財！", pinyin: "a+ coi bag, giungˋ hiˊ fad coi!"}
+  - n: 9
+    speaker: 阿財伯
+    en: "(laughing, reaching into his pocket) The bigger you get, the better you get at asking for red envelopes!"
+    sx: {hanzi: "你這細人仔，緊大緊會討紅包！", pinyin: "nˇ iaˋ se nginˇ eˋ, ginˋ tai ginˋ voi toˋ fungˇ bauˊ!"}
+    hl: {hanzi: "你這細人仔，緊大緊會討紅包！", pinyin: "ngi liaˊ seˇ ngin er, ginˊ tai+ ginˊ voi+ toˊ fung bauˋ!"}
+  - n: 10
+    speaker: 財伯姆
+    en: "And where's A-in? …How old is A-in this year?"
+    sx: {hanzi: "阿英呢？……阿英今年幾多歲了？", pinyin: "aˊ inˊ neˇ? … aˊ inˊ gimˊ ngienˇ giˋ doˊ se leˊ?"}
+    hl: {hanzi: "阿英呢？……阿英今年幾多歲了？", pinyin: "a+ rhinˋ neˇ? … a+ rhinˋ gimˋ ngien giˊ doˋ soiˇ leˋ?"}
+  - n: 11
+    speaker: 阿英
+    en: "(appearing from the kitchen, with a very bright smile) Happy New Year, 財伯姆!"
+    sx: {hanzi: "財伯姆，新年快樂！", pinyin: "coiˇ bagˋ meˊ, xinˊ ngienˇ kuai log!"}
+    hl: {hanzi: "財伯姆，新年快樂！", pinyin: "coi bag meˋ, sinˋ ngien kuaiˇ logˋ!"}
+  - n: 12
+    speaker: 財伯姆
+    en: "Happy New Year! This year you must…"
+    sx: {hanzi: "新年快樂！今年你愛……", pinyin: "xinˊ ngienˇ kuai log! gimˊ ngienˇ nˇ oi …"}
+    hl: {hanzi: "新年快樂！今年你愛……", pinyin: "sinˋ ngien kuaiˇ logˋ! gimˋ ngien ngi oiˇ …"}
+  - n: 13
+    speaker: 阿婆
+    en: "(cutting in) Tea! Have some tea! This year Grandma doesn't interfere."
+    sx: {hanzi: "食茶！食茶！今年阿婆毋管了。", pinyin: "siid caˇ! siid caˇ! gimˊ ngienˇ aˊ poˇ mˇ gonˋ leˊ."}
+    hl: {hanzi: "食茶！食茶！今年阿婆毋管了。", pinyin: "shidˋ ca! shidˋ ca! gimˋ ngien a+ po m gonˊ leˋ."}
+  - n: 14
+    speaker: 阿財伯
+    en: "(finishing his tea) Right, we've other houses to visit. Relatives and friends are expecting us."
+    sx: {hanzi: "好，𠊎兜愛去別家拜年了。親戚朋友在該等。", pinyin: "hoˋ, ngaiˇ deuˊ oi hi ped gaˊ bai ngienˇ leˊ. qinˊ qidˋ penˇ iuˊ du ge denˋ."}
+    hl: {hanzi: "好，𠊎兜愛去別家拜年了。親戚朋友在該等。", pinyin: "hoˊ, ngai deuˋ oiˇ hiˇ pedˋ gaˋ baiˇ ngien leˋ. cinˋ cid pen rhiuˋ diˇ gai denˊ."}
+
+notes:
+  - ref: 2
+    topic: culture
+    text: >
+      The New Year greeting, from an official example: 正月初一過新年，大家見面就講：恭喜新年快樂，萬事如意 "on the first day
+      of the first month, when people meet they say: happy New Year, may all go as you wish". 恭喜發財 (line 8) is the
+      cheekier one, with an eye on the red envelope. 正月 zangˊ ngied "the first lunar month".
+  - ref: 3
+    topic: grammar
+    text: >
+      坐等來 "sit yourselves down (and stay)": verb + 等來 asks someone to do something and settle into it. The official
+      examples have 共下坐等來看 "sit down together and watch", 省等來用 "use it sparingly", 扛等來 "carry it along".
+      先食等來 (line 5) "have some while you wait, help yourselves first". 入來 "come in".
+  - ref: 4
+    topic: culture
+    text: >
+      An official example word for word: 過年空手去拜年，當失禮 "visiting at New Year empty-handed is rude". 拜年 "pay a New
+      Year visit"; 空手 "empty-handed". Tangerines, 柑 gamˊ, sound like gold, 金 gimˊ, near enough.
+  - ref: 5
+    topic: vocab
+    text: >
+      恁客氣！ "you're too kind, you shouldn't have!": what you say on receiving a gift. 客氣 hagˋ hi "polite, standing on
+      ceremony".
+  - ref: 6
+    topic: grammar
+    text: >
+      頭擺 "the first time" here, not "in the old days" (lesson 34): the context decides. 好尞 "fun": 尞 liau "have fun, go
+      out, visit" (lesson 18).
+  - ref: 9
+    topic: grammar
+    text: >
+      緊大緊會討紅包 "the bigger he gets, the better he gets at asking for red envelopes": 緊 X 緊 Y from lesson 51.
+  - ref: 13
+    topic: culture
+    text: >
+      Grandma has changed sides since lesson 41: 阿婆毋管了 "Grandma doesn't interfere", and she shields A-in from the
+      neighbour's question. 別家 (line 14) "other households".
+
+new_words:
+  - {hanzi: 萬事如意, pinyin: "van sii iˇ i", en: "may all go as you wish", hl: {hanzi: 萬事如意, pinyin: "van+ sii+ rhi rhiˇ"}}
+  - {hanzi: 正月, pinyin: "zangˊ ngied", en: "first month (lunar)", hl: {hanzi: 正月, pinyin: "zhangˋ ngiedˋ"}}
+  - {hanzi: 入來, pinyin: "ngib loiˇ", en: "come in", hl: {hanzi: 入來, pinyin: "ngibˋ loi"}}
+  - {hanzi: 拜年, pinyin: "bai ngienˇ", en: "pay a New Year visit", hl: {hanzi: 拜年, pinyin: "baiˇ ngien"}}
+  - {hanzi: 空手, pinyin: "kungˊ suˋ", en: "empty-handed", hl: {hanzi: 空手, pinyin: "kungˋ shiuˊ"}}
+  - {hanzi: 客氣, pinyin: "hagˋ hi", en: "polite; stand on ceremony", hl: {hanzi: 客氣, pinyin: "hag hiˇ"}}
+  - {hanzi: 好尞, pinyin: "hoˋ liau", en: "fun, enjoyable", hl: {hanzi: 好尞, pinyin: "hoˊ liau+"}}
+  - {hanzi: 半夜, pinyin: "ban ia", en: "the middle of the night", hl: {hanzi: 半夜, pinyin: "banˇ rha+"}}
+  - {hanzi: 臺灣, pinyin: "toiˇ vanˊ", en: "Taiwan", hl: {hanzi: 臺灣, pinyin: "toi van"}}
+  - {hanzi: 見面, pinyin: "gien mien", en: "meet, see each other", hl: {hanzi: 見面, pinyin: "gienˇ mienˇ"}}
+  - {hanzi: 行春, pinyin: "hangˇ cunˊ", en: "New Year outing, go visiting in spring", hl: {hanzi: 行春, pinyin: "hang chunˋ"}}
+  - {hanzi: 年頭, pinyin: "ngienˇ teuˇ", en: "the beginning of the year", hl: {hanzi: 年頭, pinyin: "ngien teu"}}
+  - {hanzi: 別, pinyin: "ped", en: "other", hl: {hanzi: 別, pinyin: "pedˋ"}}
+  - {hanzi: 坐尞, pinyin: "coˊ liau", en: "drop in for a chat, visit", hl: {hanzi: 坐尞, pinyin: "coˋ liau+"}}
+  - {hanzi: 紅色, pinyin: "fungˇ sedˋ", en: "red", hl: {hanzi: 紅色, pinyin: "fung sed"}}
+  - {hanzi: 瓜子, pinyin: "guaˊ ziiˋ", en: "melon seeds", hl: {hanzi: 瓜子, pinyin: "guaˋ ziiˊ"}}
+  - {hanzi: 招呼, pinyin: "zeuˊ fuˊ", en: "look after (guests), greet", hl: {hanzi: 招呼, pinyin: "zhauˋ fuˋ"}}
+  - {hanzi: 衰, pinyin: "soiˊ", en: "unlucky", hl: {hanzi: 衰, pinyin: "soiˋ"}}
+  - {hanzi: 金, pinyin: "gimˊ", en: "gold", hl: {hanzi: 金, pinyin: "gimˋ"}}
+  - {hanzi: 柑, pinyin: "gamˊ", en: "tangerine, mandarin", hl: {hanzi: 柑, pinyin: "gamˋ"}}
+  - {hanzi: 運氣, pinyin: "iun hi", en: "luck", hl: {hanzi: 運氣, pinyin: "rhun+ hiˇ"}}
+  - {hanzi: 好運, pinyin: "hoˋ iun", en: "good luck", hl: {hanzi: 好運, pinyin: "hoˊ rhun+"}}
+
+exercises:
+  translate:
+    - en: "On New Year's Day relatives and friends come to visit."
+      sx: {hanzi: "年初一，親戚朋友來拜年。", pinyin: "ngienˇ cuˊ idˋ, qinˊ qidˋ penˇ iuˊ loiˇ bai ngienˇ."}
+      hl: {hanzi: "年初一，親戚朋友來拜年。", pinyin: "ngien cuˋ rhid, cinˋ cid pen rhiuˋ loi baiˇ ngien."}
+      source: kaga115
+    - en: "At the beginning of the year, when people meet, they say 恭喜發財."
+      sx: {hanzi: "年頭大家見面，都會講恭喜發財。", pinyin: "ngienˇ teuˇ tai gaˊ gien mien, du voi gongˋ giungˊ hiˋ fadˋ coiˇ."}
+      hl: {hanzi: "年頭大家見面，都會講恭喜發財。", pinyin: "ngien teu tai+ gaˋ gienˇ mienˇ, du+ voi+ gongˊ giungˋ hiˊ fad coi."}
+    - en: "Sit down together and watch the TV."
+      sx: {hanzi: "共下坐等來看電視。", pinyin: "kiung ha coˊ denˋ loiˇ kon tien sii."}
+      hl: {hanzi: "共下坐等來看電視。", pinyin: "kiung+ ha+ coˋ denˊ loi konˇ tien+ shi+."}
+    - en: "Everyone is in new clothes for the New Year. Good luck this year!"
+      sx: {hanzi: "過年大家都著新衫。今年好運！", pinyin: "go ngienˇ tai gaˊ du zogˋ xinˊ samˊ. gimˊ ngienˇ hoˋ iun!"}
+      hl: {hanzi: "過年大家都著新衫。今年好運！", pinyin: "goˇ ngien tai+ gaˋ du+ zhog sinˋ samˋ. gimˋ ngien hoˊ rhun+!"}
+      check: true
+    - en: "In the first month we go out on New Year visits; your luck will be good."
+      sx: {hanzi: "正月去行春，運氣會當好。", pinyin: "zangˊ ngied hi hangˇ cunˊ, iun hi voi dongˊ hoˋ."}
+      hl: {hanzi: "正月去行春，運氣會當好。", pinyin: "zhangˋ ngiedˋ hiˇ hang chunˋ, rhun+ hiˇ voi+ dongˋ hoˊ."}
+      check: true
+    - en: "柑 sounds like 金."
+      sx: {hanzi: "柑聽起來像金。", pinyin: "gamˊ tangˊ hiˋ loiˇ qiong gimˊ."}
+      hl: {hanzi: "柑聽起來像金。", pinyin: "gamˋ tangˋ hiˊ loi ciongˇ gimˋ."}
+    - en: "Mrs Liu looks after the guests; nobody sweeps today, or it's bad luck."
+      sx: {hanzi: "阿姆招呼人客。今晡日無人掃屋，無就會衰。", pinyin: "aˊ meˊ zeuˊ fuˊ nginˇ hagˋ. gimˊ buˊ ngidˋ moˇ nginˇ so vugˋ, moˇ qiu voi soiˊ."}
+      hl: {hanzi: "阿姆招呼人客。今晡日無人掃屋，無就會衰。", pinyin: "a+ meˋ zhauˋ fuˋ ngin hag. gimˋ buˋ ngid mo ngin soˇ vug, mo ciu+ voi+ soiˋ."}
+      check: true
+    - en: "The red envelopes are red; the neighbours drop in for a chat."
+      sx: {hanzi: "紅包係紅色个；鄰舍來坐尞。", pinyin: "fungˇ bauˊ he fungˇ sedˋ ge; linˇ sa loiˇ coˊ liau."}
+      hl: {hanzi: "紅包係紅色个；鄰舍來坐尞。", pinyin: "fung bauˋ heˇ fung sed gaiˇ; lin shaˇ loi coˋ liau+."}
+  fill:
+    - en: "Come in and sit down!"
+      sx: {hanzi: "入來，坐___！", pinyin: "ngib loiˇ, coˊ ___!", answer_hanzi: "等來", answer: "denˋ loiˇ"}
+      hl: {hanzi: "入來，坐___！", pinyin: "ngibˋ loi, coˋ ___!", answer_hanzi: "等來", answer: "denˊ loi"}
+    - en: "You shouldn't have! (receiving a gift)"
+      sx: {hanzi: "恁___！", pinyin: "anˋ ___!", answer_hanzi: "客氣", answer: "hagˋ hi"}
+      hl: {hanzi: "恁___！", pinyin: "anˊ ___!", answer_hanzi: "客氣", answer: "hag hiˇ"}
+    - en: "Happy New Year, may all go as you wish!"
+      sx: {hanzi: "新年快樂，___！", pinyin: "xinˊ ngienˇ kuai log, ___!", answer_hanzi: "萬事如意", answer: "van sii iˇ i"}
+      hl: {hanzi: "新年快樂，___！", pinyin: "sinˋ ngien kuaiˇ logˋ, ___!", answer_hanzi: "萬事如意", answer: "van+ sii+ rhi rhiˇ"}
+
+audio: []
