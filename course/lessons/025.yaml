@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: Sam
     en: "Twelve hundred… Could it be a little cheaper?"
-    sx: {hanzi: "一千二……做得較便宜兜仔無？", pinyin: "idˋ qienˊ ngi … zo dedˋ ka pienˇ ngiˇ deuˊ eˋ moˇ?"}
-    hl: {hanzi: "一千二……做得較便宜兜仔無？", pinyin: "rhid cienˋ ngi+ … zoˇ ded haˇ pien ngi deuˋ er mo?"}
+    sx: {hanzi: "一千二……做得算較便宜兜仔無？", pinyin: "idˋ qienˊ ngi … zo dedˋ son ka pienˇ ngiˇ deuˊ eˋ moˇ?"}
+    hl: {hanzi: "一千二……做得算較便宜兜仔無？", pinyin: "rhid cienˋ ngi+ … zoˇ ded sonˇ haˇ pien ngi deuˋ er mo?"}
   - n: 6
     speaker: 頭家娘
     en: "For seven nights, I'll charge you a thousand. Breakfast included."
@@ -48,8 +48,8 @@ dialogue:
   - n: 8
     speaker: 頭家娘
     en: "Of course. It's upstairs, nice and bright. But no smoking in the room."
-    sx: {hanzi: "做得。間房在樓頂，當光。間房肚做毋得食煙。", pinyin: "zo dedˋ. gienˊ fongˇ coiˊ leuˇ dangˋ, dongˊ gongˊ. gienˊ fongˇ duˋ zomˇ dedˋ siid ienˊ."}
-    hl: {hanzi: "做得。間房在樓頂，當光。間房肚做毋得食煙。", pinyin: "zoˇ ded. gienˋ fong coiˋ leu dangˊ, dongˋ gongˋ. gienˋ fong duˊ zoˇ m ded shidˋ rhanˋ."}
+    sx: {hanzi: "做得。間房在樓頂，當光。間房肚做毋得食菸。", pinyin: "zo dedˋ. gienˊ fongˇ coiˊ leuˇ dangˋ, dongˊ gongˊ. gienˊ fongˇ duˋ zomˇ dedˋ siid ienˊ."}
+    hl: {hanzi: "做得。間房在樓頂，當光。間房肚做毋得食菸。", pinyin: "zoˇ ded. gienˋ fong coiˋ leu dangˊ, dongˋ gongˋ. gienˋ fong duˊ zoˇ m ded shidˋ rhanˋ."}
   - n: 9
     speaker: 阿婆
     en: "(that evening, at dinner) Your sister's coming? Why on earth rent a room?"
@@ -90,7 +90,7 @@ notes:
     topic: grammar
     text: >
       做得 zo dedˋ "may, can, it's possible": 做得…無？ "could…?, may I…?", the polite question; 做得 "yes, of course".
-      Its negative is 做毋得 "mustn't, can't", with 毋 in the middle, and said as two syllables, zomˇ dedˋ (line 8).
+      Its negative is 做毋得 "mustn't, can't", with 毋 in the middle: zo mˇ dedˋ, often run together as zomˇ dedˋ (line 8).
       較便宜兜仔 "a bit cheaper": the 較…兜仔 of lesson 19.
   - ref: 6
     topic: vocab
@@ -100,7 +100,7 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      做毋得食煙 "no smoking": 食 covers smoking too, as lesson 3 promised. 樓頂 leuˇ dangˋ "upstairs" (頂 "top"); 光
+      做毋得食菸 "no smoking": 食 covers smoking too, as lesson 3 promised. 樓頂 leuˇ dangˋ "upstairs" (頂 "top"); 光
       gongˊ "bright, light".
   - ref: 10
     topic: culture
@@ -128,7 +128,7 @@ new_words:
   - {hanzi: 頂, pinyin: "dangˋ", en: "top", hl: {hanzi: 頂, pinyin: "dangˊ"}}
   - {hanzi: 光, pinyin: "gongˊ", en: "bright, light", hl: {hanzi: 光, pinyin: "gongˋ"}}
   - {hanzi: 做毋得, pinyin: "zomˇ dedˋ", en: "mustn't, can't", hl: {hanzi: 做毋得, pinyin: "zoˇ m ded"}}
-  - {hanzi: 煙, pinyin: "ienˊ", en: "smoke; cigarette", hl: {hanzi: 煙, pinyin: "rhanˋ"}}
+  - {hanzi: 菸, pinyin: "ienˊ", en: "tobacco, cigarette", hl: {hanzi: 菸, pinyin: "rhanˋ"}}
   - {hanzi: 租, pinyin: "zuˊ", en: "rent", hl: {hanzi: 租, pinyin: "zuˋ"}}
   - {hanzi: 鎖匙, pinyin: "soˋ siiˋ", en: "key", hl: {hanzi: 鎖匙, pinyin: "soˊ shi"}}
   - {hanzi: 洗身, pinyin: "seˋ siinˊ", en: "bathe, have a shower", hl: {hanzi: 洗身, pinyin: "seˊ shinˋ"}}
@@ -141,8 +141,8 @@ exercises:
       sx: {hanzi: "做得洗身無？——做得。", pinyin: "zo dedˋ seˋ siinˊ moˇ? — zo dedˋ."}
       hl: {hanzi: "做得洗身無？——做得。", pinyin: "zoˇ ded seˊ shinˋ mo? — zoˇ ded."}
     - en: "You mustn't smoke here."
-      sx: {hanzi: "這位做毋得食煙。", pinyin: "iaˋ vi zomˇ dedˋ siid ienˊ."}
-      hl: {hanzi: "這位做毋得食煙。", pinyin: "liaˊ vui+ zoˇ m ded shidˋ rhanˋ."}
+      sx: {hanzi: "這位做毋得食菸。", pinyin: "iaˋ vi zomˇ dedˋ siid ienˊ."}
+      hl: {hanzi: "這位做毋得食菸。", pinyin: "liaˊ vui+ zoˇ m ded shidˋ rhanˋ."}
     - en: "Where is the room key?"
       sx: {hanzi: "間房个鎖匙在哪位？", pinyin: "gienˊ fongˇ ge soˋ siiˋ coiˊ nai vi?"}
       hl: {hanzi: "間房个鎖匙在哪位？", pinyin: "gienˋ fong gaiˇ soˊ shi coiˋ nai+ vui+?"}

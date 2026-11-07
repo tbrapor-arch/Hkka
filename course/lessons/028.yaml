@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: Sam
     en: "Yes! A-min loved it."
-    sx: {hanzi: "做得！阿明盡好食。", pinyin: "zo dedˋ! aˊ minˇ qin hau siid."}
-    hl: {hanzi: "做得！阿明最好食。", pinyin: "zoˇ ded! a+ min zuiˇ hauˇ shidˋ."}
+    sx: {hanzi: "做得！阿明講當好食。", pinyin: "zo dedˋ! aˊ minˇ gongˋ dongˊ hoˋ siid."}
+    hl: {hanzi: "做得！阿明講當好食。", pinyin: "zoˇ ded! a+ min gongˊ dongˋ hoˊ shidˋ."}
   - n: 6
     speaker: 阿婆
     en: "(Grandpa coughs) Have you taken your medicine? Three times a day, after meals!"
@@ -94,13 +94,12 @@ notes:
   - ref: 11
     topic: culture
     text: >
-      Grandpa says one word in this lesson, and it is the only word that matters. Cover the English and tell the
+      Grandpa says very little, and his last word is the one that matters. Cover the English and tell the
       story of the week (伯公, the opera, the pharmacy, the guesthouse, A-yu, the fried rice) in your own Hakka.
   - ref: 0
     topic: hailu
     text: >
-      Hailu this week: 冷著 for 寒著, 最惜 for 盡惜, 鼻空 for 鼻公, 肚屎枵 for 肚飢, and 做毋得 said in three syllables
-      (zoˇ m ded) where Sixian runs it into two (zomˇ dedˋ).
+      Hailu this week: 冷著 for 寒著, 最惜 for 盡惜, 鼻空 for 鼻公, 肚屎枵 for 肚飢.
 
 new_words: []
 
@@ -115,7 +114,7 @@ exercises:
     - en: "Grandma burns incense at the shrine and wishes everyone safe and well."
       sx: {hanzi: "阿婆在伯公下燒香，希望大家都平安。", pinyin: "aˊ poˇ coiˊ bagˋ gungˊ haˊ seuˊ hiongˊ, hiˊ mong tai gaˊ du pinˇ onˊ."}
       hl: {hanzi: "阿婆在伯公下燒香，希望大家都平安。", pinyin: "a+ po coiˋ bag gungˋ haˋ shauˋ hiongˋ, hiˋ mong+ tai+ gaˋ du+ pin onˋ."}
-    - en: "That opera singer sings really well; everyone loves her."
+    - en: "That opera singer sings really well; everyone loves listening to her."
       sx: {hanzi: "該隻細妹仔當會唱，大家都盡好聽。", pinyin: "ge zagˋ se moi eˋ dongˊ voi cong, tai gaˊ du qin hau tangˊ."}
       hl: {hanzi: "該隻細妹仔當會唱，大家都最好聽。", pinyin: "gai zhag seˇ moiˇ er dongˋ voi+ chongˇ, tai+ gaˋ du+ zuiˇ hauˇ tangˋ."}
     - en: "Give the sweets to Grandpa; the medicine is too bitter."

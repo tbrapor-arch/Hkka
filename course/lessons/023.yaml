@@ -24,11 +24,11 @@ dialogue:
   - n: 3
     speaker: 阿財伯
     en: "(to Grandma, impressed) This foreigner's a good talker!"
-    sx: {hanzi: "這外國人當會講！", pinyin: "iaˋ ngoi guedˋ nginˇ dongˊ voi gongˋ!"}
-    hl: {hanzi: "這外國人當會講！", pinyin: "liaˊ ngoi+ gued ngin dongˋ voi+ gongˊ!"}
+    sx: {hanzi: "這隻外國人當會講！", pinyin: "iaˋ zagˋ ngoi guedˋ nginˇ dongˊ voi gongˋ!"}
+    hl: {hanzi: "這隻外國人當會講！", pinyin: "liaˊ zhag ngoi+ gued ngin dongˋ voi+ gongˊ!"}
   - n: 4
     speaker: 阿公
-    en: "(eyes on the stage) That girl sings well."
+    en: "(that afternoon, eyes on the stage) That girl sings well."
     sx: {hanzi: "該隻細妹仔當會唱。", pinyin: "ge zagˋ se moi eˋ dongˊ voi cong."}
     hl: {hanzi: "該隻細妹仔當會唱。", pinyin: "gai zhag seˇ moiˇ er dongˋ voi+ chongˇ."}
   - n: 5
@@ -88,8 +88,9 @@ notes:
     topic: culture
     text: >
       採茶戲 caiˋ caˇ hi, "tea-picking opera", is Hakka opera: it grew out of the songs sung on the tea slopes, the
-      山歌 of lesson 20, into stage plays with a clown, a girl and a young man. The 收冬戲 hires a troupe for several
-      days; mornings are for the gods (a short ritual play), afternoons and evenings for people.
+      山歌 of lesson 20, into little stage plays; the classic 三腳採茶 has three roles, a clown and two girls. The 收冬戲 hires a troupe
+      for several days; mornings are for the gods, and the plays for people start after lunch: 朝晨頭打八仙，下晝頭戲仔正上棚
+      "in the morning the Eight Immortals, in the afternoon the plays go on stage".
   - ref: 7
     topic: vocab
     text: >
@@ -103,7 +104,7 @@ notes:
     topic: culture
     text: >
       嫁 ga "(of a woman) marry": 早兜仔嫁 "marry a bit sooner". 早兜仔 "a little earlier", the 兜仔 of lesson 19. A
-      25-year-old granddaughter, unmarried: in a Hakka family this is a topic, and the temple is where Grandma raises
+      granddaughter past twenty-five, unmarried: in a Hakka family this is a topic, and the temple is where Grandma raises
       it with the authorities. The son-in-law gossip of lesson 16 has reached her too.
   - ref: 0
     topic: hailu

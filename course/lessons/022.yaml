@@ -19,7 +19,7 @@ dialogue:
     speaker: Sam
     en: "伯公? Your great-uncle?"
     sx: {hanzi: "伯公？係若伯公？", pinyin: "bagˋ gungˊ? he ngiaˊ bagˋ gungˊ?"}
-    hl: {hanzi: "伯公？係若伯公？", pinyin: "bag gungˋ? heˇ ngia bag gungˋ?"}
+    hl: {hanzi: "伯公？係若个伯公？", pinyin: "bag gungˋ? heˇ ngia gaiˇ bag gungˋ?"}
   - n: 3
     speaker: 阿婆
     en: "(laughing) Not a person, a god!"
@@ -140,7 +140,7 @@ new_words:
   - {hanzi: 看著, pinyin: "kon doˋ", en: "see, catch sight of", hl: {hanzi: 看著, pinyin: "konˇ doˊ"}}
   - {hanzi: 恁久, pinyin: "anˋ giuˋ", en: "so long; lately", hl: {hanzi: 恁久, pinyin: "anˊ giuˊ"}}
   - {hanzi: 平安, pinyin: "pinˇ onˊ", en: "safe and well, peace", hl: {hanzi: 平安, pinyin: "pin onˋ"}}
-  - {hanzi: 伯婆, pinyin: "bagˋ poˇ", en: "great-aunt; the earth god's wife", hl: {hanzi: 伯婆, pinyin: "bag po"}}
+  - {hanzi: 伯婆, pinyin: "bagˋ poˇ", en: "great-aunt (grandfather's elder brother's wife)", hl: {hanzi: 伯婆, pinyin: "bag po"}}
 
 exercises:
   translate:
@@ -154,8 +154,8 @@ exercises:
       sx: {hanzi: "你在哪位歇？——𠊎在苗栗歇。", pinyin: "nˇ coiˊ nai vi hed? — ngaiˇ coiˊ meuˇ lid hed."}
       hl: {hanzi: "你在哪位歇？——𠊎在苗栗歇。", pinyin: "ngi coiˋ nai+ vui+ hied? — ngai coiˋ miau lidˋ hied."}
     - en: "Long time no see! Are you well?"
-      sx: {hanzi: "恁久無看著！你平安無？", pinyin: "anˋ giuˋ moˇ kon doˋ! nˇ pinˇ onˊ moˇ?"}
-      hl: {hanzi: "恁久無看著！你平安無？", pinyin: "anˊ giuˊ mo konˇ doˊ! ngi pin onˋ mo?"}
+      sx: {hanzi: "恁久無看著！恁久好無？", pinyin: "anˋ giuˋ moˇ kon doˋ! anˋ giuˋ hoˋ moˇ?"}
+      hl: {hanzi: "恁久無看著！恁久好無？", pinyin: "anˊ giuˊ mo konˇ doˊ! anˊ giuˊ hoˊ mo?"}
     - en: "In front of the temple there's an opera."
       sx: {hanzi: "廟前有戲。", pinyin: "meu qienˇ iuˊ hi."}
       hl: {hanzi: "廟前有戲。", pinyin: "miau+ cien rhiuˋ hiˇ."}
@@ -163,8 +163,11 @@ exercises:
       sx: {hanzi: "你有看著阿明無？——無看著。", pinyin: "nˇ iuˊ kon doˋ aˊ minˇ moˇ? — moˇ kon doˋ."}
       hl: {hanzi: "你有看著阿明無？——無看著。", pinyin: "ngi rhiuˋ konˇ doˊ a+ min mo? — mo konˇ doˊ."}
     - en: "Lately Grandpa has been very busy."
-      sx: {hanzi: "恁久阿公當無閒。", pinyin: "anˋ giuˋ aˊ gungˊ dongˊ moˇ hanˇ."}
-      hl: {hanzi: "恁久阿公當無閒。", pinyin: "anˊ giuˊ a+ gungˋ dongˋ mo han."}
+      sx: {hanzi: "阿公恁久當無閒。", pinyin: "aˊ gungˊ anˋ giuˋ dongˊ moˇ hanˇ."}
+      hl: {hanzi: "阿公恁久當無閒。", pinyin: "a+ gungˋ anˊ giuˊ dongˋ mo han."}
+    - en: "Everyone at home is safe and well."
+      sx: {hanzi: "屋下人都平安。", pinyin: "vugˋ kaˊ nginˇ du pinˇ onˊ."}
+      hl: {hanzi: "屋下人都平安。", pinyin: "vug haˋ ngin du+ pin onˋ."}
   fill:
     - en: "My name is Sam."
       sx: {hanzi: "𠊎___Sam。", pinyin: "ngaiˇ ___ Sam.", answer_hanzi: "安到", answer: "onˊ do"}
@@ -172,7 +175,7 @@ exercises:
     - en: "Don't eat it! (a rule)"
       sx: {hanzi: "___食！", pinyin: "___ siid!", answer_hanzi: "毋好", answer: "mˇ hoˋ"}
       hl: {hanzi: "___食！", pinyin: "___ shidˋ!", answer_hanzi: "毋好", answer: "m hoˊ"}
-    - en: "The earth god and his wife."
+    - en: "Great-uncle and great-aunt."
       sx: {hanzi: "伯公同___。", pinyin: "bagˋ gungˊ tungˇ ___.", answer_hanzi: "伯婆", answer: "bagˋ poˇ"}
       hl: {hanzi: "伯公摎___。", pinyin: "bag gungˋ lauˋ ___.", answer_hanzi: "伯婆", answer: "bag po"}
 

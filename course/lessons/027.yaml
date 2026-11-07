@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿明
     en: "Grandma and Grandpa are out at a wedding feast tonight. I'll cook!"
-    sx: {hanzi: "暗晡阿婆同阿公去食酒，𠊎來煮！", pinyin: "am buˊ aˊ poˇ tungˇ aˊ gungˊ hi siid jiuˋ, ngaiˇ loiˇ zuˋ!"}
-    hl: {hanzi: "暗晡阿婆摎阿公去食酒，𠊎來煮！", pinyin: "amˇ buˋ a+ po lauˋ a+ gungˋ hiˇ shidˋ ziuˊ, ngai loi zhuˊ!"}
+    sx: {hanzi: "今暗晡阿婆同阿公去食酒，𠊎來煮！", pinyin: "gimˊ am buˊ aˊ poˇ tungˇ aˊ gungˊ hi siid jiuˋ, ngaiˇ loiˇ zuˋ!"}
+    hl: {hanzi: "今暗晡阿婆摎阿公去食酒，𠊎來煮！", pinyin: "gimˋ amˇ buˋ a+ po lauˋ a+ gungˋ hiˇ shidˋ ziuˊ, ngai loi zhuˊ!"}
   - n: 2
     speaker: Sam
     en: "Do you know how to cook?"
@@ -76,7 +76,7 @@ notes:
     topic: culture
     text: >
       食酒 siid jiuˋ, literally "drink wine", is "go to a banquet", above all a wedding feast: 去食酒 "go to the wedding
-      dinner". A Hakka wedding banquet is ten or more courses at round tables for hundreds of guests; the
+      dinner". A Hakka wedding banquet is often ten or more courses at round tables for a great many guests; the
       grandparents will be back late and full. 𠊎來煮 "I'll cook": 來 + verb volunteers, as in 𠊎來賣 (lesson 16).
   - ref: 3
     topic: false-friend
@@ -92,8 +92,8 @@ notes:
   - ref: 6
     topic: vocab
     text: >
-      死 xiˋ "dead" before an adjective is "terribly": 死鹹 "salty as death", the word every Hakka cook dreads. Use it
-      for unpleasant qualities: 死鹹, 死苦.
+      死 xiˋ "dead" before an adjective is "terribly": 死鹹 "salty as death", the word every Hakka cook dreads. 死鹹 is the set
+      phrase; don't build your own with other adjectives yet.
   - ref: 7
     topic: grammar
     text: >
@@ -110,7 +110,7 @@ notes:
     topic: vocab
     text: >
       放心 fong ximˊ "don't worry, rest assured", as in Mandarin, with 放 read fong here (it was biong in lesson 4:
-      a word with two readings, the older biong for "put").
+      a word with two readings: biong is the everyday "put", fong the reading in compounds like 放心).
   - ref: 0
     topic: hailu
     text: >
@@ -121,7 +121,7 @@ new_words:
   - {hanzi: 當然, pinyin: "dongˊ ienˇ", en: "of course", hl: {hanzi: 當然, pinyin: "dongˋ rhan"}}
   - {hanzi: 炒飯, pinyin: "cauˋ fan", en: "fried rice", hl: {hanzi: 炒飯, pinyin: "cauˊ pon+"}}
   - {hanzi: 死鹹, pinyin: "xiˋ hamˇ", en: "terribly salty", hl: {hanzi: 死鹹, pinyin: "siˊ ham"}}
-  - {hanzi: 死, pinyin: "xiˋ", en: "die; (before an adjective) terribly", hl: {hanzi: 死, pinyin: "siˊ"}}
+  - {hanzi: 死鹹, pinyin: "xiˋ hamˇ", en: "terribly salty", hl: {hanzi: 死鹹, pinyin: "siˊ ham"}}
   - {hanzi: 忒, pinyin: "tedˋ", en: "too (much)", hl: {hanzi: 忒, pinyin: "ted"}}
   - {hanzi: 敢, pinyin: "gamˋ", en: "dare", hl: {hanzi: 敢, pinyin: "gamˊ"}}
   - {hanzi: 放心, pinyin: "fong ximˊ", en: "don't worry, be at ease", hl: {hanzi: 放心, pinyin: "fongˇ simˋ"}}
@@ -133,6 +133,7 @@ new_words:
   - {hanzi: 仰, pinyin: "ngiongˋ", en: "how (before a verb)", hl: {hanzi: 仰, pinyin: "ngiongˊ"}}
   - {hanzi: 盤, pinyin: "panˇ", en: "plate, dish", hl: {hanzi: 盤, pinyin: "pan"}}
   - {hanzi: 難, pinyin: "nanˇ", en: "difficult, hard", hl: {hanzi: 難, pinyin: "nan"}}
+  - {hanzi: 今暗晡, pinyin: "gimˊ am buˊ", en: "this evening, tonight", hl: {hanzi: 今暗晡, pinyin: "gimˋ amˇ buˋ"}}
 
 exercises:
   translate:
@@ -152,9 +153,12 @@ exercises:
     - en: "Hakka is hard; Mandarin isn't hard."
       sx: {hanzi: "客話當難，華語毋會難。", pinyin: "hagˋ fa dongˊ nanˇ, faˇ ngiˊ mˇ voi nanˇ."}
       hl: {hanzi: "客話當難，華語毋會難。", pinyin: "hag voiˋ dongˋ nan, fa ngiˋ m voi+ nan."}
-    - en: "This medicine is horribly bitter. — Grandpa doesn't drink alcohol, either."
-      sx: {hanzi: "這藥仔死苦。——阿公乜毋食酒。", pinyin: "iaˋ iog eˋ xiˋ fuˋ. — aˊ gungˊ me mˇ siid jiuˋ."}
-      hl: {hanzi: "這藥仔死苦。——阿公乜毋食酒。", pinyin: "liaˊ rhogˋ er siˊ fuˊ. — a+ gungˋ meˇ m shidˋ ziuˊ."}
+    - en: "This medicine is far too bitter."
+      sx: {hanzi: "這藥仔忒苦了。", pinyin: "iaˋ iog eˋ tedˋ fuˋ leˊ."}
+      hl: {hanzi: "這藥仔忒苦了。", pinyin: "liaˊ rhogˋ er ted fuˊ leˋ."}
+    - en: "Grandpa doesn't drink alcohol."
+      sx: {hanzi: "阿公毋食酒。", pinyin: "aˊ gungˊ mˇ siid jiuˋ."}
+      hl: {hanzi: "阿公毋食酒。", pinyin: "a+ gungˋ m shidˋ ziuˊ."}
   fill:
     - en: "Too much salt."
       sx: {hanzi: "鹽放___多了。", pinyin: "iamˇ biong ___ doˊ leˊ.", answer_hanzi: "忒", answer: "tedˋ"}

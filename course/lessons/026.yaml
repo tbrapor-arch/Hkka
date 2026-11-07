@@ -48,8 +48,8 @@ dialogue:
   - n: 8
     speaker: 阿玉
     en: "I only know a little English. Could you teach me?"
-    sx: {hanzi: "𠊎曉得一息仔英語定定。你做得教𠊎無？", pinyin: "ngaiˇ hiauˋ dedˋ idˋ xid eˋ inˊ ngiˊ tin tin. nˇ zo dedˋ gauˊ ngaiˇ moˇ?"}
-    hl: {hanzi: "𠊎曉得一息仔英語定定。你做得教𠊎無？", pinyin: "ngai hiauˊ ded rhid sid er+ rhinˋ ngiˋ tin+ tin+. ngi zoˇ ded gauˋ ngai mo?"}
+    sx: {hanzi: "𠊎曉得講一息仔英語定定。你做得教𠊎無？", pinyin: "ngaiˇ hiauˋ dedˋ gongˋ idˋ xid eˋ inˊ ngiˊ tin tin. nˇ zo dedˋ gauˊ ngaiˇ moˇ?"}
+    hl: {hanzi: "𠊎曉得講一息仔英語定定。你做得教𠊎無？", pinyin: "ngai hiauˊ ded gongˊ rhid sid er+ rhinˋ ngiˋ tin+ tin+. ngi zoˇ ded gauˋ ngai mo?"}
   - n: 9
     speaker: Sam
     en: "Sure!"
@@ -81,7 +81,8 @@ notes:
     topic: grammar
     text: >
       識 siidˋ "know (a person)": 𠊎識你 "I know you". Line 6 has the other "know", 曉得 hiauˋ dedˋ "know how to, can"
-      (會): 你曉得講英語 "you can speak English". People and places you 識; skills you 曉得. Facts you 知 (lesson 9).
+      (會): 你曉得講英語 "you can speak English". Roughly: people you 識; skills you 曉得 (it also
+      means "understand": 你曉得吂？ "do you get it?"); facts you 知 (lesson 9).
   - ref: 5
     topic: false-friend
     text: >
@@ -90,7 +91,7 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      定定 tin tin at the end of a sentence is "only, that's all" (而已): 𠊎曉得一息仔英語定定 "I only know a little
+      定定 tin tin at the end of a sentence is "only, that's all" (而已): 𠊎曉得講一息仔英語定定 "I can only speak a little
       English". It goes last, after everything else; the sentence is said first and then cut down to size.
   - ref: 10
     topic: grammar

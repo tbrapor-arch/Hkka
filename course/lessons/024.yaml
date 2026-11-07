@@ -12,9 +12,9 @@ names: [阿明]
 dialogue:
   - n: 1
     speaker: 頭家
-    en: "Uncle, what's the matter?"
-    sx: {hanzi: "阿伯，仰般了？", pinyin: "aˊ bagˋ, ngiongˋ banˊ leˊ?"}
-    hl: {hanzi: "阿伯，仰般了？", pinyin: "a+ bag, ngiongˊ banˋ leˋ?"}
+    en: "Uncle, what's wrong? (where doesn't it feel right?)"
+    sx: {hanzi: "阿伯，哪位毋鬆爽？", pinyin: "aˊ bagˋ, nai vi mˇ sungˊ songˋ?"}
+    hl: {hanzi: "阿伯，哪位毋鬆爽？", pinyin: "a+ bag, nai+ vui+ m sungˋ songˊ?"}
   - n: 2
     speaker: 阿公
     en: "Caught a cold."
@@ -22,9 +22,9 @@ dialogue:
     hl: {hanzi: "冷著。", pinyin: "langˋ doˊ."}
   - n: 3
     speaker: Sam
-    en: "Yesterday he sat out in front of the temple all day, watching the opera."
-    sx: {hanzi: "佢昨晡日在廟前坐一日，看收冬戲。", pinyin: "giˇ coˊ buˊ ngidˋ coiˊ meu qienˇ coˊ idˋ ngidˋ, kon suˊ dungˊ hi."}
-    hl: {hanzi: "佢昨晡日在廟前坐一日，看收冬戲。", pinyin: "gi coˋ buˋ ngid coiˋ miau+ cien coˋ rhid ngid, konˇ shiuˋ dungˋ hiˇ."}
+    en: "Yesterday he sat out in front of the temple for a whole day, watching the opera. Now his nose is running."
+    sx: {hanzi: "佢昨晡日在廟前坐一日，看收冬戲。這下流鼻水。", pinyin: "giˇ coˊ buˊ ngidˋ coiˊ meu qienˇ coˊ idˋ ngidˋ, kon suˊ dungˊ hi. iaˋ ha liuˇ pi suiˋ."}
+    hl: {hanzi: "佢昨晡日在廟前坐一日，看收冬戲。這下流鼻水。", pinyin: "gi coˋ buˋ ngid coiˋ miau+ cien coˋ rhid ngid, konˇ shiuˋ dungˋ hiˇ. liaˊ ha+ lau pi+ shuiˊ."}
   - n: 4
     speaker: 頭家
     en: "Does your throat hurt? Are you coughing?"
@@ -52,9 +52,9 @@ dialogue:
     hl: {hanzi: "阿公！頭家講三日！", pinyin: "a+ gungˋ! teu gaˋ gongˊ samˋ ngid!"}
   - n: 9
     speaker: 頭家
-    en: "(laughing, holding out a handful of sweets) Here, these sweets are for you."
-    sx: {hanzi: "這兜糖仔分你。", pinyin: "iaˋ deuˊ tongˇ eˋ bunˊ nˇ."}
-    hl: {hanzi: "這兜糖仔分你。", pinyin: "liaˊ deuˋ tong er bunˋ ngi."}
+    en: "(laughing, holding out a handful of sweets) The medicine's very bitter. Here, these sweets are for you."
+    sx: {hanzi: "這藥仔當苦。這兜糖仔分你。", pinyin: "iaˋ iog eˋ dongˊ fuˋ. iaˋ deuˊ tongˇ eˋ bunˊ nˇ."}
+    hl: {hanzi: "這藥仔當苦。這兜糖仔分你。", pinyin: "liaˊ rhogˋ er dongˋ fuˊ. liaˊ deuˋ tong er bunˋ ngi."}
   - n: 10
     speaker: 阿公
     en: "(pocketing the sweets; to Sam) You give him the money."
@@ -70,8 +70,8 @@ notes:
   - ref: 1
     topic: vocab
     text: >
-      仰般了？ "what's the matter? what happened?": 仰般 "how" + 了 "(what has) become". The pharmacist's first
-      question, and the doctor's, and a worried friend's.
+      哪位毋鬆爽？ "where doesn't it feel right? what's wrong?": 鬆爽 sungˊ songˋ "comfortable, at ease", 毋鬆爽 "unwell,
+      not feeling right". 哪位 "where" (lesson 6) asks which part of you.
   - ref: 2
     topic: vocab
     text: >
@@ -101,8 +101,8 @@ notes:
     topic: false-friend
     text: >
       分 bunˊ is "give": 這兜糖仔分你 "these sweets are for you", 錢分頭家 "give the money to the shopkeeper". It is the
-      same character as 分 funˊ "divide", read differently and meaning something else. This 分 will grow into
-      "to (someone)", "let" and the passive later (lessons 30–34); for now, it gives. 糖仔 tongˇ eˋ "sweets".
+      same character as 分 funˊ "divide", read differently and meaning something else. This 分 will grow: "let"
+      in lesson 25, "to (someone)" and the passive later; for now, it gives. 糖仔 tongˇ eˋ "sweets".
   - ref: 10
     topic: culture
     text: >
@@ -127,15 +127,16 @@ new_words:
   - {hanzi: 藥房, pinyin: "iog fongˇ", en: "pharmacy", hl: {hanzi: 藥房, pinyin: "rhog fong"}}
   - {hanzi: 包, pinyin: "bauˊ", en: "packet; wrap", hl: {hanzi: 包, pinyin: "bauˋ"}}
   - {hanzi: 苦, pinyin: "fuˋ", en: "bitter", hl: {hanzi: 苦, pinyin: "fuˊ"}}
-  - {hanzi: 病, pinyin: "piang", en: "illness; be ill", hl: {hanzi: 病, pinyin: "piang+"}}
+  - {hanzi: 破病, pinyin: "po piang", en: "fall ill, be ill", hl: {hanzi: 破病, pinyin: "poˇ piang+"}}
+  - {hanzi: 鬆爽, pinyin: "sungˊ songˋ", en: "comfortable; (毋鬆爽) unwell", hl: {hanzi: 鬆爽, pinyin: "sungˋ songˊ"}}
   - {hanzi: 身體, pinyin: "siinˊ tiˋ", en: "body; health", hl: {hanzi: 身體, pinyin: "shinˋ tiˊ"}}
   - {hanzi: 水, pinyin: "suiˋ", en: "water", hl: {hanzi: 水, pinyin: "shuiˊ"}}
 
 exercises:
   translate:
-    - en: "A-min has a cold; his nose is running."
-      sx: {hanzi: "阿明寒著，鼻公流鼻水。", pinyin: "aˊ minˇ honˇ doˋ, pi gungˊ liuˇ pi suiˋ."}
-      hl: {hanzi: "阿明冷著，鼻空流鼻水。", pinyin: "a+ min langˋ doˊ, pi+ kungˋ lau pi+ shuiˊ."}
+    - en: "A-min has a cold: his nose is running, and it's all red."
+      sx: {hanzi: "阿明寒著，流鼻水，鼻公當紅。", pinyin: "aˊ minˇ honˇ doˋ, liuˇ pi suiˋ, pi gungˊ dongˊ fungˇ."}
+      hl: {hanzi: "阿明冷著，流鼻水，鼻空當紅。", pinyin: "a+ min langˋ doˊ, lau pi+ shuiˊ, pi+ kungˋ dongˋ fung."}
     - en: "Take two pills each time, after meals."
       sx: {hanzi: "一擺食兩粒，食飽正食。", pinyin: "idˋ baiˋ siid liongˋ liab, siid bauˋ zang siid."}
       hl: {hanzi: "一擺食兩粒，食飽正食。", pinyin: "rhid baiˊ shidˋ liongˊ liab, shidˋ bauˊ zhangˇ shidˋ."}
@@ -149,8 +150,8 @@ exercises:
       sx: {hanzi: "水罅無？——毋罅。", pinyin: "suiˋ la moˇ? — mˇ la."}
       hl: {hanzi: "水罅無？——毋罅。", pinyin: "shuiˊ la+ mo? — m la+."}
     - en: "He's ill; he has to go to the pharmacy."
-      sx: {hanzi: "佢病了，愛去藥房。", pinyin: "giˇ piang leˊ, oi hi iog fongˇ."}
-      hl: {hanzi: "佢病了，愛去藥房。", pinyin: "gi piang+ leˋ, oiˇ hiˇ rhog fong."}
+      sx: {hanzi: "佢破病了，愛去藥房。", pinyin: "giˇ po piang leˊ, oi hi iog fongˇ."}
+      hl: {hanzi: "佢破病了，愛去藥房。", pinyin: "gi poˇ piang+ leˋ, oiˇ hiˇ rhog fong."}
     - en: "Grandpa is in very good health."
       sx: {hanzi: "阿公个身體當好。", pinyin: "aˊ gungˊ ge siinˊ tiˋ dongˊ hoˋ."}
       hl: {hanzi: "阿公个身體當好。", pinyin: "a+ gungˋ gaiˇ shinˋ tiˊ dongˋ hoˊ."}
