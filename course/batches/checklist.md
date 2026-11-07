@@ -92,3 +92,14 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   custom", grep `example` for the custom's key words.
 - A Hailu-only word (韶早) has no Sixian reading: put it in the Hailu line only and let the English say so.
 - After 恁仔細 nothing follows (no 你兜, no object): see batch 7.
+
+## Added after the batch 9 review
+- 頭先 is "just now" (剛才), never "at first": use 一開始.
+- News items take 條 (下一條新聞, 有一條新聞講…), not 隻.
+- A number + 零 still takes its classifier: 兩百零个人 (這間工廠請有兩百零個工人).
+- Don't overstate Sixian/Hailu differences: count the examples in both accents before a note says "Hailu says X,
+  Sixian Y" (糜, 落水, 肚屎枵, 承蒙, 所以 all occur in Sixian examples too). Say "the word lists differ".
+- Keep the internal timeline consistent across a batch: weather (when the rain starts and stops), dates of events
+  reported later, drive times, where people live.
+- A Latin-letter word in a line (fan, pon) is stripped from the pinyin at its first match: put it before any
+  syllable spelled the same (pon+, fan) or lint misaligns the line.
