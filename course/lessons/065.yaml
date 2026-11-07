@@ -1,0 +1,189 @@
+id: 65
+title:
+  en: "清明: sweeping the graves"
+  sx: {hanzi: "去掛紙", pinyin: "hi gua ziiˋ"}
+  hl: {hanzi: "去掛紙", pinyin: "hiˇ guaˇ zhiˊ"}
+review: false
+setting: >-
+  Monday 5 April, 清明, eight in the morning, on the hillside above the tea field, among the family graves. Everyone has
+  come, A-in and Mr Liu included; the sickles and the basket of offerings went up first. The grass has grown waist
+  high since last year.
+names: [阿英, 阿明, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿爸
+    en: "Everyone, cut the grass first, and then we'll pay our respects."
+    sx: {hanzi: "大家先割草，正來拜。", pinyin: "tai gaˊ xienˊ godˋ coˋ, zang loiˇ bai."}
+    hl: {hanzi: "大家先割草，正來拜。", pinyin: "tai+ gaˋ senˋ god coˊ, zhangˇ loi baiˇ."}
+  - n: 2
+    speaker: Sam
+    en: "(an hour later, the grave cleared) Whose grave is this?"
+    sx: {hanzi: "這係麼人个墓？", pinyin: "iaˋ he maˋ nginˇ ge mu?"}
+    hl: {hanzi: "這係麼人个墓？", pinyin: "liaˊ heˇ maˊ ngin gaiˇ muˇ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "Grandpa's father's. You should call him 阿太, great-grandfather."
+    sx: {hanzi: "阿公个爸个。你愛喊佢阿太。", pinyin: "aˊ gungˊ ge baˊ ge. nˇ oi ham giˇ aˊ tai."}
+    hl: {hanzi: "阿公个爸个。你愛喊佢阿太。", pinyin: "a+ gungˋ gaiˇ baˋ gaiˇ. ngi oiˇ hamˇ gi a+ taiˇ."}
+  - n: 4
+    speaker: 阿明
+    en: "Grandma, tell Sam the story about 阿太!"
+    sx: {hanzi: "阿婆，講阿太个故事分 Sam 聽！", pinyin: "aˊ poˇ, gongˋ aˊ tai ge gu sii bunˊ Sam tangˊ!"}
+    hl: {hanzi: "阿婆，講阿太个故事分 Sam 聽！", pinyin: "a+ po, gongˊ a+ taiˇ gaiˇ guˇ sii+ bunˋ Sam tangˋ!"}
+  - n: 5
+    speaker: 阿婆
+    en: "In the old days, a long time ago, 阿太's family was very poor. He had no land at all. So he went up the mountain with nothing but a mattock."
+    sx: {hanzi: "頭擺頭擺，阿太屋下當苦，一垤地都無。佢斯擐一支钁頭上山。", pinyin: "teuˇ baiˋ teuˇ baiˋ, aˊ tai vugˋ kaˊ dongˊ kuˋ, idˋ de ti du moˇ. giˇ siiˊ kuan idˋ giˊ giogˋ teuˇ songˊ sanˊ."}
+    hl: {hanzi: "頭擺頭擺，阿太屋下當苦，一垤地都無。佢斯擐一支钁頭上山。", pinyin: "teu baiˊ teu baiˊ, a+ taiˇ vug haˋ dongˋ kuˊ, rhid deˇ ti+ du+ mo. gi siiˋ kuan+ rhid giˋ giog teu shongˋ sanˋ."}
+    check: true
+  - n: 6
+    speaker: 阿婆
+    en: "First he cleared the hillside, and after that he planted tea. Every day it took two hours just to walk there."
+    sx: {hanzi: "佢先開山，過後正種茶。逐日愛行兩點鐘久正行得到。", pinyin: "giˇ xienˊ koiˊ sanˊ, go heu zang zung caˇ. dagˋ ngidˋ oi hangˇ liongˋ diamˋ zungˊ giuˋ zang hangˇ dedˋ do."}
+    hl: {hanzi: "佢先開山，過後正種茶。逐日愛行兩點鐘久正行得到。", pinyin: "gi senˋ koiˋ sanˋ, goˇ heu+ zhangˇ zhungˇ ca. dag ngid oiˇ hang liongˊ diamˊ zhungˋ giuˊ zhangˇ hang ded doˇ."}
+  - n: 7
+    speaker: 阿婆
+    en: "Then one year, of all things, a typhoon came, and every bush was swept away."
+    sx: {hanzi: "有一年，嗄來一隻大風搓，茶樹全部分風吹走忒了。", pinyin: "iuˊ idˋ ngienˇ, sa loiˇ idˋ zagˋ tai fungˊ caiˊ, caˇ su qionˇ pu bunˊ fungˊ coiˊ zeuˋ tedˋ leˊ."}
+    hl: {hanzi: "有一年，嗄來一隻大風搓，茶樹全部分風吹走忒了。", pinyin: "rhiuˋ rhid ngien, saˇ loi rhid zhag tai+ fungˋ caiˋ, ca shu+ cion pu+ bunˋ fungˋ choiˋ zeuˊ ted leˋ."}
+  - n: 8
+    speaker: Sam
+    en: "And after that?"
+    sx: {hanzi: "後來呢？", pinyin: "heu loiˇ neˇ?"}
+    hl: {hanzi: "後來呢？", pinyin: "heu+ loi neˇ?"}
+  - n: 9
+    speaker: 阿婆
+    en: "After that he planted it all again. Three years later the tea garden was even bigger than before."
+    sx: {hanzi: "後來佢又種過。三年過後，茶園比頭擺還較大。", pinyin: "heu loiˇ giˇ iu zung go. samˊ ngienˇ go heu, caˇ ienˇ biˋ teuˇ baiˋ hanˇ ka tai."}
+    hl: {hanzi: "後來佢又種過。三年過後，茶園比頭擺還較大。", pinyin: "heu+ loi gi rhiu+ zhungˇ goˇ. samˋ ngien goˇ heu+, ca rhan biˊ teu baiˊ han haˇ tai+."}
+  - n: 10
+    speaker: 阿公
+    en: "(quietly, pointing down the hill) That tea garden is the one we have now."
+    sx: {hanzi: "該茶園，就係這下个茶園。", pinyin: "ge caˇ ienˇ, qiu he iaˋ ha ge caˇ ienˇ."}
+    hl: {hanzi: "該茶園，就係這下个茶園。", pinyin: "gai ca rhan, ciu+ heˇ liaˊ ha+ gaiˇ ca rhan."}
+    check: true
+  - n: 11
+    speaker: 阿英
+    en: "And Grandpa has looked after it his whole life."
+    sx: {hanzi: "阿公乜照顧一生人了。", pinyin: "aˊ gungˊ me zeu gu idˋ senˊ nginˇ leˊ."}
+    hl: {hanzi: "阿公乜照顧一生人了。", pinyin: "a+ gungˋ meˇ zhauˇ guˇ rhid senˋ ngin leˋ."}
+  - n: 12
+    speaker: 阿婆
+    en: "Right. Light the incense, burn the paper money. Once we've paid our respects, we'll eat the 艾粄."
+    sx: {hanzi: "好了，燒香，燒銀紙。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ. bai hoˋ, siiˊ siid ngie banˋ."}
+    hl: {hanzi: "好了，燒香，燒銀紙。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
+  - n: 13
+    speaker: 阿明
+    en: "艾粄! I'm starving!"
+    sx: {hanzi: "艾粄！𠊎肚飢了！", pinyin: "ngie banˋ! ngaiˇ duˋ giˊ leˊ!"}
+    hl: {hanzi: "艾粄！𠊎肚屎枵了！", pinyin: "ngieˇ banˊ! ngai duˊ shiˊ iauˋ leˋ!"}
+  - n: 14
+    speaker: 阿爸
+    en: "Every time we sweep the graves, the only thing you think about is eating."
+    sx: {hanzi: "你逐擺掛紙，都係想食定定。", pinyin: "nˇ dagˋ baiˋ gua ziiˋ, du he xiongˋ siid tin tin."}
+    hl: {hanzi: "你逐擺掛紙，都係想食定定。", pinyin: "ngi dag baiˊ guaˇ zhiˊ, du+ heˇ siongˊ shidˋ tin+ tin+."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      Line 1 is close to an official example: 正月十九掛紙，大家先割草正來拜 "on the 19th of the first month we sweep the
+      graves: first everyone cuts the grass, then we pay our respects". The example puts 掛紙 in the first month; another
+      gives 正月十六. Many Hakka families sweep the graves between the Lantern Festival and 清明, not only on the day; the
+      Liu family has chosen 清明 itself. 割草 "cut the grass": 割 (lesson 45) + 草 (lesson 40).
+  - ref: 3
+    topic: vocab
+    text: >
+      阿太 aˊ tai "great-grandparent": the dictionary gives it for both great-grandfather and great-grandmother (阿公太,
+      阿婆太 when you need to tell them apart). 墓 mu (line 2) "grave".
+  - ref: 5
+    topic: grammar
+    text: >
+      Storytelling. 頭擺頭擺 "long, long ago", 頭擺 (lesson 20) said twice, is how Grandma starts; the doubled form has no
+      official example and is marked for checking. Then the story moves with little words: 斯 siiˊ "so, and then",
+      the storyteller's 就 (無斯會 "or else", 341 official examples of 斯會); 先…過後正… "first…, after that…" (line 6);
+      嗄 (lesson 41) for the blow nobody expected (line 7); 後來 "later, after that" (lines 8, 9).
+  - ref: 5
+    topic: false-friend
+    text: >
+      屋下當苦 "the family was very poor": 苦 read kuˋ is "poor, hard up"; read fuˋ (lesson 24) it is "bitter". 一垤地都無
+      "not one plot of land": 垤 de, the classifier for a piece of land or a lump, and 地 ti "land, ground". 钁頭
+      giogˋ teuˇ "mattock", the hill farmer's tool. 佢先開山 (line 6) "first he cleared the hillside": 開 "open" + 山.
+  - ref: 7
+    topic: vocab
+    text: >
+      風搓 fungˊ caiˊ "typhoon". 分風吹走忒了 "was blown away by the wind": the passive 分 of lesson 34.
+  - ref: 9
+    topic: grammar
+    text: >
+      種過 "planted again": 過 after the verb as "again, over" (lesson 54, 買過). 比頭擺還較大 "even bigger than before":
+      比 + thing + 較 + adjective; lesson 66 has more comparisons.
+  - ref: 12
+    topic: culture
+    text: >
+      Official examples: 清明逐家掛紙个時節都會燒銀紙 "at 清明 every family burns paper money when sweeping the graves", and
+      客家人在清明會打艾粄 "at 清明 Hakka people make 艾粄", rice cakes coloured with mugwort (艾). 拜好，斯食艾粄 "once
+      the offering is done, then we eat the 艾粄": 斯 again.
+
+new_words:
+  - {hanzi: 割草, pinyin: "godˋ coˋ", en: "cut the grass, weed", hl: {hanzi: 割草, pinyin: "god coˊ"}}
+  - {hanzi: 墓, pinyin: "mu", en: "grave, tomb", hl: {hanzi: 墓, pinyin: "muˇ"}}
+  - {hanzi: 阿太, pinyin: "aˊ tai", en: "great-grandparent", hl: {hanzi: 阿太, pinyin: "a+ taiˇ"}}
+  - {hanzi: 故事, pinyin: "gu sii", en: "story", hl: {hanzi: 故事, pinyin: "guˇ sii+"}}
+  - {hanzi: 苦, pinyin: "kuˋ", en: "poor, hard up", hl: {hanzi: 苦, pinyin: "kuˊ"}}
+  - {hanzi: 垤, pinyin: "de", en: "(classifier: a plot, a lump)", hl: {hanzi: 垤, pinyin: "deˇ"}}
+  - {hanzi: 地, pinyin: "ti", en: "land, ground", hl: {hanzi: 地, pinyin: "ti+"}}
+  - {hanzi: 斯, pinyin: "siiˊ", en: "so, and then (= 就)", hl: {hanzi: 斯, pinyin: "siiˋ"}}
+  - {hanzi: 钁頭, pinyin: "giogˋ teuˇ", en: "mattock, hoe", hl: {hanzi: 钁頭, pinyin: "giog teu"}}
+  - {hanzi: 茶樹, pinyin: "caˇ su", en: "tea bush", hl: {hanzi: 茶樹, pinyin: "ca shu+"}}
+  - {hanzi: 後來, pinyin: "heu loiˇ", en: "later, after that", hl: {hanzi: 後來, pinyin: "heu+ loi"}}
+  - {hanzi: 節, pinyin: "jiedˋ", en: "festival (清明節)", hl: {hanzi: 節, pinyin: "zied"}}
+  - {hanzi: 祭祖, pinyin: "ji zuˋ", en: "make offerings to the ancestors", hl: {hanzi: 祭祖, pinyin: "ziˇ zuˊ"}}
+  - {hanzi: 銀紙, pinyin: "ngiunˇ ziiˋ", en: "paper money (burnt for the dead)", hl: {hanzi: 銀紙, pinyin: "ngiun zhiˊ"}}
+  - {hanzi: 艾, pinyin: "ngie", en: "mugwort", hl: {hanzi: 艾, pinyin: "ngieˇ"}}
+  - {hanzi: 墓地, pinyin: "mu ti", en: "graveyard, burial ground", hl: {hanzi: 墓地, pinyin: "muˇ ti+"}}
+  - {hanzi: 艾粄, pinyin: "ngie banˋ", en: "mugwort rice cake", hl: {hanzi: 艾粄, pinyin: "ngieˇ banˊ"}}
+  - {hanzi: 祖先, pinyin: "zuˋ xienˊ", en: "ancestors", hl: {hanzi: 祖先, pinyin: "zuˊ sienˋ"}}
+  - {hanzi: 過身, pinyin: "go siinˊ", en: "pass away", hl: {hanzi: 過身, pinyin: "goˇ shinˋ"}}
+  - {hanzi: 搬, pinyin: "banˊ", en: "move (house), carry", hl: {hanzi: 搬, pinyin: "banˋ"}}
+  - {hanzi: 窮, pinyin: "kiungˇ", en: "poor", hl: {hanzi: 窮, pinyin: "kiung"}}
+
+exercises:
+  translate:
+    - en: "At 清明 everyone goes to the ancestors' graves to pay their respects."
+      sx: {hanzi: "清明節大家都愛去祖先个墓地祭祖。", pinyin: "qiangˊ miangˇ jiedˋ tai gaˊ du oi hi zuˋ xienˊ ge mu ti ji zuˋ."}
+      hl: {hanzi: "清明節大家都愛去祖先个墓地祭祖。", pinyin: "ciangˋ miang zied tai+ gaˋ du+ oiˇ hiˇ zuˊ sienˋ gaiˇ muˇ ti+ ziˇ zuˊ."}
+      source: kaga115
+    - en: "Grandpa's father passed away fifty years ago."
+      sx: {hanzi: "阿公个爸五十年前就過身了。", pinyin: "aˊ gungˊ ge baˊ ngˋ siib ngienˇ qienˇ qiu go siinˊ leˊ."}
+      hl: {hanzi: "阿公个爸五十年前就過身了。", pinyin: "a+ gungˋ gaiˇ baˋ ngˊ shibˋ ngien cien ciu+ goˇ shinˋ leˋ."}
+    - en: "Later the family moved to Miaoli."
+      sx: {hanzi: "後來，佢兜歸屋下搬到苗栗。", pinyin: "heu loiˇ, giˇ deuˊ guiˊ vugˋ kaˊ banˊ do meuˇ lidˋ."}
+      hl: {hanzi: "後來，佢兜歸屋下搬到苗栗。", pinyin: "heu+ loi, gi deuˋ guiˋ vug haˋ banˋ doˇ miau lid."}
+    - en: "In the old days people were poor; they had no land."
+      sx: {hanzi: "頭擺个人當窮，無地好種。", pinyin: "teuˇ baiˋ ge nginˇ dongˊ kiungˇ, moˇ ti hoˋ zung."}
+      hl: {hanzi: "頭擺个人當窮，無地好種。", pinyin: "teu baiˊ gaiˇ ngin dongˋ kiung, mo ti+ hoˊ zhungˇ."}
+      check: true
+    - en: "Grandma looks after the children; Grandpa looks after the tea garden."
+      sx: {hanzi: "阿婆照顧細人仔，阿公照顧茶園。", pinyin: "aˊ poˇ zeu gu se nginˇ eˋ, aˊ gungˊ zeu gu caˇ ienˇ."}
+      hl: {hanzi: "阿婆照顧細人仔，阿公照顧茶園。", pinyin: "a+ po zhauˇ guˇ seˇ ngin er, a+ gungˋ zhauˇ guˇ ca rhan."}
+    - en: "This year's typhoon was bigger than last year's."
+      sx: {hanzi: "今年个風搓比舊年較大。", pinyin: "gimˊ ngienˇ ge fungˊ caiˊ biˋ kiu ngienˇ ka tai."}
+      hl: {hanzi: "今年个風搓比舊年較大。", pinyin: "gimˋ ngien gaiˇ fungˋ caiˋ biˊ kiu+ ngien haˇ tai+."}
+    - en: "At 清明, 艾粄 is made with mugwort."
+      sx: {hanzi: "清明用艾仔打艾粄。", pinyin: "qiangˊ miangˇ iung ngie eˋ daˋ ngie banˋ."}
+      hl: {hanzi: "清明用艾打艾粄。", pinyin: "ciangˋ miang rhung+ ngieˇ daˊ ngieˇ banˊ."}
+      source: kaga115
+  fill:
+    - en: "We pay our respects first, and then we eat."
+      sx: {hanzi: "先拜，___食。", pinyin: "xienˊ bai, ___ siid.", answer_hanzi: "斯", answer: "siiˊ"}
+      hl: {hanzi: "先拜，___食。", pinyin: "senˋ baiˇ, ___ shidˋ.", answer_hanzi: "斯", answer: "siiˋ"}
+    - en: "Whose grave is this?"
+      sx: {hanzi: "這係麼人个___？", pinyin: "iaˋ he maˋ nginˇ ge ___?", answer_hanzi: "墓", answer: "mu"}
+      hl: {hanzi: "這係麼人个___？", pinyin: "liaˊ heˇ maˊ ngin gaiˇ ___?", answer_hanzi: "墓", answer: "muˇ"}
+    - en: "And after that?"
+      sx: {hanzi: "___呢？", pinyin: "___ neˇ?", answer_hanzi: "後來", answer: "heu loiˇ"}
+      hl: {hanzi: "___呢？", pinyin: "___ neˇ?", answer_hanzi: "後來", answer: "heu+ loi"}
+
+audio: []
