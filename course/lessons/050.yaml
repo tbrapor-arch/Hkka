@@ -13,9 +13,9 @@ names: [阿明, 阿英]
 dialogue:
   - n: 1
     speaker: 阿姆
-    en: "Sam, come and give us a hand! Today we're making 粄."
-    sx: {hanzi: "Sam，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, loiˇ ten suˋ! enˊ deuˊ gimˊ buˊ ngidˋ oi daˋ banˋ."}
-    hl: {hanzi: "Sam，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, loi tenˇ shiuˊ! enˋ deuˋ gimˋ buˋ ngid oiˇ daˊ banˊ."}
+    en: "Sam, the couplets are up; now come and give us a hand! Today we're making 粄."
+    sx: {hanzi: "Sam，春聯貼好了，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, cunˊ lienˇ diabˋ hoˋ leˊ, loiˇ ten suˋ! enˊ deuˊ gimˊ buˊ ngidˋ oi daˋ banˋ."}
+    hl: {hanzi: "Sam，春聯貼好了，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, chunˋ lien dab hoˊ leˋ, loi tenˇ shiuˊ! enˋ deuˋ gimˋ buˋ ngid oiˇ daˊ banˊ."}
   - n: 2
     speaker: Sam
     en: "粄? What kind?"
@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 阿婆
     en: "Sweet 粄, risen 粄 and radish 粄. Every New Year we make them."
-    sx: {hanzi: "甜粄、發粄摎蘿蔔粄。逐年過年，𫣆兜都會做。", pinyin: "tiamˇ banˋ, fadˋ banˋ lauˊ loˇ ped banˋ. dagˋ ngienˇ go ngienˇ, enˊ deuˊ du voi zo."}
-    hl: {hanzi: "甜粄、發粄摎菜頭粄。逐年過年，𫣆兜都會做。", pinyin: "tiam banˊ, fad banˊ lauˋ coiˇ teu banˊ. dag ngien goˇ ngien, enˋ deuˋ du+ voi+ zoˇ."}
+    sx: {hanzi: "甜粄、發粄摎蘿蔔粄。逐年過年，𠊎兜都會做。", pinyin: "tiamˇ banˋ, fadˋ banˋ lauˊ loˇ ped banˋ. dagˋ ngienˇ go ngienˇ, ngaiˇ deuˊ du voi zo."}
+    hl: {hanzi: "甜粄、發粄摎菜頭粄。逐年過年，𠊎兜都會做。", pinyin: "tiam banˊ, fad banˊ lauˋ coiˇ teu banˊ. dag ngien goˇ ngien, ngai deuˋ du+ voi+ zoˇ."}
   - n: 4
     speaker: Sam
     en: "Why three kinds?"
@@ -33,9 +33,10 @@ dialogue:
     hl: {hanzi: "做麼个愛做三種？", pinyin: "zoˇ maˊ gaiˇ oiˇ zoˇ samˋ zhungˊ?"}
   - n: 5
     speaker: 阿姆
-    en: "Sweet 粄 for a sweet year. Risen 粄 stands for getting rich. And radish 粄… A-min loves it."
-    sx: {hanzi: "甜粄係甜甜个。發粄表示會發財。蘿蔔粄……阿明盡好食。", pinyin: "tiamˇ banˋ he tiamˇ tiamˇ ge. fadˋ banˋ beuˋ sii voi fadˋ coiˇ. loˇ ped banˋ … aˊ minˇ qin hau siid."}
-    hl: {hanzi: "甜粄係甜甜个。發粄表示會發財。菜頭粄……阿明最好食。", pinyin: "tiam banˊ heˇ tiam tiam gaiˇ. fad banˊ biauˊ shi+ voi+ fad coi. coiˇ teu banˊ … a+ min zuiˇ hauˇ shidˋ."}
+    en: "You eat sweet 粄 and hope for a sweet New Year. Risen 粄 stands for getting rich. And radish 粄… A-min just loves it."
+    sx: {hanzi: "食甜粄，望新年甜甜。發粄表示會發財。蘿蔔粄……阿明盡愛食。", pinyin: "siid tiamˇ banˋ, mong xinˊ ngienˇ tiamˇ tiamˇ. fadˋ banˋ beuˋ sii voi fadˋ coiˇ. loˇ ped banˋ … aˊ minˇ qin oi siid."}
+    hl: {hanzi: "食甜粄，望新年甜甜。發粄表示會發財。菜頭粄……阿明最愛食。", pinyin: "shidˋ tiam banˊ, mong+ sinˋ ngien tiam tiam. fad banˊ biauˊ shi+ voi+ fad coi. coiˇ teu banˊ … a+ min zuiˇ oiˇ shidˋ."}
+    check: true
   - n: 6
     speaker: 阿明
     en: "Fried radish 粄 smells fantastic!"
@@ -53,13 +54,13 @@ dialogue:
     hl: {hanzi: "𠊎毋曉得做。毋過𠊎識食過！", pinyin: "ngai m hiauˊ ded zoˇ. m goˇ ngai shid shidˋ goˇ!"}
   - n: 9
     speaker: 阿婆
-    en: "Eating it: that, Grandma knows."
-    sx: {hanzi: "食，阿婆知。", pinyin: "siid, aˊ poˇ diˊ."}
-    hl: {hanzi: "食，阿婆知。", pinyin: "shidˋ, a+ po diˋ."}
+    en: "Eating it, yes: that Grandma knows. You eat everything!"
+    sx: {hanzi: "食，阿婆知。你麼个都食！", pinyin: "siid, aˊ poˇ diˊ. nˇ maˋ ge du siid!"}
+    hl: {hanzi: "食，阿婆知。你麼个都食！", pinyin: "shidˋ, a+ po diˋ. ngi maˊ gaiˇ du+ shidˋ!"}
   - n: 10
     speaker: 阿姆
     en: "(pouring rice batter into the steaming tray) Batter in, sugar in… then two hours in the steamer, on the stove."
-    sx: {hanzi: "米漿放落去，加糖……在灶頭炊兩點鐘。", pinyin: "miˋ jiongˊ biong log hi, gaˊ tongˇ … coiˊ zo teuˇ cuiˊ liongˋ diamˋ zungˊ."}
+    sx: {hanzi: "米漿放落去，加糖……在灶頭炊兩點鐘。", pinyin: "miˋ jiongˊ biong log hi, gaˊ tongˇ … coiˊ zo teuˇ coiˊ liongˋ diamˋ zungˊ."}
     hl: {hanzi: "米漿放落去，加糖……在灶頭炊兩點鐘。", pinyin: "miˊ ziongˋ biongˇ logˋ hiˇ, gaˋ tong … coiˋ zoˇ teu chuiˋ liongˊ diamˊ zhungˋ."}
     check: true
   - n: 11
@@ -74,14 +75,14 @@ dialogue:
     hl: {hanzi: "發了無？", pinyin: "fad leˋ mo?"}
   - n: 13
     speaker: 阿姆
-    en: "It has! Beautifully! A good sign for the new year."
-    sx: {hanzi: "發了！當發！新年會發財。", pinyin: "fadˋ leˊ! dongˊ fadˋ! xinˊ ngienˇ voi fadˋ coiˇ."}
-    hl: {hanzi: "發了！當發！新年會發財。", pinyin: "fad leˋ! dongˋ fad! sinˋ ngien voi+ fad coi."}
+    en: "It has! Beautifully! A good sign for the new year. Tomorrow's New Year's Eve: just in time."
+    sx: {hanzi: "發了！當發！新年會發財。天光日係年三十，堵堵好。", pinyin: "fadˋ leˊ! dongˊ fadˋ! xinˊ ngienˇ voi fadˋ coiˇ. tienˊ gongˊ ngidˋ he ngienˇ samˊ siib, duˋ duˋ hoˋ."}
+    hl: {hanzi: "發了！當發！新年會發財。韶早係年三十，堵堵好。", pinyin: "fad leˋ! dongˋ fad! sinˋ ngien voi+ fad coi. shau zoˊ heˇ ngien samˋ shibˋ, duˊ duˊ hoˊ."}
   - n: 14
     speaker: 阿婆
-    en: "A-min! No eating on the sly!"
-    sx: {hanzi: "阿明！莫偷食！", pinyin: "aˊ minˇ! mog teuˊ siid!"}
-    hl: {hanzi: "阿明！莫偷食！", pinyin: "a+ min! mogˋ teuˋ shidˋ!"}
+    en: "A-min! No eating on the sly! Sweet 粄 is sticky: it'll stick to your teeth."
+    sx: {hanzi: "阿明！莫偷食！甜粄當黏，會黏牙齒。", pinyin: "aˊ minˇ! mog teuˊ siid! tiamˇ banˋ dongˊ ngiamˇ, voi ngiamˇ ngaˇ ciiˋ."}
+    hl: {hanzi: "阿明！莫偷食！甜粄當黏，會黏牙齒。", pinyin: "a+ min! mogˋ teuˋ shidˋ! tiam banˊ dongˋ ngiam, voi+ ngiam nga chiˊ."}
   - n: 15
     speaker: 阿明
     en: "(mouth full) I'm not eating on the sly… I'm having a taste!"
@@ -110,7 +111,10 @@ notes:
     topic: culture
     text: >
       Each 粄 carries a wish: 甜粄 for sweetness, 發粄 "risen 粄" for 發財 "getting rich" (過年打發粄，表示會發財, an
-      official example). 甜甜个 "sweet": the AA form of lesson 45. 表示 beuˋ sii "stand for, mean".
+      official example). 望 mong "hope for": the official 過年食發粄，望大家今年都有好个發展 "eat risen 粄 at New Year,
+      hoping everyone does well this year"; Mrs Liu's line about 甜粄 copies that shape and is marked for a check.
+      甜甜 is the AA form of lesson 45. 表示 beuˋ sii "stand for, mean". 阿明盡愛食 "A-min loves it": 盡 is "very" as often
+      as "most" (lesson 8), and 愛食 "love to eat" (not 好食, which is "tasty").
   - ref: 7
     topic: grammar
     text: >
@@ -119,7 +123,8 @@ notes:
   - ref: 10
     topic: vocab
     text: >
-      炊 cuiˊ "steam" (Hailu chuiˋ): 炊粄, the word in every official 粄 sentence; 蒸 is the Mandarin-looking alternative.
+      炊 coiˊ "steam" (also heard cuiˊ; Hailu chuiˋ): 炊粄, the word in every official 粄 sentence; 蒸 is the
+      Mandarin-looking alternative.
       米漿 "rice batter", 灶頭 "the stove". The details of Mrs Liu's method are marked for a check.
   - ref: 11
     topic: grammar
@@ -133,7 +138,7 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu: 菜頭粄 for 蘿蔔粄, 炊 chuiˋ, 最好食 for 盡好食.
+      Hailu: 菜頭粄 for 蘿蔔粄 (the dictionary marks 菜頭 as Hailu only), 炊 chuiˋ, 最愛食 for 盡愛食, 韶早 for 天光日.
 
 new_words:
   - {hanzi: 甜粄, pinyin: "tiamˇ banˋ", en: "sweet rice cake (New Year)", hl: {hanzi: 甜粄, pinyin: "tiam banˊ"}}
@@ -145,7 +150,10 @@ new_words:
   - {hanzi: 米, pinyin: "miˋ", en: "rice (uncooked)", hl: {hanzi: 米, pinyin: "miˊ"}}
   - {hanzi: 米漿, pinyin: "miˋ jiongˊ", en: "rice batter", hl: {hanzi: 米漿, pinyin: "miˊ ziongˋ"}}
   - {hanzi: 灶頭, pinyin: "zo teuˇ", en: "stove", hl: {hanzi: 灶頭, pinyin: "zoˇ teu"}}
-  - {hanzi: 炊, pinyin: "cuiˊ", en: "steam (粄)", hl: {hanzi: 炊, pinyin: "chuiˋ"}}
+  - {hanzi: 炊, pinyin: "coiˊ", en: "steam (粄)", hl: {hanzi: 炊, pinyin: "chuiˋ"}}
+  - {hanzi: 牙齒, pinyin: "ngaˇ ciiˋ", en: "tooth, teeth", hl: {hanzi: 牙齒, pinyin: "nga chiˊ"}}
+  - {hanzi: 堵堵好, pinyin: "duˋ duˋ hoˋ", en: "just right, just in time", hl: {hanzi: 堵堵好, pinyin: "duˊ duˊ hoˊ"}}
+  - {hanzi: 望, pinyin: "mong", en: "hope for, look forward to", hl: {hanzi: 望, pinyin: "mong+"}}
   - {hanzi: 發酵, pinyin: "fadˋ gau", en: "leaven, yeast", hl: {hanzi: 發酵, pinyin: "fad gauˇ"}}
   - {hanzi: 無就, pinyin: "moˇ qiu", en: "or else, otherwise", hl: {hanzi: 無就, pinyin: "mo ciu+"}}
   - {hanzi: 新年, pinyin: "xinˊ ngienˇ", en: "the New Year", hl: {hanzi: 新年, pinyin: "sinˋ ngien"}}

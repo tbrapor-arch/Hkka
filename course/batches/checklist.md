@@ -82,3 +82,13 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   knowledge" when that is the source.
 - Check every "lesson N" in the notes by grep before committing.
 - "Online" is 在網路, not 網路項; "within N days" is N日內.
+
+## Added after the batch 8 review
+- 𫣆兜 includes the listener. When the listener is outside the group (Grandma telling Sam what "we" do every year,
+  竹東 relatives telling a Miaoli guest), say 𠊎兜.
+- 恁大仔 / 恁多仔 are predicative only: 皮箱正恁大仔, never 恁大仔个皮箱.
+- "The first time" is 頭一擺; 頭擺 is "formerly, in the old days".
+- 尞天穿 "rest on 天穿日" is attested (天穿日愛尞天穿, 客人有尞天穿个風俗). Before writing "no example supports this
+  custom", grep `example` for the custom's key words.
+- A Hailu-only word (韶早) has no Sixian reading: put it in the Hailu line only and let the English say so.
+- After 恁仔細 nothing follows (no 你兜, no object): see batch 7.

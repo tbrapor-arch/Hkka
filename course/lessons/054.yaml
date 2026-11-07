@@ -12,15 +12,14 @@ names: [竹東, 新竹, 北埔, 阿英, 阿明]
 dialogue:
   - n: 1
     speaker: 阿舅
-    en: "Now we've eaten, let's go and have a wander down the old street."
-    sx: {hanzi: "食飽了，𫣆兜去老街遶遶啊。", pinyin: "siid bauˋ leˊ, enˊ deuˊ hi loˋ gieˊ lauˊ lauˊ a."}
-    hl: {hanzi: "食飽了，𫣆兜去老街遶遶啊。", pinyin: "shidˋ bauˊ leˋ, enˋ deuˋ hiˇ loˊ gaiˋ lauˋ lauˋ a+."}
+    en: "We've eaten so much: loosen your belts! Let's go and have a wander down the old street."
+    sx: {hanzi: "食恁飽，褲頭放鬆兜仔！𫣆兜去老街遶遶啊。", pinyin: "siid anˋ bauˋ, fu teuˇ biong sungˊ deuˊ eˋ! enˊ deuˊ hi loˋ gieˊ lauˊ lauˊ a."}
+    hl: {hanzi: "食恁飽，褲頭放鬆兜仔！𫣆兜去老街遶遶啊。", pinyin: "shidˋ anˊ bauˊ, fuˇ teu biongˇ sungˋ deuˋ er! enˋ deuˋ hiˇ loˊ gaiˋ lauˋ lauˋ a+."}
   - n: 2
     speaker: 阿明
-    en: "(on the old street) So many people! Look at the queues in front of the stalls!"
-    sx: {hanzi: "恁多人！攤仔前排到恁長！", pinyin: "anˋ doˊ nginˇ! tanˊ eˋ qienˇ paiˇ do anˋ congˇ!"}
-    hl: {hanzi: "恁多人！攤仔前排到恁長！", pinyin: "anˊ doˋ ngin! tanˋ er cien pai doˇ anˊ chong!"}
-    check: true
+    en: "(on the old street) So many people! It's packed! Look how long the queues in front of the stalls are!"
+    sx: {hanzi: "恁多人！當擠！攤仔前个列仔排到恁長！", pinyin: "anˋ doˊ nginˇ! dongˊ jiˊ! tanˊ eˋ qienˇ ge lad eˋ paiˇ do anˋ congˇ!"}
+    hl: {hanzi: "恁多人！當擠！攤仔前个列仔排到恁長！", pinyin: "anˊ doˋ ngin! dongˋ ziˋ! tanˋ er cien gaiˇ liedˋ er pai doˇ anˊ chong!"}
   - n: 3
     speaker: Sam
     en: "What does that shop sell?"
@@ -28,14 +27,14 @@ dialogue:
     hl: {hanzi: "該間店賣麼个？", pinyin: "gai gienˋ diamˇ mai+ maˊ gaiˇ?"}
   - n: 4
     speaker: 阿英
-    en: "Dried persimmons: you dry persimmons in the sun and you get 柿餅. The ones from 北埔 are delicious."
-    sx: {hanzi: "柿餅。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "cii biangˋ. cii eˋ sai zauˊ, qiu he cii biangˋ. bedˋ puˊ cudˋ sanˋ ge cii biangˋ dongˊ hoˋ siid."}
-    hl: {hanzi: "柿餅。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "ki+ biangˊ. ki+ er saiˇ zauˋ, ciu+ heˇ ki+ biangˊ. bed puˋ chud sanˊ gaiˇ ki+ biangˊ dongˋ hoˊ shidˋ."}
+    en: "Dried persimmons, 北埔's speciality: you dry persimmons in the sun and you get 柿餅. The ones from 北埔 are delicious."
+    sx: {hanzi: "柿餅，北埔个特產。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "cii biangˋ, bedˋ puˊ ge tid sanˋ. cii eˋ sai zauˊ, qiu he cii biangˋ. bedˋ puˊ cudˋ sanˋ ge cii biangˋ dongˊ hoˋ siid."}
+    hl: {hanzi: "柿餅，北埔个特產。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "ki+ biangˊ, bed puˋ gaiˇ tidˋ sanˊ. ki+ er saiˇ zauˋ, ciu+ heˇ ki+ biangˊ. bed puˋ chud sanˊ gaiˇ ki+ biangˊ dongˋ hoˊ shidˋ."}
   - n: 5
     speaker: 頭家
-    en: "Have a taste first. Buy if you like it."
-    sx: {hanzi: "先試食一下，好食正買。", pinyin: "xienˊ cii siid idˋ ha, hoˋ siid zang maiˊ."}
-    hl: {hanzi: "先試食一下，好食正買。", pinyin: "senˋ chiˇ shidˋ rhid ha+, hoˊ shidˋ zhangˇ maiˋ."}
+    en: "Have a taste first: buy if you like it."
+    sx: {hanzi: "先試嚐啊，好食正買。", pinyin: "xienˊ cii songˇ a, hoˋ siid zang maiˊ."}
+    hl: {hanzi: "先試嚐啊，好食正買。", pinyin: "senˋ chiˇ shong a+, hoˊ shidˋ zhangˇ maiˋ."}
   - n: 6
     speaker: Sam
     en: "(tasting) Very sweet! I'd like three packets."
@@ -59,14 +58,14 @@ dialogue:
     hl: {hanzi: "阿舅，𠊎愛食粄條！", pinyin: "a+ kiuˋ, ngai oiˇ shidˋ banˊ tiau!"}
   - n: 10
     speaker: 阿舅
-    en: "Come on, then. That 粄條 shop, with the old signboard, buys from me."
-    sx: {hanzi: "好，來。該間粄條店招牌當老，係𠊎个人客。", pinyin: "hoˋ, loiˇ. ge gienˊ banˋ tiauˇ diam zeuˊ paiˇ dongˊ loˋ, he ngaiˇ ge nginˇ hagˋ."}
-    hl: {hanzi: "好，來。該間粄條店招牌當老，係𠊎个人客。", pinyin: "hoˊ, loi. gai gienˋ banˊ tiau diamˇ zhauˋ pai dongˋ loˊ, heˇ ngai gaiˇ ngin hag."}
+    en: "Come on, then. These old shophouses are historic buildings. That 粄條 shop, with the old signboard under the eaves, buys from me."
+    sx: {hanzi: "好，來。這兜老屋係古蹟。該間粄條店屋簷下个招牌當老，係𠊎个人客。", pinyin: "hoˋ, loiˇ. iaˋ deuˊ loˋ vugˋ he guˋ jidˋ. ge gienˊ banˋ tiauˇ diam vugˋ iamˇ ha ge zeuˊ paiˇ dongˊ loˋ, he ngaiˇ ge nginˇ hagˋ."}
+    hl: {hanzi: "好，來。這兜老屋係古蹟。該間粄條店屋簷下个招牌當老，係𠊎个人客。", pinyin: "hoˊ, loi. liaˊ deuˋ loˊ vug heˇ guˊ zid. gai gienˋ banˊ tiau diamˇ vug rham haˋ gaiˇ zhauˋ pai dongˋ loˊ, heˇ ngai gaiˇ ngin hag."}
   - n: 11
     speaker: Sam
-    en: "(over a steaming bowl) Were these noodles made in your factory, uncle?"
-    sx: {hanzi: "這粄條係阿舅个工廠做个無？", pinyin: "iaˋ banˋ tiauˇ he aˊ kiuˊ ge gungˊ congˋ zo ge moˇ?"}
-    hl: {hanzi: "這粄條係阿舅个工廠做个無？", pinyin: "liaˊ banˊ tiau heˇ a+ kiuˋ gaiˇ gungˋ chong zoˇ gaiˇ mo?"}
+    en: "(over a steaming bowl) Was this bowl of noodles made in your factory, uncle?"
+    sx: {hanzi: "這碗粄條係阿舅个工廠做个無？", pinyin: "iaˋ vonˋ banˋ tiauˇ he aˊ kiuˊ ge gungˊ congˋ zo ge moˇ?"}
+    hl: {hanzi: "這碗粄條係阿舅个工廠做个無？", pinyin: "liaˊ vonˊ banˊ tiau heˇ a+ kiuˋ gaiˇ gungˋ chong zoˇ gaiˇ mo?"}
   - n: 12
     speaker: 阿舅
     en: "They were. Good?"
@@ -96,6 +95,12 @@ notes:
       遶 lauˊ "stroll, wander about (for fun)": 遶街 "go round the shops", 遶遶啊 "have a wander", the VV啊 of lesson 36
       (an official example: 禮拜日來去觀霧遶遶啊，愛無？ "shall we go for a wander up at 觀霧 on Sunday?"). 老街 "the old
       street", the restored shopping streets of many Hakka towns.
+  - ref: 2
+    topic: grammar
+    text: >
+      列仔排到恁長 "the queue stretches so far": 列仔 lad eˋ "a queue, a line", 排 "line up", V到 + result (lesson 27). The
+      official example: 今晡日人較多，列仔排到盡長 "lots of people today, the queue is very long". 擠 jiˊ "crowded". 褲頭放鬆
+      兜仔 (line 1) "loosen your waistband a bit": the host's joke after a three-hour lunch.
   - ref: 4
     topic: culture
     text: >
@@ -105,8 +110,9 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      好食正買 "if it's good, (only) then buy it": 正 "only then" after a condition (an official example: 頭家喊大家試食一
-      下，好食正買). The same 正 ends lesson 54's set phrase: 有閒正來尞 (line 15) "come and see us when you're free",
+      好食正買 "if it's good, (only) then buy it": 正 "only then" after a condition (an official example: 頭家喊大家試嚐啊，
+      好食正買 "the stallholder told everyone to have a taste, and buy if they liked it"). 嚐 songˇ "taste", with the
+      試…啊 of lesson 36. The same 正 ends this lesson's set phrase: 有閒正來尞 (line 15) "come and see us when you're free",
       literally "(when you) have time, then come and visit". It is how hosts and shopkeepers say goodbye.
   - ref: 7
     topic: grammar
@@ -117,8 +123,8 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      買過 "buy again, buy another": 過 after the verb is "again, anew", as in 寫毋著做得寫過 "if you write it wrong you can
-      write it again" (official example). It is not the 過 of 食過 "have eaten" (lesson 9): there, 過 tells you it has
+      買過 "buy again, buy another": 過 after the verb is "again, anew", as in 用鉛筆寫字，寫毋著做得捽忒寫過 "when you write
+      in pencil, if you get it wrong you can rub it out and write it again" (official example). It is not the 過 of 食過 "have eaten" (lesson 9): there, 過 tells you it has
       happened; here, that it will be done a second time. In line 13, 食過 means "eat again", and the context tells you
       which. Both lines are marked for a check.
 
@@ -142,6 +148,10 @@ new_words:
   - {hanzi: 擠, pinyin: "jiˊ", en: "crowded; push in", hl: {hanzi: 擠, pinyin: "ziˋ"}}
   - {hanzi: 柿仔, pinyin: "cii eˋ", en: "persimmon", hl: {hanzi: 柿仔, pinyin: "ki+ er"}}
   - {hanzi: 鬆, pinyin: "sungˊ", en: "loose; relaxed", hl: {hanzi: 鬆, pinyin: "sungˋ"}}
+  - {hanzi: 嚐, pinyin: "songˇ", en: "taste", hl: {hanzi: 嚐, pinyin: "shong"}}
+  - {hanzi: 列, pinyin: "lad", en: "row, line (列仔 a queue)", hl: {hanzi: 列, pinyin: "liedˋ"}}
+  - {hanzi: 鉛筆, pinyin: "ienˇ bidˋ", en: "pencil", hl: {hanzi: 鉛筆, pinyin: "rhan bid"}}
+  - {hanzi: 捽, pinyin: "cud", en: "rub (out), wipe", hl: {hanzi: 捽, pinyin: "cudˋ"}}
   - {hanzi: 夜市, pinyin: "ia sii", en: "night market", hl: {hanzi: 夜市, pinyin: "rha+ shi+"}}
 
 exercises:
@@ -150,9 +160,10 @@ exercises:
       sx: {hanzi: "老街當擠，𫣆兜去夜市遶遶啊。", pinyin: "loˋ gieˊ dongˊ jiˊ, enˊ deuˊ hi ia sii lauˊ lauˊ a."}
       hl: {hanzi: "老街當擠，𫣆兜去夜市遶遶啊。", pinyin: "loˊ gaiˋ dongˋ ziˋ, enˋ deuˋ hiˇ rha+ shi+ lauˋ lauˋ a+."}
       check: true
-    - en: "If you write a character wrong, you can write it again."
-      sx: {hanzi: "字寫毋著，做得寫過。", pinyin: "sii xiaˋ mˇ cog, zo dedˋ xiaˋ go."}
-      hl: {hanzi: "字寫毋著，做得寫過。", pinyin: "sii+ siaˊ m chogˋ, zoˇ ded siaˊ goˇ."}
+    - en: "When you write in pencil, if you get it wrong you can rub it out and write it again."
+      sx: {hanzi: "用鉛筆寫字，寫毋著做得捽忒寫過。", pinyin: "iung ienˇ bidˋ xiaˋ sii, xiaˋ mˇ cog zo dedˋ cud tedˋ xiaˋ go."}
+      hl: {hanzi: "用鉛筆寫字，寫毋著做得捽忒寫過。", pinyin: "rhung+ rhan bid siaˊ sii+, siaˊ m chogˋ zoˇ ded cudˋ ted siaˊ goˇ."}
+      source: kaga115
     - en: "北埔's speciality is dried persimmons; the persimmons dry in the wind."
       sx: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bedˋ puˊ ge tid sanˋ he cii biangˋ; cii eˋ bunˊ fungˊ coiˊ zauˊ."}
       hl: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bed puˋ gaiˇ tidˋ sanˊ heˇ ki+ biangˊ; ki+ er bunˋ fungˋ choiˋ zauˋ."}
@@ -173,8 +184,9 @@ exercises:
       hl: {hanzi: "去老街遶街當好尞，老屋係古蹟。", pinyin: "hiˇ loˊ gaiˋ lauˋ gaiˋ dongˋ hoˊ liau+, loˊ vug heˇ guˊ zid."}
       check: true
     - en: "That stall sells candied winter melon: it's very sweet."
-      sx: {hanzi: "該攤仔賣冬瓜糖，當甜。", pinyin: "ge tanˊ eˋ mai dungˊ guaˊ tongˇ, dongˊ tiamˇ."}
-      hl: {hanzi: "該攤仔賣冬瓜糖，當甜。", pinyin: "gai tanˋ er mai+ dungˋ guaˋ tong, dongˋ tiam."}
+      sx: {hanzi: "該隻攤仔賣冬瓜糖，當甜。", pinyin: "ge zagˋ tanˊ eˋ mai dungˊ guaˊ tongˇ, dongˊ tiamˇ."}
+      hl: {hanzi: "該隻攤仔賣冬瓜糖，當甜。", pinyin: "gai zhag tanˋ er mai+ dungˋ guaˋ tong, dongˋ tiam."}
+      check: true
   fill:
     - en: "Come and see us when you're free!"
       sx: {hanzi: "有閒___來尞！", pinyin: "iuˊ hanˇ ___ loiˇ liau!", answer_hanzi: "正", answer: "zang"}

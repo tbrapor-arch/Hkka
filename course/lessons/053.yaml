@@ -6,7 +6,7 @@ title:
 review: false
 setting: >-
   Sunday 7 February, the second day of the year, when married daughters go back to their own families. Mr and Mrs Liu
-  drive A-in, A-min and Sam an hour north to 竹東, in 新竹 county, where Mrs Liu grew up. Grandma and Grandpa stay in
+  drive A-in, A-min and Sam an hour north to 竹東, to Mrs Liu's parents (姐公 and 姐婆) and her brother's family, in 新竹 county, where Mrs Liu grew up. Grandma and Grandpa stay in
   Miaoli for their own visitors. In 竹東 the family speaks Hailu, and Mrs Liu switches the moment she steps out of the
   car.
 names: [竹東, 新竹, 苗栗, 阿英, 阿明]
@@ -24,9 +24,9 @@ dialogue:
     hl: {hanzi: "轉來了！遽遽入來，入來！", pinyin: "zhonˊ loi leˋ! giag giag ngibˋ loi, ngibˋ loi!"}
   - n: 3
     speaker: 阿明
-    en: "Granny, Happy New Year!"
-    sx: {hanzi: "姐婆，新年快樂！", pinyin: "jiaˋ poˇ, xinˊ ngienˇ kuai log!"}
-    hl: {hanzi: "姐婆，新年快樂！", pinyin: "ziaˊ po, sinˋ ngien kuaiˇ logˋ!"}
+    en: "Grandad, Granny, Happy New Year!"
+    sx: {hanzi: "姐公、姐婆，新年快樂！", pinyin: "jiaˋ gungˊ, jiaˋ poˇ, xinˊ ngienˇ kuai log!"}
+    hl: {hanzi: "姐公、姐婆，新年快樂！", pinyin: "ziaˊ gungˋ, ziaˊ po, sinˋ ngien kuaiˇ logˋ!"}
   - n: 4
     speaker: 阿舅
     en: "So you're Sam? My sister says your Hakka is very good."
@@ -34,14 +34,14 @@ dialogue:
     hl: {hanzi: "你就係 Sam？阿妹講你个客話當好。", pinyin: "ngi ciu+ heˇ Sam? a+ moiˇ gongˊ ngi gaiˇ hag voiˋ dongˋ hoˊ."}
   - n: 5
     speaker: Sam
-    en: "Only a little, uncle. And thank you for having us."
-    sx: {hanzi: "阿舅，一息仔定定。恁仔細你兜。", pinyin: "aˊ kiuˊ, idˋ xid eˋ tin tin. anˋ ziiˋ se nˇ deuˊ."}
-    hl: {hanzi: "阿舅，一息仔定定。恁仔細你兜。", pinyin: "a+ kiuˋ, rhid sid er tin+ tin+. anˊ ziiˊ seˇ ngi deuˋ."}
+    en: "Only a little, uncle. And thank you!"
+    sx: {hanzi: "阿舅，一息仔定定。恁仔細！", pinyin: "aˊ kiuˊ, idˋ xid eˋ tin tin. anˋ ziiˋ se!"}
+    hl: {hanzi: "阿舅，一息仔定定。恁仔細！", pinyin: "a+ kiuˋ, rhid sid er tin+ tin+. anˊ ziiˊ seˇ!"}
   - n: 6
     speaker: 姐婆
-    en: "(laughing) 恁仔細! That's how they say it in Miaoli. Here in 竹東 we say 承蒙你."
-    sx: {hanzi: "恁仔細！該係苗栗个講法。𫣆兜竹東講承蒙你。", pinyin: "anˋ ziiˋ se! ge he meuˇ lidˋ ge gongˋ fabˋ. enˊ deuˊ zugˋ dungˊ gongˋ siinˇ mungˇ nˇ."}
-    hl: {hanzi: "恁仔細！該係苗栗个講法。𫣆兜竹東講承蒙你。", pinyin: "anˊ ziiˊ seˇ! gai heˇ miau lid gaiˇ gongˊ fab. enˋ deuˋ zhug dungˋ gongˊ shin mung ngi."}
+    en: "(laughing) 恁仔細! You've got a Miaoli accent. That's how they say it in Miaoli; here in 竹東 we say 承蒙你."
+    sx: {hanzi: "恁仔細！你有苗栗腔。該係苗栗个講法，𠊎兜竹東講承蒙你。", pinyin: "anˋ ziiˋ se! nˇ iuˊ meuˇ lidˋ kiongˊ. ge he meuˇ lidˋ ge gongˋ fabˋ, ngaiˇ deuˊ zugˋ dungˊ gongˋ siinˇ mungˇ nˇ."}
+    hl: {hanzi: "恁仔細！你有苗栗腔。該係苗栗个講法，𠊎兜竹東講承蒙你。", pinyin: "anˊ ziiˊ seˇ! ngi rhiuˋ miau lid kiongˋ. gai heˇ miau lid gaiˇ gongˊ fab, ngai deuˋ zhug dungˋ gongˊ shin mung ngi."}
     check: true
   - n: 7
     speaker: Sam
@@ -55,8 +55,8 @@ dialogue:
     hl: {hanzi: "阿姆个屋下人全部歇新竹，講海陸話。苗栗講四縣話。", pinyin: "a+ meˋ gaiˇ vug haˋ ngin cion pu+ hied sinˋ zhug, gongˊ hoiˊ liugˋ voiˋ. miau lid gongˊ siˇ rhanˇ voiˋ."}
   - n: 9
     speaker: 阿英
-    en: "It's the same Hakka, but a lot of words are said differently. 'Tomorrow', for instance: we say 天光日, they say 韶早."
-    sx: {hanzi: "共樣係客話，毋過當多話講法無共樣。好比天光日，佢兜講韶早。", pinyin: "kiung iong he hagˋ fa, mˇ go dongˊ doˊ fa gongˋ fabˋ moˇ kiung iong. hoˋ biˋ tienˊ gongˊ ngidˋ, giˇ deuˊ gongˋ seuˇ zoˋ."}
+    en: "It's the same Hakka, but a lot of words are said differently. 'Tomorrow', for instance: we say 天光日, and they don't say it that way at all. (In the Hailu line: they say 韶早.)"
+    sx: {hanzi: "共樣係客話，毋過當多話講法無共樣。好比天光日，佢兜毋係恁樣講。", pinyin: "kiung iong he hagˋ fa, mˇ go dongˊ doˊ fa gongˋ fabˋ moˇ kiung iong. hoˋ biˋ tienˊ gongˊ ngidˋ, giˇ deuˊ mˇ he anˋ ngiongˇ gongˋ."}
     hl: {hanzi: "共樣係客話，毋過當多話講法無共樣。好比天光日，佢兜講韶早。", pinyin: "kiung+ rhong+ heˇ hag voiˋ, m goˇ dongˋ doˋ voiˋ gongˊ fab mo kiung+ rhong+. hoˊ biˊ tienˋ gongˋ ngid, gi deuˋ gongˊ shau zoˊ."}
     check: true
   - n: 10
@@ -72,9 +72,10 @@ dialogue:
     hl: {hanzi: "做粄條？𠊎毋曉得做。", pinyin: "zoˇ banˊ tiau? ngai m hiauˊ ded zoˇ."}
   - n: 12
     speaker: 阿舅
-    en: "Don't worry, I'll teach you. Board and lodging included, and a wage. And you can learn Hailu while you're at it."
-    sx: {hanzi: "毋使驚，𠊎教你。有食有歇，還有工錢。你乜做得學海陸話。", pinyin: "mˇ siiˋ giangˊ, ngaiˇ gauˊ nˇ. iuˊ siid iuˊ hiedˋ, hanˇ iuˊ gungˊ qienˇ. nˇ me zo dedˋ hog hoiˋ liugˋ fa."}
-    hl: {hanzi: "毋使驚，𠊎教你。有食有歇，還有工錢。你乜做得學海陸話。", pinyin: "m siiˊ giangˋ, ngai gauˋ ngi. rhiuˋ shidˋ rhiuˋ hied, han rhiuˋ gungˋ cien. ngi meˇ zoˇ ded hogˋ hoiˊ liugˋ voiˋ."}
+    en: "Don't worry, I'll teach you. Board and lodging included, and a wage; my wife will look after you. And you can learn Hailu while you're at it."
+    sx: {hanzi: "毋使驚，𠊎教你。有食有歇，還有工錢，舅姆會照顧你。你乜做得學海陸話。", pinyin: "mˇ siiˋ giangˊ, ngaiˇ gauˊ nˇ. iuˊ siid iuˊ hiedˋ, hanˇ iuˊ gungˊ qienˇ, kiuˊ meˊ voi zeu gu nˇ. nˇ me zo dedˋ hog hoiˋ liugˋ fa."}
+    hl: {hanzi: "毋使驚，𠊎教你。有食有歇，還有工錢，舅姆會照顧你。你乜做得學海陸話。", pinyin: "m siiˊ giangˋ, ngai gauˋ ngi. rhiuˋ shidˋ rhiuˋ hied, han rhiuˋ gungˋ cien, kiuˋ meˋ voi+ zhauˇ guˇ ngi. ngi meˇ zoˇ ded hogˋ hoiˊ liugˋ voiˋ."}
+    check: true
   - n: 13
     speaker: Sam
     en: "(after a glance at Mrs Liu, who nods) All right! I'll come. Thank you, uncle!"
@@ -108,23 +109,25 @@ notes:
     topic: culture
     text: >
       An official example says nearly the same: 厥家族全部戴新竹，講海陸話 "his whole family lives in 新竹 and speaks Hailu".
-      海陸 comes from 海豐 and 陸豐, the two counties in 惠州 that Hailu speakers' ancestors came from; 四縣 Sixian means
-      "four counties", in 嘉應州. 歇 hed "live" (lesson 22).
+      Another explains the name: 惠州府來到臺灣个客家人，大體係海豐縣、陸豐縣較多，一般係講海陸腔 "the Hakka who came to
+      Taiwan from 惠州 were mostly from 海豐 and 陸豐 counties, and generally speak the Hailu accent". 四縣 Sixian means
+      "four counties". 歇 hed "live" (lesson 22).
   - ref: 9
     topic: grammar
     text: >
-      好比 "for example". 共樣係客話 "it's the same Hakka": 共樣 (lesson 15) before the verb, "equally, just as much".
+      好比 "for example". 佢兜毋係恁樣講 "they don't say it like that": 竹東 says 韶早 shau zoˊ, a word Sixian doesn't
+      have, so it appears only in the Hailu line. 共樣係客話 "it's the same Hakka": 共樣 (lesson 15) before the verb, "equally, just as much".
       The differences you have met in the Hailu lines so far: 韶早 / 天光日 "tomorrow", 承蒙 / 恁仔細 "thanks", 摎 / 同
       "with", 落水 / 落雨 "rain", 个 gaiˇ / ge, and a different set of tones throughout.
   - ref: 10
     topic: vocab
     text: >
       欠人 "be short of people": 欠 kiam "lack, owe". 粄條 "flat rice noodles", 竹東's speciality and 阿舅's trade;
-      工廠 gungˊ congˋ "factory". 過年過後 "after the New Year".
+      工廠 gungˊ congˋ "factory". 過年過後 "after the New Year" is marked for a check (no example has it).
   - ref: 12
     topic: grammar
     text: >
-      有食有歇 "with food and a bed": 有 X 有 Y lists what comes with the job. 工錢 "wages, pay". 學 (lesson 26) "learn".
+      有食有歇 "with food and a bed": 有 X 有 Y lists what comes with the job (no example has this pair: checked line). 工錢 "wages, pay". 學 (lesson 26) "learn".
 
 new_words:
   - {hanzi: 初, pinyin: "cuˊ", en: "(before 1–10) day of the lunar month: 年初二", hl: {hanzi: 初, pinyin: "cuˋ"}}
@@ -137,7 +140,6 @@ new_words:
   - {hanzi: 陸, pinyin: "liugˋ", en: "land (海陸 Hailu)", hl: {hanzi: 陸, pinyin: "liugˋ"}}
   - {hanzi: 四縣, pinyin: "xi ien", en: "Sixian (accent)", hl: {hanzi: 四縣, pinyin: "siˇ rhanˇ"}}
   - {hanzi: 好比, pinyin: "hoˋ biˋ", en: "for example", hl: {hanzi: 好比, pinyin: "hoˊ biˊ"}}
-  - {hanzi: 韶, pinyin: "seuˇ", en: "(韶早 tomorrow, Hailu)", hl: {hanzi: 韶, pinyin: "shau"}}
   - {hanzi: 聲調, pinyin: "sangˊ tiau", en: "tone (of a syllable)", hl: {hanzi: 聲調, pinyin: "shangˋ tiau+"}}
   - {hanzi: 過後, pinyin: "go heu", en: "afterwards, after", hl: {hanzi: 過後, pinyin: "goˇ heu+"}}
   - {hanzi: 粄條, pinyin: "banˋ tiauˇ", en: "flat rice noodles", hl: {hanzi: 粄條, pinyin: "banˊ tiau"}}
@@ -162,7 +164,7 @@ exercises:
       hl: {hanzi: "姐公、姐婆歇竹東，舅姆照顧佢兜。", pinyin: "ziaˊ gungˋ, ziaˊ po hied zhug dungˋ, kiuˋ meˋ zhauˇ guˇ gi deuˋ."}
     - en: "Sam has a Miaoli accent."
       sx: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gongˋ fa iuˊ meuˇ lidˋ kiongˊ."}
-      hl: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gongˊ faˇ rhiuˋ miau lid kiongˋ."}
+      hl: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gong+ voiˋ rhiuˋ miau lid kiongˋ."}
       check: true
     - en: "Finding a job is hard; uncle's factory is short of people."
       sx: {hanzi: "頭路當難尋，阿舅个工廠欠人。", pinyin: "teuˇ lu dongˊ nanˇ qimˇ, aˊ kiuˊ ge gungˊ congˋ kiam nginˇ."}
@@ -178,9 +180,9 @@ exercises:
     - en: "Thank you! (Hailu)"
       sx: {hanzi: "___你！", pinyin: "___ nˇ!", answer_hanzi: "承蒙", answer: "siinˇ mungˇ"}
       hl: {hanzi: "___你！", pinyin: "___ ngi!", answer_hanzi: "承蒙", answer: "shin mung"}
-    - en: "Tomorrow (Hailu): 韶早. Tomorrow (Sixian): ___."
-      sx: {hanzi: "韶早，___。", pinyin: "seuˇ zoˋ, ___.", answer_hanzi: "天光日", answer: "tienˊ gongˊ ngidˋ"}
-      hl: {hanzi: "韶早，___。", pinyin: "shau zoˊ, ___.", answer_hanzi: "天光日", answer: "tienˋ gongˋ ngid"}
+    - en: "For example, 'tomorrow'."
+      sx: {hanzi: "___天光日。", pinyin: "___ tienˊ gongˊ ngidˋ.", answer_hanzi: "好比", answer: "hoˋ biˋ"}
+      hl: {hanzi: "___韶早。", pinyin: "___ shau zoˊ.", answer_hanzi: "好比", answer: "hoˊ biˊ"}
     - en: "The factory is short of hands."
       sx: {hanzi: "工廠___人。", pinyin: "gungˊ congˋ ___ nginˇ.", answer_hanzi: "欠", answer: "kiam"}
       hl: {hanzi: "工廠___人。", pinyin: "gungˋ chong ___ ngin.", answer_hanzi: "欠", answer: "kiamˇ"}

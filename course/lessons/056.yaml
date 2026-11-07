@@ -18,9 +18,9 @@ dialogue:
     hl: {hanzi: "恁多人！大家坐等來，比賽愛來了。", pinyin: "anˊ doˋ ngin! tai+ gaˋ coˋ denˊ loi, biˊ soiˇ oiˇ loi leˋ."}
   - n: 2
     speaker: 姐婆
-    en: "Grandma Liu, it's been so long! Thank you for coming to 竹東."
-    sx: {hanzi: "劉阿婆，恁久無看著！承蒙你來竹東。", pinyin: "liuˇ aˊ poˇ, anˋ giuˋ moˇ kon doˋ! siinˇ mungˇ nˇ loiˇ zugˋ dungˊ."}
-    hl: {hanzi: "劉阿婆，恁久無看著！承蒙你來竹東。", pinyin: "liu a+ po, anˊ giuˊ mo konˇ doˊ! shin mung ngi loi zhug dungˋ."}
+    en: "My dear 親家, it's been so long! Thank you for coming to 竹東."
+    sx: {hanzi: "親家姆，恁久無看著！承蒙你來竹東。", pinyin: "qinˊ gaˊ meˊ, anˋ giuˋ moˇ kon doˋ! siinˇ mungˇ nˇ loiˇ zugˋ dungˊ."}
+    hl: {hanzi: "親家姆，恁久無看著！承蒙你來竹東。", pinyin: "cinˋ gaˋ meˋ, anˊ giuˊ mo konˇ doˊ! shin mung ngi loi zhug dungˋ."}
   - n: 3
     speaker: 阿婆
     en: "恁仔細… I mean, 承蒙你!"
@@ -28,9 +28,9 @@ dialogue:
     hl: {hanzi: "恁仔細……毋係，承蒙你！", pinyin: "anˊ ziiˊ seˇ … m heˇ, shin mung ngi!"}
   - n: 4
     speaker: Sam
-    en: "Grandma, your Hailu is good too!"
-    sx: {hanzi: "阿婆个海陸話乜當好！", pinyin: "aˊ poˇ ge hoiˋ liugˋ fa me dongˊ hoˋ!"}
-    hl: {hanzi: "阿婆个海陸話乜當好！", pinyin: "a+ po gaiˇ hoiˊ liugˋ voiˋ meˇ dongˋ hoˊ!"}
+    en: "Grandma, you switch from Hailu to Sixian and back!"
+    sx: {hanzi: "阿婆一下講海陸，一下講四縣！", pinyin: "aˊ poˇ idˋ ha gongˋ hoiˋ liugˋ, idˋ ha gongˋ xi ien!"}
+    hl: {hanzi: "阿婆一下講海陸，一下講四縣！", pinyin: "a+ po rhid ha+ gongˊ hoiˊ liugˋ, rhid ha+ gongˊ siˇ rhanˇ!"}
   - n: 5
     speaker: 阿婆
     en: "Only a little. Only this much."
@@ -47,9 +47,10 @@ dialogue:
     en: "(on the stage, singing) 'Fifty years ago you sang a song; / this time it is the girl who sings in return. / We sang mountain songs till we grew old; / old now, and still we want to sing them.'"
     sx: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老了還愛唱山歌。", pinyin: "ngˋ siib ngienˇ qienˇ nˇ cong goˊ, iaˋ baiˋ aˊ moi loiˇ cong go; sanˊ goˊ cong do nginˇ voi loˋ, loˋ leˊ hanˇ oi cong sanˊ goˊ."}
     hl: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老了還愛唱山歌。", pinyin: "ngˊ shibˋ ngien cien ngi chongˇ goˋ, liaˊ baiˊ a+ moiˇ loi chongˇ goˇ; sanˋ goˋ chongˇ doˇ ngin voi+ loˊ, loˊ leˋ han oiˇ chongˇ sanˋ goˋ."}
+    check: true
   - n: 8
     speaker: 阿舅
-    en: "Look, the longer she sings, the more they clap!"
+    en: "Look, the more they listen, the more they clap!"
     sx: {hanzi: "你看，大家緊聽緊拍手！", pinyin: "nˇ kon, tai gaˊ ginˋ tangˊ ginˋ pogˋ suˋ!"}
     hl: {hanzi: "你看，大家緊聽緊拍手！", pinyin: "ngi konˇ, tai+ gaˋ ginˊ tangˋ ginˊ pog shiuˊ!"}
     check: true
@@ -65,13 +66,13 @@ dialogue:
     hl: {hanzi: "風當大。", pinyin: "fungˋ dongˋ tai+."}
   - n: 11
     speaker: 阿婆
-    en: "(back from the stage, to Sam) Tomorrow you start work. Work hard. And when you're free, come home and see us."
-    sx: {hanzi: "韶早你愛做事，好好做。有閒正轉來尞。", pinyin: "seuˇ zoˋ nˇ oi zo se, hoˋ hoˋ zo. iuˊ hanˇ zang zonˋ loiˇ liau."}
+    en: "(back from the stage, to Sam, and in Hailu: she says 韶早) Tomorrow you start work. Work hard. And when you're free, come home and see us."
+    sx: {hanzi: "天光日你愛做事，好好做。有閒正轉來尞。", pinyin: "tienˊ gongˊ ngidˋ nˇ oi zo se, hoˋ hoˋ zo. iuˊ hanˇ zang zonˋ loiˇ liau."}
     hl: {hanzi: "韶早你愛做事，好好做。有閒正轉來尞。", pinyin: "shau zoˊ ngi oiˇ zoˇ she+, hoˊ hoˊ zoˇ. rhiuˋ han zhangˇ zhonˊ loi liau+."}
   - n: 12
     speaker: Sam
-    en: "韶早? Grandma, that's Hailu!"
-    sx: {hanzi: "韶早？阿婆，該係海陸話！", pinyin: "seuˇ zoˋ? aˊ poˇ, ge he hoiˋ liugˋ fa!"}
+    en: "(in the Hailu line he repeats 韶早) Grandma, you're speaking Hailu!"
+    sx: {hanzi: "阿婆，你講海陸話！", pinyin: "aˊ poˇ, nˇ gongˋ hoiˋ liugˋ fa!"}
     hl: {hanzi: "韶早？阿婆，該係海陸話！", pinyin: "shau zoˊ? a+ po, gai heˇ hoiˊ liugˋ voiˋ!"}
   - n: 13
     speaker: 阿婆
@@ -88,19 +89,21 @@ notes:
   - ref: 1
     topic: grammar
     text: >
-      坐等來 (lesson 52), 比賽 (lesson 55), 恁多人 (lesson 54). 劉阿婆 "Grandma Liu" is how people outside the family address
-      her.
+      坐等來 (lesson 52), 比賽 (lesson 55), 恁多人 (lesson 54). 親家姆 (line 2), "co-mother-in-law": 親家 (lesson 43) + 姆;
+      that is how Mrs Liu's mother addresses Grandma, the mother of her daughter's husband. 劉阿婆 (line 6) is how a
+      stranger with a microphone says it.
   - ref: 3
     topic: culture
     text: >
-      Grandma corrects herself into Hailu (lessons 53 and 55): a guest's courtesy. 恁多仔 (line 5) "only this much", with
+      Grandma corrects herself into Hailu (lesson 53): a guest's courtesy. Sam's line 4 is an official sentence's: 一下講海陸，一下講四縣 "now Hailu, now Sixian". 恁多仔 (line 5) "only this much", with
       the level-tone 恁 an of lesson 55.
   - ref: 7
     topic: culture
     text: >
-      Grandma's answer to Grandpa's verse of lesson 37, written for this course in the same shape: four lines of seven
-      syllables. Lines 1, 2 and 4 rhyme on -o in both accents (Sixian 歌 goˊ, 過 go, 歌 goˊ; Hailu goˋ, goˇ, goˋ), and
-      line 3 ends on -o too (老 loˋ / loˊ). 唱過 "sing again, sing back": the 過 "again" of lesson 54. 妹 is the girl of the songs (lesson 37);
+      Grandma's answer to Grandpa's verse of lesson 37, written for this course. Grandpa sang a pair of lines; Grandma
+      answers with four, of seven syllables each. Lines 1, 2 and 4 rhyme on -o in both accents (Sixian 歌 goˊ, 過 go, 歌 goˊ; Hailu goˋ, goˇ, goˋ), and
+      line 3 ends on -o too (老 loˋ / loˊ). 唱過 "sing again, sing back": the 過 "again" of lesson 54, although no example has
+      唱過 in that sense, and 山歌唱到人會老 has no example either: the verse is marked for a check. 妹 is the girl of the songs (lesson 37);
       the 你 of line 1 is sitting in the third row.
   - ref: 8
     topic: grammar
@@ -110,7 +113,7 @@ notes:
   - ref: 10
     topic: culture
     text: >
-      目珠紅紅 "eyes all red": AA (lesson 45). Grandpa's two-word answer is the course's oldest joke, and its kindest.
+      目珠紅紅 "eyes all red": AA (lesson 45). Grandpa's three-syllable excuse, 風當大 "it's windy", convinces nobody.
   - ref: 13
     topic: culture
     text: >
@@ -120,7 +123,7 @@ notes:
     topic: hailu
     text: >
       Hailu this batch: 菜頭粄 for 蘿蔔粄, 炊 chuiˋ, 張 for 裝 "put in", 柿 ki+, 韶早, 承蒙你, and the level-tone 恁 an in
-      恁大仔 (anˊ for "so").
+      恁大仔 (anˊ for "so"). 韶早 has no Sixian reading, so in lines 11 and 12 it appears only in the Hailu text.
 
 new_words: []
 
@@ -139,11 +142,11 @@ exercises:
       sx: {hanzi: "年初二，阿姆轉外家。", pinyin: "ngienˇ cuˊ ngi, aˊ meˊ zonˋ ngoi gaˊ."}
       hl: {hanzi: "年初二，阿姆轉外家。", pinyin: "ngien cuˋ ngi+, a+ meˋ zhonˊ ngoi+ gaˋ."}
     - en: "Have a taste; if it's good, then buy it. Next time I'll come and buy more."
-      sx: {hanzi: "試食一下，好食正買。下二擺正來買過。", pinyin: "cii siid idˋ ha, hoˋ siid zang maiˊ. ha ngi baiˋ zang loiˇ maiˊ go."}
-      hl: {hanzi: "試食一下，好食正買。下二擺正來買過。", pinyin: "chiˇ shidˋ rhid ha+, hoˊ shidˋ zhangˇ maiˋ. ha+ ngi+ baiˊ zhangˇ loi maiˋ goˇ."}
-    - en: "A suitcase only this big? — So few clothes!"
-      sx: {hanzi: "恁大仔个皮箱？——衫褲恁少！", pinyin: "an tai eˋ ge piˇ xiongˊ? — samˊ fu anˋ seuˋ!"}
-      hl: {hanzi: "恁大仔个皮箱？——衫褲恁少！", pinyin: "an tai+ er gaiˇ pi siongˋ? — samˋ fuˇ anˊ shauˊ!"}
+      sx: {hanzi: "試嚐啊，好食正買。下二擺正來買過。", pinyin: "cii songˇ a, hoˋ siid zang maiˊ. ha ngi baiˋ zang loiˇ maiˊ go."}
+      hl: {hanzi: "試嚐啊，好食正買。下二擺正來買過。", pinyin: "chiˇ shong a+, hoˊ shidˋ zhangˇ maiˋ. ha+ ngi+ baiˊ zhangˇ loi maiˋ goˇ."}
+    - en: "Your suitcase is only this big? — So few clothes!"
+      sx: {hanzi: "皮箱正恁大仔？——衫褲恁少！", pinyin: "piˇ xiongˊ zang an tai eˋ? — samˊ fu anˋ seuˋ!"}
+      hl: {hanzi: "皮箱正恁大仔？——衫褲恁少！", pinyin: "pi siongˋ zhangˇ an tai+ er? — samˋ fuˇ anˊ shauˊ!"}
   fill:
     - en: "The more you eat, the more you want."
       sx: {hanzi: "___食___愛食。", pinyin: "___ siid ___ oi siid.", answer_hanzi: "緊", answer: "ginˋ"}
