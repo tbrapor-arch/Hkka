@@ -1,0 +1,182 @@
+id: 46
+title:
+  en: "Shopping online"
+  sx: {hanzi: "撿採忒細……", pinyin: "giamˋ caiˋ tedˋ se …"}
+  hl: {hanzi: "撿採忒細……", pinyin: "giamˊ caiˊ ted seˇ …"}
+review: false
+setting: >-
+  Tuesday evening. A-min is supposed to be doing his homework at the family computer. Sam passes behind him and sees,
+  on the screen, a jacket.
+names: [阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Sam, look! This jacket is so cool. You have to wear new clothes at New Year."
+    sx: {hanzi: "Sam，你看！這領衫當派頭。過年愛著新衫。", pinyin: "Sam, nˇ kon! iaˋ liangˊ samˊ dongˊ pai teuˇ. go ngienˇ oi zogˋ xinˊ samˊ."}
+    hl: {hanzi: "Sam，你看！這領衫當派頭。過年愛著新衫。", pinyin: "Sam, ngi konˇ! liaˊ liangˋ samˋ dongˋ paiˇ teu. goˇ ngien oiˇ zhog sinˋ samˋ."}
+  - n: 2
+    speaker: Sam
+    en: "You're buying it online?"
+    sx: {hanzi: "你在網路項買？", pinyin: "nˇ coiˊ miongˋ lu hong maiˊ?"}
+    hl: {hanzi: "你在網路項買？", pinyin: "ngi coiˋ miongˊ lu+ hong+ maiˋ?"}
+  - n: 3
+    speaker: 阿明
+    en: "Yes. Online it's cheap, and you don't have to go out."
+    sx: {hanzi: "係啊。網路項當便宜，又毋使出門。", pinyin: "he a. miongˋ lu hong dongˊ pienˇ ngiˇ, iu mˇ siiˋ cudˋ munˇ."}
+    hl: {hanzi: "係啊。網路項當便宜，又毋使出門。", pinyin: "heˇ a+. miongˊ lu+ hong+ dongˋ pien ngi, rhiu+ m siiˊ chud mun."}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "How much is it?"
+    sx: {hanzi: "價錢幾多？", pinyin: "ga qienˇ giˋ doˊ?"}
+    hl: {hanzi: "價錢幾多？", pinyin: "gaˇ cien giˊ doˋ?"}
+  - n: 5
+    speaker: 阿明
+    en: "Eight hundred. …But I haven't got a credit card. Sam, could you lend me yours? I'll pay you back."
+    sx: {hanzi: "八百。……毋過𠊎無信用卡。Sam，你个卡做得借𠊎用無？𠊎會還你。", pinyin: "badˋ bagˋ. … mˇ go ngaiˇ moˇ xin iung kaˋ. Sam, nˇ ge kaˋ zo dedˋ jia ngaiˇ iung moˇ? ngaiˇ voi vanˇ nˇ."}
+    hl: {hanzi: "八百。……毋過𠊎無信用卡。Sam，你个卡做得借𠊎用無？𠊎會還你。", pinyin: "bad bag. … m goˇ ngai mo sinˇ rhung+ kaˊ. Sam, ngi gaiˇ kaˊ zoˇ ded ziaˇ ngai rhung+ mo? ngai voi+ van ngi."}
+  - n: 6
+    speaker: Sam
+    en: "…All right. Just this once."
+    sx: {hanzi: "……好。就這擺。", pinyin: "… hoˋ. qiu iaˋ baiˋ."}
+    hl: {hanzi: "……好。就這擺。", pinyin: "… hoˊ. ciu+ liaˊ baiˊ."}
+  - n: 7
+    speaker: 阿明
+    en: "Large or small? In case it's too small…"
+    sx: {hanzi: "愛大號抑係細號？撿採忒細……", pinyin: "oi tai ho ia he se ho? giamˋ caiˋ tedˋ se …"}
+    hl: {hanzi: "愛大號抑係細號？撿採忒細……", pinyin: "oiˇ tai+ ho+ rha+ heˇ seˇ ho+? giamˊ caiˊ ted seˇ …"}
+  - n: 8
+    speaker: Sam
+    en: "If it's too small, can you change it?"
+    sx: {hanzi: "撿採忒細，做得換無？", pinyin: "giamˋ caiˋ tedˋ se, zo dedˋ von moˇ?"}
+    hl: {hanzi: "撿採忒細，做得換無？", pinyin: "giamˊ caiˊ ted seˇ, zoˇ ded von+ mo?"}
+  - n: 9
+    speaker: 阿明
+    en: "Yes. The website says you can change it within seven days."
+    sx: {hanzi: "做得。網站講，七日肚做得換。", pinyin: "zo dedˋ. miongˋ zam gongˋ, qidˋ ngidˋ duˋ zo dedˋ von."}
+    hl: {hanzi: "做得。網站講，七日肚做得換。", pinyin: "zoˇ ded. miongˊ zhamˇ gongˊ, cid ngid duˊ zoˇ ded von+."}
+    check: true
+  - n: 10
+    speaker: Sam
+    en: "Where does it get sent to?"
+    sx: {hanzi: "寄到哪位？", pinyin: "gi do nai vi?"}
+    hl: {hanzi: "寄到哪位？", pinyin: "giˇ doˇ nai+ vui+?"}
+  - n: 11
+    speaker: 阿明
+    en: "Here, home. We'll get it on Friday."
+    sx: {hanzi: "寄到屋下。禮拜五就會收著。", pinyin: "gi do vugˋ kaˊ. liˊ bai ngˋ qiu voi suˊ doˋ."}
+    hl: {hanzi: "寄到屋下。禮拜五就會收著。", pinyin: "giˇ doˇ vug haˋ. liˋ baiˇ ngˊ ciu+ voi+ shiuˋ doˊ."}
+  - n: 12
+    speaker: Sam
+    en: "(typing in the card number, then going upstairs) Right. The jacket only, OK?"
+    sx: {hanzi: "好了。淨衫定定，好無？", pinyin: "hoˋ leˊ. qiang samˊ tin tin, hoˋ moˇ?"}
+    hl: {hanzi: "好了。淨衫定定，好無？", pinyin: "hoˊ leˋ. ciang+ samˋ tin+ tin+, hoˊ mo?"}
+  - n: 13
+    speaker: 阿明
+    en: "(alone, muttering) These shoes are cool too… just one more pair. Nobody'll know."
+    sx: {hanzi: "這雙鞋乜當派頭……加一雙。無人會知。", pinyin: "iaˋ sungˊ haiˇ me dongˊ pai teuˇ … gaˊ idˋ sungˊ. moˇ nginˇ voi diˊ."}
+    hl: {hanzi: "這雙鞋乜當派頭……加一雙。無人會知。", pinyin: "liaˊ sungˋ hai meˇ dongˋ paiˇ teu … gaˋ rhid sungˋ. mo ngin voi+ diˋ."}
+  - n: 14
+    speaker: 阿婆
+    en: "(from the kitchen) A-min, what are you doing over there?"
+    sx: {hanzi: "阿明，你在該做麼个？", pinyin: "aˊ minˇ, nˇ du ge zo maˋ ge?"}
+    hl: {hanzi: "阿明，你在該做麼个？", pinyin: "a+ min, ngi diˇ gai zoˇ maˊ gaiˇ?"}
+  - n: 15
+    speaker: 阿明
+    en: "Nothing! Homework, on the computer!"
+    sx: {hanzi: "無！在電腦項讀書！", pinyin: "moˇ! coiˊ tien noˋ hong tug suˊ!"}
+    hl: {hanzi: "無！在電腦項讀書！", pinyin: "mo! coiˋ tien+ noˊ hong+ tugˋ shuˋ!"}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      過年愛著新衫 "at New Year you must wear new clothes": new clothes, new shoes and a haircut before the Lunar New Year
+      are a custom children hold their parents to. 新衫 "new clothes".
+  - ref: 2
+    topic: vocab
+    text: >
+      New things get new words, mostly read from the Mandarin characters in Hakka: 網路 miongˋ lu "the internet",
+      網站 "website", 電腦 tien noˋ "computer", 信用卡 "credit card", 號碼 "number". 網路項 "on the internet": 項 "on",
+      as in 桌項.
+  - ref: 4
+    topic: vocab
+    text: >
+      價錢 "price" (lesson 25): 價錢幾多？ "how much is it?", a little more formal than 幾多錢 (lesson 5).
+  - ref: 7
+    topic: grammar
+    text: >
+      撿採 giamˋ caiˋ "in case, if by any chance": 撿採忒細 "in case it's too small". Like 若係 and 係講 (lesson 43), it
+      opens a condition, but it expects the worst. Official example: 撿採阿松無來，還有阿森做得𢯭手 "in case A-song doesn't
+      come, there's still A-sen to help". 大號 / 細號 "large / small size": 號 "number" (lesson 13).
+  - ref: 9
+    topic: grammar
+    text: >
+      七日肚 "within seven days": 肚 "inside" (間房肚, lesson 25) also works for time. Marked for checking. 換 von
+      "exchange, change"; 退 "send back, return".
+  - ref: 11
+    topic: grammar
+    text: >
+      收著 suˊ doˋ "receive, get (something sent)": 收 "receive" + 著 "and get it". Official example: 寄信仔以前寫好郵遞區號，
+      收信人會較遽收著信仔 "write the postcode, and the addressee will receive the letter sooner".
+  - ref: 12
+    topic: grammar
+    text: >
+      淨衫定定 "only the jacket": 淨 qiang "only, nothing but" before the thing, and 定定 (lesson 26) at the end for good
+      measure. Sam is being careful. A-min is not.
+
+new_words:
+  - {hanzi: 新衫, pinyin: "xinˊ samˊ", en: "new clothes", hl: {hanzi: 新衫, pinyin: "sinˋ samˋ"}}
+  - {hanzi: 網路, pinyin: "miongˋ lu", en: "the internet", hl: {hanzi: 網路, pinyin: "miongˊ lu+"}}
+  - {hanzi: 網站, pinyin: "miongˋ zam", en: "website", hl: {hanzi: 網站, pinyin: "miongˊ zhamˇ"}}
+  - {hanzi: 電腦, pinyin: "tien noˋ", en: "computer", hl: {hanzi: 電腦, pinyin: "tien+ noˊ"}}
+  - {hanzi: 信用, pinyin: "xin iung", en: "credit (信用卡 credit card)", hl: {hanzi: 信用, pinyin: "sinˇ rhung+"}}
+  - {hanzi: 卡, pinyin: "kaˋ", en: "card", hl: {hanzi: 卡, pinyin: "kaˊ"}}
+  - {hanzi: 撿採, pinyin: "giamˋ caiˋ", en: "in case, if by any chance", hl: {hanzi: 撿採, pinyin: "giamˊ caiˊ"}}
+  - {hanzi: 換, pinyin: "von", en: "change, exchange", hl: {hanzi: 換, pinyin: "von+"}}
+  - {hanzi: 退, pinyin: "tui", en: "send back, return", hl: {hanzi: 退, pinyin: "tuiˇ"}}
+  - {hanzi: 收著, pinyin: "suˊ doˋ", en: "receive", hl: {hanzi: 收著, pinyin: "shiuˋ doˊ"}}
+  - {hanzi: 這擺, pinyin: "iaˋ baiˋ", en: "this time", hl: {hanzi: 這擺, pinyin: "liaˊ baiˊ"}}
+  - {hanzi: 淨, pinyin: "qiang", en: "only, nothing but", hl: {hanzi: 淨, pinyin: "ciang+"}}
+  - {hanzi: 鞋, pinyin: "haiˇ", en: "shoe(s)", hl: {hanzi: 鞋, pinyin: "hai"}}
+  - {hanzi: 號碼, pinyin: "ho maˊ", en: "number", hl: {hanzi: 號碼, pinyin: "ho+ maˋ"}}
+  - {hanzi: 數字, pinyin: "su sii", en: "digit, figure", hl: {hanzi: 數字, pinyin: "suˇ sii+"}}
+  - {hanzi: 牌仔, pinyin: "paiˇ eˋ", en: "brand, make", hl: {hanzi: 牌, pinyin: "pai"}}
+  - {hanzi: 偷偷仔, pinyin: "teuˊ teuˊ eˋ", en: "secretly, on the quiet", hl: {hanzi: 偷偷, pinyin: "teuˋ teuˋ"}}
+  - {hanzi: 合身, pinyin: "gagˋ siinˊ", en: "(of clothes) fit well", hl: {hanzi: 合身, pinyin: "gag shinˋ"}}
+  - {hanzi: 方便, pinyin: "fongˊ pien", en: "convenient", hl: {hanzi: 方便, pinyin: "fongˋ pien+"}}
+  - {hanzi: 遮仔, pinyin: "zaˊ eˋ", en: "umbrella", hl: {hanzi: 遮仔, pinyin: "zhaˋ er"}}
+  - {hanzi: 尺寸, pinyin: "cagˋ cun", en: "size, measurements", hl: {hanzi: 尺寸, pinyin: "chag cunˇ"}}
+
+exercises:
+  translate:
+    - en: "Shopping by credit card is very convenient."
+      sx: {hanzi: "買東西用信用卡，當方便。", pinyin: "maiˊ dungˊ xiˊ iung xin iung kaˋ, dongˊ fongˊ pien."}
+      hl: {hanzi: "買東西用信用卡，當方便。", pinyin: "maiˋ dungˋ siˋ rhung+ sinˇ rhung+ kaˊ, dongˋ fongˋ pien+."}
+    - en: "What size are you? This make runs small."
+      sx: {hanzi: "你个尺寸幾多？這隻牌仔較細。", pinyin: "nˇ ge cagˋ cun giˋ doˊ? iaˋ zagˋ paiˇ eˋ ka se."}
+      hl: {hanzi: "你个尺寸幾多？這隻牌仔較細。", pinyin: "ngi gaiˇ chag cunˇ giˊ doˋ? liaˊ zhag pai er haˇ seˇ."}
+      check: true
+    - en: "This jacket fits well; those shoes are too big, I'll send them back."
+      sx: {hanzi: "這領衫當合身；該雙鞋忒大，𠊎愛退。", pinyin: "iaˋ liangˊ samˊ dongˊ gagˋ siinˊ; ge sungˊ haiˇ tedˋ tai, ngaiˇ oi tui."}
+      hl: {hanzi: "這領衫當合身；該雙鞋忒大，𠊎愛退。", pinyin: "liaˊ liangˋ samˋ dongˋ gag shinˋ; gai sungˋ hai ted tai+, ngai oiˇ tuiˇ."}
+    - en: "A-min secretly added a pair of shoes."
+      sx: {hanzi: "阿明偷偷仔加一雙鞋。", pinyin: "aˊ minˇ teuˊ teuˊ eˋ gaˊ idˋ sungˊ haiˇ."}
+      hl: {hanzi: "阿明偷偷加一雙鞋。", pinyin: "a+ min teuˋ teuˋ gaˋ rhid sungˋ hai."}
+    - en: "Your card number has sixteen digits."
+      sx: {hanzi: "你个卡號碼有十六隻數字。", pinyin: "nˇ ge kaˋ ho maˊ iuˊ siib liugˋ zagˋ su sii."}
+      hl: {hanzi: "你个卡號碼有十六隻數字。", pinyin: "ngi gaiˇ kaˊ ho+ maˋ rhiuˋ shibˋ liug zhag suˇ sii+."}
+      check: true
+  fill:
+    - en: "In case it rains, take an umbrella."
+      sx: {hanzi: "___落雨，帶遮仔。", pinyin: "___ log iˋ, dai zaˊ eˋ.", answer_hanzi: "撿採", answer: "giamˋ caiˋ"}
+      hl: {hanzi: "___落水，帶遮仔。", pinyin: "___ logˋ shuiˊ, daiˇ zhaˋ er.", answer_hanzi: "撿採", answer: "giamˊ caiˊ"}
+    - en: "We'll get it on Friday."
+      sx: {hanzi: "禮拜五就會___。", pinyin: "liˊ bai ngˋ qiu voi ___.", answer_hanzi: "收著", answer: "suˊ doˋ"}
+      hl: {hanzi: "禮拜五就會___。", pinyin: "liˋ baiˇ ngˊ ciu+ voi+ ___.", answer_hanzi: "收著", answer: "shiuˋ doˊ"}
+    - en: "Just this once."
+      sx: {hanzi: "就___。", pinyin: "qiu ___.", answer_hanzi: "這擺", answer: "iaˋ baiˋ"}
+      hl: {hanzi: "就___。", pinyin: "ciu+ ___.", answer_hanzi: "這擺", answer: "liaˊ baiˊ"}
+
+audio: []
