@@ -1,0 +1,204 @@
+id: 80
+title:
+  en: "The radio phone-in"
+  sx: {hanzi: "叩應時間", pinyin: "ko inˋ siiˇ gienˊ"}
+  hl: {hanzi: "叩應時間", pinyin: "ko inˋ shi gienˋ"}
+review: false
+setting: >-
+  Saturday 5 June, ten in the morning, the kitchen. The radio on the shelf is tuned to the Hakka station, and its
+  Saturday programme has a phone-in. A-in, who now works in town and lives at home again, has written the number on
+  the back of an envelope. Grandma has decided to call. Grandpa is still in hospital, with a radio of his own.
+names: [阿英, 阿明, 苗栗, 劉, 美濃]
+
+dialogue:
+  - n: 1
+    speaker: 主持人
+    en: "(on the radio) Dear listeners, good morning. It's phone-in time on our programme."
+    sx: {hanzi: "各位聽眾，大家好。這下係𫣆節目个叩應時間。", pinyin: "gogˋ vi tangˊ zung, tai gaˊ hoˋ. iaˋ ha he enˊ jiedˋ mug ge ko inˋ siiˇ gienˊ."}
+    hl: {hanzi: "各位聽眾，大家好。這下係𫣆節目个叩應時間。", pinyin: "gog vui+ tangˇ zhungˇ, tai+ gaˋ hoˊ. liaˊ ha+ heˇ enˋ zied mug gaiˇ ko inˋ shi gienˋ."}
+    check: true
+  - n: 2
+    speaker: 阿英
+    en: "Grandma, are you really going to call?"
+    sx: {hanzi: "阿婆，你有影愛打電話去？", pinyin: "aˊ poˇ, nˇ iuˊ iangˋ oi daˋ tien fa hi?"}
+    hl: {hanzi: "阿婆，你有影愛打電話去？", pinyin: "a+ po, ngi rhiuˋ rhangˊ oiˇ daˊ tien+ faˇ hiˇ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "Really. The nurses have been so good; I want to thank them. What's the number?"
+    sx: {hanzi: "有影。護士恁好，𠊎愛感謝佢兜。號碼係幾多？", pinyin: "iuˊ iangˋ. fu sii anˋ hoˋ, ngaiˇ oi gamˋ qia giˇ deuˊ. ho maˊ he giˋ doˊ?"}
+    hl: {hanzi: "有影。護士恁好，𠊎愛感謝佢兜。號碼係幾多？", pinyin: "rhiuˋ rhangˊ. fu+ sii+ anˊ hoˊ, ngai oiˇ gamˊ cia+ gi deuˋ. ho+ maˋ heˇ giˊ doˋ?"}
+  - n: 4
+    speaker: 主持人
+    en: "We have a call. Hello, listener! Who's on the line, and where are you calling from?"
+    sx: {hanzi: "電話通了。這位聽眾，你好！請問你安到麼个？係哪位人？", pinyin: "tien fa tungˊ leˊ. iaˋ vi tangˊ zung, nˇ hoˋ! qiangˋ mun nˇ onˊ do maˋ ge? he nai vi nginˇ?"}
+    hl: {hanzi: "電話通了。這位聽眾，你好！請問你安到麼个？係哪位人？", pinyin: "tien+ faˇ tungˋ leˋ. liaˊ vui+ tangˇ zhungˇ, ngi hoˊ! ciangˊ munˇ ngi onˋ doˇ maˊ gaiˇ? heˇ nai+ vui+ ngin?"}
+    check: true
+  - n: 5
+    speaker: 阿婆
+    en: "(holding the phone in both hands) I'm Grandma Liu, from Miaoli. I'm no good at talking, sorry…"
+    sx: {hanzi: "𠊎係苗栗个劉阿婆。𠊎毋會講話，敗勢……", pinyin: "ngaiˇ he meuˇ lidˋ ge liuˇ aˊ poˇ. ngaiˇ mˇ voi gongˋ fa, paiˇ se …"}
+    hl: {hanzi: "𠊎係苗栗个劉阿婆。𠊎毋會講話，敗勢……", pinyin: "ngai heˇ miau lid gaiˇ liu a+ po. ngai m voi+ gongˊ faˇ, pai+ sheˇ …"}
+  - n: 6
+    speaker: 主持人
+    en: "No need to be nervous, take your time. Your voice is lovely."
+    sx: {hanzi: "毋使緊張，慢慢講。你个聲音當好聽。", pinyin: "mˇ siiˋ ginˋ zongˊ, man man gongˋ. nˇ ge sangˊ imˊ dongˊ hoˋ tangˊ."}
+    hl: {hanzi: "毋使緊張，慢慢講。你个聲音當好聽。", pinyin: "m siiˊ ginˊ zhongˋ, man+ man+ gongˊ. ngi gaiˇ shangˋ rhimˋ dongˋ hoˊ tangˋ."}
+  - n: 7
+    speaker: 阿婆
+    en: "Right. My husband fell in the tea field and has been in hospital all week."
+    sx: {hanzi: "好。𠊎个老公在茶園跌倒，在醫院戴院一隻禮拜了。", pinyin: "hoˋ. ngaiˇ ge loˋ gungˊ coiˊ caˇ ienˇ diedˋ doˋ, coiˊ iˊ ien dai ien idˋ zagˋ liˊ bai leˊ."}
+    hl: {hanzi: "好。𠊎个老公在茶園跢倒，在醫院戴院一隻禮拜了。", pinyin: "hoˊ. ngai gaiˇ loˊ gungˋ coiˋ ca rhan doiˋ doˊ, coiˋ rhiˋ rhanˇ daiˇ rhanˇ rhid zhag liˋ baiˇ leˋ."}
+  - n: 8
+    speaker: 主持人
+    en: "Oh dear! And how is he now?"
+    sx: {hanzi: "恁樣啊！佢這下仰般？", pinyin: "anˋ ngiongˇ a! giˇ iaˋ ha ngiongˋ banˊ?"}
+    hl: {hanzi: "恁樣啊！佢這下仰般？", pinyin: "an ngiong a+! gi liaˊ ha+ ngiongˊ banˋ?"}
+    check: true
+  - n: 9
+    speaker: 阿婆
+    en: "Much better; the doctor says he can come home on Monday. Anyway, the reason I'm calling is to thank the nurses at the hospital. They are so careful, so patient."
+    sx: {hanzi: "較好了，醫生講禮拜一就做得出院。好，𠊎打電話，係愛感謝醫院个護士。佢兜非常細義，非常有耐心。", pinyin: "ka hoˋ leˊ, iˊ senˊ gongˋ liˊ bai idˋ qiu zo dedˋ cudˋ ien. hoˋ, ngaiˇ daˋ tien fa, he oi gamˋ qia iˊ ien ge fu sii. giˇ deuˊ fiˊ songˇ se ngi, fiˊ songˇ iuˊ nai ximˊ."}
+    hl: {hanzi: "較好了，醫生講禮拜一就做得出院。好，𠊎打電話，係愛感謝醫院个護士。佢兜非常細義，非常有耐心。", pinyin: "haˇ hoˊ leˋ, rhiˋ senˋ gongˊ liˋ baiˇ rhid ciu+ zoˇ ded chud rhanˇ. hoˊ, ngai daˊ tien+ faˇ, heˇ oiˇ gamˊ cia+ rhiˋ rhanˇ gaiˇ fu+ sii+. gi deuˋ fuiˋ shong seˇ ngi+, fuiˋ shong rhiuˋ nai+ simˋ."}
+  - n: 10
+    speaker: 主持人
+    en: "Yes, nurses really do work hard. Would you like to request a song for them?"
+    sx: {hanzi: "係啊，護士實在當辛苦。你愛點一條歌分佢兜無？", pinyin: "he a, fu sii siid cai dongˊ xinˊ kuˋ. nˇ oi diamˋ idˋ tiauˇ goˊ bunˊ giˇ deuˊ moˇ?"}
+    hl: {hanzi: "係啊，護士實在當辛苦。你愛點一條歌分佢兜無？", pinyin: "heˇ a+, fu+ sii+ shidˋ cai+ dongˋ sinˋ kuˊ. ngi oiˇ diamˊ rhid tiau goˋ bunˋ gi deuˋ mo?"}
+    check: true
+  - n: 11
+    speaker: 阿婆
+    en: "Yes! A mountain song. And good luck to all our fellow villagers in the hospital."
+    sx: {hanzi: "好！一條山歌。乜祝醫院个鄉親大家好運。", pinyin: "hoˋ! idˋ tiauˇ sanˊ goˊ. me zugˋ iˊ ien ge hiongˊ qinˊ tai gaˊ hoˋ iun."}
+    hl: {hanzi: "好！一條山歌。乜祝醫院个鄉親大家好運。", pinyin: "hoˊ! rhid tiau sanˋ goˋ. meˇ zhug rhiˋ rhanˇ gaiˇ hiongˋ cinˋ tai+ gaˋ hoˊ rhun+."}
+  - n: 12
+    speaker: 主持人
+    en: "Right then. The next song is a mountain song from Grandma Liu of Miaoli, for the nurses at the hospital!"
+    sx: {hanzi: "好，恁樣，下一條歌曲，係苗栗劉阿婆送分醫院護士个山歌！", pinyin: "hoˋ, anˋ ngiongˇ, ha idˋ tiauˇ goˊ kiugˋ, he meuˇ lidˋ liuˇ aˊ poˇ sung bunˊ iˊ ien fu sii ge sanˊ goˊ!"}
+    hl: {hanzi: "好，恁樣，下一條歌曲，係苗栗劉阿婆送分醫院護士个山歌！", pinyin: "hoˊ, an ngiong, ha+ rhid tiau goˋ kiug, heˇ miau lid liu a+ po sungˇ bunˋ rhiˋ rhanˇ fu+ sii+ gaiˇ sanˋ goˋ!"}
+  - n: 13
+    speaker: 阿明
+    en: "(running in) Grandma, you're on the radio! The presenter said your voice is lovely!"
+    sx: {hanzi: "阿婆，你上電臺了！主持人講你个聲音當好聽！", pinyin: "aˊ poˇ, nˇ songˊ tien toiˇ leˊ! zuˋ ciiˇ nginˇ gongˋ nˇ ge sangˊ imˊ dongˊ hoˋ tangˊ!"}
+    hl: {hanzi: "阿婆，你上電臺了！主持人講你个聲音當好聽！", pinyin: "a+ po, ngi shongˋ tien+ toi leˋ! zhiuˊ chi ngin gongˊ ngi gaiˇ shangˋ rhimˋ dongˋ hoˊ tangˋ!"}
+    check: true
+  - n: 14
+    speaker: 阿英
+    en: "(an hour later, putting the phone down) That was the nurse. Grandpa heard it on his radio too. He said two words."
+    sx: {hanzi: "頭先係護士打來个。阿公乜在收音機聽著了。佢講兩隻字。", pinyin: "teuˇ xienˊ he fu sii daˋ loiˇ ge. aˊ gungˊ me coiˊ suˊ imˊ giˊ tangˊ doˋ leˊ. giˇ gongˋ liongˋ zagˋ sii."}
+    hl: {hanzi: "頭先係護士打來个。阿公乜在收音機聽著了。佢講兩隻字。", pinyin: "teu senˋ heˇ fu+ sii+ daˊ loi gaiˇ. a+ gungˋ meˇ coiˋ shiuˋ rhimˋ giˋ tangˋ doˊ leˋ. gi gongˊ liongˊ zhag sii+."}
+  - n: 15
+    speaker: 阿婆
+    en: "Which two?"
+    sx: {hanzi: "麼个字？", pinyin: "maˋ ge sii?"}
+    hl: {hanzi: "麼个字？", pinyin: "maˊ gaiˇ sii+?"}
+  - n: 16
+    speaker: 阿英
+    en: "'Too long.'"
+    sx: {hanzi: "「恁長。」", pinyin: "anˋ congˇ."}
+    hl: {hanzi: "「恁長。」", pinyin: "anˊ chong."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      Radio words, all in the lists: 電臺 tien toiˇ "radio station", 節目 jiedˋ mug "programme", 聽眾 tangˊ zung
+      "listener(s)", 主持人 "presenter", 叩應 ko inˋ "phone-in" (a sound loan from English "call-in"). An official
+      example: 若節目主持到當精彩，異多人叩應 "your programme is so lively that lots of people call in". 各位 "everyone"
+      (lesson 60).
+  - ref: 4
+    topic: grammar
+    text: >
+      安到麼个？ "what are you called?": 安到 "be named" (lesson 22). 係哪位人？ "where are you from?", literally "are you a
+      person of which place?". 電話通了 "the call is through": 通 tungˊ "get through".
+  - ref: 7
+    topic: grammar
+    text: >
+      好 at the start of a turn: "right, well then". Grandma uses it to start her story (line 7), to come back to her
+      reason for calling (line 9: 好，𠊎打電話，係愛感謝…), and the presenter uses it to move on (line 12). It is the
+      ordinary 好 "good", doing the work of a pause. The official example sentences are written texts and rarely begin
+      with it, so this use rests on the course, and is marked to be checked by ear.
+  - ref: 9
+    topic: grammar
+    text: >
+      係愛感謝… "is (in order) to thank…": 係 + purpose explains why you are doing what you're doing. 非常 fiˊ songˇ
+      "extremely", a more formal 當, fits the radio. 耐心 nai ximˊ "patience", 有耐心 "patient". 醫生 iˊ senˊ "doctor":
+      on the radio Grandma uses it, at home she says 先生 (lesson 39).
+  - ref: 10
+    topic: grammar
+    text: >
+      係啊 he a "yes, indeed, that's right": agreement with what was just said. The syllabus planned 係呦, which is not
+      in the word lists or the example sentences; 係啊 is the form the Glossika sentences use (你想愛買車仔嚒？— 係啊，…).
+      點一條歌 "request a song": 點 "order, choose" (lesson 38).
+  - ref: 11
+    topic: vocab
+    text: >
+      鄉親 hiongˊ qinˊ "fellow villagers, people from home" and 好運 hoˋ iun "good luck": 祝…好運 "wish … good luck",
+      祝 from lesson 44.
+  - ref: 16
+    topic: culture
+    text: >
+      恁長 "so long!": two syllables, Grandpa's review of his wife's radio debut. Grandma will be cross; Grandpa will
+      have listened to the end.
+
+new_words:
+  - {hanzi: 電臺, pinyin: "tien toiˇ", en: "radio station", hl: {hanzi: 電臺, pinyin: "tien+ toi"}}
+  - {hanzi: 叩應, pinyin: "ko inˋ", en: "phone-in, call-in", hl: {hanzi: 叩應, pinyin: "ko inˋ"}}
+  - {hanzi: 聽眾, pinyin: "tangˊ zung", en: "listener(s)", hl: {hanzi: 聽眾, pinyin: "tangˇ zhungˇ"}}
+  - {hanzi: 主持人, pinyin: "zuˋ ciiˇ nginˇ", en: "presenter, host", hl: {hanzi: 主持人, pinyin: "zhiuˊ chi ngin"}}
+  - {hanzi: 主持, pinyin: "zuˋ ciiˇ", en: "host, present (a programme)", hl: {hanzi: 主持, pinyin: "zhuˊ chi"}}
+  - {hanzi: 收音機, pinyin: "suˊ imˊ giˊ", en: "radio (set)", hl: {hanzi: 收音機, pinyin: "shiuˋ rhimˋ giˋ"}}
+  - {hanzi: 精彩, pinyin: "jinˊ caiˋ", en: "lively, excellent", hl: {hanzi: 精彩, pinyin: "zinˋ caiˊ"}}
+  - {hanzi: 廣播, pinyin: "gongˋ boˊ", en: "broadcast; radio", hl: {hanzi: 廣播, pinyin: "gongˊ boˇ"}}
+  - {hanzi: 歌曲, pinyin: "goˊ kiugˋ", en: "song (formal)", hl: {hanzi: 歌曲, pinyin: "goˋ kiug"}}
+  - {hanzi: 通, pinyin: "tungˊ", en: "get through, connect", hl: {hanzi: 通, pinyin: "tungˋ"}}
+  - {hanzi: 聲音, pinyin: "sangˊ imˊ", en: "voice, sound", hl: {hanzi: 聲音, pinyin: "shangˋ rhimˋ"}}
+  - {hanzi: 醫生, pinyin: "iˊ senˊ", en: "doctor", hl: {hanzi: 醫生, pinyin: "rhiˋ senˋ"}}
+  - {hanzi: 非常, pinyin: "fiˊ songˇ", en: "extremely (formal)", hl: {hanzi: 非常, pinyin: "fuiˋ shong"}}
+  - {hanzi: 耐心, pinyin: "nai ximˊ", en: "patience", hl: {hanzi: 耐心, pinyin: "nai+ simˋ"}}
+  - {hanzi: 頻道, pinyin: "pinˇ to", en: "channel", hl: {hanzi: 頻道, pinyin: "pin to+"}}
+  - {hanzi: 錄音, pinyin: "liug imˊ", en: "record (sound)", hl: {hanzi: 錄音, pinyin: "liugˋ rhimˋ"}}
+  - {hanzi: 播, pinyin: "boˊ", en: "broadcast", hl: {hanzi: 播, pinyin: "boˋ"}}
+  - {hanzi: 擔任, pinyin: "damˊ im", en: "serve as, hold (a post)", hl: {hanzi: 擔任, pinyin: "damˋ rhim+"}}
+  - {hanzi: 表演, pinyin: "beuˋ ienˊ", en: "perform, performance", hl: {hanzi: 表演, pinyin: "biauˊ rhanˋ"}}
+  - {hanzi: 電波, pinyin: "tien poˊ", en: "radio waves", hl: {hanzi: 電波, pinyin: "tien+ poˋ"}}
+  - {hanzi: 等一下, pinyin: "denˋ idˋ ha", en: "wait a moment; in a moment", hl: {hanzi: 等一下, pinyin: "denˊ rhid ha+"}}
+  - {hanzi: 姓名, pinyin: "xiang miangˇ", en: "full name", hl: {hanzi: 姓名, pinyin: "siangˇ miang"}}
+
+exercises:
+  translate:
+    - en: "Grandma's radio is always on the Hakka channel."
+      sx: {hanzi: "阿婆个收音機逐日都在客家頻道。", pinyin: "aˊ poˇ ge suˊ imˊ giˊ dagˋ ngidˋ du coiˊ hagˋ gaˊ pinˇ to."}
+      hl: {hanzi: "阿婆个收音機逐日都在客家頻道。", pinyin: "a+ po gaiˇ shiuˋ rhimˋ giˋ dag ngid du+ coiˋ hag gaˋ pin to+."}
+    - en: "A-in recorded the programme on her phone; the station will broadcast it again tonight."
+      sx: {hanzi: "阿英用手機仔錄音，電臺今暗晡會再播一擺。", pinyin: "aˊ inˊ iung suˋ giˊ eˋ liug imˊ, tien toiˇ gimˊ am buˊ voi zai boˊ idˋ baiˋ."}
+      hl: {hanzi: "阿英用手機錄音，電臺今暗晡會再播一擺。", pinyin: "a+ rhinˋ rhung+ shiuˊ giˋ liugˋ rhimˋ, tien+ toi gimˋ amˇ buˋ voi+ zaiˇ boˋ rhid baiˊ."}
+      check: true
+    - en: "A radio has to pick up the waves before you can hear the station's programmes."
+      sx: {hanzi: "收音機愛收得著電波，正聽得著電臺个節目。", pinyin: "suˊ imˊ giˊ oi suˊ dedˋ doˋ tien poˊ, zang tangˊ dedˋ doˋ tien toiˇ ge jiedˋ mug."}
+      hl: {hanzi: "收音機愛收得著電波，正聽得著電臺个節目。", pinyin: "shiuˋ rhimˋ giˋ oiˇ shiuˋ ded doˊ tien+ poˋ, zhangˇ tangˋ ded doˊ tien+ toi gaiˇ zied mug."}
+    - en: "Wait a moment, I'll write down your name and number."
+      sx: {hanzi: "等一下，𠊎摎你个姓名同號碼寫起來。", pinyin: "denˋ idˋ ha, ngaiˇ lauˊ nˇ ge xiang miangˇ tungˇ ho maˊ xiaˋ hiˋ loiˇ."}
+      hl: {hanzi: "等一下，𠊎摎你个姓名摎號碼寫起來。", pinyin: "denˊ rhid ha+, ngai lauˋ ngi gaiˇ siangˇ miang lauˋ ho+ maˋ siaˊ hiˊ loi."}
+    - en: "Grandpa likes listening to the radio while he works in the tea field."
+      sx: {hanzi: "阿公好一片在茶園做事，一片聽廣播。", pinyin: "aˊ gungˊ hau idˋ pienˋ coiˊ caˇ ienˇ zo se, idˋ pienˋ tangˊ gongˋ boˊ."}
+      hl: {hanzi: "阿公好一片在茶園做事，一片聽廣播。", pinyin: "a+ gungˋ hauˇ rhid pienˊ coiˋ ca rhan zoˇ she+, rhid pienˊ tangˋ gongˊ boˇ."}
+      check: true
+    - en: "The next item is a song performed by the villagers of 美濃."
+      sx: {hanzi: "下一个節目，係美濃鄉親表演个歌曲。", pinyin: "ha idˋ ge jiedˋ mug, he miˊ nungˇ hiongˊ qinˊ beuˋ ienˊ ge goˊ kiugˋ."}
+      hl: {hanzi: "下一个節目，係美濃鄉親表演个歌曲。", pinyin: "ha+ rhid gaiˇ zied mug, heˇ miˊ nung hiongˋ cinˋ biauˊ rhanˋ gaiˇ goˋ kiug."}
+    - en: "She has hosted this programme for ten years, and she hosts it brilliantly."
+      sx: {hanzi: "佢擔任這隻節目个主持人十年了，主持到當精彩。", pinyin: "giˇ damˊ im iaˋ zagˋ jiedˋ mug ge zuˋ ciiˇ nginˇ siib ngienˇ leˊ, zuˋ ciiˇ do dongˊ jinˊ caiˋ."}
+      hl: {hanzi: "佢擔任這隻節目个主持人十年了，主持到當精彩。", pinyin: "gi damˋ rhim+ liaˊ zhag zied mug gaiˇ zhiuˊ chi ngin shibˋ ngien leˋ, zhuˊ chi doˇ dongˋ zinˋ caiˊ."}
+      check: true
+  fill:
+    - en: "Is it really you? — Yes, it is."
+      sx: {hanzi: "有影係你？——___，係𠊎。", pinyin: "iuˊ iangˋ he nˇ? — ___, he ngaiˇ.", answer_hanzi: "係啊", answer: "he a"}
+      hl: {hanzi: "有影係你？——___，係𠊎。", pinyin: "rhiuˋ rhangˊ heˇ ngi? — ___, heˇ ngai.", answer_hanzi: "係啊", answer: "heˇ a+"}
+    - en: "Dear listeners, good morning."
+      sx: {hanzi: "各位___，大家好。", pinyin: "gogˋ vi ___, tai gaˊ hoˋ.", answer_hanzi: "聽眾", answer: "tangˊ zung"}
+      hl: {hanzi: "各位___，大家好。", pinyin: "gog vui+ ___, tai+ gaˋ hoˊ.", answer_hanzi: "聽眾", answer: "tangˇ zhungˇ"}
+    - en: "The nurses are very patient."
+      sx: {hanzi: "護士當有___。", pinyin: "fu sii dongˊ iuˊ ___.", answer_hanzi: "耐心", answer: "nai ximˊ"}
+      hl: {hanzi: "護士當有___。", pinyin: "fu+ sii+ dongˋ rhiuˋ ___.", answer_hanzi: "耐心", answer: "nai+ simˋ"}
+
+audio: []
