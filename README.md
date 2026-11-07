@@ -6,7 +6,7 @@ Accent: **Sixian 四縣腔** (Taiwan). Romanisation: **MOE Hakka pinyin** (臺�
 
 ## Layout
 ```
-course/        lessons, syllabus (YAML), original content — CC BY-SA 4.0 (not started)
+course/        lesson 0, syllabus, pacing, grammar inventory, lesson template — CC BY-SA 4.0
 docs/          sources.yaml / sources.md: catalogue of documentation and data, with licences
 tools/         database build + lookup scripts — MIT
 data/fetch.sh  downloads open data sources at pinned commits (nothing committed)
@@ -15,12 +15,14 @@ reference/     your local, git-ignored reference material
 ```
 
 ## Build the database
-Needs Python 3.9+, PyYAML and git.
+Needs Python 3.9+, git, and `pip install -r requirements.txt` (PyYAML, pandas, odfpy).
 ```sh
 make db                   # → data/build/hakka.db, data/build/sixian_core.csv
 make lookup W=今晡日       # Hakka characters, or a Mandarin gloss (今天)
 make lookup W=gimˊbuˊngidˋ # MOE pinyin, tone marks or numbers (gim24bu24ngid2); no tone = any tone
-make test                 # romanisation parser tests
+make test                 # romanisation and sandhi tests
+make lint                 # check the lessons (both accents)
+make coverage             # what the lessons cover, what to teach next
 make sources              # docs/sources.yaml → docs/sources.md
 sh data/fetch_gov.sh      # on your own machine: 115年度 certification tables into reference/gov/115/
 # Windows: powershell -ExecutionPolicy Bypass -File data\fetch_gov.ps1   (→ hakka-gov-115.zip)

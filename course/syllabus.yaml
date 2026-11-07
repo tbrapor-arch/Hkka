@@ -1,0 +1,118 @@
+# Part 1 syllabus: 100 lessons. Same shape as Tsheh-tû (review every 7th, second wave from lesson 50).
+# new: target number of new words (course/pacing.md: 16 → 25), checked by `make lint` (±3).
+# focus: grammar and vocabulary points, in the order of course/grammar-inventory.md (stages A 1–27, B 29–48, C 50–100).
+# Backdrop: Sam (the same Sam as in Tsheh-tû, Mandarin speaker) spends a year with the 劉 family in 苗栗 (Miaoli):
+#   阿公 and 阿婆 (grandparents), 阿爸 and 阿姆 (the parents), 阿英 (daughter, Sam's friend from Taipei), 阿明 (her
+#   little brother, at junior high). From lesson 50 Sam works a month in 竹東 / 新竹, among Hailu speakers; later trips
+#   to 美濃 (south Sixian). Every line is written in Sixian and Hailu (course/README.md).
+# Words named in `focus` are checked in the 115年度 lists or the MOE dictionary, except culture names that appear as
+# names in the lessons (擂茶, 粄條, 義民, 桐花祭).
+cast:
+  Sam: "Sam, from abroad, speaks Mandarin, learning Hakka"
+  阿英: "Liu A-in, 25, Sam's friend; switches to Mandarin when Sam is lost"
+  阿明: "her brother, 14"
+  阿爸: "Mr Liu, runs a small tea and fruit business"
+  阿姆: "Mrs Liu, the family cook"
+  阿公: "grandfather, 78, farmer, sings 山歌"
+  阿婆: "grandmother, 75, speaks only Hakka"
+lessons:
+- {n: 1, new: 16, en: 'Arriving in Miaoli', focus: 'greetings, 𠊎 / 你 / 佢, 係 / 毋係, 姓, 恁仔細 "thank you"'}
+- {n: 2, new: 16, en: 'The Liu house', focus: 'kin terms (阿公 阿婆 阿爸 阿姆), 這 / 該 (該 = 那), 个, 吾 / 若 / 厥 + kin without 个, 屋下'}
+- {n: 3, new: 16, en: 'Have you eaten?', focus: '食, 食飽吂？, 吂 "not yet", 愛 = 要 (false friend), 毋 vs 無'}
+- {n: 4, new: 16, en: 'Morning tea', focus: '有 / 無, 在, (當)在該 + V (progressive), 朝晨, 茶, yes/no questions with …無？'}
+- {n: 5, new: 16, en: 'At the market', focus: 'numbers 1–100, 幾多錢？, classifiers 隻 / 粒 / 條, 一息仔'}
+- {n: 6, new: 16, en: 'What time is it?', focus: 'telling time, 今晡日 / 天光日 / 昨晡日, 來 / 去, 做麼个？'}
+- {n: 7, review: true, en: 'Review 1'}
+- {n: 8, new: 17, en: 'Grandma''s garden', focus: 'degree: 當 = 很 (false friend), 盡, 還, 恁; colours'}
+- {n: 9, new: 17, en: 'It''s going to rain', focus: '會 "about to" (會落雨咧), 了 change of state, 冷 / 熱, the weather'}
+- {n: 10, new: 17, en: 'A phone call with A-in', focus: '同 / 摎 "with, to", 講, 喊, 你兜 / 佢兜, 𠊎兜 (exclusive we)'}
+- {n: 11, new: 17, en: 'The breakfast stall', focus: '好 hoˋ "good" vs 好 hau "like", 愛 vs 想, ordering food, 毋使'}
+- {n: 12, new: 17, en: 'Not feeling well', focus: 'body words (目珠, 面, 嘴), 毋好 / 莫 / 毋使 (three "don''t"), 痛'}
+- {n: 13, new: 17, en: 'The bus to 公館', focus: '行 = walk / 走 = run (false friends), 到, 哪位, 坐車, directions'}
+- {n: 14, review: true, en: 'Review 2'}
+- {n: 15, new: 19, en: 'Buying clothes', focus: 'comparison X 比 Y 較 A, 著 "wear", 領, 共樣 / 無共樣'}
+- {n: 16, new: 19, en: 'A busy day', focus: '正 = 才 (三點正來), 就, 過 (experience), 無閒'}
+- {n: 17, new: 19, en: 'Lost in Miaoli city', focus: 'word order: 你行先, 走往出, V + 先; 仰般去？'}
+- {n: 18, new: 19, en: 'Weekend plans', focus: '尞 "rest, visit, have fun", 還係 "or" in questions, 共下, 天光日'}
+- {n: 19, new: 19, en: 'Cooking 客家小炒 with Grandma', focus: '摎 / 同 as 把 (disposal), 先…正…, 加, kitchen verbs'}
+- {n: 20, new: 19, en: 'Grandpa''s old days', focus: '頭擺, 識 + V過 (experience), 該下, 過 = 過'}
+- {n: 21, review: true, en: 'Review 3'}
+- {n: 22, new: 19, en: 'The 伯公 shrine', focus: 'culture: earth god, 拜伯公; 毋好 prohibitions, 恁久'}
+- {n: 23, new: 19, en: '天穿日', focus: 'Hakka festivals, wishes, 恁會早 (greeting), 會 = good at (當會)'}
+- {n: 24, new: 19, en: 'At the pharmacy', focus: '分 "give", 一日三擺, 食飽正食, 罅 "enough"'}
+- {n: 25, new: 19, en: 'Looking for a room', focus: '做得 / 毋做得 (permission), 幾多, 租, 歇 "stay"'}
+- {n: 26, new: 19, en: 'Hobbies', focus: '好 hau "like", 惜 "love, cherish", 歡喜, 識 vs 曉得, 定定 "only" (…而已)'}
+- {n: 27, new: 19, en: 'Complaining', focus: 'V 到 … (degree complement: 驚到…), 忒 "too", 死 + adj (死鹹)'}
+- {n: 28, review: true, en: 'Review 4'}
+- {n: 29, new: 21, en: 'Strawberries in 大湖', focus: 'V 等 (durative), 緊 V "keep on", picking and counting fruit'}
+- {n: 30, new: 21, en: 'At the post office', focus: '寄 … 分 + person (分 = to), double objects: 分 + person + thing'}
+- {n: 31, new: 21, en: 'A-in''s birthday', focus: '送分 / 借分 (V分 + person + thing), 生日 sangˊ ngidˋ, 二 / 兩'}
+- {n: 32, new: 21, en: 'The neighbours', focus: '聽講 "I heard", 係毋係 (me) "exactly!", 這毋係！ "here it is!"'}
+- {n: 33, new: 21, en: 'Lost phone', focus: '跌忒 / 打毋見忒 "lost", 尋 "look for", result complements 尋著 / 食忒 / 講煞 / 洗好'}
+- {n: 34, new: 21, en: 'A typhoon is coming', focus: '風搓 "typhoon", 會 (prediction), 分 + agent (passive: 分風吹走), 驚'}
+- {n: 35, review: true, en: 'Review 5'}
+- {n: 36, new: 21, en: 'Making 擂茶', focus: 'VV 啊(咧) "quickly / a bit", (試)V(看)啊 "try", 擂茶 culture'}
+- {n: 37, new: 21, en: 'Grandpa sings 山歌', focus: 'everyday vs learned readings (生 sangˊ / senˊ, 行, 白), 山歌'}
+- {n: 38, new: 21, en: 'Dinner at a restaurant', focus: 'sentence-final 添 (食一碗添), 食加一碗, 著少一領衫'}
+- {n: 39, new: 21, en: 'Seeing the doctor', focus: '毋過 "but", 但係, 恁 "so", 有 + adj (good) vs 會 + adj (bad)'}
+- {n: 40, new: 21, en: 'Helping Grandpa in the tea field', focus: '摎 + person (for someone), 跈 "follow", 共下做'}
+- {n: 41, new: 21, en: 'Feelings', focus: '歡喜, 譴 "angry", 煩惱, 驚; 嗄 "unexpectedly"'}
+- {n: 42, review: true, en: 'Review 6'}
+- {n: 43, new: 21, en: 'A wedding invitation', focus: 'kinship (餔娘 / 老公, no 老婆), 若係 / 係講 "if", 人客 "guests"'}
+- {n: 44, new: 21, en: 'Sayings at the table', focus: 'reading set phrases and proverbs, 恁久無看著'}
+- {n: 45, new: 21, en: 'The countryside', focus: '耕田, 種菜, 細人仔, adjective reduplication AA / AA仔'}
+- {n: 46, new: 21, en: 'Shopping online', focus: 'loanwords and new words, 寄, 收著, 撿採 "in case"'}
+- {n: 47, new: 21, en: 'An argument', focus: '毋著 "wrong", 就算…乜…, 毋係…就係…, potential complement 看佢毋著'}
+- {n: 48, new: 21, en: 'Making up', focus: '失禮 "sorry", 雖然…毋過…, 毋單止…還…'}
+- {n: 49, review: true, en: 'Review 7'}
+- {n: 50, new: 23, en: 'A month in 竹東', focus: 'second wave starts; meeting Hailu speakers: 个 ge / gaiˇ, 恁仔細 / 承蒙, 天光日 / 韶早'}
+- {n: 51, new: 23, en: 'The first day at work', focus: '會 (habit: 逐日會…), 識 / 曉得 / 知, workplace words'}
+- {n: 52, new: 23, en: 'Colleagues', focus: '緊 X 緊 Y "the more… the more", "while…", 越…越 (newer)'}
+- {n: 53, new: 23, en: 'Lunch box', focus: 'V 等來 (坐等來！, 先食等來), food'}
+- {n: 54, new: 23, en: 'Old 竹東 street', focus: '過 "again" (下二擺正買過), 正 at the end (有閒正來尞)'}
+- {n: 55, new: 23, en: 'A message from Grandma', focus: '恁 tones: anˋ "so" vs an "only this much"; 恁大仔'}
+- {n: 56, review: true, en: 'Review 8'}
+- {n: 57, new: 23, en: 'Hakka TV news', focus: 'news register, 因為…所以 / 故所, numbers in thousands'}
+- {n: 58, new: 23, en: 'Wood carving in 三義', focus: 'crafts, 好 + V "easy to", 會做得仔 "not bad at all"'}
+- {n: 59, new: 23, en: 'A rainy weekend', focus: 'V 啊 V 仔 (on and off), 試V看仔 (Hailu "try")'}
+- {n: 60, new: 23, en: 'Writing to A-in', focus: 'letter style, 為著, 分 + purpose (賺錢分細人仔讀書)'}
+- {n: 61, new: 23, en: 'The 桐花 festival', focus: 'flowers and seasons, ABB (白雪雪), fixed intensifiers (浸青, 啾紅)'}
+- {n: 62, new: 23, en: 'Back in Miaoli', focus: '轉 / 轉來 / 轉去 (home), 歸 in the south (preview of 美濃)'}
+- {n: 63, review: true, en: 'Review 9'}
+- {n: 64, new: 23, en: 'Grandma''s story', focus: 'storytelling: 頭擺頭擺, 嗄, 斯, sequence words'}
+- {n: 65, new: 23, en: 'At the school (阿明)', focus: 'school life, 好 = 可以 / 以便 (好食飯哩), 甘願…乜…'}
+- {n: 66, new: 23, en: 'A family meeting', focus: '毋當 "better… than", 還係, 除非, 總愛'}
+- {n: 67, new: 23, en: 'The 義民 festival', focus: 'history and religion, three-part ceremonies (三獻禮), respect language'}
+- {n: 68, new: 23, en: 'Sports day', focus: 'comparison with 過 (高過你), X A Y + amount (高你五公分), 贏 / 輸'}
+- {n: 69, new: 23, en: 'Eight-tone music (八音)', focus: 'instruments, 聽著, 正 "just now / only then"'}
+- {n: 70, review: true, en: 'Review 10'}
+- {n: 71, new: 23, en: 'A trip to 美濃', focus: 'south Sixian: 歸 vs 轉, 等 plurals (𠊎等), 盡 vs 蓋'}
+- {n: 72, new: 23, en: 'Paper umbrellas and 粄條', focus: 'craft and food words, 仔 linking (粄仔), measure words'}
+- {n: 73, new: 23, en: 'Tobacco barns', focus: 'history of farming, 頭擺 / 這下, 變 + 到 + 恁 … 忒去'}
+- {n: 74, new: 23, en: 'Phone call to Taipei', focus: '毋係 (me) as a tag (你毋知毋係), sentence-final 喔 / 哦 / 呢'}
+- {n: 75, new: 23, en: 'A-in''s job interview', focus: 'formal register, 過 (完成: 食過飯了), 有 + V (已然)'}
+- {n: 76, new: 23, en: 'Cooking for the family', focus: 'recipe language, 摎 + object + V + result, VC 來 (洗淨來)'}
+- {n: 77, review: true, en: 'Review 11'}
+- {n: 78, new: 25, en: 'Grandpa in hospital', focus: 'health, 會 near future with numbers (會八十歲), 驚怕'}
+- {n: 79, new: 25, en: 'Visiting hours', focus: 'politeness, 恁仔細 / 承蒙, 毋使客氣, 有閒正來'}
+- {n: 80, new: 25, en: 'The radio phone-in', focus: 'discourse 好 (topic change, agreement), 係呦'}
+- {n: 81, new: 25, en: 'A Hakka poem', focus: 'literary readings, rhythm, reading aloud with sandhi'}
+- {n: 82, new: 25, en: 'Teaching Sam a 山歌', focus: 'song words, tone and melody, 恁靚'}
+- {n: 83, new: 25, en: 'An old photo album', focus: 'relative clauses with 个, 該當時, time words'}
+- {n: 84, review: true, en: 'Review 12'}
+- {n: 85, new: 25, en: 'The 客家 museum', focus: 'migration history (四縣 from 嘉應州), 原鄉, written register'}
+- {n: 86, new: 25, en: 'Debate at dinner', focus: 'opinions: 𠊎想, 𠊎看, 就毋係, 還毋係 "it''s just that"'}
+- {n: 87, new: 25, en: 'Neighbourhood gossip', focus: '聽講, reported speech, 恁該 / 無恁該 "it''s not that easy"'}
+- {n: 88, new: 25, en: 'A wedding banquet', focus: 'banquet words, toasts, 會 + state (這粒柑仔會酸)'}
+- {n: 89, new: 25, en: 'Lost in the mountains (南庄)', focus: 'directions in nature, 看佢毋著, 行毋去'}
+- {n: 90, new: 25, en: 'Rescue', focus: 'urgent speech, short tone groups, 遽遽, 毋好驚'}
+- {n: 91, review: true, en: 'Review 13'}
+- {n: 92, new: 25, en: 'A Hakka idiom a day', focus: '師傅話 (two-part sayings), idioms with 恁'}
+- {n: 93, new: 25, en: 'Writing a speech', focus: 'formal linking: 毋單淨…還…, 甚至, 為著'}
+- {n: 94, new: 25, en: 'The speech', focus: 'public register, numbers and dates, thanks'}
+- {n: 95, new: 25, en: 'Harvest', focus: 'farm work, ABAB / AABB reduplication, 緊來緊…'}
+- {n: 96, new: 25, en: 'Saying goodbye to Grandma', focus: 'emotion words, 惜, 毋盼得 "can''t bear to part", 毋記得 "forget"'}
+- {n: 97, new: 25, en: 'One year later', focus: 'looking back: 過, 識, 頭擺 vs 這下; all aspect markers'}
+- {n: 98, review: true, en: 'Review 14'}
+- {n: 99, new: 25, en: 'Speaking Sixian and Hailu', focus: 'the accent differences (grammar inventory §17), switching'}
+- {n: 100, new: 25, en: 'A letter to the Lius', focus: 'written style, everything together'}

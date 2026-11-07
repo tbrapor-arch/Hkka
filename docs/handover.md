@@ -1,4 +1,4 @@
-# Handover (updated 2026-11-07)
+# Handover (updated 2026-11-07, 13:00)
 
 Where the Hakka course stands, what was decided, and what to do next. Read with `PROJECT_NOTES.md` and
 `docs/sources.md`.
@@ -57,24 +57,28 @@ Same shape as Tsheh-tû (100 lessons, review every 7th, second wave from 50, the
 words per lesson, `course/pacing.md`)**, **Sam in Miaoli** as backdrop, **Hailu written alongside Sixian**, **no native speaker** (lint against the
 official lists, `check: true` on unattested patterns). Details and the vocabulary split: `course/README.md`.
 
+## Ready for writing (2026-11-07)
+- `course/lessons/_template.yaml`: lesson format with a Sixian (`sx`) and a Hailu (`hl`) version of every line,
+  `groups` for sandhi breaks, `check: true` for lines a native speaker should review, `names:` exempt from checks.
+- `course/lessons/000-reading-pinyin.md`: lesson 0 (consonants, -b/-d/-g, six tones and their shift from Mandarin
+  measured on 1,404 characters, sandhi, 仔 linking, correspondences, two readings, the Sixian → Hailu tone code).
+- `course/syllabus.yaml`: lessons 1–100 with topic, grammar focus and new-word target (1,856 in all); cast and setting.
+- `course/grammar-inventory.md`, `course/pacing.md`, `course/README.md`.
+- `make lint` (`tools/lint.py`): both accents, syllables and tone marks per accent, word segmentation that prefers
+  taught words, new words declared once, used-before-taught, syllabus targets and hard-word caps.
+- `make coverage` (`tools/coverage.py`): coverage of 基礎級 / 初級 / 中級, pacing per lesson, next words to teach.
+- Database: tone keys for all six accents (Hailu agrees with MOE 96.7%), `entry.cognate` / `entry.hsk`, English glosses
+  for 2,119 of the 3,030 core words.
+
 ## Next, in order
-0. ~~Reference articles~~ done: 54 MOE 客語知識庫 articles, manual and both workbooks in `Hkka-private/reference/moe/`;
-   `course/grammar-inventory.md` written from them (17 sections, stages A/B/C, Hailu differences).
-1. **Audio** for the 115年度 lists: `fetch_gov.ps1 -Audio` (Sixian + Hailu zips, large). Decide where it lives
-   (not in git: Git LFS, a release asset, or object storage), then link word ids to files.
-2. **Per-accent romanisation**: tone tables for Hailu (7 tones, ˋ53 ∅55 ˊ24 ˇ11 +33, checked ∅5 ˋ2) and the other
-   accents in `tools/pinyin.py`; `key()` takes an accent; fill `entry.pkey` for the non-Sixian kaga rows.
-3. **Sixian tone sandhi** `tools/sandhi.py` (陰平 24 → 11 before 24, 55 and 陽入 5), tested against the MOE workbook.
-4. **Repair the 客語百句 lost characters** from the romanisation (syllable at the '?' → MOE character), reviewed by
-   hand; the Sixian set has 44 damaged rows.
-5. **Glossika → MOE pinyin** mapping, after checking what its tone marks are (今晡日 is gímbúngi̠t there,
-   MOE gimˊbuˊngidˋ). Then Glossika sentences can be searched by key.
-6. **Licence of the current MOE 臺灣客語辭典** (hakkadict.moe.edu.tw) and its bulk download: headword audio.
-7. Tooling before lesson 1: lesson template with Sixian + Hailu lines, `make lint`, `make coverage`, HSK layer
-   (`cognate` class per word); then `course/000-reading-pinyin.md`, then
-   `course/syllabus.yaml` aimed at the certification levels
-   (`docs/sources.md` › kaga-test-specs for the can-do descriptors), then lessons with the `accent` layer.
-8. App: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent setting.
+1. **Write lesson 1**, then 2–6, with `make lint` clean; check the Hailu lines word by word. Start from `make coverage`
+   (the next words: 𠊎, 个, 佢, 無, 當, 係, 愛…).
+2. **Audio** for the 115年度 lists: upload the six zips as a release on Hkka-private (tag `audio-115`), then link word ids
+   to files and convert for the app.
+3. **Repair the 客語百句 lost characters** from the romanisation; 44 Sixian rows.
+4. **Glossika → MOE pinyin** mapping (its tone marks to be understood first).
+5. **Licence of the current MOE 臺灣客語辭典** and its bulk download (headword audio).
+6. App: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent switch.
 
 ## Things to know
 - The cloud session cannot create GitHub repos, and cannot reach Taiwanese government sites from the shell (data.gov.tw,
