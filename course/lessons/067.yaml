@@ -1,0 +1,177 @@
+id: 67
+title:
+  en: "Wood carving in 三義"
+  sx: {hanzi: "你試刻看啊", pinyin: "nˇ cii kadˋ kon a"}
+  hl: {hanzi: "你試刻看啊", pinyin: "ngi chiˇ kad konˇ a+"}
+review: false
+setting: >-
+  Sunday 11 April, 三義, half an hour south of Miaoli. A-in has brought Sam and A-min to the old street of carving
+  shops. In a workshop that smells of camphor, an old master in an apron is carving a Buddha out of a tree stump, and
+  has a spare knife.
+names: [阿英, 阿明, 三義]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "A whole street of carving shops: that's what 三義 is known for."
+    sx: {hanzi: "歸街仔雕刻店係三義盡大个特色。", pinyin: "guiˊ gieˊ eˋ diauˊ kiedˋ diam he samˊ ngi qin tai ge tid sedˋ."}
+    hl: {hanzi: "歸街仔雕刻店係三義最大个特色。", pinyin: "guiˋ gaiˋ er diauˋ kad diamˇ heˇ samˋ ngi+ zuiˇ tai+ gaiˇ tidˋ sed."}
+    source: kaga115
+  - n: 2
+    speaker: Sam
+    en: "So many shops! (in the workshop) A Buddha! What wood is this carved from?"
+    sx: {hanzi: "恁多店！……佛祖！這係麼个樹做个？", pinyin: "anˋ doˊ diam! … fud zuˋ! iaˋ he maˋ ge su zo ge?"}
+    hl: {hanzi: "恁多店！……佛祖！這係麼个樹做个？", pinyin: "anˊ doˋ diamˇ! … fudˋ zuˊ! liaˊ heˇ maˊ gaiˇ shu+ zoˇ gaiˇ?"}
+  - n: 3
+    speaker: 師傅
+    en: "Camphor. The stump of a camphor tree is good for carving."
+    sx: {hanzi: "樟樹。樟樹个樹頭做得拿來雕刻。", pinyin: "zongˊ su. zongˊ su ge su teuˇ zo dedˋ naˊ loiˇ diauˊ kiedˋ."}
+    hl: {hanzi: "樟樹。樟樹个樹頭做得拿來雕刻。", pinyin: "zhongˋ shu+. zhongˋ shu+ gaiˇ shu+ teu zoˇ ded naˋ loi diauˋ kad."}
+  - n: 4
+    speaker: 阿明
+    en: "Master, can he have a go at carving?"
+    sx: {hanzi: "師傅，佢做得刻看啊無？", pinyin: "siiˊ fu, giˇ zo dedˋ kadˋ kon a moˇ?"}
+    hl: {hanzi: "師傅，佢做得刻看啊無？", pinyin: "siiˋ fu+, gi zoˇ ded kad konˇ a+ mo?"}
+  - n: 5
+    speaker: 師傅
+    en: "Try it. Be careful with the knife: don't cut your hand."
+    sx: {hanzi: "你試刻看啊。刀仔愛細義，莫刻著手。", pinyin: "nˇ cii kadˋ kon a. doˊ eˋ oi se ngi, mog kadˋ doˋ suˋ."}
+    hl: {hanzi: "你試刻看啊。刀仔愛細義，莫刻著手。", pinyin: "ngi chiˇ kad konˇ a+. doˋ er oiˇ seˇ ngi+, mogˋ kad doˊ shiuˊ."}
+  - n: 6
+    speaker: Sam
+    en: "(ten minutes later) Camphor is hard. It's not easy to carve."
+    sx: {hanzi: "樟樹當硬，毋好刻。", pinyin: "zongˊ su dongˊ ngang, mˇ hoˋ kadˋ."}
+    hl: {hanzi: "樟樹當硬，毋好刻。", pinyin: "zhongˋ shu+ dongˋ ngang+, m hoˊ kad."}
+  - n: 7
+    speaker: 師傅
+    en: "Everyone's like that at the start. Learn three years from an old master, and the day you set up on your own, you're famous."
+    sx: {hanzi: "頭先都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "teuˇ xienˊ du anˋ ngiongˇ. tenˇ loˋ siiˊ fu hog samˊ ngienˇ, idˋ cudˋ sanˊ qiu cudˋ miangˇ leˊ."}
+    hl: {hanzi: "頭先都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "teu senˋ du+ an ngiong. ten loˊ siiˋ fu+ hogˋ samˋ ngien, rhid chud sanˋ ciu+ chud miang leˋ."}
+  - n: 8
+    speaker: 師傅
+    en: "(an hour later) What's that you've carved?"
+    sx: {hanzi: "你刻个係麼个？", pinyin: "nˇ kadˋ ge he maˋ ge?"}
+    hl: {hanzi: "你刻个係麼个？", pinyin: "ngi kad gaiˇ heˇ maˊ gaiˇ?"}
+  - n: 9
+    speaker: Sam
+    en: "A bird… for Grandma."
+    sx: {hanzi: "一隻鳥仔……分阿婆个。", pinyin: "idˋ zagˋ diauˊ eˋ … bunˊ aˊ poˇ ge."}
+    hl: {hanzi: "一隻鳥仔……分阿婆个。", pinyin: "rhid zhag diauˋ er … bunˋ a+ po gaiˇ."}
+  - n: 10
+    speaker: 阿明
+    en: "A bird? It looks like a chicken!"
+    sx: {hanzi: "鳥仔？看起來像一隻雞仔！", pinyin: "diauˊ eˋ? kon hiˋ loiˇ qiong idˋ zagˋ gieˊ eˋ!"}
+    hl: {hanzi: "鳥仔？看起來像一隻雞仔！", pinyin: "diauˋ er? konˇ hiˊ loi ciongˇ rhid zhag gaiˋ er!"}
+  - n: 11
+    speaker: 師傅
+    en: "For a first go, it's not bad at all."
+    sx: {hanzi: "頭一擺刻，刻到還好。", pinyin: "teuˇ idˋ baiˋ kadˋ, kadˋ do hanˇ hoˋ."}
+    hl: {hanzi: "頭一擺刻，刻到還好。", pinyin: "teu rhid baiˊ kad, kad doˇ han hoˊ."}
+    check: true
+  - n: 12
+    speaker: 阿英
+    en: "Grandma's bound to be pleased."
+    sx: {hanzi: "阿婆定著會歡喜。", pinyin: "aˊ poˇ tin cog voi fonˊ hiˋ."}
+    hl: {hanzi: "阿婆定著會歡喜。", pinyin: "a+ po tin+ chogˋ voi+ fonˋ hiˊ."}
+  - n: 13
+    speaker: Sam
+    en: "A-in, would you like one? I'll carve another for you."
+    sx: {hanzi: "阿英，你愛無？𠊎再刻一隻分你。", pinyin: "aˊ inˊ, nˇ oi moˇ? ngaiˇ zai kadˋ idˋ zagˋ bunˊ nˇ."}
+    hl: {hanzi: "阿英，你愛無？𠊎再刻一隻分你。", pinyin: "a+ rhinˋ, ngi oiˇ mo? ngai zaiˇ kad rhid zhag bunˋ ngi."}
+  - n: 14
+    speaker: 阿英
+    en: "(smiling) A bird, then. Not one that looks like a chicken."
+    sx: {hanzi: "刻一隻鳥仔，莫刻到像雞仔。", pinyin: "kadˋ idˋ zagˋ diauˊ eˋ, mog kadˋ do qiong gieˊ eˋ."}
+    hl: {hanzi: "刻一隻鳥仔，莫刻到像雞仔。", pinyin: "kad rhid zhag diauˋ er, mogˋ kad doˇ ciongˇ gaiˋ er."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      三義 is the woodcarving town of Miaoli county; the official examples say so twice (歸街仔雕刻店係三義盡大个特色,
+      苗栗三義个木雕產業，聞名全國). A-in quotes the first one; the Hailu has 最 where Sixian has 盡. 歸街仔 "the whole
+      street": 歸 "whole" (lesson 57) + 街 (lesson 54).
+  - ref: 3
+    topic: vocab
+    text: >
+      樟樹 zongˊ su "camphor tree", the tree of the Hakka hills, once felled for camphor oil and wood. 樹頭 su teuˇ "tree
+      stump, the base of a tree". The line follows an official example: 樟樹个樹頭做得拿來雕刻.
+  - ref: 4
+    topic: grammar
+    text: >
+      刻看啊 "have a go at carving" and 試刻看啊 (line 5) "try carving": the V看啊 and 試V看啊 of lesson 36, now with a new
+      verb. 刻 kadˋ "carve" (also "scold"); 雕刻 diauˊ kiedˋ is the noun and the formal verb.
+  - ref: 6
+    topic: grammar
+    text: >
+      毋好刻 "not easy to carve": 好 hoˋ + verb is "easy to…" (lesson 59: 好食, 好做), and 毋好 + verb its opposite. An
+      official example: 竹簡當重又毋好刻字 "bamboo slips were heavy and hard to write on". Don't confuse it with 毋好 "don't"
+      (lesson 12): 毋好刻！ alone would be "don't carve!". 硬 ngang "hard", 軟 ngionˊ "soft".
+  - ref: 7
+    topic: grammar
+    text: >
+      The master's line is an official sentence (跈老師傅學三年，一出山就出名了). 一…就… "as soon as…, then…"; 出山
+      "leave the mountain", here "finish the apprenticeship, set up on your own"; 出名 "become famous". 頭先 (lesson 33)
+      "at first, a moment ago".
+  - ref: 11
+    topic: grammar
+    text: >
+      還好 hanˇ hoˋ "not bad, pretty good": 還 + adjective softens praise into "fairly…": 阿姆這擺包个粽仔還好食 "the 粽
+      Mum made this time are pretty good" (official). 會做得仔 "not bad at all", sometimes quoted for this meaning, has
+      no official example; the course uses 還好. 頭一擺 (lesson 52) "the first time".
+
+new_words:
+  - {hanzi: 雕刻, pinyin: "diauˊ kiedˋ", en: "carve; carving", hl: {hanzi: 雕刻, pinyin: "diauˋ kad"}}
+  - {hanzi: 刻, pinyin: "kadˋ", en: "carve", hl: {hanzi: 刻, pinyin: "kad"}}
+  - {hanzi: 特色, pinyin: "tid sedˋ", en: "special feature, what a place is known for", hl: {hanzi: 特色, pinyin: "tidˋ sed"}}
+  - {hanzi: 樟樹, pinyin: "zongˊ su", en: "camphor tree", hl: {hanzi: 樟樹, pinyin: "zhongˋ shu+"}}
+  - {hanzi: 樹頭, pinyin: "su teuˇ", en: "tree stump, base of a tree", hl: {hanzi: 樹頭, pinyin: "shu+ teu"}}
+  - {hanzi: 樹, pinyin: "su", en: "tree, wood", hl: {hanzi: 樹, pinyin: "shu+"}}
+  - {hanzi: 師傅, pinyin: "siiˊ fu", en: "master (craftsman)", hl: {hanzi: 師傅, pinyin: "siiˋ fu+"}}
+  - {hanzi: 刀仔, pinyin: "doˊ eˋ", en: "knife", hl: {hanzi: 刀仔, pinyin: "doˋ er"}}
+  - {hanzi: 硬, pinyin: "ngang", en: "hard", hl: {hanzi: 硬, pinyin: "ngang+"}}
+  - {hanzi: 軟, pinyin: "ngionˊ", en: "soft", hl: {hanzi: 軟, pinyin: "ngionˋ"}}
+  - {hanzi: 出山, pinyin: "cudˋ sanˊ", en: "finish an apprenticeship, set up on one's own", hl: {hanzi: 出山, pinyin: "chud sanˋ"}}
+  - {hanzi: 出名, pinyin: "cudˋ miangˇ", en: "become famous", hl: {hanzi: 出名, pinyin: "chud miang"}}
+  - {hanzi: 鳥仔, pinyin: "diauˊ eˋ", en: "bird", hl: {hanzi: 鳥仔, pinyin: "diauˋ er"}}
+  - {hanzi: 藝術, pinyin: "ngi sud", en: "art", hl: {hanzi: 藝術, pinyin: "ngi+ sudˋ"}}
+  - {hanzi: 作品, pinyin: "zogˋ pinˋ", en: "work (of art)", hl: {hanzi: 作品, pinyin: "zog pinˊ"}}
+  - {hanzi: 尊, pinyin: "zunˊ", en: "(classifier for statues of gods)", hl: {hanzi: 尊, pinyin: "zunˋ"}}
+  - {hanzi: 件, pinyin: "kien", en: "(classifier for things, pieces)", hl: {hanzi: 件, pinyin: "kien+"}}
+  - {hanzi: 佛祖, pinyin: "fud zuˋ", en: "the Buddha", hl: {hanzi: 佛祖, pinyin: "fudˋ zuˊ"}}
+  - {hanzi: 手藝, pinyin: "suˋ ngi", en: "craftsmanship, skill", hl: {hanzi: 手藝, pinyin: "shiuˊ ngi+"}}
+  - {hanzi: 木, pinyin: "mugˋ", en: "wood", hl: {hanzi: 木, pinyin: "mug"}}
+
+exercises:
+  translate:
+    - en: "This statue of the earth god was carved by an old master."
+      sx: {hanzi: "這尊伯公係老師傅刻个。", pinyin: "iaˋ zunˊ bagˋ gungˊ he loˋ siiˊ fu kadˋ ge."}
+      hl: {hanzi: "這尊伯公係老師傅刻个。", pinyin: "liaˊ zunˋ bag gungˋ heˇ loˊ siiˋ fu+ kad gaiˇ."}
+    - en: "This piece is very fine to look at, but it's expensive."
+      sx: {hanzi: "這件作品當好看，毋過當貴。", pinyin: "iaˋ kien zogˋ pinˋ dongˊ hoˋ kon, mˇ go dongˊ gui."}
+      hl: {hanzi: "這件作品當好看，毋過當貴。", pinyin: "liaˊ kien+ zog pinˊ dongˋ hoˊ konˇ, m goˇ dongˋ guiˇ."}
+    - en: "The wood is soft; it's easy to carve."
+      sx: {hanzi: "這種木當軟，當好刻。", pinyin: "iaˋ zungˋ mugˋ dongˊ ngionˊ, dongˊ hoˋ kadˋ."}
+      hl: {hanzi: "這種木當軟，當好刻。", pinyin: "liaˊ zhungˊ mug dongˋ ngionˋ, dongˋ hoˊ kad."}
+      check: true
+    - en: "The master's craftsmanship is very good: his Buddhas are famous."
+      sx: {hanzi: "師傅个手藝當好，佢刻个佛祖當出名。", pinyin: "siiˊ fu ge suˋ ngi dongˊ hoˋ, giˇ kadˋ ge fud zuˋ dongˊ cudˋ miangˇ."}
+      hl: {hanzi: "師傅个手藝當好，佢刻个佛祖當出名。", pinyin: "siiˋ fu+ gaiˇ shiuˊ ngi+ dongˋ hoˊ, gi kad gaiˇ fudˋ zuˊ dongˋ chud miang."}
+    - en: "三義's carving is art."
+      sx: {hanzi: "三義个雕刻係藝術。", pinyin: "samˊ ngi ge diauˊ kiedˋ he ngi sud."}
+      hl: {hanzi: "三義个雕刻係藝術。", pinyin: "samˋ ngi+ gaiˇ diauˋ kad heˇ ngi+ sudˋ."}
+    - en: "The chickens are under the tree; the birds are in the tree."
+      sx: {hanzi: "雞仔在樹下背，鳥仔在樹項。", pinyin: "gieˊ eˋ coiˊ su haˊ boi, diauˊ eˋ coiˊ su hong."}
+      hl: {hanzi: "雞仔在樹下背，鳥仔在樹項。", pinyin: "gaiˋ er coiˋ shu+ haˋ boiˇ, diauˋ er coiˋ shu+ hong+."}
+  fill:
+    - en: "Not easy to carve."
+      sx: {hanzi: "___刻。", pinyin: "___ kadˋ.", answer_hanzi: "毋好", answer: "mˇ hoˋ"}
+      hl: {hanzi: "___刻。", pinyin: "___ kad.", answer_hanzi: "毋好", answer: "m hoˊ"}
+    - en: "Not bad at all."
+      sx: {hanzi: "刻到___。", pinyin: "kadˋ do ___.", answer_hanzi: "還好", answer: "hanˇ hoˋ"}
+      hl: {hanzi: "刻到___。", pinyin: "kad doˇ ___.", answer_hanzi: "還好", answer: "han hoˊ"}
+    - en: "Be careful!"
+      sx: {hanzi: "愛___！", pinyin: "oi ___!", answer_hanzi: "細義", answer: "se ngi"}
+      hl: {hanzi: "愛___！", pinyin: "oiˇ ___!", answer_hanzi: "細義", answer: "seˇ ngi+"}
+
+audio: []

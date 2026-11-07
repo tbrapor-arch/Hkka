@@ -140,7 +140,9 @@ new_words:
   - {hanzi: 跳, pinyin: "tiau", en: "jump", hl: {hanzi: 跳, pinyin: "tiauˇ"}}
   - {hanzi: 球, pinyin: "kiuˇ", en: "ball", hl: {hanzi: 球, pinyin: "kiu"}}
   - {hanzi: 正式, pinyin: "ziin siidˋ", en: "officially, formally", hl: {hanzi: 正式, pinyin: "zhinˇ shid"}}
-  - {hanzi: 開始, pinyin: "koiˊ ciiˋ", en: "begin, start", hl: {hanzi: 開始, pinyin: "koiˋ shiˊ"}}
+  - {hanzi: 煞猛, pinyin: "sadˋ mangˊ", en: "work hard, put in effort", hl: {hanzi: 煞猛, pinyin: "sad mangˋ"}}
+  - {hanzi: 練習, pinyin: "lien xib", en: "practise, train", hl: {hanzi: 練習, pinyin: "lien+ sibˋ"}}
+  - {hanzi: 隊, pinyin: "cui", en: "team", hl: {hanzi: 隊, pinyin: "chui+"}}
   - {hanzi: 終點, pinyin: "zungˊ diamˋ", en: "finishing line", hl: {hanzi: 終點, pinyin: "zhungˋ diamˊ"}}
 
 exercises:
@@ -159,6 +161,9 @@ exercises:
     - en: "Is Grandma taller than Grandpa? — No, Grandpa is taller."
       sx: {hanzi: "阿婆比阿公較高無？——無，阿公較高。", pinyin: "aˊ poˇ biˋ aˊ gungˊ ka goˊ moˇ? — moˇ, aˊ gungˊ ka goˊ."}
       hl: {hanzi: "阿婆比阿公較高無？——無，阿公較高。", pinyin: "a+ po biˊ a+ gungˋ haˇ goˋ mo? — mo, a+ gungˋ haˇ goˋ."}
+    - en: "A-min's team trained hard every day, so they won."
+      sx: {hanzi: "阿明个隊逐日當煞猛練習，故所贏了。", pinyin: "aˊ minˇ ge cui dagˋ ngidˋ dongˊ sadˋ mangˊ lien xib, gu soˋ iangˇ leˊ."}
+      hl: {hanzi: "阿明个隊逐日當煞猛練習，所以贏了。", pinyin: "a+ min gaiˇ chui+ dag ngid dongˋ sad mangˋ lien+ sibˋ, soˊ rhiˋ rhang leˋ."}
     - en: "A-min plays ball every day."
       sx: {hanzi: "阿明逐日打球。", pinyin: "aˊ minˇ dagˋ ngidˋ daˋ kiuˇ."}
       hl: {hanzi: "阿明逐日打球。", pinyin: "a+ min dag ngid daˊ kiu."}
