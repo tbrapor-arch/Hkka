@@ -65,19 +65,21 @@ lessons:
 - {n: 47, new: 21, en: 'An argument', focus: '毋著 "wrong", 就算…乜…, 毋係…就係…, potential complement 看佢毋著'}
 - {n: 48, new: 21, en: 'Making up', focus: '失禮 "sorry", 雖然…毋過…, 毋單止…還…'}
 - {n: 49, review: true, en: 'Review 7'}
-- {n: 50, new: 23, en: 'A month in 竹東', focus: 'second wave starts; meeting Hailu speakers: 个 ge / gaiˇ, 恁仔細 / 承蒙, 天光日 / 韶早'}
-- {n: 51, new: 23, en: 'The first day at work', focus: '會 (habit: 逐日會…), 識 / 曉得 / 知, workplace words'}
-- {n: 52, new: 23, en: 'Colleagues', focus: '緊 X 緊 Y "the more… the more", "while…", 越…越 (newer)'}
-- {n: 53, new: 23, en: 'Lunch box', focus: 'V 等來 (坐等來！, 先食等來), food'}
+# 50–63 rearranged (batch briefs 08, 09): the Lunar New Year falls in early February, before the month in 竹東.
+# 三義 (old 58), 桐花 (old 61, April–May) and "Back in Miaoli" (old 62) move to batch 10 and later.
+- {n: 50, new: 23, en: 'Making 粄 for the New Year', focus: 'second wave starts; 會 (habit: 逐年會…), 識 / 曉得 / 知 revisited'}
+- {n: 51, new: 23, en: 'New Year''s Eve (圍爐)', focus: 'New Year words, 紅包, 緊 X 緊 Y "the more… the more"'}
+- {n: 52, new: 23, en: 'The first day of the year', focus: 'greetings (新年快樂, 恭喜), V 等來 (坐等來！, 先食等來), visitors'}
+- {n: 53, new: 23, en: 'To Mrs Liu''s family in 竹東', focus: 'meeting Hailu speakers: 个 ge / gaiˇ, 恁仔細 / 承蒙, 天光日 / 韶早'}
 - {n: 54, new: 23, en: 'Old 竹東 street', focus: '過 "again" (下二擺正買過), 正 at the end (有閒正來尞)'}
-- {n: 55, new: 23, en: 'A message from Grandma', focus: '恁 tones: anˋ "so" vs an "only this much"; 恁大仔'}
+- {n: 55, new: 23, en: '天穿日 and a suitcase', focus: '恁 tones: anˋ "so" vs an "only this much"; 恁大仔; 天穿日'}
 - {n: 56, review: true, en: 'Review 8'}
-- {n: 57, new: 23, en: 'Hakka TV news', focus: 'news register, 因為…所以 / 故所, numbers in thousands'}
-- {n: 58, new: 23, en: 'Wood carving in 三義', focus: 'crafts, 好 + V "easy to", 會做得仔 "not bad at all"'}
-- {n: 59, new: 23, en: 'A rainy weekend', focus: 'V 啊 V 仔 (on and off), 試V看仔 (Hailu "try")'}
-- {n: 60, new: 23, en: 'Writing to A-in', focus: 'letter style, 為著, 分 + purpose (賺錢分細人仔讀書)'}
-- {n: 61, new: 23, en: 'The 桐花 festival', focus: 'flowers and seasons, ABB (白雪雪), fixed intensifiers (浸青, 啾紅)'}
-- {n: 62, new: 23, en: 'Back in Miaoli', focus: '轉 / 轉來 / 轉去 (home), 歸 in the south (preview of 美濃)'}
+- {n: 57, new: 23, en: 'The first day at work', focus: '會 (habit: 逐日會…), workplace words, Hailu all round'}
+- {n: 58, new: 23, en: 'Colleagues', focus: '"while…", 越…越 (newer), 緊 X 緊 Y revisited'}
+- {n: 59, new: 23, en: 'Lunch box', focus: 'food, V 等來 revisited, 好 + V "easy to" (好食, 好做)'}
+- {n: 60, new: 23, en: 'Hakka TV news', focus: 'news register, 因為…所以 / 故所, numbers in thousands'}
+- {n: 61, new: 23, en: 'A rainy weekend', focus: 'V 啊 V 仔 (on and off), 試V看仔 (Hailu "try")'}
+- {n: 62, new: 23, en: 'Writing to A-in', focus: 'letter style, 為著, 分 + purpose (賺錢分細人仔讀書)'}
 - {n: 63, review: true, en: 'Review 9'}
 - {n: 64, new: 23, en: 'Grandma''s story', focus: 'storytelling: 頭擺頭擺, 嗄, 斯, sequence words'}
 - {n: 65, new: 23, en: 'At the school (阿明)', focus: 'school life, 好 = 可以 / 以便 (好食飯哩), 甘願…乜…'}
