@@ -103,6 +103,12 @@ notes:
     text: >
       共樣 kiung iong "the same" (一樣), and its opposite 無共樣. "The same as X" is 同 X 共樣 (line 10). 一千二 "twelve
       hundred": as in Mandarin, the last unit can be dropped. 頭家娘 teuˇ gaˊ ngiongˇ is the woman who runs the shop.
+  - ref: 9
+    topic: vocab
+    text: >
+      仰般 ngiongˋ banˊ "how, what like" (怎麼樣): 仰般？ "how's that? how do I look?", 公館仰般？ "how was 公館?".
+      With a verb, it asks the way to do something: 火車頭仰般去？ "how do I get to the station?" (lesson 17). Its
+      cousin 仰會 (lesson 9) is "how come".
   - ref: 0
     topic: hailu
     text: >
@@ -111,7 +117,6 @@ notes:
 new_words:
   - {hanzi: 著, pinyin: "zogˋ", en: "wear, put on", hl: {hanzi: 著, pinyin: "zhog"}}
   - {hanzi: 少, pinyin: "seuˋ", en: "few, little", hl: {hanzi: 少, pinyin: "shauˊ"}}
-  - {hanzi: 寒, pinyin: "honˇ", en: "cold (feel cold)", hl: {hanzi: 冷, pinyin: "langˋ"}}
   - {hanzi: 薄, pinyin: "pog", en: "thin", hl: {hanzi: 薄, pinyin: "pogˋ"}}
   - {hanzi: 領, pinyin: "liangˊ", en: "(classifier for clothes)", hl: {hanzi: 領, pinyin: "liangˋ"}}
   - {hanzi: 襖婆, pinyin: "oˋ poˇ", en: "padded coat, winter coat", hl: {hanzi: 襖婆, pinyin: "oˊ po"}}
@@ -122,6 +127,7 @@ new_words:
   - {hanzi: 貴, pinyin: "gui", en: "expensive", hl: {hanzi: 貴, pinyin: "guiˇ"}}
   - {hanzi: 共樣, pinyin: "kiung iong", en: "the same", hl: {hanzi: 共樣, pinyin: "kiung+ rhong+"}}
   - {hanzi: 千, pinyin: "qienˊ", en: "thousand", hl: {hanzi: 千, pinyin: "cienˋ"}}
+  - {hanzi: 仰般, pinyin: "ngiongˋ banˊ", en: "how; how is it", hl: {hanzi: 仰般, pinyin: "ngiongˊ banˋ"}}
   - {hanzi: 便宜, pinyin: "pienˇ ngiˇ", en: "cheap", hl: {hanzi: 便宜, pinyin: "pien ngi"}}
   - {hanzi: 多, pinyin: "doˊ", en: "many, much", hl: {hanzi: 多, pinyin: "doˋ"}}
   - {hanzi: 人, pinyin: "nginˇ", en: "person, people", hl: {hanzi: 人, pinyin: "ngin"}}
@@ -129,8 +135,8 @@ new_words:
 exercises:
   translate:
     - en: "Mandarins are cheaper than chillies."
-      sx: {hanzi: "柑仔比番椒較便宜。", pinyin: "gamˊ eˋ biˋ fanˊ zeuˊ ka pienˇ ngiˇ."}
-      hl: {hanzi: "柑仔比番椒較便宜。", pinyin: "gamˋ er biˊ fanˋ ziauˋ haˇ pien ngi."}
+      sx: {hanzi: "柑仔比辣椒仔較便宜。", pinyin: "gamˊ eˋ biˋ lad zeuˊ eˋ ka pienˇ ngiˇ."}
+      hl: {hanzi: "柑仔比辣椒仔較便宜。", pinyin: "gamˋ er biˊ ladˋ ziauˋ er haˇ pien ngi."}
     - en: "Today is colder than yesterday."
       sx: {hanzi: "今晡日比昨晡日較寒。", pinyin: "gimˊ buˊ ngidˋ biˋ coˊ buˊ ngidˋ ka honˇ."}
       hl: {hanzi: "今晡日比昨晡日較冷。", pinyin: "gimˋ buˋ ngid biˊ coˋ buˋ ngid haˇ langˋ."}

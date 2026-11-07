@@ -1,8 +1,8 @@
 id: 14
 title:
   en: "Review 2"
-  sx: {hanzi: "你仰般知？", pinyin: "nˇ ngiongˋ banˊ diˊ?"}
-  hl: {hanzi: "你仰般知？", pinyin: "ngi ngiongˊ banˋ diˋ?"}
+  sx: {hanzi: "你仰會知？", pinyin: "nˇ ngiongˋ voi diˊ?"}
+  hl: {hanzi: "你仰會知？", pinyin: "ngi ngiongˊ voi+ diˋ?"}
 review: true
 setting: >-
   Sunday evening. Sam is back from 公館 (he caught the next bus), just in time for dinner. The whole family is at the
@@ -21,46 +21,56 @@ dialogue:
     sx: {hanzi: "還吂！", pinyin: "hanˇ mangˇ!"}
     hl: {hanzi: "還吂！", pinyin: "han mang!"}
   - n: 3
-    speaker: 阿姆
-    en: "So, how was 公館?"
-    sx: {hanzi: "公館仰般？", pinyin: "gungˊ gonˋ ngiongˋ banˊ?"}
-    hl: {hanzi: "公館仰般？", pinyin: "gungˋ gonˊ ngiongˊ banˋ?"}
+    speaker: 阿婆
+    en: "Does your stomach still hurt?"
+    sx: {hanzi: "肚屎還痛無？", pinyin: "duˋ siiˋ hanˇ tung moˇ?"}
+    hl: {hanzi: "肚屎還痛無？", pinyin: "duˊ shiˊ han tungˇ mo?"}
   - n: 4
     speaker: Sam
-    en: "Very good! I had rice noodles, and… a chilli."
-    sx: {hanzi: "當好！𠊎食粄條，還有……番椒。", pinyin: "dongˊ hoˋ! ngaiˇ siid banˋ tiauˇ, hanˇ iuˊ … fanˊ zeuˊ."}
-    hl: {hanzi: "當好！𠊎食粄條，還有……番椒。", pinyin: "dongˋ hoˊ! ngai shidˋ banˊ tiau, han rhiuˋ … fanˋ ziauˋ."}
+    en: "Not any more!"
+    sx: {hanzi: "毋痛了！", pinyin: "mˇ tung leˊ!"}
+    hl: {hanzi: "毋痛了！", pinyin: "m tungˇ leˋ!"}
   - n: 5
-    speaker: 阿婆
-    en: "A chilli! I told you, you shouldn't eat chillies!"
-    sx: {hanzi: "番椒！𠊎講了，毋好食番椒！", pinyin: "fanˊ zeuˊ! ngaiˇ gongˋ leˊ, mˇ hoˋ siid fanˊ zeuˊ!"}
-    hl: {hanzi: "番椒！𠊎講了，毋好食番椒！", pinyin: "fanˋ ziauˋ! ngai gongˊ leˋ, m hoˊ shidˋ fanˋ ziauˋ!"}
+    speaker: 阿姆
+    en: "So, was 公館 nice?"
+    sx: {hanzi: "公館好無？", pinyin: "gungˊ gonˋ hoˋ moˇ?"}
+    hl: {hanzi: "公館好無？", pinyin: "gungˋ gonˊ hoˊ mo?"}
   - n: 6
     speaker: Sam
-    en: "Just one! It wasn't hot!"
-    sx: {hanzi: "一條！毋辣！", pinyin: "idˋ tiauˇ! mˇ lad!"}
-    hl: {hanzi: "一條！毋辣！", pinyin: "rhid tiau! m ladˋ!"}
+    en: "Very good! I had rice noodles, and… a chilli."
+    sx: {hanzi: "當好！𠊎食粄條，還有……辣椒仔。", pinyin: "dongˊ hoˋ! ngaiˇ siid banˋ tiauˇ, hanˇ iuˊ … lad zeuˊ eˋ."}
+    hl: {hanzi: "當好！𠊎食粄條，還有……辣椒仔。", pinyin: "dongˋ hoˊ! ngai shidˋ banˊ tiau, han rhiuˋ … ladˋ ziauˋ er."}
   - n: 7
-    speaker: 阿明
-    en: "Sam, the old man says you were walking and he told you to run!"
-    sx: {hanzi: "Sam，阿伯講你在該行，佢喊你走！", pinyin: "Sam, aˊ bagˋ gongˋ nˇ du ge hangˇ, giˇ hemˊ nˇ zeuˋ!"}
-    hl: {hanzi: "Sam，阿伯講你在該行，佢喊你走！", pinyin: "Sam, a+ bag gongˊ ngi diˇ gai hang, gi hemˋ ngi zeuˊ!"}
+    speaker: 阿婆
+    en: "A chilli! I told you, you shouldn't eat chillies!"
+    sx: {hanzi: "辣椒仔！𠊎講過了，毋好食辣椒仔！", pinyin: "lad zeuˊ eˋ! ngaiˇ gongˋ go leˊ, mˇ hoˋ siid lad zeuˊ eˋ!"}
+    hl: {hanzi: "辣椒仔！𠊎講過了，毋好食辣椒仔！", pinyin: "ladˋ ziauˋ er! ngai gongˊ goˇ leˋ, m hoˊ shidˋ ladˋ ziauˋ er!"}
   - n: 8
     speaker: Sam
-    en: "…How do you know?"
-    sx: {hanzi: "……你仰般知？", pinyin: "… nˇ ngiongˋ banˊ diˊ?"}
-    hl: {hanzi: "……你仰般知？", pinyin: "… ngi ngiongˊ banˋ diˋ?"}
+    en: "Just one! It wasn't hot!"
+    sx: {hanzi: "一粒！毋會辣！", pinyin: "idˋ liab! mˇ voi lad!"}
+    hl: {hanzi: "一粒！毋會辣！", pinyin: "rhid liab! m voi+ ladˋ!"}
   - n: 9
     speaker: 阿明
-    en: "That old man is my friend's grandpa!"
-    sx: {hanzi: "該阿伯係吾朋友个阿公！", pinyin: "ge aˊ bagˋ he ngaˊ penˇ iuˊ ge aˊ gungˊ!"}
-    hl: {hanzi: "該阿伯係𠊎朋友个阿公！", pinyin: "gai a+ bag heˇ ngai pen rhiuˋ gaiˇ a+ gungˋ!"}
+    en: "Sam, the old man says you were walking and he told you to run!"
+    sx: {hanzi: "Sam，阿伯講你在該行，佢喊你走！", pinyin: "Sam, aˊ bagˋ gongˋ nˇ du ge hangˇ, giˇ ham nˇ zeuˋ!"}
+    hl: {hanzi: "Sam，阿伯講你在該行，佢喊你走！", pinyin: "Sam, a+ bag gongˊ ngi diˇ gai hang, gi hamˇ ngi zeuˊ!"}
   - n: 10
+    speaker: Sam
+    en: "…How do you know?"
+    sx: {hanzi: "……你仰會知？", pinyin: "… nˇ ngiongˋ voi diˊ?"}
+    hl: {hanzi: "……你仰會知？", pinyin: "… ngi ngiongˊ voi+ diˋ?"}
+  - n: 11
+    speaker: 阿明
+    en: "That old man is my friend's grandpa!"
+    sx: {hanzi: "該隻阿伯係吾朋友个阿公！", pinyin: "ge zagˋ aˊ bagˋ he ngaˊ penˇ iuˊ ge aˊ gungˊ!"}
+    hl: {hanzi: "該隻阿伯係𠊎朋友个阿公！", pinyin: "gai zhag a+ bag heˇ ngai pen rhiuˋ gaiˇ a+ gungˋ!"}
+  - n: 12
     speaker: 阿公
     en: "(not looking up from his bowl) Run."
     sx: {hanzi: "走。", pinyin: "zeuˋ."}
     hl: {hanzi: "走。", pinyin: "zeuˊ."}
-  - n: 11
+  - n: 13
     speaker: 阿婆
     en: "(when the laughing stops) Come on, eat! Two bowls!"
     sx: {hanzi: "好了，食飯！兩碗！", pinyin: "hoˋ leˊ, siid fan! liongˋ vonˋ!"}
@@ -72,24 +82,24 @@ notes:
     text: >
       Degree words: 當 dongˊ "very" (當好, 當辣), 恁 anˋ "so" (恁大), 盡 qin "the most" (盡好食, 盡大). All three go
       before the adjective. 好 hoˋ "good" and 好 hau "like" share a character; the tone tells them apart.
-  - ref: 4
+  - ref: 6
     topic: grammar
     text: >
-      Linking nouns: 還有 "and also" (粄條，還有番椒), 同 / 摎 "and, with" (同你講 "talk to you"). Plurals: 𠊎兜 "we (not
+      Linking nouns: 還有 "and also" (粄條，還有辣椒仔), 同 / 摎 "and, with" (同你講話 "talk to you"). Plurals: 𠊎兜 "we (not
       you)", 你兜, 佢兜.
-  - ref: 5
+  - ref: 7
     topic: grammar
     text: >
-      Don'ts: 毋好 "you shouldn't" (毋好食番椒), 莫 "don't!" (莫食冷个), 毋使 "no need" (毋使驚, 毋使兩碗). And 會 for
-      what is about to happen (會落雨), 毋會 "won't". 𠊎講了 "I told you" is the family's favourite sentence this
+      Don'ts: 毋好 "you shouldn't" (毋好食辣椒仔), 莫 "don't!" (莫食冷个), 毋使 "no need" (毋使驚, 毋使兩碗). And 會 for
+      what is about to happen (會落雨), 毋會 "won't". 𠊎講過了 "I told you" is the family's favourite sentence this
       week: Grandpa, A-min, now Grandma.
-  - ref: 7
+  - ref: 9
     topic: false-friend
     text: >
       The false friends of these lessons: 當 very, 青 green and blue, 面 face, 先生 teacher, doctor, husband, 著 right,
       燒 hot to the touch, 驚 be afraid, 走 run (walk is 行), 位 place (該位 "over there"). Cover the English and
-      translate lines 4 to 10.
-  - ref: 9
+      translate lines 6 to 12.
+  - ref: 11
     topic: culture
     text: >
       Miaoli is a big county and a small town at once: by dinner time A-min knew about the bus stop. The old man of
@@ -98,7 +108,7 @@ notes:
     topic: hailu
     text: >
       Hailu so far, besides the tone code: 摎 for 同, 最 for 盡, 落水 for 落雨, 韶早 for 天光日, 正手片 for 右片, 承蒙 for
-      恁仔細, 糜 for 粥, and 𠊎 before family words (𠊎朋友, 𠊎婆).
+      恁仔細, 糜 for 粥, and 𠊎 for "my" where Sixian has 吾 (𠊎婆, 𠊎朋友).
 
 new_words: []
 
@@ -121,8 +131,8 @@ exercises:
       hl: {hanzi: "𠊎兜在屋下。你兜在哪位？", pinyin: "ngai deuˋ cai+ vug haˋ. ngi deuˋ cai+ nai+ vui+?"}
   fill:
     - en: "This chilli is the hottest."
-      sx: {hanzi: "這條番椒___辣。", pinyin: "iaˋ tiauˇ fanˊ zeuˊ ___ lad.", answer_hanzi: "盡", answer: "qin"}
-      hl: {hanzi: "這條番椒___辣。", pinyin: "liaˊ tiau fanˋ ziauˋ ___ ladˋ.", answer_hanzi: "最", answer: "zuiˇ"}
+      sx: {hanzi: "這粒辣椒仔___辣。", pinyin: "iaˋ liab lad zeuˊ eˋ ___ lad.", answer_hanzi: "盡", answer: "qin"}
+      hl: {hanzi: "這粒辣椒仔___辣。", pinyin: "liaˊ liab ladˋ ziauˋ er ___ ladˋ.", answer_hanzi: "最", answer: "zuiˇ"}
     - en: "Don't worry."
       sx: {hanzi: "毋使___。", pinyin: "mˇ siiˋ ___.", answer_hanzi: "驚", answer: "giangˊ"}
       hl: {hanzi: "毋使___。", pinyin: "m siiˊ ___.", answer_hanzi: "驚", answer: "giangˋ"}

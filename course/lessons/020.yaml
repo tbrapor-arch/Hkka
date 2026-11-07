@@ -117,9 +117,9 @@ new_words:
   - {hanzi: 茶園, pinyin: "caˇ ienˇ", en: "tea garden", hl: {hanzi: 茶園, pinyin: "ca rhan"}}
   - {hanzi: 唱, pinyin: "cong", en: "sing", hl: {hanzi: 唱, pinyin: "chongˇ"}}
   - {hanzi: 山歌, pinyin: "sanˊ goˊ", en: "mountain song (Hakka folk song)", hl: {hanzi: 山歌, pinyin: "sanˋ goˋ"}}
-  - {hanzi: 話, pinyin: "fa", en: "words, speech", hl: {hanzi: 話, pinyin: "faˇ"}}
   - {hanzi: 今年, pinyin: "gimˊ ngienˇ", en: "this year", hl: {hanzi: 今年, pinyin: "gimˋ ngien"}}
   - {hanzi: 歲, pinyin: "se", en: "year (of age)", hl: {hanzi: 歲, pinyin: "soiˇ"}}
+  - {hanzi: 辛苦, pinyin: "xinˊ kuˋ", en: "hard, tiring (life, work)", hl: {hanzi: 辛苦, pinyin: "sinˋ kuˊ"}}
   - {hanzi: 歌, pinyin: "goˊ", en: "song", hl: {hanzi: 歌, pinyin: "goˋ"}}
   - {hanzi: 老人家, pinyin: "loˋ nginˇ gaˊ", en: "old person, the elderly", hl: {hanzi: 老人家, pinyin: "loˊ ngin gaˋ"}}
 
@@ -131,6 +131,9 @@ exercises:
     - en: "Have you ever been to 公館? — Yes, once."
       sx: {hanzi: "你識去過公館無？——識，去過一擺。", pinyin: "nˇ siidˋ hi go gungˊ gonˋ moˇ? — siidˋ, hi go idˋ baiˋ."}
       hl: {hanzi: "你識去過公館無？——識，去過一擺。", pinyin: "ngi shid hiˇ goˇ gungˋ gonˊ mo? — shid, hiˇ goˇ rhid baiˊ."}
+    - en: "Life was very hard in the old days."
+      sx: {hanzi: "頭擺當辛苦。", pinyin: "teuˇ baiˋ dongˊ xinˊ kuˋ."}
+      hl: {hanzi: "頭擺當辛苦。", pinyin: "teu baiˊ dongˋ sinˋ kuˊ."}
     - en: "In the old days there were no buses; now there are."
       sx: {hanzi: "頭擺無巴士，這下有了。", pinyin: "teuˇ baiˋ moˇ ba siiˋ, iaˋ ha iuˊ leˊ."}
       hl: {hanzi: "頭擺無巴士，這下有了。", pinyin: "teu baiˊ mo ba siiˋ, liaˊ ha+ rhiuˋ leˋ."}

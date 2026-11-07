@@ -23,8 +23,8 @@ dialogue:
   - n: 3
     speaker: 阿英
     en: "And Grandpa, does he talk to you too?"
-    sx: {hanzi: "阿公乜同你講無？", pinyin: "aˊ gungˊ me tungˇ nˇ gongˋ moˇ?"}
-    hl: {hanzi: "阿公乜摎你講無？", pinyin: "a+ gungˋ meˇ lauˋ ngi gongˊ mo?"}
+    sx: {hanzi: "阿公乜同你講話無？", pinyin: "aˊ gungˊ me tungˇ nˇ gongˋ fa moˇ?"}
+    hl: {hanzi: "阿公乜摎你講話無？", pinyin: "a+ gungˋ meˇ lauˋ ngi gongˊ faˇ mo?"}
   - n: 4
     speaker: Sam
     en: "A little. Grandpa doesn't say much."
@@ -55,8 +55,8 @@ dialogue:
   - n: 9
     speaker: Sam
     en: "…How do you know?"
-    sx: {hanzi: "……你仰般知？", pinyin: "… nˇ ngiongˋ banˊ diˊ?"}
-    hl: {hanzi: "……你仰般知？", pinyin: "… ngi ngiongˊ banˋ diˋ?"}
+    sx: {hanzi: "……你仰會知？", pinyin: "… nˇ ngiongˋ voi diˊ?"}
+    hl: {hanzi: "……你仰會知？", pinyin: "… ngi ngiongˊ voi+ diˋ?"}
   - n: 10
     speaker: 阿英
     en: "A-min told me. Miaoli is a very small place!"

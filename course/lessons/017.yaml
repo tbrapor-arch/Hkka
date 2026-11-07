@@ -116,6 +116,7 @@ new_words:
   - {hanzi: 先, pinyin: "xienˊ", en: "first", hl: {hanzi: 先, pinyin: "senˋ"}}
   - {hanzi: 店, pinyin: "diam", en: "shop", hl: {hanzi: 店, pinyin: "diamˇ"}}
   - {hanzi: 對面, pinyin: "dui mien", en: "opposite, across the street", hl: {hanzi: 對面, pinyin: "duiˇ mienˇ"}}
+  - {hanzi: 逐擺, pinyin: "dagˋ baiˋ", en: "every time", hl: {hanzi: 逐擺, pinyin: "dag baiˊ"}}
   - {hanzi: 擺, pinyin: "baiˋ", en: "time, occasion (次)", hl: {hanzi: 擺, pinyin: "baiˊ"}}
   - {hanzi: 豆油, pinyin: "teu iuˇ", en: "soy sauce", hl: {hanzi: 豆油, pinyin: "teu+ rhiu"}}
   - {hanzi: 細, pinyin: "se", en: "small", hl: {hanzi: 細, pinyin: "seˇ"}}
@@ -141,6 +142,9 @@ exercises:
     - en: "Grandpa has gone out; Grandma has gone into the garden."
       sx: {hanzi: "阿公出去了，阿婆落去菜園了。", pinyin: "aˊ gungˊ cudˋ hi leˊ, aˊ poˇ log hi coi ienˇ leˊ."}
       hl: {hanzi: "阿公出去了，阿婆落去菜園了。", pinyin: "a+ gungˋ chud hiˇ leˋ, a+ po logˋ hiˇ coiˇ rhan leˋ."}
+    - en: "Every time I come, A-min is at school."
+      sx: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngaiˇ dagˋ baiˋ loiˇ, aˊ minˇ du cai hog gauˋ."}
+      hl: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngai dag baiˊ loi, a+ min du+ cai+ hogˋ gauˊ."}
   fill:
     - en: "After you."
       sx: {hanzi: "你行___。", pinyin: "nˇ hangˇ ___.", answer_hanzi: "先", answer: "xienˊ"}

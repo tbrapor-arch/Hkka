@@ -38,18 +38,18 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "(back on the porch, soaked) Such heavy rain…"
-    sx: {hanzi: "雨恁大……", pinyin: "iˋ anˋ tai …"}
-    hl: {hanzi: "水恁大……", pinyin: "shuiˊ anˊ tai+ …"}
+    sx: {hanzi: "雨落恁大……", pinyin: "iˋ log anˋ tai …"}
+    hl: {hanzi: "落恁大水……", pinyin: "logˋ anˊ tai+ shuiˊ …"}
   - n: 7
     speaker: 阿公
     en: "(perfectly dry) I told you."
-    sx: {hanzi: "𠊎講了。", pinyin: "ngaiˇ gongˋ leˊ."}
-    hl: {hanzi: "𠊎講了。", pinyin: "ngai gongˊ leˋ."}
+    sx: {hanzi: "𠊎講過了。", pinyin: "ngaiˇ gongˋ go leˊ."}
+    hl: {hanzi: "𠊎講過了。", pinyin: "ngai gongˊ goˇ leˋ."}
   - n: 8
     speaker: Sam
     en: "Grandpa, how did you know?"
-    sx: {hanzi: "阿公，你仰般知？", pinyin: "aˊ gungˊ, nˇ ngiongˋ banˊ diˊ?"}
-    hl: {hanzi: "阿公，你仰般知？", pinyin: "a+ gungˋ, ngi ngiongˊ banˋ diˋ?"}
+    sx: {hanzi: "阿公，你仰會知？", pinyin: "aˊ gungˊ, nˇ ngiongˋ voi diˊ?"}
+    hl: {hanzi: "阿公，你仰會知？", pinyin: "a+ gungˋ, ngi ngiongˊ voi+ diˋ?"}
   - n: 9
     speaker: 阿公
     en: "Look at the sky."
@@ -58,7 +58,7 @@ dialogue:
   - n: 10
     speaker: 阿公
     en: "(pouring a cup) Cold? Have some hot tea."
-    sx: {hanzi: "冷無？食燒茶。", pinyin: "langˊ moˇ? siid seuˊ caˇ."}
+    sx: {hanzi: "寒無？食燒茶。", pinyin: "honˇ moˇ? siid seuˊ caˇ."}
     hl: {hanzi: "冷無？食燒茶。", pinyin: "langˋ mo? shidˋ shauˋ ca."}
 
 notes:
@@ -86,24 +86,28 @@ notes:
   - ref: 7
     topic: grammar
     text: >
-      𠊎講了 "I told you (so)", three syllables of pure satisfaction. Grandpa has now said nine words in four lessons
-      and been right every time.
+      𠊎講過了 "I said so (already)", four syllables of pure satisfaction. 過 go after a verb marks it as done; you
+      will meet it again for "have ever done" (lesson 16). The fuller 𠊎就同你講過了 is "I told you so". Grandpa has
+      said barely twenty words in three lessons and been right every time.
   - ref: 8
     topic: vocab
     text: >
-      仰般 ngiongˋ banˊ "how" (怎麼, 怎樣): 你仰般知？ "how do you know?". 知 diˊ "know" (知道); 毋知 "don't know".
+      仰會 ngiongˋ voi "how come, how" (怎麼會): 你仰會知？ "how do you know?", literally "how can you know". 知 diˊ "know" (知道); 毋知 "don't know".
       Mandarin zh- → d- here: 知 zhī → diˊ, an old pronunciation Hakka kept.
   - ref: 10
     topic: false-friend
     text: >
       Two kinds of hot. 燒 seuˊ is hot to the touch: 燒茶 "hot tea", 粥當燒 "the congee is very hot". 熱 ngied is hot
       weather or a hot body: 今晡日當熱 "it's very hot today". Mandarin 燒 is "burn" or "fever"; here it is the
-      everyday word for anything you can scald your tongue on. 冷 langˊ "cold".
+      everyday word for anything you can scald your tongue on. Two kinds of cold, too: 寒 honˇ is
+      how a person feels (寒無？ "are you cold?", 當寒 "it's freezing"), 冷 langˊ is for cold things (茶冷了 "the tea's
+      gone cold").
   - ref: 0
     topic: hailu
     text: >
       Hailu does not say 落雨: it says 落水 logˋ shuiˊ, "water falls", and rain is 水. So 會落水 "it's going to rain",
-      水恁大 "such heavy rain". 燒 is shauˋ, 收 shiuˋ.
+      落恁大水 "such heavy rain". And Hailu says 冷 for a person too: 冷無？ where Sixian says 寒無？. 燒 is shauˋ, 收
+      shiuˋ.
 
 new_words:
   - {hanzi: 日頭, pinyin: "ngidˋ teuˇ", en: "the sun", hl: {hanzi: 日頭, pinyin: "ngid teu"}}
@@ -114,7 +118,10 @@ new_words:
   - {hanzi: 遽遽, pinyin: "giagˋ giagˋ", en: "quickly, hurry", hl: {hanzi: 遽遽, pinyin: "giag giag"}}
   - {hanzi: 收, pinyin: "suˊ", en: "take in, collect", hl: {hanzi: 收, pinyin: "shiuˋ"}}
   - {hanzi: 雨, pinyin: "iˋ", en: "rain (noun)", hl: {hanzi: 水, pinyin: "shuiˊ"}}
-  - {hanzi: 仰般, pinyin: "ngiongˋ banˊ", en: "how", hl: {hanzi: 仰般, pinyin: "ngiongˊ banˋ"}}
+  - {hanzi: 仰會, pinyin: "ngiongˋ voi", en: "how come, how", hl: {hanzi: 仰會, pinyin: "ngiongˊ voi+"}}
+  - {hanzi: 寒, pinyin: "honˇ", en: "cold (a person feels cold)", hl: {hanzi: 冷, pinyin: "langˋ"}}
+  - {hanzi: 落, pinyin: "log", en: "fall; (rain) come down", hl: {hanzi: 落, pinyin: "logˋ"}}
+  - {hanzi: 過, pinyin: "go", en: "(after a verb) already done; have done before", hl: {hanzi: 過, pinyin: "goˇ"}}
   - {hanzi: 知, pinyin: "diˊ", en: "know", hl: {hanzi: 知, pinyin: "diˋ"}}
   - {hanzi: 冷, pinyin: "langˊ", en: "cold", hl: {hanzi: 冷, pinyin: "langˋ"}}
   - {hanzi: 燒, pinyin: "seuˊ", en: "hot (to the touch)", hl: {hanzi: 燒, pinyin: "shauˋ"}}
@@ -131,6 +138,9 @@ exercises:
     - en: "This congee is very hot."
       sx: {hanzi: "這碗粥當燒。", pinyin: "iaˋ vonˋ zugˋ dongˊ seuˊ."}
       hl: {hanzi: "這碗糜當燒。", pinyin: "liaˊ vonˊ moi dongˋ shauˋ."}
+    - en: "The tea has gone cold."
+      sx: {hanzi: "茶冷了。", pinyin: "caˇ langˊ leˊ."}
+      hl: {hanzi: "茶冷了。", pinyin: "ca langˋ leˋ."}
     - en: "It's so hot today!"
       sx: {hanzi: "今晡日恁熱！", pinyin: "gimˊ buˊ ngidˋ anˋ ngied!"}
       hl: {hanzi: "今晡日恁熱！", pinyin: "gimˋ buˋ ngid anˊ ngiedˋ!"}
@@ -145,8 +155,8 @@ exercises:
       sx: {hanzi: "落雨___！", pinyin: "log iˋ ___!", answer_hanzi: "了", answer: "leˊ"}
       hl: {hanzi: "落水___！", pinyin: "logˋ shuiˊ ___!", answer_hanzi: "了", answer: "leˋ"}
     - en: "How do you know?"
-      sx: {hanzi: "你___知？", pinyin: "nˇ ___ diˊ?", answer_hanzi: "仰般", answer: "ngiongˋ banˊ"}
-      hl: {hanzi: "你___知？", pinyin: "ngi ___ diˋ?", answer_hanzi: "仰般", answer: "ngiongˊ banˋ"}
+      sx: {hanzi: "你___知？", pinyin: "nˇ ___ diˊ?", answer_hanzi: "仰會", answer: "ngiongˋ voi"}
+      hl: {hanzi: "你___知？", pinyin: "ngi ___ diˋ?", answer_hanzi: "仰會", answer: "ngiongˊ voi+"}
     - en: "Have some hot tea."
       sx: {hanzi: "食___茶。", pinyin: "siid ___ caˇ.", answer_hanzi: "燒", answer: "seuˊ"}
       hl: {hanzi: "食___茶。", pinyin: "shidˋ ___ ca.", answer_hanzi: "燒", answer: "shauˋ"}

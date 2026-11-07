@@ -25,21 +25,22 @@ dialogue:
     en: "Your stomach? Your face is so white!"
     sx: {hanzi: "肚屎痛？你个面恁白！", pinyin: "duˋ siiˋ tung? nˇ ge mien anˋ pag!"}
     hl: {hanzi: "肚屎痛？你个面恁白！", pinyin: "duˊ shiˊ tungˇ? ngi gaiˇ mienˇ anˊ pagˋ!"}
+    check: true
   - n: 4
     speaker: 阿姆
     en: "(a hand on his forehead) No temperature. What did you eat yesterday?"
-    sx: {hanzi: "頭那無燒。昨晡日食麼个？", pinyin: "teuˇ naˇ moˇ seuˊ. coˊ buˊ ngidˋ siid maˋ ge?"}
-    hl: {hanzi: "頭那無燒。昨晡日食麼个？", pinyin: "teu na mo shauˋ. coˋ buˋ ngid shidˋ maˊ gaiˇ?"}
+    sx: {hanzi: "額頭無燒。昨晡日食麼个？", pinyin: "ngiagˋ teuˇ moˇ seuˊ. coˊ buˊ ngidˋ siid maˋ ge?"}
+    hl: {hanzi: "額頭無燒。昨晡日食麼个？", pinyin: "ngiag teu mo shauˋ. coˋ buˋ ngid shidˋ maˊ gaiˇ?"}
   - n: 5
     speaker: Sam
     en: "Rice noodles, chicken, two bowls of congee… and chillies."
-    sx: {hanzi: "粄條、雞仔、兩碗粥……還有番椒。", pinyin: "banˋ tiauˇ, gieˊ eˋ, liongˋ vonˋ zugˋ … hanˇ iuˊ fanˊ zeuˊ."}
-    hl: {hanzi: "粄條、雞仔、兩碗糜……還有番椒。", pinyin: "banˊ tiau, gaiˋ er, liongˊ vonˊ moi … han rhiuˋ fanˋ ziauˋ."}
+    sx: {hanzi: "粄條、雞仔、兩碗粥……還有辣椒仔。", pinyin: "banˋ tiauˇ, gieˊ eˋ, liongˋ vonˋ zugˋ … hanˇ iuˊ lad zeuˊ eˋ."}
+    hl: {hanzi: "粄條、雞仔、兩碗糜……還有辣椒仔。", pinyin: "banˊ tiau, gaiˋ er, liongˊ vonˊ moi … han rhiuˋ ladˋ ziauˋ er."}
   - n: 6
     speaker: 阿婆
     en: "Chillies! You shouldn't eat chillies!"
-    sx: {hanzi: "番椒！你毋好食番椒！", pinyin: "fanˊ zeuˊ! nˇ mˇ hoˋ siid fanˊ zeuˊ!"}
-    hl: {hanzi: "番椒！你毋好食番椒！", pinyin: "fanˋ ziauˋ! ngi m hoˊ shidˋ fanˋ ziauˋ!"}
+    sx: {hanzi: "辣椒仔！你毋好食辣椒仔！", pinyin: "lad zeuˊ eˋ! nˇ mˇ hoˋ siid lad zeuˊ eˋ!"}
+    hl: {hanzi: "辣椒仔！你毋好食辣椒仔！", pinyin: "ladˋ ziauˋ er! ngi m hoˊ shidˋ ladˋ ziauˋ er!"}
   - n: 7
     speaker: Sam
     en: "Do I need to see a doctor?"
@@ -71,17 +72,18 @@ notes:
   - ref: 3
     topic: false-friend
     text: >
-      面 mien is "face" (Mandarin 臉), as in old Chinese 面: 你个面恁白 "your face is so white". It is not noodles
-      (that is 麵, also mien) and not "side". 頭 alone is not your head either; the head is 頭那 (line 4).
+      面 mien is "face" (Mandarin 臉), as in old Chinese 面: 你个面恁白 "your face is so white". Don't read it as
+      noodles (that is 麵, also mien). And the head you have a headache in is 頭那 teuˇ naˇ, not plain 頭. A Hakka
+      speaker would more often say 面青 "pale (green) in the face" for illness; Grandma's 面恁白 is marked for checking.
   - ref: 4
     topic: grammar
     text: >
-      頭那無燒 "your head isn't hot": 燒 from lesson 9, hot to the touch. A fever is 發燒 fadˋ seuˊ, the same word as
+      額頭無燒 "your forehead isn't hot": 額頭 ngiagˋ teuˇ "forehead", and 燒 from lesson 9, hot to the touch. A fever is 發燒 fadˋ seuˊ, the same word as
       Mandarin.
   - ref: 6
     topic: grammar
     text: >
-      Three ways to say "don't", all in this lesson. 毋好 mˇ hoˋ "you shouldn't" (advice, or a rule): 毋好食番椒.
+      Three ways to say "don't", together for the first time. 毋好 mˇ hoˋ "you shouldn't" (advice, or a rule): 毋好食辣椒仔.
       莫 mog "don't!" (short, direct): 莫食冷个 "don't eat cold things". 毋使 mˇ siiˋ "no need to": 毋使兩碗.
       Mandarin uses 不要 for the first two and 不用 for the third. 毋好食 can also just mean "not tasty": 這碗粥
       毋好食. Context decides.
@@ -109,6 +111,7 @@ new_words:
   - {hanzi: 肚屎, pinyin: "duˋ siiˋ", en: "belly, stomach", hl: {hanzi: 肚屎, pinyin: "duˊ shiˊ"}}
   - {hanzi: 痛, pinyin: "tung", en: "hurt, ache", hl: {hanzi: 痛, pinyin: "tungˇ"}}
   - {hanzi: 面, pinyin: "mien", en: "face", hl: {hanzi: 面, pinyin: "mienˇ"}}
+  - {hanzi: 額頭, pinyin: "ngiagˋ teuˇ", en: "forehead", hl: {hanzi: 額頭, pinyin: "ngiag teu"}}
   - {hanzi: 頭那, pinyin: "teuˇ naˇ", en: "head", hl: {hanzi: 頭那, pinyin: "teu na"}}
   - {hanzi: 還有, pinyin: "hanˇ iuˊ", en: "and also, and there's", hl: {hanzi: 還有, pinyin: "han rhiuˋ"}}
   - {hanzi: 毋好, pinyin: "mˇ hoˋ", en: "shouldn't; not good", hl: {hanzi: 毋好, pinyin: "m hoˊ"}}

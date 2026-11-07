@@ -37,7 +37,7 @@ dialogue:
     hl: {hanzi: "頭家，早！粄條好食無？", pinyin: "teu gaˋ, zoˊ! banˊ tiau hoˊ shidˋ mo?"}
   - n: 6
     speaker: 頭家
-    en: "Very good! A-min loves my noodles more than anyone."
+    en: "Very good! A-min's favourite is my noodles."
     sx: {hanzi: "當好食！阿明盡好食𠊎个粄條。", pinyin: "dongˊ hoˋ siid! aˊ minˇ qin hau siid ngaiˇ ge banˋ tiauˇ."}
     hl: {hanzi: "當好食！阿明最好食𠊎个粄條。", pinyin: "dongˋ hoˊ shidˋ! a+ min zuiˇ hauˇ shidˋ ngai gaiˇ banˊ tiau."}
   - n: 7
@@ -63,8 +63,8 @@ dialogue:
   - n: 11
     speaker: 阿明
     en: "Told you. It's half past seven, I've got to get to school!"
-    sx: {hanzi: "𠊎講了。七點半了，𠊎愛去學校！", pinyin: "ngaiˇ gongˋ leˊ. qidˋ diamˋ ban leˊ, ngaiˇ oi hi hog gauˋ!"}
-    hl: {hanzi: "𠊎講了。七點半了，𠊎愛去學校！", pinyin: "ngai gongˊ leˋ. cid diamˊ banˇ leˋ, ngai oiˇ hiˇ hogˋ gauˊ!"}
+    sx: {hanzi: "𠊎講過了。七點半了，𠊎愛去學校！", pinyin: "ngaiˇ gongˋ go leˊ. qidˋ diamˋ ban leˊ, ngaiˇ oi hi hog gauˋ!"}
+    hl: {hanzi: "𠊎講過了。七點半了，𠊎愛去學校！", pinyin: "ngai gongˊ goˇ leˋ. cid diamˊ banˇ leˋ, ngai oiˇ hiˇ hogˋ gauˊ!"}
 
 notes:
   - ref: 0
@@ -72,7 +72,7 @@ notes:
     text: >
       粄 banˋ is the Hakka word for everything made from rice flour or rice dough: cakes, dumplings, noodles. 粄條
       banˋ tiauˇ are the flat rice noodles of Miaoli and Hsinchu, eaten in soup or dry, at breakfast as much as at
-      lunch. In the south they are called 面帕粄 "towel 粄", for the shape.
+      lunch. In Hsinchu and Taoyuan you will also hear 面帕粄 "towel 粄", for the shape.
   - ref: 5
     topic: false-friend
     text: >

@@ -18,24 +18,24 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "Yes, two bowls. Grandma makes me eat two bowls every day!"
-    sx: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "siid bauˋ leˊ, siid liongˋ vonˋ. aˊ poˇ dagˋ ngidˋ hemˊ ngaiˇ siid liongˋ vonˋ!"}
-    hl: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "shidˋ bauˊ leˋ, shidˋ liongˊ vonˊ. a+ po dag ngid hemˋ ngai shidˋ liongˊ vonˊ!"}
+    sx: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "siid bauˋ leˊ, siid liongˋ vonˋ. aˊ poˇ dagˋ ngidˋ ham ngaiˇ siid liongˋ vonˋ!"}
+    hl: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "shidˋ bauˊ leˋ, shidˋ liongˊ vonˊ. a+ po dag ngid hamˇ ngai shidˋ liongˊ vonˊ!"}
   - n: 3
     speaker: 阿英
-    en: "How are you all getting on at home? Does Grandpa talk to you?"
-    zh: "你們在家怎麼樣？爺爺有跟你說話嗎？"
-    sx: {hanzi: "你兜在屋下仰般？阿公有同你講無？", pinyin: "nˇ deuˊ cai vugˋ kaˊ ngiongˋ banˊ? aˊ gungˊ iuˊ tungˇ nˇ gongˋ moˇ?"}
-    hl: {hanzi: "你兜在屋下仰般？阿公有摎你講無？", pinyin: "ngi deuˋ cai+ vug haˋ ngiongˊ banˋ? a+ gungˋ rhiuˋ lauˋ ngi gongˊ mo?"}
+    en: "Does Grandpa talk to you?"
+    zh: "爺爺有跟你說話嗎？"
+    sx: {hanzi: "阿公有同你講話無？", pinyin: "aˊ gungˊ iuˊ tungˇ nˇ gongˋ fa moˇ?"}
+    hl: {hanzi: "阿公有摎你講話無？", pinyin: "a+ gungˋ rhiuˋ lauˋ ngi gongˊ faˇ mo?"}
   - n: 4
     speaker: Sam
-    en: "He does! He said 'it's going to rain', and it rained."
-    sx: {hanzi: "有！佢講「會落雨」，就落雨了。", pinyin: "iuˊ! giˇ gongˋ \"voi log iˋ\", qiu log iˋ leˊ."}
-    hl: {hanzi: "有！佢講「會落水」，就落水了。", pinyin: "rhiuˋ! gi gongˊ \"voi+ logˋ shuiˊ\", ciu+ logˋ shuiˊ leˋ."}
+    en: "He does! We drink tea every day. He said 'it's going to rain', and it rained."
+    sx: {hanzi: "有！𠊎兜逐日食茶。佢講「會落雨」，就落雨了。", pinyin: "iuˊ! ngaiˇ deuˊ dagˋ ngidˋ siid caˇ. giˇ gongˋ \"voi log iˋ\", qiu log iˋ leˊ."}
+    hl: {hanzi: "有！𠊎兜逐日食茶。佢講「會落水」，就落水了。", pinyin: "rhiuˋ! ngai deuˋ dag ngid shidˋ ca. gi gongˊ \"voi+ logˋ shuiˊ\", ciu+ logˋ shuiˊ leˋ."}
   - n: 5
     speaker: 阿英
-    en: "He's right every time."
-    sx: {hanzi: "佢逐擺都著。", pinyin: "giˇ dagˋ baiˋ du cog."}
-    hl: {hanzi: "佢逐擺都著。", pinyin: "gi dag baiˊ du+ chogˋ."}
+    en: "He's right every single day."
+    sx: {hanzi: "佢逐日都著。", pinyin: "giˇ dagˋ ngidˋ du cog."}
+    hl: {hanzi: "佢逐日都著。", pinyin: "gi dag ngid du+ chogˋ."}
   - n: 6
     speaker: Sam
     en: "A-min talks Hakka with me too. He says he's my teacher."
@@ -45,7 +45,7 @@ dialogue:
     speaker: 阿英
     en: "(laughing) Your 先生?"
     sx: {hanzi: "若先生？", pinyin: "ngiaˊ xinˊ sangˊ?"}
-    hl: {hanzi: "若先生？", pinyin: "ngia sinˋ sangˋ?"}
+    hl: {hanzi: "若个先生？", pinyin: "ngia gaiˇ sinˋ sangˋ?"}
   - n: 8
     speaker: Sam
     en: "Yes… teacher. He teaches me Hakka."
@@ -66,16 +66,16 @@ notes:
   - ref: 2
     topic: grammar
     text: >
-      喊 hemˊ "call; tell (someone) to": 阿婆喊𠊎食 "Grandma tells me to eat", like Mandarin 叫我吃. It is also how
-      you call someone over (喊阿明來) and what you call someone (lesson 25). Also read ham. 逐日 dagˋ ngidˋ "every
-      day": 逐 dagˋ is Hakka's "every" (每), and 逐擺 (line 5) is "every time".
+      喊 ham "tell (someone) to, make (someone)": 阿婆喊𠊎食 "Grandma makes me eat", like Mandarin 叫我吃. It is also
+      how you call someone over (喊阿明來) and what you call someone (lesson 25). Said hemˊ, it is "shout, call out
+      for". 逐日 dagˋ ngidˋ "every day": 逐 dagˋ is Hakka's "every" (每).
   - ref: 3
     topic: grammar
     text: >
       Plurals: add 兜 deuˊ. 𠊎兜 "we", 你兜 "you (all)", 佢兜 "they". Careful with 𠊎兜: it means "we, not including
-      you". When Sam tells A-in about the family he says 𠊎兜 (Grandma, Grandpa, A-min and him, not her). An "all of
-      us, you included" form exists too; you will hear it later. 仰般 "how" also asks how things are: 你兜仰般？ "how
-      are you all?".
+      you". When Sam tells A-in 𠊎兜逐日食茶 "we drink tea every day", 𠊎兜 is Grandpa and him, not her. An "all of
+      us, you included" form exists too; you will hear it later. 講話 gongˋ fa "talk": 同你講話 "talk to you"; 同你講
+      alone is "tell you".
   - ref: 3
     topic: false-friend
     text: >
@@ -85,7 +85,7 @@ notes:
   - ref: 5
     topic: false-friend
     text: >
-      著 cog "right, correct" (對): 佢逐擺都著 "he's right every time"; 毋著 "wrong". Same character as Mandarin 著
+      著 cog "right, correct" (對): 佢逐日都著 "he's right every single day"; 毋著 "wrong". Same character as Mandarin 著
       zhe / zháo, nothing to do with them. (Another 著, zogˋ, means "wear"; lesson 15.)
   - ref: 6
     topic: vocab
@@ -110,9 +110,9 @@ notes:
 
 new_words:
   - {hanzi: 逐日, pinyin: "dagˋ ngidˋ", en: "every day", hl: {hanzi: 逐日, pinyin: "dag ngid"}}
-  - {hanzi: 喊, pinyin: "hemˊ", en: "call; tell (someone) to", hl: {hanzi: 喊, pinyin: "hemˋ"}}
+  - {hanzi: 喊, pinyin: "ham", en: "call; tell (someone) to", hl: {hanzi: 喊, pinyin: "hamˇ"}}
   - {hanzi: 同, pinyin: "tungˇ", en: "with, to; and", hl: {hanzi: 摎, pinyin: "lauˋ"}}
-  - {hanzi: 逐擺, pinyin: "dagˋ baiˋ", en: "every time", hl: {hanzi: 逐擺, pinyin: "dag baiˊ"}}
+  - {hanzi: 話, pinyin: "fa", en: "words, speech (講話 talk)", hl: {hanzi: 話, pinyin: "faˇ"}}
   - {hanzi: 都, pinyin: "du", en: "all, always (都)", hl: {hanzi: 都, pinyin: "du+"}}
   - {hanzi: 著, pinyin: "cog", en: "right, correct", hl: {hanzi: 著, pinyin: "chogˋ"}}
   - {hanzi: 乜, pinyin: "me", en: "also, too", hl: {hanzi: 乜, pinyin: "meˇ"}}
@@ -134,18 +134,18 @@ exercises:
       sx: {hanzi: "佢兜無在屋下。", pinyin: "giˇ deuˊ moˇ cai vugˋ kaˊ."}
       hl: {hanzi: "佢兜無在屋下。", pinyin: "gi deuˋ mo cai+ vug haˋ."}
     - en: "Grandma tells A-min to sleep."
-      sx: {hanzi: "阿婆喊阿明去睡目。", pinyin: "aˊ poˇ hemˊ aˊ minˇ hi soi mugˋ."}
-      hl: {hanzi: "阿婆喊阿明去睡目。", pinyin: "a+ po hemˋ a+ min hiˇ shoi+ mug."}
+      sx: {hanzi: "阿婆喊阿明去睡目。", pinyin: "aˊ poˇ ham aˊ minˇ hi soi mugˋ."}
+      hl: {hanzi: "阿婆喊阿明去睡目。", pinyin: "a+ po hamˇ a+ min hiˇ shoi+ mug."}
     - en: "I want to talk to Grandpa too."
-      sx: {hanzi: "𠊎乜愛摎阿公講。", pinyin: "ngaiˇ me oi lauˊ aˊ gungˊ gongˋ."}
-      hl: {hanzi: "𠊎乜愛摎阿公講。", pinyin: "ngai meˇ oiˇ lauˋ a+ gungˋ gongˊ."}
-    - en: "Every time I eat, Grandma says 'two bowls!'"
-      sx: {hanzi: "𠊎逐擺食飯，阿婆都講「兩碗！」", pinyin: "ngaiˇ dagˋ baiˋ siid fan, aˊ poˇ du gongˋ \"liongˋ vonˋ!\""}
-      hl: {hanzi: "𠊎逐擺食飯，阿婆都講「兩碗！」", pinyin: "ngai dag baiˊ shidˋ pon+, a+ po du+ gongˊ \"liongˊ vonˊ!\""}
+      sx: {hanzi: "𠊎乜愛摎阿公講話。", pinyin: "ngaiˇ me oi lauˊ aˊ gungˊ gongˋ fa."}
+      hl: {hanzi: "𠊎乜愛摎阿公講話。", pinyin: "ngai meˇ oiˇ lauˋ a+ gungˋ gongˊ faˇ."}
+    - en: "Every day when I eat, Grandma says 'two bowls!'"
+      sx: {hanzi: "𠊎逐日食飯，阿婆都講「兩碗！」", pinyin: "ngaiˇ dagˋ ngidˋ siid fan, aˊ poˇ du gongˋ \"liongˋ vonˋ!\""}
+      hl: {hanzi: "𠊎逐日食飯，阿婆都講「兩碗！」", pinyin: "ngai dag ngid shidˋ pon+, a+ po du+ gongˊ \"liongˊ vonˊ!\""}
   fill:
     - en: "You're right."
-      sx: {hanzi: "你講___。", pinyin: "nˇ gongˋ ___.", answer_hanzi: "著", answer: "cog"}
-      hl: {hanzi: "你講___。", pinyin: "ngi gongˊ ___.", answer_hanzi: "著", answer: "chogˋ"}
+      sx: {hanzi: "你講个___。", pinyin: "nˇ gongˋ ge ___.", answer_hanzi: "著", answer: "cog"}
+      hl: {hanzi: "你講个___。", pinyin: "ngi gongˊ gaiˇ ___.", answer_hanzi: "著", answer: "chogˋ"}
     - en: "Who teaches you Hakka? — My teacher."
       sx: {hanzi: "麼人教你客話？——吾___。", pinyin: "maˋ nginˇ gauˊ nˇ hagˋ fa? — ngaˊ ___.", answer_hanzi: "先生", answer: "xinˊ sangˊ"}
       hl: {hanzi: "麼人教你客話？——𠊎___。", pinyin: "maˊ ngin gauˋ ngi hag voiˋ? — ngai ___.", answer_hanzi: "先生", answer: "sinˋ sangˋ"}
