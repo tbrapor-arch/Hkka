@@ -1,0 +1,184 @@
+id: 47
+title:
+  en: "The quarrel"
+  sx: {hanzi: "毋係你毋著，係麼人毋著？", pinyin: "mˇ he nˇ mˇ cog, he maˋ nginˇ mˇ cog?"}
+  hl: {hanzi: "毋係你毋著，係麼人毋著？", pinyin: "m heˇ ngi m chogˋ, heˇ maˊ ngin m chogˋ?"}
+review: false
+setting: >-
+  Friday, four o'clock. A-min is just back from school, the parcel from lesson 46 has come, and Sam's phone has just
+  told him how much his card was charged. It was not eight hundred.
+names: [阿明, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "A-min! How did you spend two thousand three hundred? We agreed: only the jacket!"
+    sx: {hanzi: "阿明！你仰會花兩千三？講好淨衫定定！", pinyin: "aˊ minˇ! nˇ ngiongˋ voi faˊ liongˋ qienˊ samˊ? gongˋ hoˋ qiang samˊ tin tin!"}
+    hl: {hanzi: "阿明！你仰會花兩千三？講好淨衫定定！", pinyin: "a+ min! ngi ngiongˊ voi+ faˋ liongˊ cienˋ samˋ? gongˊ hoˊ ciang+ samˋ tin+ tin+!"}
+  - n: 2
+    speaker: 阿明
+    en: "It wasn't me! The website got it wrong!"
+    sx: {hanzi: "毋係𠊎！係網站毋著！", pinyin: "mˇ he ngaiˇ! he miongˋ zam mˇ cog!"}
+    hl: {hanzi: "毋係𠊎！係網站毋著！", pinyin: "m heˇ ngai! heˇ miongˊ zhamˇ m chogˋ!"}
+  - n: 3
+    speaker: Sam
+    en: "If it isn't the website's fault, it's yours. What's in the box?"
+    sx: {hanzi: "毋係網站毋著，就係你毋著。箱仔肚有麼个？", pinyin: "mˇ he miongˋ zam mˇ cog, qiu he nˇ mˇ cog. xiongˊ eˋ duˋ iuˊ maˋ ge?"}
+    hl: {hanzi: "毋係網站毋著，就係你毋著。箱仔肚有麼个？", pinyin: "m heˇ miongˊ zhamˇ m chogˋ, ciu+ heˇ ngi m chogˋ. siongˋ er duˊ rhiuˋ maˊ gaiˇ?"}
+  - n: 4
+    speaker: 阿明
+    en: "…OK, I added a pair of shoes. But even if I did, you don't have to be so angry!"
+    sx: {hanzi: "……好，𠊎加一雙鞋。毋過就算𠊎加一雙，你乜毋使恁譴！", pinyin: "… hoˋ, ngaiˇ gaˊ idˋ sungˊ haiˇ. mˇ go qiu son ngaiˇ gaˊ idˋ sungˊ, nˇ me mˇ siiˋ anˋ kienˋ!"}
+    hl: {hanzi: "……好，𠊎加一雙鞋。毋過就算𠊎加一雙，你乜毋使恁閼！", pinyin: "… hoˊ, ngai gaˋ rhid sungˋ hai. m goˇ ciu+ sonˇ ngai gaˋ rhid sungˋ, ngi meˇ m siiˊ anˊ ad!"}
+  - n: 5
+    speaker: Sam
+    en: "You didn't ask me! Even if it were a hundred dollars, you'd have to ask."
+    sx: {hanzi: "你無問𠊎！就算係一百箍，乜愛問。", pinyin: "nˇ moˇ mun ngaiˇ! qiu son he idˋ bagˋ kieuˊ, me oi mun."}
+    hl: {hanzi: "你無問𠊎！就算係一百箍，乜愛問。", pinyin: "ngi mo munˇ ngai! ciu+ sonˇ heˇ rhid bag kieuˋ, meˇ oiˇ munˇ."}
+  - n: 6
+    speaker: 阿明
+    en: "You're rich. What's two thousand three hundred to you?"
+    sx: {hanzi: "你係有錢人，兩千三算麼个？", pinyin: "nˇ he iuˊ qienˇ nginˇ, liongˋ qienˊ samˊ son maˋ ge?"}
+    hl: {hanzi: "你係有錢人，兩千三算麼个？", pinyin: "ngi heˇ rhiuˋ cien ngin, liongˊ cienˋ samˋ sonˇ maˊ gaiˇ?"}
+  - n: 7
+    speaker: Sam
+    en: "I'm not rich! You lied to me."
+    sx: {hanzi: "𠊎毋係有錢人！你騙𠊎。", pinyin: "ngaiˇ mˇ he iuˊ qienˇ nginˇ! nˇ pien ngaiˇ."}
+    hl: {hanzi: "𠊎毋係有錢人！你騙𠊎。", pinyin: "ngai m heˇ rhiuˋ cien ngin! ngi pienˇ ngai."}
+  - n: 8
+    speaker: 阿婆
+    en: "(from the kitchen door) What's going on? Why so loud?"
+    sx: {hanzi: "麼个事？做麼个恁大聲？", pinyin: "maˋ ge sii? zo maˋ ge anˋ tai sangˊ?"}
+    hl: {hanzi: "麼个事？做麼个恁大聲？", pinyin: "maˊ gaiˇ sii+? zoˇ maˊ gaiˇ anˊ tai+ shangˋ?"}
+  - n: 9
+    speaker: 阿明
+    en: "(grabbing the box and running for the stairs) I'm not talking to him any more!"
+    sx: {hanzi: "𠊎毋愛同佢講話了！", pinyin: "ngaiˇ mˇ oi tungˇ giˇ gongˋ fa leˊ!"}
+    hl: {hanzi: "𠊎毋愛摎佢講話了！", pinyin: "ngai m oiˇ lauˋ gi gongˊ faˇ leˋ!"}
+  - n: 10
+    speaker: Sam
+    en: "(to Grandma) He used my card behind my back. Now we've had a row."
+    sx: {hanzi: "佢偷偷仔用𠊎个卡。這下𠊎兜冤家了。", pinyin: "giˇ teuˊ teuˊ eˋ iung ngaiˇ ge kaˋ. iaˋ ha ngaiˇ deuˊ ienˊ gaˊ leˊ."}
+    hl: {hanzi: "佢偷偷用𠊎个卡。這下𠊎兜冤家了。", pinyin: "gi teuˋ teuˋ rhung+ ngai gaiˇ kaˊ. liaˊ ha+ ngai deuˋ rhanˋ gaˋ leˋ."}
+  - n: 11
+    speaker: 阿公
+    en: "(from his armchair, without looking up) Where are the shoes?"
+    sx: {hanzi: "鞋呢？", pinyin: "haiˇ neˇ?"}
+    hl: {hanzi: "鞋呢？", pinyin: "hai neˇ?"}
+  - n: 12
+    speaker: Sam
+    en: "He's taken them up to his room. He's locked the door; I can't get at them."
+    sx: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "giˇ naˊ songˊ hi gienˊ fongˇ leˊ. munˇ guanˊ denˋ, ngaiˇ naˊ giˇ mˇ doˋ."}
+    hl: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "gi naˋ shongˋ hiˇ gienˋ fong leˋ. mun guanˋ nenˊ, ngai naˋ gi m doˊ."}
+    check: true
+  - n: 13
+    speaker: 阿公
+    en: "He's in the wrong. But you mustn't shout like that either."
+    sx: {hanzi: "佢毋著。毋過你乜莫恁大聲。", pinyin: "giˇ mˇ cog. mˇ go nˇ me mog anˋ tai sangˊ."}
+    hl: {hanzi: "佢毋著。毋過你乜莫恁大聲。", pinyin: "gi m chogˋ. m goˇ ngi meˇ mogˋ anˊ tai+ shangˋ."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      花 faˊ "spend": 花錢 "spend money"; the same character as "flower". 講好 "we agreed": 講 + 好 "settled" (lesson 38).
+  - ref: 2
+    topic: grammar
+    text: >
+      毋著 mˇ cog "wrong, at fault": 係網站毋著 "it's the website that's wrong", 佢毋著 (line 13) "he's in the wrong". 著 cog
+      alone is "right, correct" (lesson 10), so 毋著 is literally "not right". Official example: 明明就係佢毋著，還恁大聲罵人 "it's
+      plainly his fault, and he still shouts at people".
+  - ref: 3
+    topic: grammar
+    text: >
+      毋係 A，就係 B "if not A, then B; either A or B": 毋係網站毋著，就係你毋著 "if it's not the website's fault, it's
+      yours". Official example: 金條毋係五兩，就係十兩 "gold bars are either five or ten taels". 箱仔肚 "in the box".
+  - ref: 4
+    topic: grammar
+    text: >
+      就算…，乜… "even if…, still…": 就算𠊎加一雙，你乜毋使恁譴 "even if I did add a pair, you needn't be so angry". 就算 qiu
+      son goes at the head of the first clause, 乜 before the verb of the second. Official example: 就算係親兄弟，在金錢方面
+      乜愛一還一，二還二 "even between brothers, money must be paid back to the last cent".
+  - ref: 5
+    topic: vocab
+    text: >
+      箍 kieuˊ "dollar" (in speech): 一百箍 "a hundred dollars", literally "hoops", from the round coins. In writing and on
+      price tags, 元.
+  - ref: 10
+    topic: vocab
+    text: >
+      冤家 ienˊ gaˊ "quarrel, have a row": 𠊎兜冤家了 "we've fallen out". Not "enemies" as in Mandarin 冤家: a Hakka
+      false friend. 騙 pien (line 7) "lie to, cheat".
+  - ref: 12
+    topic: grammar
+    text: >
+      拿佢毋著 "can't get hold of it": verb + 佢 + 毋著 is "try to do it and fail": 摸佢毋著 "couldn't touch her" (a dream,
+      in an official example), 收買佢毋著 "couldn't bribe him". 佢 here is "it", the shoes; the pattern is Hakka, with no
+      Mandarin model. 拿上去 "taken up (there)". Marked for checking with 拿 as the verb.
+  - ref: 13
+    topic: culture
+    text: >
+      Grandpa gives each side half: he blames A-min, and he tells Sam to lower his voice. In a Hakka household the elder
+      who says least is the judge.
+
+new_words:
+  - {hanzi: 花, pinyin: "faˊ", en: "spend (money); flower", hl: {hanzi: 花, pinyin: "faˋ"}}
+  - {hanzi: 花錢, pinyin: "faˊ qienˇ", en: "spend money", hl: {hanzi: 花錢, pinyin: "faˋ cien"}}
+  - {hanzi: 毋著, pinyin: "mˇ cog", en: "wrong, at fault", hl: {hanzi: 毋著, pinyin: "m chogˋ"}}
+  - {hanzi: 就算, pinyin: "qiu son", en: "even if", hl: {hanzi: 就算, pinyin: "ciu+ sonˇ"}}
+  - {hanzi: 箍, pinyin: "kieuˊ", en: "dollar (in speech)", hl: {hanzi: 箍, pinyin: "kieuˋ"}}
+  - {hanzi: 騙, pinyin: "pien", en: "lie to, cheat", hl: {hanzi: 騙, pinyin: "pienˇ"}}
+  - {hanzi: 大聲, pinyin: "tai sangˊ", en: "loud, loudly", hl: {hanzi: 大聲, pinyin: "tai+ shangˋ"}}
+  - {hanzi: 冤家, pinyin: "ienˊ gaˊ", en: "quarrel, have a row", hl: {hanzi: 冤家, pinyin: "rhanˋ gaˋ"}}
+  - {hanzi: 浪費, pinyin: "long fi", en: "waste", hl: {hanzi: 浪費, pinyin: "long+ fuiˇ"}}
+  - {hanzi: 道理, pinyin: "to liˊ", en: "reason, sense", hl: {hanzi: 道理, pinyin: "to+ liˋ"}}
+  - {hanzi: 詏, pinyin: "au", en: "argue, dispute", hl: {hanzi: 詏, pinyin: "auˇ"}}
+  - {hanzi: 理, pinyin: "liˊ", en: "pay attention to, take notice of", hl: {hanzi: 理, pinyin: "liˋ"}}
+  - {hanzi: 正經, pinyin: "ziin ginˊ", en: "really, truly; serious", hl: {hanzi: 正經, pinyin: "zhinˇ ginˋ"}}
+  - {hanzi: 細聲, pinyin: "se sangˊ", en: "quietly, softly", hl: {hanzi: 細聲, pinyin: "seˇ shangˋ"}}
+  - {hanzi: 上去, pinyin: "songˊ hi", en: "go up; (after a verb) up", hl: {hanzi: 上去, pinyin: "shongˋ hiˇ"}}
+  - {hanzi: 儘採, pinyin: "qinˋ caiˋ", en: "any old how, carelessly; whatever", hl: {hanzi: 儘採, pinyin: "cinˊ caiˊ"}}
+  - {hanzi: 承認, pinyin: "siinˇ ngin", en: "admit", hl: {hanzi: 承認, pinyin: "shin ngin+"}}
+  - {hanzi: 故意, pinyin: "gu i", en: "on purpose", hl: {hanzi: 故意, pinyin: "guˇ rhiˇ"}}
+  - {hanzi: 細義, pinyin: "se ngi", en: "careful", hl: {hanzi: 細義, pinyin: "seˇ ngi+"}}
+  - {hanzi: 錯, pinyin: "co", en: "mistake; wrong", hl: {hanzi: 錯, pinyin: "coˇ"}}
+
+exercises:
+  translate:
+    - en: "Don't spend money any old how, and don't waste it."
+      sx: {hanzi: "莫儘採花錢，乜莫浪費。", pinyin: "mog qinˋ caiˋ faˊ qienˇ, me mog long fi."}
+      hl: {hanzi: "莫儘採花錢，乜莫浪費。", pinyin: "mogˋ cinˊ caiˊ faˋ cien, meˇ mogˋ long+ fuiˇ."}
+    - en: "He won't admit he did it on purpose."
+      sx: {hanzi: "佢毋承認佢係故意个。", pinyin: "giˇ mˇ siinˇ ngin giˇ he gu i ge."}
+      hl: {hanzi: "佢毋承認佢係故意个。", pinyin: "gi m shin ngin+ gi heˇ guˇ rhiˇ gaiˇ."}
+    - en: "Be careful with the card; don't let it get lost."
+      sx: {hanzi: "卡愛細義，莫打毋見忒。", pinyin: "kaˋ oi se ngi, mog daˋ mˇ gien tedˋ."}
+      hl: {hanzi: "卡愛細義，莫打毋見忒。", pinyin: "kaˊ oiˇ seˇ ngi+, mogˋ daˊ m gienˇ ted."}
+    - en: "He argues, but he's got no reason on his side."
+      sx: {hanzi: "佢當會詏，毋過無道理。", pinyin: "giˇ dongˊ voi au, mˇ go moˇ to liˊ."}
+      hl: {hanzi: "佢當會詏，毋過無道理。", pinyin: "gi dongˋ voi+ auˇ, m goˇ mo to+ liˋ."}
+    - en: "Speak quietly; Grandpa is asleep."
+      sx: {hanzi: "細聲講，阿公在該睡目。", pinyin: "se sangˊ gongˋ, aˊ gungˊ du ge soi mugˋ."}
+      hl: {hanzi: "細聲講，阿公在該睡目。", pinyin: "seˇ shangˋ gongˊ, a+ gungˋ diˇ gai shoi+ mug."}
+    - en: "Even if he says sorry, I'm not taking any notice of him."
+      sx: {hanzi: "就算佢講敗勢，𠊎乜毋理佢。", pinyin: "qiu son giˇ gongˋ paiˇ se, ngaiˇ me mˇ liˊ giˇ."}
+      hl: {hanzi: "就算佢講敗勢，𠊎乜毋理佢。", pinyin: "ciu+ sonˇ gi gongˊ pai+ sheˇ, ngai meˇ m liˋ gi."}
+    - en: "On Saturdays A-in is either sleeping or eating."
+      sx: {hanzi: "禮拜六阿英毋係睡目，就係食飯。", pinyin: "liˊ bai liugˋ aˊ inˊ mˇ he soi mugˋ, qiu he siid fan."}
+      hl: {hanzi: "禮拜六阿英毋係睡目，就係食飯。", pinyin: "liˋ baiˇ liug a+ rhinˋ m heˇ shoi+ mug, ciu+ heˇ shidˋ pon+."}
+    - en: "Is that right or wrong? — It's right; you made no mistake. Really."
+      sx: {hanzi: "該係著抑係毋著？——著，你無錯。正經。", pinyin: "ge he cog ia he mˇ cog? — cog, nˇ moˇ co. ziin ginˊ."}
+      hl: {hanzi: "該係著抑係毋著？——著，你無錯。正經。", pinyin: "gai heˇ chogˋ rha+ heˇ m chogˋ? — chogˋ, ngi mo coˇ. zhinˇ ginˋ."}
+      check: true
+  fill:
+    - en: "It's your fault."
+      sx: {hanzi: "係你___。", pinyin: "he nˇ ___.", answer_hanzi: "毋著", answer: "mˇ cog"}
+      hl: {hanzi: "係你___。", pinyin: "heˇ ngi ___.", answer_hanzi: "毋著", answer: "m chogˋ"}
+    - en: "Even if it's a hundred dollars, you have to ask."
+      sx: {hanzi: "___係一百箍，乜愛問。", pinyin: "___ he idˋ bagˋ kieuˊ, me oi mun.", answer_hanzi: "就算", answer: "qiu son"}
+      hl: {hanzi: "___係一百箍，乜愛問。", pinyin: "___ heˇ rhid bag kieuˋ, meˇ oiˇ munˇ.", answer_hanzi: "就算", answer: "ciu+ sonˇ"}
+    - en: "We've fallen out."
+      sx: {hanzi: "𠊎兜___了。", pinyin: "ngaiˇ deuˊ ___ leˊ.", answer_hanzi: "冤家", answer: "ienˊ gaˊ"}
+      hl: {hanzi: "𠊎兜___了。", pinyin: "ngai deuˋ ___ leˋ.", answer_hanzi: "冤家", answer: "rhanˋ gaˋ"}
+
+audio: []
