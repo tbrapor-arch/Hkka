@@ -1,0 +1,175 @@
+id: 68
+title:
+  en: "A family meeting"
+  sx: {hanzi: "錢多毋當屋下近", pinyin: "qienˇ doˊ mˇ dong vugˋ kaˊ kiunˊ"}
+  hl: {hanzi: "錢多毋當屋下近", pinyin: "cien doˋ m dongˇ vug haˋ kiunˋ"}
+review: false
+setting: >-
+  Saturday 17 April, after dinner. A-in is home for the weekend with news, and Mr Liu has called what he calls a
+  family meeting: the dishes are cleared, the tea is poured, and Grandma has promised (lesson 42) not to interfere.
+names: [阿英, 阿明, 台北, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿爸
+    en: "Tonight we're having a family meeting. A-in has something to tell us."
+    sx: {hanzi: "今暗晡大家來開會。阿英有事情愛講。", pinyin: "gimˊ am buˊ tai gaˊ loiˇ koiˊ fi. aˊ inˊ iuˊ sii qinˇ oi gongˋ."}
+    hl: {hanzi: "今暗晡大家來開會。阿英有事情愛講。", pinyin: "gimˋ amˇ buˋ tai+ gaˋ loi koiˋ fui+. a+ rhinˋ rhiuˋ sii+ cin oiˇ gongˊ."}
+  - n: 2
+    speaker: 阿英
+    en: "My company in Taipei wants to promote me, with a higher salary. But the county government in Miaoli wants to take me on too, for a job in Hakka culture."
+    sx: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜愛請𠊎，做客家文化个頭路。", pinyin: "toiˇ bedˋ ge gungˊ siiˊ oi siinˊ ngaiˇ, ngied gibˋ ka goˊ. mˇ go meuˇ lidˋ ien ziin fuˋ me oi qiangˋ ngaiˇ, zo hagˋ gaˊ vunˇ fa ge teuˇ lu."}
+    hl: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜愛請𠊎，做客家文化个頭路。", pinyin: "toi bed gaiˇ gungˋ siiˋ oiˇ shinˋ ngai, ngiedˋ gib haˇ goˋ. m goˇ miau lid rhanˇ zhinˇ fuˊ meˇ oiˇ ciangˊ ngai, zoˇ hag gaˋ vun faˇ gaiˇ teu lu+."}
+  - n: 3
+    speaker: 阿姆
+    en: "Is the pay at the county lower?"
+    sx: {hanzi: "縣政府个月給較少無？", pinyin: "ien ziin fuˋ ge ngied gibˋ ka seuˋ moˇ?"}
+    hl: {hanzi: "縣政府个月給較少無？", pinyin: "rhanˇ zhinˇ fuˊ gaiˇ ngiedˋ gib haˇ shauˊ mo?"}
+  - n: 4
+    speaker: 阿英
+    en: "Lower. Five thousand less."
+    sx: {hanzi: "較少，少五千。", pinyin: "ka seuˋ, seuˋ ngˋ qienˊ."}
+    hl: {hanzi: "較少，少五千。", pinyin: "haˇ shauˊ, shauˊ ngˊ cienˋ."}
+  - n: 5
+    speaker: 阿明
+    en: "More money is better! You can save some, it's safer."
+    sx: {hanzi: "錢較多較好！做得存兜錢，較保險。", pinyin: "qienˇ ka doˊ ka hoˋ! zo dedˋ sunˇ deuˊ qienˇ, ka boˋ hiamˋ."}
+    hl: {hanzi: "錢較多較好！做得存兜錢，較保險。", pinyin: "cien haˇ doˋ haˇ hoˊ! zoˇ ded sun deuˋ cien, haˇ boˊ hiamˊ."}
+  - n: 6
+    speaker: 阿婆
+    en: "Grandma's not interfering… but more money isn't as good as being near home."
+    sx: {hanzi: "阿婆毋管……毋過，錢多毋當屋下近。", pinyin: "aˊ poˇ mˇ gonˋ … mˇ go, qienˇ doˊ mˇ dong vugˋ kaˊ kiunˊ."}
+    hl: {hanzi: "阿婆毋管……毋過，錢多毋當屋下近。", pinyin: "a+ po m gonˊ … m goˇ, cien doˋ m dongˇ vug haˋ kiunˋ."}
+    check: true
+  - n: 7
+    speaker: 阿爸
+    en: "Mother, you said you wouldn't interfere!"
+    sx: {hanzi: "阿姆，你講毋管个！", pinyin: "aˊ meˊ, nˇ gongˋ mˇ gonˋ ge!"}
+    hl: {hanzi: "阿姆，你講毋管个！", pinyin: "a+ meˋ, ngi gongˊ m gonˊ gaiˇ!"}
+  - n: 8
+    speaker: 阿公
+    en: "Whatever the job, you have to like it, after all."
+    sx: {hanzi: "做頭路，總愛自家歡喜。", pinyin: "zo teuˇ lu, zungˋ oi qi gaˊ fonˊ hiˋ."}
+    hl: {hanzi: "做頭路，總愛自家歡喜。", pinyin: "zoˇ teu lu+, zungˊ oiˇ cid gaˋ fonˋ hiˊ."}
+  - n: 9
+    speaker: Sam
+    en: "I think… both jobs are good. Unless you don't want to come back to Miaoli."
+    sx: {hanzi: "𠊎想……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngaiˇ xiongˋ … liongˋ zagˋ teuˇ lu du dongˊ hoˋ. cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lidˋ."}
+    hl: {hanzi: "𠊎想……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngai siongˊ … liongˊ zhag teu lu+ du+ dongˋ hoˊ. chu fuiˋ ngi m siongˊ zhonˊ miau lid."}
+  - n: 10
+    speaker: 阿明
+    en: "Sis, come back home anyway! Sam's here!"
+    sx: {hanzi: "阿姊，你還係轉來好！Sam 在這！", pinyin: "aˊ jiˋ, nˇ hanˇ he zonˋ loiˇ hoˋ! Sam coiˊ iaˋ!"}
+    hl: {hanzi: "阿姊，你還係轉來好！Sam 在這！", pinyin: "a+ ziˊ, ngi han heˇ zhonˊ loi hoˊ! Sam coiˋ liaˊ!"}
+    check: true
+  - n: 11
+    speaker: 阿英
+    en: "A-min!"
+    sx: {hanzi: "阿明！", pinyin: "aˊ minˇ!"}
+    hl: {hanzi: "阿明！", pinyin: "a+ min!"}
+  - n: 12
+    speaker: 阿英
+    en: "(after a silence) I'd rather earn a bit less and do a job I enjoy."
+    sx: {hanzi: "𠊎甘願月給少兜，做歡喜个頭路。", pinyin: "ngaiˇ gamˊ ngien ngied gibˋ seuˋ deuˊ, zo fonˊ hiˋ ge teuˇ lu."}
+    hl: {hanzi: "𠊎甘願月給少兜，做歡喜个頭路。", pinyin: "ngai gamˋ ngien+ ngiedˋ gib shauˊ deuˋ, zoˇ fonˋ hiˊ gaiˇ teu lu+."}
+  - n: 13
+    speaker: 阿爸
+    en: "Good. Think about what you plan to do, and make up your own mind. Meeting over: no conclusion tonight."
+    sx: {hanzi: "好。你想看啊有麼个打算，主意自家拿。今暗晡開會無結論。", pinyin: "hoˋ. nˇ xiongˋ kon a iuˊ maˋ ge daˋ son, zuˋ i qi gaˊ naˊ. gimˊ am buˊ koiˊ fi moˇ giedˋ lun."}
+    hl: {hanzi: "好。你想看啊有麼个打算，主意自家拿。今暗晡開會無結論。", pinyin: "hoˊ. ngi siongˊ konˇ a+ rhiuˋ maˊ gaiˇ daˊ sonˇ, zhuˊ rhiˇ cid gaˋ naˋ. gimˋ amˇ buˋ koiˋ fui+ mo gied lun+."}
+    check: true
+
+notes:
+  - ref: 2
+    topic: vocab
+    text: >
+      Work words. 公司 "company", 頭路 teuˇ lu (lesson 53) "job", 月給 ngied gibˋ "monthly pay", 升 siinˊ "promote" (a
+      Hakka example: 毋會升錢 "won't get a raise"). 縣政府 "county government", 政府 "government" (lesson 55); 文化 "culture".
+  - ref: 6
+    topic: grammar
+    text: >
+      毋當 mˇ dong "is not as good as, would be better to": A 毋當 B "A is not as good as B". It is the comparison of
+      sayings: 人靚毋當命靚 "good looks are not as good as good luck", 好田地毋當好子弟 "good land is not as good as good
+      sons" (official examples). Grandma's 錢多毋當屋下近 is built the same way, for the occasion; it is marked for
+      checking. 近 kiunˊ "near", 遠 ienˋ "far".
+  - ref: 8
+    topic: grammar
+    text: >
+      總愛 zungˋ oi "must, whatever happens; after all you have to": it puts a condition above the others. Official
+      examples: 總愛工夫下來深，鐵杵乜做得磨成針 "put in the work, and even an iron bar can be ground into a needle".
+  - ref: 9
+    topic: grammar
+    text: >
+      除非 cuˇ fiˊ "unless": 除非你毋想轉苗栗 "unless you don't want to come back to Miaoli". Rare in the examples (除非有必要
+      "unless it's necessary"), and usually at the head of the clause.
+  - ref: 10
+    topic: grammar
+    text: >
+      還係 hanˇ he has two jobs. In lesson 18 it was "or" in a question (Hailu 抑係); here it is "still, all the same,
+      after all": 你還係轉來好 "you'd better come back after all", like 還係愛 in the official examples (雖然你當譴佢，毋過還係
+      愛尊重佢 "even if you're angry with him, you still have to respect him"). In this sense Hailu says 還係 han heˇ too.
+  - ref: 12
+    topic: grammar
+    text: >
+      甘願 gamˊ ngien "would rather, be willing to (give something up)": 𠊎甘願月給少兜 "I'd rather have less pay". Official
+      examples use it for sacrifice: 甘願自家辛苦賺錢來養育佢兜 "willing to work hard themselves to raise them"; 毋甘願
+      "not willing, can't accept it". The pattern 甘願…乜… ("would rather…, even if…") sometimes listed with it has no
+      official example.
+  - ref: 13
+    topic: vocab
+    text: >
+      主意 zuˋ i is a false friend: not "idea" but "a decision", 拿主意 "make up one's mind": 主意自家拿 "make up your own
+      mind" (the word order with the object first is marked for checking). 打算 "plan, intention"; 想看啊 "think it
+      over" (lesson 36's V看啊). 開會 "hold a meeting", 結論 "conclusion". A-in's interview is lesson 75.
+
+new_words:
+  - {hanzi: 開會, pinyin: "koiˊ fi", en: "hold a meeting", hl: {hanzi: 開會, pinyin: "koiˋ fui+"}}
+  - {hanzi: 升, pinyin: "siinˊ", en: "promote, rise", hl: {hanzi: 升, pinyin: "shinˋ"}}
+  - {hanzi: 月給, pinyin: "ngied gibˋ", en: "monthly pay, salary", hl: {hanzi: 月給, pinyin: "ngiedˋ gib"}}
+  - {hanzi: 縣政府, pinyin: "ien ziin fuˋ", en: "county government", hl: {hanzi: 縣政府, pinyin: "rhanˇ zhinˇ fuˊ"}}
+  - {hanzi: 文化, pinyin: "vunˇ fa", en: "culture", hl: {hanzi: 文化, pinyin: "vun faˇ"}}
+  - {hanzi: 毋當, pinyin: "mˇ dong", en: "is not as good as, would be better to", hl: {hanzi: 毋當, pinyin: "m dongˇ"}}
+  - {hanzi: 近, pinyin: "kiunˊ", en: "near", hl: {hanzi: 近, pinyin: "kiunˋ"}}
+  - {hanzi: 遠, pinyin: "ienˋ", en: "far", hl: {hanzi: 遠, pinyin: "rhanˊ"}}
+  - {hanzi: 總愛, pinyin: "zungˋ oi", en: "must after all, whatever happens", hl: {hanzi: 總愛, pinyin: "zungˊ oiˇ"}}
+  - {hanzi: 除非, pinyin: "cuˇ fiˊ", en: "unless", hl: {hanzi: 除非, pinyin: "chu fuiˋ"}}
+  - {hanzi: 甘願, pinyin: "gamˊ ngien", en: "would rather, be willing to", hl: {hanzi: 甘願, pinyin: "gamˋ ngien+"}}
+  - {hanzi: 結論, pinyin: "giedˋ lun", en: "conclusion", hl: {hanzi: 結論, pinyin: "gied lun+"}}
+  - {hanzi: 討論, pinyin: "toˋ lun", en: "discuss", hl: {hanzi: 討論, pinyin: "toˊ lun+"}}
+  - {hanzi: 主意, pinyin: "zuˋ i", en: "decision (拿主意 make up one's mind)", hl: {hanzi: 主意, pinyin: "zhuˊ rhiˇ"}}
+  - {hanzi: 打算, pinyin: "daˋ son", en: "plan, intention; intend", hl: {hanzi: 打算, pinyin: "daˊ sonˇ"}}
+  - {hanzi: 想法, pinyin: "xiongˋ fabˋ", en: "opinion, way of thinking", hl: {hanzi: 想法, pinyin: "siongˊ fab"}}
+  - {hanzi: 收入, pinyin: "suˊ ngib", en: "income", hl: {hanzi: 收入, pinyin: "shiuˋ ngibˋ"}}
+  - {hanzi: 離, pinyin: "liˇ", en: "(distance) from", hl: {hanzi: 離, pinyin: "li"}}
+  - {hanzi: 保險, pinyin: "boˋ hiamˋ", en: "safe, secure; insurance", hl: {hanzi: 保險, pinyin: "boˊ hiamˊ"}}
+  - {hanzi: 輕鬆, pinyin: "kiangˊ sungˊ", en: "easy, relaxed", hl: {hanzi: 輕鬆, pinyin: "kiangˋ sungˋ"}}
+
+exercises:
+  translate:
+    - en: "He wanted to change to an easier job."
+      sx: {hanzi: "佢想愛換一隻較輕鬆个頭路。", pinyin: "giˇ xiongˋ oi von idˋ zagˋ ka kiangˊ sungˊ ge teuˇ lu."}
+      hl: {hanzi: "佢想愛換一隻較輕鬆个頭路。", pinyin: "gi siongˊ oiˇ von+ rhid zhag haˇ kiangˋ sungˋ gaiˇ teu lu+."}
+    - en: "Taipei is far; the county government is near home."
+      sx: {hanzi: "台北當遠，縣政府離屋下當近。", pinyin: "toiˇ bedˋ dongˊ ienˋ, ien ziin fuˋ liˇ vugˋ kaˊ dongˊ kiunˊ."}
+      hl: {hanzi: "台北當遠，縣政府離屋下當近。", pinyin: "toi bed dongˋ rhanˊ, rhanˇ zhinˇ fuˊ li vug haˋ dongˋ kiunˋ."}
+    - en: "Even on Sunday, Dad still has to go to work."
+      sx: {hanzi: "禮拜日，阿爸還係愛去上班。", pinyin: "liˊ bai ngidˋ, aˊ baˊ hanˇ he oi hi songˊ banˊ."}
+      hl: {hanzi: "禮拜日，阿爸還係愛去上班。", pinyin: "liˋ baiˇ ngid, a+ baˋ han heˇ oiˇ hiˇ shongˋ banˋ."}
+    - en: "Earning money is hard work."
+      sx: {hanzi: "賺錢當辛苦。", pinyin: "con qienˇ dongˊ xinˊ kuˋ."}
+      hl: {hanzi: "賺錢當辛苦。", pinyin: "con+ cien dongˋ sinˋ kuˊ."}
+    - en: "We discussed it for two hours and reached no conclusion."
+      sx: {hanzi: "大家討論兩點鐘久，還係無結論。", pinyin: "tai gaˊ toˋ lun liongˋ diamˋ zungˊ giuˋ, hanˇ he moˇ giedˋ lun."}
+      hl: {hanzi: "大家討論兩點鐘久，還係無結論。", pinyin: "tai+ gaˋ toˊ lun+ liongˊ diamˊ zhungˋ giuˊ, han heˇ mo gied lun+."}
+    - en: "What do you think? — I think the income from the county job is too low."
+      sx: {hanzi: "你个想法係麼个？——𠊎想縣政府个收入忒少。", pinyin: "nˇ ge xiongˋ fabˋ he maˋ ge? — ngaiˇ xiongˋ ien ziin fuˋ ge suˊ ngib tedˋ seuˋ."}
+      hl: {hanzi: "你个想法係麼个？——𠊎想縣政府个收入忒少。", pinyin: "ngi gaiˇ siongˊ fab heˇ maˊ gaiˇ? — ngai siongˊ rhanˇ zhinˇ fuˊ gaiˇ shiuˋ ngibˋ ted shauˊ."}
+  fill:
+    - en: "Unless there's a reason, I don't want to go out."
+      sx: {hanzi: "___有事情，𠊎毋想出門。", pinyin: "___ iuˊ sii qinˇ, ngaiˇ mˇ xiongˋ cudˋ munˇ.", answer_hanzi: "除非", answer: "cuˇ fiˊ"}
+      hl: {hanzi: "___有事情，𠊎毋想出門。", pinyin: "___ rhiuˋ sii+ cin, ngai m siongˊ chud mun.", answer_hanzi: "除非", answer: "chu fuiˋ"}
+    - en: "I'd rather work hard myself."
+      sx: {hanzi: "𠊎___自家辛苦。", pinyin: "ngaiˇ ___ qi gaˊ xinˊ kuˋ.", answer_hanzi: "甘願", answer: "gamˊ ngien"}
+      hl: {hanzi: "𠊎___自家辛苦。", pinyin: "ngai ___ cid gaˋ sinˋ kuˊ.", answer_hanzi: "甘願", answer: "gamˋ ngien+"}
+
+audio: []
