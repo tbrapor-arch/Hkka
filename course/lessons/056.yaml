@@ -1,0 +1,158 @@
+id: 56
+title:
+  en: "Review 8"
+  sx: {hanzi: "這擺阿妹來唱過", pinyin: "iaˋ baiˋ aˊ moi loiˇ cong go"}
+  hl: {hanzi: "這擺阿妹來唱過", pinyin: "liaˊ baiˊ a+ moiˇ loi chongˇ goˇ"}
+review: true
+setting: >-
+  The evening of 天穿日, the square in front of the temple in 竹東. Rows of plastic chairs, a stage, a banner for the
+  mountain-song contest. Sam's suitcase is in 阿舅's car; Grandma and Grandpa came along "just to listen". Nothing new
+  in the dialogue: everything comes from lessons 1–55.
+names: [竹東, 苗栗, 劉]
+
+dialogue:
+  - n: 1
+    speaker: 阿舅
+    en: "Such a crowd! Everyone sit yourselves down, the contest is about to begin."
+    sx: {hanzi: "恁多人！大家坐等來，比賽愛來了。", pinyin: "anˋ doˊ nginˇ! tai gaˊ coˊ denˋ loiˇ, biˋ soi oi loiˇ leˊ."}
+    hl: {hanzi: "恁多人！大家坐等來，比賽愛來了。", pinyin: "anˊ doˋ ngin! tai+ gaˋ coˋ denˊ loi, biˊ soiˇ oiˇ loi leˋ."}
+  - n: 2
+    speaker: 姐婆
+    en: "Grandma Liu, it's been so long! Thank you for coming to 竹東."
+    sx: {hanzi: "劉阿婆，恁久無看著！承蒙你來竹東。", pinyin: "liuˇ aˊ poˇ, anˋ giuˋ moˇ kon doˋ! siinˇ mungˇ nˇ loiˇ zugˋ dungˊ."}
+    hl: {hanzi: "劉阿婆，恁久無看著！承蒙你來竹東。", pinyin: "liu a+ po, anˊ giuˊ mo konˇ doˊ! shin mung ngi loi zhug dungˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "恁仔細… I mean, 承蒙你!"
+    sx: {hanzi: "恁仔細……毋係，承蒙你！", pinyin: "anˋ ziiˋ se … mˇ he, siinˇ mungˇ nˇ!"}
+    hl: {hanzi: "恁仔細……毋係，承蒙你！", pinyin: "anˊ ziiˊ seˇ … m heˇ, shin mung ngi!"}
+  - n: 4
+    speaker: Sam
+    en: "Grandma, your Hailu is good too!"
+    sx: {hanzi: "阿婆个海陸話乜當好！", pinyin: "aˊ poˇ ge hoiˋ liugˋ fa me dongˊ hoˋ!"}
+    hl: {hanzi: "阿婆个海陸話乜當好！", pinyin: "a+ po gaiˇ hoiˊ liugˋ voiˋ meˇ dongˋ hoˊ!"}
+  - n: 5
+    speaker: 阿婆
+    en: "Only a little. Only this much."
+    sx: {hanzi: "一息仔定定，恁多仔。", pinyin: "idˋ xid eˋ tin tin, an doˊ eˋ."}
+    hl: {hanzi: "一息仔定定，恁多仔。", pinyin: "rhid sid er tin+ tin+, an doˋ er."}
+  - n: 6
+    speaker: 阿舅
+    en: "(reading the programme) Next: Grandma Liu, from Miaoli!"
+    sx: {hanzi: "下一隻：苗栗來个劉阿婆！", pinyin: "ha idˋ zagˋ: meuˇ lidˋ loiˇ ge liuˇ aˊ poˇ!"}
+    hl: {hanzi: "下一隻：苗栗來个劉阿婆！", pinyin: "ha+ rhid zhag: miau lid loi gaiˇ liu a+ po!"}
+    check: true
+  - n: 7
+    speaker: 阿婆
+    en: "(on the stage, singing) 'Fifty years ago you sang a song; / this time it is the girl who sings in return. / We sang mountain songs till we grew old; / old now, and still we want to sing them.'"
+    sx: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老了還愛唱山歌。", pinyin: "ngˋ siib ngienˇ qienˇ nˇ cong goˊ, iaˋ baiˋ aˊ moi loiˇ cong go; sanˊ goˊ cong do nginˇ voi loˋ, loˋ leˊ hanˇ oi cong sanˊ goˊ."}
+    hl: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老了還愛唱山歌。", pinyin: "ngˊ shibˋ ngien cien ngi chongˇ goˋ, liaˊ baiˊ a+ moiˇ loi chongˇ goˇ; sanˋ goˋ chongˇ doˇ ngin voi+ loˊ, loˊ leˋ han oiˇ chongˇ sanˋ goˋ."}
+  - n: 8
+    speaker: 阿舅
+    en: "Look, the longer she sings, the more they clap!"
+    sx: {hanzi: "你看，大家緊聽緊拍手！", pinyin: "nˇ kon, tai gaˊ ginˋ tangˊ ginˋ pogˋ suˋ!"}
+    hl: {hanzi: "你看，大家緊聽緊拍手！", pinyin: "ngi konˇ, tai+ gaˋ ginˊ tangˋ ginˊ pog shiuˊ!"}
+    check: true
+  - n: 9
+    speaker: Sam
+    en: "Grandpa, your eyes are all red!"
+    sx: {hanzi: "阿公，你个目珠紅紅！", pinyin: "aˊ gungˊ, nˇ ge mugˋ zuˊ fungˇ fungˇ!"}
+    hl: {hanzi: "阿公，你个目珠紅紅！", pinyin: "a+ gungˋ, ngi gaiˇ mug zhuˋ fung fung!"}
+  - n: 10
+    speaker: 阿公
+    en: "It's windy."
+    sx: {hanzi: "風當大。", pinyin: "fungˊ dongˊ tai."}
+    hl: {hanzi: "風當大。", pinyin: "fungˋ dongˋ tai+."}
+  - n: 11
+    speaker: 阿婆
+    en: "(back from the stage, to Sam) Tomorrow you start work. Work hard. And when you're free, come home and see us."
+    sx: {hanzi: "韶早你愛做事，好好做。有閒正轉來尞。", pinyin: "seuˇ zoˋ nˇ oi zo se, hoˋ hoˋ zo. iuˊ hanˇ zang zonˋ loiˇ liau."}
+    hl: {hanzi: "韶早你愛做事，好好做。有閒正轉來尞。", pinyin: "shau zoˊ ngi oiˇ zoˇ she+, hoˊ hoˊ zoˇ. rhiuˋ han zhangˇ zhonˊ loi liau+."}
+  - n: 12
+    speaker: Sam
+    en: "韶早? Grandma, that's Hailu!"
+    sx: {hanzi: "韶早？阿婆，該係海陸話！", pinyin: "seuˇ zoˋ? aˊ poˇ, ge he hoiˋ liugˋ fa!"}
+    hl: {hanzi: "韶早？阿婆，該係海陸話！", pinyin: "shau zoˊ? a+ po, gai heˇ hoiˊ liugˋ voiˋ!"}
+  - n: 13
+    speaker: 阿婆
+    en: "We're in 竹東. When in 竹東, you speak Hailu."
+    sx: {hanzi: "這係竹東。在竹東，就講海陸話。", pinyin: "iaˋ he zugˋ dungˊ. coiˊ zugˋ dungˊ, qiu gongˋ hoiˋ liugˋ fa."}
+    hl: {hanzi: "這係竹東。在竹東，就講海陸話。", pinyin: "liaˊ heˇ zhug dungˋ. coiˋ zhug dungˋ, ciu+ gongˊ hoiˊ liugˋ voiˋ."}
+  - n: 14
+    speaker: Sam
+    en: "Then: thank you, Grandma!"
+    sx: {hanzi: "該就：承蒙你，阿婆！", pinyin: "ge qiu: siinˇ mungˇ nˇ, aˊ poˇ!"}
+    hl: {hanzi: "該就：承蒙你，阿婆！", pinyin: "gai ciu+: shin mung ngi, a+ po!"}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      坐等來 (lesson 52), 比賽 (lesson 55), 恁多人 (lesson 54). 劉阿婆 "Grandma Liu" is how people outside the family address
+      her.
+  - ref: 3
+    topic: culture
+    text: >
+      Grandma corrects herself into Hailu (lessons 53 and 55): a guest's courtesy. 恁多仔 (line 5) "only this much", with
+      the level-tone 恁 an of lesson 55.
+  - ref: 7
+    topic: culture
+    text: >
+      Grandma's answer to Grandpa's verse of lesson 37, written for this course in the same shape: four lines of seven
+      syllables. Lines 1, 2 and 4 rhyme on -o in both accents (Sixian 歌 goˊ, 過 go, 歌 goˊ; Hailu goˋ, goˇ, goˋ), and
+      line 3 ends on -o too (老 loˋ / loˊ). 唱過 "sing again, sing back": the 過 "again" of lesson 54. 妹 is the girl of the songs (lesson 37);
+      the 你 of line 1 is sitting in the third row.
+  - ref: 8
+    topic: grammar
+    text: >
+      緊聽緊拍手 "the more they listen, the more they clap": 緊 X 緊 Y (lesson 51), marked for a check. 拍手 "clap"
+      (lesson 31).
+  - ref: 10
+    topic: culture
+    text: >
+      目珠紅紅 "eyes all red": AA (lesson 45). Grandpa's two-word answer is the course's oldest joke, and its kindest.
+  - ref: 13
+    topic: culture
+    text: >
+      Cover the English and tell the New Year in your own Hakka: the 粄, 圍爐 and the red envelopes, the visitors, the
+      trip to Mrs Liu's family, the old street, 天穿日, and Grandma's song. Then go back to lesson 7 for the second wave.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this batch: 菜頭粄 for 蘿蔔粄, 炊 chuiˋ, 張 for 裝 "put in", 柿 ki+, 韶早, 承蒙你, and the level-tone 恁 an in
+      恁大仔 (anˊ for "so").
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Every New Year we make sweet 粄 and risen 粄."
+      sx: {hanzi: "逐年過年，𫣆兜都會打甜粄摎發粄。", pinyin: "dagˋ ngienˇ go ngienˇ, enˊ deuˊ du voi daˋ tiamˇ banˋ lauˊ fadˋ banˋ."}
+      hl: {hanzi: "逐年過年，𫣆兜都會打甜粄摎發粄。", pinyin: "dag ngien goˇ ngien, enˋ deuˋ du+ voi+ daˊ tiam banˊ lauˋ fad banˊ."}
+    - en: "On New Year's Eve, first pay respects to the ancestors, then eat the reunion dinner."
+      sx: {hanzi: "年三十暗晡，先拜阿公婆，正食團圓飯。", pinyin: "ngienˇ samˊ siib am buˊ, xienˊ bai aˊ gungˊ poˇ, zang siid tonˇ ienˇ fan."}
+      hl: {hanzi: "年三十暗晡，先拜阿公婆，正食團圓飯。", pinyin: "ngien samˋ shibˋ amˇ buˋ, senˋ baiˇ a+ gungˋ po, zhangˇ shidˋ ton rhan pon+."}
+    - en: "Come in and sit down! Have some tea first."
+      sx: {hanzi: "入來坐等來！先食茶。", pinyin: "ngib loiˇ coˊ denˋ loiˇ! xienˊ siid caˇ."}
+      hl: {hanzi: "入來坐等來！先食茶。", pinyin: "ngibˋ loi coˋ denˊ loi! senˋ shidˋ ca."}
+    - en: "On the second day of the year, Mrs Liu visits her own family."
+      sx: {hanzi: "年初二，阿姆轉外家。", pinyin: "ngienˇ cuˊ ngi, aˊ meˊ zonˋ ngoi gaˊ."}
+      hl: {hanzi: "年初二，阿姆轉外家。", pinyin: "ngien cuˋ ngi+, a+ meˋ zhonˊ ngoi+ gaˋ."}
+    - en: "Have a taste; if it's good, then buy it. Next time I'll come and buy more."
+      sx: {hanzi: "試食一下，好食正買。下二擺正來買過。", pinyin: "cii siid idˋ ha, hoˋ siid zang maiˊ. ha ngi baiˋ zang loiˇ maiˊ go."}
+      hl: {hanzi: "試食一下，好食正買。下二擺正來買過。", pinyin: "chiˇ shidˋ rhid ha+, hoˊ shidˋ zhangˇ maiˋ. ha+ ngi+ baiˊ zhangˇ loi maiˋ goˇ."}
+    - en: "A suitcase only this big? — So few clothes!"
+      sx: {hanzi: "恁大仔个皮箱？——衫褲恁少！", pinyin: "an tai eˋ ge piˇ xiongˊ? — samˊ fu anˋ seuˋ!"}
+      hl: {hanzi: "恁大仔个皮箱？——衫褲恁少！", pinyin: "an tai+ er gaiˇ pi siongˋ? — samˋ fuˇ anˊ shauˊ!"}
+  fill:
+    - en: "The more you eat, the more you want."
+      sx: {hanzi: "___食___愛食。", pinyin: "___ siid ___ oi siid.", answer_hanzi: "緊", answer: "ginˋ"}
+      hl: {hanzi: "___食___愛食。", pinyin: "___ shidˋ ___ oiˇ shidˋ.", answer_hanzi: "緊", answer: "ginˊ"}
+    - en: "Thank you! (Hailu)"
+      sx: {hanzi: "___你！", pinyin: "___ nˇ!", answer_hanzi: "承蒙", answer: "siinˇ mungˇ"}
+      hl: {hanzi: "___你！", pinyin: "___ ngi!", answer_hanzi: "承蒙", answer: "shin mung"}
+    - en: "Come and see us when you're free."
+      sx: {hanzi: "有閒___來尞。", pinyin: "iuˊ hanˇ ___ loiˇ liau.", answer_hanzi: "正", answer: "zang"}
+      hl: {hanzi: "有閒___來尞。", pinyin: "rhiuˋ han ___ loi liau+.", answer_hanzi: "正", answer: "zhangˇ"}
+
+audio: []
