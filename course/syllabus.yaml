@@ -81,27 +81,30 @@ lessons:
 - {n: 61, new: 23, en: 'A rainy weekend', focus: 'V 啊 V 仔 (on and off), 試V看仔 (Hailu "try")'}
 - {n: 62, new: 23, en: 'Writing to A-in', focus: 'letter style, 為著, 分 + purpose (賺錢分細人仔讀書)'}
 - {n: 63, review: true, en: 'Review 9'}
-- {n: 64, new: 23, en: 'Grandma''s story', focus: 'storytelling: 頭擺頭擺, 嗄, 斯, sequence words'}
-- {n: 65, new: 23, en: 'At the school (阿明)', focus: 'school life, 好 = 可以 / 以便 (好食飯哩), 甘願…乜…'}
-- {n: 66, new: 23, en: 'A family meeting', focus: '毋當 "better… than", 還係, 除非, 總愛'}
-- {n: 67, new: 23, en: 'The 義民 festival', focus: 'history and religion, three-part ceremonies (三獻禮), respect language'}
-- {n: 68, new: 23, en: 'Sports day', focus: 'comparison with 過 (高過你), X A Y + amount (高你五公分), 贏 / 輸'}
-- {n: 69, new: 23, en: 'Eight-tone music (八音)', focus: 'instruments, 聽著, 正 "just now / only then"'}
+# 64–84 rearranged (briefs 10–12) to follow the calendar: April (清明, 桐花), May (美濃), June. 義民 (lunar 7/20,
+# August) and 八音 move after lesson 84.
+- {n: 64, new: 23, en: 'Back in Miaoli', focus: '轉 / 轉來 / 轉去 (home), 歸 in the south (preview of 美濃)'}
+- {n: 65, new: 23, en: '清明: sweeping the graves (掛紙)', focus: 'storytelling: 頭擺頭擺, 嗄, 斯, sequence words'}
+- {n: 66, new: 23, en: 'A-min''s sports day', focus: 'comparison with 過 (高過你), X A Y + amount (高你五公分), 贏 / 輸'}
+- {n: 67, new: 23, en: 'Wood carving in 三義', focus: 'crafts, 會做得仔 "not bad at all", 好 + V revisited'}
+- {n: 68, new: 23, en: 'A family meeting', focus: '毋當 "better… than", 還係, 除非, 總愛, 甘願…乜…'}
+- {n: 69, new: 23, en: 'The 桐花 festival', focus: 'flowers and seasons, ABB (白雪雪), fixed intensifiers (浸青, 啾紅)'}
 - {n: 70, review: true, en: 'Review 10'}
 - {n: 71, new: 23, en: 'A trip to 美濃', focus: 'south Sixian: 歸 vs 轉, 等 plurals (𠊎等), 盡 vs 蓋'}
 - {n: 72, new: 23, en: 'Paper umbrellas and 粄條', focus: 'craft and food words, 仔 linking (粄仔), measure words'}
 - {n: 73, new: 23, en: 'Tobacco barns', focus: 'history of farming, 頭擺 / 這下, 變 + 到 + 恁 … 忒去'}
 - {n: 74, new: 23, en: 'Phone call to Taipei', focus: '毋係 (me) as a tag (你毋知毋係), sentence-final 喔 / 哦 / 呢'}
 - {n: 75, new: 23, en: 'A-in''s job interview', focus: 'formal register, 過 (完成: 食過飯了), 有 + V (已然)'}
-- {n: 76, new: 23, en: 'Cooking for the family', focus: 'recipe language, 摎 + object + V + result, VC 來 (洗淨來)'}
+- {n: 76, new: 23, en: 'Cooking for the family', focus: 'recipe language, 摎 + object + V + result, VC 來 (洗淨來), 好 = 以便'}
 - {n: 77, review: true, en: 'Review 11'}
-- {n: 78, new: 25, en: 'Grandpa in hospital', focus: 'health, 會 near future with numbers (會八十歲), 驚怕'}
+- {n: 78, new: 25, en: 'Grandpa in hospital', focus: 'health, 會 near future with numbers (會七十九歲), 驚怕'}
 - {n: 79, new: 25, en: 'Visiting hours', focus: 'politeness, 恁仔細 / 承蒙, 毋使客氣, 有閒正來'}
 - {n: 80, new: 25, en: 'The radio phone-in', focus: 'discourse 好 (topic change, agreement), 係呦'}
 - {n: 81, new: 25, en: 'A Hakka poem', focus: 'literary readings, rhythm, reading aloud with sandhi'}
-- {n: 82, new: 25, en: 'Teaching Sam a 山歌', focus: 'song words, tone and melody, 恁靚'}
+- {n: 82, new: 25, en: 'Grandma teaches Sam a 山歌', focus: 'song words, tone and melody, 恁靚'}
 - {n: 83, new: 25, en: 'An old photo album', focus: 'relative clauses with 个, 該當時, time words'}
 - {n: 84, review: true, en: 'Review 12'}
+# Later: 義民 festival (old 67, August), 八音 (old 69), Grandma's story (old 64, now inside 65).
 - {n: 85, new: 25, en: 'The 客家 museum', focus: 'migration history (四縣 from 嘉應州), 原鄉, written register'}
 - {n: 86, new: 25, en: 'Debate at dinner', focus: 'opinions: 𠊎想, 𠊎看, 就毋係, 還毋係 "it''s just that"'}
 - {n: 87, new: 25, en: 'Neighbourhood gossip', focus: '聽講, reported speech, 恁該 / 無恁該 "it''s not that easy"'}
