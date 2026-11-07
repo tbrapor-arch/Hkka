@@ -12,9 +12,9 @@ names: [阿蘭嫂, 阿傑, 阿英, 苗栗, 新竹]
 dialogue:
   - n: 1
     speaker: 阿蘭嫂
-    en: "Take a break, have some breakfast. I've brought rice porridge, nice and hot."
-    sx: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒。", pinyin: "hiedˋ idˋ ha, siid zeuˊ. ngaiˇ zuˋ moiˇ loiˇ leˊ, seuˊ seuˊ."}
-    hl: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒。", pinyin: "hied rhid ha+, shidˋ zhauˋ. ngai zhuˊ moi loi leˋ, shauˋ shauˋ."}
+    en: "Take a break, have some breakfast. I've brought rice porridge, nice and hot. Here are the spoons."
+    sx: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒。湯匙在這。", pinyin: "hiedˋ idˋ ha, siid zeuˊ. ngaiˇ zuˋ moiˇ loiˇ leˊ, seuˊ seuˊ. tongˊ ciiˇ coiˊ iaˋ."}
+    hl: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒。湯匙在這。", pinyin: "hied rhid ha+, shidˋ zhauˋ. ngai zhuˊ moi loi leˋ, shauˋ shauˋ. tongˋ shi coiˋ liaˊ."}
   - n: 2
     speaker: Sam
     en: "Porridge? Lovely!"
@@ -149,10 +149,10 @@ new_words:
   - {hanzi: 菜脯, pinyin: "coi puˋ", en: "dried radish", hl: {hanzi: 菜脯, pinyin: "coiˇ buˊ"}}
   - {hanzi: 燒燒, pinyin: "seuˊ seuˊ", en: "nice and hot", hl: {hanzi: 燒燒, pinyin: "shauˋ shauˋ"}}
   - {hanzi: 別樣, pinyin: "ped iong", en: "something else, another kind", hl: {hanzi: 別樣, pinyin: "pedˋ rhong+"}}
-  - {hanzi: 陸, pinyin: "liugˋ", en: "land (海陸 Hailu)", hl: {hanzi: 陸, pinyin: "liugˋ"}}
   - {hanzi: 見笑, pinyin: "gien seu", en: "embarrassed, shy", hl: {hanzi: 見笑, pinyin: "gienˇ siauˇ"}}
   - {hanzi: 搞, pinyin: "gauˋ", en: "play (with), mess about", hl: {hanzi: 搞, pinyin: "gauˊ"}}
   - {hanzi: 薪水, pinyin: "xinˊ suiˋ", en: "pay, wages", hl: {hanzi: 薪水, pinyin: "sinˋ shuiˊ"}}
+  - {hanzi: 湯匙, pinyin: "tongˊ ciiˇ", en: "spoon", hl: {hanzi: 湯匙, pinyin: "tongˋ shi"}}
   - {hanzi: 公司, pinyin: "gungˊ siiˊ", en: "company", hl: {hanzi: 公司, pinyin: "gungˋ siiˋ"}}
   - {hanzi: 分心, pinyin: "funˊ ximˊ", en: "get distracted", hl: {hanzi: 分心, pinyin: "funˋ simˋ"}}
   - {hanzi: 容易, pinyin: "iungˇ i", en: "easy; easily", hl: {hanzi: 容易, pinyin: "rhung rhiˇ"}}
