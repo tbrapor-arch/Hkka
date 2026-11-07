@@ -1,0 +1,144 @@
+id: 77
+title:
+  en: "Review 11"
+  sx: {hanzi: "蓋靚！", pinyin: "goi jiangˊ!"}
+  hl: {hanzi: "當靚！", pinyin: "dongˋ ziangˋ!"}
+review: true
+setting: >-
+  Sunday 23 May, after lunch. The leftovers of Sam's 粄條 are gone. A-in has kept her Mother's Day present hidden for
+  two weeks, and now she brings it out. Nothing new in the dialogue: everything comes from lessons 1–76.
+names: [阿英, 阿明, 美濃, 林師傅]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Mum, this is your Mother's Day present. I bought it in 美濃."
+    sx: {hanzi: "阿姆，這係母親節送你个。𠊎在美濃買个。", pinyin: "aˊ meˊ, iaˋ he muˊ qinˊ jiedˋ sung nˇ ge. ngaiˇ coiˊ mi nungˇ maiˊ ge."}
+    hl: {hanzi: "阿姆，這係母親節送你个。𠊎在美濃買个。", pinyin: "a+ meˋ, liaˊ heˇ muˋ cinˋ zied sungˇ ngi gaiˇ. ngai coiˋ mi nung maiˋ gaiˇ."}
+  - n: 2
+    speaker: 阿姆
+    en: "(opening it) An umbrella! With flowers painted on it! Too beautiful to use."
+    sx: {hanzi: "一枝遮仔！還有畫花！恁靚，𠊎毋敢用。", pinyin: "idˋ giˊ zaˊ eˋ! hanˇ iuˊ fa faˊ! anˋ jiangˊ, ngaiˇ mˇ gamˋ iung."}
+    hl: {hanzi: "一枝遮仔！還有畫花！恁靚，𠊎毋敢用。", pinyin: "rhid giˋ zhaˋ er! han rhiuˋ fa+ faˋ! anˊ ziangˋ, ngai m gamˊ rhung+."}
+    check: true
+  - n: 3
+    speaker: Sam
+    en: "蓋 beautiful, isn't it? The old craftsman made it."
+    sx: {hanzi: "蓋靚，係毋係？係林師傅做个。", pinyin: "goi jiangˊ, he mˇ he? he limˇ siiˊ fu zo ge."}
+    hl: {hanzi: "蓋靚，係毋係？係林師傅做个。", pinyin: "goiˇ ziangˋ, heˇ m heˇ? heˇ lim siiˋ fu+ zoˇ gaiˇ."}
+  - n: 4
+    speaker: 阿婆
+    en: "蓋? Since when does Sam talk like the south?"
+    sx: {hanzi: "蓋？Sam 仰會講到像南部人？", pinyin: "goi? Sam ngiongˋ voi gongˋ do qiong namˇ pu nginˇ?"}
+    hl: {hanzi: "蓋？Sam 仰會講到像南部人？", pinyin: "goiˇ? Sam ngiongˊ voi+ gongˊ doˇ siongˇ nam pu+ ngin?"}
+  - n: 5
+    speaker: 阿明
+    en: "He went to 美濃 for two days and came back a southerner. Are you daft or what, Sam?"
+    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇抑毋係？", pinyin: "giˇ hi mi nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong ia mˇ he?"}
+    hl: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇抑毋係？", pinyin: "gi hiˇ mi nung liongˊ ngid, zhonˊ loi ciu+ bienˇ shang nam pu+ ngin leˋ. Sam, ngi ngongˇ rha+ m heˇ?"}
+  - n: 6
+    speaker: Sam
+    en: "In 美濃 they say 歸去 for 轉去, and they call 粄條 面帕粄."
+    sx: {hanzi: "美濃人講歸去，就係轉去；粄條，佢等安做面帕粄。", pinyin: "mi nungˇ nginˇ gongˋ guiˊ hi, qiu he zonˋ hi; banˋ tiauˇ, giˇ denˋ onˊ zo mien pa banˋ."}
+    hl: {hanzi: "美濃人講歸去，就係轉去；粄條，佢兜安做面帕粄。", pinyin: "mi nung ngin gongˊ guiˋ hiˇ, ciu+ heˇ zhonˊ hiˇ; banˊ tiau, gi deuˋ onˋ zoˇ mienˇ paˇ banˊ."}
+    check: true
+  - n: 7
+    speaker: 阿公
+    en: "Did you see the tobacco barns?"
+    sx: {hanzi: "菸樓有看著無？", pinyin: "ienˊ leuˇ iuˊ kon doˋ moˇ?"}
+    hl: {hanzi: "菸樓有看著無？", pinyin: "rhanˋ leu rhiuˋ konˇ doˊ mo?"}
+  - n: 8
+    speaker: 阿英
+    en: "We did. These days they've all gone empty; the young people all go off to work elsewhere."
+    sx: {hanzi: "有。這下都空忒去了，後生人都出外食頭路。", pinyin: "iuˊ. iaˋ ha du kungˊ tedˋ hi leˊ, heu sangˊ nginˇ du cudˋ ngoi siid teuˇ lu."}
+    hl: {hanzi: "有。這下都空忒去了，後生人都出外食頭路。", pinyin: "rhiuˋ. liaˊ ha+ du+ kungˋ ted hiˇ leˋ, heu+ sangˋ ngin du+ chud ngoi+ shidˋ teu lu+."}
+  - n: 9
+    speaker: 阿公
+    en: "(after a long pause) And you've come back."
+    sx: {hanzi: "你乜轉來了。", pinyin: "nˇ me zonˋ loiˇ leˊ."}
+    hl: {hanzi: "你乜轉來了。", pinyin: "ngi meˇ zhonˊ loi leˋ."}
+  - n: 10
+    speaker: 阿英
+    en: "I have. I start at the county office next month."
+    sx: {hanzi: "係。下隻月就愛去縣政府上班了。", pinyin: "he. ha zagˋ ngied qiu oi hi ien ziin fuˋ songˊ banˊ leˊ."}
+    hl: {hanzi: "係。下隻月就愛去縣政府上班了。", pinyin: "heˇ. ha+ zhag ngiedˋ ciu+ oiˇ hiˇ rhanˇ zhinˇ fuˊ shongˋ banˋ leˋ."}
+  - n: 11
+    speaker: 阿姆
+    en: "Then I'll keep this umbrella for the day you start. Remember to go to bed early the night before!"
+    sx: {hanzi: "恁樣這枝遮仔，留到你上班該日正用。前一暗晡，愛記得早兜仔睡目哦！", pinyin: "anˋ ngiongˇ iaˋ giˊ zaˊ eˋ, liuˇ do nˇ songˊ banˊ ge ngidˋ zang iung. qienˇ idˋ am buˊ, oi gi dedˋ zoˋ deuˊ eˋ soi mugˋ oˋ!"}
+    hl: {hanzi: "恁樣這枝遮仔，留到你上班該日正用。前一暗晡，愛記得早兜仔睡目哦！", pinyin: "an ngiong liaˊ giˋ zhaˋ er, liu doˇ ngi shongˋ banˋ gai ngid zhangˇ rhung+. cien rhid amˇ buˋ, oiˇ giˇ ded zoˊ deuˋ er shoi+ mug oˊ!"}
+    check: true
+  - n: 12
+    speaker: 阿婆
+    en: "Grandma's not saying a word. …Sam, will you cook again next Saturday?"
+    sx: {hanzi: "阿婆麼个都毋講。……Sam，下禮拜六你還愛煮無？", pinyin: "aˊ poˇ maˋ ge du mˇ gongˋ. … Sam, ha liˊ bai liugˋ nˇ hanˇ oi zuˋ moˇ?"}
+    hl: {hanzi: "阿婆麼个都毋講。……Sam，下禮拜六你還愛煮無？", pinyin: "a+ po maˊ gaiˇ du+ m gongˊ. … Sam, ha+ liˋ baiˇ liug ngi han oiˇ zhuˊ mo?"}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      一枝遮仔 "an umbrella": 枝 (lesson 72). 恁靚，𠊎毋敢用 "so pretty I don't dare use it": 恁 + adjective (lesson 34),
+      毋敢 "not dare" (lesson 27).
+  - ref: 4
+    topic: grammar
+    text: >
+      仰會講到像南部人？ "how come he talks like a southerner?": 仰會 (lesson 9) "how come", V到 + result (lesson 27), 像
+      (lesson 45). 蓋, 歸, 𠊎等 and 面帕粄 are lesson 71.
+  - ref: 5
+    topic: grammar
+    text: >
+      變成 (lesson 72) "become"; 抑毋係？ (lesson 74) "or what?".
+  - ref: 8
+    topic: grammar
+    text: >
+      空忒去 (lesson 73) "has gone empty"; 出外食頭路 (lesson 73) "go off to work elsewhere".
+  - ref: 9
+    topic: culture
+    text: >
+      Grandpa's 你乜轉來了 "and you've come back" answers A-in's line about the young people leaving: his longest speech
+      in this lesson is four syllables, and it is about her.
+  - ref: 11
+    topic: grammar
+    text: >
+      留到…正用 "keep it until… and only then use it": 正 "only then" once more. 哦 (lesson 74), the friendly reminder.
+      Cover the English and tell the month in your own Hakka: 美濃 and the southern words, the umbrella, the barns, the
+      phone call, the interview, the 粄條.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this month: 當 for 蓋, 𠊎兜 / 佢兜 for 𠊎等 / 佢等, 轉去 for 歸去 (except where the southern word is quoted), 抵水
+      for 抵雨, 炊 for 蒸, 呢 neˇ and 哦 oˊ.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "(southern) We're going back home on Sunday; it's very far."
+      sx: {hanzi: "𠊎等禮拜日歸去，蓋遠。", pinyin: "ngaiˇ denˋ liˊ bai ngidˋ guiˊ hi, goi ienˋ."}
+      hl: {hanzi: "𠊎兜禮拜日轉去，當遠。", pinyin: "ngai deuˋ liˋ baiˇ ngid zhonˊ hiˇ, dongˋ rhanˊ."}
+    - en: "Umbrellas used to keep off the rain; now, of all things, they've become works of art."
+      sx: {hanzi: "遮仔頭擺係用來抵雨个，這下嗄變成藝術品了。", pinyin: "zaˊ eˋ teuˇ baiˋ he iung loiˇ daiˋ iˋ ge, iaˋ ha sa bien sangˇ ngi sud pinˋ leˊ."}
+      hl: {hanzi: "遮仔頭擺係用來抵水个，這下嗄變成藝術品了。", pinyin: "zhaˋ er teu baiˊ heˇ rhung+ loi diˊ shuiˊ gaiˇ, liaˊ ha+ saˇ bienˇ shang ngi+ sudˋ pinˊ leˋ."}
+    - en: "Have you ever been to a 菸樓? — Yes, last week."
+      sx: {hanzi: "你有去過菸樓無？——有，上禮拜去過。", pinyin: "nˇ iuˊ hi go ienˊ leuˇ moˇ? — iuˊ, song liˊ bai hi go."}
+      hl: {hanzi: "你有去過菸樓無？——有，上禮拜去過。", pinyin: "ngi rhiuˋ hiˇ goˇ rhanˋ leu mo? — rhiuˋ, shong+ liˋ baiˇ hiˇ goˇ."}
+    - en: "Cut the pork into strips and wash the bean sprouts clean; then it can go in the wok."
+      sx: {hanzi: "摎豬肉切絲來，豆芽洗淨來，正好落鑊。", pinyin: "lauˊ zuˊ ngiugˋ qiedˋ siiˊ loiˇ, teu ngaˇ seˋ qiang loiˇ, zang hoˋ log vog."}
+      hl: {hanzi: "摎豬肉切絲來，豆芽洗淨來，正好落鑊。", pinyin: "lauˋ zhuˋ ngiug cied siiˋ loi, teu+ nga seˊ ciang+ loi, zhangˇ hoˊ logˋ vogˋ."}
+    - en: "This interview really matters: on no account make a slip."
+      sx: {hanzi: "這擺个面試當重要，千萬做毋得出差錯。", pinyin: "iaˋ baiˋ ge mien cii dongˊ cung ieu, qienˊ van zo mˇ dedˋ cudˋ caˊ co."}
+      hl: {hanzi: "這擺个面試當重要，千萬做毋得出差錯。", pinyin: "liaˊ baiˊ gaiˇ mienˇ chiˇ dongˋ chung+ rhauˇ, cienˋ van+ zoˇ m ded chud caˋ coˇ."}
+      source: kaga115
+  fill:
+    - en: "The salt is just right."
+      sx: {hanzi: "鹹淡___。", pinyin: "hamˇ tamˊ ___.", answer_hanzi: "堵堵好", answer: "duˋ duˋ hoˋ"}
+      hl: {hanzi: "鹹淡___。", pinyin: "ham tamˋ ___.", answer_hanzi: "堵堵好", answer: "duˊ duˊ hoˊ"}
+    - en: "Have you ever been to 六堆?"
+      sx: {hanzi: "你___去過六堆無？", pinyin: "nˇ ___ hi go liugˋ duiˊ moˇ?", answer_hanzi: "有", answer: "iuˊ"}
+      hl: {hanzi: "你___去過六堆無？", pinyin: "ngi ___ hiˇ goˇ liug duiˋ mo?", answer_hanzi: "有", answer: "rhiuˋ"}
+    - en: "And you? How are you?"
+      sx: {hanzi: "你___？你好無？", pinyin: "nˇ ___? nˇ hoˋ moˇ?", answer_hanzi: "呢", answer: "neˇ"}
+      hl: {hanzi: "你___？你好無？", pinyin: "ngi ___? ngi hoˊ mo?", answer_hanzi: "呢", answer: "neˇ"}
+
+audio: []
