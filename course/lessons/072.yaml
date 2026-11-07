@@ -1,0 +1,188 @@
+id: 72
+title:
+  en: "Paper umbrellas and 面帕粄"
+  sx: {hanzi: "一枝紙遮仔", pinyin: "idˋ giˊ ziiˋ zaˊ eˋ"}
+  hl: {hanzi: "一枝紙遮仔", pinyin: "rhid giˋ zhiˊ zhaˋ er"}
+review: false
+setting: >-
+  The same Saturday, five o'clock. 鍾伯 has walked them to an umbrella workshop on the main street, where an old
+  craftsman, 林師傅, is painting flowers on a half-open umbrella of oiled paper. Tomorrow is Mother's Day.
+names: [美濃, 林師傅, 鍾伯, 鍾伯姆, 阿英, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 林師傅
+    en: "Come and look. Umbrellas made of oiled paper are 美濃's most famous craft."
+    sx: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "iuˇ ziiˋ zo ge zaˊ eˋ he mi nungˇ qin iuˊ miangˇ ge suˋ gungˊ ngi."}
+    hl: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "rhiu zhiˊ zoˇ gaiˇ zhaˋ er heˇ mi nung cin+ rhiuˋ miang gaiˇ shiuˊ gungˋ ngi+."}
+    source: kaga115
+  - n: 2
+    speaker: Sam
+    en: "They're beautiful! What are they made of?"
+    sx: {hanzi: "當靚！係用麼个做个？", pinyin: "dongˊ jiangˊ! he iung maˋ ge zo ge?"}
+    hl: {hanzi: "當靚！係用麼个做个？", pinyin: "dongˋ ziangˋ! heˇ rhung+ maˊ gaiˇ zoˇ gaiˇ?"}
+  - n: 3
+    speaker: 林師傅
+    en: "Bamboo for the ribs, paper on top. Then you paint the flowers, and coat it with tung oil."
+    sx: {hanzi: "竹仔做骨，紙做面。畫好花，再過搽桐油。", pinyin: "zugˋ eˇ zo gudˋ, ziiˋ zo mien. fa hoˋ faˊ, zai go caˇ tungˇ iuˇ."}
+    hl: {hanzi: "竹仔做骨，紙做面。畫好花，再過搽桐油。", pinyin: "zhug er zoˇ gud, zhiˊ zoˇ mienˇ. fa+ hoˊ faˋ, zaiˇ goˇ ca tung rhiu."}
+    check: true
+  - n: 4
+    speaker: 阿英
+    en: "Tung oil? From the tung blossom?"
+    sx: {hanzi: "桐油？就係桐花个油？", pinyin: "tungˇ iuˇ? qiu he tungˇ faˊ ge iuˇ?"}
+    hl: {hanzi: "桐油？就係桐花个油？", pinyin: "tung rhiu? ciu+ heˇ tung faˋ gaiˇ rhiu?"}
+  - n: 5
+    speaker: 林師傅
+    en: "That's it. When the blossom has gone, the tree bears seeds, and the oil comes from the seeds."
+    sx: {hanzi: "係。桐花謝忒，就打子；油係對桐子來个。", pinyin: "he. tungˇ faˊ qia tedˋ, qiu daˋ ziiˋ; iuˇ he dui tungˇ ziiˋ loiˇ ge."}
+    hl: {hanzi: "係。桐花謝忒，就打子；油係對桐子來个。", pinyin: "heˇ. tung faˋ cia+ ted, ciu+ daˊ ziiˊ; rhiu heˇ duiˇ tung ziiˊ loi gaiˇ."}
+    check: true
+  - n: 6
+    speaker: Sam
+    en: "So in the old days, umbrellas were for keeping off the rain?"
+    sx: {hanzi: "頭擺个遮仔，係用來抵雨个係無？", pinyin: "teuˇ baiˋ ge zaˊ eˋ, he iung loiˇ daiˋ iˋ ge he moˇ?"}
+    hl: {hanzi: "頭擺个遮仔，係用來抵水个係無？", pinyin: "teu baiˊ gaiˇ zhaˋ er, heˇ rhung+ loi diˊ shuiˊ gaiˇ heˇ mo?"}
+  - n: 7
+    speaker: 林師傅
+    en: "Against the rain and the sun. Now, of all things, they've become works of art, for people to admire."
+    sx: {hanzi: "抵雨也抵日頭。這下嗄變成藝術品，分人欣賞。", pinyin: "daiˋ iˋ ia daiˋ ngidˋ teuˇ. iaˋ ha sa bien sangˇ ngi sud pinˋ, bunˊ nginˇ himˊ songˋ."}
+    hl: {hanzi: "抵水也抵日頭。這下嗄變成藝術品，分人欣賞。", pinyin: "diˊ shuiˊ rha+ diˊ ngid teu. liaˊ ha+ saˇ bienˇ shang ngi+ sudˋ pinˊ, bunˋ ngin hiunˋ shongˊ."}
+  - n: 8
+    speaker: 阿英
+    en: "Mother's Day is coming. I want to buy one for my mum."
+    sx: {hanzi: "母親節會到了，𠊎愛買一枝送吾姆。", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, ngaiˇ oi maiˊ idˋ giˊ sung ngaˊ meˊ."}
+    hl: {hanzi: "母親節會到了，𠊎愛買一枝送𠊎姆。", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngai oiˇ maiˋ rhid giˋ sungˇ ngai meˋ."}
+  - n: 9
+    speaker: 林師傅
+    en: "This one, with the painted flowers: twelve hundred."
+    sx: {hanzi: "這枝畫花个，一千二。", pinyin: "iaˋ giˊ fa faˊ ge, idˋ qienˊ ngi."}
+    hl: {hanzi: "這枝畫花个，一千二。", pinyin: "liaˊ giˋ fa+ faˋ gaiˇ, rhid cienˋ ngi+."}
+  - n: 10
+    speaker: Sam
+    en: "(to A-in, under his breath) Twelve hundred! 蓋 expensive!"
+    sx: {hanzi: "一千二！蓋貴！", pinyin: "idˋ qienˊ ngi! goi gui!"}
+    hl: {hanzi: "一千二！蓋貴！", pinyin: "rhid cienˋ ngi+! goiˇ guiˇ!"}
+  - n: 11
+    speaker: 阿英
+    en: "(laughing) You've picked it up already!"
+    sx: {hanzi: "你學會了！", pinyin: "nˇ hog voi leˊ!"}
+    hl: {hanzi: "你學會了！", pinyin: "ngi hogˋ voi+ leˋ!"}
+  - n: 12
+    speaker: 鍾伯姆
+    en: "(that evening, in the noodle shop) Two bowls of 面帕粄, and a plate of fried egg."
+    sx: {hanzi: "兩碗面帕粄，一盤炒卵。", pinyin: "liongˋ vonˋ mien pa banˋ, idˋ panˇ cauˋ lonˋ."}
+    hl: {hanzi: "兩碗面帕粄，一盤炒卵。", pinyin: "liongˊ vonˊ mienˇ paˇ banˊ, rhid pan cauˊ lonˊ."}
+  - n: 13
+    speaker: Sam
+    en: "面帕粄… isn't it the same as Miaoli 粄條?"
+    sx: {hanzi: "面帕粄……毋係同苗栗个粄條共樣？", pinyin: "mien pa banˋ … mˇ he tungˇ meuˇ lidˋ ge banˋ tiauˇ kiung iong?"}
+    hl: {hanzi: "面帕粄……毋係摎苗栗个粄條共樣？", pinyin: "mienˇ paˇ banˊ … m heˇ lauˋ miau lid gaiˇ banˊ tiau kiung+ rhong+?"}
+  - n: 14
+    speaker: 鍾伯
+    en: "The same, yes. But ours tastes better!"
+    sx: {hanzi: "共樣係共樣，毋過𠊎等个較好食！", pinyin: "kiung iong he kiung iong, mˇ go ngaiˇ denˋ ge ka hoˋ siid!"}
+    hl: {hanzi: "共樣係共樣，毋過𠊎兜个較好食！", pinyin: "kiung+ rhong+ heˇ kiung+ rhong+, m goˇ ngai deuˋ gaiˇ haˇ hoˊ shidˋ!"}
+  - n: 15
+    speaker: 阿英
+    en: "(to Sam) Every place says its own tastes better."
+    sx: {hanzi: "逐隻地方都講自家个較好食。", pinyin: "dagˋ zagˋ ti fongˊ du gongˋ qi gaˊ ge ka hoˋ siid."}
+    hl: {hanzi: "逐隻地方都講自家个較好食。", pinyin: "dag zhag ti+ fongˋ du+ gongˊ cid gaˋ gaiˇ haˇ hoˊ shidˋ."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      This line is an official example sentence, word for word: 油紙做个遮仔係美濃盡有名个手工藝. 手工藝 "handicraft":
+      手 + 工藝 "craft". Another official sentence, about tung oil: 桐油摎火炭共下煮出來个烏油，係做紙遮仔當重要个材料
+      "the black oil made by boiling tung oil with charcoal is an important material for paper umbrellas".
+  - ref: 3
+    topic: vocab
+    text: >
+      竹仔做骨，紙做面 "bamboo for the bones, paper for the face": 骨 gudˋ "bone, frame", 面 "face, surface". 搽 caˇ
+      "apply, rub on" (oil, ointment, lipstick). The steps are general knowledge put in simple words; the line is marked
+      for checking.
+  - ref: 5
+    topic: vocab
+    text: >
+      打子 "bear seed": 打 (lesson 33) + 子 ziiˋ "seed", as in the official 茶樹會打子，茶子做得做茶油. 謝忒 "wither, fall"
+      (of flowers). The 桐花 of lesson 69 come back as oil on an umbrella.
+  - ref: 6
+    topic: grammar
+    text: >
+      用來 + verb "used for": 係用來抵雨个 "was used to keep off the rain". 抵 daiˋ "block, shield from" (Hailu diˊ),
+      a Hakka word: 抵雨, 抵日頭. In Hailu the rain is 水 (lesson 9), so 抵水.
+  - ref: 7
+    topic: grammar
+    text: >
+      The official sentence: 油紙遮上早係用來抵雨也抵日頭个，這下嗄變成藝術品，分人欣賞哩. Here it is split between Sam
+      and the craftsman. 嗄 (lesson 41) "of all things": nobody expected an umbrella to end up in a museum. 變成 "become":
+      變 (lesson 64) + 成. 藝術 "art" from lesson 67, + 品 "piece". 分人欣賞 "for people to admire": 分 + person + verb, "let someone…".
+  - ref: 8
+    topic: grammar
+    text: >
+      Measure words: 一枝遮仔 "an umbrella" (the official examples use 枝 or 支: 這枝遮仔壞了), 一碗面帕粄, 一盤炒卵. The
+      classifier comes between the number and the noun, and it is the classifier that 這 points at: 這枝畫花个 "this one
+      with the flowers" (line 9), with the noun left out.
+  - ref: 10
+    topic: grammar
+    text: >
+      Sam's first southern word, in the wrong place: 蓋貴 "very dear" is grammatical, but in Miaoli people would say 當貴.
+      學會 "have learnt (it)": 學 + 會, the same 會 as "can".
+  - ref: 12
+    topic: grammar
+    text: >
+      仔 links: 遮仔, 竹仔, 粄仔 (the general word for rice cakes: 過年過節，姐婆都會做粄仔). Before 仔 the syllable keeps its
+      tone, and 仔 itself follows it closely (lesson 0).
+
+new_words:
+  - {hanzi: 油紙, pinyin: "iuˇ ziiˋ", en: "oiled paper", hl: {hanzi: 油紙, pinyin: "rhiu zhiˊ"}}
+  - {hanzi: 工藝, pinyin: "gungˊ ngi", en: "craft (手工藝 handicraft)", hl: {hanzi: 工藝, pinyin: "gungˋ ngi+"}}
+  - {hanzi: 竹仔, pinyin: "zugˋ eˇ", en: "bamboo", hl: {hanzi: 竹仔, pinyin: "zhug er"}}
+  - {hanzi: 骨, pinyin: "gudˋ", en: "bone; frame", hl: {hanzi: 骨, pinyin: "gud"}}
+  - {hanzi: 畫, pinyin: "fa", en: "paint, draw", hl: {hanzi: 畫, pinyin: "fa+"}}
+  - {hanzi: 搽, pinyin: "caˇ", en: "apply, rub on", hl: {hanzi: 搽, pinyin: "ca"}}
+  - {hanzi: 桐油, pinyin: "tungˇ iuˇ", en: "tung oil", hl: {hanzi: 桐油, pinyin: "tung rhiu"}}
+  - {hanzi: 子, pinyin: "ziiˋ", en: "seed", hl: {hanzi: 子, pinyin: "ziiˊ"}}
+  - {hanzi: 謝, pinyin: "qia", en: "wither (of flowers)", hl: {hanzi: 謝, pinyin: "cia+"}}
+  - {hanzi: 抵, pinyin: "daiˋ", en: "shield from, keep off", hl: {hanzi: 抵, pinyin: "diˊ"}}
+  - {hanzi: 也, pinyin: "ia", en: "and also (literary)", hl: {hanzi: 也, pinyin: "rha+"}}
+  - {hanzi: 成, pinyin: "sangˇ", en: "become, into (變成)", hl: {hanzi: 成, pinyin: "shang"}}
+  - {hanzi: 品, pinyin: "pinˋ", en: "article, piece (藝術品)", hl: {hanzi: 品, pinyin: "pinˊ"}}
+  - {hanzi: 欣賞, pinyin: "himˊ songˋ", en: "admire, appreciate", hl: {hanzi: 欣賞, pinyin: "hiunˋ shongˊ"}}
+  - {hanzi: 母親節, pinyin: "muˊ qinˊ jiedˋ", en: "Mother's Day", hl: {hanzi: 母親節, pinyin: "muˋ cinˋ zied"}}
+  - {hanzi: 枝, pinyin: "giˊ", en: "(classifier for umbrellas, pens, sticks)", hl: {hanzi: 枝, pinyin: "giˋ"}}
+  - {hanzi: 學會, pinyin: "hog voi", en: "learn (to do), have learnt", hl: {hanzi: 學會, pinyin: "hogˋ voi+"}}
+  - {hanzi: 桐, pinyin: "tungˇ", en: "tung tree (桐花, 桐油)", hl: {hanzi: 桐, pinyin: "tung"}}
+  - {hanzi: 壞, pinyin: "fai", en: "broken, bad", hl: {hanzi: 壞, pinyin: "fai+"}}
+  - {hanzi: 𫣆, pinyin: "enˊ", en: "we, us (inclusive; = 𫣆兜)", hl: {hanzi: 𫣆, pinyin: "enˋ"}}
+  - {hanzi: 火炭, pinyin: "foˋ tan", en: "charcoal", hl: {hanzi: 火炭, pinyin: "foˊ tanˇ"}}
+
+exercises:
+  translate:
+    - en: "This umbrella is broken; it's no use to you."
+      sx: {hanzi: "這枝遮仔壞了，你借去乜無用。", pinyin: "iaˋ giˊ zaˊ eˋ fai leˊ, nˇ jia hi me moˇ iung."}
+      hl: {hanzi: "這枝遮仔壞了，你借去乜無用。", pinyin: "liaˊ giˋ zhaˋ er fai+ leˋ, ngi ziaˇ hiˇ meˇ mo rhung+."}
+      source: kaga115
+    - en: "Take an umbrella when you go out: it keeps off the sun."
+      sx: {hanzi: "出去記得帶一枝遮仔抵日頭。", pinyin: "cudˋ hi gi dedˋ dai idˋ giˊ zaˊ eˋ daiˋ ngidˋ teuˇ."}
+      hl: {hanzi: "出去記得帶一枝遮仔抵日頭。", pinyin: "chud hiˇ giˇ ded daiˇ rhid giˋ zhaˋ er diˊ ngid teu."}
+    - en: "Mother's Day is coming: what are you going to buy for your mum?"
+      sx: {hanzi: "母親節會到了，你愛買麼个東西送若姆？", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, nˇ oi maiˊ maˋ ge dungˊ xiˊ sung ngiaˊ meˊ?"}
+      hl: {hanzi: "母親節會到了，你愛買麼个東西送若姆？", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngi oiˇ maiˋ maˊ gaiˇ dungˋ siˋ sungˇ ngia meˋ?"}
+    - en: "At New Year, Grandma's mother used to make rice cakes for us."
+      sx: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "go ngienˇ go jiedˋ, jiaˋ poˇ du voi zo banˋ eˋ bunˊ enˊ siid."}
+      hl: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "goˇ ngien goˇ zied, ziaˊ po du+ voi+ zoˇ banˊ er bunˋ enˋ shidˋ."}
+      source: kaga115
+    - en: "The ribs are bamboo; the black oil is made with charcoal."
+      sx: {hanzi: "骨係竹仔，烏油係用火炭煮个。", pinyin: "gudˋ he zugˋ eˇ, vuˊ iuˇ he iung foˋ tan zuˋ ge."}
+      hl: {hanzi: "骨係竹仔，烏油係用火炭煮个。", pinyin: "gud heˇ zhug er, vuˋ rhiu heˇ rhung+ foˊ tanˇ zhuˊ gaiˇ."}
+  fill:
+    - en: "an umbrella"
+      sx: {hanzi: "一___遮仔", pinyin: "idˋ ___ zaˊ eˋ", answer_hanzi: "枝", answer: "giˊ"}
+      hl: {hanzi: "一___遮仔", pinyin: "rhid ___ zhaˋ er", answer_hanzi: "枝", answer: "giˋ"}
+    - en: "They've become works of art."
+      sx: {hanzi: "變成___品了。", pinyin: "bien sangˇ ___ pinˋ leˊ.", answer_hanzi: "藝術", answer: "ngi sud"}
+      hl: {hanzi: "變成___品了。", pinyin: "bienˇ shang ___ pinˊ leˋ.", answer_hanzi: "藝術", answer: "ngi+ sudˋ"}
+
+audio: []
