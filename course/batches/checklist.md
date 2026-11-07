@@ -38,3 +38,16 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - No "never" or "always" without evidence; no unverified geography or history (pottery in 公館, "no buses").
 - Check note references against line numbers after any insertion.
 - Check continuity: day of the week, who is home, what was eaten when.
+
+## Added after the batch 4 review
+- Sam is French (surname Martin), as in Tsheh-tû; Lucie speaks French only, her lines stay in French.
+- 好 hau + verb = "like doing" (好食 "greedy"); "tasty" is 好食 hoˋ siid. Don't write 盡好食 for "loved it".
+- "Tonight" is 今暗晡; plain 暗晡 is "evening".
+- Demonstrative + classifier + noun, always (這隻外國人).
+- 做毋得: three syllables in the example sentences (zo mˇ dedˋ); zomˇ dedˋ is the dictionary contraction.
+- 係毋係 is he mˇ he (three syllables).
+- Ill = 破病 (病 is the noun); unwell = 毋鬆爽; smoke = 食菸.
+- 死 + adjective: only 死鹹 is attested; don't generalise.
+- 三腳採茶: one clown and two girls. Temple opera: ritual in the morning, plays in the afternoon.
+- Every new word should appear in the dialogue if at all possible, not only in exercises.
+- Count Grandpa's lines before writing a note about how little he says.
