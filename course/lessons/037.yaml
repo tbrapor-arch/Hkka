@@ -33,11 +33,11 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "What?! Grandma, you never told us that!"
-    sx: {hanzi: "麼个？阿婆，你無講過！", pinyin: "maˋ ge? aˊ poˇ, nˇ moˇ gongˋ go!"}
-    hl: {hanzi: "麼个？阿婆，你無講過！", pinyin: "maˊ gaiˇ? a+ po, ngi mo gongˊ goˇ!"}
+    sx: {hanzi: "麼个？阿婆，你毋識講過！", pinyin: "maˋ ge? aˊ poˇ, nˇ mˇ siidˋ gongˋ go!"}
+    hl: {hanzi: "麼个？阿婆，你毋識講過！", pinyin: "maˊ gaiˇ? a+ po, ngi m shid gongˊ goˇ!"}
   - n: 6
     speaker: 阿公
-    en: "(after a long silence, clearing his throat, he sings) 'A lifetime gives you your young days only once: / I sing a mountain song to let my girl know.'"
+    en: "(after a long silence, clearing his throat, he sings) 'Youth comes rarely in a life: / I sing a mountain song to let my girl know.'"
     sx: {hanzi: "人生難得後生時，唱條山歌分妹知。", pinyin: "nginˇ senˊ nanˇ dedˋ heu sangˊ siiˇ, cong tiauˇ sanˊ goˊ bunˊ moi diˊ."}
     hl: {hanzi: "人生難得後生時，唱條山歌分妹知。", pinyin: "ngin senˋ nan ded heu+ sangˋ shi, chongˇ tiau sanˋ goˋ bunˋ moiˇ diˋ."}
   - n: 7
@@ -50,11 +50,13 @@ dialogue:
     en: "人生 'senˊ'… 後生 'sangˊ'? The same character, read two ways?"
     sx: {hanzi: "人生……後生？同一隻字，兩種讀法？", pinyin: "nginˇ senˊ … heu sangˊ? tungˇ idˋ zagˋ sii, liongˋ zungˋ tug fabˋ?"}
     hl: {hanzi: "人生……後生？同一隻字，兩種讀法？", pinyin: "ngin senˋ … heu+ sangˋ? tung rhid zhag sii+, liongˊ zhungˊ tugˋ fab?"}
+    check: true
   - n: 9
     speaker: 阿公
     en: "Yes. The way you read a word in books isn't the same as the way you say it."
     sx: {hanzi: "係。讀書个讀法同講話个講法無共樣。", pinyin: "he. tug suˊ ge tug fabˋ tungˇ gongˋ fa ge gongˋ fabˋ moˇ kiung iong."}
     hl: {hanzi: "係。讀書个讀法摎講話个講法無共樣。", pinyin: "heˇ. tugˋ shuˋ gaiˇ tugˋ fab lauˋ gongˊ faˇ gaiˇ gongˊ fab mo kiung+ rhong+."}
+    check: true
   - n: 10
     speaker: 阿婆
     en: "(softly) You still remember that song?"
@@ -90,8 +92,9 @@ notes:
   - ref: 6
     topic: culture
     text: >
-      The verse is written for this course, in the shape of a 山歌 line: seven syllables, a pair of lines rhyming on
-      時 siiˇ / 知 diˊ. Traditional 山歌 were improvised on the slopes, often as a sung exchange between a young man and a
+      The verse is written for this course, in the shape of a 山歌 line: seven syllables, a pair of lines ending on
+      時 / 知, which rhyme in Hailu (shi / diˋ); in Sixian, siiˇ / diˊ is only a near rhyme. Its pieces are attested:
+      後生時 "one's youth", 唱條山歌 (愛唱山歌莫驚羞，唱條山歌結朋友), 分人知 "let someone know". Traditional 山歌 were improvised on the slopes, often as a sung exchange between a young man and a
       young woman. 妹 here is "my girl", the way songs address her; 阿哥 is the boy.
   - ref: 8
     topic: grammar
@@ -100,18 +103,18 @@ notes:
       used in reading aloud and in words that came through books:
       生 sangˊ in 生日 "birthday", 後生 "young", 生 "raw"; senˊ in 人生 "life", 發生 "happen", 一生人 "a lifetime".
       白 pag in 白 "white", 白菜 "cabbage"; ped in 明白 "understand".
-      行 hangˇ in 行路 "walk"; hongˇ in 銀行 "bank" (the Mandarin háng).
+      行 hangˇ in 行路 "walk"; henˇ in 行為 "behaviour". (行 hongˇ in 銀行 "bank" is a different word, "a firm".)
       The dictionary gives each word its reading: learn the word, not the character.
   - ref: 9
     topic: vocab
     text: >
-      讀法 "way of reading" and 講法 "way of saying": verb + 法 "the way of doing it".
+      讀法 "way of reading" and 講法 "way of saying": verb + 法 "the way of doing it". 講法 is in the lists; 讀法 is not, so
+      lines 8 and 9 are marked for checking.
       同一隻字 "the same character": 字 (lesson 26), with 隻 as its classifier here.
   - ref: 13
     topic: culture
     text: >
-      Grandpa's longest speech in the course is a song; his reply to "another one" is two words, and the next song is
-      Grandma's. You will hear it in a later lesson.
+      His reply to "another one" is two words, and the next song is Grandma's. You will hear it in a later lesson.
   - ref: 0
     topic: hailu
     text: >

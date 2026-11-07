@@ -5,7 +5,7 @@ title:
   hl: {hanzi: "你試看啊", pinyin: "ngi chiˇ konˇ a+"}
 review: false
 setting: >-
-  Sunday afternoon, a few days after Lucie has flown home. The house is quiet. Guests are coming at four, and Grandma
+  Sunday afternoon, a week after Lucie has flown home. The house is quiet. Guests are coming at four, and Grandma
   has taken down the big earthenware bowl from the top of the cupboard.
 names: [阿明]
 
@@ -22,9 +22,9 @@ dialogue:
     hl: {hanzi: "擂茶？係麼个？", pinyin: "lui ca? heˇ maˊ gaiˇ?"}
   - n: 3
     speaker: 阿婆
-    en: "You put tea leaves, peanuts and sesame in the grinding bowl, grind them a bit with the stick, add boiling water, and that's 擂茶."
-    sx: {hanzi: "茶米、番豆、麻仔放落擂缽，用棍仔擂擂啊，加滾水，就係擂茶。", pinyin: "caˇ miˋ, fanˊ teu, maˇ eˋ biong log luiˇ badˋ, iung gun eˋ luiˇ luiˇ a, gaˊ gunˋ suiˋ, qiu he luiˇ caˇ."}
-    hl: {hanzi: "茶米、地豆、麻仔放落擂缽，用棍仔擂擂啊，加滾水，就係擂茶。", pinyin: "ca miˊ, ti+ teu+, ma er biongˇ logˋ lui bad, rhung+ gunˇ er lui lui a+, gaˋ gunˊ shuiˊ, ciu+ heˇ lui ca."}
+    en: "The ingredients are tea leaves, peanuts and sesame. You put them in the grinding bowl, grind them to a paste with the stick, add boiling water, and that's 擂茶."
+    sx: {hanzi: "材料係茶米、番豆、麻仔。放落擂缽，用棍仔擂綿，加滾水，就係擂茶。", pinyin: "coiˇ liau he caˇ miˋ, fanˊ teu, maˇ eˋ. biong log luiˇ badˋ, iung gun eˋ luiˇ mienˇ, gaˊ gunˋ suiˋ, qiu he luiˇ caˇ."}
+    hl: {hanzi: "材料係茶米、地豆、麻仔。放落擂缽，用棍仔擂綿，加滾水，就係擂茶。", pinyin: "coi liau+ heˇ ca miˊ, ti+ teu+, ma er. biongˇ logˋ lui bad, rhung+ gunˇ er lui mien, gaˋ gunˊ shuiˊ, ciu+ heˇ lui ca."}
   - n: 4
     speaker: 阿婆
     en: "(handing him the stick) Here, you have a go."
@@ -37,9 +37,9 @@ dialogue:
     hl: {hanzi: "恁樣啊？", pinyin: "an ngiong a+?"}
   - n: 6
     speaker: 阿婆
-    en: "Not so hard! Grind slowly; it has to be very fine."
-    sx: {hanzi: "毋使恁大力！慢慢仔擂，愛擂到當幼。", pinyin: "mˇ siiˋ anˋ tai lid! man man eˋ luiˇ, oi luiˇ do dongˊ iu."}
-    hl: {hanzi: "毋使恁大力！慢慢仔擂，愛擂到當幼。", pinyin: "m siiˊ anˊ tai+ lidˋ! man+ man+ er lui, oiˇ lui doˇ dongˋ rhiuˇ."}
+    en: "Not so hard! Grind slowly; it has to be nice and fine."
+    sx: {hanzi: "毋使恁大力！慢慢仔擂，愛擂到幼幼仔。", pinyin: "mˇ siiˋ anˋ tai lid! man man eˋ luiˇ, oi luiˇ do iu iu eˋ."}
+    hl: {hanzi: "毋使恁大力！慢慢仔擂，愛擂到幼幼仔。", pinyin: "m siiˊ anˊ tai+ lidˋ! man+ man+ er lui, oiˇ lui doˇ rhiuˇ rhiuˇ er."}
   - n: 7
     speaker: Sam
     en: "(ten minutes later) My arm's aching…"
@@ -63,8 +63,8 @@ dialogue:
   - n: 11
     speaker: 阿婆
     en: "(at last) Right. Add the boiling water and give it a quick stir… Sam, have a taste."
-    sx: {hanzi: "好，加滾水，摝摝啊……Sam，你嗒看啊。", pinyin: "hoˋ, gaˊ gunˋ suiˋ, lugˋ lugˋ a … Sam, nˇ dab kon a."}
-    hl: {hanzi: "好，加滾水，摝摝啊……Sam，你嗒看啊。", pinyin: "hoˊ, gaˋ gunˊ shuiˊ, lug lug a+ … Sam, ngi dabˋ konˇ a+."}
+    sx: {hanzi: "好，加滾水，摝摝仔……Sam，你嗒看啊。", pinyin: "hoˋ, gaˊ gunˋ suiˋ, lugˋ lugˋ eˋ … Sam, nˇ dab kon a."}
+    hl: {hanzi: "好，加滾水，摝摝仔……Sam，你嗒看啊。", pinyin: "hoˊ, gaˋ gunˊ shuiˊ, lug lug er … Sam, ngi dabˋ konˇ a+."}
   - n: 12
     speaker: Sam
     en: "Mm… it smells wonderful! And it's not sweet, it's savoury?"
@@ -84,13 +84,14 @@ notes:
     text: >
       擂茶 luiˇ caˇ "ground tea": the official example sentences describe it as tea leaves, peanuts, sesame and other
       ingredients ground together and mixed with water, 客家有名个擂茶 "the famous Hakka 擂茶". 擂 luiˇ is the verb, "grind
-      in a bowl"; 擂缽 the ridged earthenware bowl it is ground in, with a wooden stick. Today it is also a tourist
-      activity, and you will be handed a stick and told to grind.
+      in a bowl"; 擂缽 the ridged earthenware bowl it is ground in, with a wooden stick.
   - ref: 3
     topic: grammar
     text: >
-      擂擂啊 "grind a bit": a verb said twice, with 啊 a after it, is "do it a little, briefly": 摝摝啊 "give it a stir"
-      (line 11), 看看啊 "have a look round". 用棍仔擂 "grind with a stick": 用 iung "use" before a tool, as Mandarin 用.
+      Grandma's recipe follows the official example almost word for word: 材料放落擂缽，用樹棍仔去擂綿 "put the ingredients
+      in the bowl and grind them to a paste with a stick", then add water and 摝摝仔 "give it a stir" (line 11). A verb
+      said twice, with 仔 or 啊 after it, is "do it a little, briefly": 摝摝仔, 看看啊 "have a look round". 用棍仔擂
+      "grind with a stick": 用 iung "use" before a tool, as Mandarin 用. 綿 mienˇ "soft, mushy, ground to a paste".
       番豆 fanˊ teu "peanut" (Hailu 地豆); 麻仔 "sesame"; 滾水 "boiling water".
   - ref: 4
     topic: grammar
@@ -101,8 +102,9 @@ notes:
     topic: grammar
     text: >
       毋使恁大力 "no need to push so hard": 大力 "with force", 無力 (line 8) "weak, without strength", from 力 lid "strength".
-      擂到當幼 "grind it till it's very fine": V到 + result (lesson 27). 幼 iu "fine" (powder, sand, handwriting) and its
-      opposite 粗 cuˊ "coarse" (line 10). 慢慢仔 "slowly", with the 仔 that softens.
+      擂到幼幼仔 "grind it till it's nice and fine": V到 + result (lesson 27). 幼 iu "fine" (not coarse), doubled with 仔
+      as in the attested 剁到幼幼仔 "chop it fine"; its opposite is 粗 cuˊ "coarse" (line 10). 慢慢仔 "slowly", with the
+      same AA仔 shape.
   - ref: 10
     topic: grammar
     text: >
@@ -135,6 +137,7 @@ new_words:
   - {hanzi: 嗒, pinyin: "dab", en: "taste", hl: {hanzi: 嗒, pinyin: "dabˋ"}}
   - {hanzi: 傍, pinyin: "bongˋ", en: "eat with (rice)", hl: {hanzi: 傍, pinyin: "bongˊ"}}
   - {hanzi: 材料, pinyin: "coiˇ liau", en: "ingredients, materials", hl: {hanzi: 材料, pinyin: "coi liau+"}}
+  - {hanzi: 綿, pinyin: "mienˇ", en: "soft, mushy; ground to a paste", hl: {hanzi: 綿, pinyin: "mien"}}
   - {hanzi: 舀, pinyin: "ieuˋ", en: "ladle, scoop", hl: {hanzi: 舀, pinyin: "rhauˊ"}}
 
 exercises:
@@ -145,12 +148,13 @@ exercises:
     - en: "Ladle a bowl for the guests."
       sx: {hanzi: "舀一碗分人客。", pinyin: "ieuˋ idˋ vonˋ bunˊ nginˇ hagˋ."}
       hl: {hanzi: "舀一碗分人客。", pinyin: "rhauˊ rhid vonˊ bunˋ ngin hag."}
-    - en: "This shirt: try it on and see if it fits."
-      sx: {hanzi: "這領衫，你試著看啊。", pinyin: "iaˋ liangˊ samˊ, nˇ cii zogˋ kon a."}
-      hl: {hanzi: "這領衫，你試著看啊。", pinyin: "liaˊ liangˋ samˋ, ngi chiˇ zhog konˇ a+."}
+    - en: "Try this shirt on and see if it fits."
+      source: kaga115
+      sx: {hanzi: "你試看啊這領衫做得著無？", pinyin: "nˇ cii kon a iaˋ liangˊ samˊ zo dedˋ zogˋ moˇ?"}
+      hl: {hanzi: "你試看啊這領衫做得著無？", pinyin: "ngi chiˇ konˇ a+ liaˊ liangˋ samˋ zoˇ ded zhog mo?"}
     - en: "Grandma grinds slowly, and gets it very fine. A-min is strong, but grinds too fast."
-      sx: {hanzi: "阿婆慢慢仔擂，擂到當幼。阿明當有力，擂到忒遽。", pinyin: "aˊ poˇ man man eˋ luiˇ, luiˇ do dongˊ iu. aˊ minˇ dongˊ iuˊ lid, luiˇ do tedˋ giagˋ."}
-      hl: {hanzi: "阿婆慢慢仔擂，擂到當幼。阿明當有力，擂到忒遽。", pinyin: "a+ po man+ man+ er lui, lui doˇ dongˋ rhiuˇ. a+ min dongˋ rhiuˋ lidˋ, lui doˇ ted giag."}
+      sx: {hanzi: "阿婆慢慢仔擂，擂到幼幼仔。阿明當有力，擂到忒遽。", pinyin: "aˊ poˇ man man eˋ luiˇ, luiˇ do iu iu eˋ. aˊ minˇ dongˊ iuˊ lid, luiˇ do tedˋ giagˋ."}
+      hl: {hanzi: "阿婆慢慢仔擂，擂到幼幼仔。阿明當有力，擂到忒遽。", pinyin: "a+ po man+ man+ er lui, lui doˇ rhiuˇ rhiuˇ er. a+ min dongˋ rhiuˋ lidˋ, lui doˇ ted giag."}
     - en: "When you have time, go out and have a look round."
       sx: {hanzi: "有閒愛出去外背看看啊。", pinyin: "iuˊ hanˇ oi cudˋ hi ngoi boi kon kon a."}
       hl: {hanzi: "有閒愛出去外背看看啊。", pinyin: "rhiuˋ han oiˇ chud hiˇ ngo+ boiˇ konˇ konˇ a+."}
@@ -159,8 +163,8 @@ exercises:
       sx: {hanzi: "你___看啊！", pinyin: "nˇ ___ kon a!", answer_hanzi: "嗒", answer: "dab"}
       hl: {hanzi: "你___看啊！", pinyin: "ngi ___ konˇ a+!", answer_hanzi: "嗒", answer: "dabˋ"}
     - en: "Give it a quick stir."
-      sx: {hanzi: "___摝啊。", pinyin: "___ lugˋ a.", answer_hanzi: "摝", answer: "lugˋ"}
-      hl: {hanzi: "___摝啊。", pinyin: "___ lug a+.", answer_hanzi: "摝", answer: "lug"}
+      sx: {hanzi: "___摝仔。", pinyin: "___ lugˋ eˋ.", answer_hanzi: "摝", answer: "lugˋ"}
+      hl: {hanzi: "___摝仔。", pinyin: "___ lug er.", answer_hanzi: "摝", answer: "lug"}
     - en: "My arm aches."
       sx: {hanzi: "𠊎个手___了。", pinyin: "ngaiˇ ge suˋ ___ leˊ.", answer_hanzi: "痠", answer: "sonˊ"}
       hl: {hanzi: "𠊎个手___了。", pinyin: "ngai gaiˇ shiuˊ ___ leˋ.", answer_hanzi: "痠", answer: "sonˋ"}
