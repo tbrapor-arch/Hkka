@@ -1,0 +1,181 @@
+id: 41
+title:
+  en: "A-in is angry"
+  sx: {hanzi: "𠊎當譴！", pinyin: "ngaiˇ dongˊ kienˋ!"}
+  hl: {hanzi: "𠊎當閼！", pinyin: "ngai dongˋ ad!"}
+review: false
+setting: >-
+  The day before New Year's Eve. A-in has come home from Taipei for the long weekend, and on the way from the station
+  she met 財伯姆, who told her some news. She comes into the kitchen without taking her coat off. Sam and A-min are
+  peeling tangerines at the table.
+names: [財伯姆, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Grandma! How could you not tell me?"
+    sx: {hanzi: "阿婆！你仰會無同𠊎講？", pinyin: "aˊ poˇ! nˇ ngiongˋ voi moˇ tungˇ ngaiˇ gongˋ?"}
+    hl: {hanzi: "阿婆！你仰會無摎𠊎講？", pinyin: "a+ po! ngi ngiongˊ voi+ mo lauˋ ngai gongˊ?"}
+  - n: 2
+    speaker: 阿婆
+    en: "(innocently) Tell you what?"
+    sx: {hanzi: "講麼个？", pinyin: "gongˋ maˋ ge?"}
+    hl: {hanzi: "講麼个？", pinyin: "gongˊ maˊ gaiˇ?"}
+  - n: 3
+    speaker: 阿英
+    en: "財伯姆 says you've found me someone, and I'm to meet him on Sunday!"
+    sx: {hanzi: "財伯姆講，你摎𠊎紹介一隻對象，禮拜日愛相親！", pinyin: "coiˇ bagˋ meˊ gongˋ, nˇ lauˊ ngaiˇ seu gie idˋ zagˋ dui xiong, liˊ bai ngidˋ oi xiong qinˊ!"}
+    hl: {hanzi: "財伯姆講，你摎𠊎紹介一隻對象，禮拜日愛相親！", pinyin: "coi bag meˋ gongˊ, ngi lauˋ ngai shauˇ gaiˇ rhid zhag duiˇ siongˇ, liˋ baiˇ ngid oiˇ siongˇ cinˋ!"}
+  - n: 4
+    speaker: 阿婆
+    en: "He's a very nice young man. He works at a bank…"
+    sx: {hanzi: "該後生人當好，在銀行做事……", pinyin: "ge heu sangˊ nginˇ dongˊ hoˋ, coiˊ ngiunˇ hongˇ zo se …"}
+    hl: {hanzi: "該後生人當好，在銀行做事……", pinyin: "gai heu+ sangˋ ngin dongˋ hoˊ, coiˋ ngiun hong zoˇ she+ …"}
+    check: true
+  - n: 5
+    speaker: 阿英
+    en: "I'm furious! I can find someone myself!"
+    sx: {hanzi: "𠊎當譴！𠊎自家會尋對象！", pinyin: "ngaiˇ dongˊ kienˋ! ngaiˇ qi gaˊ voi qimˇ dui xiong!"}
+    hl: {hanzi: "𠊎當閼！𠊎自家會尋對象！", pinyin: "ngai dongˋ ad! ngai cid gaˋ voi+ cim duiˇ siongˇ!"}
+  - n: 6
+    speaker: Sam
+    en: "(to A-min, under his breath) A-in's so angry, I'm scared."
+    sx: {hanzi: "阿英恁譴，𠊎驚。", pinyin: "aˊ inˊ anˋ kienˋ, ngaiˇ giangˊ."}
+    hl: {hanzi: "阿英恁閼，𠊎驚。", pinyin: "a+ rhinˋ anˊ ad, ngai giangˋ."}
+  - n: 7
+    speaker: 阿明
+    en: "(peeling faster) Me too. Don't say anything."
+    sx: {hanzi: "𠊎乜驚。莫講話。", pinyin: "ngaiˇ me giangˊ. mog gongˋ fa."}
+    hl: {hanzi: "𠊎乜驚。莫講話。", pinyin: "ngai meˇ giangˋ. mogˋ gongˊ faˇ."}
+  - n: 8
+    speaker: 阿婆
+    en: "Grandma did it for your own good. Grandma's old, and she worries about you…"
+    sx: {hanzi: "阿婆係為著你好。阿婆老了，當煩惱你……", pinyin: "aˊ poˇ he vi doˋ nˇ hoˋ. aˊ poˇ loˋ leˊ, dongˊ fanˇ nauˊ nˇ …"}
+    hl: {hanzi: "阿婆係為著你好。阿婆老了，當煩惱你……", pinyin: "a+ po heˇ vui+ doˊ ngi hoˊ. a+ po loˊ leˋ, dongˋ fan nauˋ ngi …"}
+  - n: 9
+    speaker: 阿英
+    en: "Don't worry about me. In the old days you needed a matchmaker to get a wife; young people these days find their own partners."
+    sx: {hanzi: "毋使煩惱。頭擺討新娘愛尋媒人，這下个後生人都係自家尋對象。", pinyin: "mˇ siiˋ fanˇ nauˊ. teuˇ baiˋ toˋ xinˊ ngiongˇ oi qimˇ moiˇ nginˇ, iaˋ ha ge heu sangˊ nginˇ du he qi gaˊ qimˇ dui xiong."}
+    hl: {hanzi: "毋使煩惱。頭擺討新娘愛尋媒人，這下个後生人都係自家尋對象。", pinyin: "m siiˊ fan nauˋ. teu baiˊ toˊ sinˋ ngiong oiˇ cim moi ngin, liaˊ ha+ gaiˇ heu+ sangˋ ngin du+ heˇ cid gaˋ cim duiˇ siongˇ."}
+  - n: 10
+    speaker: 阿婆
+    en: "(sighing) All right, all right… Anyway, he phoned. Turns out he isn't coming."
+    sx: {hanzi: "好，好……毋過，佢打電話來，佢嗄講毋來了。", pinyin: "hoˋ, hoˋ … mˇ go, giˇ daˋ tien fa loiˇ, giˇ sa gongˋ mˇ loiˇ leˊ."}
+    hl: {hanzi: "好，好……毋過，佢打電話來，佢嗄講毋來了。", pinyin: "hoˊ, hoˊ … m goˇ, gi daˊ tien+ faˇ loi, gi saˇ gongˊ m loi leˋ."}
+  - n: 11
+    speaker: 阿英
+    en: "What? He's not coming? …Why not?!"
+    sx: {hanzi: "麼个？佢嗄毋來？……做麼个？", pinyin: "maˋ ge? giˇ sa mˇ loiˇ? … zo maˋ ge?"}
+    hl: {hanzi: "麼个？佢嗄毋來？……做麼个？", pinyin: "maˊ gaiˇ? gi saˇ m loi? … zoˇ maˊ gaiˇ?"}
+  - n: 12
+    speaker: 阿明
+    en: "Sis, so are you happy now?"
+    sx: {hanzi: "阿姊，你這下歡喜無？", pinyin: "aˊ jiˋ, nˇ iaˋ ha fonˊ hiˋ moˇ?"}
+    hl: {hanzi: "阿姊，你這下歡喜無？", pinyin: "a+ ziˊ, ngi liaˊ ha+ fonˋ hiˊ mo?"}
+  - n: 13
+    speaker: 阿英
+    en: "…No, I am not!"
+    sx: {hanzi: "……毋歡喜！", pinyin: "… mˇ fonˊ hiˋ!"}
+    hl: {hanzi: "……毋歡喜！", pinyin: "… m fonˋ hiˊ!"}
+  - n: 14
+    speaker: 阿婆
+    en: "(glancing at Sam, then at A-in) Never mind. Grandma won't say another word."
+    sx: {hanzi: "無要緊。阿婆毋講了。", pinyin: "moˇ ieu ginˋ. aˊ poˇ mˇ gongˋ leˊ."}
+    hl: {hanzi: "無要緊。阿婆毋講了。", pinyin: "moˇ rhauˇ ginˊ. a+ po m gongˊ leˋ."}
+
+notes:
+  - ref: 3
+    topic: culture
+    text: >
+      相親 xiong qinˊ "a meeting arranged with a view to marriage": the two families, a cup of tea, a lot of looking.
+      An official example: 頭擺人相親該下，細妹會捧茶分人客食 "in the old days, at a 相親, the girl would serve tea to the
+      guests". 紹介 seu gie "introduce": the Hakka word turns the Mandarin 介紹 round. 對象 "a (marriage) partner".
+  - ref: 5
+    topic: grammar
+    text: >
+      譴 kienˋ "angry": 𠊎當譴 "I'm furious", 譴到… "so angry that…" (阿姆譴到會死 "Mum was livid"). Hailu has a different
+      word: 閼 ad. The everyday Mandarin 生氣 is not a Hakka word. 自家 (lesson 11) "oneself".
+  - ref: 6
+    topic: grammar
+    text: >
+      驚 "be afraid" (lesson 13), now with nothing after it: 𠊎驚 "I'm scared". With an object it is "be afraid of":
+      驚狗 "afraid of dogs".
+  - ref: 8
+    topic: grammar
+    text: >
+      為著你好 "for your own good": 為著 vi doˋ "for (the sake of)". 煩惱 fanˇ nauˊ "worry (about)": 當煩惱你 "worries a lot
+      about you", 毋使煩惱 "don't worry". A stronger word than 驚: it keeps you awake.
+  - ref: 9
+    topic: culture
+    text: >
+      A-in quotes, almost word for word, an official example sentence: 頭擺討新娘愛先尋媒人，這下个後生人…都係自家尋對象.
+      討新娘 "take a bride", 媒人 "matchmaker". Lesson 23's wish and lesson 31's question were only the opening moves.
+  - ref: 10
+    topic: grammar
+    text: >
+      嗄 sa "and then, of all things, unexpectedly": it goes before the verb and marks a surprise, often an unwelcome
+      one: 佢嗄講毋來了 "and then he said he wasn't coming", 這間店嗄倒忒了 "turns out the shop has closed down". In a
+      question it is indignant: 佢嗄毋來？ "he's not coming?!". There is no single English word for it; tone of voice
+      does the work.
+  - ref: 13
+    topic: culture
+    text: >
+      歡喜 fonˊ hiˋ "happy, pleased" (lesson 19). A-in is not pleased to be spared the meeting, because she was turned
+      down before she could do the turning down. Grandma has noticed, and so, perhaps, has the learner: the gossip of
+      lesson 32 is still in the air.
+
+new_words:
+  - {hanzi: 譴, pinyin: "kienˋ", en: "angry", hl: {hanzi: 閼, pinyin: "ad"}}
+  - {hanzi: 相親, pinyin: "xiong qinˊ", en: "arranged meeting (with a view to marriage)", hl: {hanzi: 相親, pinyin: "siongˇ cinˋ"}}
+  - {hanzi: 紹介, pinyin: "seu gie", en: "introduce", hl: {hanzi: 紹介, pinyin: "shauˇ gaiˇ"}}
+  - {hanzi: 對象, pinyin: "dui xiong", en: "partner (to marry)", hl: {hanzi: 對象, pinyin: "duiˇ siongˇ"}}
+  - {hanzi: 為著, pinyin: "vi doˋ", en: "for (the sake of)", hl: {hanzi: 為著, pinyin: "vui+ doˊ"}}
+  - {hanzi: 煩惱, pinyin: "fanˇ nauˊ", en: "worry, be anxious", hl: {hanzi: 煩惱, pinyin: "fan nauˋ"}}
+  - {hanzi: 討, pinyin: "toˋ", en: "ask for; take (a wife)", hl: {hanzi: 討, pinyin: "toˊ"}}
+  - {hanzi: 媒人, pinyin: "moiˇ nginˇ", en: "matchmaker", hl: {hanzi: 媒人, pinyin: "moi ngin"}}
+  - {hanzi: 嗄, pinyin: "sa", en: "(before a verb) unexpectedly, of all things", hl: {hanzi: 嗄, pinyin: "saˇ"}}
+  - {hanzi: 傷心, pinyin: "songˊ ximˊ", en: "sad, heartbroken", hl: {hanzi: 傷心, pinyin: "shongˋ simˋ"}}
+  - {hanzi: 暢, pinyin: "tiong", en: "delighted, thrilled", hl: {hanzi: 暢, pinyin: "tiongˇ"}}
+  - {hanzi: 失望, pinyin: "siidˋ mong", en: "disappointed", hl: {hanzi: 失望, pinyin: "shid mong+"}}
+  - {hanzi: 決定, pinyin: "giedˋ tin", en: "decide", hl: {hanzi: 決定, pinyin: "gied tin+"}}
+  - {hanzi: 管, pinyin: "gonˋ", en: "mind, bother about", hl: {hanzi: 管, pinyin: "gonˊ"}}
+  - {hanzi: 罵, pinyin: "ma", en: "scold", hl: {hanzi: 罵, pinyin: "maˇ"}}
+  - {hanzi: 心肝, pinyin: "ximˊ gonˊ", en: "heart; (one's) feelings", hl: {hanzi: 心肝, pinyin: "simˋ gonˋ"}}
+  - {hanzi: 狗, pinyin: "gieuˋ", en: "dog", hl: {hanzi: 狗, pinyin: "gieuˊ"}}
+  - {hanzi: 擔心, pinyin: "damˊ ximˊ", en: "worry (about)", hl: {hanzi: 擔心, pinyin: "damˋ simˋ"}}
+
+exercises:
+  translate:
+    - en: "My brother didn't do as he was told, and Mum was very angry."
+      sx: {hanzi: "老弟毋聽話，阿姆當譴。", pinyin: "loˋ taiˊ mˇ tangˊ fa, aˊ meˊ dongˊ kienˋ."}
+      hl: {hanzi: "老弟毋聽話，阿姆當閼。", pinyin: "loˊ taiˋ m tangˋ faˇ, a+ meˋ dongˋ ad."}
+    - en: "A-in is disappointed; Grandma is sad."
+      sx: {hanzi: "阿英當失望，阿婆當傷心。", pinyin: "aˊ inˊ dongˊ siidˋ mong, aˊ poˇ dongˊ songˊ ximˊ."}
+      hl: {hanzi: "阿英當失望，阿婆當傷心。", pinyin: "a+ rhinˋ dongˋ shid mong+, a+ po dongˋ shongˋ simˋ."}
+    - en: "Grandpa heard Grandma sing, and he was thrilled."
+      sx: {hanzi: "阿公聽著阿婆唱歌，當暢。", pinyin: "aˊ gungˊ tangˊ doˋ aˊ poˇ cong goˊ, dongˊ tiong."}
+      hl: {hanzi: "阿公聽著阿婆唱歌，當暢。", pinyin: "a+ gungˋ tangˋ doˊ a+ po chongˇ goˋ, dongˋ tiongˇ."}
+    - en: "A-in is kind at heart; she's only angry, that's all."
+      sx: {hanzi: "阿英心肝當好，係當譴定定。", pinyin: "aˊ inˊ ximˊ gonˊ dongˊ hoˋ, he dongˊ kienˋ tin tin."}
+      hl: {hanzi: "阿英心肝當好，係當閼定定。", pinyin: "a+ rhinˋ simˋ gonˋ dongˋ hoˊ, heˇ dongˋ ad tin+ tin+."}
+    - en: "Don't scold her; she's decided for herself."
+      sx: {hanzi: "莫罵佢，佢自家決定了。", pinyin: "mog ma giˇ, giˇ qi gaˊ giedˋ tin leˊ."}
+      hl: {hanzi: "莫罵佢，佢自家決定了。", pinyin: "mogˋ maˇ gi, gi cid gaˋ gied tin+ leˋ."}
+    - en: "Don't bother about me, and don't worry."
+      sx: {hanzi: "莫管𠊎，乜毋使擔心。", pinyin: "mog gonˋ ngaiˇ, me mˇ siiˋ damˊ ximˊ."}
+      hl: {hanzi: "莫管𠊎，乜毋使擔心。", pinyin: "mogˋ gonˊ ngai, meˇ m siiˊ damˋ simˋ."}
+    - en: "A-min is afraid of dogs."
+      sx: {hanzi: "阿明驚狗。", pinyin: "aˊ minˇ giangˊ gieuˋ."}
+      hl: {hanzi: "阿明驚狗。", pinyin: "a+ min giangˋ gieuˊ."}
+  fill:
+    - en: "I'm furious!"
+      sx: {hanzi: "𠊎當___！", pinyin: "ngaiˇ dongˊ ___!", answer_hanzi: "譴", answer: "kienˋ"}
+      hl: {hanzi: "𠊎當___！", pinyin: "ngai dongˋ ___!", answer_hanzi: "閼", answer: "ad"}
+    - en: "He's not coming?! (of all things)"
+      sx: {hanzi: "佢___毋來？", pinyin: "giˇ ___ mˇ loiˇ?", answer_hanzi: "嗄", answer: "sa"}
+      hl: {hanzi: "佢___毋來？", pinyin: "gi ___ m loi?", answer_hanzi: "嗄", answer: "saˇ"}
+    - en: "Don't worry."
+      sx: {hanzi: "毋使___。", pinyin: "mˇ siiˋ ___.", answer_hanzi: "煩惱", answer: "fanˇ nauˊ"}
+      hl: {hanzi: "毋使___。", pinyin: "m siiˊ ___.", answer_hanzi: "煩惱", answer: "fan nauˋ"}
+
+audio: []
