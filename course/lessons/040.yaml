@@ -39,7 +39,7 @@ dialogue:
     speaker: 阿公
     en: "Follow behind me: I'll do that side, you do this side."
     sx: {hanzi: "你跈等𠊎。𠊎剪該片，你剪這片。", pinyin: "nˇ tenˇ denˋ ngaiˇ. ngaiˇ jienˋ ge pienˋ, nˇ jienˋ iaˋ pienˋ."}
-    hl: {hanzi: "你跈等𠊎。𠊎剪該片，你剪這片。", pinyin: "ngi ten nenˊ ngai. ngai zienˊ gai pienˊ, ngi zienˊ liaˊ pienˊ."}
+    hl: {hanzi: "你跈等𠊎。𠊎剪該片，你剪這片。", pinyin: "ngi ten denˊ ngai. ngai zienˊ gai pienˊ, ngi zienˊ liaˊ pienˊ."}
   - n: 7
     speaker: Sam
     en: "(an hour later, straightening up) Grandpa, my back hurts…"
@@ -153,7 +153,7 @@ exercises:
       hl: {hanzi: "樹椏忒長，用鋸剪短。", pinyin: "shu+ aˋ ted chong, rhung+ giˇ zienˊ donˊ."}
     - en: "Cut off the old leaves, and keep the new ones."
       sx: {hanzi: "老葉剪忒，新葉留等。", pinyin: "loˋ iab jienˋ tedˋ, xinˊ iab liuˇ denˋ."}
-      hl: {hanzi: "老葉剪忒，新葉留等。", pinyin: "loˊ rhabˋ zienˊ ted, sinˋ rhabˋ liu nenˊ."}
+      hl: {hanzi: "老葉剪忒，新葉留等。", pinyin: "loˊ rhabˋ zienˊ ted, sinˋ rhabˋ liu denˊ."}
   fill:
     - en: "Can you give me a hand?"
       sx: {hanzi: "你做得摎𠊎___無？", pinyin: "nˇ zo dedˋ lauˊ ngaiˇ ___ moˇ?", answer_hanzi: "𢯭手", answer: "ten suˋ"}

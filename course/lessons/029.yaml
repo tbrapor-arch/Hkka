@@ -46,7 +46,7 @@ dialogue:
     speaker: 阿明
     en: "(holding his basket, mouth full) I'm testing whether they're sweet!"
     sx: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngaiˇ naˊ denˋ coi lamˇ, du ge cii tiamˇ moˇ!"}
-    hl: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngai naˋ nenˊ coiˇ lam, diˇ gai chiˇ tiam mo!"}
+    hl: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngai naˋ denˊ coiˇ lam, diˇ gai chiˇ tiam mo!"}
     check: true
   - n: 8
     speaker: 阿婆
@@ -118,7 +118,7 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu: 等 after a verb is nenˊ (拿等 naˋ nenˊ), and 寒天 is 冷天. 緊 ginˊ, 試 chiˇ.
+      Hailu: 等 after a verb is denˊ, sometimes heard as nenˊ (拿等 naˋ denˊ), and 寒天 is 冷天. 緊 ginˊ, 試 chiˇ.
 
 new_words:
   - {hanzi: 菜籃, pinyin: "coi lamˇ", en: "basket", hl: {hanzi: 菜籃, pinyin: "coiˇ lam"}}
@@ -147,7 +147,7 @@ exercises:
   translate:
     - en: "Grandma is wearing a hat and carrying a basket."
       sx: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "aˊ poˇ dai denˋ mo eˋ, naˊ denˋ coi lamˇ."}
-      hl: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "a+ po daiˇ nenˊ mo+ er, naˋ nenˊ coiˇ lam."}
+      hl: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "a+ po daiˇ denˊ mo+ er, naˋ denˊ coiˇ lam."}
     - en: "Don't keep eating sweets!"
       sx: {hanzi: "莫緊食糖仔！", pinyin: "mog ginˋ siid tongˇ eˋ!"}
       hl: {hanzi: "莫緊食糖仔！", pinyin: "mogˋ ginˊ shidˋ tong er!"}
@@ -156,7 +156,7 @@ exercises:
       hl: {hanzi: "青个還吂熟。", pinyin: "ciangˋ gaiˇ han mang shugˋ."}
     - en: "Grandpa's son carries the vegetables on his back to the field."
       sx: {hanzi: "阿公个倈仔揹等菜去田項。", pinyin: "aˊ gungˊ ge lai eˋ baˇ denˋ coi hi tienˇ hong."}
-      hl: {hanzi: "阿公个倈仔揹等菜去田項。", pinyin: "a+ gungˋ gaiˇ laiˇ er ba nenˊ coiˇ hiˇ tien hong+."}
+      hl: {hanzi: "阿公个倈仔揹等菜去田項。", pinyin: "a+ gungˋ gaiˇ laiˇ er ba denˊ coiˇ hiˇ tien hong+."}
     - en: "Try it! Winter fruit is very sweet."
       sx: {hanzi: "試看！寒天个果子當甜。", pinyin: "cii kon! honˇ tienˊ ge goˋ ziiˋ dongˊ tiamˇ."}
       hl: {hanzi: "試看！冷天个果子當甜。", pinyin: "chiˇ konˇ! langˋ tienˋ gaiˇ goˊ ziiˊ dongˋ tiam."}
@@ -169,7 +169,7 @@ exercises:
       hl: {hanzi: "佢___食。", pinyin: "gi ___ shidˋ.", answer_hanzi: "緊", answer: "ginˊ"}
     - en: "Holding the basket."
       sx: {hanzi: "拿___菜籃。", pinyin: "naˊ ___ coi lamˇ.", answer_hanzi: "等", answer: "denˋ"}
-      hl: {hanzi: "拿___菜籃。", pinyin: "naˋ ___ coiˇ lam.", answer_hanzi: "等", answer: "nenˊ"}
+      hl: {hanzi: "拿___菜籃。", pinyin: "naˋ ___ coiˇ lam.", answer_hanzi: "等", answer: "denˊ"}
     - en: "Pick a few more!"
       sx: {hanzi: "摘___兜仔！", pinyin: "zagˋ ___ deuˊ eˋ!", answer_hanzi: "加", answer: "gaˊ"}
       hl: {hanzi: "摘___兜仔！", pinyin: "zag ___ deuˋ er!", answer_hanzi: "加", answer: "gaˋ"}

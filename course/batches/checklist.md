@@ -53,7 +53,7 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Count Grandpa's lines before writing a note about how little he says.
 
 ## Added after the batch 5 review
-- Hailu rain is 落水 (not 落雨); Hailu 聽講 is tangˇ gongˊ; Hailu V等 is nenˊ; Hailu 飯 is pon+.
+- Hailu rain is 落水 (not 落雨); Hailu 聽講 is tangˇ gongˊ; Hailu V等 is denˊ (nenˊ a variant); Hailu 飯 is pon+.
 - "Bed" is 眠床 (床 alone is a classifier). "In the pocket" is 褲袋肚 / 衫袋肚.
 - 跌在 (drop somewhere), not 跌忒在. "Shut the window" 窗門關好來 (關等 = kept shut).
 - 寄到哪位, not 寄去. 借分 + person for "lend". 一封信仔, not 一張信.

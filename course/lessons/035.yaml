@@ -15,12 +15,12 @@ dialogue:
     speaker: 阿婆
     en: "Has she got her phone? Don't let her lose it again!"
     sx: {hanzi: "手機仔拿等無？莫又打毋見忒了！", pinyin: "suˋ giˊ eˋ naˊ denˋ moˇ? mog iu daˋ mˇ gien tedˋ leˊ!"}
-    hl: {hanzi: "手機拿等無？莫又打毋見忒了！", pinyin: "shiuˊ giˋ naˋ nenˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
+    hl: {hanzi: "手機拿等無？莫又打毋見忒了！", pinyin: "shiuˊ giˋ naˋ denˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
   - n: 2
     speaker: Sam
     en: "She's holding it. She's checked it twice already this morning."
     sx: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˊ denˋ leˊ. giˇ teuˇ xienˊ kon go liongˋ baiˋ."}
-    hl: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˋ nenˊ leˋ. gi teu senˋ konˇ goˇ liongˊ baiˊ."}
+    hl: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˋ denˊ leˋ. gi teu senˋ konˇ goˇ liongˊ baiˊ."}
   - n: 3
     speaker: 阿英
     en: "Come on, let's take a photo! Everyone, look this way!"
