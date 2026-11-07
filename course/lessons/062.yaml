@@ -18,9 +18,9 @@ dialogue:
     hl: {hanzi: "阿英：你好！", pinyin: "a+ rhinˋ: ngi hoˊ!"}
   - n: 2
     speaker: Sam
-    en: "It has rained in 竹東 for three weeks, and today, at last, the sun came out."
-    sx: {hanzi: "竹東落雨落三隻禮拜了，今晡日正天晴。", pinyin: "zugˋ dungˊ log iˋ log samˊ zagˋ liˊ bai leˊ, gimˊ buˊ ngidˋ zang tienˊ qiangˇ."}
-    hl: {hanzi: "竹東落水落三隻禮拜了，今晡日正天晴。", pinyin: "zhug dungˋ logˋ shuiˊ logˋ samˋ zhag liˋ baiˇ leˋ, gimˋ buˋ ngid zhangˇ tienˋ ciang."}
+    en: "It has rained in 竹東 again for a week, and today, at last, the sun came out."
+    sx: {hanzi: "竹東又落雨落一隻禮拜了，今晡日正天晴。", pinyin: "zugˋ dungˊ iu log iˋ log idˋ zagˋ liˊ bai leˊ, gimˊ buˊ ngidˋ zang tienˊ qiangˇ."}
+    hl: {hanzi: "竹東又落水落一隻禮拜了，今晡日正天晴。", pinyin: "zhug dungˋ rhiu+ logˋ shuiˊ logˋ rhid zhag liˋ baiˇ leˋ, gimˋ buˋ ngid zhangˇ tienˋ ciang."}
   - n: 3
     speaker: Sam
     en: "There's a lot to do at the factory, but I'm slowly getting used to it. I start at five every morning and finish at four."
@@ -44,9 +44,9 @@ dialogue:
     hl: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˋ baiˇ liug ngai ciu+ zhonˊ miau lidˋ leˋ. ngai dongˋ siongˊ ngiam+ miau lidˋ gaiˇ ngin, meˇ dongˋ siongˊ ngiam+ … a+ po zhuˊ gaiˇ coiˇ."}
   - n: 7
     speaker: Sam
-    en: "Don't forget: in April we're going to see the 桐花."
-    sx: {hanzi: "四月看桐花，莫毋記得！", pinyin: "xi ngied kon tungˇ faˊ, mog mˇ gi dedˋ!"}
-    hl: {hanzi: "四月看桐花，莫毋記得！", pinyin: "siˇ ngiedˋ konˇ tung faˋ, mogˋ m giˇ ded!"}
+    en: "Don't forget: in April we're going to see the 桐花. When you get this letter, write back to me."
+    sx: {hanzi: "四月看桐花，莫毋記得！收到信，愛回信分𠊎。", pinyin: "xi ngied kon tungˇ faˊ, mog mˇ gi dedˋ! suˊ do xin, oi fiˇ xin bunˊ ngaiˇ."}
+    hl: {hanzi: "四月看桐花，莫毋記得！收到信，愛回信分𠊎。", pinyin: "siˇ ngiedˋ konˇ tung faˋ, mogˋ m giˇ ded! shiuˋ doˇ sinˇ, oiˇ fui sinˇ bunˋ ngai."}
   - n: 8
     speaker: Sam
     en: "Wishing you good health. Sam. 21 March."
@@ -69,9 +69,9 @@ dialogue:
     hl: {hanzi: "講毋出來？講麼个講毋出來？", pinyin: "gongˊ m chud loi? gongˊ maˊ gaiˇ gongˊ m chud loi?"}
   - n: 12
     speaker: Sam
-    en: "…Nothing. (folding the letter) Envelope, stamp… done!"
-    sx: {hanzi: "……無麼个。信封、郵票……好了！", pinyin: "… moˇ maˋ ge. xin fungˊ, iuˇ peuˊ … hoˋ leˊ!"}
-    hl: {hanzi: "……無麼个。信封、郵票……好了！", pinyin: "… mo maˊ gaiˇ. sinˇ fungˋ, rhiu piauˇ … hoˊ leˋ!"}
+    en: "…Nothing. (folding the letter) Pen, envelope, stamp… done!"
+    sx: {hanzi: "……無麼个。筆、信封、郵票……好了！", pinyin: "… moˇ maˋ ge. bidˋ, xin fungˊ, iuˇ peuˊ … hoˋ leˊ!"}
+    hl: {hanzi: "……無麼个。筆、信封、郵票……好了！", pinyin: "… mo maˊ gaiˇ. bid, sinˇ fungˋ, rhiu piauˇ … hoˊ leˋ!"}
 
 notes:
   - ref: 1
@@ -84,7 +84,7 @@ notes:
   - ref: 2
     topic: grammar
     text: >
-      落雨落三隻禮拜了 "it has been raining for three weeks": verb + object, then the verb again + duration + 了: the way to
+      落雨落一隻禮拜了 "it has been raining for a week": verb + object, then the verb again + duration + 了: the way to
       say how long something has gone on when the verb has an object. 正天晴 "only today cleared up". In the Hailu column
       it is 落水 (lesson 61); Sam, writing, uses his own word.
   - ref: 3
@@ -159,7 +159,7 @@ exercises:
       sx: {hanzi: "用筆寫，字寫毋著就改。", pinyin: "iung bidˋ xiaˋ, sii xiaˋ mˇ cog qiu goiˋ."}
       hl: {hanzi: "用筆寫，字寫毋著就改。", pinyin: "rhung+ bid siaˊ, sii+ siaˊ m chogˋ ciu+ goiˊ."}
       check: true
-    - en: "He works to earn money so that his parents have something to live on."
+    - en: "He works to earn money so that his parents can live well."
       sx: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "giˇ zo se con qienˇ, he vi doˋ bunˊ iaˇ oiˊ go hoˋ ngidˋ eˋ."}
       hl: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "gi zoˇ she+ con+ cien, heˇ vui+ doˊ bunˋ rha oiˋ goˇ hoˊ ngid er."}
       check: true

@@ -28,9 +28,9 @@ dialogue:
     hl: {hanzi: "第一日你講寒，這下你會講冷了。", pinyin: "ti+ rhid ngid ngi gongˊ hon, liaˊ ha+ ngi voi+ gongˊ langˋ leˋ."}
   - n: 4
     speaker: Sam
-    en: "And 肚屎枵, 落水, 糜, 正手片, 所以…"
-    sx: {hanzi: "還有肚屎枵、落水、糜、正手片、所以……", pinyin: "hanˇ iuˊ duˋ siiˋ iauˊ, log suiˋ, moiˇ, ziin suˋ pienˋ, soˋ iˊ …"}
-    hl: {hanzi: "還有肚屎枵、落水、糜、正手片、所以……", pinyin: "han rhiuˋ duˊ shiˊ iauˋ, logˋ shuiˊ, moi, zhinˇ shiuˊ pienˊ, soˊ rhiˋ …"}
+    en: "And 肚屎枵, 落水, 正手片, 所以…"
+    sx: {hanzi: "還有肚屎枵、落水、正手片、所以……", pinyin: "hanˇ iuˊ duˋ siiˋ iauˊ, log suiˋ, ziin suˋ pienˋ, soˋ iˊ …"}
+    hl: {hanzi: "還有肚屎枵、落水、正手片、所以……", pinyin: "han rhiuˋ duˊ shiˊ iauˋ, logˋ shuiˊ, zhinˇ shiuˊ pienˊ, soˊ rhiˋ …"}
   - n: 5
     speaker: 阿傑
     en: "Your Hailu is better and better!"
@@ -95,12 +95,12 @@ notes:
   - ref: 3
     topic: hailu
     text: >
-      The month's trip-ups in two lines: 寒 / 冷 (lesson 57), 肚飢 / 肚屎枵 (59), 落雨 / 落水 (61), 粥 / 糜 (58), 右片 /
-      正手片 (57), 故所 / 所以 (60). 第一日 "the first day": 第 + number (lesson 60).
+      The month's trip-ups in two lines: 寒 / 冷 (lesson 57), 肚飢 / 肚屎枵 (59), 落雨 / 落水 (61), 右片 / 正手片 (57),
+      故所 / 所以 (60): pairs where the word lists differ, though Sixian speakers know most of the Hailu words too. 第一日 "the first day": 第 + number (lesson 60).
   - ref: 6
     topic: grammar
     text: >
-      轉到苗栗 "get back to Miaoli": 轉 (lesson 61) + 到. 你講麼个話？ "what (language) are you speaking?", Grandma's
+      轉到苗栗 "get back to Miaoli": 轉 (lesson 6) + 到. 你講麼个話？ "what (language) are you speaking?", Grandma's
       imagined reaction.
   - ref: 7
     topic: grammar
@@ -122,7 +122,8 @@ notes:
     topic: hailu
     text: >
       This batch made the Hailu column the one the story speaks. Read lessons 57–62 again from the Hailu line only:
-      the words that change (糜, 肚屎枵, 落水, 所以, 韶早, 承蒙) are few; the tones change in every word.
+      the words the lists give differently (肚屎枵, 落水, 所以, 韶早) are few, and Sixian has most of them too;
+      the tones change in every word.
 
 new_words: []
 
