@@ -17,9 +17,9 @@ dialogue:
     hl: {hanzi: "來，大家食擂茶。係 Sam 擂个。", pinyin: "loi, tai+ gaˋ shidˋ lui ca. heˇ Sam lui gaiˇ."}
   - n: 2
     speaker: 阿英
-    en: "Sam did? (tasting it) It's lovely and fine!"
-    sx: {hanzi: "Sam 擂个？……當幼！", pinyin: "Sam luiˇ ge? … dongˊ iu!"}
-    hl: {hanzi: "Sam 擂个？……當幼！", pinyin: "Sam lui gaiˇ? … dongˋ rhiuˇ!"}
+    en: "Sam did? (tasting it) He's ground it nice and fine!"
+    sx: {hanzi: "Sam 擂个？……擂到幼幼仔！", pinyin: "Sam luiˇ ge? … luiˇ do iu iu eˋ!"}
+    hl: {hanzi: "Sam 擂个？……擂到幼幼仔！", pinyin: "Sam lui gaiˇ? … lui doˇ rhiuˇ rhiuˇ er!"}
   - n: 3
     speaker: Sam
     en: "Grandma taught me. But my back still aches."
@@ -38,8 +38,9 @@ dialogue:
   - n: 6
     speaker: 阿英
     en: "Not any more. But Grandma, next time, don't find me anyone!"
-    sx: {hanzi: "毋譴了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "mˇ kienˋ leˊ. mˇ go aˊ poˇ, ha ngi baiˋ mog lauˊ ngaiˇ seu gie dui xiong!"}
-    hl: {hanzi: "毋閼了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "m ad leˋ. m goˇ a+ po, ha+ ngi+ baiˊ mogˋ lauˋ ngai shauˇ gaiˇ duiˇ siongˇ!"}
+    check: true
+    sx: {hanzi: "毋會譴了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "mˇ voi kienˋ leˊ. mˇ go aˊ poˇ, ha ngi baiˋ mog lauˊ ngaiˇ seu gie dui xiong!"}
+    hl: {hanzi: "毋會閼了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "m voi+ ad leˋ. m goˇ a+ po, ha+ ngi+ baiˊ mogˋ lauˋ ngai shauˇ gaiˇ duiˇ siongˇ!"}
   - n: 7
     speaker: 阿婆
     en: "All right, all right. Grandma won't interfere."
@@ -57,13 +58,12 @@ dialogue:
     hl: {hanzi: "佢毋去看先生，嗄自家好了！", pinyin: "gi m hiˇ konˇ sinˋ sangˋ, saˇ cid gaˋ hoˊ leˋ!"}
   - n: 10
     speaker: 阿明
-    en: "Grandpa, it's the end of the year: sing us a mountain song!"
-    sx: {hanzi: "阿公，舊年愛過了，唱一條山歌！", pinyin: "aˊ gungˊ, kiu ngienˇ oi go leˊ, cong idˋ tiauˇ sanˊ goˊ!"}
-    hl: {hanzi: "阿公，舊年愛過了，唱一條山歌！", pinyin: "a+ gungˋ, kiu+ ngien oiˇ goˇ leˋ, chongˇ rhid tiau sanˋ goˋ!"}
-    check: true
+    en: "Grandpa, the year is nearly over: sing us a mountain song!"
+    sx: {hanzi: "阿公，今年愛過忒了，唱一條山歌！", pinyin: "aˊ gungˊ, gimˊ ngienˇ oi go tedˋ leˊ, cong idˋ tiauˇ sanˊ goˊ!"}
+    hl: {hanzi: "阿公，今年愛過忒了，唱一條山歌！", pinyin: "a+ gungˋ, gimˋ ngien oiˇ goˇ ted leˋ, chongˇ rhid tiau sanˋ goˋ!"}
   - n: 11
     speaker: 阿公
-    en: "Your grandmother can sing."
+    en: "Let your grandmother sing."
     sx: {hanzi: "你阿婆唱。", pinyin: "nˇ aˊ poˇ cong."}
     hl: {hanzi: "你阿婆唱。", pinyin: "ngi a+ po chongˇ."}
   - n: 12
@@ -82,7 +82,7 @@ notes:
     topic: grammar
     text: >
       係 Sam 擂个 "it was Sam who ground it": 係…个 puts the doer in the spotlight (lessons 32 and 35). 擂 and 擂茶 from
-      lesson 36; 當幼 "nice and fine" too.
+      lesson 36; 擂到幼幼仔 "ground nice and fine" too.
   - ref: 3
     topic: grammar
     text: >
@@ -101,8 +101,8 @@ notes:
   - ref: 10
     topic: vocab
     text: >
-      舊年愛過了 "the old year is about to pass" is marked for a check: 舊年 normally means "last year", and how a Hakka
-      speaker marks 31 December is better heard than guessed.
+      今年愛過忒了 "this year is about to be over": 愛 "about to" (lesson 34) + 過忒 "pass, be gone". Not 舊年, which is
+      always "last year" (lesson 31).
   - ref: 13
     topic: culture
     text: >
@@ -112,7 +112,8 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu this week: 地豆 for 番豆, 箸 for 筷仔, 閼 for 譴, 落水 for 落雨, 飯 pon+, and 摎 wherever Sixian has 同.
+      Hailu this week: 地豆 for 番豆, 箸 for 筷仔, 閼 for 譴, 韶早 for 天光日, 冷 for 寒, 飯 pon+, and 摎 wherever Sixian
+      has 同.
 
 new_words: []
 
@@ -125,8 +126,8 @@ exercises:
       sx: {hanzi: "食加一碗添！Sam 請。", pinyin: "siid gaˊ idˋ vonˋ tiamˊ! Sam qiangˋ."}
       hl: {hanzi: "食加一碗添！Sam 請。", pinyin: "shidˋ gaˋ rhid vonˊ tiamˋ! Sam ciangˊ."}
     - en: "Does your throat hurt? — It does. But it's not serious."
-      sx: {hanzi: "喉嗹會痛無？——會痛。毋過毋嚴重。", pinyin: "heuˇ lienˇ voi tung moˇ? — voi tung. mˇ go mˇ ngiamˇ cung."}
-      hl: {hanzi: "喉嗹會痛無？——會痛。毋過毋嚴重。", pinyin: "heu lien voi+ tungˇ mo? — voi+ tungˇ. m goˇ m ngiam chung+."}
+      sx: {hanzi: "喉嗹會痛無？——會痛。毋過毋會嚴重。", pinyin: "heuˇ lienˇ voi tung moˇ? — voi tung. mˇ go mˇ voi ngiamˇ cung."}
+      hl: {hanzi: "喉嗹會痛無？——會痛。毋過毋會嚴重。", pinyin: "heu lien voi+ tungˇ mo? — voi+ tungˇ. m goˇ m voi+ ngiam chung+."}
     - en: "Can you give Grandpa a hand? Follow behind him."
       sx: {hanzi: "你做得摎阿公𢯭手無？你跈等佢。", pinyin: "nˇ zo dedˋ lauˊ aˊ gungˊ ten suˋ moˇ? nˇ tenˇ denˋ giˇ."}
       hl: {hanzi: "你做得摎阿公𢯭手無？你跈等佢。", pinyin: "ngi zoˇ ded lauˋ a+ gungˋ tenˇ shiuˊ mo? ngi ten denˊ gi."}

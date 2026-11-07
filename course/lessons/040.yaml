@@ -5,7 +5,7 @@ title:
   hl: {hanzi: "摎阿公𢯭手", pinyin: "lauˋ a+ gungˋ tenˇ shiuˊ"}
 review: false
 setting: >-
-  The following Sunday, a bright cold morning. Grandpa is over his fever and wants to prune the tea bushes before the new year, so
+  Tuesday, two days after Grandpa's fever (lesson 39), a bright cold morning; A-min is at school. Grandpa is over his fever and wants to prune the tea bushes before the new year, so
   that they put out new shoots in spring. His thick jacket is in France.
 names: [阿明]
 
@@ -62,9 +62,9 @@ dialogue:
     hl: {hanzi: "毋使。做事就燒暖了。", pinyin: "m siiˊ. zoˇ she+ ciu+ shauˋ nonˋ leˋ."}
   - n: 11
     speaker: 阿婆
-    en: "Last week you had a fever, and now you won't wear a jacket! And put on your hat: the sun's strong."
-    sx: {hanzi: "上禮拜發燒，這下又毋著衫！笠嫲乜戴起來，日頭恁烈。", pinyin: "song liˊ bai fadˋ seuˊ, iaˋ ha iu mˇ zogˋ samˊ! libˋ maˇ me dai hiˋ loiˇ, ngidˋ teuˇ anˋ ladˋ."}
-    hl: {hanzi: "上禮拜發燒，這下又毋著衫！笠嫲乜戴起來，日頭恁烈。", pinyin: "shong+ liˋ baiˇ fad shauˋ, liaˊ ha+ rhiu+ m zhog samˋ! lib ma meˇ daiˇ hiˊ loi, ngid teu anˊ lad."}
+    en: "Two days ago you had a fever, and now you won't wear a jacket! And put on your hat: the sun's strong."
+    sx: {hanzi: "前兩日發燒，這下又毋著衫！笠嫲乜戴起來，日頭恁烈。", pinyin: "qienˇ liongˋ ngidˋ fadˋ seuˊ, iaˋ ha iu mˇ zogˋ samˊ! libˋ maˇ me dai hiˋ loiˇ, ngidˋ teuˇ anˋ ladˋ."}
+    hl: {hanzi: "前兩日發燒，這下又毋著衫！笠嫲乜戴起來，日頭恁烈。", pinyin: "cien liongˊ ngid fad shauˋ, liaˊ ha+ rhiu+ m zhog samˋ! lib ma meˇ daiˇ hiˊ loi, ngid teu anˊ lad."}
   - n: 12
     speaker: Sam
     en: "Grandma, if we all do it together, we'll be done sooner."

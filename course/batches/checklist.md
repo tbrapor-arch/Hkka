@@ -61,3 +61,13 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Sixian "winter" is 寒天 (Hailu 冷天).
 - Keep a calendar for each batch: weekday of each lesson, who is at school or work.
 - 𫣆兜 + verb includes the listener: don't use it to leave a conversation with neighbours.
+
+## Added after the batch 6 review
+- An injection is 注射 (打針 is unattested).
+- No bare 毋 + adjective, ever: 毋會嚴重, 毋會譴.
+- 舊年 is always "last year"; "this year is nearly over" is 今年愛過忒了.
+- "Nice and fine" is 幼幼仔 (剁到幼幼仔), not 當幼. "Give it a stir" is 摝摝仔.
+- "Never (have done)" is 毋識 + V過 (你毋識講過), not 無 V過.
+- No claims about how long or short a character's lines are unless you have counted.
+- Check a rhyme on the Sixian finals as well as the Hailu ones (時 siiˇ / 知 diˊ only rhymes in Hailu).
+- 頭家 is the owner or boss, not the waiter (服務生).
