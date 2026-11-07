@@ -177,7 +177,7 @@ new_words:
   - {hanzi: 成功, pinyin: "siinˇ gungˊ", en: "succeed", hl: {hanzi: 成功, pinyin: "shin gungˋ"}}
   - {hanzi: 失敗, pinyin: "siidˋ pai", en: "fail", hl: {hanzi: 失敗, pinyin: "shid pai+"}}
   - {hanzi: 西裝, pinyin: "xiˊ zongˊ", en: "(Western) suit", hl: {hanzi: 西裝, pinyin: "siˋ zongˋ"}}
-  - {hanzi: 特別, pinyin: "tid pied", en: "specially, especially", hl: {hanzi: 特別, pinyin: "tidˋ pedˋ"}}
+  - {hanzi: 特別, pinyin: "tid pied", en: "specially, especially", hl: {hanzi: 特別, pinyin: "tidˋ piedˋ"}}
   - {hanzi: 全無, pinyin: "qionˇ moˇ", en: "none at all", hl: {hanzi: 全無, pinyin: "cion mo"}}
 
 exercises:
@@ -199,7 +199,7 @@ exercises:
       hl: {hanzi: "這件事當重要，千萬毋好毋記得。", pinyin: "liaˊ kien+ sii+ dongˋ chung+ rhauˇ, cienˋ van+ m hoˊ m giˇ ded."}
     - en: "Today he wore a suit specially, for the interview. Good luck!"
       sx: {hanzi: "佢今晡日為著參加面試，特別著西裝。祝佢好運！", pinyin: "giˇ gimˊ buˊ ngidˋ vi doˋ camˊ gaˊ mien cii, tid pied zogˋ xiˊ zongˊ. zugˋ giˇ hoˋ iun!"}
-      hl: {hanzi: "佢今晡日為著參加面試，特別著西裝。祝佢好運！", pinyin: "gi gimˋ buˋ ngid vui+ doˊ camˋ gaˋ mienˇ chiˇ, tidˋ pedˋ zhog siˋ zongˋ. zhug gi hoˊ rhun+!"}
+      hl: {hanzi: "佢今晡日為著參加面試，特別著西裝。祝佢好運！", pinyin: "gi gimˋ buˋ ngid vui+ doˊ camˋ gaˋ mienˇ chiˇ, tidˋ piedˋ zhog siˋ zongˋ. zhug gi hoˊ rhun+!"}
   fill:
     - en: "Are you silly, or what?"
       sx: {hanzi: "你戇___？", pinyin: "nˇ ngong ___?", answer_hanzi: "抑毋係", answer: "ia mˇ he"}
