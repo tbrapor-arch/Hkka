@@ -1,0 +1,191 @@
+id: 31
+title:
+  en: "A-in's birthday"
+  sx: {hanzi: "送分你个", pinyin: "sung bunˊ nˇ ge"}
+  hl: {hanzi: "送分你个", pinyin: "sungˇ bunˋ ngi gaiˇ"}
+review: false
+setting: >-
+  Saturday evening. A-in came home last night, and the whole family, Lucie included, is round the table for her
+  birthday. There are candles, and there is a small problem with the number of cakes.
+names: [阿英, 阿明, Lucie, 法國]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "Happy birthday, A-in!"
+    sx: {hanzi: "阿英，生日快樂！", pinyin: "aˊ inˊ, sangˊ ngidˋ kuai log!"}
+    hl: {hanzi: "阿英，生日快樂！", pinyin: "a+ rhinˋ, sangˋ ngid kuaiˇ logˋ!"}
+  - n: 2
+    speaker: 阿英
+    en: "Thank you! …Two cakes?"
+    sx: {hanzi: "恁仔細！……兩隻雞卵糕？", pinyin: "anˋ ziiˋ se! … liongˋ zagˋ gieˊ lonˋ gauˊ?"}
+    hl: {hanzi: "承蒙你！……兩隻雞卵糕？", pinyin: "shin mung ngi! … liongˊ zhag gaiˋ lonˊ gauˋ?"}
+  - n: 3
+    speaker: 阿明
+    en: "Sis, make a wish first, then blow!"
+    sx: {hanzi: "阿姊，先許願，正吹！", pinyin: "aˊ jiˋ, xienˊ hiˋ ngien, zang coiˊ!"}
+    hl: {hanzi: "阿姊，先許願，正吹！", pinyin: "a+ ze, senˋ hiˊ ngien+, zhangˇ chuiˋ!"}
+  - n: 4
+    speaker: 阿姆
+    en: "I bought one, and A-min bought one too."
+    sx: {hanzi: "𠊎買一隻，阿明乜買一隻。", pinyin: "ngaiˇ maiˊ idˋ zagˋ, aˊ minˇ me maiˊ idˋ zagˋ."}
+    hl: {hanzi: "𠊎買一隻，阿明乜買一隻。", pinyin: "ngai maiˋ rhid zhag, a+ min meˇ maiˋ rhid zhag."}
+  - n: 5
+    speaker: 阿明
+    en: "With money I borrowed from Sam."
+    sx: {hanzi: "錢係同 Sam 借个。", pinyin: "qienˇ he tungˇ Sam jia ge."}
+    hl: {hanzi: "錢係摎 Sam 借个。", pinyin: "cien heˇ lauˋ Sam ziaˇ gaiˇ."}
+  - n: 6
+    speaker: Sam
+    en: "That's right. Last week he lent me two hundred; this time I lent him five hundred."
+    sx: {hanzi: "係。上禮拜佢借分𠊎兩百，這擺𠊎借分佢五百。", pinyin: "he. song liˊ bai giˇ jia bunˊ ngaiˇ liongˋ bagˋ, iaˋ baiˋ ngaiˇ jia bunˊ giˇ ngˋ bagˋ."}
+    hl: {hanzi: "係。上禮拜佢借分𠊎兩百，這擺𠊎借分佢五百。", pinyin: "heˇ. shong+ liˋ baiˇ gi ziaˇ bunˋ ngai liongˊ bag, liaˊ baiˊ ngai ziaˇ bunˋ gi ngˊ bag."}
+  - n: 7
+    speaker: 阿英
+    en: "(laughing) You two…"
+    sx: {hanzi: "你兩儕……", pinyin: "nˇ liongˋ saˇ …"}
+    hl: {hanzi: "你兩儕……", pinyin: "ngi liongˊ sa …"}
+  - n: 8
+    speaker: Sam
+    en: "This is my present for you."
+    sx: {hanzi: "這係𠊎送分你个。", pinyin: "iaˋ he ngaiˇ sung bunˊ nˇ ge."}
+    hl: {hanzi: "這係𠊎送分你个。", pinyin: "liaˊ heˇ ngai sungˇ bunˋ ngi gaiˇ."}
+  - n: 9
+    speaker: 阿英
+    en: "Can I open it?"
+    sx: {hanzi: "做得打開無？", pinyin: "zo dedˋ daˋ koiˊ moˇ?"}
+    hl: {hanzi: "做得打開無？", pinyin: "zoˇ ded daˊ koiˋ mo?"}
+  - n: 10
+    speaker: Sam
+    en: "Of course! It's a book: a book in Hakka."
+    sx: {hanzi: "做得！一本書，客話个書。", pinyin: "zo dedˋ! idˋ bunˋ suˊ, hagˋ fa ge suˊ."}
+    hl: {hanzi: "做得！一本書，客話个書。", pinyin: "zoˇ ded! rhid bunˊ shuˋ, hag voiˋ gaiˇ shuˋ."}
+  - n: 11
+    speaker: 阿英
+    en: "A book of Hakka folk songs? Sam, you…"
+    sx: {hanzi: "客家山歌个書？Sam，你……", pinyin: "hagˋ gaˊ sanˊ goˊ ge suˊ? Sam, nˇ …"}
+    hl: {hanzi: "客家山歌个書？Sam，你……", pinyin: "hag gaˋ sanˋ goˋ gaiˇ shuˋ? Sam, ngi …"}
+  - n: 12
+    speaker: Sam
+    en: "Lucie has something for you too: sweets from France."
+    sx: {hanzi: "Lucie 乜有東西送分你：法國个糖仔。", pinyin: "Lucie me iuˊ dungˊ xiˊ sung bunˊ nˇ: fabˋ guedˋ ge tongˇ eˋ."}
+    hl: {hanzi: "Lucie 乜有東西送分你：法國个糖仔。", pinyin: "Lucie meˇ rhiuˋ dungˋ siˋ sungˇ bunˋ ngi: fab gued gaiˇ tong er."}
+  - n: 13
+    speaker: Lucie
+    en: "(in French) Happy birthday!"
+    sx: {hanzi: "Joyeux anniversaire !", pinyin: "Joyeux anniversaire !"}
+    hl: {hanzi: "Joyeux anniversaire !", pinyin: "Joyeux anniversaire !"}
+  - n: 14
+    speaker: 阿婆
+    en: "Twenty-six already… that's getting on! A-in, when are you going to get married?"
+    sx: {hanzi: "二十六歲了，老了……阿英，你幾時愛嫁？", pinyin: "ngi siib liugˋ se leˊ, loˋ leˊ … aˊ inˊ, nˇ giˋ siiˇ oi ga?"}
+    hl: {hanzi: "二十六歲了，老了……阿英，你幾時愛嫁？", pinyin: "ngi+ shibˋ liug soiˇ leˋ, loˊ leˋ … a+ rhinˋ, ngi giˊ shi oiˇ gaˇ?"}
+  - n: 15
+    speaker: 阿英
+    en: "Grandma!"
+    sx: {hanzi: "阿婆！", pinyin: "aˊ poˇ!"}
+    hl: {hanzi: "阿婆！", pinyin: "a+ po!"}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      生日快樂 "happy birthday", as in Mandarin; 快樂 kuai log "happy". A birthday party is 做生日: 阿姆做生日 "Mum is
+      having her birthday (party)".
+  - ref: 2
+    topic: grammar
+    text: >
+      兩隻雞卵糕 "two cakes": 兩 before a classifier, and 二 in numbers (二十六, line 14), exactly as in Mandarin 兩個 /
+      二十六. 雞卵糕 gieˊ lonˋ gauˊ "cake", literally "egg cake", the Hakka name for sponge cake and, by extension, any
+      cake.
+  - ref: 5
+    topic: grammar
+    text: >
+      同 + person + 借 "borrow from (someone)": 錢係同 Sam 借个 "the money was borrowed from Sam". The same 同 that is
+      "and", "with", and 把; here it marks where the money came from.
+  - ref: 6
+    topic: grammar
+    text: >
+      借分 + person + thing "lend (someone) something": 佢借分𠊎兩百 "he lent me two hundred". Verb + 分 makes "to
+      someone": 送分你 "give (as a present) to you" (line 8), 寄分 "send to" (lesson 30). An official example: 借分佢一本書
+      "lend him a book". 上禮拜 song liˊ bai "last week", the opposite of 下禮拜.
+  - ref: 8
+    topic: grammar
+    text: >
+      這係𠊎送分你个 "this is (the thing) I'm giving you": 个 at the end turns the clause into "the thing that…". 本
+      bunˋ classifier for books, as in Mandarin.
+  - ref: 11
+    topic: vocab
+    text: >
+      東西 dungˊ xiˊ "thing(s)", as in Mandarin: 有東西送分你 "has something to give you".
+  - ref: 3
+    topic: vocab
+    text: >
+      許願 hiˋ ngien "make a wish", 吹 coiˊ "blow (out)". 先…正… "first…, then…" from lesson 19. 阿姊 "big sis": A-min
+      calls his sister by her place in the family, not her name.
+  - ref: 14
+    topic: culture
+    text: >
+      幾時 giˋ siiˇ "when": 你幾時愛嫁？ "when are you going to get married?". Grandma asked the gods in lesson 23; now
+      she asks A-in directly, in front of everyone, on her birthday. Some questions are a grandmother's privilege. 老了 "getting old": 老 loˋ "old" (of people and things).
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 送分 sungˇ bunˋ, 借分 ziaˇ bunˋ, 幾時 giˊ shi, 上禮拜 shong+ liˋ baiˇ. The patterns with 分 are the same,
+      and Hailu also allows 分 + thing + person (分錢佢), which Sixian does not.
+
+new_words:
+  - {hanzi: 快樂, pinyin: "kuai log", en: "happy", hl: {hanzi: 快樂, pinyin: "kuaiˇ logˋ"}}
+  - {hanzi: 雞卵糕, pinyin: "gieˊ lonˋ gauˊ", en: "cake (sponge cake)", hl: {hanzi: 雞卵糕, pinyin: "gaiˋ lonˊ gauˋ"}}
+  - {hanzi: 上, pinyin: "song", en: "last (上禮拜 last week)", hl: {hanzi: 上, pinyin: "shong+"}}
+  - {hanzi: 本, pinyin: "bunˋ", en: "(classifier for books)", hl: {hanzi: 本, pinyin: "bunˊ"}}
+  - {hanzi: 客家, pinyin: "hagˋ gaˊ", en: "Hakka", hl: {hanzi: 客家, pinyin: "hag gaˋ"}}
+  - {hanzi: 東西, pinyin: "dungˊ xiˊ", en: "thing(s)", hl: {hanzi: 東西, pinyin: "dungˋ siˋ"}}
+  - {hanzi: 幾時, pinyin: "giˋ siiˇ", en: "when", hl: {hanzi: 幾時, pinyin: "giˊ shi"}}
+  - {hanzi: 做生日, pinyin: "zo sangˊ ngidˋ", en: "celebrate a birthday", hl: {hanzi: 做生日, pinyin: "zoˇ sangˋ ngid"}}
+  - {hanzi: 許願, pinyin: "hiˋ ngien", en: "make a wish", hl: {hanzi: 許願, pinyin: "hiˊ ngien+"}}
+  - {hanzi: 吹, pinyin: "coiˊ", en: "blow", hl: {hanzi: 吹, pinyin: "chuiˋ"}}
+  - {hanzi: 打開, pinyin: "daˋ koiˊ", en: "open", hl: {hanzi: 打開, pinyin: "daˊ koiˋ"}}
+  - {hanzi: 老, pinyin: "loˋ", en: "old", hl: {hanzi: 老, pinyin: "loˊ"}}
+  - {hanzi: 舊年, pinyin: "kiu ngienˇ", en: "last year", hl: {hanzi: 舊年, pinyin: "kiu+ ngien"}}
+  - {hanzi: 拍手, pinyin: "pogˋ suˋ", en: "clap (hands)", hl: {hanzi: 拍手, pinyin: "pog shiuˊ"}}
+  - {hanzi: 年, pinyin: "ngienˇ", en: "year", hl: {hanzi: 年, pinyin: "ngien"}}
+  - {hanzi: 細人仔, pinyin: "se nginˇ eˋ", en: "child", hl: {hanzi: 細人仔, pinyin: "seˇ ngin er"}}
+  - {hanzi: 歲數, pinyin: "se sii", en: "age", hl: {hanzi: 歲數, pinyin: "soiˇ siiˇ"}}
+  - {hanzi: 時錶仔, pinyin: "siiˇ beuˋ eˋ", en: "watch (wristwatch)", hl: {hanzi: 時錶, pinyin: "shi biauˊ"}}
+
+exercises:
+  translate:
+    - en: "Yesterday was Mum's birthday; we all bought her a watch together."
+      sx: {hanzi: "昨晡日阿姆做生日，大家共下買一隻時錶仔送分佢。", pinyin: "coˊ buˊ ngidˋ aˊ meˊ zo sangˊ ngidˋ, tai gaˊ kiung ha maiˊ idˋ zagˋ siiˇ beuˋ eˋ sung bunˊ giˇ."}
+      hl: {hanzi: "昨晡日阿姆做生日，大家共下買一隻時錶送分佢。", pinyin: "coˋ buˋ ngid a+ meˋ zoˇ sangˋ ngid, tai+ gaˋ kiung+ ha+ maiˋ rhid zhag shi biauˊ sungˇ bunˋ gi."}
+    - en: "Lend me your book."
+      sx: {hanzi: "若書借分𠊎。", pinyin: "ngiaˊ suˊ jia bunˊ ngaiˇ."}
+      hl: {hanzi: "若个書借分𠊎。", pinyin: "ngia gaiˇ shuˋ ziaˇ bunˋ ngai."}
+    - en: "When is your birthday?"
+      sx: {hanzi: "你个生日係幾時？", pinyin: "nˇ ge sangˊ ngidˋ he giˋ siiˇ?"}
+      hl: {hanzi: "你个生日係幾時？", pinyin: "ngi gaiˇ sangˋ ngid heˇ giˊ shi?"}
+    - en: "Grandpa is getting on in years: seventy-eight, with two grandchildren."
+      sx: {hanzi: "阿公歲數大了：七十八歲，有兩隻孫仔。", pinyin: "aˊ gungˊ se sii tai leˊ: qidˋ siib badˋ se, iuˊ liongˋ zagˋ sunˊ eˋ."}
+      hl: {hanzi: "阿公歲數大了：七十八歲，有兩隻孫仔。", pinyin: "a+ gungˋ soiˇ siiˇ tai+ leˋ: cid shibˋ bad soiˇ, rhiuˋ liongˊ zhag sunˋ er."}
+    - en: "Last week I borrowed money from A-min."
+      sx: {hanzi: "上禮拜𠊎同阿明借錢。", pinyin: "song liˊ bai ngaiˇ tungˇ aˊ minˇ jia qienˇ."}
+      hl: {hanzi: "上禮拜𠊎摎阿明借錢。", pinyin: "shong+ liˋ baiˇ ngai lauˋ a+ min ziaˇ cien."}
+    - en: "A birthday comes only once a year; everyone claps and sings."
+      sx: {hanzi: "生日一年正一擺，大家拍手唱歌。", pinyin: "sangˊ ngidˋ idˋ ngienˇ zang idˋ baiˋ, tai gaˊ pogˋ suˋ cong goˊ."}
+      hl: {hanzi: "生日一年正一擺，大家拍手唱歌。", pinyin: "sangˋ ngid rhid ngien zhangˇ rhid baiˊ, tai+ gaˋ pog shiuˊ chongˇ goˋ."}
+    - en: "Last year A-in was still a child; now she's twenty-six!"
+      sx: {hanzi: "舊年阿英還係細人仔，這下二十六歲了！", pinyin: "kiu ngienˇ aˊ inˊ hanˇ he se nginˇ eˋ, iaˋ ha ngi siib liugˋ se leˊ!"}
+      hl: {hanzi: "舊年阿英還係細人仔，這下二十六歲了！", pinyin: "kiu+ ngien a+ rhinˋ han heˇ seˇ ngin er, liaˊ ha+ ngi+ shibˋ liug soiˇ leˋ!"}
+  fill:
+    - en: "Two cakes."
+      sx: {hanzi: "___隻雞卵糕。", pinyin: "___ zagˋ gieˊ lonˋ gauˊ.", answer_hanzi: "兩", answer: "liongˋ"}
+      hl: {hanzi: "___隻雞卵糕。", pinyin: "___ zhag gaiˋ lonˊ gauˋ.", answer_hanzi: "兩", answer: "liongˊ"}
+    - en: "This is for you (a present)."
+      sx: {hanzi: "這係送___你个。", pinyin: "iaˋ he sung ___ nˇ ge.", answer_hanzi: "分", answer: "bunˊ"}
+      hl: {hanzi: "這係送___你个。", pinyin: "liaˊ heˇ sungˇ ___ ngi gaiˇ.", answer_hanzi: "分", answer: "bunˋ"}
+    - en: "When are you coming back?"
+      sx: {hanzi: "你___轉來？", pinyin: "nˇ ___ zonˋ loiˇ?", answer_hanzi: "幾時", answer: "giˋ siiˇ"}
+      hl: {hanzi: "你___轉來？", pinyin: "ngi ___ zhonˊ loi?", answer_hanzi: "幾時", answer: "giˊ shi"}
+
+audio: []

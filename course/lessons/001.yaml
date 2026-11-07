@@ -54,9 +54,9 @@ dialogue:
     hl: {hanzi: "Sam 毋係姓！", pinyin: "Sam m heˇ siangˇ!"}
   - n: 9
     speaker: Sam
-    en: "Right, right… My surname is Brown."
-    sx: {hanzi: "係，係……𠊎姓 Brown。", pinyin: "he, he… ngaiˇ xiang Brown."}
-    hl: {hanzi: "係，係……𠊎姓 Brown。", pinyin: "heˇ, heˇ… ngai siangˇ Brown."}
+    en: "Right, right… My surname is Martin."
+    sx: {hanzi: "係，係……𠊎姓 Martin。", pinyin: "he, he… ngaiˇ xiang Martin."}
+    hl: {hanzi: "係，係……𠊎姓 Martin。", pinyin: "heˇ, heˇ… ngai siangˇ Martin."}
 
 notes:
   - ref: 0

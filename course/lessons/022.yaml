@@ -32,9 +32,9 @@ dialogue:
     hl: {hanzi: "拜伯公，愛先講你个名，在哪位歇。", pinyin: "baiˇ bag gungˋ, oiˇ senˋ gongˊ ngi gaiˇ miang, coiˋ nai+ vui+ hied."}
   - n: 5
     speaker: Sam
-    en: "(eyes closed) 伯公, my surname is Brown, my name is Sam, I live at the Liu house."
-    sx: {hanzi: "伯公，𠊎姓 Brown，安到 Sam，在劉屋歇。", pinyin: "bagˋ gungˊ, ngaiˇ xiang Brown, onˊ do Sam, coiˊ liuˇ vugˋ hed."}
-    hl: {hanzi: "伯公，𠊎姓 Brown，安到 Sam，在劉屋歇。", pinyin: "bag gungˋ, ngai siangˇ Brown, onˋ doˇ Sam, coiˋ liu vug hied."}
+    en: "(eyes closed) 伯公, my surname is Martin, my name is Sam, I live at the Liu house."
+    sx: {hanzi: "伯公，𠊎姓 Martin，安到 Sam，在劉屋歇。", pinyin: "bagˋ gungˊ, ngaiˇ xiang Martin, onˊ do Sam, coiˊ liuˇ vugˋ hed."}
+    hl: {hanzi: "伯公，𠊎姓 Martin，安到 Sam，在劉屋歇。", pinyin: "bag gungˋ, ngai siangˇ Martin, onˋ doˇ Sam, coiˋ liu vug hied."}
   - n: 6
     speaker: 阿婆
     en: "(Sam is eyeing the mandarins on the altar) Don't eat those! 伯公 hasn't eaten yet!"

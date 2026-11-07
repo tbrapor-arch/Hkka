@@ -73,8 +73,8 @@ def segment(lex, acc, hanzi, pinyin, names, known=frozenset()):
     lists also contain the phrase."""
     msgs, out = [], []
     chars = hanzi_units(hanzi)
-    for latin in re.findall(r"[A-Za-z]+", hanzi):   # a name kept in Latin letters (Sam): same token in both lines
-        pinyin = re.sub(rf"\b{latin}\b", " ", pinyin, count=1)
+    for latin in re.findall(r"[A-Za-zÀ-ÿ]+", hanzi):   # a name kept in Latin letters (Sam): same token in both lines
+        pinyin = re.sub(rf"(?<![A-Za-zÀ-ÿ]){latin}(?![A-Za-zÀ-ÿ])", " ", pinyin, count=1)
     sylls = py.syllables(pinyin, acc)
     if len(chars) != len(sylls):
         return out, [("E", f"{len(chars)} characters but {len(sylls)} syllables: cannot align")]

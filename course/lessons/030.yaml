@@ -1,0 +1,167 @@
+id: 30
+title:
+  en: "At the post office"
+  sx: {hanzi: "寄茶米分吾爸吾姆", pinyin: "gi caˇ miˋ bunˊ ngaˊ baˊ ngaˊ meˊ"}
+  hl: {hanzi: "寄茶米分𠊎爸𠊎姆", pinyin: "giˇ ca miˊ bunˋ ngai baˋ ngai meˋ"}
+review: false
+setting: >-
+  Tuesday afternoon, the post office in 苗栗 town. Lucie has gone to the night market with A-in's old school friend;
+  Sam is sending a box of the family's tea home to France, and A-min has come along for no clear reason.
+names: [法國, 苗栗, 阿英, 阿明, Lucie]
+
+dialogue:
+  - n: 1
+    speaker: 職員
+    en: "Next, please. What would you like to send?"
+    sx: {hanzi: "來，你愛寄麼个？", pinyin: "loiˇ, nˇ oi gi maˋ ge?"}
+    hl: {hanzi: "來，你愛寄麼个？", pinyin: "loi, ngi oiˇ giˇ maˊ gaiˇ?"}
+  - n: 2
+    speaker: Sam
+    en: "I'd like to send this box of tea to my parents."
+    zh: "我要寄這箱茶葉給我爸媽。"
+    sx: {hanzi: "𠊎愛寄這箱茶米分吾爸吾姆。", pinyin: "ngaiˇ oi gi iaˋ xiongˊ caˇ miˋ bunˊ ngaˊ baˊ ngaˊ meˊ."}
+    hl: {hanzi: "𠊎愛寄這箱茶米分𠊎爸𠊎姆。", pinyin: "ngai oiˇ giˇ liaˊ siongˋ ca miˊ bunˋ ngai baˋ ngai meˋ."}
+  - n: 3
+    speaker: 職員
+    en: "Where to?"
+    sx: {hanzi: "寄去哪位？", pinyin: "gi hi nai vi?"}
+    hl: {hanzi: "寄去哪位？", pinyin: "giˇ hiˇ nai+ vui+?"}
+  - n: 4
+    speaker: Sam
+    en: "France."
+    sx: {hanzi: "法國。", pinyin: "fabˋ guedˋ."}
+    hl: {hanzi: "法國。", pinyin: "fab gued."}
+  - n: 5
+    speaker: 職員
+    en: "(weighing it) Three kilos. The faster way, or the cheaper way?"
+    sx: {hanzi: "三公斤。愛較遽个，抑係較便宜个？", pinyin: "samˊ gungˊ ginˊ. oi ka giagˋ ge, ia he ka pienˇ ngiˇ ge?"}
+    hl: {hanzi: "三公斤。愛較遽个，抑係較便宜个？", pinyin: "samˋ gungˋ ginˋ. oiˇ haˇ giag gaiˇ, rha+ heˇ haˇ pien ngi gaiˇ?"}
+  - n: 6
+    speaker: Sam
+    en: "The faster one. Can it get there next week?"
+    sx: {hanzi: "較遽个。下禮拜做得到無？", pinyin: "ka giagˋ ge. ha liˊ bai zo dedˋ do moˇ?"}
+    hl: {hanzi: "較遽个。下禮拜做得到無？", pinyin: "haˇ giag gaiˇ. ha+ liˋ baiˇ zoˇ ded doˇ mo?"}
+  - n: 7
+    speaker: 職員
+    en: "Yes, by plane. One thousand eight hundred."
+    sx: {hanzi: "做得，坐飛行機。一千八。", pinyin: "zo dedˋ, coˊ biˊ hangˇ giˊ. idˋ qienˊ badˋ."}
+    hl: {hanzi: "做得，坐飛行機。一千八。", pinyin: "zoˇ ded, coˋ fuiˋ hang giˋ. rhid cienˋ bad."}
+  - n: 8
+    speaker: Sam
+    en: "(counting his money) …A-min, have you got two hundred?"
+    sx: {hanzi: "……阿明，你有兩百無？", pinyin: "… aˊ minˇ, nˇ iuˊ liongˋ bagˋ moˇ?"}
+    hl: {hanzi: "……阿明，你有兩百無？", pinyin: "… a+ min, ngi rhiuˋ liongˊ bag mo?"}
+  - n: 9
+    speaker: 阿明
+    en: "(handing it over) I'll give you two hundred… and you'll pay me back!"
+    sx: {hanzi: "𠊎分你兩百……愛還𠊎！", pinyin: "ngaiˇ bunˊ nˇ liongˋ bagˋ … oi vanˇ ngaiˇ!"}
+    hl: {hanzi: "𠊎分你兩百……愛還𠊎！", pinyin: "ngai bunˋ ngi liongˊ bag … oiˇ van ngai!"}
+  - n: 10
+    speaker: 職員
+    en: "And this card?"
+    sx: {hanzi: "還有，這張卡片呢？", pinyin: "hanˇ iuˊ, iaˋ zongˊ kaˋ pienˋ neˇ?"}
+    hl: {hanzi: "還有，這張卡片呢？", pinyin: "han rhiuˋ, liaˊ zhongˋ kaˊ pienˊ neˇ?"}
+  - n: 11
+    speaker: Sam
+    en: "This card's for A-in. Her birthday's on Saturday."
+    sx: {hanzi: "這張卡片愛寄分阿英。佢禮拜六生日。", pinyin: "iaˋ zongˊ kaˋ pienˋ oi gi bunˊ aˊ inˊ. giˇ liˊ bai liugˋ sangˊ ngidˋ."}
+    hl: {hanzi: "這張卡片愛寄分阿英。佢禮拜六生日。", pinyin: "liaˊ zhongˋ kaˊ pienˊ oiˇ giˇ bunˋ a+ rhinˋ. gi liˋ baiˇ liug sangˋ ngid."}
+  - n: 12
+    speaker: 阿明
+    en: "Why post it? She's coming home on Friday!"
+    sx: {hanzi: "做麼个愛寄？佢禮拜五就轉來了！", pinyin: "zo maˋ ge oi gi? giˇ liˊ bai ngˋ qiu zonˋ loiˇ leˊ!"}
+    hl: {hanzi: "做麼个愛寄？佢禮拜五就轉來了！", pinyin: "zoˇ maˊ gaiˇ oiˇ giˇ? gi liˋ baiˇ ngˊ ciu+ zhonˊ loi leˋ!"}
+  - n: 13
+    speaker: Sam
+    en: "…No need to post it, then."
+    sx: {hanzi: "……毋使寄了。", pinyin: "… mˇ siiˋ gi leˊ."}
+    hl: {hanzi: "……毋使寄了。", pinyin: "… m siiˊ giˇ leˋ."}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      寄 gi "send (by post)". Sending something to someone: 寄 + thing + 分 + person, 寄這箱茶米分吾爸吾姆 "send this box
+      of tea to my parents". 分 bunˊ, "give" in lesson 24, here means "to (someone)". Line 11 puts it right after the
+      verb: 寄分阿英 "send to A-in". 茶米 caˇ miˋ "tea leaves", literally "tea rice"; 箱 xiongˊ "box" as a measure.
+  - ref: 5
+    topic: vocab
+    text: >
+      遽 giagˋ "fast, quick" (快): 較遽个 "the faster one", and 遽遽 "quick!" (lesson 9) is it doubled. 抑係 "or" in a
+      question (lesson 18). 公斤 gungˊ ginˊ "kilogram", to keep apart from the 斤 of the market (600 g).
+  - ref: 7
+    topic: vocab
+    text: >
+      飛行機 biˊ hangˇ giˊ "aeroplane", the old Hakka word (Mandarin 飛機); note 飛 biˊ, the old b- that Mandarin f- hides
+      (Lesson 0, §6). You "sit" a plane: 坐飛行機.
+  - ref: 9
+    topic: grammar
+    text: >
+      分 + person + thing: 𠊎分你兩百 "I'll give you two hundred". 還 vanˇ "give back, pay back", the same character as
+      還 hanˇ "still", read differently. A-min is fourteen and knows exactly what two hundred dollars is.
+  - ref: 10
+    topic: vocab
+    text: >
+      呢 neˇ at the end of a question: "and…?, what about…?": 這張卡片呢？ "and this card?". 卡片 kaˋ pienˋ "card".
+  - ref: 11
+    topic: vocab
+    text: >
+      生日 sangˊ ngidˋ "birthday": 生 is sangˊ here, the everyday reading (the learned one is senˊ, as in 生理, lesson 16).
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 飛行機 fuiˋ hang giˋ (with f-), 寄 giˇ, 遽 giag, 還 van. "My parents" is 𠊎爸𠊎姆.
+
+new_words:
+  - {hanzi: 寄, pinyin: "gi", en: "send (by post)", hl: {hanzi: 寄, pinyin: "giˇ"}}
+  - {hanzi: 箱, pinyin: "xiongˊ", en: "box (as a measure)", hl: {hanzi: 箱, pinyin: "siongˋ"}}
+  - {hanzi: 茶米, pinyin: "caˇ miˋ", en: "tea leaves", hl: {hanzi: 茶米, pinyin: "ca miˊ"}}
+  - {hanzi: 公斤, pinyin: "gungˊ ginˊ", en: "kilogram", hl: {hanzi: 公斤, pinyin: "gungˋ ginˋ"}}
+  - {hanzi: 遽, pinyin: "giagˋ", en: "fast, quick", hl: {hanzi: 遽, pinyin: "giag"}}
+  - {hanzi: 飛行機, pinyin: "biˊ hangˇ giˊ", en: "aeroplane", hl: {hanzi: 飛行機, pinyin: "fuiˋ hang giˋ"}}
+  - {hanzi: 還, pinyin: "vanˇ", en: "give back, pay back", hl: {hanzi: 還, pinyin: "van"}}
+  - {hanzi: 呢, pinyin: "neˇ", en: "(question) and…?, what about…?", hl: {hanzi: 呢, pinyin: "neˇ"}}
+  - {hanzi: 卡片, pinyin: "kaˋ pienˋ", en: "card", hl: {hanzi: 卡片, pinyin: "kaˊ pienˊ"}}
+  - {hanzi: 生日, pinyin: "sangˊ ngidˋ", en: "birthday", hl: {hanzi: 生日, pinyin: "sangˋ ngid"}}
+  - {hanzi: 郵局, pinyin: "iuˇ kiug", en: "post office", hl: {hanzi: 郵局, pinyin: "rhiu kiugˋ"}}
+  - {hanzi: 郵票, pinyin: "iuˇ peuˊ", en: "stamp", hl: {hanzi: 郵票, pinyin: "rhiu piauˇ"}}
+  - {hanzi: 重, pinyin: "cungˊ", en: "heavy", hl: {hanzi: 重, pinyin: "chungˋ"}}
+  - {hanzi: 輕, pinyin: "kiangˊ", en: "light (not heavy)", hl: {hanzi: 輕, pinyin: "kiangˋ"}}
+  - {hanzi: 箱仔, pinyin: "xiongˊ eˋ", en: "box", hl: {hanzi: 箱仔, pinyin: "siongˋ er"}}
+  - {hanzi: 船, pinyin: "sonˇ", en: "ship, boat", hl: {hanzi: 船, pinyin: "shon"}}
+  - {hanzi: 妹仔, pinyin: "moi eˋ", en: "daughter", hl: {hanzi: 妹仔, pinyin: "moiˇ er"}}
+  - {hanzi: 信, pinyin: "xin", en: "letter", hl: {hanzi: 信, pinyin: "sinˇ"}}
+  - {hanzi: 借, pinyin: "jia", en: "lend, borrow", hl: {hanzi: 借, pinyin: "ziaˇ"}}
+
+exercises:
+  translate:
+    - en: "Mrs Liu sends her daughter a box of mandarins."
+      sx: {hanzi: "阿姆寄一箱柑仔分厥妹仔。", pinyin: "aˊ meˊ gi idˋ xiongˊ gamˊ eˋ bunˊ giaˊ moi eˋ."}
+      hl: {hanzi: "阿姆寄一箱柑仔分厥妹仔。", pinyin: "a+ meˋ giˇ rhid siongˋ gamˋ er bunˋ gia moiˇ er."}
+    - en: "This box is very heavy; that one's light."
+      sx: {hanzi: "這隻箱仔當重，該隻當輕。", pinyin: "iaˋ zagˋ xiongˊ eˋ dongˊ cungˊ, ge zagˋ dongˊ kiangˊ."}
+      hl: {hanzi: "這隻箱仔當重，該隻當輕。", pinyin: "liaˊ zhag siongˋ er dongˋ chungˋ, gai zhag dongˋ kiangˋ."}
+    - en: "By plane or by boat?"
+      sx: {hanzi: "坐飛行機，抑係坐船？", pinyin: "coˊ biˊ hangˇ giˊ, ia he coˊ sonˇ?"}
+      hl: {hanzi: "坐飛行機，抑係坐船？", pinyin: "coˋ fuiˋ hang giˋ, rha+ heˇ coˋ shon?"}
+    - en: "A-min lent Sam two hundred. Sam has to pay him back."
+      sx: {hanzi: "阿明借 Sam 兩百。Sam 愛還佢。", pinyin: "aˊ minˇ jia Sam liongˋ bagˋ. Sam oi vanˇ giˇ."}
+      hl: {hanzi: "阿明借 Sam 兩百。Sam 愛還佢。", pinyin: "a+ min ziaˇ Sam liongˊ bag. Sam oiˇ van gi."}
+    - en: "Is there a post office near here? I want to buy stamps."
+      sx: {hanzi: "這位有郵局無？𠊎愛買郵票。", pinyin: "iaˋ vi iuˊ iuˇ kiug moˇ? ngaiˇ oi maiˊ iuˇ peuˊ."}
+      hl: {hanzi: "這位有郵局無？𠊎愛買郵票。", pinyin: "liaˊ vui+ rhiuˋ rhiu kiugˋ mo? ngai oiˇ maiˋ rhiu piauˇ."}
+    - en: "Lucie writes her mum a letter."
+      sx: {hanzi: "Lucie 寫一張信分厥姆。", pinyin: "Lucie xiaˋ idˋ zongˊ xin bunˊ giaˊ meˊ."}
+      hl: {hanzi: "Lucie 寫一張信分厥姆。", pinyin: "Lucie siaˊ rhid zhongˋ sinˇ bunˋ gia meˋ."}
+  fill:
+    - en: "Send it to my mum."
+      sx: {hanzi: "寄___吾姆。", pinyin: "gi ___ ngaˊ meˊ.", answer_hanzi: "分", answer: "bunˊ"}
+      hl: {hanzi: "寄___𠊎姆。", pinyin: "giˇ ___ ngai meˋ.", answer_hanzi: "分", answer: "bunˋ"}
+    - en: "And you? (what about you?)"
+      sx: {hanzi: "你___？", pinyin: "nˇ ___?", answer_hanzi: "呢", answer: "neˇ"}
+      hl: {hanzi: "你___？", pinyin: "ngi ___?", answer_hanzi: "呢", answer: "neˇ"}
+    - en: "Pay me back!"
+      sx: {hanzi: "___𠊎！", pinyin: "___ ngaiˇ!", answer_hanzi: "還", answer: "vanˇ"}
+      hl: {hanzi: "___𠊎！", pinyin: "___ ngai!", answer_hanzi: "還", answer: "van"}
+
+audio: []

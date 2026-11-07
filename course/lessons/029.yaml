@@ -1,0 +1,175 @@
+id: 29
+title:
+  en: "Strawberries in 大湖"
+  sx: {hanzi: "緊食", pinyin: "ginˋ siid"}
+  hl: {hanzi: "緊食", pinyin: "ginˊ shidˋ"}
+review: false
+setting: >-
+  Monday. Sam's sister Lucie arrived from France last night and speaks no Chinese at all. The family drives her up to 大湖, in the
+  hills south-east of Miaoli, where the strawberries are in season from December. Sam interprets; Grandma doesn't wait
+  for him.
+names: [大湖, Lucie, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "Here, one basket each. Pick only the red ones, not the green ones."
+    sx: {hanzi: "來，一儕一隻菜籃。紅个正好摘，青个莫摘。", pinyin: "loiˇ, idˋ saˇ idˋ zagˋ coi lamˇ. fungˇ ge zang hoˋ zagˋ, qiangˊ ge mog zagˋ."}
+    hl: {hanzi: "來，一儕一隻菜籃。紅个正好摘，青个莫摘。", pinyin: "loi, rhid sa rhid zhag coiˇ lam. fung gaiˇ zhangˇ hoˊ zag, ciangˋ gaiˇ mogˋ zag."}
+  - n: 2
+    speaker: Lucie
+    en: "(in French) Wow, they're huge!"
+    sx: {hanzi: "Ouah, elles sont énormes !", pinyin: "Ouah, elles sont énormes !"}
+    hl: {hanzi: "Ouah, elles sont énormes !", pinyin: "Ouah, elles sont énormes !"}
+  - n: 3
+    speaker: Sam
+    en: "She says the strawberries are so big!"
+    sx: {hanzi: "佢講，草莓恁大粒！", pinyin: "giˇ gongˋ, coˋ moiˇ anˋ tai liab!"}
+    hl: {hanzi: "佢講，草莓恁大粒！", pinyin: "gi gongˊ, coˊ moi anˊ tai+ liab!"}
+  - n: 4
+    speaker: 阿婆
+    en: "The big ones are sweeter. Lucie, eat! Eat!"
+    sx: {hanzi: "大粒个較甜。Lucie，食！食！", pinyin: "tai liab ge ka tiamˇ. Lucie, siid! siid!"}
+    hl: {hanzi: "大粒个較甜。Lucie，食！食！", pinyin: "tai+ liab gaiˇ haˇ tiam. Lucie, shidˋ! shidˋ!"}
+  - n: 5
+    speaker: Sam
+    en: "(after Lucie has whispered to him) She's asking if she can eat them here."
+    sx: {hanzi: "佢問，在這做得食無？", pinyin: "giˇ mun, coiˊ iaˋ zo dedˋ siid moˇ?"}
+    hl: {hanzi: "佢問，在這做得食無？", pinyin: "gi munˇ, coiˋ liaˊ zoˇ ded shidˋ mo?"}
+  - n: 6
+    speaker: 阿姆
+    en: "She can. But look at A-min: he keeps eating, and his basket is still empty!"
+    sx: {hanzi: "做得。你看阿明，佢緊食，菜籃還係空个！", pinyin: "zo dedˋ. nˇ kon aˊ minˇ, giˇ ginˋ siid, coi lamˇ hanˇ he kungˊ ge!"}
+    hl: {hanzi: "做得。你看阿明，佢緊食，菜籃還係空个！", pinyin: "zoˇ ded. ngi konˇ a+ min, gi ginˊ shidˋ, coiˇ lam han heˇ kungˋ gaiˇ!"}
+  - n: 7
+    speaker: 阿明
+    en: "(holding his basket, mouth full) I'm testing whether they're sweet!"
+    sx: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngaiˇ naˊ denˋ coi lamˇ, du ge cii tiamˇ moˇ!"}
+    hl: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngai naˋ nenˊ coiˇ lam, diˇ gai chiˇ tiam mo!"}
+  - n: 8
+    speaker: 阿婆
+    en: "Strawberries only come in winter. Pick a few more!"
+    sx: {hanzi: "寒天正有草莓。摘加兜仔！", pinyin: "honˇ tienˊ zang iuˊ coˋ moiˇ. zagˋ gaˊ deuˊ eˋ!"}
+    hl: {hanzi: "冷天正有草莓。摘加兜仔！", pinyin: "langˋ tienˋ zhangˇ rhiuˋ coˊ moi. zag gaˋ deuˋ er!"}
+  - n: 9
+    speaker: 頭家
+    en: "(at the scales) Two and a half catties: five hundred. Lucie's taking photos? Come on, I'll take one of you all!"
+    sx: {hanzi: "兩斤半，五百。Lucie 在該翕相？來，𠊎同你兜翕一張！", pinyin: "liongˋ ginˊ ban, ngˋ bagˋ. Lucie du ge hibˋ xiong? loiˇ, ngaiˇ tungˇ nˇ deuˊ hibˋ idˋ zongˊ!"}
+    hl: {hanzi: "兩斤半，五百。Lucie 在該翕相？來，𠊎摎你兜翕一張！", pinyin: "liongˊ ginˋ banˇ, ngˊ bag. Lucie diˇ gai hib siongˇ? loi, ngai lauˋ ngi deuˋ hib rhid zhongˋ!"}
+  - n: 10
+    speaker: 阿婆
+    en: "(pointing at A-min) Don't count what that boy ate!"
+    sx: {hanzi: "該隻倈仔食个毋使算！", pinyin: "ge zagˋ lai eˋ siid ge mˇ siiˋ son!"}
+    hl: {hanzi: "該隻倈仔食个毋使算！", pinyin: "gai zhag laiˇ er shidˋ gaiˇ m siiˊ sonˇ!"}
+  - n: 11
+    speaker: 頭家
+    en: "(laughing) What he ate, I'll count as one catty!"
+    sx: {hanzi: "佢食个，算一斤！", pinyin: "giˇ siid ge, son idˋ ginˊ!"}
+    hl: {hanzi: "佢食个，算一斤！", pinyin: "gi shidˋ gaiˇ, sonˇ rhid ginˋ!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      大湖 (Dahu), in the hills of Miaoli county, is Taiwan's strawberry town: pick-your-own farms, strawberry
+      festivals, strawberry everything. The season runs from about December to April, the cold months; Grandma's
+      line 8 is literally true.
+  - ref: 1
+    topic: grammar
+    text: >
+      紅个正好摘 "only the red ones are ready to pick": 好 hoˋ + verb is "fit to, ready to", and 正 "only then"
+      (lesson 16). 青个 "the green ones", that is, unripe: 青 is the colour of anything not yet ripe. 摘 zagˋ "pick";
+      菜籃 coi lamˇ "basket" (a vegetable basket); 一儕一隻 "one each".
+  - ref: 3
+    topic: grammar
+    text: >
+      Sam reports: 佢講… "she says…", 佢問… "she asks…" (line 5). No change of tense or pronoun is needed; Hakka, like
+      Mandarin, just puts the words after 講 or 問. 大粒 "big (of round things)": the classifier 粒 doubles as the
+      size word. 草莓 coˋ moiˇ "strawberry".
+  - ref: 6
+    topic: grammar
+    text: >
+      緊 ginˋ + verb "keep on (doing)": 佢緊食 "he keeps eating". An official example: 你緊食肉毋食菜 "you keep eating
+      meat and no vegetables". 空 kungˊ "empty"; 空个 "an empty one".
+  - ref: 7
+    topic: grammar
+    text: >
+      Verb + 等 denˋ "while (holding, wearing, sitting…)": 拿等菜籃 "with the basket in his hand", the Mandarin 著 in
+      拿著. 戴等帽仔 "wearing a hat", 坐等 "sitting". It describes the state an action leaves you in. 試 cii "try,
+      test": 試甜無 "try whether (it's) sweet". 拿 naˊ "take, hold".
+  - ref: 8
+    topic: grammar
+    text: >
+      寒天 honˇ tienˊ "winter" (Hailu 冷天). 摘加兜仔 "pick a few more": 加 "more" goes after the verb, 摘加 "pick more".
+      Hakka puts some of these little words after the verb where Mandarin puts them before (多摘一點); lesson 38 has
+      more of them. 項 hong after a noun is "on, in": 田項 "in the field", 桌仔項 "on the table".
+  - ref: 9
+    topic: vocab
+    text: >
+      翕相 hibˋ xiong "take a photo" (照相); 翕一張 "take one", with 張 zongˊ, the classifier for flat things (photos,
+      sheets of paper, tables). 同你兜翕 "take (one) for you all": 同 + person "for", as in lesson 22.
+  - ref: 10
+    topic: vocab
+    text: >
+      倈仔 lai eˋ "boy; son". 食个 "what (he) ate": 个 after a verb makes "the thing that…", as 紅个 made "the red
+      ones". 毋使算 "no need to count it", that is, don't charge for it.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 等 after a verb is nenˊ (拿等 naˋ nenˊ), and 寒天 is 冷天. 緊 ginˊ, 試 chiˇ.
+
+new_words:
+  - {hanzi: 菜籃, pinyin: "coi lamˇ", en: "basket", hl: {hanzi: 菜籃, pinyin: "coiˇ lam"}}
+  - {hanzi: 摘, pinyin: "zagˋ", en: "pick (fruit, leaves)", hl: {hanzi: 摘, pinyin: "zag"}}
+  - {hanzi: 草莓, pinyin: "coˋ moiˇ", en: "strawberry", hl: {hanzi: 草莓, pinyin: "coˊ moi"}}
+  - {hanzi: 緊, pinyin: "ginˋ", en: "keep on (doing)", hl: {hanzi: 緊, pinyin: "ginˊ"}}
+  - {hanzi: 空, pinyin: "kungˊ", en: "empty", hl: {hanzi: 空, pinyin: "kungˋ"}}
+  - {hanzi: 拿, pinyin: "naˊ", en: "take, hold", hl: {hanzi: 拿, pinyin: "naˋ"}}
+  - {hanzi: 試, pinyin: "cii", en: "try, test", hl: {hanzi: 試, pinyin: "chiˇ"}}
+  - {hanzi: 寒天, pinyin: "honˇ tienˊ", en: "winter", hl: {hanzi: 冷天, pinyin: "langˋ tienˋ"}}
+  - {hanzi: 倈仔, pinyin: "lai eˋ", en: "boy; son", hl: {hanzi: 倈仔, pinyin: "laiˇ er"}}
+  - {hanzi: 戴, pinyin: "dai", en: "wear (a hat, glasses, a watch)", hl: {hanzi: 戴, pinyin: "daiˇ"}}
+  - {hanzi: 帽仔, pinyin: "mo eˋ", en: "hat", hl: {hanzi: 帽仔, pinyin: "mo+ er"}}
+  - {hanzi: 田, pinyin: "tienˇ", en: "field (rice field)", hl: {hanzi: 田, pinyin: "tien"}}
+  - {hanzi: 果子, pinyin: "goˋ ziiˋ", en: "fruit", hl: {hanzi: 果子, pinyin: "goˊ ziiˊ"}}
+  - {hanzi: 熟, pinyin: "sug", en: "ripe; cooked", hl: {hanzi: 熟, pinyin: "shugˋ"}}
+  - {hanzi: 翕相, pinyin: "hibˋ xiong", en: "take a photo", hl: {hanzi: 翕相, pinyin: "hib siongˇ"}}
+  - {hanzi: 翕, pinyin: "hibˋ", en: "take (a photo)", hl: {hanzi: 翕, pinyin: "hib"}}
+  - {hanzi: 張, pinyin: "zongˊ", en: "(classifier for flat things: photos, paper, tables)", hl: {hanzi: 張, pinyin: "zhongˋ"}}
+  - {hanzi: 項, pinyin: "hong", en: "on, in (after a noun: 田項, 桌項)", hl: {hanzi: 項, pinyin: "hong+"}}
+  - {hanzi: 車, pinyin: "caˊ", en: "car, vehicle", hl: {hanzi: 車, pinyin: "chaˋ"}}
+  - {hanzi: 桌仔, pinyin: "zogˋ eˋ", en: "table", hl: {hanzi: 桌, pinyin: "zog"}}
+  - {hanzi: 揹, pinyin: "baˇ", en: "carry on the back", hl: {hanzi: 揹, pinyin: "ba"}}
+
+exercises:
+  translate:
+    - en: "Grandma is wearing a hat and carrying a basket."
+      sx: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "aˊ poˇ dai denˋ mo eˋ, naˊ denˋ coi lamˇ."}
+      hl: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "a+ po daiˇ nenˊ mo+ er, naˋ nenˊ coiˇ lam."}
+    - en: "Don't keep eating sweets!"
+      sx: {hanzi: "莫緊食糖仔！", pinyin: "mog ginˋ siid tongˇ eˋ!"}
+      hl: {hanzi: "莫緊食糖仔！", pinyin: "mogˋ ginˊ shidˋ tong er!"}
+    - en: "The green ones aren't ripe yet."
+      sx: {hanzi: "青个還吂熟。", pinyin: "qiangˊ ge hanˇ mangˇ sug."}
+      hl: {hanzi: "青个還吂熟。", pinyin: "ciangˋ gaiˇ han mang shugˋ."}
+    - en: "Grandpa's son carries the vegetables on his back to the field."
+      sx: {hanzi: "阿公个倈仔揹等菜去田項。", pinyin: "aˊ gungˊ ge lai eˋ baˇ denˋ coi hi tienˇ hong."}
+      hl: {hanzi: "阿公个倈仔揹等菜去田項。", pinyin: "a+ gungˋ gaiˇ laiˇ er ba nenˊ coiˇ hiˇ tien hong+."}
+    - en: "Try it! Winter fruit is very sweet."
+      sx: {hanzi: "試看！寒天个果子當甜。", pinyin: "cii kon! honˇ tienˊ ge goˋ ziiˋ dongˊ tiamˇ."}
+      hl: {hanzi: "試看！冷天个果子當甜。", pinyin: "chiˇ konˇ! langˋ tienˋ gaiˇ goˊ ziiˊ dongˋ tiam."}
+    - en: "Grandpa sat in the car; the strawberries are on the table."
+      sx: {hanzi: "阿公坐等車項，草莓在桌仔項。", pinyin: "aˊ gungˊ coˊ denˋ caˊ hong, coˋ moiˇ coiˊ zogˋ eˋ hong."}
+      hl: {hanzi: "阿公坐等車項，草莓在桌項。", pinyin: "a+ gungˋ coˋ nenˊ chaˋ hong+, coˊ moi coiˋ zog hong+."}
+  fill:
+    - en: "He keeps eating."
+      sx: {hanzi: "佢___食。", pinyin: "giˇ ___ siid.", answer_hanzi: "緊", answer: "ginˋ"}
+      hl: {hanzi: "佢___食。", pinyin: "gi ___ shidˋ.", answer_hanzi: "緊", answer: "ginˊ"}
+    - en: "Holding the basket."
+      sx: {hanzi: "拿___菜籃。", pinyin: "naˊ ___ coi lamˇ.", answer_hanzi: "等", answer: "denˋ"}
+      hl: {hanzi: "拿___菜籃。", pinyin: "naˋ ___ coiˇ lam.", answer_hanzi: "等", answer: "nenˊ"}
+    - en: "Pick a few more!"
+      sx: {hanzi: "摘___兜仔！", pinyin: "zagˋ ___ deuˊ eˋ!", answer_hanzi: "加", answer: "gaˊ"}
+      hl: {hanzi: "摘___兜仔！", pinyin: "zag ___ deuˋ er!", answer_hanzi: "加", answer: "gaˋ"}
+
+audio: []
