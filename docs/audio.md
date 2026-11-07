@@ -34,6 +34,17 @@ go under the course's CC BY-SA. Keep TTS audio out of the content licence; say s
 
 **Feed pinyin, not characters**: we control readings (文白) and apply sandhi ourselves (`tools/sandhi.py`).
 
+## First VoxHakka test (2026-11-07)
+- Runs on CPU in the cloud session (Python 3.11, `TTS==0.22.0`, `formog2p`; download with `HF_HUB_DISABLE_XET=1`).
+  18 speakers, 8 of them from Miaoli (e.g. 江芮敏 F, 朱品諭 M), which suits Sam's Miaoli backdrop.
+- **Its character reader is not reliable enough**: on the 477 基礎級 words it knows, it gives the official reading for
+  414 (87%), and misses exactly the grammar words: 人 min24, 好 hau55, 會 fi55, 吾 ng11, 若 na55, 個 gai55, 較 gau31;
+  no sandhi, no 仔 → eˇ.
+- **Feeding our own pinyin works**: syllable → IPA table built from formog2p's Sixian lexicons; sandhi applied
+  before synthesis (天光日 tien11 gong24). So `tools/tts.py` takes the lesson's pinyin + `tools/sandhi.py`, never
+  the characters.
+- Still to judge by ear, and against the real recordings once `audio-115` is up.
+
 ## Checking quality without a native speaker
 1. **Against real recordings**: synthesize official example sentences (we have their real audio) and compare,
    by ear and by the recogniser below.
@@ -43,6 +54,6 @@ go under the course's CC BY-SA. Keep TTS audio out of the content licence; say s
 
 ## Next
 1. Finish the `audio-115` upload; map file names to word ids and example ids; convert to Opus/AAC for the app.
-2. Test VoxHakka on ~20 official example sentences (Sixian), compare with the real recordings.
+2. Compare VoxHakka (pinyin input) with the real recordings of the same official example sentences.
 3. Find the 客委會 TTS API key procedure and terms; test it on the same sentences.
 4. Pick the engine; write `tools/tts.py` (pinyin + sandhi in, cached audio out, keyed by text hash).
