@@ -75,10 +75,12 @@ $ok = 0; $fail = 0
 foreach ($f in $files) {
   $dest = Join-Path $out $f[1]
   if ((Test-Path $dest) -and ((Get-Item $dest).Length -gt 0)) { Write-Host "have $($f[1])"; $ok++; continue }
+  $part = "$dest.part"   # download to .part, rename when complete: an interrupted file is fetched again next run
   try {
-    Invoke-WebRequest -UseBasicParsing -Uri $f[0] -OutFile $dest
+    Invoke-WebRequest -UseBasicParsing -Uri $f[0] -OutFile $part
+    Move-Item -Force $part $dest
     Write-Host "ok   $($f[1])"; $ok++
-  } catch { Write-Host "FAIL $($f[1])" -ForegroundColor Red; $fail++ }
+  } catch { Write-Host "FAIL $($f[1])" -ForegroundColor Red; $fail++; Remove-Item -ErrorAction SilentlyContinue $part }
 }
 $zip = "$out.zip"
 if (Test-Path $zip) { Remove-Item $zip }
