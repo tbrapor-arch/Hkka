@@ -1,0 +1,177 @@
+id: 34
+title:
+  en: "The cold wave"
+  sx: {hanzi: "寒流愛來了", pinyin: "honˇ liuˇ oi loiˇ leˊ"}
+  hl: {hanzi: "寒流愛來了", pinyin: "hon liu oiˇ loi leˋ"}
+review: false
+setting: >-
+  Lucie's last evening. The television is on after dinner, the wind is getting up, and the washing is still out on
+  the line.
+names: [Lucie, 阿英, 合歡山, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "The weather report on TV says a cold wave is coming. Tomorrow it'll be freezing, and very windy too."
+    sx: {hanzi: "電視个氣象報告講寒流愛來了。天光日會當寒，風乜會當大。", pinyin: "tien sii ge hi xiong bo go gongˋ honˇ liuˇ oi loiˇ leˊ. tienˊ gongˊ ngidˋ voi dongˊ honˇ, fungˊ me voi dongˊ tai."}
+    hl: {hanzi: "電視个氣象報告講寒流愛來了。韶早會當冷，風乜會當大。", pinyin: "tien+ shi+ gaiˇ hiˇ siong+ boˇ goˇ gongˊ hon liu oiˇ loi leˋ. shau zoˊ voi+ dongˋ langˋ, fungˋ meˇ voi+ dongˋ tai+."}
+  - n: 2
+    speaker: 阿婆
+    en: "The washing's still outside! Sam, quick, go and bring it in before the wind blows it away!"
+    sx: {hanzi: "衫褲還在外背！Sam，遽遽去收，莫分風吹走了！", pinyin: "samˊ fu hanˇ coiˊ ngoi boi! Sam, giagˋ giagˋ hi suˊ, mog bunˊ fungˊ coiˊ zeuˋ leˊ!"}
+    hl: {hanzi: "衫褲還在外背！Sam，遽遽去收，莫分風吹走了！", pinyin: "samˋ fuˇ han coiˋ ngo+ boiˇ! Sam, giag giag hiˇ shiuˋ, mogˋ bunˋ fungˋ choiˋ zeuˊ leˋ!"}
+  - n: 3
+    speaker: Sam
+    en: "(coming back in, arms full) Done… but my hat's been blown away!"
+    sx: {hanzi: "收好了……𠊎个帽仔分風吹走了！", pinyin: "suˊ hoˋ leˊ … ngaiˇ ge mo eˋ bunˊ fungˊ coiˊ zeuˋ leˊ!"}
+    hl: {hanzi: "收好了……𠊎个帽仔分風吹走了！", pinyin: "shiuˋ hoˊ leˋ … ngai gaiˇ mo+ er bunˋ fungˋ choiˋ zeuˊ leˋ!"}
+  - n: 4
+    speaker: Lucie
+    en: "(in French, shivering) Brr… it's absolutely freezing!"
+    sx: {hanzi: "Brr… il fait un froid de canard !", pinyin: "Brr… il fait un froid de canard !"}
+    hl: {hanzi: "Brr… il fait un froid de canard !", pinyin: "Brr… il fait un froid de canard !"}
+  - n: 5
+    speaker: Sam
+    en: "She says she's cold. She didn't bring any warm clothes."
+    sx: {hanzi: "佢講當寒。佢無帶燒暖个衫。", pinyin: "giˇ gongˋ dongˊ honˇ. giˇ moˇ dai seuˊ nonˊ ge samˊ."}
+    hl: {hanzi: "佢講當冷。佢無帶燒暖个衫。", pinyin: "gi gongˊ dongˋ langˋ. gi mo daiˇ shauˋ nonˋ gaiˇ samˋ."}
+  - n: 6
+    speaker: 阿婆
+    en: "Take one of A-in's tops for her to wear. …Will it rain tomorrow?"
+    sx: {hanzi: "拿阿英个衫分佢著。……天光日會落雨無？", pinyin: "naˊ aˊ inˊ ge samˊ bunˊ giˇ zogˋ. … tienˊ gongˊ ngidˋ voi log iˋ moˇ?"}
+    hl: {hanzi: "拿阿英个衫分佢著。……韶早會落雨無？", pinyin: "naˋ a+ rhinˋ gaiˇ samˋ bunˋ gi zhog. … shau zoˊ voi+ logˋ rhiˊ mo?"}
+  - n: 7
+    speaker: 阿明
+    en: "It will. It'll rain in Miaoli, and up on 合歡山 it'll even snow."
+    sx: {hanzi: "會。苗栗會落雨，合歡山還會落雪。", pinyin: "voi. meuˇ lidˋ voi log iˋ, hab fonˊ sanˊ hanˇ voi log xiedˋ."}
+    hl: {hanzi: "會。苗栗會落雨，合歡山還會落雪。", pinyin: "voi+. miau lid voi+ logˋ rhiˊ, habˋ fonˋ sanˋ han voi+ logˋ sied."}
+  - n: 8
+    speaker: Sam
+    en: "Snow? Will Lucie's plane leave on time?"
+    sx: {hanzi: "落雪？Lucie 个飛行機會準時無？", pinyin: "log xiedˋ? Lucie ge biˊ hangˇ giˊ voi zunˋ siiˇ moˇ?"}
+    hl: {hanzi: "落雪？Lucie 个飛行機會準時無？", pinyin: "logˋ sied? Lucie gaiˇ fuiˋ hang giˋ voi+ zhunˊ shi mo?"}
+  - n: 9
+    speaker: 阿明
+    en: "Don't worry. A cold wave won't stop a plane."
+    sx: {hanzi: "毋使驚。寒流毋會擋飛行機。", pinyin: "mˇ siiˋ giangˊ. honˇ liuˇ mˇ voi dongˋ biˊ hangˇ giˊ."}
+    hl: {hanzi: "毋使驚。寒流毋會擋飛行機。", pinyin: "m siiˊ giangˋ. hon liu m voi+ dongˊ fuiˋ hang giˋ."}
+  - n: 10
+    speaker: 阿公
+    en: "(coming in with a thick old padded jacket) Here, take this. It's mine from the old days. Very warm."
+    sx: {hanzi: "拿去。這係𠊎頭擺个衫，當燒暖。", pinyin: "naˊ hi. iaˋ he ngaiˇ teuˇ baiˋ ge samˊ, dongˊ seuˊ nonˊ."}
+    hl: {hanzi: "拿去。這係𠊎頭擺个衫，當燒暖。", pinyin: "naˋ hiˇ. liaˊ heˇ ngai teu baiˊ gaiˇ samˋ, dongˋ shauˋ nonˋ."}
+  - n: 11
+    speaker: 阿婆
+    en: "(as Lucie disappears into it) It's enormous! Never mind, warm is what counts. Don't catch cold, now."
+    sx: {hanzi: "恁大領！燒暖就好，莫寒著了。", pinyin: "anˋ tai liangˊ! seuˊ nonˊ qiu hoˋ, mog honˇ doˋ leˊ."}
+    hl: {hanzi: "恁大領！燒暖就好，莫冷著了。", pinyin: "anˊ tai+ liangˋ! shauˋ nonˋ ciu+ hoˊ, mogˋ langˋ doˊ leˋ."}
+  - n: 12
+    speaker: Lucie
+    en: "(in French, to Sam) Can I keep it on for tomorrow?"
+    sx: {hanzi: "Je peux la garder pour demain ?", pinyin: "Je peux la garder pour demain ?"}
+    hl: {hanzi: "Je peux la garder pour demain ?", pinyin: "Je peux la garder pour demain ?"}
+  - n: 13
+    speaker: Sam
+    en: "Grandpa, she's asking if she can wear it tomorrow to take the plane."
+    sx: {hanzi: "阿公，佢問天光日做得著去坐飛行機無？", pinyin: "aˊ gungˊ, giˇ mun tienˊ gongˊ ngidˋ zo dedˋ zogˋ hi coˊ biˊ hangˇ giˊ moˇ?"}
+    hl: {hanzi: "阿公，佢問韶早做得著去坐飛行機無？", pinyin: "a+ gungˋ, gi munˇ shau zoˊ zoˇ ded zhog hiˇ coˋ fuiˋ hang giˋ mo?"}
+  - n: 14
+    speaker: 阿公
+    en: "Of course. It's hers. I'm giving it to her."
+    sx: {hanzi: "做得。送分佢。", pinyin: "zo dedˋ. sung bunˊ giˇ."}
+    hl: {hanzi: "做得。送分佢。", pinyin: "zoˇ ded. sungˇ bunˋ gi."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      會 voi has a second job. In lesson 1 it was "can, know how to"; before a change in the weather, or anything that is
+      going to happen, it means "will": 天光日會當寒 "tomorrow it will be freezing", 會落雨無？ "will it rain?", 會。 "it
+      will." The negative is 毋會 (line 9). 愛 (寒流愛來了) is closer: "is about to, is on its way". Hailu says 韶早 for
+      "tomorrow".
+  - ref: 1
+    topic: culture
+    text: >
+      寒流 honˇ liuˇ "cold wave": in winter, cold air from the continent sweeps down over Taiwan for a few days at a time.
+      Miaoli gets cold rain and wind; the high mountains, like 合歡山 in central Taiwan, sometimes get snow, and people
+      drive up to see it.
+  - ref: 2
+    topic: grammar
+    text: >
+      分 bunˊ again, now for the passive: 莫分風吹走了 "don't let it be blown away by the wind", 𠊎个帽仔分風吹走了 "my hat
+      was blown away by the wind". The pattern is thing + 分 + doer + verb + result: what you have in Mandarin with 被.
+      (分 is "give" in lesson 24 and "to" in 送分佢: one little word, three jobs.) 衫褲 samˊ fu "clothes, the washing";
+      遽遽 "quick!" (lesson 9).
+  - ref: 3
+    topic: grammar
+    text: >
+      收好了 "brought (it) in, done": 好 after the verb, as in lesson 33 (洗好).
+  - ref: 9
+    topic: grammar
+    text: >
+      驚 "be afraid" (lesson 13) is also "worry": 毋使驚 "don't worry". Before a noun, 驚 says what gets to you:
+      佢當驚寒 "she really feels the cold".
+  - ref: 11
+    topic: grammar
+    text: >
+      恁大領 "such a big one": 領 is the classifier for clothes (lesson 15), and 恁 + adjective + classifier is an
+      exclamation. 莫寒著了 "don't catch cold": 寒著 from lesson 24 (Hailu 冷著).
+  - ref: 13
+    topic: grammar
+    text: >
+      做得著去坐飛行機無？ "can she wear it to go and take the plane?": three verbs in a row (著, 去, 坐) with no word to
+      link them, in the order things happen.
+
+new_words:
+  - {hanzi: 電視, pinyin: "tien sii", en: "television", hl: {hanzi: 電視, pinyin: "tien+ shi+"}}
+  - {hanzi: 氣象, pinyin: "hi xiong", en: "weather (forecasting)", hl: {hanzi: 氣象, pinyin: "hiˇ siong+"}}
+  - {hanzi: 報告, pinyin: "bo go", en: "report", hl: {hanzi: 報告, pinyin: "boˇ goˇ"}}
+  - {hanzi: 寒流, pinyin: "honˇ liuˇ", en: "cold wave", hl: {hanzi: 寒流, pinyin: "hon liu"}}
+  - {hanzi: 風, pinyin: "fungˊ", en: "wind", hl: {hanzi: 風, pinyin: "fungˋ"}}
+  - {hanzi: 外背, pinyin: "ngoi boi", en: "outside", hl: {hanzi: 外背, pinyin: "ngo+ boiˇ"}}
+  - {hanzi: 燒暖, pinyin: "seuˊ nonˊ", en: "warm", hl: {hanzi: 燒暖, pinyin: "shauˋ nonˋ"}}
+  - {hanzi: 落雪, pinyin: "log xiedˋ", en: "snow (verb)", hl: {hanzi: 落雪, pinyin: "logˋ sied"}}
+  - {hanzi: 雪, pinyin: "xiedˋ", en: "snow", hl: {hanzi: 雪, pinyin: "sied"}}
+  - {hanzi: 準時, pinyin: "zunˋ siiˇ", en: "on time", hl: {hanzi: 準時, pinyin: "zhunˊ shi"}}
+  - {hanzi: 擋, pinyin: "dongˋ", en: "block, stop", hl: {hanzi: 擋, pinyin: "dongˊ"}}
+  - {hanzi: 溫度, pinyin: "vunˊ tu", en: "temperature", hl: {hanzi: 溫度, pinyin: "vunˋ tu+"}}
+  - {hanzi: 度, pinyin: "tu", en: "degree", hl: {hanzi: 度, pinyin: "tu+"}}
+  - {hanzi: 窗門, pinyin: "cungˊ munˇ", en: "window", hl: {hanzi: 窗門, pinyin: "cungˋ mun"}}
+  - {hanzi: 關, pinyin: "guanˊ", en: "close, shut", hl: {hanzi: 關, pinyin: "guanˋ"}}
+  - {hanzi: 危險, pinyin: "nguiˇ hiamˋ", en: "dangerous", hl: {hanzi: 危險, pinyin: "ngui hiamˊ"}}
+  - {hanzi: 出去, pinyin: "cudˋ hi", en: "go out", hl: {hanzi: 出去, pinyin: "chud hiˇ"}}
+  - {hanzi: 上, pinyin: "songˊ", en: "go up", hl: {hanzi: 上, pinyin: "shongˋ"}}
+  - {hanzi: 天時, pinyin: "tienˊ siiˇ", en: "the weather", hl: {hanzi: 天時, pinyin: "tienˋ shi"}}
+
+exercises:
+  translate:
+    - en: "The wind is strong: shut the window."
+      sx: {hanzi: "風當大，窗門關等。", pinyin: "fungˊ dongˊ tai, cungˊ munˇ guanˊ denˋ."}
+      hl: {hanzi: "風當大，窗門關等。", pinyin: "fungˋ dongˋ tai+, cungˋ mun guanˋ denˊ."}
+    - en: "Tomorrow the temperature will drop to just eight degrees."
+      sx: {hanzi: "天光日溫度會落到八度定定。", pinyin: "tienˊ gongˊ ngidˋ vunˊ tu voi log do badˋ tu tin tin."}
+      hl: {hanzi: "韶早溫度會落到八度定定。", pinyin: "shau zoˊ vunˋ tu+ voi+ logˋ doˇ bad tu+ tin+ tin+."}
+    - en: "The weather is bad: going out is dangerous."
+      sx: {hanzi: "天時毋好，出去當危險。", pinyin: "tienˊ siiˇ mˇ hoˋ, cudˋ hi dongˊ nguiˇ hiamˋ."}
+      hl: {hanzi: "天時毋好，出去當危險。", pinyin: "tienˋ shi m hoˊ, chud hiˇ dongˋ ngui hiamˊ."}
+    - en: "In the old days, did it snow on 合歡山?"
+      sx: {hanzi: "頭擺合歡山會落雪無？", pinyin: "teuˇ baiˋ hab fonˊ sanˊ voi log xiedˋ moˇ?"}
+      hl: {hanzi: "頭擺合歡山會落雪無？", pinyin: "teu baiˊ habˋ fonˋ sanˋ voi+ logˋ sied mo?"}
+    - en: "Miaoli is hot in summer and cold in winter."
+      sx: {hanzi: "苗栗熱天當熱，冷天當寒。", pinyin: "meuˇ lidˋ ngied tienˊ dongˊ ngied, langˊ tienˊ dongˊ honˇ."}
+      hl: {hanzi: "苗栗熱天當熱，冷天當冷。", pinyin: "miau lid ngiedˋ tienˋ dongˋ ngiedˋ, langˋ tienˋ dongˋ langˋ."}
+    - en: "Let's go up the mountain to see the snow!"
+      sx: {hanzi: "𫣆兜上山看雪！", pinyin: "enˊ deuˊ songˊ sanˊ kon xiedˋ!"}
+      hl: {hanzi: "𫣆兜上山看雪！", pinyin: "enˋ deuˋ shongˋ sanˋ konˇ sied!"}
+  fill:
+    - en: "My hat was blown away by the wind."
+      sx: {hanzi: "𠊎个帽仔___風吹走了。", pinyin: "ngaiˇ ge mo eˋ ___ fungˊ coiˊ zeuˋ leˊ.", answer_hanzi: "分", answer: "bunˊ"}
+      hl: {hanzi: "𠊎个帽仔___風吹走了。", pinyin: "ngai gaiˇ mo+ er ___ fungˋ choiˋ zeuˊ leˋ.", answer_hanzi: "分", answer: "bunˋ"}
+    - en: "Will it rain tomorrow?"
+      sx: {hanzi: "天光日___落雨無？", pinyin: "tienˊ gongˊ ngidˋ ___ log iˋ moˇ?", answer_hanzi: "會", answer: "voi"}
+      hl: {hanzi: "韶早___落雨無？", pinyin: "shau zoˊ ___ logˋ rhiˊ mo?", answer_hanzi: "會", answer: "voi+"}
+    - en: "Will the plane leave on time?"
+      sx: {hanzi: "飛行機會___無？", pinyin: "biˊ hangˇ giˊ voi ___ moˇ?", answer_hanzi: "準時", answer: "zunˋ siiˇ"}
+      hl: {hanzi: "飛行機會___無？", pinyin: "fuiˋ hang giˋ voi+ ___ mo?", answer_hanzi: "準時", answer: "zhunˊ shi"}
+
+audio: []
