@@ -103,3 +103,13 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   reported later, drive times, where people live.
 - A Latin-letter word in a line (fan, pon) is stripped from the pinyin at its first match: put it before any
   syllable spelled the same (pon+, fan) or lint misaligns the line.
+
+## Added after the batch 10 review
+- 還好 + adjective is "very" (還好食 "really tasty"), not the Mandarin "so-so". "Not bad" is 會做得 (生理會做得).
+- Comparison: 比 + adjective + amount needs no 較 (比𠊎高一息仔, 比你高五公分); 比 + 較 + adjective without an amount.
+- 高過 is not a comparative in the data; 贏過 is "have won (before)".
+- Ranks take a verb: 得著頭名, 得著第三名 (also 打頭名).
+- "I miss you" out loud is 盡想你; 想念 is written (one example).
+- 一開始 "at the start"; never 頭先 (= "just now").
+- Before writing "not in the data", check the MOE definitions too (五月雪 is in the 桐花 entry).
+- Keep a story decision for the lesson the brief gives it (A-in's job: the interview in 75, so 68–70 only decide to go).

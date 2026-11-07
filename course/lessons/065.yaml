@@ -23,9 +23,9 @@ dialogue:
     hl: {hanzi: "這係麼人个墓？", pinyin: "liaˊ heˇ maˊ ngin gaiˇ muˇ?"}
   - n: 3
     speaker: 阿婆
-    en: "Grandpa's father's. You should call him 阿太, great-grandfather."
-    sx: {hanzi: "阿公个爸个。你愛喊佢阿太。", pinyin: "aˊ gungˊ ge baˊ ge. nˇ oi ham giˇ aˊ tai."}
-    hl: {hanzi: "阿公个爸个。你愛喊佢阿太。", pinyin: "a+ gungˋ gaiˇ baˋ gaiˇ. ngi oiˇ hamˇ gi a+ taiˇ."}
+    en: "Grandpa's father's. You should call him 阿太, great-grandfather. He died thirty years ago."
+    sx: {hanzi: "阿公个爸个。你愛喊佢阿太。佢過身三十年了。", pinyin: "aˊ gungˊ ge baˊ ge. nˇ oi ham giˇ aˊ tai. giˇ go siinˊ samˊ siib ngienˇ leˊ."}
+    hl: {hanzi: "阿公个爸个。你愛喊佢阿太。佢過身三十年了。", pinyin: "a+ gungˋ gaiˇ baˋ gaiˇ. ngi oiˇ hamˇ gi a+ taiˇ. gi goˇ shinˋ samˋ shibˋ ngien leˋ."}
   - n: 4
     speaker: 阿明
     en: "Grandma, tell Sam the story about 阿太!"
@@ -39,9 +39,9 @@ dialogue:
     check: true
   - n: 6
     speaker: 阿婆
-    en: "First he cleared the hillside, and after that he planted tea. Every day it took two hours just to walk there."
-    sx: {hanzi: "佢先開山，過後正種茶。逐日愛行兩點鐘久正行得到。", pinyin: "giˇ xienˊ koiˊ sanˊ, go heu zang zung caˇ. dagˋ ngidˋ oi hangˇ liongˋ diamˋ zungˊ giuˋ zang hangˇ dedˋ do."}
-    hl: {hanzi: "佢先開山，過後正種茶。逐日愛行兩點鐘久正行得到。", pinyin: "gi senˋ koiˋ sanˋ, goˇ heu+ zhangˇ zhungˇ ca. dag ngid oiˇ hang liongˊ diamˊ zhungˋ giuˊ zhangˇ hang ded doˇ."}
+    en: "First he cleared the hill and the forest, and after that he planted tea. Every day it took two hours just to walk there."
+    sx: {hanzi: "佢先開山打林，過後正種茶。逐日愛行兩點鐘久正行得到。", pinyin: "giˇ xienˊ koiˊ sanˊ daˋ naˇ, go heu zang zung caˇ. dagˋ ngidˋ oi hangˇ liongˋ diamˋ zungˊ giuˋ zang hangˇ dedˋ do."}
+    hl: {hanzi: "佢先開山打林，過後正種茶。逐日愛行兩點鐘久正行得到。", pinyin: "gi senˋ koiˋ sanˋ daˊ na, goˇ heu+ zhangˇ zhungˇ ca. dag ngid oiˇ hang liongˊ diamˊ zhungˋ giuˊ zhangˇ hang ded doˇ."}
   - n: 7
     speaker: 阿婆
     en: "Then one year, of all things, a typhoon came, and every bush was swept away."
@@ -59,10 +59,9 @@ dialogue:
     hl: {hanzi: "後來佢又種過。三年過後，茶園比頭擺還較大。", pinyin: "heu+ loi gi rhiu+ zhungˇ goˇ. samˋ ngien goˇ heu+, ca rhan biˊ teu baiˊ han haˇ tai+."}
   - n: 10
     speaker: 阿公
-    en: "(quietly, pointing down the hill) That tea garden is the one we have now."
-    sx: {hanzi: "該茶園，就係這下个茶園。", pinyin: "ge caˇ ienˇ, qiu he iaˋ ha ge caˇ ienˇ."}
-    hl: {hanzi: "該茶園，就係這下个茶園。", pinyin: "gai ca rhan, ciu+ heˇ liaˊ ha+ gaiˇ ca rhan."}
-    check: true
+    en: "(quietly, pointing down the hill) The tea garden 阿太 planted is the one we have now."
+    sx: {hanzi: "阿太種个茶園，就係這下个茶園。", pinyin: "aˊ tai zung ge caˇ ienˇ, qiu he iaˋ ha ge caˇ ienˇ."}
+    hl: {hanzi: "阿太種个茶園，就係這下个茶園。", pinyin: "a+ taiˇ zhungˇ gaiˇ ca rhan, ciu+ heˇ liaˊ ha+ gaiˇ ca rhan."}
   - n: 11
     speaker: 阿英
     en: "And Grandpa has looked after it his whole life."
@@ -70,9 +69,9 @@ dialogue:
     hl: {hanzi: "阿公乜照顧一生人了。", pinyin: "a+ gungˋ meˇ zhauˇ guˇ rhid senˋ ngin leˋ."}
   - n: 12
     speaker: 阿婆
-    en: "Right. Light the incense, burn the paper money. Once we've paid our respects, we'll eat the 艾粄."
-    sx: {hanzi: "好了，燒香，燒銀紙。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ. bai hoˋ, siiˊ siid ngie banˋ."}
-    hl: {hanzi: "好了，燒香，燒銀紙。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
+    en: "Right. Light the incense, burn the paper money for the ancestors. Once we've paid our respects, we'll eat the 艾粄."
+    sx: {hanzi: "好了，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ bunˊ zuˋ xienˊ. bai hoˋ, siiˊ siid ngie banˋ."}
+    hl: {hanzi: "好了，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ bunˋ zuˊ sienˋ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
   - n: 13
     speaker: 阿明
     en: "艾粄! I'm starving!"
@@ -90,8 +89,8 @@ notes:
     text: >
       Line 1 is close to an official example: 正月十九掛紙，大家先割草正來拜 "on the 19th of the first month we sweep the
       graves: first everyone cuts the grass, then we pay our respects". The example puts 掛紙 in the first month; another
-      gives 正月十六. Many Hakka families sweep the graves between the Lantern Festival and 清明, not only on the day; the
-      Liu family has chosen 清明 itself. 割草 "cut the grass": 割 (lesson 45) + 草 (lesson 40).
+      gives 正月十六. The data gives no single date; by general knowledge, many families sweep the graves at any time between
+      the Lantern Festival and 清明. The Liu family has chosen 清明 itself. 割草 "cut the grass": 割 (lesson 45) + 草 (lesson 40).
   - ref: 3
     topic: vocab
     text: >
@@ -102,14 +101,15 @@ notes:
     text: >
       Storytelling. 頭擺頭擺 "long, long ago", 頭擺 (lesson 20) said twice, is how Grandma starts; the doubled form has no
       official example and is marked for checking. Then the story moves with little words: 斯 siiˊ "so, and then",
-      the storyteller's 就 (無斯會 "or else", 341 official examples of 斯會); 先…過後正… "first…, after that…" (line 6);
+      the storyteller's 就 (無斯會 "or else"; but 斯會 can also be 斯 + 會 "can", as in 麼个斯會 "can do anything"); 先…過後正… "first…, after that…" (line 6);
       嗄 (lesson 41) for the blow nobody expected (line 7); 後來 "later, after that" (lines 8, 9).
   - ref: 5
     topic: false-friend
     text: >
       屋下當苦 "the family was very poor": 苦 read kuˋ is "poor, hard up"; read fuˋ (lesson 24) it is "bitter". 一垤地都無
       "not one plot of land": 垤 de, the classifier for a piece of land or a lump, and 地 ti "land, ground". 钁頭
-      giogˋ teuˇ "mattock", the hill farmer's tool. 佢先開山 (line 6) "first he cleared the hillside": 開 "open" + 山.
+      giogˋ teuˇ "mattock", the hill farmer's tool. 佢先開山打林 (line 6) "first he cleared the hill and the forest": the dictionary's word for breaking new land
+      (頭擺人淨用一雙手來開山打林 "in the old days people cleared the land with their bare hands").
   - ref: 7
     topic: vocab
     text: >
@@ -136,6 +136,7 @@ new_words:
   - {hanzi: 地, pinyin: "ti", en: "land, ground", hl: {hanzi: 地, pinyin: "ti+"}}
   - {hanzi: 斯, pinyin: "siiˊ", en: "so, and then (= 就)", hl: {hanzi: 斯, pinyin: "siiˋ"}}
   - {hanzi: 钁頭, pinyin: "giogˋ teuˇ", en: "mattock, hoe", hl: {hanzi: 钁頭, pinyin: "giog teu"}}
+  - {hanzi: 開山打林, pinyin: "koiˊ sanˊ daˋ naˇ", en: "clear new land (hill and forest)", hl: {hanzi: 開山打林, pinyin: "koiˋ sanˋ daˊ na"}}
   - {hanzi: 茶樹, pinyin: "caˇ su", en: "tea bush", hl: {hanzi: 茶樹, pinyin: "ca shu+"}}
   - {hanzi: 後來, pinyin: "heu loiˇ", en: "later, after that", hl: {hanzi: 後來, pinyin: "heu+ loi"}}
   - {hanzi: 節, pinyin: "jiedˋ", en: "festival (清明節)", hl: {hanzi: 節, pinyin: "zied"}}

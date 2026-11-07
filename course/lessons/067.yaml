@@ -20,8 +20,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "So many shops! (in the workshop) A Buddha! What wood is this carved from?"
-    sx: {hanzi: "恁多店！……佛祖！這係麼个樹做个？", pinyin: "anˋ doˊ diam! … fud zuˋ! iaˋ he maˋ ge su zo ge?"}
-    hl: {hanzi: "恁多店！……佛祖！這係麼个樹做个？", pinyin: "anˊ doˋ diamˇ! … fudˋ zuˊ! liaˊ heˇ maˊ gaiˇ shu+ zoˇ gaiˇ?"}
+    sx: {hanzi: "恁多店！……一尊佛祖！這係麼个樹做个？", pinyin: "anˋ doˊ diam! … idˋ zunˊ fud zuˋ! iaˋ he maˋ ge su zo ge?"}
+    hl: {hanzi: "恁多店！……一尊佛祖！這係麼个樹做个？", pinyin: "anˊ doˋ diamˇ! … rhid zunˋ fudˋ zuˊ! liaˊ heˇ maˊ gaiˇ shu+ zoˇ gaiˇ?"}
   - n: 3
     speaker: 師傅
     en: "Camphor. The stump of a camphor tree is good for carving."
@@ -34,9 +34,9 @@ dialogue:
     hl: {hanzi: "師傅，佢做得刻看啊無？", pinyin: "siiˋ fu+, gi zoˇ ded kad konˇ a+ mo?"}
   - n: 5
     speaker: 師傅
-    en: "Try it. Be careful with the knife: don't cut your hand."
-    sx: {hanzi: "你試刻看啊。刀仔愛細義，莫刻著手。", pinyin: "nˇ cii kadˋ kon a. doˊ eˋ oi se ngi, mog kadˋ doˋ suˋ."}
-    hl: {hanzi: "你試刻看啊。刀仔愛細義，莫刻著手。", pinyin: "ngi chiˇ kad konˇ a+. doˋ er oiˇ seˇ ngi+, mogˋ kad doˊ shiuˊ."}
+    en: "Try it. Be careful with the knife: don't let it cut you."
+    sx: {hanzi: "你試刻看啊。刀仔愛細義，莫分刀仔割著。", pinyin: "nˇ cii kadˋ kon a. doˊ eˋ oi se ngi, mog bunˊ doˊ eˋ godˋ doˋ."}
+    hl: {hanzi: "你試刻看啊。刀仔愛細義，莫分刀仔割著。", pinyin: "ngi chiˇ kad konˇ a+. doˋ er oiˇ seˇ ngi+, mogˋ bunˋ doˋ er god doˊ."}
   - n: 6
     speaker: Sam
     en: "(ten minutes later) Camphor is hard. It's not easy to carve."
@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 師傅
     en: "Everyone's like that at the start. Learn three years from an old master, and the day you set up on your own, you're famous."
-    sx: {hanzi: "頭先都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "teuˇ xienˊ du anˋ ngiongˇ. tenˇ loˋ siiˊ fu hog samˊ ngienˇ, idˋ cudˋ sanˊ qiu cudˋ miangˇ leˊ."}
-    hl: {hanzi: "頭先都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "teu senˋ du+ an ngiong. ten loˊ siiˋ fu+ hogˋ samˋ ngien, rhid chud sanˋ ciu+ chud miang leˋ."}
+    sx: {hanzi: "一開始都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "idˋ koiˊ ciiˋ du anˋ ngiongˇ. tenˇ loˋ siiˊ fu hog samˊ ngienˇ, idˋ cudˋ sanˊ qiu cudˋ miangˇ leˊ."}
+    hl: {hanzi: "一開始都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "rhid koiˋ shiˊ du+ an ngiong. ten loˊ siiˋ fu+ hogˋ samˋ ngien, rhid chud sanˋ ciu+ chud miang leˋ."}
   - n: 8
     speaker: 師傅
     en: "(an hour later) What's that you've carved?"
@@ -65,14 +65,14 @@ dialogue:
   - n: 11
     speaker: 師傅
     en: "For a first go, it's not bad at all."
-    sx: {hanzi: "頭一擺刻，刻到還好。", pinyin: "teuˇ idˋ baiˋ kadˋ, kadˋ do hanˇ hoˋ."}
-    hl: {hanzi: "頭一擺刻，刻到還好。", pinyin: "teu rhid baiˊ kad, kad doˇ han hoˊ."}
-    check: true
+    sx: {hanzi: "頭一擺刻，會做得了。", pinyin: "teuˇ idˋ baiˋ kadˋ, voi zo dedˋ leˊ."}
+    hl: {hanzi: "頭一擺刻，會做得了。", pinyin: "teu rhid baiˊ kad, voi+ zoˇ ded leˋ."}
   - n: 12
     speaker: 阿英
-    en: "Grandma's bound to be pleased."
-    sx: {hanzi: "阿婆定著會歡喜。", pinyin: "aˊ poˇ tin cog voi fonˊ hiˋ."}
-    hl: {hanzi: "阿婆定著會歡喜。", pinyin: "a+ po tin+ chogˋ voi+ fonˋ hiˊ."}
+    en: "Grandma's bound to be pleased. It's your first piece of work."
+    sx: {hanzi: "阿婆定著會歡喜。這係你頭一件作品。", pinyin: "aˊ poˇ tin cog voi fonˊ hiˋ. iaˋ he nˇ teuˇ idˋ kien zogˋ pinˋ."}
+    hl: {hanzi: "阿婆定著會歡喜。這係你頭一件作品。", pinyin: "a+ po tin+ chogˋ voi+ fonˋ hiˊ. liaˊ heˇ ngi teu rhid kien+ zog pinˊ."}
+    check: true
   - n: 13
     speaker: Sam
     en: "A-in, would you like one? I'll carve another for you."
@@ -89,12 +89,13 @@ notes:
     topic: culture
     text: >
       三義 is the woodcarving town of Miaoli county; the official examples say so twice (歸街仔雕刻店係三義盡大个特色,
-      苗栗三義个木雕產業，聞名全國). A-in quotes the first one; the Hailu has 最 where Sixian has 盡. 歸街仔 "the whole
+      苗栗三義个木雕產業，聞名全國). A-in quotes the first one (the Sixian line is the official one; the Hailu line is the course's). 盡 here is
+      "most" (the word lists give Sixian 盡 as 最…, and Hailu uses 最 for it). 歸街仔 "the whole
       street": 歸 "whole" (lesson 57) + 街 (lesson 54).
   - ref: 3
     topic: vocab
     text: >
-      樟樹 zongˊ su "camphor tree", the tree of the Hakka hills, once felled for camphor oil and wood. 樹頭 su teuˇ "tree
+      樟樹 zongˊ su "camphor tree", the tree of the Hakka hills: 樟樹做得焗腦 "camphor trees can be distilled for camphor" (official). 樹頭 su teuˇ "tree
       stump, the base of a tree". The line follows an official example: 樟樹个樹頭做得拿來雕刻.
   - ref: 4
     topic: grammar
@@ -105,20 +106,22 @@ notes:
     topic: grammar
     text: >
       毋好刻 "not easy to carve": 好 hoˋ + verb is "easy to…" (lesson 59: 好食, 好做), and 毋好 + verb its opposite. An
-      official example: 竹簡當重又毋好刻字 "bamboo slips were heavy and hard to write on". Don't confuse it with 毋好 "don't"
+      official example: 竹簡當重又毋好刻字 "bamboo slips were heavy and hard to write on"; and 當毋好行 "very hard going (to
+      walk)". Don't confuse it with 毋好 "don't"
       (lesson 12): 毋好刻！ alone would be "don't carve!". 硬 ngang "hard", 軟 ngionˊ "soft".
   - ref: 7
     topic: grammar
     text: >
       The master's line is an official sentence (跈老師傅學三年，一出山就出名了). 一…就… "as soon as…, then…"; 出山
-      "leave the mountain", here "finish the apprenticeship, set up on your own"; 出名 "become famous". 頭先 (lesson 33)
-      "at first, a moment ago".
+      "leave the mountain", here "finish the apprenticeship, set up on your own"; 出名 "become famous". 一開始 "at the start" (lesson 58);
+      not 頭先, which is only "a moment ago".
   - ref: 11
     topic: grammar
     text: >
-      還好 hanˇ hoˋ "not bad, pretty good": 還 + adjective softens praise into "fairly…": 阿姆這擺包个粽仔還好食 "the 粽
-      Mum made this time are pretty good" (official). 會做得仔 "not bad at all", sometimes quoted for this meaning, has
-      no official example; the course uses 還好. 頭一擺 (lesson 52) "the first time".
+      會做得 voi zo dedˋ "not bad, quite good": 生理會做得 "business is not bad" (official, in both accents); with 了,
+      "it's coming along". The syllabus form 會做得仔 has no example with 仔. Beware 還好: in Hakka 還 + adjective is
+      "very", not the Mandarin "so-so": 阿姆這擺包个粽仔還好食 "the 粽 Mum made this time are really good". 頭一擺
+      (lesson 52) "the first time". 一件作品 (line 12) "a piece of work".
 
 new_words:
   - {hanzi: 雕刻, pinyin: "diauˊ kiedˋ", en: "carve; carving", hl: {hanzi: 雕刻, pinyin: "diauˋ kad"}}
@@ -140,7 +143,8 @@ new_words:
   - {hanzi: 件, pinyin: "kien", en: "(classifier for things, pieces)", hl: {hanzi: 件, pinyin: "kien+"}}
   - {hanzi: 佛祖, pinyin: "fud zuˋ", en: "the Buddha", hl: {hanzi: 佛祖, pinyin: "fudˋ zuˊ"}}
   - {hanzi: 手藝, pinyin: "suˋ ngi", en: "craftsmanship, skill", hl: {hanzi: 手藝, pinyin: "shiuˊ ngi+"}}
-  - {hanzi: 木, pinyin: "mugˋ", en: "wood", hl: {hanzi: 木, pinyin: "mug"}}
+  - {hanzi: 木材, pinyin: "mugˋ caiˇ", en: "wood, timber", hl: {hanzi: 木材, pinyin: "mug cai"}}
+  - {hanzi: 割著, pinyin: "godˋ doˋ", en: "cut (oneself), get cut", hl: {hanzi: 割著, pinyin: "god doˊ"}}
 
 exercises:
   translate:
@@ -150,9 +154,9 @@ exercises:
     - en: "This piece is very fine to look at, but it's expensive."
       sx: {hanzi: "這件作品當好看，毋過當貴。", pinyin: "iaˋ kien zogˋ pinˋ dongˊ hoˋ kon, mˇ go dongˊ gui."}
       hl: {hanzi: "這件作品當好看，毋過當貴。", pinyin: "liaˊ kien+ zog pinˊ dongˋ hoˊ konˇ, m goˇ dongˋ guiˇ."}
-    - en: "The wood is soft; it's easy to carve."
-      sx: {hanzi: "這種木當軟，當好刻。", pinyin: "iaˋ zungˋ mugˋ dongˊ ngionˊ, dongˊ hoˋ kadˋ."}
-      hl: {hanzi: "這種木當軟，當好刻。", pinyin: "liaˊ zhungˊ mug dongˋ ngionˋ, dongˋ hoˊ kad."}
+    - en: "This kind of wood is soft; it's easy to carve."
+      sx: {hanzi: "這種木材當軟，當好刻。", pinyin: "iaˋ zungˋ mugˋ caiˇ dongˊ ngionˊ, dongˊ hoˋ kadˋ."}
+      hl: {hanzi: "這種木材當軟，當好刻。", pinyin: "liaˊ zhungˊ mug cai dongˋ ngionˋ, dongˋ hoˊ kad."}
       check: true
     - en: "The master's craftsmanship is very good: his Buddhas are famous."
       sx: {hanzi: "師傅个手藝當好，佢刻个佛祖當出名。", pinyin: "siiˊ fu ge suˋ ngi dongˊ hoˋ, giˇ kadˋ ge fud zuˋ dongˊ cudˋ miangˇ."}
@@ -167,9 +171,9 @@ exercises:
     - en: "Not easy to carve."
       sx: {hanzi: "___刻。", pinyin: "___ kadˋ.", answer_hanzi: "毋好", answer: "mˇ hoˋ"}
       hl: {hanzi: "___刻。", pinyin: "___ kad.", answer_hanzi: "毋好", answer: "m hoˊ"}
-    - en: "Not bad at all."
-      sx: {hanzi: "刻到___。", pinyin: "kadˋ do ___.", answer_hanzi: "還好", answer: "hanˇ hoˋ"}
-      hl: {hanzi: "刻到___。", pinyin: "kad doˇ ___.", answer_hanzi: "還好", answer: "han hoˊ"}
+    - en: "Not bad, quite good."
+      sx: {hanzi: "___了。", pinyin: "___ leˊ.", answer_hanzi: "會做得", answer: "voi zo dedˋ"}
+      hl: {hanzi: "___了。", pinyin: "___ leˋ.", answer_hanzi: "會做得", answer: "voi+ zoˇ ded"}
     - en: "Be careful!"
       sx: {hanzi: "愛___！", pinyin: "oi ___!", answer_hanzi: "細義", answer: "se ngi"}
       hl: {hanzi: "愛___！", pinyin: "oiˇ ___!", answer_hanzi: "細義", answer: "seˇ ngi+"}

@@ -12,9 +12,9 @@ names: [阿英, 阿明, 阿宏]
 dialogue:
   - n: 1
     speaker: 阿明
-    en: "Today's race, I've got to beat 阿宏."
-    sx: {hanzi: "今晡日个走相逐，𠊎定著愛贏阿宏。", pinyin: "gimˊ buˊ ngidˋ ge zeuˋ xiongˊ giugˋ, ngaiˇ tin cog oi iangˇ aˊ fenˇ."}
-    hl: {hanzi: "今晡日个走追仔，𠊎定著愛贏阿宏。", pinyin: "gimˋ buˋ ngid gaiˇ zeuˊ duiˋ er, ngai tin+ chogˋ oiˇ rhang a+ fen."}
+    en: "Today's race at the sports day: I've got to beat 阿宏."
+    sx: {hanzi: "今晡日運動會个走相逐，𠊎定著愛贏阿宏。", pinyin: "gimˊ buˊ ngidˋ iun tung fi ge zeuˋ xiongˊ giugˋ, ngaiˇ tin cog oi iangˇ aˊ fenˇ."}
+    hl: {hanzi: "今晡日運動會个走追仔，𠊎定著愛贏阿宏。", pinyin: "gimˋ buˋ ngid rhun+ tung+ fui+ gaiˇ zeuˊ duiˋ er, ngai tin+ chogˋ oiˇ rhang a+ fen."}
   - n: 2
     speaker: Sam
     en: "Who's 阿宏?"
@@ -33,9 +33,9 @@ dialogue:
     source: kaga115
   - n: 5
     speaker: 阿明
-    en: "Five centimetres! But 阿宏 is still taller than me."
-    sx: {hanzi: "五公分！毋過阿宏還係比𠊎較高。", pinyin: "ngˋ gungˊ funˊ! mˇ go aˊ fenˇ hanˇ he biˋ ngaiˇ ka goˊ."}
-    hl: {hanzi: "五公分！毋過阿宏還係比𠊎較高。", pinyin: "ngˊ gungˋ funˋ! m goˇ a+ fen han heˇ biˊ ngai haˇ goˋ."}
+    en: "Five centimetres! But 阿宏 is still a bit taller than me."
+    sx: {hanzi: "五公分！毋過阿宏還係比𠊎高一息仔。", pinyin: "ngˋ gungˊ funˊ! mˇ go aˊ fenˇ hanˇ he biˋ ngaiˇ goˊ idˋ xid eˋ."}
+    hl: {hanzi: "五公分！毋過阿宏還係比𠊎高一息仔。", pinyin: "ngˊ gungˋ funˋ! m goˇ a+ fen han heˇ biˊ ngai goˋ rhid sid er+."}
   - n: 6
     speaker: 阿婆
     en: "(on her feet, as the runners set off) Come on, A-min! Come on!"
@@ -43,15 +43,15 @@ dialogue:
     hl: {hanzi: "阿明，加油！加油！", pinyin: "a+ min, gaˋ rhiu! gaˋ rhiu!"}
   - n: 7
     speaker: Sam
-    en: "A-min's faster! …Oh. 阿宏's won."
-    sx: {hanzi: "阿明走較遽！……啊，阿宏贏了。", pinyin: "aˊ minˇ zeuˋ ka giagˋ! … a, aˊ fenˇ iangˇ leˊ."}
-    hl: {hanzi: "阿明走較遽！……啊，阿宏贏了。", pinyin: "a+ min zeuˊ haˇ giag! … a+, a+ fen rhang leˋ."}
+    en: "A-min's faster! …Oh. 阿宏 got to the finishing line first. 阿宏's won."
+    sx: {hanzi: "阿明走較遽！……啊，阿宏先到終點，阿宏贏了。", pinyin: "aˊ minˇ zeuˋ ka giagˋ! … a, aˊ fenˇ xienˊ do zungˊ diamˋ, aˊ fenˇ iangˇ leˊ."}
+    hl: {hanzi: "阿明走較遽！……啊，阿宏先到終點，阿宏贏了。", pinyin: "a+ min zeuˊ haˇ giag! … a+, a+ fen senˋ doˇ zhungˋ diamˊ, a+ fen rhang leˋ."}
     check: true
   - n: 8
     speaker: 阿明
     en: "(out of breath, back in the stands) I lost… He came first, I came second. Only one step in it."
-    sx: {hanzi: "𠊎輸忒了……佢頭名，𠊎第二名。爭差一步定定。", pinyin: "ngaiˇ suˊ tedˋ leˊ … giˇ teuˇ miangˇ, ngaiˇ ti ngi miangˇ. zenˊ caˊ idˋ pu tin tin."}
-    hl: {hanzi: "𠊎輸忒了……佢頭名，𠊎第二名。爭差一步定定。", pinyin: "ngai shuˋ ted leˋ … gi teu miang, ngai ti+ ngi+ miang. zangˋ caˋ rhid pu+ tin+ tin+."}
+    sx: {hanzi: "𠊎輸忒了……佢得著頭名，𠊎得著第二名。爭差一步定定。", pinyin: "ngaiˇ suˊ tedˋ leˊ … giˇ dedˋ doˋ teuˇ miangˇ, ngaiˇ dedˋ doˋ ti ngi miangˇ. zenˊ caˊ idˋ pu tin tin."}
+    hl: {hanzi: "𠊎輸忒了……佢得著頭名，𠊎得著第二名。爭差一步定定。", pinyin: "ngai shuˋ ted leˋ … gi ded doˊ teu miang, ngai ded doˊ ti+ ngi+ miang. zangˋ caˋ rhid pu+ tin+ tin+."}
     check: true
   - n: 9
     speaker: 阿公
@@ -60,14 +60,14 @@ dialogue:
     hl: {hanzi: "第二名乜當好。", pinyin: "ti+ ngi+ miang meˇ dongˋ hoˊ."}
   - n: 10
     speaker: 阿明
-    en: "There's still the relay this afternoon. We have to win that!"
-    sx: {hanzi: "下晝還有接力賽，定著愛贏！", pinyin: "haˊ zu hanˇ iuˊ jiabˋ lid soi, tin cog oi iangˇ!"}
-    hl: {hanzi: "下晝還有接力賽，定著愛贏！", pinyin: "haˋ zhiuˇ han rhiuˋ ziab lidˋ soiˇ, tin+ chogˋ oiˇ rhang!"}
+    en: "There's still the relay this afternoon. Our team has trained hard every day: we have to win that!"
+    sx: {hanzi: "下晝還有接力賽。𠊎兜个隊逐日煞猛練習，定著愛贏！", pinyin: "haˊ zu hanˇ iuˊ jiabˋ lid soi. ngaiˇ deuˊ ge cui dagˋ ngidˋ sadˋ mangˊ lien xib, tin cog oi iangˇ!"}
+    hl: {hanzi: "下晝還有接力賽。𠊎兜个隊逐日煞猛練習，定著愛贏！", pinyin: "haˋ zhiuˇ han rhiuˋ ziab lidˋ soiˇ. ngai deuˋ gaiˇ chui+ dag ngid sad mangˋ lien+ sibˋ, tin+ chogˋ oiˇ rhang!"}
   - n: 11
     speaker: 阿英
     en: "(that afternoon, jumping up) They've won! A-min's class came first!"
-    sx: {hanzi: "贏了！阿明个班頭名！", pinyin: "iangˇ leˊ! aˊ minˇ ge banˊ teuˇ miangˇ!"}
-    hl: {hanzi: "贏了！阿明个班頭名！", pinyin: "rhang leˋ! a+ min gaiˇ banˋ teu miang!"}
+    sx: {hanzi: "贏了！阿明个班得著頭名！", pinyin: "iangˇ leˊ! aˊ minˇ ge banˊ dedˋ doˋ teuˇ miangˇ!"}
+    hl: {hanzi: "贏了！阿明个班得著頭名！", pinyin: "rhang leˋ! a+ min gaiˇ banˋ ded doˊ teu miang!"}
   - n: 12
     speaker: 阿明
     en: "Told you so!"
@@ -81,9 +81,9 @@ dialogue:
     source: kaga115
   - n: 14
     speaker: 阿明
-    en: "Grandma, you can talk: you beat everyone here. You came third singing 山歌!"
-    sx: {hanzi: "阿婆，你贏過𠊎兜全部！你唱山歌第三名！", pinyin: "aˊ poˇ, nˇ iangˇ go ngaiˇ deuˊ qionˇ pu! nˇ cong sanˊ goˊ ti samˊ miangˇ!"}
-    hl: {hanzi: "阿婆，你贏過𠊎兜全部！你唱山歌第三名！", pinyin: "a+ po, ngi rhang goˇ ngai deuˋ cion pu+! ngi chongˇ sanˋ goˋ ti+ samˋ miang!"}
+    en: "Grandma, you can talk: you're better than all of us. You came third singing 山歌!"
+    sx: {hanzi: "阿婆，你比𠊎兜還較慶！你唱山歌得著第三名！", pinyin: "aˊ poˇ, nˇ biˋ ngaiˇ deuˊ hanˇ ka kiang! nˇ cong sanˊ goˊ dedˋ doˋ ti samˊ miangˇ!"}
+    hl: {hanzi: "阿婆，你比𠊎兜還較慶！你唱山歌得著第三名！", pinyin: "a+ po, ngi biˊ ngai deuˋ han haˇ kiangˇ! ngi chongˇ sanˋ goˋ ded doˊ ti+ samˋ miang!"}
     check: true
 
 notes:
@@ -93,6 +93,8 @@ notes:
       Comparison: X 比 Y 較 + adjective, "X is more… than Y": 佢比𠊎較高 "he is taller than me" (an official example has
       exactly this: 佢比𠊎較高，逐擺排列仔總係排到𠊎背尾 "he's taller than me; in line he always ends up behind me").
       Without 比, 較 alone is "rather, more": 阿明走較遽 (line 7) "A-min is (running) faster". 比 from lesson 15.
+      With an amount, 較 drops out: 比𠊎高一息仔 (line 5) "a bit taller than me", 比 + adjective + amount (official
+      examples: 比華人高一息仔, 比一般車高加盡多). So "taller than you by five centimetres" is 比你高五公分.
   - ref: 4
     topic: grammar
     text: >
@@ -106,7 +108,8 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      Ranks: 頭名 teuˇ miangˇ "first place" (also 第一名), 第二名 "second", 第三名 "third" (lesson 60). 輸 suˊ "lose",
+      Ranks: 頭名 teuˇ miangˇ "first place" (also 第一名), 第二名 "second", 第三名 "third" (lesson 60), and they take a
+      verb: 得著頭名 "came first" (得著 "obtain", 打頭名 is also attested; official: 這擺走追仔，老弟得著頭名). 輸 suˊ "lose",
       贏 iangˇ "win, beat": 𠊎愛贏阿宏 "I have to beat 阿宏", 輸忒了 "lost". 爭差一步 "one step's difference": 爭差 "the
       difference, the gap".
   - ref: 13
@@ -117,9 +120,10 @@ notes:
   - ref: 14
     topic: grammar
     text: >
-      贏過 iangˇ go "better than, beat", literally "win past": attested in sayings (認真打拚贏過逐日算命 "hard work beats having your
-      fortune told every day"). Using it of people, as A-min does, is marked for checking. 高過你 "taller than you" is
-      sometimes cited as a Hakka comparative, but it has no official example; the course sticks to 比…較.
+      你比𠊎兜還較慶 "you're even better than us": 慶 kiang "capable, good at things" (還慶哦 "how clever!"), with 還較
+      "even more". The line is marked for checking. 高過你 "taller than you" is sometimes cited as a Hakka comparative,
+      but its two hits in the data are not comparatives (過高過長 "both tall and long"); and 贏過 is "have won before"
+      (佢贏過幾擺比賽). The course sticks to 比.
 
 new_words:
   - {hanzi: 走相逐, pinyin: "zeuˋ xiongˊ giugˋ", en: "(run) a race", hl: {hanzi: 走追仔, pinyin: "zeuˊ duiˋ er"}}
@@ -136,6 +140,7 @@ new_words:
   - {hanzi: 運動, pinyin: "iun tung", en: "sport, exercise", hl: {hanzi: 運動, pinyin: "rhun+ tung+"}}
   - {hanzi: 運動會, pinyin: "iun tung fi", en: "sports day", hl: {hanzi: 運動會, pinyin: "rhun+ tung+ fui+"}}
   - {hanzi: 輸贏, pinyin: "suˊ iangˇ", en: "winning and losing", hl: {hanzi: 輸贏, pinyin: "shuˋ rhang"}}
+  - {hanzi: 慶, pinyin: "kiang", en: "capable, clever, good at things", hl: {hanzi: 慶, pinyin: "kiangˇ"}}
   - {hanzi: 選手, pinyin: "xienˋ suˋ", en: "athlete, competitor", hl: {hanzi: 選手, pinyin: "sienˊ shiuˊ"}}
   - {hanzi: 跳, pinyin: "tiau", en: "jump", hl: {hanzi: 跳, pinyin: "tiauˇ"}}
   - {hanzi: 球, pinyin: "kiuˇ", en: "ball", hl: {hanzi: 球, pinyin: "kiu"}}

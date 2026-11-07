@@ -17,9 +17,9 @@ dialogue:
     hl: {hanzi: "今暗晡大家來開會。阿英有事情愛講。", pinyin: "gimˋ amˇ buˋ tai+ gaˋ loi koiˋ fui+. a+ rhinˋ rhiuˋ sii+ cin oiˇ gongˊ."}
   - n: 2
     speaker: 阿英
-    en: "My company in Taipei wants to promote me, with a higher salary. But the county government in Miaoli wants to take me on too, for a job in Hakka culture."
-    sx: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜愛請𠊎，做客家文化个頭路。", pinyin: "toiˇ bedˋ ge gungˊ siiˊ oi siinˊ ngaiˇ, ngied gibˋ ka goˊ. mˇ go meuˇ lidˋ ien ziin fuˋ me oi qiangˋ ngaiˇ, zo hagˋ gaˊ vunˇ fa ge teuˇ lu."}
-    hl: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜愛請𠊎，做客家文化个頭路。", pinyin: "toi bed gaiˇ gungˋ siiˋ oiˇ shinˋ ngai, ngiedˋ gib haˇ goˋ. m goˇ miau lid rhanˇ zhinˇ fuˊ meˇ oiˇ ciangˊ ngai, zoˇ hag gaˋ vun faˇ gaiˇ teu lu+."}
+    en: "My company in Taipei wants to promote me, with a higher salary. But the county government in Miaoli has invited me to an interview too, for a job in Hakka culture."
+    sx: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜喊𠊎去面試，做客家文化个頭路。", pinyin: "toiˇ bedˋ ge gungˊ siiˊ oi siinˊ ngaiˇ, ngied gibˋ ka goˊ. mˇ go meuˇ lidˋ ien ziin fuˋ me ham ngaiˇ hi mien cii, zo hagˋ gaˊ vunˇ fa ge teuˇ lu."}
+    hl: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜喊𠊎去面試，做客家文化个頭路。", pinyin: "toi bed gaiˇ gungˋ siiˋ oiˇ shinˋ ngai, ngiedˋ gib haˇ goˋ. m goˇ miau lid rhanˇ zhinˇ fuˊ meˇ hamˇ ngai hiˇ mienˇ chiˇ, zoˇ hag gaˋ vun faˇ gaiˇ teu lu+."}
   - n: 3
     speaker: 阿姆
     en: "Is the pay at the county lower?"
@@ -27,19 +27,19 @@ dialogue:
     hl: {hanzi: "縣政府个月給較少無？", pinyin: "rhanˇ zhinˇ fuˊ gaiˇ ngiedˋ gib haˇ shauˊ mo?"}
   - n: 4
     speaker: 阿英
-    en: "Lower. Five thousand less."
-    sx: {hanzi: "較少，少五千。", pinyin: "ka seuˋ, seuˋ ngˋ qienˊ."}
-    hl: {hanzi: "較少，少五千。", pinyin: "haˇ shauˊ, shauˊ ngˊ cienˋ."}
+    en: "Lower. Five thousand less. Less income, but the job is easier."
+    sx: {hanzi: "較少，少五千。收入較少，毋過頭路較輕鬆。", pinyin: "ka seuˋ, seuˋ ngˋ qienˊ. suˊ ngib ka seuˋ, mˇ go teuˇ lu ka kiangˊ sungˊ."}
+    hl: {hanzi: "較少，少五千。收入較少，毋過頭路較輕鬆。", pinyin: "haˇ shauˊ, shauˊ ngˊ cienˋ. shiuˋ ngibˋ haˇ shauˊ, m goˇ teu lu+ haˇ kiangˋ sungˋ."}
   - n: 5
     speaker: 阿明
-    en: "More money is better! You can save some, it's safer."
-    sx: {hanzi: "錢較多較好！做得存兜錢，較保險。", pinyin: "qienˇ ka doˊ ka hoˋ! zo dedˋ sunˇ deuˊ qienˇ, ka boˋ hiamˋ."}
-    hl: {hanzi: "錢較多較好！做得存兜錢，較保險。", pinyin: "cien haˇ doˋ haˇ hoˊ! zoˇ ded sun deuˋ cien, haˇ boˊ hiamˊ."}
+    en: "More money is better! It's still safer to save some money."
+    sx: {hanzi: "錢較多較好！還係存兜錢較保險。", pinyin: "qienˇ ka doˊ ka hoˋ! hanˇ he sunˇ deuˊ qienˇ ka boˋ hiamˋ."}
+    hl: {hanzi: "錢較多較好！還係存兜錢較保險。", pinyin: "cien haˇ doˋ haˇ hoˊ! han heˇ sun deuˋ cien haˇ boˊ hiamˊ."}
   - n: 6
     speaker: 阿婆
-    en: "Grandma's not interfering… but more money isn't as good as being near home."
-    sx: {hanzi: "阿婆毋管……毋過，錢多毋當屋下近。", pinyin: "aˊ poˇ mˇ gonˋ … mˇ go, qienˇ doˊ mˇ dong vugˋ kaˊ kiunˊ."}
-    hl: {hanzi: "阿婆毋管……毋過，錢多毋當屋下近。", pinyin: "a+ po m gonˊ … m goˇ, cien doˋ m dongˇ vug haˋ kiunˋ."}
+    en: "Grandma's not interfering… but Taipei is far, and more money isn't as good as being near home."
+    sx: {hanzi: "阿婆毋管……毋過，台北當遠，錢多毋當屋下近。", pinyin: "aˊ poˇ mˇ gonˋ … mˇ go, toiˇ bedˋ dongˊ ienˋ, qienˇ doˊ mˇ dong vugˋ kaˊ kiunˊ."}
+    hl: {hanzi: "阿婆毋管……毋過，台北當遠，錢多毋當屋下近。", pinyin: "a+ po m gonˊ … m goˇ, toi bed dongˋ rhanˊ, cien doˋ m dongˇ vug haˋ kiunˋ."}
     check: true
   - n: 7
     speaker: 阿爸
@@ -53,15 +53,14 @@ dialogue:
     hl: {hanzi: "做頭路，總愛自家歡喜。", pinyin: "zoˇ teu lu+, zungˊ oiˇ cid gaˋ fonˋ hiˊ."}
   - n: 9
     speaker: Sam
-    en: "I think… both jobs are good. Unless you don't want to come back to Miaoli."
-    sx: {hanzi: "𠊎想……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngaiˇ xiongˋ … liongˋ zagˋ teuˇ lu du dongˊ hoˋ. cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lidˋ."}
-    hl: {hanzi: "𠊎想……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngai siongˊ … liongˊ zhag teu lu+ du+ dongˋ hoˊ. chu fuiˋ ngi m siongˊ zhonˊ miau lid."}
+    en: "The way I see it… both jobs are good. Unless you don't want to come back to Miaoli."
+    sx: {hanzi: "𠊎个想法……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngaiˇ ge xiongˋ fabˋ … liongˋ zagˋ teuˇ lu du dongˊ hoˋ. cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lidˋ."}
+    hl: {hanzi: "𠊎个想法……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngai gaiˇ siongˊ fab … liongˊ zhag teu lu+ du+ dongˋ hoˊ. chu fuiˋ ngi m siongˊ zhonˊ miau lid."}
   - n: 10
     speaker: 阿明
     en: "Sis, come back home anyway! Sam's here!"
-    sx: {hanzi: "阿姊，你還係轉來好！Sam 在這！", pinyin: "aˊ jiˋ, nˇ hanˇ he zonˋ loiˇ hoˋ! Sam coiˊ iaˋ!"}
-    hl: {hanzi: "阿姊，你還係轉來好！Sam 在這！", pinyin: "a+ ziˊ, ngi han heˇ zhonˊ loi hoˊ! Sam coiˋ liaˊ!"}
-    check: true
+    sx: {hanzi: "阿姊，你還係轉來較好！Sam 在這！", pinyin: "aˊ jiˋ, nˇ hanˇ he zonˋ loiˇ ka hoˋ! Sam coiˊ iaˋ!"}
+    hl: {hanzi: "阿姊，你還係轉來較好！Sam 在這！", pinyin: "a+ ziˊ, ngi han heˇ zhonˊ loi haˇ hoˊ! Sam coiˋ liaˊ!"}
   - n: 11
     speaker: 阿英
     en: "A-min!"
@@ -74,9 +73,9 @@ dialogue:
     hl: {hanzi: "𠊎甘願月給少兜，做歡喜个頭路。", pinyin: "ngai gamˋ ngien+ ngiedˋ gib shauˊ deuˋ, zoˇ fonˋ hiˊ gaiˇ teu lu+."}
   - n: 13
     speaker: 阿爸
-    en: "Good. Think about what you plan to do, and make up your own mind. Meeting over: no conclusion tonight."
-    sx: {hanzi: "好。你想看啊有麼个打算，主意自家拿。今暗晡開會無結論。", pinyin: "hoˋ. nˇ xiongˋ kon a iuˊ maˋ ge daˋ son, zuˋ i qi gaˊ naˊ. gimˊ am buˊ koiˊ fi moˇ giedˋ lun."}
-    hl: {hanzi: "好。你想看啊有麼个打算，主意自家拿。今暗晡開會無結論。", pinyin: "hoˊ. ngi siongˊ konˇ a+ rhiuˋ maˊ gaiˇ daˊ sonˇ, zhuˊ rhiˇ cid gaˋ naˋ. gimˋ amˇ buˋ koiˋ fui+ mo gied lun+."}
+    en: "Good. Go to the interview, think about what you plan to do, and make up your own mind. We've discussed it long enough: no conclusion tonight."
+    sx: {hanzi: "好。面試先去，你想看啊有麼个打算，你自家拿主意。大家討論恁久了，今暗晡無結論。", pinyin: "hoˋ. mien cii xienˊ hi, nˇ xiongˋ kon a iuˊ maˋ ge daˋ son, nˇ qi gaˊ naˊ zuˋ i. tai gaˊ toˋ lun anˋ giuˋ leˊ, gimˊ am buˊ moˇ giedˋ lun."}
+    hl: {hanzi: "好。面試先去，你想看啊有麼个打算，你自家拿主意。大家討論恁久了，今暗晡無結論。", pinyin: "hoˊ. mienˇ chiˇ senˋ hiˇ, ngi siongˊ konˇ a+ rhiuˋ maˊ gaiˇ daˊ sonˇ, ngi cid gaˋ naˋ zhuˊ rhiˇ. tai+ gaˋ toˊ lun+ anˊ giuˊ leˋ, gimˋ amˇ buˋ mo gied lun+."}
     check: true
 
 notes:
@@ -96,7 +95,7 @@ notes:
     topic: grammar
     text: >
       總愛 zungˋ oi "must, whatever happens; after all you have to": it puts a condition above the others. Official
-      examples: 總愛工夫下來深，鐵杵乜做得磨成針 "put in the work, and even an iron bar can be ground into a needle".
+      example: 總愛工夫下來深，鐵杵乜做得磨成針 "put in the work, and even an iron bar can be ground into a needle".
   - ref: 9
     topic: grammar
     text: >
@@ -106,7 +105,8 @@ notes:
     topic: grammar
     text: >
       還係 hanˇ he has two jobs. In lesson 18 it was "or" in a question (Hailu 抑係); here it is "still, all the same,
-      after all": 你還係轉來好 "you'd better come back after all", like 還係愛 in the official examples (雖然你當譴佢，毋過還係
+      after all": 你還係轉來較好 "you'd better come back after all", the attested frame 還係…較好 (還係無愛同佢講較好 "better not
+      tell him after all"), like 還係愛 in the official examples (雖然你當譴佢，毋過還係
       愛尊重佢 "even if you're angry with him, you still have to respect him"). In this sense Hailu says 還係 han heˇ too.
   - ref: 12
     topic: grammar
@@ -118,8 +118,9 @@ notes:
   - ref: 13
     topic: vocab
     text: >
-      主意 zuˋ i is a false friend: not "idea" but "a decision", 拿主意 "make up one's mind": 主意自家拿 "make up your own
-      mind" (the word order with the object first is marked for checking). 打算 "plan, intention"; 想看啊 "think it
+      主意 zuˋ i "idea; decision": 出主意 "come up with an idea" (佢出个主意妙妙仔 "his idea was brilliant"), 拿主意 "make
+      up one's mind": 你自家拿主意, as in the official 請你遽遽拿主意 "please make up your mind quickly". 面試 "interview":
+      in the examples (對天光日个面試，佢全無信心), not in the word lists; the line is marked for checking. 打算 "plan, intention"; 想看啊 "think it
       over" (lesson 36's V看啊). 開會 "hold a meeting", 結論 "conclusion". A-in's interview is lesson 75.
 
 new_words:

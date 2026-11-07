@@ -20,8 +20,7 @@ dialogue:
     speaker: Sam
     en: "And the mountain path is covered with fallen petals, all white too. It's like snow in May."
     sx: {hanzi: "山路項乜係落花，白雪雪仔，像五月个雪。", pinyin: "sanˊ lu hong me he log faˊ, pag xiedˋ xiedˋ eˇ, qiong ngˋ ngied ge xiedˋ."}
-    hl: {hanzi: "山路項乜係落花，白雪雪，像五月个雪。", pinyin: "sanˋ lu+ hong+ meˇ heˇ logˋ faˋ, pagˋ sied sied, ciongˇ ngˊ ngiedˋ gaiˇ sied."}
-    check: true
+    hl: {hanzi: "山路項乜係落花，白雪雪仔，像五月个雪。", pinyin: "sanˋ lu+ hong+ meˇ heˇ logˋ faˋ, pagˋ sied sied er, ciongˇ ngˊ ngiedˋ gaiˇ sied."}
   - n: 3
     speaker: 阿英
     en: "In spring the tung flowers bloom; in summer it's hot; in autumn the leaves turn red."
@@ -35,9 +34,9 @@ dialogue:
     check: true
   - n: 5
     speaker: 阿英
-    en: "(laughing) You've learnt 浸青? Then what's very, very red?"
-    sx: {hanzi: "你會講浸青了？該當紅當紅呢？", pinyin: "nˇ voi gongˋ jim qiangˊ leˊ? ge dongˊ fungˇ dongˊ fungˇ neˇ?"}
-    hl: {hanzi: "你會講浸青了？該當紅當紅呢？", pinyin: "ngi voi+ gongˊ zimˇ ciangˋ leˋ? gai dongˋ fung dongˋ fung neˇ?"}
+    en: "(laughing) You've learnt 浸青? Then how do you say 'very red'?"
+    sx: {hanzi: "你會講浸青了？恁樣，「當紅」愛仰般講？", pinyin: "nˇ voi gongˋ jim qiangˊ leˊ? anˋ ngiongˇ, dongˊ fungˇ oi ngiongˋ banˊ gongˋ?"}
+    hl: {hanzi: "你會講浸青了？恁樣，「當紅」愛仰般講？", pinyin: "ngi voi+ gongˊ zimˇ ciangˋ leˋ? an ngiong, dongˋ fung oiˇ ngiongˊ banˋ gongˊ?"}
   - n: 6
     speaker: Sam
     en: "啾紅! Like your face right now."
@@ -51,13 +50,14 @@ dialogue:
   - n: 8
     speaker: Sam
     en: "(stopping on the path) In 竹東, every day… I missed you."
-    sx: {hanzi: "在竹東，逐日……𠊎當想念你。", pinyin: "coiˊ zugˋ dungˊ, dagˋ ngidˋ … ngaiˇ dongˊ xiongˋ ngiam nˇ."}
-    hl: {hanzi: "在竹東，逐日……𠊎當想念你。", pinyin: "coiˋ zhug dungˋ, dag ngid … ngai dongˋ siongˊ ngiam+ ngi."}
+    sx: {hanzi: "在竹東，逐日……𠊎盡想你。", pinyin: "coiˊ zugˋ dungˊ, dagˋ ngidˋ … ngaiˇ qin xiongˋ nˇ."}
+    hl: {hanzi: "在竹東，逐日……𠊎最想你。", pinyin: "coiˋ zhug dungˋ, dag ngid … ngai zuiˇ siongˊ ngi."}
   - n: 9
     speaker: 阿英
-    en: "(after a moment) I know. …I'm going to take the job in Miaoli."
-    sx: {hanzi: "𠊎知。……縣政府个頭路，𠊎愛去做。", pinyin: "ngaiˇ diˊ. … ien ziin fuˋ ge teuˇ lu, ngaiˇ oi hi zo."}
-    hl: {hanzi: "𠊎知。……縣政府个頭路，𠊎愛去做。", pinyin: "ngai diˋ. … rhanˇ zhinˇ fuˊ gaiˇ teu lu+, ngai oiˇ hiˇ zoˇ."}
+    en: "(after a moment) I know. …I'm going to the county interview."
+    sx: {hanzi: "𠊎知。……縣政府个面試，𠊎愛去。", pinyin: "ngaiˇ diˊ. … ien ziin fuˋ ge mien cii, ngaiˇ oi hi."}
+    hl: {hanzi: "𠊎知。……縣政府个面試，𠊎愛去。", pinyin: "ngai diˋ. … rhanˇ zhinˇ fuˊ gaiˇ mienˇ chiˇ, ngai oiˇ hiˇ."}
+    check: true
   - n: 10
     speaker: Sam
     en: "Really? Because of the job, or…"
@@ -72,7 +72,7 @@ dialogue:
     speaker: Sam
     en: "(taking the photo) The sky's blue, the clouds are white, the flowers are white…"
     sx: {hanzi: "天頂青青，雲白雪雪仔，花乜白雪雪仔……", pinyin: "tienˊ dangˋ qiangˊ qiangˊ, iunˇ pag xiedˋ xiedˋ eˇ, faˊ me pag xiedˋ xiedˋ eˇ …"}
-    hl: {hanzi: "天頂青青，雲白雪雪，花乜白雪雪……", pinyin: "tienˋ dangˊ ciangˋ ciangˋ, rhun pagˋ sied sied, faˋ meˇ pagˋ sied sied …"}
+    hl: {hanzi: "天頂青青，雲白雪雪仔，花乜白雪雪仔……", pinyin: "tienˋ dangˊ ciangˋ ciangˋ, rhun pagˋ sied sied er, faˋ meˇ pagˋ sied sied er …"}
   - n: 13
     speaker: 阿英
     en: "And your face is 啾紅 too."
@@ -80,30 +80,31 @@ dialogue:
     hl: {hanzi: "你个面乜啾紅。", pinyin: "ngi gaiˇ mienˇ meˇ ziuˋ fung."}
   - n: 14
     speaker: 阿英
-    en: "Come and sit in the shade of the trees for a bit; it's cool. Look, a butterfly!"
-    sx: {hanzi: "來，在樹蔭坐一下，當涼。你看，揚蝶仔！", pinyin: "loiˇ, coiˊ su im coˊ idˋ ha, dongˊ liongˇ. nˇ kon, iongˇ iag eˋ!"}
-    hl: {hanzi: "來，在樹蔭坐一下，當涼。你看，蝶仔！", pinyin: "loi, coiˋ shu+ rhimˇ coˋ rhid ha+, dongˋ liong. ngi konˇ, rhagˋ er!"}
-    check: true
+    en: "Come and sit in the shade of the trees and cool off. Look, a butterfly!"
+    sx: {hanzi: "來，坐在樹蔭下背尞涼。你看，揚蝶仔！", pinyin: "loiˇ, coˊ coiˊ su im haˊ boi liau liongˇ. nˇ kon, iongˇ iag eˋ!"}
+    hl: {hanzi: "來，坐在樹蔭下背尞涼。你看，蝶仔！", pinyin: "loi, coˋ coiˋ shu+ rhimˇ haˋ boiˇ liau+ liong. ngi konˇ, rhagˋ er!"}
   - n: 15
     speaker: Sam
-    en: "(sitting on a stone) This path is lovely to walk… I'd come here every year."
-    sx: {hanzi: "這條山路當好行……𠊎逐年都想來。", pinyin: "iaˋ tiauˇ sanˊ lu dongˊ hoˋ hangˇ … ngaiˇ dagˋ ngienˇ du xiongˋ loiˇ."}
-    hl: {hanzi: "這條山路當好行……𠊎逐年都想來。", pinyin: "liaˊ tiau sanˋ lu+ dongˋ hoˊ hang … ngai dag ngien du+ siongˊ loi."}
+    en: "(sitting on a stone) This path is lovely to walk, and the woods are beautiful… I'd come here every year at this season."
+    sx: {hanzi: "這條山路當好行，樹林當靚……𠊎逐年這隻季節都想來。", pinyin: "iaˋ tiauˇ sanˊ lu dongˊ hoˋ hangˇ, su naˇ dongˊ jiangˊ … ngaiˇ dagˋ ngienˇ iaˋ zagˋ gui jiedˋ du xiongˋ loiˇ."}
+    hl: {hanzi: "這條山路當好行，樹林當靚……𠊎逐年這隻季節都想來。", pinyin: "liaˊ tiau sanˋ lu+ dongˋ hoˊ hang, shu+ na dongˋ ziangˋ … ngai dag ngien liaˊ zhag guiˇ zied du+ siongˊ loi."}
 
 notes:
   - ref: 1
     topic: grammar
     text: >
       白雪雪仔 pag xiedˋ xiedˋ eˇ "snow-white": colour + an image said twice, ABB. The line is an official sentence in
-      Sixian (滿山个油桐花開到白雪雪仔) and Hailu (…開到白雪雪, without 仔). Compare the AA of lesson 45 (紅紅, 青青): ABB
+      Sixian (滿山个油桐花開到白雪雪仔) and Hailu (…開到白雪雪); the Hailu word list itself has 白雪雪仔 pagˋ sied sied er,
+      with 仔, and its definition gives 天頂个雲白雪雪仔 (Sam's line 12). Compare the AA of lesson 45: ABB
       adds a picture, "white as snow". 開到白雪雪 "bloom until (the hill is) snow-white": V到 + result (lesson 27).
   - ref: 1
     topic: culture
     text: >
       油桐花 iuˇ tungˇ faˊ, the tung tree's white flower, blooms in the Hakka hills in April and May; an official example
       mentions 桐花祭 "the tung blossom festival", and another sends people to 苗栗公館 to see it (天光日放尞，𠊎摎你兜共下
-      去苗栗公館看油桐花). The trees were planted for their oil (桐油). "Snow in May" (五月雪) is a common nickname; it is
-      not in the data, and Sam's line is marked. 落花 "fallen petals" (line 2).
+      去苗栗公館看油桐花). The flowers give 桐油 "tung oil": 桐油係桐花打子取桐仁榨出來个 "tung oil is pressed from the
+      kernels of the tung fruit" (official). The dictionary's entry for 桐花 adds 所以又叫五月雪 "so it is also called
+      'May snow'", which is what Sam half says in line 2 (油桐花 is also 六月雪, "June snow"). 落花 "fallen petals" (line 2).
   - ref: 3
     topic: vocab
     text: >
@@ -112,15 +113,18 @@ notes:
   - ref: 4
     topic: grammar
     text: >
-      Fixed intensifiers: some colour words take their own "very" in front, and no other: 浸青 jim qiangˊ "deep green"
+      Fixed intensifiers: some colour words take their own "very" in front: 浸青 jim qiangˊ "deep green"
       (浸青个短豆仔 "bright green string beans"), 啾紅 jiuˊ fungˇ "bright red" (五月个石榴仔花開到啾紅 "the May pomegranate
-      flowers come out bright red", official). 青 qiangˊ (lesson 8) covers green and blue: 天頂青青 (line 12) "the sky is blue". 歸年
+      flowers come out bright red", official; also 漬紅 for the same red, 歸身變到啾紅(漬紅)). 青 qiangˊ (lesson 8) covers green and blue: 天頂青青 (line 12) "the sky is blue". 歸年
       "the whole year": 歸 "whole".
   - ref: 8
     topic: culture
     text: >
-      想念 (lesson 62): in the letter Sam missed "the people of Miaoli"; here he says whom. A-in's answer is two
-      syllables, then a decision about her job: the family meeting (lesson 68) had no conclusion, this walk has one.
+      𠊎盡想你 "I missed you so much": 盡 "very" here, not "most" (盡 is both; Hailu 最). In the letter (lesson 62) Sam
+      wrote 想念, a written word with one example; out loud it is 想 (大家人都盡想你呢 "everyone misses you so much").
+      Here he says whom. A-in's answer is two
+      syllables, then a decision: the family meeting (lesson 68) had no conclusion; on this walk she decides to go to
+      the interview (lesson 75).
   - ref: 10
     topic: hailu
     text: >
@@ -132,13 +136,13 @@ notes:
   - ref: 14
     topic: vocab
     text: >
-      揚蝶仔 iongˇ iag eˋ "butterfly" (Hailu 蝶仔); 樹蔭 su im "the shade of a tree"; 涼 "cool". 樹林 su naˇ (exercise) is
-      "forest", a false friend for readers of Mandarin, where 樹林 is just "woods".
+      揚蝶仔 iongˇ iag eˋ "butterfly" (Hailu 蝶仔); 坐在樹蔭下背尞涼 "sit in the shade and cool off" is an official
+      sentence: 樹蔭 su im "the shade of a tree", 尞涼 liau liongˇ "rest in the cool". 樹林 (line 15) "woods, forest".
 
 new_words:
   - {hanzi: 油桐花, pinyin: "iuˇ tungˇ faˊ", en: "tung blossom", hl: {hanzi: 油桐花, pinyin: "rhiu tung faˋ"}}
   - {hanzi: 滿山, pinyin: "manˊ sanˊ", en: "the whole hillside, all over the hills", hl: {hanzi: 滿山, pinyin: "manˋ sanˋ"}}
-  - {hanzi: 白雪雪仔, pinyin: "pag xiedˋ xiedˋ eˇ", en: "snow-white", hl: {hanzi: 白雪雪, pinyin: "pagˋ sied sied"}}
+  - {hanzi: 白雪雪仔, pinyin: "pag xiedˋ xiedˋ eˇ", en: "snow-white", hl: {hanzi: 白雪雪仔, pinyin: "pagˋ sied sied er"}}
   - {hanzi: 春天, pinyin: "cunˊ tienˊ", en: "spring", hl: {hanzi: 春天, pinyin: "chunˋ tienˋ"}}
   - {hanzi: 熱天, pinyin: "ngied tienˊ", en: "summer", hl: {hanzi: 熱天, pinyin: "ngiedˋ tienˋ"}}
   - {hanzi: 秋天, pinyin: "qiuˊ tienˊ", en: "autumn", hl: {hanzi: 秋天, pinyin: "ciuˋ tienˋ"}}
@@ -148,7 +152,7 @@ new_words:
   - {hanzi: 雲, pinyin: "iunˇ", en: "cloud", hl: {hanzi: 雲, pinyin: "rhun"}}
   - {hanzi: 季節, pinyin: "gui jiedˋ", en: "season", hl: {hanzi: 季節, pinyin: "guiˇ zied"}}
   - {hanzi: 揚蝶仔, pinyin: "iongˇ iag eˋ", en: "butterfly", hl: {hanzi: 蝶仔, pinyin: "rhagˋ er"}}
-  - {hanzi: 涼, pinyin: "liongˇ", en: "cool", hl: {hanzi: 涼, pinyin: "liong"}}
+  - {hanzi: 尞涼, pinyin: "liau liongˇ", en: "rest in the cool", hl: {hanzi: 尞涼, pinyin: "liau+ liong"}}
   - {hanzi: 脆, pinyin: "coi", en: "crunchy, crisp", hl: {hanzi: 脆, pinyin: "ceˇ"}}
   - {hanzi: 樹林, pinyin: "su naˇ", en: "forest, woods", hl: {hanzi: 樹林, pinyin: "shu+ na"}}
   - {hanzi: 山路, pinyin: "sanˊ lu", en: "mountain path", hl: {hanzi: 山路, pinyin: "sanˋ lu+"}}
@@ -167,8 +171,8 @@ exercises:
       sx: {hanzi: "浸青个短豆仔炒豬肉，食起來當脆。", pinyin: "jim qiangˊ ge donˋ teu eˋ cauˋ zuˊ ngiugˋ, siid hiˋ loiˇ dongˊ coi."}
       hl: {hanzi: "浸青个明豆炒豬肉，食起來當脆。", pinyin: "zimˇ ciangˋ gaiˇ min teu+ cauˊ zhuˋ ngiug, shidˋ hiˊ loi dongˋ ceˇ."}
     - en: "Which season do you like best? — Spring, for the tung blossom."
-      sx: {hanzi: "你盡好哪隻季節？——春天，有桐花。", pinyin: "nˇ qin hau nai zagˋ gui jiedˋ? — cunˊ tienˊ, iuˊ tungˇ faˊ."}
-      hl: {hanzi: "你最好哪隻季節？——春天，有桐花。", pinyin: "ngi zuiˇ hauˇ nai+ zhag guiˇ zied? — chunˋ tienˋ, rhiuˋ tung faˋ."}
+      sx: {hanzi: "你盡歡喜哪隻季節？——春天，有桐花。", pinyin: "nˇ qin fonˊ hiˋ nai zagˋ gui jiedˋ? — cunˊ tienˊ, iuˊ tungˇ faˊ."}
+      hl: {hanzi: "你最歡喜哪隻季節？——春天，有桐花。", pinyin: "ngi zuiˇ fonˋ hiˊ nai+ zhag guiˇ zied? — chunˋ tienˋ, rhiuˋ tung faˋ."}
     - en: "There's a forest on the mountain; the path runs past a big rock."
       sx: {hanzi: "山項有樹林，山路對大石頭該片過。", pinyin: "sanˊ hong iuˊ su naˇ, sanˊ lu dui tai sag teuˇ ge pienˋ go."}
       hl: {hanzi: "山項有樹林，山路對大石頭該片過。", pinyin: "sanˋ hong+ rhiuˋ shu+ na, sanˋ lu+ duiˇ tai+ shagˋ teu gai pienˊ goˇ."}
@@ -176,7 +180,7 @@ exercises:
   fill:
     - en: "The flowers are snow-white."
       sx: {hanzi: "花開到___。", pinyin: "faˊ koiˊ do ___.", answer_hanzi: "白雪雪仔", answer: "pag xiedˋ xiedˋ eˇ"}
-      hl: {hanzi: "花開到___。", pinyin: "faˋ koiˋ doˇ ___.", answer_hanzi: "白雪雪", answer: "pagˋ sied sied"}
+      hl: {hanzi: "花開到___。", pinyin: "faˋ koiˋ doˇ ___.", answer_hanzi: "白雪雪仔", answer: "pagˋ sied sied er"}
     - en: "Her face went bright red."
       sx: {hanzi: "佢个面___。", pinyin: "giˇ ge mien ___.", answer_hanzi: "啾紅", answer: "jiuˊ fungˇ"}
       hl: {hanzi: "佢个面___。", pinyin: "gi gaiˇ mienˇ ___.", answer_hanzi: "啾紅", answer: "ziuˋ fung"}
