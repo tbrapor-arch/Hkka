@@ -1,0 +1,185 @@
+id: 81
+title:
+  en: "A Hakka poem"
+  sx: {hanzi: "一首詩", pinyin: "idˋ suˋ siiˊ"}
+  hl: {hanzi: "一首詩", pinyin: "rhid shiuˊ shiˋ"}
+review: false
+setting: >-
+  Monday 7 June, four in the afternoon. Grandpa came home from hospital at noon, with a bandaged hand and a stick he
+  refuses to use. He is on his chair on the veranda, facing the tea field. Sam has spent his evenings this week
+  writing something, with a dictionary and a lot of crossings-out.
+names: [阿明, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Thank goodness he's out today. Grandpa, sit down slowly."
+    sx: {hanzi: "好得，今晡日出院了。阿公，慢慢坐。", pinyin: "hoˋ dedˋ, gimˊ buˊ ngidˋ cudˋ ien leˊ. aˊ gungˊ, man man coˊ.", groups: "hoˋ dedˋ, gimˊ buˊ ngidˋ | cudˋ ien leˊ. aˊ gungˊ, man man coˊ."}
+    hl: {hanzi: "好得，今晡日出院了。阿公，慢慢坐。", pinyin: "hoˊ ded, gimˋ buˋ ngid chud rhanˇ leˋ. a+ gungˋ, man+ man+ coˋ."}
+  - n: 2
+    speaker: 阿明
+    en: "Grandpa, Sam has something for you."
+    sx: {hanzi: "阿公，Sam 有東西送分你。", pinyin: "aˊ gungˊ, Sam iuˊ dungˊ xiˊ sung bunˊ nˇ."}
+    hl: {hanzi: "阿公，Sam 有東西送分你。", pinyin: "a+ gungˋ, Sam rhiuˋ dungˋ siˋ sungˇ bunˋ ngi."}
+  - n: 3
+    speaker: Sam
+    en: "Grandpa, I wrote a poem in hospital, in Hakka. It's called 'Going home'."
+    sx: {hanzi: "阿公，𠊎在醫院寫一首詩，用客話寫个。題目係「轉屋下」。", pinyin: "aˊ gungˊ, ngaiˇ coiˊ iˊ ien xiaˋ idˋ suˋ siiˊ, iung hagˋ fa xiaˋ ge. tiˇ mugˋ he zonˋ vugˋ kaˊ."}
+    hl: {hanzi: "阿公，𠊎在醫院寫一首詩，用客話寫个。題目係「轉屋下」。", pinyin: "a+ gungˋ, ngai coiˋ rhiˋ rhanˇ siaˊ rhid shiuˊ shiˋ, rhung+ hag voiˋ siaˊ gaiˇ. ti mugˋ heˇ zhonˊ vug haˋ."}
+  - n: 4
+    speaker: 阿公
+    en: "…Read it."
+    sx: {hanzi: "……唸。", pinyin: "… ngiam."}
+    hl: {hanzi: "……唸。", pinyin: "… ngiam+."}
+  - n: 5
+    speaker: Sam
+    en: "(reading slowly) 'Seven days in the ward, and the nights are long,'"
+    sx: {hanzi: "病房七日暗晡長，", pinyin: "piang fongˇ qidˋ ngidˋ am buˊ congˇ,", groups: "piang fongˇ | qidˋ ngidˋ | am buˊ congˇ,"}
+    hl: {hanzi: "病房七日暗晡長，", pinyin: "piang+ fong cid ngid amˇ buˋ chong,", groups: "piang+ fong | cid ngid | amˇ buˋ chong,"}
+  - n: 6
+    speaker: Sam
+    en: "'I dreamt of the tea field in the bright sun.'"
+    sx: {hanzi: "夢著茶園日頭光。", pinyin: "mung doˋ caˇ ienˇ ngidˋ teuˇ gongˊ.", groups: "mung doˋ | caˇ ienˇ | ngidˋ teuˇ gongˊ."}
+    hl: {hanzi: "夢著茶園日頭光。", pinyin: "mung+ doˊ ca rhan ngid teu gongˋ.", groups: "mung+ doˊ | ca rhan | ngid teu gongˋ."}
+  - n: 7
+    speaker: Sam
+    en: "'In all of life, the best place is home:'"
+    sx: {hanzi: "人生盡好係屋下，", pinyin: "nginˇ senˊ qin hoˋ he vugˋ kaˊ,", groups: "nginˇ senˊ | qin hoˋ | he vugˋ kaˊ,"}
+    hl: {hanzi: "人生盡好係屋下，", pinyin: "ngin senˋ cin+ hoˊ heˇ vug haˋ,", groups: "ngin senˋ | cin+ hoˊ | heˇ vug haˋ,"}
+  - n: 8
+    speaker: Sam
+    en: "'one cup of hot tea, and the whole house smells of it.'"
+    sx: {hanzi: "一杯燒茶滿屋香。", pinyin: "idˋ biˊ seuˊ caˇ manˊ vugˋ hiongˊ.", groups: "idˋ biˊ | seuˊ caˇ | manˊ vugˋ hiongˊ."}
+    hl: {hanzi: "一杯燒茶滿屋香。", pinyin: "rhid buiˋ shauˋ ca manˋ vug hiongˋ.", groups: "rhid buiˋ | shauˋ ca | manˋ vug hiongˋ."}
+  - n: 9
+    speaker: 阿英
+    en: "It rhymes! 長, 光, 香. It reads really smoothly."
+    sx: {hanzi: "有押韻哦！長、光、香。讀起來當順。", pinyin: "iuˊ abˋ iun oˊ! congˇ, gongˊ, hiongˊ. tug hiˋ loiˇ dongˊ sun."}
+    hl: {hanzi: "有押韻哦！長、光、香。讀起來當順。", pinyin: "rhiuˋ ab rhun+ oˊ! chong, gongˋ, hiongˋ. tugˋ hiˊ loi dongˋ shun+."}
+  - n: 10
+    speaker: 阿婆
+    en: "And you read the 生 in 人生 right: in a poem, you use the reading-from-books way."
+    sx: {hanzi: "「人生」个「生」，你乜讀著了。唸詩，愛用讀書个讀法。", pinyin: "nginˇ senˊ ge senˊ, nˇ me tug doˋ leˊ. ngiam siiˊ, oi iung tug suˊ ge tug fabˋ."}
+    hl: {hanzi: "「人生」个「生」，你乜讀著了。唸詩，愛用讀書个讀法。", pinyin: "ngin senˋ gaiˇ senˋ, ngi meˇ tugˋ doˊ leˋ. ngiam+ shiˋ, oiˇ rhung+ tugˋ shuˋ gaiˇ tugˋ fab."}
+    check: true
+  - n: 11
+    speaker: Sam
+    en: "Grandpa taught me, the night he sang."
+    sx: {hanzi: "阿公唱山歌該暗晡教𠊎个。", pinyin: "aˊ gungˊ cong sanˊ goˊ ge am buˊ gauˊ ngaiˇ ge."}
+    hl: {hanzi: "阿公唱山歌該暗晡教𠊎个。", pinyin: "a+ gungˋ chongˇ sanˋ goˋ gai amˇ buˋ gauˋ ngai gaiˇ."}
+  - n: 12
+    speaker: 阿明
+    en: "'One cup of hot tea'… Grandpa, do you want some tea?"
+    sx: {hanzi: "「一杯燒茶」……阿公，你愛食茶無？", pinyin: "idˋ biˊ seuˊ caˇ … aˊ gungˊ, nˇ oi siid caˇ moˇ?"}
+    hl: {hanzi: "「一杯燒茶」……阿公，你愛食茶無？", pinyin: "rhid buiˋ shauˋ ca … a+ gungˋ, ngi oiˇ shidˋ ca mo?"}
+  - n: 13
+    speaker: 阿公
+    en: "Yes. …The poem: read it once more."
+    sx: {hanzi: "愛。……詩，再唸一擺。", pinyin: "oi. … siiˊ, zai ngiam idˋ baiˋ."}
+    hl: {hanzi: "愛。……詩，再唸一擺。", pinyin: "oiˇ. … shiˋ, zaiˇ ngiam+ rhid baiˊ."}
+  - n: 14
+    speaker: 阿英
+    en: "(quietly, to Sam) Look, Grandma has tears in her eyes."
+    sx: {hanzi: "你看，阿婆个目汁都流出來了。", pinyin: "nˇ kon, aˊ poˇ ge mugˋ ziibˋ du liuˇ cudˋ loiˇ leˊ."}
+    hl: {hanzi: "你看，阿婆个目汁都流出來了。", pinyin: "ngi konˇ, a+ po gaiˇ mug zhib du+ lau chud loi leˋ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      Reading aloud: tone sandhi (lesson 0, section 4) works inside a phrase. In 今晡日 gimˊ buˊ ngidˋ, 今 comes before
+      another ˊ syllable, so it is read gimˇ; 晡 comes before ˋ and keeps its ˊ. The `groups` line shows the breaks
+      where sandhi stops: 出院了 is a new phrase. The text always writes the dictionary tones; the change is made in the
+      mouth.
+  - ref: 3
+    topic: vocab
+    text: >
+      一首詩 idˋ suˋ siiˊ "a poem": 首 is its classifier, as in Mandarin. 題目 tiˇ mugˋ "title" (and "exam question").
+      用客話寫个 "written in Hakka": 用 "with, in" (lesson 36) + 係…个 without 係.
+  - ref: 5
+    topic: culture
+    text: >
+      The poem is written for this course, in the shape of a classical quatrain: four lines of seven syllables, read
+      in three beats (two, two, three), as the `groups` lines show. It rhymes on lines 1, 2 and 4: 長 congˇ, 光 gongˊ,
+      香 hiongˊ all end in -ong in Sixian (Hailu chong, gongˋ, hiongˋ: the same). Line 3 does not rhyme, as in a
+      classical quatrain. 夢著 "dreamt of": 夢 mung + 著 "and got it" (lesson 33). 滿屋 "the whole house".
+  - ref: 9
+    topic: grammar
+    text: >
+      押韻 abˋ iun "rhyme"; 讀起來 "when you read it": 起來 after a verb of perception, "to the reader". An official example
+      says the same thing of someone's poetry: 厥詩文大作有押韻，讀起來正實當順 "his poems rhyme, and read very
+      smoothly". 順 sun "smooth".
+  - ref: 10
+    topic: grammar
+    text: >
+      人生 nginˇ senˊ, with the learned reading of 生 (lesson 37), and 讀著 "read correctly" (著 doˋ "got it right").
+      唸詩 "recite a poem": 唸 (lesson 37) is reading aloud with rhythm. Whether a reader would also choose learned
+      readings for other words of a poem written in everyday Hakka is a native speaker's question: marked for a check.
+  - ref: 14
+    topic: vocab
+    text: >
+      目汁 "tears" (lesson 27): 目汁流出來 "tears come out". The scene needs nothing more.
+
+new_words:
+  - {hanzi: 首, pinyin: "suˋ", en: "(classifier for poems and songs)", hl: {hanzi: 首, pinyin: "shiuˊ"}}
+  - {hanzi: 詩, pinyin: "siiˊ", en: "poem, poetry", hl: {hanzi: 詩, pinyin: "shiˋ"}}
+  - {hanzi: 題目, pinyin: "tiˇ mugˋ", en: "title; (exam) question", hl: {hanzi: 題目, pinyin: "ti mugˋ"}}
+  - {hanzi: 夢, pinyin: "mung", en: "dream", hl: {hanzi: 夢, pinyin: "mung+"}}
+  - {hanzi: 滿, pinyin: "manˊ", en: "full; the whole (滿屋)", hl: {hanzi: 滿, pinyin: "manˋ"}}
+  - {hanzi: 押韻, pinyin: "abˋ iun", en: "rhyme", hl: {hanzi: 押韻, pinyin: "ab rhun+"}}
+  - {hanzi: 順, pinyin: "sun", en: "smooth, flowing", hl: {hanzi: 順, pinyin: "shun+"}}
+  - {hanzi: 節奏, pinyin: "jiedˋ zeu", en: "rhythm", hl: {hanzi: 節奏, pinyin: "zied zeuˇ"}}
+  - {hanzi: 古詩, pinyin: "guˋ siiˊ", en: "classical poem", hl: {hanzi: 古詩, pinyin: "guˊ shiˋ"}}
+  - {hanzi: 詩人, pinyin: "siiˊ nginˇ", en: "poet", hl: {hanzi: 詩人, pinyin: "shiˋ ngin"}}
+  - {hanzi: 文章, pinyin: "vunˇ zongˊ", en: "piece of writing, essay", hl: {hanzi: 文章, pinyin: "vun zhongˋ"}}
+  - {hanzi: 創作, pinyin: "congˋ zogˋ", en: "create, write (creative work)", hl: {hanzi: 創作, pinyin: "congˊ zog"}}
+  - {hanzi: 感覺, pinyin: "gamˋ gogˋ", en: "feeling; feel", hl: {hanzi: 感覺, pinyin: "gamˊ gog"}}
+  - {hanzi: 抄, pinyin: "cauˊ", en: "copy (out)", hl: {hanzi: 抄, pinyin: "cauˋ"}}
+  - {hanzi: 背, pinyin: "boi", en: "learn by heart", hl: {hanzi: 背, pinyin: "boiˇ"}}
+  - {hanzi: 書法, pinyin: "suˊ fabˋ", en: "calligraphy", hl: {hanzi: 書法, pinyin: "shuˋ fab"}}
+  - {hanzi: 朗讀, pinyin: "long tug", en: "read aloud", hl: {hanzi: 朗讀, pinyin: "longˇ tugˋ"}}
+  - {hanzi: 長短, pinyin: "congˇ donˋ", en: "length", hl: {hanzi: 長短, pinyin: "chong donˊ"}}
+  - {hanzi: 字典, pinyin: "sii dienˋ", en: "dictionary", hl: {hanzi: 字典, pinyin: "sii+ dienˊ"}}
+  - {hanzi: 詞, pinyin: "ciiˇ", en: "word (in a dictionary or a poem)", hl: {hanzi: 詞, pinyin: "cii"}}
+  - {hanzi: 聞, pinyin: "vunˇ", en: "smell (verb); hear (literary)", hl: {hanzi: 聞, pinyin: "vun"}}
+  - {hanzi: 流出來, pinyin: "liuˇ cudˋ loiˇ", en: "flow out, run (of tears)", hl: {hanzi: 流出來, pinyin: "liu chud loi"}}
+
+exercises:
+  translate:
+    - en: "Sam looked every word up in the dictionary."
+      sx: {hanzi: "Sam 逐隻詞都在字典肚尋過。", pinyin: "Sam dagˋ zagˋ ciiˇ du coiˊ sii dienˋ duˋ qimˇ go."}
+      hl: {hanzi: "Sam 逐隻詞都在字典肚尋過。", pinyin: "Sam dag zhag cii du+ coiˋ sii+ dienˊ duˊ cim goˇ."}
+      check: true
+    - en: "A-in copied the poem out in calligraphy."
+      sx: {hanzi: "阿英用書法摎這首詩抄起來。", pinyin: "aˊ inˊ iung suˊ fabˋ lauˊ iaˋ suˋ siiˊ cauˊ hiˋ loiˇ."}
+      hl: {hanzi: "阿英用書法摎這首詩抄起來。", pinyin: "a+ rhinˋ rhung+ shuˋ fab lauˋ liaˊ shiuˊ shiˋ cauˋ hiˊ loi."}
+    - en: "A-min has to learn a classical poem by heart for school."
+      sx: {hanzi: "阿明在學校愛背一首古詩。", pinyin: "aˊ minˇ coiˊ hog gauˋ oi boi idˋ suˋ guˋ siiˊ."}
+      hl: {hanzi: "阿明在學校愛背一首古詩。", pinyin: "a+ min coiˋ hogˋ gauˊ oiˇ boiˇ rhid shiuˊ guˊ shiˋ."}
+      check: true
+    - en: "Reading aloud, you have to keep the rhythm; the length of each line is the same."
+      sx: {hanzi: "朗讀愛注意節奏，逐句个長短都共樣。", pinyin: "long tug oi zu i jiedˋ zeu, dagˋ gi ge congˇ donˋ du kiung iong."}
+      hl: {hanzi: "朗讀愛注意節奏，逐句个長短都共樣。", pinyin: "longˇ tugˋ oiˇ zhuˇ rhiˇ zied zeuˇ, dag giˇ gaiˇ chong donˊ du+ kiung+ rhong+."}
+      check: true
+    - en: "Smell it: the whole house smells of tea."
+      sx: {hanzi: "你聞看啊，滿屋都係茶香。", pinyin: "nˇ vunˇ kon a, manˊ vugˋ du he caˇ hiongˊ."}
+      hl: {hanzi: "你聞看啊，滿屋都係茶香。", pinyin: "ngi vun konˇ a+, manˋ vug du+ heˇ ca hiongˋ."}
+    - en: "I had a dream: I dreamt I'd become a poet."
+      sx: {hanzi: "𠊎做一隻夢，夢著自家變做詩人。", pinyin: "ngaiˇ zo idˋ zagˋ mung, mung doˋ qi gaˊ bien zo siiˊ nginˇ."}
+      hl: {hanzi: "𠊎做一隻夢，夢著自家變做詩人。", pinyin: "ngai zoˇ rhid zhag mung+, mung+ doˊ cid gaˋ bienˇ zoˇ shiˋ ngin."}
+      check: true
+    - en: "Writing (creative writing) is hard, but the feeling is wonderful."
+      sx: {hanzi: "創作當難，毋過感覺當好。寫文章乜係恁樣。", pinyin: "congˋ zogˋ dongˊ nanˇ, mˇ go gamˋ gogˋ dongˊ hoˋ. xiaˋ vunˇ zongˊ me he anˋ ngiongˇ."}
+      hl: {hanzi: "創作當難，毋過感覺當好。寫文章乜係恁樣。", pinyin: "congˊ zog dongˋ nan, m goˇ gamˊ gog dongˋ hoˊ. siaˊ vun zhongˋ meˇ heˇ an ngiong."}
+  fill:
+    - en: "A poem (classifier)."
+      sx: {hanzi: "一___詩。", pinyin: "idˋ ___ siiˊ.", answer_hanzi: "首", answer: "suˋ"}
+      hl: {hanzi: "一___詩。", pinyin: "rhid ___ shiˋ.", answer_hanzi: "首", answer: "shiuˊ"}
+    - en: "It rhymes!"
+      sx: {hanzi: "有___哦！", pinyin: "iuˊ ___ oˊ!", answer_hanzi: "押韻", answer: "abˋ iun"}
+      hl: {hanzi: "有___哦！", pinyin: "rhiuˋ ___ oˊ!", answer_hanzi: "押韻", answer: "ab rhun+"}
+    - en: "It reads smoothly."
+      sx: {hanzi: "讀起來當___。", pinyin: "tug hiˋ loiˇ dongˊ ___.", answer_hanzi: "順", answer: "sun"}
+      hl: {hanzi: "讀起來當___。", pinyin: "tugˋ hiˊ loi dongˋ ___.", answer_hanzi: "順", answer: "shun+"}
+
+audio: []
