@@ -1,0 +1,165 @@
+id: 26
+title:
+  en: "A visitor for A-min"
+  sx: {hanzi: "你好麼个？", pinyin: "nˇ hau maˋ ge?"}
+  hl: {hanzi: "你好麼个？", pinyin: "ngi hauˇ maˊ gaiˇ?"}
+review: false
+setting: >-
+  Friday, four in the afternoon. The doorbell rings. A-min opens the door and finds the girl from the station in
+  lesson 17, his classmate, with her schoolbag.
+names: [阿玉, 阿明, 客家小炒]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "A-yu! What are you doing here?"
+    sx: {hanzi: "阿玉！你仰會來？", pinyin: "aˊ ngiug! nˇ ngiongˋ voi loiˇ?"}
+    hl: {hanzi: "阿玉！你仰會來？", pinyin: "a+ ngiugˋ! ngi ngiongˊ voi+ loi?"}
+  - n: 2
+    speaker: 阿玉
+    en: "The teacher told us to do the homework together."
+    sx: {hanzi: "先生喊𫣆兜共下做功課。", pinyin: "xinˊ sangˊ ham enˊ deuˊ kiung ha zo gungˊ ko."}
+    hl: {hanzi: "先生喊𫣆兜共下做功課。", pinyin: "sinˋ sangˋ hamˇ enˋ deuˋ kiung+ ha+ zoˇ gungˋ koˇ."}
+  - n: 3
+    speaker: Sam
+    en: "A-yu! I know you! The station!"
+    sx: {hanzi: "阿玉！𠊎識你！火車頭！", pinyin: "aˊ ngiug! ngaiˇ siidˋ nˇ! foˋ caˊ teuˇ!"}
+    hl: {hanzi: "阿玉！𠊎識你！火車頭！", pinyin: "a+ ngiugˋ! ngai shid ngi! foˊ chaˋ teu!"}
+  - n: 4
+    speaker: 阿玉
+    en: "That's me! Your Hakka has got better."
+    sx: {hanzi: "係𠊎！你个客話較好了。", pinyin: "he ngaiˇ! nˇ ge hagˋ fa ka hoˋ leˊ."}
+    hl: {hanzi: "係𠊎！你个客話較好了。", pinyin: "heˇ ngai! ngi gaiˇ hag voiˋ haˇ hoˊ leˋ."}
+  - n: 5
+    speaker: Sam
+    en: "A-yu, what do you like doing, usually?"
+    sx: {hanzi: "阿玉，你平常好做麼个？", pinyin: "aˊ ngiug, nˇ pinˇ songˇ hau zo maˋ ge?"}
+    hl: {hanzi: "阿玉，你平常好做麼个？", pinyin: "a+ ngiugˋ, ngi pin shong hauˇ zoˇ maˊ gaiˇ?"}
+  - n: 6
+    speaker: 阿玉
+    en: "I like drawing, and singing too. You can speak English, can't you?"
+    sx: {hanzi: "𠊎好畫圖，乜好唱歌。你曉得講英語，係無？", pinyin: "ngaiˇ hau fa tuˇ, me hau cong goˊ. nˇ hiauˋ dedˋ gongˋ inˊ ngiˊ, he moˇ?"}
+    hl: {hanzi: "𠊎好畫圖，乜好唱歌。你曉得講英語，係無？", pinyin: "ngai hauˇ fa+ tu, meˇ hauˇ chongˇ goˋ. ngi hiauˊ ded gongˊ rhinˋ ngiˋ, heˇ mo?"}
+  - n: 7
+    speaker: Sam
+    en: "Yes."
+    sx: {hanzi: "曉得。", pinyin: "hiauˋ dedˋ."}
+    hl: {hanzi: "曉得。", pinyin: "hiauˊ ded."}
+  - n: 8
+    speaker: 阿玉
+    en: "I only know a little English. Could you teach me?"
+    sx: {hanzi: "𠊎曉得一息仔英語定定。你做得教𠊎無？", pinyin: "ngaiˇ hiauˋ dedˋ idˋ xid eˋ inˊ ngiˊ tin tin. nˇ zo dedˋ gauˊ ngaiˇ moˇ?"}
+    hl: {hanzi: "𠊎曉得一息仔英語定定。你做得教𠊎無？", pinyin: "ngai hiauˊ ded rhid sid er+ rhinˋ ngiˋ tin+ tin+. ngi zoˇ ded gauˋ ngai mo?"}
+  - n: 9
+    speaker: Sam
+    en: "Sure!"
+    sx: {hanzi: "做得！", pinyin: "zo dedˋ!"}
+    hl: {hanzi: "做得！", pinyin: "zoˇ ded!"}
+  - n: 10
+    speaker: 阿明
+    en: "No he can't! I'm his teacher!"
+    sx: {hanzi: "做毋得！𠊎係佢个先生！", pinyin: "zomˇ dedˋ! ngaiˇ he giˇ ge xinˊ sangˊ!"}
+    hl: {hanzi: "做毋得！𠊎係佢个先生！", pinyin: "zoˇ m ded! ngai heˇ gi gaiˇ sinˋ sangˋ!"}
+  - n: 11
+    speaker: 阿婆
+    en: "(arriving with a plate of rice cakes) A-yu, come and have some! A-min is Grandma's very dearest grandson."
+    sx: {hanzi: "阿玉，來食粄！阿明係阿婆盡惜个孫仔。", pinyin: "aˊ ngiug, loiˇ siid banˋ! aˊ minˇ he aˊ poˇ qin xiagˋ ge sunˊ eˋ."}
+    hl: {hanzi: "阿玉，來食粄！阿明係阿婆最惜个孫仔。", pinyin: "a+ ngiugˋ, loi shidˋ banˊ! a+ min heˇ a+ po zuiˇ siag gaiˇ sunˋ er."}
+  - n: 12
+    speaker: 阿明
+    en: "Grandma!"
+    sx: {hanzi: "阿婆！", pinyin: "aˊ poˇ!"}
+    hl: {hanzi: "阿婆！", pinyin: "a+ po!"}
+
+notes:
+  - ref: 2
+    topic: vocab
+    text: >
+      功課 gungˊ ko "homework"; 做功課 "do homework". 先生 is "teacher" again, and 喊 ham "tell (someone) to". 𫣆兜
+      "we (you and I)": A-yu is talking to A-min, so the "we" includes him.
+  - ref: 3
+    topic: grammar
+    text: >
+      識 siidˋ "know (a person)": 𠊎識你 "I know you". Line 6 has the other "know", 曉得 hiauˋ dedˋ "know how to, can"
+      (會): 你曉得講英語 "you can speak English". People and places you 識; skills you 曉得. Facts you 知 (lesson 9).
+  - ref: 5
+    topic: false-friend
+    text: >
+      好 hau "like doing": 你好做麼个？ "what do you like doing?", 𠊎好畫圖 "I like drawing". The high level hau, not
+      hoˋ "good" (lesson 11). 平常 pinˇ songˇ "usually, normally". 畫圖 fa tuˇ "draw, paint"; 唱歌 "sing (songs)".
+  - ref: 8
+    topic: grammar
+    text: >
+      定定 tin tin at the end of a sentence is "only, that's all" (而已): 𠊎曉得一息仔英語定定 "I only know a little
+      English". It goes last, after everything else; the sentence is said first and then cut down to size.
+  - ref: 10
+    topic: grammar
+    text: >
+      做毋得 zomˇ dedˋ "no, you can't" (lesson 25), A-min's veto. He has been Sam's self-appointed teacher since
+      lesson 10 and is not sharing the job.
+  - ref: 11
+    topic: vocab
+    text: >
+      惜 xiagˋ "love, cherish, dote on" (疼愛): the love of grandparents for grandchildren, parents for children. 愛
+      is "want" (lesson 3); 惜 is the word for affection. 盡惜个孫仔 "the grandson (she) loves most". 孫仔 sunˊ eˋ
+      "grandchild". Note the pattern from lesson 18 (佢盡好食个菜): a whole description before the noun, joined by 个.
+  - ref: 12
+    topic: culture
+    text: >
+      In lesson 23 it was Sam who cried 阿婆！ when Grandma said too much in public. Grandmas are the same with
+      everyone.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 好 hauˇ "like", 曉得 hiauˊ ded, 定定 tin+ tin+, 惜 siag; and 最惜 where Sixian says 盡惜.
+
+new_words:
+  - {hanzi: 功課, pinyin: "gungˊ ko", en: "homework", hl: {hanzi: 功課, pinyin: "gungˋ koˇ"}}
+  - {hanzi: 平常, pinyin: "pinˇ songˇ", en: "usually, ordinary", hl: {hanzi: 平常, pinyin: "pin shong"}}
+  - {hanzi: 畫圖, pinyin: "fa tuˇ", en: "draw, paint", hl: {hanzi: 畫圖, pinyin: "fa+ tu"}}
+  - {hanzi: 曉得, pinyin: "hiauˋ dedˋ", en: "know how to, can (a skill)", hl: {hanzi: 曉得, pinyin: "hiauˊ ded"}}
+  - {hanzi: 英語, pinyin: "inˊ ngiˊ", en: "English", hl: {hanzi: 英語, pinyin: "rhinˋ ngiˋ"}}
+  - {hanzi: 定定, pinyin: "tin tin", en: "only, that's all (而已)", hl: {hanzi: 定定, pinyin: "tin+ tin+"}}
+  - {hanzi: 惜, pinyin: "xiagˋ", en: "love, cherish, dote on", hl: {hanzi: 惜, pinyin: "siag"}}
+  - {hanzi: 孫仔, pinyin: "sunˊ eˋ", en: "grandchild", hl: {hanzi: 孫仔, pinyin: "sunˋ er"}}
+  - {hanzi: 讀書, pinyin: "tug suˊ", en: "study, go to school", hl: {hanzi: 讀書, pinyin: "tugˋ shuˋ"}}
+  - {hanzi: 電影, pinyin: "tien iangˋ", en: "film, movie", hl: {hanzi: 電影, pinyin: "tien+ rhangˊ"}}
+  - {hanzi: 興趣, pinyin: "him qi", en: "interest, hobby", hl: {hanzi: 興趣, pinyin: "himˇ ciˇ"}}
+  - {hanzi: 書, pinyin: "suˊ", en: "book", hl: {hanzi: 書, pinyin: "shuˋ"}}
+  - {hanzi: 寫, pinyin: "xiaˋ", en: "write", hl: {hanzi: 寫, pinyin: "siaˊ"}}
+  - {hanzi: 字, pinyin: "sii", en: "character, word (written)", hl: {hanzi: 字, pinyin: "sii+"}}
+  - {hanzi: 學, pinyin: "hog", en: "learn", hl: {hanzi: 學, pinyin: "hogˋ"}}
+  - {hanzi: 唱歌, pinyin: "cong goˊ", en: "sing (songs)", hl: {hanzi: 唱歌, pinyin: "chongˇ goˋ"}}
+
+exercises:
+  translate:
+    - en: "Sam likes watching films."
+      sx: {hanzi: "Sam 好看電影。", pinyin: "Sam hau kon tien iangˋ."}
+      hl: {hanzi: "Sam 好看電影。", pinyin: "Sam hauˇ konˇ tien+ rhangˊ."}
+    - en: "Do you know how to cook 客家小炒?"
+      sx: {hanzi: "你曉得煮客家小炒無？", pinyin: "nˇ hiauˋ dedˋ zuˋ hagˋ gaˊ seuˋ cauˋ moˇ?"}
+      hl: {hanzi: "你曉得煮客家小炒無？", pinyin: "ngi hiauˊ ded zhuˊ hag gaˋ siauˊ cauˊ mo?"}
+    - en: "I've only got a hundred, that's all."
+      sx: {hanzi: "𠊎有一百定定。", pinyin: "ngaiˇ iuˊ idˋ bagˋ tin tin."}
+      hl: {hanzi: "𠊎有一百定定。", pinyin: "ngai rhiuˋ rhid bag tin+ tin+."}
+    - en: "Grandpa dotes on his grandchildren."
+      sx: {hanzi: "阿公當惜孫仔。", pinyin: "aˊ gungˊ dongˊ xiagˋ sunˊ eˋ."}
+      hl: {hanzi: "阿公當惜孫仔。", pinyin: "a+ gungˋ dongˋ siag sunˋ er."}
+    - en: "What are your hobbies? — Reading and studying."
+      sx: {hanzi: "你个興趣係麼个？——看書、讀書。", pinyin: "nˇ ge him qi he maˋ ge? — kon suˊ, tug suˊ."}
+      hl: {hanzi: "你个興趣係麼个？——看書、讀書。", pinyin: "ngi gaiˇ himˇ ciˇ heˇ maˊ gaiˇ? — konˇ shuˋ, tugˋ shuˋ."}
+    - en: "A-yu writes beautiful characters; she wants to learn English."
+      sx: {hanzi: "阿玉寫字當靚，佢想愛學英語。", pinyin: "aˊ ngiug xiaˋ sii dongˊ jiangˊ, giˇ xiongˋ oi hog inˊ ngiˊ."}
+      hl: {hanzi: "阿玉寫字當靚，佢想愛學英語。", pinyin: "a+ ngiugˋ siaˊ sii+ dongˋ ziangˋ, gi siongˊ oiˇ hogˋ rhinˋ ngiˋ."}
+  fill:
+    - en: "Do you know A-yu? (the person)"
+      sx: {hanzi: "你___阿玉無？", pinyin: "nˇ ___ aˊ ngiug moˇ?", answer_hanzi: "識", answer: "siidˋ"}
+      hl: {hanzi: "你___阿玉無？", pinyin: "ngi ___ a+ ngiugˋ mo?", answer_hanzi: "識", answer: "shid"}
+    - en: "Can you speak English? (a skill)"
+      sx: {hanzi: "你___講英語無？", pinyin: "nˇ ___ gongˋ inˊ ngiˊ moˇ?", answer_hanzi: "曉得", answer: "hiauˋ dedˋ"}
+      hl: {hanzi: "你___講英語無？", pinyin: "ngi ___ gongˊ rhinˋ ngiˋ mo?", answer_hanzi: "曉得", answer: "hiauˊ ded"}
+    - en: "Just a little, that's all."
+      sx: {hanzi: "一息仔___。", pinyin: "idˋ xid eˋ ___.", answer_hanzi: "定定", answer: "tin tin"}
+      hl: {hanzi: "一息仔___。", pinyin: "rhid sid er+ ___.", answer_hanzi: "定定", answer: "tin+ tin+"}
+
+audio: []

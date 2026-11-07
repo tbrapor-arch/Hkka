@@ -1,0 +1,135 @@
+id: 28
+title:
+  en: "Review 4"
+  sx: {hanzi: "係麼人煮个？", pinyin: "he maˋ nginˇ zuˋ ge?"}
+  hl: {hanzi: "係麼人煮个？", pinyin: "heˇ maˊ ngin zhuˊ gaiˇ?"}
+review: true
+setting: >-
+  Sunday morning. Grandma and Grandpa got back from the wedding feast after midnight. Grandma is in the kitchen early,
+  as always, and she has opened the fridge. Nothing new in the dialogue: everything comes from lessons 1–27.
+names: [阿明, 客家小炒, 阿玉]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Morning, Grandma! Was the wedding food good?"
+    sx: {hanzi: "阿婆，恁早！昨晡日食酒，好食無？", pinyin: "aˊ poˇ, anˋ zoˋ! coˊ buˊ ngidˋ siid jiuˋ, hoˋ siid moˇ?"}
+    hl: {hanzi: "阿婆，恁早！昨晡日食酒，好食無？", pinyin: "a+ po, anˊ zoˊ! coˋ buˋ ngid shidˋ ziuˊ, hoˊ shidˋ mo?"}
+  - n: 2
+    speaker: 阿婆
+    en: "Very good! Twelve dishes! And what did you two eat last night?"
+    sx: {hanzi: "當好食！十二盤菜！你兜昨晡日食麼个？", pinyin: "dongˊ hoˋ siid! siib ngi panˇ coi! nˇ deuˊ coˊ buˊ ngidˋ siid maˋ ge?"}
+    hl: {hanzi: "當好食！十二盤菜！你兜昨晡日食麼个？", pinyin: "dongˋ hoˊ shidˋ! shibˋ ngi+ pan coiˇ! ngi deuˋ coˋ buˋ ngid shidˋ maˊ gaiˇ?"}
+  - n: 3
+    speaker: 阿明
+    en: "(quickly) 客家小炒! Sam made it!"
+    sx: {hanzi: "客家小炒！Sam 煮个！", pinyin: "hagˋ gaˊ seuˋ cauˋ! Sam zuˋ ge!"}
+    hl: {hanzi: "客家小炒！Sam 煮个！", pinyin: "hag gaˋ siauˊ cauˊ! Sam zhuˊ gaiˇ!"}
+  - n: 4
+    speaker: 阿婆
+    en: "Sam made it? …Could you eat it?"
+    sx: {hanzi: "Sam 煮个？……做得食無？", pinyin: "Sam zuˋ ge? … zo dedˋ siid moˇ?"}
+    hl: {hanzi: "Sam 煮个？……做得食無？", pinyin: "Sam zhuˊ gaiˇ? … zoˇ ded shidˋ mo?"}
+  - n: 5
+    speaker: Sam
+    en: "Yes! A-min loved it."
+    sx: {hanzi: "做得！阿明盡好食。", pinyin: "zo dedˋ! aˊ minˇ qin hau siid."}
+    hl: {hanzi: "做得！阿明最好食。", pinyin: "zoˇ ded! a+ min zuiˇ hauˇ shidˋ."}
+  - n: 6
+    speaker: 阿婆
+    en: "(Grandpa coughs) Have you taken your medicine? Three times a day, after meals!"
+    sx: {hanzi: "你个藥仔食了無？一日三擺，食飽正食！", pinyin: "nˇ ge iog eˋ siid leˊ moˇ? idˋ ngidˋ samˊ baiˋ, siid bauˋ zang siid!"}
+    hl: {hanzi: "你个藥仔食了無？一日三擺，食飽正食！", pinyin: "ngi gaiˇ rhogˋ er shidˋ leˋ mo? rhid ngid samˋ baiˊ, shidˋ bauˊ zhangˇ shidˋ!"}
+  - n: 7
+    speaker: 阿公
+    en: "Taken it. That's enough."
+    sx: {hanzi: "食了。罅了。", pinyin: "siid leˊ. la leˊ."}
+    hl: {hanzi: "食了。罅了。", pinyin: "shidˋ leˋ. la+ leˋ."}
+  - n: 8
+    speaker: 阿婆
+    en: "It isn't enough! Three days!"
+    sx: {hanzi: "毋罅！食三日！", pinyin: "mˇ la! siid samˊ ngidˋ!"}
+    hl: {hanzi: "毋罅！食三日！", pinyin: "m la+! shidˋ samˋ ngid!"}
+  - n: 9
+    speaker: 阿婆
+    en: "(holding up a plate from the fridge) And who made this fried rice? It's terribly salty!"
+    sx: {hanzi: "這盤炒飯係麼人煮个？死鹹！", pinyin: "iaˋ panˇ cauˋ fan he maˋ nginˇ zuˋ ge? xiˋ hamˇ!"}
+    hl: {hanzi: "這盤炒飯係麼人煮个？死鹹！", pinyin: "liaˊ pan cauˊ pon+ heˇ maˊ ngin zhuˊ gaiˇ? siˊ ham!"}
+  - n: 10
+    speaker: 阿明
+    en: "(with Sam, at the same moment) Not me!"
+    sx: {hanzi: "毋係𠊎！", pinyin: "mˇ he ngaiˇ!"}
+    hl: {hanzi: "毋係𠊎！", pinyin: "m heˇ ngai!"}
+  - n: 11
+    speaker: 阿公
+    en: "(not looking up from his tea) A-min."
+    sx: {hanzi: "阿明。", pinyin: "aˊ minˇ."}
+    hl: {hanzi: "阿明。", pinyin: "a+ min."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      Greetings and set phrases so far: 恁早 "good morning", 食飽吂？, 恁久無看著 "long time no see", 恁仔細 (Hailu 承蒙你)
+      "thank you", 毋使 "no need", 借問 "excuse me", 請食茶 "please have some tea", 放心 "don't worry".
+  - ref: 4
+    topic: grammar
+    text: >
+      Can and may: 會 (a skill, what will happen), 當會 "good at", 曉得 "know how to", 做得 "may, can, it's possible",
+      做毋得 "mustn't". Know: 識 a person, 知 a fact, 曉得 a skill.
+  - ref: 6
+    topic: grammar
+    text: >
+      How often and how long go after the verb: 一日食三擺 "three times a day", 食三日 "take it for three days", 坐一日
+      "sat all day". 食飽正食 "only after meals".
+  - ref: 7
+    topic: grammar
+    text: >
+      Enough and too much: 罅 "enough", 毋罅 "not enough", 忒 "too" (忒多, 忒鹹), 死 + adjective "terribly" (死鹹). And
+      verb + 到 + how far: 煮到恁死鹹, 驚到毋敢講.
+  - ref: 9
+    topic: grammar
+    text: >
+      係…个 picks out who did it: 係麼人煮个？ "who made it?", 係 Sam 煮个 "Sam made it". Plain 煮个 (line 3) works too.
+  - ref: 11
+    topic: culture
+    text: >
+      Grandpa says one word in this lesson, and it is the only word that matters. Cover the English and tell the
+      story of the week (伯公, the opera, the pharmacy, the guesthouse, A-yu, the fried rice) in your own Hakka.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this week: 冷著 for 寒著, 最惜 for 盡惜, 鼻空 for 鼻公, 肚屎枵 for 肚飢, and 做毋得 said in three syllables
+      (zoˇ m ded) where Sixian runs it into two (zomˇ dedˋ).
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "May I see the room? — No, you can't."
+      sx: {hanzi: "做得看間房無？——做毋得。", pinyin: "zo dedˋ kon gienˊ fongˇ moˇ? — zomˇ dedˋ."}
+      hl: {hanzi: "做得看間房無？——做毋得。", pinyin: "zoˇ ded konˇ gienˋ fong mo? — zoˇ m ded."}
+    - en: "A-yu can speak a little English, that's all."
+      sx: {hanzi: "阿玉曉得講一息仔英語定定。", pinyin: "aˊ ngiug hiauˋ dedˋ gongˋ idˋ xid eˋ inˊ ngiˊ tin tin."}
+      hl: {hanzi: "阿玉曉得講一息仔英語定定。", pinyin: "a+ ngiugˋ hiauˊ ded gongˊ rhid sid er+ rhinˋ ngiˋ tin+ tin+."}
+    - en: "Grandma burns incense at the shrine and wishes everyone safe and well."
+      sx: {hanzi: "阿婆在伯公下燒香，希望大家都平安。", pinyin: "aˊ poˇ coiˊ bagˋ gungˊ haˊ seuˊ hiongˊ, hiˊ mong tai gaˊ du pinˇ onˊ."}
+      hl: {hanzi: "阿婆在伯公下燒香，希望大家都平安。", pinyin: "a+ po coiˋ bag gungˋ haˋ shauˋ hiongˋ, hiˋ mong+ tai+ gaˋ du+ pin onˋ."}
+    - en: "That opera singer sings really well; everyone loves her."
+      sx: {hanzi: "該隻細妹仔當會唱，大家都盡好聽。", pinyin: "ge zagˋ se moi eˋ dongˊ voi cong, tai gaˊ du qin hau tangˊ."}
+      hl: {hanzi: "該隻細妹仔當會唱，大家都最好聽。", pinyin: "gai zhag seˇ moiˇ er dongˋ voi+ chongˇ, tai+ gaˋ du+ zuiˇ hauˇ tangˋ."}
+    - en: "Give the sweets to Grandpa; the medicine is too bitter."
+      sx: {hanzi: "糖仔分阿公，藥仔忒苦了。", pinyin: "tongˇ eˋ bunˊ aˊ gungˊ, iog eˋ tedˋ fuˋ leˊ."}
+      hl: {hanzi: "糖仔分阿公，藥仔忒苦了。", pinyin: "tong er bunˋ a+ gungˋ, rhogˋ er ted fuˊ leˋ."}
+  fill:
+    - en: "My name is Sam."
+      sx: {hanzi: "𠊎___Sam。", pinyin: "ngaiˇ ___ Sam.", answer_hanzi: "安到", answer: "onˊ do"}
+      hl: {hanzi: "𠊎___Sam。", pinyin: "ngai ___ Sam.", answer_hanzi: "安到", answer: "onˋ doˇ"}
+    - en: "Grandma loves A-min dearly."
+      sx: {hanzi: "阿婆當___阿明。", pinyin: "aˊ poˇ dongˊ ___ aˊ minˇ.", answer_hanzi: "惜", answer: "xiagˋ"}
+      hl: {hanzi: "阿婆當___阿明。", pinyin: "a+ po dongˋ ___ a+ min.", answer_hanzi: "惜", answer: "siag"}
+    - en: "Long time no see!"
+      sx: {hanzi: "恁久無___！", pinyin: "anˋ giuˋ moˇ ___!", answer_hanzi: "看著", answer: "kon doˋ"}
+      hl: {hanzi: "恁久無___！", pinyin: "anˊ giuˊ mo ___!", answer_hanzi: "看著", answer: "konˇ doˊ"}
+
+audio: []

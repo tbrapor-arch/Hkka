@@ -1,0 +1,169 @@
+id: 27
+title:
+  en: "A-min cooks"
+  sx: {hanzi: "仰煮到恁死鹹？", pinyin: "ngiongˋ zuˋ do anˋ xiˋ hamˇ?"}
+  hl: {hanzi: "仰煮到恁死鹹？", pinyin: "ngiongˊ zhuˊ doˇ anˊ siˊ ham?"}
+review: false
+setting: >-
+  Saturday evening. Grandma and Grandpa are at a cousin's wedding banquet in 頭份, Mr and Mrs Liu are at the shop
+  until late. For the first time in living memory, nobody is cooking. A-min has an idea.
+names: [頭份, 客家小炒]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Grandma and Grandpa are out at a wedding feast tonight. I'll cook!"
+    sx: {hanzi: "暗晡阿婆同阿公去食酒，𠊎來煮！", pinyin: "am buˊ aˊ poˇ tungˇ aˊ gungˊ hi siid jiuˋ, ngaiˇ loiˇ zuˋ!"}
+    hl: {hanzi: "暗晡阿婆摎阿公去食酒，𠊎來煮！", pinyin: "amˇ buˋ a+ po lauˋ a+ gungˋ hiˇ shidˋ ziuˊ, ngai loi zhuˊ!"}
+  - n: 2
+    speaker: Sam
+    en: "Do you know how to cook?"
+    sx: {hanzi: "你曉得煮無？", pinyin: "nˇ hiauˋ dedˋ zuˋ moˇ?"}
+    hl: {hanzi: "你曉得煮無？", pinyin: "ngi hiauˊ ded zhuˊ mo?"}
+  - n: 3
+    speaker: 阿明
+    en: "Of course I do! Fried rice!"
+    sx: {hanzi: "當然曉得！炒飯！", pinyin: "dongˊ ienˇ hiauˋ dedˋ! cauˋ fan!"}
+    hl: {hanzi: "當然曉得！炒飯！", pinyin: "dongˋ rhan hiauˊ ded! cauˊ pon+!"}
+  - n: 4
+    speaker: 阿明
+    en: "(half an hour later) Well? Is it good?"
+    sx: {hanzi: "仰般？好食無？", pinyin: "ngiongˋ banˊ? hoˋ siid moˇ?"}
+    hl: {hanzi: "仰般？好食無？", pinyin: "ngiongˊ banˋ? hoˊ shidˋ mo?"}
+  - n: 5
+    speaker: Sam
+    en: "(chewing bravely) It's very… very…"
+    sx: {hanzi: "當……當……", pinyin: "dongˊ … dongˊ …"}
+    hl: {hanzi: "當……當……", pinyin: "dongˋ … dongˋ …"}
+  - n: 6
+    speaker: 阿明
+    en: "(tasting it) …How did it end up so salty?"
+    sx: {hanzi: "……仰煮到恁死鹹？", pinyin: "… ngiongˋ zuˋ do anˋ xiˋ hamˇ?"}
+    hl: {hanzi: "……仰煮到恁死鹹？", pinyin: "… ngiongˊ zhuˊ doˇ anˊ siˊ ham?"}
+  - n: 7
+    speaker: 阿明
+    en: "I put in too much salt! Why didn't you say?"
+    sx: {hanzi: "鹽放忒多了！你仰會毋講？", pinyin: "iamˇ biong tedˋ doˊ leˊ! nˇ ngiongˋ voi mˇ gongˋ?"}
+    hl: {hanzi: "鹽放忒多了！你仰會毋講？", pinyin: "rham biongˇ ted doˋ leˋ! ngi ngiongˊ voi+ m gongˊ?"}
+  - n: 8
+    speaker: Sam
+    en: "I was too scared to say."
+    sx: {hanzi: "𠊎驚到毋敢講。", pinyin: "ngaiˇ giangˊ do mˇ gamˋ gongˋ."}
+    hl: {hanzi: "𠊎驚到毋敢講。", pinyin: "ngai giangˋ doˇ m gamˊ gongˊ."}
+  - n: 9
+    speaker: Sam
+    en: "Don't worry, I'll make 客家小炒. Grandma taught me."
+    sx: {hanzi: "毋使驚，𠊎來煮客家小炒。阿婆教𠊎个。", pinyin: "mˇ siiˋ giangˊ, ngaiˇ loiˇ zuˋ hagˋ gaˊ seuˋ cauˋ. aˊ poˇ gauˊ ngaiˇ ge."}
+    hl: {hanzi: "毋使驚，𠊎來煮客家小炒。阿婆教𠊎个。", pinyin: "m siiˊ giangˋ, ngai loi zhuˊ hag gaˋ siauˊ cauˊ. a+ po gauˋ ngai gaiˇ."}
+  - n: 10
+    speaker: 阿明
+    en: "(twenty minutes later, mouth full) It's really good! You cook better than me!"
+    sx: {hanzi: "當好食！你煮到比𠊎較好！", pinyin: "dongˊ hoˋ siid! nˇ zuˋ do biˋ ngaiˇ ka hoˋ!"}
+    hl: {hanzi: "當好食！你煮到比𠊎較好！", pinyin: "dongˋ hoˊ shidˋ! ngi zhuˊ doˇ biˊ ngai haˇ hoˊ!"}
+  - n: 11
+    speaker: 阿明
+    en: "…Sam, don't tell Grandma about my fried rice."
+    sx: {hanzi: "……Sam，莫同阿婆講𠊎个炒飯。", pinyin: "… Sam, mog tungˇ aˊ poˇ gongˋ ngaiˇ ge cauˋ fan."}
+    hl: {hanzi: "……Sam，莫摎阿婆講𠊎个炒飯。", pinyin: "… Sam, mogˋ lauˋ a+ po gongˊ ngai gaiˇ cauˊ pon+."}
+  - n: 12
+    speaker: Sam
+    en: "Don't worry."
+    sx: {hanzi: "放心。", pinyin: "fong ximˊ."}
+    hl: {hanzi: "放心。", pinyin: "fongˇ simˋ."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      食酒 siid jiuˋ, literally "drink wine", is "go to a banquet", above all a wedding feast: 去食酒 "go to the wedding
+      dinner". A Hakka wedding banquet is ten or more courses at round tables for hundreds of guests; the
+      grandparents will be back late and full. 𠊎來煮 "I'll cook": 來 + verb volunteers, as in 𠊎來賣 (lesson 16).
+  - ref: 3
+    topic: false-friend
+    text: >
+      當然 dongˊ ienˇ "of course", as in Mandarin, but note that the 當 is not the 當 "very" of lesson 8: same character,
+      same sound, different word. 炒飯 cauˋ fan "fried rice".
+  - ref: 6
+    topic: grammar
+    text: >
+      Verb + 到 + result: 煮到恁死鹹 "cooked until it was this salty", "how did it get so salty?". 到 do after a verb
+      leads to how far the action went, like Mandarin 得 / 到: 驚到毋敢講 "so scared (I) didn't dare speak" (line 8),
+      煮到比𠊎較好 "cooks better than me" (line 10). This is how Hakka says how well, how badly, how much.
+  - ref: 6
+    topic: vocab
+    text: >
+      死 xiˋ "dead" before an adjective is "terribly": 死鹹 "salty as death", the word every Hakka cook dreads. Use it
+      for unpleasant qualities: 死鹹, 死苦.
+  - ref: 7
+    topic: grammar
+    text: >
+      忒 tedˋ "too": 放忒多 "put in too much", 忒鹹 "too salty", 忒貴 "too dear". An official example says it to every
+      cook: 炒菜毋好放忒多油 "don't put too much oil in a stir-fry". 你仰會毋講？ "how come you didn't say?": 仰會 from
+      lesson 9. 仰 ngiongˋ alone before a verb is "how": 仰煮到恁死鹹 "how did it get cooked so salty" (an official
+      example has 這盤菜仰煮到恁死鹹).
+  - ref: 8
+    topic: vocab
+    text: >
+      敢 gamˋ "dare": 毋敢講 "don't dare say". 驚到毋敢講話 "too scared to speak" is an official example sentence; Sam's
+      line is the short version.
+  - ref: 12
+    topic: vocab
+    text: >
+      放心 fong ximˊ "don't worry, rest assured", as in Mandarin, with 放 read fong here (it was biong in lesson 4:
+      a word with two readings, the older biong for "put").
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 炒飯 cauˊ pon+, 忒 ted, 目汁 mug zhib. "Hungry" is 肚屎枵 in Hailu where Sixian says 肚飢.
+
+new_words:
+  - {hanzi: 食酒, pinyin: "siid jiuˋ", en: "go to a banquet (esp. a wedding)", hl: {hanzi: 食酒, pinyin: "shidˋ ziuˊ"}}
+  - {hanzi: 當然, pinyin: "dongˊ ienˇ", en: "of course", hl: {hanzi: 當然, pinyin: "dongˋ rhan"}}
+  - {hanzi: 炒飯, pinyin: "cauˋ fan", en: "fried rice", hl: {hanzi: 炒飯, pinyin: "cauˊ pon+"}}
+  - {hanzi: 死鹹, pinyin: "xiˋ hamˇ", en: "terribly salty", hl: {hanzi: 死鹹, pinyin: "siˊ ham"}}
+  - {hanzi: 死, pinyin: "xiˋ", en: "die; (before an adjective) terribly", hl: {hanzi: 死, pinyin: "siˊ"}}
+  - {hanzi: 忒, pinyin: "tedˋ", en: "too (much)", hl: {hanzi: 忒, pinyin: "ted"}}
+  - {hanzi: 敢, pinyin: "gamˋ", en: "dare", hl: {hanzi: 敢, pinyin: "gamˊ"}}
+  - {hanzi: 放心, pinyin: "fong ximˊ", en: "don't worry, be at ease", hl: {hanzi: 放心, pinyin: "fongˇ simˋ"}}
+  - {hanzi: 目汁, pinyin: "mugˋ ziibˋ", en: "tears", hl: {hanzi: 目汁, pinyin: "mug zhib"}}
+  - {hanzi: 出來, pinyin: "cudˋ loiˇ", en: "come out", hl: {hanzi: 出來, pinyin: "chud loi"}}
+  - {hanzi: 淡, pinyin: "tamˊ", en: "bland, not salty enough", hl: {hanzi: 淡, pinyin: "tamˋ"}}
+  - {hanzi: 酸, pinyin: "sonˊ", en: "sour", hl: {hanzi: 酸, pinyin: "sonˋ"}}
+  - {hanzi: 肚飢, pinyin: "duˋ giˊ", en: "hungry", hl: {hanzi: 肚屎枵, pinyin: "duˊ shiˊ iauˋ"}}
+  - {hanzi: 仰, pinyin: "ngiongˋ", en: "how (before a verb)", hl: {hanzi: 仰, pinyin: "ngiongˊ"}}
+  - {hanzi: 盤, pinyin: "panˇ", en: "plate, dish", hl: {hanzi: 盤, pinyin: "pan"}}
+  - {hanzi: 難, pinyin: "nanˇ", en: "difficult, hard", hl: {hanzi: 難, pinyin: "nan"}}
+
+exercises:
+  translate:
+    - en: "The chilli was so hot my eyes watered."
+      sx: {hanzi: "辣椒仔辣到目汁流出來。", pinyin: "lad zeuˊ eˋ lad do mugˋ ziibˋ liuˇ cudˋ loiˇ."}
+      hl: {hanzi: "辣椒仔辣到目汁流出來。", pinyin: "ladˋ ziauˋ er ladˋ doˇ mug zhib lau chud loi."}
+    - en: "Don't put too much oil in a stir-fry."
+      source: kaga115
+      sx: {hanzi: "炒菜毋好放忒多油。", pinyin: "cauˋ coi mˇ hoˋ biong tedˋ doˊ iuˇ."}
+      hl: {hanzi: "炒菜毋好放忒多油。", pinyin: "cauˊ coiˇ m hoˊ biongˇ ted doˋ rhiu."}
+    - en: "This plate of food is too bland; that one's too sour."
+      sx: {hanzi: "這盤菜忒淡，該盤忒酸。", pinyin: "iaˋ panˇ coi tedˋ tamˊ, ge panˇ tedˋ sonˊ."}
+      hl: {hanzi: "這盤菜忒淡，該盤忒酸。", pinyin: "liaˊ pan coiˇ ted tamˋ, gai pan ted sonˋ."}
+    - en: "I'm hungry! Is there any fried rice?"
+      sx: {hanzi: "𠊎肚飢了！有炒飯無？", pinyin: "ngaiˇ duˋ giˊ leˊ! iuˊ cauˋ fan moˇ?"}
+      hl: {hanzi: "𠊎肚屎枵了！有炒飯無？", pinyin: "ngai duˊ shiˊ iauˋ leˋ! rhiuˋ cauˊ pon+ mo?"}
+    - en: "Hakka is hard; Mandarin isn't hard."
+      sx: {hanzi: "客話當難，華語毋會難。", pinyin: "hagˋ fa dongˊ nanˇ, faˇ ngiˊ mˇ voi nanˇ."}
+      hl: {hanzi: "客話當難，華語毋會難。", pinyin: "hag voiˋ dongˋ nan, fa ngiˋ m voi+ nan."}
+    - en: "This medicine is horribly bitter. — Grandpa doesn't drink alcohol, either."
+      sx: {hanzi: "這藥仔死苦。——阿公乜毋食酒。", pinyin: "iaˋ iog eˋ xiˋ fuˋ. — aˊ gungˊ me mˇ siid jiuˋ."}
+      hl: {hanzi: "這藥仔死苦。——阿公乜毋食酒。", pinyin: "liaˊ rhogˋ er siˊ fuˊ. — a+ gungˋ meˇ m shidˋ ziuˊ."}
+  fill:
+    - en: "Too much salt."
+      sx: {hanzi: "鹽放___多了。", pinyin: "iamˇ biong ___ doˊ leˊ.", answer_hanzi: "忒", answer: "tedˋ"}
+      hl: {hanzi: "鹽放___多了。", pinyin: "rham biongˇ ___ doˋ leˋ.", answer_hanzi: "忒", answer: "ted"}
+    - en: "So scared he didn't dare speak."
+      sx: {hanzi: "佢驚___毋敢講。", pinyin: "giˇ giangˊ ___ mˇ gamˋ gongˋ.", answer_hanzi: "到", answer: "do"}
+      hl: {hanzi: "佢驚___毋敢講。", pinyin: "gi giangˋ ___ m gamˊ gongˊ.", answer_hanzi: "到", answer: "doˇ"}
+    - en: "Terribly salty!"
+      sx: {hanzi: "___鹹！", pinyin: "___ hamˇ!", answer_hanzi: "死", answer: "xiˋ"}
+      hl: {hanzi: "___鹹！", pinyin: "___ ham!", answer_hanzi: "死", answer: "siˊ"}
+
+audio: []
