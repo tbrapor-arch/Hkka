@@ -1,0 +1,179 @@
+id: 22
+title:
+  en: "The 伯公 shrine"
+  sx: {hanzi: "伯公下", pinyin: "bagˋ gungˊ haˊ"}
+  hl: {hanzi: "伯公下", pinyin: "bag gungˋ haˋ"}
+review: false
+setting: >-
+  Monday, seven in the morning. At the end of the lane, under a big tree, there is a small shrine to 伯公, the earth
+  god. Grandma goes most mornings with three sticks of incense and whatever fruit is in season.
+names: [劉, 阿財, 阿財伯, 阿明, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, come on, let's go to the 伯公 shrine."
+    sx: {hanzi: "Sam，來，𫣆兜去伯公下。", pinyin: "Sam, loiˇ, enˊ deuˊ hi bagˋ gungˊ haˊ."}
+    hl: {hanzi: "Sam，來，𫣆兜去伯公下。", pinyin: "Sam, loi, enˋ deuˋ hiˇ bag gungˋ haˋ."}
+  - n: 2
+    speaker: Sam
+    en: "伯公? Your great-uncle?"
+    sx: {hanzi: "伯公？係若伯公？", pinyin: "bagˋ gungˊ? he ngiaˊ bagˋ gungˊ?"}
+    hl: {hanzi: "伯公？係若伯公？", pinyin: "bag gungˋ? heˇ ngia bag gungˋ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "(laughing) Not a person, a god!"
+    sx: {hanzi: "毋係人，係神！", pinyin: "mˇ he nginˇ, he siinˇ!"}
+    hl: {hanzi: "毋係人，係神！", pinyin: "m heˇ ngin, heˇ shin!"}
+  - n: 4
+    speaker: 阿婆
+    en: "(at the shrine, handing him the incense) When you pray to 伯公, first you tell him your name and where you live."
+    sx: {hanzi: "拜伯公，愛先講你个名，在哪位歇。", pinyin: "bai bagˋ gungˊ, oi xienˊ gongˋ nˇ ge miangˇ, coiˊ nai vi hed."}
+    hl: {hanzi: "拜伯公，愛先講你个名，在哪位歇。", pinyin: "baiˇ bag gungˋ, oiˇ senˋ gongˊ ngi gaiˇ miang, coiˋ nai+ vui+ hied."}
+  - n: 5
+    speaker: Sam
+    en: "(eyes closed) 伯公, my surname is Brown, my name is Sam, I live at the Liu house."
+    sx: {hanzi: "伯公，𠊎姓 Brown，安到 Sam，在劉屋歇。", pinyin: "bagˋ gungˊ, ngaiˇ xiang Brown, onˊ do Sam, coiˊ liuˇ vugˋ hed."}
+    hl: {hanzi: "伯公，𠊎姓 Brown，安到 Sam，在劉屋歇。", pinyin: "bag gungˋ, ngai siangˇ Brown, onˋ doˇ Sam, coiˋ liu vug hied."}
+  - n: 6
+    speaker: 阿婆
+    en: "(Sam is eyeing the mandarins on the altar) Don't eat those! 伯公 hasn't eaten yet!"
+    sx: {hanzi: "毋好食！伯公還吂食！", pinyin: "mˇ hoˋ siid! bagˋ gungˊ hanˇ mangˇ siid!"}
+    hl: {hanzi: "毋好食！伯公還吂食！", pinyin: "m hoˊ shidˋ! bag gungˋ han mang shidˋ!"}
+  - n: 7
+    speaker: 阿婆
+    en: "(to the shrine) 伯公, he's a good boy. Please help him."
+    sx: {hanzi: "伯公，佢係好人，你愛摎佢𢯭手。", pinyin: "bagˋ gungˊ, giˇ he hoˋ nginˇ, nˇ oi lauˊ giˇ ten suˋ."}
+    hl: {hanzi: "伯公，佢係好人，你愛摎佢𢯭手。", pinyin: "bag gungˋ, gi heˇ hoˊ ngin, ngi oiˇ lauˋ gi tenˇ shiuˊ."}
+  - n: 8
+    speaker: 阿財伯
+    en: "(coming up the lane) Grandma Liu! It's been ages!"
+    sx: {hanzi: "阿婆！恁久無看著！", pinyin: "aˊ poˇ! anˋ giuˋ moˇ kon doˋ!"}
+    hl: {hanzi: "阿婆！恁久無看著！", pinyin: "a+ po! anˊ giuˊ mo konˇ doˊ!"}
+  - n: 9
+    speaker: 阿婆
+    en: "A-tsai! You're back!"
+    sx: {hanzi: "阿財！你轉來了！", pinyin: "aˊ coiˇ! nˇ zonˋ loiˇ leˊ!"}
+    hl: {hanzi: "阿財！你轉來了！", pinyin: "a+ coi! ngi zhonˊ loi leˋ!"}
+  - n: 10
+    speaker: 阿財伯
+    en: "Back for the harvest opera. Tomorrow morning, in front of the temple."
+    sx: {hanzi: "轉來看收冬戲。天光日朝晨，在廟前。", pinyin: "zonˋ loiˇ kon suˊ dungˊ hi. tienˊ gongˊ ngidˋ zeuˊ siinˇ, coiˊ meu qienˇ."}
+    hl: {hanzi: "轉來看收冬戲。韶早朝晨，在廟前。", pinyin: "zhonˊ loi konˇ shiuˋ dungˋ hiˇ. shau zoˊ zhauˋ shin, coiˋ miau+ cien."}
+  - n: 11
+    speaker: 阿婆
+    en: "(to Sam) You must come and watch too!"
+    sx: {hanzi: "你乜愛來看！", pinyin: "nˇ me oi loiˇ kon!"}
+    hl: {hanzi: "你乜愛來看！", pinyin: "ngi meˇ oiˇ loi konˇ!"}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      伯公 bagˋ gungˊ is what Hakka people call the earth god (土地公), the god of one village, one field, one
+      bridge. His shrines are everywhere in Hakka country, from a stone under a tree to a small temple, and 伯公下
+      "below 伯公" is the shrine and the space around it, where old men play chess in the afternoon. 𫣆兜 "let's"
+      (lesson 15): Grandma and Sam.
+  - ref: 2
+    topic: false-friend
+    text: >
+      Sam is not wrong: 伯公 is also, literally, your grandfather's elder brother, and 伯婆 his wife. The god is called
+      by a family word, as if he were the oldest uncle of the village; you speak to him the same way.
+  - ref: 3
+    topic: vocab
+    text: >
+      神 siinˇ "god, spirit". 人 nginˇ "person": the ng- again (Lesson 0, §6).
+  - ref: 4
+    topic: culture
+    text: >
+      拜 bai "worship, pray to, make offerings" (拜拜). Before asking anything, you tell the god who you are and where
+      you live, the way you would introduce yourself to a village elder. 名 miangˇ "name". 歇 hed "live, stay" (住):
+      在哪位歇 "where (you) live". The same character read hiedˋ is the 歇 of 歇睏 "rest".
+  - ref: 5
+    topic: vocab
+    text: >
+      安到 onˊ do "be called, be named" (叫做): 安到 Sam "my name is Sam". With 姓 for the surname, this is the full
+      self-introduction: 𠊎姓黃，安到大民 is an official example sentence. 劉屋 "the Liu house": a family's homestead is
+      called by its surname plus 屋 vugˋ.
+  - ref: 6
+    topic: culture
+    text: >
+      The fruit on the altar is the god's first. When the incense has burnt down, the family takes it home and eats
+      it; until then, 毋好食. 毋好 "you mustn't" from lesson 12, in its rule-giving sense.
+  - ref: 7
+    topic: grammar
+    text: >
+      摎佢𢯭手 "help him": 摎 (or 同) + person before a verb can mean "for, on behalf of", the fourth job of the word
+      (after "and", "with", and the 把 of lesson 19). Lesson 40 does it properly. 好人 "a good person".
+  - ref: 8
+    topic: vocab
+    text: >
+      恁久無看著 anˋ giuˋ moˇ kon doˋ "long time no see", literally "so long not seen". 看著 kon doˋ "see": 著 doˋ
+      after a verb is "succeed in, get to" (到), a third reading of 著 after cog "right" and zogˋ "wear". 恁久 alone is
+      "it's been a while; lately".
+  - ref: 10
+    topic: culture
+    text: >
+      收冬戲 suˊ dungˊ hi, "harvest opera": after the second rice harvest, Hakka villages put on several days of
+      opera in front of the temple to thank the gods (also called 平安戲). 收冬 is "the harvest", 戲 hi "opera, play".
+      The Hakka festival you may have heard of, 天穿日, is in spring; this one belongs to December.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 伯公 bag gungˋ, 安到 onˋ doˇ, 歇 hied, 神 shin. "Tomorrow" is 韶早 again.
+
+new_words:
+  - {hanzi: 伯公下, pinyin: "bagˋ gungˊ haˊ", en: "the earth god's shrine", hl: {hanzi: 伯公下, pinyin: "bag gungˋ haˋ"}}
+  - {hanzi: 伯公, pinyin: "bagˋ gungˊ", en: "the earth god; great-uncle", hl: {hanzi: 伯公, pinyin: "bag gungˋ"}}
+  - {hanzi: 神, pinyin: "siinˇ", en: "god, spirit", hl: {hanzi: 神, pinyin: "shin"}}
+  - {hanzi: 拜, pinyin: "bai", en: "worship, make offerings to", hl: {hanzi: 拜, pinyin: "baiˇ"}}
+  - {hanzi: 名, pinyin: "miangˇ", en: "name", hl: {hanzi: 名, pinyin: "miang"}}
+  - {hanzi: 歇, pinyin: "hed", en: "live, stay (住)", hl: {hanzi: 歇, pinyin: "hied"}}
+  - {hanzi: 安到, pinyin: "onˊ do", en: "be called, be named", hl: {hanzi: 安到, pinyin: "onˋ doˇ"}}
+  - {hanzi: 屋, pinyin: "vugˋ", en: "house, homestead", hl: {hanzi: 屋, pinyin: "vug"}}
+  - {hanzi: 恁久無看著, pinyin: "anˋ giuˋ moˇ kon doˋ", en: "long time no see", hl: {hanzi: 恁久無看著, pinyin: "anˊ giuˊ mo konˇ doˊ"}}
+  - {hanzi: 收冬, pinyin: "suˊ dungˊ", en: "harvest", hl: {hanzi: 收冬, pinyin: "shiuˋ dungˋ"}}
+  - {hanzi: 戲, pinyin: "hi", en: "opera, play, show", hl: {hanzi: 戲, pinyin: "hiˇ"}}
+  - {hanzi: 廟, pinyin: "meu", en: "temple", hl: {hanzi: 廟, pinyin: "miau+"}}
+  - {hanzi: 前, pinyin: "qienˇ", en: "front, before", hl: {hanzi: 前, pinyin: "cien"}}
+  - {hanzi: 燒香, pinyin: "seuˊ hiongˊ", en: "burn incense", hl: {hanzi: 燒香, pinyin: "shauˋ hiongˋ"}}
+  - {hanzi: 看著, pinyin: "kon doˋ", en: "see, catch sight of", hl: {hanzi: 看著, pinyin: "konˇ doˊ"}}
+  - {hanzi: 恁久, pinyin: "anˋ giuˋ", en: "so long; lately", hl: {hanzi: 恁久, pinyin: "anˊ giuˊ"}}
+  - {hanzi: 平安, pinyin: "pinˇ onˊ", en: "safe and well, peace", hl: {hanzi: 平安, pinyin: "pin onˋ"}}
+  - {hanzi: 伯婆, pinyin: "bagˋ poˇ", en: "great-aunt; the earth god's wife", hl: {hanzi: 伯婆, pinyin: "bag po"}}
+
+exercises:
+  translate:
+    - en: "Grandma burns incense at the shrine every morning."
+      sx: {hanzi: "阿婆逐日朝晨去伯公下燒香。", pinyin: "aˊ poˇ dagˋ ngidˋ zeuˊ siinˇ hi bagˋ gungˊ haˊ seuˊ hiongˊ."}
+      hl: {hanzi: "阿婆逐日朝晨去伯公下燒香。", pinyin: "a+ po dag ngid zhauˋ shin hiˇ bag gungˋ haˋ shauˋ hiongˋ."}
+    - en: "What's your name? — My surname is Liu, my name is A-min."
+      sx: {hanzi: "你安到麼个？——𠊎姓劉，安到阿明。", pinyin: "nˇ onˊ do maˋ ge? — ngaiˇ xiang liuˇ, onˊ do aˊ minˇ."}
+      hl: {hanzi: "你安到麼个？——𠊎姓劉，安到阿明。", pinyin: "ngi onˋ doˇ maˊ gaiˇ? — ngai siangˇ liu, onˋ doˇ a+ min."}
+    - en: "Where do you live? — I live in 苗栗."
+      sx: {hanzi: "你在哪位歇？——𠊎在苗栗歇。", pinyin: "nˇ coiˊ nai vi hed? — ngaiˇ coiˊ meuˇ lid hed."}
+      hl: {hanzi: "你在哪位歇？——𠊎在苗栗歇。", pinyin: "ngi coiˋ nai+ vui+ hied? — ngai coiˋ miau lidˋ hied."}
+    - en: "Long time no see! Are you well?"
+      sx: {hanzi: "恁久無看著！你平安無？", pinyin: "anˋ giuˋ moˇ kon doˋ! nˇ pinˇ onˊ moˇ?"}
+      hl: {hanzi: "恁久無看著！你平安無？", pinyin: "anˊ giuˊ mo konˇ doˊ! ngi pin onˋ mo?"}
+    - en: "In front of the temple there's an opera."
+      sx: {hanzi: "廟前有戲。", pinyin: "meu qienˇ iuˊ hi."}
+      hl: {hanzi: "廟前有戲。", pinyin: "miau+ cien rhiuˋ hiˇ."}
+    - en: "Have you seen A-min? — No, I haven't."
+      sx: {hanzi: "你有看著阿明無？——無看著。", pinyin: "nˇ iuˊ kon doˋ aˊ minˇ moˇ? — moˇ kon doˋ."}
+      hl: {hanzi: "你有看著阿明無？——無看著。", pinyin: "ngi rhiuˋ konˇ doˊ a+ min mo? — mo konˇ doˊ."}
+    - en: "Lately Grandpa has been very busy."
+      sx: {hanzi: "恁久阿公當無閒。", pinyin: "anˋ giuˋ aˊ gungˊ dongˊ moˇ hanˇ."}
+      hl: {hanzi: "恁久阿公當無閒。", pinyin: "anˊ giuˊ a+ gungˋ dongˋ mo han."}
+  fill:
+    - en: "My name is Sam."
+      sx: {hanzi: "𠊎___Sam。", pinyin: "ngaiˇ ___ Sam.", answer_hanzi: "安到", answer: "onˊ do"}
+      hl: {hanzi: "𠊎___Sam。", pinyin: "ngai ___ Sam.", answer_hanzi: "安到", answer: "onˋ doˇ"}
+    - en: "Don't eat it! (a rule)"
+      sx: {hanzi: "___食！", pinyin: "___ siid!", answer_hanzi: "毋好", answer: "mˇ hoˋ"}
+      hl: {hanzi: "___食！", pinyin: "___ shidˋ!", answer_hanzi: "毋好", answer: "m hoˊ"}
+    - en: "The earth god and his wife."
+      sx: {hanzi: "伯公同___。", pinyin: "bagˋ gungˊ tungˇ ___.", answer_hanzi: "伯婆", answer: "bagˋ poˇ"}
+      hl: {hanzi: "伯公摎___。", pinyin: "bag gungˋ lauˋ ___.", answer_hanzi: "伯婆", answer: "bag po"}
+
+audio: []

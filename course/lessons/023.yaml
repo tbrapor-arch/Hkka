@@ -1,0 +1,164 @@
+id: 23
+title:
+  en: "The harvest opera"
+  sx: {hanzi: "恁早！", pinyin: "anˋ zoˋ!"}
+  hl: {hanzi: "恁早！", pinyin: "anˊ zoˊ!"}
+review: false
+setting: >-
+  Tuesday, nine in the morning, the square in front of the temple. A bamboo stage, red lanterns, rows of plastic
+  stools, and half the village. Grandpa has put on his good jacket; it is the only thing that gets him out of the
+  house in winter.
+names: [阿財伯, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿財伯
+    en: "Morning, Grandpa, Grandma! This year's opera is really lively!"
+    sx: {hanzi: "阿公、阿婆，恁早！今年个收冬戲當鬧熱！", pinyin: "aˊ gungˊ, aˊ poˇ, anˋ zoˋ! gimˊ ngienˇ ge suˊ dungˊ hi dongˊ nau ngied!"}
+    hl: {hanzi: "阿公、阿婆，恁早！今年个收冬戲當鬧熱！", pinyin: "a+ gungˋ, a+ po, anˊ zoˊ! gimˋ ngien gaiˇ shiuˋ dungˋ hiˇ dongˋ nau+ ngiedˋ!"}
+  - n: 2
+    speaker: Sam
+    en: "Morning, A-tsai! Have you eaten?"
+    sx: {hanzi: "阿財伯，恁早！食飽吂？", pinyin: "aˊ coiˇ bagˋ, anˋ zoˋ! siid bauˋ mangˇ?"}
+    hl: {hanzi: "阿財伯，恁早！食飽吂？", pinyin: "a+ coi bag, anˊ zoˊ! shidˋ bauˊ mang?"}
+  - n: 3
+    speaker: 阿財伯
+    en: "(to Grandma, impressed) This foreigner's a good talker!"
+    sx: {hanzi: "這外國人當會講！", pinyin: "iaˋ ngoi guedˋ nginˇ dongˊ voi gongˋ!"}
+    hl: {hanzi: "這外國人當會講！", pinyin: "liaˊ ngoi+ gued ngin dongˋ voi+ gongˊ!"}
+  - n: 4
+    speaker: 阿公
+    en: "(eyes on the stage) That girl sings well."
+    sx: {hanzi: "該隻細妹仔當會唱。", pinyin: "ge zagˋ se moi eˋ dongˊ voi cong."}
+    hl: {hanzi: "該隻細妹仔當會唱。", pinyin: "gai zhag seˇ moiˇ er dongˋ voi+ chongˇ."}
+  - n: 5
+    speaker: Sam
+    en: "What are they singing?"
+    sx: {hanzi: "佢兜在該唱麼个？", pinyin: "giˇ deuˊ du ge cong maˋ ge?"}
+    hl: {hanzi: "佢兜在該唱麼个？", pinyin: "gi deuˋ diˇ gai chongˇ maˊ gaiˇ?"}
+  - n: 6
+    speaker: 阿婆
+    en: "Tea-picking opera. Grandpa used to sing it too."
+    sx: {hanzi: "採茶戲。頭擺阿公乜會唱。", pinyin: "caiˋ caˇ hi. teuˇ baiˋ aˊ gungˊ me voi cong."}
+    hl: {hanzi: "採茶戲。頭擺阿公乜會唱。", pinyin: "caiˊ ca hiˇ. teu baiˊ a+ gungˋ meˇ voi+ chongˇ."}
+  - n: 7
+    speaker: 阿婆
+    en: "(whispering) Look, his lips are moving!"
+    sx: {hanzi: "你看，佢个嘴在該動！", pinyin: "nˇ kon, giˇ ge zoi du ge tungˊ!"}
+    hl: {hanzi: "你看，佢个嘴在該動！", pinyin: "ngi konˇ, gi gaiˇ zhoiˇ diˇ gai tungˋ!"}
+  - n: 8
+    speaker: 阿婆
+    en: "(later, inside the temple) Come, tell the gods what you wish for."
+    sx: {hanzi: "來，你有麼个願望，同神明講。", pinyin: "loiˇ, nˇ iuˊ maˋ ge ngien mong, tungˇ siinˇ minˇ gongˋ."}
+    hl: {hanzi: "來，你有麼个願望，摎神明講。", pinyin: "loi, ngi rhiuˋ maˊ gaiˇ ngien+ mong+, lauˋ shin min gongˊ."}
+  - n: 9
+    speaker: Sam
+    en: "I hope… that everyone at home stays safe and well."
+    sx: {hanzi: "𠊎希望……屋下大家都平安。", pinyin: "ngaiˇ hiˊ mong … vugˋ kaˊ tai gaˊ du pinˇ onˊ."}
+    hl: {hanzi: "𠊎希望……屋下大家都平安。", pinyin: "ngai hiˋ mong+ … vug haˋ tai+ gaˋ du+ pin onˋ."}
+  - n: 10
+    speaker: 阿婆
+    en: "Me too. …And that A-in gets married soon!"
+    sx: {hanzi: "𠊎乜係。……還有，阿英早兜仔嫁！", pinyin: "ngaiˇ me he. … hanˇ iuˊ, aˊ inˊ zoˋ deuˊ eˋ ga!"}
+    hl: {hanzi: "𠊎乜係。……還有，阿英早兜仔嫁！", pinyin: "ngai meˇ heˇ. … han rhiuˋ, a+ rhinˋ zoˊ deuˋ er gaˇ!"}
+  - n: 11
+    speaker: Sam
+    en: "(choking) Grandma!"
+    sx: {hanzi: "阿婆！", pinyin: "aˊ poˇ!"}
+    hl: {hanzi: "阿婆！", pinyin: "a+ po!"}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      恁早 anˋ zoˋ "good morning", literally "so early!": the morning greeting to anyone you meet, older people above
+      all, and often followed by 食飽吂？ (line 2, which is an official example sentence word for word with another
+      name). 鬧熱 nau ngied "lively, bustling", Mandarin 熱鬧 the other way round, like 間房 and 人客.
+  - ref: 3
+    topic: grammar
+    text: >
+      當會 + verb "be good at": 當會講 "a good talker", 當會唱 "sings well", 阿公當會講古 "Grandpa is a great storyteller".
+      會 is "can", 當會 "can very well". You met 會 for skills (lesson 1) and for what is about to happen (lesson 9);
+      this is the third use. 外國人 ngoi guedˋ nginˇ "foreigner".
+  - ref: 4
+    topic: grammar
+    text: >
+      該隻細妹仔 "that girl": 這 and 該 take a classifier before a noun, and 隻 is the everyday one, people included.
+  - ref: 6
+    topic: culture
+    text: >
+      採茶戲 caiˋ caˇ hi, "tea-picking opera", is Hakka opera: it grew out of the songs sung on the tea slopes, the
+      山歌 of lesson 20, into stage plays with a clown, a girl and a young man. The 收冬戲 hires a troupe for several
+      days; mornings are for the gods (a short ritual play), afternoons and evenings for people.
+  - ref: 7
+    topic: vocab
+    text: >
+      動 tungˊ "move": 佢个嘴在該動 "his lips are moving". The opera troupe sings it, and so does Grandpa, silently.
+  - ref: 8
+    topic: vocab
+    text: >
+      神明 siinˇ minˇ "the gods", more respectful than plain 神. 願望 ngien mong "wish". 希望 hiˊ mong "hope" (line 9),
+      as in Mandarin. 大家 tai gaˊ "everyone".
+  - ref: 10
+    topic: culture
+    text: >
+      嫁 ga "(of a woman) marry": 早兜仔嫁 "marry a bit sooner". 早兜仔 "a little earlier", the 兜仔 of lesson 19. A
+      25-year-old granddaughter, unmarried: in a Hakka family this is a topic, and the temple is where Grandma raises
+      it with the authorities. The son-in-law gossip of lesson 16 has reached her too.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 恁早 anˊ zoˊ, 當會 dongˋ voi+, 鬧熱 nau+ ngiedˋ, 嫁 gaˇ.
+
+new_words:
+  - {hanzi: 恁早, pinyin: "anˋ zoˋ", en: "good morning (so early!)", hl: {hanzi: 恁早, pinyin: "anˊ zoˊ"}}
+  - {hanzi: 鬧熱, pinyin: "nau ngied", en: "lively, bustling", hl: {hanzi: 鬧熱, pinyin: "nau+ ngiedˋ"}}
+  - {hanzi: 當會, pinyin: "dongˊ voi", en: "be good at (+ verb)", hl: {hanzi: 當會, pinyin: "dongˋ voi+"}}
+  - {hanzi: 外國, pinyin: "ngoi guedˋ", en: "foreign country", hl: {hanzi: 外國, pinyin: "ngoi+ gued"}}
+  - {hanzi: 採茶, pinyin: "caiˋ caˇ", en: "pick tea", hl: {hanzi: 採茶, pinyin: "caiˊ ca"}}
+  - {hanzi: 動, pinyin: "tungˊ", en: "move", hl: {hanzi: 動, pinyin: "tungˋ"}}
+  - {hanzi: 願望, pinyin: "ngien mong", en: "wish", hl: {hanzi: 願望, pinyin: "ngien+ mong+"}}
+  - {hanzi: 神明, pinyin: "siinˇ minˇ", en: "the gods, deities", hl: {hanzi: 神明, pinyin: "shin min"}}
+  - {hanzi: 希望, pinyin: "hiˊ mong", en: "hope", hl: {hanzi: 希望, pinyin: "hiˋ mong+"}}
+  - {hanzi: 大家, pinyin: "tai gaˊ", en: "everyone", hl: {hanzi: 大家, pinyin: "tai+ gaˋ"}}
+  - {hanzi: 嫁, pinyin: "ga", en: "(of a woman) marry", hl: {hanzi: 嫁, pinyin: "gaˇ"}}
+  - {hanzi: 戲棚, pinyin: "hi pangˇ", en: "opera stage", hl: {hanzi: 戲棚, pinyin: "hiˇ pang"}}
+  - {hanzi: 跳舞, pinyin: "tiau vuˋ", en: "dance", hl: {hanzi: 跳舞, pinyin: "tiauˇ vuˊ"}}
+  - {hanzi: 拜託, pinyin: "bai togˋ", en: "please (asking a favour)", hl: {hanzi: 拜託, pinyin: "baiˇ tog"}}
+  - {hanzi: 老妹, pinyin: "loˋ moi", en: "younger sister", hl: {hanzi: 老妹, pinyin: "loˊ moiˇ"}}
+  - {hanzi: 燈籠, pinyin: "denˊ nungˇ", en: "lantern", hl: {hanzi: 燈籠, pinyin: "denˋ nung"}}
+  - {hanzi: 講古, pinyin: "gongˋ guˋ", en: "tell stories", hl: {hanzi: 講古, pinyin: "gongˊ guˊ"}}
+
+exercises:
+  translate:
+    - en: "Grandpa is a great storyteller."
+      source: kaga115
+      sx: {hanzi: "阿公當會講古。", pinyin: "aˊ gungˊ dongˊ voi gongˋ guˋ."}
+      hl: {hanzi: "阿公當會講古。", pinyin: "a+ gungˋ dongˋ voi+ gongˊ guˊ."}
+    - en: "There are a lot of people in front of the stage; it's very lively."
+      sx: {hanzi: "戲棚前當多人，當鬧熱。", pinyin: "hi pangˇ qienˇ dongˊ doˊ nginˇ, dongˊ nau ngied."}
+      hl: {hanzi: "戲棚前當多人，當鬧熱。", pinyin: "hiˇ pang cien dongˋ doˋ ngin, dongˋ nau+ ngiedˋ."}
+    - en: "In front of the temple there are a lot of red lanterns."
+      sx: {hanzi: "廟前有當多紅燈籠。", pinyin: "meu qienˇ iuˊ dongˊ doˊ fungˇ denˊ nungˇ."}
+      hl: {hanzi: "廟前有當多紅燈籠。", pinyin: "miau+ cien rhiuˋ dongˋ doˋ fung denˋ nung."}
+    - en: "A-min is good at dancing."
+      sx: {hanzi: "阿明當會跳舞。", pinyin: "aˊ minˇ dongˊ voi tiau vuˋ."}
+      hl: {hanzi: "阿明當會跳舞。", pinyin: "a+ min dongˋ voi+ tiauˇ vuˊ."}
+    - en: "Please, help me!"
+      sx: {hanzi: "拜託，摎𠊎𢯭手！", pinyin: "bai togˋ, lauˊ ngaiˇ ten suˋ!"}
+      hl: {hanzi: "拜託，摎𠊎𢯭手！", pinyin: "baiˇ tog, lauˋ ngai tenˇ shiuˊ!"}
+    - en: "I hope my sister comes."
+      sx: {hanzi: "𠊎希望吾老妹會來。", pinyin: "ngaiˇ hiˊ mong ngaˊ loˋ moi voi loiˇ."}
+      hl: {hanzi: "𠊎希望𠊎老妹會來。", pinyin: "ngai hiˋ mong+ ngai loˊ moiˇ voi+ loi."}
+  fill:
+    - en: "Good morning!"
+      sx: {hanzi: "___！", pinyin: "___!", answer_hanzi: "恁早", answer: "anˋ zoˋ"}
+      hl: {hanzi: "___！", pinyin: "___!", answer_hanzi: "恁早", answer: "anˊ zoˊ"}
+    - en: "She sings very well."
+      sx: {hanzi: "佢___唱。", pinyin: "giˇ ___ cong.", answer_hanzi: "當會", answer: "dongˊ voi"}
+      hl: {hanzi: "佢___唱。", pinyin: "gi ___ chongˇ.", answer_hanzi: "當會", answer: "dongˋ voi+"}
+    - en: "That girl."
+      sx: {hanzi: "該___細妹仔。", pinyin: "ge ___ se moi eˋ.", answer_hanzi: "隻", answer: "zagˋ"}
+      hl: {hanzi: "該___細妹仔。", pinyin: "gai ___ seˇ moiˇ er.", answer_hanzi: "隻", answer: "zhag"}
+
+audio: []

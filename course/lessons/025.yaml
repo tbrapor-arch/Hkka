@@ -1,0 +1,166 @@
+id: 25
+title:
+  en: "A room for Sam's sister"
+  sx: {hanzi: "做得無？", pinyin: "zo dedˋ moˇ?"}
+  hl: {hanzi: "做得無？", pinyin: "zoˇ ded mo?"}
+review: false
+setting: >-
+  Thursday. Sam's younger sister is coming to Taiwan next week, and Sam has decided she should not be a burden on
+  the Liu family. He goes to a small guesthouse near the station.
+names: [阿英]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Excuse me, do you have a room?"
+    sx: {hanzi: "頭家娘，借問，有間房無？", pinyin: "teuˇ gaˊ ngiongˇ, jia mun, iuˊ gienˊ fongˇ moˇ?"}
+    hl: {hanzi: "頭家娘，借問，有間房無？", pinyin: "teu gaˋ ngiong, ziaˇ munˇ, rhiuˋ gienˋ fong mo?"}
+  - n: 2
+    speaker: 頭家娘
+    en: "Yes. How many nights?"
+    sx: {hanzi: "有。愛歇幾多暗晡？", pinyin: "iuˊ. oi hiedˋ giˋ doˊ am buˊ?"}
+    hl: {hanzi: "有。愛歇幾多暗晡？", pinyin: "rhiuˋ. oiˇ hied giˊ doˋ amˇ buˋ?"}
+  - n: 3
+    speaker: Sam
+    en: "My sister's coming next week. Seven nights."
+    sx: {hanzi: "吾老妹下禮拜愛來，歇七暗晡。", pinyin: "ngaˊ loˋ moi ha liˊ bai oi loiˇ, hiedˋ qidˋ am buˊ."}
+    hl: {hanzi: "𠊎老妹下禮拜愛來，歇七暗晡。", pinyin: "ngai loˊ moiˇ ha+ liˋ baiˇ oiˇ loi, hied cid amˇ buˋ."}
+  - n: 4
+    speaker: 頭家娘
+    en: "Twelve hundred a night."
+    sx: {hanzi: "一暗晡一千二。", pinyin: "idˋ am buˊ idˋ qienˊ ngi."}
+    hl: {hanzi: "一暗晡一千二。", pinyin: "rhid amˇ buˋ rhid cienˋ ngi+."}
+  - n: 5
+    speaker: Sam
+    en: "Twelve hundred… Could it be a little cheaper?"
+    sx: {hanzi: "一千二……做得較便宜兜仔無？", pinyin: "idˋ qienˊ ngi … zo dedˋ ka pienˇ ngiˇ deuˊ eˋ moˇ?"}
+    hl: {hanzi: "一千二……做得較便宜兜仔無？", pinyin: "rhid cienˋ ngi+ … zoˇ ded haˇ pien ngi deuˋ er mo?"}
+  - n: 6
+    speaker: 頭家娘
+    en: "For seven nights, I'll charge you a thousand. Breakfast included."
+    sx: {hanzi: "歇七暗晡，算你一千。有食朝。", pinyin: "hiedˋ qidˋ am buˊ, son nˇ idˋ qienˊ. iuˊ siid zeuˊ."}
+    hl: {hanzi: "歇七暗晡，算你一千。有食朝。", pinyin: "hied cid amˇ buˋ, sonˇ ngi rhid cienˋ. rhiuˋ shidˋ zhauˋ."}
+  - n: 7
+    speaker: Sam
+    en: "Could I see the room first?"
+    sx: {hanzi: "做得先看間房無？", pinyin: "zo dedˋ xienˊ kon gienˊ fongˇ moˇ?"}
+    hl: {hanzi: "做得先看間房無？", pinyin: "zoˇ ded senˋ konˇ gienˋ fong mo?"}
+  - n: 8
+    speaker: 頭家娘
+    en: "Of course. It's upstairs, nice and bright. But no smoking in the room."
+    sx: {hanzi: "做得。間房在樓頂，當光。間房肚做毋得食煙。", pinyin: "zo dedˋ. gienˊ fongˇ coiˊ leuˇ dangˋ, dongˊ gongˊ. gienˊ fongˇ duˋ zomˇ dedˋ siid ienˊ."}
+    hl: {hanzi: "做得。間房在樓頂，當光。間房肚做毋得食煙。", pinyin: "zoˇ ded. gienˋ fong coiˋ leu dangˊ, dongˋ gongˋ. gienˋ fong duˊ zoˇ m ded shidˋ rhanˋ."}
+  - n: 9
+    speaker: 阿婆
+    en: "(that evening, at dinner) Your sister's coming? Why on earth rent a room?"
+    sx: {hanzi: "你老妹愛來？做麼个愛去租間房？", pinyin: "nˇ loˋ moi oi loiˇ? zo maˋ ge oi hi zuˊ gienˊ fongˇ?"}
+    hl: {hanzi: "你老妹愛來？做麼个愛去租間房？", pinyin: "ngi loˊ moiˇ oiˇ loi? zoˇ maˊ gaiˇ oiˇ hiˇ zuˋ gienˋ fong?"}
+  - n: 10
+    speaker: 阿婆
+    en: "She'll stay here! It won't cost a thing!"
+    sx: {hanzi: "在吾屋下歇！毋使錢！", pinyin: "coiˊ ngaˊ vugˋ kaˊ hiedˋ! mˇ siiˋ qienˇ!"}
+    hl: {hanzi: "在𠊎屋下歇！毋使錢！", pinyin: "coiˋ ngai vug haˋ hied! m siiˊ cien!"}
+  - n: 11
+    speaker: 阿姆
+    en: "She can sleep in A-in's room."
+    sx: {hanzi: "阿英个間房做得分佢歇。", pinyin: "aˊ inˊ ge gienˊ fongˇ zo dedˋ bunˊ giˇ hiedˋ."}
+    hl: {hanzi: "阿英个間房做得分佢歇。", pinyin: "a+ rhinˋ gaiˇ gienˋ fong zoˇ ded bunˋ gi hied."}
+  - n: 12
+    speaker: Sam
+    en: "…Thank you, Grandma, Mrs Liu."
+    sx: {hanzi: "……恁仔細，阿婆、伯姆。", pinyin: "… anˋ ziiˋ se, aˊ poˇ, bagˋ meˊ."}
+    hl: {hanzi: "……承蒙你，阿婆、伯姆。", pinyin: "… shin mung ngi, a+ po, bag meˊ."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      頭家娘 teuˇ gaˊ ngiongˇ is the woman who runs a business, here the guesthouse. 借問 from lesson 13, the opener
+      for a stranger. 有間房無？ "do you have a room?": 有…無？ for "is there…?".
+  - ref: 2
+    topic: vocab
+    text: >
+      歇 hiedˋ "stay (a night or two)": 歇幾多暗晡 "stay how many nights". Lesson 22's 歇 hed is living somewhere; this
+      歇 hiedˋ is staying over, and it is the one in 歇睏 "rest". 暗晡 "evening, night" counts nights: 一暗晡, 七暗晡.
+  - ref: 3
+    topic: vocab
+    text: >
+      下禮拜 ha liˊ bai "next week": 下 ha "next" before a time word (下二擺 ha ngi baiˋ "next time"). 老妹 "younger sister" (lesson 23).
+  - ref: 5
+    topic: grammar
+    text: >
+      做得 zo dedˋ "may, can, it's possible": 做得…無？ "could…?, may I…?", the polite question; 做得 "yes, of course".
+      Its negative is 做毋得 "mustn't, can't", with 毋 in the middle, and said as two syllables, zomˇ dedˋ (line 8).
+      較便宜兜仔 "a bit cheaper": the 較…兜仔 of lesson 19.
+  - ref: 6
+    topic: vocab
+    text: >
+      算 son "count; charge": 算你一千 "I'll charge you a thousand". 食朝 siid zeuˊ "have breakfast": 朝 as in 朝晨, a meal
+      named after its time.
+  - ref: 8
+    topic: grammar
+    text: >
+      做毋得食煙 "no smoking": 食 covers smoking too, as lesson 3 promised. 樓頂 leuˇ dangˋ "upstairs" (頂 "top"); 光
+      gongˊ "bright, light".
+  - ref: 10
+    topic: culture
+    text: >
+      Grandma is not being polite; she is offended. A guest's sister staying in a guesthouse would mean the family
+      had failed. 毋使錢 "it won't cost anything", literally "no need (for) money".
+  - ref: 11
+    topic: grammar
+    text: >
+      做得分佢歇 "(the room) can let her stay": 分 bunˊ, "give" in lesson 24, here "let (someone do something)". It
+      is the second job of 分; two more are coming.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu: 做得 zoˇ ded, 做毋得 zoˇ m ded (three syllables), 歇 hied, 煙 rhanˋ.
+
+new_words:
+  - {hanzi: 頭家娘, pinyin: "teuˇ gaˊ ngiongˇ", en: "woman who runs a shop or business", hl: {hanzi: 頭家娘, pinyin: "teu gaˋ ngiong"}}
+  - {hanzi: 歇, pinyin: "hiedˋ", en: "stay (overnight)", hl: {hanzi: 歇, pinyin: "hied"}}
+  - {hanzi: 下, pinyin: "ha", en: "next (下禮拜 next week)", hl: {hanzi: 下, pinyin: "ha+"}}
+  - {hanzi: 做得, pinyin: "zo dedˋ", en: "may, can, be possible", hl: {hanzi: 做得, pinyin: "zoˇ ded"}}
+  - {hanzi: 算, pinyin: "son", en: "count; charge", hl: {hanzi: 算, pinyin: "sonˇ"}}
+  - {hanzi: 食朝, pinyin: "siid zeuˊ", en: "have breakfast", hl: {hanzi: 食朝, pinyin: "shidˋ zhauˋ"}}
+  - {hanzi: 樓, pinyin: "leuˇ", en: "floor, storey; building", hl: {hanzi: 樓, pinyin: "leu"}}
+  - {hanzi: 頂, pinyin: "dangˋ", en: "top", hl: {hanzi: 頂, pinyin: "dangˊ"}}
+  - {hanzi: 光, pinyin: "gongˊ", en: "bright, light", hl: {hanzi: 光, pinyin: "gongˋ"}}
+  - {hanzi: 做毋得, pinyin: "zomˇ dedˋ", en: "mustn't, can't", hl: {hanzi: 做毋得, pinyin: "zoˇ m ded"}}
+  - {hanzi: 煙, pinyin: "ienˊ", en: "smoke; cigarette", hl: {hanzi: 煙, pinyin: "rhanˋ"}}
+  - {hanzi: 租, pinyin: "zuˊ", en: "rent", hl: {hanzi: 租, pinyin: "zuˋ"}}
+  - {hanzi: 鎖匙, pinyin: "soˋ siiˋ", en: "key", hl: {hanzi: 鎖匙, pinyin: "soˊ shi"}}
+  - {hanzi: 洗身, pinyin: "seˋ siinˊ", en: "bathe, have a shower", hl: {hanzi: 洗身, pinyin: "seˊ shinˋ"}}
+  - {hanzi: 價錢, pinyin: "ga qienˇ", en: "price", hl: {hanzi: 價錢, pinyin: "gaˇ cien"}}
+  - {hanzi: 下二擺, pinyin: "ha ngi baiˋ", en: "next time", hl: {hanzi: 下二擺, pinyin: "ha+ ngi+ baiˊ"}}
+
+exercises:
+  translate:
+    - en: "May I have a shower? — Of course."
+      sx: {hanzi: "做得洗身無？——做得。", pinyin: "zo dedˋ seˋ siinˊ moˇ? — zo dedˋ."}
+      hl: {hanzi: "做得洗身無？——做得。", pinyin: "zoˇ ded seˊ shinˋ mo? — zoˇ ded."}
+    - en: "You mustn't smoke here."
+      sx: {hanzi: "這位做毋得食煙。", pinyin: "iaˋ vi zomˇ dedˋ siid ienˊ."}
+      hl: {hanzi: "這位做毋得食煙。", pinyin: "liaˊ vui+ zoˇ m ded shidˋ rhanˋ."}
+    - en: "Where is the room key?"
+      sx: {hanzi: "間房个鎖匙在哪位？", pinyin: "gienˊ fongˇ ge soˋ siiˋ coiˊ nai vi?"}
+      hl: {hanzi: "間房个鎖匙在哪位？", pinyin: "gienˋ fong gaiˇ soˊ shi coiˋ nai+ vui+?"}
+    - en: "What's the price for one night?"
+      sx: {hanzi: "一暗晡个價錢係幾多？", pinyin: "idˋ am buˊ ge ga qienˇ he giˋ doˊ?"}
+      hl: {hanzi: "一暗晡个價錢係幾多？", pinyin: "rhid amˇ buˋ gaiˇ gaˇ cien heˇ giˊ doˋ?"}
+    - en: "Next time, stay at our house!"
+      sx: {hanzi: "下二擺，在吾屋下歇！", pinyin: "ha ngi baiˋ, coiˊ ngaˊ vugˋ kaˊ hiedˋ!"}
+      hl: {hanzi: "下二擺，在𠊎屋下歇！", pinyin: "ha+ ngi+ baiˊ, coiˋ ngai vug haˋ hied!"}
+  fill:
+    - en: "Could it be a bit cheaper?"
+      sx: {hanzi: "___較便宜兜仔無？", pinyin: "___ ka pienˇ ngiˇ deuˊ eˋ moˇ?", answer_hanzi: "做得", answer: "zo dedˋ"}
+      hl: {hanzi: "___較便宜兜仔無？", pinyin: "___ haˇ pien ngi deuˋ er mo?", answer_hanzi: "做得", answer: "zoˇ ded"}
+    - en: "How many nights?"
+      sx: {hanzi: "幾多___？", pinyin: "giˋ doˊ ___?", answer_hanzi: "暗晡", answer: "am buˊ"}
+      hl: {hanzi: "幾多___？", pinyin: "giˊ doˋ ___?", answer_hanzi: "暗晡", answer: "amˇ buˋ"}
+    - en: "I'll charge you a thousand."
+      sx: {hanzi: "___你一千。", pinyin: "___ nˇ idˋ qienˊ.", answer_hanzi: "算", answer: "son"}
+      hl: {hanzi: "___你一千。", pinyin: "___ ngi rhid cienˋ.", answer_hanzi: "算", answer: "sonˇ"}
+
+audio: []
