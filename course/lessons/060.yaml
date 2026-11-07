@@ -1,0 +1,194 @@
+id: 60
+title:
+  en: "Hakka TV news"
+  sx: {hanzi: "各位鄉親，大家好", pinyin: "gogˋ vi hiongˊ qinˊ, tai gaˊ hoˋ"}
+  hl: {hanzi: "各位鄉親，大家好", pinyin: "gog vui+ hiongˋ cinˋ, tai+ gaˋ hoˊ"}
+review: false
+setting: >-
+  Tuesday 9 March, eight in the evening, in 阿舅's living room above the factory. 姐婆, A-in's grandmother on her
+  mother's side, never misses the Hakka TV news in Hailu. Sam has been told to sit down and listen.
+names: [姐婆, 主播, 苗栗, 新竹, 竹東, 劉阿婆, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 姐婆
+    en: "Sam, come and watch the news. Hakka TV: the news in Hailu."
+    sx: {hanzi: "Sam，來看新聞。客家電視，海陸話个新聞。", pinyin: "Sam, loiˇ kon xinˊ vunˇ. hagˋ gaˊ tien sii, hoiˋ liugˋ fa ge xinˊ vunˇ."}
+    hl: {hanzi: "Sam，來看新聞。客家電視，海陸話个新聞。", pinyin: "Sam, loi konˇ sinˋ vun. hag gaˋ tien+ shi+, hoiˊ liugˋ voiˋ gaiˇ sinˋ vun."}
+  - n: 2
+    speaker: 主播
+    en: "Good evening, everyone. Here is today's news."
+    sx: {hanzi: "各位鄉親，大家好。這係今晡日个新聞報導。", pinyin: "gogˋ vi hiongˊ qinˊ, tai gaˊ hoˋ. iaˋ he gimˊ buˊ ngidˋ ge xinˊ vunˇ bo toˊ."}
+    hl: {hanzi: "各位鄉親，大家好。這係今晡日个新聞報導。", pinyin: "gog vui+ hiongˋ cinˋ, tai+ gaˋ hoˊ. liaˊ heˇ gimˋ buˋ ngid gaiˇ sinˋ vun boˇ toˋ."}
+  - n: 3
+    speaker: 主播
+    en: "Because the cold wave has passed, the weather will be warmer over the next few days."
+    sx: {hanzi: "因為寒流過了，故所這幾日天時會較燒暖。", pinyin: "inˊ vi honˇ liuˇ go leˊ, gu soˋ iaˋ giˋ ngidˋ tienˊ siiˇ voi ka seuˊ nonˊ."}
+    hl: {hanzi: "因為寒流過了，所以這幾日天時會較燒暖。", pinyin: "rhinˋ vui+ hon liu goˇ leˋ, soˊ rhiˋ liaˊ giˊ ngid tienˋ shi voi+ haˇ shauˋ nonˋ."}
+  - n: 4
+    speaker: 主播
+    en: "Tomorrow's high is twenty-two degrees; it may rain in the afternoon."
+    sx: {hanzi: "天光日最高溫度二十二度，下晝可能會落雨。", pinyin: "tienˊ gongˊ ngidˋ zui goˊ vunˊ tu ngi siib ngi tu, haˊ zu koˋ nenˇ voi log iˋ."}
+    hl: {hanzi: "韶早最高溫度二十二度，下晝可能會落水。", pinyin: "shau zoˊ zuiˇ goˋ vunˋ tu+ ngi+ shibˋ ngi+ tu+, haˋ zhiuˇ koˊ nen voi+ logˋ shuiˊ."}
+  - n: 5
+    speaker: Sam
+    en: "(to 阿舅) The newsreader says 所以. Grandma in Miaoli says 故所."
+    sx: {hanzi: "主播講所以。苗栗个阿婆講故所。", pinyin: "zuˋ boˊ gongˋ soˋ iˊ. meuˇ lidˋ ge aˊ poˇ gongˋ gu soˋ."}
+    hl: {hanzi: "主播講所以。苗栗个阿婆講故所。", pinyin: "zhuˊ boˋ gongˊ soˊ rhiˋ. miau lidˋ gaiˇ a+ po gongˊ guˇ soˊ."}
+    check: true
+  - n: 6
+    speaker: 阿舅
+    en: "Hailu says 所以, Sixian says 故所. Well spotted."
+    sx: {hanzi: "海陸講所以，四縣講故所。你當會聽。", pinyin: "hoiˋ liugˋ gongˋ soˋ iˊ, xi ien gongˋ gu soˋ. nˇ dongˊ voi tangˊ."}
+    hl: {hanzi: "海陸講所以，四縣講故所。你當會聽。", pinyin: "hoiˊ liugˋ gongˊ soˊ rhiˋ, siˇ rhanˇ gongˊ guˇ soˊ. ngi dongˋ voi+ tangˋ."}
+  - n: 7
+    speaker: 主播
+    en: "Next: the 桐花 will flower in April; 苗栗 and 新竹 expect several hundred thousand visitors."
+    sx: {hanzi: "下一隻新聞：四月桐花會開，苗栗、新竹會有幾十萬遊客。", pinyin: "ha idˋ zagˋ xinˊ vunˇ: xi ngied tungˇ faˊ voi koiˊ, meuˇ lidˋ, xinˊ zugˋ voi iuˊ giˋ siib van iuˇ hagˋ."}
+    hl: {hanzi: "下一隻新聞：四月桐花會開，苗栗、新竹會有幾十萬遊客。", pinyin: "ha+ rhid zhag sinˋ vun: siˇ ngiedˋ tung faˋ voi+ koiˋ, miau lidˋ, sinˋ zhug voi+ rhiuˋ giˊ shibˋ van+ rhiu hag."}
+  - n: 8
+    speaker: 主播
+    en: "At this year's 天穿日 mountain-song contest in 竹東, two hundred-odd singers took part. The oldest was Grandma Liu from Miaoli, seventy-five."
+    sx: {hanzi: "今年竹東天穿日个山歌比賽，有兩百零人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "gimˊ ngienˇ zugˋ dungˊ tienˊ conˊ ngidˋ ge sanˊ goˊ biˋ soi, iuˊ liongˋ bagˋ langˇ nginˇ camˊ gaˊ. ngienˇ giˋ zui tai ge, he meuˇ lidˋ loiˇ ge liuˇ aˊ poˇ, qidˋ siib ngˋ se."}
+    hl: {hanzi: "今年竹東天穿日个山歌比賽，有兩百零人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "gimˋ ngien zhug dungˋ tienˋ chonˋ ngid gaiˇ sanˋ goˋ biˊ soiˇ, rhiuˋ liongˊ bag lang ngin camˋ gaˋ. ngien giˊ zuiˇ tai+ gaiˇ, heˇ miau lidˋ loi gaiˇ liu a+ po, cid shibˋ ngˊ soiˇ."}
+  - n: 9
+    speaker: 姐婆
+    en: "Look! It's your grandma from Miaoli!"
+    sx: {hanzi: "你看！係你苗栗个阿婆！", pinyin: "nˇ kon! he nˇ meuˇ lidˋ ge aˊ poˇ!"}
+    hl: {hanzi: "你看！係你苗栗个阿婆！", pinyin: "ngi konˇ! heˇ ngi miau lidˋ gaiˇ a+ po!"}
+  - n: 10
+    speaker: 主播
+    en: "Grandma Liu came third. She said: 'I hadn't sung for fifty years. I sang for my husband.'"
+    sx: {hanzi: "劉阿婆得著第三名。佢講：「𠊎五十年無唱了，係為著𠊎老公唱个。」", pinyin: "liuˇ aˊ poˇ dedˋ doˋ ti samˊ miangˇ. giˇ gongˋ: ngaiˇ ngˋ siib ngienˇ moˇ cong leˊ, he vi doˋ ngaiˇ loˋ gungˊ cong ge."}
+    hl: {hanzi: "劉阿婆得著第三名。佢講：「𠊎五十年無唱了，係為著𠊎老公唱个。」", pinyin: "liu a+ po ded doˊ ti+ samˋ miang. gi gongˊ: ngai ngˊ shibˋ ngien mo chongˇ leˋ, heˇ vui+ doˊ ngai loˊ gungˋ chongˇ gaiˇ."}
+  - n: 11
+    speaker: Sam
+    en: "Grandma's on TV! I must phone her!"
+    sx: {hanzi: "阿婆上電視了！𠊎愛打電話分佢！", pinyin: "aˊ poˇ songˊ tien sii leˊ! ngaiˇ oi daˋ tien fa bunˊ giˇ!"}
+    hl: {hanzi: "阿婆上電視了！𠊎愛打電話分佢！", pinyin: "a+ po shongˋ tien+ shi+ leˋ! ngai oiˇ daˊ tien+ faˇ bunˋ gi!"}
+  - n: 12
+    speaker: 姐婆
+    en: "Don't: it's past eight, she'll be asleep. Ring A-in; she won't be in bed yet."
+    sx: {hanzi: "莫打，八點過了，佢睡忒了。打分阿英，佢還吂睡。", pinyin: "mog daˋ, badˋ diamˋ go leˊ, giˇ soi tedˋ leˊ. daˋ bunˊ aˊ inˊ, giˇ hanˇ mangˇ soi."}
+    hl: {hanzi: "莫打，八點過了，佢睡忒了。打分阿英，佢還吂睡。", pinyin: "mogˋ daˊ, bad diamˊ goˇ leˋ, gi shoi+ ted leˋ. daˊ bunˋ a+ rhinˋ, gi han mang shoi+."}
+  - n: 13
+    speaker: 阿英
+    en: "(on the phone) Sam! Did you see the news? Grandma was on it!"
+    sx: {hanzi: "Sam！你看著新聞無？阿婆上電視了！", pinyin: "Sam! nˇ kon doˋ xinˊ vunˇ moˇ? aˊ poˇ songˊ tien sii leˊ!"}
+    hl: {hanzi: "Sam！你看著新聞無？阿婆上電視了！", pinyin: "Sam! ngi konˇ doˊ sinˋ vun mo? a+ po shongˋ tien+ shi+ leˋ!"}
+  - n: 14
+    speaker: Sam
+    en: "I saw it! …A-in, how about you come and see the 桐花 with me in April?"
+    sx: {hanzi: "看著了！……阿英，四月𫣆兜共下去看桐花，好無？", pinyin: "kon doˋ leˊ! … aˊ inˊ, xi ngied enˊ deuˊ kiung ha hi kon tungˇ faˊ, hoˋ moˇ?"}
+    hl: {hanzi: "看著了！……阿英，四月𫣆兜共下去看桐花，好無？", pinyin: "konˇ doˊ leˋ! … a+ rhinˋ, siˇ ngiedˋ enˋ deuˋ kiung+ ha+ hiˇ konˇ tung faˋ, hoˊ mo?"}
+  - n: 15
+    speaker: 阿英
+    en: "(a short pause) …All right."
+    sx: {hanzi: "……好。", pinyin: "… hoˋ."}
+    hl: {hanzi: "……好。", pinyin: "… hoˊ."}
+
+notes:
+  - ref: 2
+    topic: vocab
+    text: >
+      News register: 各位鄉親，大家好 "fellow Hakka, good evening", literally "each of you, folk from home". 鄉親 "people
+      from one's home region" (by general knowledge, a common way to address a Hakka audience). 新聞報導 "news report": 聽新聞報導講… "the news
+      says…" is an official example. 主播 "newsreader".
+  - ref: 3
+    topic: grammar
+    text: >
+      因為…故所… "because…, therefore…": the cause first, the result after, as in Mandarin 因為…所以…. 故所 gu soˋ is the
+      Sixian word in the lists; Hailu has 所以 soˊ rhiˋ, and the newsreader, speaking Hailu, says 所以. In the official
+      examples 故所 is often glossed ﹝所以﹞, and both are understood everywhere.
+  - ref: 4
+    topic: grammar
+    text: >
+      Numbers: 二十二度 "twenty-two degrees". 可能會落雨 "it may rain": 可能 koˋ nenˇ "possibly" + 會 (lesson 34). Hailu: 落水.
+  - ref: 5
+    topic: hailu
+    text: >
+      Fifth trip-up, and this time Sam catches it himself. The line is marked: newsreaders' Hailu is the standard of
+      the official materials, but how a 竹東 grandmother says "therefore" over dinner is better heard than guessed.
+  - ref: 7
+    topic: grammar
+    text: >
+      Big numbers: 萬 van "ten thousand" is the unit, as in Mandarin. 幾十萬 "several hundred thousand" (literally "a few
+      tens of ten-thousands"), 一萬兩千 "twelve thousand", 三萬五千 "thirty-five thousand". 桐花 tungˇ faˊ: the white
+      tung-tree blossom; by general knowledge, it whitens the hills of 苗栗 and 新竹 in April and May.
+      遊客 "visitors, tourists". 下一隻新聞 "the next news item".
+  - ref: 8
+    topic: grammar
+    text: >
+      兩百零人 "two hundred-odd people": 零 langˇ after a round number is "and a few more" (百零桌 "a hundred-odd tables",
+      兩百零萬 "two million-odd" are official examples). 年紀最大个 "the oldest": 最 zui "most" + adjective, the
+      Mandarin-style superlative (盡 also means "most", lesson 8). 參加 "take part in".
+  - ref: 10
+    topic: grammar
+    text: >
+      得著第三名 "came third": 得著 "obtain, win" + 第 ti (ordinal) + number + 名. 係為著𠊎老公唱个 "it was for my husband
+      that I sang": 為著 (lesson 41) inside the 係…个 frame.
+  - ref: 12
+    topic: culture
+    text: >
+      佢睡忒了 "she'll be asleep": 忒 after the verb, "gone (to sleep)". Grandpa goes to bed at nine (lesson 51); Grandma,
+      after a contest and a three-hour drive, earlier.
+  - ref: 14
+    topic: culture
+    text: >
+      The A-in and Sam thread moves one step: Sam asks, and A-in, for once, answers in one word. 𫣆兜 "the two of us,
+      you and I" includes her.
+
+new_words:
+  - {hanzi: 新聞, pinyin: "xinˊ vunˇ", en: "news", hl: {hanzi: 新聞, pinyin: "sinˋ vun"}}
+  - {hanzi: 各位, pinyin: "gogˋ vi", en: "everyone (formal address)", hl: {hanzi: 各位, pinyin: "gog vui+"}}
+  - {hanzi: 鄉親, pinyin: "hiongˊ qinˊ", en: "folk from home, fellow countrymen", hl: {hanzi: 鄉親, pinyin: "hiongˋ cinˋ"}}
+  - {hanzi: 報導, pinyin: "bo toˊ", en: "(news) report", hl: {hanzi: 報導, pinyin: "boˇ toˋ"}}
+  - {hanzi: 因為, pinyin: "inˊ vi", en: "because", hl: {hanzi: 因為, pinyin: "rhinˋ vui+"}}
+  - {hanzi: 故所, pinyin: "gu soˋ", en: "so, therefore (Sixian)", hl: {hanzi: 所以, pinyin: "soˊ rhiˋ"}}
+  - {hanzi: 所以, pinyin: "soˋ iˊ", en: "so, therefore", hl: {hanzi: 所以, pinyin: "soˊ rhiˋ"}}
+  - {hanzi: 最, pinyin: "zui", en: "most", hl: {hanzi: 最, pinyin: "zuiˇ"}}
+  - {hanzi: 可能, pinyin: "koˋ nenˇ", en: "possibly, may", hl: {hanzi: 可能, pinyin: "koˊ nen"}}
+  - {hanzi: 萬, pinyin: "van", en: "ten thousand", hl: {hanzi: 萬, pinyin: "van+"}}
+  - {hanzi: 桐花, pinyin: "tungˇ faˊ", en: "tung-tree blossom", hl: {hanzi: 桐花, pinyin: "tung faˋ"}}
+  - {hanzi: 遊客, pinyin: "iuˇ hagˋ", en: "visitor, tourist", hl: {hanzi: 遊客, pinyin: "rhiu hag"}}
+  - {hanzi: 零, pinyin: "langˇ", en: "zero; (after a round number) and a few more", hl: {hanzi: 零, pinyin: "lang"}}
+  - {hanzi: 參加, pinyin: "camˊ gaˊ", en: "take part in, join", hl: {hanzi: 參加, pinyin: "camˋ gaˋ"}}
+  - {hanzi: 得著, pinyin: "dedˋ doˋ", en: "obtain, win", hl: {hanzi: 得著, pinyin: "ded doˊ"}}
+  - {hanzi: 第, pinyin: "ti", en: "(ordinal prefix) No.", hl: {hanzi: 第, pinyin: "ti+"}}
+  - {hanzi: 節目, pinyin: "jiedˋ mug", en: "programme (TV, radio)", hl: {hanzi: 節目, pinyin: "zied mug"}}
+  - {hanzi: 記者, pinyin: "gi zaˋ", en: "reporter", hl: {hanzi: 記者, pinyin: "giˇ zhaˊ"}}
+  - {hanzi: 縣, pinyin: "ien", en: "county", hl: {hanzi: 縣, pinyin: "rhanˇ"}}
+  - {hanzi: 風搓, pinyin: "fungˊ caiˊ", en: "typhoon", hl: {hanzi: 風搓, pinyin: "fungˋ caiˋ"}}
+  - {hanzi: 人口, pinyin: "nginˇ kieuˋ", en: "population", hl: {hanzi: 人口, pinyin: "ngin kieuˊ"}}
+
+exercises:
+  translate:
+    - en: "The news says a typhoon is coming."
+      sx: {hanzi: "聽新聞報導講，有隻風搓會到了。", pinyin: "tangˊ xinˊ vunˇ bo toˊ gongˋ, iuˊ zagˋ fungˊ caiˊ voi do leˊ."}
+      hl: {hanzi: "聽新聞報導講，有隻風搓會到了。", pinyin: "tangˋ sinˋ vun boˇ toˋ gongˊ, rhiuˋ zhag fungˋ caiˋ voi+ doˇ leˋ."}
+      source: kaga115
+    - en: "Because it rained, there were few visitors."
+      sx: {hanzi: "因為落雨，故所遊客當少。", pinyin: "inˊ vi log iˋ, gu soˋ iuˇ hagˋ dongˊ seuˋ."}
+      hl: {hanzi: "因為落水，所以遊客當少。", pinyin: "rhinˋ vui+ logˋ shuiˊ, soˊ rhiˋ rhiu hag dongˋ shauˊ."}
+    - en: "Miaoli county has a population of about five hundred and forty thousand."
+      sx: {hanzi: "苗栗縣个人口差毋多五十四萬。", pinyin: "meuˇ lidˋ ien ge nginˇ kieuˋ caˊ mˇ doˊ ngˋ siib xi van."}
+      hl: {hanzi: "苗栗縣个人口差毋多五十四萬。", pinyin: "miau lidˋ rhanˇ gaiˇ ngin kieuˊ caˋ m doˋ ngˊ shibˋ siˇ van+."}
+      check: true
+    - en: "The reporter asked the county government how many people took part."
+      sx: {hanzi: "記者問縣政府，有幾多人參加。", pinyin: "gi zaˋ mun ien ziin fuˋ, iuˊ giˋ doˊ nginˇ camˊ gaˊ."}
+      hl: {hanzi: "記者問縣政府，有幾多人參加。", pinyin: "giˇ zhaˊ munˇ rhanˇ zhinˇ fuˊ, rhiuˋ giˊ doˋ ngin camˋ gaˋ."}
+    - en: "Grandma's favourite programme is the Hakka mountain-song show."
+      sx: {hanzi: "阿婆最好看个節目，係客家山歌節目。", pinyin: "aˊ poˇ zui hau kon ge jiedˋ mug, he hagˋ gaˊ sanˊ goˊ jiedˋ mug."}
+      hl: {hanzi: "阿婆最好看个節目，係客家山歌節目。", pinyin: "a+ po zuiˇ hauˇ konˇ gaiˇ zied mug, heˇ hag gaˋ sanˋ goˋ zied mug."}
+  fill:
+    - en: "Because it's cold, (therefore) nobody went out."
+      sx: {hanzi: "___當寒，___無人出去。", pinyin: "___ dongˊ honˇ, ___ moˇ nginˇ cudˋ hi.", answer_hanzi: "因為……故所", answer: "inˊ vi … gu soˋ"}
+      hl: {hanzi: "___當冷，___無人出去。", pinyin: "___ dongˋ langˋ, ___ mo ngin chud hiˇ.", answer_hanzi: "因為……所以", answer: "rhinˋ vui+ … soˊ rhiˋ"}
+    - en: "Several hundred thousand visitors."
+      sx: {hanzi: "幾十___遊客。", pinyin: "giˋ siib ___ iuˇ hagˋ.", answer_hanzi: "萬", answer: "van"}
+      hl: {hanzi: "幾十___遊客。", pinyin: "giˊ shibˋ ___ rhiu hag.", answer_hanzi: "萬", answer: "van+"}
+    - en: "She came third."
+      sx: {hanzi: "佢得著___三名。", pinyin: "giˇ dedˋ doˋ ___ samˊ miangˇ.", answer_hanzi: "第", answer: "ti"}
+      hl: {hanzi: "佢得著___三名。", pinyin: "gi ded doˊ ___ samˋ miang.", answer_hanzi: "第", answer: "ti+"}
+
+audio: []
