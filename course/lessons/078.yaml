@@ -1,0 +1,199 @@
+id: 78
+title:
+  en: "Grandpa in hospital"
+  sx: {hanzi: "阿公戴院", pinyin: "aˊ gungˊ dai ien"}
+  hl: {hanzi: "阿公戴院", pinyin: "a+ gungˋ daiˇ rhanˇ"}
+review: false
+setting: >-
+  Tuesday 1 June, nine in the morning, a ward of the hospital in 苗栗 town. Yesterday evening Grandpa slipped on the
+  wet slope of the tea field and fell. His knee is swollen and he cut his hand on the shears; Mr Liu drove him in, and
+  the doctor kept him overnight. Grandma has been there since seven. Sam has come on the first bus. A-in starts at the
+  county office today.
+names: [護士, 阿英, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 護士
+    en: "Good morning, uncle! Feeling better today?"
+    sx: {hanzi: "阿伯，恁早！今晡日較好無？", pinyin: "aˊ bagˋ, anˋ zoˋ! gimˊ buˊ ngidˋ ka hoˋ moˇ?"}
+    hl: {hanzi: "阿伯，恁早！今晡日較好無？", pinyin: "a+ bag, anˊ zoˊ! gimˋ buˋ ngid haˇ hoˊ mo?"}
+  - n: 2
+    speaker: 阿婆
+    en: "(as Grandpa says nothing) He doesn't talk. He's been like that all his life; it's not you."
+    sx: {hanzi: "佢毋講話。佢一生人都恁樣，毋係你个問題。", pinyin: "giˇ mˇ gongˋ fa. giˇ idˋ senˊ nginˇ du anˋ ngiongˇ, mˇ he nˇ ge mun tiˇ."}
+    hl: {hanzi: "佢毋講話。佢一生人都恁樣，毋係你个問題。", pinyin: "gi m gongˊ faˇ. gi rhid senˋ ngin du+ an ngiong, m heˇ ngi gaiˇ munˇ ti."}
+  - n: 3
+    speaker: 護士
+    en: "Never mind. Uncle, does your hurt leg still ache?"
+    sx: {hanzi: "無要緊。阿伯，著傷个腳還會痛無？", pinyin: "moˇ ieu ginˋ. aˊ bagˋ, cog songˊ ge giogˋ hanˇ voi tung moˇ?"}
+    hl: {hanzi: "無要緊。阿伯，著傷个腳還會痛無？", pinyin: "moˇ rhauˇ ginˊ. a+ bag, chogˋ shongˋ gaiˇ giog han voi+ tungˇ mo?"}
+  - n: 4
+    speaker: 阿公
+    en: "…It does."
+    sx: {hanzi: "……會。", pinyin: "… voi."}
+    hl: {hanzi: "……會。", pinyin: "… voi+."}
+  - n: 5
+    speaker: 先生
+    en: "(coming in with the X-rays) The tests are done. No broken bones; the knee is just swollen."
+    sx: {hanzi: "檢查好了。骨頭無斷忒，膝頭腫起來定定。", pinyin: "giamˋ caˇ hoˋ leˊ. gudˋ teuˇ moˇ tonˊ tedˋ, qidˋ teuˇ zungˋ hiˋ loiˇ tin tin."}
+    hl: {hanzi: "檢查好了。骨頭無斷忒，膝頭腫起來定定。", pinyin: "giamˊ ca hoˊ leˋ. gud teu mo tonˋ ted, cid teu zhungˊ hiˊ loi tin+ tin+."}
+  - n: 6
+    speaker: 阿婆
+    en: "Thank goodness! I was afraid his bones were broken. Last night there was so much blood…"
+    sx: {hanzi: "好得！𠊎驚怕佢个骨頭斷忒了。昨暗晡流恁多血……", pinyin: "hoˋ dedˋ! ngaiˇ giangˊ pa giˇ ge gudˋ teuˇ tonˊ tedˋ leˊ. coˊ am buˊ liuˇ anˋ doˊ hiedˋ …"}
+    hl: {hanzi: "好得！𠊎驚怕佢个骨頭斷忒了。昨暗晡流恁多血……", pinyin: "hoˊ ded! ngai giangˋ paˇ gi gaiˇ gud teu tonˋ ted leˋ. coˋ amˇ buˋ lau anˊ doˋ hied …"}
+  - n: 7
+    speaker: 先生
+    en: "The blood was from his hand: the shears. But he has to stay in hospital at least a week and have the dressing changed every day."
+    sx: {hanzi: "血係手指个，分剪刀割著。毋過最少愛戴院一隻禮拜，逐日換藥仔。", pinyin: "hiedˋ he suˋ ziiˋ ge, bunˊ jienˋ doˊ godˋ doˋ. mˇ go zui seuˋ oi dai ien idˋ zagˋ liˊ bai, dagˋ ngidˋ von iog eˋ."}
+    hl: {hanzi: "血係手指个，分剪刀割著。毋過最少愛戴院一隻禮拜，逐日換藥仔。", pinyin: "hied heˇ shiuˊ zhiˊ gaiˇ, bunˋ zienˊ doˋ god doˊ. m goˇ zuiˇ shauˊ oiˇ daiˇ rhanˇ rhid zhag liˋ baiˇ, dag ngid von+ rhogˋ er."}
+  - n: 8
+    speaker: Sam
+    en: "A week? Will Grandpa be…"
+    sx: {hanzi: "一隻禮拜？阿公會毋會……", pinyin: "idˋ zagˋ liˊ bai? aˊ gungˊ voi mˇ voi …"}
+    hl: {hanzi: "一隻禮拜？阿公會毋會……", pinyin: "rhid zhag liˋ baiˇ? a+ gungˋ voi+ m voi+ …"}
+  - n: 9
+    speaker: 先生
+    en: "Don't worry. He's very fit. How old is he?"
+    sx: {hanzi: "毋使驚。阿伯身體當健。佢幾多歲了？", pinyin: "mˇ siiˋ giangˊ. aˊ bagˋ siinˊ tiˋ dongˊ kien. giˇ giˋ doˊ se leˊ?"}
+    hl: {hanzi: "毋使驚。阿伯身體當健。佢幾多歲了？", pinyin: "m siiˊ giangˋ. a+ bag shinˋ tiˊ dongˋ kien+. gi giˊ doˋ soiˇ leˋ?"}
+  - n: 10
+    speaker: 阿婆
+    en: "Seventy-eight. He'll be seventy-nine this year."
+    sx: {hanzi: "七十八。今年會七十九歲了。", pinyin: "qidˋ siib badˋ. gimˊ ngienˇ voi qidˋ siib giuˋ se leˊ."}
+    hl: {hanzi: "七十八。今年會七十九歲了。", pinyin: "cid shibˋ bad. gimˋ ngien voi+ cid shibˋ giuˊ soiˇ leˋ."}
+  - n: 11
+    speaker: 先生
+    en: "Nearly seventy-nine and still working in the tea field? Once he's out, no heavy work."
+    sx: {hanzi: "會七十九歲，還去茶園做事？出院以後，毋好做粗事。", pinyin: "voi qidˋ siib giuˋ se, hanˇ hi caˇ ienˇ zo se? cudˋ ien iˊ heu, mˇ hoˋ zo cuˊ se."}
+    hl: {hanzi: "會七十九歲，還去茶園做事？出院以後，毋好做粗事。", pinyin: "voi+ cid shibˋ giuˊ soiˇ, han hiˇ ca rhan zoˇ she+? chud rhanˇ rhiˋ heu+, m hoˊ zoˇ cuˋ she+."}
+  - n: 12
+    speaker: 阿公
+    en: "The tea needs cutting. Nobody else will do it."
+    sx: {hanzi: "茶愛剪。無人剪。", pinyin: "caˇ oi jienˋ. moˇ nginˇ jienˋ."}
+    hl: {hanzi: "茶愛剪。無人剪。", pinyin: "ca oiˇ zienˊ. mo ngin zienˊ."}
+  - n: 13
+    speaker: Sam
+    en: "I'll cut it, Grandpa. You showed me how."
+    sx: {hanzi: "阿公，𠊎來剪。你教過𠊎。", pinyin: "aˊ gungˊ, ngaiˇ loiˇ jienˋ. nˇ gauˊ go ngaiˇ."}
+    hl: {hanzi: "阿公，𠊎來剪。你教過𠊎。", pinyin: "a+ gungˋ, ngai loi zienˊ. ngi gauˋ goˇ ngai."}
+  - n: 14
+    speaker: 阿英
+    en: "(at noon, in her new work clothes, out of breath) Grandpa! First day at work, and I've come straight to the hospital in my lunch break!"
+    sx: {hanzi: "阿公！𠊎頭一日上班，食晝就走來醫院看你！", pinyin: "aˊ gungˊ! ngaiˇ teuˇ idˋ ngidˋ songˊ banˊ, siid zu qiu zeuˋ loiˇ iˊ ien kon nˇ!"}
+    hl: {hanzi: "阿公！𠊎頭一日上班，食晝就走來醫院看你！", pinyin: "a+ gungˋ! ngai teu rhid ngid shongˋ banˋ, shidˋ zhiuˇ ciu+ zeuˊ loi rhiˋ rhanˇ konˇ ngi!"}
+  - n: 15
+    speaker: 阿公
+    en: "Go back to work."
+    sx: {hanzi: "轉去上班。", pinyin: "zonˋ hi songˊ banˊ."}
+    hl: {hanzi: "轉去上班。", pinyin: "zhonˊ hiˇ shongˋ banˋ."}
+  - n: 16
+    speaker: 護士
+    en: "(laughing) Uncle's words are dearer than his medicine! Here, uncle, we're taking you for a blood test. Into the wheelchair."
+    sx: {hanzi: "阿伯个話，比藥仔還較貴哦！來，阿伯，𠊎兜推你去抽血。坐輪椅。", pinyin: "aˊ bagˋ ge fa, biˋ iog eˋ hanˇ ka gui oˋ! loiˇ, aˊ bagˋ, ngaiˇ deuˊ toiˊ nˇ hi cuˊ hiedˋ. coˊ lunˇ iˋ."}
+    hl: {hanzi: "阿伯个話，比藥仔還較貴哦！來，阿伯，𠊎兜推你去抽血。坐輪椅。", pinyin: "a+ bag gaiˇ faˇ, biˊ rhogˋ er han haˇ guiˇ oˊ! loi, a+ bag, ngai deuˋ toiˋ ngi hiˇ chiuˋ hied. coˋ lun rhiˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title: 戴院 dai ien "be in hospital". 戴 is "wear" (lesson 29), and also, in the official examples, "live,
+      stay": 最少愛戴院三隻禮拜 "has to stay in hospital at least three weeks", 聽講佢戴院，厥朋友全部來看佢. Line 7
+      follows the first of these. Hailu kaga115 glosses 戴 as 居住於 "live in". 醫院 iˊ ien (line 14) is the hospital;
+      病房 the ward; 出院 (line 11) "leave hospital".
+  - ref: 3
+    topic: grammar
+    text: >
+      著傷个腳 "the injured leg": 著傷 cog songˊ "get hurt" (著 cog as in 毋著, lesson 47) + 个 + noun, a clause before
+      the noun, as in Mandarin 受傷的腳. 換藥仔 (line 7) "change the dressing": 換 "change" (lesson 46). 還會痛無？ "does it still hurt?": 會 + adjective for a bad state (lesson 39).
+  - ref: 5
+    topic: grammar
+    text: >
+      骨頭無斷忒 "the bone isn't broken": 無 + V忒 denies a result, as the official 佢跌倒，骨頭斷忒 states one. 腫起來
+      "swollen up": 起來 after an adjective for a state that has set in. 定定 "just, only" (lesson 26). 檢查 "examine,
+      test": a false friend only because Hakka also uses it for "check over" anything.
+  - ref: 6
+    topic: grammar
+    text: >
+      驚怕 "be afraid that, I'm afraid" (lesson 39): 𠊎驚怕佢个骨頭斷忒了 "I was afraid his bones were broken". With 好得
+      "luckily" (lesson 39) in front, relief comes first and the fear after, as Grandma would say it.
+  - ref: 10
+    topic: grammar
+    text: >
+      會 + age "will be, is going on": 今年會七十九歲了 "he'll be seventy-nine this year". The official examples use it for
+      "nearly": 叔公太會一百歲了，身體還當健 "great-uncle is nearly a hundred, and still fit". 健 kien "fit, robust", 當健
+      "in good health" (lesson 9's 當 + adjective), the word for old people who still work.
+  - ref: 11
+    topic: vocab
+    text: >
+      毋好做粗事 "no heavy work": 粗事 "rough work, manual labour": 粗 "coarse" (lesson 36) + 事 se, the "work" of 做事 (lesson 6).
+      The doctor quotes the official example almost word for word: 阿伯正出院，身體還弱弱，毋好去做粗事 "uncle has just come
+      out of hospital, he's still weak, he mustn't do heavy work". 弱 ngiog "weak": a false friend in the lists, for its
+      other senses.
+  - ref: 16
+    topic: culture
+    text: >
+      比藥仔還較貴 "dearer than medicine": 比 X 還較 Y "even more Y than X" (lesson 66). The nurse's joke is the course's,
+      and marked for a check. 抽血 "take a blood sample" (official: 阿婆今晡日愛去醫院做抽血檢查); 推 toiˊ "push"; 輪椅
+      lunˇ iˋ "wheelchair". 𠊎兜推你 "we'll push you": the nurses, not including Grandpa.
+
+new_words:
+  - {hanzi: 醫院, pinyin: "iˊ ien", en: "hospital", hl: {hanzi: 醫院, pinyin: "rhiˋ rhanˇ"}}
+  - {hanzi: 院, pinyin: "ien", en: "(in 戴院, 出院) hospital", hl: {hanzi: 院, pinyin: "rhanˇ"}}
+  - {hanzi: 病房, pinyin: "piang fongˇ", en: "ward, hospital room", hl: {hanzi: 病房, pinyin: "piang+ fong"}}
+  - {hanzi: 著傷, pinyin: "cog songˊ", en: "get hurt, be injured", hl: {hanzi: 著傷, pinyin: "chogˋ shongˋ"}}
+  - {hanzi: 檢查, pinyin: "giamˋ caˇ", en: "examine, test", hl: {hanzi: 檢查, pinyin: "giamˊ ca"}}
+  - {hanzi: 骨頭, pinyin: "gudˋ teuˇ", en: "bone", hl: {hanzi: 骨頭, pinyin: "gud teu"}}
+  - {hanzi: 膝頭, pinyin: "qidˋ teuˇ", en: "knee", hl: {hanzi: 膝頭, pinyin: "cid teu"}}
+  - {hanzi: 腫, pinyin: "zungˋ", en: "swell, swollen", hl: {hanzi: 腫, pinyin: "zhungˊ"}}
+  - {hanzi: 血, pinyin: "hiedˋ", en: "blood", hl: {hanzi: 血, pinyin: "hied"}}
+  - {hanzi: 手指, pinyin: "suˋ ziiˋ", en: "finger", hl: {hanzi: 手指, pinyin: "shiuˊ zhiˊ"}}
+  - {hanzi: 健, pinyin: "kien", en: "fit, robust (當健 in good health)", hl: {hanzi: 健, pinyin: "kien+"}}
+  - {hanzi: 事, pinyin: "se", en: "work (粗事 heavy work; as in 做事)", hl: {hanzi: 事, pinyin: "she+"}}
+  - {hanzi: 剪刀, pinyin: "jienˋ doˊ", en: "shears, scissors", hl: {hanzi: 剪刀, pinyin: "zienˊ doˋ"}}
+  - {hanzi: 弱, pinyin: "ngiog", en: "weak", hl: {hanzi: 弱, pinyin: "ngiogˋ"}}
+  - {hanzi: 抽, pinyin: "cuˊ", en: "draw out (抽血 take blood)", hl: {hanzi: 抽, pinyin: "chiuˋ"}}
+  - {hanzi: 推, pinyin: "toiˊ", en: "push", hl: {hanzi: 推, pinyin: "toiˋ"}}
+  - {hanzi: 輪椅, pinyin: "lunˇ iˋ", en: "wheelchair", hl: {hanzi: 輪椅, pinyin: "lun rhiˊ"}}
+  - {hanzi: 陪, pinyin: "piˇ", en: "keep (someone) company", hl: {hanzi: 陪, pinyin: "poi"}}
+  - {hanzi: 削, pinyin: "xiogˋ", en: "peel, pare", hl: {hanzi: 削, pinyin: "siog"}}
+  - {hanzi: 皮, pinyin: "piˇ", en: "skin, peel", hl: {hanzi: 皮, pinyin: "pi"}}
+  - {hanzi: 治療, pinyin: "cii liauˇ", en: "treat, treatment", hl: {hanzi: 治療, pinyin: "chi+ liau"}}
+  - {hanzi: 恢復, pinyin: "fiˊ fug", en: "recover", hl: {hanzi: 恢復, pinyin: "fuiˋ fugˋ"}}
+
+exercises:
+  translate:
+    - en: "He fell over and broke a bone."
+      sx: {hanzi: "佢跌倒，骨頭斷忒。", pinyin: "giˇ diedˋ doˋ, gudˋ teuˇ tonˊ tedˋ."}
+      hl: {hanzi: "佢跢倒，骨頭斷忒。", pinyin: "gi doiˋ doˊ, gud teu tonˋ ted."}
+      source: kaga115
+    - en: "Peeling a tangerine, I wasn't careful, and cut my finger on the knife."
+      sx: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血了。", pinyin: "xiogˋ gamˊ eˋ ge piˇ moˇ se ngi, suˋ ziiˋ bunˊ doˊ eˋ godˋ doˋ, cudˋ hiedˋ leˊ."}
+      hl: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血了。", pinyin: "siog gamˋ er gaiˇ pi mo seˇ ngi+, shiuˊ zhiˊ bunˋ doˋ er god doˊ, chud hied leˋ."}
+    - en: "Grandma keeps Grandpa company in the ward every day."
+      sx: {hanzi: "阿婆逐日在病房陪阿公。", pinyin: "aˊ poˇ dagˋ ngidˋ coiˊ piang fongˇ piˇ aˊ gungˊ."}
+      hl: {hanzi: "阿婆逐日在病房陪阿公。", pinyin: "a+ po dag ngid coiˋ piang+ fong poi a+ gungˋ."}
+    - en: "After the treatment he recovered quickly."
+      sx: {hanzi: "治療以後，佢恢復到當遽。", pinyin: "cii liauˇ iˊ heu, giˇ fiˊ fug do dongˊ giagˋ."}
+      hl: {hanzi: "治療以後，佢恢復到當遽。", pinyin: "chi+ liau rhiˋ heu+, gi fuiˋ fugˋ doˇ dongˋ giag."}
+      check: true
+    - en: "He's only just out of hospital and still weak: no heavy work."
+      sx: {hanzi: "佢正出院，身體還弱弱，毋好做粗事。", pinyin: "giˇ zang cudˋ ien, siinˊ tiˋ hanˇ ngiog ngiog, mˇ hoˋ zo cuˊ se."}
+      hl: {hanzi: "佢正出院，身體還弱弱，毋好做粗事。", pinyin: "gi zhangˇ chud rhanˇ, shinˋ tiˊ han ngiogˋ ngiogˋ, m hoˊ zoˇ cuˋ she+."}
+    - en: "Change into these clothes; the nurse is coming."
+      sx: {hanzi: "這領衫換起來，護士愛來了。", pinyin: "iaˋ liangˊ samˊ von hiˋ loiˇ, fu sii oi loiˇ leˊ."}
+      hl: {hanzi: "這領衫換起來，護士愛來了。", pinyin: "liaˊ liangˋ samˋ von+ hiˊ loi, fu+ sii+ oiˇ loi leˋ."}
+      check: true
+  fill:
+    - en: "His knee is swollen."
+      sx: {hanzi: "佢个膝頭___起來了。", pinyin: "giˇ ge qidˋ teuˇ ___ hiˋ loiˇ leˊ.", answer_hanzi: "腫", answer: "zungˋ"}
+      hl: {hanzi: "佢个膝頭___起來了。", pinyin: "gi gaiˇ cid teu ___ hiˊ loi leˋ.", answer_hanzi: "腫", answer: "zhungˊ"}
+    - en: "He'll be ninety this year, and he's still fit."
+      sx: {hanzi: "佢今年___九十歲了，身體還當健。", pinyin: "giˇ gimˊ ngienˇ ___ giuˋ siib se leˊ, siinˊ tiˋ hanˇ dongˊ kien.", answer_hanzi: "會", answer: "voi"}
+      hl: {hanzi: "佢今年___九十歲了，身體還當健。", pinyin: "gi gimˋ ngien ___ giuˊ shibˋ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+.", answer_hanzi: "會", answer: "voi+"}
+    - en: "I'm afraid it will rain."
+      sx: {hanzi: "𠊎___會落雨。", pinyin: "ngaiˇ ___ voi log iˋ.", answer_hanzi: "驚怕", answer: "giangˊ pa"}
+      hl: {hanzi: "𠊎___會落水。", pinyin: "ngai ___ voi+ logˋ shuiˊ.", answer_hanzi: "驚怕", answer: "giangˋ paˇ"}
+
+audio: []
