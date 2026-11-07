@@ -46,7 +46,7 @@ dialogue:
     speaker: 阿英
     en: "Auntie, there's a saying for that: 'kissing with conical hats on'…"
     sx: {hanzi: "財伯姆，有一句師傅話：戴等笠嫲唚嘴……", pinyin: "coiˇ bagˋ meˊ, iuˊ idˋ gi siiˊ fu fa: dai denˋ libˋ maˇ jimˊ zoi …"}
-    hl: {hanzi: "財伯姆，有一句師傅話：戴等笠嫲唚嘴……", pinyin: "coi bag meˋ, rhiuˋ rhid giˇ siiˋ fu+ faˇ: daiˇ nenˊ lib ma zimˋ zhoiˇ …"}
+    hl: {hanzi: "財伯姆，有一句師傅話：戴等笠嫲唚嘴……", pinyin: "coi bag meˋ, rhiuˋ rhid giˇ siiˋ fu+ faˇ: daiˇ denˊ lib ma zimˋ zhoiˇ …"}
   - n: 8
     speaker: 阿明
     en: "…'still a long way off'!"
@@ -102,7 +102,7 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu this month: 承蒙 for 恁仔細, 菜頭 for 蘿蔔, 閼 for 譴, 撿採 giamˊ caiˊ, 冤家 rhanˋ gaˋ, and V等 nenˊ (戴等).
+      Hailu this month: 承蒙 for 恁仔細, 菜頭 for 蘿蔔, 閼 for 譴, 撿採 giamˊ caiˊ, 冤家 rhanˋ gaˋ, and V等 denˊ (戴等).
 
 new_words: []
 

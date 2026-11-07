@@ -54,7 +54,7 @@ dialogue:
     speaker: Sam
     en: "Right, then. I forgive you. Keep the jacket; the money counts as a red envelope from me."
     sx: {hanzi: "好，原諒你。衫留等，錢算𠊎送分你个紅包。", pinyin: "hoˋ, ngienˇ liong nˇ. samˊ liuˇ denˋ, qienˇ son ngaiˇ sung bunˊ nˇ ge fungˇ bauˊ."}
-    hl: {hanzi: "好，原諒你。衫留等，錢算𠊎送分你个紅包。", pinyin: "hoˊ, ngien liong+ ngi. samˋ liu nenˊ, cien sonˇ ngai sungˇ bunˋ ngi gaiˇ fung bauˋ."}
+    hl: {hanzi: "好，原諒你。衫留等，錢算𠊎送分你个紅包。", pinyin: "hoˊ, ngien liong+ ngi. samˋ liu denˊ, cien sonˇ ngai sungˇ bunˋ ngi gaiˇ fung bauˋ."}
   - n: 10
     speaker: 阿明
     en: "Really? (grinning) You're like my big brother."

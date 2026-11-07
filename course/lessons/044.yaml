@@ -2,7 +2,7 @@ id: 44
 title:
   en: "The wedding banquet"
   sx: {hanzi: "戴等笠嫲唚嘴", pinyin: "dai denˋ libˋ maˇ jimˊ zoi"}
-  hl: {hanzi: "戴等笠嫲唚嘴", pinyin: "daiˇ nenˊ lib ma zimˋ zhoiˇ"}
+  hl: {hanzi: "戴等笠嫲唚嘴", pinyin: "daiˇ denˊ lib ma zimˋ zhoiˇ"}
 review: false
 setting: >-
   Saturday evening, a red marquee across the lane from the 伯公 shrine: thirty round tables, a stage, a karaoke machine.
@@ -39,7 +39,7 @@ dialogue:
     speaker: 財伯姆
     en: "(coming over) The bride and groom are going round every table to toast the guests. Get your glasses ready!"
     sx: {hanzi: "新娘公、新娘愛逐張桌去摎人客敬酒。杯仔拿等！", pinyin: "xinˊ ngiongˇ gungˊ, xinˊ ngiongˇ oi dagˋ zongˊ zogˋ hi lauˊ nginˇ hagˋ gin jiuˋ. biˊ eˋ naˊ denˋ!"}
-    hl: {hanzi: "新娘公、新娘愛逐張桌去摎人客敬酒。杯仔拿等！", pinyin: "sinˋ ngiong gungˋ, sinˋ ngiong oiˇ dag zhongˋ zog hiˇ lauˋ ngin hag ginˇ ziuˊ. buiˋ er naˋ nenˊ!"}
+    hl: {hanzi: "新娘公、新娘愛逐張桌去摎人客敬酒。杯仔拿等！", pinyin: "sinˋ ngiong gungˋ, sinˋ ngiong oiˇ dag zhongˋ zog hiˇ lauˋ ngin hag ginˇ ziuˊ. buiˋ er naˋ denˊ!"}
   - n: 7
     speaker: 阿興
     en: "(the groom, red in the face, raising his glass) Thank you all for coming! Bottoms up!"
@@ -66,7 +66,7 @@ dialogue:
     speaker: 阿公
     en: "(who has said nothing all evening, to no one in particular) Kissing with your conical hats on."
     sx: {hanzi: "戴等笠嫲唚嘴。", pinyin: "dai denˋ libˋ maˇ jimˊ zoi."}
-    hl: {hanzi: "戴等笠嫲唚嘴。", pinyin: "daiˇ nenˊ lib ma zimˋ zhoiˇ."}
+    hl: {hanzi: "戴等笠嫲唚嘴。", pinyin: "daiˇ denˊ lib ma zimˋ zhoiˇ."}
   - n: 12
     speaker: Sam
     en: "(whispering to A-min) What does that mean?"
@@ -76,7 +76,7 @@ dialogue:
     speaker: 阿明
     en: "It's a 師傅話, a saying with a hidden end. Hats on, you can't get close: 'still a long way off'."
     sx: {hanzi: "這係師傅話。戴等笠嫲，唚毋著：差得遠！", pinyin: "iaˋ he siiˊ fu fa. dai denˋ libˋ maˇ, jimˊ mˇ doˋ: caˊ dedˋ ienˋ!"}
-    hl: {hanzi: "這係師傅話。戴等笠嫲，唚毋著：差得遠！", pinyin: "liaˊ heˇ siiˋ fu+ faˇ. daiˇ nenˊ lib ma, zimˋ m doˊ: caˋ ded rhanˊ!"}
+    hl: {hanzi: "這係師傅話。戴等笠嫲，唚毋著：差得遠！", pinyin: "liaˊ heˇ siiˋ fu+ faˇ. daiˇ denˊ lib ma, zimˋ m doˊ: caˋ ded rhanˊ!"}
   - n: 14
     speaker: 阿英
     en: "(very busy with the fish) This fish is delicious."
@@ -127,7 +127,7 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu: 承蒙 shin mung for 恁仔細, 杯 buiˋ, 尾 muiˋ, 唚 zimˋ, and V等 nenˊ (拿等, 戴等).
+      Hailu: 承蒙 shin mung for 恁仔細, 杯 buiˋ, 尾 muiˋ, 唚 zimˋ, and V等 denˊ (拿等, 戴等).
 
 new_words:
   - {hanzi: 俗語, pinyin: "xiug ngiˊ", en: "saying, proverb", hl: {hanzi: 俗語, pinyin: "siugˋ ngiˋ"}}
@@ -178,6 +178,6 @@ exercises:
       hl: {hanzi: "___，___！", pinyin: "___, ___!", answer_hanzi: "恭喜", answer: "giungˋ hiˊ"}
     - en: "Kissing with conical hats on: still a long way off."
       sx: {hanzi: "戴等笠嫲唚嘴：___。", pinyin: "dai denˋ libˋ maˇ jimˊ zoi: ___.", answer_hanzi: "差得遠", answer: "caˊ dedˋ ienˋ"}
-      hl: {hanzi: "戴等笠嫲唚嘴：___。", pinyin: "daiˇ nenˊ lib ma zimˋ zhoiˇ: ___.", answer_hanzi: "差得遠", answer: "caˋ ded rhanˊ"}
+      hl: {hanzi: "戴等笠嫲唚嘴：___。", pinyin: "daiˇ denˊ lib ma zimˋ zhoiˇ: ___.", answer_hanzi: "差得遠", answer: "caˋ ded rhanˊ"}
 
 audio: []

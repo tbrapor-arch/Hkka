@@ -69,7 +69,7 @@ dialogue:
     speaker: Sam
     en: "He's taken them up to his room. He's locked the door; I can't get at them."
     sx: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "giˇ naˊ songˊ hi gienˊ fongˇ leˊ. munˇ guanˊ denˋ, ngaiˇ naˊ giˇ mˇ doˋ."}
-    hl: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "gi naˋ shongˋ hiˇ gienˋ fong leˋ. mun guanˋ nenˊ, ngai naˋ gi m doˊ."}
+    hl: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "gi naˋ shongˋ hiˇ gienˋ fong leˋ. mun guanˋ denˊ, ngai naˋ gi m doˊ."}
     check: true
   - n: 13
     speaker: 阿公
