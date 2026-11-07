@@ -1,0 +1,167 @@
+id: 32
+title:
+  en: "The neighbours talk"
+  sx: {hanzi: "聽講……", pinyin: "tangˊ gongˋ …"}
+  hl: {hanzi: "聽講……", pinyin: "tangˋ gongˊ …"}
+review: false
+setting: >-
+  Sunday morning at the 伯公 shrine (lesson 22). Grandma meets A-tsai and his wife, who have news. In a village this
+  size, news travels faster than the bus.
+names: [阿財, 阿財伯, 財伯姆, 大湖, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 財伯姆
+    en: "Grandma Liu, I hear Sam has a girlfriend!"
+    sx: {hanzi: "阿婆，聽講 Sam 有女朋友了！", pinyin: "aˊ poˇ, tangˊ gongˋ Sam iuˊ ngˋ penˇ iuˊ leˊ!"}
+    hl: {hanzi: "阿婆，聽講 Sam 有女朋友了！", pinyin: "a+ po, tangˋ gongˊ Sam rhiuˋ ngˊ pen rhiuˋ leˋ!"}
+  - n: 2
+    speaker: 阿婆
+    en: "A girlfriend? Who said so?"
+    sx: {hanzi: "女朋友？麼人講个？", pinyin: "ngˋ penˇ iuˊ? maˋ nginˇ gongˋ ge?"}
+    hl: {hanzi: "女朋友？麼人講个？", pinyin: "ngˊ pen rhiuˋ? maˊ ngin gongˊ gaiˇ?"}
+  - n: 3
+    speaker: 財伯姆
+    en: "A-tsai did. He saw Sam picking strawberries in 大湖 with a foreign girl."
+    sx: {hanzi: "阿財講个。佢看著 Sam 同一隻外國細妹仔在大湖摘草莓。", pinyin: "aˊ coiˇ gongˋ ge. giˇ kon doˋ Sam tungˇ idˋ zagˋ ngoi guedˋ se moi eˋ coiˊ tai fuˇ zagˋ coˋ moiˇ."}
+    hl: {hanzi: "阿財講个。佢看著 Sam 摎一隻外國細妹仔在大湖摘草莓。", pinyin: "a+ coi gongˊ gaiˇ. gi konˇ doˊ Sam lauˋ rhid zhag ngoi+ gued seˇ moiˇ er coiˋ tai+ fu zag coˊ moi."}
+  - n: 4
+    speaker: 阿婆
+    en: "(laughing) That's his younger sister!"
+    sx: {hanzi: "該係厥老妹！", pinyin: "ge he giaˊ loˋ moi!"}
+    hl: {hanzi: "該係厥老妹！", pinyin: "gai heˇ gia loˊ moiˇ!"}
+  - n: 5
+    speaker: 阿財伯
+    en: "His sister? Really?"
+    sx: {hanzi: "老妹？有影無？", pinyin: "loˋ moi? iuˊ iangˋ moˇ?"}
+    hl: {hanzi: "老妹？有影無？", pinyin: "loˊ moiˇ? rhiuˋ rhangˊ mo?"}
+  - n: 6
+    speaker: 阿婆
+    en: "Really. …But between you and me, A-in gets on very well with him."
+    sx: {hanzi: "有影。……還有，𠊎看阿英同佢當好。", pinyin: "iuˊ iangˋ. … hanˇ iuˊ, ngaiˇ kon aˊ inˊ tungˇ giˇ dongˊ hoˋ."}
+    hl: {hanzi: "有影。……還有，𠊎看阿英摎佢當好。", pinyin: "rhiuˋ rhangˊ. … han rhiuˋ, ngai konˇ a+ rhinˋ lauˋ gi dongˋ hoˊ."}
+  - n: 7
+    speaker: 財伯姆
+    en: "Is that so? A-in and Sam?"
+    sx: {hanzi: "係毋係？阿英同 Sam？", pinyin: "he mˇ he? aˊ inˊ tungˇ Sam?"}
+    hl: {hanzi: "係毋係？阿英摎 Sam？", pinyin: "heˇ m heˇ? a+ rhinˋ lauˋ Sam?"}
+  - n: 8
+    speaker: 阿婆
+    en: "I don't know… I've only heard it myself, that's all. It's a secret, don't tell anyone!"
+    sx: {hanzi: "𠊎毋知……𠊎乜係聽講个定定。這係祕密，莫同人講！", pinyin: "ngaiˇ mˇ diˊ … ngaiˇ me he tangˊ gongˋ ge tin tin. iaˋ he bi med, mog tungˇ nginˇ gongˋ!"}
+    hl: {hanzi: "𠊎毋知……𠊎乜係聽講个定定。這係祕密，莫摎人講！", pinyin: "ngai m diˋ … ngai meˇ heˇ tangˋ gongˊ gaiˇ tin+ tin+. liaˊ heˇ biˇ medˋ, mogˋ lauˋ ngin gongˊ!"}
+  - n: 9
+    speaker: 財伯姆
+    en: "If they get married, the whole lot of us will go to the wedding banquet!"
+    sx: {hanzi: "若係佢兜結婚，𠊎兜全部愛去食酒！", pinyin: "na he giˇ deuˊ giedˋ funˊ, ngaiˇ deuˊ qionˇ pu oi hi siid jiuˋ!"}
+    hl: {hanzi: "若係佢兜結婚，𠊎兜全部愛去食酒！", pinyin: "na+ heˇ gi deuˋ gied funˋ, ngai deuˋ cion pu+ oiˇ hiˇ shidˋ ziuˊ!"}
+  - n: 10
+    speaker: 阿財伯
+    en: "(patting his pockets) Where are my glasses?"
+    sx: {hanzi: "𠊎个目鏡呢？", pinyin: "ngaiˇ ge mugˋ giang neˇ?"}
+    hl: {hanzi: "𠊎个目鏡呢？", pinyin: "ngai gaiˇ mug giangˇ neˇ?"}
+  - n: 11
+    speaker: 財伯姆
+    en: "Here they are! On your head!"
+    sx: {hanzi: "這毋係！在你个頭那頂！", pinyin: "iaˋ mˇ he! coiˊ nˇ ge teuˇ naˇ dangˋ!"}
+    hl: {hanzi: "這毋係！在你个頭那頂！", pinyin: "liaˊ m heˇ! coiˋ ngi gaiˇ teu na dangˊ!"}
+    check: true
+  - n: 12
+    speaker: 阿婆
+    en: "Right, right. Let's go home for breakfast."
+    sx: {hanzi: "好了，好了。𫣆兜轉去食朝。", pinyin: "hoˋ leˊ, hoˋ leˊ. enˊ deuˊ zonˋ hi siid zeuˊ."}
+    hl: {hanzi: "好了，好了。𫣆兜轉去食朝。", pinyin: "hoˊ leˋ, hoˊ leˋ. enˋ deuˋ zhonˊ hiˇ shidˋ zhauˋ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      聽講 tangˊ gongˋ "I hear (that), they say": 聽講 Sam 有女朋友 "I hear Sam has a girlfriend". The opening of every
+      piece of village news. 女朋友 "girlfriend" is simply 女 ngˋ "female" + 朋友 (lesson 11); 女 is a syllable with no
+      vowel, like 五 and 魚. 男 namˇ "male" works the same way: 男朋友.
+  - ref: 3
+    topic: grammar
+    text: >
+      看著 Sam 同…摘草莓 "saw Sam picking strawberries with…": after 看著 the whole scene follows, as in Mandarin.
+      阿財講个 "A-tsai said so": 係 left out of the 係…个 frame, as often in speech.
+  - ref: 5
+    topic: grammar
+    text: >
+      有影 iuˊ iangˋ "true, for real", literally "there is a shadow (of it)"; 無影 "not true, nothing to it". 有影無？
+      "really? is it true?" is the reply to any 聽講. A Hakka word with no Mandarin look-alike: worth learning as a block.
+  - ref: 6
+    topic: culture
+    text: >
+      𠊎看 "the way I see it, I think": Grandma passes on gossip as her own observation, then (line 8) calls it a secret.
+      By lunchtime it will be at the bus stop of lesson 13.
+  - ref: 7
+    topic: grammar
+    text: >
+      係毋係 he mˇ he "is it (or not)?": the A-not-A question, as Mandarin 是不是. Alone, it asks for confirmation: 係毋係？
+      "really? is that so?"; inside a sentence, it turns it into a question: 你係毋係寒著了？ "have you caught a cold?".
+  - ref: 9
+    topic: grammar
+    text: >
+      若係 na he "if": 若係佢兜結婚 "if they get married". It goes at the start of the clause, and the result follows
+      without any word for "then". 食酒 is the wedding banquet of lesson 27: "drinking" is what a village wedding is
+      remembered for.
+  - ref: 11
+    topic: grammar
+    text: >
+      這毋係！ "here it is!", literally "isn't this (it)?": a rhetorical question used as a pointer. None of the official
+      example sentences uses it in this sense, so the line is marked for a native speaker's check. 目鏡 mugˋ giang
+      "glasses" (目 "eye" + 鏡 "lens"); 頭那頂 "on (one's) head": 頭那 (lesson 12) + 頂 "top".
+
+new_words:
+  - {hanzi: 女, pinyin: "ngˋ", en: "woman, female", hl: {hanzi: 女, pinyin: "ngˊ"}}
+  - {hanzi: 係毋係, pinyin: "he mˇ he", en: "is it (or not)?; really?", hl: {hanzi: 係毋係, pinyin: "heˇ m heˇ"}}
+  - {hanzi: 目鏡, pinyin: "mugˋ giang", en: "glasses", hl: {hanzi: 目鏡, pinyin: "mug giangˇ"}}
+  - {hanzi: 頭那頂, pinyin: "teuˇ naˇ dangˋ", en: "on (one's) head", hl: {hanzi: 頭那頂, pinyin: "teu na dangˊ"}}
+  - {hanzi: 鄰舍, pinyin: "linˇ sa", en: "neighbour", hl: {hanzi: 鄰舍, pinyin: "lin shaˇ"}}
+  - {hanzi: 講笑, pinyin: "gongˋ seu", en: "joke, kid", hl: {hanzi: 講笑, pinyin: "gongˊ siauˇ"}}
+  - {hanzi: 假, pinyin: "gaˋ", en: "false, fake", hl: {hanzi: 假, pinyin: "gaˊ"}}
+  - {hanzi: 消息, pinyin: "seuˊ xidˋ", en: "news", hl: {hanzi: 消息, pinyin: "siauˋ sid"}}
+  - {hanzi: 相信, pinyin: "xiongˊ xin", en: "believe", hl: {hanzi: 相信, pinyin: "siongˋ sinˇ"}}
+  - {hanzi: 男, pinyin: "namˇ", en: "man, male", hl: {hanzi: 男, pinyin: "nam"}}
+  - {hanzi: 牽手, pinyin: "kienˊ suˋ", en: "hold hands", hl: {hanzi: 牽手, pinyin: "kienˋ shiuˊ"}}
+
+  - {hanzi: 有影, pinyin: "iuˊ iangˋ", en: "true, for real", hl: {hanzi: 有影, pinyin: "rhiuˋ rhangˊ"}}
+  - {hanzi: 有影無, pinyin: "iuˊ iangˋ moˇ", en: "really? is it true?", hl: {hanzi: 有影無, pinyin: "rhiuˋ rhangˊ mo"}}
+  - {hanzi: 祕密, pinyin: "bi med", en: "secret", hl: {hanzi: 祕密, pinyin: "biˇ medˋ"}}
+  - {hanzi: 若係, pinyin: "na he", en: "if", hl: {hanzi: 若係, pinyin: "na+ heˇ"}}
+  - {hanzi: 結婚, pinyin: "giedˋ funˊ", en: "get married", hl: {hanzi: 結婚, pinyin: "gied funˋ"}}
+  - {hanzi: 全部, pinyin: "qionˇ pu", en: "all, the whole lot", hl: {hanzi: 全部, pinyin: "cion pu+"}}
+  - {hanzi: 新娘, pinyin: "xinˊ ngiongˇ", en: "bride", hl: {hanzi: 新娘, pinyin: "sinˋ ngiong"}}
+  - {hanzi: 笑, pinyin: "seu", en: "laugh, smile", hl: {hanzi: 笑, pinyin: "siauˇ"}}
+exercises:
+  translate:
+    - en: "I hear the neighbour is going to sell his house."
+      sx: {hanzi: "聽講鄰舍愛賣屋。", pinyin: "tangˊ gongˋ linˇ sa oi mai vugˋ."}
+      hl: {hanzi: "聽講鄰舍愛賣屋。", pinyin: "tangˋ gongˊ lin shaˇ oiˇ mai+ vug."}
+    - en: "Is this news true or false? Do you believe it?"
+      sx: {hanzi: "這消息係毋係假个？你相信無？", pinyin: "iaˋ seuˊ xidˋ he mˇ he gaˋ ge? nˇ xiongˊ xin moˇ?"}
+      hl: {hanzi: "這消息係毋係假个？你相信無？", pinyin: "liaˊ siauˋ sid heˇ m heˇ gaˊ gaiˇ? ngi siongˋ sinˇ mo?"}
+    - en: "Don't believe him, he's joking."
+      sx: {hanzi: "莫相信佢，佢在該講笑。", pinyin: "mog xiongˊ xin giˇ, giˇ du ge gongˋ seu."}
+      hl: {hanzi: "莫相信佢，佢在該講笑。", pinyin: "mogˋ siongˋ sinˇ gi, gi diˇ gai gongˊ siauˇ."}
+    - en: "A-tsai saw two people holding hands: a man and a woman."
+      sx: {hanzi: "阿財看著兩儕人牽手：一隻男个，一隻女个。", pinyin: "aˊ coiˇ kon doˋ liongˋ saˇ nginˇ kienˊ suˋ: idˋ zagˋ namˇ ge, idˋ zagˋ ngˋ ge."}
+      hl: {hanzi: "阿財看著兩儕人牽手：一隻男个，一隻女个。", pinyin: "a+ coi konˇ doˊ liongˊ sa ngin kienˋ shiuˊ: rhid zhag nam gaiˇ, rhid zhag ngˊ gaiˇ."}
+    - en: "Don't laugh! If you laugh, I won't tell you."
+      sx: {hanzi: "莫笑！若係你笑，𠊎就毋同你講。", pinyin: "mog seu! na he nˇ seu, ngaiˇ qiu mˇ tungˇ nˇ gongˋ."}
+      hl: {hanzi: "莫笑！若係你笑，𠊎就毋摎你講。", pinyin: "mogˋ siauˇ! na+ heˇ ngi siauˇ, ngai ciu+ m lauˋ ngi gongˊ."}
+    - en: "Are you Sam's girlfriend?"
+      sx: {hanzi: "你係毋係 Sam 个女朋友？", pinyin: "nˇ he mˇ he Sam ge ngˋ penˇ iuˊ?"}
+      hl: {hanzi: "你係毋係 Sam 个女朋友？", pinyin: "ngi heˇ m heˇ Sam gaiˇ ngˊ pen rhiuˋ?"}
+  fill:
+    - en: "I hear (that) A-in's coming back."
+      sx: {hanzi: "___阿英愛轉來。", pinyin: "___ aˊ inˊ oi zonˋ loiˇ.", answer_hanzi: "聽講", answer: "tangˊ gongˋ"}
+      hl: {hanzi: "___阿英愛轉來。", pinyin: "___ a+ rhinˋ oiˇ zhonˊ loi.", answer_hanzi: "聽講", answer: "tangˋ gongˊ"}
+    - en: "I hear the bride is beautiful. Really?"
+      sx: {hanzi: "聽講新娘當靚。___", pinyin: "tangˊ gongˋ xinˊ ngiongˇ dongˊ jiangˊ. ___", answer_hanzi: "有影無", answer: "iuˊ iangˋ moˇ"}
+      hl: {hanzi: "聽講新娘當靚。___", pinyin: "tangˋ gongˊ sinˋ ngiong dongˋ ziangˋ. ___", answer_hanzi: "有影無", answer: "rhiuˋ rhangˊ mo"}
+    - en: "Where are my glasses?"
+      sx: {hanzi: "𠊎个___呢？", pinyin: "ngaiˇ ge ___ neˇ?", answer_hanzi: "目鏡", answer: "mugˋ giang"}
+      hl: {hanzi: "𠊎个___呢？", pinyin: "ngai gaiˇ ___ neˇ?", answer_hanzi: "目鏡", answer: "mug giangˇ"}
+
+audio: []
