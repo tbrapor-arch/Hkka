@@ -1,0 +1,177 @@
+id: 62
+title:
+  en: "Writing to A-in"
+  sx: {hanzi: "阿英：你好！", pinyin: "aˊ inˊ: nˇ hoˋ!"}
+  hl: {hanzi: "阿英：你好！", pinyin: "a+ rhinˋ: ngi hoˊ!"}
+review: false
+setting: >-
+  Sunday 21 March, evening, in Sam's room above the factory. Sam has a pen, a sheet of paper and an envelope, and
+  he is writing a letter in Hakka, his first. He writes the way he speaks: in Sixian, with a few 竹東 words that have
+  crept in. Lines 1–9 are the letter.
+names: [阿英, 阿蘭嫂, 阿傑, 姐婆, 竹東, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "(writing) A-in, hello!"
+    sx: {hanzi: "阿英：你好！", pinyin: "aˊ inˊ: nˇ hoˋ!"}
+    hl: {hanzi: "阿英：你好！", pinyin: "a+ rhinˋ: ngi hoˊ!"}
+  - n: 2
+    speaker: Sam
+    en: "It has rained in 竹東 for three weeks, and today, at last, the sun came out."
+    sx: {hanzi: "竹東落雨落三隻禮拜了，今晡日正天晴。", pinyin: "zugˋ dungˊ log iˋ log samˊ zagˋ liˊ bai leˊ, gimˊ buˊ ngidˋ zang tienˊ qiangˇ."}
+    hl: {hanzi: "竹東落水落三隻禮拜了，今晡日正天晴。", pinyin: "zhug dungˋ logˋ shuiˊ logˋ samˋ zhag liˋ baiˇ leˋ, gimˋ buˋ ngid zhangˇ tienˋ ciang."}
+  - n: 3
+    speaker: Sam
+    en: "There's a lot to do at the factory, but I'm slowly getting used to it. I start at five every morning and finish at four."
+    sx: {hanzi: "粄條工廠个事情當多，毋過𠊎慢慢慣勢了。逐日朝晨五點上班，四點下班。", pinyin: "banˋ tiauˇ gungˊ congˋ ge sii qinˇ dongˊ doˊ, mˇ go ngaiˇ man man guan se leˊ. dagˋ ngidˋ zeuˊ siinˇ ngˋ diamˋ songˊ banˊ, xi diamˋ haˊ banˊ."}
+    hl: {hanzi: "粄條工廠个事情當多，毋過𠊎慢慢慣勢了。逐日朝晨五點上班，四點下班。", pinyin: "banˊ tiau gungˋ chong gaiˇ sii+ cin dongˋ doˋ, m goˇ ngai man+ man+ guanˇ sheˇ leˋ. dag ngid zhauˋ shin ngˊ diamˊ shongˋ banˋ, siˇ diamˊ haˋ banˋ."}
+  - n: 4
+    speaker: Sam
+    en: "阿蘭嫂 and 阿傑 are very good to me. 阿蘭嫂 says she works to earn money so that her grandson can go to school."
+    sx: {hanzi: "阿蘭嫂摎阿傑對𠊎當好。阿蘭嫂講，佢做事賺錢，係為著分孫仔讀書。", pinyin: "aˊ lanˇ soˋ lauˊ aˊ kiedˋ dui ngaiˇ dongˊ hoˋ. aˊ lanˇ soˋ gongˋ, giˇ zo se con qienˇ, he vi doˋ bunˊ sunˊ eˋ tug suˊ."}
+    hl: {hanzi: "阿蘭嫂摎阿傑對𠊎當好。阿蘭嫂講，佢做事賺錢，係為著分孫仔讀書。", pinyin: "a+ lan soˊ lauˋ a+ kied duiˇ ngai dongˋ hoˊ. a+ lan soˊ gongˊ, gi zoˇ she+ con+ cien, heˇ vui+ doˊ bunˋ sunˋ er tugˋ shuˋ."}
+  - n: 5
+    speaker: Sam
+    en: "姐婆 watches the Hakka news every evening. I saw Grandma on TV too! Third place!"
+    sx: {hanzi: "姐婆逐暗晡都會看客家新聞。𠊎乜看著阿婆上電視！第三名！", pinyin: "jiaˋ poˇ dagˋ am buˊ du voi kon hagˋ gaˊ xinˊ vunˇ. ngaiˇ me kon doˋ aˊ poˇ songˊ tien sii! ti samˊ miangˇ!"}
+    hl: {hanzi: "姐婆逐暗晡都會看客家新聞。𠊎乜看著阿婆上電視！第三名！", pinyin: "ziaˊ po dag amˇ buˋ du+ voi+ konˇ hag gaˋ sinˋ vun. ngai meˇ konˇ doˊ a+ po shongˋ tien+ shi+! ti+ samˋ miang!"}
+    check: true
+  - n: 6
+    speaker: Sam
+    en: "On Saturday I'm coming back to Miaoli. I miss everyone in Miaoli a lot, and I also really miss… Grandma's cooking."
+    sx: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˊ bai liugˋ ngaiˇ qiu zonˋ meuˇ lidˋ leˊ. ngaiˇ dongˊ xiongˋ ngiam meuˇ lidˋ ge nginˇ, me dongˊ xiongˋ ngiam … aˊ poˇ zuˋ ge coi."}
+    hl: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˋ baiˇ liug ngai ciu+ zhonˊ miau lidˋ leˋ. ngai dongˋ siongˊ ngiam+ miau lidˋ gaiˇ ngin, meˇ dongˋ siongˊ ngiam+ … a+ po zhuˊ gaiˇ coiˇ."}
+  - n: 7
+    speaker: Sam
+    en: "Don't forget: in April we're going to see the 桐花."
+    sx: {hanzi: "四月看桐花，莫毋記得！", pinyin: "xi ngied kon tungˇ faˊ, mog mˇ gi dedˋ!"}
+    hl: {hanzi: "四月看桐花，莫毋記得！", pinyin: "siˇ ngiedˋ konˇ tung faˋ, mogˋ m giˇ ded!"}
+  - n: 8
+    speaker: Sam
+    en: "Wishing you good health. Sam. 21 March."
+    sx: {hanzi: "祝你身體健康。Sam。三月二十一日。", pinyin: "zugˋ nˇ siinˊ tiˋ kien kongˊ. Sam. samˊ ngied ngi siib idˋ ngidˋ."}
+    hl: {hanzi: "祝你身體健康。Sam。三月二十一日。", pinyin: "zhug ngi shinˋ tiˊ kien+ kongˋ. Sam. samˋ ngiedˋ ngi+ shibˋ rhid ngid."}
+  - n: 9
+    speaker: 阿舅
+    en: "(looking over his shoulder) A letter to A-in? Who still writes letters these days?"
+    sx: {hanzi: "寫信分阿英？這下个後生人仰會還寫信？", pinyin: "xiaˋ xin bunˊ aˊ inˊ? iaˋ ha ge heu sangˊ nginˇ ngiongˋ voi hanˇ xiaˋ xin?"}
+    hl: {hanzi: "寫信分阿英？這下个後生人仰會還寫信？", pinyin: "siaˊ sinˇ bunˋ a+ rhinˋ? liaˊ ha+ gaiˇ heu+ sangˋ ngin ngiongˊ voi+ han siaˊ sinˇ?"}
+  - n: 10
+    speaker: Sam
+    en: "On the phone, I'm afraid I can't get the words out. In a letter it's easier to say."
+    sx: {hanzi: "打電話，𠊎驚講毋出來。寫信較好講。", pinyin: "daˋ tien fa, ngaiˇ giangˊ gongˋ mˇ cudˋ loiˇ. xiaˋ xin ka hoˋ gongˋ."}
+    hl: {hanzi: "打電話，𠊎驚講毋出來。寫信較好講。", pinyin: "daˊ tien+ faˇ, ngai giangˋ gongˊ m chud loi. siaˊ sinˇ haˇ hoˊ gongˊ."}
+  - n: 11
+    speaker: 阿舅
+    en: "Can't get the words out? Can't get what out?"
+    sx: {hanzi: "講毋出來？講麼个講毋出來？", pinyin: "gongˋ mˇ cudˋ loiˇ? gongˋ maˋ ge gongˋ mˇ cudˋ loiˇ?"}
+    hl: {hanzi: "講毋出來？講麼个講毋出來？", pinyin: "gongˊ m chud loi? gongˊ maˊ gaiˇ gongˊ m chud loi?"}
+  - n: 12
+    speaker: Sam
+    en: "…Nothing. (folding the letter) Envelope, stamp… done!"
+    sx: {hanzi: "……無麼个。信封、郵票……好了！", pinyin: "… moˇ maˋ ge. xin fungˊ, iuˇ peuˊ … hoˋ leˊ!"}
+    hl: {hanzi: "……無麼个。信封、郵票……好了！", pinyin: "… mo maˊ gaiˇ. sinˇ fungˋ, rhiu piauˇ … hoˊ leˋ!"}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      Letter style. A Hakka letter opens with the name and a colon, 阿英：, then 你好！. It closes with a wish, 祝你身體健康
+      "wishing you good health" (祝 zugˋ "wish", lesson 44; 健康 kien kongˊ "health"), the name, and the date: 三月二十一日
+      samˊ ngied ngi siib idˋ ngidˋ "21 March", month before day, as in Mandarin. (General knowledge, not the data, for
+      the shape of a letter.)
+  - ref: 2
+    topic: grammar
+    text: >
+      落雨落三隻禮拜了 "it has been raining for three weeks": verb + object, then the verb again + duration + 了: the way to
+      say how long something has gone on when the verb has an object. 正天晴 "only today cleared up". In the Hailu column
+      it is 落水 (lesson 61); Sam, writing, uses his own word.
+  - ref: 3
+    topic: vocab
+    text: >
+      事情 (lesson 20) "things (to do), matters". The letter is the month's lessons in miniature: 慣勢 (57), 上班 / 下班
+      (57).
+  - ref: 4
+    topic: grammar
+    text: >
+      分 + purpose: 做事賺錢，係為著分孫仔讀書 "she works and earns money so that her grandson can go to school": 分 + person
+      + verb "so that (someone) can…", here inside 為著 "for the sake of" (lesson 41). The 山歌 in the official examples has
+      it: 又愛賺錢分妹使 "and I must earn money for my girl to spend". 賺錢 con qienˇ "earn money". 對𠊎當好 "good to me":
+      對 + person.
+  - ref: 5
+    topic: grammar
+    text: >
+      逐暗晡都會看 "watches every evening": 逐 + time + 都會 for a habit (lesson 57). Marked: in lesson 60 Sam watched the
+      news with 姐婆 once; "every evening" is his word for it.
+  - ref: 6
+    topic: grammar
+    text: >
+      想念 xiongˋ ngiam "miss (someone, somewhere)": stronger and more written than 想 (lesson 11): 輒輒想念起屋下个家鄉味
+      "he often misses the taste of home" (official example). The pause before 阿婆煮个菜 "Grandma's cooking" is the A-in and
+      Sam thread: Sam nearly writes something else.
+  - ref: 10
+    topic: grammar
+    text: >
+      講毋出來 "can't get (it) out, can't bring oneself to say": V + 毋 + 出來, the potential form of lesson 38's 食毋落
+      (有一種講毋出來个威嚴 "an indescribable dignity" is an official example). 較好講 "easier to say": 好 hoˋ + V (lesson 59).
+  - ref: 12
+    topic: vocab
+    text: >
+      信封 xin fungˊ "envelope", 郵票 "stamp" (lesson 30), 筆 bidˋ "pen", 紙 "paper". In the exercises: 回信 "reply (to a
+      letter)", 收到 "receive".
+
+new_words:
+  - {hanzi: 賺錢, pinyin: "con qienˇ", en: "earn money", hl: {hanzi: 賺錢, pinyin: "con+ cien"}}
+  - {hanzi: 對, pinyin: "dui", en: "towards, to (對𠊎當好 good to me)", hl: {hanzi: 對, pinyin: "duiˇ"}}
+  - {hanzi: 想念, pinyin: "xiongˋ ngiam", en: "miss (someone)", hl: {hanzi: 想念, pinyin: "siongˊ ngiam+"}}
+  - {hanzi: 健康, pinyin: "kien kongˊ", en: "health; healthy", hl: {hanzi: 健康, pinyin: "kien+ kongˋ"}}
+  - {hanzi: 信封, pinyin: "xin fungˊ", en: "envelope", hl: {hanzi: 信封, pinyin: "sinˇ fungˋ"}}
+  - {hanzi: 筆, pinyin: "bidˋ", en: "pen", hl: {hanzi: 筆, pinyin: "bid"}}
+  - {hanzi: 回信, pinyin: "fiˇ xin", en: "reply (to a letter)", hl: {hanzi: 回信, pinyin: "fui sinˇ"}}
+  - {hanzi: 收到, pinyin: "suˊ do", en: "receive", hl: {hanzi: 收到, pinyin: "shiuˋ doˇ"}}
+  - {hanzi: 改, pinyin: "goiˋ", en: "correct, change", hl: {hanzi: 改, pinyin: "goiˊ"}}
+  - {hanzi: 近來, pinyin: "kiun loiˇ", en: "lately, recently", hl: {hanzi: 近來, pinyin: "kiun+ loi"}}
+  - {hanzi: 情形, pinyin: "qinˇ hinˇ", en: "situation, how things are", hl: {hanzi: 情形, pinyin: "cin hin"}}
+  - {hanzi: 掛心, pinyin: "gua ximˊ", en: "worry about, be concerned for", hl: {hanzi: 掛心, pinyin: "guaˇ simˋ"}}
+  - {hanzi: 家鄉, pinyin: "gaˊ hiongˊ", en: "home town, home region", hl: {hanzi: 家鄉, pinyin: "gaˋ hiongˋ"}}
+  - {hanzi: 味, pinyin: "mi", en: "taste, flavour", hl: {hanzi: 味, pinyin: "mui+"}}
+  - {hanzi: 輒輒, pinyin: "jiab jiab", en: "often", hl: {hanzi: 輒輒, pinyin: "ziabˋ ziabˋ"}}
+  - {hanzi: 出國, pinyin: "cudˋ guedˋ", en: "go abroad", hl: {hanzi: 出國, pinyin: "chud gued"}}
+  - {hanzi: 慣, pinyin: "guan", en: "be used to (食毋慣 can't get used to eating)", hl: {hanzi: 慣, pinyin: "guanˇ"}}
+  - {hanzi: 以, pinyin: "iˊ", en: "(以後) after", hl: {hanzi: 以, pinyin: "rhiˋ"}}
+  - {hanzi: 起, pinyin: "hiˋ", en: "(after a verb) start to; build", hl: {hanzi: 起, pinyin: "hiˊ"}}
+  - {hanzi: 爺哀, pinyin: "iaˇ oiˊ", en: "parents", hl: {hanzi: 爺哀, pinyin: "rha oiˋ"}}
+
+exercises:
+  translate:
+    - en: "Since going abroad he can't get used to the food there, and often misses the taste of home."
+      sx: {hanzi: "出國以後，佢食毋慣該片个東西，輒輒想念起屋下个家鄉味。", pinyin: "cudˋ guedˋ iˊ heu, giˇ siid mˇ guan ge pienˋ ge dungˊ xiˊ, jiab jiab xiongˋ ngiam hiˋ vugˋ kaˊ ge gaˊ hiongˊ mi."}
+      hl: {hanzi: "出國以後，佢食毋慣該片个東西，輒輒想念起屋下个家鄉味。", pinyin: "chud gued rhiˋ heu+, gi shidˋ m guanˇ gai pienˊ gaiˇ dungˋ siˋ, ziabˋ ziabˋ siongˊ ngiam+ hiˊ vug haˋ gaiˇ gaˋ hiongˋ mui+."}
+      source: kaga115
+    - en: "Have you received my letter? Write back to me."
+      sx: {hanzi: "𠊎个信你收到吂？愛回信分𠊎。", pinyin: "ngaiˇ ge xin nˇ suˊ do mangˇ? oi fiˇ xin bunˊ ngaiˇ."}
+      hl: {hanzi: "𠊎个信你收到吂？愛回信分𠊎。", pinyin: "ngai gaiˇ sinˇ ngi shiuˋ doˇ mang? oiˇ fui sinˇ bunˋ ngai."}
+    - en: "Grandma worries about Sam: how has he been lately?"
+      sx: {hanzi: "阿婆當掛心 Sam：佢近來个情形仰般？", pinyin: "aˊ poˇ dongˊ gua ximˊ Sam: giˇ kiun loiˇ ge qinˇ hinˇ ngiongˋ banˊ?"}
+      hl: {hanzi: "阿婆當掛心 Sam：佢近來个情形仰般？", pinyin: "a+ po dongˋ guaˇ simˋ Sam: gi kiun+ loi gaiˇ cin hin ngiongˊ banˋ?"}
+    - en: "Write it with a pen; if you get a character wrong, correct it."
+      sx: {hanzi: "用筆寫，字寫毋著就改。", pinyin: "iung bidˋ xiaˋ, sii xiaˋ mˇ cog qiu goiˋ."}
+      hl: {hanzi: "用筆寫，字寫毋著就改。", pinyin: "rhung+ bid siaˊ, sii+ siaˊ m chogˋ ciu+ goiˊ."}
+      check: true
+    - en: "He works to earn money so that his parents have something to live on."
+      sx: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "giˇ zo se con qienˇ, he vi doˋ bunˊ iaˇ oiˊ go hoˋ ngidˋ eˋ."}
+      hl: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "gi zoˇ she+ con+ cien, heˇ vui+ doˊ bunˋ rha oiˋ goˇ hoˊ ngid er."}
+      check: true
+  fill:
+    - en: "Wishing you good health."
+      sx: {hanzi: "祝你身體___。", pinyin: "zugˋ nˇ siinˊ tiˋ ___.", answer_hanzi: "健康", answer: "kien kongˊ"}
+      hl: {hanzi: "祝你身體___。", pinyin: "zhug ngi shinˋ tiˊ ___.", answer_hanzi: "健康", answer: "kien+ kongˋ"}
+    - en: "I'm afraid I can't get the words out."
+      sx: {hanzi: "𠊎驚講毋___。", pinyin: "ngaiˇ giangˊ gongˋ mˇ ___.", answer_hanzi: "出來", answer: "cudˋ loiˇ"}
+      hl: {hanzi: "𠊎驚講毋___。", pinyin: "ngai giangˋ gongˊ m ___.", answer_hanzi: "出來", answer: "chud loi"}
+    - en: "I miss Miaoli."
+      sx: {hanzi: "𠊎當___苗栗。", pinyin: "ngaiˇ dongˊ ___ meuˇ lidˋ.", answer_hanzi: "想念", answer: "xiongˋ ngiam"}
+      hl: {hanzi: "𠊎當___苗栗。", pinyin: "ngai dongˋ ___ miau lidˋ.", answer_hanzi: "想念", answer: "siongˊ ngiam+"}
+
+audio: []
