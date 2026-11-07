@@ -15,12 +15,12 @@ dialogue:
     speaker: 阿婆
     en: "Has she got her phone? Don't let her lose it again!"
     sx: {hanzi: "手機仔拿等無？莫又打毋見忒了！", pinyin: "suˋ giˊ eˋ naˊ denˋ moˇ? mog iu daˋ mˇ gien tedˋ leˊ!"}
-    hl: {hanzi: "手機拿等無？莫又打毋見忒了！", pinyin: "shiuˊ giˋ naˋ denˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
+    hl: {hanzi: "手機拿等無？莫又打毋見忒了！", pinyin: "shiuˊ giˋ naˋ nenˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
   - n: 2
     speaker: Sam
-    en: "She's holding it. She's looked for it twice already this morning."
-    sx: {hanzi: "拿等了。佢頭先尋過兩擺。", pinyin: "naˊ denˋ leˊ. giˇ teuˇ xienˊ qimˇ go liongˋ baiˋ."}
-    hl: {hanzi: "拿等了。佢頭先尋過兩擺。", pinyin: "naˋ denˊ leˋ. gi teu senˋ cim goˇ liongˊ baiˊ."}
+    en: "She's holding it. She's checked it twice already this morning."
+    sx: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˊ denˋ leˊ. giˇ teuˇ xienˊ kon go liongˋ baiˋ."}
+    hl: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˋ nenˊ leˋ. gi teu senˋ konˇ goˇ liongˊ baiˊ."}
   - n: 3
     speaker: 阿英
     en: "Come on, let's take a photo! Everyone, look this way!"
@@ -82,7 +82,7 @@ notes:
     topic: grammar
     text: >
       拿等 "holding (it), have (it) on you": V等 from lesson 29. 莫又打毋見忒了 "don't lose it again": 打毋見忒 from lesson
-      33. 尋過兩擺 "has looked for it twice": 過 "(have done) before" (lesson 9) and 擺 "times" (lesson 24).
+      33. 看過兩擺 "has checked it twice": 過 "(have done) before" (lesson 9) and 擺 "times" (lesson 24).
   - ref: 4
     topic: grammar
     text: >
@@ -121,10 +121,10 @@ exercises:
   translate:
     - en: "I hear Lucie lost her phone. Is it true?"
       sx: {hanzi: "聽講 Lucie 个手機仔打毋見忒了，有影無？", pinyin: "tangˊ gongˋ Lucie ge suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ, iuˊ iangˋ moˇ?"}
-      hl: {hanzi: "聽講 Lucie 个手機打毋見忒了，有影無？", pinyin: "tangˋ gongˊ Lucie gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ, rhiuˋ rhangˊ mo?"}
+      hl: {hanzi: "聽講 Lucie 个手機打毋見忒了，有影無？", pinyin: "tangˇ gongˊ Lucie gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ, rhiuˋ rhangˊ mo?"}
     - en: "It was in Grandpa's pocket. He picked it up off the table."
-      sx: {hanzi: "在阿公个袋仔。佢在桌項拈个。", pinyin: "coiˊ aˊ gungˊ ge toi eˋ. giˇ coiˊ zogˋ hong ngiamˊ ge."}
-      hl: {hanzi: "在阿公个袋仔。佢在桌項拈个。", pinyin: "coiˋ a+ gungˋ gaiˇ toi+ er. gi coiˋ zog hong+ ngiamˋ gaiˇ."}
+      sx: {hanzi: "在阿公个褲袋肚。佢在桌項拈个。", pinyin: "coiˊ aˊ gungˊ ge fu toi duˋ. giˇ coiˊ zogˋ hong ngiamˊ ge."}
+      hl: {hanzi: "在阿公个褲袋肚。佢在桌項拈个。", pinyin: "coiˋ a+ gungˋ gaiˇ fuˇ toi+ duˊ. gi coiˋ zog hong+ ngiamˋ gaiˇ."}
     - en: "Sam's hat was blown away by the wind."
       sx: {hanzi: "Sam 个帽仔分風吹走了。", pinyin: "Sam ge mo eˋ bunˊ fungˊ coiˊ zeuˋ leˊ."}
       hl: {hanzi: "Sam 个帽仔分風吹走了。", pinyin: "Sam gaiˇ mo+ er bunˋ fungˋ choiˋ zeuˊ leˋ."}

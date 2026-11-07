@@ -51,3 +51,13 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - 三腳採茶: one clown and two girls. Temple opera: ritual in the morning, plays in the afternoon.
 - Every new word should appear in the dialogue if at all possible, not only in exercises.
 - Count Grandpa's lines before writing a note about how little he says.
+
+## Added after the batch 5 review
+- Hailu rain is 落水 (not 落雨); Hailu 聽講 is tangˇ gongˊ; Hailu V等 is nenˊ; Hailu 飯 is pon+.
+- "Bed" is 眠床 (床 alone is a classifier). "In the pocket" is 褲袋肚 / 衫袋肚.
+- 跌在 (drop somewhere), not 跌忒在. "Shut the window" 窗門關好來 (關等 = kept shut).
+- 寄到哪位, not 寄去. 借分 + person for "lend". 一封信仔, not 一張信.
+- "Get on well" is 感情當好. "Finish eating" is 食飽 (食煞 unattested; 講煞 is fine).
+- Sixian "winter" is 寒天 (Hailu 冷天).
+- Keep a calendar for each batch: weekday of each lesson, who is at school or work.
+- 𫣆兜 + verb includes the listener: don't use it to leave a conversation with neighbours.

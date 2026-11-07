@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 職員
     en: "Where to?"
-    sx: {hanzi: "寄去哪位？", pinyin: "gi hi nai vi?"}
-    hl: {hanzi: "寄去哪位？", pinyin: "giˇ hiˇ nai+ vui+?"}
+    sx: {hanzi: "寄到哪位？", pinyin: "gi do nai vi?"}
+    hl: {hanzi: "寄到哪位？", pinyin: "giˇ doˇ nai+ vui+?"}
   - n: 4
     speaker: Sam
     en: "France."
@@ -63,14 +63,14 @@ dialogue:
     hl: {hanzi: "還有，這張卡片呢？", pinyin: "han rhiuˋ, liaˊ zhongˋ kaˊ pienˊ neˇ?"}
   - n: 11
     speaker: Sam
-    en: "This card's for A-in. Her birthday's on Saturday."
-    sx: {hanzi: "這張卡片愛寄分阿英。佢禮拜六生日。", pinyin: "iaˋ zongˊ kaˋ pienˋ oi gi bunˊ aˊ inˊ. giˇ liˊ bai liugˋ sangˊ ngidˋ."}
-    hl: {hanzi: "這張卡片愛寄分阿英。佢禮拜六生日。", pinyin: "liaˊ zhongˋ kaˊ pienˊ oiˇ giˇ bunˋ a+ rhinˋ. gi liˋ baiˇ liug sangˋ ngid."}
+    en: "This card's for A-in. Her birthday's on Friday."
+    sx: {hanzi: "這張卡片愛寄分阿英。佢禮拜五生日。", pinyin: "iaˋ zongˊ kaˋ pienˋ oi gi bunˊ aˊ inˊ. giˇ liˊ bai ngˋ sangˊ ngidˋ."}
+    hl: {hanzi: "這張卡片愛寄分阿英。佢禮拜五生日。", pinyin: "liaˊ zhongˋ kaˊ pienˊ oiˇ giˇ bunˋ a+ rhinˋ. gi liˋ baiˇ ngˊ sangˋ ngid."}
   - n: 12
     speaker: 阿明
-    en: "Why post it? She's coming home on Friday!"
-    sx: {hanzi: "做麼个愛寄？佢禮拜五就轉來了！", pinyin: "zo maˋ ge oi gi? giˇ liˊ bai ngˋ qiu zonˋ loiˇ leˊ!"}
-    hl: {hanzi: "做麼个愛寄？佢禮拜五就轉來了！", pinyin: "zoˇ maˊ gaiˇ oiˇ giˇ? gi liˋ baiˇ ngˊ ciu+ zhonˊ loi leˋ!"}
+    en: "Why come to the post office? She's coming home on Thursday!"
+    sx: {hanzi: "做麼个愛來郵局寄？佢禮拜四就轉來了！", pinyin: "zo maˋ ge oi loiˇ iuˇ kiug gi? giˇ liˊ bai xi qiu zonˋ loiˇ leˊ!"}
+    hl: {hanzi: "做麼个愛來郵局寄？佢禮拜四就轉來了！", pinyin: "zoˇ maˊ gaiˇ oiˇ loi rhiu kiugˋ giˇ? gi liˋ baiˇ siˇ ciu+ zhonˊ loi leˋ!"}
   - n: 13
     speaker: Sam
     en: "…No need to post it, then."
@@ -131,11 +131,12 @@ new_words:
   - {hanzi: 船, pinyin: "sonˇ", en: "ship, boat", hl: {hanzi: 船, pinyin: "shon"}}
   - {hanzi: 妹仔, pinyin: "moi eˋ", en: "daughter", hl: {hanzi: 妹仔, pinyin: "moiˇ er"}}
   - {hanzi: 信, pinyin: "xin", en: "letter", hl: {hanzi: 信, pinyin: "sinˇ"}}
+  - {hanzi: 封, pinyin: "fungˊ", en: "(classifier for letters)", hl: {hanzi: 封, pinyin: "fungˋ"}}
   - {hanzi: 借, pinyin: "jia", en: "lend, borrow", hl: {hanzi: 借, pinyin: "ziaˇ"}}
 
 exercises:
   translate:
-    - en: "Mrs Liu sends her daughter a box of mandarins."
+    - en: "Mum sends her daughter a box of mandarins."
       sx: {hanzi: "阿姆寄一箱柑仔分厥妹仔。", pinyin: "aˊ meˊ gi idˋ xiongˊ gamˊ eˋ bunˊ giaˊ moi eˋ."}
       hl: {hanzi: "阿姆寄一箱柑仔分厥妹仔。", pinyin: "a+ meˋ giˇ rhid siongˋ gamˋ er bunˋ gia moiˇ er."}
     - en: "This box is very heavy; that one's light."
@@ -145,14 +146,14 @@ exercises:
       sx: {hanzi: "坐飛行機，抑係坐船？", pinyin: "coˊ biˊ hangˇ giˊ, ia he coˊ sonˇ?"}
       hl: {hanzi: "坐飛行機，抑係坐船？", pinyin: "coˋ fuiˋ hang giˋ, rha+ heˇ coˋ shon?"}
     - en: "A-min lent Sam two hundred. Sam has to pay him back."
-      sx: {hanzi: "阿明借 Sam 兩百。Sam 愛還佢。", pinyin: "aˊ minˇ jia Sam liongˋ bagˋ. Sam oi vanˇ giˇ."}
-      hl: {hanzi: "阿明借 Sam 兩百。Sam 愛還佢。", pinyin: "a+ min ziaˇ Sam liongˊ bag. Sam oiˇ van gi."}
+      sx: {hanzi: "阿明借分 Sam 兩百。Sam 愛還佢。", pinyin: "aˊ minˇ jia bunˊ Sam liongˋ bagˋ. Sam oi vanˇ giˇ."}
+      hl: {hanzi: "阿明借分 Sam 兩百。Sam 愛還佢。", pinyin: "a+ min ziaˇ bunˋ Sam liongˊ bag. Sam oiˇ van gi."}
     - en: "Is there a post office near here? I want to buy stamps."
       sx: {hanzi: "這位有郵局無？𠊎愛買郵票。", pinyin: "iaˋ vi iuˊ iuˇ kiug moˇ? ngaiˇ oi maiˊ iuˇ peuˊ."}
       hl: {hanzi: "這位有郵局無？𠊎愛買郵票。", pinyin: "liaˊ vui+ rhiuˋ rhiu kiugˋ mo? ngai oiˇ maiˋ rhiu piauˇ."}
     - en: "Lucie writes her mum a letter."
-      sx: {hanzi: "Lucie 寫一張信分厥姆。", pinyin: "Lucie xiaˋ idˋ zongˊ xin bunˊ giaˊ meˊ."}
-      hl: {hanzi: "Lucie 寫一張信分厥姆。", pinyin: "Lucie siaˊ rhid zhongˋ sinˇ bunˋ gia meˋ."}
+      sx: {hanzi: "Lucie 寫一封信仔分厥姆。", pinyin: "Lucie xiaˋ idˋ fungˊ xin eˋ bunˊ giaˊ meˊ."}
+      hl: {hanzi: "Lucie 寫一封信仔分厥姆。", pinyin: "Lucie siaˊ rhid fungˋ sinˇ er bunˋ gia meˋ."}
   fill:
     - en: "Send it to my mum."
       sx: {hanzi: "寄___吾姆。", pinyin: "gi ___ ngaˊ meˊ.", answer_hanzi: "分", answer: "bunˊ"}

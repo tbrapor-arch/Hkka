@@ -5,7 +5,8 @@ title:
   hl: {hanzi: "緊食", pinyin: "ginˊ shidˋ"}
 review: false
 setting: >-
-  Monday. Sam's sister Lucie arrived from France last night and speaks no Chinese at all. The family drives her up to 大湖, in the
+  Monday. Sam's sister Lucie arrived from France last night and speaks no Chinese at all. Mrs Liu's shop shuts on
+  Mondays, and A-min's school has a day off after its anniversary sports day. The family drives her up to 大湖, in the
   hills south-east of Miaoli, where the strawberries are in season from December. Sam interprets; Grandma doesn't wait
   for him.
 names: [大湖, Lucie, 阿明]
@@ -46,6 +47,7 @@ dialogue:
     en: "(holding his basket, mouth full) I'm testing whether they're sweet!"
     sx: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngaiˇ naˊ denˋ coi lamˇ, du ge cii tiamˇ moˇ!"}
     hl: {hanzi: "𠊎拿等菜籃，在該試甜無！", pinyin: "ngai naˋ nenˊ coiˇ lam, diˇ gai chiˇ tiam mo!"}
+    check: true
   - n: 8
     speaker: 阿婆
     en: "Strawberries only come in winter. Pick a few more!"
@@ -159,8 +161,8 @@ exercises:
       sx: {hanzi: "試看！寒天个果子當甜。", pinyin: "cii kon! honˇ tienˊ ge goˋ ziiˋ dongˊ tiamˇ."}
       hl: {hanzi: "試看！冷天个果子當甜。", pinyin: "chiˇ konˇ! langˋ tienˋ gaiˇ goˊ ziiˊ dongˋ tiam."}
     - en: "Grandpa sat in the car; the strawberries are on the table."
-      sx: {hanzi: "阿公坐等車項，草莓在桌仔項。", pinyin: "aˊ gungˊ coˊ denˋ caˊ hong, coˋ moiˇ coiˊ zogˋ eˋ hong."}
-      hl: {hanzi: "阿公坐等車項，草莓在桌項。", pinyin: "a+ gungˋ coˋ nenˊ chaˋ hong+, coˊ moi coiˋ zog hong+."}
+      sx: {hanzi: "阿公坐在車項，草莓在桌仔項。", pinyin: "aˊ gungˊ coˊ coiˊ caˊ hong, coˋ moiˇ coiˊ zogˋ eˋ hong."}
+      hl: {hanzi: "阿公坐在車項，草莓在桌項。", pinyin: "a+ gungˋ coˋ coiˋ chaˋ hong+, coˊ moi coiˋ zog hong+."}
   fill:
     - en: "He keeps eating."
       sx: {hanzi: "佢___食。", pinyin: "giˇ ___ siid.", answer_hanzi: "緊", answer: "ginˋ"}
