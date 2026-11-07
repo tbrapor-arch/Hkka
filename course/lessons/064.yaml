@@ -149,7 +149,7 @@ new_words:
   - {hanzi: 悿, pinyin: "tiamˋ", en: "tired, worn out", hl: {hanzi: 悿, pinyin: "tiamˊ"}}
   - {hanzi: 抱, pinyin: "pau", en: "hug, hold in one's arms", hl: {hanzi: 抱, pinyin: "pau+"}}
   - {hanzi: 位所, pinyin: "vi soˋ", en: "place", hl: {hanzi: 位所, pinyin: "vui+ soˊ"}}
-  - {hanzi: 行李, pinyin: "hangˇ liˋ", en: "luggage", hl: {hanzi: 行李, pinyin: "hang liˊ"}}
+  - {hanzi: 認, pinyin: "ngin", en: "recognise", hl: {hanzi: 認, pinyin: "ngin+"}}
   - {hanzi: 緊張, pinyin: "ginˋ zongˊ", en: "nervous", hl: {hanzi: 緊張, pinyin: "ginˊ zhongˋ"}}
 
 exercises:
@@ -169,6 +169,10 @@ exercises:
     - en: "竹東 is a lively place."
       sx: {hanzi: "竹東係當鬧熱个位所。", pinyin: "zugˋ dungˊ he dongˊ nau ngied ge vi soˋ."}
       hl: {hanzi: "竹東係當鬧熱个位所。", pinyin: "zhug dungˋ heˇ dongˋ nau+ ngiedˋ gaiˇ vui+ soˊ."}
+    - en: "He's so brown that Grandpa didn't recognise him."
+      sx: {hanzi: "佢恁烏，阿公認毋出佢。", pinyin: "giˇ anˋ vuˊ, aˊ gungˊ ngin mˇ cudˋ giˇ."}
+      hl: {hanzi: "佢恁烏，阿公認毋出佢。", pinyin: "gi anˊ vuˋ, a+ gungˋ ngin+ m chud gi."}
+      check: true
     - en: "Is this all your luggage? It's very heavy!"
       sx: {hanzi: "你个行李就係這兜？當重！", pinyin: "nˇ ge hangˇ liˋ qiu he iaˋ deuˊ? dongˊ cungˊ!"}
       hl: {hanzi: "你个行李就係這兜？當重！", pinyin: "ngi gaiˇ hang liˊ ciu+ heˇ liaˊ deuˋ? dongˋ chungˋ!"}
