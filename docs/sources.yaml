@@ -123,7 +123,7 @@
     v_word_parallel gives each word in every accent; "此腔無此詞條" rows (word absent in that accent) are skipped.
     Question banks in exam_item: listening, dialogue, reading (multiple choice with answer), picture description,
     speaking prompts, 242 sentences to repeat. 96% of Sixian words shared with the MOE dictionary have the same reading
-    key. Audio zips are separate (fetch with -Audio / --audio), not in the repo.
+    key. Audio zips are separate (fetch with -Audio / --audio), not in the repo: release audio-115 on Hkka-private.
 
 - id: hakka-corpus
   title: 臺灣客語語料庫：客委會出版品或採錄品 (Taiwan Hakka Corpus)
@@ -231,8 +231,41 @@
   licence: non-exclusive licence by signed agreement (individual or organisation form)
   status: reference
   note: >-
-    The 60 h Sixian TTS set could voice every sentence the course writes. Read the agreement before applying:
-    agreement forms hat_agr_per_c.pdf (personal) / hat_agr_inst_c.pdf at aclclp.org.tw/doc/.
+    The 60 h Sixian TTS set could voice every sentence the course writes. Use is limited to AI system development, with
+    no sublicensing or sale (speech.hakka.gov.tw/Document/AboutDB); fee NT$1,000 per set. Read the agreement before
+    applying: agreement forms hat_agr_per_c.pdf (personal) / hat_agr_inst_c.pdf at aclclp.org.tw/doc/. Last resort
+    for audio: try the ready-made engines first (docs/audio.md).
+
+- id: hakka-speech-api
+  title: 客委會 客語語音合成 / 語音辨識 / 翻譯 API (Hakka Council speech APIs)
+  publisher: 客家委員會; run with ASUS Cloud and NYCU
+  year: 2025
+  accents: [sixian, hailu, dapu]
+  use: [audio]
+  format: "web API (TTS: Sixian, Hailu, Dapu; ASR and translation: Sixian, Hailu)"
+  url: https://speech.hakka.gov.tw/Hackathon/index.html
+  licence: terms not found yet
+  status: reference
+  note: >-
+    Official TTS built on the HAT data; takes Hakka characters, Hakka pinyin or Mandarin. Offered to the 2025
+    客語AI應用黑客松 teams. Find how to get a key and whether generated audio may ship in an app. Candidate voice for
+    the lesson lines (docs/audio.md); the ASR can check synthetic audio by round trip.
+
+- id: voxhakka
+  title: VoxHakka — Taiwanese Hakka TTS, six accents (YourTTS)
+  publisher: United Link 聯和科創 + 國立聯合大學 (Li-Wei Chen, Hung-Shin Lee, Chen-Chi Chang)
+  year: 2024
+  accents: [sixian, hailu, dapu, raoping, zhaoan, south-sixian]
+  use: [audio]
+  format: model on Hugging Face (formospeech/yourtts-htia-240704), demo space united-link/taiwanese-hakka-tts; paper arXiv 2409.01548
+  url: https://arxiv.org/abs/2409.01548
+  licence: CC BY-NC 4.0 (model card; the paper and press said CC BY 4.0)
+  status: reference
+  note: >-
+    Runs on CPU; text goes through formog2p (Hakka g2p) to pinyin, so we can feed our own pinyin with sandhi. NC: audio
+    can ship in a free app as separately licensed assets, not under the course's CC BY-SA. Same group publishes
+    F5-TTS and OmniVoice Hakka models (zero-shot, gated, NC) and whisper-large-v3-taiwanese-hakka (ASR, NC), useful for
+    the round-trip check.
 
 - id: channel-plus
   title: 國立教育廣播電臺 Channel+ 本土語言學習專區
