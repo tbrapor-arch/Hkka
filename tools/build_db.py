@@ -32,13 +32,17 @@ def nfc(s):
 
 def load_moe(db, raw):
     data = json.load(open(raw / "moedict-data-hakka" / "dict-hakka.json", encoding="utf-8"))
-    sylls = Counter()
+    sylls = Counter(); per_acc = {}
     for e in data:
         for h in e["heteronyms"]:
             for m in re.finditer(r"([四海大平安南])⃞(\S+)", h.get("pinyin", "")):
-                if m.group(1) == "四":
-                    sylls.update(a for a, _ in py.syllables(m.group(2)))
-    py.set_inventory(set(sylls))
+                acc = ACCENTS[m.group(1)]
+                got = [a for a, _ in py.syllables(m.group(2), acc)]   # numeric tones: no inventory needed
+                per_acc.setdefault(acc, Counter()).update(got)
+                if acc == "sixian":
+                    sylls.update(got)
+    for acc, c in per_acc.items():
+        py.set_inventory(set(c), acc)
     db.executemany("INSERT INTO syllable VALUES (?,?)", sylls.items())
 
     n = 0
@@ -53,7 +57,7 @@ def load_moe(db, raw):
                  py.toneless(sx) if sx else None, None))
             eid = cur.lastrowid; n += 1
             for acc, p in reads.items():
-                db.execute("INSERT INTO reading VALUES (?,?,?,?)", (eid, acc, p, py.key(p)))
+                db.execute("INSERT INTO reading VALUES (?,?,?,?)", (eid, acc, py.marked(p, acc), py.key(p, acc)))
             for i, d in enumerate(h.get("definitions", [])):
                 sid = db.execute("INSERT INTO sense(entry_id, ord, pos, definition_zh) VALUES (?,?,?,?)",
                                  (eid, i, d.get("type"), nfc(d.get("def")))).lastrowid
@@ -129,18 +133,17 @@ def load_kaga(db, raw):
                 continue
             hz, hz_alts = split_alts(r["客家語言"])
             p, p_alts = split_alts(r["客語音標"])
-            sixian = acc == "sixian"
             eid = db.execute(
                 "INSERT INTO entry(source, src_id, hanzi, accent, pinyin, pkey, toneless, level, category, mandarin, english, audio_url) "
                 "VALUES ('kaga',?,?,?,?,?,?,?,?,?,?,?)",
-                (r["編號"], hz, acc, p, py.key(p) if sixian else None, py.toneless(p) if sixian else None, r["等級"],
+                (r["編號"], hz, acc, p, py.key(p, acc), py.toneless(p, acc), r["等級"],
                  cats.get((nfc(r["客家語言"]), r["腔調"])), nfc(r["華語辭義(限100字)"]), nfc(r["英語詞義(限200字)"]),
                  r["客語音檔網址"])).lastrowid
             n += 1
             for a in hz_alts:
                 db.execute("INSERT INTO variant VALUES (?,?,?,?,?)", (eid, a, None, None, "hanzi-alt"))
             for a in p_alts:
-                db.execute("INSERT INTO variant VALUES (?,?,?,?,?)", (eid, None, a, py.key(a) if sixian else None, "reading-alt"))
+                db.execute("INSERT INTO variant VALUES (?,?,?,?,?)", (eid, None, a, py.key(a, acc), "reading-alt"))
             if r["客語例句"].strip():
                 db.execute("INSERT INTO example(entry_id, source, accent, hanzi, mandarin, audio_url) VALUES (?,?,?,?,?,?)",
                            (eid, "kaga", acc, nfc(r["客語例句"]), nfc(r["華語翻譯"]), r["客語例句網址"]))
@@ -262,7 +265,7 @@ def load_kaga115(db, folder):
                 c_note, c_p1, c_p2, c_cat = col("備註"), col("詞性1"), col("詞性2"), col("分類")
                 for row in df.iloc[1:].itertuples(index=False):
                     row = [_cell(v) for v in row]
-                    if not row[c_hz] or "無此詞條" in row[c_hz]:     # 此腔無此詞條: word absent in this accent
+                    if not row[c_hz] or "無此詞條" in row[c_hz] or not row[c_py]:     # 此腔無此詞條: word absent in this accent
                         continue
                     hz, hz_alts = split_alts(row[c_hz]); p, p_alts = split_alts(row[c_py])
                     if not hz:
@@ -270,18 +273,17 @@ def load_kaga115(db, folder):
                     definition, ex = row[c_def], row[c_ex] if c_ex is not None else ""
                     if c_ex is None and "例如：" in definition:          # 中高級 / 高級: definition + 例如：example
                         definition, ex = definition.split("例如：", 1)
-                    sixian = acc == "sixian"
                     pos = "、".join(x for x in (row[c_p1], row[c_p2]) if x)
                     eid = db.execute(
                         "INSERT INTO entry(source, src_id, hanzi, accent, pinyin, pkey, toneless, level, category, mandarin, pos) "
                         "VALUES ('kaga115',?,?,?,?,?,?,?,?,?,?)",
-                        (f"{level}:{row[c_id]}", hz, acc, p, py.key(p) if sixian else None, py.toneless(p) if sixian else None,
+                        (f"{level}:{row[c_id]}", hz, acc, p, py.key(p, acc), py.toneless(p, acc),
                          level, re.sub(r"^\d+", "", row[c_cat]), nfc(definition.strip("\n ")), pos)).lastrowid
                     n += 1
                     for a in hz_alts:
                         db.execute("INSERT INTO variant VALUES (?,?,?,?,?)", (eid, a, None, None, "hanzi-alt"))
                     for a in p_alts:
-                        db.execute("INSERT INTO variant VALUES (?,?,?,?,?)", (eid, None, a, py.key(a) if sixian else None, "reading-alt"))
+                        db.execute("INSERT INTO variant VALUES (?,?,?,?,?)", (eid, None, a, py.key(a, acc), "reading-alt"))
                     exs = [x.strip() for x in ex.split("\n") if x.strip()]
                     trs = [x.strip() for x in row[c_tr].split("\n") if x.strip()]
                     for i, x in enumerate(exs):
@@ -304,6 +306,57 @@ def load_kaga115(db, folder):
                                 int(float(ans)) if re.match(r"^\d+(\.0)?$", ans) else None, tr))
                     nq += 1
     print(f"kaga115: {n} entries (all accents), {nq} exam items")
+
+
+def load_hsk(raw):
+    path = raw / "complete-hsk-vocabulary" / "complete.json"
+    if not path.exists():
+        print("hsk: not found, skipped"); return {}
+    out = {}
+    for w in json.load(open(path, encoding="utf-8")):
+        lv = sorted((l for l in w.get("level", []) if l.startswith("new-")), key=lambda l: int(l.split("-")[1]))
+        for f in w.get("forms", []):
+            t = f.get("traditional") or w["simplified"]
+            out.setdefault(t, (lv[0] if lv else None, "; ".join(f.get("meanings", [])[:3])))
+    print(f"hsk: {len(out)} traditional forms")
+    return out
+
+
+GLOSS_SPLIT = re.compile(r"[；;、，,（）()…\s。／/]+")
+
+
+NUMERALS = dict(zip("一二三四五六七八九十", "1 2 3 4 5 6 7 8 9 10".split()))
+
+
+def cognate_class(hz, mandarin, hsk):
+    """For a B2 Mandarin speaker: same | false-friend | partial | hakka-only.
+    same: the gloss is the word itself, says 同華語「X」, is the numeral, or starts with the word as a compound
+    (分 = 分開, 到 = 到達). The compound rule only looks at the start: 好 hau = 喜好 stays a false friend."""
+    m = mandarin or ""
+    glosses = [g for g in GLOSS_SPLIT.split(m) if g]
+    if hz in glosses or f"同華語「{hz}」" in m or NUMERALS.get(hz) in glosses:
+        return "same"
+    if len(hz) == 1 and glosses and glosses[0].startswith(hz) and len(glosses[0]) == 2:
+        return "same"
+    if hz in hsk:
+        return "false-friend"          # same characters exist in Mandarin, but the gloss is different
+    if any(set(hz) & set(g) for g in glosses):
+        return "partial"
+    return "hakka-only"
+
+
+def enrich_mandarin(db, hsk):
+    en2013 = {}   # same characters AND same reading in the 2013 list (a character match alone picks wrong senses: 當)
+    for hz, k, man, en in db.execute("SELECT hanzi, pkey, mandarin, english FROM entry WHERE source='kaga' AND english != ''"):
+        en2013.setdefault((hz, k), (man, en))
+    rows = db.execute("SELECT id, hanzi, pkey, mandarin, english FROM entry WHERE source IN ('kaga', 'kaga115')").fetchall()
+    for eid, hz, k, man, en in rows:
+        c = cognate_class(hz, man, hsk)
+        lv, hsk_en = hsk.get(hz, (None, None))
+        old = en2013.get((hz, k))
+        same_sense = old and (set(GLOSS_SPLIT.split(old[0] or "")) & set(GLOSS_SPLIT.split(man or "")) - {""})
+        en = en or (old[1] if same_sense else None) or (hsk_en if c == "same" else None)
+        db.execute("UPDATE entry SET cognate=?, hsk=?, english=? WHERE id=?", (c, lv, en, eid))
 
 
 def enrich(db):
@@ -332,6 +385,7 @@ def main(raw, out):
     if os.environ.get("HAKKA_PRIVATE"):
         load_glossika(db, os.environ["HAKKA_PRIVATE"])
     enrich(db)
+    enrich_mandarin(db, load_hsk(raw))
     db.commit()
     for (k, v) in db.execute("SELECT source || coalesce('/' || accent, ''), count(*) FROM entry GROUP BY 1"):
         print(f"  {k:16} {v}")

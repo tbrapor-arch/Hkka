@@ -21,6 +21,8 @@ CREATE TABLE entry(
   audio_url TEXT,        -- original government URL (not fetched)
   pos TEXT,
   -- learner layers (enrich step in build_db.py)
+  cognate TEXT,          -- for a Mandarin speaker: same | false-friend | partial | hakka-only (enrich step)
+  hsk TEXT,              -- HSK level of the same word in Mandarin (new-1 … new-7), if any
   corpus_freq INT,       -- occurrences in the Sixian texts of the Hakka Council corpus (longest-match segmentation)
   glossika_freq INT,     -- occurrences as a word in the Glossika Sixian sentences (private module only)
   core INT               -- 1 if in the core learner list (v_core)

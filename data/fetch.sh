@@ -16,3 +16,5 @@ fetch() { # name url commit
 fetch moedict-data-hakka  https://github.com/g0v/moedict-data-hakka.git          c1a28576be319d5e53190d8ba8e969158e86952c
 # 客委會 客語能力認證基本詞彙 102年版, merged CSV, all five accents
 fetch hakka_elearning     https://github.com/Taiwanese-Corpus/hakka_elearning.git 0a72438deb7d1801e1a2b4239f18c5c34325f371
+# HSK word lists (MIT): Mandarin comparison layer (cognate class, HSK level, English for shared words)
+fetch complete-hsk-vocabulary https://github.com/drkameleon/complete-hsk-vocabulary.git 7ac65bf1a6387d35f1ade478906172a19311c7f9

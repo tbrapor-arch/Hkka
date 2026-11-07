@@ -6,12 +6,12 @@ characters as Mandarin are learned as pronunciation, and teaching time goes to f
 sandhi and grammar words.
 
 How the core vocabulary splits for this learner (3,030 words, 115年度 基礎級 + 初級 + 中級, Sixian; measured
-2026-11-07 against the HSK word list and the official Mandarin glosses):
-- **1,394 same as Mandarin** (你, 去, 看, 做…): only the reading is new.
-- **485 Hakka-only** (𠊎, 佢, 个, 毋, 吂, 恁, 屋下, 食…): most grammar words are here; these get the notes.
-- **367 same characters, different use**, possible false friends (無 = 嗎 / 沒有, 當 = 很, 係 = 是, 愛 = 要, 該 = 那, 好 = 喜歡).
-- **784 partial** (做得 = 可以, 今晡日 = 今天, 睡目 = 睡覺…).
-In the 100 most frequent words, 68 are not plain Mandarin. That is where the time goes.
+2026-11-07 against the HSK word list and the official Mandarin glosses; `entry.cognate` in the database):
+- **1,482 same as Mandarin** (你, 去, 看, 做…): only the reading is new.
+- **484 Hakka-only** (𠊎, 佢, 个, 毋, 吂, 恁, 屋下, 食…): most grammar words are here; these get the notes.
+- **295 same characters, different use**, possible false friends (無 = 嗎 / 沒有, 當 = 很, 係 = 是, 愛 = 要, 該 = 那, 好 = 喜歡).
+- **769 partial** (做得 = 可以, 今晡日 = 今天, 睡目 = 睡覺…).
+In the 100 most frequent words, 60 are not plain Mandarin. That is where the time goes.
 
 ## Shape (same as Tsheh-tû)
 - Part 1: **100 lessons**, every 7th a review (7, 14, … 98) with no new material. Each lesson: a dialogue with a topic

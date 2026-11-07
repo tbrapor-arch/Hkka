@@ -3,11 +3,12 @@
 #                HAKKA_PRIVATE=../Hkka-private make db  also loads the private Glossika sentences (local only)
 # make lookup W=今晡日
 # make sources  render docs/sources.yaml → docs/sources.md
+# make lint      check the lessons; make coverage  what is taught, what comes next
 PY = python3 -I
 RAW = data/raw
 OUT = data/build
 
-.PHONY: data db lookup clean test sources
+.PHONY: data db lookup clean test sources lint coverage
 data:
 	sh data/fetch.sh
 
@@ -28,3 +29,9 @@ clean:
 
 sources:
 	$(PY) tools/sources_md.py
+
+lint:
+	$(PY) tools/lint.py
+
+coverage:
+	$(PY) tools/coverage.py

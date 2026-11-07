@@ -1,0 +1,56 @@
+# Template: copy to NNN.yaml (e.g. 001.yaml). Not a real lesson; ignored by the checker.
+# Same shape as Tsheh-tû's lessons, with two accent layers: sx = Sixian 四縣 (reference), hl = Hailu 海陸.
+# Pinyin: MOE Hakka pinyin with tone marks, one syllable per character, syllables separated by spaces
+# (as in the official word lists): "gimˊ buˊ ngidˋ". Citation tones only; tools/sandhi.py shows the spoken ones.
+id: 0
+title:
+  en: "Template"
+  sx: {hanzi: "", pinyin: ""}
+  hl: {hanzi: "", pinyin: ""}
+review: false           # true on every 7th lesson
+setting: ""             # one line: who is talking, where (Sam in Miaoli)
+names: [阿英]            # people and places used as names: exempt from the word check
+
+dialogue:
+  - n: 1
+    speaker: A
+    en: "Where are you going?"
+    zh: "你要去哪裡？"   # optional Mandarin, only where the contrast teaches something
+    sx:
+      hanzi: "你愛去哪位？"
+      pinyin: "nˇ oi hi nai vi?"
+      groups: "nˇ oi hi nai vi?"   # only when a clause has more than one tone group: pinyin with | at each phrase
+                                   # break. Punctuation already ends a group. Sandhi does not cross a break.
+    hl:
+      hanzi: "你愛去哪位？"
+      pinyin: "ngi oiˇ hiˇ nai+ vui+?"
+    # check: true      # the pattern is not attested in the official example sentences: native review needed
+    # source: kaga115  # only if the line is copied verbatim from an official example (or moe: MOE dictionary)
+
+notes:
+  - ref: 1              # dialogue line number (0 = note on the whole lesson)
+    topic: grammar      # grammar | pronunciation | sandhi | vocab | false-friend | culture | hailu
+    text: >
+      愛 oi is "want to / need to", the everyday equivalent of Mandarin 要. Not "love".
+
+new_words:              # Sixian reading as in the 115年度 list; hl only when Hailu uses another word or reading
+  - hanzi: 愛
+    pinyin: oi
+    en: "want to, need to"
+    hl: {hanzi: 愛, pinyin: oiˇ}
+  - hanzi: 哪位
+    pinyin: nai vi
+    en: "where"
+    hl: {hanzi: 哪位, pinyin: nai+ vui+}
+
+exercises:
+  translate:            # first wave: understand the Hakka; second wave (reading the English first): say it
+    - en: "Where are you going?"
+      sx: {hanzi: "你愛去哪位？", pinyin: "nˇ oi hi nai vi?"}
+      hl: {hanzi: "你愛去哪位？", pinyin: "ngi oiˇ hiˇ nai+ vui+?"}
+  fill:                 # ___ is replaced by the answer when checking
+    - en: "Where are you going?"
+      sx: {hanzi: "你___去哪位？", pinyin: "nˇ ___ hi nai vi?", answer_hanzi: "愛", answer: "oi"}
+      hl: {hanzi: "你___去哪位？", pinyin: "ngi ___ hiˇ nai+ vui+?", answer_hanzi: "愛", answer: "oiˇ"}
+
+audio: []               # filenames under course/audio/, recorded for this project only
