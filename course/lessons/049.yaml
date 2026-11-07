@@ -1,0 +1,141 @@
+id: 49
+title:
+  en: "Review 7"
+  sx: {hanzi: "差毋多！", pinyin: "caˊ mˇ doˊ!"}
+  hl: {hanzi: "差毋多！", pinyin: "caˋ m doˋ!"}
+review: true
+setting: >-
+  Sunday lunch, a week after the wedding. A-in is home. A-min is wearing the new jacket, indoors. 財伯姆 comes round
+  with a bag of wedding sweets, as the bride's family does for the neighbours. Nothing new in the dialogue: everything
+  comes from lessons 1–48.
+names: [財伯姆, 阿英, 阿明, 劉]
+
+dialogue:
+  - n: 1
+    speaker: 財伯姆
+    en: "Grandma Liu! Thank you all for coming to the banquet. These sweets are for you."
+    sx: {hanzi: "劉阿婆！恁仔細你兜來食酒。這兜糖仔分你兜。", pinyin: "liuˇ aˊ poˇ! anˋ ziiˋ se nˇ deuˊ loiˇ siid jiuˋ. iaˋ deuˊ tongˇ eˋ bunˊ nˇ deuˊ."}
+    hl: {hanzi: "劉阿婆！承蒙你兜來食酒。這兜糖仔分你兜。", pinyin: "liu a+ po! shin mung ngi deuˋ loi shidˋ ziuˊ. liaˊ deuˋ tong er bunˋ ngi deuˋ."}
+  - n: 2
+    speaker: 阿婆
+    en: "Congratulations again! The bride was so pretty."
+    sx: {hanzi: "恭喜啊！新娘當靚。", pinyin: "giungˊ hiˋ a! xinˊ ngiongˇ dongˊ jiangˊ."}
+    hl: {hanzi: "恭喜啊！新娘當靚。", pinyin: "giungˋ hiˊ a+! sinˋ ngiong dongˋ ziangˋ."}
+    check: true
+  - n: 3
+    speaker: 財伯姆
+    en: "A-min, that new jacket of yours is very smart!"
+    sx: {hanzi: "阿明，你這領新衫當派頭！", pinyin: "aˊ minˇ, nˇ iaˋ liangˊ xinˊ samˊ dongˊ pai teuˇ!"}
+    hl: {hanzi: "阿明，你這領新衫當派頭！", pinyin: "a+ min, ngi liaˊ liangˋ sinˋ samˋ dongˋ paiˇ teu!"}
+  - n: 4
+    speaker: 阿明
+    en: "I bought it online. Sam helped."
+    sx: {hanzi: "在網路項買个。Sam 摎𠊎𢯭手。", pinyin: "coiˊ miongˋ lu hong maiˊ ge. Sam lauˊ ngaiˇ ten suˋ."}
+    hl: {hanzi: "在網路項買个。Sam 摎𠊎𢯭手。", pinyin: "coiˋ miongˊ lu+ hong+ maiˋ gaiˇ. Sam lauˋ ngai tenˇ shiuˊ."}
+  - n: 5
+    speaker: Sam
+    en: "(drily) Helped? He paid with my card."
+    sx: {hanzi: "𢯭手？佢用𠊎个卡。", pinyin: "ten suˋ? giˇ iung ngaiˇ ge kaˋ."}
+    hl: {hanzi: "𢯭手？佢用𠊎个卡。", pinyin: "tenˇ shiuˊ? gi rhung+ ngai gaiˇ kaˊ."}
+  - n: 6
+    speaker: 財伯姆
+    en: "(turning to A-in, as everyone knew she would) A-in, and when will you be marrying?"
+    sx: {hanzi: "阿英，你幾時愛嫁老公？", pinyin: "aˊ inˊ, nˇ giˋ siiˇ oi ga loˋ gungˊ?"}
+    hl: {hanzi: "阿英，你幾時愛嫁老公？", pinyin: "a+ rhinˋ, ngi giˊ shi oiˇ gaˇ loˊ gungˋ?"}
+  - n: 7
+    speaker: 阿英
+    en: "Auntie, there's a saying for that: 'kissing with conical hats on'…"
+    sx: {hanzi: "財伯姆，有一句師傅話：戴等笠嫲唚嘴……", pinyin: "coiˇ bagˋ meˊ, iuˊ idˋ gi siiˊ fu fa: dai denˋ libˋ maˇ jimˊ zoi …"}
+    hl: {hanzi: "財伯姆，有一句師傅話：戴等笠嫲唚嘴……", pinyin: "coi bag meˋ, rhiuˋ rhid giˇ siiˋ fu+ faˇ: daiˇ nenˊ lib ma zimˋ zhoiˇ …"}
+  - n: 8
+    speaker: 阿明
+    en: "…'still a long way off'!"
+    sx: {hanzi: "……差得遠！", pinyin: "… caˊ dedˋ ienˋ!"}
+    hl: {hanzi: "……差得遠！", pinyin: "… caˋ ded rhanˊ!"}
+  - n: 9
+    speaker: 阿公
+    en: "(to A-min and Sam, the first thing he has said all lunch) Are you two all right now?"
+    sx: {hanzi: "你兩儕這下好了無？", pinyin: "nˇ liongˋ saˇ iaˋ ha hoˋ leˊ moˇ?"}
+    hl: {hanzi: "你兩儕這下好了無？", pinyin: "ngi liongˊ sa liaˊ ha+ hoˊ leˋ mo?"}
+  - n: 10
+    speaker: 阿明
+    en: "We're fine. Even if we quarrel, we make up: 'quarrel at the head of the bed, make up at the foot'!"
+    sx: {hanzi: "好了。就算吵，乜會和好：床頭吵，床尾和！", pinyin: "hoˋ leˊ. qiu son cauˇ, me voi foˇ hoˋ: congˇ teuˇ cauˇ, congˇ miˊ foˇ!"}
+    hl: {hanzi: "好了。就算吵，乜會和好：床頭吵，床尾和！", pinyin: "hoˊ leˋ. ciu+ sonˇ cau, meˇ voi+ fo hoˊ: cong teu cau, cong muiˋ fo!"}
+  - n: 11
+    speaker: 阿英
+    en: "A-min! That saying's about husbands and wives!"
+    sx: {hanzi: "阿明！該句係講兩公婆个！", pinyin: "aˊ minˇ! ge gi he gongˋ liongˋ gungˊ poˇ ge!"}
+    hl: {hanzi: "阿明！該句係講兩公婆个！", pinyin: "a+ min! gai giˇ heˇ gongˊ liongˊ gungˋ po gaiˇ!"}
+  - n: 12
+    speaker: 阿明
+    en: "(looking at Grandma) Near enough!"
+    sx: {hanzi: "差毋多！", pinyin: "caˊ mˇ doˊ!"}
+    hl: {hanzi: "差毋多！", pinyin: "caˋ m doˋ!"}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      After a wedding the family hands round sweets to those who came: 這兜糖仔分你兜. 食酒 "come to the banquet" (lessons
+      27 and 43).
+  - ref: 2
+    topic: grammar
+    text: >
+      恭喜啊 "congratulations!": 恭喜 from lesson 44, with 啊 a softening the end (lesson 36 used 啊 after verbs). Marked
+      for checking. 靚 "pretty" (lesson 15).
+  - ref: 4
+    topic: grammar
+    text: >
+      在網路項買个 "(I) bought it online": the 係…个 frame without 係, as in lesson 32 (阿財講个). 摎𠊎𢯭手 "helped me":
+      摎 + person (lesson 40).
+  - ref: 6
+    topic: grammar
+    text: >
+      嫁老公 for a woman, 討餔娘 for a man (lesson 43). Count how many times this question has been asked since lesson 16.
+  - ref: 10
+    topic: grammar
+    text: >
+      就算吵，乜會和好 "even if we quarrel, we make up": 就算…乜… from lesson 47, 和好 from lesson 48. Cover the English and
+      tell the month in your own Hakka: the invitation, the banquet and its sayings, the radishes, the jacket and the
+      shoes, the quarrel, the apology.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this month: 承蒙 for 恁仔細, 菜頭 for 蘿蔔, 閼 for 譴, 撿採 giamˊ caiˊ, 冤家 rhanˋ gaˋ, and V等 nenˊ (戴等).
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "If you're free on Saturday, come to the banquet."
+      sx: {hanzi: "係講禮拜六有閒，就來食酒。", pinyin: "he gongˋ liˊ bai liugˋ iuˊ hanˇ, qiu loiˇ siid jiuˋ."}
+      hl: {hanzi: "係講禮拜六有閒，就來食酒。", pinyin: "heˇ gongˊ liˋ baiˇ liug rhiuˋ han, ciu+ loi shidˋ ziuˊ."}
+    - en: "In case it's too big, it can be changed."
+      sx: {hanzi: "撿採忒大，做得換。", pinyin: "giamˋ caiˋ tedˋ tai, zo dedˋ von."}
+      hl: {hanzi: "撿採忒大，做得換。", pinyin: "giamˊ caiˊ ted tai+, zoˇ ded von+."}
+    - en: "Pull the radish gently; don't snap it."
+      sx: {hanzi: "蘿蔔輕輕仔挷，莫挷斷。", pinyin: "loˇ ped kiangˊ kiangˊ eˋ bangˊ, mog bangˊ tonˊ."}
+      hl: {hanzi: "菜頭輕輕仔挷，莫挷斷。", pinyin: "coiˇ teu kiangˋ kiangˋ er bangˋ, mogˋ bangˋ tonˋ."}
+    - en: "If it isn't you, it's A-min. Somebody is in the wrong."
+      sx: {hanzi: "毋係你，就係阿明。有人毋著。", pinyin: "mˇ he nˇ, qiu he aˊ minˇ. iuˊ nginˇ mˇ cog."}
+      hl: {hanzi: "毋係你，就係阿明。有人毋著。", pinyin: "m heˇ ngi, ciu+ heˇ a+ min. rhiuˋ ngin m chogˋ."}
+    - en: "Not only did he say sorry, he also paid the money back."
+      sx: {hanzi: "佢毋單止講失禮，還還錢。", pinyin: "giˇ mˇ danˊ ziiˋ gongˋ siidˋ liˊ, hanˇ vanˇ qienˇ."}
+      hl: {hanzi: "佢毋單止講失禮，還還錢。", pinyin: "gi m danˋ zhiˊ gongˊ shid liˋ, han van cien."}
+      check: true
+    - en: "Farmers eat by the grace of the sky."
+      sx: {hanzi: "耕田人看天食飯。", pinyin: "gangˊ tienˇ nginˇ kon tienˊ siid fan."}
+      hl: {hanzi: "耕田人看天食飯。", pinyin: "gangˋ tien ngin konˇ tienˋ shidˋ pon+."}
+  fill:
+    - en: "Although it's cheap, it's not good."
+      sx: {hanzi: "___當便宜，___毋好。", pinyin: "___ dongˊ pienˇ ngiˇ, ___ mˇ hoˋ.", answer_hanzi: "雖然……毋過", answer: "suiˊ ienˇ … mˇ go"}
+      hl: {hanzi: "___當便宜，___毋好。", pinyin: "___ dongˋ pien ngi, ___ m hoˊ.", answer_hanzi: "雖然……毋過", answer: "suiˋ rhan … m goˇ"}
+    - en: "A man takes a wife."
+      sx: {hanzi: "男仔人___。", pinyin: "namˇ eˋ nginˇ ___.", answer_hanzi: "討餔娘", answer: "toˋ buˊ ngiongˇ"}
+      hl: {hanzi: "男仔人___。", pinyin: "nam er ngin ___.", answer_hanzi: "討餔娘", answer: "toˊ buˋ ngiong"}
+    - en: "Plump and round."
+      sx: {hanzi: "___圓圓。", pinyin: "___ ienˇ ienˇ.", answer_hanzi: "肥肥", answer: "piˇ piˇ"}
+      hl: {hanzi: "___圓圓。", pinyin: "___ rhan rhan.", answer_hanzi: "肥肥", answer: "pui pui"}
+
+audio: []
