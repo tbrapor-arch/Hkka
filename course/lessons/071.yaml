@@ -1,0 +1,173 @@
+id: 71
+title:
+  en: "Arriving in 美濃"
+  sx: {hanzi: "蓋好！", pinyin: "goi hoˋ!"}
+  hl: {hanzi: "當好！", pinyin: "dongˋ hoˊ!"}
+review: false
+setting: >-
+  Saturday 8 May, three in the afternoon. A-in has taken Sam south for the weekend: the high-speed train to 左營, then
+  a bus through the banana groves to 美濃, under the hills at the edge of the 高雄 plain. An old couple, 鍾伯 and 鍾伯姆,
+  run a small guesthouse in a 伙房 courtyard. They speak Sixian too, but the southern kind.
+names: [美濃, 左營, 高雄, 鍾伯, 鍾伯姆, 阿英, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 鍾伯姆
+    en: "Welcome, welcome! You've come from Miaoli, haven't you?"
+    sx: {hanzi: "歡迎，歡迎！你兜係對苗栗來个，係無？", pinyin: "fonˊ ngiangˇ, fonˊ ngiangˇ! nˇ deuˊ he dui meuˇ lidˋ loiˇ ge, he moˇ?"}
+    hl: {hanzi: "歡迎，歡迎！你兜係對苗栗來个，係無？", pinyin: "fonˋ ngiang, fonˋ ngiang! ngi deuˋ heˇ duiˇ miau lid loi gaiˇ, heˇ mo?"}
+  - n: 2
+    speaker: 阿英
+    en: "Yes. The high-speed train to 左營, then the bus. This is Sam; he's learning Hakka in Miaoli."
+    sx: {hanzi: "係。坐高鐵到左營，再過坐巴士。這係 Sam，佢在苗栗學客話。", pinyin: "he. coˊ goˊ tiedˋ do zoˋ iangˇ, zai go coˊ ba siiˋ. iaˋ he Sam, giˇ coiˊ meuˇ lidˋ hog hagˋ fa."}
+    hl: {hanzi: "係。坐高鐵到左營，再過坐巴士。這係 Sam，佢在苗栗學客話。", pinyin: "heˇ. coˋ goˋ tied doˇ zoˊ rhang, zaiˇ goˇ coˋ ba siiˋ. liaˊ heˇ Sam, gi coiˋ miau lid hogˋ hag voiˋ."}
+  - n: 3
+    speaker: 鍾伯姆
+    en: "A foreigner who speaks Hakka! Very good!"
+    sx: {hanzi: "外國人講客話！蓋好！", pinyin: "ngoi guedˋ nginˇ gongˋ hagˋ fa! goi hoˋ!"}
+    hl: {hanzi: "外國人講客話！當好！", pinyin: "ngoi+ gued ngin gongˊ hag voiˋ! dongˋ hoˊ!"}
+  - n: 4
+    speaker: Sam
+    en: "(to A-in, under his breath) '蓋好'? 蓋… what does that mean?"
+    sx: {hanzi: "「蓋好」？蓋……係麼个意思？", pinyin: "goi hoˋ? goi … he maˋ ge i sii?"}
+    hl: {hanzi: "「蓋好」？蓋……係麼个意思？", pinyin: "goiˇ hoˊ? goiˇ … heˇ maˊ gaiˇ rhiˇ siiˇ?"}
+  - n: 5
+    speaker: 阿英
+    en: "Here they say 蓋好; it's the 當好 we say in Miaoli."
+    sx: {hanzi: "這位講「蓋好」，就係苗栗講个「當好」。", pinyin: "iaˋ vi gongˋ goi hoˋ, qiu he meuˇ lidˋ gongˋ ge dongˊ hoˋ."}
+    hl: {hanzi: "這位講「蓋好」，就係苗栗講个「當好」。", pinyin: "liaˊ vui+ gongˊ goiˇ hoˊ, ciu+ heˇ miau lid gongˊ gaiˇ dongˋ hoˊ."}
+  - n: 6
+    speaker: 鍾伯
+    en: "We 美濃 people don't speak quite like Miaoli people. Can you follow?"
+    sx: {hanzi: "𠊎等美濃人講話，同苗栗人無共樣。你聽識無？", pinyin: "ngaiˇ denˋ mi nungˇ nginˇ gongˋ fa, tungˇ meuˇ lidˋ nginˇ moˇ kiung iong. nˇ tangˊ siidˋ moˇ?"}
+    hl: {hanzi: "𠊎兜美濃人講話，摎苗栗人無共樣。你聽識無？", pinyin: "ngai deuˋ mi nung ngin gongˊ faˇ, lauˋ miau lid ngin mo kiung+ rhong+. ngi tangˋ shid mo?"}
+    check: true
+  - n: 7
+    speaker: Sam
+    en: "I can! …Most of it."
+    sx: {hanzi: "聽識！……大部分聽識。", pinyin: "tangˊ siidˋ! … tai pu fun tangˊ siidˋ."}
+    hl: {hanzi: "聽識！……大部分聽識。", pinyin: "tangˋ shid! … tai+ pu+ fun+ tangˋ shid."}
+    check: true
+  - n: 8
+    speaker: 鍾伯姆
+    en: "You're staying two nights, and going back on Sunday, is that right?"
+    sx: {hanzi: "你兜歇兩暗晡，禮拜日正歸去，係無？", pinyin: "nˇ deuˊ hiedˋ liongˋ am buˊ, liˊ bai ngidˋ zang guiˊ hi, he moˇ?"}
+    hl: {hanzi: "你兜歇兩暗晡，禮拜日正轉去，係無？", pinyin: "ngi deuˋ hied liongˊ amˇ buˋ, liˋ baiˇ ngid zhangˇ zhonˊ hiˇ, heˇ mo?"}
+  - n: 9
+    speaker: Sam
+    en: "歸去?"
+    sx: {hanzi: "歸去？", pinyin: "guiˊ hi?"}
+    hl: {hanzi: "歸去？", pinyin: "guiˋ hiˇ?"}
+  - n: 10
+    speaker: 阿英
+    en: "歸去 means 轉去, 'go back home'."
+    sx: {hanzi: "歸去就係轉去。", pinyin: "guiˊ hi qiu he zonˋ hi."}
+    hl: {hanzi: "歸去就係轉去。", pinyin: "guiˋ hiˇ ciu+ heˇ zhonˊ hiˇ."}
+  - n: 11
+    speaker: 鍾伯
+    en: "Right. Put your bags down, and we'll take you two for 粄條."
+    sx: {hanzi: "好。行李放好，𠊎等帶你兜去食粄條。", pinyin: "hoˋ. hangˇ liˋ biong hoˋ, ngaiˇ denˋ dai nˇ deuˊ hi siid banˋ tiauˇ."}
+    hl: {hanzi: "好。行李放好，𠊎兜帶你兜去食粄條。", pinyin: "hoˊ. hang liˊ biongˇ hoˊ, ngai deuˋ daiˇ ngi deuˋ hiˇ shidˋ banˊ tiau."}
+  - n: 12
+    speaker: 鍾伯姆
+    en: "Not 粄條: 面帕粄! In 六堆 we call it 面帕粄."
+    sx: {hanzi: "毋係粄條，係面帕粄！六堆人安做面帕粄。", pinyin: "mˇ he banˋ tiauˇ, he mien pa banˋ! liugˋ duiˊ nginˇ onˊ zo mien pa banˋ."}
+    hl: {hanzi: "毋係粄條，係面帕粄！六堆人安做面帕粄。", pinyin: "m heˇ banˊ tiau, heˇ mienˇ paˇ banˊ! liug duiˋ ngin onˋ zoˇ mienˇ paˇ banˊ."}
+  - n: 13
+    speaker: Sam
+    en: "(to A-in) Here even the food has a different name."
+    sx: {hanzi: "這位連食个東西都安到無共樣。", pinyin: "iaˋ vi lienˇ siid ge dungˊ xiˊ du onˊ do moˇ kiung iong."}
+    hl: {hanzi: "這位連食个東西都安到無共樣。", pinyin: "liaˊ vui+ lien shidˋ gaiˇ dungˋ siˋ du+ onˋ doˇ mo kiung+ rhong+."}
+  - n: 14
+    speaker: 鍾伯
+    en: "After you've eaten, take a stroll behind the house. The fields at the foot of the hill are lovely, and very peaceful."
+    sx: {hanzi: "食飽，你兜去屋背行行啊。山腳个田蓋靚，蓋安靜。", pinyin: "siid bauˋ, nˇ deuˊ hi vugˋ boi hangˇ hangˇ a. sanˊ giogˋ ge tienˇ goi jiangˊ, goi onˊ qin."}
+    hl: {hanzi: "食飽，你兜去屋背行行啊。山腳个田當靚，當安靜。", pinyin: "shidˋ bauˊ, ngi deuˋ hiˇ vug boiˇ hang hang a+. sanˋ giog gaiˇ tien dongˋ ziangˋ, dongˋ onˋ cin+."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      對苗栗來 "come from Miaoli": 對 "from" (lesson 62). …係無？ at the end asks for confirmation, "…, isn't it?", like
+      …係毋係？ (lesson 32); the official examples have both (毋記得麼个東西係無？).
+  - ref: 3
+    topic: grammar
+    text: >
+      蓋 goi "very": the MOE dictionary lists it with the sense 很、極. In the official example sentences a second
+      wording is often given in brackets, and there 當（蓋）appears over 1,300 times (臺灣个文旦柚當(蓋)好食): 當 is the
+      northern word, 蓋 the bracketed alternative. That 蓋 is the southern (六堆, 美濃) word is general knowledge, and it
+      is what 鍾伯姆 says; in Miaoli, keep saying 當. The Hailu line says 當 as usual.
+  - ref: 6
+    topic: grammar
+    text: >
+      𠊎等 ngaiˇ denˋ "we": MOE defines it as 我們, and the brackets of the official examples give 𠊎兜（𠊎等）thirty
+      times (𠊎兜（𠊎等）愛去看電影，你愛跈無？). Again the north says 𠊎兜, the south 𠊎等. 聽識 "follow, understand
+      (by ear)": 聽 + 識 (lesson 26); 聽毋識 "not understand": 𠊎頭先聽毋識，請你再過講一擺 is an official example.
+  - ref: 8
+    topic: grammar
+    text: >
+      歸去 guiˊ hi "go back home" = 轉去: MOE gives 歸 the sense 返回, and the brackets have 轉（歸）over a hundred times
+      (阿爸逐（每）日都轉（歸）屋下食晝). 歸 is also "the whole" (歸日, 歸屋下): context decides.
+  - ref: 12
+    topic: culture
+    text: >
+      面帕粄 mien pa banˋ: MOE says it outright: 臺灣北部客家人稱「粄條」，屏東六堆地區稱「面帕粄」, "northern Hakka call
+      it 粄條, the 六堆 area calls it 面帕粄", literally "face-towel 粄", from the wide white sheets it is cut from.
+      六堆 liugˋ duiˊ is the name of the southern Hakka settlements, 美濃 among them. 安做 "be called": an official example
+      has exactly 粄條，六堆人安做面帕粄.
+  - ref: 0
+    topic: hailu
+    text: >
+      The Hailu column, as always, gives the Hailu way of saying each line: 當 for 蓋, 𠊎兜 for 𠊎等, 轉去 for 歸去, except
+      where Sam and A-in are quoting the southern word.
+
+new_words:
+  - {hanzi: 蓋, pinyin: "goi", en: "(southern) very", hl: {hanzi: 蓋, pinyin: "goiˇ"}}
+  - {hanzi: 𠊎等, pinyin: "ngaiˇ denˋ", en: "(southern) we", hl: {hanzi: 𠊎等, pinyin: "ngai denˊ"}}
+  - {hanzi: 面帕粄, pinyin: "mien pa banˋ", en: "(六堆) 粄條", hl: {hanzi: 面帕粄, pinyin: "mienˇ paˇ banˊ"}}
+  - {hanzi: 高鐵, pinyin: "goˊ tiedˋ", en: "high-speed rail", hl: {hanzi: 高鐵, pinyin: "goˋ tied"}}
+  - {hanzi: 再過, pinyin: "zai go", en: "then, again", hl: {hanzi: 再過, pinyin: "zaiˇ goˇ"}}
+  - {hanzi: 外國人, pinyin: "ngoi guedˋ nginˇ", en: "foreigner", hl: {hanzi: 外國人, pinyin: "ngoi+ gued ngin"}}
+  - {hanzi: 鄉下, pinyin: "hiongˊ ha", en: "the countryside", hl: {hanzi: 鄉下, pinyin: "hiongˋ ha+"}}
+  - {hanzi: 安靜, pinyin: "onˊ qin", en: "quiet, peaceful", hl: {hanzi: 安靜, pinyin: "onˋ cin+"}}
+  - {hanzi: 弓蕉, pinyin: "giungˊ zeuˊ", en: "banana", hl: {hanzi: 弓蕉, pinyin: "giungˋ ziauˋ"}}
+  - {hanzi: 園, pinyin: "ienˇ", en: "garden, plantation (菜園, 弓蕉園)", hl: {hanzi: 園, pinyin: "rhan"}}
+  - {hanzi: 伙房, pinyin: "foˋ fongˇ", en: "traditional courtyard house", hl: {hanzi: 伙房, pinyin: "foˊ fong"}}
+  - {hanzi: 部分, pinyin: "pu fun", en: "part (大部分 most)", hl: {hanzi: 部分, pinyin: "pu+ fun+"}}
+  - {hanzi: 安, pinyin: "onˊ", en: "name, call (安做 be called)", hl: {hanzi: 安, pinyin: "onˋ"}}
+  - {hanzi: 中央, pinyin: "dungˊ ongˊ", en: "middle", hl: {hanzi: 中央, pinyin: "dungˋ ongˋ"}}
+  - {hanzi: 六堆, pinyin: "liugˋ duiˊ", en: "六堆 (the southern Hakka settlements)", hl: {hanzi: 六堆, pinyin: "liug duiˋ"}}
+  - {hanzi: 禾埕, pinyin: "voˇ tangˇ", en: "courtyard, drying ground", hl: {hanzi: 禾埕, pinyin: "vo tang"}}
+  - {hanzi: 屋背, pinyin: "vugˋ boi", en: "behind the house", hl: {hanzi: 屋背, pinyin: "vug boiˇ"}}
+  - {hanzi: 山腳, pinyin: "sanˊ giogˋ", en: "foot of the hill", hl: {hanzi: 山腳, pinyin: "sanˋ giog"}}
+  - {hanzi: 毋識, pinyin: "mˇ siidˋ", en: "not know, never have", hl: {hanzi: 毋識, pinyin: "m shid"}}
+  - {hanzi: 地方, pinyin: "ti fongˊ", en: "place, area", hl: {hanzi: 地方, pinyin: "ti+ fongˋ"}}
+
+exercises:
+  translate:
+    - en: "I didn't understand just now; please say it once more."
+      sx: {hanzi: "𠊎頭先聽毋識，請你再過講一擺。", pinyin: "ngaiˇ teuˇ xienˊ tangˊ mˇ siidˋ, qiangˋ nˇ zai go gongˋ idˋ baiˋ."}
+      hl: {hanzi: "𠊎頭先聽毋識，請你再過講一擺。", pinyin: "ngai teu senˋ tangˋ m shid, ciangˊ ngi zaiˇ goˇ gongˊ rhid baiˊ."}
+    - en: "The countryside is very quiet; there are banana groves everywhere."
+      sx: {hanzi: "鄉下當安靜，四片都係弓蕉園。", pinyin: "hiongˊ ha dongˊ onˊ qin, xi pienˋ du he giungˊ zeuˊ ienˇ."}
+      hl: {hanzi: "鄉下當安靜，四片都係弓蕉園。", pinyin: "hiongˋ ha+ dongˋ onˋ cin+, siˇ pienˊ du+ heˇ giungˋ ziauˋ rhan."}
+      check: true
+    - en: "Her accent is different from ours. Speak slowly."
+      sx: {hanzi: "佢个口音同𠊎兜無共樣。你慢慢講。", pinyin: "giˇ ge kieuˋ imˊ tungˇ ngaiˇ deuˊ moˇ kiung iong. nˇ man man gongˋ."}
+      hl: {hanzi: "佢个口音摎𠊎兜無共樣。你慢慢講。", pinyin: "gi gaiˇ kieuˊ rhimˋ lauˋ ngai deuˋ mo kiung+ rhong+. ngi man+ man+ gongˊ."}
+    - en: "Most people in the north have never been to 六堆."
+      sx: {hanzi: "北部大部分个人毋識去過六堆。", pinyin: "bedˋ pu tai pu fun ge nginˇ mˇ siidˋ hi go liugˋ duiˊ."}
+      hl: {hanzi: "北部大部分个人毋識去過六堆。", pinyin: "bed pu+ tai+ pu+ fun+ gaiˇ ngin m shid hiˇ goˇ liug duiˋ."}
+    - en: "The 伙房 and its courtyard are in the middle of the fields: a lovely place."
+      sx: {hanzi: "伙房个禾埕在田中央，這隻地方蓋靚！", pinyin: "foˋ fongˇ ge voˇ tangˇ coiˊ tienˇ dungˊ ongˊ, iaˋ zagˋ ti fongˊ goi jiangˊ!"}
+      hl: {hanzi: "伙房个禾埕在田中央，這隻地方當靚！", pinyin: "foˊ fong gaiˇ vo tang coiˋ tien dungˋ ongˋ, liaˊ zhag ti+ fongˋ dongˋ ziangˋ!"}
+      check: true
+  fill:
+    - en: "(southern) very good"
+      sx: {hanzi: "___好", pinyin: "___ hoˋ", answer_hanzi: "蓋", answer: "goi"}
+      hl: {hanzi: "___好", pinyin: "___ hoˊ", answer_hanzi: "當", answer: "dongˋ"}
+    - en: "(southern) We're going back home on Sunday."
+      sx: {hanzi: "𠊎等禮拜日___去。", pinyin: "ngaiˇ denˋ liˊ bai ngidˋ ___ hi.", answer_hanzi: "歸", answer: "guiˊ"}
+      hl: {hanzi: "𠊎兜禮拜日___去。", pinyin: "ngai deuˋ liˋ baiˇ ngid ___ hiˇ.", answer_hanzi: "轉", answer: "zhonˊ"}
+
+audio: []
