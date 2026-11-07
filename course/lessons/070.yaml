@@ -1,0 +1,135 @@
+id: 70
+title:
+  en: "Review 10"
+  sx: {hanzi: "轉來就好", pinyin: "zonˋ loiˇ qiu hoˋ"}
+  hl: {hanzi: "轉來就好", pinyin: "zhonˊ loi ciu+ hoˊ"}
+review: true
+setting: >-
+  Sunday 2 May, after dinner. Sam has finished the carved bird for Grandma (lesson 67), and A-in has news for the whole
+  family. Nothing new in the dialogue: everything comes from lessons 1–69.
+names: [阿英, 阿明, 阿宏, 苗栗, 台北, 三義]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Grandma, this is for you. I carved it in 三義."
+    sx: {hanzi: "阿婆，這係分你个。𠊎在三義刻个。", pinyin: "aˊ poˇ, iaˋ he bunˊ nˇ ge. ngaiˇ coiˊ samˊ ngi kadˋ ge."}
+    hl: {hanzi: "阿婆，這係分你个。𠊎在三義刻个。", pinyin: "a+ po, liaˊ heˇ bunˋ ngi gaiˇ. ngai coiˋ samˋ ngi+ kad gaiˇ."}
+  - n: 2
+    speaker: 阿婆
+    en: "A chicken! How lovely!"
+    sx: {hanzi: "一隻雞仔！當靚！", pinyin: "idˋ zagˋ gieˊ eˋ! dongˊ jiangˊ!"}
+    hl: {hanzi: "一隻雞仔！當靚！", pinyin: "rhid zhag gaiˋ er! dongˋ ziangˋ!"}
+  - n: 3
+    speaker: 阿明
+    en: "(delighted) You see? It looks like a chicken!"
+    sx: {hanzi: "你看！看起來就像雞仔！", pinyin: "nˇ kon! kon hiˋ loiˇ qiu qiong gieˊ eˋ!"}
+    hl: {hanzi: "你看！看起來就像雞仔！", pinyin: "ngi konˇ! konˇ hiˊ loi ciu+ ciongˇ gaiˋ er!"}
+  - n: 4
+    speaker: Sam
+    en: "It's a bird…"
+    sx: {hanzi: "係鳥仔……", pinyin: "he diauˊ eˋ …"}
+    hl: {hanzi: "係鳥仔……", pinyin: "heˇ diauˋ er …"}
+  - n: 5
+    speaker: 阿婆
+    en: "Bird or chicken, it doesn't matter. Grandma likes it. It's better than anything from a shop."
+    sx: {hanzi: "鳥仔、雞仔，無相干。阿婆歡喜。店肚買个毋當你刻个。", pinyin: "diauˊ eˋ, gieˊ eˋ, moˇ xiongˊ gonˊ. aˊ poˇ fonˊ hiˋ. diam duˋ maiˊ ge mˇ dong nˇ kadˋ ge."}
+    hl: {hanzi: "鳥仔、雞仔，無相干。阿婆歡喜。店肚買个毋當你刻个。", pinyin: "diauˋ er, gaiˋ er, mo siongˋ gonˋ. a+ po fonˋ hiˊ. diamˇ duˊ maiˋ gaiˇ m dongˇ ngi kad gaiˇ."}
+    check: true
+  - n: 6
+    speaker: 阿英
+    en: "Everyone, I've got something to say. I've decided: I'm going to work for the county government."
+    sx: {hanzi: "大家，𠊎有事情愛講。𠊎決定了：𠊎愛去縣政府做事。", pinyin: "tai gaˊ, ngaiˇ iuˊ sii qinˇ oi gongˋ. ngaiˇ giedˋ tin leˊ: ngaiˇ oi hi ien ziin fuˋ zo se."}
+    hl: {hanzi: "大家，𠊎有事情愛講。𠊎決定了：𠊎愛去縣政府做事。", pinyin: "tai+ gaˋ, ngai rhiuˋ sii+ cin oiˇ gongˊ. ngai gied tin+ leˋ: ngai oiˇ hiˇ rhanˇ zhinˇ fuˊ zoˇ she+."}
+  - n: 7
+    speaker: 阿姆
+    en: "So you're coming back to Miaoli? The pay is lower…"
+    sx: {hanzi: "你愛轉來苗栗？月給較少……", pinyin: "nˇ oi zonˋ loiˇ meuˇ lidˋ? ngied gibˋ ka seuˋ …"}
+    hl: {hanzi: "你愛轉來苗栗？月給較少……", pinyin: "ngi oiˇ zhonˊ loi miau lid? ngiedˋ gib haˇ shauˊ …"}
+  - n: 8
+    speaker: 阿英
+    en: "I'd rather earn less. Whatever the job, you have to like it."
+    sx: {hanzi: "𠊎甘願月給少兜。做頭路，總愛自家歡喜。", pinyin: "ngaiˇ gamˊ ngien ngied gibˋ seuˋ deuˊ. zo teuˇ lu, zungˋ oi qi gaˊ fonˊ hiˋ."}
+    hl: {hanzi: "𠊎甘願月給少兜。做頭路，總愛自家歡喜。", pinyin: "ngai gamˋ ngien+ ngiedˋ gib shauˊ deuˋ. zoˇ teu lu+, zungˊ oiˇ cid gaˋ fonˋ hiˊ."}
+  - n: 9
+    speaker: 阿明
+    en: "Is it because Sam is here?"
+    sx: {hanzi: "係毋係因為 Sam 在這？", pinyin: "he mˇ he inˊ vi Sam coiˊ iaˋ?"}
+    hl: {hanzi: "係毋係因為 Sam 在這？", pinyin: "heˇ m heˇ rhinˋ vui+ Sam coiˋ liaˊ?"}
+  - n: 10
+    speaker: 阿英
+    en: "(bright red) A-min!"
+    sx: {hanzi: "阿明！", pinyin: "aˊ minˇ!"}
+    hl: {hanzi: "阿明！", pinyin: "a+ min!"}
+  - n: 11
+    speaker: 阿婆
+    en: "(hiding her smile behind the carved chicken) Grandma's not interfering. Grandma's not saying a word."
+    sx: {hanzi: "阿婆毋管。阿婆麼个都毋講。", pinyin: "aˊ poˇ mˇ gonˋ. aˊ poˇ maˋ ge du mˇ gongˋ."}
+    hl: {hanzi: "阿婆毋管。阿婆麼个都毋講。", pinyin: "a+ po m gonˊ. a+ po maˊ gaiˇ du+ m gongˊ."}
+  - n: 12
+    speaker: 阿公
+    en: "Back home is what counts."
+    sx: {hanzi: "轉來就好。", pinyin: "zonˋ loiˇ qiu hoˋ."}
+    hl: {hanzi: "轉來就好。", pinyin: "zhonˊ loi ciu+ hoˊ."}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      當靚 "very pretty" (lesson 15). Grandma's 雞仔 is either very short-sighted or very kind; lesson 67's joke comes home.
+  - ref: 5
+    topic: grammar
+    text: >
+      毋當 (lesson 68): 店肚買个毋當你刻个 "the shop-bought kind isn't as good as the one you carved". The comparison is
+      built for the scene, so it is marked. 無相干 "doesn't matter" (lesson 66).
+  - ref: 8
+    topic: grammar
+    text: >
+      A-in answers with Grandpa's words from lesson 68 (做頭路，總愛自家歡喜) and her own 甘願. Her interview is still to come
+      (lesson 75).
+  - ref: 9
+    topic: grammar
+    text: >
+      係毋係 + a whole clause "is it that…?": 係毋係因為 Sam 在這？ "is it because Sam's here?". 因為 from lesson 60.
+  - ref: 12
+    topic: culture
+    text: >
+      Grandpa's 轉來就好, the line he said to Sam in lesson 64, now for his granddaughter. Cover the English and tell the
+      month in your own Hakka: Sam's return, 清明 and the story of 阿太, the sports day, 三義, the family meeting, the 桐花.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "First cut the grass, then pay respects; once that's done, eat the 艾粄."
+      sx: {hanzi: "先割草，正來拜。拜好，斯食艾粄。", pinyin: "xienˊ godˋ coˋ, zang loiˇ bai. bai hoˋ, siiˊ siid ngie banˋ."}
+      hl: {hanzi: "先割草，正來拜。拜好，斯食艾粄。", pinyin: "senˋ god coˊ, zhangˇ loi baiˇ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
+    - en: "阿宏 is taller than A-min, but A-min's class came first."
+      sx: {hanzi: "阿宏比阿明較高，毋過阿明个班頭名。", pinyin: "aˊ fenˇ biˋ aˊ minˇ ka goˊ, mˇ go aˊ minˇ ge banˊ teuˇ miangˇ."}
+      hl: {hanzi: "阿宏比阿明較高，毋過阿明个班頭名。", pinyin: "a+ fen biˊ a+ min haˇ goˋ, m goˇ a+ min gaiˇ banˋ teu miang."}
+    - en: "Camphor is hard; it's not easy to carve."
+      sx: {hanzi: "樟樹當硬，毋好刻。", pinyin: "zongˊ su dongˊ ngang, mˇ hoˋ kadˋ."}
+      hl: {hanzi: "樟樹當硬，毋好刻。", pinyin: "zhongˋ shu+ dongˋ ngang+, m hoˊ kad."}
+    - en: "The tung blossom is snow-white, the tea field deep green, and A-in's face bright red."
+      sx: {hanzi: "桐花白雪雪仔，茶園浸青，阿英个面啾紅。", pinyin: "tungˇ faˊ pag xiedˋ xiedˋ eˇ, caˇ ienˇ jim qiangˊ, aˊ inˊ ge mien jiuˊ fungˇ."}
+      hl: {hanzi: "桐花白雪雪，茶園浸青，阿英个面啾紅。", pinyin: "tung faˋ pagˋ sied sied, ca rhan zimˇ ciangˋ, a+ rhinˋ gaiˇ mienˇ ziuˋ fung."}
+    - en: "Unless you don't want to, come back to Miaoli."
+      sx: {hanzi: "除非你毋想，無斯轉來苗栗。", pinyin: "cuˇ fiˊ nˇ mˇ xiongˋ, moˇ siiˊ zonˋ loiˇ meuˇ lidˋ."}
+      hl: {hanzi: "除非你毋想，無斯轉來苗栗。", pinyin: "chu fuiˋ ngi m siongˊ, mo siiˋ zhonˊ loi miau lid."}
+      check: true
+    - en: "Later, the typhoon blew all the tea bushes away, and of all things, 阿太 planted them again."
+      sx: {hanzi: "後來，風搓摎茶樹全部吹走忒，阿太嗄又種過。", pinyin: "heu loiˇ, fungˊ caiˊ lauˊ caˇ su qionˇ pu coiˊ zeuˋ tedˋ, aˊ tai sa iu zung go."}
+      hl: {hanzi: "後來，風搓摎茶樹全部吹走忒，阿太嗄又種過。", pinyin: "heu+ loi, fungˋ caiˋ lauˋ ca shu+ cion pu+ choiˋ zeuˊ ted, a+ taiˇ saˇ rhiu+ zhungˇ goˇ."}
+      check: true
+  fill:
+    - en: "Come back! (said by the one at home)"
+      sx: {hanzi: "你愛___！", pinyin: "nˇ oi ___!", answer_hanzi: "轉來", answer: "zonˋ loiˇ"}
+      hl: {hanzi: "你愛___！", pinyin: "ngi oiˇ ___!", answer_hanzi: "轉來", answer: "zhonˊ loi"}
+    - en: "You gave me a fright!"
+      sx: {hanzi: "___𠊎了！", pinyin: "___ ngaiˇ leˊ!", answer_hanzi: "嚇著", answer: "hagˋ doˋ"}
+      hl: {hanzi: "___𠊎了！", pinyin: "___ ngai leˋ!", answer_hanzi: "嚇著", answer: "hag doˊ"}
+    - en: "I'd rather earn less."
+      sx: {hanzi: "𠊎___月給少兜。", pinyin: "ngaiˇ ___ ngied gibˋ seuˋ deuˊ.", answer_hanzi: "甘願", answer: "gamˊ ngien"}
+      hl: {hanzi: "𠊎___月給少兜。", pinyin: "ngai ___ ngiedˋ gib shauˊ deuˋ.", answer_hanzi: "甘願", answer: "gamˋ ngien+"}
+
+audio: []

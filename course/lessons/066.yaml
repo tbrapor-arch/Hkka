@@ -13,13 +13,13 @@ dialogue:
   - n: 1
     speaker: 阿明
     en: "Today's race, I've got to beat 阿宏."
-    sx: {hanzi: "今晡日个走相逐，𠊎定著愛贏阿宏。", pinyin: "gimˊ buˊ ngidˋ ge zeuˋ xiongˊ giugˋ, ngaiˇ tin cog oi iangˇ aˊ fungˇ."}
-    hl: {hanzi: "今晡日个走追仔，𠊎定著愛贏阿宏。", pinyin: "gimˋ buˋ ngid gaiˇ zeuˊ duiˋ er, ngai tin+ chogˋ oiˇ rhang a+ fung."}
+    sx: {hanzi: "今晡日个走相逐，𠊎定著愛贏阿宏。", pinyin: "gimˊ buˊ ngidˋ ge zeuˋ xiongˊ giugˋ, ngaiˇ tin cog oi iangˇ aˊ fenˇ."}
+    hl: {hanzi: "今晡日个走追仔，𠊎定著愛贏阿宏。", pinyin: "gimˋ buˋ ngid gaiˇ zeuˊ duiˋ er, ngai tin+ chogˋ oiˇ rhang a+ fen."}
   - n: 2
     speaker: Sam
     en: "Who's 阿宏?"
-    sx: {hanzi: "阿宏係麼人？", pinyin: "aˊ fungˇ he maˋ nginˇ?"}
-    hl: {hanzi: "阿宏係麼人？", pinyin: "a+ fung heˇ maˊ ngin?"}
+    sx: {hanzi: "阿宏係麼人？", pinyin: "aˊ fenˇ he maˋ nginˇ?"}
+    hl: {hanzi: "阿宏係麼人？", pinyin: "a+ fen heˇ maˊ ngin?"}
   - n: 3
     speaker: 阿明
     en: "A classmate. He's taller than me, and his legs are longer."
@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "Five centimetres! But 阿宏 is still taller than me."
-    sx: {hanzi: "五公分！毋過阿宏還係比𠊎較高。", pinyin: "ngˋ gungˊ funˊ! mˇ go aˊ fungˇ hanˇ he biˋ ngaiˇ ka goˊ."}
-    hl: {hanzi: "五公分！毋過阿宏還係比𠊎較高。", pinyin: "ngˊ gungˋ funˋ! m goˇ a+ fung han heˇ biˊ ngai haˇ goˋ."}
+    sx: {hanzi: "五公分！毋過阿宏還係比𠊎較高。", pinyin: "ngˋ gungˊ funˊ! mˇ go aˊ fenˇ hanˇ he biˋ ngaiˇ ka goˊ."}
+    hl: {hanzi: "五公分！毋過阿宏還係比𠊎較高。", pinyin: "ngˊ gungˋ funˋ! m goˇ a+ fen han heˇ biˊ ngai haˇ goˋ."}
   - n: 6
     speaker: 阿婆
     en: "(on her feet, as the runners set off) Come on, A-min! Come on!"
@@ -44,8 +44,8 @@ dialogue:
   - n: 7
     speaker: Sam
     en: "A-min's faster! …Oh. 阿宏's won."
-    sx: {hanzi: "阿明走較遽！……啊，阿宏贏了。", pinyin: "aˊ minˇ zeuˋ ka giagˋ! … a, aˊ fungˇ iangˇ leˊ."}
-    hl: {hanzi: "阿明走較遽！……啊，阿宏贏了。", pinyin: "a+ min zeuˊ haˇ giag! … a+, a+ fung rhang leˋ."}
+    sx: {hanzi: "阿明走較遽！……啊，阿宏贏了。", pinyin: "aˊ minˇ zeuˋ ka giagˋ! … a, aˊ fenˇ iangˇ leˊ."}
+    hl: {hanzi: "阿明走較遽！……啊，阿宏贏了。", pinyin: "a+ min zeuˊ haˇ giag! … a+, a+ fen rhang leˋ."}
     check: true
   - n: 8
     speaker: 阿明
