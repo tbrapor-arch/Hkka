@@ -1,0 +1,211 @@
+id: 76
+title:
+  en: "Sam cooks"
+  sx: {hanzi: "摎豬肉切絲來", pinyin: "lauˊ zuˊ ngiugˋ qiedˋ siiˊ loiˇ"}
+  hl: {hanzi: "摎豬肉切絲來", pinyin: "lauˋ zhuˋ ngiug cied siiˋ loi"}
+review: false
+setting: >-
+  Saturday 22 May, five o'clock. A-in starts at the county office next month, and Sam has announced that tonight he is
+  cooking, to celebrate and to say thank you: fried 粄條, the way they made it in 美濃. Mrs Liu has agreed to watch and
+  say nothing. She says a great deal.
+names: [阿英, 阿明, 美濃]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "Right, Sam, tonight you cook and I watch."
+    sx: {hanzi: "好，Sam，今暗晡你煮，𠊎看。", pinyin: "hoˋ, Sam, gimˊ am buˊ nˇ zuˋ, ngaiˇ kon."}
+    hl: {hanzi: "好，Sam，今暗晡你煮，𠊎看。", pinyin: "hoˊ, Sam, gimˋ amˇ buˋ ngi zhuˊ, ngai konˇ."}
+  - n: 2
+    speaker: 阿姆
+    en: "First cut the pork into strips."
+    sx: {hanzi: "先摎豬肉切絲來。", pinyin: "xienˊ lauˊ zuˊ ngiugˋ qiedˋ siiˊ loiˇ."}
+    hl: {hanzi: "先摎豬肉切絲來。", pinyin: "senˋ lauˋ zhuˋ ngiug cied siiˋ loi."}
+  - n: 3
+    speaker: Sam
+    en: "Strips… Like this, is that all right?"
+    sx: {hanzi: "切絲……恁樣做得無？", pinyin: "qiedˋ siiˊ … anˋ ngiongˇ zo dedˋ moˇ?"}
+    hl: {hanzi: "切絲……恁樣做得無？", pinyin: "cied siiˋ … an ngiong zoˇ ded mo?"}
+  - n: 4
+    speaker: 阿姆
+    en: "That'll do. Wash the bean sprouts clean, so they're ready to go in the wok."
+    sx: {hanzi: "做得。豆芽愛洗淨來，正好落鑊。", pinyin: "zo dedˋ. teu ngaˇ oi seˋ qiang loiˇ, zang hoˋ log vog."}
+    hl: {hanzi: "做得。豆芽愛洗淨來，正好落鑊。", pinyin: "zoˇ ded. teu+ nga oiˇ seˊ ciang+ loi, zhangˇ hoˊ logˋ vogˋ."}
+  - n: 5
+    speaker: 阿明
+    en: "Sam, can you even cook? Don't make it horribly salty, the way I did!"
+    sx: {hanzi: "Sam，你會煮無？莫煮到死鹹，像𠊎頭擺恁樣！", pinyin: "Sam, nˇ voi zuˋ moˇ? mog zuˋ do xiˋ hamˇ, qiong ngaiˇ teuˇ baiˋ anˋ ngiongˇ!"}
+    hl: {hanzi: "Sam，你會煮無？莫煮到死鹹，像𠊎頭擺恁樣！", pinyin: "Sam, ngi voi+ zhuˊ mo? mogˋ zhuˊ doˇ siˊ ham, siongˇ ngai teu baiˊ an ngiong!"}
+  - n: 6
+    speaker: 阿姆
+    en: "The wok's very hot. Careful, now!"
+    sx: {hanzi: "這鑊仔燒燒，你愛細義，毋好凴著哦！", pinyin: "iaˋ vog eˋ seuˊ seuˊ, nˇ oi se ngi, mˇ hoˋ ben doˋ oˋ!"}
+    hl: {hanzi: "這鑊仔燒燒，你愛細義，毋好凴著哦！", pinyin: "liaˊ vogˋ er shauˋ shauˋ, ngi oiˇ seˇ ngi+, m hoˊ benˇ doˊ oˊ!"}
+  - n: 7
+    speaker: Sam
+    en: "Oil first; fry the spring onions till they smell good, then put the pork in."
+    sx: {hanzi: "先落油，蔥仔炒香，正放豬肉落去。", pinyin: "xienˊ log iuˇ, cungˊ eˋ cauˋ hiongˊ, zang biong zuˊ ngiugˋ log hi."}
+    hl: {hanzi: "先落油，蔥仔炒香，正放豬肉落去。", pinyin: "senˋ logˋ rhiu, cungˋ er cauˊ hiongˋ, zhangˇ biongˇ zhuˋ ngiug logˋ hiˇ."}
+  - n: 8
+    speaker: 阿姆
+    en: "Put a few dried shrimps in as well: it's very fragrant."
+    sx: {hanzi: "蝦米乜放兜仔落去，當香。", pinyin: "haˇ miˋ me biong deuˊ eˋ log hi, dongˊ hiongˊ."}
+    hl: {hanzi: "蝦米乜放兜仔落去，當香。", pinyin: "ha miˊ meˇ biongˇ deuˋ er logˋ hiˇ, dongˋ hiongˋ."}
+  - n: 9
+    speaker: Sam
+    en: "Now the 粄條, give it a quick stir… Mrs Liu, taste it: is the salt right?"
+    sx: {hanzi: "粄條放落去，摝摝仔……阿姆，你嘗看啊鹹淡。", pinyin: "banˋ tiauˇ biong log hi, lugˋ lugˋ eˋ … aˊ meˊ, nˇ songˇ kon a hamˇ tamˊ."}
+    hl: {hanzi: "粄條放落去，摝摝仔……阿姆，你嘗看啊鹹淡。", pinyin: "banˊ tiau biongˇ logˋ hiˇ, lug lug er … a+ meˋ, ngi shong konˇ a+ ham tamˋ."}
+  - n: 10
+    speaker: 阿姆
+    en: "Just right. You've learnt it!"
+    sx: {hanzi: "鹹淡堵堵好。你學會了！", pinyin: "hamˇ tamˊ duˋ duˋ hoˋ. nˇ hog voi leˊ!"}
+    hl: {hanzi: "鹹淡堵堵好。你學會了！", pinyin: "ham tamˋ duˊ duˊ hoˊ. ngi hogˋ voi+ leˋ!"}
+  - n: 11
+    speaker: 阿明
+    en: "(sniffing) You can smell it from far off… It does smell good."
+    sx: {hanzi: "遠遠就鼻著了……實在香。", pinyin: "ienˋ ienˋ qiu pi doˋ leˊ … siid cai hiongˊ."}
+    hl: {hanzi: "遠遠就鼻著了……實在香。", pinyin: "rhanˊ rhanˊ ciu+ pi+ doˊ leˋ … shidˋ cai+ hiongˋ."}
+  - n: 12
+    speaker: 阿婆
+    en: "(calling from the hall) Is it ready? Can we eat?"
+    sx: {hanzi: "好食飯了無？", pinyin: "hoˋ siid fan leˊ moˇ?"}
+    hl: {hanzi: "好食飯了無？", pinyin: "hoˊ shidˋ pon+ leˋ mo?"}
+  - n: 13
+    speaker: Sam
+    en: "Ready! Dinner's served!"
+    sx: {hanzi: "好了！好食飯了！", pinyin: "hoˋ leˊ! hoˋ siid fan leˊ!"}
+    hl: {hanzi: "好了！好食飯了！", pinyin: "hoˊ leˋ! hoˊ shidˋ pon+ leˋ!"}
+  - n: 14
+    speaker: 阿公
+    en: "(at the table, after the first mouthful) …Good."
+    sx: {hanzi: "……好食。", pinyin: "… hoˋ siid."}
+    hl: {hanzi: "……好食。", pinyin: "… hoˊ shidˋ."}
+  - n: 15
+    speaker: 阿婆
+    en: "Grandpa says it's good! He doesn't say that three times a year!"
+    sx: {hanzi: "阿公講好食！佢一年講無三擺！", pinyin: "aˊ gungˊ gongˋ hoˋ siid! giˇ idˋ ngienˇ gongˋ moˇ samˊ baiˋ!"}
+    hl: {hanzi: "阿公講好食！佢一年講無三擺！", pinyin: "a+ gungˋ gongˊ hoˊ shidˋ! gi rhid ngien gongˊ mo samˋ baiˊ!"}
+  - n: 16
+    speaker: 阿英
+    en: "Thank you, Sam. This is the best 粄條 I've ever had."
+    sx: {hanzi: "Sam，恁仔細。這係𠊎食過盡好食个粄條。", pinyin: "Sam, anˋ ziiˋ se. iaˋ he ngaiˇ siid go qin hoˋ siid ge banˋ tiauˇ."}
+    hl: {hanzi: "Sam，承蒙你。這係𠊎食過最好食个粄條。", pinyin: "Sam, shin mung ngi. liaˊ heˇ ngai shidˋ goˇ zuiˇ hoˊ shidˋ gaiˇ banˊ tiau."}
+  - n: 17
+    speaker: 阿明
+    en: "(muttering into his bowl) Mine was good too…"
+    sx: {hanzi: "𠊎煮个乜當好食……", pinyin: "ngaiˇ zuˋ ge me dongˊ hoˋ siid …"}
+    hl: {hanzi: "𠊎煮个乜當好食……", pinyin: "ngai zhuˊ gaiˇ meˇ dongˋ hoˊ shidˋ …"}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      摎 + object + verb + result + 來 "get the thing done (this way)": 摎豬肉切絲來 "cut the pork into strips", as in the
+      official 𠊎摎豬肉切絲來炒青菜. 摎 lauˊ (lesson 40) here takes the thing handled, like Mandarin 把: 摎面洗淨來 "wash
+      your face clean" is another official example. 絲 siiˊ "strip, thread".
+  - ref: 4
+    topic: grammar
+    text: >
+      洗淨來 "wash clean": verb + result (淨 "clean") + 來, the recipe pattern; 燻燥來 (lesson 73) was the same. 正好落鑊
+      "only then is it ready to go in the wok": 好 hoˋ + verb "so that one can…, ready to…" (以便): 愛洗淨正好食飯 "you have to
+      wash before you can eat" (official example). 豆芽 teu ngaˇ "bean sprouts".
+  - ref: 6
+    topic: grammar
+    text: >
+      An official example, almost word for word (the course leaves out 斯 "then"): 這鑊仔燒燒，你斯愛細義，毋好凴著哦！. 燒燒 "piping hot" (AA, lesson 45);
+      細義 se ngi "careful"; 凴著 ben doˋ "lean on (it) by accident"; 哦 (lesson 74) makes it a friendly warning.
+  - ref: 7
+    topic: grammar
+    text: >
+      先…，正… "first…, and only then…": 蔥仔炒香，正放豬肉落去 "fry the onions till fragrant, then put the pork in", after
+      the official 蔥仔炒香正放卵落去. 落去 log hi "in, down into (it)" after a verb of putting. 落油 "put the oil in".
+  - ref: 9
+    topic: vocab
+    text: >
+      嘗鹹淡 "taste for salt" (嘗 songˇ "taste", 鹹淡 "salty and bland" (淡, lesson 27), i.e. the seasoning): an official example has 嘗鹹淡.
+      The word lists also have 鹹淡 as the name of a dried vegetable; here it is the two adjectives.
+  - ref: 10
+    topic: grammar
+    text: >
+      堵堵好 (lesson 50) "just right": 錢愛算到堵堵好 is an official example. Don't confuse it with 堵好 "as it happens, by chance".
+  - ref: 12
+    topic: grammar
+    text: >
+      好食飯了 "dinner's ready", literally "(we) can eat now": 好 + verb again (line 4), here with 了 for the change. 好食飯了，
+      𠊎來摎大家添飯 is official.
+  - ref: 11
+    topic: vocab
+    text: >
+      鼻 pi "smell (something)": the same word as "nose" (鼻公, lesson 24), used as a verb. 遠遠就鼻著了 "you can smell it
+      from far off" follows the official 味緒實在香，遠遠就鼻著了！ In the exercises: Hailu says 炊 for 蒸 "steam" (lesson 50).
+  - ref: 15
+    topic: grammar
+    text: >
+      一年講無三擺 "doesn't say it three times a year": 無 + number + 擺, "not even… times", as in the official
+      吾哥在海外做生理，一年轉無三擺.
+  - ref: 16
+    topic: grammar
+    text: >
+      𠊎食過盡好食个粄條 "the best 粄條 I've ever had": 食過 "have eaten (in my experience)" + 盡 "most". Elsewhere 盡 is "very"
+      (lesson 8) as often as "most": here the sentence leaves no doubt.
+
+new_words:
+  - {hanzi: 絲, pinyin: "siiˊ", en: "strip, thread", hl: {hanzi: 絲, pinyin: "siiˋ"}}
+  - {hanzi: 豆芽, pinyin: "teu ngaˇ", en: "bean sprouts", hl: {hanzi: 豆芽, pinyin: "teu+ nga"}}
+  - {hanzi: 落去, pinyin: "log hi", en: "(after a verb) in, down into", hl: {hanzi: 落去, pinyin: "logˋ hiˇ"}}
+  - {hanzi: 凴, pinyin: "ben", en: "lean on", hl: {hanzi: 凴, pinyin: "benˇ"}}
+  - {hanzi: 蝦米, pinyin: "haˇ miˋ", en: "dried shrimps", hl: {hanzi: 蝦米, pinyin: "ha miˊ"}}
+  - {hanzi: 嘗, pinyin: "songˇ", en: "taste", hl: {hanzi: 嘗, pinyin: "shong"}}
+  - {hanzi: 堵好, pinyin: "duˋ hoˋ", en: "as it happens, by chance", hl: {hanzi: 堵好, pinyin: "duˊ hoˊ"}}
+  - {hanzi: 攪, pinyin: "giauˊ", en: "mix, stir", hl: {hanzi: 攪, pinyin: "giauˋ"}}
+  - {hanzi: 煮熟, pinyin: "zuˋ sug", en: "cook through", hl: {hanzi: 煮熟, pinyin: "zhuˊ shugˋ"}}
+  - {hanzi: 魚仔, pinyin: "ngˇ eˋ", en: "fish", hl: {hanzi: 魚仔, pinyin: "ng er"}}
+  - {hanzi: 生生, pinyin: "sangˊ sangˊ", en: "raw, underdone", hl: {hanzi: 生生, pinyin: "sangˋ sangˋ"}}
+  - {hanzi: 綠豆, pinyin: "liug teu", en: "mung beans", hl: {hanzi: 綠豆, pinyin: "liugˋ teu+"}}
+  - {hanzi: 鼻, pinyin: "pi", en: "smell (verb)", hl: {hanzi: 鼻, pinyin: "pi+"}}
+  - {hanzi: 蒸, pinyin: "ziinˊ", en: "steam", hl: {hanzi: 炊, pinyin: "chuiˋ"}}
+  - {hanzi: 滷, pinyin: "luˊ", en: "braise (in soy)", hl: {hanzi: 滷, pinyin: "luˋ"}}
+  - {hanzi: 米粉, pinyin: "miˋ funˋ", en: "rice vermicelli", hl: {hanzi: 米粉, pinyin: "miˊ funˊ"}}
+  - {hanzi: 煠, pinyin: "sab", en: "blanch, boil briefly", hl: {hanzi: 煠, pinyin: "sabˋ"}}
+  - {hanzi: 慶祝, pinyin: "kin zugˋ", en: "celebrate", hl: {hanzi: 慶祝, pinyin: "kinˇ zhug"}}
+  - {hanzi: 胡椒, pinyin: "fuˇ zeuˊ", en: "pepper", hl: {hanzi: 胡椒, pinyin: "fu ziauˋ"}}
+  - {hanzi: 炒肉, pinyin: "cauˋ ngiugˋ", en: "fried pork (dish)", hl: {hanzi: 炒肉, pinyin: "cauˊ ngiug"}}
+
+exercises:
+  translate:
+    - en: "That fish isn't cooked through: you can't eat it!"
+      sx: {hanzi: "該尾魚仔無煮熟，食毋得！", pinyin: "ge miˊ ngˇ eˋ moˇ zuˋ sug, siid mˇ dedˋ!"}
+      hl: {hanzi: "該尾魚仔無煮熟，食毋得！", pinyin: "gai muiˋ ng er mo zhuˊ shugˋ, shidˋ m ded!"}
+      source: kaga115
+    - en: "The beans aren't cooked: they're still raw."
+      sx: {hanzi: "這綠豆無煮熟，食起來還生生！", pinyin: "iaˋ liug teu moˇ zuˋ sug, siid hiˋ loiˇ hanˇ sangˊ sangˊ!"}
+      hl: {hanzi: "這綠豆無煮熟，食起來還生生！", pinyin: "liaˊ liugˋ teu+ mo zhuˊ shugˋ, shidˋ hiˊ loi han sangˋ sangˋ!"}
+      check: true
+    - en: "Put a little sugar and pepper in, and mix."
+      sx: {hanzi: "放兜仔糖、胡椒落去，攪攪啊。", pinyin: "biong deuˊ eˋ tongˇ, fuˇ zeuˊ log hi, giauˊ giauˊ a."}
+      hl: {hanzi: "放兜仔糖、胡椒落去，攪攪啊。", pinyin: "biongˇ deuˋ er tong, fu ziauˋ logˋ hiˇ, giauˋ giauˋ a+."}
+      check: true
+    - en: "As it happens, Mum was home, so she taught me how to cook it."
+      sx: {hanzi: "堵好阿姆在屋下，佢就教𠊎仰般煮。", pinyin: "duˋ hoˋ aˊ meˊ coiˊ vugˋ kaˊ, giˇ qiu gauˊ ngaiˇ ngiongˋ banˊ zuˋ."}
+      hl: {hanzi: "堵好阿姆在屋下，佢就教𠊎仰般煮。", pinyin: "duˊ hoˊ a+ meˋ coiˋ vug haˋ, gi ciu+ gauˋ ngai ngiongˊ banˋ zhuˊ."}
+      check: true
+    - en: "Cut the pork into strips; we'll celebrate with fried pork tonight."
+      sx: {hanzi: "摎豬肉切絲來，今暗晡炒炒肉來慶祝。", pinyin: "lauˊ zuˊ ngiugˋ qiedˋ siiˊ loiˇ, gimˊ am buˊ cauˋ cauˋ ngiugˋ loiˇ kin zugˋ."}
+      hl: {hanzi: "摎豬肉切絲來，今暗晡炒炒肉來慶祝。", pinyin: "lauˋ zhuˋ ngiug cied siiˋ loi, gimˋ amˇ buˋ cauˊ cauˊ ngiug loi kinˇ zhug."}
+      check: true
+    - en: "Mum steams fish, Grandma braises pork, and Sam blanches the sprouts and fries the vermicelli."
+      sx: {hanzi: "阿姆蒸魚仔，阿婆滷豬肉，Sam 煠豆芽、炒米粉。", pinyin: "aˊ meˊ ziinˊ ngˇ eˋ, aˊ poˇ luˊ zuˊ ngiugˋ, Sam sab teu ngaˇ, cauˋ miˋ funˋ."}
+      hl: {hanzi: "阿姆炊魚仔，阿婆滷豬肉，Sam 煠豆芽、炒米粉。", pinyin: "a+ meˋ chuiˋ ng er, a+ po luˋ zhuˋ ngiug, Sam sabˋ teu+ nga, cauˊ miˊ funˊ."}
+  fill:
+    - en: "Wash the bean sprouts clean."
+      sx: {hanzi: "豆芽愛洗___來。", pinyin: "teu ngaˇ oi seˋ ___ loiˇ.", answer_hanzi: "淨", answer: "qiang"}
+      hl: {hanzi: "豆芽愛洗___來。", pinyin: "teu+ nga oiˇ seˊ ___ loi.", answer_hanzi: "淨", answer: "ciang+"}
+    - en: "Cut the pork into strips."
+      sx: {hanzi: "___豬肉切絲來。", pinyin: "___ zuˊ ngiugˋ qiedˋ siiˊ loiˇ.", answer_hanzi: "摎", answer: "lauˊ"}
+      hl: {hanzi: "___豬肉切絲來。", pinyin: "___ zhuˋ ngiug cied siiˋ loi.", answer_hanzi: "摎", answer: "lauˋ"}
+    - en: "Dinner's ready!"
+      sx: {hanzi: "___食飯了！", pinyin: "___ siid fan leˊ!", answer_hanzi: "好", answer: "hoˋ"}
+      hl: {hanzi: "___食飯了！", pinyin: "___ shidˋ pon+ leˋ!", answer_hanzi: "好", answer: "hoˊ"}
+
+audio: []
