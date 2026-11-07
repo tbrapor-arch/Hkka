@@ -1,0 +1,185 @@
+id: 73
+title:
+  en: "The tobacco barns"
+  sx: {hanzi: "變到恁安靜", pinyin: "bien do anˋ onˊ qin"}
+  hl: {hanzi: "變到恁安靜", pinyin: "bienˇ doˇ anˊ onˋ cin+"}
+review: false
+setting: >-
+  Sunday 9 May, Mother's Day, early morning. 鍾伯 has lent them two old bicycles and rides ahead along the field roads.
+  Here and there, above the fields, stands a tall narrow building with a little roof perched on top of its roof: a
+  菸樓, a tobacco curing barn.
+names: [美濃, 鍾伯, 鍾伯姆, 阿英, 菸樓, 鍾理和]
+
+dialogue:
+  - n: 1
+    speaker: 鍾伯
+    en: "Look at that tall building over there: that's a 菸樓."
+    sx: {hanzi: "你看該棟高高个屋仔，就係菸樓。", pinyin: "nˇ kon ge dung goˊ goˊ ge vugˋ eˇ, qiu he ienˊ leuˇ."}
+    hl: {hanzi: "你看該棟高高个屋仔，就係菸樓。", pinyin: "ngi konˇ gai dungˇ goˋ goˋ gaiˇ vug er, ciu+ heˇ rhanˋ leu."}
+  - n: 2
+    speaker: Sam
+    en: "(braking hard on his bicycle) Wait for me! Ride a bit slower!"
+    sx: {hanzi: "等𠊎！腳踏車騎較慢兜仔！", pinyin: "denˋ ngaiˇ! giogˋ tab caˊ kiˇ ka man deuˊ eˋ!"}
+    hl: {hanzi: "等𠊎！腳踏車騎較慢兜仔！", pinyin: "denˊ ngai! giog tabˋ chaˋ ki haˇ man+ deuˋ er!"}
+  - n: 3
+    speaker: Sam
+    en: "A 菸樓? What was it for?"
+    sx: {hanzi: "菸樓？做麼个用个？", pinyin: "ienˊ leuˇ? zo maˋ ge iung ge?"}
+    hl: {hanzi: "菸樓？做麼个用个？", pinyin: "rhanˋ leu? zoˇ maˊ gaiˇ rhung+ gaiˇ?"}
+  - n: 4
+    speaker: 鍾伯
+    en: "In the old days 美濃 people grew tobacco. The leaves have to be dried over a fire, and that was done inside the barn."
+    sx: {hanzi: "頭擺美濃人種菸。菸葉愛用火燻燥來，就在菸樓肚燻。", pinyin: "teuˇ baiˋ mi nungˇ nginˇ zung ienˊ. ienˊ iab oi iung foˋ fun zauˊ loiˇ, qiu coiˊ ienˊ leuˇ duˋ fun."}
+    hl: {hanzi: "頭擺美濃人種菸。菸葉愛用火燻燥來，就在菸樓肚燻。", pinyin: "teu baiˊ mi nung ngin zhungˇ rhanˋ. rhanˋ rhabˋ oiˇ rhung+ foˊ funˇ zauˋ loi, ciu+ coiˋ rhanˋ leu duˊ funˇ."}
+  - n: 5
+    speaker: 阿英
+    en: "And now? Does anyone still grow tobacco?"
+    sx: {hanzi: "這下呢？還有人種菸無？", pinyin: "iaˋ ha neˇ? hanˇ iuˊ nginˇ zung ienˊ moˇ?"}
+    hl: {hanzi: "這下呢？還有人種菸無？", pinyin: "liaˊ ha+ neˇ? han rhiuˋ ngin zhungˇ rhanˋ mo?"}
+  - n: 6
+    speaker: 鍾伯
+    en: "Hardly anyone. In the old days everyone grew it; now the barns have all gone empty."
+    sx: {hanzi: "盡少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "qin seuˋ leˊ. teuˇ baiˋ tai gaˊ du zung, iaˋ ha ienˊ leuˇ du kungˊ tedˋ hi leˊ."}
+    hl: {hanzi: "最少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "zuiˇ shauˊ leˋ. teu baiˊ tai+ gaˋ du+ zhungˇ, liaˊ ha+ rhanˋ leu du+ kungˋ ted hiˇ leˋ."}
+    check: true
+  - n: 7
+    speaker: 鍾伯姆
+    en: "(catching up) The young people all go off to work elsewhere. In the countryside it's mostly old folk."
+    sx: {hanzi: "後生人都出外食頭路，鄉下大部分係老人家。", pinyin: "heu sangˊ nginˇ du cudˋ ngoi siid teuˇ lu, hiongˊ ha tai pu fun he loˋ nginˇ gaˊ."}
+    hl: {hanzi: "後生人都出外食頭路，鄉下大部分係老人家。", pinyin: "heu+ sangˋ ngin du+ chud ngoi+ shidˋ teu lu+, hiongˋ ha+ tai+ pu+ fun+ heˇ loˊ ngin gaˋ."}
+  - n: 8
+    speaker: Sam
+    en: "美濃 has become so quiet…"
+    sx: {hanzi: "美濃變到恁安靜……", pinyin: "mi nungˇ bien do anˋ onˊ qin …"}
+    hl: {hanzi: "美濃變到恁安靜……", pinyin: "mi nung bienˇ doˇ anˊ onˋ cin+ …"}
+  - n: 9
+    speaker: 鍾伯
+    en: "Quiet, yes, but prettier too. Now people come to look and take photos of the barns."
+    sx: {hanzi: "係較安靜，毋過也較靚了。這下有人專門來看菸樓、翕相。", pinyin: "he ka onˊ qin, mˇ go ia ka jiangˊ leˊ. iaˋ ha iuˊ nginˇ zonˊ munˇ loiˇ kon ienˊ leuˇ, hibˋ xiong."}
+    hl: {hanzi: "係較安靜，毋過也較靚了。這下有人專門來看菸樓、翕相。", pinyin: "heˇ haˇ onˋ cin+, m goˇ rha+ haˇ ziangˋ leˋ. liaˊ ha+ rhiuˋ ngin zhonˋ mun loi konˇ rhanˋ leu, hib siongˇ."}
+  - n: 10
+    speaker: 鍾伯
+    en: "(pointing across a field) Over that way is where 鍾理和 lived. He was a famous writer."
+    sx: {hanzi: "該片係鍾理和頭擺歇个屋仔。鍾理和先生係臺灣大名鼎鼎个文學家。", pinyin: "ge pienˋ he zungˊ liˊ foˇ teuˇ baiˋ hed ge vugˋ eˇ. zungˊ liˊ foˇ xinˊ sangˊ he toiˇ vanˇ tai miangˇ dinˋ dinˋ ge vunˇ hog gaˊ."}
+    hl: {hanzi: "該片係鍾理和頭擺歇个屋仔。鍾理和先生係臺灣大名鼎鼎个文學家。", pinyin: "gai pienˊ heˇ zhungˋ liˋ vo teu baiˊ hied gaiˇ vug er. zhungˋ liˋ vo sinˋ sangˋ heˇ toi van tai+ miang dinˊ dinˊ gaiˇ vun hogˋ gaˋ."}
+  - n: 11
+    speaker: Sam
+    en: "Was he from 美濃?"
+    sx: {hanzi: "佢係美濃人？", pinyin: "giˇ he mi nungˇ nginˇ?"}
+    hl: {hanzi: "佢係美濃人？", pinyin: "gi heˇ mi nung ngin?"}
+  - n: 12
+    speaker: 鍾伯
+    en: "He was. He wrote about our life here, the farming families' life."
+    sx: {hanzi: "係。佢寫𠊎等美濃人个生活，耕田人个生活。", pinyin: "he. giˇ xiaˋ ngaiˇ denˋ mi nungˇ nginˇ ge senˊ fad, gangˊ tienˇ nginˇ ge senˊ fad."}
+    hl: {hanzi: "係。佢寫𠊎兜美濃人个生活，耕田人个生活。", pinyin: "heˇ. gi siaˊ ngai deuˋ mi nung ngin gaiˇ senˋ fadˋ, gangˋ tien ngin gaiˇ senˋ fadˋ."}
+  - n: 13
+    speaker: 阿英
+    en: "(looking at her phone) Oh! Today's Mother's Day. I must call Mum."
+    sx: {hanzi: "啊，今晡日係母親節！𠊎愛打電話分吾姆。", pinyin: "a, gimˊ buˊ ngidˋ he muˊ qinˊ jiedˋ! ngaiˇ oi daˋ tien fa bunˊ ngaˊ meˊ."}
+    hl: {hanzi: "啊，今晡日係母親節！𠊎愛打電話分𠊎姆。", pinyin: "a+, gimˋ buˋ ngid heˇ muˋ cinˋ zied! ngai oiˇ daˊ tien+ faˇ bunˋ ngai meˋ."}
+  - n: 14
+    speaker: 阿英
+    en: "(on the phone) Mum, happy Mother's Day! …What did I buy you? I'm not telling. You'll see when I'm home!"
+    sx: {hanzi: "阿姆，母親節快樂！……買麼个東西？毋講，轉來正知！", pinyin: "aˊ meˊ, muˊ qinˊ jiedˋ kuai log! … maiˊ maˋ ge dungˊ xiˊ? mˇ gongˋ, zonˋ loiˇ zang diˊ!"}
+    hl: {hanzi: "阿姆，母親節快樂！……買麼个東西？毋講，轉來正知！", pinyin: "a+ meˋ, muˋ cinˋ zied kuaiˇ logˋ! … maiˋ maˊ gaiˇ dungˋ siˋ? m gongˊ, zhonˊ loi zhangˇ diˋ!"}
+    check: true
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      棟 dung, the classifier for buildings (該棟舊屋仔 is an official example), and 屋仔 vugˋ eˇ "house, building".
+      高高 "nice and tall": the doubled adjective of lesson 45. 菸樓 "tobacco barn" is not in the word lists; the course
+      gives it as a name.
+  - ref: 4
+    topic: culture
+    text: >
+      菸葉愛用火燻燥來 "the leaves must be dried over a fire" is an official example sentence. 燻 fun "smoke, cure with
+      smoke", 燥 (lesson 54) "dry", 燻燥來 "smoke them dry": verb + result + 來, a pattern you will meet again in lesson
+      76 (洗淨來). 種 zung "grow, plant" (lesson 45); 種 zungˋ "kind" (lesson 37) is another tone. That 美濃 was a tobacco town until
+      the late twentieth century is general knowledge, not from the data.
+  - ref: 6
+    topic: grammar
+    text: >
+      頭擺… 這下… "in the old days… now…": the two time words set up a contrast, as in the official 頭擺个人用水無像這下恁方便
+      "in the old days, water wasn't as easy to get as it is now". 空忒去 "has gone empty": adjective + 忒去, "has become
+      (and stayed)…", here with 忒 (gone) and 去 (away). The official examples have 忒去 mostly after verbs (食忒去, 倒忒去);
+      after an adjective the line is marked for checking.
+  - ref: 7
+    topic: vocab
+    text: >
+      出外 "go away (from home), go elsewhere": 出外食頭路 "go off to work": 大家共樣係出外食頭路个人 is an official
+      example. 食頭路 "have a job, work for a living". 老人家 (lesson 20) "old folk".
+  - ref: 8
+    topic: grammar
+    text: >
+      變到恁安靜 "has become so quiet": 變到 + 恁 + adjective, "has turned so…", as in the official 一轉到春尾就變到恁燒暖
+      "as soon as it's late spring it turns so warm".
+  - ref: 10
+    topic: culture
+    text: >
+      鍾理和先生係臺灣大名鼎鼎个文學家 is an official example, word for word. 大名鼎鼎 "of great renown", a four-character
+      phrase. That 鍾理和 (1915–1960) came from 美濃 and wrote about its farming life is general knowledge.
+  - ref: 14
+    topic: grammar
+    text: >
+      轉來正知 "you'll know when you're… when I'm back": 正 "only then" (lesson 24). The umbrella of lesson 72 is the
+      present, and A-in keeps the secret.
+
+new_words:
+  - {hanzi: 棟, pinyin: "dung", en: "(classifier for buildings)", hl: {hanzi: 棟, pinyin: "dungˇ"}}
+  - {hanzi: 屋仔, pinyin: "vugˋ eˇ", en: "house, building", hl: {hanzi: 屋仔, pinyin: "vug er"}}
+  - {hanzi: 燻, pinyin: "fun", en: "smoke, cure (with smoke)", hl: {hanzi: 燻, pinyin: "funˇ"}}
+  - {hanzi: 食頭路, pinyin: "siid teuˇ lu", en: "work for a living", hl: {hanzi: 食頭路, pinyin: "shidˋ teu lu+"}}
+  - {hanzi: 專門, pinyin: "zonˊ munˇ", en: "specially, on purpose", hl: {hanzi: 專門, pinyin: "zhonˋ mun"}}
+  - {hanzi: 生活, pinyin: "senˊ fad", en: "life, way of living", hl: {hanzi: 生活, pinyin: "senˋ fadˋ"}}
+  - {hanzi: 文學, pinyin: "vunˇ hog", en: "literature", hl: {hanzi: 文學, pinyin: "vun hogˋ"}}
+  - {hanzi: 大名鼎鼎, pinyin: "tai miangˇ dinˋ dinˋ", en: "very famous", hl: {hanzi: 大名鼎鼎, pinyin: "tai+ miang dinˊ dinˊ"}}
+  - {hanzi: 臺灣, pinyin: "toiˇ vanˇ", en: "Taiwan", hl: {hanzi: 臺灣, pinyin: "toi van"}}
+  - {hanzi: 耕田人, pinyin: "gangˊ tienˇ nginˇ", en: "farmer", hl: {hanzi: 耕田人, pinyin: "gangˋ tien ngin"}}
+  - {hanzi: 拆, pinyin: "cagˋ", en: "pull down, take apart", hl: {hanzi: 拆, pinyin: "cag"}}
+  - {hanzi: 煙囪, pinyin: "ienˊ cungˊ", en: "chimney", hl: {hanzi: 煙囪, pinyin: "rhanˋ cungˋ"}}
+  - {hanzi: 外, pinyin: "ngoi", en: "outside, away (出外)", hl: {hanzi: 外, pinyin: "ngoi+"}}
+  - {hanzi: 舊, pinyin: "kiu", en: "old (of things)", hl: {hanzi: 舊, pinyin: "kiu+"}}
+  - {hanzi: 火, pinyin: "foˋ", en: "fire", hl: {hanzi: 火, pinyin: "foˊ"}}
+  - {hanzi: 互相, pinyin: "fu xiongˊ", en: "each other", hl: {hanzi: 互相, pinyin: "fu+ siongˋ"}}
+  - {hanzi: 腳踏車, pinyin: "giogˋ tab caˊ", en: "bicycle", hl: {hanzi: 腳踏車, pinyin: "giog tabˋ chaˋ"}}
+  - {hanzi: 騎, pinyin: "kiˇ", en: "ride", hl: {hanzi: 騎, pinyin: "ki"}}
+  - {hanzi: 路脣, pinyin: "lu sunˇ", en: "roadside", hl: {hanzi: 路脣, pinyin: "lu+ shun"}}
+  - {hanzi: 田脣, pinyin: "tienˇ sunˇ", en: "edge of a field", hl: {hanzi: 田脣, pinyin: "tien shun"}}
+  - {hanzi: 歷史, pinyin: "lid siiˋ", en: "history", hl: {hanzi: 歷史, pinyin: "lidˋ siiˊ"}}
+
+exercises:
+  translate:
+    - en: "That old house will soon be pulled down."
+      sx: {hanzi: "該棟舊屋仔，無幾久就愛拆忒了。", pinyin: "ge dung kiu vugˋ eˇ, moˇ giˋ giuˋ qiu oi cagˋ tedˋ leˊ."}
+      hl: {hanzi: "該棟舊屋仔，無幾久就愛拆忒了。", pinyin: "gai dungˇ kiu+ vug er, mo giˊ giuˊ ciu+ oiˇ cag ted leˋ."}
+      source: kaga115
+    - en: "In the old days water wasn't as easy to get as it is now."
+      sx: {hanzi: "頭擺个人用水無像這下恁方便。", pinyin: "teuˇ baiˋ ge nginˇ iung suiˋ moˇ qiong iaˋ ha anˋ fongˊ pien."}
+      hl: {hanzi: "頭擺个人用水無像這下恁方便。", pinyin: "teu baiˊ gaiˇ ngin rhung+ shuiˊ mo siongˇ liaˊ ha+ anˊ fongˋ pien+."}
+    - en: "The barn has a tall chimney; the history of 美濃 is in these buildings."
+      sx: {hanzi: "菸樓有高高个煙囪，美濃个歷史就在這兜屋仔肚。", pinyin: "ienˊ leuˇ iuˊ goˊ goˊ ge ienˊ cungˊ, mi nungˇ ge lid siiˋ qiu coiˊ iaˋ deuˊ vugˋ eˇ duˋ."}
+      hl: {hanzi: "菸樓有高高个煙囪，美濃个歷史就在這兜屋仔肚。", pinyin: "rhanˋ leu rhiuˋ goˋ goˋ gaiˇ rhanˋ cungˋ, mi nung gaiˇ lidˋ siiˊ ciu+ coiˋ liaˊ deuˋ vug er duˊ."}
+      check: true
+    - en: "We're all people who've left home to earn a living, so we look after each other."
+      sx: {hanzi: "大家共樣係出外食頭路个人，故所互相照顧。", pinyin: "tai gaˊ kiung iong he cudˋ ngoi siid teuˇ lu ge nginˇ, gu soˋ fu xiongˊ zeu gu."}
+      hl: {hanzi: "大家共樣係出外食頭路个人，所以互相照顧。", pinyin: "tai+ gaˋ kiung+ rhong+ heˇ chud ngoi+ shidˋ teu lu+ gaiˇ ngin, soˊ rhiˋ fu+ siongˋ zhauˇ guˇ."}
+      check: true
+    - en: "The birds have eaten the leaves, and the tree has gone bare."
+      sx: {hanzi: "鳥仔摎葉仔食忒，樹仔空忒去了。", pinyin: "diauˊ eˋ lauˊ iab eˋ siid tedˋ, su eˋ kungˊ tedˋ hi leˊ."}
+      hl: {hanzi: "鳥仔摎葉仔食忒，樹仔空忒去了。", pinyin: "diauˋ er lauˋ rhabˋ er shidˋ ted, shu+ er kungˋ ted hiˇ leˋ."}
+      check: true
+    - en: "The barns stand by the roadside, at the edge of the fields."
+      sx: {hanzi: "菸樓企在路脣、田脣。", pinyin: "ienˊ leuˇ kiˊ coiˊ lu sunˇ, tienˇ sunˇ."}
+      hl: {hanzi: "菸樓企在路脣、田脣。", pinyin: "rhanˋ leu kiˋ coiˋ lu+ shun, tien shun."}
+      check: true
+  fill:
+    - en: "In the old days… now…"
+      sx: {hanzi: "___種菸，這下無人種了。", pinyin: "___ zung ienˊ, iaˋ ha moˇ nginˇ zung leˊ.", answer_hanzi: "頭擺", answer: "teuˇ baiˋ"}
+      hl: {hanzi: "___種菸，這下無人種了。", pinyin: "___ zhungˇ rhanˋ, liaˊ ha+ mo ngin zhungˇ leˋ.", answer_hanzi: "頭擺", answer: "teu baiˊ"}
+    - en: "It's become so warm!"
+      sx: {hanzi: "___恁燒暖！", pinyin: "___ anˋ seuˊ nonˊ!", answer_hanzi: "變到", answer: "bien do"}
+      hl: {hanzi: "___恁燒暖！", pinyin: "___ anˊ shauˋ nonˋ!", answer_hanzi: "變到", answer: "bienˇ doˇ"}
+
+audio: []
