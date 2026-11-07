@@ -27,55 +27,60 @@ dialogue:
     hl: {hanzi: "無要緊麼个！愛去看先生。", pinyin: "moˇ rhauˇ ginˊ maˊ gaiˇ! oiˇ hiˇ konˇ sinˋ sangˋ."}
   - n: 4
     speaker: Sam
-    en: "The 先生? A teacher?"
-    sx: {hanzi: "先生？學校个先生？", pinyin: "xinˊ sangˊ? hog gauˋ ge xinˊ sangˊ?"}
-    hl: {hanzi: "先生？學校个先生？", pinyin: "sinˋ sangˋ? hogˋ gauˊ gaiˇ sinˋ sangˋ?"}
+    en: "(proud of last week's lesson on readings) The xienˊ senˊ? A teacher?"
+    sx: {hanzi: "先生？學校个先生？", pinyin: "xienˊ senˊ? hog gauˋ ge xinˊ sangˊ?"}
+    hl: {hanzi: "先生？學校个先生？", pinyin: "senˋ senˋ? hogˋ gauˊ gaiˇ sinˋ sangˋ?"}
   - n: 5
     speaker: 阿婆
-    en: "No, the 先生 who sees to the sick: a doctor."
-    sx: {hanzi: "毋係，看病个先生。", pinyin: "mˇ he, kon piang ge xinˊ sangˊ."}
-    hl: {hanzi: "毋係，看病个先生。", pinyin: "m heˇ, konˇ piang+ gaiˇ sinˋ sangˋ."}
+    en: "It's xinˊ sangˊ, not xienˊ senˊ! And no: the 先生 who sees to the sick, a doctor."
+    sx: {hanzi: "係先生！毋係……看病个先生。", pinyin: "he xinˊ sangˊ! mˇ he … kon piang ge xinˊ sangˊ."}
+    hl: {hanzi: "係先生！毋係……看病个先生。", pinyin: "heˇ sinˋ sangˋ! m heˇ … konˇ piang+ gaiˇ sinˋ sangˋ."}
   - n: 6
     speaker: 先生
     en: "(at the clinic) Open your mouth… say 'ah'."
-    sx: {hanzi: "嘴擘開……講「啊」。", pinyin: "zoi bagˋ koiˊ … gongˋ a."}
-    hl: {hanzi: "嘴擘開……講「啊」。", pinyin: "zhoiˇ bag koiˋ … gongˊ a+."}
+    sx: {hanzi: "嘴擘開來……講「啊」。", pinyin: "zoi bagˋ koiˊ loiˇ … gongˋ a."}
+    hl: {hanzi: "嘴擘開來……講「啊」。", pinyin: "zhoiˇ bag koiˋ loi … gongˊ a+."}
   - n: 7
+    speaker: 先生
+    en: "Stick out your tongue."
+    sx: {hanzi: "舌嫲伸出來。", pinyin: "sad maˇ cunˊ cudˋ loiˇ."}
+    hl: {hanzi: "舌嫲伸出來。", pinyin: "shadˋ ma chunˋ chud loi."}
+  - n: 8
     speaker: 先生
     en: "Your throat is very red. Does it hurt?"
     sx: {hanzi: "喉嗹當紅。會痛無？", pinyin: "heuˇ lienˇ dongˊ fungˇ. voi tung moˇ?"}
     hl: {hanzi: "喉嗹當紅。會痛無？", pinyin: "heu lien dongˋ fung. voi+ tungˇ mo?"}
-  - n: 8
+  - n: 9
     speaker: Sam
     en: "It does. It hurts so much I can't eat."
     sx: {hanzi: "會痛。痛到食毋落。", pinyin: "voi tung. tung do siid mˇ log."}
     hl: {hanzi: "會痛。痛到食毋落。", pinyin: "voi+ tungˇ. tungˇ doˇ shidˋ m logˋ."}
-  - n: 9
+  - n: 10
     speaker: 先生
     en: "It's a cold, nothing serious. No need for an injection, but you have to take the medicine and rest."
-    sx: {hanzi: "係感冒，毋嚴重。毋使打針，但係愛食藥仔，愛歇睏。", pinyin: "he gamˋ mo, mˇ ngiamˇ cung. mˇ siiˋ daˋ ziimˊ, tan he oi siid iog eˋ, oi hiedˋ kun."}
-    hl: {hanzi: "係感冒，毋嚴重。毋使打針，但係愛食藥仔，愛歇睏。", pinyin: "heˇ gamˊ mo+, m ngiam chung+. m siiˊ daˊ zhimˋ, tan+ heˇ oiˇ shidˋ rhogˋ er, oiˇ hied kunˇ."}
-  - n: 10
+    sx: {hanzi: "係感冒，毋會嚴重。毋使注射，但係愛食藥仔，愛歇睏。", pinyin: "he gamˋ mo, mˇ voi ngiamˇ cung. mˇ siiˋ zu sa, tan he oi siid iog eˋ, oi hiedˋ kun."}
+    hl: {hanzi: "係感冒，毋會嚴重。毋使注射，但係愛食藥仔，愛歇睏。", pinyin: "heˇ gamˊ mo+, m voi+ ngiam chung+. m siiˊ zhuˇ sha+, tan+ heˇ oiˇ shidˋ rhogˋ er, oiˇ hied kunˇ."}
+  - n: 11
     speaker: Sam
     en: "But tomorrow I'm going hiking in the mountains…"
     sx: {hanzi: "毋過，𠊎天光日愛去蹶山……", pinyin: "mˇ go, ngaiˇ tienˊ gongˊ ngidˋ oi hi kied sanˊ …"}
     hl: {hanzi: "毋過，𠊎韶早愛去蹶山……", pinyin: "m goˇ, ngai shau zoˊ oiˇ hiˇ kiedˋ sanˋ …"}
-  - n: 11
+  - n: 12
     speaker: 先生
     en: "You certainly are not. Sleep, and drink more hot water. And careful: a cold is catching."
-    sx: {hanzi: "做毋得。睡目，滾水食加兜。注意，感冒會傳染。", pinyin: "zomˇ dedˋ. soi mugˋ, gunˋ suiˋ siid gaˊ deuˊ. zu i, gamˋ mo voi conˇ ngiam."}
+    sx: {hanzi: "做毋得。睡目，滾水食加兜。注意，感冒會傳染。", pinyin: "zo mˇ dedˋ. soi mugˋ, gunˋ suiˋ siid gaˊ deuˊ. zu i, gamˋ mo voi conˇ ngiam."}
     hl: {hanzi: "做毋得。睡目，滾水食加兜。注意，感冒會傳染。", pinyin: "zoˇ m ded. shoi+ mug, gunˊ shuiˊ shidˋ gaˋ deuˋ. zhuˇ rhiˇ, gamˊ mo+ voi+ chon ngiam+."}
-  - n: 12
+  - n: 13
     speaker: 阿婆
     en: "(three days later) Are you any better?"
     sx: {hanzi: "有較好無？", pinyin: "iuˊ ka hoˋ moˇ?"}
     hl: {hanzi: "有較好無？", pinyin: "rhiuˋ haˇ hoˊ mo?"}
-  - n: 13
+  - n: 14
     speaker: Sam
     en: "I'm better. Luckily I did what the doctor said. But… now Grandpa has a fever too!"
     sx: {hanzi: "有較好了，好得有聽先生个話。毋過……阿公乜發燒了！", pinyin: "iuˊ ka hoˋ leˊ, hoˋ dedˋ iuˊ tangˊ xinˊ sangˊ ge fa. mˇ go … aˊ gungˊ me fadˋ seuˊ leˊ!"}
     hl: {hanzi: "有較好了，好得有聽先生个話。毋過……阿公乜發燒了！", pinyin: "rhiuˋ haˇ hoˊ leˋ, hoˊ ded rhiuˋ tangˋ sinˋ sangˋ gaiˇ faˇ. m goˇ … a+ gungˋ meˇ fad shauˋ leˋ!"}
-  - n: 14
+  - n: 15
     speaker: 阿公
     en: "(from his room) No need to see the doctor!"
     sx: {hanzi: "毋使看先生！", pinyin: "mˇ siiˋ kon xinˊ sangˊ!"}
@@ -102,28 +107,34 @@ notes:
     text: >
       先生 xinˊ sangˊ is a teacher (lesson 10), and also, in Hakka, a doctor: 看先生 "see the doctor", 分先生看 "be seen
       by the doctor". Both are in the official examples, alongside 醫生. 看病 "treat the sick" (or "see a doctor").
+  - ref: 4
+    topic: grammar
+    text: >
+      Sam reaches for the learned reading of lesson 37 (先 xienˊ, 生 senˊ) and gets the everyday word wrong: 先生 is
+      always xinˊ sangˊ. Ambitious mistakes are the good kind.
   - ref: 6
     topic: vocab
     text: >
-      嘴擘開 "open your mouth": 擘開 bagˋ koiˊ is "prise open, pull apart" (擘開柑仔 "open up a tangerine"). 嘴 "mouth",
+      嘴擘開來 "open your mouth": 擘開 bagˋ koiˊ is "prise open, pull apart" (摎柑仔擘開來 "open up a tangerine"). 嘴 "mouth",
       喉嗹 "throat" (lesson 24), 舌嫲 "tongue".
-  - ref: 7
+  - ref: 8
     topic: grammar
     text: >
       會痛無？ "does it hurt?": 痛 (lesson 12); 會 + adjective asks whether a (bad) state comes about: 會痛 "it hurts", 會寒無？ "do you feel
       cold?" (an official example: 肩頭會痛無？ "do your shoulders hurt?"). 痛到食毋落 (line 8) "hurts so much I can't
       eat": V到 + result (lesson 27) with 食毋落 (lesson 38).
-  - ref: 9
+  - ref: 10
     topic: vocab
     text: >
-      感冒 "a cold, flu" is the doctor's word; at home it is 寒著 (lesson 24). 歇睏 hiedˋ kun "rest". 打針 "have an
-      injection": 打 (lesson 33) + 針 "needle".
-  - ref: 11
+      感冒 "a cold, flu" is the doctor's word; at home it is 寒著 (lesson 24). 歇睏 hiedˋ kun "rest". 注射 zu sa "an injection"
+      (愛注射食藥仔 "needs an injection and medicine", official example). 毋會嚴重 "not serious": an adjective is
+      negated with 毋會, not bare 毋.
+  - ref: 12
     topic: grammar
     text: >
       滾水食加兜 "drink a bit more hot water": 食 also covers drinking (lesson 3), and V加兜 "a bit more" (食加兜, as in
-      lesson 38). Hot water is the Taiwanese remedy for everything.
-  - ref: 12
+      lesson 38). An official example gives the same advice: 多食滾水多休息 "drink plenty of hot water and rest".
+  - ref: 13
     topic: grammar
     text: >
       有較好 "(it) has got better": 有 + adjective reports a change that has happened, here for the better: 身體有較好
@@ -137,7 +148,8 @@ new_words:
   - {hanzi: 看病, pinyin: "kon piang", en: "treat the sick; see a doctor", hl: {hanzi: 看病, pinyin: "konˇ piang+"}}
   - {hanzi: 擘開, pinyin: "bagˋ koiˊ", en: "open (by pulling apart)", hl: {hanzi: 擘開, pinyin: "bag koiˋ"}}
   - {hanzi: 感冒, pinyin: "gamˋ mo", en: "a cold, flu", hl: {hanzi: 感冒, pinyin: "gamˊ mo+"}}
-  - {hanzi: 針, pinyin: "ziimˊ", en: "needle; injection", hl: {hanzi: 針, pinyin: "zhimˋ"}}
+  - {hanzi: 生, pinyin: "senˊ", en: "(learned reading of 生, in 人生, 發生)", hl: {hanzi: 生, pinyin: "senˋ"}}
+  - {hanzi: 注射, pinyin: "zu sa", en: "injection; inject", hl: {hanzi: 注射, pinyin: "zhuˇ sha+"}}
   - {hanzi: 舌嫲, pinyin: "sad maˇ", en: "tongue", hl: {hanzi: 舌嫲, pinyin: "shadˋ ma"}}
   - {hanzi: 診所, pinyin: "ziinˊ soˋ", en: "clinic", hl: {hanzi: 診所, pinyin: "zhinˊ soˊ"}}
   - {hanzi: 掛號, pinyin: "gua ho", en: "register (at a clinic)", hl: {hanzi: 掛號, pinyin: "guaˇ ho+"}}

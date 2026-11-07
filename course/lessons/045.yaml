@@ -1,0 +1,178 @@
+id: 45
+title:
+  en: "The fields"
+  sx: {hanzi: "白白大大个蘿蔔", pinyin: "pag pag tai tai ge loˇ ped"}
+  hl: {hanzi: "白白大大个菜頭", pinyin: "pagˋ pagˋ tai+ tai+ gaiˇ coiˇ teu"}
+review: false
+setting: >-
+  Sunday morning, the day after the wedding. Everyone else is asleep. Grandpa, who went to bed at nine, is up at six
+  and wants company. The rice fields behind the house have been harvested; one corner is now full of radishes.
+names: [阿明, 阿財伯]
+
+dialogue:
+  - n: 1
+    speaker: 阿公
+    en: "A-min, Sam, come on. I'll take you to see the fields."
+    sx: {hanzi: "阿明，Sam，來，𠊎帶你兜去田項看。", pinyin: "aˊ minˇ, Sam, loiˇ, ngaiˇ dai nˇ deuˊ hi tienˇ hong kon."}
+    hl: {hanzi: "阿明，Sam，來，𠊎帶你兜去田項看。", pinyin: "a+ min, Sam, loi, ngai daiˇ ngi deuˋ hiˇ tien hong+ konˇ."}
+  - n: 2
+    speaker: 阿明
+    en: "(yawning) Grandpa, there's nothing to see in the fields in winter!"
+    sx: {hanzi: "阿公，寒天田項無麼个好看！", pinyin: "aˊ gungˊ, honˇ tienˊ tienˇ hong moˇ maˋ ge hoˋ kon!"}
+    hl: {hanzi: "阿公，冷天田項無麼个好看！", pinyin: "a+ gungˋ, langˋ tienˋ tien hong+ mo maˊ gaiˇ hoˊ konˇ!"}
+  - n: 3
+    speaker: 阿公
+    en: "The rice has been cut. Now the fields are planted with radishes."
+    sx: {hanzi: "禾仔割忒了，這下田項種蘿蔔。", pinyin: "voˇ eˋ godˋ tedˋ leˊ, iaˋ ha tienˇ hong zung loˇ ped."}
+    hl: {hanzi: "禾仔割忒了，這下田項種菜頭。", pinyin: "vo er god ted leˋ, liaˊ ha+ tien hong+ zhungˇ coiˇ teu."}
+  - n: 4
+    speaker: Sam
+    en: "What's a 蘿蔔?"
+    sx: {hanzi: "蘿蔔係麼个？", pinyin: "loˇ ped he maˋ ge?"}
+    hl: {hanzi: "菜頭係麼个？", pinyin: "coiˇ teu heˇ maˊ gaiˇ?"}
+  - n: 5
+    speaker: 阿公
+    en: "(pulling one up) This is a 蘿蔔. Big and white. At New Year we make radish cake with it."
+    sx: {hanzi: "這就係蘿蔔。白白大大。過年愛做蘿蔔粄。", pinyin: "iaˋ qiu he loˇ ped. pag pag tai tai. go ngienˇ oi zo loˇ ped banˋ."}
+    hl: {hanzi: "這就係菜頭。白白大大。過年愛做菜頭粄。", pinyin: "liaˊ ciu+ heˇ coiˇ teu. pagˋ pagˋ tai+ tai+. goˇ ngien oiˇ zoˇ coiˇ teu banˊ."}
+  - n: 6
+    speaker: 阿明
+    en: "That one's so fat. It looks like 阿財伯!"
+    sx: {hanzi: "該隻肥肥，像阿財伯！", pinyin: "ge zagˋ piˇ piˇ, qiong aˊ coiˇ bagˋ!"}
+    hl: {hanzi: "該隻肥肥，像阿財伯！", pinyin: "gai zhag pui pui, ciongˇ a+ coi bag!"}
+  - n: 7
+    speaker: Sam
+    en: "Grandpa, did you farm when you were a child?"
+    sx: {hanzi: "阿公，你細人仔个時節乜耕田無？", pinyin: "aˊ gungˊ, nˇ se nginˇ eˋ ge siiˇ jiedˋ me gangˊ tienˇ moˇ?"}
+    hl: {hanzi: "阿公，你細人仔个時節乜耕田無？", pinyin: "a+ gungˋ, ngi seˇ ngin er gaiˇ shi zied meˇ gangˋ tien mo?"}
+  - n: 8
+    speaker: 阿公
+    en: "I farmed. My family have been farmers for generations."
+    sx: {hanzi: "耕田。𠊎屋下幾下代都係耕田个。", pinyin: "gangˊ tienˇ. ngaiˇ vugˋ kaˊ giˋ ha toi du he gangˊ tienˇ ge."}
+    hl: {hanzi: "耕田。𠊎屋下幾下代都係耕田个。", pinyin: "gangˋ tien. ngai vug haˋ giˊ ha+ toi+ du+ heˇ gangˋ tien gaiˇ."}
+  - n: 9
+    speaker: 阿公
+    en: "In the old days farming was hard: you knelt in the paddy to pull the weeds by hand. Now it's all machines."
+    sx: {hanzi: "頭擺耕田當辛苦，愛跪落田肚挲草。這下用機器。", pinyin: "teuˇ baiˋ gangˊ tienˇ dongˊ xinˊ kuˋ, oi kuiˋ log tienˇ duˋ soˊ coˋ. iaˋ ha iung giˊ hi."}
+    hl: {hanzi: "頭擺耕田當辛苦，愛跪落田肚挲草。這下用機器。", pinyin: "teu baiˊ gangˋ tien dongˋ sinˋ kuˊ, oiˇ kuiˊ logˋ tien duˊ soˋ coˊ. liaˊ ha+ rhung+ giˋ hiˇ."}
+  - n: 10
+    speaker: 阿明
+    en: "If it were me, I wouldn't farm."
+    sx: {hanzi: "若係𠊎，𠊎毋愛耕田。", pinyin: "na he ngaiˇ, ngaiˇ mˇ oi gangˊ tienˇ."}
+    hl: {hanzi: "若係𠊎，𠊎毋愛耕田。", pinyin: "na+ heˇ ngai, ngai m oiˇ gangˋ tien."}
+  - n: 11
+    speaker: 阿公
+    en: "'Farmers eat by the grace of the sky.' …But as long as there are radishes and rice, that's enough."
+    sx: {hanzi: "耕田人看天食飯。……毋過有蘿蔔、有飯食，就好。", pinyin: "gangˊ tienˇ nginˇ kon tienˊ siid fan. … mˇ go iuˊ loˇ ped, iuˊ fan siid, qiu hoˋ."}
+    hl: {hanzi: "耕田人看天食飯。……毋過有菜頭、有飯食，就好。", pinyin: "gangˋ tien ngin konˇ tienˋ shidˋ pon+. … m goˇ rhiuˋ coiˇ teu, rhiuˋ pon+ shidˋ, ciu+ hoˊ."}
+  - n: 12
+    speaker: Sam
+    en: "Grandpa, can I pull one up?"
+    sx: {hanzi: "阿公，𠊎做得挷一隻無？", pinyin: "aˊ gungˊ, ngaiˇ zo dedˋ bangˊ idˋ zagˋ moˇ?"}
+    hl: {hanzi: "阿公，𠊎做得挷一隻無？", pinyin: "a+ gungˋ, ngai zoˇ ded bangˋ rhid zhag mo?"}
+  - n: 13
+    speaker: 阿公
+    en: "Pull it gently, slowly. Don't snap it."
+    sx: {hanzi: "輕輕仔、慢慢仔挷，莫挷斷。", pinyin: "kiangˊ kiangˊ eˋ, man man eˋ bangˊ, mog bangˊ tonˊ."}
+    hl: {hanzi: "輕輕仔、慢慢仔挷，莫挷斷。", pinyin: "kiangˋ kiangˋ er, man+ man+ er bangˋ, mogˋ bangˋ tonˋ."}
+  - n: 14
+    speaker: Sam
+    en: "(a crack; half a radish in his hand) …It snapped."
+    sx: {hanzi: "……斷了。", pinyin: "… tonˊ leˊ."}
+    hl: {hanzi: "……斷了。", pinyin: "… tonˋ leˋ."}
+  - n: 15
+    speaker: 阿明
+    en: "(delighted) Grandpa, can we eat the half that's left in the ground?"
+    sx: {hanzi: "阿公，田肚該半隻做得食無？", pinyin: "aˊ gungˊ, tienˇ duˋ ge ban zagˋ zo dedˋ siid moˇ?"}
+    hl: {hanzi: "阿公，田肚該半隻做得食無？", pinyin: "a+ gungˋ, tien duˊ gai banˇ zhag zoˇ ded shidˋ mo?"}
+
+notes:
+  - ref: 3
+    topic: vocab
+    text: >
+      禾仔 voˇ eˋ "the rice plant" (in the field; the grain is 穀, the cooked rice 飯). 割 godˋ "cut, reap": 割禾 "harvest the rice".
+      種 zung "plant" (verb), a different reading from 種 zungˋ "kind" (lesson 37). 蘿蔔 loˇ ped "white radish, daikon";
+      Hailu calls it 菜頭 (the official examples give both: 蘿蔔粄﹝菜頭粄﹞).
+  - ref: 5
+    topic: grammar
+    text: >
+      白白大大 "nice and white, nice and big": an adjective said twice describes how something looks, vividly: 青青
+      "lush green", 肥肥 (line 6) "plump", 圓圓 "round". With 仔 after it, AA仔 is softer, "-ish, nicely": 輕輕仔 "gently",
+      慢慢仔 (line 13) "slowly", 細細仔 "smallish". Official examples: 草青青仔, 細細仔. 蘿蔔粄 "radish cake" (Hailu 菜頭粄), one of the
+      New Year 粄 (粄 banˋ, lesson 11), with 甜粄 and 發粄.
+  - ref: 8
+    topic: grammar
+    text: >
+      耕田 gangˊ tienˇ "farm", literally "plough the fields"; 耕田个 "farmers"; 耕田人 (line 11) "farmer". 幾下代 "several
+      generations": 幾下 "several" before a classifier, 代 toi "generation".
+  - ref: 9
+    topic: culture
+    text: >
+      挲草 soˊ coˋ: kneeling in the flooded paddy and weeding by hand, the hardest job of the rice year. An official
+      example: 這下耕田全用除草劑，毋使像頭擺愛跪落田肚挲草 "now farming uses weedkiller, no need to kneel in the paddy
+      and weed by hand as in the old days". 田肚 "in the paddy": 肚 "inside".
+  - ref: 11
+    topic: culture
+    text: >
+      耕田人看天食飯 "farmers eat by the grace of the sky": a saying from the official examples (lesson 44). Another one
+      about farming: 人多好耕田，人少好過年 "many hands are good for farming, few mouths are good for New Year".
+  - ref: 12
+    topic: vocab
+    text: >
+      挷 bangˊ "pull (out)": the Hakka verb for pulling up a plant or a tooth. 挷斷 "pull and snap": verb + result, like
+      剪短 (lesson 40). 斷 tonˊ "snap, break off".
+
+new_words:
+  - {hanzi: 禾仔, pinyin: "voˇ eˋ", en: "rice plant", hl: {hanzi: 禾仔, pinyin: "vo er"}}
+  - {hanzi: 割, pinyin: "godˋ", en: "cut (with a sickle), reap", hl: {hanzi: 割, pinyin: "god"}}
+  - {hanzi: 種, pinyin: "zung", en: "plant, grow", hl: {hanzi: 種, pinyin: "zhungˇ"}}
+  - {hanzi: 蘿蔔, pinyin: "loˇ ped", en: "white radish, daikon", hl: {hanzi: 菜頭, pinyin: "coiˇ teu"}}
+  - {hanzi: 白白, pinyin: "pag pag", en: "nice and white", hl: {hanzi: 白白, pinyin: "pagˋ pagˋ"}}
+  - {hanzi: 過年, pinyin: "go ngienˇ", en: "(celebrate) the New Year", hl: {hanzi: 過年, pinyin: "goˇ ngien"}}
+  - {hanzi: 肥肥, pinyin: "piˇ piˇ", en: "plump, fat", hl: {hanzi: 肥肥, pinyin: "pui pui"}}
+  - {hanzi: 肥, pinyin: "piˇ", en: "fat", hl: {hanzi: 肥, pinyin: "pui"}}
+  - {hanzi: 瘦, pinyin: "ceu", en: "thin", hl: {hanzi: 瘦, pinyin: "seuˇ"}}
+  - {hanzi: 耕田, pinyin: "gangˊ tienˇ", en: "farm", hl: {hanzi: 耕田, pinyin: "gangˋ tien"}}
+  - {hanzi: 代, pinyin: "toi", en: "generation", hl: {hanzi: 代, pinyin: "toi+"}}
+  - {hanzi: 跪, pinyin: "kuiˋ", en: "kneel", hl: {hanzi: 跪, pinyin: "kuiˊ"}}
+  - {hanzi: 挲草, pinyin: "soˊ coˋ", en: "weed the paddy by hand", hl: {hanzi: 挲草, pinyin: "soˋ coˊ"}}
+  - {hanzi: 機器, pinyin: "giˊ hi", en: "machine", hl: {hanzi: 機器, pinyin: "giˋ hiˇ"}}
+  - {hanzi: 挷, pinyin: "bangˊ", en: "pull up, pull out", hl: {hanzi: 挷, pinyin: "bangˋ"}}
+  - {hanzi: 斷, pinyin: "tonˊ", en: "snap, break off", hl: {hanzi: 斷, pinyin: "tonˋ"}}
+  - {hanzi: 圓, pinyin: "ienˇ", en: "round", hl: {hanzi: 圓, pinyin: "rhan"}}
+  - {hanzi: 黃, pinyin: "vongˇ", en: "yellow", hl: {hanzi: 黃, pinyin: "vong"}}
+  - {hanzi: 收成, pinyin: "suˊ siinˇ", en: "harvest, crop", hl: {hanzi: 收成, pinyin: "shiuˋ shin"}}
+  - {hanzi: 像, pinyin: "qiong", en: "look like, be like", hl: {hanzi: 像, pinyin: "ciongˇ"}}
+  - {hanzi: 幾, pinyin: "giˋ", en: "several (幾下)", hl: {hanzi: 幾, pinyin: "giˊ"}}
+  - {hanzi: 泥, pinyin: "naiˇ", en: "earth, mud", hl: {hanzi: 泥, pinyin: "nai"}}
+
+exercises:
+  translate:
+    - en: "This year's harvest is good: the rice is a lovely yellow."
+      sx: {hanzi: "今年个收成當好，禾仔黃黃。", pinyin: "gimˊ ngienˇ ge suˊ siinˇ dongˊ hoˋ, voˇ eˋ vongˇ vongˇ."}
+      hl: {hanzi: "今年个收成當好，禾仔黃黃。", pinyin: "gimˋ ngien gaiˇ shiuˋ shin dongˋ hoˊ, vo er vong vong."}
+      check: true
+    - en: "The baby is round and chubby."
+      sx: {hanzi: "這細人仔圓圓肥肥。", pinyin: "iaˋ se nginˇ eˋ ienˇ ienˇ piˇ piˇ."}
+      hl: {hanzi: "這細人仔圓圓肥肥。", pinyin: "liaˊ seˇ ngin er rhan rhan pui pui."}
+    - en: "Grandpa is thin; A-min is not fat either."
+      sx: {hanzi: "阿公當瘦，阿明乜毋會肥。", pinyin: "aˊ gungˊ dongˊ ceu, aˊ minˇ me mˇ voi piˇ."}
+      hl: {hanzi: "阿公當瘦，阿明乜毋會肥。", pinyin: "a+ gungˋ dongˋ seuˇ, a+ min meˇ m voi+ pui."}
+    - en: "Sam's clothes are covered in mud."
+      sx: {hanzi: "Sam 个衫全部係泥。", pinyin: "Sam ge samˊ qionˇ pu he naiˇ."}
+      hl: {hanzi: "Sam 个衫全部係泥。", pinyin: "Sam gaiˇ samˋ cion pu+ heˇ nai."}
+    - en: "The tangerine is sourish; the sweets are nice and sweet."
+      sx: {hanzi: "柑仔酸酸，糖仔甜甜。", pinyin: "gamˊ eˋ sonˊ sonˊ, tongˇ eˋ tiamˇ tiamˇ."}
+      hl: {hanzi: "柑仔酸酸，糖仔甜甜。", pinyin: "gamˋ er sonˋ sonˋ, tong er tiam tiam."}
+  fill:
+    - en: "Pull it gently."
+      sx: {hanzi: "___挷。", pinyin: "___ bangˊ.", answer_hanzi: "輕輕仔", answer: "kiangˊ kiangˊ eˋ"}
+      hl: {hanzi: "___挷。", pinyin: "___ bangˋ.", answer_hanzi: "輕輕仔", answer: "kiangˋ kiangˋ er"}
+    - en: "What do you plant in winter?"
+      sx: {hanzi: "寒天___麼个？", pinyin: "honˇ tienˊ ___ maˋ ge?", answer_hanzi: "種", answer: "zung"}
+      hl: {hanzi: "冷天___麼个？", pinyin: "langˋ tienˋ ___ maˊ gaiˇ?", answer_hanzi: "種", answer: "zhungˇ"}
+    - en: "The fields are lush and green."
+      sx: {hanzi: "田項___。", pinyin: "tienˇ hong ___.", answer_hanzi: "青青", answer: "qiangˊ qiangˊ"}
+      hl: {hanzi: "田項___。", pinyin: "tien hong+ ___.", answer_hanzi: "青青", answer: "ciangˋ ciangˋ"}
+
+audio: []
