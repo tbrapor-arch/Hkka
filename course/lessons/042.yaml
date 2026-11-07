@@ -1,0 +1,150 @@
+id: 42
+title:
+  en: "Review 6"
+  sx: {hanzi: "你阿婆唱", pinyin: "nˇ aˊ poˇ cong"}
+  hl: {hanzi: "你阿婆唱", pinyin: "ngi a+ po chongˇ"}
+review: true
+setting: >-
+  New Year's Eve, the Western one: no fireworks in the village, only the television and a bowl of 擂茶 that Sam has
+  ground by himself. Everyone is home. Nothing new in the dialogue: everything comes from lessons 1–41.
+names: [阿明, 阿英]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Come on, everyone, have some 擂茶. Sam ground it."
+    sx: {hanzi: "來，大家食擂茶。係 Sam 擂个。", pinyin: "loiˇ, tai gaˊ siid luiˇ caˇ. he Sam luiˇ ge."}
+    hl: {hanzi: "來，大家食擂茶。係 Sam 擂个。", pinyin: "loi, tai+ gaˋ shidˋ lui ca. heˇ Sam lui gaiˇ."}
+  - n: 2
+    speaker: 阿英
+    en: "Sam did? (tasting it) It's lovely and fine!"
+    sx: {hanzi: "Sam 擂个？……當幼！", pinyin: "Sam luiˇ ge? … dongˊ iu!"}
+    hl: {hanzi: "Sam 擂个？……當幼！", pinyin: "Sam lui gaiˇ? … dongˋ rhiuˇ!"}
+  - n: 3
+    speaker: Sam
+    en: "Grandma taught me. But my back still aches."
+    sx: {hanzi: "阿婆教𠊎个。毋過𠊎个腰骨還在該痛。", pinyin: "aˊ poˇ gauˊ ngaiˇ ge. mˇ go ngaiˇ ge ieuˊ gudˋ hanˇ du ge tung."}
+    hl: {hanzi: "阿婆教𠊎个。毋過𠊎个腰骨還在該痛。", pinyin: "a+ po gauˋ ngai gaiˇ. m goˇ ngai gaiˇ rhauˋ gud han diˇ gai tungˇ."}
+  - n: 4
+    speaker: 阿公
+    en: "Young people…"
+    sx: {hanzi: "後生人……", pinyin: "heu sangˊ nginˇ …"}
+    hl: {hanzi: "後生人……", pinyin: "heu+ sangˋ ngin …"}
+  - n: 5
+    speaker: 阿明
+    en: "Sis, are you still angry?"
+    sx: {hanzi: "阿姊，你還譴無？", pinyin: "aˊ jiˋ, nˇ hanˇ kienˋ moˇ?"}
+    hl: {hanzi: "阿姊，你還閼無？", pinyin: "a+ ziˊ, ngi han ad mo?"}
+  - n: 6
+    speaker: 阿英
+    en: "Not any more. But Grandma, next time, don't find me anyone!"
+    sx: {hanzi: "毋譴了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "mˇ kienˋ leˊ. mˇ go aˊ poˇ, ha ngi baiˋ mog lauˊ ngaiˇ seu gie dui xiong!"}
+    hl: {hanzi: "毋閼了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "m ad leˋ. m goˇ a+ po, ha+ ngi+ baiˊ mogˋ lauˋ ngai shauˇ gaiˇ duiˇ siongˇ!"}
+  - n: 7
+    speaker: 阿婆
+    en: "All right, all right. Grandma won't interfere."
+    sx: {hanzi: "好，好。阿婆毋管了。", pinyin: "hoˋ, hoˋ. aˊ poˇ mˇ gonˋ leˊ."}
+    hl: {hanzi: "好，好。阿婆毋管了。", pinyin: "hoˊ, hoˊ. a+ po m gonˊ leˋ."}
+  - n: 8
+    speaker: Sam
+    en: "Grandpa, is your cold better?"
+    sx: {hanzi: "阿公，你个感冒有較好無？", pinyin: "aˊ gungˊ, nˇ ge gamˋ mo iuˊ ka hoˋ moˇ?"}
+    hl: {hanzi: "阿公，你个感冒有較好無？", pinyin: "a+ gungˋ, ngi gaiˇ gamˊ mo+ rhiuˋ haˇ hoˊ mo?"}
+  - n: 9
+    speaker: 阿婆
+    en: "He wouldn't go to the doctor, and he got better all by himself, if you please!"
+    sx: {hanzi: "佢毋去看先生，嗄自家好了！", pinyin: "giˇ mˇ hi kon xinˊ sangˊ, sa qi gaˊ hoˋ leˊ!"}
+    hl: {hanzi: "佢毋去看先生，嗄自家好了！", pinyin: "gi m hiˇ konˇ sinˋ sangˋ, saˇ cid gaˋ hoˊ leˋ!"}
+  - n: 10
+    speaker: 阿明
+    en: "Grandpa, it's the end of the year: sing us a mountain song!"
+    sx: {hanzi: "阿公，舊年愛過了，唱一條山歌！", pinyin: "aˊ gungˊ, kiu ngienˇ oi go leˊ, cong idˋ tiauˇ sanˊ goˊ!"}
+    hl: {hanzi: "阿公，舊年愛過了，唱一條山歌！", pinyin: "a+ gungˋ, kiu+ ngien oiˇ goˇ leˋ, chongˇ rhid tiau sanˋ goˋ!"}
+    check: true
+  - n: 11
+    speaker: 阿公
+    en: "Your grandmother can sing."
+    sx: {hanzi: "你阿婆唱。", pinyin: "nˇ aˊ poˇ cong."}
+    hl: {hanzi: "你阿婆唱。", pinyin: "ngi a+ po chongˇ."}
+  - n: 12
+    speaker: 阿婆
+    en: "Me? I can't sing…"
+    sx: {hanzi: "𠊎？𠊎毋會唱……", pinyin: "ngaiˇ? ngaiˇ mˇ voi cong …"}
+    hl: {hanzi: "𠊎？𠊎毋會唱……", pinyin: "ngai? ngai m voi+ chongˇ …"}
+  - n: 13
+    speaker: 阿公
+    en: "You can."
+    sx: {hanzi: "你會。", pinyin: "nˇ voi."}
+    hl: {hanzi: "你會。", pinyin: "ngi voi+."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      係 Sam 擂个 "it was Sam who ground it": 係…个 puts the doer in the spotlight (lessons 32 and 35). 擂 and 擂茶 from
+      lesson 36; 當幼 "nice and fine" too.
+  - ref: 3
+    topic: grammar
+    text: >
+      毋過 "but" (lesson 39) and 腰骨 (lesson 40). 還在該痛 "is still hurting": 在該 + verb for something going on
+      (lesson 4), here with 還 "still".
+  - ref: 6
+    topic: grammar
+    text: >
+      莫摎𠊎紹介對象 "don't introduce anyone to me": 摎 + person "for, to (someone)" (lesson 40), and the vocabulary of
+      lesson 41. 毋管了 (line 7) "won't interfere any more": 管 "mind, bother about".
+  - ref: 9
+    topic: grammar
+    text: >
+      嗄自家好了 "and then he got better on his own, of all things": Grandma's 嗄 (lesson 41) is half indignation, half
+      relief. 有較好無？ (line 8) from lesson 39.
+  - ref: 10
+    topic: vocab
+    text: >
+      舊年愛過了 "the old year is about to pass" is marked for a check: 舊年 normally means "last year", and how a Hakka
+      speaker marks 31 December is better heard than guessed.
+  - ref: 13
+    topic: culture
+    text: >
+      你會 "you can": 會 from lesson 1, in Grandpa's last word of the year. Cover the English and tell the week in your
+      own Hakka: the 擂茶, Grandpa's song, the restaurant and the bill, the doctor, the tea field, and A-in's Sunday
+      that never was.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this week: 地豆 for 番豆, 箸 for 筷仔, 閼 for 譴, 落水 for 落雨, 飯 pon+, and 摎 wherever Sixian has 同.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Have a taste: is it salty or sweet?"
+      sx: {hanzi: "你嗒看啊：係鹹个抑係甜个？", pinyin: "nˇ dab kon a: he hamˇ ge ia he tiamˇ ge?"}
+      hl: {hanzi: "你嗒看啊：係鹹个抑係甜个？", pinyin: "ngi dabˋ konˇ a+: heˇ ham gaiˇ rha+ heˇ tiam gaiˇ?"}
+    - en: "One more bowl! Sam's paying."
+      sx: {hanzi: "食加一碗添！Sam 請。", pinyin: "siid gaˊ idˋ vonˋ tiamˊ! Sam qiangˋ."}
+      hl: {hanzi: "食加一碗添！Sam 請。", pinyin: "shidˋ gaˋ rhid vonˊ tiamˋ! Sam ciangˊ."}
+    - en: "Does your throat hurt? — It does. But it's not serious."
+      sx: {hanzi: "喉嗹會痛無？——會痛。毋過毋嚴重。", pinyin: "heuˇ lienˇ voi tung moˇ? — voi tung. mˇ go mˇ ngiamˇ cung."}
+      hl: {hanzi: "喉嗹會痛無？——會痛。毋過毋嚴重。", pinyin: "heu lien voi+ tungˇ mo? — voi+ tungˇ. m goˇ m ngiam chung+."}
+    - en: "Can you give Grandpa a hand? Follow behind him."
+      sx: {hanzi: "你做得摎阿公𢯭手無？你跈等佢。", pinyin: "nˇ zo dedˋ lauˊ aˊ gungˊ ten suˋ moˇ? nˇ tenˇ denˋ giˇ."}
+      hl: {hanzi: "你做得摎阿公𢯭手無？你跈等佢。", pinyin: "ngi zoˇ ded lauˋ a+ gungˋ tenˇ shiuˊ mo? ngi ten nenˊ gi."}
+    - en: "人生 and 後生: the same character, two readings."
+      sx: {hanzi: "人生、後生：同一隻字，兩種讀法。", pinyin: "nginˇ senˊ, heu sangˊ: tungˇ idˋ zagˋ sii, liongˋ zungˋ tug fabˋ."}
+      hl: {hanzi: "人生、後生：同一隻字，兩種讀法。", pinyin: "ngin senˋ, heu+ sangˋ: tung rhid zhag sii+, liongˊ zhungˊ tugˋ fab."}
+    - en: "Sorry, I've had enough: I can't eat any more."
+      sx: {hanzi: "敗勢，𠊎食飽了，食毋落了。", pinyin: "paiˇ se, ngaiˇ siid bauˋ leˊ, siid mˇ log leˊ."}
+      hl: {hanzi: "敗勢，𠊎食飽了，食毋落了。", pinyin: "pai+ sheˇ, ngai shidˋ bauˊ leˋ, shidˋ m logˋ leˋ."}
+  fill:
+    - en: "Have a go!"
+      sx: {hanzi: "你試看___！", pinyin: "nˇ cii kon ___!", answer_hanzi: "啊", answer: "a"}
+      hl: {hanzi: "你試看___！", pinyin: "ngi chiˇ konˇ ___!", answer_hanzi: "啊", answer: "a+"}
+    - en: "I'm furious! — Don't worry."
+      sx: {hanzi: "𠊎當譴！——毋使___。", pinyin: "ngaiˇ dongˊ kienˋ! — mˇ siiˋ ___.", answer_hanzi: "煩惱", answer: "fanˇ nauˊ"}
+      hl: {hanzi: "𠊎當閼！——毋使___。", pinyin: "ngai dongˋ ad! — m siiˊ ___.", answer_hanzi: "煩惱", answer: "fan nauˋ"}
+    - en: "Put on one layer more; you're a layer short."
+      sx: {hanzi: "著___一領添，你著少一領衫。", pinyin: "zogˋ ___ idˋ liangˊ tiamˊ, nˇ zogˋ seuˋ idˋ liangˊ samˊ.", answer_hanzi: "加", answer: "gaˊ"}
+      hl: {hanzi: "著___一領添，你著少一領衫。", pinyin: "zhog ___ rhid liangˋ tiamˋ, ngi zhog shauˊ rhid liangˋ samˋ.", answer_hanzi: "加", answer: "gaˋ"}
+
+audio: []
