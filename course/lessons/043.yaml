@@ -7,14 +7,15 @@ review: false
 setting: >-
   Monday breakfast, the second week of January. Weddings crowd into the weeks before the Lunar New Year. 財伯姆, the
   neighbour of lesson 32, comes to the door holding a red envelope, and for once she is not bringing gossip.
-names: [財伯姆, 阿財伯, 阿興, 竹南, 阿英]
+names: [財伯姆, 阿財伯, 阿興, 竹南, 阿英, 劉家]
 
 dialogue:
   - n: 1
     speaker: 財伯姆
     en: "Morning, Grandma Liu! This invitation is for all of you."
-    sx: {hanzi: "阿婆，恁早！這帖仔分你兜。", pinyin: "aˊ poˇ, anˋ zoˋ! iaˋ tiabˋ eˋ bunˊ nˇ deuˊ."}
-    hl: {hanzi: "阿婆，恁早！這帖仔分你兜。", pinyin: "a+ po, anˊ zoˊ! liaˊ tiab er bunˋ ngi deuˋ."}
+    sx: {hanzi: "阿婆，恁早！這張帖仔分你兜。", pinyin: "aˊ poˇ, anˋ zoˋ! iaˋ zongˊ tiabˋ eˋ bunˊ nˇ deuˊ."}
+    hl: {hanzi: "阿婆，恁早！這張帖仔分你兜。", pinyin: "a+ po, anˊ zoˊ! liaˊ zhongˋ tiab er bunˋ ngi deuˋ."}
+    check: true
   - n: 2
     speaker: 阿婆
     en: "An invitation? Who's getting married?"
@@ -33,13 +34,13 @@ dialogue:
   - n: 5
     speaker: 財伯姆
     en: "A girl from 竹南. Her family are proper people, and she's very capable."
-    sx: {hanzi: "竹南个細妹仔。厥屋下當好，佢乜當會做事。", pinyin: "zugˋ namˇ ge se moi eˋ. giaˊ vugˋ kaˊ dongˊ hoˋ, giˇ me dongˊ voi zo se."}
-    hl: {hanzi: "竹南个細妹仔。佢屋下當好，佢乜當會做事。", pinyin: "zhug nam gaiˇ seˇ moiˇ er. gi vug haˋ dongˋ hoˊ, gi meˇ dongˋ voi+ zoˇ she+."}
+    sx: {hanzi: "竹南个細妹仔。厥外家當好，佢乜當會做事。", pinyin: "zugˋ namˇ ge se moi eˋ. giaˊ ngoi gaˊ dongˊ hoˋ, giˇ me dongˊ voi zo se."}
+    hl: {hanzi: "竹南个細妹仔。厥外家當好，佢乜當會做事。", pinyin: "zhug nam gaiˇ seˇ moiˇ er. gia ngoi+ gaˋ dongˋ hoˊ, gi meˇ dongˋ voi+ zoˇ she+."}
   - n: 6
     speaker: 阿婆
-    en: "(with a sigh) A-hin is a year younger than A-in, and he's already taking a wife…"
-    sx: {hanzi: "阿興比阿英還細一歲，就討餔娘了……", pinyin: "aˊ hinˊ biˋ aˊ inˊ hanˇ se idˋ se, qiu toˋ buˊ ngiongˇ leˊ …"}
-    hl: {hanzi: "阿興比阿英還細一歲，就討餔娘了……", pinyin: "a+ hinˋ biˊ a+ rhinˋ han seˇ rhid soiˇ, ciu+ toˊ buˋ ngiong leˋ …"}
+    en: "(with a sigh) A-hin is a year younger than A-in, and he's already taking a wife… And A-in, at her age, is still so choosy!"
+    sx: {hanzi: "阿興比阿英還細一歲，就討餔娘了……阿英年紀恁大，還恁會擇！", pinyin: "aˊ hinˊ biˋ aˊ inˊ hanˇ se idˋ se, qiu toˋ buˊ ngiongˇ leˊ … aˊ inˊ ngienˇ giˋ anˋ tai, hanˇ anˋ voi tog!"}
+    hl: {hanzi: "阿興比阿英還細一歲，就討餔娘了……阿英年紀恁大，還恁會擇！", pinyin: "a+ hinˋ biˊ a+ rhinˋ han seˇ rhid soiˇ, ciu+ toˊ buˋ ngiong leˋ … a+ rhinˋ ngien giˊ anˊ tai+, han anˊ voi+ togˋ!"}
   - n: 7
     speaker: Sam
     en: "(to A-min) What does 討餔娘 mean?"
@@ -67,20 +68,31 @@ dialogue:
     hl: {hanzi: "鄰舍就係親戚！三十桌，人多當鬧熱。", pinyin: "lin shaˇ ciu+ heˇ cinˋ cid! samˋ shibˋ zog, ngin doˋ dongˋ nau+ ngiedˋ."}
   - n: 12
     speaker: 阿婆
+    en: "Thirty tables! Are you doing the cooking yourselves?"
+    sx: {hanzi: "三十桌！自家辦桌？", pinyin: "samˊ siib zogˋ! qi gaˊ pan zogˋ?"}
+    hl: {hanzi: "三十桌！自家辦桌？", pinyin: "samˋ shibˋ zog! cid gaˋ pan+ zog?"}
+  - n: 13
+    speaker: 財伯姆
+    en: "No, we've got caterers in. And the groom's uncle and his wife will come and help."
+    sx: {hanzi: "毋係，請人來辦桌。新娘公个阿叔同阿嫂乜會來𢯭手。", pinyin: "mˇ he, qiangˋ nginˇ loiˇ pan zogˋ. xinˊ ngiongˇ gungˊ ge aˊ sugˋ tungˇ aˊ soˋ me voi loiˇ ten suˋ."}
+    hl: {hanzi: "毋係，請人來辦桌。新娘公个阿叔摎阿嫂乜會來𢯭手。", pinyin: "m heˇ, ciangˊ ngin loi pan+ zog. sinˋ ngiong gungˋ gaiˇ a+ shug lauˋ a+ soˊ meˇ voi+ loi tenˇ shiuˊ."}
+  - n: 14
+    speaker: 阿婆
     en: "All right, we'll definitely come."
     sx: {hanzi: "好，𠊎兜定著去。", pinyin: "hoˋ, ngaiˇ deuˊ tin cog hi."}
     hl: {hanzi: "好，𠊎兜定著去。", pinyin: "hoˊ, ngai deuˋ tin+ chogˋ hiˇ."}
-  - n: 13
+  - n: 15
     speaker: 阿婆
-    en: "(when she has gone) Sam, if you go to a wedding banquet, you have to give a red envelope."
-    sx: {hanzi: "Sam，若係去食酒，愛包紅包。", pinyin: "Sam, na he hi siid jiuˋ, oi bauˊ fungˇ bauˊ."}
-    hl: {hanzi: "Sam，若係去食酒，愛包紅包。", pinyin: "Sam, na+ heˇ hiˇ shidˋ ziuˊ, oiˇ bauˋ fung bauˋ."}
-  - n: 14
+    en: "(to Sam, when she has gone) When people have a happy event, you have to give a red envelope at the banquet."
+    sx: {hanzi: "人家做好事，食酒定著愛包紅包。", pinyin: "nginˇ gaˊ zo hoˋ sii, siid jiuˋ tin cog oi bauˊ fungˇ bauˊ."}
+    hl: {hanzi: "人家做好事，食酒定著愛包紅包。", pinyin: "ngin gaˋ zoˇ hoˊ sii+, shidˋ ziuˊ tin+ chogˋ oiˇ bauˋ fung bauˋ."}
+    source: kaga115
+  - n: 16
     speaker: Sam
     en: "A red envelope? How much do I put in?"
     sx: {hanzi: "紅包？包幾多？", pinyin: "fungˇ bauˊ? bauˊ giˋ doˊ?"}
     hl: {hanzi: "紅包？包幾多？", pinyin: "fung bauˋ? bauˋ giˊ doˋ?"}
-  - n: 15
+  - n: 17
     speaker: 阿婆
     en: "You're a guest from abroad: twelve hundred will do. Grandma will add some."
     sx: {hanzi: "你係外國人客，包一千二就好。阿婆會摎你加。", pinyin: "nˇ he ngoi guedˋ nginˇ hagˋ, bauˊ idˋ qienˊ ngi qiu hoˋ. aˊ poˇ voi lauˊ nˇ gaˊ."}
@@ -92,7 +104,9 @@ notes:
     topic: culture
     text: >
       帖仔 tiabˋ eˋ "invitation": the red card a family sends round for a wedding (結婚請帖 in writing). An official
-      example: 𠊎昨晡日收著高中同學个帖 "yesterday I got an invitation from a high-school classmate".
+      example: 𠊎昨晡日收著高中同學个帖 "yesterday I got an invitation from a high-school classmate". 這張帖仔: a
+      demonstrative takes a classifier, and 張 counts cards; the exact phrase has no official example, so the line is
+      marked. Another attested way to invite: 行帖分 (將來你討餔娘該下愛記得行帖分𠊎).
   - ref: 3
     topic: grammar
     text: >
@@ -102,7 +116,8 @@ notes:
     topic: grammar
     text: >
       阿興比阿英還細一歲 "A-hin is a year younger than A-in": A + 比 + B + adjective + amount, as in Mandarin, with 細
-      "small, young" (lesson 17). Grandma is counting.
+      "small, young" (lesson 17). Grandma is counting. 年紀恁大 "so old (already)": 年紀 "age". 會擇 "choosy", literally
+      "good at picking": 擇 tog "pick, choose".
   - ref: 8
     topic: vocab
     text: >
@@ -113,28 +128,43 @@ notes:
     topic: grammar
     text: >
       係講 he gongˋ "if": 係講你有閒 "if you're free". It does the same job as 若係 (lesson 32, and line 13): both go at the
-      head of the "if" clause, and the result can follow with 就 "then". An official example: 係講有著大獎，佢一定會請大家
+      head of the "if" clause, and the result can follow with 就 "then". An official example: 係講有著著大獎，佢一定會請大家吃點紅
       "if he wins the big prize, he'll certainly treat everyone".
+  - ref: 5
+    topic: vocab
+    text: >
+      外家 ngoi gaˊ "a married woman's own family": here the bride's. 轉外家 "go back to one's parents' home" is what a
+      wife does on 年初二 (official example: 年初二轉外家，愛早點出門正好). 厥外家 "her family": 厥 (lesson 2) in both accents.
   - ref: 11
     topic: vocab
     text: >
       親戚 qinˊ qidˋ "relatives". 鬧熱 (lesson 23) "lively, bustling": the Hakka word turns the Mandarin 熱鬧 round, like
       紹介 (lesson 41). 桌 "table" (lesson 33) counts the guests at a banquet: 三十桌 "thirty tables", some three hundred people.
-  - ref: 12
+  - ref: 13
+    topic: vocab
+    text: >
+      辦桌 pan zogˋ "cater a banquet": 辦 "arrange" + 桌 "table". Official examples: 請人來辦桌，開百零桌 "got caterers in and
+      laid a hundred-odd tables", and 係講自家辦桌…盡麻煩 "doing it yourself is a lot of trouble". 阿叔 "uncle (father's
+      younger brother)", 阿嫂 "elder brother's wife"; 新娘公 "the groom".
+  - ref: 14
     topic: grammar
     text: >
       定著 tin cog "definitely, for sure": the everyday Hakka word; 一定 is the one shared with Mandarin. 定著愛 "must
       certainly".
-  - ref: 13
+  - ref: 15
     topic: culture
     text: >
-      包紅包 "give a red envelope": 包 "wrap" + 紅包 "red envelope (of money)". At a wedding the envelope is handed in at
-      the door, and someone writes down the sum. Grandma's figure for Sam (line 15) and her 會摎你加 "will add to it for
-      you" are a family arrangement; the line is marked for checking.
+      An official sentence, word for word: 人家做好事，食酒定著愛包紅包 "when people have a happy event, you must give a
+      red envelope at the banquet". 做好事 "have a happy event (a wedding)"; 包紅包 "give a red envelope": 包 "wrap" +
+      紅包. The sum is written down, as another example says: 係有收著禮金，就愛落名到禮簿項 "if you receive a gift of
+      money, you must enter the name in the gift book". The amount Grandma names (line 17) comes from general
+      knowledge, not from the data, and her 會摎你加 "will add to it for you" is a family arrangement; the line is
+      marked for checking.
   - ref: 0
     topic: hailu
     text: >
-      Hailu: 吾孫仔 is 𠊎个孫仔 (Hailu uses 吾 less than Sixian), 厥屋下 is 佢屋下; 餔娘 buˋ ngiong, 定著 tin+ chogˋ.
+      Hailu: 吾孫仔 is 𠊎个孫仔 (Hailu uses 吾 less than Sixian); 厥 gia is the same (厥外家); 餔娘 buˋ ngiong, 定著
+      tin+ chogˋ.
 
 new_words:
   - {hanzi: 帖, pinyin: "tiabˋ", en: "invitation card (帖仔)", hl: {hanzi: 帖, pinyin: "tiab"}}
@@ -155,13 +185,17 @@ new_words:
   - {hanzi: 辦, pinyin: "pan", en: "arrange, hold (an event)", hl: {hanzi: 辦, pinyin: "pan+"}}
   - {hanzi: 外家, pinyin: "ngoi gaˊ", en: "a married woman's own family", hl: {hanzi: 外家, pinyin: "ngoi+ gaˋ"}}
   - {hanzi: 阿舅, pinyin: "aˊ kiuˊ", en: "uncle (mother's brother)", hl: {hanzi: 阿舅, pinyin: "a+ kiuˋ"}}
+  - {hanzi: 家, pinyin: "gaˊ", en: "family, household (人家 people, others)", hl: {hanzi: 家, pinyin: "gaˋ"}}
   - {hanzi: 酒席, pinyin: "jiuˋ xid", en: "banquet (the meal)", hl: {hanzi: 酒席, pinyin: "ziuˊ sidˋ"}}
 
 exercises:
   translate:
-    - en: "My uncle is taking a wife; his in-laws are from 竹南."
-      sx: {hanzi: "吾阿叔愛討餔娘，親家係竹南人。", pinyin: "ngaˊ aˊ sugˋ oi toˋ buˊ ngiongˇ, qinˊ gaˊ he zugˋ namˇ nginˇ."}
-      hl: {hanzi: "𠊎阿叔愛討餔娘，親家係竹南人。", pinyin: "ngai a+ shug oiˇ toˊ buˋ ngiong, cinˋ gaˋ heˇ zhug nam ngin."}
+    - en: "My uncle is taking a wife; the bride's family is from 竹南."
+      sx: {hanzi: "吾阿叔愛討餔娘，新娘个外家係竹南人。", pinyin: "ngaˊ aˊ sugˋ oi toˋ buˊ ngiongˇ, xinˊ ngiongˇ ge ngoi gaˊ he zugˋ namˇ nginˇ."}
+      hl: {hanzi: "𠊎阿叔愛討餔娘，新娘个外家係竹南人。", pinyin: "ngai a+ shug oiˇ toˊ buˋ ngiong, sinˋ ngiong gaiˇ ngoi+ gaˋ heˇ zhug nam ngin."}
+    - en: "A-tsai's family and the Lius are neighbours, not in-laws."
+      sx: {hanzi: "阿財伯屋下同劉家係鄰舍，毋係親家。", pinyin: "aˊ coiˇ bagˋ vugˋ kaˊ tungˇ liuˇ gaˊ he linˇ sa, mˇ he qinˊ gaˊ."}
+      hl: {hanzi: "阿財伯屋下摎劉家係鄰舍，毋係親家。", pinyin: "a+ coi bag vug haˋ lauˋ liu gaˋ heˇ lin shaˇ, m heˇ cinˋ gaˋ."}
     - en: "If it rains, the banquet will be held indoors."
       sx: {hanzi: "係講落雨，酒席就在屋肚辦。", pinyin: "he gongˋ log iˋ, jiuˋ xid qiu coiˊ vugˋ duˋ pan."}
       hl: {hanzi: "係講落水，酒席就在屋肚辦。", pinyin: "heˇ gongˊ logˋ shuiˊ, ziuˊ sidˋ ciu+ coiˋ vug duˊ pan+."}
@@ -174,10 +208,10 @@ exercises:
       hl: {hanzi: "新娘公个阿嫂請人辦桌。", pinyin: "sinˋ ngiong gungˋ gaiˇ a+ soˊ ciangˊ ngin pan+ zog."}
     - en: "Her husband certainly will come."
       sx: {hanzi: "厥老公一定會來。", pinyin: "giaˊ loˋ gungˊ idˋ tin voi loiˇ."}
-      hl: {hanzi: "佢个老公一定會來。", pinyin: "gi gaiˇ loˊ gungˋ rhid tin+ voi+ loi."}
+      hl: {hanzi: "厥老公一定會來。", pinyin: "gia loˊ gungˋ rhid tin+ voi+ loi."}
     - en: "The bride's family is in 竹南; her uncle (mother's brother) will come too."
       sx: {hanzi: "新娘个外家在竹南，厥阿舅乜會來。", pinyin: "xinˊ ngiongˇ ge ngoi gaˊ coiˊ zugˋ namˇ, giaˊ aˊ kiuˊ me voi loiˇ."}
-      hl: {hanzi: "新娘个外家在竹南，佢个阿舅乜會來。", pinyin: "sinˋ ngiong gaiˇ ngoi+ gaˋ coiˋ zhug nam, gi gaiˇ a+ kiuˋ meˇ voi+ loi."}
+      hl: {hanzi: "新娘个外家在竹南，厥阿舅乜會來。", pinyin: "sinˋ ngiong gaiˇ ngoi+ gaˋ coiˋ zhug nam, gia a+ kiuˋ meˇ voi+ loi."}
   fill:
     - en: "If you're free, come."
       sx: {hanzi: "___你有閒，就來。", pinyin: "___ nˇ iuˊ hanˇ, qiu loiˇ.", answer_hanzi: "係講", answer: "he gongˋ"}

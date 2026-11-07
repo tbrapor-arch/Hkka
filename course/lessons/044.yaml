@@ -42,21 +42,19 @@ dialogue:
     hl: {hanzi: "新娘公、新娘愛逐張桌去摎人客敬酒。杯仔拿等！", pinyin: "sinˋ ngiong gungˋ, sinˋ ngiong oiˇ dag zhongˋ zog hiˇ lauˋ ngin hag ginˇ ziuˊ. buiˋ er naˋ denˊ!"}
   - n: 7
     speaker: 阿興
-    en: "(the groom, red in the face, raising his glass) Thank you all for coming! Bottoms up!"
-    sx: {hanzi: "恁仔細大家來！乾杯！", pinyin: "anˋ ziiˋ se tai gaˊ loiˇ! gonˊ biˊ!"}
-    hl: {hanzi: "承蒙大家來！乾杯！", pinyin: "shin mung tai+ gaˋ loi! gonˋ buiˋ!"}
+    en: "(the groom, red in the face, raising his glass) Thank you all for coming! Thank you! Bottoms up!"
+    sx: {hanzi: "感謝大家來！恁仔細！乾杯！", pinyin: "gamˋ qia tai gaˊ loiˇ! anˋ ziiˋ se! gonˊ biˊ!"}
+    hl: {hanzi: "感謝大家來！承蒙你兜！乾杯！", pinyin: "gamˊ cia+ tai+ gaˋ loi! shin mung ngi deuˋ! gonˋ buiˋ!"}
   - n: 8
     speaker: 阿婆
-    en: "Congratulations! May the two of you be happy together for a hundred years."
-    sx: {hanzi: "恭喜，恭喜！祝你兩儕百年好合。", pinyin: "giungˊ hiˋ, giungˊ hiˋ! zugˋ nˇ liongˋ saˇ bagˋ ngienˇ hoˋ hab."}
-    hl: {hanzi: "恭喜，恭喜！祝你兩儕百年好合。", pinyin: "giungˋ hiˊ, giungˋ hiˊ! zhug ngi liongˊ sa bag ngien hoˊ habˋ."}
-    check: true
+    en: "Congratulations! May you, husband and wife, be happy together for a hundred years."
+    sx: {hanzi: "恭喜，恭喜！祝你夫妻百年好合。", pinyin: "giungˊ hiˋ, giungˊ hiˋ! zugˋ nˇ fuˊ qiˊ bagˋ ngienˇ hoˋ hab."}
+    hl: {hanzi: "恭喜，恭喜！祝你夫妻百年好合。", pinyin: "giungˋ hiˊ, giungˋ hiˊ! zhug ngi fuˋ ciˋ bag ngien hoˊ habˋ."}
   - n: 9
     speaker: 財伯姆
-    en: "(looking from A-in to Sam and back) Grandma Liu, when do we get to drink at your house?"
-    sx: {hanzi: "劉阿婆，幾時愛食你屋下个酒？", pinyin: "liuˇ aˊ poˇ, giˋ siiˇ oi siid nˇ vugˋ kaˊ ge jiuˋ?"}
-    hl: {hanzi: "劉阿婆，幾時愛食你屋下个酒？", pinyin: "liu a+ po, giˊ shi oiˇ shidˋ ngi vug haˋ gaiˇ ziuˊ?"}
-    check: true
+    en: "(looking from A-in to Sam and back) Grandma Liu, when is your A-in getting married? Remember to invite me to the banquet!"
+    sx: {hanzi: "劉阿婆，你兜阿英哪久愛嫁？記得請𠊎食酒！", pinyin: "liuˇ aˊ poˇ, nˇ deuˊ aˊ inˊ nai giuˋ oi ga? gi dedˋ qiangˋ ngaiˇ siid jiuˋ!"}
+    hl: {hanzi: "劉阿婆，你兜阿英哪久愛嫁？記得請𠊎食酒！", pinyin: "liu a+ po, ngi deuˋ a+ rhinˋ nai+ giuˊ oiˇ gaˇ? giˇ ded ciangˊ ngai shidˋ ziuˊ!"}
   - n: 10
     speaker: 阿婆
     en: "(glancing at A-in, then firmly at her bowl) Grandma isn't interfering any more."
@@ -88,8 +86,7 @@ notes:
     topic: grammar
     text: >
       恁久無看著你！ "long time no see!": the greeting of lesson 22, now with 你 at the end, as in the official examples
-      (恁久無看著你，前暫仔你去哪？). 阿珠 is from the bride's side; at a village wedding the two families meet old
-      acquaintances at every table.
+      (恁久無看著你，前暫仔你去哪？). 阿珠 is from the bride's side.
   - ref: 4
     topic: culture
     text: >
@@ -102,24 +99,31 @@ notes:
       敬酒 gin jiuˋ "toast (someone)": 摎人客敬酒 "toast the guests", with 摎 (lesson 40) for the person. 新郎新娘愛逐張桌
       去摎人客敬酒 is the official example this line follows. 杯仔 "glass, cup"; 乾杯 "bottoms up". 逐張桌 "every table":
       張 is the classifier for tables.
+  - ref: 7
+    topic: vocab
+    text: >
+      恁仔細 stands alone, as a thank-you of its own: the groom says what he is thanking for with 感謝 gamˋ qia
+      ("感謝大家來" "thank you all for coming"), then 恁仔細！ The official examples work the same way: 恁仔細（多謝），送恁多
+      東西分𠊎. Hailu 承蒙 can take the person: 承蒙你兜.
   - ref: 8
     topic: culture
     text: >
-      恭喜 giungˊ hiˋ "congratulations", said twice. 祝 "wish (someone something)" + 百年好合 "a hundred years of harmony",
-      the wedding formula; an official example has the longer couplet 夫妻和合百年好. Marked for checking: wedding
-      wishes vary.
+      恭喜 giungˊ hiˋ "congratulations", said twice. 祝你夫妻百年好合 "may you, husband and wife, have a hundred years of
+      harmony" is the official wedding wish (in full: 祝你夫妻百年好合，五世其昌). 祝 "wish (someone something)", 夫妻
+      fuˊ qiˊ "husband and wife".
   - ref: 9
     topic: culture
     text: >
-      幾時愛食你屋下个酒？ "when do we drink at your house?" is the village way of asking when your child will marry.
-      Marked for checking as a set phrase. Grandma keeps the promise of lesson 42.
+      哪久愛嫁？記得請𠊎食酒 "when is she getting married? remember to invite me to the banquet": an official example asks
+      the same of a son (若倈仔哪久愛討餔娘？記得請𠊎食酒). 哪久 "when". Grandma keeps the promise of lesson 42.
   - ref: 11
     topic: culture
     text: >
       師傅話 siiˊ fu fa: a two-part saying, like 戴等笠嫲唚嘴 "kissing with conical hats on". You say the first half and the
       listener supplies the meaning, here 差得遠 caˊ dedˋ ienˋ "a long way off" (an official example explains this one).
       Grandpa means A-in and Sam, or perhaps A-in and marriage in general. He does not say which. 唚 jimˊ "kiss"; 唚毋著
-      "can't manage to kiss": V毋著 is "try and fail" (lesson 47 has more).
+      "can't manage to kiss": after a verb, 毋著 is mˇ doˋ "not manage to" (著 doˋ, lesson 33). Don't confuse it with 毋著
+      mˇ cog "wrong" (lesson 47): same characters, different reading.
   - ref: 14
     topic: vocab
     text: >
@@ -137,7 +141,7 @@ new_words:
   - {hanzi: 打扮, pinyin: "daˋ ban", en: "dress up", hl: {hanzi: 打扮, pinyin: "daˊ banˇ"}}
   - {hanzi: 分, pinyin: "funˊ", en: "part, tenth", hl: {hanzi: 分, pinyin: "funˋ"}}
   - {hanzi: 敬酒, pinyin: "gin jiuˋ", en: "drink a toast to", hl: {hanzi: 敬酒, pinyin: "ginˇ ziuˊ"}}
-  - {hanzi: 酒, pinyin: "jiuˋ", en: "alcohol, wine", hl: {hanzi: 酒, pinyin: "ziuˊ"}}
+  - {hanzi: 哪, pinyin: "nai", en: "which (哪久 when, 哪位 where)", hl: {hanzi: 哪, pinyin: "nai+"}}
   - {hanzi: 乾杯, pinyin: "gonˊ biˊ", en: "bottoms up, cheers", hl: {hanzi: 乾杯, pinyin: "gonˋ buiˋ"}}
   - {hanzi: 恭喜, pinyin: "giungˊ hiˋ", en: "congratulations", hl: {hanzi: 恭喜, pinyin: "giungˋ hiˊ"}}
   - {hanzi: 祝, pinyin: "zugˋ", en: "wish (someone something)", hl: {hanzi: 祝, pinyin: "zhug"}}
@@ -147,9 +151,10 @@ new_words:
   - {hanzi: 祝福, pinyin: "zugˋ fugˋ", en: "blessing; wish well", hl: {hanzi: 祝福, pinyin: "zhug fug"}}
   - {hanzi: 派頭, pinyin: "pai teuˇ", en: "smart, stylish", hl: {hanzi: 派頭, pinyin: "paiˇ teu"}}
   - {hanzi: 新人, pinyin: "xinˊ nginˇ", en: "the newly-weds", hl: {hanzi: 新人, pinyin: "sinˋ ngin"}}
-  - {hanzi: 家, pinyin: "gaˊ", en: "home, family (in set phrases)", hl: {hanzi: 家, pinyin: "gaˋ"}}
   - {hanzi: 合, pinyin: "hab", en: "join, be in harmony", hl: {hanzi: 合, pinyin: "habˋ"}}
   - {hanzi: 逐, pinyin: "dagˋ", en: "every (逐張, 逐日)", hl: {hanzi: 逐, pinyin: "dag"}}
+  - {hanzi: 感謝, pinyin: "gamˋ qia", en: "thank (for something)", hl: {hanzi: 感謝, pinyin: "gamˊ cia+"}}
+  - {hanzi: 夫妻, pinyin: "fuˊ qiˊ", en: "husband and wife", hl: {hanzi: 夫妻, pinyin: "fuˋ ciˋ"}}
   - {hanzi: 半朝, pinyin: "ban zeuˊ", en: "half a morning", hl: {hanzi: 半朝, pinyin: "banˇ zhauˋ"}}
 
 exercises:
@@ -160,15 +165,15 @@ exercises:
     - en: "The groom looks very smart today."
       sx: {hanzi: "新娘公今晡日當派頭。", pinyin: "xinˊ ngiongˇ gungˊ gimˊ buˊ ngidˋ dongˊ pai teuˇ."}
       hl: {hanzi: "新娘公今晡日當派頭。", pinyin: "sinˋ ngiong gungˋ gimˋ buˋ ngid dongˋ paiˇ teu."}
-    - en: "A saying: 'A thousand days at home are good; half a morning away is hard.'"
-      sx: {hanzi: "俗語講：「在家千日好，出門半朝難。」", pinyin: "xiug ngiˊ gongˋ: coiˊ gaˊ qienˊ ngidˋ hoˋ, cudˋ munˇ ban zeuˊ nanˇ."}
-      hl: {hanzi: "俗語講：「在家千日好，出門半朝難。」", pinyin: "siugˋ ngiˋ gongˊ: coiˋ gaˋ cienˋ ngid hoˊ, chud mun banˇ zhauˋ nan."}
+    - en: "The old folk say: 'A thousand days at home are good; half a morning away is hard.'"
+      sx: {hanzi: "老古人言：「在家千日好，出門半朝難。」", pinyin: "loˋ guˋ nginˇ ngienˇ: coiˊ gaˊ qienˊ ngidˋ hoˋ, cudˋ munˇ ban zeuˊ nanˇ."}
+      hl: {hanzi: "老古人言：「在家千日好，出門半朝難。」", pinyin: "loˊ guˊ ngin ngien: coiˋ gaˋ cienˋ ngid hoˊ, chud mun banˇ zhauˋ nan."}
     - en: "Grandpa doesn't drink alcohol; he drinks tea."
       sx: {hanzi: "阿公毋食酒，佢食茶。", pinyin: "aˊ gungˊ mˇ siid jiuˋ, giˇ siid caˇ."}
       hl: {hanzi: "阿公毋食酒，佢食茶。", pinyin: "a+ gungˋ m shidˋ ziuˊ, gi shidˋ ca."}
-    - en: "We wish them well; that's an old saying, not mine."
-      sx: {hanzi: "𠊎兜祝福佢兜。該係老古人言，毋係𠊎講个。", pinyin: "ngaiˇ deuˊ zugˋ fugˋ giˇ deuˊ. ge he loˋ guˋ nginˇ ngienˇ, mˇ he ngaiˇ gongˋ ge."}
-      hl: {hanzi: "𠊎兜祝福佢兜。該係老古人言，毋係𠊎講个。", pinyin: "ngai deuˋ zhug fug gi deuˋ. gai heˇ loˊ guˊ ngin ngien, m heˇ ngai gongˊ gaiˇ."}
+    - en: "Everyone gives the newly-weds their blessing: a hundred years of harmony!"
+      sx: {hanzi: "大家祝福新人：百年好合！", pinyin: "tai gaˊ zugˋ fugˋ xinˊ nginˇ: bagˋ ngienˇ hoˋ hab!"}
+      hl: {hanzi: "大家祝福新人：百年好合！", pinyin: "tai+ gaˋ zhug fug sinˋ ngin: bag ngien hoˊ habˋ!"}
   fill:
     - en: "Long time no see!"
       sx: {hanzi: "___無看著你！", pinyin: "___ moˇ kon doˋ nˇ!", answer_hanzi: "恁久", answer: "anˋ giuˋ"}
