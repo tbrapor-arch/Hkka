@@ -12,7 +12,7 @@ dialogue:
 - n: 1
   speaker: 阿舅
   en: Sam, you made it! 阿傑's so nervous his hands are shaking.
-  sx: {hanzi: Sam，你來吔！阿傑緊張到手都會顫。, pinyin: 'Sam, nˇ loiˇ leˊ! aˊ kied ginˋ zongˊ do suˋ du voi zunˊ.'}
+  sx: {hanzi: Sam，你來吔！阿傑緊張到手都會顫。, pinyin: 'Sam, nˇ loiˇ leˊ! aˊ kiedˋ ginˋ zongˊ do suˋ du voi zunˊ.'}
 - n: 2
   speaker: 阿傑
   en: I'm… not nervous.
@@ -24,13 +24,13 @@ dialogue:
 - n: 4
   speaker: 阿舅
   en: We matched the horoscopes, picked a lucky day, and now we're ready for the engagement. Today's a lucky day.
-  sx: {hanzi: 合過八字，看好日仔，準備好過定吔。今晡日係好日仔。, pinyin: 'gab go badˋ sii, kon hoˋ ngidˋ eˋ, zunˋ pi hoˋ go tin leˊ. gimˊ buˊ ngidˋ
+  sx: {hanzi: 合過八字，看好日仔，準備好過定吔。今晡日係好日仔。, pinyin: 'hab go badˋ sii, kon hoˋ ngidˋ eˋ, zunˋ pi hoˋ go tin leˊ. gimˊ buˊ ngidˋ
       he hoˋ ngidˋ eˋ.'}
   check: true
 - n: 5
   speaker: Sam
-  en: There's a marquee up in the yard, hung with balloons. Very festive.
-  sx: {hanzi: 禾埕搭一隻棚，掛當多雞胲仔，當鬧熱。, pinyin: 'voˇ tangˇ dabˋ idˋ zagˋ pangˇ, gua dongˊ doˊ gieˊ goiˊ eˋ, dongˊ nau ngied.'}
+  en: There's a marquee up in the yard, hung with balloons, and the children are still blowing more up. Very festive.
+  sx: {hanzi: 禾埕搭一隻棚，掛當多雞胲仔，細人仔還在該歕，當鬧熱。, pinyin: 'voˇ tangˇ dabˋ idˋ zagˋ pangˇ, gua dongˊ doˊ gieˊ goiˊ eˋ, se nginˇ eˋ hanˇ du ge punˇ, dongˊ nau ngied.'}
   check: true
 - n: 6
   speaker: 陳伯
@@ -102,35 +102,36 @@ dialogue:
 - n: 21
   speaker: 陳伯
   en: 阿傑, I'm giving A-khim into your care. Love her all your life.
-  sx: {hanzi: 阿傑，阿琴交分你吔，你愛惜佢一生人。, pinyin: 'aˊ kied, aˊ kimˇ gauˊ bunˊ nˇ leˊ, nˇ oi xiagˋ giˇ idˋ senˊ nginˇ.'}
+  sx: {hanzi: 阿傑，阿琴交分你吔，你愛惜佢一生人。, pinyin: 'aˊ kiedˋ, aˊ kimˇ gauˊ bunˊ nˇ leˊ, nˇ oi xiagˋ giˇ idˋ senˊ nginˇ.'}
 - n: 22
   speaker: 阿傑
   en: I will. I promise.
   sx: {hanzi: 𠊎會。𠊎保證。, pinyin: ngaiˇ voi. ngaiˇ boˋ ziin.}
 - n: 23
-  speaker: 丈人哀
+  speaker: 阿琴个阿姆
   en: 阿傑, you're an honest man. A-khim is lucky.
-  sx: {hanzi: 阿傑，你係老實人，阿琴好命。, pinyin: 'aˊ kied, nˇ he loˋ siid nginˇ, aˊ kimˇ hoˋ miang.'}
+  sx: {hanzi: 阿傑，你係老實人，阿琴好命。, pinyin: 'aˊ kiedˋ, nˇ he loˋ siid nginˇ, aˊ kimˇ hoˋ miang.'}
 - n: 24
-  speaker: 丈人哀
-  en: She's our youngest daughter, and we've rather spoilt her.
-  sx: {hanzi: 佢係𠊎兜个滿女，𠊎兜較縱佢。, pinyin: 'giˇ he ngaiˇ deuˊ ge manˊ ngˋ, ngaiˇ deuˊ ka jiungˋ giˇ.'}
+  speaker: 阿琴个阿姆
+  en: She's our eldest daughter, and we've rather spoilt her.
+  sx: {hanzi: 佢係𠊎兜个大女，𠊎兜較縱佢。, pinyin: 'giˇ he ngaiˇ deuˊ ge tai ngˋ, ngaiˇ deuˊ ka jiungˋ giˇ.'}
+  check: true
 - n: 25
   speaker: 阿傑个阿姆
   en: I'll love her; I'll never be unkind to her.
   sx: {hanzi: 𠊎會惜佢，毋會苦毒佢。, pinyin: 'ngaiˇ voi xiagˋ giˇ, mˇ voi kuˋ tug giˇ.'}
 - n: 26
-  speaker: 阿舅
+  speaker: 阿傑个阿爸
   en: Now our two families are related. (to A-khim's mother) Come and visit us in 竹東 often.
   sx: {hanzi: 這下兩家人係親戚吔。以後多來竹東尞。, pinyin: iaˋ ha liongˋ gaˊ nginˇ he qinˊ qidˋ leˊ. iˊ heu doˊ loiˇ zugˋ dungˊ liau.}
 - n: 27
-  speaker: 丈人哀
+  speaker: 阿琴个阿姆
   en: We will. And you all come to us when you're free.
   sx: {hanzi: 好。你兜有閒正來尞。, pinyin: hoˋ. nˇ deuˊ iuˊ hanˇ zang loiˇ liau.}
 - n: 28
   speaker: 阿芬
   en: (to Sam) Sam, where's your girlfriend, then?
-  sx: {hanzi: Sam，你个細妹條仔呢？, pinyin: 'Sam, nˇ ge se moi tiauˇ eˋ neˇ?'}
+  sx: {hanzi: Sam，你个女朋友呢？, pinyin: 'Sam, nˇ ge ngˋ penˇ iuˊ neˇ?'}
 - n: 29
   speaker: Sam
   en: Haven't got one yet.
@@ -157,7 +158,7 @@ notes:
 - ref: 4
   topic: culture
   text: >
-    The line follows the official sentence 合過八字，看好日仔，準備好過定哩: 合八字 "match the two horoscopes", 八字 badˋ sii "the eight characters
+    The line follows an MOE dictionary example, 合過八字，看好日仔，準備好過定哩: 合八字 hab badˋ sii "match the two horoscopes" (合 hab, lesson 44; MOE reads it hab in this sense, as in 合婚), 八字 badˋ sii "the eight characters
     (of one's birth)", 好日仔 "an auspicious day" (MOE).
 - ref: 5
   topic: vocab
@@ -194,8 +195,7 @@ notes:
     使上使下 siiˋ songˊ siiˋ haˊ "order about" (佢歸日仔分人使上使下 "he's been ordered about all day").
 - ref: 13
   topic: vocab
-  text: "The official sentence, with 有禮 \"polite\" written 有禮貌: the character 禮 is only in the lists inside 禮貌 and other\
-    \ words. 新娘茶 \"the bride's tea\". 兜 deuˊ \"hold in both hands\" (the lists gloss it 端、捧). \n"
+  text: "The official sentence (kaga115) ends 正有禮; the course writes 正有禮貌, because 禮 has no reading of its own in the lists or the MOE dictionary, so the line is not quoted as a source. 新娘茶 \"the bride's tea\". 兜 deuˊ \"hold in both hands\" (the lists gloss it 端、捧). \n"
 - ref: 15
   topic: false-friend
   text: >
@@ -224,7 +224,8 @@ notes:
 - ref: 24
   topic: vocab
   text: >
-    滿女 manˊ ngˋ "youngest daughter" (一般滿女仔較會做嬌 "the youngest daughter is usually the pampered one"). 縱 jiungˋ "spoil, indulge"
+    大女 tai ngˋ "eldest daughter" is our word (the lists have 滿女 manˊ ngˋ "youngest daughter", which A-khim is not: 阿芬 is
+    younger); marked for review. 縱 jiungˋ "spoil, indulge"
     (縱子上壁 "spoil a child and he'll climb the walls").
 - ref: 25
   topic: vocab
@@ -245,7 +246,6 @@ new_words:
 - {hanzi: 斯文, pinyin: siiˊ vunˇ, en: 'refined, gentle'}
 - {hanzi: 新郎, pinyin: xinˊ longˇ, en: groom}
 - {hanzi: 禁指, pinyin: gim ziiˋ, en: ring}
-- {hanzi: 合, pinyin: gab, en: match (horoscopes)}
 - {hanzi: 搭, pinyin: dabˋ, en: 'put up, build (a shelter)'}
 - {hanzi: 棚, pinyin: pangˇ, en: 'stage, awning'}
 - {hanzi: 雞胲仔, pinyin: gieˊ goiˊ eˋ, en: balloon}
@@ -256,7 +256,6 @@ new_words:
 - {hanzi: 乖, pinyin: guaiˊ, en: 'good, well-behaved'}
 - {hanzi: 阿腦, pinyin: oˊ noˋ, en: praise}
 - {hanzi: 使上使下, pinyin: siiˋ songˊ siiˋ haˊ, en: order about}
-- {hanzi: 滿女, pinyin: manˊ ngˋ, en: youngest daughter}
 - {hanzi: 縱, pinyin: jiungˋ, en: 'spoil, indulge'}
 - {hanzi: 苦毒, pinyin: kuˋ tug, en: 'mistreat, be cruel to'}
 - {hanzi: 歕, pinyin: punˇ, en: blow}
@@ -265,9 +264,10 @@ exercises:
   - en: Don't be so nervous.
     source: kaga115
     sx: {hanzi: 毋使恁緊張。, pinyin: mˇ siiˋ anˋ ginˋ zongˊ.}
-  - en: 'This ring is worth nothing: it''s fake.'
-    sx: {hanzi: 這隻禁指無值錢，係假个。, pinyin: 'iaˋ zagˋ gim ziiˋ moˇ dad qienˇ, he gaˋ ge.'}
+  - en: 'This ring is fake: it''s worth nothing.'
+    sx: {hanzi: 這隻禁指係假个，無麼个價值。, pinyin: 'iaˋ zagˋ gim ziiˋ he gaˋ ge, moˇ maˋ ge ga ciid.'}
   - en: He looks very refined.
+    source: kaga115
     sx: {hanzi: 佢生到當斯文。, pinyin: giˇ sangˊ do dongˊ siiˊ vunˇ.}
   - en: Children love blowing up balloons.
     source: kaga115

@@ -186,3 +186,22 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Numbered items inside a text (leaflets, rules, news items) must run in order.
 - In a review lesson, check the batch calendar before "long time no see" and similar lines.
 - A new word's gloss must match a sense the list gives (kaga115 弓 is the classifier for a hand of bananas).
+
+## 進修 batches 2–3 review (P8–P21)
+- Demonstrative + bare noun: the classifier is the default. A bare noun only where an official sentence has one
+  (這手鈪, 這茶, 這湯: one each); 這柚仔 has none → 這隻柚仔 / 這兜柚仔.
+- 歇 for guests, guesthouses and visits is hiedˋ (短住、住宿; 你來歇兩暗晡); hed is "live" (長住). Check every 歇 in a
+  guest scene.
+- Names: X 安到 Y (lesson 22; 佢安到阿明). 名喊 is unattested.
+- "Girlfriend" is 女朋友 (lesson 32; 8 official); 細妹條仔 is "lass" (少女). 交朋友 is friendship, not dating
+  (交往 has no list reading). Matchmaking is 牽線 (MOE) or 做媒人 (3); 牽成 is a mentor's or boss's support (提攜).
+- Number + 過 takes its classifier, like number + 零: 十過個, 萬過斤, 兩千過个人.
+- "Never (in my life)": 從來毋識 + verb (6 official); bare 從來毋 + verb has none.
+- 共下 is "together"; "in all" is 總共.
+- 合 "match (horoscopes)" is hab (MOE 相匹配, 合婚; lesson 44); gab is only in 上合合.
+- 無值 is unattested; "not worth it" is 毋值 (實在毋值, 4).
+- Before calling a sentence "official", check its pool: a sentence with no accent is an MOE example (合過八字…).
+- A review lesson reuses at least three new words from each of the six lessons before it. Count each lesson's
+  `new_words` in the review dialogue.
+- An official sentence that lint cannot read (禮 alone in 正有禮) is adapted with `check: true` and a note, not
+  quoted with `source:`.

@@ -45,7 +45,7 @@ dialogue:
 - n: 9
   speaker: 阿發
   en: Foreigner, you don't know me. I've never bragged in my life.
-  sx: {hanzi: 外國人，你毋知，𠊎從來毋膨風。, pinyin: 'ngoi guedˋ nginˇ, nˇ mˇ diˊ, ngaiˇ qiungˇ loiˇ mˇ pong fungˊ.'}
+  sx: {hanzi: 外國人，你毋知，𠊎從來毋識膨風。, pinyin: 'ngoi guedˋ nginˇ, nˇ mˇ diˊ, ngaiˇ qiungˇ loiˇ mˇ siidˋ pong fungˊ.'}
 - n: 10
   speaker: 阿明
   en: Sam, he's bragging non-stop.
@@ -120,7 +120,7 @@ dialogue:
 - n: 27
   speaker: 廟公
   en: Don't say that, Granny. These hoodlums are a rotten lot.
-  sx: {hanzi: 莫恁講，阿婆。這兜鱸鰻仔盡孤盲。, pinyin: 'mog anˋ gongˋ, aˊ poˇ. iaˋ deuˊ luˇ manˇ eˋ qin goˊ moˊ.'}
+  sx: {hanzi: 莫恁講，阿婆。這兜鱸鰻仔還孤盲。, pinyin: 'mog anˋ gongˋ, aˊ poˇ. iaˋ deuˊ luˇ manˇ eˋ hanˇ goˊ moˊ.'}
 - n: 28
   speaker: 阿婆
   en: (to Sam and A-min) Lucky I had you two, or that two thousand would have been thrown away for nothing. Let's spend
@@ -172,8 +172,8 @@ notes:
 - ref: 9
   topic: vocab
   text: >
-    膨風 pong fungˊ "brag, boast" (佢當會膨風，莫信佢！ "he's a great boaster, don't believe him!"). 從來 + negative "never (in my life)"
-    (lesson 94).
+    膨風 pong fungˊ "brag, boast" (佢當會膨風，莫信佢！ "he's a great boaster, don't believe him!"). 從來毋識 + verb "never (in my life)"
+    (從來, lesson 94; 佢兜當相好，從來毋識冤家): the official sentences put 識 after 從來毋.
 - ref: 11
   topic: vocab
   text: >
@@ -186,7 +186,8 @@ notes:
 - ref: 16
   topic: vocab
   text: >
-    彈 tanˇ "bounce". 假个 "a fake", 真个 (line 9) "a real one" (你係講真个抑講假个？). Jade would break; a plastic copy bounces.
+    彈 tanˇ "bounce". 假个 "a fake", 真个 (line 3) "a real one" (你係講真个抑講假个？). A plastic copy bounces; that is the trick
+    Sam relies on.
 - ref: 18
   topic: vocab
   text: >
@@ -226,7 +227,8 @@ notes:
   topic: vocab
   text: >
     鱸鰻仔 luˇ manˇ eˋ "hoodlum, thug" (literally "eel"). 孤盲 goˊ moˊ is a strong insult ("rotten, wicked") in the lists' own
-    words 罵人之語: an angry old man's word, not one to use lightly.
+    words 罵人之語: an angry old man's word, not one to use lightly. 還孤盲 "really wicked", as in the official 還孤盲，這種夭壽事佢也敢做
+    (還 + adjective "really, so").
 - ref: 28
   topic: vocab
   text: >

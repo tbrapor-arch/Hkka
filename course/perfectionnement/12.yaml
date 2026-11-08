@@ -5,7 +5,7 @@ title:
   sx: {hanzi: 共公廳个人, pinyin: kiung gungˊ tangˊ ge nginˇ}
 review: false
 setting: Wednesday 20 September 2028. An essay by 鍾伯, the old man who runs a guesthouse with his wife in a 伙房 compound in
-  美濃 (lessons 71–76), printed in a Hakka magazine. A-in has posted Sam the cutting. 鍾伯 speaks southern Sixian; the course
+  美濃 (lessons 71–73), printed in a Hakka magazine. A-in has posted Sam the cutting. 鍾伯 speaks southern Sixian; the course
   reads his essay in standard Sixian.
 names: [鍾伯, 美濃, 臺灣]
 dialogue:
@@ -71,19 +71,20 @@ dialogue:
   en: In a tower block, the neighbours don't know each other.
   sx: {hanzi: 大樓肚个人，上家下屋毋相識。, pinyin: 'tai leuˇ duˋ ge nginˇ, song gaˊ haˊ vugˋ mˇ xiongˊ siidˋ.'}
 - n: 19
-  en: When I retired, my wife and I opened up rooms in our compound for guests.
-  sx: {hanzi: 𠊎退休過後，同餔娘在伙房屋開房間分人客歇。, pinyin: 'ngaiˇ tui hiuˊ go heu, tungˇ buˊ ngiongˇ coiˊ foˋ fongˇ vugˋ koiˊ fongˇ gienˊ
-      bunˊ nginˇ hagˋ hed.'}
+  en: When I retired, my wife and I made a few guest rooms in our compound, for visitors to stay the night.
+  sx: {hanzi: 𠊎退休過後，同餔娘在伙房屋做幾間人客間，分人客來歇。, pinyin: 'ngaiˇ tui hiuˊ go heu, tungˇ buˊ ngiongˇ coiˊ foˋ fongˇ vugˋ zo giˋ gienˊ
+      nginˇ hagˋ gienˊ, bunˊ nginˇ hagˋ loiˇ hiedˋ.'}
+  check: true
 - n: 20
   en: Guests come from far away, and I tell them the history of the 伙房.
-  sx: {hanzi: 遠遠个人客來歇，𠊎同佢兜講伙房个歷史。, pinyin: 'ienˋ ienˋ ge nginˇ hagˋ loiˇ hed, ngaiˇ tungˇ giˇ deuˊ gongˋ foˋ fongˇ ge lid
+  sx: {hanzi: 遠遠个人客來歇，𠊎同佢兜講伙房个歷史。, pinyin: 'ienˋ ienˋ ge nginˇ hagˋ loiˇ hiedˋ, ngaiˇ tungˇ giˇ deuˊ gongˋ foˋ fongˇ ge lid
       siiˋ.'}
 - n: 21
   en: We don't earn much; breaking even is enough.
   sx: {hanzi: 賺个錢無幾多，打平過就好。, pinyin: 'con ge qienˇ moˇ giˋ doˊ, daˋ piangˇ go qiu hoˋ.'}
 - n: 22
   en: Last year a young Frenchman stayed with us and asked a lot of questions; he could speak Hakka too.
-  sx: {hanzi: 舊年有一隻法國後生人來歇，問當多問題，乜會講客話。, pinyin: 'kiu ngienˇ iuˊ idˋ zagˋ fabˋ guedˋ heu sangˊ nginˇ loiˇ hed, mun dongˊ
+  sx: {hanzi: 舊年有一隻法國後生人來歇，問當多問題，乜會講客話。, pinyin: 'kiu ngienˇ iuˊ idˋ zagˋ fabˋ guedˋ heu sangˊ nginˇ loiˇ hiedˋ, mun dongˊ
       doˊ mun tiˇ, me voi gongˋ hagˋ fa.'}
 - n: 23
   en: 'A compound has a great influence on a family: it teaches the children whose people they are.'
@@ -166,7 +167,7 @@ notes:
 - ref: 19
   topic: vocab
   text: >
-    退休 tui hiuˊ "retire". 開房間分人客歇 "let rooms to guests": the guesthouse Sam stayed at in lessons 71–76.
+    退休 tui hiuˊ "retire". 人客間 nginˇ hagˋ gienˊ "guest room" (吾屋下个人客間閒閒，你來歇兩暗晡乜無問題). 歇 here is hiedˋ "stay the night" (lines 19, 20, 22), not hed "live" (lines 3, 5, 13; checklist). The wording of the line is ours; marked for review. This is the guesthouse Sam stayed at in lessons 71–73.
 - ref: 20
   topic: vocab
   text: >
@@ -213,6 +214,7 @@ new_words:
 - {hanzi: 鐵門, pinyin: tiedˋ munˇ, en: iron gate}
 - {hanzi: 改善, pinyin: goiˋ san, en: improve}
 - {hanzi: 退休, pinyin: tui hiuˊ, en: retire}
+- {hanzi: 人客間, pinyin: nginˇ hagˋ gienˊ, en: guest room}
 - {hanzi: 打平過, pinyin: daˋ piangˇ go, en: break even}
 - {hanzi: 影響, pinyin: iangˋ hiongˋ, en: 'influence, effect'}
 - {hanzi: 毋管, pinyin: mˇ gonˋ, en: 'no matter (what, where)'}
@@ -232,8 +234,8 @@ exercises:
   - en: No one can replace him.
     source: kaga115
     sx: {hanzi: 無人做得取代佢。, pinyin: moˇ nginˇ zo dedˋ qiˋ toi giˇ.}
-  - en: Running a guesthouse, breaking even is enough.
-    sx: {hanzi: 開房間分人客歇，打平過就好。, pinyin: 'koiˊ fongˇ gienˊ bunˊ nginˇ hagˋ hed, daˋ piangˇ go qiu hoˋ.'}
+  - en: "Guests come to stay; we don't earn much: breaking even is enough."
+    sx: {hanzi: 人客來歇，賺个錢無幾多，打平過就好。, pinyin: 'nginˇ hagˋ loiˇ hiedˋ, con ge qienˇ moˇ giˋ doˊ, daˋ piangˇ go qiu hoˋ.'}
   fill:
   - en: I was born in 美濃.
     sx: {hanzi: 𠊎在美濃___。, pinyin: ngaiˇ coiˊ miˊ nungˇ ___., answer_hanzi: 出世, answer: cudˋ se}
@@ -243,7 +245,7 @@ exercises:
     sx: {hanzi: 城市___利便。, pinyin: sangˇ sii ___ li pien., answer_hanzi: 交通, answer: gauˊ tungˊ}
   - en: Some compounds have nobody living in them.
     sx: {hanzi: ___伙房屋無人歇。, pinyin: ___ foˋ fongˇ vugˋ moˇ nginˇ hed., answer_hanzi: 有兜, answer: iuˊ deuˊ}
-  - en: When I retired, I opened up rooms for guests.
-    sx: {hanzi: 𠊎___過後，開房間分人客歇。, pinyin: 'ngaiˇ ___ go heu, koiˊ fongˇ gienˊ bunˊ nginˇ hagˋ hed.', answer_hanzi: 退休, answer: tui
+  - en: When I retired, I made guest rooms for visitors.
+    sx: {hanzi: 𠊎___過後，做人客間分人客歇。, pinyin: 'ngaiˇ ___ go heu, zo nginˇ hagˋ gienˊ bunˊ nginˇ hagˋ hiedˋ.', answer_hanzi: 退休, answer: tui
         hiuˊ}
 audio: []

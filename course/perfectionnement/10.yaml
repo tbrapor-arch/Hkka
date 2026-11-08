@@ -33,11 +33,11 @@ dialogue:
 - n: 7
   en: The other students all said hello, quite at ease. One of them is called A-hiung; he's from 美濃, a graduate student,
     and lives in the student hall.
-  sx: {hanzi: 同學都同𠊎相借問，講話當自然。有一隻同學名喊阿雄，係美濃人，讀研究所，歇學寮。, pinyin: 'tungˇ hog du tungˇ ngaiˇ xiongˊ jia mun, gongˋ fa dongˊ
-      cii ienˇ. iuˊ idˋ zagˋ tungˇ hog miangˇ ham aˊ hiungˇ, he miˊ nungˇ nginˇ, tug ngienˇ giu soˋ, hed hog liauˇ.'}
+  sx: {hanzi: 同學都同𠊎相借問，講話當自然。有一隻同學安到阿雄，係美濃人，讀研究所，歇學寮。, pinyin: 'tungˇ hog du tungˇ ngaiˇ xiongˊ jia mun, gongˋ fa dongˊ
+      cii ienˇ. iuˊ idˋ zagˋ tungˇ hog onˊ do aˊ hiungˇ, he miˊ nungˇ nginˇ, tug ngienˇ giu soˋ, hed hog liauˇ.'}
 - n: 8
   en: 'In the afternoon I chose my courses: four in all.'
-  sx: {hanzi: 下晝去選課，共下四門。, pinyin: 'haˊ zu hi xienˋ ko, kiung ha xi munˇ.'}
+  sx: {hanzi: 下晝去選課，總共四門。, pinyin: 'haˊ zu hi xienˋ ko, zungˋ kiung xi munˇ.'}
 - n: 9
   en: Wednesday 6 September.
   sx: {hanzi: 九月六號，禮拜三。, pinyin: 'giuˋ ngied liugˋ ho, liˊ bai samˊ.'}
@@ -141,7 +141,7 @@ notes:
   topic: vocab
   text: >
     相借問 xiongˊ jia mun "greet each other, say hello" (堵著熟事人愛相借問，正有禮貌 "say hello when you meet someone you know: that's good
-    manners"). 美濃 people speak southern Sixian (lessons 71–76).
+    manners"). 美濃 people speak southern Sixian (lessons 71–73).
 - ref: 7
   topic: vocab
   text: >
@@ -150,7 +150,7 @@ notes:
 - ref: 8
   topic: vocab
   text: >
-    選課 xienˋ ko "choose one's courses" (這學期个選課單仔你填好吂？). 共下 here is "in all, altogether".
+    選課 xienˋ ko "choose one's courses" (這學期个選課單仔你填好吂？). 總共 zungˋ kiung "in all, altogether" (lesson 5); 共下 is "together".
 - ref: 10
   topic: vocab
   text: >

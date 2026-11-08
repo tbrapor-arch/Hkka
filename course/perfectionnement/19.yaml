@@ -30,7 +30,7 @@ dialogue:
 - n: 5
   speaker: 阿公
   en: In the Han dynasty there was a young man called 桓景.
-  sx: {hanzi: 漢朝个時節，有一個後生人，名喊桓景。, pinyin: 'hon ceuˇ ge siiˇ jiedˋ, iuˊ idˋ ge heu sangˊ nginˇ, miangˇ ham fanˇ ginˋ.'}
+  sx: {hanzi: 漢朝个時節，有一個後生人，安到桓景。, pinyin: 'hon ceuˇ ge siiˇ jiedˋ, iuˊ idˋ ge heu sangˊ nginˇ, onˊ do fanˇ ginˋ.'}
 - n: 6
   speaker: 阿公
   en: He was learning his arts from an immortal.
@@ -57,8 +57,8 @@ dialogue:
   sx: {hanzi: 九月初九，佢就帶全家爬上山頂。, pinyin: 'giuˋ ngied cuˊ giuˋ, giˇ qiu dai qionˇ gaˊ paˇ songˊ sanˊ dangˋ.'}
 - n: 11
   speaker: 阿公
-  en: Towards evening they came home and saw that the animals, chickens, ducks, oxen and sheep, were all dead.
-  sx: {hanzi: 臨暗仔轉來，看著屋下个頭牲，雞仔、鴨仔、牛仔、羊仔，全部都死忒吔。, pinyin: 'limˇ am eˋ zonˋ loiˇ, kon doˋ vugˋ kaˊ ge teuˇ sangˊ, gieˊ eˋ,
+  en: Towards evening they came home and saw that the animals they kept, chickens, ducks, oxen and sheep, were all dead.
+  sx: {hanzi: 臨暗仔轉來，看著屋下畜个頭牲，雞仔、鴨仔、牛仔、羊仔，全部都死忒吔。, pinyin: 'limˇ am eˋ zonˋ loiˇ, kon doˋ vugˋ kaˊ hiugˋ ge teuˇ sangˊ, gieˊ eˋ,
       abˋ eˇ, ngiuˇ eˋ, iongˇ eˋ, qionˇ pu du xiˋ tedˋ leˊ.'}
 - n: 12
   speaker: 阿公
@@ -187,7 +187,7 @@ notes:
   topic: vocab
   text: >
     老貨仔 loˋ fo eˋ "old fogey" (喊人老貨仔當無禮貌 "calling people 'old fogey' is very rude", an official sentence: Grandma quotes
-    it in line 16).
+    it in line 18).
 - ref: 20
   topic: vocab
   text: >
@@ -222,7 +222,6 @@ new_words:
 - {hanzi: 酒, pinyin: jiuˋ, en: 'wine, alcohol'}
 - {hanzi: 毒氣, pinyin: tug hi, en: 'poisonous gas, vapour'}
 - {hanzi: 畜, pinyin: hiugˋ, en: 'keep, raise (animals)'}
-- {hanzi: 農場, pinyin: nungˇ congˇ, en: farm}
 - {hanzi: 龍, pinyin: liungˇ, en: dragon}
 - {hanzi: 獅仔, pinyin: siiˊ eˋ, en: lion}
 - {hanzi: 皇帝, pinyin: fongˇ di, en: emperor}
@@ -238,9 +237,8 @@ exercises:
     sx: {hanzi: 佢毋聽話，分阿姆罰。, pinyin: 'giˇ mˇ tangˊ fa, bunˊ aˊ meˊ fad.'}
   - en: I told you long ago, but you wouldn't believe it.
     sx: {hanzi: 早就同你講過，你就毋信。, pinyin: 'zoˋ qiu tungˇ nˇ gongˋ go, nˇ qiu mˇ xin.'}
-  - en: The farm keeps cattle.
-    source: kaga115
-    sx: {hanzi: 農場有畜牛仔。, pinyin: nungˇ congˇ iuˊ hiugˋ ngiuˇ eˋ.}
+  - en: On the ninth of the ninth month, everyone goes up the hills.
+    sx: {hanzi: 九月初九，大家就去爬山。, pinyin: 'giuˋ ngied cuˊ giuˋ, tai gaˊ qiu hi paˇ sanˊ.'}
   fill:
   - en: He was learning his arts from an immortal.
     sx: {hanzi: 佢跈一個___學本事。, pinyin: giˇ tenˇ idˋ ge ___ hog bunˋ sii., answer_hanzi: 仙人, answer: xienˊ nginˇ}

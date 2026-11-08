@@ -5,7 +5,7 @@ title:
   sx: {hanzi: 雞無啼狗無吠, pinyin: gieˊ moˇ taiˇ gieuˋ moˇ poi}
 review: false
 setting: Thursday 19 October 2028, a stormy night. Sam tells what happened in his rented room (進修 2), where his classmate
-  阿雄 (進修 10) had come to work on their report. Sam is the narrator ("𠊎"); a few lines are what was said.
+  阿雄 (進修 10) had come to prepare a class presentation (報告) with him. Sam is the narrator ("𠊎"); a few lines are what was said.
 names: [Sam, 阿雄]
 dialogue:
 - n: 1
@@ -13,7 +13,7 @@ dialogue:
   sx: {hanzi: 外背𥍉爧又響雷公。, pinyin: ngoi boi ngiabˋ lang iu hiongˋ luiˇ gungˊ.}
   source: kaga115
 - n: 2
-  en: A-hiung had come to my room to study, to get our report ready for next week.
+  en: A-hiung had come to my room to study, to get our presentation ready for next week.
   sx: {hanzi: 阿雄來𠊎間房讀書，準備下禮拜个報告。, pinyin: 'aˊ hiungˇ loiˇ ngaiˇ gienˊ fongˇ tug suˊ, zunˋ pi ha liˊ bai ge bo go.'}
 - n: 3
   speaker: 阿雄
@@ -92,9 +92,8 @@ dialogue:
   sx: {hanzi: 佢分雨涿到溼浙浙仔，又歸身塵灰，毋知對哪位入來。, pinyin: 'giˇ bunˊ iˋ dugˋ do siibˋ zeb zeb eˋ, iu guiˊ siinˊ ciinˇ foiˊ, mˇ diˊ
       dui nai vi ngib loiˇ.'}
 - n: 25
-  en: Halfway through, the lights came back on.
-  sx: {hanzi: 半站仔，電火又光吔。, pinyin: 'ban cam eˋ, tien foˋ iu gongˊ leˊ.'}
-  check: true
+  en: Before long, the lights came back on.
+  sx: {hanzi: 無幾久，電火又光吔。, pinyin: 'moˇ gidˋ giuˋ, tien foˋ iu gongˊ leˊ.'}
 - n: 26
   en: The cat looked at us, then jumped up onto the sofa.
   sx: {hanzi: 貓仔看𠊎兜一下，就跳上膨凳。, pinyin: 'meu eˋ kon ngaiˇ deuˊ idˋ ha, qiu tiau songˊ pong den.'}
@@ -114,7 +113,7 @@ notes:
   topic: culture
   text: >
     A story, told by Sam. The title is a saying from the official lists (高級): 雞無啼狗無吠 "no cock crowing, no dog barking",
-    for an eerie silence. It is used in line 5.
+    for an eerie silence. It is used in line 6.
 - ref: 1
   topic: vocab
   text: >
@@ -200,8 +199,7 @@ notes:
 - ref: 25
   topic: vocab
   text: >
-    半站仔 ban cam eˋ "halfway, partway through" (走到半站仔腳勼筋 "halfway through the race he got cramp"). For a stretch of time
-    rather than a journey, the line is marked for review.
+    無幾久 moˇ gidˋ giuˋ "before long" (lesson 96).
 - ref: 29
   topic: vocab
   text: >
@@ -230,7 +228,6 @@ new_words:
 - {hanzi: 涿, pinyin: dugˋ, en: get rained on}
 - {hanzi: 溼浙浙仔, pinyin: siibˋ zeb zeb eˋ, en: soaked through}
 - {hanzi: 塵灰, pinyin: ciinˇ foiˊ, en: dust}
-- {hanzi: 半站仔, pinyin: ban cam eˋ, en: 'halfway, partway'}
 - {hanzi: 恬, pinyin: diamˊ, en: 'quiet, silent'}
 - {hanzi: 叼, pinyin: diauˊ, en: 'bite, sting (insects)'}
 - {hanzi: 毋自然, pinyin: mˇ cii ienˇ, en: 'unwell, out of sorts'}

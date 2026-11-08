@@ -4,7 +4,7 @@ title:
   en: When the earthquake comes
   sx: {hanzi: 地動來个時節, pinyin: ti tungˊ loiˇ ge siiˇ jiedˋ}
 review: false
-setting: Monday 23 October 2028. On Saturday night a small earthquake woke Sam up, and the next morning A-in showed him
+setting: Monday 23 October 2028. On Saturday night a small earthquake woke Sam up, and today A-in showed him
   an article from the county's Hakka newsletter. The facts about the 1999 earthquake are general knowledge, kept to round
   figures; the advice is the usual safety advice, not an official text.
 names: [臺灣]
@@ -20,8 +20,8 @@ dialogue:
   sx: {hanzi: 當多地動當細，人感覺毋著。, pinyin: 'dongˊ doˊ ti tungˊ dongˊ se, nginˇ gamˋ gogˋ mˇ doˋ.'}
   check: true
 - n: 4
-  en: But some are very big.
-  sx: {hanzi: 毋過，有兜地動當大。, pinyin: 'mˇ go, iuˊ deuˊ ti tungˊ dongˊ tai.'}
+  en: "But some are very big: magnitude six or seven."
+  sx: {hanzi: 毋過，有兜地動當大，有六、七級。, pinyin: 'mˇ go, iuˊ deuˊ ti tungˊ dongˊ tai, iuˊ liugˋ, qidˋ kibˋ.'}
 - n: 5
   en: On 21 September 1999, just after one in the morning, a great earthquake struck central Taiwan.
   sx: {hanzi: 一九九九年九月二十一號，半夜一點過，臺灣中部大地動。, pinyin: 'idˋ giuˋ giuˋ giuˋ ngienˇ giuˋ ngied ngi siib idˋ ho, ban ia idˋ diamˋ
@@ -38,11 +38,12 @@ dialogue:
   sx: {hanzi: 山項崩崗，石頭矺著屋同車仔。, pinyin: 'sanˊ hong benˊ gongˊ, sag teuˇ zagˋ doˋ vugˋ tungˇ caˊ eˋ.'}
   check: true
 - n: 9
-  en: Half of a temple tower broke off too.
-  sx: {hanzi: 廟个塔乜斷忒一半。, pinyin: meu ge tabˋ me tonˊ tedˋ idˋ ban.}
+  en: Some temples were half destroyed too.
+  sx: {hanzi: 有兜廟乜崩忒一半。, pinyin: iuˊ deuˊ meu me benˊ tedˋ idˋ ban.}
+  check: true
 - n: 10
   en: More than two thousand people died in that earthquake, and the damage was beyond counting.
-  sx: {hanzi: 這擺地動消忒兩千過人，損失無法度計算。, pinyin: 'iaˋ baiˋ ti tungˊ xiauˊ tedˋ liongˋ qienˊ go nginˇ, sunˋ siidˋ moˇ fabˋ tu gie
+  sx: {hanzi: 該擺地動消忒兩千過个人，損失無法度計算。, pinyin: 'ge baiˋ ti tungˊ xiauˊ tedˋ liongˋ qienˊ go ge nginˇ, sunˋ siidˋ moˇ fabˋ tu gie
       son.'}
 - n: 11
   en: 'One old man said: ''That night the house rocked like a boat; I carried my wife out on my back.'''
@@ -54,7 +55,7 @@ dialogue:
   check: true
 - n: 13
   en: People in Taiwan still remember that earthquake today.
-  sx: {hanzi: 臺灣人到今晡日還記得這擺地動。, pinyin: toiˇ vanˇ nginˇ do gimˊ buˊ ngidˋ hanˇ gi dedˋ iaˋ baiˋ ti tungˊ.}
+  sx: {hanzi: 臺灣人到今還記得該擺地動。, pinyin: toiˇ vanˇ nginˇ do gimˊ hanˇ gi dedˋ ge baiˋ ti tungˊ.}
 - n: 14
   en: 'After it, the government improved the building regulations: houses must be built to stand firmer.'
   sx: {hanzi: 該擺過後，政府改善建築个規定，屋愛起到較穩。, pinyin: 'ge baiˋ go heu, ziin fuˋ goiˋ san gien zugˋ ge guiˊ tin, vugˋ oi hiˋ do ka
@@ -95,7 +96,7 @@ notes:
 - ref: 0
   topic: culture
   text: >
-    An article. The 1999 earthquake (九二一大地動) struck central Taiwan at about a quarter to two in the morning of 21 September
+    An article. The 1999 earthquake (九二一大地動) struck central Taiwan at 1.47 in the morning of 21 September (the article says 一點過, "after one")
     and killed more than two thousand people (general knowledge; the article keeps to round figures). An official sentence
     remembers it: 921地動當搖 "the 921 quake shook terribly".
 - ref: 1
@@ -127,12 +128,13 @@ notes:
 - ref: 9
   topic: vocab
   text: >
-    塔 tabˋ "tower, pagoda" (佛塔). 一半 idˋ ban "half".
+    一半 idˋ ban "half": 崩忒一半 "half collapsed". The line is generic (some temples were damaged); marked for review.
 - ref: 10
   topic: vocab
   text: >
-    損失 sunˋ siidˋ "loss, damage", 計算 gie son "calculate": 損失無法度計算 is from an official sentence about a typhoon. 兩千過 "more
-    than two thousand" (checklist: number + 過).
+    損失 sunˋ siidˋ "loss, damage", 計算 gie son "calculate": 損失無法度計算 is from an official sentence about a typhoon. 兩千過个人 "more
+    than two thousand people": number + 過 still takes its classifier, as in the official 孫仔有十過個 and 萬過斤樵 (checklist).
+    該擺 "that time" for a past event (這擺 is "this time").
 - ref: 11
   topic: vocab
   text: >
@@ -198,7 +200,6 @@ new_words:
 - {hanzi: 擋, pinyin: dongˋ, en: 'block, stop'}
 - {hanzi: 級, pinyin: kibˋ, en: 'level, grade; magnitude'}
 - {hanzi: 穩, pinyin: vunˋ, en: 'steady, firm'}
-- {hanzi: 塔, pinyin: tabˋ, en: 'tower, pagoda'}
 - {hanzi: 一半, pinyin: idˋ ban, en: half}
 - {hanzi: 逃, pinyin: toˇ, en: 'flee, escape'}
 - {hanzi: 兵仔, pinyin: binˊ eˋ, en: soldier}

@@ -67,17 +67,17 @@ dialogue:
   sx: {hanzi: 你个手藝當好，人講：三下钁頭兩畚箕。, pinyin: 'nˇ ge suˋ ngi dongˊ hoˋ, nginˇ gongˋ: samˊ ha giogˋ teuˇ liongˋ bun giˊ.'}
 - n: 14
   speaker: 添伯
-  en: (laughing) Oh, go on. Do it long enough and you get the hang of it.
-  sx: {hanzi: 莫恁講。做久就熟手。, pinyin: mog anˋ gongˋ. zo giuˋ qiu sug suˋ.}
+  en: (laughing) Oh, go on. Do it long enough and you get used to it.
+  sx: {hanzi: 莫恁講。做久就慣勢吔。, pinyin: mog anˋ gongˋ. zo giuˋ qiu guan se leˊ.}
 - n: 15
   speaker: 阿英
-  en: These days young people like going to hair salons. How's business?
-  sx: {hanzi: 這下後生人時行去電毛店，你个生理還好無？, pinyin: 'iaˋ ha heu sangˊ nginˇ siiˇ hangˇ hi tien moˊ diam, nˇ ge senˊ liˊ hanˇ hoˋ
+  en: These days perms are more in fashion among young people. How's business?
+  sx: {hanzi: 這下後生人較時行電毛，你个生理還好無？, pinyin: 'iaˋ ha heu sangˊ nginˇ ka siiˇ hangˇ tien moˊ, nˇ ge senˊ liˊ hanˇ hoˋ
       moˇ?'}
 - n: 16
   speaker: 添伯
-  en: 'They''re mostly people I know: customers of thirty or forty years.'
-  sx: {hanzi: 多係熟事人，三四十年个老人客。, pinyin: 'doˊ he sug sii nginˇ, samˊ xi siib ngienˇ ge loˋ nginˇ hagˋ.'}
+  en: 'They''re mostly people I know: customers of thirty or forty years. A tradesman must have a conscience; then the customers come back.'
+  sx: {hanzi: 多係熟事人，三四十年个老人客。生理人愛有良心，人客正會轉來。, pinyin: 'doˊ he sug sii nginˇ, samˊ xi siib ngienˇ ge loˋ nginˇ hagˋ. senˊ liˊ nginˇ oi iuˊ liongˇ ximˊ, nginˇ hagˋ zang voi zonˋ loiˇ.'}
 - n: 17
   speaker: 添伯
   en: One became a film star. I cut his hair when he was little, and when he comes back he still comes to me.
@@ -85,9 +85,9 @@ dialogue:
       loiˇ, hanˇ he loiˇ qimˇ ngaiˇ.'}
 - n: 18
   speaker: 添伯
-  en: 'One''s a lawyer, one''s a manager: when they''re back from a business trip, they come for a cut.'
-  sx: {hanzi: 有一隻做律師，有一隻做經理，出差轉來，就來剃頭。, pinyin: 'iuˊ idˋ zagˋ zo lid siiˊ, iuˊ idˋ zagˋ zo ginˊ liˊ, cudˋ caiˊ zonˋ loiˇ,
-      qiu loiˇ ti teuˇ.'}
+  en: 'One''s a lawyer, one''s a manager: when the company sends him on a business trip, he comes for a cut on his way back.'
+  sx: {hanzi: 有一隻做律師，有一隻做經理，公司派佢出差，轉來就來剃頭。, pinyin: 'iuˊ idˋ zagˋ zo lid siiˊ, iuˊ idˋ zagˋ zo ginˊ liˊ, gungˊ siiˊ pai giˇ cudˋ caiˊ,
+      zonˋ loiˇ qiu loiˇ ti teuˇ.'}
 - n: 19
   speaker: 阿英
   en: Have any of your children learnt to cut hair?
@@ -113,8 +113,9 @@ dialogue:
       nai vi ti teuˇ?'}
 - n: 24
   speaker: 添伯
-  en: 'I only take two days off a year: New Year and Mid-Autumn.'
+  en: 'I only take time off twice a year: New Year and Mid-Autumn.'
   sx: {hanzi: 𠊎一年淨請假兩擺：過年同八月半。, pinyin: 'ngaiˇ idˋ ngienˇ qiang qiangˋ gaˋ liongˋ baiˋ: go ngienˇ tungˇ badˋ ngied ban.'}
+  check: true
 - n: 25
   speaker: 阿英
   en: 'Last of all: is there anything you''d like to say to our listeners?'
@@ -171,16 +172,16 @@ notes:
 - ref: 14
   topic: vocab
   text: >
-    熟手 "practised, skilled".
+    慣勢 guan se "be used to" (lesson 57).
 - ref: 15
   topic: vocab
   text: >
     時行 siiˇ hangˇ "be in fashion, be popular" (跈時行 "follow the fashion"). 電毛店 tien moˊ diam "hair salon" (literally "electric-hair
-    shop", after the perm); 電毛 "perm" (line 21).
+    shop", after the perm; line 20); 電毛 "perm; give a perm" (今个人較流行電毛 "people go in for perms these days", the model for line 15).
 - ref: 16
   topic: vocab
   text: >
-    熟事人 sug sii nginˇ "acquaintance, someone you know" (堵著熟事人愛相借問). 人客 "customer" (lesson 16).
+    熟事人 sug sii nginˇ "acquaintance, someone you know" (堵著熟事人愛相借問). 人客 "customer" (lesson 16). 生理人愛有良心 "a tradesman must have a conscience" is an official sentence; 良心 liongˇ ximˊ "conscience".
 - ref: 17
   topic: vocab
   text: >
@@ -188,7 +189,7 @@ notes:
 - ref: 18
   topic: vocab
   text: >
-    律師 lid siiˊ "lawyer", 經理 ginˊ liˊ "manager", 出差 cudˋ caiˊ "go on a business trip" (公司派佢出差).
+    律師 lid siiˊ "lawyer", 經理 ginˊ liˊ "manager", 出差 cudˋ caiˊ "go on a business trip"; 公司派佢出差 "the company sends him on a business trip" is an official sentence (派 pai "send").
 - ref: 20
   topic: vocab
   text: >
@@ -205,7 +206,7 @@ notes:
 - ref: 24
   topic: vocab
   text: >
-    請假 qiangˋ gaˋ "take time off" (下禮拜一請假).
+    請假 qiangˋ gaˋ "take time off" (下禮拜一請假). In the lists it is asking an employer for leave; a self-employed barber using it is ours, marked for review.
 new_words:
 - {hanzi: 剃頭, pinyin: ti teuˇ, en: cut hair; have a haircut}
 - {hanzi: 出師, pinyin: cudˋ siiˊ, en: finish an apprenticeship}
@@ -257,8 +258,8 @@ exercises:
     sx: {hanzi: 你___剃幾久吔？, pinyin: 'nˇ ___ ti gidˋ giuˋ leˊ?', answer_hanzi: 剃頭, answer: ti teuˇ}
   - en: I finished my apprenticeship at eighteen.
     sx: {hanzi: 十八歲___。, pinyin: siib badˋ se ___., answer_hanzi: 出師, answer: cudˋ siiˊ}
-  - en: Young people like going to hair salons.
-    sx: {hanzi: 後生人___去電毛店。, pinyin: heu sangˊ nginˇ ___ hi tien moˊ diam., answer_hanzi: 時行, answer: siiˇ hangˇ}
+  - en: Perms are more in fashion among young people.
+    sx: {hanzi: 後生人較___電毛。, pinyin: heu sangˊ nginˇ ka ___ tien moˊ., answer_hanzi: 時行, answer: siiˇ hangˇ}
   - en: Most of them are people I know.
     sx: {hanzi: 多係___。, pinyin: doˊ he ___., answer_hanzi: 熟事人, answer: sug sii nginˇ}
   - en: I only take two days off a year.

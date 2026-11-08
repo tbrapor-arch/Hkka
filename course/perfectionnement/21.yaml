@@ -37,8 +37,8 @@ dialogue:
     sx: {hanzi: "該暗晡个貓仔。落大雨、電火烏忒个暗晡，佢好恬恬就走入來。", pinyin: "ge am buˊ ge meu eˋ. log tai iˋ, tien foˋ vuˊ tedˋ ge am buˊ, giˇ hoˋ diamˊ diamˊ qiu zeuˋ ngib loiˇ."}
   - n: 7
     speaker: 阿明
-    en: "A-hiung thought it was a ghost, and had nightmares all night!"
-    sx: {hanzi: "阿雄話著係鬼，歸暗晡都在該發狂！", pinyin: "aˊ hiungˇ va doˋ he guiˋ, guiˊ am buˊ du du ge bodˋ kongˇ!"}
+    en: "Sam thought it was a ghost, and A-hiung got so scared he said he'd have nightmares!"
+    sx: {hanzi: "Sam話著係鬼，阿雄驚到講會發狂！", pinyin: "Sam va doˋ he guiˋ, aˊ hiungˇ giangˊ do gongˋ voi bodˋ kongˇ!"}
   - n: 8
     speaker: Sam
     en: "Now it lives with me. It catches the cockroaches."
@@ -50,13 +50,13 @@ dialogue:
     check: true
   - n: 10
     speaker: 阿姆
-    en: "Come and eat. Today there's braised pork and fried taro, warmed up again from the other day."
-    sx: {hanzi: "來食飯。今晡日有燜豬肉、烰芋仔，係頭擺个，暖過个。", pinyin: "loiˇ siid fan. gimˊ buˊ ngidˋ iuˊ munˊ zuˊ ngiugˋ, poˇ vu eˋ, he teuˇ baiˋ ge, nonˊ go ge."}
+    en: "Come and eat. Today there's braised pork and fried taro, yesterday's, warmed up again."
+    sx: {hanzi: "來食飯。今晡日有燜豬肉、烰芋仔，係昨晡日个，暖過个。", pinyin: "loiˇ siid fan. gimˊ buˊ ngidˋ iuˊ munˊ zuˊ ngiugˋ, poˇ vu eˋ, he coˊ buˊ ngidˋ ge, nonˊ go ge."}
     check: true
   - n: 11
     speaker: 阿英
     en: "How did 阿傑's engagement go?"
-    sx: {hanzi: "阿傑過定仰般？", pinyin: "aˊ kied go tin ngiongˋ banˊ?"}
+    sx: {hanzi: "阿傑過定仰般？", pinyin: "aˊ kiedˋ go tin ngiongˋ banˊ?"}
   - n: 12
     speaker: Sam
     en: "Very lively. A-khim served the tea, and everyone stood up and held the cup with both hands."
@@ -64,7 +64,7 @@ dialogue:
   - n: 13
     speaker: Sam
     en: "阿傑 was so nervous his hands shook, and the ring fell on the floor."
-    sx: {hanzi: "阿傑緊張到手都會顫，禁指跌落地泥。", pinyin: "aˊ kied ginˋ zongˊ do suˋ du voi zunˊ, gim ziiˋ diedˋ log ti naiˇ."}
+    sx: {hanzi: "阿傑緊張到手都會顫，禁指跌落地泥。", pinyin: "aˊ kiedˋ ginˋ zongˊ do suˋ du voi zunˊ, gim ziiˋ diedˋ log ti naiˇ."}
   - n: 14
     speaker: 阿明
     en: "And A-khim's younger sister? Did she think the Frenchman was handsome?"
@@ -87,8 +87,8 @@ dialogue:
     sx: {hanzi: "續等𠊎就講愛敬老！", pinyin: "sa denˋ ngaiˇ qiu gongˋ oi gin loˋ!"}
   - n: 19
     speaker: 阿婆
-    en: "Last week there was an earthquake in the night. Did you all feel it?"
-    sx: {hanzi: "上禮拜半夜有地動，你兜感覺著無？", pinyin: "song liˊ bai ban ia iuˊ ti tungˊ, nˇ deuˊ gamˋ gogˋ doˋ moˇ?"}
+    en: "On the night of 21 October there was an earthquake. Did you all feel it?"
+    sx: {hanzi: "十月二十一號半夜有地動，你兜感覺著無？", pinyin: "siib ngied ngi siib idˋ ho ban ia iuˊ ti tungˊ, nˇ deuˊ gamˋ gogˋ doˋ moˇ?"}
   - n: 20
     speaker: Sam
     en: "I did. The bed swayed a bit. I crouched under the table straight away."
@@ -142,7 +142,7 @@ notes:
   - ref: 12
     topic: vocab
     text: >
-      扛茶, 兜 "hold in both hands" (進修 20).
+      扛茶 (進修 20); 兜 "hold in both hands" as in 進修 20, line 13 (lesson 10 taught 兜 as the plural suffix).
   - ref: 15
     topic: false-friend
     text: >
@@ -154,7 +154,7 @@ notes:
   - ref: 20
     topic: vocab
     text: >
-      地動, 搖, 跍, 預防 (進修 18). 感覺著 "felt it": V著 (doˋ) "manage to".
+      地動, 搖, 跍, 預防 (進修 18); 盡重要 "most important" (盡 "most" here; checklist). 感覺著 "felt it": V著 (doˋ) "manage to".
   - ref: 23
     topic: vocab
     text: >

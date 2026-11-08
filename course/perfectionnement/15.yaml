@@ -27,11 +27,11 @@ dialogue:
 - n: 5
   speaker: 阿英
   en: Yes. Nobody knows who started it, but now every household does it.
-  sx: {hanzi: 係啊，毋知麼人開始个，這下家家戶戶都焙肉。, pinyin: 'he a, mˇ diˊ maˋ nginˇ koiˊ siiˋ ge, iaˋ ha gaˊ gaˊ fu fu du poi ngiugˋ.'}
+  sx: {hanzi: 係啊，毋知麼人開始个，這下家家戶戶都焙肉。, pinyin: 'he a, mˇ diˊ maˋ nginˇ koiˊ ciiˋ ge, iaˋ ha gaˊ gaˊ fu fu du poi ngiugˋ.'}
 - n: 6
   speaker: 阿婆
-  en: In the old days there was no barbecue. At Mid-Autumn we ate glutinous rice cakes and pomelo.
-  sx: {hanzi: 頭擺無焙肉，八月半食粢粑仔同柚仔。, pinyin: 'teuˇ baiˋ moˇ poi ngiugˋ, badˋ ngied ban siid qiˇ baˊ eˋ tungˇ iu eˋ.'}
+  en: In the old days there was no barbecue. At Mid-Autumn we ate mooncakes and pomelo.
+  sx: {hanzi: 頭擺無焙肉，八月半食月餅同柚仔。, pinyin: 'teuˇ baiˋ moˇ poi ngiugˋ, badˋ ngied ban siid ngied biangˋ tungˇ iu eˋ.'}
 - n: 7
   speaker: 阿婆
   en: I've made the rice cakes; dip them in sugar to eat.
@@ -60,8 +60,8 @@ dialogue:
   check: true
 - n: 13
   speaker: 阿婆
-  en: In the kitchen there's fried taro and braised pork too, and the pork knuckle is still simmering.
-  sx: {hanzi: 灶下還有烰芋仔、燜豬肉，豬腳還在該煲。, pinyin: 'zo haˊ hanˇ iuˊ poˇ vu eˋ, munˊ zuˊ ngiugˋ, zuˊ giogˋ hanˇ du ge boˊ.'}
+  en: In the kitchen there's fried taro and braised pork too, and the pork knuckle is still simmering; the longer it simmers, the more flavour it takes.
+  sx: {hanzi: 灶下還有烰芋仔、燜豬肉，豬腳還在該煲，煲越久越入味。, pinyin: 'zo haˊ hanˇ iuˊ poˇ vu eˋ, munˊ zuˊ ngiugˋ, zuˊ giogˋ hanˇ du ge boˊ, boˊ ied giuˋ ied ngib mi.'}
 - n: 14
   speaker: Sam
   en: So much food! Is Mid-Autumn a cooking contest in your family?
@@ -73,7 +73,7 @@ dialogue:
 - n: 16
   speaker: 阿英
   en: Grandma, how do you open a pomelo?
-  sx: {hanzi: 阿婆，這柚仔仰般擘？, pinyin: 'aˊ poˇ, iaˋ iu eˋ ngiongˋ banˊ bagˋ?'}
+  sx: {hanzi: 阿婆，這隻柚仔仰般擘？, pinyin: 'aˊ poˇ, iaˋ zagˋ iu eˋ ngiongˋ banˊ bagˋ?'}
 - n: 17
   speaker: 阿婆
   en: First cut a ring round it with a knife, then prise it open with your hands.
@@ -93,8 +93,9 @@ dialogue:
   check: true
 - n: 21
   speaker: Sam
-  en: (licking his fingers) It's so good I want to lick my fingers clean.
-  sx: {hanzi: 好食到手指都想舐淨。, pinyin: hoˋ siid do suˋ ziiˋ du xiongˋ seˊ qiang.}
+  en: It's so good I want to lick the bowl clean.
+  sx: {hanzi: 好食到盆仔都想舐到淨淨。, pinyin: hoˋ siid do punˇ eˋ du xiongˋ seˊ do qiang qiang.}
+  check: true
 - n: 22
   speaker: 阿明
   en: Sam eats like a duck swallowing a worm!
@@ -149,7 +150,8 @@ notes:
 - ref: 6
   topic: vocab
   text: >
-    粢粑仔 qiˇ baˊ eˋ "glutinous rice cake" (Hakka 麻糬): 打粢粑仔 "pound rice cakes" (line 7). 柚仔 (lesson 92).
+    月餅 ngied biangˋ "mooncake" (MOE: 八月半…係歸家人共下賞月、食月餅个團圓日). 柚仔 (lesson 92). 粢粑仔 qiˇ baˊ eˋ "glutinous
+    rice cake" (Hakka 麻糬) is Grandma's own treat, not a Mid-Autumn custom in the data: 打粢粑仔 "pound rice cakes" (line 7).
 - ref: 7
   topic: vocab
   text: >
@@ -212,7 +214,7 @@ notes:
 - ref: 21
   topic: vocab
   text: >
-    舐 seˊ "lick" (狗仔將盆仔舐到淨淨 "the dog licked the bowl clean"). 手指 (lesson 78).
+    舐 seˊ "lick" (狗仔將盆仔舐到淨淨 "the dog licked the bowl clean"); 盆仔 punˇ eˋ "bowl, basin". Sam's 好食到… is our line; marked for review.
 - ref: 25
   topic: vocab
   text: >
@@ -228,6 +230,7 @@ new_words:
 - {hanzi: 燒火, pinyin: seuˊ foˋ, en: make and tend a fire}
 - {hanzi: 熝, pinyin: lug, en: 'scald, burn'}
 - {hanzi: 粢粑仔, pinyin: qiˇ baˊ eˋ, en: glutinous rice cake}
+- {hanzi: 月餅, pinyin: ngied biangˋ, en: mooncake}
 - {hanzi: 搵, pinyin: vun, en: dip}
 - {hanzi: 噍, pinyin: ceu, en: chew}
 - {hanzi: 吞, pinyin: tunˊ, en: swallow}

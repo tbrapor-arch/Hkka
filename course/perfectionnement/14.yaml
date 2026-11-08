@@ -49,7 +49,7 @@ dialogue:
   - n: 10
     speaker: 阿婆
     en: "(to the stallholder) How much are these pomelos?"
-    sx: {hanzi: "頭家，這柚仔價數幾多？", pinyin: "teuˇ gaˊ, iaˋ iu eˋ ga sii giˋ doˊ?"}
+    sx: {hanzi: "頭家，這兜柚仔價數幾多？", pinyin: "teuˇ gaˊ, iaˋ deuˊ iu eˋ ga sii giˋ doˊ?"}
   - n: 11
     speaker: 頭家
     en: "Sixty dollars a catty. These are 文旦 from 麻豆: the real thing."
@@ -65,7 +65,7 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "Sam, have you seen 阿傑's girlfriend?"
-    sx: {hanzi: "Sam，阿傑个細妹條仔你看過無？", pinyin: "Sam, aˊ kied ge se moi tiauˇ eˋ nˇ kon go moˇ?"}
+    sx: {hanzi: "Sam，阿傑个女朋友你看過無？", pinyin: "Sam, aˊ kiedˋ ge ngˋ penˇ iuˊ nˇ kon go moˇ?"}
   - n: 15
     speaker: Sam
     en: "Not yet. They say she's very pretty. They get engaged on 28 October; I'm going."
@@ -84,16 +84,17 @@ dialogue:
     sx: {hanzi: "你个教授仰般？", pinyin: "nˇ ge gau su ngiongˋ banˊ?"}
   - n: 19
     speaker: Sam
-    en: "Very good-tempered. I told him about 鍾伯's essay, and he says he knows 鍾伯."
-    sx: {hanzi: "性體當好。𠊎同佢講著鍾伯个文章，佢講佢識鍾伯。", pinyin: "xin tiˋ dongˊ hoˋ. ngaiˇ tungˇ giˇ gongˋ doˋ zungˊ bagˋ ge vunˇ zongˊ, giˇ gongˋ giˇ siidˋ zungˊ bagˋ."}
+    en: "Very good-tempered; they say he's about to retire. I told him about 鍾伯's essay, and he says he knows 鍾伯."
+    sx: {hanzi: "性體當好，聽講就愛退休吔。𠊎同佢講著鍾伯个文章，佢講佢識鍾伯。", pinyin: "xin tiˋ dongˊ hoˋ, tangˊ gongˋ qiu oi tui hiuˊ leˊ. ngaiˇ tungˇ giˇ gongˋ doˋ zungˊ bagˋ ge vunˇ zongˊ, giˇ gongˋ giˇ siidˋ zungˊ bagˋ."}
   - n: 20
     speaker: 阿英
-    en: "The 鍾伯 from 美濃? The one whose cutting I sent you?"
-    sx: {hanzi: "美濃該隻鍾伯？𠊎寄分你个該篇文章？", pinyin: "miˊ nungˇ ge zagˋ zungˊ bagˋ? ngaiˇ gi bunˊ nˇ ge ge pienˊ vunˇ zongˊ?"}
+    en: "The 鍾伯 with the 伙房 compound in 美濃? The one whose cutting I sent you?"
+    sx: {hanzi: "美濃伙房屋該隻鍾伯？𠊎寄分你个該篇文章？", pinyin: "miˊ nungˇ foˋ fongˇ vugˋ ge zagˋ zungˊ bagˋ? ngaiˇ gi bunˊ nˇ ge ge pienˊ vunˇ zongˊ?"}
   - n: 21
     speaker: 阿明
-    en: "The young Frenchman in 鍾伯's essay is Sam! Sam's in the papers!"
-    sx: {hanzi: "鍾伯文章肚講个法國後生人，就係Sam！Sam在報紙項吔！", pinyin: "zungˊ bagˋ vunˇ zongˊ duˋ gongˋ ge fabˋ guedˋ heu sangˊ nginˇ, qiu he Sam! Sam coiˊ bo ziiˋ hong leˊ!"}
+    en: "The young Frenchman in 鍾伯's essay is Sam! Sam's in a magazine!"
+    sx: {hanzi: "鍾伯文章肚講个法國後生人，就係Sam！Sam上雜誌吔！", pinyin: "zungˊ bagˋ vunˇ zongˊ duˋ gongˋ ge fabˋ guedˋ heu sangˊ nginˇ, qiu he Sam! Sam songˊ cab zii leˊ!"}
+    check: true
   - n: 22
     speaker: Sam
     en: "Grandma, I've sung Grandpa's mountain song for A-in."
@@ -108,8 +109,8 @@ dialogue:
     sx: {hanzi: "𠊎講：燕仔轉竇，毋使愁。", pinyin: "ngaiˇ gongˋ: ien eˋ zonˋ deu, mˇ siiˋ seuˇ."}
   - n: 25
     speaker: 阿婆
-    en: "(smiling) The osmanthus smells lovely. Let's buy some to take home and put in the yard."
-    sx: {hanzi: "桂花當香，買兜仔轉去，放在禾埕。", pinyin: "gui faˊ dongˊ hiongˊ, maiˊ deuˊ eˋ zonˋ hi, biong coiˊ voˇ tangˇ."}
+    en: "(smiling) The osmanthus smells lovely. Let's buy some to take home and put in the ancestral hall."
+    sx: {hanzi: "桂花當香，買兜仔轉去，放在公廳。", pinyin: "gui faˊ dongˊ hiongˊ, maiˊ deuˊ eˋ zonˋ hi, biong coiˊ gungˊ tangˊ."}
 
 notes:
   - ref: 0
@@ -135,7 +136,7 @@ notes:
   - ref: 15
     topic: vocab
     text: >
-      進修 8's letter: 細妹條仔, 靚膩膩, 過定, 緣投.
+      進修 8's letter: 靚膩膩, 過定, 緣投; 女朋友 (lesson 32).
   - ref: 19
     topic: grammar
     text: >
@@ -143,7 +144,7 @@ notes:
   - ref: 20
     topic: culture
     text: >
-      A-in posted Sam the cutting of 鍾伯's essay (進修 12). 寄 "post, send" and 篇 for a piece of writing.
+      A-in posted Sam the cutting of 鍾伯's essay from a Hakka magazine (進修 12): 伙房屋 is that lesson's word, and so are 退休 (line 19) and 公廳 (line 25). 寄 "post, send" and 篇 for a piece of writing. 上雜誌 "be in a magazine" follows MOE 這件事上報紙; 雜誌 is lesson 79's. Marked for review.
   - ref: 24
     topic: vocab
     text: >
@@ -156,7 +157,7 @@ exercises:
     - en: "I'm paying this time."
       sx: {hanzi: "這擺𠊎來撿錢。", pinyin: "iaˋ baiˋ ngaiˇ loiˇ giamˋ qienˇ."}
     - en: "These pomelos are the real thing."
-      sx: {hanzi: "這柚仔係真个。", pinyin: "iaˋ iu eˋ he ziinˊ ge."}
+      sx: {hanzi: "這兜柚仔係真个。", pinyin: "iaˋ deuˊ iu eˋ he ziinˊ ge."}
     - en: "That con man was a great boaster."
       sx: {hanzi: "該隻落仔當會膨風。", pinyin: "ge zagˋ lau eˋ dongˊ voi pong fungˊ."}
     - en: "Don't be late."
@@ -169,7 +170,7 @@ exercises:
     - en: "Since when am I that stingy?"
       sx: {hanzi: "𠊎幾時恁___？", pinyin: "ngaiˇ giˋ siiˇ anˋ ___?", answer_hanzi: "齧", answer: "ngadˋ"}
     - en: "How much are these pomelos?"
-      sx: {hanzi: "這柚仔___幾多？", pinyin: "iaˋ iu eˋ ___ giˋ doˊ?", answer_hanzi: "價數", answer: "ga sii"}
+      sx: {hanzi: "這兜柚仔___幾多？", pinyin: "iaˋ deuˊ iu eˋ ___ giˋ doˊ?", answer_hanzi: "價數", answer: "ga sii"}
     - en: "They get engaged on 28 October."
       sx: {hanzi: "十月二十八___。", pinyin: "siib ngied ngi siib badˋ ___.", answer_hanzi: "過定", answer: "go tin"}
     - en: "The swallow comes home to its nest."

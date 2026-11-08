@@ -24,10 +24,10 @@ dialogue:
   sx: {hanzi: 係唱麼个个？, pinyin: 'he cong maˋ ge ge?'}
 - n: 4
   speaker: 阿公
-  en: About swallows. Swallows build their nests under the eaves; in winter they fly south, and in summer they come back
+  en: About swallows. Swallows build their nests under the eaves; in winter they fly south, and in spring they come back
     to the nest.
-  sx: {hanzi: 唱燕仔。燕仔在屋簷下做竇，寒天飛去南片，熱天又轉竇。, pinyin: 'cong ien eˋ. ien eˋ coiˊ vugˋ iamˇ haˊ zo deu, honˇ tienˊ biˊ hi namˇ
-      pienˋ, ngied tienˊ iu zonˋ deu.'}
+  sx: {hanzi: 唱燕仔。燕仔在屋簷下做竇，寒天飛去南片，春天又轉竇。, pinyin: 'cong ien eˋ. ien eˋ coiˊ vugˋ iamˇ haˊ zo deu, honˇ tienˊ biˊ hi namˇ
+      pienˋ, cunˊ tienˊ iu zonˋ deu.'}
 - n: 5
   speaker: 阿婆
   en: In the old days, at rice-planting time, the swallows would be flying all over the fields.
@@ -141,7 +141,7 @@ notes:
 - ref: 0
   topic: culture
   text: >
-    A song. A mountain song (山歌) verse has four lines of seven syllables; lines 1, 2 and 4 rhyme. Here the rhymes are on
+    A song. A mountain song (山歌) verse usually has four lines of seven syllables, with lines 1, 2 and 4 rhyming (general knowledge). Here the rhymes are on
     the finals: 走 zeuˋ / 頭 teuˇ / 愁 seuˇ; 香 hiongˊ / 長 congˇ / 光 gongˊ; 源 ngienˇ / 年 ngienˇ / 遠 ienˋ. The words are the
     course's own and every sung line is marked for a native speaker. The title comes from the official sentence 臨暗仔，月鴿仔會轉竇
     "at dusk the pigeons go home to roost".
@@ -149,7 +149,7 @@ notes:
   topic: vocab
   text: >
     燕仔 ien eˋ "swallow" (燕仔在屋簷下做竇 "swallows nest under the eaves", an official sentence). 竇 deu "nest, den"; 做竇 "build a
-    nest"; 轉竇 zonˋ deu "go home to the nest". 南片 namˇ pienˋ "the south". 屋簷 "eaves" (lesson 54).
+    nest"; 轉竇 zonˋ deu "go home to the nest". 南片 namˇ pienˋ "the south". 屋簷 "eaves" (lesson 54). Swallows come back in spring: 逐年三、四月仔，吾屋簷下就會有燕仔來做竇 (kaga; translation exercise 4).
 - ref: 5
   topic: vocab
   text: >
@@ -172,7 +172,7 @@ notes:
 - ref: 13
   topic: grammar
   text: >
-    毋使 + verb "no need to" (lesson 33): 毋使愁 "nothing to worry about".
+    毋使 + verb "no need to" (lesson 11): 毋使愁 "nothing to worry about".
 - ref: 14
   topic: vocab
   text: >
@@ -188,7 +188,7 @@ notes:
 - ref: 18
   topic: vocab
   text: >
-    根 ginˊ "root"; 源 ngienˇ "source, spring" (MOE). Roots and springs are the usual images for where you come from.
+    根 ginˊ "root"; 源 ngienˇ "source, spring" (MOE). Here roots and springs stand for where you come from.
 - ref: 24
   topic: vocab
   text: >
@@ -218,7 +218,6 @@ new_words:
 - {hanzi: 霜, pinyin: songˊ, en: frost}
 - {hanzi: 湖, pinyin: fuˇ, en: lake}
 - {hanzi: 秋, pinyin: qiuˊ, en: autumn}
-- {hanzi: 價, pinyin: ga, en: 'price, value'}
 - {hanzi: 蒔田, pinyin: sii tienˇ, en: plant out rice seedlings}
 exercises:
   translate:
@@ -231,15 +230,15 @@ exercises:
   - en: The scent of osmanthus is very alluring.
     source: kaga115
     sx: {hanzi: 桂花个香味當餳人。, pinyin: gui faˊ ge hiongˊ mi dongˊ xiangˇ nginˇ.}
-  - en: Life is priceless.
-    source: kaga115
-    sx: {hanzi: 生命係無價个。, pinyin: senˊ miang he moˇ ga ge.}
+  - en: Every year in March or April, swallows come and nest under our eaves.
+    source: kaga
+    sx: {hanzi: 逐年三、四月仔，吾屋簷下就會有燕仔來做竇。, pinyin: 'dagˋ ngienˇ samˊ, xi ngied eˋ, ngaˊ vugˋ iamˇ haˊ qiu voi iuˊ ien eˋ loiˇ zo deu.'}
   - en: The plant Dad grafted has put out new shoots.
     source: kaga115
     sx: {hanzi: 阿爸接个花樹過枝綻筍吔。, pinyin: aˊ baˊ jiabˋ ge faˊ su go giˊ can sunˋ leˊ.}
   fill:
-  - en: In summer they come back to the nest.
-    sx: {hanzi: 熱天又___。, pinyin: ngied tienˊ iu ___., answer_hanzi: 轉竇, answer: zonˋ deu}
+  - en: In spring they come back to the nest.
+    sx: {hanzi: 春天又___。, pinyin: cunˊ tienˊ iu ___., answer_hanzi: 轉竇, answer: zonˋ deu}
   - en: So that's how it was!
     sx: {hanzi: ___係恁樣！, pinyin: ___ he anˋ ngiongˇ!, answer_hanzi: 原來, answer: ngienˇ loiˇ}
   - en: The seedlings are sprouting.

@@ -46,8 +46,8 @@ dialogue:
   sx: {hanzi: 第一，後生人手頭有錢，就會儘採買東西。, pinyin: 'ti idˋ, heu sangˊ nginˇ suˋ teuˇ iuˊ qienˇ, qiu voi qinˋ caiˋ maiˊ dungˊ xiˊ.'}
 - n: 9
   speaker: 阿芳
-  en: 'What they buy isn''t worth much: it''s their parents'' money wasted.'
-  sx: {hanzi: 買來个東西無值幾多錢，打爽爺哀个錢。, pinyin: 'maiˊ loiˇ ge dungˊ xiˊ moˇ dad giˋ doˊ qienˇ, daˋ songˋ iaˇ oiˊ ge qienˇ.'}
+  en: 'What they buy really isn''t worth it: it''s their parents'' money wasted.'
+  sx: {hanzi: 買來个東西實在毋值，打爽爺哀个錢。, pinyin: 'maiˊ loiˇ ge dungˊ xiˊ siid cai mˇ dad, daˋ songˋ iaˇ oiˊ ge qienˇ.'}
 - n: 10
   speaker: 阿芳
   en: 'Second: children from rich families have lots, children from poor families little.'
@@ -154,7 +154,7 @@ notes:
   topic: vocab
   text: >
     省儆 sangˋ kiang "thrifty, careful with things" (客人當省儆 "Hakka people are very thrifty"). 貯金 duˋ gimˊ "save money, savings"
-    (去郵局貯金 "put money in at the post office"); 貯 duˋ alone "save, store" (line 15).
+    (去郵局貯金 "put money in at the post office"); 貯 duˋ alone "save, store" (line 5).
 - ref: 5
   topic: vocab
   text: >
@@ -174,7 +174,7 @@ notes:
 - ref: 9
   topic: vocab
   text: >
-    值 dad "be worth" (這幅圖值得幾多錢？); 無值幾多錢 "not worth much".
+    值 dad "be worth" (這幅圖值得幾多錢？); 毋值 "not worth it" (official: 實在毋值, 盡毋值).
 - ref: 10
   topic: vocab
   text: >
@@ -217,7 +217,7 @@ notes:
 - ref: 20
   topic: vocab
   text: >
-    慨 koiˋ "generous, open-handed" and 齧 ngadˋ (line 18) "stingy" (這頭家齧到會死 "this boss is stingy to death").
+    慨 koiˋ "generous, open-handed" and 齧 ngadˋ (line 21) "stingy" (這頭家齧到會死 "this boss is stingy to death").
 - ref: 22
   topic: vocab
   text: >
