@@ -516,6 +516,8 @@ body.has-mini main { padding-bottom: 11rem; }
 kbd { font-family: var(--f-ui); font-size: .7rem; font-weight: 700; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; opacity: .6; margin-left: .2rem; }
 @media (hover: none) { kbd { display: none; } }
 /* ---- Hakka additions */
+.tm { display: inline-block; margin-left: -.14em; margin-right: -.06em; }
+.punct + .tm, .tm:first-child { margin-left: 0; }
 .accseg { margin-left: auto; }
 .tok.c-to { text-decoration: underline solid var(--brand) 2.5px; text-underline-offset: .3em; }
 .sent.check .n::after { content: " ?"; color: var(--coral); }
@@ -541,6 +543,9 @@ kbd { font-family: var(--f-ui); font-size: .7rem; font-weight: 700; border: 1px 
 const DATA = JSON.parse(document.getElementById('app-data').textContent);
 const $ = (s, el = document) => el.querySelector(s);
 const $$ = (s, el = document) => [...el.querySelectorAll(s)];
+// pinyin: the tone letters ˊ ˇ ˋ are spacing characters with wide side bearings; wrapped so CSS can pull them
+// onto the syllable (ngaiˇ, not ngai ˇ)
+const rom = s => esc(s).replace(/[ˊˇˋ]/g, m => `<span class="tm">${m}</span>`);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const store = {
@@ -646,7 +651,7 @@ function showLessons() {
     <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * mdone / TOTAL)}%"></i></div>
     ${next ? `<div class="card raised nextcard">
       <span class="eyebrow">${last === next.id ? 'Carry on' : 'Next lesson'}${dt ? ` · ${dt} done today` : ''}${st > 1 ? ` · ${st}-day streak` : ''}</span>
-      <div class="nc-main"><span class="nc-n">${lnum(next.id)}</span><span class="nc-t"><span class="han">${esc(titleOf(next, accOf(next)).h)}</span><span class="rom sub">${esc(titleOf(next, accOf(next)).p)} · ${esc(next.title.en)}</span></span>
+      <div class="nc-main"><span class="nc-n">${lnum(next.id)}</span><span class="nc-t"><span class="han">${esc(titleOf(next, accOf(next)).h)}</span><span class="rom sub">${rom(titleOf(next, accOf(next)).p)} · ${esc(next.title.en)}</span></span>
         <button class="btn" data-go="lesson-${next.id}">${last === next.id ? 'Resume' : 'Start'} →</button></div></div>`
       : `<div class="card raised"><span class="eyebrow">All written lessons are done</span><span>New lessons will appear here as they are written.</span></div>`}
     ${wv ? `<div class="card wave"><span class="eyebrow">${wv.review ? 'Review · second wave' : 'Second wave'}</span>
@@ -680,17 +685,17 @@ function nextWave() {
 // ---------- tokenised sentence
 const HAN_RE = /[㐀-鿿\u{20000}-\u{3ffff}豈-﫿]/u;
 const TOKS = {};
-function rtHTML(r) { return `<rt><span class="rw">${esc(r)}</span></rt>`; }
+function rtHTML(r) { return `<rt><span class="rw">${rom(r)}</span></rt>`; }
 function tokHTML(tok, key) {
   if (tok.x !== undefined) {
-    if (tok.p !== undefined) return prefs.mode === 'rom' ? esc(tok.p) : `<ruby>${esc(tok.x)}${prefs.mode === 'han' ? '' : rtHTML(tok.p)}</ruby>`;   // a line that could not be cut
+    if (tok.p !== undefined) return prefs.mode === 'rom' ? rom(tok.p) : `<ruby>${esc(tok.x)}${prefs.mode === 'han' ? '' : rtHTML(tok.p)}</ruby>`;   // a line that could not be cut
     if (tok.name) return `<span class="punct">${esc(tok.x)}</span>${prefs.mode === 'rom' ? ' ' : ''}`;
     return `<span class="punct">${esc(prefs.mode === 'rom' ? (PUNCT[tok.x] ?? tok.x) : tok.x)}</span>`;
   }
   const w = tok.w, cls = 'tok ' + (w.id ? cog(w.id)[2] : '');
   TOKS[key] = w;
   const a = `class="${cls}" tabindex="0" role="button" data-tok="${key}"`;
-  if (prefs.mode === 'rom') return `<span ${a}>${esc(w.p)}</span> `;
+  if (prefs.mode === 'rom') return `<span ${a}>${rom(w.p)}</span> `;
   if (prefs.mode === 'han') return `<span ${a}>${esc(w.h)}</span>`;
   return `<ruby ${a}>${esc(w.h)}${rtHTML(w.p)}</ruby>`;
 }
@@ -740,7 +745,7 @@ function showLesson(L) {
       <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${prev}" aria-label="Previous lesson" ${prev !== undefined ? '' : 'disabled'}>‹</button>
       <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${nxt}" aria-label="Next lesson" ${nxt !== undefined ? '' : 'disabled'}>›</button></div>
     <div class="head"><span class="eyebrow">${WAVE ? (L.review ? 'Review · second wave' : 'Second wave') : `${lname(L.id)}${L.review ? ' · Review' : L.genre && L.genre !== 'dialogue' ? ' · ' + (GENRES[L.genre] || L.genre) : ''}${L.p2 ? ' · Sixian' : a === 'hl' ? ' · Hailu' : ' · Sixian'}`}</span>
-      <h1>${esc(T.h)}</h1><span class="rom">${esc(T.p)} · ${esc(L.title.en)}</span></div>
+      <h1>${esc(T.h)}</h1><span class="rom">${rom(T.p)} · ${esc(L.title.en)}</span></div>
     ${chips.length ? `<nav class="lnav" aria-label="Sections">${chips.map(([id, t]) => `<button data-jump="${id}">${t}</button>`).join('')}</nav>` : ''}
     ${WAVE ? `<p class="wave-intro">Each line shows the English. Say it in Hakka out loud, then tap <b>Show Hakka</b> to check. Tap a word to open its card; the notes are in the normal lesson.</p>`
       : `<p class="setting" style="margin:0">${fmt(L.setting)}</p>`}
@@ -758,7 +763,7 @@ function showLesson(L) {
     <details class="allnotes" id="sec-notes"><summary><span class="han">注解</span> All notes (${L.notes.length})</summary>
     <ol class="notes">${L.notes.map((n, i) => `<li class="note" id="note-${i + 1}"><span class="nn">${i + 1}</span><p><span class="tag ${esc(n.topic)}">${n.ref ? 'Line ' + n.ref : 'General'} · ${esc((n.topic || '').replace('-', ' '))}</span>${fmt(n.text)}</p></li>`).join('')}</ol></details>
     <h2 id="sec-words"><span class="han">新詞</span> New words</h2>
-    ${L.words.length ? `<div class="wgrid">${L.words.map(w => { const x = w[a] || w.sx; return x ? `<button class="wchip ${x.id ? cog(x.id)[2] : ''} ${deck[x.id] ? 'indeck' : ''}" data-word="${esc(x.id)}"><b>${esc(x.h)}</b><span class="r">${esc(x.p)}</span><span class="g">${esc(w.en || '')}</span></button>` : ''; }).join('')}</div>
+    ${L.words.length ? `<div class="wgrid">${L.words.map(w => { const x = w[a] || w.sx; return x ? `<button class="wchip ${x.id ? cog(x.id)[2] : ''} ${deck[x.id] ? 'indeck' : ''}" data-word="${esc(x.id)}"><b>${esc(x.h)}</b><span class="r">${rom(x.p)}</span><span class="g">${esc(w.en || '')}</span></button>` : ''; }).join('')}</div>
     <div class="row"><button class="btn small quiet" id="addall">Add all to Practice</button><button class="btn small quiet" id="anki">Copy for Anki</button><span class="sub" style="font-size:.85rem" id="inlist"></span></div>` : '<p class="sub" style="margin:0">A review: no new words.</p>'}
     <h2 id="sec-ex"><span class="han">練習</span> Practice</h2>
     <p class="sub" style="margin:0;font-size:.85rem">Type pinyin with tone marks (ˊ ˇ ˋ) or without them, or the characters.</p>
@@ -809,11 +814,11 @@ async function copyText(txt, btn, okMsg) {
 // ---------- exercises: "translate" shows a Hakka sentence (meaning hidden); "fill" asks for the missing word
 function exHTML(e, i, a) {
   const b = e[a] || e.sx; if (!b) return '';
-  if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span><span class="h">${esc(b.h)}</span><span class="t">${esc(b.p)}</span><span class="sub">${esc(e.en || '')}</span>
+  if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span><span class="h">${esc(b.h)}</span><span class="t">${rom(b.p)}</span><span class="sub">${esc(e.en || '')}</span>
     <form data-ex="${i}"><input id="ex-${i}" aria-label="Your answer" autocomplete="off" spellcheck="false" placeholder="Type in pinyin or 漢字">
     <button class="btn small" type="submit">Check</button><button class="btn small quiet" type="button" data-show="${i}">Show</button></form>
     <span class="fb" id="fb-${i}" aria-live="polite"></span></div>`;
-  return `<div class="card exi"><span class="k">What does it mean?</span><span class="h">${esc(b.h)}</span><span class="t">${esc(b.p)}</span>
+  return `<div class="card exi"><span class="k">What does it mean?</span><span class="h">${esc(b.h)}</span><span class="t">${rom(b.p)}</span>
     <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show English</button><span class="fb" id="fb-${i}"></span></div>`;
 }
 const norm = s => (s || '').normalize('NFC').toLowerCase().replace(/[.,!?;:'"「」，。！？：、]/g, '').replace(/\s+/g, ' ').trim();
@@ -846,7 +851,7 @@ function showLesson0() {
 const SRC = { kaga115: '客語能力認證詞彙 115年度 (客委會)', kaga: '客語能力認證詞彙 102年版 (客委會)', moe: '教育部臺灣客家語常用詞辭典' };
 function openCard(id, w) {
   const c = id ? DATA.dict[id] : null, sh = $('#sheet');
-  const top = (h, t, extra) => `<div class="grab"></div><div class="wc-top"><div><div class="wc-h">${esc(h)}</div><div class="wc-t">${esc(t)}</div>${extra || ''}</div><div class="wc-btns"><button class="x" aria-label="Close">×</button></div></div>`;
+  const top = (h, t, extra) => `<div class="grab"></div><div class="wc-top"><div><div class="wc-h">${esc(h)}</div><div class="wc-t">${rom(t)}</div>${extra || ''}</div><div class="wc-btns"><button class="x" aria-label="Close">×</button></div></div>`;
   if (!c) sh.innerHTML = top(w ? w.h : '', w ? w.p : '') + '<p class="empty">A name, or a reading not in the lists or the dictionary.</p>';
   else {
     const [pc, pt] = cog(id);
@@ -856,7 +861,7 @@ function openCard(id, w) {
       ${c.g || c.en ? `<div class="wc-sec"><h3>English</h3><div class="wc-gloss">${esc(c.g || c.en)}</div>${c.g && c.en && c.en !== c.g ? `<div class="sub" style="font-size:.85rem">Lists: ${esc(c.en)}</div>` : ''}</div>` : ''}
       ${c.m ? `<div class="wc-sec"><h3>Mandarin</h3><div class="han">${esc(c.m)}</div></div>` : ''}
       ${c.def ? `<div class="wc-sec"><h3>Dictionary</h3><ol>${c.def.map(d => `<li class="han">${esc(d)}</li>`).join('')}</ol></div>` : ''}
-      ${c.ex ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.ex.h)}</div>${c.ex.p ? `<div class="t">${esc(c.ex.p)}</div>` : ''}<div class="m">${esc(c.ex.m || '')}</div>${c.ex.en ? `<div class="sub">${esc(c.ex.en)}</div>` : ''}${c.exclip ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the example</button>` : ''}</div>` : ''}
+      ${c.ex ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.ex.h)}</div>${c.ex.p ? `<div class="t">${rom(c.ex.p)}</div>` : ''}<div class="m">${esc(c.ex.m || '')}</div>${c.ex.en ? `<div class="sub">${esc(c.ex.en)}</div>` : ''}${c.exclip ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the example</button>` : ''}</div>` : ''}
       ${c.at ? `<div class="wc-at">New word in <button class="linkish" data-go="lesson-${c.atid}"><b>${esc(c.at)}</b></button></div>` : ''}
       <div class="row"><button class="btn small ${inD ? 'quiet' : ''}" id="deck">${inD ? '✓ In Practice · remove' : 'Add to Practice'}</button></div>
       ${c.src ? `<div class="wc-src">Source: ${esc(SRC[c.src] || c.src)}${c.clip ? '. Recording: 客家委員會.' : ''}</div>` : ''}`;
@@ -941,7 +946,7 @@ function showCard() {
   const m = $('#main');
   if (sess.i >= sess.queue.length) {
     m.innerHTML = `<div class="col"><div class="head"><span class="eyebrow">Practice · ${esc(sess.title)}</span><h1>好勢！</h1><span class="rom">Done</span></div>
-      <div class="card raised"><div class="stat"><b>${sess.total - sess.missed.size}/${sess.total}</b><span class="sub">remembered the first time</span></div>${sess.missed.size ? `<span class="sub">To look at again: ${[...sess.missed].map(id => `<span class="han">${esc(DATA.dict[id].h)}</span> ${esc(DATA.dict[id].p)}`).join(' · ')}</span>` : ''}</div>
+      <div class="card raised"><div class="stat"><b>${sess.total - sess.missed.size}/${sess.total}</b><span class="sub">remembered the first time</span></div>${sess.missed.size ? `<span class="sub">To look at again: ${[...sess.missed].map(id => `<span class="han">${esc(DATA.dict[id].h)}</span> ${rom(DATA.dict[id].p)}`).join(' · ')}</span>` : ''}</div>
       <div class="row"><button class="btn" id="back">Back</button></div></div>`;
     $('#back').onclick = () => { sess = null; showReview(); };
     return;
@@ -951,7 +956,7 @@ function showCard() {
     <div class="row" style="justify-content:space-between"><span class="eyebrow">Practice · ${esc(sess.title)}</span><span class="sub">${sess.i + 1} / ${sess.queue.length}</span></div>
     <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * sess.i / sess.queue.length)}%"></i></div>
     <div class="card raised fc" aria-live="polite"><div class="big han">${esc(c.h)}</div>
-      ${sess.flipped ? `<div class="answer"><span class="r">${esc(c.p)}</span>
+      ${sess.flipped ? `<div class="answer"><span class="r">${rom(c.p)}</span>
           ${c.clip ? `<button class="btn small line" id="rplay">▶ Listen</button>` : ''}
           ${pt ? `<span class="pill ${pc}">${pt}</span>` : ''}${c.g || c.en ? `<span>${esc(c.g || c.en)}</span>` : ''}
           ${c.m ? `<span class="zh">華語 ${esc(c.m)}</span>` : ''}${c.a === 'hailu' ? '<span class="pos">海陸 Hailu</span>' : ''}</div>
