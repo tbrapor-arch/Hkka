@@ -1,0 +1,229 @@
+id: 100
+title:
+  en: "A letter to the Lius"
+  sx: {hanzi: "寫分劉家个信", pinyin: "xiaˋ bunˊ liuˇ gaˊ ge xin"}
+  hl: {hanzi: "寫分劉家个信", pinyin: "siaˊ bunˋ liu gaˋ gaiˇ sinˇ"}
+review: false
+setting: >-
+  Friday 24 December, Christmas Eve, in Sam's parents' house in France. It is snowing. The family is cooking
+  downstairs; Sam sits at the window with a pen and a sheet of paper and writes to Miaoli, in Hakka, the way he
+  learnt to in lesson 62. Lines 1–12 are the letter. His sister Lucie, who speaks only French, comes up to fetch him.
+names: [劉家, 苗栗, 法國, 阿英, 阿明, Lucie]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "To everyone in the Liu family: hello to you all!"
+    sx: {hanzi: "劉家各位：大家好！", pinyin: "liuˇ gaˊ gogˋ vi: tai gaˊ hoˋ!"}
+    hl: {hanzi: "劉家各位：大家好！", pinyin: "liu gaˋ gog vui+: tai+ gaˋ hoˊ!"}
+  - n: 2
+    speaker: Sam
+    en: "Today is 24 December. Outside it's snowing; the trees beyond the window are all snow-white, and the house is lit up and full of life."
+    sx: {hanzi: "今晡日係十二月二十四日。外背落雪，窗門外个樹仔全部白雪雪仔，屋下點燈，當鬧熱。", pinyin: "gimˊ buˊ ngidˋ he siib ngi ngied ngi siib xi ngidˋ. ngoi boi log xiedˋ, cungˊ munˇ ngoi ge su eˋ qionˇ pu pag xiedˋ xiedˋ eˇ, vugˋ kaˊ diamˋ denˊ, dongˊ nau ngied."}
+    hl: {hanzi: "今晡日係十二月二十四日。外背落雪，窗門外个樹仔全部白雪雪仔，屋下點燈，當鬧熱。", pinyin: "gimˋ buˋ ngid heˇ shibˋ ngi+ ngiedˋ ngi+ shibˋ siˇ ngid. ngo+ boiˇ logˋ sied, cungˋ mun ngoi+ gaiˇ shu+ er cion pu+ pagˋ sied sied er, vug haˋ diamˊ denˋ, dongˋ nau+ ngiedˋ."}
+  - n: 3
+    speaker: Sam
+    en: "I often think of Miaoli: Grandma's 擂茶, Grandpa's tea garden, A-in laughing, A-min's quarrels…"
+    sx: {hanzi: "𠊎輒常想起苗栗：阿婆个擂茶、阿公个茶園、阿英个笑聲、阿明个冤家……", pinyin: "ngaiˇ jiab songˇ xiongˋ hiˋ meuˇ lidˋ: aˊ poˇ ge luiˇ caˇ, aˊ gungˊ ge caˇ ienˇ, aˊ inˊ ge seu sangˊ, aˊ minˇ ge ienˊ gaˊ …"}
+    hl: {hanzi: "𠊎輒常想起苗栗：阿婆个擂茶、阿公个茶園、阿英个笑聲、阿明个冤家……", pinyin: "ngai ziabˋ shong siongˊ hiˊ miau lid: a+ po gaiˇ lui ca, a+ gungˋ gaiˇ ca rhan, a+ rhinˋ gaiˇ siauˇ shangˋ, a+ min gaiˇ rhanˋ gaˋ …"}
+  - n: 4
+    speaker: Sam
+    en: "This year I didn't only learn Hakka; I also grew up a little."
+    sx: {hanzi: "這一年，𠊎毋單淨學客話，還長大了一息仔。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ mˇ danˊ qiang hog hagˋ fa, hanˇ zongˋ tai leˊ idˋ xid eˋ."}
+    hl: {hanzi: "這一年，𠊎毋單淨學客話，還長大了一息仔。", pinyin: "liaˊ rhid ngien, ngai m danˋ ciang+ hogˋ hag voiˋ, han zhongˊ tai+ leˋ rhid sid er."}
+  - n: 5
+    speaker: Sam
+    en: "Before, I was an outsider. Now Miaoli is my second home town."
+    sx: {hanzi: "過去𠊎係外地人；這下，苗栗係𠊎第二个故鄉。", pinyin: "go hi ngaiˇ he ngoi ti nginˇ; iaˋ ha, meuˇ lidˋ he ngaiˇ ti ngi ge gu hiongˊ."}
+    hl: {hanzi: "過去𠊎係外地人；這下，苗栗係𠊎第二个故鄉。", pinyin: "goˇ hiˇ ngai heˇ ngoi+ ti+ ngin; liaˊ ha+, miau lid heˇ ngai ti+ ngi+ gaiˇ guˇ hiongˋ."}
+    check: true
+  - n: 6
+    speaker: Sam
+    en: "Thank you all for looking after me. I will remember your kindness all my life."
+    sx: {hanzi: "感恩大家个照顧。你兜个恩情，𠊎一生人都會記得。", pinyin: "gamˋ enˊ tai gaˊ ge zeu gu. nˇ deuˊ ge enˊ qinˇ, ngaiˇ idˋ senˊ nginˇ du voi gi dedˋ."}
+    hl: {hanzi: "感恩大家个照顧。你兜个恩情，𠊎一生人都會記得。", pinyin: "gamˊ enˋ tai+ gaˋ gaiˇ zhauˇ guˇ. ngi deuˋ gaiˇ enˋ cin, ngai rhid senˋ ngin du+ voi+ giˇ ded."}
+  - n: 7
+    speaker: Sam
+    en: "People say: 'If it is meant to be, a thousand miles will bring you together.' I will treasure that."
+    sx: {hanzi: "人講「有緣千里來相會」。這隻緣分，𠊎會好好珍惜。", pinyin: "nginˇ gongˋ iuˊ ienˇ qienˊ liˊ loiˇ xiongˊ fi. iaˋ zagˋ ienˇ fun, ngaiˇ voi hoˋ hoˋ ziinˊ xidˋ."}
+    hl: {hanzi: "人講「有緣千里來相會」。這隻緣分，𠊎會好好珍惜。", pinyin: "ngin gongˊ rhiuˋ rhan cienˋ liˋ loi siongˋ fui+. liaˊ zhag rhan fun+, ngai voi+ hoˊ hoˊ zhinˋ siag."}
+  - n: 8
+    speaker: Sam
+    en: "Every day I read a little Hakka with the dictionary, and on Saturdays and Sundays I chat with you. I won't go backwards."
+    sx: {hanzi: "𠊎逐日用字典讀一息仔客話，禮拜六、禮拜日同你兜打嘴鼓。𠊎毋會退步。", pinyin: "ngaiˇ dagˋ ngidˋ iung sii dienˋ tug idˋ xid eˋ hagˋ fa, liˊ bai liugˋ, liˊ bai ngidˋ tungˇ nˇ deuˊ daˋ zoi guˋ. ngaiˇ mˇ voi tui pu."}
+    hl: {hanzi: "𠊎逐日用字典讀一息仔客話，禮拜六、禮拜日摎你兜打嘴鼓。𠊎毋會退步。", pinyin: "ngai dag ngid rhung+ sii+ dienˊ tugˋ rhid sid er hag voiˋ, liˋ baiˇ liug, liˋ baiˇ ngid lauˋ ngi deuˋ daˊ zhoiˇ guˊ. ngai m voi+ tuiˇ pu+."}
+  - n: 9
+    speaker: Sam
+    en: "My plan for the future: next spring A-in comes to France; in the summer, I come back to Miaoli."
+    sx: {hanzi: "𠊎將來个計畫：過忒年春天，阿英來法國；熱天，𠊎轉苗栗。", pinyin: "ngaiˇ jiongˊ loiˇ ge gie vag: go tedˋ ngienˇ cunˊ tienˊ, aˊ inˊ loiˇ fabˋ guedˋ; ngied tienˊ, ngaiˇ zonˋ meuˇ lidˋ."}
+    hl: {hanzi: "𠊎將來个計畫：明年春天，阿英來法國；熱天，𠊎轉苗栗。", pinyin: "ngai ziongˋ loi gaiˇ gieˇ vagˋ: mang ngien chunˋ tienˋ, a+ rhinˋ loi fab gued; ngiedˋ tienˋ, ngai zhonˊ miau lid."}
+  - n: 10
+    speaker: Sam
+    en: "A-min, work hard at school. A-in, stick with it in your new job."
+    sx: {hanzi: "阿明，讀書愛較加努力。阿英，新頭路愛堅持。", pinyin: "aˊ minˇ, tug suˊ oi ka gaˊ nuˋ lid. aˊ inˊ, xinˊ teuˇ lu oi gienˊ ciiˇ."}
+    hl: {hanzi: "阿明，讀書愛較加努力。阿英，新頭路愛堅持。", pinyin: "a+ min, tugˋ shuˋ oiˇ haˇ gaˋ nuˊ lidˋ. a+ rhinˋ, sinˋ teu lu+ oiˇ gienˋ chi."}
+  - n: 11
+    speaker: Sam
+    en: "Grandpa, Grandma: I wish you good health, and may you live to a hundred and twenty! In the envelope there's a photo of my family: a small token, with my thanks."
+    sx: {hanzi: "阿公、阿婆，祝福你兜身體健康，食百二！信封肚有一張𠊎屋下个相片，一息仔心意。", pinyin: "aˊ gungˊ, aˊ poˇ, zugˋ fugˋ nˇ deuˊ siinˊ tiˋ kien kongˊ, siid bagˋ ngi! xin fungˊ duˋ iuˊ idˋ zongˊ ngaiˇ vugˋ kaˊ ge xiong pienˋ, idˋ xid eˋ ximˊ i."}
+    hl: {hanzi: "阿公、阿婆，祝福你兜身體健康，食百二！信封肚有一張𠊎屋下个相片，一息仔心意。", pinyin: "a+ gungˋ, a+ po, zhug fug ngi deuˋ shinˋ tiˊ kien+ kongˋ, shidˋ bag ngi+! sinˇ fungˋ duˊ rhiuˋ rhid zhongˋ ngai vug haˋ gaiˇ siongˇ pienˊ, rhid sid er simˋ rhiˇ."}
+  - n: 12
+    speaker: Sam
+    en: "Sam. 24 December."
+    sx: {hanzi: "Sam。十二月二十四日。", pinyin: "Sam. siib ngi ngied ngi siib xi ngidˋ."}
+    hl: {hanzi: "Sam。十二月二十四日。", pinyin: "Sam. shibˋ ngi+ ngiedˋ ngi+ shibˋ siˇ ngid."}
+  - n: 13
+    speaker: Lucie
+    en: "(in French, at the door) Sam, dinner's ready! Who are you writing to?"
+    sx: {hanzi: "Sam, on mange ! Tu écris à qui ?", pinyin: "Sam, on mange ! Tu écris à qui ?"}
+    hl: {hanzi: "Sam, on mange ! Tu écris à qui ?", pinyin: "Sam, on mange ! Tu écris à qui ?"}
+  - n: 14
+    speaker: Sam
+    en: "(without looking up) To the Lius."
+    sx: {hanzi: "劉家。", pinyin: "liuˇ gaˊ."}
+    hl: {hanzi: "劉家。", pinyin: "liu gaˋ."}
+  - n: 15
+    speaker: Lucie
+    en: "(in French, then in her one word of Hakka) Then tell them 恁仔細 from me!"
+    sx: {hanzi: "Alors dis-leur 恁仔細 de ma part !", pinyin: "Alors dis-leur anˋ ziiˋ se de ma part !"}
+    hl: {hanzi: "Alors dis-leur 恁仔細 de ma part !", pinyin: "Alors dis-leur anˊ ziiˊ seˇ de ma part !"}
+  - n: 16
+    speaker: Sam
+    en: "(adding a last line under his name) P.S. Lucie says thank you. I'll come back."
+    sx: {hanzi: "Lucie 講恁仔細。𠊎會轉來。", pinyin: "Lucie gongˋ anˋ ziiˋ se. ngaiˇ voi zonˋ loiˇ."}
+    hl: {hanzi: "Lucie 講恁仔細。𠊎會轉來。", pinyin: "Lucie gongˊ anˊ ziiˊ seˇ. ngai voi+ zhonˊ loi."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      Letter style, as in lesson 62: the names and a colon, then 大家好！ To a whole family, 劉家各位 "everyone of the Liu
+      family": 各位 (lesson 60) is the formal "all of you". The letter closes the same way as lesson 62's: a wish
+      (line 11), the name, the date (line 12).
+  - ref: 2
+    topic: vocab
+    text: >
+      樹仔 su eˋ "tree", 燈 denˊ "lamp, light": 點燈 "light the lamps". 白雪雪仔 "snow-white" is lesson 69's ABB, here
+      for real snow.
+  - ref: 3
+    topic: grammar
+    text: >
+      想起 xiongˋ hiˋ "think of, remember": 想起原在个艱苦 "remembering the hard times of before" (official example).
+      輒常 (lesson 93) "often". 笑聲 "laughter": 笑 + 聲 (lessons 32 and 37). 冤家 (lesson 47) "quarrel". 信封 (lesson 62) "envelope".
+  - ref: 4
+    topic: grammar
+    text: >
+      毋單淨…還… "not only…, but also…" (lesson 93), in a letter's longer sentence. 長大 zongˋ tai "grow up":
+      細人仔日漸成人長大 "children gradually grow up" (official example); 長 here is zongˋ, not the congˇ of "long"
+      (lesson 40): two readings, two words.
+  - ref: 5
+    topic: vocab
+    text: >
+      過去 go hi "before, in the past" (as a time word; as a verb it is "go over"). 第二 ti ngi "second": 第二个故鄉
+      "a second home town". 故鄉 (lesson 85). The phrase is the course's own, marked for a check; 外地人 is from lesson
+      99.
+  - ref: 6
+    topic: grammar
+    text: >
+      感恩 gamˋ enˊ "be grateful (for)": stronger and more written than 恁仔細: 曉得感恩个人，往往係最有福氣个人 "those
+      who know gratitude are often the most blessed" (official example). 恩情 enˊ qinˇ "kindness received, a debt of
+      gratitude": the official example is almost Sam's sentence: 爺哀个恩情，做子女个一生人都愛記得 "a child must remember
+      his parents' kindness all his life".
+  - ref: 7
+    topic: culture
+    text: >
+      有緣千里來相會 "those destined to meet will meet from a thousand miles away": the first half of an official
+      saying in the MOE examples (no recording), 有緣千里來相會，無緣兩對面乜毋相識 "…and those who are not will not know
+      each other face to face": 會 is read fi here, "meet", not voi. 緣分 ienˇ
+      fun "the bond of fate"; 珍惜 ziinˊ xidˋ "treasure, cherish": 人命可貴，愛好好珍惜 (official example).
+  - ref: 9
+    topic: hailu
+    text: >
+      將來 jiongˊ loiˇ "the future" and 計畫 (lesson 75) "plan". "Next year": the Sixian line says 過忒年, the Hailu line
+      明年 (as in lesson 98); Sixian examples also have 明年 miangˇ ngienˇ. Spring for A-in in France and summer for Sam in Miaoli: the course ends with both
+      promises still to keep.
+  - ref: 10
+    topic: grammar
+    text: >
+      努力 nuˋ lid "work hard": 下一擺愛較加努力 "next time, work harder" (official example), whence 較加努力. 堅持 gienˊ
+      ciiˇ "keep at it, hold on". 新頭路 "the new job": A-in started with the county in June (lesson 75).
+  - ref: 11
+    topic: culture
+    text: >
+      食百二 siid bagˋ ngi "live to a hundred and twenty": the wish for an elder, 祝福阿公康健食百二 "wishing Grandpa good
+      health and a long life" (official example, in both accents). 心意 ximˊ
+      i "a token of one's feelings": 一息仔心意 is what you say as you hand over a small present.
+  - ref: 15
+    topic: culture
+    text: >
+      Lucie's one Hakka word is still the one from lesson 35, and the course's first word from lesson 1. Sam's last line
+      takes Grandma's third thing (lesson 97): 愛轉來 "come back".
+  - ref: 16
+    topic: culture
+    text: >
+      What next. This is the last new lesson of the course, but not the end of the work. Today's second-wave lesson is
+      lesson 51 (lesson 50 sent you back to lesson 1). Keep going, one a day, for fifty more days, until you cover the
+      Hakka of this lesson and write Sam's letter yourself from the English. Then the 進修 (further study) part takes
+      over: longer texts, the radio and the television, and the certification lists beyond 中級. Keep listening every
+      day. As Sam told 阿英: 逐日聽，就會 (lesson 99).
+
+new_words:
+  - {hanzi: 樹仔, pinyin: "su eˋ", en: "tree", hl: {hanzi: 樹仔, pinyin: "shu+ er"}}
+  - {hanzi: 燈, pinyin: "denˊ", en: "lamp, light", hl: {hanzi: 燈, pinyin: "denˋ"}}
+  - {hanzi: 想起, pinyin: "xiongˋ hiˋ", en: "think of, remember", hl: {hanzi: 想起, pinyin: "siongˊ hiˊ"}}
+  - {hanzi: 長大, pinyin: "zongˋ tai", en: "grow up", hl: {hanzi: 長大, pinyin: "zhongˊ tai+"}}
+  - {hanzi: 過去, pinyin: "go hi", en: "the past; before", hl: {hanzi: 過去, pinyin: "goˇ hiˇ"}}
+  - {hanzi: 第二, pinyin: "ti ngi", en: "second", hl: {hanzi: 第二, pinyin: "ti+ ngi+"}}
+  - {hanzi: 感恩, pinyin: "gamˋ enˊ", en: "be grateful", hl: {hanzi: 感恩, pinyin: "gamˊ enˋ"}}
+  - {hanzi: 恩情, pinyin: "enˊ qinˇ", en: "kindness received, debt of gratitude", hl: {hanzi: 恩情, pinyin: "enˋ cin"}}
+  - {hanzi: 有緣, pinyin: "iuˊ ienˇ", en: "be fated to meet", hl: {hanzi: 有緣, pinyin: "rhiuˋ rhan"}}
+  - {hanzi: 緣分, pinyin: "ienˇ fun", en: "bond of fate", hl: {hanzi: 緣分, pinyin: "rhan fun+"}}
+  - {hanzi: 珍惜, pinyin: "ziinˊ xidˋ", en: "treasure, cherish", hl: {hanzi: 珍惜, pinyin: "zhinˋ siag"}}
+  - {hanzi: 千里, pinyin: "qienˊ liˊ", en: "a thousand li, a long way", hl: {hanzi: 千里, pinyin: "cienˋ liˋ"}}
+  - {hanzi: 相, pinyin: "xiongˊ", en: "each other, mutually", hl: {hanzi: 相, pinyin: "siongˋ"}}
+  - {hanzi: 會, pinyin: "fi", en: "meet (in 相會)", hl: {hanzi: 會, pinyin: "fui+"}}
+  - {hanzi: 值得, pinyin: "dad dedˋ", en: "be worth (doing)", hl: {hanzi: 值得, pinyin: "dadˋ ded"}}
+  - {hanzi: 將來, pinyin: "jiongˊ loiˇ", en: "the future", hl: {hanzi: 將來, pinyin: "ziongˋ loi"}}
+  - {hanzi: 努力, pinyin: "nuˋ lid", en: "work hard", hl: {hanzi: 努力, pinyin: "nuˊ lidˋ"}}
+  - {hanzi: 堅持, pinyin: "gienˊ ciiˇ", en: "keep at it, persist", hl: {hanzi: 堅持, pinyin: "gienˋ chi"}}
+  - {hanzi: 食百二, pinyin: "siid bagˋ ngi", en: "live to a great age (to 120)", hl: {hanzi: 食百二, pinyin: "shidˋ bag ngi+"}}
+  - {hanzi: 心意, pinyin: "ximˊ i", en: "a token of one's feelings", hl: {hanzi: 心意, pinyin: "simˋ rhiˇ"}}
+  - {hanzi: 恩人, pinyin: "enˊ nginˇ", en: "benefactor", hl: {hanzi: 恩人, pinyin: "enˋ ngin"}}
+  - {hanzi: 福氣, pinyin: "fugˋ hi", en: "good fortune, blessing", hl: {hanzi: 福氣, pinyin: "fug hiˇ"}}
+  - {hanzi: 回憶, pinyin: "fiˇ i", en: "memory; remember", hl: {hanzi: 回憶, pinyin: "fui rhiˇ"}}
+  - {hanzi: 孤單, pinyin: "guˊ danˊ", en: "lonely, alone", hl: {hanzi: 孤單, pinyin: "guˋ danˋ"}}
+  - {hanzi: 年年, pinyin: "ngienˇ ngienˇ", en: "every year", hl: {hanzi: 年年, pinyin: "ngien ngien"}}
+  - {hanzi: 日後, pinyin: "ngidˋ heu", en: "later on, in future", hl: {hanzi: 日後, pinyin: "ngid heu+"}}
+
+exercises:
+  translate:
+    - en: "Having you all is my good fortune; you are my benefactors."
+      sx: {hanzi: "有你兜係𠊎个福氣，你兜係𠊎个恩人。", pinyin: "iuˊ nˇ deuˊ he ngaiˇ ge fugˋ hi, nˇ deuˊ he ngaiˇ ge enˊ nginˇ."}
+      hl: {hanzi: "有你兜係𠊎个福氣，你兜係𠊎个恩人。", pinyin: "rhiuˋ ngi deuˋ heˇ ngai gaiˇ fug hiˇ, ngi deuˋ heˇ ngai gaiˇ enˋ ngin."}
+    - en: "The days of one's youth are well worth remembering."
+      sx: {hanzi: "後生時个生活，盡值得回憶。", pinyin: "heu sangˊ siiˇ ge senˊ fad, qin dad dedˋ fiˇ i."}
+      hl: {hanzi: "後生時个生活，盡值得回憶。", pinyin: "heu+ sangˋ shi gaiˇ senˋ fadˋ, cin+ dadˋ ded fui rhiˇ."}
+      source: moe
+    - en: "Since leaving Miaoli, I've been a little lonely."
+      sx: {hanzi: "離開苗栗以後，𠊎有兜仔孤單。", pinyin: "liˇ koiˊ meuˇ lidˋ iˊ heu, ngaiˇ iuˊ deuˊ eˋ guˊ danˊ."}
+      hl: {hanzi: "離開苗栗以後，𠊎有兜仔孤單。", pinyin: "li koiˋ miau lid rhiˋ heu+, ngai rhiuˋ deuˋ er guˋ danˋ."}
+      check: true
+    - en: "Every year, at New Year, I'll phone home; later on, I'll come back to live."
+      sx: {hanzi: "年年過年，𠊎會打電話轉屋下；日後，𠊎會轉來戴。", pinyin: "ngienˇ ngienˇ go ngienˇ, ngaiˇ voi daˋ tien fa zonˋ vugˋ kaˊ; ngidˋ heu, ngaiˇ voi zonˋ loiˇ dai."}
+      hl: {hanzi: "年年過年，𠊎會打電話轉屋下；日後，𠊎會轉來戴。", pinyin: "ngien ngien goˇ ngien, ngai voi+ daˊ tien+ faˇ zhonˊ vug haˋ; ngid heu+, ngai voi+ zhonˊ loi daiˇ."}
+      check: true
+    - en: "Look, the tree outside the window has turned white."
+      sx: {hanzi: "你看，窗門外該頭樹仔變白了。", pinyin: "nˇ kon, cungˊ munˇ ngoi ge teuˇ su eˋ bien pag leˊ."}
+      hl: {hanzi: "你看，窗門外該頭樹仔變白了。", pinyin: "ngi konˇ, cungˋ mun ngoi+ gai teu shu+ er bienˇ pagˋ leˋ."}
+  fill:
+    - en: "I'll remember your kindness all my life."
+      sx: {hanzi: "你兜个___，𠊎一生人都會記得。", pinyin: "nˇ deuˊ ge ___, ngaiˇ idˋ senˊ nginˇ du voi gi dedˋ.", answer_hanzi: "恩情", answer: "enˊ qinˇ"}
+      hl: {hanzi: "你兜个___，𠊎一生人都會記得。", pinyin: "ngi deuˋ gaiˇ ___, ngai rhid senˋ ngin du+ voi+ giˇ ded.", answer_hanzi: "恩情", answer: "enˋ cin"}
+    - en: "Grandpa, may you live to a hundred and twenty!"
+      sx: {hanzi: "阿公，___！", pinyin: "aˊ gungˊ, ___!", answer_hanzi: "食百二", answer: "siid bagˋ ngi"}
+      hl: {hanzi: "阿公，___！", pinyin: "a+ gungˋ, ___!", answer_hanzi: "食百二", answer: "shidˋ bag ngi+"}
+    - en: "I'll treasure this bond."
+      sx: {hanzi: "這隻緣分，𠊎會好好___。", pinyin: "iaˋ zagˋ ienˇ fun, ngaiˇ voi hoˋ hoˋ ___.", answer_hanzi: "珍惜", answer: "ziinˊ xidˋ"}
+      hl: {hanzi: "這隻緣分，𠊎會好好___。", pinyin: "liaˊ zhag rhan fun+, ngai voi+ hoˊ hoˊ ___.", answer_hanzi: "珍惜", answer: "zhinˋ siag"}
+
+audio: []
