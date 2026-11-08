@@ -1,0 +1,203 @@
+id: 83
+title:
+  en: "An old photo album"
+  sx: {hanzi: "五十年前个相片", pinyin: "ngˋ siib ngienˇ qienˇ ge xiong pienˋ"}
+  hl: {hanzi: "五十年前个相片", pinyin: "ngˊ shibˋ ngien cien gaiˇ siongˇ pienˊ"}
+review: false
+setting: >-
+  Sunday 13 June, a wet afternoon. Looking for Grandpa's old walking stick upstairs, A-in has found a cardboard box
+  instead. Everyone is round the table in the main room, Grandpa in his chair at the head, the photos spread out in
+  front of him.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Grandma, I found a box of old photos upstairs!"
+    sx: {hanzi: "阿婆，𠊎在樓頂尋著一箱舊相片！", pinyin: "aˊ poˇ, ngaiˇ coiˊ leuˇ dangˋ qimˇ doˋ idˋ xiongˊ kiu xiong pienˋ!"}
+    hl: {hanzi: "阿婆，𠊎在樓頂尋著一箱舊相片！", pinyin: "a+ po, ngai coiˋ leu dangˊ cim doˊ rhid siongˋ kiu+ siongˇ pienˊ!"}
+  - n: 2
+    speaker: 阿婆
+    en: "That box! I've been looking for it for years."
+    sx: {hanzi: "這箱相片，𠊎尋幾多年了！", pinyin: "iaˋ xiongˊ xiong pienˋ, ngaiˇ qimˇ giˋ doˊ ngienˇ leˊ!"}
+    hl: {hanzi: "這箱相片，𠊎尋幾多年了！", pinyin: "liaˊ siongˋ siongˇ pienˊ, ngai cim giˊ doˋ ngien leˋ!"}
+  - n: 3
+    speaker: Sam
+    en: "(holding up a black-and-white photo) Who's this? The young man in the suit?"
+    sx: {hanzi: "這係麼人？著西裝个該隻後生人？", pinyin: "iaˋ he maˋ nginˇ? zogˋ xiˊ zongˊ ge ge zagˋ heu sangˊ nginˇ?"}
+    hl: {hanzi: "這係麼人？著西裝个該隻後生人？", pinyin: "liaˊ heˇ maˊ ngin? zhog siˋ zongˋ gaiˇ gai zhag heu+ sangˋ ngin?"}
+  - n: 4
+    speaker: 阿婆
+    en: "That's your grandpa. It was taken on our wedding day, fifty years ago."
+    sx: {hanzi: "該係你阿公。這張係五十年前，𠊎兜結婚該日翕个。", pinyin: "ge he nˇ aˊ gungˊ. iaˋ zongˊ he ngˋ siib ngienˇ qienˇ, ngaiˇ deuˊ giedˋ funˊ ge ngidˋ hibˋ ge."}
+    hl: {hanzi: "該係你阿公。這張係五十年前，𠊎兜結婚該日翕个。", pinyin: "gai heˇ ngi a+ gungˋ. liaˊ zhongˋ heˇ ngˊ shibˋ ngien cien, ngai deuˋ gied funˋ gai ngid hib gaiˇ."}
+  - n: 5
+    speaker: 阿明
+    en: "Grandpa was so thin! And look at all that hair!"
+    sx: {hanzi: "阿公恁瘦！頭那毛恁多！", pinyin: "aˊ gungˊ anˋ ceu! teuˇ naˇ moˊ anˋ doˊ!"}
+    hl: {hanzi: "阿公恁瘦！頭那毛恁多！", pinyin: "a+ gungˋ anˊ seuˇ! teu na moˋ anˊ doˋ!"}
+  - n: 6
+    speaker: 阿公
+    en: "(touching the top of his head, saying nothing)"
+    sx: {hanzi: "……", pinyin: "…"}
+    hl: {hanzi: "……", pinyin: "…"}
+  - n: 7
+    speaker: Sam
+    en: "And the bride beside him is you, Grandma? You can't see what colour your clothes are."
+    sx: {hanzi: "企在佢身邊个新娘就係阿婆？看毋著衫係麼个色。", pinyin: "kiˊ coiˊ giˇ siinˊ bienˊ ge xinˊ ngiongˇ qiu he aˊ poˇ? kon mˇ doˋ samˊ he maˋ ge sedˋ."}
+    hl: {hanzi: "企在佢身邊个新娘就係阿婆？看毋著衫係麼个色。", pinyin: "kiˋ coiˋ gi shinˋ bienˋ gaiˇ sinˋ ngiong ciu+ heˇ a+ po? konˇ m doˊ samˋ heˇ maˊ gaiˇ sed."}
+    check: true
+  - n: 8
+    speaker: 阿婆
+    en: "It's me. In those days there were no colour photos. The clothes I wore that day were red."
+    sx: {hanzi: "係𠊎。當時無彩色相片，全部係烏白个。𠊎該日著个衫，係紅色个。", pinyin: "he ngaiˇ. dongˊ siiˇ moˇ caiˋ sedˋ xiong pienˋ, qionˇ pu he vuˊ pag ge. ngaiˇ ge ngidˋ zogˋ ge samˊ, he fungˇ sedˋ ge."}
+    hl: {hanzi: "係𠊎。該當時無彩色相片，全部係烏白个。𠊎該日著个衫，係紅色个。", pinyin: "heˇ ngai. gai dongˋ shi mo caiˊ sed siongˇ pienˊ, cion pu+ heˇ vuˋ pagˋ gaiˇ. ngai gai ngid zhog gaiˇ samˋ, heˇ fung sed gaiˇ."}
+  - n: 9
+    speaker: 阿英
+    en: "How old were you then, Grandma?"
+    sx: {hanzi: "當時阿婆幾多歲？", pinyin: "dongˊ siiˇ aˊ poˇ giˋ doˊ se?"}
+    hl: {hanzi: "該當時阿婆幾多歲？", pinyin: "gai dongˋ shi a+ po giˊ doˋ soiˇ?"}
+  - n: 10
+    speaker: 阿婆
+    en: "Twenty-five. A year younger than you are now."
+    sx: {hanzi: "二十五。比你這下還細一歲。", pinyin: "ngi siib ngˋ. biˋ nˇ iaˋ ha hanˇ se idˋ se."}
+    hl: {hanzi: "二十五。比你這下還細一歲。", pinyin: "ngi+ shibˋ ngˊ. biˊ ngi liaˊ ha+ han seˇ rhid soiˇ."}
+  - n: 11
+    speaker: 阿明
+    en: "And this one? Who's the little boy sitting in the yard?"
+    sx: {hanzi: "還有這張？坐在禾埕个該隻細人仔係麼人？", pinyin: "hanˇ iuˊ iaˋ zongˊ? coˊ coiˊ voˇ tangˇ ge ge zagˋ se nginˇ eˋ he maˋ nginˇ?"}
+    hl: {hanzi: "還有這張？坐在禾埕个該隻細人仔係麼人？", pinyin: "han rhiuˋ liaˊ zhongˋ? coˋ coiˋ vo tang gaiˇ gai zhag seˇ ngin er heˇ maˊ ngin?"}
+  - n: 12
+    speaker: 阿婆
+    en: "That's your dad! Three years old, in front of the old family house. And the man holding him is your great-uncle, back from his army service."
+    sx: {hanzi: "該係你阿爸！三歲个時節，在頭擺个伙房前翕个。揇等佢个，係做兵轉來个叔公。", pinyin: "ge he nˇ aˊ baˊ! samˊ se ge siiˇ jiedˋ, coiˊ teuˇ baiˋ ge foˋ fongˇ qienˇ hibˋ ge. namˋ denˋ giˇ ge, he zo binˊ zonˋ loiˇ ge sugˋ gungˊ."}
+    hl: {hanzi: "該係你阿爸！三歲个時節，在頭擺个伙房前翕个。揇等佢个，係做兵轉來个叔公。", pinyin: "gai heˇ ngi a+ baˋ! samˋ soiˇ gaiˇ shi zied, coiˋ teu baiˊ gaiˇ foˊ fong cien hib gaiˇ. namˊ denˊ gi gaiˇ, heˇ zoˇ binˋ zhonˊ loi gaiˇ shug gungˋ."}
+    check: true
+  - n: 13
+    speaker: 阿明
+    en: "Dad was so chubby!"
+    sx: {hanzi: "阿爸頭擺恁肥！", pinyin: "aˊ baˊ teuˇ baiˋ anˋ piˇ!"}
+    hl: {hanzi: "阿爸頭擺恁肥！", pinyin: "a+ baˋ teu baiˊ anˊ pui!"}
+  - n: 14
+    speaker: Sam
+    en: "Times have changed, but Grandpa's face hasn't changed much."
+    sx: {hanzi: "時代改變了，毋過阿公个面無麼个變。", pinyin: "siiˇ toi goiˋ bien leˊ, mˇ go aˊ gungˊ ge mien moˇ maˋ ge bien."}
+    hl: {hanzi: "時代改變了，毋過阿公个面無麼个變。", pinyin: "shi toi+ goiˊ bienˇ leˋ, m goˇ a+ gungˋ gaiˇ mienˇ mo maˊ gaiˇ bienˇ."}
+  - n: 15
+    speaker: 阿公
+    en: "(picking up the wedding photo) This one: it's mine."
+    sx: {hanzi: "這張，分𠊎。", pinyin: "iaˋ zongˊ, bunˊ ngaiˇ."}
+    hl: {hanzi: "這張，分𠊎。", pinyin: "liaˊ zhongˋ, bunˋ ngai."}
+  - n: 16
+    speaker: 阿婆
+    en: "(smiling) Fifty years ago he was just the same: two words at a time."
+    sx: {hanzi: "五十年前佢乜係恁樣，一擺講兩隻字。", pinyin: "ngˋ siib ngienˇ qienˇ giˇ me he anˋ ngiongˇ, idˋ baiˋ gongˋ liongˋ zagˋ sii."}
+    hl: {hanzi: "五十年前佢乜係恁樣，一擺講兩隻字。", pinyin: "ngˊ shibˋ ngien cien gi meˇ heˇ an ngiong, rhid baiˊ gongˊ liongˊ zhag sii+."}
+
+notes:
+  - ref: 3
+    topic: grammar
+    text: >
+      著西裝个該隻後生人 "the young man in the suit", literally "wear-suit 个 that young man": a whole clause, then 个,
+      then the noun. The demonstrative and classifier (該隻) can come after the clause, as here, or before it. 西裝 from
+      lesson 74; 後生人 "young man" (lesson 40).
+  - ref: 4
+    topic: grammar
+    text: >
+      𠊎兜結婚該日翕个 "taken on the day we married": the time clause 𠊎兜結婚該日 "the day we married" is built the same
+      way, clause + 該日 "that day". 係…翕个 "was taken (then)": the 係…个 frame (lesson 32). 𠊎兜 leaves the
+      grandchildren out: they weren't there.
+  - ref: 7
+    topic: grammar
+    text: >
+      企在佢身邊个新娘 "the bride standing beside him": clause + 个 + noun again. 看毋著 kon mˇ doˋ "can't see": V毋著
+      (lesson 47, the "can't" reading doˋ). 色 sedˋ "colour": 麼个色 "what colour". 身邊 siinˊ bienˊ "at one's side".
+      The line is marked for a check: the whole clause is the course's own.
+  - ref: 8
+    topic: grammar
+    text: >
+      "In those days": Sixian 當時 dongˊ siiˇ, Hailu 該當時 gai dongˋ shi. The syllabus planned 該當時 for both; the
+      word lists have it only for Hailu, so the columns differ. 烏白 vuˊ pag "black-and-white", 彩色 caiˋ sedˋ
+      "colour (photo, television)". 𠊎該日著个衫 "the clothes I wore that day": one more clause before its noun.
+  - ref: 10
+    topic: grammar
+    text: >
+      比你這下還細一歲 "a year younger than you are now": 比 + adjective + amount (lesson 66), with 還 "still, even".
+      A-in is twenty-six (lesson 31).
+  - ref: 12
+    topic: vocab
+    text: >
+      伙房 "the family compound" and 禾埕 "the yard in front of it" from lesson 71. 揇等 namˋ denˋ "holding (in your
+      arms)", 揇 with the 等 of lesson 29. 做兵 zo binˊ "do military service", 叔公 sugˋ gungˊ "great-uncle (grandfather's
+      younger brother)". The line is marked for its stacked clauses.
+  - ref: 14
+    topic: vocab
+    text: >
+      時代 siiˇ toi "the times, an era", 改變 goiˋ bien "change", 無麼个變 "hasn't changed much": 變 (lesson 64).
+  - ref: 16
+    topic: culture
+    text: >
+      一擺講兩隻字 "two words at a time": Grandma's verdict on her husband, then and now. The one time he says more, he
+      sings it (lesson 82).
+
+new_words:
+  - {hanzi: 相片, pinyin: "xiong pienˋ", en: "photo", hl: {hanzi: 相片, pinyin: "siongˇ pienˊ"}}
+  - {hanzi: 頭那毛, pinyin: "teuˇ naˇ moˊ", en: "hair (on the head)", hl: {hanzi: 頭那毛, pinyin: "teu na moˋ"}}
+  - {hanzi: 色, pinyin: "sedˋ", en: "colour", hl: {hanzi: 色, pinyin: "sed"}}
+  - {hanzi: 身邊, pinyin: "siinˊ bienˊ", en: "beside (someone), at one's side", hl: {hanzi: 身邊, pinyin: "shinˋ bienˋ"}}
+  - {hanzi: 看毋著, pinyin: "kon mˇ doˋ", en: "can't see", hl: {hanzi: 看毋著, pinyin: "konˇ m doˊ"}}
+  - {hanzi: 當時, pinyin: "dongˊ siiˇ", en: "at that time, in those days", hl: {hanzi: 當時, pinyin: "dongˋ shi"}}
+  - {hanzi: 彩色, pinyin: "caiˋ sedˋ", en: "colour (photo, TV)", hl: {hanzi: 彩色, pinyin: "caiˊ sed"}}
+  - {hanzi: 烏白, pinyin: "vuˊ pag", en: "black and white", hl: {hanzi: 烏白, pinyin: "vuˋ pagˋ"}}
+  - {hanzi: 揇, pinyin: "namˋ", en: "hold in your arms, hug", hl: {hanzi: 揇, pinyin: "namˊ"}}
+  - {hanzi: 做兵, pinyin: "zo binˊ", en: "do military service", hl: {hanzi: 做兵, pinyin: "zoˇ binˋ"}}
+  - {hanzi: 叔公, pinyin: "sugˋ gungˊ", en: "great-uncle (grandfather's younger brother)", hl: {hanzi: 叔公, pinyin: "shug gungˋ"}}
+  - {hanzi: 時代, pinyin: "siiˇ toi", en: "era, the times", hl: {hanzi: 時代, pinyin: "shi toi+"}}
+  - {hanzi: 改變, pinyin: "goiˋ bien", en: "change", hl: {hanzi: 改變, pinyin: "goiˊ bienˇ"}}
+  - {hanzi: 年代, pinyin: "ngienˇ toi", en: "decade, period", hl: {hanzi: 年代, pinyin: "ngien toi+"}}
+  - {hanzi: 民國, pinyin: "minˇ guedˋ", en: "(year of the) Republic", hl: {hanzi: 民國, pinyin: "min gued"}}
+  - {hanzi: 花轎, pinyin: "faˊ kieu", en: "bridal sedan chair", hl: {hanzi: 花轎, pinyin: "faˋ kiau+"}}
+  - {hanzi: 嫁妝, pinyin: "ga zongˊ", en: "dowry", hl: {hanzi: 嫁妝, pinyin: "gaˇ zongˋ"}}
+  - {hanzi: 禮服, pinyin: "liˊ fug", en: "formal dress", hl: {hanzi: 禮服, pinyin: "liˋ fugˋ"}}
+  - {hanzi: 媒人婆, pinyin: "moiˇ nginˇ poˇ", en: "matchmaker (woman)", hl: {hanzi: 媒人婆, pinyin: "moi ngin po"}}
+  - {hanzi: 少年, pinyin: "seu ngienˇ", en: "young (man); youth", hl: {hanzi: 少年, pinyin: "shauˇ ngien"}}
+  - {hanzi: 退伍, pinyin: "tui ngˋ", en: "leave the army", hl: {hanzi: 退伍, pinyin: "tuiˇ ngˊ"}}
+  - {hanzi: 姑婆, pinyin: "guˊ poˇ", en: "great-aunt (grandfather's sister)", hl: {hanzi: 姑婆, pinyin: "guˋ po"}}
+  - {hanzi: 以前, pinyin: "iˊ qienˇ", en: "before, in the past", hl: {hanzi: 以前, pinyin: "rhiˋ cien"}}
+  - {hanzi: 疊, pinyin: "tiab", en: "pile, stack", hl: {hanzi: 疊, pinyin: "tiabˋ"}}
+
+exercises:
+  translate:
+    - en: "In those days brides sat in a sedan chair; now they ride in a car."
+      sx: {hanzi: "當時个新娘坐花轎，這下个新娘坐車仔。", pinyin: "dongˊ siiˇ ge xinˊ ngiongˇ coˊ faˊ kieu, iaˋ ha ge xinˊ ngiongˇ coˊ caˊ eˋ."}
+      hl: {hanzi: "該當時个新娘坐花轎，這下个新娘坐車仔。", pinyin: "gai dongˋ shi gaiˇ sinˋ ngiong coˋ faˋ kiau+, liaˊ ha+ gaiˇ sinˋ ngiong coˋ chaˋ er."}
+      check: true
+    - en: "The matchmaker brought the dowry; the bride wore her formal dress."
+      sx: {hanzi: "媒人婆擐等嫁妝來，新娘著禮服。", pinyin: "moiˇ nginˇ poˇ kuan denˋ ga zongˊ loiˇ, xinˊ ngiongˇ zogˋ liˊ fug."}
+      hl: {hanzi: "媒人婆擐等嫁妝來，新娘著禮服。", pinyin: "moi ngin po kuan+ denˊ gaˇ zongˋ loi, sinˋ ngiong zhog liˋ fugˋ."}
+      check: true
+    - en: "After leaving the army, great-uncle married great-aunt's friend."
+      sx: {hanzi: "叔公退伍以後，討姑婆个朋友做餔娘。", pinyin: "sugˋ gungˊ tui ngˋ iˊ heu, toˋ guˊ poˇ ge penˇ iuˊ zo buˊ ngiongˇ."}
+      hl: {hanzi: "叔公退伍以後，討姑婆个朋友做餔娘。", pinyin: "shug gungˋ tuiˇ ngˊ rhiˋ heu+, toˊ guˋ po gaiˇ pen rhiuˋ zoˇ buˋ ngiong."}
+    - en: "Photos from the 1970s are all black and white."
+      sx: {hanzi: "七十年代个相片，全部係烏白个。", pinyin: "qidˋ siib ngienˇ toi ge xiong pienˋ, qionˇ pu he vuˊ pag ge."}
+      hl: {hanzi: "七十年代个相片，全部係烏白个。", pinyin: "cid shibˋ ngien toi+ gaiˇ siongˇ pienˊ, cion pu+ heˇ vuˋ pagˋ gaiˇ."}
+    - en: "A-in has a whole pile of photos of Sam from before."
+      sx: {hanzi: "阿英有一疊 Sam 以前个相片。", pinyin: "aˊ inˊ iuˊ idˋ tiab Sam iˊ qienˇ ge xiong pienˋ."}
+      hl: {hanzi: "阿英有一疊 Sam 以前个相片。", pinyin: "a+ rhinˋ rhiuˋ rhid tiabˋ Sam rhiˋ cien gaiˇ siongˇ pienˊ."}
+      check: true
+    - en: "In the year 66 of the Republic (1977), Grandpa was a young man of twenty-eight."
+      sx: {hanzi: "民國六十六年，阿公係二十八歲个少年。", pinyin: "minˇ guedˋ liugˋ siib liugˋ ngienˇ, aˊ gungˊ he ngi siib badˋ se ge seu ngienˇ."}
+      hl: {hanzi: "民國六十六年，阿公係二十八歲个少年。", pinyin: "min gued liug shibˋ liug ngien, a+ gungˋ heˇ ngi+ shibˋ bad soiˇ gaiˇ shauˇ ngien."}
+  fill:
+    - en: "In those days (Sixian)."
+      sx: {hanzi: "___", pinyin: "___", answer_hanzi: "當時", answer: "dongˊ siiˇ"}
+      hl: {hanzi: "___", pinyin: "___", answer_hanzi: "該當時", answer: "gai dongˋ shi"}
+    - en: "What colour is it?"
+      sx: {hanzi: "係麼个___？", pinyin: "he maˋ ge ___?", answer_hanzi: "色", answer: "sedˋ"}
+      hl: {hanzi: "係麼个___？", pinyin: "heˇ maˊ gaiˇ ___?", answer_hanzi: "色", answer: "sed"}
+    - en: "The man in the suit is Grandpa."
+      sx: {hanzi: "著西裝___該隻人係阿公。", pinyin: "zogˋ xiˊ zongˊ ___ ge zagˋ nginˇ he aˊ gungˊ.", answer_hanzi: "个", answer: "ge"}
+      hl: {hanzi: "著西裝___該隻人係阿公。", pinyin: "zhog siˋ zongˋ ___ gai zhag ngin heˇ a+ gungˋ.", answer_hanzi: "个", answer: "gaiˇ"}
+
+audio: []
