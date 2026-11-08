@@ -79,9 +79,18 @@ Proposed casting, one fixed voice per character. Main speakers by line count: Sa
    - If the app is ever paid: apply for HAT-TTS (NT$1,000 per accent set, commercial use allowed) and fine-tune our
      own voice. That needs 10–30 GPU-hours (Kaggle free quota or a rented GPU), not Claude usage.
 
-## Open decisions for the user
+## Decisions (2026-11-08)
 
-- Which input reads better: "ours" (our pinyin + sandhi) or "chars" (VoxHakka reading the characters)? The page's
-  "Copy my picks" result was not sent back. The plan above assumes "ours".
-- Voice per character (casting page, step 1).
-- Whether NC audio is acceptable for the published app, or whether to wait for a HAT-trained voice.
+- **Input: "ours"** (our pinyin + sandhi). The user could not tell the two apart by ear, so this was settled by
+  measurement. On the 1,382 Sixian dialogue lines, the character path differs from the lesson text in **990 lines
+  (72%)**, and 73 more lines are unreadable to it. The most frequent differences:
+  - **missing sandhi:** 阿 a24 instead of a11, 當 dong24 instead of dong11, 頭, 有, 較, 三, 公, 今, 山…;
+  - **wrong readings:** 吔 e31 instead of le24, 會 fi55 instead of voi55, 好 hau55 instead of ho31, 毋 ŋ̩ instead of
+    m̩, 在 cai55 instead of coi24;
+  - Latin names read as English.
+
+  With "ours", the audio always matches the pinyin the learner reads.
+- **Voices:** the proposal above is approved: one fixed voice per character, Miaoli voices for Sixian, Hsinchu
+  voices for Hailu. The casting page (step 1) picks the individual voices.
+- **Licence:** CC BY-NC audio is accepted for the app, shipped as separately licensed assets (ATTRIBUTION.md).
+  HAT-TTS stays the route if the app ever becomes paid.
