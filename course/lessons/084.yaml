@@ -1,0 +1,149 @@
+id: 84
+title:
+  en: "Review 12"
+  sx: {hanzi: "會做得", pinyin: "voi zo dedˋ"}
+  hl: {hanzi: "會做得", pinyin: "voi+ zoˇ ded"}
+review: true
+setting: >-
+  Sunday 20 June, six in the evening, the first fine evening in a week. Grandpa has walked, without his stick, from
+  the veranda to the edge of the tea field to see the rows Sam has cut for him. The whole family has followed him out.
+  Nothing new in the dialogue: everything comes from lessons 1–83.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Grandpa, the doctor says you can walk now, but no heavy work."
+    sx: {hanzi: "阿公，先生講你做得行路了，毋過毋好做粗事。", pinyin: "aˊ gungˊ, xinˊ sangˊ gongˋ nˇ zo dedˋ hangˇ lu leˊ, mˇ go mˇ hoˋ zo cuˊ se."}
+    hl: {hanzi: "阿公，先生講你做得行路了，毋過毋好做粗事。", pinyin: "a+ gungˋ, sinˋ sangˋ gongˊ ngi zoˇ ded hang lu+ leˋ, m goˇ m hoˊ zoˇ cuˋ she+."}
+  - n: 2
+    speaker: 阿公
+    en: "I know."
+    sx: {hanzi: "𠊎知。", pinyin: "ngaiˇ diˊ."}
+    hl: {hanzi: "𠊎知。", pinyin: "ngai diˋ."}
+  - n: 3
+    speaker: Sam
+    en: "Grandpa, I've finished cutting the tea in the field."
+    sx: {hanzi: "阿公，茶園个茶，𠊎剪好了。", pinyin: "aˊ gungˊ, caˇ ienˇ ge caˇ, ngaiˇ jienˋ hoˋ leˊ."}
+    hl: {hanzi: "阿公，茶園个茶，𠊎剪好了。", pinyin: "a+ gungˋ, ca rhan gaiˇ ca, ngai zienˊ hoˊ leˋ."}
+  - n: 4
+    speaker: 阿公
+    en: "(after a long look along the rows) …Not bad."
+    sx: {hanzi: "……會做得。", pinyin: "… voi zo dedˋ."}
+    hl: {hanzi: "……會做得。", pinyin: "… voi+ zoˇ ded."}
+  - n: 5
+    speaker: 阿英
+    en: "Grandpa said 'not bad'! Sam, from Grandpa that's the highest praise there is."
+    sx: {hanzi: "阿公講「會做得」！Sam，這係阿公盡好个話了。", pinyin: "aˊ gungˊ gongˋ voi zo dedˋ! Sam, iaˋ he aˊ gungˊ qin hoˋ ge fa leˊ."}
+    hl: {hanzi: "阿公講「會做得」！Sam，這係阿公盡好个話了。", pinyin: "a+ gungˋ gongˊ voi+ zoˇ ded! Sam, liaˊ heˇ a+ gungˋ cin+ hoˊ gaiˇ faˇ leˋ."}
+  - n: 6
+    speaker: 阿明
+    en: "Grandma, has the station played your mountain song again, the one from the phone-in?"
+    sx: {hanzi: "阿婆，叩應个該條山歌，電臺還有播無？", pinyin: "aˊ poˇ, ko inˋ ge ge tiauˇ sanˊ goˊ, tien toiˇ hanˇ iuˊ boˊ moˇ?"}
+    hl: {hanzi: "阿婆，叩應个該條山歌，電臺還有播無？", pinyin: "a+ po, ko inˋ gaiˇ gai tiau sanˋ goˋ, tien+ toi han rhiuˋ boˋ mo?"}
+  - n: 7
+    speaker: 阿婆
+    en: "Don't talk about it. Grandpa said 'too long'."
+    sx: {hanzi: "莫講了。阿公講「恁長」。", pinyin: "mog gongˋ leˊ. aˊ gungˊ gongˋ anˋ congˇ."}
+    hl: {hanzi: "莫講了。阿公講「恁長」。", pinyin: "mogˋ gongˊ leˋ. a+ gungˋ gongˊ anˊ chong."}
+  - n: 8
+    speaker: 阿公
+    en: "Too long. But lovely to listen to."
+    sx: {hanzi: "恁長。毋過當好聽。", pinyin: "anˋ congˇ. mˇ go dongˊ hoˋ tangˊ."}
+    hl: {hanzi: "恁長。毋過當好聽。", pinyin: "anˊ chong. m goˇ dongˋ hoˊ tangˋ."}
+  - n: 9
+    speaker: 阿婆
+    en: "(to the others, astonished) He's said a lot today!"
+    sx: {hanzi: "佢今晡日講恁多話了！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ anˋ doˊ fa leˊ!"}
+    hl: {hanzi: "佢今晡日講恁多話了！", pinyin: "gi gimˋ buˋ ngid gongˊ anˊ doˋ faˇ leˋ!"}
+  - n: 10
+    speaker: Sam
+    en: "Grandpa, shall I read you the poem one more time?"
+    sx: {hanzi: "阿公，該首詩，𠊎再唸一擺分你聽，好無？", pinyin: "aˊ gungˊ, ge suˋ siiˊ, ngaiˇ zai ngiam idˋ baiˋ bunˊ nˇ tangˊ, hoˋ moˇ?"}
+    hl: {hanzi: "阿公，該首詩，𠊎再唸一擺分你聽，好無？", pinyin: "a+ gungˋ, gai shiuˊ shiˋ, ngai zaiˇ ngiam+ rhid baiˊ bunˋ ngi tangˋ, hoˊ mo?"}
+  - n: 11
+    speaker: 阿公
+    en: "Read it."
+    sx: {hanzi: "唸。", pinyin: "ngiam."}
+    hl: {hanzi: "唸。", pinyin: "ngiam+."}
+  - n: 12
+    speaker: Sam
+    en: "'In all of life, the best place is home: one cup of hot tea, and the whole house smells of it.'"
+    sx: {hanzi: "人生盡好係屋下，一杯燒茶滿屋香。", pinyin: "nginˇ senˊ qin hoˋ he vugˋ kaˊ, idˋ biˊ seuˊ caˇ manˊ vugˋ hiongˊ.", groups: "nginˇ senˊ | qin hoˋ | he vugˋ kaˊ, idˋ biˊ | seuˊ caˇ | manˊ vugˋ hiongˊ."}
+    hl: {hanzi: "人生盡好係屋下，一杯燒茶滿屋香。", pinyin: "ngin senˋ cin+ hoˊ heˇ vug haˋ, rhid buiˋ shauˋ ca manˋ vug hiongˋ.", groups: "ngin senˋ | cin+ hoˊ | heˇ vug haˋ, rhid buiˋ | shauˋ ca | manˋ vug hiongˋ."}
+  - n: 13
+    speaker: 阿婆
+    en: "(coming out with a tray) And here's the hot tea."
+    sx: {hanzi: "燒茶來了。", pinyin: "seuˊ caˇ loiˇ leˊ."}
+    hl: {hanzi: "燒茶來了。", pinyin: "shauˋ ca loi leˋ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      做得行路 "may walk" (做得, lesson 25), 毋好做粗事 "no heavy work" (lesson 78): the doctor's orders, repeated by the
+      person who will enforce them.
+  - ref: 4
+    topic: grammar
+    text: >
+      會做得 "not bad, quite good" (lesson 67): the official examples gloss it 還不錯. From Grandpa, after two weeks of
+      watching Sam cut his tea, it is a medal.
+  - ref: 5
+    topic: grammar
+    text: >
+      盡好个話 "the best thing (he says)": here 盡 is "most", as often as it is "very" (lesson 8). The context decides.
+  - ref: 6
+    topic: grammar
+    text: >
+      叩應个該條山歌 "the mountain song from the phone-in": relative 个 + 該條 + noun (lesson 83), with 叩應 and 播 from
+      lesson 80. 還有播無？ "is it still being played?": 有 + verb in a question.
+  - ref: 9
+    topic: culture
+    text: >
+      佢今晡日講恁多話了！ is Grandma's line from lesson 20, word for word, when Grandpa told the story of walking to 公館.
+      Sixty-four lessons later the joke still works.
+  - ref: 12
+    topic: culture
+    text: >
+      The last two lines of Sam's poem (lesson 81). Cover the English and tell this month in your own Hakka: the fall,
+      the hospital and the nurses, the neighbours and the 麵線卵, Grandma on the radio, the poem, the 採茶調, the wedding
+      photo.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Grandpa fell in the tea field and stayed in hospital a week."
+      sx: {hanzi: "阿公在茶園跌倒，在醫院戴院一隻禮拜。", pinyin: "aˊ gungˊ coiˊ caˇ ienˇ diedˋ doˋ, coiˊ iˊ ien dai ien idˋ zagˋ liˊ bai."}
+      hl: {hanzi: "阿公在茶園跢倒，在醫院戴院一隻禮拜。", pinyin: "a+ gungˋ coiˋ ca rhan doiˋ doˊ, coiˋ rhiˋ rhanˇ daiˇ rhanˇ rhid zhag liˋ baiˇ."}
+    - en: "The bone isn't broken; the knee is just swollen."
+      sx: {hanzi: "骨頭無斷忒，膝頭腫起來定定。", pinyin: "gudˋ teuˇ moˇ tonˊ tedˋ, qidˋ teuˇ zungˋ hiˋ loiˇ tin tin."}
+      hl: {hanzi: "骨頭無斷忒，膝頭腫起來定定。", pinyin: "gud teu mo tonˋ ted, cid teu zhungˊ hiˊ loi tin+ tin+."}
+    - en: "Thank you! — Not at all. Come and see us when you're free."
+      sx: {hanzi: "恁仔細！——毋使客氣。有閒正來尞。", pinyin: "anˋ ziiˋ se! — mˇ siiˋ hagˋ hi. iuˊ hanˇ zang loiˇ liau."}
+      hl: {hanzi: "承蒙你！——毋使客氣。有閒正來尞。", pinyin: "shin mung ngi! — m siiˊ hag hiˇ. rhiuˋ han zhangˇ loi liau+."}
+    - en: "Grandma called in to the radio programme to thank the nurses."
+      sx: {hanzi: "阿婆打電話去電臺叩應，感謝醫院个護士。", pinyin: "aˊ poˇ daˋ tien fa hi tien toiˇ ko inˋ, gamˋ qia iˊ ien ge fu sii."}
+      hl: {hanzi: "阿婆打電話去電臺叩應，感謝醫院个護士。", pinyin: "a+ po daˊ tien+ faˇ hiˇ tien+ toi ko inˋ, gamˊ cia+ rhiˋ rhanˇ gaiˇ fu+ sii+."}
+    - en: "Sam's poem rhymes, and it reads smoothly."
+      sx: {hanzi: "Sam 个詩有押韻，讀起來當順。", pinyin: "Sam ge siiˊ iuˊ abˋ iun, tug hiˋ loiˇ dongˊ sun."}
+      hl: {hanzi: "Sam 个詩有押韻，讀起來當順。", pinyin: "Sam gaiˇ shiˋ rhiuˋ ab rhun+, tugˋ hiˊ loi dongˋ shun+."}
+    - en: "In those days there were no colour photos."
+      sx: {hanzi: "當時無彩色相片。", pinyin: "dongˊ siiˇ moˇ caiˋ sedˋ xiong pienˋ."}
+      hl: {hanzi: "該當時無彩色相片。", pinyin: "gai dongˋ shi mo caiˊ sed siongˇ pienˊ."}
+    - en: "He'll be seventy-nine this year, and he's still fit."
+      sx: {hanzi: "佢今年會七十九歲了，身體還當健。", pinyin: "giˇ gimˊ ngienˇ voi qidˋ siib giuˋ se leˊ, siinˊ tiˋ hanˇ dongˊ kien."}
+      hl: {hanzi: "佢今年會七十九歲了，身體還當健。", pinyin: "gi gimˋ ngien voi+ cid shibˋ giuˊ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+."}
+  fill:
+    - en: "In a song, 'is' is sung 是."
+      sx: {hanzi: "唱歌唱「___」。", pinyin: "cong goˊ cong ___.", answer_hanzi: "是", answer: "sii"}
+      hl: {hanzi: "唱歌唱「___」。", pinyin: "chongˇ goˋ chongˇ ___.", answer_hanzi: "是", answer: "shi+"}
+    - en: "The woman standing beside him is Grandma."
+      sx: {hanzi: "企在佢身邊___該隻細妹人係阿婆。", pinyin: "kiˊ coiˊ giˇ siinˊ bienˊ ___ ge zagˋ se moi nginˇ he aˊ poˇ.", answer_hanzi: "个", answer: "ge"}
+      hl: {hanzi: "企在佢身邊___該隻細妹人係阿婆。", pinyin: "kiˋ coiˋ gi shinˋ bienˋ ___ gai zhag seˇ moiˇ ngin heˇ a+ po.", answer_hanzi: "个", answer: "gaiˇ"}
+      check: true
+    - en: "I'm afraid it's going to rain."
+      sx: {hanzi: "___會落雨。", pinyin: "___ voi log iˋ.", answer_hanzi: "驚怕", answer: "giangˊ pa"}
+      hl: {hanzi: "___會落水。", pinyin: "___ voi+ logˋ shuiˊ.", answer_hanzi: "驚怕", answer: "giangˋ paˇ"}
+
+audio: []
