@@ -1,0 +1,276 @@
+id: 23
+genre: play
+title:
+  en: "Eating for free and taking the best seat"
+  sx: {hanzi: "邋食坐大位", pinyin: "lab siid coˊ tai vi"}
+review: false
+setting: >-
+  Saturday 25 November 2028, evening, Sam's room (進修 2). It is Sam's birthday, and he is cooking a French dinner
+  for A-in, A-min and his classmate 阿雄. The cat from 進修 17 is there too.
+names: [Sam, 阿英, 阿明, 阿雄, 阿婆, 法國]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "(coming in) Happy birthday! How old are you, Sam?"
+    sx: {hanzi: "生日快樂！Sam幾多歲數吔？", pinyin: "sangˊ ngidˋ kuai log! Sam giˋ doˊ se sii leˊ?"}
+  - n: 2
+    speaker: Sam
+    en: "Don't ask a man his age! Tonight I'm cooking you all a Western dinner."
+    sx: {hanzi: "歲數毋好問！今暗晡𠊎煮西餐招待你兜。", pinyin: "se sii mˇ hoˋ mun! gimˊ am buˊ ngaiˇ zuˋ xiˊ conˊ zeuˊ tai nˇ deuˊ."}
+  - n: 3
+    speaker: 阿英
+    en: "In a room this narrow? How?"
+    sx: {hanzi: "恁狹个房間，仰般煮？", pinyin: "anˋ hab ge fongˇ gienˊ, ngiongˋ banˊ zuˋ?"}
+  - n: 4
+    speaker: Sam
+    en: "I've got a rice cooker. French cooking doesn't need much."
+    sx: {hanzi: "有電鑊仔。法國料理毋使恁多東西。", pinyin: "iuˊ tien vog eˋ. fabˋ guedˋ liau liˊ mˇ siiˋ anˋ doˊ dungˊ xiˊ."}
+  - n: 5
+    speaker: 阿明
+    en: "(dropping into the only armchair) I'm sitting here!"
+    sx: {hanzi: "𠊎坐這！", pinyin: "ngaiˇ coˊ iaˋ!"}
+  - n: 6
+    speaker: 阿英
+    en: "Eating for free and taking the best seat: have you no shame?"
+    sx: {hanzi: "邋食坐大位，面皮皮仔毋知見笑。", pinyin: "lab siid coˊ tai vi, mien piˇ piˇ eˋ mˇ diˊ gien seu."}
+    source: kaga115
+  - n: 7
+    speaker: Sam
+    en: "First, a raw salad: vegetables with a pinch of salt, mixed with a little vinegar."
+    sx: {hanzi: "先食鹽生：菜撒兜仔鹽，攞兜仔酸醋。", pinyin: "xienˊ siid iamˇ sangˊ: coi saˋ deuˊ eˋ iamˇ, loˊ deuˊ eˋ sonˊ cii."}
+    check: true
+  - n: 8
+    speaker: 阿雄
+    en: "French people eat 鹽生 too?"
+    sx: {hanzi: "法國人乜食鹽生？", pinyin: "fabˋ guedˋ nginˇ me siid iamˇ sangˊ?"}
+  - n: 9
+    speaker: Sam
+    en: "More or less. Then there's French sausage, eaten with bread."
+    sx: {hanzi: "差毋多。續等係法國个煙腸，傍麵包食。", pinyin: "caˊ mˇ doˊ. sa denˋ he fabˋ guedˋ ge ienˊ congˇ, bongˋ mien bauˊ siid."}
+    check: true
+  - n: 10
+    speaker: 阿明
+    en: "I'm a fussy eater. I don't like sour things."
+    sx: {hanzi: "𠊎揀食，𠊎無愛食酸个。", pinyin: "ngaiˇ gienˋ siid, ngaiˇ moˇ oi siid sonˊ ge."}
+  - n: 11
+    speaker: 阿英
+    en: "Stop being so fussy!"
+    sx: {hanzi: "你莫恁揀食！", pinyin: "nˇ mog anˋ gienˋ siid!"}
+  - n: 12
+    speaker: 阿雄
+    en: "This sausage goes really well with it. It'd be great with rice… I mean, with bread."
+    sx: {hanzi: "這煙腸當合味，當扯飯……毋係，當扯麵包。", pinyin: "iaˋ ienˊ congˇ dongˊ gagˋ mi, dongˊ caˋ fan … mˇ he, dongˊ caˋ mien bauˊ."}
+  - n: 13
+    speaker: Sam
+    en: "Beer, anyone? With ice cubes?"
+    sx: {hanzi: "食麥酒無？加兜仔冰矻？", pinyin: "siid mag jiuˋ moˇ? gaˊ deuˊ eˋ benˊ kud?"}
+  - n: 14
+    speaker: 阿英
+    en: "A-min's only fifteen. Black tea will do for him."
+    sx: {hanzi: "阿明正十五歲，佢食紅茶就好。", pinyin: "aˊ minˇ zang siib ngˋ se, giˇ siid fungˇ caˇ qiu hoˋ."}
+  - n: 15
+    speaker: 阿明
+    en: "I want coffee!"
+    sx: {hanzi: "𠊎愛食咖啡！", pinyin: "ngaiˇ oi siid gaˊ biˊ!"}
+  - n: 16
+    speaker: Sam
+    en: "And for afters there's ice cream and watermelon."
+    sx: {hanzi: "點心係軟冰同西瓜。", pinyin: "diamˋ ximˊ he ngionˊ benˊ tungˇ xiˊ guaˊ."}
+  - n: 17
+    speaker: 阿明
+    en: "(suddenly) The cat's jumped onto the bookshelf, and the clock's fallen off!"
+    sx: {hanzi: "貓仔跳上書架仔，時鐘仔跌下來吔！", pinyin: "meu eˋ tiau songˊ suˊ ga eˋ, siiˇ zungˊ eˋ diedˋ haˊ loiˇ leˊ!"}
+  - n: 18
+    speaker: Sam
+    en: "My clock! …Luckily it isn't broken."
+    sx: {hanzi: "吾時鐘仔！……好得無爛。", pinyin: "ngaˊ siiˇ zungˊ eˋ! … hoˋ dedˋ moˇ lan."}
+  - n: 19
+    speaker: 阿英
+    en: "But the cat's knocked the ice cream all over the rug."
+    sx: {hanzi: "毋過貓仔同軟冰舞到地毯項都係。", pinyin: "mˇ go meu eˋ tungˇ ngionˊ benˊ muˋ do ti tanˋ hong du he."}
+    check: true
+  - n: 20
+    speaker: Sam
+    en: "The broom and dustpan are by the wardrobe, the bucket by the door."
+    sx: {hanzi: "掃把同畚斗在衫櫥脣，桶在門口。", pinyin: "so baˋ tungˇ bun deuˋ coiˊ samˊ cuˇ sunˇ, tungˋ coiˊ munˇ heuˋ."}
+  - n: 21
+    speaker: 阿雄
+    en: "I'll clear up."
+    sx: {hanzi: "𠊎來收揫。", pinyin: "ngaiˇ loiˇ suˊ qiuˊ."}
+  - n: 22
+    speaker: 阿明
+    en: "When you've eaten, you clear up: Grandma says so."
+    sx: {hanzi: "食飽愛收揫，阿婆講个。", pinyin: "siid bauˋ oi suˊ qiuˊ, aˊ poˇ gongˋ ge."}
+  - n: 23
+    speaker: 阿英
+    en: "Put the bowls and chopsticks in the sink. I'll wash them and put them in the cupboard."
+    sx: {hanzi: "碗同筷仔放水槽，𠊎來洗，洗好放碗櫥。", pinyin: "vonˋ tungˇ kuai eˋ biong suiˋ coˇ, ngaiˇ loiˇ seˋ, seˋ hoˋ biong vonˋ cuˇ."}
+  - n: 24
+    speaker: 阿英
+    en: "(handing him a parcel) Sam, this is from us: a scarf. It's getting cold; wear it when you go out."
+    sx: {hanzi: "Sam，這係𠊎兜送你个：一條頸圍仔。天時寒吔，出門愛圍。", pinyin: "Sam, iaˋ he ngaiˇ deuˊ sung nˇ ge: idˋ tiauˇ giangˋ viˇ eˋ. tienˊ siiˇ honˇ leˊ, cudˋ munˇ oi viˇ."}
+  - n: 25
+    speaker: Sam
+    en: "Lend me the scissors… (opening it) Thank you!"
+    sx: {hanzi: "剪刀借𠊎……恁仔細！", pinyin: "jienˋ doˊ jia ngaiˇ … anˋ ziiˋ se!"}
+  - n: 26
+    speaker: 阿明
+    en: "And I'm giving you a box of snacks. Don't eat too many… I'll help you with them."
+    sx: {hanzi: "𠊎送你一盒零嗒。零嗒莫食忒多……𠊎同你食。", pinyin: "ngaiˇ sung nˇ idˋ hab langˇ dab. langˇ dab mog siid tedˋ doˊ … ngaiˇ tungˇ nˇ siid."}
+  - n: 27
+    speaker: Sam
+    en: "Eating for free and taking the best seat again!"
+    sx: {hanzi: "你又係邋食坐大位！", pinyin: "nˇ iu he lab siid coˊ tai vi!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A play. The title is a saying from the official lists (高級): 邋食坐大位 "eat for free and take the seat of
+      honour", for a guest who behaves like the host. 大位 tai vi is the best seat at table.
+  - ref: 1
+    topic: vocab
+    text: >
+      生日快樂 "happy birthday" (快樂, lesson 31). 歲數 "age" (lesson 31).
+  - ref: 2
+    topic: vocab
+    text: >
+      西餐 xiˊ conˊ "Western food" (在臺灣，不管愛食桌菜抑西餐，各樣料理都有). 招待 (lesson 79) "entertain, treat (guests)".
+  - ref: 4
+    topic: vocab
+    text: >
+      電鑊仔 tien vog eˋ "rice cooker" (literally "electric pot"; 飯在電鑊仔項燉等 "the rice is keeping warm in the rice
+      cooker"). 料理 liau liˊ "cooking, cuisine" (客家料理一等好食).
+  - ref: 6
+    topic: vocab
+    text: >
+      An official sentence (kaga115). 面皮皮仔 "thick-skinned, shameless".
+  - ref: 7
+    topic: vocab
+    text: >
+      鹽生 iamˇ sangˊ "raw vegetables dressed with salt" (竻瓜仔鹽生脆脆當好食). 撒 saˋ "sprinkle" (撒兜仔鹽), 攞 loˊ "mix
+      in" (蔥仔炒香正攞卵 "fry the spring onion till fragrant, then mix in the egg"). Sam's salad with vinegar is ours; marked for review.
+  - ref: 9
+    topic: vocab
+    text: >
+      煙腸 ienˊ congˇ "sausage" (焙煙腸 "grill sausages"). 傍 bongˋ "eat with" (lesson 36; 這菜傍飯食，做得划三碗飯
+      "with this dish you could eat three bowls of rice"). With bread, our line.
+  - ref: 10
+    topic: vocab
+    text: >
+      揀食 gienˋ siid "fussy about food" (這細人仔當揀食).
+  - ref: 12
+    topic: vocab
+    text: >
+      合味 gagˋ mi "go well together, taste right" (豬利炒𧊅絲盡合味). 扯飯 caˋ fan "make you want to eat rice, go well
+      with rice" (菜脯當扯飯): 阿雄 catches himself, since there's no rice.
+  - ref: 13
+    topic: vocab
+    text: >
+      麥酒 mag jiuˋ "beer"; 冰矻 benˊ kud "ice cube".
+  - ref: 14
+    topic: vocab
+    text: >
+      紅茶 fungˇ caˇ "black tea" (literally "red tea").
+  - ref: 16
+    topic: vocab
+    text: >
+      軟冰 ngionˊ benˊ "ice cream" (literally "soft ice"; 細人仔當好食軟冰).
+  - ref: 17
+    topic: vocab
+    text: >
+      書架仔 suˊ ga eˋ "bookshelf", 時鐘仔 siiˇ zungˊ eˋ "clock" (時鐘仔个電池無電吔 "the clock battery is flat").
+  - ref: 18
+    topic: false-friend
+    text: >
+      好得 "luckily" (lesson 39). Not 還好, which is "very" (checklist).
+  - ref: 19
+    topic: vocab
+    text: >
+      舞到 muˋ do "make (it) end up…" (衫褲舞到屙屙糟糟 "got his clothes filthy"). 地毯 ti tanˋ "rug, carpet". 同 here
+      marks the object (= 把).
+  - ref: 20
+    topic: vocab
+    text: >
+      掃把 so baˋ "broom", 畚斗 bun deuˋ "dustpan" (拿畚斗同地圾抔出去), 衫櫥 samˊ cuˇ "wardrobe".
+  - ref: 21
+    topic: vocab
+    text: >
+      收揫 suˊ qiuˊ "tidy up, clear away": 食飽愛收揫 (line 22) is an official sentence.
+  - ref: 23
+    topic: vocab
+    text: >
+      水槽 suiˋ coˇ "sink", 碗櫥 vonˋ cuˇ "dish cupboard". 桶 tungˋ "bucket" (line 20).
+  - ref: 24
+    topic: vocab
+    text: >
+      頸圍仔 giangˋ viˇ eˋ "scarf" (literally "neck-wrap"); 圍 viˇ "wrap round". The official sentence: 天時恁寒，你出門愛圍頸圍仔正好.
+  - ref: 26
+    topic: vocab
+    text: >
+      零嗒 langˇ dab "snacks" (零嗒莫食忒多 "don't eat too many snacks", an official sentence).
+
+new_words:
+  - {hanzi: 西餐, pinyin: "xiˊ conˊ", en: "Western food"}
+  - {hanzi: 電鑊仔, pinyin: "tien vog eˋ", en: "rice cooker"}
+  - {hanzi: 料理, pinyin: "liau liˊ", en: "cooking, cuisine"}
+  - {hanzi: 邋食坐大位, pinyin: "lab siid coˊ tai vi", en: "eat for free and take the best seat"}
+  - {hanzi: 面皮, pinyin: "mien piˇ", en: "face (as in shame)"}
+  - {hanzi: 鹽生, pinyin: "iamˇ sangˊ", en: "raw vegetables dressed with salt"}
+  - {hanzi: 撒, pinyin: "saˋ", en: "sprinkle"}
+  - {hanzi: 攞, pinyin: "loˊ", en: "mix in"}
+  - {hanzi: 煙腸, pinyin: "ienˊ congˇ", en: "sausage"}
+  - {hanzi: 揀食, pinyin: "gienˋ siid", en: "fussy about food"}
+  - {hanzi: 合味, pinyin: "gagˋ mi", en: "go well together, taste right"}
+  - {hanzi: 扯飯, pinyin: "caˋ fan", en: "go well with rice"}
+  - {hanzi: 麥酒, pinyin: "mag jiuˋ", en: "beer"}
+  - {hanzi: 冰矻, pinyin: "benˊ kud", en: "ice cube"}
+  - {hanzi: 紅茶, pinyin: "fungˇ caˇ", en: "black tea"}
+  - {hanzi: 軟冰, pinyin: "ngionˊ benˊ", en: "ice cream"}
+  - {hanzi: 書架仔, pinyin: "suˊ ga eˋ", en: "bookshelf"}
+  - {hanzi: 時鐘仔, pinyin: "siiˇ zungˊ eˋ", en: "clock"}
+  - {hanzi: 舞到, pinyin: "muˋ do", en: "make (something) end up…"}
+  - {hanzi: 地毯, pinyin: "ti tanˋ", en: "rug, carpet"}
+  - {hanzi: 掃把, pinyin: "so baˋ", en: "broom"}
+  - {hanzi: 畚斗, pinyin: "bun deuˋ", en: "dustpan"}
+  - {hanzi: 衫櫥, pinyin: "samˊ cuˇ", en: "wardrobe"}
+  - {hanzi: 收揫, pinyin: "suˊ qiuˊ", en: "tidy up, clear away"}
+  - {hanzi: 桶, pinyin: "tungˋ", en: "bucket"}
+  - {hanzi: 碗櫥, pinyin: "vonˋ cuˇ", en: "dish cupboard"}
+  - {hanzi: 剪刀, pinyin: "jienˋ doˊ", en: "scissors"}
+  - {hanzi: 水槽, pinyin: "suiˋ coˇ", en: "sink"}
+  - {hanzi: 頸圍仔, pinyin: "giangˋ viˇ eˋ", en: "scarf"}
+  - {hanzi: 圍, pinyin: "viˇ", en: "wrap round, surround"}
+  - {hanzi: 零嗒, pinyin: "langˇ dab", en: "snacks"}
+
+exercises:
+  translate:
+    - en: "Hakka cooking is first-rate."
+      source: kaga115
+      sx: {hanzi: "客家料理一等好食。", pinyin: "hagˋ gaˊ liau liˊ idˋ denˋ hoˋ siid."}
+    - en: "Preserved radish goes really well with rice."
+      source: kaga115
+      sx: {hanzi: "菜脯當扯飯。", pinyin: "coi puˋ dongˊ caˋ fan."}
+    - en: "This child is very fussy about food."
+      source: kaga115
+      sx: {hanzi: "這細人仔當揀食。", pinyin: "iaˋ se nginˇ eˋ dongˊ gienˋ siid."}
+    - en: "Children love ice cream."
+      source: kaga115
+      sx: {hanzi: "細人仔當好食軟冰。", pinyin: "se nginˇ eˋ dongˊ hau siid ngionˊ benˊ."}
+    - en: "When you've eaten, clear up."
+      source: kaga115
+      sx: {hanzi: "食飽愛收揫。", pinyin: "siid bauˋ oi suˊ qiuˊ."}
+  fill:
+    - en: "Tonight I'm cooking Western food."
+      sx: {hanzi: "今暗晡𠊎煮___。", pinyin: "gimˊ am buˊ ngaiˇ zuˋ ___.", answer_hanzi: "西餐", answer: "xiˊ conˊ"}
+    - en: "Sprinkle on a little salt."
+      sx: {hanzi: "___兜仔鹽。", pinyin: "___ deuˊ eˋ iamˇ.", answer_hanzi: "撒", answer: "saˋ"}
+    - en: "Would you like a beer?"
+      sx: {hanzi: "食___無？", pinyin: "siid ___ moˇ?", answer_hanzi: "麥酒", answer: "mag jiuˋ"}
+    - en: "The broom is by the wardrobe."
+      sx: {hanzi: "___在衫櫥脣。", pinyin: "___ coiˊ samˊ cuˇ sunˇ.", answer_hanzi: "掃把", answer: "so baˋ"}
+    - en: "Don't eat too many snacks."
+      sx: {hanzi: "___莫食忒多。", pinyin: "___ mog siid tedˋ doˊ.", answer_hanzi: "零嗒", answer: "langˇ dab"}
+
+audio: []
