@@ -4,11 +4,12 @@
 # make lookup W=今晡日
 # make sources  render docs/sources.yaml → docs/sources.md
 # make lint      check the lessons; make coverage  what is taught, what comes next
+# make app       build the reader app → app/dist/index.html (one file); make site  installable site → _site/
 PY = python3 -I
 RAW = data/raw
 OUT = data/build
 
-.PHONY: data db lookup clean test sources lint coverage
+.PHONY: data db lookup clean test sources lint coverage app site
 data:
 	sh data/fetch.sh
 
@@ -35,3 +36,9 @@ lint:
 
 coverage:
 	$(PY) tools/coverage.py
+
+app:
+	$(PY) tools/build_app.py
+
+site: app
+	$(PY) tools/site.py _site

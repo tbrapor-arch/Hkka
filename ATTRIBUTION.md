@@ -17,6 +17,14 @@ Attribution text for Hakka Affairs Council open data: 資料來源：客家委�
 
 Romanisation throughout is the Ministry of Education's 臺灣客家語拼音方案 (2012 revision), Sixian (四縣腔).
 
+## In the app
+| Asset | Author | Licence | Use |
+|---|---|---|---|
+| Noto Sans (`app/fonts/`) | Google, via [@fontsource-variable/noto-sans](https://fontsource.org/fonts/noto-sans) | [SIL OFL 1.1](https://openfontlicense.org) | Embedded in the app for pinyin, with the tone letters ˊ ˇ ˋ. |
+| Plangothic | Fitzgerald Wu (@free-fonts/plangothic 1.0.0) | SIL OFL 1.1 | Glyphs of rare characters (𠊎, 𫣆, 𢯭…), subset at build time. |
+| Iansui, Noto Sans TC, Atkinson Hyperlegible, Nunito | Google Fonts | SIL OFL 1.1 | Loaded from Google Fonts. |
+| App design and code | adapted from Tsheh-tû (tbrapor-arch/tsehtu) | as this repository | |
+
 ## Private, local-only
 `HAKKA_PRIVATE=../Hkka-private make db` also loads sentences parsed from the Glossika *Mass Sentences — Hakka
 Sixian/Hailu* books (© Glossika, all rights reserved). They stay in your local database. Nothing derived from them

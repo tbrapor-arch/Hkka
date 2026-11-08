@@ -29,6 +29,16 @@ sh data/fetch_gov.sh      # on your own machine: 115年度 certification tables 
 HAKKA_PRIVATE=../Hkka-private make db   # also load the private Glossika sentences (local only)
 ```
 
+## The app
+`make app` builds the reader app into one file, `app/dist/index.html` (open it in a browser, no server needed);
+`make site` adds the manifest, icons and offline service worker in `_site/`. On every push to `main`, the workflow
+`.github/workflows/pages.yml` builds it from the open sources and publishes it on GitHub Pages
+(https://tbrapor-arch.github.io/Hkka/), where it can be installed on a phone's home screen.
+Lessons (Part 1 in Sixian and Hailu, 進修 in Sixian), tap-a-word cards from the lists and the MOE dictionary,
+notes, exercises, a Leitner word-card practice, progress saved in the browser. Audio is not in the public build yet:
+the 客委會 clips and the synthetic lesson voice live in Hkka-private (`tools/build_app.py` picks them up from
+`app/dist/audio/` when present).
+
 ## What the database gives you
 - 15,456 MOE dictionary readings with all six Taiwanese accents, definitions, part of speech, example sentences
 - the 2026 (115年度) certification vocabulary: 7,892 Sixian words from 基礎級 to 高級 with Mandarin meaning, part of

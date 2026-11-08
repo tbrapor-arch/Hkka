@@ -1,0 +1,1040 @@
+<title>客話 Hakka · Sixian</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Iansui&family=Atkinson+Hyperlegible:wght@400;700&family=Noto+Sans:wght@400;600;700&family=Noto+Sans+TC:wght@400;700;900&family=Nunito:wght@600;800;900&display=swap">
+<style>
+/*__FONTS__*/
+/* Layout: an app shell drawn as a school exercise book. Phones: one column with a bottom tab bar.
+   Wide screens: a left rail with the same tabs. Squared paper, a red margin line, blue ink, boxy cards
+   with an offset shadow. A second skin, "rose" (soft pink, round), is kept as an option. */
+:root {
+  --bg: #FCFCF8; --grid: #E3E9F6; --margin: #E8857F;
+  --surface: #FFFFFF; --line: #1A2233; --soft-line: #CBD3E4;
+  --text: #1A2233; --sub: #586276;
+  --brand: #2347B5; --brand-ink: #FFFFFF; --brand-soft: #E5EBFA;
+  --sun: #FFD84D; --sun-soft: #FFF5CC;
+  --coral: #D23F38; --coral-soft: #FCE4E2;
+  --shadow: 4px 4px 0 var(--brand); --shadow-soft: 3px 3px 0 var(--soft-line);
+  --border: 2px solid var(--line); --border-soft: 2px solid var(--soft-line);
+  --f-ui: "Atkinson Hyperlegible", "Noto Sans", system-ui, sans-serif;
+  --f-rom: "HakkaRom", "Noto Sans", system-ui, sans-serif;   /* embedded Noto Sans with the tone letters ˊ ˇ ˋ */
+  --f-han: "Iansui", "Noto Sans TC", "HakkaExt", "PingFang TC", sans-serif;
+  --f-mix: "HakkaRom", "Noto Sans", "Iansui", "Noto Sans TC", "HakkaExt", system-ui, sans-serif;
+  --w-han: 400; --r: 8px; --r-big: 10px;
+  color-scheme: light;   /* white paper unless the reader turns on Night */
+}
+/* skin: rose */
+:root[data-night] {
+  --bg: #15171D; --grid: #1F2330; --margin: #6E3434; --surface: #1C1F27; --line: #C9D1E6; --soft-line: #343A4C;
+  --text: #E7EAF2; --sub: #9AA3B8; --brand: #8FA8FF; --brand-ink: #10152A; --brand-soft: #232B47;
+  --sun: #FFD84D; --sun-soft: #3A3417; --coral: #FF8F86; --coral-soft: #3F2426; color-scheme: dark; }
+:root[data-skin="rose"] {
+  --bg: #FFF0F3; --grid: transparent; --margin: transparent; --surface: #FFFFFF; --line: #F3C7D3; --soft-line: #F7D9E1;
+  --text: #2B1A2E; --sub: #85566A; --brand: #C93466; --brand-ink: #FFFFFF; --brand-soft: #FFE1EA;
+  --sun: #FFC64D; --sun-soft: #FFF2D2; --coral: #C2410C; --coral-soft: #FFE7D6;
+  --shadow: 0 6px 18px rgb(201 52 102 / .12); --shadow-soft: 0 3px 10px rgb(201 52 102 / .08);
+  --border: 0 solid transparent; --border-soft: 0 solid transparent;
+  --f-ui: "Nunito", "Noto Sans", system-ui, sans-serif; --f-rom: "HakkaRom", "Noto Sans", system-ui, sans-serif;
+  --f-han: "Noto Sans TC", "HakkaExt", "PingFang TC", sans-serif; --f-mix: "Nunito", "Noto Sans", "Noto Sans TC", "HakkaExt", sans-serif;
+  --w-han: 900; --r: 22px; --r-big: 28px; }
+:root[data-skin="rose"][data-night] {
+  --bg: #1E1219; --surface: #2A1A24; --line: #4A2E3C; --soft-line: #3A2430; --text: #FBEFF4; --sub: #C9A3B4;
+  --brand: #FF7AA5; --brand-ink: #2B0F1C; --brand-soft: #4A2236; --sun-soft: #3B3017; --coral: #FF9E6B; --coral-soft: #3E2618; color-scheme: dark; }
+
+
+html, body { height: 100%; }
+body { background-color: var(--bg); background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 24px 24px; color: var(--text); font-family: var(--f-mix); font-size: 16px; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 6px; }
+.han { font-family: var(--f-han); }
+
+/* shell */
+.shell { display: grid; grid-template-columns: 15rem minmax(0, 1fr); min-height: 100%; }
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); align-self: start; height: 100vh; border-right: 1px solid var(--line); padding-block: 1.5rem; padding-inline: 1rem; display: flex; flex-direction: column; gap: 1.5rem; }
+.logo { display: flex; align-items: center; gap: .6rem; padding-inline: .5rem; }
+.logo .mark { width: 2.25rem; height: 2.25rem; border-radius: 10px; background: var(--brand); color: var(--brand-ink); display: grid; place-items: center; font-family: var(--f-han); font-weight: 900; font-size: 1.15rem; }
+.logo b { font-family: var(--f-han); font-weight: 900; font-size: 1.15rem; display: block; line-height: 1.1; }
+.logo small { color: var(--sub); font-size: .8rem; }
+.tabs { display: flex; flex-direction: column; gap: .25rem; }
+.tab { display: flex; align-items: center; gap: .75rem; background: none; border: 0; border-radius: 12px; padding: .65rem .75rem; text-align: left; font-weight: 600; color: var(--sub); }
+.tab svg { width: 1.35rem; height: 1.35rem; flex: none; }
+.tab:hover { background: var(--surface); color: var(--text); }
+.tab[aria-current="true"] { background: var(--brand-soft); color: var(--brand); }
+.tab .count { margin-left: auto; background: var(--coral); color: #fff; border-radius: 999px; font-size: .72rem; padding: 0 .45rem; font-variant-numeric: tabular-nums; }
+main { min-width: 0; padding-block: calc(2rem + env(safe-area-inset-top, 0px)) 5rem; padding-inline: clamp(16px, 4vw, 3rem); }
+.col { max-width: 44rem; margin-inline: auto; display: flex; flex-direction: column; gap: 1.5rem; }
+@media (max-width: 820px) {
+  .shell { grid-template-columns: 1fr; }
+  .rail { position: fixed; z-index: 15; top: auto; bottom: 0; left: 0; right: 0; height: auto; border-right: 0; border-top: 1px solid var(--line); background: var(--bg); padding-block: .35rem calc(.35rem + env(safe-area-inset-bottom, 0px)); padding-inline: .5rem; }
+  .logo { display: none; }
+  .tabs { flex-direction: row; justify-content: space-around; }
+  .tab { flex-direction: column; gap: .15rem; font-size: .72rem; padding: .35rem .6rem; position: relative; }
+  .tab .count { position: absolute; top: .1rem; right: .2rem; margin: 0; }
+  main { padding-block: calc(1.25rem + env(safe-area-inset-top, 0px)) 6.5rem; }
+}
+
+/* type */
+.eyebrow { font-size: .75rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--brand); }
+h1 { margin: 0; font-family: var(--f-han); font-weight: 900; font-size: clamp(1.9rem, 6vw, 2.6rem); line-height: 1.15; letter-spacing: -.01em; text-wrap: balance; }
+h2 { margin: 0; font-size: 1.15rem; font-weight: 800; display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+h2 .han { font-weight: 900; }
+.rom { font-family: var(--f-rom); }
+.sub { color: var(--sub); }
+.head { display: flex; flex-direction: column; gap: .2rem; }
+.head .rom { font-size: 1.2rem; color: var(--sub); }
+
+/* cards and buttons */
+.card { background: var(--surface); border-radius: var(--r); padding: 1.1rem 1.2rem; display: flex; flex-direction: column; gap: .6rem; }
+.card.raised { background: var(--bg); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; border: 0; border-radius: 999px; padding: .65rem 1.25rem; font-weight: 800; font-size: .95rem; background: var(--brand); color: var(--brand-ink); }
+.btn:hover { filter: brightness(1.05); }
+.btn.quiet { background: var(--surface); color: var(--text); }
+.btn.line { background: none; border: 1.5px solid var(--line); color: var(--text); }
+.btn.small { padding: .35rem .85rem; font-size: .85rem; }
+.row { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; }
+.pill { display: inline-flex; align-items: center; font-size: .72rem; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; padding: .2rem .6rem; border-radius: 999px; }
+.p-same { background: var(--surface); color: var(--sub); border: 1px solid var(--line); }
+.p-ff { background: var(--coral-soft); color: var(--coral); }
+.p-to { background: var(--brand-soft); color: var(--brand); }
+.p-pt { background: var(--sun-soft); color: var(--text); }
+.bar { height: .5rem; border-radius: 999px; background: var(--soft-line); overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--sun); border-radius: 999px; }
+
+.skin button[data-night][aria-pressed="true"] { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+.setgrid { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: .8rem 1rem; align-items: center; }
+.setgrid .lab { font-family: var(--f-ui); font-weight: 700; font-size: .9rem; }
+.setgrid .seg { justify-self: start; }
+/* word card: places table folded */
+.around summary { cursor: pointer; font-family: var(--f-ui); font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); padding-block: .2rem; }
+/* Mandarin equivalents */
+.mlist { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: .2rem; }
+.mlist .han { font-size: 1.05rem; } .mlist .py { font-family: var(--f-rom); color: var(--brand); font-weight: 600; } .mlist .men { color: var(--sub); font-size: .9rem; }
+/* keep the card header (and its close button) visible while the card scrolls */
+.sheet .wc-top { position: sticky; top: -.5rem; z-index: 2; background: var(--bg); margin-inline: -1.25rem; padding: .5rem 1.25rem .4rem; border-bottom: 1px solid var(--soft-line); }
+@media (min-width: 1100px) { .sheet .wc-top { top: calc(-1.25rem - env(safe-area-inset-top, 0px)); } }
+/* note pop-up */
+.note-body { margin: 0; font-size: 1.05rem; line-height: 1.6; max-width: 60ch; }
+.note-tag { font-family: var(--f-ui); font-weight: 700; font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--brand); margin-top: .2rem; }
+.note-tag.false-friend { color: var(--coral); }
+.sent.noted .txt { background: var(--sun-soft); border-radius: 6px; }
+.nlink { min-width: 1.9rem; height: 1.9rem; font-size: .85rem; }
+.allnotes summary { cursor: pointer; font-family: var(--f-ui); font-weight: 700; font-size: 1rem; padding-block: .4rem; }
+.allnotes .notes { margin-top: .6rem; }
+/* variants */
+ruby.tok.var rt .rw, span.tok.var { text-decoration: underline dotted var(--coral) 1.5px; text-underline-offset: 2px; }
+.choices { display: flex; gap: .4rem; flex-wrap: wrap; }
+.choice { display: flex; flex-direction: column; align-items: flex-start; border: var(--border-soft); background: var(--surface); border-radius: var(--r); padding: .35rem .7rem; min-height: 44px; }
+.choice b { font-family: var(--f-rom); font-size: 1.05rem; }
+.choice span { font-size: .72rem; color: var(--sub); font-family: var(--f-ui); }
+.choice[aria-pressed="true"] { border: var(--border); border-color: var(--brand); background: var(--brand-soft); }
+.ptable { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.ptable td, .ptable th { padding: .35rem .6rem; border-bottom: 1px solid var(--soft-line); text-align: left; white-space: nowrap; }
+.ptable th { font-family: var(--f-ui); font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--sub); }
+.ptable td { font-family: var(--f-rom); }
+.ptable .big { font-size: 1.4rem; }
+/* review segments, cloze, bridge, second wave */
+.segs { display: flex; flex-direction: column; gap: .5rem; }
+.seg-row { display: flex; gap: .6rem 1rem; align-items: center; justify-content: space-between; flex-wrap: wrap; background: var(--surface); border: var(--border-soft); border-radius: var(--r); padding: .7rem .9rem; }
+.seg-t { display: flex; flex-direction: column; min-width: 0; }
+.seg-t .han { font-size: 1.15rem; font-weight: var(--w-han); }
+.seg-meta { font-size: .8rem; color: var(--sub); } .seg-meta b { color: var(--coral); }
+.cloze { text-align: center; line-height: 2.4; }
+.cloze .blank { color: var(--brand); } .cloze .blank rt { color: var(--brand); }
+.cloze .hit { background: var(--sun-soft); border-radius: 4px; }
+.answer { display: flex; flex-direction: column; align-items: center; gap: .3rem; }
+.answer .ah { font-size: 2.2rem; font-weight: var(--w-han); line-height: 1.1; }
+.opts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem; width: 100%; max-width: 24rem; margin-top: .6rem; }
+.opt { font-family: var(--f-rom); font-size: 1.3rem; font-weight: 600; padding: .7rem .5rem; border: var(--border); border-radius: var(--r); background: var(--surface); color: var(--text); }
+.opt:not([disabled]):hover { background: var(--brand-soft); }
+.opt.right { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.opt.wrong { background: var(--coral-soft); color: var(--coral); border-color: var(--coral); }
+.explain { text-align: left; width: 100%; display: flex; flex-direction: column; gap: .4rem; margin-top: .6rem; }
+.explain ul { margin: 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: .3rem; }
+.explain p { margin: 0; }
+.verdict { font-weight: 700; } .verdict.ok { color: var(--brand); } .verdict.no { color: var(--coral); }
+.wave { text-align: left; border: var(--border); border-color: var(--coral); }
+.en.act { font-size: 1.2rem; font-weight: 600; }
+/* lesson grid */
+.lgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(4.6rem, 1fr)); gap: .5rem; }
+.lt { aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .1rem; background: var(--surface); border: var(--border-soft); border-radius: var(--r); padding: .3rem; min-width: 0; }
+.lt .ln { font-family: var(--f-ui); font-weight: 700; font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.lt .lh { font-family: var(--f-han); font-size: .78rem; color: var(--sub); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.lt:not(.soon):hover { background: var(--brand-soft); }
+.lt.next { border: var(--border); border-color: var(--brand); box-shadow: var(--shadow); }
+.lt.done { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.lt.done .lh { color: var(--brand-ink); opacity: .85; }
+.lt.soon { background: transparent; border-style: dashed; color: var(--sub); cursor: default; }
+.lt.soon .ln { font-weight: 400; opacity: .6; }
+.lt.rev.soon .lh { color: var(--coral); opacity: .7; }
+@media (max-width: 420px) { .lgrid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+/* Part 2 (進修): a second notebook */
+.pbreak { height: 0; border-top: 3px double var(--margin); margin: 1.2rem -1rem 0; }
+.pcover { position: relative; background: var(--surface); border: var(--border); border-left: 14px solid var(--brand); border-radius: var(--r); box-shadow: var(--shadow); padding: 1.2rem 1.2rem 1.1rem 1.1rem; display: flex; flex-direction: column; gap: .45rem; scroll-margin-top: 1rem; }
+.pcover h1 { font-size: clamp(2.2rem, 9vw, 2.8rem); }
+.pcover .ptag { position: absolute; top: .9rem; right: 1rem; font-family: var(--f-ui); font-weight: 800; font-size: .75rem; color: var(--coral); border: 2px solid var(--coral); border-radius: 6px; padding: .05rem .4rem; transform: rotate(4deg); }
+.lt .ln small { font-size: .7rem; color: var(--brand); margin-right: .05rem; }
+.lt.done .ln small { color: var(--brand-ink); }
+/* (old today styles below, unused) */
+.hello { display: flex; flex-direction: column; gap: .15rem; }
+.hello .big { font-family: var(--f-han); font-weight: 900; font-size: clamp(2rem, 7vw, 2.8rem); line-height: 1.1; }
+.hello .rom { font-size: 1.15rem; color: var(--sub); }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+.stat { display: flex; align-items: baseline; gap: .4rem; }
+.stat b { font-size: 2.2rem; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1; }
+.todaycard .lt { font-family: var(--f-han); font-size: 1.7rem; font-weight: 900; line-height: 1.2; }
+.todaycard .lr { color: var(--sub); }
+.wotd { cursor: pointer; text-align: left; border: 0; width: 100%; }
+.wotd .wh { font-family: var(--f-han); font-size: 2.4rem; font-weight: 700; line-height: 1.15; }
+.wotd .wr { font-size: 1.2rem; }
+.days { display: flex; gap: .35rem; }
+.days span { width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--line); display: grid; place-items: center; font-size: .65rem; font-weight: 800; color: var(--sub); }
+.days span.on { background: var(--sun); color: #2B2100; }
+
+/* lists */
+.list { display: flex; flex-direction: column; gap: .6rem; }
+.item { display: grid; grid-template-columns: 3rem minmax(0, 1fr) auto; align-items: center; gap: .9rem; background: var(--surface); border: 0; border-radius: var(--r); padding: .85rem 1rem; text-align: left; }
+.item:hover { background: var(--brand-soft); }
+.item .no { width: 3rem; height: 3rem; border-radius: 12px; background: var(--bg); display: grid; place-items: center; font-weight: 800; font-size: 1.1rem; font-variant-numeric: tabular-nums; }
+.item.done .no { background: var(--brand); color: var(--brand-ink); }
+.item .tt { font-family: var(--f-han); font-weight: 700; font-size: 1.15rem; }
+.item .ts { color: var(--sub); font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.item .chev { color: var(--sub); }
+.tgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)); gap: .8rem; }
+.tcard { background: var(--surface); border: 0; border-radius: var(--r); padding: 1.2rem 1rem; text-align: left; display: flex; flex-direction: column; gap: .2rem; }
+.tcard:hover { background: var(--brand-soft); }
+.tcard .th { font-family: var(--f-han); font-size: 2rem; font-weight: 900; line-height: 1.15; }
+.tcard .tr { color: var(--sub); }
+.tcard .tn { margin-top: .5rem; font-size: .8rem; color: var(--brand); font-weight: 800; }
+
+/* lesson reader */
+.toolbar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: .6rem; display: flex; gap: .5rem 1rem; flex-wrap: wrap; align-items: center; border-bottom: 1px solid var(--line); }
+.seg { display: inline-flex; background: var(--surface); border-radius: 999px; padding: 3px; }
+.seg button { border: 0; background: none; border-radius: 999px; padding: .3rem .8rem; font-size: .85rem; font-weight: 600; color: var(--sub); }
+.seg button[aria-pressed="true"] { background: var(--bg); color: var(--text); box-shadow: var(--shadow); }
+.toggle { display: inline-flex; align-items: center; gap: .4rem; font-size: .85rem; font-weight: 600; color: var(--sub); }
+.toggle input { accent-color: var(--brand); width: 1.05rem; height: 1.05rem; }
+.legend { display: flex; gap: .8rem; font-size: .78rem; color: var(--sub); flex-wrap: wrap; }
+.legend .k-to { border-bottom: 2.5px solid var(--brand); }
+.legend .k-ff { border-bottom: 2.5px dotted var(--coral); }
+.setting { color: var(--sub); }
+.lines { display: flex; flex-direction: column; gap: .75rem; }
+.sent { background: var(--surface); border-radius: var(--r); padding: .85rem 1rem 1rem; display: flex; flex-direction: column; gap: .35rem; }
+.sent .who { display: flex; align-items: center; gap: .5rem; font-size: .8rem; font-weight: 800; color: var(--sub); }
+.av { width: 1.6rem; height: 1.6rem; border-radius: 50%; display: grid; place-items: center; font-size: .75rem; font-weight: 800; background: var(--brand); color: var(--brand-ink); }
+.av.b { background: var(--sun); color: #2B2100; }
+.who .n { margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 600; }
+.txt { font-family: var(--f-han); font-size: 1.6rem; line-height: 2.5; }
+.mode-rom .txt { font-family: var(--f-ui); font-size: 1.3rem; line-height: 1.7; }
+.mode-han .txt { line-height: 1.75; }
+ruby.tok { ruby-position: over; cursor: pointer; border-radius: 6px; padding-inline: .05em; }
+rt .rw { display: inline-block; white-space: nowrap; }
+ruby.tok rt { font-family: var(--f-rom); font-size: .48em; font-weight: 600; color: var(--sub); }
+.mode-han ruby.tok rt { display: none; }
+span.tok { cursor: pointer; border-radius: 4px; }
+.tok:hover, .tok.sel { background: var(--brand-soft); }
+.tok.c-to { text-decoration: underline solid var(--brand) 2.5px; text-underline-offset: .3em; }
+.tok.c-ff { text-decoration: underline dotted var(--coral) 2.5px; text-underline-offset: .3em; }
+.punct { color: var(--sub); }
+.under { display: flex; gap: .4rem .8rem; flex-wrap: wrap; align-items: center; }
+.under.recap { margin: .6rem 0 0; }
+.reveal { border: 0; background: var(--bg); border-radius: 999px; padding: .2rem .75rem; font-size: .8rem; font-weight: 600; color: var(--sub); }
+.en { font-size: 1rem; }
+.zh { font-family: var(--f-han); color: var(--sub); }
+.nlink { border: 0; background: var(--brand-soft); color: var(--brand); border-radius: 999px; min-width: 1.6rem; height: 1.6rem; font-size: .78rem; font-weight: 800; }
+.notes { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .6rem; }
+.note { display: grid; grid-template-columns: 1.8rem minmax(0, 1fr); gap: .7rem; padding: .7rem .8rem; border-radius: 12px; transition: background .5s; }
+.note.flash { background: var(--sun-soft); }
+.note .nn { width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--brand-soft); color: var(--brand); display: grid; place-items: center; font-weight: 800; font-size: .8rem; }
+.note p { margin: 0; max-width: 65ch; }
+.note .tag { display: block; font-size: .7rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--sub); margin-bottom: .15rem; }
+.note .tag.false-friend { color: var(--coral); }
+.wgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr)); gap: .5rem; }
+.wchip { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 0 .7rem; align-items: center; background: var(--surface); border: 0; border-radius: 12px; padding: .55rem .8rem; text-align: left; }
+.wchip:hover { background: var(--brand-soft); }
+.wchip b { font-family: var(--f-han); font-size: 1.35rem; grid-row: span 2; }
+.wchip .r { font-weight: 600; }
+.wchip .g { font-size: .82rem; color: var(--sub); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wchip.c-ff b { color: var(--coral); }
+.wchip.c-to b { color: var(--brand); }
+.ex { display: flex; flex-direction: column; gap: .75rem; }
+.exi .k { font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--sub); }
+.exi .h { font-family: var(--f-han); font-size: 1.35rem; }
+.exi .t { font-size: 1.15rem; font-weight: 600; }
+.exi form { display: flex; gap: .5rem; flex-wrap: wrap; }
+.exi input { flex: 1 1 10rem; min-width: 0; font: inherit; font-size: 1.1rem; padding: .55rem .9rem; border: 1.5px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--text); }
+.fb { font-weight: 600; }
+.fb.ok { color: var(--brand); } .fb.no { color: var(--coral); } .fb.near { color: var(--text); background: var(--sun-soft); border-radius: 8px; padding: .1rem .5rem; align-self: start; }
+
+/* themes */
+.sec { display: flex; flex-direction: column; gap: .8rem; }
+.sec h2 .num { width: 1.9rem; height: 1.9rem; border-radius: 10px; background: var(--brand); color: var(--brand-ink); display: inline-grid; place-items: center; font-size: .95rem; flex: none; align-self: center; }
+.vtable { width: 100%; border-collapse: collapse; }
+.vwrap { overflow-x: auto; border-radius: var(--r); background: var(--surface); }
+.vtable td { padding: .55rem .8rem; border-bottom: 1px solid var(--line); vertical-align: middle; }
+.vtable tr:last-child td { border-bottom: 0; }
+.vtable tr { cursor: pointer; }
+.vtable tr:hover td { background: var(--brand-soft); }
+.vtable .vh { font-family: var(--f-han); font-size: 1.3rem; font-weight: 700; white-space: nowrap; }
+.vtable .vr { font-weight: 600; white-space: nowrap; }
+.vtable .ve { color: var(--text); }
+.vtable .vz { font-family: var(--f-han); color: var(--sub); white-space: nowrap; }
+.vtable .itb { display: inline-block; margin-left: .4rem; padding: 0 .35rem; border: 1px solid var(--line); border-radius: .4rem; font-family: var(--f-ui); font-size: .62rem; font-weight: 600; color: var(--sub); vertical-align: middle; letter-spacing: .02em; }
+.vtable tr.c-ff .vh { color: var(--coral); }
+.vtable tr.c-to .vh { color: var(--brand); }
+@media (max-width: 560px) { .vtable .vz { display: none; } }
+.ttext { display: flex; flex-direction: column; gap: .5rem; border-left: 4px solid var(--sun); padding-left: 1rem; }
+.ttext .txt { font-size: 1.45rem; }
+
+/* prose (lesson 0) */
+.prose { display: block; }
+.prose h1 { margin-bottom: 1rem; }
+.prose h2 { margin-top: 2rem; margin-bottom: .6rem; display: block; }
+.prose p, .prose li { max-width: 65ch; }
+.prose .tw { overflow-x: auto; margin-block: 1rem; background: var(--surface); border-radius: var(--r); }
+.prose table { border-collapse: collapse; font-size: .95rem; min-width: 100%; }
+.prose th, .prose td { padding: .5rem .8rem; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.prose th { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--sub); }
+.prose pre { background: var(--surface); border-radius: 12px; padding: .9rem 1rem; overflow-x: auto; }
+.prose code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .9rem; }
+
+/* review */
+.fc { min-height: 18rem; align-items: center; justify-content: center; text-align: center; }
+.fc .big { font-family: var(--f-han); font-size: clamp(2.8rem, 12vw, 4.2rem); font-weight: 700; line-height: 1.15; }
+.fc .r { font-size: 1.6rem; font-weight: 600; }
+.empty { color: var(--sub); max-width: 52ch; }
+
+/* word sheet */
+.sheet { position: fixed; z-index: 30; left: 0; right: 0; bottom: 0; max-height: 78vh; overflow-y: auto; background: var(--bg); border-radius: 22px 22px 0 0; box-shadow: 0 -10px 40px rgb(0 0 0 / .18); padding-block: .5rem calc(1.5rem + env(safe-area-inset-bottom, 0px)); padding-inline: 1.25rem; transform: translateY(105%); transition: transform .25s ease; display: flex; flex-direction: column; gap: .9rem; }
+.sheet:not(.open) { transform: translateY(calc(100% + 3rem)); visibility: hidden; transition: transform .25s ease, visibility 0s .25s; }
+.sheet.open { transform: none; visibility: visible; }
+.sheet .grab { width: 2.5rem; height: .3rem; border-radius: 999px; background: var(--line); align-self: center; }
+@media (min-width: 1100px) { .sheet:not(.open) { transform: translateX(calc(100% + 3rem)); } .sheet { left: auto; top: 0; width: 25rem; max-height: none; border-radius: 0; border-left: 1px solid var(--line); transform: translateX(105%); padding-top: calc(1.25rem + env(safe-area-inset-top, 0px)); } .sheet .grab { display: none; } }
+@media (prefers-reduced-motion: reduce) { .sheet, .note { transition: none; } }
+.wc-top { display: flex; align-items: flex-start; gap: 1rem; }
+.wc-top .play { margin-top: .4rem; }
+.lplay { border: var(--border-soft); background: var(--surface); color: var(--brand); border-radius: 999px; width: 1.9rem; height: 1.9rem; font-size: .75rem; padding: 0; }
+.lplay.rec { border-color: var(--brand); }
+.sent.saying .txt { background: var(--sun-soft); border-radius: 6px; }
+.lplay.on { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.tok.say { background: var(--sun-soft); box-shadow: inset 0 -3px 0 var(--sun); }
+.wc-btns { margin-left: auto; display: flex; gap: .4rem; align-items: flex-start; flex: none; }
+.wc-add { display: flex; flex-direction: column; align-items: center; gap: .05rem; max-width: 4.6rem; border: var(--border-soft, 1.5px solid var(--soft-line)); background: var(--bg); color: var(--sub); border-radius: 12px; padding: .3rem .45rem .25rem; cursor: pointer; font: inherit; font-size: .62rem; font-weight: 800; }
+.wc-add svg { width: 1.3rem; height: 1.3rem; }
+.wc-add span { max-width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wc-add.on { color: var(--brand); border-color: var(--brand); background: color-mix(in srgb, var(--brand) 12%, var(--bg)); }
+.wc-top .x { margin-left: auto; border: 0; background: var(--surface); border-radius: 50%; width: 2.2rem; height: 2.2rem; font-size: 1.2rem; color: var(--sub); }
+.wc-h { font-family: var(--f-han); font-size: 2.8rem; font-weight: 700; line-height: 1.1; }
+.wc-t { font-size: 1.45rem; font-weight: 600; }
+.wc-s { color: var(--sub); font-size: .9rem; }
+.wc-sec { display: flex; flex-direction: column; gap: .2rem; }
+.wc-sec h3 { margin: 0; font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); }
+.wc-gloss { font-size: 1.15rem; font-weight: 600; }
+.wc-sec ol { margin: 0; padding-left: 1.2rem; font-family: var(--f-han); }
+.pos { font-size: .75rem; color: var(--sub); margin-right: .3rem; }
+.wc-ex .h { font-family: var(--f-han); } .wc-ex .t { font-weight: 600; } .wc-ex .m { font-family: var(--f-han); color: var(--sub); }
+.wc-src { font-size: .75rem; color: var(--sub); }
+.parts { display: flex; gap: .4rem; flex-wrap: wrap; }
+.lname { display: flex; align-items: center; gap: .6rem; }
+.lname .icon.sq { flex: none; border: 1.5px solid var(--soft-line); border-radius: 8px; width: 2.2rem; height: 2.2rem; background: none; color: var(--brand); font-size: 1rem; }
+.lren { font: inherit; font-family: var(--f-han); font-size: 1.6rem; font-weight: 700; width: 100%; padding: .25rem .5rem; border: 1.5px solid var(--brand); border-radius: 8px; background: var(--surface); color: var(--text); }
+.tsearch { font: inherit; width: 100%; padding: .65rem .9rem; border: 1.5px solid var(--soft-line); border-radius: 999px; background: var(--surface); color: var(--text); }
+.tsearch:focus { outline: none; border-color: var(--brand); }
+.tsrc { display: block; color: var(--sub); font-size: .75rem; }
+.tlist { display: flex; flex-direction: column; border: 1.5px solid var(--soft-line); border-radius: 12px; background: var(--surface); overflow: hidden; }
+.trow + .trow { border-top: 1px solid var(--soft-line); }
+.trow-h { width: 100%; display: grid; grid-template-columns: 2.4rem 1fr auto 1rem; align-items: center; gap: .7rem; padding: .6rem .8rem; border: 0; background: none; color: var(--text); text-align: left; font: inherit; cursor: pointer; }
+.trow-h .tk { width: 2.4rem; height: 2.4rem; display: grid; place-items: center; border-radius: 10px; background: color-mix(in srgb, var(--brand) 12%, transparent); color: var(--brand); font-size: 1.3rem; font-weight: 700; }
+.trow-h .tt { display: flex; flex-direction: column; min-width: 0; }
+.trow-h .tt .han { font-size: 1.1rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.trow-h small { color: var(--sub); font-size: .78rem; }
+.trow-h .tc { display: flex; flex-direction: column; align-items: flex-end; font: 700 .85rem var(--f-ui); color: var(--brand); font-variant-numeric: tabular-nums; }
+.trow-h .chev { color: var(--sub); }
+.trow.open .trow-h { background: color-mix(in srgb, var(--brand) 6%, transparent); }
+.tgroups { display: flex; flex-wrap: wrap; gap: .4rem; padding: .2rem .8rem .8rem 3.9rem; }
+.tg { border: 1.5px solid var(--soft-line); background: var(--bg); color: var(--text); border-radius: 999px; padding: .3rem .7rem; font: inherit; font-size: .95rem; }
+.tg small { color: var(--sub); font-size: .75rem; }
+.tg.all { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+.xback { border: 0; background: none; color: inherit; font: inherit; font-size: 1.1rem; padding: 0 .4rem 0 0; cursor: pointer; }
+.lbar .icon.sq { position: relative; border: 1.5px solid var(--soft-line); border-radius: 8px; width: 2.2rem; height: 2.2rem; display: inline-grid; place-items: center; color: var(--brand); }
+.parts button { border: 0; background: var(--surface); border-radius: 10px; padding: .3rem .6rem; }
+.wc-comp { display: flex; flex-direction: column; gap: .25rem; }
+.wc-comp .kind { font-family: var(--f-ui); font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); }
+.wc-comp .cline { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .4rem; }
+.wc-comp button { border: 0; background: none; padding: 0; color: var(--text); display: inline-flex; align-items: baseline; gap: .35rem; text-align: left; }
+.wc-comp button .han { font-size: 1.15rem; text-decoration: underline dotted var(--sub) 1px; text-underline-offset: 3px; }
+.wc-comp button .g { color: var(--sub); font-size: .9rem; }
+.wc-comp .plus { color: var(--sub); }
+.splits { display: flex; gap: .4rem; flex-wrap: wrap; }
+.splits button { border: 1.5px solid var(--soft-line); background: var(--surface); color: var(--text); border-radius: 999px; padding: .3rem .75rem; display: inline-flex; align-items: baseline; gap: .4rem; }
+.splits button .han { font-size: 1.1rem; }
+.splits button .r { font-family: var(--f-rom); font-size: .85rem; color: var(--sub); }
+.splits button[aria-pressed="true"] { border-color: var(--brand); background: color-mix(in srgb, var(--brand) 12%, var(--surface)); }
+.splits button[aria-pressed="true"] .r { color: var(--brand); }
+.toast { position: fixed; left: 50%; bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--text); color: var(--bg); padding: .55rem 1.1rem; border-radius: 999px; font-weight: 600; font-size: .9rem; z-index: 40; }
+
+/* ---- skin-aware component styling (cards, borders, Han weights) */
+.rail { background: var(--bg); }
+.col { border-left: 2px solid var(--margin); padding-left: clamp(12px, 3vw, 28px); }
+.card, .sent, .item, .tcard, .wchip, .vwrap, .prose .tw, .prose pre { background: var(--surface); border: var(--border-soft); border-radius: var(--r); box-shadow: var(--shadow-soft); }
+.card.raised { border: var(--border); box-shadow: var(--shadow); border-radius: var(--r-big); }
+.item:hover, .tcard:hover, .wchip:hover { background: var(--brand-soft); }
+.item .no { background: var(--bg); border: var(--border-soft); border-radius: var(--r); }
+.btn { border-radius: var(--r); font-family: var(--f-ui); font-weight: 700; }
+.btn.line { border: var(--border); }
+:root[data-skin="rose"] .btn, :root[data-skin="rose"] .seg, :root[data-skin="rose"] .seg button { border-radius: 999px; }
+.seg { border-radius: var(--r); border: var(--border-soft); } .seg button { border-radius: calc(var(--r) - 2px); font-family: var(--f-ui); }
+.eyebrow, .tab, .pill, .reveal, .toggle, .legend, .sent .who, .exi .k, .note .tag, .wc-sec h3, .tcard .tn { font-family: var(--f-ui); }
+.pill { border-radius: 4px; } :root[data-skin="rose"] .pill { border-radius: 999px; }
+.sheet { border-top: var(--border); } :root[data-skin="rose"] .sheet { border-top: 0; }
+.fc { border: var(--border); box-shadow: var(--shadow); }
+.wc-top .play { margin-top: .4rem; }
+.lplay { border: var(--border-soft); background: var(--surface); color: var(--brand); border-radius: 999px; width: 1.9rem; height: 1.9rem; font-size: .75rem; padding: 0; }
+.lplay.on { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.tok.say { background: var(--sun-soft); box-shadow: inset 0 -3px 0 var(--sun); }
+.wc-top .x { border: var(--border-soft); border-radius: var(--r); }
+ruby.tok rt, .rom, .wc-t, .wchip .r, .vtable .vr, .exi .t, .fc .r, .wotd .wr, .head .rom, .hello .rom, .lr, .ts, .tr { font-family: var(--f-rom); }
+h1, .hello .big, .todaycard .lt, .wotd .wh, .item .tt, .tcard .th, .wchip b, .vtable .vh, .fc .big, .wc-h, h2 .han, .logo b, .logo .mark { font-weight: var(--w-han); }
+.txt { font-family: var(--f-han); }
+.skin { display: flex; gap: .3rem; margin-top: auto; padding-inline: .5rem; font-family: var(--f-ui); font-size: .8rem; color: var(--sub); align-items: center; flex-wrap: wrap; }
+.skin button { border: var(--border-soft); background: var(--surface); border-radius: var(--r); padding: .2rem .6rem; font-size: .8rem; }
+.skin button[aria-pressed="true"] { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+@media (max-width: 820px) { #skin { display: none; } .col { border-left: 0; padding-left: 0; } }
+.today-skin { margin-top: 0; padding-inline: 0; }
+@media (min-width: 821px) { .today-skin { display: none; } }
+
+
+/* ---- notebook skin, matched to mockup B: lines written straight on the page */
+:root:not([data-skin="rose"]) .sent { background: none; border: 0; box-shadow: none; padding: 0; gap: .15rem; }
+:root:not([data-skin="rose"]) .sent .who { color: var(--coral); font-family: var(--f-ui); font-weight: 700; font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; }
+:root:not([data-skin="rose"]) .sent .who .av { display: none; }
+:root:not([data-skin="rose"]) .sent .who .n { order: -1; margin: 0; color: var(--coral); }
+:root:not([data-skin="rose"]) .sent .who .n::after { content: " ·"; }
+:root:not([data-skin="rose"]) ruby.tok rt { font-family: var(--f-rom); font-weight: 700; color: var(--brand); }
+:root:not([data-skin="rose"]) .txt { font-size: 1.75rem; }
+:root:not([data-skin="rose"]) .reveal { background: var(--surface); border: 2px dashed var(--soft-line); border-radius: 6px; color: var(--brand); font-family: var(--f-ui); font-weight: 700; padding: .15rem .6rem; }
+:root:not([data-skin="rose"]) .sent .en { color: var(--sub); font-size: .95rem; }
+:root:not([data-skin="rose"]) .lines { gap: 1.25rem; }
+:root:not([data-skin="rose"]) .eyebrow { color: var(--brand); letter-spacing: .1em; }
+:root:not([data-skin="rose"]) .head .rom { color: var(--brand); font-family: var(--f-rom); font-weight: 700; font-size: 1.1rem; }
+:root:not([data-skin="rose"]) h1 { font-size: clamp(2.2rem, 7vw, 2.8rem); }
+:root:not([data-skin="rose"]) .p-to { background: var(--brand); color: var(--brand-ink); }
+:root:not([data-skin="rose"]) .p-ff { background: var(--coral); color: #fff; }
+:root:not([data-skin="rose"]) .sheet { border: var(--border); box-shadow: 6px 6px 0 var(--brand); }
+@media (max-width: 1099px) { :root:not([data-skin="rose"]) .sheet { left: 12px; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); border-radius: 10px; } }
+:root:not([data-skin="rose"]) .wc-t { color: var(--brand); font-family: var(--f-rom); font-weight: 700; }
+:root:not([data-skin="rose"]) .btn { font-family: var(--f-ui); }
+:root:not([data-skin="rose"]) .toolbar { background: var(--bg); }
+
+/* ---- conveniences borrowed from Mainichi */
+/* lesson bar: back, where you are, previous / next; stays at the top while you read */
+.lbar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 6; display: flex; align-items: center; gap: .2rem; background: var(--bg); border-bottom: 1px solid var(--line); margin-top: -.75rem; padding-block: .35rem; }
+.lbar .where { flex: 1; min-width: 0; font-family: var(--f-ui); font-weight: 700; font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-inline: .3rem; }
+.lbar .icon { border: 0; background: none; width: 2.6rem; height: 2.6rem; border-radius: var(--r); font-size: 1.35rem; color: var(--brand); flex: none; }
+.lbar .icon:hover:not([disabled]) { background: var(--brand-soft); }
+.lbar .icon[disabled] { opacity: .3; cursor: default; }
+.toolbar { position: static; }
+.lnav { display: flex; gap: .4rem; flex-wrap: wrap; }
+.lnav button { font-family: var(--f-ui); font-size: .82rem; font-weight: 700; color: var(--sub); background: var(--surface); border: var(--border-soft); border-radius: 999px; padding: .2rem .75rem; }
+.lnav button:hover { color: var(--brand); border-color: var(--brand); }
+#dlg, .allnotes, h2[id] { scroll-margin-top: 3.6rem; }
+.seg { flex-wrap: wrap; }
+.pracnav { align-self: flex-start; }
+/* "Tâi-lô on tap": readings hidden until a word is tapped */
+.mode-tap ruby.tok rt { visibility: hidden; }
+.mode-tap ruby.tok.show rt { visibility: visible; }
+/* home: next lesson, second wave, journal */
+.nextcard, .card.wave { gap: .5rem; }
+.nc-main { display: flex; align-items: center; gap: .9rem; flex-wrap: wrap; }
+.nc-n { font-family: var(--f-ui); font-weight: 700; font-size: 2rem; color: var(--brand); font-variant-numeric: tabular-nums; min-width: 2.2rem; }
+.nc-t { flex: 1; min-width: 10rem; display: flex; flex-direction: column; }
+.nc-t .han { font-size: 1.5rem; font-weight: var(--w-han); line-height: 1.2; }
+.nc-t .sub { font-size: .9rem; }
+.lt { position: relative; }
+.lt .w2 { position: absolute; top: .2rem; right: .3rem; font-family: var(--f-ui); font-size: .62rem; font-weight: 800; width: 1rem; height: 1rem; border-radius: 50%; background: var(--sun); color: #2B2100; display: grid; place-items: center; }
+.journal summary { cursor: pointer; font-family: var(--f-ui); font-weight: 700; padding-block: .4rem; }
+.journal ul { list-style: none; margin: .4rem 0 0; padding: 0; display: flex; flex-direction: column; }
+.journal li { display: flex; gap: .8rem; align-items: baseline; padding: .35rem 0; border-bottom: 1px dashed var(--soft-line); font-size: .92rem; }
+.journal time { color: var(--sub); min-width: 6.5rem; font-family: var(--f-ui); font-variant-numeric: tabular-nums; }
+.linkish { border: 0; background: none; padding: 0; color: var(--text); text-align: left; }
+.linkish:hover { color: var(--brand); text-decoration: underline; }
+/* lesson end */
+.finish { gap: .8rem; }
+.wave-intro { margin: 0; padding: .7rem .9rem; border-radius: var(--r); background: var(--brand-soft); }
+.card.wave { color: var(--text); }
+button.card.wave { text-align: left; }
+.pod-head { display: flex; gap: 1rem; align-items: center; }
+.pod-head img { width: 6rem; height: 6rem; border-radius: var(--r); object-fit: cover; border: var(--border-soft); flex: none; }
+.item.ep .no { font-size: 1rem; } .item.ep.done .no { background: var(--brand); color: var(--brand-ink); }
+.item.ep .tt { font-size: 1rem; font-family: var(--f-mix); font-weight: 700; } .item.ep .ts { white-space: normal; }
+.podplayer input[type=range] { width: 100%; accent-color: var(--brand); }
+.pp-ctl { justify-content: center; gap: 1rem; }
+.pp-big { width: 4rem; height: 4rem; border-radius: 50% !important; font-size: 1.4rem; padding: 0; }
+#pp-loop.on { border-color: var(--coral); color: var(--coral); }
+.epintro p { margin: .25rem 0; max-width: 65ch; }
+.epintro p.topic { padding-left: 1.1rem; position: relative; } .epintro p.topic::before { content: "◎"; position: absolute; left: 0; color: var(--brand); }
+.chaps { display: flex; flex-direction: column; gap: .3rem; }
+.chap { display: grid; grid-template-columns: 4.2rem minmax(0, 1fr); gap: .6rem; text-align: left; border: 0; background: var(--surface); border-radius: var(--r); padding: .5rem .7rem; border: var(--border-soft); }
+.chap.cur { border-color: var(--brand); background: var(--brand-soft); }
+.chap .han { font-size: 1.05rem; }
+.pvocab { display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: .5rem; }
+.pv { display: flex; flex-direction: column; gap: .15rem; text-align: left; background: var(--surface); border: var(--border-soft); border-radius: var(--r); padding: .55rem .75rem; }
+.pv[data-word]:hover { background: var(--brand-soft); }
+.pv b.han { font-size: 1.25rem; } .pv .rom { color: var(--brand); font-weight: 600; } .pv .zh { font-size: .88rem; }
+.podmini { position: fixed; left: 12px; right: 12px; bottom: calc(4.6rem + env(safe-area-inset-bottom, 0px)); z-index: 14; display: flex; gap: .5rem; align-items: center; background: var(--surface); border: var(--border); border-radius: var(--r); box-shadow: var(--shadow); padding: .35rem .5rem; }
+body.has-mini main { padding-bottom: 11rem; }
+.vidslot { position: relative; width: 100%; aspect-ratio: 16 / 9; }
+.vidbox { position: absolute; inset: 0; background: #000; border-radius: var(--r); overflow: hidden; }
+.vidbox iframe, .vidbox #vidframe, .vidbox .vidmsg { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.vidfx { display: none; }
+/* phone and tablet: once the player is scrolled away, the picture stays at the top of the screen */
+.vidplayer.float .vidbox { position: fixed; z-index: 16; top: env(safe-area-inset-top, 0px); left: 0; right: 0; bottom: auto; width: 100%; height: auto; aspect-ratio: 16 / 9; max-height: 40vh; border-radius: 0; box-shadow: 0 4px 14px rgba(0, 0, 0, .3); }
+.vidplayer.float .vidfx { display: grid; place-items: center; position: absolute; z-index: 2; top: .35rem; right: .35rem; width: 2rem; height: 2rem; border: 0; border-radius: 50%; background: rgba(0, 0, 0, .55); color: #fff; font-size: 1rem; }
+/* wide screens: picture and controls on the left (they stay put), transcript on the right */
+@media (min-width: 1100px) {
+  .col.vidpage { max-width: 82rem; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 2rem; align-items: start; }
+  .vidleft { position: sticky; top: 1rem; display: flex; flex-direction: column; gap: 1.25rem; }
+  .vidside:empty { display: none; }
+}
+@media (max-width: 1099px) { .vidleft, .vidside { display: flex; flex-direction: column; gap: 1.5rem; } .col.vidpage { gap: 1.5rem; } }
+.vidbox .vidmsg { display: grid; place-items: center; color: #fff; padding: 1rem; text-align: center; font-size: .9rem; }
+.podmini.float { padding: .45rem .6rem .35rem; overflow: hidden; }
+.podmini .pm-sk { border: var(--border); background: var(--surface); color: var(--text); border-radius: 999px; padding: .35rem .6rem; font: inherit; font-size: .85rem; flex: none; }
+.podmini .pm-time { flex: 1; text-align: center; font-variant-numeric: tabular-nums; font-size: .85rem; color: var(--sub); white-space: nowrap; }
+.podmini .pm-up { padding: .35rem .7rem; }
+.podmini .pm-bar { position: absolute; left: 0; right: 0; top: 0; height: 3px; background: var(--soft-line); }
+.podmini .pm-bar i { display: block; height: 100%; background: var(--brand); }
+.podmini .pm-play { width: 2.6rem; height: 2.6rem; border-radius: 50%; border: 0; background: var(--brand); color: var(--brand-ink); flex: none; }
+.podmini .pm-t { flex: 1; min-width: 0; text-align: left; border: 0; background: none; display: flex; flex-direction: column; line-height: 1.2; }
+.podmini .pm-t b { font-size: .75rem; color: var(--sub); } .podmini .pm-t span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: .9rem; }
+@media (min-width: 821px) { .podmini { left: auto; width: 24rem; bottom: 16px; } }
+.gitem .no { font-size: .85rem; }
+.gitem .ts, .item .ts { white-space: normal; }
+.gitem .tt { font-size: 1.1rem; }
+@media (max-width: 820px) { .tab { padding: .35rem .3rem; font-size: .66rem; } }
+.wchip.indeck { box-shadow: inset 3px 0 0 var(--brand); }
+.copybox { width: 100%; min-height: 8rem; font: inherit; font-size: .85rem; }
+kbd { font-family: var(--f-ui); font-size: .7rem; font-weight: 700; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; opacity: .6; margin-left: .2rem; }
+@media (hover: none) { kbd { display: none; } }
+/* ---- Hakka additions */
+.accseg { margin-left: auto; }
+.tok.c-to { text-decoration: underline solid var(--brand) 2.5px; text-underline-offset: .3em; }
+.sent.check .n::after { content: " ?"; color: var(--coral); }
+.lvl { font-family: var(--f-ui); font-size: .75rem; font-weight: 700; border-radius: 999px; padding: .1rem .55rem; background: var(--sun-soft); color: var(--text); }
+.wc-at { font-size: .9rem; }
+.src-off { font-size: .75rem; color: var(--sub); }
+.prose table { border-collapse: collapse; } .prose td, .prose th { border: 1px solid var(--soft-line); padding: .3rem .5rem; vertical-align: top; }
+.tw { overflow-x: auto; }
+</style>
+
+<div class="shell">
+  <nav class="rail" aria-label="Sections">
+    <div class="logo"><div class="mark">客</div><div><b>客話</b><small>Hakka · Sixian</small></div></div>
+    <div class="tabs" id="tabs"></div>
+  </nav>
+  <main id="main"></main>
+</div>
+<aside class="sheet" id="sheet" aria-label="Word" aria-hidden="true"></aside>
+<div class="toast" id="toast" hidden></div>
+
+<script type="application/json" id="app-data">/*__DATA__*/null</script>
+<script>
+const DATA = JSON.parse(document.getElementById('app-data').textContent);
+const $ = (s, el = document) => el.querySelector(s);
+const $$ = (s, el = document) => [...el.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('hkka:' + k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem('hkka:' + k, JSON.stringify(v)); } catch {} }
+};
+const prefs = Object.assign({ mode: 'both', en: false, acc: 'sx', skin: 'notebook', night: false, active: false, autoplay: true }, store.get('prefs', {}));
+const savePrefs = () => store.set('prefs', prefs);
+function applySkin() {
+  const r = document.documentElement;
+  if (prefs.skin === 'rose') r.dataset.skin = 'rose'; else delete r.dataset.skin;
+  if (prefs.night) r.dataset.night = ''; else delete r.dataset.night;
+  const tc = document.querySelector('meta[name=theme-color]'); if (tc) tc.content = getComputedStyle(r).getPropertyValue('--bg').trim() || '#FCFCF8';
+}
+const HOSTED = !!document.querySelector('link[rel=manifest]');
+const STANDALONE = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+let installEvt = null;
+addEventListener('beforeinstallprompt', e => { e.preventDefault(); installEvt = e; if (currentTab() === 'settings') showSettings(); });
+if (HOSTED && 'serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
+
+// ---------- progress
+const doneAt = store.get('doneAt', {}), waveAt = store.get('waveAt', {});
+const done = new Set(Object.keys(doneAt).map(Number));
+function setDone(id, on) { if (on) { doneAt[id] = today(); done.add(id); } else { delete doneAt[id]; done.delete(id); } store.set('doneAt', doneAt); }
+function setWave(id, on) { if (on) waveAt[id] = today(); else delete waveAt[id]; store.set('waveAt', waveAt); }
+let deck = store.get('deck', {});
+let studyDays = new Set(store.get('days', []));
+const DAY = 864e5, BOXES = [0, 1, 3, 7, 16, 35];
+const ymd = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+const today = () => ymd(new Date());
+const fmtDate = s => { if (!s) return ''; const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }); };
+function studied() { studyDays.add(today()); store.set('days', [...studyDays]); }
+function streak() { let n = 0; const d = new Date(); if (!studyDays.has(ymd(d))) d.setDate(d.getDate() - 1); while (studyDays.has(ymd(d))) { n++; d.setDate(d.getDate() - 1); } return n; }
+
+const COG = { 'same': ['p-same', 'Same as Mandarin', ''], 'false-friend': ['p-ff', 'False friend', 'c-ff'], 'hakka-only': ['p-to', 'Hakka only', 'c-to'], 'partial': ['p-pt', 'Partly shared', ''] };
+const cog = id => COG[(DATA.dict[id] || {}).cog] || ['', '', ''];
+const PUNCT = { '，': ', ', '。': '. ', '！': '! ', '？': '? ', '：': ': ', '、': ', ', '；': '; ', '「': '“', '」': '”', '『': '‘', '』': '’', '（': '(', '）': ')', '……': '… ' };
+const ICONS = {
+  lessons: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21a2 2 0 0 1 2-2h13"/></svg>',
+  review: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="6" y="3" width="13" height="16" rx="2"/><path d="M3 7v12a2 2 0 0 0 2 2h10"/></svg>',
+  settings: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>',
+};
+
+// ---------- routing
+let WAVE = false, homeY = 0;
+function route() {
+  const h = location.hash.slice(1) || 'lessons';
+  closeSheet();
+  let m; WAVE = false;
+  if (h === 'lessons') return showLessons();
+  if (h === 'lesson-0') return showLesson0();
+  if ((m = h.match(/^(lesson|wave)-(\d+)$/))) { const L = DATA.lessons.find(l => l.id === +m[2]); if (L) { WAVE = m[1] === 'wave'; store.set('last', L.id); return showLesson(L); } }
+  if (h === 'review') return showReview();
+  if (h === 'settings') return showSettings();
+  showLessons();
+}
+function go(h) { if (location.hash === '#' + h) { route(); window.scrollTo(0, 0); } else location.hash = h; }
+let onHome = (location.hash.slice(1) || 'lessons') === 'lessons', resetHome = false;
+addEventListener('hashchange', () => {
+  if (onHome) homeY = window.scrollY;
+  if (resetHome) { homeY = 0; resetHome = false; }
+  route();
+  onHome = (location.hash.slice(1) || 'lessons') === 'lessons';
+  if (onHome && homeY) window.scrollTo(0, homeY); else window.scrollTo(0, 0);
+});
+function wireGo(root) { $$('[data-go]', root).forEach(b => b.onclick = () => go(b.dataset.go)); }
+function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave)/.test(h) ? 'lessons' : h; }
+function renderTabs(cur) {
+  const due = dueCards().length;
+  const tabs = [['lessons', 'Lessons'], ['review', due ? `Practice · ${due}` : 'Practice'], ['settings', 'Settings']];
+  $('#tabs').innerHTML = tabs.map(([k, t]) => `<button class="tab" data-tab="${k}" aria-current="${cur === k}">${ICONS[k]}<span>${t}</span></button>`).join('');
+  $$('[data-tab]', $('#tabs')).forEach(b => b.onclick = () => { const k = b.dataset.tab; if (k === 'review') sess = null; if (k === 'lessons') resetHome = true; go(k); });
+}
+
+// ---------- lessons list
+const TOTAL = 100, PART2 = 100, PTOTAL = 70;
+const isP = id => id > PART2;
+const lnum = id => isP(id) ? 'P' + (id - PART2) : String(id);
+const lname = id => isP(id) ? `進修 ${id - PART2}` : `Lesson ${id}`;
+const waveOff = id => isP(id) ? 35 : 49;
+const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
+// the accent shown: Hailu only exists in Part 1
+const accOf = L => (prefs.acc === 'hl' && !L.p2) ? 'hl' : 'sx';
+const titleOf = (L, a) => L.title[a] || L.title.sx;
+function tile(byId, id, next) {
+  const l = byId[id], n = isP(id) ? id - PART2 : id, rev = n % 7 === 0, pre = isP(id) ? '<small>P</small>' : '';
+  if (!l) return `<button class="lt soon ${rev ? 'rev' : ''}" disabled aria-label="${lname(id)}, not written yet"><span class="ln">${pre}${n}</span><span class="lh">${rev ? '復習' : ''}</span></button>`;
+  const st = done.has(id) ? 'done' : (next && next.id === id ? 'next' : '');
+  return `<button class="lt ${st} ${rev ? 'rev' : ''}" data-go="lesson-${id}" aria-label="${lname(id)}: ${esc(l.title.en)}${done.has(id) ? ', done' : ''}"><span class="ln">${done.has(id) ? '✓ ' : ''}${pre}${n}</span><span class="lh">${esc(titleOf(l, accOf(l)).h)}</span>${waveAt[id] ? '<span class="w2" aria-hidden="true">2</span>' : ''}</button>`;
+}
+function showLessons() {
+  renderTabs('lessons');
+  const byId = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
+  const next = DATA.lessons.find(l => !done.has(l.id));
+  const last = store.get('last', null), wv = nextWave(), dt = Object.values(doneAt).filter(d => d === today()).length, st = streak();
+  const inMain = id => id >= 1 && id <= TOTAL, mdone = [...done].filter(inMain).length, mwritten = DATA.lessons.filter(l => inMain(l.id)).length;
+  const p2 = [...Array(PTOTAL)].map((_, i) => PART2 + i + 1), pdone = p2.filter(id => done.has(id)).length, pwritten = p2.filter(id => byId[id]).length;
+  const journal = Object.entries(doneAt).map(([n, d]) => [d, +n, 'lesson']).concat(Object.entries(waveAt).map(([n, d]) => [d, +n, 'wave']))
+    .filter(x => x[0]).sort((a, b) => b[0].localeCompare(a[0]) || b[1] - a[1]);
+  $('#main').innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow">Course</span><h1>課程</h1>
+      <span class="rom">${mdone} done · ${mwritten} of ${TOTAL} written</span></div>
+    <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * mdone / TOTAL)}%"></i></div>
+    ${next ? `<div class="card raised nextcard">
+      <span class="eyebrow">${last === next.id ? 'Carry on' : 'Next lesson'}${dt ? ` · ${dt} done today` : ''}${st > 1 ? ` · ${st}-day streak` : ''}</span>
+      <div class="nc-main"><span class="nc-n">${lnum(next.id)}</span><span class="nc-t"><span class="han">${esc(titleOf(next, accOf(next)).h)}</span><span class="rom sub">${esc(titleOf(next, accOf(next)).p)} · ${esc(next.title.en)}</span></span>
+        <button class="btn" data-go="lesson-${next.id}">${last === next.id ? 'Resume' : 'Start'} →</button></div></div>`
+      : `<div class="card raised"><span class="eyebrow">All written lessons are done</span><span>New lessons will appear here as they are written.</span></div>`}
+    ${wv ? `<div class="card wave"><span class="eyebrow">${wv.review ? 'Review · second wave' : 'Second wave'}</span>
+      <div class="nc-main"><span class="nc-n">${lnum(wv.id)}</span><span class="nc-t"><span class="han">${esc(titleOf(wv, accOf(wv)).h)}</span><span class="sub">Read the English, say it in Hakka, then check.</span></span>
+        <button class="btn line" data-go="wave-${wv.id}">Do it →</button></div></div>` : ''}
+    <button class="item" data-go="lesson-0"><span class="no">0</span><span><span class="tt">讀拼音</span><br><span class="ts">Reading Hakka pinyin · start here</span></span><span class="chev">›</span></button>
+    <div class="lgrid">${[...Array(TOTAL)].map((_, i) => tile(byId, i + 1, next)).join('')}</div>
+    <p class="sub" style="margin:0;font-size:.85rem">Every 7th lesson (復習) is a review. From lesson 50 the second wave starts: each lesson you finish brings back lesson N−49 in active mode (English → Hakka); a small <b>2</b> marks the ones redone.</p>
+    <div class="pbreak" aria-hidden="true"></div>
+    <section class="pcover" id="part2" aria-label="Part 2, Perfectionnement"><span class="ptag">Part 2</span>
+      <span class="eyebrow">Perfectionnement · Sixian only</span><h1>進修</h1>
+      <span class="rom">jin xiuˊ · after the 100 lessons</span>
+      <p class="sub" style="margin:0">Longer lessons, and not only dialogues: letters, interviews, news, tales, speeches, essays. Sam is back in Taiwan for a year at 聯合大學. A review every 7th lesson; from 進修 36 each lesson also brings back 進修 N−35.</p>
+      <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * pdone / PTOTAL)}%"></i></div>
+      <span class="sub" style="font-size:.85rem">${pdone} done · ${pwritten} of ${PTOTAL} written</span></section>
+    <div class="lgrid pgrid">${p2.map(id => tile(byId, id, next)).join('')}</div>
+    <details class="journal"><summary><span class="han">日記</span> Journal (${journal.length})</summary>
+      ${journal.length ? `<ul>${journal.map(([d, n, k]) => { const l = byId[n]; return `<li><time>${fmtDate(d)}</time><button class="linkish" data-go="${k}-${n}">${k === 'wave' ? 'Second wave · ' : ''}${lname(n)} · ${esc(l ? l.title.en : '')}</button></li>`; }).join('')}</ul>`
+        : '<p class="sub">Lessons you finish show up here with their date.</p>'}</details>
+    <p class="sub" style="margin:0;font-size:.8rem">Built ${esc(DATA.built)}.</p>
+  </div>`;
+  wireGo($('#main'));
+}
+function nextWave() {
+  for (const inPart of [l => !isP(l.id), l => isP(l.id)]) {
+    for (const l of DATA.lessons.filter(inPart)) { if (waveAt[l.id]) continue; if (done.has(l.id + waveOff(l.id)) && isP(l.id + waveOff(l.id)) === isP(l.id)) return l; break; }
+  }
+  return null;
+}
+
+// ---------- tokenised sentence
+const HAN_RE = /[㐀-鿿\u{20000}-\u{3ffff}豈-﫿]/u;
+const TOKS = {};
+function rtHTML(r) { return `<rt><span class="rw">${esc(r)}</span></rt>`; }
+function tokHTML(tok, key) {
+  if (tok.x !== undefined) {
+    if (tok.p !== undefined) return prefs.mode === 'rom' ? esc(tok.p) : `<ruby>${esc(tok.x)}${prefs.mode === 'han' ? '' : rtHTML(tok.p)}</ruby>`;   // a line that could not be cut
+    if (tok.name) return `<span class="punct">${esc(tok.x)}</span>${prefs.mode === 'rom' ? ' ' : ''}`;
+    return `<span class="punct">${esc(prefs.mode === 'rom' ? (PUNCT[tok.x] ?? tok.x) : tok.x)}</span>`;
+  }
+  const w = tok.w, cls = 'tok ' + (w.id ? cog(w.id)[2] : '');
+  TOKS[key] = w;
+  const a = `class="${cls}" tabindex="0" role="button" data-tok="${key}"`;
+  if (prefs.mode === 'rom') return `<span ${a}>${esc(w.p)}</span> `;
+  if (prefs.mode === 'han') return `<span ${a}>${esc(w.h)}</span>`;
+  return `<ruby ${a}>${esc(w.h)}${rtHTML(w.p)}</ruby>`;
+}
+function sentence(b, prefix) { return b.t.map((t, i) => tokHTML(t, prefix + ':' + i)).join(''); }
+function wireTokens(root) {
+  $$('.tok', root).forEach(t => {
+    const open = () => {
+      if (prefs.mode === 'tap' && t.tagName === 'RUBY' && !t.classList.contains('show')) { t.classList.add('show'); return; }
+      $$('.tok.sel').forEach(x => x.classList.remove('sel')); t.classList.add('sel'); const w = TOKS[t.dataset.tok]; openCard(w.id, w);
+    };
+    t.onclick = open; t.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } };
+  });
+}
+function toolbar(L, withActive) {
+  return `<div class="toolbar" role="toolbar" aria-label="Display">
+    ${withActive ? `<label class="toggle"><input type="checkbox" id="opt-active" ${prefs.active ? 'checked' : ''}> Active (EN → Hakka)</label>` : ''}
+    <div class="seg" role="group" aria-label="Script">${[['both', '漢字 + pinyin'], ['tap', 'Pinyin on tap'], ['rom', 'Pinyin'], ['han', '漢字']].map(([k, t]) => `<button data-mode="${k}" aria-pressed="${prefs.mode === k}">${t}</button>`).join('')}</div>
+    ${L && !L.p2 ? `<div class="seg" role="group" aria-label="Accent">${[['sx', '四縣 Sixian'], ['hl', '海陸 Hailu']].map(([k, t]) => `<button data-acc="${k}" aria-pressed="${accOf(L) === k}">${t}</button>`).join('')}</div>` : ''}
+    <label class="toggle"><input type="checkbox" id="opt-en" ${prefs.en ? 'checked' : ''}> English</label>
+    <div class="legend"><span class="k-to">Hakka only</span><span class="k-ff">False friend</span></div></div>`;
+}
+function wireToolbar(rerender) {
+  $$('[data-mode]').forEach(b => b.onclick = () => { prefs.mode = b.dataset.mode; savePrefs(); rerender(); });
+  $$('[data-acc]').forEach(b => b.onclick = () => { prefs.acc = b.dataset.acc; savePrefs(); rerender(); });
+  $('#opt-en').onchange = e => { prefs.en = e.target.checked; savePrefs(); rerender(); };
+  const a = $('#opt-active'); if (a) a.onchange = e => { prefs.active = e.target.checked; savePrefs(); rerender(); };
+}
+const REVEAL = {};
+function enLine(en, k) { REVEAL[k] = en; return prefs.en ? `<span class="en">${esc(en)}</span>` : `<button class="reveal" data-reveal="${k}">Show English</button>`; }
+function wireReveal(root) { $$('[data-reveal]', root).forEach(b => b.onclick = () => { b.outerHTML = `<span class="en">${esc(REVEAL[b.dataset.reveal])}</span>`; }); }
+function fmt(t) { return esc(t).replace(/([㐀-鿿\u{20000}-\u{3ffff}豈-﫿]+)/gu, '<span class="han">$1</span>'); }
+
+// ---------- lesson
+function showLesson(L) {
+  renderTabs('lessons');
+  const a = accOf(L), T = titleOf(L, a);
+  const notesBy = {};
+  L.notes.forEach((n, i) => (notesBy[n.ref] = notesBy[n.ref] || []).push(i + 1));
+  const speakers = [...new Set(L.lines.map(l => l.sp))];
+  const ids = DATA.lessons.map(l => l.id), at = ids.indexOf(L.id), prev = ids[at - 1], nxt = ids[at + 1];
+  const active = WAVE || !!prefs.active;
+  const chips = WAVE ? [] : [['dlg', L.genre === 'dialogue' || L.genre === 'review' || L.genre === 'play' ? 'Dialogue' : 'Text'], ['sec-notes', 'Notes'], ['sec-words', 'New words'], ['sec-ex', 'Practice']];
+  const blk = ln => ln[a] || ln.sx;
+  $('#main').innerHTML = `<div class="col mode-${prefs.mode}">
+    <div class="lbar"><button class="icon" data-go="lessons" aria-label="Back to lessons">←</button>
+      <span class="where">${WAVE ? '2nd wave · ' : ''}${lname(L.id)} · ${esc(L.title.en)}</span>
+      <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${prev}" aria-label="Previous lesson" ${prev !== undefined ? '' : 'disabled'}>‹</button>
+      <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${nxt}" aria-label="Next lesson" ${nxt !== undefined ? '' : 'disabled'}>›</button></div>
+    <div class="head"><span class="eyebrow">${WAVE ? (L.review ? 'Review · second wave' : 'Second wave') : `${lname(L.id)}${L.review ? ' · Review' : L.genre && L.genre !== 'dialogue' ? ' · ' + (GENRES[L.genre] || L.genre) : ''}${L.p2 ? ' · Sixian' : a === 'hl' ? ' · Hailu' : ' · Sixian'}`}</span>
+      <h1>${esc(T.h)}</h1><span class="rom">${esc(T.p)} · ${esc(L.title.en)}</span></div>
+    ${chips.length ? `<nav class="lnav" aria-label="Sections">${chips.map(([id, t]) => `<button data-jump="${id}">${t}</button>`).join('')}</nav>` : ''}
+    ${WAVE ? `<p class="wave-intro">Each line shows the English. Say it in Hakka out loud, then tap <b>Show Hakka</b> to check. Tap a word to open its card; the notes are in the normal lesson.</p>`
+      : `<p class="setting" style="margin:0">${fmt(L.setting)}</p>`}
+    ${(() => { const w = L.id - waveOff(L.id); return !WAVE && isP(w) === isP(L.id) && DATA.lessons.some(l => l.id === w) ? `<button class="card wave" data-go="wave-${w}"><span class="eyebrow">${L.review ? 'Review · second wave' : 'Second wave'}${waveAt[w] ? ' · done ✓' : ''}</span><span>With this lesson, also redo <b>${lname(w)}</b> in active mode: read the English, say it in Hakka.</span></button>` : ''; })()}
+    ${toolbar(L, !WAVE)}
+    <div class="lines" id="dlg">${L.lines.map((ln, li) => { const b = blk(ln); return `
+      <div class="sent ${ln.check ? 'check' : ''}" id="line-${ln.n}">
+        <div class="who">${ln.sp ? `<span class="av ${speakers.indexOf(ln.sp) % 2 ? 'b' : ''}">${esc([...ln.sp][0] === '阿' && [...ln.sp].length > 1 ? [...ln.sp][1] : [...ln.sp][0])}</span>${esc(ln.sp)}` : ''}<span class="n">${ln.n}</span>${ln.src ? `<span class="src-off" title="An official example sentence (${esc(ln.src)})">official</span>` : ''}</div>
+        ${active ? `<div class="en act">${esc(ln.en)}</div><button class="reveal" data-tw="${li}">Show Hakka</button><div class="txt" id="tw-${li}" hidden>${sentence(b, 'L' + li)}</div>` : `<div class="txt">${sentence(b, 'L' + li)}</div>`}
+        <div class="under">${b.audio ? `<button class="lplay rec" data-lplay="${esc(b.audio)}" aria-label="Listen to line ${ln.n}">▶</button>` : ''}${active ? '' : enLine(ln.en, 'l' + li)}${WAVE ? '' : (notesBy[ln.n] || []).map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>
+      </div>`; }).join('')}</div>
+    ${!WAVE && (notesBy[0] || []).length ? `<div class="under recap"><span class="sub">General notes</span>${notesBy[0].map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>` : ''}
+    ${active ? `<div class="row"><button class="btn small quiet" id="show-all">Show all the Hakka</button></div>` : ''}
+    ${WAVE ? '' : `
+    <details class="allnotes" id="sec-notes"><summary><span class="han">注解</span> All notes (${L.notes.length})</summary>
+    <ol class="notes">${L.notes.map((n, i) => `<li class="note" id="note-${i + 1}"><span class="nn">${i + 1}</span><p><span class="tag ${esc(n.topic)}">${n.ref ? 'Line ' + n.ref : 'General'} · ${esc((n.topic || '').replace('-', ' '))}</span>${fmt(n.text)}</p></li>`).join('')}</ol></details>
+    <h2 id="sec-words"><span class="han">新詞</span> New words</h2>
+    ${L.words.length ? `<div class="wgrid">${L.words.map(w => { const x = w[a] || w.sx; return x ? `<button class="wchip ${x.id ? cog(x.id)[2] : ''} ${deck[x.id] ? 'indeck' : ''}" data-word="${esc(x.id)}"><b>${esc(x.h)}</b><span class="r">${esc(x.p)}</span><span class="g">${esc(w.en || '')}</span></button>` : ''; }).join('')}</div>
+    <div class="row"><button class="btn small quiet" id="addall">Add all to Practice</button><button class="btn small quiet" id="anki">Copy for Anki</button><span class="sub" style="font-size:.85rem" id="inlist"></span></div>` : '<p class="sub" style="margin:0">A review: no new words.</p>'}
+    <h2 id="sec-ex"><span class="han">練習</span> Practice</h2>
+    <p class="sub" style="margin:0;font-size:.85rem">Type pinyin with tone marks (ˊ ˇ ˋ) or without them, or the characters.</p>
+    <div class="ex">${L.ex.map((e, i) => exHTML(e, i, a)).join('')}</div>
+`}
+    <div class="card raised finish" id="finish"></div>
+  </div>`;
+  const main = $('#main');
+  wireToolbar(() => { const y = scrollY; showLesson(L); scrollTo(0, y); }); wireTokens(main); wireReveal(main); wireGo(main);
+  $$('[data-jump]', main).forEach(b => b.onclick = () => { const el = document.getElementById(b.dataset.jump); if (el.tagName === 'DETAILS') el.open = true; el.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+  $$('[data-tw]', main).forEach(b => b.onclick = () => { $('#tw-' + b.dataset.tw).hidden = false; b.remove(); });
+  const sa = $('#show-all', main); if (sa) sa.onclick = () => { $$('[data-tw]', main).forEach(b => b.click()); sa.remove(); };
+  $$('[data-note]', main).forEach(b => b.onclick = () => openNote(L, +b.dataset.note));
+  $$('[data-lplay]', main).forEach(b => b.onclick = () => play(b.dataset.lplay, b));
+  $$('[data-word]', main).forEach(b => b.onclick = () => openCard(b.dataset.word));
+  const wids = L.words.map(w => (w[a] || w.sx || {}).id).filter(Boolean);
+  const cnt = () => { const n = $('#inlist'); if (n) n.textContent = `${wids.filter(id => deck[id]).length} of ${wids.length} in Practice`; };
+  cnt();
+  const aa = $('#addall', main); if (aa) aa.onclick = () => { const n = addToDeck(wids); toast(n ? `${n} words added to Practice` : 'Already in Practice'); $$('.wchip[data-word]', main).forEach(b => b.classList.toggle('indeck', !!deck[b.dataset.word])); cnt(); renderTabs('lessons'); };
+  const ak = $('#anki', main); if (ak) ak.onclick = () => copyText(L.words.map(w => { const x = w[a] || w.sx; return [x.h, x.p, w.en || '', (DATA.dict[x.id] || {}).m || '', lname(L.id)].join('\t'); }).join('\n'), ak, 'Copied · in Anki: File › Import, fields separated by Tab');
+  wireExercises(L.ex, a, main);
+  finishBlock(L);
+}
+function finishBlock(L) {
+  const box = $('#finish'), nxt = DATA.lessons.find(l => l.id > L.id);
+  if (WAVE) {
+    const d = waveAt[L.id];
+    box.innerHTML = `<div><b>${d !== undefined ? `✓ Second wave done ${fmtDate(d)}` : 'Second wave done?'}</b><div class="sub" style="font-size:.9rem">The normal lesson keeps the notes and the word list.</div></div>
+      <div class="row">${d !== undefined ? '<button class="btn small quiet" id="undo">Undo</button>' : '<button class="btn" id="mark">Mark as done</button>'}
+        <button class="btn small line" data-go="lesson-${L.id}">Normal lesson</button><button class="btn small line" data-go="lessons">Lessons</button></div>`;
+  } else {
+    const d = doneAt[L.id];
+    box.innerHTML = `<div><b>${d !== undefined ? `✓ Lesson done ${fmtDate(d)}` : 'Finished with this lesson?'}</b>
+      <div class="sub" style="font-size:.9rem">${d !== undefined ? 'You can come back to it any time.' : 'Read, reveal, check the notes and do the practice. Then mark it done.'}</div></div>
+      <div class="row">${d !== undefined ? '<button class="btn small quiet" id="undo">Undo</button>' : '<button class="btn" id="mark">Mark as done</button>'}
+        ${nxt ? `<button class="btn ${d !== undefined ? '' : 'line'}" data-go="lesson-${nxt.id}">${lname(nxt.id)} →</button>` : '<button class="btn line" data-go="lessons">Lessons</button>'}</div>`;
+  }
+  wireGo(box);
+  const mk = $('#mark', box), un = $('#undo', box);
+  if (mk) mk.onclick = () => { if (WAVE) setWave(L.id, true); else setDone(L.id, true); studied(); toast(WAVE ? 'Second wave marked as done' : 'Lesson marked as done'); finishBlock(L); };
+  if (un) un.onclick = () => { if (WAVE) setWave(L.id, false); else setDone(L.id, false); toast('Undone'); finishBlock(L); };
+}
+async function copyText(txt, btn, okMsg) {
+  try { await navigator.clipboard.writeText(txt); btn.textContent = '✓ Copied'; toast(okMsg); }
+  catch { const ta = document.createElement('textarea'); ta.value = txt; ta.readOnly = true; ta.className = 'copybox'; btn.after(ta); ta.select(); btn.textContent = 'Copy this text'; }
+}
+
+// ---------- exercises: "translate" shows a Hakka sentence (meaning hidden); "fill" asks for the missing word
+function exHTML(e, i, a) {
+  const b = e[a] || e.sx; if (!b) return '';
+  if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span><span class="h">${esc(b.h)}</span><span class="t">${esc(b.p)}</span><span class="sub">${esc(e.en || '')}</span>
+    <form data-ex="${i}"><input id="ex-${i}" aria-label="Your answer" autocomplete="off" spellcheck="false" placeholder="Type in pinyin or 漢字">
+    <button class="btn small" type="submit">Check</button><button class="btn small quiet" type="button" data-show="${i}">Show</button></form>
+    <span class="fb" id="fb-${i}" aria-live="polite"></span></div>`;
+  return `<div class="card exi"><span class="k">What does it mean?</span><span class="h">${esc(b.h)}</span><span class="t">${esc(b.p)}</span>
+    <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show English</button><span class="fb" id="fb-${i}"></span></div>`;
+}
+const norm = s => (s || '').normalize('NFC').toLowerCase().replace(/[.,!?;:'"「」，。！？：、]/g, '').replace(/\s+/g, ' ').trim();
+const bare = s => norm(s).replace(/[ˊˇˋ^+]/g, '').replace(/\s+/g, '');
+function wireExercises(ex, a, root) {
+  $$('form[data-ex]', root).forEach(f => f.onsubmit = ev => {
+    ev.preventDefault();
+    const e = ex[+f.dataset.ex], b = e[a] || e.sx, v = $('input', f).value, fb = $('#fb-' + f.dataset.ex);
+    const ans = `${b.answer || ''}${b.answer_hanzi ? ' ' + b.answer_hanzi : ''}`;
+    if (norm(v).replace(/\s/g, '') === norm(b.answer).replace(/\s/g, '') || (b.answer_hanzi && norm(v) === norm(b.answer_hanzi))) { fb.className = 'fb ok'; fb.textContent = '✓ ' + ans; studied(); }
+    else if (bare(v) === bare(b.answer)) { fb.className = 'fb near'; fb.textContent = 'Right word, check the tones: ' + ans; }
+    else { fb.className = 'fb no'; fb.textContent = v.trim() ? 'Not quite. Try again, or tap Show.' : 'Type an answer first.'; }
+  });
+  $$('[data-show]', root).forEach(btn => btn.onclick = () => { const e = ex[+btn.dataset.show], b = e[a] || e.sx, fb = $('#fb-' + btn.dataset.show); fb.className = 'fb'; fb.textContent = `${b.answer || ''}${b.answer_hanzi ? ' ' + b.answer_hanzi : ''}`; });
+  $$('[data-ans]', root).forEach(btn => btn.onclick = () => { $('#fb-' + btn.dataset.ans).textContent = ex[+btn.dataset.ans].en; btn.remove(); });
+}
+
+// ---------- lesson 0
+function showLesson0() {
+  renderTabs('lessons');
+  $('#main').innerHTML = `<div class="col"><div class="prose"><span class="eyebrow">Lesson 0 · Before you start</span>${DATA.lesson0}</div>
+    <div class="row"><button class="btn" data-go="lesson-1">Start lesson 1</button></div></div>`;
+  const m = $('#main');
+  $$('table', m).forEach(t => { const w = document.createElement('div'); w.className = 'tw'; t.replaceWith(w); w.appendChild(t); });
+  $$('td', m).forEach(td => td.innerHTML = td.innerHTML.replace(/([㐀-鿿\u{20000}-\u{3ffff}]+)/gu, '<span class="han">$1</span>'));
+  wireGo(m);
+}
+
+// ---------- word card (bottom sheet)
+const SRC = { kaga115: '客語能力認證詞彙 115年度 (客委會)', kaga: '客語能力認證詞彙 102年版 (客委會)', moe: '教育部臺灣客家語常用詞辭典' };
+function openCard(id, w) {
+  const c = id ? DATA.dict[id] : null, sh = $('#sheet');
+  const top = (h, t, extra) => `<div class="grab"></div><div class="wc-top"><div><div class="wc-h">${esc(h)}</div><div class="wc-t">${esc(t)}</div>${extra || ''}</div><div class="wc-btns"><button class="x" aria-label="Close">×</button></div></div>`;
+  if (!c) sh.innerHTML = top(w ? w.h : '', w ? w.p : '') + '<p class="empty">A name, or a reading not in the lists or the dictionary.</p>';
+  else {
+    const [pc, pt] = cog(id);
+    const inD = !!deck[id];
+    sh.innerHTML = top(c.h, (w && w.p) || c.p, c.clip ? `<button class="btn small line play" id="play" aria-label="Play the recording">▶ Listen</button>` : '') + `
+      <div class="row">${c.lvl ? `<span class="lvl">${esc(c.lvl)}</span>` : ''}${pt ? `<span class="pill ${pc}">${pt}</span>` : ''}${c.a === 'hailu' ? '<span class="pos">海陸 Hailu</span>' : ''}${c.cat ? `<span class="pos">${esc(c.cat)}</span>` : ''}</div>
+      ${c.g || c.en ? `<div class="wc-sec"><h3>English</h3><div class="wc-gloss">${esc(c.g || c.en)}</div>${c.g && c.en && c.en !== c.g ? `<div class="sub" style="font-size:.85rem">Lists: ${esc(c.en)}</div>` : ''}</div>` : ''}
+      ${c.m ? `<div class="wc-sec"><h3>Mandarin</h3><div class="han">${esc(c.m)}</div></div>` : ''}
+      ${c.def ? `<div class="wc-sec"><h3>Dictionary</h3><ol>${c.def.map(d => `<li class="han">${esc(d)}</li>`).join('')}</ol></div>` : ''}
+      ${c.ex ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.ex.h)}</div>${c.ex.p ? `<div class="t">${esc(c.ex.p)}</div>` : ''}<div class="m">${esc(c.ex.m || '')}</div>${c.ex.en ? `<div class="sub">${esc(c.ex.en)}</div>` : ''}${c.exclip ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the example</button>` : ''}</div>` : ''}
+      ${c.at ? `<div class="wc-at">New word in <button class="linkish" data-go="lesson-${c.atid}"><b>${esc(c.at)}</b></button></div>` : ''}
+      <div class="row"><button class="btn small ${inD ? 'quiet' : ''}" id="deck">${inD ? '✓ In Practice · remove' : 'Add to Practice'}</button></div>
+      ${c.src ? `<div class="wc-src">Source: ${esc(SRC[c.src] || c.src)}${c.clip ? '. Recording: 客家委員會.' : ''}</div>` : ''}`;
+    $('#deck', sh).onclick = () => { if (deck[id]) { delete deck[id]; store.set('deck', deck); toast('Removed from Practice'); } else { addToDeck([id]); toast('Added to Practice'); } openCard(id, w); renderTabs(currentTab()); $$('.wchip[data-word]').forEach(b => b.classList.toggle('indeck', !!deck[b.dataset.word])); };
+    const pl = $('#play', sh); if (pl) pl.onclick = () => play(c.clip, pl);
+    const ep = $('#explay', sh); if (ep) ep.onclick = () => play(c.exclip, ep);
+    wireGo(sh);
+  }
+  $('.x', sh).onclick = closeSheet;
+  sh.classList.add('open'); sh.setAttribute('aria-hidden', 'false');
+}
+function openNote(L, k) {
+  const n = L.notes[k - 1], sh = $('#sheet'), total = L.notes.length;
+  sh.innerHTML = `<div class="grab"></div>
+    <div class="wc-top"><div><span class="eyebrow">Note ${k} of ${total} · ${n.ref ? 'line ' + n.ref : 'general'}</span>
+      <div class="note-tag ${esc(n.topic)}">${esc((n.topic || '').replace('-', ' '))}</div></div><button class="x" aria-label="Close">×</button></div>
+    <p class="note-body">${fmt(n.text)}</p>
+    <div class="row"><button class="btn small line" id="nprev" ${k <= 1 ? 'disabled' : ''}>‹ Previous</button>
+      <button class="btn small" id="nnext" ${k >= total ? 'disabled' : ''}>Next ›</button></div>`;
+  $('.x', sh).onclick = closeSheet;
+  $('#nprev', sh).onclick = () => k > 1 && openNote(L, k - 1);
+  $('#nnext', sh).onclick = () => k < total && openNote(L, k + 1);
+  $$('.sent').forEach(x => x.classList.toggle('noted', x.id === 'line-' + n.ref));
+  sh.classList.add('open'); sh.setAttribute('aria-hidden', 'false');
+}
+function closeSheet() { $$('.sent.noted').forEach(x => x.classList.remove('noted')); const sh = $('#sheet'); sh.classList.remove('open'); sh.setAttribute('aria-hidden', 'true'); $$('.tok.sel').forEach(x => x.classList.remove('sel')); }
+(() => {   // swipe the sheet down to close it
+  const sh = document.getElementById('sheet');
+  let y0 = 0, t0 = 0, dy = 0, drag = false, armed = false;
+  const wide = () => matchMedia('(min-width: 1100px)').matches;
+  sh.addEventListener('touchstart', e => { if (wide() || e.touches.length > 1) return; armed = sh.scrollTop <= 0; drag = false; dy = 0; y0 = e.touches[0].clientY; t0 = Date.now(); }, { passive: true });
+  sh.addEventListener('touchmove', e => {
+    if (!armed) return;
+    dy = e.touches[0].clientY - y0;
+    if (!drag) { if (dy > 8 && sh.scrollTop <= 0) { drag = true; sh.style.transition = 'none'; } else if (dy < 0) { armed = false; return; } else return; }
+    e.preventDefault(); sh.style.transform = `translateY(${Math.max(0, dy)}px)`;
+  }, { passive: false });
+  const end = () => { if (!drag) { armed = false; return; } const fast = dy > 40 && dy / Math.max(1, Date.now() - t0) > .5; sh.style.transition = ''; drag = armed = false; sh.style.transform = ''; if (dy > 90 || fast) closeSheet(); };
+  sh.addEventListener('touchend', end); sh.addEventListener('touchcancel', end);
+})();
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') return closeSheet();
+  if (e.target.closest('input, textarea, select') || e.metaKey || e.ctrlKey || e.altKey) return;
+  const h = location.hash.slice(1);
+  const click = sel => { const b = $(sel); if (b && !b.disabled) { e.preventDefault(); b.click(); } };
+  if (h === 'review' && sess) { if (e.key === ' ' || e.key === 'Enter') click('#flip'); else if (e.key === '1') click('#again'); else if (e.key === '2') click('#good'); }
+  else if (/^(lesson|wave)-\d+$/.test(h) && !e.target.closest('.tok')) { if (e.key === 'ArrowLeft') click('.lbar [aria-label="Previous lesson"]'); else if (e.key === 'ArrowRight') click('.lbar [aria-label="Next lesson"]'); }
+});
+document.addEventListener('click', e => {
+  const sh = $('#sheet');
+  if (!sh.classList.contains('open') || !e.target.isConnected || sh.contains(e.target) || e.target.closest('.tok, [data-note], [data-word], .tab')) return;
+  closeSheet();
+});
+
+// ---------- practice: word cards in Leitner boxes (1, 3, 7, 16, 35 days)
+function addToDeck(ids) { let n = 0; ids.forEach(id => { if (id && DATA.dict[id] && !deck[id]) { deck[id] = { box: 0, due: Date.now(), at: Date.now() }; n++; } }); store.set('deck', deck); return n; }
+function dueCards() { const now = Date.now(); return Object.keys(deck).filter(id => deck[id].due <= now && DATA.dict[id]); }
+let sess = null;
+function showReview() {
+  renderTabs('review');
+  if (sess) return showCard();
+  const ids = Object.keys(deck).filter(id => DATA.dict[id]), due = dueCards();
+  const byLesson = {};
+  ids.forEach(id => { const at = DATA.dict[id].atid || 0; (byLesson[at] = byLesson[at] || []).push(id); });
+  const doneIds = DATA.lessons.filter(l => done.has(l.id)).map(l => l.id);
+  $('#main').innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow">Practice</span><h1>溫習</h1><span class="rom">Word cards</span></div>
+    <div class="card raised"><div class="stat"><b>${due.length}</b><span class="sub">cards due · ${ids.length} in Practice</span></div>
+      <div class="row">${due.length ? `<button class="btn" id="due">Review ${due.length}</button>` : ''}${ids.length ? `<button class="btn ${due.length ? 'quiet' : 'line'}" id="all">Practise all</button>` : ''}
+      ${doneIds.length ? `<button class="btn small quiet" id="adddone">Add the words of the lessons I've done</button>` : ''}</div></div>
+    ${ids.length ? `<h2>By lesson</h2><div class="segs">${Object.entries(byLesson).sort((x, y) => x[0] - y[0]).map(([at, list]) => { const d = list.filter(id => deck[id].due <= Date.now()).length; return `<div class="seg-row"><div class="seg-t"><span class="han">${at > 0 ? esc(lname(+at)) : 'Other words'}</span><span class="seg-meta">${list.length} words${d ? ` · <b>${d} due</b>` : ''}</span></div><div class="row"><button class="btn small line" data-study="${at}">Practise</button></div></div>`; }).join('')}</div>`
+      : `<p class="sub">No cards yet. In a lesson, tap <b>Add all to Practice</b> under the new words, or <b>Add to Practice</b> on a word card.</p>`}
+    <p class="sub" style="font-size:.85rem;margin:0">A card you remember comes back after 1, 3, 7, 16 and 35 days; one you miss comes back at the end of the session.</p>
+  </div>`;
+  const start = (q, title) => { sess = { queue: shuffle(q), i: 0, flipped: false, title, missed: new Set(), total: q.length }; showCard(); };
+  const d = $('#due'); if (d) d.onclick = () => start(due, 'due cards');
+  const al = $('#all'); if (al) al.onclick = () => start(ids, 'all cards');
+  const ad = $('#adddone'); if (ad) ad.onclick = () => { const a = prefs.acc; const n = addToDeck(DATA.lessons.filter(l => done.has(l.id)).flatMap(l => l.words.map(w => ((!l.p2 && w[a]) || w.sx || {}).id))); toast(n ? `${n} words added` : 'Already there'); showReview(); };
+  $$('[data-study]').forEach(b => b.onclick = () => start(byLesson[b.dataset.study], lname(+b.dataset.study)));
+}
+function showCard() {
+  const m = $('#main');
+  if (sess.i >= sess.queue.length) {
+    m.innerHTML = `<div class="col"><div class="head"><span class="eyebrow">Practice · ${esc(sess.title)}</span><h1>好勢！</h1><span class="rom">Done</span></div>
+      <div class="card raised"><div class="stat"><b>${sess.total - sess.missed.size}/${sess.total}</b><span class="sub">remembered the first time</span></div>${sess.missed.size ? `<span class="sub">To look at again: ${[...sess.missed].map(id => `<span class="han">${esc(DATA.dict[id].h)}</span> ${esc(DATA.dict[id].p)}`).join(' · ')}</span>` : ''}</div>
+      <div class="row"><button class="btn" id="back">Back</button></div></div>`;
+    $('#back').onclick = () => { sess = null; showReview(); };
+    return;
+  }
+  const id = sess.queue[sess.i], c = DATA.dict[id], [pc, pt] = cog(id);
+  m.innerHTML = `<div class="col">
+    <div class="row" style="justify-content:space-between"><span class="eyebrow">Practice · ${esc(sess.title)}</span><span class="sub">${sess.i + 1} / ${sess.queue.length}</span></div>
+    <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * sess.i / sess.queue.length)}%"></i></div>
+    <div class="card raised fc" aria-live="polite"><div class="big han">${esc(c.h)}</div>
+      ${sess.flipped ? `<div class="answer"><span class="r">${esc(c.p)}</span>
+          ${c.clip ? `<button class="btn small line" id="rplay">▶ Listen</button>` : ''}
+          ${pt ? `<span class="pill ${pc}">${pt}</span>` : ''}${c.g || c.en ? `<span>${esc(c.g || c.en)}</span>` : ''}
+          ${c.m ? `<span class="zh">華語 ${esc(c.m)}</span>` : ''}${c.a === 'hailu' ? '<span class="pos">海陸 Hailu</span>' : ''}</div>
+        <div class="row" style="justify-content:center"><button class="btn line" id="again">Again <kbd>1</kbd></button><button class="btn" id="good">Got it <kbd>2</kbd></button></div>`
+      : `<p class="empty" style="margin:0">Say the reading and the meaning, then check.</p>
+        <div class="row" style="justify-content:center"><button class="btn" id="flip">Show answer <kbd>space</kbd></button></div>`}
+    </div>
+    <div class="row"><button class="btn small quiet" id="quit">Stop</button></div></div>`;
+  $('#quit').onclick = () => { sess = null; showReview(); };
+  if (sess.flipped) { $('#again').onclick = () => grade(false); $('#good').onclick = () => grade(true); const rp = $('#rplay'); if (rp) { rp.onclick = () => play(c.clip, rp); if (prefs.autoplay) play(c.clip, rp); } }
+  else $('#flip').onclick = () => { sess.flipped = true; showCard(); };
+}
+function grade(ok) {
+  const id = sess.queue[sess.i];
+  if (!deck[id]) deck[id] = { box: 0, due: Date.now() };
+  const d = deck[id];
+  d.box = ok ? Math.min(d.box + 1, BOXES.length - 1) : 0;
+  d.due = Date.now() + (ok ? BOXES[d.box] * DAY : 60e3); d.at = Date.now();
+  store.set('deck', deck); studied();
+  if (!ok) { sess.missed.add(id); sess.queue.push(id); }
+  sess.i++; sess.flipped = false; renderTabs('review'); showCard();
+}
+
+// ---------- settings
+function showSettings() {
+  renderTabs('settings');
+  const opt = (name, cur, list) => `<div class="seg" role="group" aria-label="${name}">${list.map(([k, t]) => `<button data-set="${name}" data-val="${k}" aria-pressed="${cur === k}">${t}</button>`).join('')}</div>`;
+  const m = $('#main');
+  m.innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow">Settings</span><h1>設定</h1></div>
+    <div class="card raised setgrid">
+      <span class="lab">Look</span>${opt('skin', prefs.skin, [['notebook', 'Notebook'], ['rose', 'Rose']])}
+      <span class="lab">Night mode</span>${opt('night', prefs.night ? 'on' : 'off', [['off', 'Off'], ['on', 'On']])}
+      <span class="lab">Accent (Part 1)</span>${opt('acc', prefs.acc, [['sx', '四縣 Sixian'], ['hl', '海陸 Hailu']])}
+      <span class="lab">Practice audio</span>${opt('autoplay', prefs.autoplay ? 'on' : 'off', [['on', 'Play on answer'], ['off', 'Silent']])}
+    </div>
+    <p class="sub" style="margin:0;max-width:65ch;font-size:.9rem"><b>Accent</b>: every Part 1 lesson is written in Sixian and in Hailu; this picks the one shown (you can also switch inside a lesson). 進修 is Sixian only.</p>
+    ${HOSTED && !STANDALONE ? `<h2><span class="han">安裝</span> Install the app</h2>
+    <div class="card"><span>Put 客話 on your home screen: it opens full screen like an app and works offline.</span>
+      ${installEvt ? '<div class="row"><button class="btn small" id="install">Install</button></div>'
+        : /iphone|ipad|ipod/i.test(navigator.userAgent) ? '<span class="sub" style="font-size:.9rem">In Safari: tap the Share button, then <b>Add to Home Screen</b>.</span>'
+        : '<span class="sub" style="font-size:.9rem">In your browser menu: <b>Install app</b> or <b>Add to Home screen</b>.</span>'}</div>` : ''}
+    <h2><span class="han">進度</span> Your progress</h2>
+    <div class="card"><span>${done.size} lessons done · ${Object.keys(waveAt).length} second-wave · ${Object.keys(deck).length} words in Practice · ${studyDays.size} days studied</span>
+      <span class="sub" style="font-size:.9rem">Progress is kept in this browser only. Save a copy to move it to another phone or computer.</span>
+      <div class="row"><button class="btn small" id="exp">Save progress file</button><button class="btn small line" id="imp">Load progress file</button>
+        <input type="file" id="imp-file" accept=".json,application/json" hidden></div></div>
+    <h2><span class="han">來源</span> Sources</h2>
+    <div class="card"><span class="sub" style="font-size:.9rem">Word lists and example sentences: 客家委員會 客語能力認證詞彙 (115年度 and 102年版). Dictionary: 教育部《臺灣客家語常用詞辭典》. Course text: CC BY-SA. Rare characters: Plangothic (SIL OFL). Built ${esc(DATA.built)}.</span></div>
+  </div>`;
+  $$('[data-set]', m).forEach(b => b.onclick = () => {
+    const k = b.dataset.set, v = b.dataset.val;
+    if (k === 'night') prefs.night = v === 'on'; else if (k === 'autoplay') prefs.autoplay = v === 'on'; else prefs[k] = v;
+    savePrefs(); applySkin(); showSettings();
+  });
+  const ins = $('#install', m); if (ins) ins.onclick = async () => { installEvt.prompt(); await installEvt.userChoice; installEvt = null; showSettings(); };
+  $('#exp', m).onclick = () => {
+    const blob = new Blob([JSON.stringify({ app: 'hkka', v: 1, doneAt, waveAt, deck, days: [...studyDays], prefs }, null, 1)], { type: 'application/json' });
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `hakka-progress-${today()}.json`; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  };
+  $('#imp', m).onclick = () => $('#imp-file', m).click();
+  $('#imp-file', m).onchange = async e => {
+    try {
+      const d = JSON.parse(await e.target.files[0].text());
+      if (d.app !== 'hkka') throw 0;
+      Object.assign(doneAt, d.doneAt || {}); Object.keys(doneAt).forEach(k => done.add(+k)); store.set('doneAt', doneAt);
+      Object.assign(waveAt, d.waveAt || {}); store.set('waveAt', waveAt);
+      deck = Object.assign(deck, d.deck || {}); store.set('deck', deck);
+      (d.days || []).forEach(x => studyDays.add(x)); store.set('days', [...studyDays]);
+      toast('Progress loaded'); showSettings();
+    } catch { toast('Not a progress file from this app'); }
+  };
+}
+
+// ---------- audio: one recording at a time
+let player = null;
+function play(src, btn) {
+  try { if (player) player.pause(); player = new Audio(src); } catch { return; }
+  player.play().catch(() => { if (btn) { btn.disabled = true; btn.textContent = 'No recording here'; } });
+}
+let toastT = 0;
+function toast(msg) { const t = $('#toast'); t.textContent = msg; t.hidden = false; clearTimeout(toastT); toastT = setTimeout(() => t.hidden = true, 2200); }
+
+applySkin();
+route();
+</script>

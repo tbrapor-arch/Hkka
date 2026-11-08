@@ -18,3 +18,10 @@ fetch moedict-data-hakka  https://github.com/g0v/moedict-data-hakka.git         
 fetch hakka_elearning     https://github.com/Taiwanese-Corpus/hakka_elearning.git 0a72438deb7d1801e1a2b4239f18c5c34325f371
 # HSK word lists (MIT): Mandarin comparison layer (cognate class, HSK level, English for shared words)
 fetch complete-hsk-vocabulary https://github.com/drkameleon/complete-hsk-vocabulary.git 7ac65bf1a6387d35f1ade478906172a19311c7f9
+# Plangothic (SIL OFL 1.1) webfont chunks: glyphs for Hakka characters (𠊎, 𫣆, 𢯭…) that common Chinese fonts lack.
+# tools/build_app.py embeds only the glyphs the app uses.
+if [ ! -d raw/plangothic/package ]; then
+  mkdir -p raw/plangothic
+  (cd raw/plangothic && npm pack @free-fonts/plangothic@1.0.0 --silent >/dev/null && tar xzf free-fonts-plangothic-1.0.0.tgz)
+fi
+echo "ok  plangothic @ 1.0.0"
