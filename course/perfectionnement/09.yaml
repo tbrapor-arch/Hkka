@@ -1,0 +1,296 @@
+id: 9
+genre: play
+title:
+  en: The turtle's feet come crawling out
+  sx: {hanzi: 鱉腳趖出來, pinyin: biedˋ giogˋ soˇ cudˋ loiˇ}
+review: false
+setting: Sunday 3 September 2028, 中元 (the fifteenth of the seventh month), in front of the temple in town. The offerings
+  for the 普渡 are laid out on long tables, and the square is full of stalls. Grandma has come with A-min and Sam. A stallholder,
+  阿發, is selling bracelets. 廟公 is the temple keeper.
+names: [阿發, 阿婆, 阿明, Sam, 阿英, 廟公]
+dialogue:
+- n: 1
+  speaker: 阿發
+  en: Roll up, roll up! Jade bracelets! Wear one and your luck will turn!
+  sx: {hanzi: 來哦來哦！玉手鈪！戴等運數就會好！, pinyin: loiˇ oˊ loiˇ oˊ! ngiug suˋ agˋ! dai denˋ iun sii qiu voi hoˋ!}
+- n: 2
+  speaker: 阿婆
+  en: Good luck? What's the price?
+  sx: {hanzi: 好運？價數幾多？, pinyin: 'hoˋ iun? ga sii giˋ doˊ?'}
+- n: 3
+  speaker: 阿發
+  en: Granny, this is real jade. Two thousand dollars apiece.
+  sx: {hanzi: 阿婆，這係真个玉，一隻兩千銀。, pinyin: 'aˊ poˇ, iaˋ he ziinˊ ge ngiug, idˋ zagˋ liongˋ qienˊ ngiunˇ.'}
+- n: 4
+  speaker: 阿婆
+  en: Two thousand? I haven't got that much cash on me.
+  sx: {hanzi: 兩千銀？𠊎手頭無恁多現金。, pinyin: 'liongˋ qienˊ ngiunˇ? ngaiˇ suˋ teuˇ moˇ anˋ doˊ hien gimˊ.'}
+- n: 5
+  speaker: 阿發
+  en: 'Never mind, Granny: just pay a thousand for now.'
+  sx: {hanzi: 無要緊，阿婆，先撿一千銀就好。, pinyin: 'moˇ ieu ginˋ, aˊ poˇ, xienˊ giamˋ idˋ qienˊ ngiunˇ qiu hoˋ.'}
+- n: 6
+  speaker: 阿明
+  en: (quietly) Grandma, he's a con man. Don't believe him.
+  sx: {hanzi: 阿婆，佢係落仔，莫信佢。, pinyin: 'aˊ poˇ, giˇ he lau eˋ, mog xin giˇ.'}
+- n: 7
+  speaker: 阿發
+  en: Young man, you're a bit slow, aren't you? This bracelet has been blessed by the gods in the temple.
+  sx: {hanzi: 細阿哥仔，你恁戇。這手鈪係廟肚个神明拜過个。, pinyin: 'se aˊ goˊ eˋ, nˇ anˋ ngong. iaˋ suˋ agˋ he meu duˋ ge siinˇ minˇ bai go ge.'}
+  check: true
+- n: 8
+  speaker: Sam
+  en: Sir, are you telling the truth?
+  sx: {hanzi: 頭家，你講个係實話無？, pinyin: 'teuˇ gaˊ, nˇ gongˋ ge he siid fa moˇ?'}
+- n: 9
+  speaker: 阿發
+  en: Foreigner, you don't know me. I've never bragged in my life.
+  sx: {hanzi: 外國人，你毋知，𠊎從來毋膨風。, pinyin: 'ngoi guedˋ nginˇ, nˇ mˇ diˊ, ngaiˇ qiungˇ loiˇ mˇ pong fungˊ.'}
+- n: 10
+  speaker: 阿明
+  en: Sam, he's bragging non-stop.
+  sx: {hanzi: Sam，佢緊膨風。, pinyin: 'Sam, giˇ ginˋ pong fungˊ.'}
+- n: 11
+  speaker: Sam
+  en: If it's real jade, can you prove it to everyone?
+  sx: {hanzi: 若係真个玉，你做得證明分大家看無？, pinyin: 'na he ziinˊ ge ngiug, nˇ zo dedˋ ziin minˇ bunˊ tai gaˊ kon moˇ?'}
+- n: 12
+  speaker: 阿發
+  en: '(as if he hadn''t heard) Roll up! It''s 普渡 today: buy one, get one free!'
+  sx: {hanzi: 來哦！今晡日普渡，買一隻送一隻！, pinyin: 'loiˇ oˊ! gimˊ buˊ ngidˋ puˊ tu, maiˊ idˋ zagˋ sung idˋ zagˋ!'}
+- n: 13
+  speaker: 阿明
+  en: See? He's pretending he didn't hear.
+  sx: {hanzi: 你看，佢詐意仔無聽著。, pinyin: 'nˇ kon, giˇ za i eˋ moˇ tangˊ doˋ.'}
+- n: 14
+  speaker: 阿婆
+  en: Buy one, get one free? Then I'll have one for A-in and one for me.
+  sx: {hanzi: 買一隻送一隻？該𠊎買一隻分阿英，一隻分𠊎。, pinyin: 'maiˊ idˋ zagˋ sung idˋ zagˋ? ge ngaiˇ maiˊ idˋ zagˋ bunˊ aˊ inˊ, idˋ zagˋ
+      bunˊ ngaiˇ.'}
+- n: 15
+  speaker: Sam
+  en: Grandma, wait a moment! (He picks up a bracelet and drops it on the paving.)
+  sx: {hanzi: 阿婆，等一下！, pinyin: 'aˊ poˇ, denˋ idˋ ha!'}
+- n: 16
+  speaker: Sam
+  en: 'Look: it fell on the ground and didn''t break; it bounced! It''s a fake.'
+  sx: {hanzi: 你看，跌落地泥無爛，嗄彈起來！該係假个。, pinyin: 'nˇ kon, diedˋ log ti naiˇ moˇ lan, sa tanˇ hiˋ loiˇ! ge he gaˋ ge.'}
+- n: 17
+  speaker: 阿明
+  en: The turtle's feet have come crawling out!
+  sx: {hanzi: 鱉腳趖出來吔！, pinyin: biedˋ giogˋ soˇ cudˋ loiˇ leˊ!}
+- n: 18
+  speaker: 阿發
+  en: You… you're asking for a hiding, are you?
+  sx: {hanzi: 你……你賺皮痛係無？, pinyin: 'nˇ … nˇ con piˇ tung he moˇ?'}
+- n: 19
+  speaker: 阿婆
+  en: You're such a crook, and you still dare to be so nasty!
+  sx: {hanzi: 你恁狡猾，還敢恁惡！, pinyin: 'nˇ anˋ gauˋ vad, hanˇ gamˋ anˋ ogˋ!'}
+- n: 20
+  speaker: 廟公
+  en: (hurrying over) What's going on? What's all this shouting in front of the temple?
+  sx: {hanzi: 麼个事？在廟前吵麼个？, pinyin: 'maˋ ge sii? coiˊ meu qienˇ cauˇ maˋ ge?'}
+- n: 21
+  speaker: 阿明
+  en: Sir, this man is tricking old people, selling fake jade.
+  sx: {hanzi: 阿伯，這隻人拐老人家，賣假个玉。, pinyin: 'aˊ bagˋ, iaˋ zagˋ nginˇ guaiˋ loˋ nginˇ gaˊ, mai gaˋ ge ngiug.'}
+- n: 22
+  speaker: 廟公
+  en: I'd heard there was a swindler working the square. I'll look into it.
+  sx: {hanzi: 𠊎早就聽人講，有一隻落仔在廟前拐人。𠊎來調查。, pinyin: 'ngaiˇ zoˋ qiu tangˊ nginˇ gongˋ, iuˊ idˋ zagˋ lau eˋ coiˊ meu qienˇ guaiˋ
+      nginˇ. ngaiˇ loiˇ tiauˇ caˇ.'}
+- n: 23
+  speaker: 阿發
+  en: It's a misunderstanding! A misunderstanding! I… I apologise to Granny.
+  sx: {hanzi: 誤會！係誤會！𠊎……𠊎同阿婆會失禮。, pinyin: ngu fi! he ngu fi! ngaiˇ … ngaiˇ tungˇ aˊ poˇ fi siidˋ liˊ.}
+- n: 24
+  speaker: 廟公
+  en: 'Apologising won''t do. Next time I''ll call the police. I''m warning you: no more tricking people here.'
+  sx: {hanzi: 會失禮無用。下二擺𠊎就喊警察。𠊎警告你，莫在這位拐人。, pinyin: 'fi siidˋ liˊ moˇ iung. ha ngi baiˋ ngaiˇ qiu ham ginˋ cadˋ. ngaiˇ ginˋ
+      go nˇ, mog coiˊ iaˋ vi guaiˋ nginˇ.'}
+- n: 25
+  speaker: 阿明
+  en: (watching 阿發 pack up and run) He's off! So much for boasting.
+  sx: {hanzi: 走忒吔！佢頭先還恁沙鼻。, pinyin: zeuˋ tedˋ leˊ! giˇ teuˇ xienˊ hanˇ anˋ saˊ pi.}
+- n: 26
+  speaker: 阿婆
+  en: (to the temple keeper) Please don't hold it against me. Old people get muddled.
+  sx: {hanzi: 請你莫見怪，老人家較糊塗。, pinyin: 'qiangˋ nˇ mog gien guai, loˋ nginˇ gaˊ ka fuˇ tuˇ.'}
+- n: 27
+  speaker: 廟公
+  en: Don't say that, Granny. These hoodlums are a rotten lot.
+  sx: {hanzi: 莫恁講，阿婆。這兜鱸鰻仔盡孤盲。, pinyin: 'mog anˋ gongˋ, aˊ poˇ. iaˋ deuˊ luˇ manˇ eˋ qin goˊ moˊ.'}
+- n: 28
+  speaker: 阿婆
+  en: (to Sam and A-min) Lucky I had you two, or that two thousand would have been thrown away for nothing. Let's spend
+    it on treating you both to 粄.
+  sx: {hanzi: 好彩有你兩儕，無採兩千銀就打爽吔。這兩千銀，拿來請你兩儕食粄。, pinyin: 'hoˋ coiˋ iuˊ nˇ liongˋ saˇ, moˇ caiˋ liongˋ qienˊ ngiunˇ qiu daˋ
+      songˋ leˊ. iaˋ liongˋ qienˊ ngiunˇ, naˊ loiˇ qiangˋ nˇ liongˋ saˇ siid banˋ.'}
+  check: true
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A play. The title is a saying from the official lists (高級): 鱉腳趖出來 "the turtle's feet come crawling out", for a cheat
+    whose trick is exposed. 趖 soˇ is "crawl". 中元 and the 普渡 (lesson 88) fall on the fifteenth of the seventh lunar month:
+    3 September in 2028.
+- ref: 1
+  topic: vocab
+  text: >
+    手鈪 suˋ agˋ "bracelet", 玉 ngiug "jade" (玉手鈪 is in the 2013 list's examples). 運數 iun sii "luck, fortune" (佢今年運數當好 "he's
+    in luck this year").
+- ref: 2
+  topic: vocab
+  text: >
+    價數 ga sii "price" (該價數兼兼仔一萬個銀 "the price is close on ten thousand").
+- ref: 3
+  topic: vocab
+  text: >
+    銀 ngiunˇ "dollar" as a classifier for money: 兩千銀 "two thousand dollars".
+- ref: 4
+  topic: vocab
+  text: >
+    手頭 suˋ teuˇ "(money) to hand, one's means"; 現金 hien gimˊ "cash" (堵好無帶著現金 "I happen not to have any cash on me").
+- ref: 5
+  topic: vocab
+  text: >
+    撿錢 giamˋ qienˇ "pay" (買東西愛撿錢分人): 撿 giamˋ + an amount, "pay so much".
+- ref: 6
+  topic: vocab
+  text: >
+    落仔 lau eˋ "swindler, con man". Note the reading lau.
+- ref: 7
+  topic: vocab
+  text: >
+    戇 ngong "foolish, simple" (大戇牯 "big fool"). That a bracelet becomes lucky by being "worshipped" in a temple is 阿發's
+    patter; the wording 神明拜過个 is ours and marked for review.
+- ref: 8
+  topic: vocab
+  text: >
+    實話 siid fa "the truth" (𠊎認為佢無講實話 "I don't think he's telling the truth").
+- ref: 9
+  topic: vocab
+  text: >
+    膨風 pong fungˊ "brag, boast" (佢當會膨風，莫信佢！ "he's a great boaster, don't believe him!"). 從來 + negative "never (in my life)"
+    (lesson 94).
+- ref: 11
+  topic: vocab
+  text: >
+    證明 ziin minˇ "prove; proof" (愛仰仔證明分大家看？ "how will you prove it to everyone?").
+- ref: 13
+  topic: vocab
+  text: >
+    詐意仔 za i eˋ "pretend, make as if" (阿姆緊喊佢，佢嗄詐意仔無聽著 "Mum kept calling him, but he pretended not to hear"): the official
+    sentence's very situation.
+- ref: 16
+  topic: vocab
+  text: >
+    彈 tanˇ "bounce". 假个 "a fake", 真个 (line 9) "a real one" (你係講真个抑講假个？). Jade would break; a plastic copy bounces.
+- ref: 18
+  topic: vocab
+  text: >
+    賺皮痛 con piˇ tung "ask for a beating" (literally "earn skin-pain"; 這細人仔講毋聽，根本賺皮痛).
+- ref: 19
+  topic: vocab
+  text: >
+    狡猾 gauˋ vad "crafty, dishonest" (佢人盡狡猾 "he's very crafty"; 盡 "very").
+- ref: 21
+  topic: vocab
+  text: >
+    拐 guaiˋ "trick, coax" (阿明緊噭，阿姆拿糖仔拐佢 "A-min wouldn't stop crying, so Mum coaxed him with sweets"): here in its bad sense,
+    "con".
+- ref: 22
+  topic: vocab
+  text: >
+    早就 zoˋ qiu "long since, already". 調查 tiauˇ caˇ "investigate, look into".
+- ref: 23
+  topic: vocab
+  text: >
+    誤會 ngu fi "misunderstanding". 會失禮 fi siidˋ liˊ "apologise" (撞著人愛同人會失禮 "if you bump into someone, say sorry"): note 會
+    read fi here, and 同 + person.
+- ref: 24
+  topic: vocab
+  text: >
+    無用 moˇ iung "useless, no good". 下二擺 "next time" (lesson 25). 警告 ginˋ go "warn".
+- ref: 25
+  topic: vocab
+  text: >
+    沙鼻 saˊ pi "cocky, full of himself" (阿腦佢兩句，佢就沙鼻碌碌 "praise him twice and he's cock-a-hoop"). 頭先 "just now" (checklist).
+- ref: 26
+  topic: vocab
+  text: >
+    見怪 gien guai "take offence, blame" (請你莫見怪 "please don't take it amiss": an official sentence inside the line). 糊塗 fuˇ
+    tuˇ "muddled, confused".
+- ref: 27
+  topic: vocab
+  text: >
+    鱸鰻仔 luˇ manˇ eˋ "hoodlum, thug" (literally "eel"). 孤盲 goˊ moˊ is a strong insult ("rotten, wicked") in the lists' own
+    words 罵人之語: an angry old man's word, not one to use lightly.
+- ref: 28
+  topic: vocab
+  text: >
+    無採 moˇ caiˋ "a waste, for nothing" (師傅話：菜籃㧡水，無採工 "carrying water in a vegetable basket: wasted effort"); 打爽 daˋ songˋ
+    "wasted, a pity" (這尾魚仔還打爽哪！ "what a waste of this fish!"). Grandma's doubled regret is our line; marked for review.
+new_words:
+- {hanzi: 玉, pinyin: ngiug, en: jade}
+- {hanzi: 手鈪, pinyin: suˋ agˋ, en: bracelet}
+- {hanzi: 銀, pinyin: ngiunˇ, en: dollar (classifier for money); silver}
+- {hanzi: 落仔, pinyin: lau eˋ, en: 'swindler, con man'}
+- {hanzi: 戇, pinyin: ngong, en: 'foolish, simple'}
+- {hanzi: 實話, pinyin: siid fa, en: the truth}
+- {hanzi: 膨風, pinyin: pong fungˊ, en: 'brag, boast'}
+- {hanzi: 證明, pinyin: ziin minˇ, en: prove; proof}
+- {hanzi: 詐意仔, pinyin: za i eˋ, en: 'pretend, make as if'}
+- {hanzi: 彈, pinyin: tanˇ, en: bounce; spring}
+- {hanzi: 鱉腳趖出來, pinyin: biedˋ giogˋ soˇ cudˋ loiˇ, en: the turtle's feet crawl out (a cheat is exposed)}
+- {hanzi: 賺皮痛, pinyin: con piˇ tung, en: ask for a beating}
+- {hanzi: 狡猾, pinyin: gauˋ vad, en: 'crafty, dishonest'}
+- {hanzi: 拐, pinyin: guaiˋ, en: 'trick, coax, con'}
+- {hanzi: 早就, pinyin: zoˋ qiu, en: 'long since, already'}
+- {hanzi: 調查, pinyin: tiauˇ caˇ, en: investigate}
+- {hanzi: 誤會, pinyin: ngu fi, en: misunderstanding; misunderstand}
+- {hanzi: 會失禮, pinyin: fi siidˋ liˊ, en: apologise}
+- {hanzi: 無用, pinyin: moˇ iung, en: 'useless, no good'}
+- {hanzi: 警告, pinyin: ginˋ go, en: warn; warning}
+- {hanzi: 沙鼻, pinyin: saˊ pi, en: 'cocky, full of oneself'}
+- {hanzi: 見怪, pinyin: gien guai, en: 'take offence, blame'}
+- {hanzi: 糊塗, pinyin: fuˇ tuˇ, en: 'muddled, confused'}
+- {hanzi: 鱸鰻仔, pinyin: luˇ manˇ eˋ, en: 'hoodlum, thug'}
+- {hanzi: 孤盲, pinyin: goˊ moˊ, en: 'rotten, wicked (strong insult)'}
+- {hanzi: 運數, pinyin: iun sii, en: 'luck, fortune'}
+- {hanzi: 價數, pinyin: ga sii, en: price}
+- {hanzi: 手頭, pinyin: suˋ teuˇ, en: 'money to hand, one''s means'}
+- {hanzi: 現金, pinyin: hien gimˊ, en: cash}
+- {hanzi: 撿, pinyin: giamˋ, en: pay (an amount)}
+- {hanzi: 無採, pinyin: moˇ caiˋ, en: 'a waste, for nothing'}
+- {hanzi: 打爽, pinyin: daˋ songˋ, en: wasted; what a pity}
+exercises:
+  translate:
+  - en: 'He''s a great boaster: don''t believe him!'
+    source: kaga115
+    sx: {hanzi: 佢當會膨風，莫信佢！, pinyin: 'giˇ dongˊ voi pong fungˊ, mog xin giˇ!'}
+  - en: If you bump into someone, you must apologise.
+    source: kaga115
+    sx: {hanzi: 撞著人愛同人會失禮。, pinyin: cong doˋ nginˇ oi tungˇ nginˇ fi siidˋ liˊ.}
+  - en: Go and find out what on earth is going on.
+    source: kaga115
+    sx: {hanzi: 你去調查一下到底係麼个事情。, pinyin: nˇ hi tiauˇ caˇ idˋ ha do daiˋ he maˋ ge sii qinˇ.}
+  - en: This is a misunderstanding.
+    source: kaga115
+    sx: {hanzi: 這係一個誤會。, pinyin: iaˋ he idˋ ge ngu fi.}
+  - en: Please don't take it amiss.
+    source: kaga115
+    sx: {hanzi: 請你莫見怪。, pinyin: qiangˋ nˇ mog gien guai.}
+  fill:
+  - en: Grandma, he's a con man.
+    sx: {hanzi: 阿婆，佢係___。, pinyin: 'aˊ poˇ, giˇ he ___.', answer_hanzi: 落仔, answer: lau eˋ}
+  - en: Are you telling the truth?
+    sx: {hanzi: 你講个係___無？, pinyin: 'nˇ gongˋ ge he ___ moˇ?', answer_hanzi: 實話, answer: siid fa}
+  - en: He's pretending he didn't hear.
+    sx: {hanzi: 佢___無聽著。, pinyin: giˇ ___ moˇ tangˊ doˋ., answer_hanzi: 詐意仔, answer: za i eˋ}
+  - en: This man is tricking old people.
+    sx: {hanzi: 這隻人___老人家。, pinyin: iaˋ zagˋ nginˇ ___ loˋ nginˇ gaˊ., answer_hanzi: 拐, answer: guaiˋ}
+  - en: I'm warning you.
+    sx: {hanzi: 𠊎___你。, pinyin: ngaiˇ ___ nˇ., answer_hanzi: 警告, answer: ginˋ go}
+audio: []
