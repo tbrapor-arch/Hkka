@@ -1,0 +1,307 @@
+id: 24
+genre: interview
+title:
+  en: "A long illness leaves no dutiful son"
+  sx: {hanzi: "長病無孝子", pinyin: "congˇ piang moˇ hau ziiˋ"}
+review: false
+setting: >-
+  Monday 4 December 2028, A-in's slot on the local radio. Her guest is 黃醫生, a retired family doctor from 公館, past
+  eighty; his mother was the village midwife.
+names: [阿英, 黃醫生, 公館]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Good evening, listeners. This is 'Health in Hakka', and today's guest is Dr Huang of 公館."
+    sx: {hanzi: "各位聽眾好，這係「客家講健康」，今晡日請著个人客係公館个黃醫生。", pinyin: "gogˋ vi tangˊ zung hoˋ, iaˋ he hagˋ gaˊ gongˋ kien kongˊ, gimˊ buˊ ngidˋ qiangˋ doˋ ge nginˇ hagˋ he gungˊ gonˋ ge vongˇ iˊ senˊ."}
+  - n: 2
+    speaker: 阿英
+    en: "Dr Huang, how long have you been a doctor?"
+    sx: {hanzi: "黃醫生，你做醫生做幾久吔？", pinyin: "vongˇ iˊ senˊ, nˇ zo iˊ senˊ zo giˋ giuˋ leˊ?"}
+  - n: 3
+    speaker: 黃醫生
+    en: "Half my life: fifty-odd years. I was a physician, not a surgeon, so I didn't do many operations."
+    sx: {hanzi: "做半生人吔，五十零年。𠊎係內科，毋係外科，手術做毋多。", pinyin: "zo ban senˊ nginˇ leˊ, ngˋ siib langˇ ngienˇ. ngaiˇ he nui koˊ, mˇ he ngoi koˊ, suˋ sud zo mˇ doˊ."}
+  - n: 4
+    speaker: 阿英
+    en: "You practise Western medicine. Do you also use Chinese medicine?"
+    sx: {hanzi: "你看西醫，乜看漢藥無？", pinyin: "nˇ kon xiˊ iˊ, me kon hon iog moˇ?"}
+  - n: 5
+    speaker: 黃醫生
+    en: "In the old days people trusted Chinese medicine more: when they had symptoms they went to the herbalist's. Now everyone sees a Western doctor."
+    sx: {hanzi: "早期个人較信漢藥，有症頭就去藥房。這下個個都看西醫。", pinyin: "zoˋ kiˇ ge nginˇ ka xin hon iog, iuˊ ziin teuˇ qiu hi iog fongˇ. iaˋ ha ge ge du kon xiˊ iˊ."}
+  - n: 6
+    speaker: 阿英
+    en: "Back when you started, how different was it from today?"
+    sx: {hanzi: "你當年做醫生个時節，同這下差恁多？", pinyin: "nˇ dongˊ ngienˇ zo iˊ senˊ ge siiˇ jiedˋ, tungˇ iaˋ ha caˊ anˋ doˊ?"}
+  - n: 7
+    speaker: 黃醫生
+    en: "Very different. Hardly anyone went into hospital then, and pregnant women gave birth at home."
+    sx: {hanzi: "差當多。該下罕得有人入院，有身項个人乜在屋下降細人。", pinyin: "caˊ dongˊ doˊ. ge ha hanˋ dedˋ iuˊ nginˇ ngib ien, iuˊ siinˊ hong ge nginˇ me coiˊ vugˋ kaˊ giung se nginˇ."}
+  - n: 8
+    speaker: 阿英
+    en: "Who delivered the babies?"
+    sx: {hanzi: "係哪儕來接生？", pinyin: "he nai saˇ loiˇ jiabˋ senˊ?"}
+  - n: 9
+    speaker: 黃醫生
+    en: "My mother was a midwife. She must have delivered a thousand babies."
+    sx: {hanzi: "吾姆係產婆。佢接生个嬰兒仔，一千个都有。", pinyin: "ngaˊ meˊ he sanˋ poˇ. giˇ jiabˋ senˊ ge oˇ nga eˋ, idˋ qienˊ ge du iuˊ."}
+  - n: 10
+    speaker: 阿英
+    en: "What should a pregnant woman be careful about?"
+    sx: {hanzi: "擐大肚个時節，愛注意麼个？", pinyin: "kuan tai duˋ ge siiˇ jiedˋ, oi zu i maˋ ge?"}
+  - n: 11
+    speaker: 黃醫生
+    en: "She should eat nourishing food. With morning sickness she throws up whenever she eats, but there's no need to worry: it passes."
+    sx: {hanzi: "食个東西愛有營養。發子个時節一食就嘔，毋使驚，過幾日仔就好。", pinyin: "siid ge dungˊ xiˊ oi iuˊ inˇ iongˊ. bodˋ ziiˋ ge siiˇ jiedˋ idˋ siid qiu euˋ, mˇ siiˋ giangˊ, go giˋ ngidˋ eˇ qiu hoˋ."}
+    check: true
+  - n: 12
+    speaker: 阿英
+    en: "When children fell ill, what did you see most often?"
+    sx: {hanzi: "細孲仔破病，你看著較多个係麼个病？", pinyin: "se oˇ eˋ po piang, nˇ kon doˋ ka doˊ ge he maˋ ge piang?"}
+  - n: 13
+    speaker: 黃醫生
+    en: "In the old days lots of children got measles. It's rare now."
+    sx: {hanzi: "早期當多細孲仔出麻仔，這下少吔。", pinyin: "zoˋ kiˇ dongˊ doˊ se oˇ eˋ cudˋ maˇ eˋ, iaˋ ha seuˋ leˊ."}
+  - n: 14
+    speaker: 阿英
+    en: "It's cold these days. Lots of people are sneezing and have phlegm in their throats."
+    sx: {hanzi: "這兜日仔天時寒，當多人打哈啾，喉嗹有痰。", pinyin: "iaˋ deuˊ ngidˋ eˇ tienˊ siiˇ honˇ, dongˊ doˊ nginˇ daˋ had qiuˋ, heuˇ lienˇ iuˊ tamˇ."}
+  - n: 15
+    speaker: 黃醫生
+    en: "Those are the symptoms of a cold. Take some cough mixture and rest a lot, and you'll get better."
+    sx: {hanzi: "該係寒著个症頭。食兜仔藥水，多歇睏就會恢復。", pinyin: "ge he honˇ doˋ ge ziin teuˇ. siid deuˊ eˋ iog suiˋ, doˊ hiedˋ kun qiu voi fiˊ fug."}
+  - n: 16
+    speaker: 阿英
+    en: "Some people have stomach ache, and their stomach gets inflamed whenever they eat. What should they do?"
+    sx: {hanzi: "有人講胃痛，食東西胃就發炎，仰般好？", pinyin: "iuˊ nginˇ gongˋ vi tung, siid dungˊ xiˊ vi qiu fadˋ iamˇ, ngiongˋ banˊ hoˋ?"}
+    check: true
+  - n: 17
+    speaker: 黃醫生
+    en: "If your stomach's bad, eat slowly. Nothing too hot or too spicy."
+    sx: {hanzi: "胃毋好，食東西愛定定仔。莫食忒熱、忒辣个。", pinyin: "vi mˇ hoˋ, siid dungˊ xiˊ oi tin tin eˋ. mog siid tedˋ ngied, tedˋ lad ge."}
+  - n: 18
+    speaker: 阿英
+    en: "What illness do old people fear most?"
+    sx: {hanzi: "老人家最驚麼个病？", pinyin: "loˋ nginˇ gaˊ zui giangˊ maˋ ge piang?"}
+  - n: 19
+    speaker: 黃醫生
+    en: "Heart and blood-vessel disease: strokes. When the vessels get blocked, you have a stroke."
+    sx: {hanzi: "心臟同血管个病，中風。血管塞著，就會中風。", pinyin: "ximˊ cong tungˇ hiedˋ gonˋ ge piang, zung fungˊ. hiedˋ gonˋ cedˋ doˋ, qiu voi zung fungˊ."}
+  - n: 20
+    speaker: 黃醫生
+    en: "After a stroke, an old person needs looking after for a long time. As they say, 'a long illness leaves no dutiful son': it's hard on the family too."
+    sx: {hanzi: "老人家中風，愛人照顧當久。人講「長病無孝子」，屋下人乜當辛苦。", pinyin: "loˋ nginˇ gaˊ zung fungˊ, oi nginˇ zeu gu dongˊ giuˋ. nginˇ gongˋ congˇ piang moˇ hau ziiˋ, vugˋ kaˊ nginˇ me dongˊ xinˊ kuˋ."}
+  - n: 21
+    speaker: 阿英
+    en: "What should you do about dry, itchy skin?"
+    sx: {hanzi: "皮膚燥又癢，愛仰般？", pinyin: "piˇ fuˊ zauˊ iu iongˊ, oi ngiongˋ banˊ?"}
+  - n: 22
+    speaker: 黃醫生
+    en: "Skin gets dry in winter. Don't wash in water that's too hot."
+    sx: {hanzi: "寒天皮膚燥，洗身莫用忒燒个水。", pinyin: "honˇ tienˊ piˇ fuˊ zauˊ, seˋ siinˊ mog iung tedˋ seuˊ ge suiˋ."}
+  - n: 23
+    speaker: 阿英
+    en: "I twisted my foot last week and it still hurts."
+    sx: {hanzi: "𠊎腳盤上禮拜偏著，這下還痛。", pinyin: "ngaiˇ giogˋ panˇ song liˊ bai pienˊ doˋ, iaˋ ha hanˇ tung."}
+  - n: 24
+    speaker: 黃醫生
+    en: "If you twist your wrist or your foot, rest it. Don't walk too far."
+    sx: {hanzi: "手腕抑係腳盤偏著，愛歇睏，莫行忒多路。", pinyin: "suˋ vonˋ ia he giogˋ panˇ pienˊ doˋ, oi hiedˋ kun, mog hangˇ tedˋ doˊ lu."}
+  - n: 25
+    speaker: 阿英
+    en: "Lots of children are short-sighted nowadays."
+    sx: {hanzi: "這下个細孲仔近視當多。", pinyin: "iaˋ ha ge se oˇ eˋ kiun sii dongˊ doˊ."}
+  - n: 26
+    speaker: 黃醫生
+    en: "Too long in front of the computer. Parents should keep an eye on their height and weight too."
+    sx: {hanzi: "看電腦看忒久吔。乜愛注意身高同體重。", pinyin: "kon tien noˋ kon tedˋ giuˋ leˊ. me oi zu i siinˊ goˊ tungˇ tiˋ cungˊ."}
+  - n: 27
+    speaker: 阿英
+    en: "Dr Huang, at your age you're still in such good health."
+    sx: {hanzi: "黃醫生你恁大歲數，身體還恁好。", pinyin: "vongˇ iˊ senˊ nˇ anˋ tai se sii, siinˊ tiˋ hanˇ anˋ hoˋ."}
+  - n: 28
+    speaker: 黃醫生
+    en: "I'm a bit hard of hearing, but I can still follow what people say."
+    sx: {hanzi: "𠊎耳背背仔，毋過還做得聽人講話。", pinyin: "ngaiˇ ngiˋ poi poi eˋ, mˇ go hanˇ zo dedˋ tangˊ nginˇ gongˋ fa."}
+  - n: 29
+    speaker: 阿英
+    en: "Medicine has come a long way. What worries you?"
+    sx: {hanzi: "這下个醫學當進步，你掛心麼个？", pinyin: "iaˋ ha ge iˊ hog dongˊ jin pu, nˇ gua ximˊ maˋ ge?"}
+  - n: 30
+    speaker: 黃醫生
+    en: "That young people don't look after themselves: food poisoning, going to bed too late. It's all dangerous."
+    sx: {hanzi: "𠊎掛心後生人毋會照顧身體。食物中毒、睡忒晝，都係危險个事情。", pinyin: "ngaiˇ gua ximˊ heu sangˊ nginˇ mˇ voi zeu gu siinˊ tiˋ. siid vud zung tug, soi tedˋ zu, du he nguiˇ hiamˋ ge sii qinˇ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      An interview. The title is a saying from the official lists (高級): 長病無孝子 "a long illness leaves no dutiful
+      son": even the most devoted child wears out caring for a parent who is ill for years. 黃醫生 quotes it in line 20.
+  - ref: 3
+    topic: vocab
+    text: >
+      半生人 ban senˊ nginˇ "half a lifetime" (佢用半生人正完成這本書). 內科 "internal medicine" and 外科 "surgery": in Hakka
+      as in Mandarin, 𠊎係內科 means "I am a physician". 手術 suˋ sud "operation".
+  - ref: 4
+    topic: vocab
+    text: >
+      西醫 "Western medicine; a Western doctor" (看西醫 "see a Western doctor"). 漢藥 hon iog "Chinese medicine": Mandarin
+      says 中藥 (佢腰骨痠軟，想愛去拈漢藥食).
+  - ref: 5
+    topic: vocab
+    text: >
+      症頭 ziin teuˇ "symptom, ailment" (流鼻係寒著个症頭, compare line 15). 藥房 is from Part 1.
+  - ref: 6
+    topic: vocab
+    text: >
+      當年 dongˊ ngienˇ "in those days, back then".
+  - ref: 7
+    topic: vocab
+    text: >
+      罕得 hanˋ dedˋ "rarely" (你罕得來 "you hardly ever come"). 入院 "go into hospital" (Mandarin 住院). 有身項 "be
+      pregnant" (有身項吔，愛細義). 降 giung "give birth to" (降細人).
+  - ref: 9
+    topic: vocab
+    text: >
+      產婆 sanˋ poˇ "midwife" (產婆會接生); 接生 "deliver a baby". 嬰兒仔 oˇ nga eˋ "baby": note the reading of 嬰.
+  - ref: 10
+    topic: vocab
+    text: >
+      擐大肚 kuan tai duˋ "be pregnant" (literally "carry a big belly"; 看著擐大肚个人，愛讓位仔分佢坐).
+  - ref: 11
+    topic: vocab
+    text: >
+      營養 "nourishment" (營養足，腦就好). 發子 bodˋ ziiˋ "have morning sickness" (阿姊發子，緊想愛翻). 嘔 euˋ "vomit".
+      Our line; marked for review.
+  - ref: 13
+    topic: vocab
+    text: >
+      出麻仔 cudˋ maˇ eˋ "have measles" (老弟上隻月出麻仔).
+  - ref: 14
+    topic: vocab
+    text: >
+      打哈啾 daˋ had qiuˋ "sneeze" (仰緊打哈啾？敢係寒著吔？). 痰 tamˇ "phlegm" (莫儘採呸痰 "don't spit anywhere").
+  - ref: 15
+    topic: vocab
+    text: >
+      藥水 "liquid medicine" (這食嗽个藥水盡有效 "this cough mixture works very well"). 恢復 "recover" (Part 1).
+  - ref: 16
+    topic: vocab
+    text: >
+      胃 "stomach"; 發炎 fadˋ iamˇ "become inflamed" (手割著無處理好勢，嗄發炎吔). Marked for review.
+  - ref: 17
+    topic: vocab
+    text: >
+      定定仔 tin tin eˋ "slowly, steadily, calmly" (吂得時啦！定定仔來 "there's plenty of time: take it easy").
+  - ref: 19
+    topic: vocab
+    text: >
+      心臟 "heart", 血管 "blood vessel", 中風 "(have a) stroke": the official sentence is 佢血管塞著，背尾就中風吔.
+      塞 cedˋ "block".
+  - ref: 21
+    topic: vocab
+    text: >
+      皮膚 "skin"; 癢 iongˊ "itchy" (分蚊仔叼著當癢 "mosquito bites itch").
+  - ref: 23
+    topic: vocab
+    text: >
+      腳盤 giogˋ panˇ "top of the foot". 偏著 pienˊ doˋ "sprain, twist" (腳偏著，行無麼个得).
+  - ref: 24
+    topic: vocab
+    text: >
+      手腕 suˋ vonˋ "wrist" (also "skill, tactics", as in Mandarin).
+  - ref: 26
+    topic: vocab
+    text: >
+      近視 kiun sii "short-sighted" (line 25). 身高 "height", 體重 "weight" (養成運動个習慣做得控制體重).
+  - ref: 28
+    topic: vocab
+    text: >
+      耳背背仔 ngiˋ poi poi eˋ "a bit hard of hearing".
+  - ref: 29
+    topic: vocab
+    text: >
+      醫學 "medicine (the science)" (現下个醫學當進步, with 現下 "nowadays", is an official sentence).
+  - ref: 30
+    topic: vocab
+    text: >
+      中毒 "be poisoned" (食物中毒 "food poisoning"). 晝 zu "late" (睡忒晝 "go to bed too late"): the same word as
+      晝 "midday", in its sense "late in the day".
+
+new_words:
+  - {hanzi: 長病無孝子, pinyin: "congˇ piang moˇ hau ziiˋ", en: "a long illness leaves no dutiful son"}
+  - {hanzi: 半生人, pinyin: "ban senˊ nginˇ", en: "half a lifetime"}
+  - {hanzi: 內科, pinyin: "nui koˊ", en: "internal medicine; physician"}
+  - {hanzi: 外科, pinyin: "ngoi koˊ", en: "surgery; surgeon"}
+  - {hanzi: 手術, pinyin: "suˋ sud", en: "operation, surgery"}
+  - {hanzi: 西醫, pinyin: "xiˊ iˊ", en: "Western medicine; Western doctor"}
+  - {hanzi: 漢藥, pinyin: "hon iog", en: "Chinese medicine"}
+  - {hanzi: 症頭, pinyin: "ziin teuˇ", en: "symptom, ailment"}
+  - {hanzi: 當年, pinyin: "dongˊ ngienˇ", en: "in those days"}
+  - {hanzi: 罕得, pinyin: "hanˋ dedˋ", en: "rarely"}
+  - {hanzi: 入院, pinyin: "ngib ien", en: "go into hospital"}
+  - {hanzi: 有身項, pinyin: "iuˊ siinˊ hong", en: "be pregnant"}
+  - {hanzi: 降, pinyin: "giung", en: "give birth to"}
+  - {hanzi: 接生, pinyin: "jiabˋ senˊ", en: "deliver a baby"}
+  - {hanzi: 產婆, pinyin: "sanˋ poˇ", en: "midwife"}
+  - {hanzi: 嬰兒仔, pinyin: "oˇ nga eˋ", en: "baby"}
+  - {hanzi: 擐大肚, pinyin: "kuan tai duˋ", en: "be pregnant"}
+  - {hanzi: 營養, pinyin: "inˇ iongˊ", en: "nourishment, nutrition"}
+  - {hanzi: 發子, pinyin: "bodˋ ziiˋ", en: "have morning sickness"}
+  - {hanzi: 嘔, pinyin: "euˋ", en: "vomit"}
+  - {hanzi: 出麻仔, pinyin: "cudˋ maˇ eˋ", en: "have measles"}
+  - {hanzi: 打哈啾, pinyin: "daˋ had qiuˋ", en: "sneeze"}
+  - {hanzi: 痰, pinyin: "tamˇ", en: "phlegm"}
+  - {hanzi: 藥水, pinyin: "iog suiˋ", en: "liquid medicine"}
+  - {hanzi: 胃, pinyin: "vi", en: "stomach"}
+  - {hanzi: 發炎, pinyin: "fadˋ iamˇ", en: "become inflamed"}
+  - {hanzi: 定定仔, pinyin: "tin tin eˋ", en: "slowly, calmly"}
+  - {hanzi: 心臟, pinyin: "ximˊ cong", en: "heart"}
+  - {hanzi: 血管, pinyin: "hiedˋ gonˋ", en: "blood vessel"}
+  - {hanzi: 中風, pinyin: "zung fungˊ", en: "(have a) stroke"}
+  - {hanzi: 塞, pinyin: "cedˋ", en: "block, stop up"}
+  - {hanzi: 皮膚, pinyin: "piˇ fuˊ", en: "skin"}
+  - {hanzi: 癢, pinyin: "iongˊ", en: "itchy"}
+  - {hanzi: 腳盤, pinyin: "giogˋ panˇ", en: "top of the foot"}
+  - {hanzi: 偏著, pinyin: "pienˊ doˋ", en: "sprain, twist"}
+  - {hanzi: 手腕, pinyin: "suˋ vonˋ", en: "wrist"}
+  - {hanzi: 近視, pinyin: "kiun sii", en: "short-sighted"}
+  - {hanzi: 身高, pinyin: "siinˊ goˊ", en: "height"}
+  - {hanzi: 體重, pinyin: "tiˋ cungˊ", en: "weight"}
+  - {hanzi: 耳背背仔, pinyin: "ngiˋ poi poi eˋ", en: "a bit hard of hearing"}
+  - {hanzi: 醫學, pinyin: "iˊ hog", en: "medicine (the science)"}
+  - {hanzi: 中毒, pinyin: "zung tug", en: "be poisoned"}
+  - {hanzi: 晝, pinyin: "zu", en: "late"}
+
+exercises:
+  translate:
+    - en: "With a sprained foot you can't walk at all."
+      source: kaga115
+      sx: {hanzi: "腳偏著，行無麼个得。", pinyin: "giogˋ pienˊ doˋ, hangˇ moˇ maˋ ge dedˋ."}
+    - en: "A runny nose is a symptom of a cold."
+      source: kaga115
+      sx: {hanzi: "流鼻係寒著个症頭。", pinyin: "liuˇ pi he honˇ doˋ ge ziin teuˇ."}
+    - en: "You rarely come; I'll kill a chicken for lunch."
+      source: kaga115
+      sx: {hanzi: "你罕得來，當晝㓾雞仔請你。", pinyin: "nˇ hanˋ dedˋ loiˇ, dongˊ zu ciiˇ gieˊ eˋ qiangˋ nˇ."}
+    - en: "She's pregnant; she must be careful."
+      source: kaga115
+      sx: {hanzi: "有身項吔，愛細義。", pinyin: "iuˊ siinˊ hong leˊ, oi se ngi."}
+    - en: "Midwives deliver babies."
+      source: kaga115
+      sx: {hanzi: "產婆會接生。", pinyin: "sanˋ poˇ voi jiabˋ senˊ."}
+  fill:
+    - en: "My mother was a midwife."
+      sx: {hanzi: "吾姆係___。", pinyin: "ngaˊ meˊ he ___.", answer_hanzi: "產婆", answer: "sanˋ poˇ"}
+    - en: "Lots of people are sneezing."
+      sx: {hanzi: "當多人___。", pinyin: "dongˊ doˊ nginˇ ___.", answer_hanzi: "打哈啾", answer: "daˋ had qiuˋ"}
+    - en: "Stomach ache is very unpleasant."
+      sx: {hanzi: "___痛當艱苦。", pinyin: "___ tung dongˊ ganˊ kuˋ.", answer_hanzi: "胃", answer: "vi"}
+    - en: "I've twisted my foot."
+      sx: {hanzi: "𠊎腳盤___。", pinyin: "ngaiˇ giogˋ panˇ ___.", answer_hanzi: "偏著", answer: "pienˊ doˋ"}
+    - en: "Medicine is very advanced nowadays."
+      sx: {hanzi: "這下个___當進步。", pinyin: "iaˋ ha ge ___ dongˊ jin pu.", answer_hanzi: "醫學", answer: "iˊ hog"}
+
+audio: []
