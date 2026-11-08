@@ -70,6 +70,9 @@ class Lexicon:
         for hz, k, cog, lvl in con.execute("SELECT hanzi, pkey, cognate, level FROM entry WHERE source='kaga115' AND accent='sixian'"):
             self.info.setdefault((hz, k), (cog, lvl))
         self.examples = {h for (h,) in con.execute("SELECT hanzi FROM example UNION SELECT hanzi FROM sentence")}
+        # Official sentences give the southern Sixian (or other accent) variant in brackets: 買豆油轉來（歸來）. A line
+        # quoting the sentence without the brackets is still that sentence.
+        self.examples |= {re.sub(r"（[^）]*）", "", h) for h in self.examples if "（" in h}
 
 
 def hanzi_units(h):
