@@ -19,8 +19,8 @@ dialogue:
   - n: 2
     speaker: 阿婆
     en: "I can. I'll start you on an old tune, the 'Tea-picking tune'. A traditional song: everyone in Miaoli knows it, and there are old records of it."
-    sx: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱，乜有頭擺个唱片。", pinyin: "zo dedˋ. ngaiˇ xienˊ gauˊ nˇ idˋ tiauˇ loˋ tiau, caiˋ caˇ tiau. conˇ tungˋ ge sanˊ goˊ, meuˇ lidˋ nginˇ du voi cong, me iuˊ teuˇ baiˋ ge cong pienˋ."}
-    hl: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱，乜有頭擺个唱片。", pinyin: "zoˇ ded. ngai senˋ gauˋ ngi rhid tiau loˊ tiau+, caiˊ ca tiau+. chon tungˊ gaiˇ sanˋ goˋ, miau lid ngin du+ voi+ chongˇ, meˇ rhiuˋ teu baiˊ gaiˇ chongˇ pienˊ."}
+    sx: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱，乜有頭擺个唱片。", pinyin: "zo dedˋ. ngaiˇ xienˊ gauˊ nˇ idˋ tiauˇ loˋ tiau, caiˋ caˇ tiau. conˇ tungˋ ge sanˊ goˊ, meuˇ lid nginˇ du voi cong, me iuˊ teuˇ baiˋ ge cong pienˋ."}
+    hl: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱，乜有頭擺个唱片。", pinyin: "zoˇ ded. ngai senˋ gauˋ ngi rhid tiau loˊ tiau+, caiˊ ca tiau+. chon tungˊ gaiˇ sanˋ goˋ, miau lidˋ ngin du+ voi+ chongˇ, meˇ rhiuˋ teu baiˊ gaiˇ chongˇ pienˊ."}
     check: true
   - n: 3
     speaker: 阿婆

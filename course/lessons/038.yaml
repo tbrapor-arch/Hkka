@@ -34,7 +34,7 @@ dialogue:
     speaker: 阿明
     en: "客家小炒, pork, cabbage, and a big bowl of soup!"
     sx: {hanzi: "客家小炒、豬肉、白菜，還有一碗公湯！", pinyin: "hagˋ gaˊ seuˋ cauˋ, zuˊ ngiugˋ, pag coi, hanˇ iuˊ idˋ vonˋ gungˊ tongˊ!"}
-    hl: {hanzi: "客家小炒、豬肉、白菜，還有一碗公湯！", pinyin: "hag gaˋ siauˊ chauˊ, zhuˋ ngiug, pagˋ coiˇ, han rhiuˋ rhid vonˊ gungˋ tongˋ!"}
+    hl: {hanzi: "客家小炒、豬肉、白菜，還有一碗公湯！", pinyin: "hag gaˋ siauˊ cauˊ, zhuˋ ngiug, pagˋ coiˇ, han rhiuˋ rhid vonˊ gungˋ tongˋ!"}
   - n: 6
     speaker: 阿婆
     en: "Go easy on the salt in the dishes: Grandpa mustn't eat things that salty."
@@ -168,7 +168,7 @@ exercises:
       hl: {hanzi: "失禮，有圓桌無？", pinyin: "shid liˋ, rhiuˋ rhan zog mo?"}
     - en: "This restaurant's 客家小炒 is famous."
       sx: {hanzi: "這間餐廳个客家小炒當有名。", pinyin: "iaˋ gienˊ conˊ tangˊ ge hagˋ gaˊ seuˋ cauˋ dongˊ iuˊ miangˇ."}
-      hl: {hanzi: "這間餐廳个客家小炒當有名。", pinyin: "liaˊ gienˋ conˋ tangˋ gaiˇ hag gaˋ siauˊ chauˊ dongˋ rhiuˋ miang."}
+      hl: {hanzi: "這間餐廳个客家小炒當有名。", pinyin: "liaˊ gienˋ conˋ tangˋ gaiˇ hag gaˋ siauˊ cauˊ dongˋ rhiuˋ miang."}
     - en: "Waiter, could we have the menu? What's the name of this dish?"
       sx: {hanzi: "服務生，菜單分𠊎兜。這盤菜喊做麼个名？", pinyin: "fug vu senˊ, coi danˊ bunˊ ngaiˇ deuˊ. iaˋ panˇ coi ham zo maˋ ge miangˇ?"}
       hl: {hanzi: "服務生，菜單分𠊎兜。這盤菜喊做麼个名？", pinyin: "fugˋ muˇ senˋ, coiˇ danˋ bunˋ ngai deuˋ. liaˊ pan coiˇ hamˇ zoˇ maˊ gaiˇ miang?"}

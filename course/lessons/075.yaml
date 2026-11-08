@@ -14,7 +14,7 @@ dialogue:
   - n: 1
     speaker: 彭主任
     en: "Miss Liu, please sit down. Have you eaten?"
-    sx: {hanzi: "劉小姐，請坐。食飽吂？", pinyin: "lauˇ seuˋ jiˋ, qiangˋ coˊ. siid bauˋ mangˇ?"}
+    sx: {hanzi: "劉小姐，請坐。食飽吂？", pinyin: "liuˇ seuˋ jiˋ, qiangˋ coˊ. siid bauˋ mangˇ?"}
     hl: {hanzi: "劉小姐，請坐。食飽吂？", pinyin: "liu siauˊ ziˊ, ciangˊ coˋ. shidˋ bauˊ mang?"}
   - n: 2
     speaker: 阿英
@@ -29,8 +29,8 @@ dialogue:
   - n: 4
     speaker: 阿英
     en: "My name is Liu Ying; I'm from 苗栗. At university I studied literature, and I've worked for three years for a company in Taipei."
-    sx: {hanzi: "𠊎安到劉英，苗栗人。大學讀个係文學，在臺北个公司做過三年。", pinyin: "ngaiˇ onˊ do lauˇ inˊ, meuˇ lidˋ nginˇ. tai hog tug ge he vunˇ hog, coiˊ toiˇ bedˋ ge gungˊ siiˊ zo go samˊ ngienˇ."}
-    hl: {hanzi: "𠊎安到劉英，苗栗人。大學讀个係文學，在臺北个公司做過三年。", pinyin: "ngai onˋ doˇ liu rhinˋ, miau lid ngin. tai+ hogˋ tugˋ gaiˇ heˇ vun hogˋ, coiˋ toi bed gaiˇ gungˋ siiˋ zoˇ goˇ samˋ ngien."}
+    sx: {hanzi: "𠊎安到劉英，苗栗人。大學讀个係文學，在臺北个公司做過三年。", pinyin: "ngaiˇ onˊ do liuˇ inˊ, meuˇ lid nginˇ. tai hog tug ge he vunˇ hog, coiˊ toiˇ bedˋ ge gungˊ siiˊ zo go samˊ ngienˇ."}
+    hl: {hanzi: "𠊎安到劉英，苗栗人。大學讀个係文學，在臺北个公司做過三年。", pinyin: "ngai onˋ doˇ liu rhinˋ, miau lidˋ ngin. tai+ hogˋ tugˋ gaiˇ heˇ vun hogˋ, coiˋ toi bed gaiˇ gungˋ siiˋ zoˇ goˇ samˋ ngien."}
   - n: 5
     speaker: 彭主任
     en: "What are your ideas about Hakka culture?"
@@ -49,7 +49,7 @@ dialogue:
   - n: 8
     speaker: 阿英
     en: "Yes. Just last week I went to 美濃: I saw the tobacco barns and the paper umbrellas, and heard the southern accent."
-    sx: {hanzi: "有。上禮拜正去過美濃，看過菸樓、紙遮仔，乜聽過南部个口音。", pinyin: "iuˊ. song liˊ bai zang hi go mi nungˇ, kon go ienˊ leuˇ, ziiˋ zaˊ eˋ, me tangˊ go namˇ pu ge kieuˋ imˊ."}
+    sx: {hanzi: "有。上禮拜正去過美濃，看過菸樓、紙遮仔，乜聽過南部个口音。", pinyin: "iuˊ. song liˊ bai zang hi go miˊ nungˇ, kon go ienˊ leuˇ, ziiˋ zaˊ eˋ, me tangˊ go namˇ pu ge kieuˋ imˊ."}
     hl: {hanzi: "有。上禮拜正去過美濃，看過菸樓、紙遮仔，乜聽過南部个口音。", pinyin: "rhiuˋ. shong+ liˋ baiˇ zhangˇ hiˇ goˇ mi nung, konˇ goˇ rhanˋ leu, zhiˊ zhaˋ er, meˇ tangˋ goˇ nam pu+ gaiˇ kieuˊ rhimˋ."}
   - n: 9
     speaker: 黃先生
@@ -92,8 +92,8 @@ dialogue:
   - n: 16
     speaker: Sam
     en: "Congratulations! So you're coming back to Miaoli!"
-    sx: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˊ hiˋ! anˋ ngiongˇ nˇ oi zonˋ loiˇ meuˇ lidˋ leˊ!"}
-    hl: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˋ hiˊ! an ngiong ngi oiˇ zhonˊ loi miau lid leˋ!"}
+    sx: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˊ hiˋ! anˋ ngiongˇ nˇ oi zonˋ loiˇ meuˇ lid leˊ!"}
+    hl: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˋ hiˊ! an ngiong ngi oiˇ zhonˊ loi miau lidˋ leˋ!"}
   - n: 17
     speaker: 阿英
     en: "I am. I've decided: I'm taking it."
@@ -196,7 +196,7 @@ exercises:
       sx: {hanzi: "食___了無？", pinyin: "siid ___ leˊ moˇ?", answer_hanzi: "過", answer: "go"}
       hl: {hanzi: "食___了無？", pinyin: "shidˋ ___ leˋ mo?", answer_hanzi: "過", answer: "goˇ"}
     - en: "Have you ever been to 美濃?"
-      sx: {hanzi: "你___去過美濃無？", pinyin: "nˇ ___ hi go mi nungˇ moˇ?", answer_hanzi: "有", answer: "iuˊ"}
+      sx: {hanzi: "你___去過美濃無？", pinyin: "nˇ ___ hi go miˊ nungˇ moˇ?", answer_hanzi: "有", answer: "iuˊ"}
       hl: {hanzi: "你___去過美濃無？", pinyin: "ngi ___ hiˇ goˇ mi nung mo?", answer_hanzi: "有", answer: "rhiuˋ"}
     - en: "I've passed the interview."
       sx: {hanzi: "面試___了。", pinyin: "mien cii ___ leˊ.", answer_hanzi: "過關", answer: "go guanˊ"}

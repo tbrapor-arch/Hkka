@@ -30,8 +30,8 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "I thought I'd start with the first time I came to Miaoli…"
-    sx: {hanzi: "𠊎想先寫𠊎頭一擺來苗栗个事情……", pinyin: "ngaiˇ xiongˋ xienˊ xiaˋ ngaiˇ teuˇ idˋ baiˋ loiˇ meuˇ lidˋ ge sii qinˇ …"}
-    hl: {hanzi: "𠊎想先寫𠊎頭一擺來苗栗个事情……", pinyin: "ngai siongˊ senˋ siaˊ ngai teu rhid baiˊ loi miau lid gaiˇ sii+ cin …"}
+    sx: {hanzi: "𠊎想先寫𠊎頭一擺來苗栗个事情……", pinyin: "ngaiˇ xiongˋ xienˊ xiaˋ ngaiˇ teuˇ idˋ baiˋ loiˇ meuˇ lid ge sii qinˇ …"}
+    hl: {hanzi: "𠊎想先寫𠊎頭一擺來苗栗个事情……", pinyin: "ngai siongˊ senˋ siaˊ ngai teu rhid baiˊ loi miau lidˋ gaiˇ sii+ cin …"}
   - n: 5
     speaker: 阿英
     en: "Good. You write, I'll correct it for you. Pick your topic: the first paragraph and the ending matter most."
@@ -40,7 +40,7 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "(reading out his draft) 'In Taiwan I didn't only learn Hakka: I also learnt to make 粄, to prune tea, to sing 山歌…'"
-    sx: {hanzi: "「𠊎來臺灣，毋單淨學客話，還學著做粄、剪茶、唱山歌……」", pinyin: "ngaiˇ loiˇ toiˇ vanˊ, mˇ danˊ qiang hog hagˋ fa, hanˇ hog doˋ zo banˋ, jienˋ caˇ, cong sanˊ goˊ …"}
+    sx: {hanzi: "「𠊎來臺灣，毋單淨學客話，還學著做粄、剪茶、唱山歌……」", pinyin: "ngaiˇ loiˇ toiˇ vanˇ, mˇ danˊ qiang hog hagˋ fa, hanˇ hog doˋ zo banˋ, jienˋ caˇ, cong sanˊ goˊ …"}
     hl: {hanzi: "「𠊎來臺灣，毋單淨學客話，還學著做粄、剪茶、唱山歌……」", pinyin: "ngai loi toi van, m danˋ ciang+ hogˋ hag voiˋ, han hogˋ doˊ zoˇ banˊ, zienˊ ca, chongˇ sanˋ goˋ …"}
   - n: 7
     speaker: 阿英

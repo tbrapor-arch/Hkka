@@ -42,8 +42,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "A year ago I got off the train at Miaoli station. At that time, all the Hakka I had was 'a little'."
-    sx: {hanzi: "一年前，𠊎在苗栗車站落車。該央時，𠊎个客話就一息仔定定。", pinyin: "idˋ ngienˇ qienˇ, ngaiˇ coiˊ meuˇ lidˋ caˊ zam log caˊ. ge iongˊ siiˇ, ngaiˇ ge hagˋ fa qiu idˋ xid eˋ tin tin."}
-    hl: {hanzi: "一年前，𠊎在苗栗車站落車。該當時，𠊎个客話就一息仔定定。", pinyin: "rhid ngien cien, ngai coiˋ miau lid chaˋ cam+ logˋ chaˋ. gai dongˋ shi, ngai gaiˇ hag voiˋ ciu+ rhid sid er tin+ tin+."}
+    sx: {hanzi: "一年前，𠊎在苗栗車站落車。該央時，𠊎个客話就一息仔定定。", pinyin: "idˋ ngienˇ qienˇ, ngaiˇ coiˊ meuˇ lid caˊ zam log caˊ. ge iongˊ siiˇ, ngaiˇ ge hagˋ fa qiu idˋ xid eˋ tin tin."}
+    hl: {hanzi: "一年前，𠊎在苗栗車站落車。該當時，𠊎个客話就一息仔定定。", pinyin: "rhid ngien cien, ngai coiˋ miau lidˋ chaˋ cam+ logˋ chaˋ. gai dongˋ shi, ngai gaiˇ hag voiˋ ciu+ rhid sid er tin+ tin+."}
   - n: 7
     speaker: Sam
     en: "This year I didn't only learn Hakka: I even learnt to make 粄, to prune tea and to sing 山歌."

@@ -40,7 +40,7 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "On Saturday I'm coming back to Miaoli. I miss everyone in Miaoli a lot, and I also really miss… Grandma's cooking."
-    sx: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˊ bai liugˋ ngaiˇ qiu zonˋ meuˇ lidˋ leˊ. ngaiˇ dongˊ xiongˋ ngiam meuˇ lidˋ ge nginˇ, me dongˊ xiongˋ ngiam … aˊ poˇ zuˋ ge coi."}
+    sx: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˊ bai liugˋ ngaiˇ qiu zonˋ meuˇ lid leˊ. ngaiˇ dongˊ xiongˋ ngiam meuˇ lid ge nginˇ, me dongˊ xiongˋ ngiam … aˊ poˇ zuˋ ge coi."}
     hl: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˋ baiˇ liug ngai ciu+ zhonˊ miau lidˋ leˋ. ngai dongˋ siongˊ ngiam+ miau lidˋ gaiˇ ngin, meˇ dongˋ siongˊ ngiam+ … a+ po zhuˊ gaiˇ coiˇ."}
   - n: 7
     speaker: Sam
@@ -160,7 +160,7 @@ exercises:
       hl: {hanzi: "用筆寫，字寫毋著就改。", pinyin: "rhung+ bid siaˊ, sii+ siaˊ m chogˋ ciu+ goiˊ."}
       check: true
     - en: "He works to earn money so that his parents can live well."
-      sx: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "giˇ zo se con qienˇ, he vi doˋ bunˊ iaˇ oiˊ go hoˋ ngidˋ eˋ."}
+      sx: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "giˇ zo se con qienˇ, he vi doˋ bunˊ iaˇ oiˊ go hoˋ ngidˋ eˇ."}
       hl: {hanzi: "佢做事賺錢，係為著分爺哀過好日仔。", pinyin: "gi zoˇ she+ con+ cien, heˇ vui+ doˊ bunˋ rha oiˋ goˇ hoˊ ngid er."}
       check: true
   fill:
@@ -171,7 +171,7 @@ exercises:
       sx: {hanzi: "𠊎驚講毋___。", pinyin: "ngaiˇ giangˊ gongˋ mˇ ___.", answer_hanzi: "出來", answer: "cudˋ loiˇ"}
       hl: {hanzi: "𠊎驚講毋___。", pinyin: "ngai giangˋ gongˊ m ___.", answer_hanzi: "出來", answer: "chud loi"}
     - en: "I miss Miaoli."
-      sx: {hanzi: "𠊎當___苗栗。", pinyin: "ngaiˇ dongˊ ___ meuˇ lidˋ.", answer_hanzi: "想念", answer: "xiongˋ ngiam"}
+      sx: {hanzi: "𠊎當___苗栗。", pinyin: "ngaiˇ dongˊ ___ meuˇ lid.", answer_hanzi: "想念", answer: "xiongˋ ngiam"}
       hl: {hanzi: "𠊎當___苗栗。", pinyin: "ngai dongˋ ___ miau lidˋ.", answer_hanzi: "想念", answer: "siongˊ ngiam+"}
 
 audio: []

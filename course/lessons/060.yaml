@@ -34,7 +34,7 @@ dialogue:
   - n: 5
     speaker: Sam
     en: "(to 阿舅) The newsreader says 所以. Grandma in Miaoli says 故所."
-    sx: {hanzi: "主播講所以。苗栗个阿婆講故所。", pinyin: "zuˋ boˊ gongˋ soˋ iˊ. meuˇ lidˋ ge aˊ poˇ gongˋ gu soˋ."}
+    sx: {hanzi: "主播講所以。苗栗个阿婆講故所。", pinyin: "zuˋ boˊ gongˋ soˋ iˊ. meuˇ lid ge aˊ poˇ gongˋ gu soˋ."}
     hl: {hanzi: "主播講所以。苗栗个阿婆講故所。", pinyin: "zhuˊ boˋ gongˊ soˊ rhiˋ. miau lidˋ gaiˇ a+ po gongˊ guˇ soˊ."}
     check: true
   - n: 6
@@ -45,17 +45,17 @@ dialogue:
   - n: 7
     speaker: 主播
     en: "Next item: the 桐花 will flower in April; 苗栗 and 新竹 counties expect several hundred thousand visitors."
-    sx: {hanzi: "下一條新聞：四月桐花會開，苗栗縣、新竹縣會有幾十萬遊客。", pinyin: "ha idˋ tiauˇ xinˊ vunˇ: xi ngied tungˇ faˊ voi koiˊ, meuˇ lidˋ ien, xinˊ zugˋ ien voi iuˊ giˋ siib van iuˇ hagˋ."}
+    sx: {hanzi: "下一條新聞：四月桐花會開，苗栗縣、新竹縣會有幾十萬遊客。", pinyin: "ha idˋ tiauˇ xinˊ vunˇ: xi ngied tungˇ faˊ voi koiˊ, meuˇ lid ien, xinˊ zugˋ ien voi iuˊ giˋ siib van iuˇ hagˋ."}
     hl: {hanzi: "下一條新聞：四月桐花會開，苗栗縣、新竹縣會有幾十萬遊客。", pinyin: "ha+ rhid tiau sinˋ vun: siˇ ngiedˋ tung faˋ voi+ koiˋ, miau lidˋ rhanˇ, sinˋ zhug rhanˇ voi+ rhiuˋ giˊ shibˋ van+ rhiu hag."}
   - n: 8
     speaker: 主播
     en: "At last month's 天穿日 mountain-song contest in 竹東, two hundred-odd singers took part. The oldest was Grandma Liu from Miaoli, seventy-five."
-    sx: {hanzi: "上隻月竹東天穿日个山歌比賽，有兩百零个人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "song zagˋ ngied zugˋ dungˊ tienˊ conˊ ngidˋ ge sanˊ goˊ biˋ soi, iuˊ liongˋ bagˋ langˇ ge nginˇ camˊ gaˊ. ngienˇ giˋ zui tai ge, he meuˇ lidˋ loiˇ ge liuˇ aˊ poˇ, qidˋ siib ngˋ se."}
+    sx: {hanzi: "上隻月竹東天穿日个山歌比賽，有兩百零个人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "song zagˋ ngied zugˋ dungˊ tienˊ conˊ ngidˋ ge sanˊ goˊ biˋ soi, iuˊ liongˋ bagˋ langˇ ge nginˇ camˊ gaˊ. ngienˇ giˋ zui tai ge, he meuˇ lid loiˇ ge liuˇ aˊ poˇ, qidˋ siib ngˋ se."}
     hl: {hanzi: "上隻月竹東天穿日个山歌比賽，有兩百零个人參加。年紀最大个，係苗栗來个劉阿婆，七十五歲。", pinyin: "shong+ zhag ngiedˋ zhug dungˋ tienˋ chonˋ ngid gaiˇ sanˋ goˋ biˊ soiˇ, rhiuˋ liongˊ bag lang gaiˇ ngin camˋ gaˋ. ngien giˊ zuiˇ tai+ gaiˇ, heˇ miau lidˋ loi gaiˇ liu a+ po, cid shibˋ ngˊ soiˇ."}
   - n: 9
     speaker: 姐婆
     en: "Look! It's your grandma from Miaoli!"
-    sx: {hanzi: "你看！係你苗栗个阿婆！", pinyin: "nˇ kon! he nˇ meuˇ lidˋ ge aˊ poˇ!"}
+    sx: {hanzi: "你看！係你苗栗个阿婆！", pinyin: "nˇ kon! he nˇ meuˇ lid ge aˊ poˇ!"}
     hl: {hanzi: "你看！係你苗栗个阿婆！", pinyin: "ngi konˇ! heˇ ngi miau lidˋ gaiˇ a+ po!"}
   - n: 10
     speaker: 主播
@@ -175,7 +175,7 @@ exercises:
       sx: {hanzi: "因為落雨，故所遊客當少。", pinyin: "inˊ vi log iˋ, gu soˋ iuˇ hagˋ dongˊ seuˋ."}
       hl: {hanzi: "因為落水，所以遊客當少。", pinyin: "rhinˋ vui+ logˋ shuiˊ, soˊ rhiˋ rhiu hag dongˋ shauˊ."}
     - en: "Miaoli county has a population of over five hundred thousand."
-      sx: {hanzi: "苗栗縣个人口有五十幾萬。", pinyin: "meuˇ lidˋ ien ge nginˇ kieuˋ iuˊ ngˋ siib giˋ van."}
+      sx: {hanzi: "苗栗縣个人口有五十幾萬。", pinyin: "meuˇ lid ien ge nginˇ kieuˋ iuˊ ngˋ siib giˋ van."}
       hl: {hanzi: "苗栗縣个人口有五十幾萬。", pinyin: "miau lidˋ rhanˇ gaiˇ ngin kieuˊ rhiuˋ ngˊ shibˋ giˊ van+."}
       check: true
     - en: "The reporter asked the county government how many people took part."

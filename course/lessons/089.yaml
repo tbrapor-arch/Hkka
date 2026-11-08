@@ -44,7 +44,7 @@ dialogue:
     speaker: 阿明
     en: "I'll phone my sister… No, the phone can't get through."
     sx: {hanzi: "𠊎打電話分阿姊……毋係，手機仔打毋出去。", pinyin: "ngaiˇ daˋ tien fa bunˊ aˊ jiˋ … mˇ he, suˋ giˊ eˋ daˋ mˇ cudˋ hi."}
-    hl: {hanzi: "𠊎打電話分阿姊……毋係，手機打毋出去。", pinyin: "ngai daˊ tien+ faˇ bunˋ a+ ziˊ … m heˇ, shiuˊ giˋ daˊ m chud hiˇ."}
+    hl: {hanzi: "𠊎打電話分阿姊……毋係，手機打毋出去。", pinyin: "ngai daˊ tien+ faˇ bunˋ a+ ze … m heˇ, shiuˊ giˋ daˊ m chud hiˇ."}
   - n: 8
     speaker: Sam
     en: "Don't be frightened. Let's sit down and rest a bit."
@@ -79,7 +79,7 @@ dialogue:
     speaker: Sam
     en: "Don't be. Grandma knows we came to 南庄. If we're not home by dark, she'll get people to come and look for us."
     sx: {hanzi: "毋使驚。阿婆知𫣆兜來南庄。若係斷烏還吂轉，佢會喊人來尋。", pinyin: "mˇ siiˋ giangˊ. aˊ poˇ diˊ enˊ deuˊ loiˇ namˇ zongˊ. na he tonˊ vuˊ hanˇ mangˇ zonˋ, giˇ voi ham nginˇ loiˇ qimˇ."}
-    hl: {hanzi: "毋使驚。阿婆知𫣆兜來南庄。若係斷烏還吂轉，佢會喊人來尋。", pinyin: "m siiˊ giangˋ. a+ po diˋ enˋ deuˋ loi nam zongˋ. na+ heˇ tonˋ vuˋ han mang zhonˊ, gi voi+ hamˇ ngin loi cim."}
+    hl: {hanzi: "毋使驚。阿婆知𫣆兜來南庄。若係斷烏還吂轉，佢會喊人來尋。", pinyin: "m siiˊ giangˋ. a+ po diˋ enˋ deuˋ loi nam zhongˋ. na+ heˇ tonˋ vuˋ han mang zhonˊ, gi voi+ hamˇ ngin loi cim."}
   - n: 15
     speaker: 阿明
     en: "(an hour later) It's got so dark you can't even see a face."

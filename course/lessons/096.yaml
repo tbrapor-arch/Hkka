@@ -91,8 +91,8 @@ dialogue:
   - n: 16
     speaker: Sam
     en: "I'll come back. Absolutely. The world is so big, but there's only one Miaoli."
-    sx: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngaiˇ voi zonˋ loiˇ. qied dui voi. sii gie anˋ tai, mˇ go meuˇ lidˋ qiu idˋ zagˋ tin tin."}
-    hl: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngai voi+ zhonˊ loi. ciedˋ duiˇ voi+. sheˇ gaiˇ anˊ tai+, m goˇ miau lid ciu+ rhid zhag tin+ tin+."}
+    sx: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngaiˇ voi zonˋ loiˇ. qied dui voi. sii gie anˋ tai, mˇ go meuˇ lid qiu idˋ zagˋ tin tin."}
+    hl: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngai voi+ zhonˊ loi. ciedˋ duiˇ voi+. sheˇ gaiˇ anˊ tai+, m goˇ miau lidˋ ciu+ rhid zhag tin+ tin+."}
   - n: 17
     speaker: 阿婆
     en: "(her eyes wet) Come here, let Grandma pat your back. Good, good. Off to bed."
@@ -195,8 +195,8 @@ exercises:
       sx: {hanzi: "阿英係阿婆个孫女，同阿婆共樣。", pinyin: "aˊ inˊ he aˊ poˇ ge sunˊ ngˋ, tungˇ aˊ poˇ kiung iong."}
       hl: {hanzi: "阿英係阿婆个孫女，摎阿婆共樣。", pinyin: "a+ rhinˋ heˇ a+ po gaiˇ sunˋ ngˊ, lauˋ a+ po kiung+ rhong+."}
     - en: "The world is big; but there's only one Miaoli."
-      sx: {hanzi: "世界恁大，毋過苗栗就一隻定定。", pinyin: "sii gie anˋ tai, mˇ go meuˇ lidˋ qiu idˋ zagˋ tin tin."}
-      hl: {hanzi: "世界恁大，毋過苗栗就一隻定定。", pinyin: "sheˇ gaiˇ anˊ tai+, m goˇ miau lid ciu+ rhid zhag tin+ tin+."}
+      sx: {hanzi: "世界恁大，毋過苗栗就一隻定定。", pinyin: "sii gie anˋ tai, mˇ go meuˇ lid qiu idˋ zagˋ tin tin."}
+      hl: {hanzi: "世界恁大，毋過苗栗就一隻定定。", pinyin: "sheˇ gaiˇ anˊ tai+, m goˇ miau lidˋ ciu+ rhid zhag tin+ tin+."}
       check: true
     - en: "Grandma led A-min by the hand to school when he was small."
       sx: {hanzi: "阿明細時節，阿婆牽佢去學校。", pinyin: "aˊ minˇ se siiˇ jiedˋ, aˊ poˇ kienˊ giˇ hi hog gauˋ."}

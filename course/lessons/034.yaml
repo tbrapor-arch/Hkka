@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: 阿明
     en: "It will. It'll rain in Miaoli, and up on 合歡山 it'll even snow."
-    sx: {hanzi: "會。苗栗會落雨，合歡山還會落雪。", pinyin: "voi. meuˇ lidˋ voi log iˋ, hab fonˊ sanˊ hanˇ voi log xiedˋ."}
-    hl: {hanzi: "會。苗栗會落水，合歡山還會落雪。", pinyin: "voi+. miau lid voi+ logˋ shuiˊ, habˋ fonˋ sanˋ han voi+ logˋ sied."}
+    sx: {hanzi: "會。苗栗會落雨，合歡山還會落雪。", pinyin: "voi. meuˇ lid voi log iˋ, hab fonˊ sanˊ hanˇ voi log xiedˋ."}
+    hl: {hanzi: "會。苗栗會落水，合歡山還會落雪。", pinyin: "voi+. miau lidˋ voi+ logˋ shuiˊ, habˋ fonˋ sanˋ han voi+ logˋ sied."}
   - n: 8
     speaker: Sam
     en: "Snow? Will Lucie's plane leave on time?"
@@ -157,8 +157,8 @@ exercises:
       sx: {hanzi: "頭擺合歡山會落雪無？", pinyin: "teuˇ baiˋ hab fonˊ sanˊ voi log xiedˋ moˇ?"}
       hl: {hanzi: "頭擺合歡山會落雪無？", pinyin: "teu baiˊ habˋ fonˋ sanˋ voi+ logˋ sied mo?"}
     - en: "Miaoli is hot in summer and cold in winter."
-      sx: {hanzi: "苗栗熱天當熱，寒天當寒。", pinyin: "meuˇ lidˋ ngied tienˊ dongˊ ngied, honˇ tienˊ dongˊ honˇ."}
-      hl: {hanzi: "苗栗熱天當熱，冷天當冷。", pinyin: "miau lid ngiedˋ tienˋ dongˋ ngiedˋ, langˋ tienˋ dongˋ langˋ."}
+      sx: {hanzi: "苗栗熱天當熱，寒天當寒。", pinyin: "meuˇ lid ngied tienˊ dongˊ ngied, honˇ tienˊ dongˊ honˇ."}
+      hl: {hanzi: "苗栗熱天當熱，冷天當冷。", pinyin: "miau lidˋ ngiedˋ tienˋ dongˋ ngiedˋ, langˋ tienˋ dongˋ langˋ."}
     - en: "Let's go up the mountain to see the snow!"
       sx: {hanzi: "𫣆兜上山看雪！", pinyin: "enˊ deuˊ songˊ sanˊ kon xiedˋ!"}
       hl: {hanzi: "𫣆兜上山看雪！", pinyin: "enˋ deuˋ shongˋ sanˋ konˇ sied!"}

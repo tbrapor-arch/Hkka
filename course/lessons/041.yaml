@@ -25,7 +25,7 @@ dialogue:
     speaker: 阿英
     en: "財伯姆 says you've found me someone, and I'm to meet him on Sunday!"
     sx: {hanzi: "財伯姆講，你摎𠊎紹介一隻對象，禮拜日愛相親！", pinyin: "coiˇ bagˋ meˊ gongˋ, nˇ lauˊ ngaiˇ seu gie idˋ zagˋ dui xiong, liˊ bai ngidˋ oi xiong qinˊ!"}
-    hl: {hanzi: "財伯姆講，你摎𠊎紹介一隻對象，禮拜日愛相親！", pinyin: "coi bag meˋ gongˊ, ngi lauˋ ngai shauˇ gaiˇ rhid zhag duiˇ siongˇ, liˋ baiˇ ngid oiˇ siongˇ cinˋ!"}
+    hl: {hanzi: "財伯姆講，你摎𠊎紹介一隻對象，禮拜日愛相親！", pinyin: "coi bag meˊ gongˊ, ngi lauˋ ngai shauˇ gaiˇ rhid zhag duiˇ siongˇ, liˋ baiˇ ngid oiˇ siongˇ cinˋ!"}
   - n: 4
     speaker: 阿婆
     en: "He's a very nice young man. He works at a bank…"
@@ -73,7 +73,7 @@ dialogue:
     speaker: 阿明
     en: "Sis, so are you happy now?"
     sx: {hanzi: "阿姊，你這下歡喜無？", pinyin: "aˊ jiˋ, nˇ iaˋ ha fonˊ hiˋ moˇ?"}
-    hl: {hanzi: "阿姊，你這下歡喜無？", pinyin: "a+ ziˊ, ngi liaˊ ha+ fonˋ hiˊ mo?"}
+    hl: {hanzi: "阿姊，你這下歡喜無？", pinyin: "a+ ze, ngi liaˊ ha+ fonˋ hiˊ mo?"}
   - n: 13
     speaker: 阿英
     en: "…No, I am not!"

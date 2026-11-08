@@ -40,8 +40,8 @@ dialogue:
   - n: 6
     speaker: 姐婆
     en: "(laughing) 恁仔細! You've got a Miaoli accent. That's how they say it in Miaoli; here in 竹東 we say 承蒙你."
-    sx: {hanzi: "恁仔細！你有苗栗腔。該係苗栗个講法，𠊎兜竹東講承蒙你。", pinyin: "anˋ ziiˋ se! nˇ iuˊ meuˇ lidˋ kiongˊ. ge he meuˇ lidˋ ge gongˋ fabˋ, ngaiˇ deuˊ zugˋ dungˊ gongˋ siinˇ mungˇ nˇ."}
-    hl: {hanzi: "恁仔細！你有苗栗腔。該係苗栗个講法，𠊎兜竹東講承蒙你。", pinyin: "anˊ ziiˊ seˇ! ngi rhiuˋ miau lid kiongˋ. gai heˇ miau lid gaiˇ gongˊ fab, ngai deuˋ zhug dungˋ gongˊ shin mung ngi."}
+    sx: {hanzi: "恁仔細！你有苗栗腔。該係苗栗个講法，𠊎兜竹東講承蒙你。", pinyin: "anˋ ziiˋ se! nˇ iuˊ meuˇ lid kiongˊ. ge he meuˇ lid ge gongˋ fabˋ, ngaiˇ deuˊ zugˋ dungˊ gongˋ siinˇ mungˇ nˇ."}
+    hl: {hanzi: "恁仔細！你有苗栗腔。該係苗栗个講法，𠊎兜竹東講承蒙你。", pinyin: "anˊ ziiˊ seˇ! ngi rhiuˋ miau lidˋ kiongˋ. gai heˇ miau lidˋ gaiˇ gongˊ fab, ngai deuˋ zhug dungˋ gongˊ shin mung ngi."}
     check: true
   - n: 7
     speaker: Sam
@@ -51,8 +51,8 @@ dialogue:
   - n: 8
     speaker: 阿英
     en: "Mum's family all live in 新竹 and speak Hailu. Miaoli speaks Sixian."
-    sx: {hanzi: "阿姆个屋下人全部歇新竹，講海陸話。苗栗講四縣話。", pinyin: "aˊ meˊ ge vugˋ kaˊ nginˇ qionˇ pu hed xinˊ zugˋ, gongˋ hoiˋ liugˋ fa. meuˇ lidˋ gongˋ xi ien fa."}
-    hl: {hanzi: "阿姆个屋下人全部歇新竹，講海陸話。苗栗講四縣話。", pinyin: "a+ meˋ gaiˇ vug haˋ ngin cion pu+ hied sinˋ zhug, gongˊ hoiˊ liugˋ voiˋ. miau lid gongˊ siˇ rhanˇ voiˋ."}
+    sx: {hanzi: "阿姆个屋下人全部歇新竹，講海陸話。苗栗講四縣話。", pinyin: "aˊ meˊ ge vugˋ kaˊ nginˇ qionˇ pu hed xinˊ zugˋ, gongˋ hoiˋ liugˋ fa. meuˇ lid gongˋ xi ien fa."}
+    hl: {hanzi: "阿姆个屋下人全部歇新竹，講海陸話。苗栗講四縣話。", pinyin: "a+ meˋ gaiˇ vug haˋ ngin cion pu+ hied sinˋ zhug, gongˊ hoiˊ liugˋ voiˋ. miau lidˋ gongˊ siˇ rhanˇ voiˋ."}
   - n: 9
     speaker: 阿英
     en: "It's the same Hakka, but a lot of words are said differently. 'Tomorrow', for instance: we say 天光日, and they don't say it that way at all. (In the Hailu line: they say 韶早.)"
@@ -163,8 +163,8 @@ exercises:
       sx: {hanzi: "姐公、姐婆歇竹東，舅姆照顧佢兜。", pinyin: "jiaˋ gungˊ, jiaˋ poˇ hed zugˋ dungˊ, kiuˊ meˊ zeu gu giˇ deuˊ."}
       hl: {hanzi: "姐公、姐婆歇竹東，舅姆照顧佢兜。", pinyin: "ziaˊ gungˋ, ziaˊ po hied zhug dungˋ, kiuˋ meˋ zhauˇ guˇ gi deuˋ."}
     - en: "Sam has a Miaoli accent."
-      sx: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gongˋ fa iuˊ meuˇ lidˋ kiongˊ."}
-      hl: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gong+ voiˋ rhiuˋ miau lid kiongˋ."}
+      sx: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gongˋ fa iuˊ meuˇ lid kiongˊ."}
+      hl: {hanzi: "Sam 講話有苗栗腔。", pinyin: "Sam gong+ voiˋ rhiuˋ miau lidˋ kiongˋ."}
       check: true
     - en: "Finding a job is hard; uncle's factory is short of people."
       sx: {hanzi: "頭路當難尋，阿舅个工廠欠人。", pinyin: "teuˇ lu dongˊ nanˇ qimˇ, aˊ kiuˊ ge gungˊ congˋ kiam nginˇ."}

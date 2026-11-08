@@ -15,7 +15,7 @@ dialogue:
     speaker: 阿婆
     en: "A-tsai! 財伯姆! Happy New Year!"
     sx: {hanzi: "阿財伯、財伯姆！新年快樂！", pinyin: "aˊ coiˇ bagˋ, coiˇ bagˋ meˊ! xinˊ ngienˇ kuai log!"}
-    hl: {hanzi: "阿財伯、財伯姆！新年快樂！", pinyin: "a+ coi bag, coi bag meˋ! sinˋ ngien kuaiˇ logˋ!"}
+    hl: {hanzi: "阿財伯、財伯姆！新年快樂！", pinyin: "a+ coi bag, coi bag meˊ! sinˋ ngien kuaiˇ logˋ!"}
   - n: 2
     speaker: 財伯姆
     en: "Happy New Year, and may everything go as you wish!"
@@ -41,7 +41,7 @@ dialogue:
   - n: 6
     speaker: 財伯姆
     en: "Sam, your first New Year in Taiwan. Having fun?"
-    sx: {hanzi: "Sam，你頭一擺在臺灣過年。好尞無？", pinyin: "Sam, nˇ teuˇ idˋ baiˋ coiˊ toiˇ vanˊ go ngienˇ. hoˋ liau moˇ?"}
+    sx: {hanzi: "Sam，你頭一擺在臺灣過年。好尞無？", pinyin: "Sam, nˇ teuˇ idˋ baiˋ coiˊ toiˇ vanˇ go ngienˇ. hoˋ liau moˇ?"}
     hl: {hanzi: "Sam，你頭一擺在臺灣過年。好尞無？", pinyin: "Sam, ngi teu rhid baiˊ coiˋ toi van goˇ ngien. hoˊ liau+ mo?"}
     check: true
   - n: 7
@@ -68,7 +68,7 @@ dialogue:
     speaker: 阿英
     en: "(appearing from the kitchen, with a very bright smile) Happy New Year, 財伯姆!"
     sx: {hanzi: "財伯姆，新年快樂！", pinyin: "coiˇ bagˋ meˊ, xinˊ ngienˇ kuai log!"}
-    hl: {hanzi: "財伯姆，新年快樂！", pinyin: "coi bag meˋ, sinˋ ngien kuaiˇ logˋ!"}
+    hl: {hanzi: "財伯姆，新年快樂！", pinyin: "coi bag meˊ, sinˋ ngien kuaiˇ logˋ!"}
   - n: 12
     speaker: 財伯姆
     en: "Happy New Year! This year you must…"

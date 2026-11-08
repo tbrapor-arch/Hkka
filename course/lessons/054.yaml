@@ -29,7 +29,7 @@ dialogue:
     speaker: 阿英
     en: "Dried persimmons, 北埔's speciality: you dry persimmons in the sun and you get 柿餅. The ones from 北埔 are delicious."
     sx: {hanzi: "柿餅，北埔个特產。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "cii biangˋ, bedˋ puˊ ge tid sanˋ. cii eˋ sai zauˊ, qiu he cii biangˋ. bedˋ puˊ cudˋ sanˋ ge cii biangˋ dongˊ hoˋ siid."}
-    hl: {hanzi: "柿餅，北埔个特產。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "ki+ biangˊ, bed puˋ gaiˇ tidˋ sanˊ. ki+ er saiˇ zauˋ, ciu+ heˇ ki+ biangˊ. bed puˋ chud sanˊ gaiˇ ki+ biangˊ dongˋ hoˊ shidˋ."}
+    hl: {hanzi: "柿餅，北埔个特產。柿仔晒燥，就係柿餅。北埔出產个柿餅當好食。", pinyin: "ki+ biangˊ, bed buˋ gaiˇ tidˋ sanˊ. ki+ er saiˇ zauˋ, ciu+ heˇ ki+ biangˊ. bed buˋ chud sanˊ gaiˇ ki+ biangˊ dongˋ hoˊ shidˋ."}
   - n: 5
     speaker: 頭家
     en: "Have a taste first: buy if you like it."
@@ -166,7 +166,7 @@ exercises:
       source: kaga
     - en: "北埔's speciality is dried persimmons; the persimmons dry in the wind."
       sx: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bedˋ puˊ ge tid sanˋ he cii biangˋ; cii eˋ bunˊ fungˊ coiˊ zauˊ."}
-      hl: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bed puˋ gaiˇ tidˋ sanˊ heˇ ki+ biangˊ; ki+ er bunˋ fungˋ choiˋ zauˋ."}
+      hl: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bed buˋ gaiˇ tidˋ sanˊ heˇ ki+ biangˊ; ki+ er bunˋ fungˋ choiˋ zauˋ."}
       check: true
     - en: "Only the two old people are left at home."
       sx: {hanzi: "屋下淨伸兩老定定。", pinyin: "vugˋ kaˊ qiang cunˊ liongˋ loˋ tin tin."}

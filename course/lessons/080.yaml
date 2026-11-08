@@ -36,8 +36,8 @@ dialogue:
   - n: 5
     speaker: 阿婆
     en: "(holding the phone in both hands) I'm Grandma Liu, from Miaoli. It's my first time calling in, sorry…"
-    sx: {hanzi: "𠊎係苗栗个劉阿婆。𠊎頭一擺叩應，敗勢……", pinyin: "ngaiˇ he meuˇ lidˋ ge liuˇ aˊ poˇ. ngaiˇ teuˇ idˋ baiˋ ko inˋ, paiˇ se …"}
-    hl: {hanzi: "𠊎係苗栗个劉阿婆。𠊎頭一擺叩應，敗勢……", pinyin: "ngai heˇ miau lid gaiˇ liu a+ po. ngai teu rhid baiˊ ko inˋ, pai+ sheˇ …"}
+    sx: {hanzi: "𠊎係苗栗个劉阿婆。𠊎頭一擺叩應，敗勢……", pinyin: "ngaiˇ he meuˇ lid ge liuˇ aˊ poˇ. ngaiˇ teuˇ idˋ baiˋ ko inˋ, paiˇ se …"}
+    hl: {hanzi: "𠊎係苗栗个劉阿婆。𠊎頭一擺叩應，敗勢……", pinyin: "ngai heˇ miau lidˋ gaiˇ liu a+ po. ngai teu rhid baiˊ ko inˋ, pai+ sheˇ …"}
   - n: 6
     speaker: 主持人
     en: "No need to be nervous, take your time. Your voice is lovely."
@@ -73,8 +73,8 @@ dialogue:
   - n: 12
     speaker: 主持人
     en: "Right then. The next song is a mountain song from Grandma Liu of Miaoli, for the nurses at the hospital!"
-    sx: {hanzi: "好，恁樣，下一條歌曲，係苗栗劉阿婆送分醫院護士个山歌！", pinyin: "hoˋ, anˋ ngiongˇ, ha idˋ tiauˇ goˊ kiugˋ, he meuˇ lidˋ liuˇ aˊ poˇ sung bunˊ iˊ ien fu sii ge sanˊ goˊ!"}
-    hl: {hanzi: "好，恁樣，下一條歌曲，係苗栗劉阿婆送分醫院護士个山歌！", pinyin: "hoˊ, an ngiong, ha+ rhid tiau goˋ kiug, heˇ miau lid liu a+ po sungˇ bunˋ rhiˋ rhanˇ fu+ sii+ gaiˇ sanˋ goˋ!"}
+    sx: {hanzi: "好，恁樣，下一條歌曲，係苗栗劉阿婆送分醫院護士个山歌！", pinyin: "hoˋ, anˋ ngiongˇ, ha idˋ tiauˇ goˊ kiugˋ, he meuˇ lid liuˇ aˊ poˇ sung bunˊ iˊ ien fu sii ge sanˊ goˊ!"}
+    hl: {hanzi: "好，恁樣，下一條歌曲，係苗栗劉阿婆送分醫院護士个山歌！", pinyin: "hoˊ, an ngiong, ha+ rhid tiau goˋ kiug, heˇ miau lidˋ liu a+ po sungˇ bunˋ rhiˋ rhanˇ fu+ sii+ gaiˇ sanˋ goˋ!"}
   - n: 13
     speaker: 阿明
     en: "(running in) Grandma, you're on the radio! The programme was brilliant! The presenter said your voice is lovely!"
@@ -185,7 +185,7 @@ exercises:
       check: true
     - en: "The next item is a song performed by the villagers of 美濃."
       sx: {hanzi: "下一个節目，係美濃鄉親表演个歌曲。", pinyin: "ha idˋ ge jiedˋ mug, he miˊ nungˇ hiongˊ qinˊ beuˋ ienˊ ge goˊ kiugˋ."}
-      hl: {hanzi: "下一个節目，係美濃鄉親表演个歌曲。", pinyin: "ha+ rhid gaiˇ zied mug, heˇ miˊ nung hiongˋ cinˋ biauˊ rhanˋ gaiˇ goˋ kiug."}
+      hl: {hanzi: "下一个節目，係美濃鄉親表演个歌曲。", pinyin: "ha+ rhid gaiˇ zied mug, heˇ mi nung hiongˋ cinˋ biauˊ rhanˋ gaiˇ goˋ kiug."}
     - en: "She has hosted this programme for ten years, and she hosts it brilliantly."
       sx: {hanzi: "佢擔任這隻節目个主持人十年了，主持到當精彩。", pinyin: "giˇ damˊ im iaˋ zagˋ jiedˋ mug ge zuˋ ciiˇ nginˇ siib ngienˇ leˊ, zuˋ ciiˇ do dongˊ jinˊ caiˋ."}
       hl: {hanzi: "佢擔任這隻節目个主持人十年了，主持到當精彩。", pinyin: "gi damˋ rhim+ liaˊ zhag zied mug gaiˇ zhuˊ chi ngin shibˋ ngien leˋ, zhuˊ chi doˇ dongˋ zinˋ caiˊ."}

@@ -24,7 +24,7 @@ dialogue:
   - n: 3
     speaker: Sam
     en: "(reading the first board aloud) 'In the old days, most Hakka people came to Taiwan from 唐山.' Where is 唐山?"
-    sx: {hanzi: "「頭擺客家人大部分都係從唐山來臺灣。」唐山係哪位？", pinyin: "teuˇ baiˋ hagˋ gaˊ nginˇ tai pu fun du he qiungˇ tongˇ sanˊ loiˇ toiˇ vanˊ. tongˇ sanˊ he nai vi?"}
+    sx: {hanzi: "「頭擺客家人大部分都係從唐山來臺灣。」唐山係哪位？", pinyin: "teuˇ baiˋ hagˋ gaˊ nginˇ tai pu fun du he qiungˇ tongˇ sanˊ loiˇ toiˇ vanˇ. tongˇ sanˊ he nai vi?"}
     hl: {hanzi: "「頭擺客家人大部分都係從唐山來臺灣。」唐山係哪位？", pinyin: "teu baiˊ hag gaˋ ngin tai+ pu+ fun+ du+ heˇ ciung tong sanˋ loi toi van. tong sanˋ heˇ nai+ vui+?"}
   - n: 4
     speaker: 阿英
@@ -39,7 +39,7 @@ dialogue:
   - n: 6
     speaker: 阿英
     en: "According to our family register, our ancestors came from 廣東. They crossed the sea by boat to Taiwan."
-    sx: {hanzi: "根據族譜个記載，𠊎兜个祖公來自廣東，坐船渡海來臺灣。", pinyin: "ginˊ giˋ cug puˋ ge gi zai, ngaiˇ deuˊ ge zuˋ gungˊ loiˇ cii gongˋ dungˊ, coˊ sonˇ tu hoiˋ loiˇ toiˇ vanˊ."}
+    sx: {hanzi: "根據族譜个記載，𠊎兜个祖公來自廣東，坐船渡海來臺灣。", pinyin: "ginˊ giˋ cug puˋ ge gi zai, ngaiˇ deuˊ ge zuˋ gungˊ loiˇ cii gongˋ dungˊ, coˊ sonˇ tu hoiˋ loiˇ toiˇ vanˇ."}
     hl: {hanzi: "根據族譜个記載，𠊎兜个祖公來自廣東，坐船渡海來臺灣。", pinyin: "ginˋ giˊ cugˋ puˊ gaiˇ giˇ zaiˇ, ngai deuˋ gaiˇ zuˊ gungˋ loi cii+ gongˊ dungˋ, coˋ shon tu+ hoiˊ loi toi van."}
     check: true
   - n: 7
@@ -80,7 +80,7 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "Now I understand: the Hakka came from 唐山, and in Taiwan they built houses, farmed, sang mountain songs…"
-    sx: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "iaˋ ha ngaiˇ minˇ ped leˊ: hagˋ gaˊ nginˇ qiungˇ tongˇ sanˊ loiˇ, coiˊ toiˇ vanˊ zo vugˋ, gangˊ tienˇ, cong sanˊ goˊ …"}
+    sx: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "iaˋ ha ngaiˇ minˇ ped leˊ: hagˋ gaˊ nginˇ qiungˇ tongˇ sanˊ loiˇ, coiˊ toiˇ vanˇ zo vugˋ, gangˊ tienˇ, cong sanˊ goˊ …"}
     hl: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "liaˊ ha+ ngai min pagˋ leˋ: hag gaˋ ngin ciung tong sanˋ loi, coiˋ toi van zoˇ vug, gangˋ tien, chongˇ sanˋ goˋ …"}
   - n: 15
     speaker: 阿明

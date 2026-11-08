@@ -29,7 +29,7 @@ dialogue:
   - n: 4
     speaker: 鍾伯
     en: "In the old days 美濃 people grew tobacco. The leaves have to be dried over a fire, and that was done inside the barn."
-    sx: {hanzi: "頭擺美濃人種菸。菸葉愛用火燻燥來，就在菸樓肚燻。", pinyin: "teuˇ baiˋ mi nungˇ nginˇ zung ienˊ. ienˊ iab oi iung foˋ fun zauˊ loiˇ, qiu coiˊ ienˊ leuˇ duˋ fun."}
+    sx: {hanzi: "頭擺美濃人種菸。菸葉愛用火燻燥來，就在菸樓肚燻。", pinyin: "teuˇ baiˋ miˊ nungˇ nginˇ zung ienˊ. ienˊ iab oi iung foˋ fun zauˊ loiˇ, qiu coiˊ ienˊ leuˇ duˋ fun."}
     hl: {hanzi: "頭擺美濃人種菸。菸葉愛用火燻燥來，就在菸樓肚燻。", pinyin: "teu baiˊ mi nung ngin zhungˇ rhanˋ. rhanˋ rhabˋ oiˇ rhung+ foˊ funˇ zauˋ loi, ciu+ coiˋ rhanˋ leu duˊ funˇ."}
   - n: 5
     speaker: 阿英
@@ -50,7 +50,7 @@ dialogue:
   - n: 8
     speaker: Sam
     en: "美濃 has become so quiet…"
-    sx: {hanzi: "美濃變到恁安靜……", pinyin: "mi nungˇ bien do anˋ onˊ qin …"}
+    sx: {hanzi: "美濃變到恁安靜……", pinyin: "miˊ nungˇ bien do anˋ onˊ qin …"}
     hl: {hanzi: "美濃變到恁安靜……", pinyin: "mi nung bienˇ doˇ anˊ onˋ cin+ …"}
   - n: 9
     speaker: 鍾伯
@@ -71,7 +71,7 @@ dialogue:
   - n: 12
     speaker: 阿英
     en: "That's 美濃's history."
-    sx: {hanzi: "這就係美濃个歷史。", pinyin: "iaˋ qiu he mi nungˇ ge lid siiˋ."}
+    sx: {hanzi: "這就係美濃个歷史。", pinyin: "iaˋ qiu he miˊ nungˇ ge lid siiˋ."}
     hl: {hanzi: "這就係美濃个歷史。", pinyin: "liaˊ ciu+ heˇ mi nung gaiˇ lidˋ siiˊ."}
   - n: 13
     speaker: 鍾伯
@@ -81,12 +81,12 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "Was he from 美濃?"
-    sx: {hanzi: "佢係美濃人？", pinyin: "giˇ he mi nungˇ nginˇ?"}
+    sx: {hanzi: "佢係美濃人？", pinyin: "giˇ he miˊ nungˇ nginˇ?"}
     hl: {hanzi: "佢係美濃人？", pinyin: "gi heˇ mi nung ngin?"}
   - n: 15
     speaker: 鍾伯
     en: "He was. He wrote about our life here, the farming families' life."
-    sx: {hanzi: "係。佢寫𠊎等美濃人个生活，耕田人个生活。", pinyin: "he. giˇ xiaˋ ngaiˇ denˋ mi nungˇ nginˇ ge senˊ fad, gangˊ tienˇ nginˇ ge senˊ fad."}
+    sx: {hanzi: "係。佢寫𠊎等美濃人个生活，耕田人个生活。", pinyin: "he. giˇ xiaˋ ngaiˇ denˋ miˊ nungˇ nginˇ ge senˊ fad, gangˊ tienˇ nginˇ ge senˊ fad."}
     hl: {hanzi: "係。佢寫𠊎兜美濃人个生活，耕田人个生活。", pinyin: "heˇ. gi siaˊ ngai deuˋ mi nung ngin gaiˇ senˋ fadˋ, gangˋ tien ngin gaiˇ senˋ fadˋ."}
   - n: 16
     speaker: 阿英
@@ -169,15 +169,15 @@ new_words:
 
 exercises:
   translate:
-    - en: "That old house will soon be pulled down."
-      sx: {hanzi: "該棟舊屋仔，無幾久就愛拆忒了。", pinyin: "ge dung kiu vugˋ eˇ, moˇ giˋ giuˋ qiu oi cagˋ tedˋ leˊ."}
-      hl: {hanzi: "該棟舊屋仔，無幾久就愛拆忒了。", pinyin: "gai dungˇ kiu+ vug er, mo giˊ giuˊ ciu+ oiˇ cag ted leˋ."}
+    - en: "That old house will be pulled down next year."
+      sx: {hanzi: "該棟舊屋仔，過忒年就愛拆忒了。", pinyin: "ge dung kiu vugˋ eˇ, go tedˋ ngienˇ qiu oi cagˋ tedˋ leˊ."}
+      hl: {hanzi: "該棟舊屋仔，明年就愛拆忒了。", pinyin: "gai dungˇ kiu+ vug er, miang ngien ciu+ oiˇ cag ted leˋ."}
       source: moe
     - en: "In the old days water wasn't as easy to get as it is now."
       sx: {hanzi: "頭擺个人用水無像這下恁方便。", pinyin: "teuˇ baiˋ ge nginˇ iung suiˋ moˇ qiong iaˋ ha anˋ fongˊ pien."}
       hl: {hanzi: "頭擺个人用水無像這下恁方便。", pinyin: "teu baiˊ gaiˇ ngin rhung+ shuiˊ mo siongˇ liaˊ ha+ anˊ fongˋ pien+."}
     - en: "The barn has a tall chimney; the history of 美濃 is in these buildings."
-      sx: {hanzi: "菸樓有高高个煙囪，美濃个歷史就在這兜屋仔肚。", pinyin: "ienˊ leuˇ iuˊ goˊ goˊ ge ienˊ cungˊ, mi nungˇ ge lid siiˋ qiu coiˊ iaˋ deuˊ vugˋ eˇ duˋ."}
+      sx: {hanzi: "菸樓有高高个煙囪，美濃个歷史就在這兜屋仔肚。", pinyin: "ienˊ leuˇ iuˊ goˊ goˊ ge ienˊ cungˊ, miˊ nungˇ ge lid siiˋ qiu coiˊ iaˋ deuˊ vugˋ eˇ duˋ."}
       hl: {hanzi: "菸樓有高高个煙囪，美濃个歷史就在這兜屋仔肚。", pinyin: "rhanˋ leu rhiuˋ goˋ goˋ gaiˇ rhanˋ cungˋ, mi nung gaiˇ lidˋ siiˊ ciu+ coiˋ liaˊ deuˋ vug er duˊ."}
       check: true
     - en: "We're all people who've left home to earn a living, so we look after each other."

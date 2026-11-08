@@ -79,8 +79,8 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "Yes, sir. …And you? How are you doing in Miaoli?"
-    sx: {hanzi: "知了。……你呢？你在苗栗好無？", pinyin: "diˊ leˊ. … nˇ neˇ? nˇ coiˊ meuˇ lidˋ hoˋ moˇ?"}
-    hl: {hanzi: "知了。……你呢？你在苗栗好無？", pinyin: "diˋ leˋ. … ngi neˇ? ngi coiˋ miau lid hoˊ mo?"}
+    sx: {hanzi: "知了。……你呢？你在苗栗好無？", pinyin: "diˊ leˊ. … nˇ neˇ? nˇ coiˊ meuˇ lid hoˋ moˇ?"}
+    hl: {hanzi: "知了。……你呢？你在苗栗好無？", pinyin: "diˋ leˋ. … ngi neˇ? ngi coiˋ miau lidˋ hoˊ mo?"}
   - n: 15
     speaker: Sam
     en: "Fine. But without you the house is very quiet."

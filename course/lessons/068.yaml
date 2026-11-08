@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: 阿英
     en: "My company in Taipei wants to promote me, with a higher salary. But the county government in Miaoli has invited me to an interview too, for a job in Hakka culture."
-    sx: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜喊𠊎去面試，做客家文化个頭路。", pinyin: "toiˇ bedˋ ge gungˊ siiˊ oi siinˊ ngaiˇ, ngied gibˋ ka goˊ. mˇ go meuˇ lidˋ ien ziin fuˋ me ham ngaiˇ hi mien cii, zo hagˋ gaˊ vunˇ fa ge teuˇ lu."}
-    hl: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜喊𠊎去面試，做客家文化个頭路。", pinyin: "toi bed gaiˇ gungˋ siiˋ oiˇ shinˋ ngai, ngiedˋ gib haˇ goˋ. m goˇ miau lid rhanˇ zhinˇ fuˊ meˇ hamˇ ngai hiˇ mienˇ chiˇ, zoˇ hag gaˋ vun faˇ gaiˇ teu lu+."}
+    sx: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜喊𠊎去面試，做客家文化个頭路。", pinyin: "toiˇ bedˋ ge gungˊ siiˊ oi siinˊ ngaiˇ, ngied gibˋ ka goˊ. mˇ go meuˇ lid ien ziin fuˋ me ham ngaiˇ hi mien cii, zo hagˋ gaˊ vunˇ fa ge teuˇ lu."}
+    hl: {hanzi: "台北个公司愛升𠊎，月給較高。毋過苗栗縣政府乜喊𠊎去面試，做客家文化个頭路。", pinyin: "toi bed gaiˇ gungˋ siiˋ oiˇ shinˋ ngai, ngiedˋ gib haˇ goˋ. m goˇ miau lidˋ rhanˇ zhinˇ fuˊ meˇ hamˇ ngai hiˇ mienˇ chiˇ, zoˇ hag gaˋ vun faˇ gaiˇ teu lu+."}
   - n: 3
     speaker: 阿姆
     en: "Is the pay at the county lower?"
@@ -54,13 +54,13 @@ dialogue:
   - n: 9
     speaker: Sam
     en: "The way I see it… both jobs are good. Unless you don't want to come back to Miaoli."
-    sx: {hanzi: "𠊎个想法……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngaiˇ ge xiongˋ fabˋ … liongˋ zagˋ teuˇ lu du dongˊ hoˋ. cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lidˋ."}
-    hl: {hanzi: "𠊎个想法……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngai gaiˇ siongˊ fab … liongˊ zhag teu lu+ du+ dongˋ hoˊ. chu fuiˋ ngi m siongˊ zhonˊ miau lid."}
+    sx: {hanzi: "𠊎个想法……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngaiˇ ge xiongˋ fabˋ … liongˋ zagˋ teuˇ lu du dongˊ hoˋ. cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lid."}
+    hl: {hanzi: "𠊎个想法……兩隻頭路都當好。除非你毋想轉苗栗。", pinyin: "ngai gaiˇ siongˊ fab … liongˊ zhag teu lu+ du+ dongˋ hoˊ. chu fuiˋ ngi m siongˊ zhonˊ miau lidˋ."}
   - n: 10
     speaker: 阿明
     en: "Sis, come back home anyway! Sam's here!"
     sx: {hanzi: "阿姊，你還係轉來較好！Sam 在這！", pinyin: "aˊ jiˋ, nˇ hanˇ he zonˋ loiˇ ka hoˋ! Sam coiˊ iaˋ!"}
-    hl: {hanzi: "阿姊，你還係轉來較好！Sam 在這！", pinyin: "a+ ziˊ, ngi han heˇ zhonˊ loi haˇ hoˊ! Sam coiˋ liaˊ!"}
+    hl: {hanzi: "阿姊，你還係轉來較好！Sam 在這！", pinyin: "a+ ze, ngi han heˇ zhonˊ loi haˇ hoˊ! Sam coiˋ liaˊ!"}
   - n: 11
     speaker: 阿英
     en: "A-min!"

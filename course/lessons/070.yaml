@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 阿姆
     en: "So you'd come back to Miaoli? The pay is lower…"
-    sx: {hanzi: "你愛轉來苗栗？月給較少……", pinyin: "nˇ oi zonˋ loiˇ meuˇ lidˋ? ngied gibˋ ka seuˋ …"}
-    hl: {hanzi: "你愛轉來苗栗？月給較少……", pinyin: "ngi oiˇ zhonˊ loi miau lid? ngiedˋ gib haˇ shauˊ …"}
+    sx: {hanzi: "你愛轉來苗栗？月給較少……", pinyin: "nˇ oi zonˋ loiˇ meuˇ lid? ngied gibˋ ka seuˋ …"}
+    hl: {hanzi: "你愛轉來苗栗？月給較少……", pinyin: "ngi oiˇ zhonˊ loi miau lidˋ? ngiedˋ gib haˇ shauˊ …"}
   - n: 8
     speaker: 阿英
     en: "I'd rather earn less. Whatever the job, you have to like it."
@@ -115,8 +115,8 @@ exercises:
       sx: {hanzi: "桐花白雪雪仔，茶園浸青，阿英个面啾紅。", pinyin: "tungˇ faˊ pag xiedˋ xiedˋ eˇ, caˇ ienˇ jim qiangˊ, aˊ inˊ ge mien jiuˊ fungˇ."}
       hl: {hanzi: "桐花白雪雪仔，茶園浸青，阿英个面啾紅。", pinyin: "tung faˋ pagˋ sied sied er, ca rhan zimˇ ciangˋ, a+ rhinˋ gaiˇ mienˇ ziuˋ fung."}
     - en: "Both jobs are good, unless you don't want to come back to Miaoli."
-      sx: {hanzi: "兩隻頭路都當好，除非你毋想轉苗栗。", pinyin: "liongˋ zagˋ teuˇ lu du dongˊ hoˋ, cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lidˋ."}
-      hl: {hanzi: "兩隻頭路都當好，除非你毋想轉苗栗。", pinyin: "liongˊ zhag teu lu+ du+ dongˋ hoˊ, chu fuiˋ ngi m siongˊ zhonˊ miau lid."}
+      sx: {hanzi: "兩隻頭路都當好，除非你毋想轉苗栗。", pinyin: "liongˋ zagˋ teuˇ lu du dongˊ hoˋ, cuˇ fiˊ nˇ mˇ xiongˋ zonˋ meuˇ lid."}
+      hl: {hanzi: "兩隻頭路都當好，除非你毋想轉苗栗。", pinyin: "liongˊ zhag teu lu+ du+ dongˋ hoˊ, chu fuiˋ ngi m siongˊ zhonˊ miau lidˋ."}
     - en: "Later, the typhoon blew all the tea bushes away, and of all things, 阿太 planted them again."
       sx: {hanzi: "後來，風搓摎茶樹全部吹走忒，阿太嗄又種過。", pinyin: "heu loiˇ, fungˊ caiˊ lauˊ caˇ su qionˇ pu coiˊ zeuˋ tedˋ, aˊ tai sa iu zung go."}
       hl: {hanzi: "後來，風搓摎茶樹全部吹走忒，阿太嗄又種過。", pinyin: "heu+ loi, fungˋ caiˋ lauˋ ca shu+ cion pu+ choiˋ zeuˊ ted, a+ taiˇ saˇ rhiu+ zhungˇ goˇ."}

@@ -14,13 +14,13 @@ dialogue:
   - n: 1
     speaker: 鍾伯姆
     en: "Welcome, welcome! You've come from Miaoli, haven't you?"
-    sx: {hanzi: "歡迎，歡迎！你兜係對苗栗來个，係無？", pinyin: "fonˊ ngiangˇ, fonˊ ngiangˇ! nˇ deuˊ he dui meuˇ lidˋ loiˇ ge, he moˇ?"}
-    hl: {hanzi: "歡迎，歡迎！你兜係對苗栗來个，係無？", pinyin: "fonˋ ngiang, fonˋ ngiang! ngi deuˋ heˇ duiˇ miau lid loi gaiˇ, heˇ mo?"}
+    sx: {hanzi: "歡迎，歡迎！你兜係對苗栗來个，係無？", pinyin: "fonˊ ngiangˇ, fonˊ ngiangˇ! nˇ deuˊ he dui meuˇ lid loiˇ ge, he moˇ?"}
+    hl: {hanzi: "歡迎，歡迎！你兜係對苗栗來个，係無？", pinyin: "fonˋ ngiang, fonˋ ngiang! ngi deuˋ heˇ duiˇ miau lidˋ loi gaiˇ, heˇ mo?"}
   - n: 2
     speaker: 阿英
     en: "Yes. The high-speed train to 左營, then the bus. This is Sam; he's learning Hakka in Miaoli."
-    sx: {hanzi: "係。坐高鐵到左營，再過坐巴士。這係 Sam，佢在苗栗學客話。", pinyin: "he. coˊ goˊ tiedˋ do zoˋ iangˇ, zai go coˊ ba siiˋ. iaˋ he Sam, giˇ coiˊ meuˇ lidˋ hog hagˋ fa."}
-    hl: {hanzi: "係。坐高鐵到左營，再過坐巴士。這係 Sam，佢在苗栗學客話。", pinyin: "heˇ. coˋ goˋ tied doˇ zoˊ rhang, zaiˇ goˇ coˋ ba siiˋ. liaˊ heˇ Sam, gi coiˋ miau lid hogˋ hag voiˋ."}
+    sx: {hanzi: "係。坐高鐵到左營，再過坐巴士。這係 Sam，佢在苗栗學客話。", pinyin: "he. coˊ goˊ tiedˋ do zoˋ iangˇ, zai go coˊ ba siiˋ. iaˋ he Sam, giˇ coiˊ meuˇ lid hog hagˋ fa."}
+    hl: {hanzi: "係。坐高鐵到左營，再過坐巴士。這係 Sam，佢在苗栗學客話。", pinyin: "heˇ. coˋ goˋ tied doˇ zoˊ rhang, zaiˇ goˇ coˋ ba siiˋ. liaˊ heˇ Sam, gi coiˋ miau lidˋ hogˋ hag voiˋ."}
   - n: 3
     speaker: 鍾伯姆
     en: "A foreigner who speaks Hakka! Very good!"
@@ -34,13 +34,13 @@ dialogue:
   - n: 5
     speaker: 阿英
     en: "Here they say 蓋好; it's the 當好 we say in Miaoli."
-    sx: {hanzi: "這位講「蓋好」，就係苗栗講个「當好」。", pinyin: "iaˋ vi gongˋ goi hoˋ, qiu he meuˇ lidˋ gongˋ ge dongˊ hoˋ."}
-    hl: {hanzi: "這位講「蓋好」，就係苗栗講个「當好」。", pinyin: "liaˊ vui+ gongˊ goiˇ hoˊ, ciu+ heˇ miau lid gongˊ gaiˇ dongˋ hoˊ."}
+    sx: {hanzi: "這位講「蓋好」，就係苗栗講个「當好」。", pinyin: "iaˋ vi gongˋ goi hoˋ, qiu he meuˇ lid gongˋ ge dongˊ hoˋ."}
+    hl: {hanzi: "這位講「蓋好」，就係苗栗講个「當好」。", pinyin: "liaˊ vui+ gongˊ goiˇ hoˊ, ciu+ heˇ miau lidˋ gongˊ gaiˇ dongˋ hoˊ."}
   - n: 6
     speaker: 鍾伯
     en: "We 美濃 people don't speak quite like Miaoli people. Can you follow?"
-    sx: {hanzi: "𠊎等美濃人講話，同苗栗人無共樣。你聽識無？", pinyin: "ngaiˇ denˋ mi nungˇ nginˇ gongˋ fa, tungˇ meuˇ lidˋ nginˇ moˇ kiung iong. nˇ tangˊ siidˋ moˇ?"}
-    hl: {hanzi: "𠊎兜美濃人講話，摎苗栗人無共樣。你聽識無？", pinyin: "ngai deuˋ mi nung ngin gongˊ faˇ, lauˋ miau lid ngin mo kiung+ rhong+. ngi tangˋ shid mo?"}
+    sx: {hanzi: "𠊎等美濃人講話，同苗栗人無共樣。你聽識無？", pinyin: "ngaiˇ denˋ miˊ nungˇ nginˇ gongˋ fa, tungˇ meuˇ lid nginˇ moˇ kiung iong. nˇ tangˊ siidˋ moˇ?"}
+    hl: {hanzi: "𠊎兜美濃人講話，摎苗栗人無共樣。你聽識無？", pinyin: "ngai deuˋ mi nung ngin gongˊ faˇ, lauˋ miau lidˋ ngin mo kiung+ rhong+. ngi tangˋ shid mo?"}
     check: true
   - n: 7
     speaker: Sam

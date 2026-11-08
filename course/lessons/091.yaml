@@ -104,7 +104,7 @@ new_words: []
 exercises:
   translate:
     - en: "In the old days most Hakka people came to Taiwan from 唐山."
-      sx: {hanzi: "頭擺客家人大部分都係從唐山來臺灣。", pinyin: "teuˇ baiˋ hagˋ gaˊ nginˇ tai pu fun du he qiungˇ tongˇ sanˊ loiˇ toiˇ vanˊ."}
+      sx: {hanzi: "頭擺客家人大部分都係從唐山來臺灣。", pinyin: "teuˇ baiˋ hagˋ gaˊ nginˇ tai pu fun du he qiungˇ tongˇ sanˊ loiˇ toiˇ vanˇ."}
       hl: {hanzi: "頭擺客家人大部分都係從唐山來臺灣。", pinyin: "teu baiˊ hag gaˋ ngin tai+ pu+ fun+ du+ heˇ ciung tong sanˋ loi toi van."}
       source: moe
     - en: "The way I see it, learning Hakka isn't easy, but it matters a lot."

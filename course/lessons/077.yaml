@@ -13,7 +13,7 @@ dialogue:
   - n: 1
     speaker: 阿英
     en: "Mum, this is your Mother's Day present. I bought it in 美濃."
-    sx: {hanzi: "阿姆，這係母親節送你个。𠊎在美濃買个。", pinyin: "aˊ meˊ, iaˋ he muˊ qinˊ jiedˋ sung nˇ ge. ngaiˇ coiˊ mi nungˇ maiˊ ge."}
+    sx: {hanzi: "阿姆，這係母親節送你个。𠊎在美濃買个。", pinyin: "aˊ meˊ, iaˋ he muˊ qinˊ jiedˋ sung nˇ ge. ngaiˇ coiˊ miˊ nungˇ maiˊ ge."}
     hl: {hanzi: "阿姆，這係母親節送你个。𠊎在美濃買个。", pinyin: "a+ meˋ, liaˊ heˇ muˋ cinˋ zied sungˇ ngi gaiˇ. ngai coiˋ mi nung maiˋ gaiˇ."}
   - n: 2
     speaker: 阿姆
@@ -34,12 +34,12 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "He went to 美濃 for two days and came back a southerner. Are you daft or what, Sam?"
-    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "giˇ hi mi nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong dong ia mˇ he?"}
+    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "giˇ hi miˊ nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong dong ia mˇ he?"}
     hl: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "gi hiˇ mi nung liongˊ ngid, zhonˊ loi ciu+ bienˇ shang nam pu+ ngin leˋ. Sam, ngi ngongˇ dongˇ rha+ m heˇ?"}
   - n: 6
     speaker: Sam
     en: "In 美濃 they say 歸去 for 轉去, and they call 粄條 面帕粄."
-    sx: {hanzi: "美濃人講歸去，就係轉去；粄條，佢兜安做面帕粄。", pinyin: "mi nungˇ nginˇ gongˋ guiˊ hi, qiu he zonˋ hi; banˋ tiauˇ, giˇ deuˊ onˊ zo mien pa banˋ."}
+    sx: {hanzi: "美濃人講歸去，就係轉去；粄條，佢兜安做面帕粄。", pinyin: "miˊ nungˇ nginˇ gongˋ guiˊ hi, qiu he zonˋ hi; banˋ tiauˇ, giˇ deuˊ onˊ zo mien pa banˋ."}
     hl: {hanzi: "美濃人講歸去，就係轉去；粄條，佢兜安做面帕粄。", pinyin: "mi nung ngin gongˊ guiˋ hiˇ, ciu+ heˇ zhonˊ hiˇ; banˊ tiau, gi deuˋ onˋ zoˇ mienˇ paˇ banˊ."}
     check: true
   - n: 7

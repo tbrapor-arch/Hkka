@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿舅
     en: "(reading the programme) Next: Grandma Liu, from Miaoli!"
-    sx: {hanzi: "下一隻：苗栗來个劉阿婆！", pinyin: "ha idˋ zagˋ: meuˇ lidˋ loiˇ ge liuˇ aˊ poˇ!"}
-    hl: {hanzi: "下一隻：苗栗來个劉阿婆！", pinyin: "ha+ rhid zhag: miau lid loi gaiˇ liu a+ po!"}
+    sx: {hanzi: "下一隻：苗栗來个劉阿婆！", pinyin: "ha idˋ zagˋ: meuˇ lid loiˇ ge liuˇ aˊ poˇ!"}
+    hl: {hanzi: "下一隻：苗栗來个劉阿婆！", pinyin: "ha+ rhid zhag: miau lidˋ loi gaiˇ liu a+ po!"}
     check: true
   - n: 7
     speaker: 阿婆

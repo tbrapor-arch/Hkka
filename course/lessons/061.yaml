@@ -25,12 +25,12 @@ dialogue:
   - n: 3
     speaker: Sam
     en: "落水… Grandma in Miaoli says 落水 sometimes too. But I say 落雨."
-    sx: {hanzi: "落水……苗栗个阿婆有時節乜講落水。毋過𠊎講落雨。", pinyin: "log suiˋ … meuˇ lidˋ ge aˊ poˇ iuˊ siiˇ jiedˋ me gongˋ log suiˋ. mˇ go ngaiˇ gongˋ log iˋ."}
+    sx: {hanzi: "落水……苗栗个阿婆有時節乜講落水。毋過𠊎講落雨。", pinyin: "log suiˋ … meuˇ lid ge aˊ poˇ iuˊ siiˇ jiedˋ me gongˋ log suiˋ. mˇ go ngaiˇ gongˋ log iˋ."}
     hl: {hanzi: "落水……苗栗个阿婆有時節乜講落水。毋過𠊎講落雨。", pinyin: "logˋ shuiˊ … miau lidˋ gaiˇ a+ po rhiuˋ shi zied meˇ gongˊ logˋ shuiˊ. m goˇ ngai gongˊ logˋ rhiˊ."}
   - n: 4
     speaker: 阿傑
     en: "It's been stopping and starting since Thursday. Come on, let's go to 北埔 for 擂茶. Take an umbrella."
-    sx: {hanzi: "禮拜四到今，落啊落仔。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˊ bai xi do gimˊ, log a log eˋ. loiˇ, enˊ deuˊ hi bedˋ buˊ siid luiˇ caˇ. zaˊ eˋ kiaˇ denˋ."}
+    sx: {hanzi: "禮拜四到今，落啊落仔。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˊ bai xi do gimˊ, log a log eˋ. loiˇ, enˊ deuˊ hi bedˋ puˊ siid luiˇ caˇ. zaˊ eˋ kiaˇ denˋ."}
     hl: {hanzi: "禮拜四到今，落啊落仔。來，𫣆兜去北埔食擂茶。遮仔擎等。", pinyin: "liˋ baiˇ siˇ doˇ gimˋ, logˋ a+ logˋ er. loi, enˋ deuˋ hiˇ bed buˋ shidˋ lui ca. zhaˋ er kia denˊ."}
     check: true
   - n: 5
@@ -57,7 +57,7 @@ dialogue:
   - n: 9
     speaker: Sam
     en: "My grandma in Miaoli taught me."
-    sx: {hanzi: "苗栗个阿婆教𠊎个。", pinyin: "meuˇ lidˋ ge aˊ poˇ gauˊ ngaiˇ ge."}
+    sx: {hanzi: "苗栗个阿婆教𠊎个。", pinyin: "meuˇ lid ge aˊ poˇ gauˊ ngaiˇ ge."}
     hl: {hanzi: "苗栗个阿婆教𠊎个。", pinyin: "miau lidˋ gaiˇ a+ po gauˋ ngai gaiˇ."}
   - n: 10
     speaker: 阿傑

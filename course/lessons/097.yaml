@@ -19,8 +19,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "I remember. You said, 'Welcome to Miaoli!', and I said, 'Thank you, A-in!'"
-    sx: {hanzi: "𠊎記得。你講「歡迎來苗栗」，𠊎講「恁仔細，阿英」。", pinyin: "ngaiˇ gi dedˋ. nˇ gongˋ fonˊ ngiangˇ loiˇ meuˇ lidˋ, ngaiˇ gongˋ anˋ ziiˋ se, aˊ inˊ."}
-    hl: {hanzi: "𠊎記得。你講「歡迎來苗栗」，𠊎講「承蒙你，阿英」。", pinyin: "ngai giˇ ded. ngi gongˊ fonˋ ngiang loi miau lid, ngai gongˊ shin mung ngi, a+ rhinˋ."}
+    sx: {hanzi: "𠊎記得。你講「歡迎來苗栗」，𠊎講「恁仔細，阿英」。", pinyin: "ngaiˇ gi dedˋ. nˇ gongˋ fonˊ ngiangˇ loiˇ meuˇ lid, ngaiˇ gongˋ anˋ ziiˋ se, aˊ inˊ."}
+    hl: {hanzi: "𠊎記得。你講「歡迎來苗栗」，𠊎講「承蒙你，阿英」。", pinyin: "ngai giˇ ded. ngi gongˊ fonˋ ngiang loi miau lidˋ, ngai gongˊ shin mung ngi, a+ rhinˋ."}
   - n: 3
     speaker: 阿英
     en: "And then I said, 'You can speak Hakka!', and you said…"
@@ -76,8 +76,8 @@ dialogue:
   - n: 13
     speaker: Sam
     en: "I will. I'll keep in touch with you all, every week. Actually… before, I had never been to Miaoli; now I can't bear to leave."
-    sx: {hanzi: "𠊎會。𠊎會逐禮拜同你兜聯絡。其實……頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走。", pinyin: "ngaiˇ voi. ngaiˇ voi dagˋ liˊ bai tungˇ nˇ deuˊ lienˇ log. kiˇ siid … teuˇ baiˋ ngaiˇ mˇ siidˋ loiˇ go meuˇ lidˋ; iaˋ ha, ngaiˇ mˇ pan dedˋ zeuˋ."}
-    hl: {hanzi: "𠊎會。𠊎會逐禮拜摎你兜聯絡。其實……頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走。", pinyin: "ngai voi+. ngai voi+ dag liˋ baiˇ lauˋ ngi deuˋ lien logˋ. ki shidˋ … teu baiˊ ngai m shid loi goˇ miau lid; liaˊ ha+, ngai m panˇ ded zeuˊ."}
+    sx: {hanzi: "𠊎會。𠊎會逐禮拜同你兜聯絡。其實……頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走。", pinyin: "ngaiˇ voi. ngaiˇ voi dagˋ liˊ bai tungˇ nˇ deuˊ lienˇ log. kiˇ siid … teuˇ baiˋ ngaiˇ mˇ siidˋ loiˇ go meuˇ lid; iaˋ ha, ngaiˇ mˇ pan dedˋ zeuˋ."}
+    hl: {hanzi: "𠊎會。𠊎會逐禮拜摎你兜聯絡。其實……頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走。", pinyin: "ngai voi+. ngai voi+ dag liˋ baiˇ lauˋ ngi deuˋ lien logˋ. ki shidˋ … teu baiˊ ngai m shid loi goˇ miau lidˋ; liaˊ ha+, ngai m panˇ ded zeuˊ."}
   - n: 14
     speaker: 阿英
     en: "It's settled, then: next year, in spring, I'm coming to France. Wait for me at the station."

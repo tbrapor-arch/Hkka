@@ -13,7 +13,7 @@ dialogue:
   - n: 1
     speaker: 林師傅
     en: "Come and look. Umbrellas made of oiled paper are 美濃's most famous craft."
-    sx: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "iuˇ ziiˋ zo ge zaˊ eˋ he mi nungˇ qin iuˊ miangˇ ge suˋ gungˊ ngi."}
+    sx: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "iuˇ ziiˋ zo ge zaˊ eˋ he miˊ nungˇ qin iuˊ miangˇ ge suˋ gungˊ ngi."}
     hl: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "rhiu zhiˊ zoˇ gaiˇ zhaˋ er heˇ mi nung cin+ rhiuˋ miang gaiˇ shiuˊ gungˋ ngi+."}
     source: moe
   - n: 2
@@ -76,8 +76,8 @@ dialogue:
   - n: 13
     speaker: Sam
     en: "面帕粄… isn't it the same as Miaoli 粄條?"
-    sx: {hanzi: "面帕粄……毋係同苗栗个粄條共樣？", pinyin: "mien pa banˋ … mˇ he tungˇ meuˇ lidˋ ge banˋ tiauˇ kiung iong?"}
-    hl: {hanzi: "面帕粄……毋係摎苗栗个粄條共樣？", pinyin: "mienˇ paˇ banˊ … m heˇ lauˋ miau lid gaiˇ banˊ tiau kiung+ rhong+?"}
+    sx: {hanzi: "面帕粄……毋係同苗栗个粄條共樣？", pinyin: "mien pa banˋ … mˇ he tungˇ meuˇ lid ge banˋ tiauˇ kiung iong?"}
+    hl: {hanzi: "面帕粄……毋係摎苗栗个粄條共樣？", pinyin: "mienˇ paˇ banˊ … m heˇ lauˋ miau lidˋ gaiˇ banˊ tiau kiung+ rhong+?"}
   - n: 14
     speaker: 鍾伯
     en: "The same, yes. But ours tastes better!"

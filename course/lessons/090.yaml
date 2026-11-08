@@ -20,7 +20,7 @@ dialogue:
     speaker: 阿明
     en: "Sis! We're here! Here!"
     sx: {hanzi: "阿姊！𠊎兜在這！在這！", pinyin: "aˊ jiˋ! ngaiˇ deuˊ coiˊ iaˋ! coiˊ iaˋ!"}
-    hl: {hanzi: "阿姊！𠊎兜在這！在這！", pinyin: "a+ ziˊ! ngai deuˋ coiˋ liaˊ! coiˋ liaˊ!"}
+    hl: {hanzi: "阿姊！𠊎兜在這！在這！", pinyin: "a+ ze! ngai deuˋ coiˋ liaˊ! coiˋ liaˊ!"}
   - n: 3
     speaker: Sam
     en: "(holding the phone up high) Up here! I'm holding up a light: can you see it?"

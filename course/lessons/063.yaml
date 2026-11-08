@@ -39,7 +39,7 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "But when I get back to Miaoli, Grandma will say: what are you speaking?"
-    sx: {hanzi: "毋過轉到苗栗，阿婆會講：你講麼个話？", pinyin: "mˇ go zonˋ do meuˇ lidˋ, aˊ poˇ voi gongˋ: nˇ gongˋ maˋ ge fa?"}
+    sx: {hanzi: "毋過轉到苗栗，阿婆會講：你講麼个話？", pinyin: "mˇ go zonˋ do meuˇ lid, aˊ poˇ voi gongˋ: nˇ gongˋ maˋ ge fa?"}
     hl: {hanzi: "毋過轉到苗栗，阿婆會講：你講麼个話？", pinyin: "m goˇ zhonˊ doˇ miau lidˋ, a+ po voi+ gongˊ: ngi gongˊ maˊ gaiˇ faˇ?"}
   - n: 7
     speaker: 阿蘭嫂
@@ -64,7 +64,7 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "I did. Tomorrow I'll wait for you at Miaoli station."
-    sx: {hanzi: "看了。天光日𠊎在苗栗火車頭等你。", pinyin: "kon leˊ. tienˊ gongˊ ngidˋ ngaiˇ coiˊ meuˇ lidˋ foˋ caˊ teuˇ denˋ nˇ."}
+    sx: {hanzi: "看了。天光日𠊎在苗栗火車頭等你。", pinyin: "kon leˊ. tienˊ gongˊ ngidˋ ngaiˇ coiˊ meuˇ lid foˋ caˊ teuˇ denˋ nˇ."}
     hl: {hanzi: "看了。韶早𠊎在苗栗火車頭等你。", pinyin: "konˇ leˋ. shau zoˊ ngai coiˋ miau lidˋ foˊ chaˋ teu denˊ ngi."}
   - n: 12
     speaker: 阿英
@@ -133,7 +133,7 @@ exercises:
       sx: {hanzi: "工廠逐日五點就會開工，你會慣勢。", pinyin: "gungˊ congˋ dagˋ ngidˋ ngˋ diamˋ qiu voi koiˊ gungˊ, nˇ voi guan se."}
       hl: {hanzi: "工廠逐日五點就會開工，你會慣勢。", pinyin: "gungˋ chong dag ngid ngˊ diamˊ ciu+ voi+ koiˋ gungˋ, ngi voi+ guanˇ sheˇ."}
     - en: "Because it rained, (therefore) we went to 北埔 for 擂茶."
-      sx: {hanzi: "因為落雨，故所𫣆兜去北埔食擂茶。", pinyin: "inˊ vi log iˋ, gu soˋ enˊ deuˊ hi bedˋ buˊ siid luiˇ caˇ."}
+      sx: {hanzi: "因為落雨，故所𫣆兜去北埔食擂茶。", pinyin: "inˊ vi log iˋ, gu soˋ enˊ deuˊ hi bedˋ puˊ siid luiˇ caˇ."}
       hl: {hanzi: "因為落水，所以𫣆兜去北埔食擂茶。", pinyin: "rhinˋ vui+ logˋ shuiˊ, soˊ rhiˋ enˋ deuˋ hiˇ bed buˋ shidˋ lui ca."}
     - en: "Have a go at grinding it: slowly, until it's nice and fine."
       sx: {hanzi: "你試擂看仔：慢慢仔擂，擂到幼幼仔。", pinyin: "nˇ cii luiˇ kon eˋ: man man eˋ luiˇ, luiˇ do iu iu eˋ."}
@@ -143,7 +143,7 @@ exercises:
       hl: {hanzi: "阿婆得著第三名，有幾十萬人在電視看著佢。", pinyin: "a+ po ded doˊ ti+ samˋ miang, rhiuˋ giˊ shibˋ van+ ngin coiˋ tien+ shi+ konˇ doˊ gi."}
       check: true
     - en: "I miss Miaoli; I'm going home on Saturday."
-      sx: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngaiˇ dongˊ xiongˋ ngiam meuˇ lidˋ, liˊ bai liugˋ qiu zonˋ leˊ."}
+      sx: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngaiˇ dongˊ xiongˋ ngiam meuˇ lid, liˊ bai liugˋ qiu zonˋ leˊ."}
       hl: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngai dongˋ siongˊ ngiam+ miau lidˋ, liˋ baiˇ liug ciu+ zhonˊ leˋ."}
     - en: "Rice porridge with dried radish is easy to make and tasty."
       sx: {hanzi: "糜傍菜脯，好做又好食。", pinyin: "moiˇ bongˋ coi puˋ, hoˋ zo iu hoˋ siid."}

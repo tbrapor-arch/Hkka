@@ -151,8 +151,8 @@ new_words:
 exercises:
   translate:
     - en: "Whose poem is this? — A poet from Miaoli wrote it."
-      sx: {hanzi: "這首詩係麼人个？——苗栗一隻詩人寫个。", pinyin: "iaˋ suˋ siiˊ he maˋ nginˇ ge? — meuˇ lidˋ idˋ zagˋ siiˊ nginˇ xiaˋ ge."}
-      hl: {hanzi: "這首詩係麼人个？——苗栗一隻詩人寫个。", pinyin: "liaˊ shiuˊ shiˋ heˇ maˊ ngin gaiˇ? — miau lid rhid zhag shiˋ ngin siaˊ gaiˇ."}
+      sx: {hanzi: "這首詩係麼人个？——苗栗一隻詩人寫个。", pinyin: "iaˋ suˋ siiˊ he maˋ nginˇ ge? — meuˇ lid idˋ zagˋ siiˊ nginˇ xiaˋ ge."}
+      hl: {hanzi: "這首詩係麼人个？——苗栗一隻詩人寫个。", pinyin: "liaˊ shiuˊ shiˋ heˇ maˊ ngin gaiˇ? — miau lidˋ rhid zhag shiˋ ngin siaˊ gaiˇ."}
       check: true
     - en: "A-in copied the poem out in calligraphy."
       sx: {hanzi: "阿英用書法摎這首詩抄起來。", pinyin: "aˊ inˊ iung suˊ fabˋ lauˊ iaˋ suˋ siiˊ cauˊ hiˋ loiˇ."}
