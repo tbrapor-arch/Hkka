@@ -1,0 +1,249 @@
+id: 12
+genre: essay
+title:
+  en: People of the same ancestral hall
+  sx: {hanzi: 共公廳个人, pinyin: kiung gungˊ tangˊ ge nginˇ}
+review: false
+setting: Wednesday 20 September 2028. An essay by 鍾伯, the old man who runs a guesthouse with his wife in a 伙房 compound in
+  美濃 (lessons 71–76), printed in a Hakka magazine. A-in has posted Sam the cutting. 鍾伯 speaks southern Sixian; the course
+  reads his essay in standard Sixian.
+names: [鍾伯, 美濃, 臺灣]
+dialogue:
+- n: 1
+  en: People of the same ancestral hall. By 鍾伯.
+  sx: {hanzi: 共公廳个人。鍾伯。, pinyin: kiung gungˊ tangˊ ge nginˇ. zungˊ bagˋ.}
+- n: 2
+  en: I was born in 美濃, and I grew up in a 伙房 compound.
+  sx: {hanzi: 𠊎在美濃出世，在伙房屋大个。, pinyin: 'ngaiˇ coiˊ miˊ nungˇ cudˋ se, coiˊ foˋ fongˇ vugˋ tai ge.'}
+- n: 3
+  en: In the old days, a whole clan lived in one compound.
+  sx: {hanzi: 頭過，一個家族就歇在共一座伙房屋。, pinyin: 'teuˇ go, idˋ ge gaˊ cug qiu hed coiˊ kiung idˋ co foˋ fongˇ vugˋ.'}
+- n: 4
+  en: In the middle is the main house, and in the middle of the main house is the ancestral hall, where the ancestors are
+    worshipped.
+  sx: {hanzi: 中央係正身，正身中間係公廳，公廳肚拜祖先。, pinyin: 'dungˊ ongˊ he ziin siinˊ, ziin siinˊ zungˊ gienˊ he gungˊ tangˊ, gungˊ tangˊ
+      duˋ bai zuˋ xienˊ.'}
+- n: 5
+  en: On either side are the wings, where the cousins live.
+  sx: {hanzi: 兩片係橫屋，叔伯兄弟同叔伯姊妹都歇在橫屋。, pinyin: 'liongˋ pienˋ he vangˇ vugˋ, sugˋ bagˋ hiungˊ ti tungˇ sugˋ bagˋ jiˋ moi du
+      hed coiˊ vangˇ vugˋ.'}
+- n: 6
+  en: In front there's a yard. In the old days grain was dried there; in the evening the children played in it.
+  sx: {hanzi: 屋前有一隻禾埕。頭擺會在禾埕項晒穀，暗晡頭細人仔在該搞。, pinyin: 'vugˋ qienˇ iuˊ idˋ zagˋ voˇ tangˇ. teuˇ baiˋ voi coiˊ voˇ tangˇ hong
+      sai gugˋ, am buˊ teuˇ se nginˇ eˋ du ge gauˋ.'}
+- n: 7
+  en: Before building a house, you called in a geomancer to read the feng shui.
+  sx: {hanzi: 起屋進前，愛先請地理先生來看風水。, pinyin: 'hiˋ vugˋ jin qienˇ, oi xienˊ qiangˋ ti liˊ xinˊ sangˊ loiˇ kon fungˊ suiˋ.'}
+- n: 8
+  en: At New Year and the festivals, everyone came back to the hall to worship the ancestors.
+  sx: {hanzi: 過年過節，大家都轉來公廳拜祖先。, pinyin: 'go ngienˇ go jiedˋ, tai gaˊ du zonˋ loiˇ gungˊ tangˊ bai zuˋ xienˊ.'}
+- n: 9
+  en: Neighbours went in and out of each other's houses, and got on very well.
+  sx: {hanzi: 上家下屋有來有去，感情當好。, pinyin: 'song gaˊ haˊ vugˋ iuˊ loiˇ iuˊ hi, gamˋ qinˇ dongˊ hoˋ.'}
+  source: kaga115
+- n: 10
+  en: Towards evening, my grandfather would often go round to a neighbour's for a chat.
+  sx: {hanzi: 吾阿公臨暗仔輒輒去過家尞。, pinyin: ngaˊ aˊ gungˊ limˇ am eˋ jiab jiab hi go gaˊ liau.}
+- n: 11
+  en: Later, Taiwan's economy grew, and the young people went to the cities to earn money.
+  sx: {hanzi: 落尾，臺灣个經濟發展，後生人走去城市賺錢。, pinyin: 'labˋ miˊ, toiˇ vanˇ ge ginˊ ji fadˋ zanˋ, heu sangˊ nginˇ zeuˋ hi sangˇ sii
+      con qienˇ.'}
+- n: 12
+  en: In the city, getting about is easy; there's work, there are tower blocks, there's air conditioning.
+  sx: {hanzi: 城市交通利便，有工作，有大樓，有冷氣。, pinyin: 'sangˇ sii gauˊ tungˊ li pien, iuˊ gungˊ zogˋ, iuˊ tai leuˇ, iuˊ langˊ hi.'}
+- n: 13
+  en: The people in the compounds dwindled; some compounds have nobody living in them now.
+  sx: {hanzi: 伙房屋个人緊來緊少，有兜伙房屋這下無人歇吔。, pinyin: 'foˋ fongˇ vugˋ ge nginˇ ginˋ loiˇ ginˋ seuˋ, iuˊ deuˊ foˋ fongˇ vugˋ iaˋ
+      ha moˇ nginˇ hed leˊ.'}
+- n: 14
+  en: One by one the old people passed away; in the hall, only the ancestors are left.
+  sx: {hanzi: 老人家一個一個消忒，公廳肚淨有祖先。, pinyin: 'loˋ nginˇ gaˊ idˋ ge idˋ ge xiauˊ tedˋ, gungˊ tangˊ duˋ qiang iuˊ zuˋ xienˊ.'}
+- n: 15
+  en: Some compounds were pulled down, and tower blocks were built.
+  sx: {hanzi: 有兜伙房屋分人拆忒，起大樓。, pinyin: 'iuˊ deuˊ foˋ fongˇ vugˋ bunˊ nginˇ cagˋ tedˋ, hiˋ tai leuˇ.'}
+- n: 16
+  en: Tower blocks took the place of the compounds, and iron gates took the place of the yards.
+  sx: {hanzi: 大樓取代伙房屋，鐵門取代禾埕。, pinyin: 'tai leuˇ qiˋ toi foˋ fongˇ vugˋ, tiedˋ munˇ qiˋ toi voˇ tangˇ.'}
+- n: 17
+  en: Some say this has improved our lives. I don't know.
+  sx: {hanzi: 有人講，這係改善生活。𠊎毋知。, pinyin: 'iuˊ nginˇ gongˋ, iaˋ he goiˋ san senˊ fad. ngaiˇ mˇ diˊ.'}
+- n: 18
+  en: In a tower block, the neighbours don't know each other.
+  sx: {hanzi: 大樓肚个人，上家下屋毋相識。, pinyin: 'tai leuˇ duˋ ge nginˇ, song gaˊ haˊ vugˋ mˇ xiongˊ siidˋ.'}
+- n: 19
+  en: When I retired, my wife and I opened up rooms in our compound for guests.
+  sx: {hanzi: 𠊎退休過後，同餔娘在伙房屋開房間分人客歇。, pinyin: 'ngaiˇ tui hiuˊ go heu, tungˇ buˊ ngiongˇ coiˊ foˋ fongˇ vugˋ koiˊ fongˇ gienˊ
+      bunˊ nginˇ hagˋ hed.'}
+- n: 20
+  en: Guests come from far away, and I tell them the history of the 伙房.
+  sx: {hanzi: 遠遠个人客來歇，𠊎同佢兜講伙房个歷史。, pinyin: 'ienˋ ienˋ ge nginˇ hagˋ loiˇ hed, ngaiˇ tungˇ giˇ deuˊ gongˋ foˋ fongˇ ge lid
+      siiˋ.'}
+- n: 21
+  en: We don't earn much; breaking even is enough.
+  sx: {hanzi: 賺个錢無幾多，打平過就好。, pinyin: 'con ge qienˇ moˇ giˋ doˊ, daˋ piangˇ go qiu hoˋ.'}
+- n: 22
+  en: Last year a young Frenchman stayed with us and asked a lot of questions; he could speak Hakka too.
+  sx: {hanzi: 舊年有一隻法國後生人來歇，問當多問題，乜會講客話。, pinyin: 'kiu ngienˇ iuˊ idˋ zagˋ fabˋ guedˋ heu sangˊ nginˇ loiˇ hed, mun dongˊ
+      doˊ mun tiˇ, me voi gongˋ hagˋ fa.'}
+- n: 23
+  en: 'A compound has a great influence on a family: it teaches the children whose people they are.'
+  sx: {hanzi: 伙房屋對一個家族个影響當大，佢教細人仔知自家係麼人。, pinyin: 'foˋ fongˇ vugˋ dui idˋ ge gaˊ cug ge iangˋ hiongˋ dongˊ tai, giˇ gauˊ
+      se nginˇ eˋ diˊ cii gaˊ he maˋ nginˇ.'}
+  check: true
+- n: 24
+  en: People of the same ancestral hall, wherever they go, have the same roots in their hearts.
+  sx: {hanzi: 共公廳个人，毋管走到哪位，心肚都有共一條根。, pinyin: 'kiung gungˊ tangˊ ge nginˇ, mˇ gonˋ zeuˋ do nai vi, ximˊ duˋ du iuˊ kiung
+      idˋ tiauˇ ginˊ.'}
+  check: true
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    An essay. A 伙房 (lesson 71) or 伙房屋 foˋ fongˇ vugˋ is the courtyard house of a Hakka clan: a main house (正身) with the
+    ancestral hall, two wings (橫屋), and the yard (禾埕) in front. The title is a phrase from the official lists (中高級): 共公廳个人
+    "people of the same ancestral hall", that is, one clan (過年過節，共公廳个人會共下來拜阿公婆).
+- ref: 2
+  topic: vocab
+  text: >
+    出世 cudˋ se "be born" (佢係丁丑年出世个).
+- ref: 3
+  topic: vocab
+  text: >
+    家族 gaˊ cug "clan, extended family" (吾屋下係大家族，親戚當多). 共 kiung "the same": 共一座 "one and the same compound" (as in 共樣). 座
+    co counts buildings.
+- ref: 4
+  topic: vocab
+  text: >
+    正身 ziin siinˊ "the main house" of a 伙房 (a 高級 list word). 公廳 gungˊ tangˊ "ancestral hall" (過節愛去公廳拜祖先). 中央 (lesson 71),
+    中間 (lesson 83) "middle".
+- ref: 5
+  topic: vocab
+  text: >
+    橫屋 vangˇ vugˋ "the side wings" (MOE). 叔伯兄弟 "male cousins (sons of brothers)", like 叔伯姊妹 (進修 8).
+- ref: 6
+  topic: vocab
+  text: >
+    禾埕 "the yard in front of the house" (lesson 71), where rice was dried: the line quotes the official sentence 頭擺會在禾埕項晒穀.
+- ref: 7
+  topic: culture
+  text: >
+    起屋 hiˋ vugˋ "build a house". 地理先生 ti liˊ xinˊ sangˊ "geomancer" and 風水 fungˊ suiˋ "feng shui (also: a grave)": 請地理先生來看風水
+    is an official sentence.
+- ref: 9
+  topic: vocab
+  text: >
+    An official sentence (kaga115). 上家下屋 song gaˊ haˊ vugˋ "neighbours" (literally "the house above and the house below").
+    有來有去 "come and go to each other's".
+- ref: 10
+  topic: vocab
+  text: >
+    過家 go gaˊ "drop in on the neighbours": the official sentence is 阿公臨暗仔輒輒去過家尞.
+- ref: 11
+  topic: vocab
+  text: >
+    落尾 labˋ miˊ "later, afterwards" (note the reading labˋ). 經濟 ginˊ ji "economy". 城市 sangˇ sii "city". 發展 fadˋ zanˋ "develop,
+    grow" (佢在屏東，事業發展到十分好).
+- ref: 12
+  topic: vocab
+  text: >
+    交通 gauˊ tungˊ "transport, getting about". 工作 gungˊ zogˋ "work, a job" (MOE). 冷氣 langˊ hi "air conditioning".
+- ref: 13
+  topic: vocab
+  text: >
+    有兜 iuˊ deuˊ "some (of them)" (有兜動物無分性別).
+- ref: 14
+  topic: vocab
+  text: >
+    消忒 xiauˊ tedˋ "pass away", a softer word than 死.
+- ref: 16
+  topic: vocab
+  text: >
+    取代 qiˋ toi "replace, take the place of" (無人做得取代佢 "no one can replace him"). 鐵門 "iron gate".
+- ref: 17
+  topic: vocab
+  text: >
+    改善 goiˋ san "improve" (改善環境).
+- ref: 19
+  topic: vocab
+  text: >
+    退休 tui hiuˊ "retire". 開房間分人客歇 "let rooms to guests": the guesthouse Sam stayed at in lessons 71–76.
+- ref: 20
+  topic: vocab
+  text: >
+    歷史 "history" (lesson 73); the lists also have a borrowed lag saiˋ "someone's background".
+- ref: 21
+  topic: vocab
+  text: >
+    打平過 daˋ piangˇ go "break even" (這隻月無賺錢乜無了錢，打平過 "this month we made nothing and lost nothing: we broke even").
+- ref: 22
+  topic: culture
+  text: >
+    鍾伯 doesn't name him, but the young Frenchman is Sam, who stayed in 美濃 in May 2027 (lesson 71). 舊年 "last year".
+- ref: 23
+  topic: vocab
+  text: >
+    影響 iangˋ hiongˋ "influence, effect" (這擺風搓影響當大 "this typhoon had a big impact").
+- ref: 24
+  topic: grammar
+  text: >
+    毋管 mˇ gonˋ "no matter (where, what)" (毋管仰仔，你還係愛同𠊎𢯭手 "whatever happens, you still have to help me"). 根 "root" (進修 11).
+new_words:
+- {hanzi: 共公廳个人, pinyin: kiung gungˊ tangˊ ge nginˇ, en: 'people of the same ancestral hall, one clan'}
+- {hanzi: 出世, pinyin: cudˋ se, en: be born}
+- {hanzi: 伙房屋, pinyin: foˋ fongˇ vugˋ, en: Hakka clan courtyard house}
+- {hanzi: 家族, pinyin: gaˊ cug, en: 'clan, extended family'}
+- {hanzi: 座, pinyin: co, en: classifier for buildings}
+- {hanzi: 正身, pinyin: ziin siinˊ, en: main house (of a courtyard house)}
+- {hanzi: 公廳, pinyin: gungˊ tangˊ, en: ancestral hall}
+- {hanzi: 橫屋, pinyin: vangˇ vugˋ, en: side wing (of a courtyard house)}
+- {hanzi: 起屋, pinyin: hiˋ vugˋ, en: build a house}
+- {hanzi: 地理先生, pinyin: ti liˊ xinˊ sangˊ, en: geomancer}
+- {hanzi: 風水, pinyin: fungˊ suiˋ, en: feng shui; grave}
+- {hanzi: 上家下屋, pinyin: song gaˊ haˊ vugˋ, en: neighbours}
+- {hanzi: 過家, pinyin: go gaˊ, en: drop in on the neighbours}
+- {hanzi: 落尾, pinyin: labˋ miˊ, en: 'later, afterwards'}
+- {hanzi: 經濟, pinyin: ginˊ ji, en: economy}
+- {hanzi: 城市, pinyin: sangˇ sii, en: city}
+- {hanzi: 交通, pinyin: gauˊ tungˊ, en: 'transport, getting about'}
+- {hanzi: 工作, pinyin: gungˊ zogˋ, en: 'work, job'}
+- {hanzi: 冷氣, pinyin: langˊ hi, en: air conditioning}
+- {hanzi: 有兜, pinyin: iuˊ deuˊ, en: some}
+- {hanzi: 消忒, pinyin: xiauˊ tedˋ, en: pass away}
+- {hanzi: 取代, pinyin: qiˋ toi, en: 'replace, take the place of'}
+- {hanzi: 鐵門, pinyin: tiedˋ munˇ, en: iron gate}
+- {hanzi: 改善, pinyin: goiˋ san, en: improve}
+- {hanzi: 退休, pinyin: tui hiuˊ, en: retire}
+- {hanzi: 打平過, pinyin: daˋ piangˇ go, en: break even}
+- {hanzi: 影響, pinyin: iangˋ hiongˋ, en: 'influence, effect'}
+- {hanzi: 毋管, pinyin: mˇ gonˋ, en: 'no matter (what, where)'}
+- {hanzi: 共, pinyin: kiung, en: the same (共一…)}
+- {hanzi: 發展, pinyin: fadˋ zanˋ, en: 'develop, grow'}
+- {hanzi: 叔伯兄弟, pinyin: sugˋ bagˋ hiungˊ ti, en: male cousins (sons of brothers)}
+exercises:
+  translate:
+  - en: Neighbours went in and out of each other's houses.
+    sx: {hanzi: 上家下屋有來有去。, pinyin: song gaˊ haˊ vugˋ iuˊ loiˇ iuˊ hi.}
+  - en: Call in a geomancer to read the feng shui.
+    source: kaga115
+    sx: {hanzi: 請地理先生來看風水。, pinyin: qiangˋ ti liˊ xinˊ sangˊ loiˇ kon fungˊ suiˋ.}
+  - en: At festivals you must go to the ancestral hall and worship the ancestors.
+    source: kaga115
+    sx: {hanzi: 過節愛去公廳拜祖先。, pinyin: go jiedˋ oi hi gungˊ tangˊ bai zuˋ xienˊ.}
+  - en: No one can replace him.
+    source: kaga115
+    sx: {hanzi: 無人做得取代佢。, pinyin: moˇ nginˇ zo dedˋ qiˋ toi giˇ.}
+  - en: Running a guesthouse, breaking even is enough.
+    sx: {hanzi: 開房間分人客歇，打平過就好。, pinyin: 'koiˊ fongˇ gienˊ bunˊ nginˇ hagˋ hed, daˋ piangˇ go qiu hoˋ.'}
+  fill:
+  - en: I was born in 美濃.
+    sx: {hanzi: 𠊎在美濃___。, pinyin: ngaiˇ coiˊ miˊ nungˇ ___., answer_hanzi: 出世, answer: cudˋ se}
+  - en: Later, the young people went to the cities.
+    sx: {hanzi: ___，後生人走去城市。, pinyin: '___, heu sangˊ nginˇ zeuˋ hi sangˇ sii.', answer_hanzi: 落尾, answer: labˋ miˊ}
+  - en: In the city, getting about is easy.
+    sx: {hanzi: 城市___利便。, pinyin: sangˇ sii ___ li pien., answer_hanzi: 交通, answer: gauˊ tungˊ}
+  - en: Some compounds have nobody living in them.
+    sx: {hanzi: ___伙房屋無人歇。, pinyin: ___ foˋ fongˇ vugˋ moˇ nginˇ hed., answer_hanzi: 有兜, answer: iuˊ deuˊ}
+  - en: When I retired, I opened up rooms for guests.
+    sx: {hanzi: 𠊎___過後，開房間分人客歇。, pinyin: 'ngaiˇ ___ go heu, koiˊ fongˇ gienˊ bunˊ nginˇ hagˋ hed.', answer_hanzi: 退休, answer: tui
+        hiuˊ}
+audio: []
