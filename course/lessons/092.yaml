@@ -1,0 +1,248 @@
+id: 92
+title:
+  en: "Mid-Autumn sayings"
+  sx: {hanzi: "三十暗晡个飯甑", pinyin: "samˊ siib am buˊ ge fan zen"}
+  hl: {hanzi: "三十暗晡个飯甑", pinyin: "samˋ shibˋ amˇ buˋ gaiˇ pon+ zenˇ"}
+review: false
+setting: >-
+  Wednesday 15 September, the Mid-Autumn festival (八月半). The whole family is out on the threshing floor after
+  dinner, A-min's ankle long healed, a pile of pomelos on the low table and the moon coming up over the tea hills.
+  It is cool at last. A-min has an idea.
+names: [財伯姆, 南庄]
+
+dialogue:
+  - n: 1
+    speaker: 阿姆
+    en: "It's the fifteenth of the eighth month tonight, no wonder the moon is so big and round. Come and have some pomelo, everyone!"
+    sx: {hanzi: "今暗晡係八月半，難怪月光又大又圓。大家來食柚仔！", pinyin: "gimˊ am buˊ he badˋ ngied ban, nanˇ guai ngied gongˊ iu tai iu ienˇ. tai gaˊ loiˇ siid iu eˋ!"}
+    hl: {hanzi: "今暗晡係八月半，難怪月光又大又圓。大家來食柚仔！", pinyin: "gimˋ amˇ buˋ heˇ bad ngiedˋ banˇ, nan guaiˇ ngiedˋ gongˋ rhiu+ tai+ rhiu+ rhan. tai+ gaˋ loi shidˋ rhiu+ er!"}
+  - n: 2
+    speaker: Sam
+    en: "Grandma, how do you eat a pomelo?"
+    sx: {hanzi: "伯婆，柚仔愛仰般食？", pinyin: "bagˋ poˇ, iu eˋ oi ngiongˋ banˊ siid?"}
+    hl: {hanzi: "伯婆，柚仔愛仰般食？", pinyin: "bag po, rhiu+ er oiˇ ngiongˊ banˋ shidˋ?"}
+  - n: 3
+    speaker: 阿婆
+    en: "First you cut it open, then you peel off the skin. Here, have a go."
+    sx: {hanzi: "先㓾開，再剝皮。來，你試看啊。", pinyin: "xienˊ ciiˇ koiˊ, zai bogˋ piˇ. loiˇ, nˇ cii kon a."}
+    hl: {hanzi: "先㓾開，再剝皮。來，你試看啊。", pinyin: "senˋ chi koiˋ, zaiˇ bog pi. loi, ngi chiˇ konˇ a+."}
+  - n: 4
+    speaker: 阿明
+    en: "Grandpa, Grandma, tonight you two have a 師傅話 contest. All right?"
+    sx: {hanzi: "阿公、阿婆，今暗晡你兜來比賽師傅話，好無？", pinyin: "aˊ gungˊ, aˊ poˇ, gimˊ am buˊ nˇ deuˊ loiˇ biˋ soi siiˊ fu fa, hoˋ moˇ?"}
+    hl: {hanzi: "阿公、阿婆，今暗晡你兜來比賽師傅話，好無？", pinyin: "a+ gungˋ, a+ po, gimˋ amˇ buˋ ngi deuˋ loi biˊ soiˇ siiˋ fu+ faˇ, hoˊ mo?"}
+  - n: 5
+    speaker: 阿公
+    en: "All right."
+    sx: {hanzi: "好。", pinyin: "hoˋ."}
+    hl: {hanzi: "好。", pinyin: "hoˊ."}
+  - n: 6
+    speaker: 阿婆
+    en: "Me first. 'Carrying water in a vegetable basket…'"
+    sx: {hanzi: "𠊎先：菜籃㧡水……", pinyin: "ngaiˇ xienˊ: coi lamˇ kaiˊ suiˋ …"}
+    hl: {hanzi: "𠊎先：菜籃㧡水……", pinyin: "ngai senˋ: coiˇ lam kaiˋ shuiˊ …"}
+  - n: 7
+    speaker: 阿公
+    en: "'…wasted effort.'"
+    sx: {hanzi: "無採工。", pinyin: "moˇ caiˋ gungˊ."}
+    hl: {hanzi: "無採工。", pinyin: "mo caiˊ gungˋ."}
+  - n: 8
+    speaker: 阿婆
+    en: "'The rice bucket on New Year's Eve…'"
+    sx: {hanzi: "三十暗晡个飯甑……", pinyin: "samˊ siib am buˊ ge fan zen …"}
+    hl: {hanzi: "三十暗晡个飯甑……", pinyin: "samˋ shibˋ amˇ buˋ gaiˇ pon+ zenˇ …"}
+  - n: 9
+    speaker: 阿公
+    en: "'…never has a moment's rest.'"
+    sx: {hanzi: "無閒。", pinyin: "moˇ hanˇ."}
+    hl: {hanzi: "無閒。", pinyin: "mo han."}
+  - n: 10
+    speaker: Sam
+    en: "Why is a rice bucket busy?"
+    sx: {hanzi: "飯甑做麼个會無閒？", pinyin: "fan zen zo maˋ ge voi moˇ hanˇ?"}
+    hl: {hanzi: "飯甑做麼个會無閒？", pinyin: "pon+ zenˇ zoˇ maˊ gaiˇ voi+ mo han?"}
+  - n: 11
+    speaker: 阿英
+    en: "On New Year's Eve the whole family eats at home, and the rice bucket is filled and emptied all evening. It's me at work these days."
+    sx: {hanzi: "三十暗晡大家都在屋下食飯，飯甑一暗晡都無閒。就像𠊎這下做事。", pinyin: "samˊ siib am buˊ tai gaˊ du coiˊ vugˋ kaˊ siid fan, fan zen idˋ am buˊ du moˇ hanˇ. qiu qiong ngaiˇ iaˋ ha zo se."}
+    hl: {hanzi: "三十暗晡大家都在屋下食飯，飯甑一暗晡都無閒。就像𠊎這下做事。", pinyin: "samˋ shibˋ amˇ buˋ tai+ gaˋ du+ coiˋ vug haˋ shidˋ pon+, pon+ zenˇ rhid amˇ buˋ du+ mo han. ciu+ ciongˇ ngai liaˊ ha+ zoˇ she+."}
+    check: true
+  - n: 12
+    speaker: 阿婆
+    en: "(to A-min) And you, going up to 南庄 like that: 'a duck in the seventh month', no idea of danger!"
+    sx: {hanzi: "你同 Sam 去南庄，就像七月半个鴨仔：毋知死！", pinyin: "nˇ tungˇ Sam hi namˇ zongˊ, qiu qiong qidˋ ngied ban ge abˋ eˇ: mˇ diˊ xiˋ!"}
+    hl: {hanzi: "你摎 Sam 去南庄，就像七月半个鴨仔：毋知死！", pinyin: "ngi lauˋ Sam hiˇ nam zhongˋ, ciu+ ciongˇ cid ngiedˋ banˇ gaiˇ ab er: m diˋ siˊ!"}
+  - n: 13
+    speaker: 阿公
+    en: "My turn. 'Sugar cane in the twelfth month…'"
+    sx: {hanzi: "輪著𠊎了：十二月甘蔗……", pinyin: "linˊ doˋ ngaiˇ leˊ: siib ngi ngied gamˊ za …"}
+    hl: {hanzi: "輪著𠊎了：十二月甘蔗……", pinyin: "linˋ doˊ ngai leˋ: shibˋ ngi+ ngiedˋ gamˋ zhaˇ …"}
+    check: true
+  - n: 14
+    speaker: 阿婆
+    en: "'…sweet at every joint.' (pretending to be cross) Why are you buttering me up tonight?"
+    sx: {hanzi: "目目甜。你今暗晡做麼个恁會阿𧩣人？", pinyin: "mugˋ mugˋ tiamˇ. nˇ gimˊ am buˊ zo maˋ ge anˋ voi oˊ noˋ nginˇ?"}
+    hl: {hanzi: "目目甜。你今暗晡做麼个恁會安𧩣人？", pinyin: "mug mug tiam. ngi gimˋ amˇ buˋ zoˇ maˊ gaiˇ anˊ voi+ onˋ noˊ ngin?"}
+  - n: 15
+    speaker: 阿明
+    en: "Sam's turn!"
+    sx: {hanzi: "換 Sam！", pinyin: "von Sam!"}
+    hl: {hanzi: "換 Sam！", pinyin: "von+ Sam!"}
+  - n: 16
+    speaker: Sam
+    en: "I know one. 'A nose with three nostrils…'"
+    sx: {hanzi: "𠊎識一句：三隻鼻公空……", pinyin: "ngaiˇ siidˋ idˋ gi: samˊ zagˋ pi gungˊ kungˊ …"}
+    hl: {hanzi: "𠊎識一句：三隻鼻空……", pinyin: "ngai shid rhid giˇ: samˋ zhag pi+ kungˋ …"}
+  - n: 17
+    speaker: 阿婆
+    en: "(with a glance at the neighbours' house) '…poking into other people's business!'"
+    sx: {hanzi: "閒管！", pinyin: "hanˇ gonˋ!"}
+    hl: {hanzi: "閒管！", pinyin: "han gonˊ!"}
+  - n: 18
+    speaker: 阿英
+    en: "If 財伯姆 heard that…"
+    sx: {hanzi: "若係財伯姆聽著……", pinyin: "na he coiˇ bagˋ meˊ tangˊ doˋ …"}
+    hl: {hanzi: "若係財伯姆聽著……", pinyin: "na+ heˇ coi bag meˋ tangˋ doˊ …"}
+  - n: 19
+    speaker: 阿公
+    en: "'A felt hat on your knee…' (nobody knows it) '…no face, no eyes: shameless.' I win."
+    sx: {hanzi: "膝頭戴氈帽……無面無目。𠊎贏了。", pinyin: "qidˋ teuˇ dai zamˊ mo … moˇ mien moˇ mugˋ. ngaiˇ iangˇ leˊ."}
+    hl: {hanzi: "膝頭戴氈帽……無面無目。𠊎贏了。", pinyin: "cid teu daiˇ zhanˋ mo+ … mo mienˇ mo mug. ngai rhang leˋ."}
+  - n: 20
+    speaker: 阿明
+    en: "(looking up) Grandma, is there a rabbit on the moon?"
+    sx: {hanzi: "阿婆，月光項有兔仔無？", pinyin: "aˊ poˇ, ngied gongˊ hong iuˊ tu eˋ moˇ?"}
+    hl: {hanzi: "阿婆，月光項有兔仔無？", pinyin: "a+ po, ngiedˋ gongˋ hong+ rhiuˋ tuˇ er mo?"}
+  - n: 21
+    speaker: 阿婆
+    en: "There is. 嫦娥 and her rabbit. Look!"
+    sx: {hanzi: "有。嫦娥同兔仔。你看！", pinyin: "iuˊ. songˇ ngoˇ tungˇ tu eˋ. nˇ kon!"}
+    hl: {hanzi: "有。嫦娥摎兔仔。你看！", pinyin: "rhiuˋ. shong ngo lauˋ tuˇ er. ngi konˇ!"}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      八月半 badˋ ngied ban "the fifteenth of the eighth month", the Hakka name of the Mid-Autumn festival. The official
+      examples: 八月半對𫣆俚來講，係歸家人共下賞月、食月餅个團圓日 "for us, 八月半 is the day the whole family is together,
+      looks at the moon and eats mooncakes", and, a little sadly, 現代人過八月半就湊伴炙肉，結果大家就無看著月光 "people
+      today spend it barbecuing together, and nobody looks at the moon". 難怪 "no wonder": 今晡日係月半，難怪月光又大又圓
+      is almost line 1 (official). 月光 ngied gongˊ is the moon itself (lesson 81 had it in the poem's sense of "moonlight").
+  - ref: 2
+    topic: grammar
+    text: >
+      伯婆 is Sam's word for Grandma when he speaks to her directly, as 伯姆 is for Mrs Liu (lesson 2): he is a guest, not
+      a grandson. 仰般食 "how do you eat it": 仰般 "how" (lesson 15).
+  - ref: 3
+    topic: vocab
+    text: >
+      㓾 ciiˇ "cut open" (fruit; also "slaughter"): 㓾柚仔 is the official example. 剝皮 "peel (off the skin)": 剝 bogˋ;
+      食柚仔愛剝皮 (official). 柚仔 iu eˋ "pomelo"; the big Mid-Autumn pomelo of 麻豆 is 文旦 (exercise).
+  - ref: 4
+    topic: culture
+    text: >
+      師傅話 (lesson 44): the first half is said, the listener supplies the second. All the sayings in this lesson are
+      in the dictionary as 歇後語, with official example sentences: 斯像菜籃㧡水－－無採工, 𠊎近來就像三十暗晡个飯甑－－無閒,
+      莫三隻鼻公空－閒管, 十二月甘蔗－目目甜 (or 兩頭甜), 七月半个鴨仔 "不知死活", and 有一句師父話講：膝頭戴氈帽，無面無目.
+  - ref: 7
+    topic: vocab
+    text: >
+      無採工 moˇ caiˋ gungˊ "wasted effort, all for nothing" (water runs out through the basket). It stands alone too:
+      學到半桶水就無採工吔 "learn it only halfway and it's all for nothing" (official).
+  - ref: 11
+    topic: grammar
+    text: >
+      飯甑 fan zen "the wooden rice steamer" (Hailu pon+ zenˇ): on New Year's Eve it never stops. A-in explains a saying
+      the way Hakka speakers do, by spelling out the picture. The official example applies it to oneself: 𠊎近來就像三十暗晡
+      个飯甑－－無閒，故所無辦法跈你共下去旅行 "I'm as busy as the New Year's Eve rice steamer these days, so I can't
+      come travelling with you". 一暗晡 "all evening".
+  - ref: 12
+    topic: culture
+    text: >
+      七月半个鴨仔 "a duck in the seventh month" (毋知死 "doesn't know it's going to die"): ducks are killed for the
+      festival of the seventh month, and the duck has no idea. The official example: 講等毋好去，你偏偏愛去，就像七月半个
+      鴨仔－毋知死 "we told you not to go, and you went anyway". Grandma has waited three weeks to say it (lesson 90).
+  - ref: 13
+    topic: grammar
+    text: >
+      輪著𠊎了 "it's my turn": 輪 linˊ "turn, take turns" + 著 "(it) reaches". The word is a false friend (Mandarin 輪 is a
+      wheel); the phrase is not in the examples, hence the check. 換 Sam (line 15) "Sam's turn": 換 "change" (lesson 46).
+  - ref: 14
+    topic: vocab
+    text: >
+      阿𧩣 oˊ noˋ "praise, flatter" (Hailu 安𧩣 onˋ noˊ): 佢盡會阿𧩣人，講話像十二月甘蔗－目目甜 "he's very good at buttering
+      people up; his words are as sweet as sugar cane in the twelfth month" (official; 盡 "very"). 目 here is a joint of
+      the cane: sweet at every one.
+  - ref: 16
+    topic: hailu
+    text: >
+      Sixian 鼻公空 "nostril", Hailu 鼻空 (the Hailu official sentence has 三隻鼻空笐－閒管, with a character the word lists
+      don't give a reading for). 閒管 hanˇ gonˋ "meddle": 閒 "idle" (lesson 16's 有閒) + 管 "mind" (lesson 41).
+  - ref: 19
+    topic: vocab
+    text: >
+      膝頭戴氈帽 "a felt hat on your knee": a knee has no face and no eyes, 無面無目 "shameless, with no sense of shame"
+      (dictionary: 不講情面，沒有羞恥). Grandpa wins with the one nobody knows. 氈帽 zamˊ mo "felt hat".
+  - ref: 21
+    topic: culture
+    text: >
+      嫦娥 songˇ ngoˇ, who flew to the moon (the dictionary entry tells the story); the rabbit on the moon is general
+      knowledge, not in the data.
+
+new_words:
+  - {hanzi: 八月半, pinyin: "badˋ ngied ban", en: "Mid-Autumn festival (15th of the 8th month)", hl: {hanzi: 八月半, pinyin: "bad ngiedˋ banˇ"}}
+  - {hanzi: 難怪, pinyin: "nanˇ guai", en: "no wonder", hl: {hanzi: 難怪, pinyin: "nan guaiˇ"}}
+  - {hanzi: 月光, pinyin: "ngied gongˊ", en: "the moon", hl: {hanzi: 月光, pinyin: "ngiedˋ gongˋ"}}
+  - {hanzi: 柚仔, pinyin: "iu eˋ", en: "pomelo", hl: {hanzi: 柚仔, pinyin: "rhiu+ er"}}
+  - {hanzi: 㓾, pinyin: "ciiˇ", en: "cut open (fruit); slaughter", hl: {hanzi: 㓾, pinyin: "chi"}}
+  - {hanzi: 剝, pinyin: "bogˋ", en: "peel", hl: {hanzi: 剝, pinyin: "bog"}}
+  - {hanzi: 菜籃㧡水, pinyin: "coi lamˇ kaiˊ suiˋ", en: "carry water in a basket (wasted effort)", hl: {hanzi: 菜籃㧡水, pinyin: "coiˇ lam kaiˋ shuiˊ"}}
+  - {hanzi: 無採工, pinyin: "moˇ caiˋ gungˊ", en: "wasted effort, all for nothing", hl: {hanzi: 無採工, pinyin: "mo caiˊ gungˋ"}}
+  - {hanzi: 三十暗晡, pinyin: "samˊ siib am buˊ", en: "New Year's Eve (night)", hl: {hanzi: 三十暗晡, pinyin: "samˋ shibˋ amˇ buˋ"}}
+  - {hanzi: 飯甑, pinyin: "fan zen", en: "wooden rice steamer", hl: {hanzi: 飯甑, pinyin: "pon+ zenˇ"}}
+  - {hanzi: 閒, pinyin: "hanˇ", en: "idle, free", hl: {hanzi: 閒, pinyin: "han"}}
+  - {hanzi: 鴨仔, pinyin: "abˋ eˇ", en: "duck", hl: {hanzi: 鴨仔, pinyin: "ab er"}}
+  - {hanzi: 毋知死, pinyin: "mˇ diˊ xiˋ", en: "reckless (not knowing the danger)", hl: {hanzi: 毋知死, pinyin: "m diˋ siˊ"}}
+  - {hanzi: 輪, pinyin: "linˊ", en: "turn, take turns", hl: {hanzi: 輪, pinyin: "linˋ"}}
+  - {hanzi: 目, pinyin: "mugˋ", en: "joint (of cane, bamboo); eye (in compounds)", hl: {hanzi: 目, pinyin: "mug"}}
+  - {hanzi: 甘蔗, pinyin: "gamˊ za", en: "sugar cane", hl: {hanzi: 甘蔗, pinyin: "gamˋ zhaˇ"}}
+  - {hanzi: 阿𧩣, pinyin: "oˊ noˋ", en: "praise, flatter", hl: {hanzi: 安𧩣, pinyin: "onˋ noˊ"}}
+  - {hanzi: 氈帽, pinyin: "zamˊ mo", en: "felt hat", hl: {hanzi: 氈帽, pinyin: "zhanˋ mo+"}}
+  - {hanzi: 無面無目, pinyin: "moˇ mien moˇ mugˋ", en: "shameless", hl: {hanzi: 無面無目, pinyin: "mo mienˇ mo mug"}}
+  - {hanzi: 嫦娥, pinyin: "songˇ ngoˇ", en: "Chang'e (the moon lady)", hl: {hanzi: 嫦娥, pinyin: "shong ngo"}}
+  - {hanzi: 兔仔, pinyin: "tu eˋ", en: "rabbit", hl: {hanzi: 兔仔, pinyin: "tuˇ er"}}
+  - {hanzi: 文旦, pinyin: "vunˇ dan", en: "wendan pomelo", hl: {hanzi: 文旦, pinyin: "vun danˇ"}}
+  - {hanzi: 涼爽, pinyin: "liongˇ songˋ", en: "pleasantly cool", hl: {hanzi: 涼爽, pinyin: "liong songˊ"}}
+  - {hanzi: 現代, pinyin: "hien toi", en: "modern, today", hl: {hanzi: 現代, pinyin: "hien+ toi+"}}
+  - {hanzi: 結果, pinyin: "giedˋ goˋ", en: "in the end, as a result", hl: {hanzi: 結果, pinyin: "gied goˊ"}}
+
+exercises:
+  translate:
+    - en: "People today eat and chat at Mid-Autumn, and in the end nobody looks at the moon."
+      sx: {hanzi: "現代人過八月半淨食淨講，結果大家都無看月光。", pinyin: "hien toi nginˇ go badˋ ngied ban qiang siid qiang gongˋ, giedˋ goˋ tai gaˊ du moˇ kon ngied gongˊ."}
+      hl: {hanzi: "現代人過八月半淨食淨講，結果大家都無看月光。", pinyin: "hien+ toi+ ngin goˇ bad ngiedˋ banˇ ciang+ shidˋ ciang+ gongˊ, gied goˊ tai+ gaˋ du+ mo konˇ ngiedˋ gongˋ."}
+      check: true
+    - en: "You learn it only halfway? Then it's all for nothing."
+      sx: {hanzi: "你學到一半就毋學？恁樣就無採工。", pinyin: "nˇ hog do idˋ ban qiu mˇ hog? anˋ ngiongˇ qiu moˇ caiˋ gungˊ."}
+      hl: {hanzi: "你學到一半就毋學？恁樣就無採工。", pinyin: "ngi hogˋ doˇ rhid banˇ ciu+ m hogˋ? an ngiong ciu+ mo caiˊ gungˋ."}
+    - en: "Tonight it's pleasantly cool. Shall we eat a wendan pomelo?"
+      sx: {hanzi: "今暗晡當涼爽。𫣆兜食一粒文旦好無？", pinyin: "gimˊ am buˊ dongˊ liongˇ songˋ. enˊ deuˊ siid idˋ liab vunˇ dan hoˋ moˇ?"}
+      hl: {hanzi: "今暗晡當涼爽。𫣆兜食一粒文旦好無？", pinyin: "gimˋ amˇ buˋ dongˋ liong songˊ. enˋ deuˋ shidˋ rhid liabˋ vun danˇ hoˊ mo?"}
+    - en: "Don't meddle: it's none of your business."
+      sx: {hanzi: "這毋係若事，莫三隻鼻公空：閒管。", pinyin: "iaˋ mˇ he ngiaˊ sii, mog samˊ zagˋ pi gungˊ kungˊ: hanˇ gonˋ."}
+      hl: {hanzi: "這毋係若个事，莫三隻鼻空：閒管。", pinyin: "liaˊ m heˇ ngia gaiˇ sii+, mogˋ samˋ zhag pi+ kungˋ: han gonˊ."}
+    - en: "He's very good at flattering people; his words are as sweet as sugar cane in the twelfth month."
+      sx: {hanzi: "佢盡會阿𧩣人，講話像十二月甘蔗：目目甜。", pinyin: "giˇ qin voi oˊ noˋ nginˇ, gongˋ fa qiong siib ngi ngied gamˊ za: mugˋ mugˋ tiamˇ."}
+      hl: {hanzi: "佢盡會安𧩣人，講話像十二月甘蔗，目目甜。", pinyin: "gi cin+ voi+ onˋ noˊ ngin, gongˊ faˇ ciongˇ shibˋ ngi+ ngiedˋ gamˋ zhaˇ, mug mug tiam."}
+  fill:
+    - en: "It's my turn."
+      sx: {hanzi: "___著𠊎了。", pinyin: "___ doˋ ngaiˇ leˊ.", answer_hanzi: "輪", answer: "linˊ"}
+      hl: {hanzi: "___著𠊎了。", pinyin: "___ doˊ ngai leˋ.", answer_hanzi: "輪", answer: "linˋ"}
+    - en: "Carrying water in a vegetable basket: wasted effort."
+      sx: {hanzi: "菜籃㧡水：___。", pinyin: "coi lamˇ kaiˊ suiˋ: ___.", answer_hanzi: "無採工", answer: "moˇ caiˋ gungˊ"}
+      hl: {hanzi: "菜籃㧡水：___。", pinyin: "coiˇ lam kaiˋ shuiˊ: ___.", answer_hanzi: "無採工", answer: "mo caiˊ gungˋ"}
+    - en: "No wonder it's so cold!"
+      sx: {hanzi: "___恁寒！", pinyin: "___ anˋ honˇ!", answer_hanzi: "難怪", answer: "nanˇ guai"}
+      hl: {hanzi: "___恁冷！", pinyin: "___ anˊ langˋ!", answer_hanzi: "難怪", answer: "nan guaiˇ"}
+
+audio: []
