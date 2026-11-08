@@ -1,0 +1,204 @@
+id: 85
+title:
+  en: "The Hakka museum"
+  sx: {hanzi: "客家人个原鄉", pinyin: "hagˋ gaˊ nginˇ ge ngienˇ hiongˊ"}
+  hl: {hanzi: "客家人个原鄉", pinyin: "hag gaˋ ngin gaiˇ ngien hiongˋ"}
+review: false
+setting: >-
+  Saturday 3 July, the first weekend of the summer holidays. A-in drives Sam and A-min to the Hakka cultural park in
+  銅鑼, twenty minutes from home. It is hot outside and cool inside, and the first hall is a long wall of old photos,
+  maps and boards of text.
+names: [銅鑼, 客家文化園區, 乾隆, 廣東, 陸豐, 海豐, 竹東, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Summer holidays at last! Sam, today we're going to visit the Hakka cultural park."
+    sx: {hanzi: "放暑假了！Sam，今晡日𫣆兜去參觀客家文化園區。", pinyin: "biong cuˋ gaˋ leˊ! Sam, gimˊ buˊ ngidˋ enˊ deuˊ hi camˊ gonˊ hagˋ gaˊ vunˇ fa ienˇ kiˊ."}
+    hl: {hanzi: "放暑假了！Sam，今晡日𫣆兜去參觀客家文化園區。", pinyin: "biongˇ chuˊ gaˊ leˋ! Sam, gimˋ buˋ ngid enˋ deuˋ hiˇ camˋ gonˋ hag gaˋ vun faˇ rhan kiˋ."}
+  - n: 2
+    speaker: 阿英
+    en: "It's in 銅鑼, twenty minutes by car. They often put on exhibitions."
+    sx: {hanzi: "在銅鑼，坐車二十分鐘就到。客家文化園區輒輒舉辦展覽活動！", pinyin: "coiˊ tungˇ loˇ, coˊ caˊ ngi siib funˊ zungˊ qiu do. hagˋ gaˊ vunˇ fa ienˇ kiˊ jiab jiab giˋ pan zanˋ lam fad tung!"}
+    hl: {hanzi: "在銅鑼，坐車二十分鐘就到。客家文化園區輒輒舉辦展覽活動！", pinyin: "coiˋ tung lo, coˋ chaˋ ngi+ shibˋ funˋ zhungˋ ciu+ doˇ. hag gaˋ vun faˇ rhan kiˋ ziabˋ ziabˋ giˊ pan+ zhanˊ lamˇ fadˋ tung+!"}
+  - n: 3
+    speaker: Sam
+    en: "(reading the first board aloud) 'In the old days, most Hakka people came to Taiwan from 唐山.' Where is 唐山?"
+    sx: {hanzi: "「頭擺客家人大部分都係從唐山來臺灣。」唐山係哪位？", pinyin: "teuˇ baiˋ hagˋ gaˊ nginˇ tai pu fun du he qiungˇ tongˇ sanˊ loiˇ toiˇ vanˊ. tongˇ sanˊ he nai vi?"}
+    hl: {hanzi: "「頭擺客家人大部分都係從唐山來臺灣。」唐山係哪位？", pinyin: "teu baiˊ hag gaˋ ngin tai+ pu+ fun+ du+ heˇ ciung tong sanˋ loi toi van. tong sanˋ heˇ nai+ vui+?"}
+  - n: 4
+    speaker: 阿英
+    en: "唐山 is the mainland. You can say 長山 too. It's where the Hakka people's ancestors came from: their 原鄉."
+    sx: {hanzi: "唐山就係大陸，講長山乜做得。係客家人个原鄉。", pinyin: "tongˇ sanˊ qiu he tai liug, gongˋ congˇ sanˊ me zo dedˋ. he hagˋ gaˊ nginˇ ge ngienˇ hiongˊ."}
+    hl: {hanzi: "唐山就係大陸，講長山乜做得。係客家人个原鄉。", pinyin: "tong sanˋ ciu+ heˇ tai+ liugˋ, gongˊ chong sanˋ meˇ zoˇ ded. heˇ hag gaˋ ngin gaiˇ ngien hiongˋ."}
+  - n: 5
+    speaker: Sam
+    en: "原鄉? And where's your family's 原鄉?"
+    sx: {hanzi: "原鄉？你屋下个原鄉在哪位？", pinyin: "ngienˇ hiongˊ? nˇ vugˋ kaˊ ge ngienˇ hiongˊ coiˊ nai vi?"}
+    hl: {hanzi: "原鄉？你屋下个原鄉在哪位？", pinyin: "ngien hiongˋ? ngi vug haˋ gaiˇ ngien hiongˋ coiˋ nai+ vui+?"}
+  - n: 6
+    speaker: 阿英
+    en: "According to our family register, our ancestors came from 廣東. They crossed the sea by boat to Taiwan."
+    sx: {hanzi: "根據族譜个記載，𠊎兜个祖公在廣東，坐船渡海來臺灣。", pinyin: "ginˊ giˋ cug puˋ ge gi zai, ngaiˇ deuˊ ge zuˋ gungˊ coiˊ gongˋ dungˊ, coˊ sonˇ tu hoiˋ loiˇ toiˇ vanˊ."}
+    hl: {hanzi: "根據族譜个記載，𠊎兜个祖公在廣東，坐船渡海來臺灣。", pinyin: "ginˋ giˊ cugˋ puˊ gaiˇ giˇ zaiˇ, ngai deuˋ gaiˇ zuˊ gungˋ coiˋ gongˊ dungˋ, coˋ shon tu+ hoiˊ loi toi van."}
+    check: true
+  - n: 7
+    speaker: 阿明
+    en: "By boat? Of course, there were no planes in those days!"
+    sx: {hanzi: "坐船？頭擺無飛行機哦！", pinyin: "coˊ sonˇ? teuˇ baiˋ moˇ biˊ hangˇ giˊ oˊ!"}
+    hl: {hanzi: "坐船？頭擺無飛行機哦！", pinyin: "coˋ shon? teu baiˊ mo fuiˋ hang giˋ oˊ!"}
+  - n: 8
+    speaker: Sam
+    en: "(at the next board) 'Early in the 乾隆 reign, people from 陸豐 in 廣東 came to clear the land at 竹東.' 竹東! That's 阿舅's place!"
+    sx: {hanzi: "「乾隆初年，就有廣東陸豐人來到竹東開墾。」竹東！阿舅个所在！", pinyin: "kienˇ lungˇ cuˊ ngienˇ, qiu iuˊ gongˋ dungˊ liug fungˊ nginˇ loiˇ do zugˋ dungˊ koiˊ kienˋ. zugˋ dungˊ! aˊ kiuˊ ge soˋ cai!"}
+    hl: {hanzi: "「乾隆初年，就有廣東陸豐人來到竹東開墾。」竹東！阿舅个所在！", pinyin: "kien lung cuˋ ngien, ciu+ rhiuˋ gongˊ dungˋ liugˋ fungˋ ngin loi doˇ zhug dungˋ koiˋ kienˊ. zhug dungˋ! a+ kiuˋ gaiˇ soˊ cai+!"}
+  - n: 9
+    speaker: 阿英
+    en: "Yes. That's why 竹東 speaks 海陸: their ancestors came from 海豐 and 陸豐."
+    sx: {hanzi: "係啊。所以竹東講海陸，佢兜个祖公係海豐、陸豐人。", pinyin: "he a. soˋ iˊ zugˋ dungˊ gongˋ hoiˋ liugˋ, giˇ deuˊ ge zuˋ gungˊ he hoiˋ fungˊ, liug fungˊ nginˇ."}
+    hl: {hanzi: "係啊。所以竹東講海陸，佢兜个祖公係海豐、陸豐人。", pinyin: "heˇ a+. soˊ rhiˋ zhug dungˋ gongˊ hoiˊ liugˋ, gi deuˋ gaiˇ zuˊ gungˋ heˇ hoiˊ fungˋ, liugˋ fungˋ ngin."}
+  - n: 10
+    speaker: Sam
+    en: "And 四縣? Why is it called 'four counties'?"
+    sx: {hanzi: "該四縣呢？做麼个安到四縣？", pinyin: "ge xi ien neˇ? zo maˋ ge onˊ do xi ien?"}
+    hl: {hanzi: "該四縣呢？做麼个安到四縣？", pinyin: "gai siˇ rhanˇ neˇ? zoˇ maˊ gaiˇ onˋ doˇ siˇ rhanˇ?"}
+  - n: 11
+    speaker: 阿英
+    en: "The 原鄉 had four counties, so it's called 四縣. That's what the teacher told us at school; look, it's on the map."
+    sx: {hanzi: "原鄉有四隻縣，所以安到四縣。學校个先生恁樣講，你看，地圖項有。", pinyin: "ngienˇ hiongˊ iuˊ xi zagˋ ien, soˋ iˊ onˊ do xi ien. hog gauˋ ge xinˊ sangˊ anˋ ngiongˇ gongˋ, nˇ kon, ti tuˇ hong iuˊ."}
+    hl: {hanzi: "原鄉有四隻縣，所以安到四縣。學校个先生恁樣講，你看，地圖項有。", pinyin: "ngien hiongˋ rhiuˋ siˇ zhag rhanˇ, soˊ rhiˋ onˋ doˇ siˇ rhanˇ. hogˋ gauˊ gaiˇ sinˋ sangˋ an ngiong gongˊ, ngi konˇ, ti+ tu hong+ rhiuˋ."}
+  - n: 12
+    speaker: 阿明
+    en: "(at a model of an old courtyard house) Look, this 伙房 is just like ours!"
+    sx: {hanzi: "你兜看，這間伙房同𠊎兜屋下共樣！", pinyin: "nˇ deuˊ kon, iaˋ gienˊ foˋ fongˇ tungˇ ngaiˇ deuˊ vugˋ kaˊ kiung iong!"}
+    hl: {hanzi: "你兜看，這間伙房摎𠊎兜屋下共樣！", pinyin: "ngi deuˋ konˇ, liaˊ gienˋ foˊ fong lauˋ ngai deuˋ vug haˋ kiung+ rhong+!"}
+  - n: 13
+    speaker: 阿英
+    en: "In the old days people cleared the hills and the forest with their bare hands. They left their home towns and never went back."
+    sx: {hanzi: "頭擺人開山打林，當辛苦。離開故鄉，就無轉去了。", pinyin: "teuˇ baiˋ nginˇ koiˊ sanˊ daˋ naˇ, dongˊ xinˊ kuˋ. liˇ koiˊ gu hiongˊ, qiu moˇ zonˋ hi leˊ."}
+    hl: {hanzi: "頭擺人開山打林，當辛苦。離開故鄉，就無轉去了。", pinyin: "teu baiˊ ngin koiˋ sanˋ daˊ na, dongˋ sinˋ kuˊ. li koiˋ guˇ hiongˋ, ciu+ mo zhonˊ hiˇ leˋ."}
+  - n: 14
+    speaker: Sam
+    en: "Now I understand: the Hakka came from 唐山, and in Taiwan they built houses, farmed, sang mountain songs…"
+    sx: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "iaˋ ha ngaiˇ minˇ ped leˊ: hagˋ gaˊ nginˇ qiungˇ tongˇ sanˊ loiˇ, coiˊ toiˇ vanˊ zo vugˋ, gangˊ tienˇ, cong sanˊ goˊ …"}
+    hl: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "liaˊ ha+ ngai min pagˋ leˋ: hag gaˋ ngin ciung tong sanˋ loi, coiˋ toi van zoˇ vug, gangˋ tien, chongˇ sanˋ goˋ …"}
+  - n: 15
+    speaker: 阿明
+    en: "…and moved here, and ate 粄! Can we go and eat now? Inside it's cool, but my stomach's empty."
+    sx: {hanzi: "……還有移民來食粄！做得去食了無？裡肚當涼，毋過𠊎肚屎枵了。", pinyin: "… hanˇ iuˊ iˇ minˇ loiˇ siid banˋ! zo dedˋ hi siid leˊ moˇ? diˊ duˋ dongˊ liongˇ, mˇ go ngaiˇ duˋ siiˋ iauˊ leˊ."}
+    hl: {hanzi: "……還有移民來食粄！做得去食了無？裡肚當涼，毋過𠊎肚屎枵了。", pinyin: "… han rhiuˋ rhi min loi shidˋ banˊ! zoˇ ded hiˇ shidˋ leˋ mo? diˋ duˊ dongˋ liong, m goˇ ngai duˊ shiˊ iauˋ leˋ."}
+    check: true
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      放暑假 "the summer holidays begin": 放 "let go" + 暑假 cuˋ gaˋ "summer holidays". 參觀 "visit (a place, an
+      exhibition)", the written word for what 尞 does in speech.
+  - ref: 2
+    topic: grammar
+    text: >
+      The second sentence is a sentence from the official 客語百句 set, word for word: 客家文化園區輒輒舉辦展覽活動 "the
+      Hakka cultural park often holds exhibitions". 舉辦 giˋ pan "hold, organise", 展覽 zanˋ lam "exhibition": the written
+      register of a leaflet, with the everyday 輒輒 "often" (lesson 62) in the middle.
+  - ref: 3
+    topic: grammar
+    text: >
+      The board is an official example sentence, word for word (頭擺客家人大部分都係從唐山來臺灣). Written Hakka on
+      museum boards uses words you seldom hear at the table: 大部分 "most, the greater part" (部分 "part"), 從…來 "come
+      from…" (從 qiungˇ "from"). In speech 對 often does the same job (對臺北來).
+  - ref: 4
+    topic: culture
+    text: >
+      唐山 and 長山 (kaga115: 指大陸原鄉，即「唐山」) both name the mainland as the place the ancestors left. 原鄉 ngienˇ
+      hiongˊ "ancestral homeland": the examples use it of families (吾來臺祖个原鄉係福建省詔安縣 "the 原鄉 of my first
+      ancestor in Taiwan is 詔安 in 福建"). It is not in the word lists as one word; learn it from the two characters.
+  - ref: 6
+    topic: grammar
+    text: >
+      根據族譜个記載 "according to the family register": a word-for-word opening from an official sentence (根據族譜个記載，
+      吾祖公來自廣東省饒平縣); A-in's ending is simplified, so the line is marked for checking. 族譜 cug puˋ "family
+      register", kept in many Hakka households; 渡海 tu hoiˋ "cross the sea".
+  - ref: 8
+    topic: culture
+    text: >
+      An official sentence quoted exactly: 乾隆初年，就有廣東陸豐人來到竹東開墾 "early in the 乾隆 reign (the 1730s and
+      after), people from 陸豐 in 廣東 came to 竹東 to clear the land". 開墾 koiˊ kienˋ "open up, clear (new land)", the
+      written word for 開山打林 (lesson 65). The note in lesson 53 already tied 海陸 to 海豐 and 陸豐 (惠州府來到臺灣个客家人，
+      大體係海豐縣、陸豐縣較多).
+  - ref: 11
+    topic: culture
+    text: >
+      Why "four counties": by general knowledge, 四縣 names four counties of the old 嘉應州 prefecture in 廣東 (興寧, 長樂,
+      平遠, 鎮平). The database has no example with 嘉應, so A-in quotes her teacher, and so does this note. The word
+      list spells it xi ien (lesson 53).
+  - ref: 13
+    topic: grammar
+    text: >
+      離開故鄉，就無轉去了 "they left their home town and never went back": 離開 liˇ koiˊ "leave", 故鄉 gu hiongˊ "home town"
+      (離開故鄉歸十年了 is an official example). 就 + 無 + V + 了: "and then, no longer".
+  - ref: 15
+    topic: vocab
+    text: >
+      移民 iˇ minˇ "emigrate, migrant": in the examples it is mostly people leaving Taiwan today (移民去外國). 裡肚當涼
+      "it's cool inside": 涼 liongˇ "cool", 裡肚 diˊ duˋ "inside". A-min's sentence runs everything together, as a
+      14-year-old's does; it is marked for checking.
+
+new_words:
+  - {hanzi: 暑假, pinyin: "cuˋ gaˋ", en: "summer holidays", hl: {hanzi: 暑假, pinyin: "chuˊ gaˊ"}}
+  - {hanzi: 參觀, pinyin: "camˊ gonˊ", en: "visit (a place, an exhibition)", hl: {hanzi: 參觀, pinyin: "camˋ gonˋ"}}
+  - {hanzi: 舉辦, pinyin: "giˋ pan", en: "hold, organise", hl: {hanzi: 舉辦, pinyin: "giˊ pan+"}}
+  - {hanzi: 展覽, pinyin: "zanˋ lam", en: "exhibition", hl: {hanzi: 展覽, pinyin: "zhanˊ lamˇ"}}
+  - {hanzi: 從, pinyin: "qiungˇ", en: "from (written)", hl: {hanzi: 從, pinyin: "ciung"}}
+  - {hanzi: 唐山, pinyin: "tongˇ sanˊ", en: "the mainland (the ancestors' land)", hl: {hanzi: 唐山, pinyin: "tong sanˋ"}}
+  - {hanzi: 長山, pinyin: "congˇ sanˊ", en: "the mainland (= 唐山)", hl: {hanzi: 長山, pinyin: "chong sanˋ"}}
+  - {hanzi: 大陸, pinyin: "tai liug", en: "the mainland", hl: {hanzi: 大陸, pinyin: "tai+ liugˋ"}}
+  - {hanzi: 原, pinyin: "ngienˇ", en: "original (原鄉 ancestral homeland)", hl: {hanzi: 原, pinyin: "ngien"}}
+  - {hanzi: 鄉, pinyin: "hiongˊ", en: "village, township; home (原鄉, 故鄉)", hl: {hanzi: 鄉, pinyin: "hiongˋ"}}
+  - {hanzi: 根據, pinyin: "ginˊ giˋ", en: "according to", hl: {hanzi: 根據, pinyin: "ginˋ giˊ"}}
+  - {hanzi: 族譜, pinyin: "cug puˋ", en: "family register", hl: {hanzi: 族譜, pinyin: "cugˋ puˊ"}}
+  - {hanzi: 記載, pinyin: "gi zai", en: "record, written account", hl: {hanzi: 記載, pinyin: "giˇ zaiˇ"}}
+  - {hanzi: 渡海, pinyin: "tu hoiˋ", en: "cross the sea", hl: {hanzi: 渡海, pinyin: "tu+ hoiˊ"}}
+  - {hanzi: 開墾, pinyin: "koiˊ kienˋ", en: "open up, clear (new land)", hl: {hanzi: 開墾, pinyin: "koiˋ kienˊ"}}
+  - {hanzi: 地圖, pinyin: "ti tuˇ", en: "map", hl: {hanzi: 地圖, pinyin: "ti+ tu"}}
+  - {hanzi: 離開, pinyin: "liˇ koiˊ", en: "leave", hl: {hanzi: 離開, pinyin: "li koiˋ"}}
+  - {hanzi: 故鄉, pinyin: "gu hiongˊ", en: "home town, homeland", hl: {hanzi: 故鄉, pinyin: "guˇ hiongˋ"}}
+  - {hanzi: 移民, pinyin: "iˇ minˇ", en: "emigrate; migrant", hl: {hanzi: 移民, pinyin: "rhi min"}}
+  - {hanzi: 涼, pinyin: "liongˇ", en: "cool", hl: {hanzi: 涼, pinyin: "liong"}}
+  - {hanzi: 裡肚, pinyin: "diˊ duˋ", en: "inside", hl: {hanzi: 裡肚, pinyin: "diˋ duˊ"}}
+  - {hanzi: 所在, pinyin: "soˋ cai", en: "place, where (someone) lives", hl: {hanzi: 所在, pinyin: "soˊ cai+"}}
+  - {hanzi: 清楚, pinyin: "qinˊ cuˋ", en: "clear, clearly", hl: {hanzi: 清楚, pinyin: "cinˋ cuˊ"}}
+  - {hanzi: 解說, pinyin: "gieˋ sodˋ", en: "explain; explanation", hl: {hanzi: 解說, pinyin: "gaiˊ shod"}}
+
+exercises:
+  translate:
+    - en: "When you have time, you ought to go back to the mainland and see the relatives in the ancestral homeland."
+      sx: {hanzi: "有閒个時節，應該愛轉長山看看原鄉个親戚。", pinyin: "iuˊ hanˇ ge siiˇ jiedˋ, in goiˊ oi zonˋ congˇ sanˊ kon kon ngienˇ hiongˊ ge qinˊ qidˋ."}
+      hl: {hanzi: "有閒个時節，應該愛轉長山看看原鄉个親戚。", pinyin: "rhiuˋ han gaiˇ shi zied, rhinˇ goiˋ oiˇ zhonˊ chong sanˋ konˇ konˇ ngien hiongˋ gaiˇ cinˋ cid."}
+      source: kaga115
+    - en: "The museum guide explains the history of the Hakka very clearly."
+      sx: {hanzi: "博物館个人解說客家人个歷史，講到當清楚。", pinyin: "bogˋ vud gonˋ ge nginˇ gieˋ sodˋ hagˋ gaˊ nginˇ ge lid siiˋ, gongˋ do dongˊ qinˊ cuˋ."}
+      hl: {hanzi: "博物館个人解說客家人个歷史，講到當清楚。", pinyin: "bog vudˋ gonˊ gaiˇ ngin gaiˊ shod hag gaˋ ngin gaiˇ lidˋ siiˊ, gongˊ doˇ dongˋ cinˋ cuˊ."}
+      check: true
+    - en: "He left his home town to study a great many years ago."
+      sx: {hanzi: "佢離開家鄉去讀書盡多年了。", pinyin: "giˇ liˇ koiˊ gaˊ hiongˊ hi tug suˊ qin doˊ ngienˇ leˊ."}
+      hl: {hanzi: "佢離開家鄉去讀書盡多年了。", pinyin: "gi li koiˋ gaˋ hiongˋ hiˇ tugˋ shuˋ cin+ doˋ ngien leˋ."}
+      source: kaga115
+    - en: "In summer the museum is cool; outside it's hot."
+      sx: {hanzi: "熱天博物館裡肚當涼，外背當熱。", pinyin: "ngied tienˊ bogˋ vud gonˋ diˊ duˋ dongˊ liongˇ, ngoi boi dongˊ ngied."}
+      hl: {hanzi: "熱天博物館裡肚當涼，外背當熱。", pinyin: "ngiedˋ tienˋ bog vudˋ gonˊ diˋ duˊ dongˋ liong, ngo+ boiˇ dongˋ ngiedˋ."}
+    - en: "Where is 竹東? Look at the map."
+      sx: {hanzi: "竹東在哪位？你看地圖。", pinyin: "zugˋ dungˊ coiˊ nai vi? nˇ kon ti tuˇ."}
+      hl: {hanzi: "竹東在哪位？你看地圖。", pinyin: "zhug dungˋ coiˋ nai+ vui+? ngi konˇ ti+ tu."}
+  fill:
+    - en: "Most Hakka people came from 唐山."
+      sx: {hanzi: "客家人___都係從唐山來。", pinyin: "hagˋ gaˊ nginˇ ___ du he qiungˇ tongˇ sanˊ loiˇ.", answer_hanzi: "大部分", answer: "tai pu fun"}
+      hl: {hanzi: "客家人___都係從唐山來。", pinyin: "hag gaˋ ngin ___ du+ heˇ ciung tong sanˋ loi.", answer_hanzi: "大部分", answer: "tai+ pu+ fun+"}
+    - en: "According to the family register, our ancestors came from 廣東."
+      sx: {hanzi: "___族譜个記載，𠊎兜个祖公在廣東。", pinyin: "___ cug puˋ ge gi zai, ngaiˇ deuˊ ge zuˋ gungˊ coiˊ gongˋ dungˊ.", answer_hanzi: "根據", answer: "ginˊ giˋ"}
+      hl: {hanzi: "___族譜个記載，𠊎兜个祖公在廣東。", pinyin: "___ cugˋ puˊ gaiˇ giˇ zaiˇ, ngai deuˋ gaiˇ zuˊ gungˋ coiˋ gongˊ dungˋ.", answer_hanzi: "根據", answer: "ginˋ giˊ"}
+    - en: "They crossed the sea by boat."
+      sx: {hanzi: "佢兜坐船___。", pinyin: "giˇ deuˊ coˊ sonˇ ___.", answer_hanzi: "渡海", answer: "tu hoiˋ"}
+      hl: {hanzi: "佢兜坐船___。", pinyin: "gi deuˋ coˋ shon ___.", answer_hanzi: "渡海", answer: "tu+ hoiˊ"}
+
+audio: []
