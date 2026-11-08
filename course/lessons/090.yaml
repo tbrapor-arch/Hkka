@@ -28,9 +28,9 @@ dialogue:
     hl: {hanzi: "這位！山頂！𠊎擎等電火，看著無？", pinyin: "liaˊ vui+! sanˋ dangˊ! ngai kia denˊ tien+ foˊ, konˇ doˊ mo?"}
   - n: 4
     speaker: 消防隊員
-    en: "(a rescuer, from below) We see it! Don't move! We're the fire brigade, we're coming to get you!"
-    sx: {hanzi: "看著了！莫動！𠊎兜係消防隊，過來搶救你兜！", pinyin: "kon doˋ leˊ! mog tungˊ! ngaiˇ deuˊ he seuˊ fongˇ cui, go loiˇ qiongˋ giu nˇ deuˊ!"}
-    hl: {hanzi: "看著了！莫動！𠊎兜係消防隊，過來搶救你兜！", pinyin: "konˇ doˊ leˋ! mogˋ tungˋ! ngai deuˋ heˇ siauˋ fong chui+, goˇ loi ciongˊ giuˇ ngi deuˋ!"}
+    en: "(a rescuer, from below) We see it! Don't move! We're the fire brigade, we're coming up close to get you!"
+    sx: {hanzi: "看著了！莫動！𠊎兜係消防隊，偎過來搶救你兜！", pinyin: "kon doˋ leˊ! mog tungˊ! ngaiˇ deuˊ he seuˊ fongˇ cui, vaˋ go loiˇ qiongˋ giu nˇ deuˊ!"}
+    hl: {hanzi: "看著了！莫動！𠊎兜係消防隊，偎過來搶救你兜！", pinyin: "konˇ doˊ leˋ! mogˋ tungˋ! ngai deuˋ heˇ siauˋ fong chui+, vaˊ goˇ loi ciongˊ giuˇ ngi deuˋ!"}
   - n: 5
     speaker: 阿英
     en: "(arriving out of breath, torch in hand) Is anyone hurt? We've been walking so fast we're dripping with sweat!"
@@ -68,9 +68,9 @@ dialogue:
     hl: {hanzi: "打毋出去。𠊎兜大聲喊救命，單淨有應聲。", pinyin: "daˊ m chud hiˇ. ngai deuˋ tai+ shangˋ hemˋ giuˇ miang+, danˋ ciang+ rhiuˋ rhinˇ shangˋ."}
   - n: 12
     speaker: 阿英
-    en: "Grandma was so frightened she couldn't eat. She phoned 119 and called the fire brigade and the police. As soon as we're back at the car, call her, quick!"
-    sx: {hanzi: "阿婆嚇著了，驚到食毋落飯。佢打一一九，喊消防隊同警察來救你兜。到車項，遽遽打電話分佢！", pinyin: "aˊ poˇ hagˋ doˋ leˊ, giangˊ do siid mˇ log fan. giˇ daˋ idˋ idˋ giuˋ, ham seuˊ fongˇ cui tungˇ ginˋ cadˋ loiˇ giu nˇ deuˊ. do caˊ hong, giagˋ giagˋ daˋ tien fa bunˊ giˇ!"}
-    hl: {hanzi: "阿婆嚇著了，驚到食毋落飯。佢打一一九，喊消防隊摎警察來救你兜。到車項，遽遽打電話分佢！", pinyin: "a+ po hag doˊ leˋ, giangˋ doˇ shidˋ m logˋ pon+. gi daˊ rhid rhid giuˊ, hamˇ siauˋ fong chui+ lauˋ ginˇ cad loi giuˇ ngi deuˋ. doˇ chaˋ hong+, giag giag daˊ tien+ faˇ bunˋ gi!"}
+    en: "Grandma was so frightened she couldn't eat. She phoned 119 and called the fire brigade, the police and an ambulance. As soon as we're back at the car, call her, quick!"
+    sx: {hanzi: "阿婆嚇著了，驚到食毋落飯。佢打一一九，喊消防隊、警察同救護車來救你兜。到車項，遽遽打電話分佢！", pinyin: "aˊ poˇ hagˋ doˋ leˊ, giangˊ do siid mˇ log fan. giˇ daˋ idˋ idˋ giuˋ, ham seuˊ fongˇ cui, ginˋ cadˋ tungˇ giu fu caˊ loiˇ giu nˇ deuˊ. do caˊ hong, giagˋ giagˋ daˋ tien fa bunˊ giˇ!"}
+    hl: {hanzi: "阿婆嚇著了，驚到食毋落飯。佢打一一九，喊消防隊、警察摎救護車來救你兜。到車項，遽遽打電話分佢！", pinyin: "a+ po hag doˊ leˋ, giangˋ doˇ shidˋ m logˋ pon+. gi daˊ rhid rhid giuˊ, hamˇ siauˋ fong chui+, ginˇ cad lauˋ giuˇ fu+ chaˋ loi giuˇ ngi deuˋ. doˇ chaˋ hong+, giag giag daˊ tien+ faˇ bunˋ gi!"}
   - n: 13
     speaker: 阿婆
     en: "(at home, eleven at night, running out to the car, crying and trembling) A-min! Sam! You're back safe, that's all that matters!"

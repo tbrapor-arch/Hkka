@@ -13,9 +13,9 @@ names: [義民, 義民節, 義民廟, 阿貴伯, 阿劉哥, 阿英, 阿明, 中�
 dialogue:
   - n: 1
     speaker: 阿婆
-    en: "Today is the 義民 festival. Everyone put on good clothes, and hurry, off to the temple to burn incense and pray for peace."
-    sx: {hanzi: "今晡日係義民節，大家著好衫，遽遽去廟項燒香求平安。", pinyin: "gimˊ buˊ ngidˋ he ngi minˇ jiedˋ, tai gaˊ zogˋ hoˋ samˊ, giagˋ giagˋ hi meu hong seuˊ hiongˊ kiuˇ pinˇ onˊ."}
-    hl: {hanzi: "今晡日係義民節，大家著好衫，遽遽去廟項燒香求平安。", pinyin: "gimˋ buˋ ngid heˇ ngi+ min zied, tai+ gaˋ zhog hoˊ samˋ, giag giag hiˇ miau+ hong+ shauˋ hiongˋ kiu pin onˋ."}
+    en: "Today is the 義民 festival. Everyone put on good clothes, and hurry, off to the temple to burn incense and pray for peace. With all your heart, mind!"
+    sx: {hanzi: "今晡日係義民節，大家著好衫，遽遽去廟項燒香求平安。愛誠心誠意！", pinyin: "gimˊ buˊ ngidˋ he ngi minˇ jiedˋ, tai gaˊ zogˋ hoˋ samˊ, giagˋ giagˋ hi meu hong seuˊ hiongˊ kiuˇ pinˇ onˊ. oi siinˇ ximˊ siinˇ i!"}
+    hl: {hanzi: "今晡日係義民節，大家著好衫，遽遽去廟項燒香求平安。愛誠心誠意！", pinyin: "gimˋ buˋ ngid heˇ ngi+ min zied, tai+ gaˋ zhog hoˊ samˋ, giag giag hiˇ miau+ hong+ shauˋ hiongˋ kiu pin onˋ. oiˇ shin simˋ shin rhiˇ!"}
   - n: 2
     speaker: Sam
     en: "(at the temple) It's packed! So much smoke! Who are the 義民?"
@@ -89,9 +89,9 @@ dialogue:
     hl: {hanzi: "無硬了。", pinyin: "mo ngang+ leˋ."}
   - n: 15
     speaker: 阿貴伯
-    en: "The offerings are done. 阿劉哥, come and burn the gold paper. The committee members are welcoming guests at the gate and want you there."
-    sx: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，喊你去。", pinyin: "bai baiˊ hoˋ leˊ. aˊ liuˇ goˊ, loiˇ seuˊ gimˊ. viˊ ienˇ coiˊ meu munˇ heuˋ ngiangˇ nginˇ hagˋ, ham nˇ hi."}
-    hl: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，喊你去。", pinyin: "bai baiˊ hoˊ leˋ. a+ liu goˋ, loi shauˋ gimˋ. vuiˋ rhan coiˋ miau+ mun heuˊ ngiang ngin hag, hamˇ ngi hiˇ."}
+    en: "The offerings are done. 阿劉哥, come and burn the gold paper. The committee members are welcoming guests at the gate and have invited you."
+    sx: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，邀請你去。", pinyin: "bai baiˊ hoˋ leˊ. aˊ liuˇ goˊ, loiˇ seuˊ gimˊ. viˊ ienˇ coiˊ meu munˇ heuˋ ngiangˇ nginˇ hagˋ, ieuˊ qiangˋ nˇ hi."}
+    hl: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，邀請你去。", pinyin: "bai baiˊ hoˊ leˋ. a+ liu goˋ, loi shauˋ gimˋ. vuiˋ rhan coiˋ miau+ mun heuˊ ngiang ngin hag, rhauˋ ciangˊ ngi hiˇ."}
     check: true
   - n: 16
     speaker: 阿婆

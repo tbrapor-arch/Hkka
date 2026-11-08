@@ -52,9 +52,9 @@ dialogue:
     hl: {hanzi: "銅鑼？摎博物館該隻銅鑼共樣？", pinyin: "tung lo? lauˋ bog vudˋ gonˊ gai zhag tung lo kiung+ rhong+?"}
   - n: 9
     speaker: 阿明
-    en: "Same word! Gong your 銅鑼 too loud and you'll disturb other people."
-    sx: {hanzi: "共樣个字！打銅鑼打到恁大聲，會吵著別儕人。", pinyin: "kiung iong ge sii! daˋ tungˇ loˇ daˋ do anˋ tai sangˊ, voi cauˇ doˋ ped saˇ nginˇ."}
-    hl: {hanzi: "共樣个字！打銅鑼打到恁大聲，會吵著別儕人。", pinyin: "kiung+ rhong+ gaiˇ sii+! daˊ tung lo daˊ doˇ anˊ tai+ shangˋ, voi+ cau doˊ pedˋ sa ngin."}
+    en: "Same word! Gong your 銅鑼 too loud and your ears hurt, and you'll disturb other people."
+    sx: {hanzi: "共樣个字！打銅鑼打到恁大聲，耳公會痛，會吵著別儕人。", pinyin: "kiung iong ge sii! daˋ tungˇ loˇ daˋ do anˋ tai sangˊ, ngiˋ gungˊ voi tung, voi cauˇ doˋ ped saˇ nginˇ."}
+    hl: {hanzi: "共樣个字！打銅鑼打到恁大聲，耳空會痛，會吵著別儕人。", pinyin: "kiung+ rhong+ gaiˇ sii+! daˊ tung lo daˊ doˇ anˊ tai+ shangˋ, ngiˊ kungˋ voi+ tungˇ, voi+ cau doˊ pedˋ sa ngin."}
   - n: 10
     speaker: Sam
     en: "(as the band starts again, Grandpa murmurs something) What did Grandpa say?"
@@ -62,9 +62,9 @@ dialogue:
     hl: {hanzi: "阿公講麼个？", pinyin: "a+ gungˋ gongˊ maˊ gaiˇ?"}
   - n: 11
     speaker: 阿明
-    en: "Grandpa says that in the old days he could play the fiddle too. But only the fiddle."
-    sx: {hanzi: "阿公講，頭擺佢乜會鋸弦仔。毋過佢單淨會鋸弦仔。", pinyin: "aˊ gungˊ gongˋ, teuˇ baiˋ giˇ me voi gi hienˇ eˋ. mˇ go giˇ danˊ qiang voi gi hienˇ eˋ."}
-    hl: {hanzi: "阿公講，頭擺佢乜會挨弦仔。毋過佢單淨會挨弦仔。", pinyin: "a+ gungˋ gongˊ, teu baiˊ gi meˇ voi+ aiˋ hien er. m goˇ gi danˋ ciang+ voi+ aiˋ hien er."}
+    en: "Grandpa says that in the old days he played the fiddle too, every so often. But only the fiddle."
+    sx: {hanzi: "阿公講，頭擺佢三不五時乜會鋸弦仔。毋過佢單淨會鋸弦仔。", pinyin: "aˊ gungˊ gongˋ, teuˇ baiˋ giˇ samˊ budˋ ngˋ siiˇ me voi gi hienˇ eˋ. mˇ go giˇ danˊ qiang voi gi hienˇ eˋ."}
+    hl: {hanzi: "阿公講，頭擺佢三不五時乜會挨弦仔。毋過佢單淨會挨弦仔。", pinyin: "a+ gungˋ gongˊ, teu baiˊ gi samˋ bud ngˊ shi meˇ voi+ aiˋ hien er. m goˇ gi danˋ ciang+ voi+ aiˋ hien er."}
   - n: 12
     speaker: 阿貴伯
     en: "That's right! Your grandpa was a fine fiddler when he was young. Here, have a go."
@@ -98,8 +98,8 @@ dialogue:
   - n: 18
     speaker: 阿明
     en: "阿貴伯 beats the drum and leads, Grandpa plays the fiddle… and Sam strikes the gong!"
-    sx: {hanzi: "阿貴伯打鼓又指揮，阿公鋸弦仔……Sam 打銅鑼！", pinyin: "aˊ gui bagˋ daˋ guˋ iu ziiˋ fiˊ, aˊ gungˊ gi hienˇ eˋ … Sam daˋ tungˇ loˇ!"}
-    hl: {hanzi: "阿貴伯打鼓又指揮，阿公挨弦仔……Sam 打銅鑼！", pinyin: "a+ guiˇ bag daˊ guˊ rhiu+ zhiˊ fuiˋ, a+ gungˋ aiˋ hien er … Sam daˊ tung lo!"}
+    sx: {hanzi: "阿貴伯帶頭打鼓又指揮，阿公鋸弦仔……Sam 打銅鑼！", pinyin: "aˊ gui bagˋ dai teuˇ daˋ guˋ iu ziiˋ fiˊ, aˊ gungˊ gi hienˇ eˋ … Sam daˋ tungˇ loˇ!"}
+    hl: {hanzi: "阿貴伯帶頭打鼓又指揮，阿公挨弦仔……Sam 打銅鑼！", pinyin: "a+ guiˇ bag daiˇ teu daˊ guˊ rhiu+ zhiˊ fuiˋ, a+ gungˋ aiˋ hien er … Sam daˊ tung lo!"}
     check: true
 
 notes:

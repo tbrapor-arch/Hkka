@@ -32,9 +32,9 @@ dialogue:
     hl: {hanzi: "阿明，這條毋係𫣆兜上來个路。後背有岔路。", pinyin: "a+ min, liaˊ tiau m heˇ enˋ deuˋ shongˋ loi gaiˇ lu+. heu+ boiˇ rhiuˋ caˇ lu+."}
   - n: 5
     speaker: 阿明
-    en: "Should we have gone left?"
-    sx: {hanzi: "係毋係愛行左片？", pinyin: "he mˇ he oi hangˇ zoˋ pienˋ?"}
-    hl: {hanzi: "係毋係愛行左片？", pinyin: "heˇ m heˇ oiˇ hang zoˊ pienˊ?"}
+    en: "Should we have gone left, the one up ahead?"
+    sx: {hanzi: "係毋係愛行左片，頭前該條？", pinyin: "he mˇ he oi hangˇ zoˋ pienˋ, teuˇ qienˇ ge tiauˇ?"}
+    hl: {hanzi: "係毋係愛行左片，頭前該條？", pinyin: "heˇ m heˇ oiˇ hang zoˊ pienˊ, teu cien gai tiau?"}
   - n: 6
     speaker: Sam
     en: "I don't know… The mist's so thick I can't see the path. We can't find the way."
@@ -67,9 +67,9 @@ dialogue:
     hl: {hanzi: "會痛。行毋得了。", pinyin: "voi+ tungˇ. hang m ded leˋ."}
   - n: 12
     speaker: Sam
-    en: "The sun's going down… It'll be dark soon."
-    sx: {hanzi: "日頭落山了……天愛斷烏了。", pinyin: "ngidˋ teuˇ log sanˊ leˊ … tienˊ oi tonˊ vuˊ leˊ."}
-    hl: {hanzi: "日頭落山了……天愛斷烏了。", pinyin: "ngid teu logˋ sanˋ leˋ … tienˋ oiˇ tonˋ vuˋ leˋ."}
+    en: "The sun's going down… It'll be dark soon. At night it's cold up in the hills."
+    sx: {hanzi: "日頭落山了……天愛斷烏了。暗晡夜山頂當寒。", pinyin: "ngidˋ teuˇ log sanˊ leˊ … tienˊ oi tonˊ vuˊ leˊ. am buˊ ia sanˊ dangˋ dongˊ honˇ."}
+    hl: {hanzi: "日頭落山了……天愛斷烏了。暗晡夜山頂當冷。", pinyin: "ngid teu logˋ sanˋ leˋ … tienˋ oiˇ tonˋ vuˋ leˋ. amˇ buˋ rha+ sanˋ dangˊ dongˋ langˋ."}
   - n: 13
     speaker: 阿明
     en: "Sam… I'm scared. There are mosquitoes, and maybe snakes."
@@ -88,9 +88,9 @@ dialogue:
     source: moe
   - n: 16
     speaker: Sam
-    en: "My phone still has some power. It'll light the path a little. Put your backpack under your foot."
-    sx: {hanzi: "𠊎个手機仔還有電，做得照一息仔路。你个背包拿來囥在腳下背。", pinyin: "ngaiˇ ge suˋ giˊ eˋ hanˇ iuˊ tien, zo dedˋ zeu idˋ xid eˋ lu. nˇ ge boi bauˊ naˊ loiˇ kong coiˊ giogˋ haˊ boi."}
-    hl: {hanzi: "𠊎个手機還有電，做得照一息仔路。你个背包拿來囥在腳下背。", pinyin: "ngai gaiˇ shiuˊ giˋ han rhiuˋ tien+, zoˇ ded zhauˇ rhid sid er lu+. ngi gaiˇ boiˇ bauˋ naˋ loi kongˇ coiˋ giog haˋ boiˇ."}
+    en: "I didn't bring a torch, but my phone still has some power. It'll light the path a little. Put your backpack under your foot."
+    sx: {hanzi: "𠊎無帶手電筒仔，毋過𠊎个手機仔還有電，做得照一息仔路。你个背包拿來囥在腳下背。", pinyin: "ngaiˇ moˇ dai suˋ tien tungˇ eˋ, mˇ go ngaiˇ ge suˋ giˊ eˋ hanˇ iuˊ tien, zo dedˋ zeu idˋ xid eˋ lu. nˇ ge boi bauˊ naˊ loiˇ kong coiˊ giogˋ haˊ boi."}
+    hl: {hanzi: "𠊎無帶手電筒仔，毋過𠊎个手機還有電，做得照一息仔路。你个背包拿來囥在腳下背。", pinyin: "ngai mo daiˇ shiuˊ tien+ tung er, m goˇ ngai gaiˇ shiuˊ giˋ han rhiuˋ tien+, zoˇ ded zhauˇ rhid sid er lu+. ngi gaiˇ boiˇ bauˋ naˋ loi kongˇ coiˋ giog haˋ boiˇ."}
     check: true
 
 notes:

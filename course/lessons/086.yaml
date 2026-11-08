@@ -17,9 +17,9 @@ dialogue:
     hl: {hanzi: "阿爸，熱天𠊎想去補習英文。𠊎國中英文課考試个分數毋好。", pinyin: "a+ baˋ, ngiedˋ tienˋ ngai siongˊ hiˇ buˊ sibˋ rhinˋ vun. ngai gued zhungˋ rhinˋ vun koˇ kauˊ shiˇ gaiˇ funˋ suˇ m hoˊ."}
   - n: 2
     speaker: 阿爸
-    en: "English is very important. The way I see it, that's fine. In my view, start with the beginners' class."
-    sx: {hanzi: "英文當重要。𠊎看做得。照𠊎看，先讀初級班。", pinyin: "inˊ vunˇ dongˊ cung ieu. ngaiˇ kon zo dedˋ. zeu ngaiˇ kon, xienˊ tug cuˊ gibˋ banˊ."}
-    hl: {hanzi: "英文當重要。𠊎看做得。照𠊎看，先讀初級班。", pinyin: "rhinˋ vun dongˋ chung+ rhauˇ. ngai konˇ zoˇ ded. zhauˇ ngai konˇ, senˋ tugˋ cuˋ gib banˋ."}
+    en: "English is very important. The way I see it, that's fine: if you've set your heart on it, go. In my view, start with the beginners' class."
+    sx: {hanzi: "英文當重要。𠊎看做得：你一心想讀，就去讀。照𠊎看，先讀初級班。", pinyin: "inˊ vunˇ dongˊ cung ieu. ngaiˇ kon zo dedˋ: nˇ idˋ ximˊ xiongˋ tug, qiu hi tug. zeu ngaiˇ kon, xienˊ tug cuˊ gibˋ banˊ."}
+    hl: {hanzi: "英文當重要。𠊎看做得：你一心想讀，就去讀。照𠊎看，先讀初級班。", pinyin: "rhinˋ vun dongˋ chung+ rhauˇ. ngai konˇ zoˇ ded: ngi rhid simˋ siongˊ tugˋ, ciu+ hiˇ tugˋ. zhauˇ ngai konˇ, senˋ tugˋ cuˋ gib banˋ."}
   - n: 3
     speaker: 阿婆
     en: "English? You can't even speak Hakka properly, and you want to learn English!"
@@ -27,9 +27,9 @@ dialogue:
     hl: {hanzi: "英文？你客話都講毋好，還愛學英文！", pinyin: "rhinˋ vun? ngi hag voiˋ du+ gongˊ m hoˊ, han oiˇ hogˋ rhinˋ vun!"}
   - n: 4
     speaker: 阿明
-    en: "Grandma, most young people these days speak Mandarin. Not many speak Hakka. My classmates all speak Mandarin after class."
-    sx: {hanzi: "阿婆，這下大部分後生人都講華語，講客話个無幾多。教室个同學，下課都講華語。", pinyin: "aˊ poˇ, iaˋ ha tai pu fun heu sangˊ nginˇ du gongˋ faˇ ngiˊ, gongˋ hagˋ fa ge moˇ giˋ doˊ. gau siidˋ ge tungˇ hog, ha ko du gongˋ faˇ ngiˊ."}
-    hl: {hanzi: "阿婆，這下大部分後生人都講華語，講客話个無幾多。教室个同學，下課都講華語。", pinyin: "a+ po, liaˊ ha+ tai+ pu+ fun+ heu+ sangˋ ngin du+ gongˊ fa ngiˋ, gongˊ hag voiˋ gaiˇ mo giˊ doˋ. gauˇ shid gaiˇ tung hogˋ, haˋ koˇ du+ gongˊ fa ngiˋ."}
+    en: "Grandma, most young people these days speak Mandarin. Not many speak Hakka. My classmates all speak Mandarin after class and after school."
+    sx: {hanzi: "阿婆，這下大部分後生人都講華語，講客話个無幾多。教室个同學，下課、放學都講華語。", pinyin: "aˊ poˇ, iaˋ ha tai pu fun heu sangˊ nginˇ du gongˋ faˇ ngiˊ, gongˋ hagˋ fa ge moˇ giˋ doˊ. gau siidˋ ge tungˇ hog, ha ko, biong hog du gongˋ faˇ ngiˊ."}
+    hl: {hanzi: "阿婆，這下大部分後生人都講華語，講客話个無幾多。教室个同學，下課、放學都講華語。", pinyin: "a+ po, liaˊ ha+ tai+ pu+ fun+ heu+ sangˋ ngin du+ gongˊ fa ngiˋ, gongˊ hag voiˋ gaiˇ mo giˊ doˋ. gauˇ shid gaiˇ tung hogˋ, haˋ koˇ, biongˇ hogˋ du+ gongˊ fa ngiˋ."}
   - n: 5
     speaker: 阿公
     en: "Being Hakka and not speaking Hakka: that's truly letting down your own ancestors."
