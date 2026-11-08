@@ -11,7 +11,12 @@ phrase break: in the MOE example 麻油炒豬肝 | 盡補 ("pig liver fried in s
 `groups` field, as in Tsheh-tû; without '|' the whole clause is one group.
 Spoken Hakka varies (the MOE workbook says so); the course marks the citation tones and shows these as a guide.
 
+Hailu 海陸 (MOE article 107_015, part 3): inside a tone group, 上聲 (ˊ 24) is read 陽去 (+ 33) before any tone
+(點心 diamˊ → diam+ simˋ), and 陰入 (unmarked, 5) is read 陽入 (ˋ 2) before any tone (菊花 kiug → kiugˋ faˋ). The
+article's exceptions (emphasis, numbers 五 and 七 often unchanged, the rising first syllable of AAA) are not applied.
+
   python3 -I tools/sandhi.py "maˇ iuˇ cauˋ zuˊ gonˊ | qin buˋ"
+  python3 -I tools/sandhi.py --hailu "diamˊ simˋ"
 """
 import re, sys
 from pathlib import Path
@@ -21,6 +26,12 @@ import pinyin as py  # noqa: E402
 TRIGGERS = {"24", "55", "5"}
 # 仔 suffix forms in Sixian (assimilated to the preceding final: 雞仔 gieˊ eˋ, 豬仔 zuˊ veˋ, 柑仔 gamˊ meˋ …)
 ZAI = {"e", "ve", "ie", "me", "ne", "nge", "be", "le", "ge"}
+
+
+def apply_hailu(syllables):
+    """[(syl, value)] in one Hailu tone group → spoken values: 上聲 24 → 33, 陰入 5 → 2, before any syllable."""
+    return [(s, "33" if v == "24" and i + 1 < len(syllables) else "2" if v == "5" and i + 1 < len(syllables) else v)
+            for i, (s, v) in enumerate(syllables)]
 
 
 def apply(syllables):
@@ -39,20 +50,22 @@ def apply(syllables):
     return out
 
 
-def spoken(text):
+def spoken(text, accent="sixian"):
     """Line in MOE pinyin (tone marks) → the same line with sandhi tones, keeping spaces and punctuation."""
+    rule = apply_hailu if accent == "hailu" else apply
+    marks = py.mark_of_value(accent)
     result = []
     for group in re.split(r"([|,，.。?？!！;；:：、]+)", text):
         if not group or re.fullmatch(r"[|,，.。?？!！;；:：、]+", group):
             result.append("" if group and set(group) <= {"|"} else group)
             continue
         words = group.split(" ")
-        sylls = [py.syllables(w) for w in words]
-        flat = apply([x for w in sylls for x in w])
+        sylls = [py.syllables(w, accent) for w in words]
+        flat = rule([x for w in sylls for x in w])
         k, rebuilt = 0, []
         for w in sylls:
             part = flat[k:k + len(w)]; k += len(w)
-            rebuilt.append("".join(s + py.MARK_OF_VALUE.get(v or "", "") for s, v in part))
+            rebuilt.append("".join(s + marks.get(v or "", "") for s, v in part))
         result.append(" ".join(rebuilt))
     return re.sub(r"\s+", " ", "".join(result)).strip()
 
@@ -73,12 +86,23 @@ def _test():
     for a, b in cases.items():
         got = spoken(a)
         assert got == b, f"{a!r}: {got!r} != {b!r}"
-    print(f"sandhi: ok ({len(cases)} cases)")
+    hailu = {   # MOE article 107_015, part 3
+        "diamˊ simˋ": "diam+ simˋ", "gongˊ gaiˊ": "gong+ gaiˊ", "shiuˊ boiˇ": "shiu+ boiˇ",
+        "siauˊ sied": "siau+ sied", "zhimˊ teu": "zhim+ teu", "denˊ lu+": "den+ lu+", "foˊ shidˋ": "fo+ shidˋ",
+        "kiug faˋ": "kiugˋ faˋ", "giog daiˊ": "giogˋ daiˊ", "kied foˇ": "kiedˋ foˇ", "fad gog": "fadˋ gog",
+        "giog pun": "giogˋ pun", "fab tu+": "fabˋ tu+", "chud ngibˋ": "chudˋ ngibˋ",
+        "denˊ, lu+": "denˊ, lu+",
+    }
+    for a, b in hailu.items():
+        got = spoken(a, "hailu")
+        assert got == b, f"hailu {a!r}: {got!r} != {b!r}"
+    print(f"sandhi: ok ({len(cases)} Sixian, {len(hailu)} Hailu cases)")
 
 
 if __name__ == "__main__":
     if sys.argv[1:] == ["--test"]:
         _test()
     else:
-        for a in sys.argv[1:]:
-            print(spoken(a))
+        acc = "hailu" if sys.argv[1:2] == ["--hailu"] else "sixian"
+        for a in sys.argv[2 if acc == "hailu" else 1:]:
+            print(spoken(a, acc))
