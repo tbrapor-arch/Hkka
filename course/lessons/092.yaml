@@ -216,9 +216,13 @@ new_words:
   - {hanzi: 涼爽, pinyin: "liongˇ songˋ", en: "pleasantly cool", hl: {hanzi: 涼爽, pinyin: "liong songˊ"}}
   - {hanzi: 現代, pinyin: "hien toi", en: "modern, today", hl: {hanzi: 現代, pinyin: "hien+ toi+"}}
   - {hanzi: 結果, pinyin: "giedˋ goˋ", en: "in the end, as a result", hl: {hanzi: 結果, pinyin: "gied goˊ"}}
+  - {hanzi: 開學, pinyin: "koiˊ hog", en: "start of term", hl: {hanzi: 開學, pinyin: "koiˋ hogˋ"}}
 
 exercises:
   translate:
+    - en: "School starts again next week."
+      sx: {hanzi: "下禮拜開學。", pinyin: "ha liˊ bai koiˊ hog."}
+      hl: {hanzi: "下禮拜開學。", pinyin: "ha+ liˋ baiˇ koiˋ hogˋ."}
     - en: "People today eat and chat at Mid-Autumn, and in the end nobody looks at the moon."
       sx: {hanzi: "現代人過八月半淨食淨講，結果大家都無看月光。", pinyin: "hien toi nginˇ go badˋ ngied ban qiang siid qiang gongˋ, giedˋ goˋ tai gaˊ du moˇ kon ngied gongˊ."}
       hl: {hanzi: "現代人過八月半淨食淨講，結果大家都無看月光。", pinyin: "hien+ toi+ ngin goˇ bad ngiedˋ banˇ ciang+ shidˋ ciang+ gongˊ, gied goˊ tai+ gaˋ du+ mo konˇ ngiedˋ gongˋ."}

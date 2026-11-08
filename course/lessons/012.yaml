@@ -123,9 +123,22 @@ new_words:
   - {hanzi: 腳, pinyin: "giogˋ", en: "foot, leg", hl: {hanzi: 腳, pinyin: "giog"}}
   - {hanzi: 發燒, pinyin: "fadˋ seuˊ", en: "have a fever", hl: {hanzi: 發燒, pinyin: "fad shauˋ"}}
   - {hanzi: 藥仔, pinyin: "iog eˋ", en: "medicine", hl: {hanzi: 藥仔, pinyin: "rhogˋ er"}}
+  - {hanzi: 便所, pinyin: "pien soˋ", en: "toilet", hl: {hanzi: 便所, pinyin: "pien+ soˊ"}}
+  - {hanzi: 屙屎, pinyin: "oˊ siiˋ", en: "go for a poo (the plain word)", hl: {hanzi: 屙屎, pinyin: "oˋ shiˊ"}}
+  - {hanzi: 屙尿, pinyin: "oˊ ngiau", en: "have a pee (the plain word)", hl: {hanzi: 屙尿, pinyin: "oˋ ngiau+"}}
+  - {hanzi: 屁, pinyin: "pi", en: "fart", hl: {hanzi: 屁, pinyin: "piˇ"}}
 
 exercises:
   translate:
+    - en: "Where's the toilet? I need a pee."
+      sx: {hanzi: "便所在哪位？𠊎愛屙尿。", pinyin: "pien soˋ coiˊ nai vi? ngaiˇ oi oˊ ngiau."}
+      hl: {hanzi: "便所在哪位？𠊎愛屙尿。", pinyin: "pien+ soˊ coiˋ nai+ vui+? ngai oiˇ oˋ ngiau+."}
+    - en: "His stomach hurts: he needs a poo."
+      sx: {hanzi: "佢肚屎痛，愛屙屎。", pinyin: "giˇ duˋ siiˋ tung, oi oˊ siiˋ."}
+      hl: {hanzi: "佢肚屎痛，愛屙屎。", pinyin: "gi duˊ shiˊ tungˇ, oiˇ oˋ shiˊ."}
+    - en: "Who farted?"
+      sx: {hanzi: "麼人放屁？", pinyin: "maˋ nginˇ biong pi?"}
+      hl: {hanzi: "麼人放屁？", pinyin: "maˊ ngin biongˇ piˇ?"}
     - en: "My head hurts, and my eyes hurt too."
       sx: {hanzi: "𠊎頭那痛，目珠乜痛。", pinyin: "ngaiˇ teuˇ naˇ tung, mugˋ zuˊ me tung."}
       hl: {hanzi: "𠊎頭那痛，目珠乜痛。", pinyin: "ngai teu na tungˇ, mug zhuˋ meˇ tungˇ."}

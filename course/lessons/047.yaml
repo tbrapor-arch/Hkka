@@ -162,9 +162,14 @@ new_words:
   - {hanzi: 實在, pinyin: "siid cai", en: "really, truly", hl: {hanzi: 實在, pinyin: "shidˋ cai+"}}
   - {hanzi: 明明, pinyin: "minˇ minˇ", en: "plainly, obviously", hl: {hanzi: 明明, pinyin: "min min"}}
   - {hanzi: 錯, pinyin: "co", en: "mistake; wrong", hl: {hanzi: 錯, pinyin: "coˇ"}}
+  - {hanzi: 踢, pinyin: "tedˋ", en: "kick", hl: {hanzi: 踢, pinyin: "ted"}}
+  - {hanzi: 毋見忒, pinyin: "mˇ gien tedˋ", en: "gone, missing", hl: {hanzi: 毋見忒, pinyin: "m gienˇ ted"}}
 
 exercises:
   translate:
+    - en: "Don't kick the door! — My money's gone missing!"
+      sx: {hanzi: "莫踢門！——𠊎个錢毋見忒吔！", pinyin: "mog tedˋ munˇ! — ngaiˇ ge qienˇ mˇ gien tedˋ leˊ!"}
+      hl: {hanzi: "莫踢門！——𠊎个錢毋見忒咧！", pinyin: "mogˋ ted mun! — ngai gaiˇ cien m gienˇ ted leˋ!"}
     - en: "Don't spend money any old how, and don't waste it."
       sx: {hanzi: "莫儘採花錢，乜莫浪費。", pinyin: "mog qinˋ caiˋ faˊ qienˇ, me mog long fi."}
       hl: {hanzi: "莫儘採花錢，乜莫浪費。", pinyin: "mogˋ cinˊ caiˊ faˋ cien, meˇ mogˋ long+ fuiˇ."}

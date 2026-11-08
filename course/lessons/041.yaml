@@ -149,9 +149,14 @@ new_words:
   - {hanzi: 好心, pinyin: "hoˋ ximˊ", en: "kind-hearted", hl: {hanzi: 好心, pinyin: "hoˊ simˋ"}}
   - {hanzi: 狗, pinyin: "gieuˋ", en: "dog", hl: {hanzi: 狗, pinyin: "gieuˊ"}}
   - {hanzi: 擔心, pinyin: "damˊ ximˊ", en: "worry (about)", hl: {hanzi: 擔心, pinyin: "damˋ simˋ"}}
+  - {hanzi: 懶, pinyin: "lanˊ", en: "lazy", hl: {hanzi: 懶, pinyin: "nanˋ"}}
+  - {hanzi: 𠊎自家, pinyin: "ngaiˇ qi gaˊ", en: "myself", hl: {hanzi: 𠊎自家, pinyin: "ngai cid gaˋ"}}
 
 exercises:
   translate:
+    - en: "I'm not lazy; I'll find someone myself."
+      sx: {hanzi: "𠊎毋懶，𠊎自家會尋。", pinyin: "ngaiˇ mˇ lanˊ, ngaiˇ qi gaˊ voi qimˇ."}
+      hl: {hanzi: "𠊎毋懶，𠊎自家會尋。", pinyin: "ngai m nanˋ, ngai cid gaˋ voi+ cim."}
     - en: "My brother didn't do as he was told, and Mum was very angry."
       sx: {hanzi: "老弟毋聽話，阿姆當譴。", pinyin: "loˋ taiˊ mˇ tangˊ fa, aˊ meˊ dongˊ kienˋ."}
       hl: {hanzi: "老弟毋聽話，阿姆當閼。", pinyin: "loˊ taiˋ m tangˋ faˇ, a+ meˋ dongˋ ad."}

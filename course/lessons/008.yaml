@@ -128,9 +128,14 @@ new_words:
   - {hanzi: 辣, pinyin: "lad", en: "hot, spicy", hl: {hanzi: 辣, pinyin: "ladˋ"}}
   - {hanzi: 烏, pinyin: "vuˊ", en: "black", hl: {hanzi: 烏, pinyin: "vuˋ"}}
   - {hanzi: 白, pinyin: "pag", en: "white", hl: {hanzi: 白, pinyin: "pagˋ"}}
+  - {hanzi: 花園, pinyin: "faˊ ienˇ", en: "garden", hl: {hanzi: 花園, pinyin: "faˋ rhan"}}
+  - {hanzi: 蟲仔, pinyin: "cungˇ eˋ", en: "insect, bug", hl: {hanzi: 蟲仔, pinyin: "chung er"}}
 
 exercises:
   translate:
+    - en: "There are bugs in Grandma's garden."
+      sx: {hanzi: "阿婆个花園有蟲仔。", pinyin: "aˊ poˇ ge faˊ ienˇ iuˊ cungˇ eˋ."}
+      hl: {hanzi: "阿婆个花園有蟲仔。", pinyin: "a+ po gaiˇ faˋ rhan rhiuˋ chung er."}
     - en: "This tea is very sweet."
       sx: {hanzi: "這茶當甜。", pinyin: "iaˋ caˇ dongˊ tiamˇ."}
       hl: {hanzi: "這茶當甜。", pinyin: "liaˊ ca dongˋ tiam."}

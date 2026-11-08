@@ -149,9 +149,18 @@ new_words:
   - {hanzi: 練習, pinyin: "lien xib", en: "practise, train", hl: {hanzi: 練習, pinyin: "lien+ sibˋ"}}
   - {hanzi: 隊, pinyin: "cui", en: "team", hl: {hanzi: 隊, pinyin: "chui+"}}
   - {hanzi: 終點, pinyin: "zungˊ diamˋ", en: "finishing line", hl: {hanzi: 終點, pinyin: "zhungˋ diamˊ"}}
+  - {hanzi: 拜一, pinyin: "bai idˋ", en: "Monday (short for 禮拜一)", hl: {hanzi: 拜一, pinyin: "baiˇ rhid"}}
+  - {hanzi: 校長, pinyin: "gauˋ zongˋ", en: "headmaster", hl: {hanzi: 校長, pinyin: "gauˊ zhongˊ"}}
+  - {hanzi: 溜滑梯, pinyin: "liu vad toiˊ", en: "slide", hl: {hanzi: 溜滑梯, pinyin: "liuˇ vadˋ toiˋ"}}
 
 exercises:
   translate:
+    - en: "On Monday the headmaster is coming."
+      sx: {hanzi: "拜一校長愛來。", pinyin: "bai idˋ gauˋ zongˋ oi loiˇ."}
+      hl: {hanzi: "拜一校長愛來。", pinyin: "baiˇ rhid gauˊ zhongˊ oiˇ loi."}
+    - en: "The little ones are playing on the slide."
+      sx: {hanzi: "細人仔在該溜滑梯。", pinyin: "se nginˇ eˋ du ge liu vad toiˊ."}
+      hl: {hanzi: "細人仔在該溜滑梯。", pinyin: "seˇ ngin er diˇ gai liuˇ vadˋ toiˋ."}
     - en: "The sports day started this morning; lots of people came."
       sx: {hanzi: "運動會今晡日朝晨正式開始，當多人來參加。", pinyin: "iun tung fi gimˊ buˊ ngidˋ zeuˊ siinˇ ziin siidˋ koiˊ ciiˋ, dongˊ doˊ nginˇ loiˇ camˊ gaˊ."}
       hl: {hanzi: "運動會今晡日朝晨正式開始，當多人來參加。", pinyin: "rhun+ tung+ fui+ gimˋ buˋ ngid zhauˋ shin zhinˇ shid koiˋ shiˊ, dongˋ doˋ ngin loi camˋ gaˋ."}

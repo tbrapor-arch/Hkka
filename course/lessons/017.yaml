@@ -117,9 +117,13 @@ new_words:
   - {hanzi: 後背, pinyin: "heu boi", en: "behind, at the back", hl: {hanzi: 後背, pinyin: "heu+ boiˇ"}}
   - {hanzi: 隔壁, pinyin: "gagˋ biagˋ", en: "next door", hl: {hanzi: 隔壁, pinyin: "gag biag"}}
   - {hanzi: 出, pinyin: "cudˋ", en: "go out, come out", hl: {hanzi: 出, pinyin: "chud"}}
+  - {hanzi: 面前, pinyin: "mien qienˇ", en: "in front (of)", hl: {hanzi: 面前, pinyin: "mienˇ cien"}}
 
 exercises:
   translate:
+    - en: "He is right in front of you."
+      sx: {hanzi: "佢就在你面前。", pinyin: "giˇ qiu coiˊ nˇ mien qienˇ."}
+      hl: {hanzi: "佢就在你面前。", pinyin: "gi ciu+ coiˋ ngi mienˇ cien."}
     - en: "How do I get to the school?"
       sx: {hanzi: "學校仰般去？", pinyin: "hog gauˋ ngiongˋ banˊ hi?"}
       hl: {hanzi: "學校仰般去？", pinyin: "hogˋ gauˊ ngiongˊ banˋ hiˇ?"}

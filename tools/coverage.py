@@ -5,6 +5,10 @@
 
 Next words are chosen like the syllabus: lowest certification level first (基礎級 → 初級 → 中級), and within a
 level by frequency; Hakka-only words and false friends are listed first because they are the ones that need notes.
+
+Pattern entries (…兜, …背, …肚, 拜…, 當在該…) count as covered when their stem is taught with the listed reading,
+either alone (當在該, 拜一 for 拜…) or as the matching end (or start) of a taught word: …肚 is covered by 書包肚,
+…兜 by 你兜, …片 by 這片. The bare stem must keep the list's reading of that syllable.
 """
 import glob
 import os
@@ -35,9 +39,23 @@ core = con.execute("SELECT v.hanzi, v.pinyin, v.pkey, v.level, v.mandarin, e.cog
                    "coalesce(e.glossika_freq, 0) * 10 + coalesce(e.corpus_freq, 0) AS f "
                    "FROM v_core v JOIN entry e USING(id) ORDER BY f DESC").fetchall()
 print(f"lessons written: {len(per_lesson)}; words taught: {len(taught)}")
+def covered(hz, k):
+    if (hz, k) in taught:
+        return True
+    stem = hz.replace("...", "…").strip("…")
+    if not stem or stem == hz:
+        return False
+    if (stem, k) in taught:
+        return True
+    n = len(k.split("-"))
+    if hz.startswith("…"):   # …X: a taught word ending in X with the same syllables
+        return any(t.endswith(stem) and tk.split("-")[-n:] == k.split("-") for t, tk in taught)
+    return any(t.startswith(stem) and tk.split("-")[:n] == k.split("-") for t, tk in taught)
+
+
 for lvl in ("基礎級", "初級", "中級"):
     part = [r for r in core if r[3] == lvl]
-    got = sum((r[0], r[2]) in taught for r in part)
+    got = sum(covered(r[0], r[2]) for r in part)
     print(f"  {lvl}: {got}/{len(part)} ({100 * got // max(1, len(part))}%)")
 if per_lesson:
     print("\npacing (new words / target):")
@@ -45,7 +63,7 @@ if per_lesson:
 
 want = int(sys.argv[1]) if len(sys.argv) > 1 else 40
 order = {"基礎級": 0, "初級": 1, "中級": 2}
-todo = [r for r in core if (r[0], r[2]) not in taught]
+todo = [r for r in core if not covered(r[0], r[2])]
 todo.sort(key=lambda r: (order.get(r[3], 9), r[5] not in ("hakka-only", "false-friend")))
 print(f"\nnext {want} core words (level, then Hakka-only / false friends first, then frequency):")
 for r in todo[:want]:

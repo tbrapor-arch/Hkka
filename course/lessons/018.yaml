@@ -115,9 +115,14 @@ new_words:
   - {hanzi: 海, pinyin: "hoiˋ", en: "sea", hl: {hanzi: 海, pinyin: "hoiˊ"}}
   - {hanzi: 留, pinyin: "liuˇ", en: "stay, keep", hl: {hanzi: 留, pinyin: "liu"}}
   - {hanzi: 煮, pinyin: "zuˋ", en: "cook, boil", hl: {hanzi: 煮, pinyin: "zhuˊ"}}
+  - {hanzi: 機車, pinyin: "giˊ caˊ", en: "scooter", hl: {hanzi: 機車, pinyin: "giˋ chaˋ"}}
+  - {hanzi: 汽車, pinyin: "hi caˊ", en: "car", hl: {hanzi: 汽車, pinyin: "hiˇ chaˋ"}}
 
 exercises:
   translate:
+    - en: "Are we going by car or by scooter?"
+      sx: {hanzi: "坐汽車去，抑係坐機車去？", pinyin: "coˊ hi caˊ hi, ia he coˊ giˊ caˊ hi?"}
+      hl: {hanzi: "坐汽車去，抑係坐機車去？", pinyin: "coˋ hiˇ chaˋ hiˇ, rha+ heˇ coˋ giˋ chaˋ hiˇ?"}
     - en: "Do you want tea or soup?"
       sx: {hanzi: "你愛食茶，抑係食湯？", pinyin: "nˇ oi siid caˇ, ia he siid tongˊ?"}
       hl: {hanzi: "你愛食茶，抑係食湯？", pinyin: "ngi oiˇ shidˋ ca, rha+ heˇ shidˋ tongˋ?"}

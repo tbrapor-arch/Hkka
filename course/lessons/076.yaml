@@ -198,9 +198,13 @@ new_words:
   - {hanzi: 慶祝, pinyin: "kin zugˋ", en: "celebrate", hl: {hanzi: 慶祝, pinyin: "kinˇ zhug"}}
   - {hanzi: 胡椒, pinyin: "fuˇ zeuˊ", en: "pepper", hl: {hanzi: 胡椒, pinyin: "fu ziauˋ"}}
   - {hanzi: 炒肉, pinyin: "cauˋ ngiugˋ", en: "fried pork (dish)", hl: {hanzi: 炒肉, pinyin: "cauˊ ngiug"}}
+  - {hanzi: 老鼠, pinyin: "lo cuˋ", en: "rat, mouse", hl: {hanzi: 老鼠, pinyin: "loˊ chuˊ"}}
 
 exercises:
   translate:
+    - en: "There's a mouse in the kitchen!"
+      sx: {hanzi: "灶下有老鼠！", pinyin: "zo haˊ iuˊ lo cuˋ!"}
+      hl: {hanzi: "灶下有老鼠！", pinyin: "zoˇ haˋ rhiuˋ loˊ chuˊ!"}
     - en: "That fish isn't cooked through: you can't eat it!"
       sx: {hanzi: "該尾魚仔無煮熟，食毋得！", pinyin: "ge miˊ ngˇ eˋ moˇ zuˋ sug, siid mˇ dedˋ!"}
       hl: {hanzi: "該尾魚仔無煮熟，食毋得！", pinyin: "gai muiˋ ng er mo zhuˊ shugˋ, shidˋ m ded!"}

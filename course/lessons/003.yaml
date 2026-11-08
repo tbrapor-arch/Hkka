@@ -126,9 +126,13 @@ new_words:
   - {hanzi: 毋, pinyin: "mˇ", en: "not, won't (不)", hl: {hanzi: 毋, pinyin: "m"}}
   - {hanzi: 兩, pinyin: "liongˋ", en: "two (counting)", hl: {hanzi: 兩, pinyin: "liongˊ"}}
   - {hanzi: 飯, pinyin: "fan", en: "rice, meal", hl: {hanzi: 飯, pinyin: "pon+"}}
+  - {hanzi: 食飽吂, pinyin: "siid bauˋ mangˇ", en: "have you eaten? (greeting)", hl: {hanzi: 食飽吂, pinyin: "shidˋ bauˊ mang"}}
 
 exercises:
   translate:
+    - en: "Have you eaten? — Not yet."
+      sx: {hanzi: "你食飽吂？——吂。", pinyin: "nˇ siid bauˋ mangˇ? — mangˇ."}
+      hl: {hanzi: "你食飽吂？——吂。", pinyin: "ngi shidˋ bauˊ mang? — mang."}
     - en: "A-min hasn't eaten yet."
       sx: {hanzi: "阿明還吂食飯。", pinyin: "aˊ minˇ hanˇ mangˇ siid fan."}
       hl: {hanzi: "阿明還吂食飯。", pinyin: "a+ min han mang shidˋ pon+."}

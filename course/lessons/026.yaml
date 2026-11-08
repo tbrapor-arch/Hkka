@@ -131,9 +131,20 @@ new_words:
   - {hanzi: 字, pinyin: "sii", en: "character, word (written)", hl: {hanzi: 字, pinyin: "sii+"}}
   - {hanzi: 學, pinyin: "hog", en: "learn", hl: {hanzi: 學, pinyin: "hogˋ"}}
   - {hanzi: 唱歌, pinyin: "cong goˊ", en: "sing (songs)", hl: {hanzi: 唱歌, pinyin: "chongˇ goˋ"}}
+  - {hanzi: 學生仔, pinyin: "hog sangˊ eˋ", en: "pupil, student", hl: {hanzi: 學生仔, pinyin: "hogˋ sangˋ er"}}
+  - {hanzi: 書包仔, pinyin: "suˊ bauˊ eˋ", en: "school bag", hl: {hanzi: 書包, pinyin: "shuˋ bauˋ"}}
+  - {hanzi: 捽仔, pinyin: "cud eˋ", en: "eraser", hl: {hanzi: 捽仔, pinyin: "cudˋ er"}}
+  - {hanzi: 球仔, pinyin: "kiuˇ eˋ", en: "ball", hl: {hanzi: 球仔, pinyin: "kiu er"}}
+  - {hanzi: 圖, pinyin: "tuˇ", en: "picture, drawing", hl: {hanzi: 圖, pinyin: "tu"}}
 
 exercises:
   translate:
+    - en: "The pupil has a ball and an eraser in his school bag."
+      sx: {hanzi: "學生仔个書包仔肚有一粒球仔同一隻捽仔。", pinyin: "hog sangˊ eˋ ge suˊ bauˊ eˋ duˋ iuˊ idˋ liab kiuˇ eˋ tungˇ idˋ zagˋ cud eˋ."}
+      hl: {hanzi: "學生仔个書包肚有一粒球仔摎一隻捽仔。", pinyin: "hogˋ sangˋ er gaiˇ shuˋ bauˋ duˊ rhiuˋ rhid liab kiu er lauˋ rhid zhag cudˋ er."}
+    - en: "This is A-min's drawing."
+      sx: {hanzi: "這係阿明个圖。", pinyin: "iaˋ he aˊ minˇ ge tuˇ."}
+      hl: {hanzi: "這係阿明个圖。", pinyin: "liaˊ heˇ a+ min gaiˇ tu."}
     - en: "Sam likes watching films."
       sx: {hanzi: "Sam 好看電影。", pinyin: "Sam hau kon tien iangˋ."}
       hl: {hanzi: "Sam 好看電影。", pinyin: "Sam hauˇ konˇ tien+ rhangˊ."}

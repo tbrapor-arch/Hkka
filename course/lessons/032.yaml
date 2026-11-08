@@ -111,6 +111,12 @@ notes:
       這毋係！ "here it is!", literally "isn't this (it)?": a rhetorical question used as a pointer. None of the official
       example sentences uses it in this sense, so the line is marked for a native speaker's check. 目鏡 mugˋ giang
       "glasses" (目 "eye" + 鏡 "lens"); 頭那頂 "on (one's) head": 頭那 (lesson 12) + 頂 "top".
+  - ref: 0
+    topic: vocab
+    text: >
+      狗仔, 貓仔 (exercises): many everyday Sixian nouns carry 仔 (狗仔, 貓仔, 牛仔, 豬仔, 球仔, 車仔…), and the bare
+      form is the one used in compounds and in writing (狗, 牛車). The official word pairs show Hailu often without it
+      (狗, 牛, 馬, 襪), but keeping it in others (貓仔 ngiauˇ er, 豬仔, 球仔).
 
 new_words:
   - {hanzi: 女, pinyin: "ngˋ", en: "woman, female", hl: {hanzi: 女, pinyin: "ngˊ"}}
@@ -134,8 +140,15 @@ new_words:
   - {hanzi: 全部, pinyin: "qionˇ pu", en: "all, the whole lot", hl: {hanzi: 全部, pinyin: "cion pu+"}}
   - {hanzi: 新娘, pinyin: "xinˊ ngiongˇ", en: "bride", hl: {hanzi: 新娘, pinyin: "sinˋ ngiong"}}
   - {hanzi: 笑, pinyin: "seu", en: "laugh, smile", hl: {hanzi: 笑, pinyin: "siauˇ"}}
+  - {hanzi: 狗仔, pinyin: "gieuˋ eˇ", en: "dog", hl: {hanzi: 狗, pinyin: "gieuˊ"}}
+  - {hanzi: 貓仔, pinyin: "meu eˋ", en: "cat", hl: {hanzi: 貓仔, pinyin: "ngiauˇ er"}}
+  - {hanzi: 咬, pinyin: "ngauˊ", en: "bite", hl: {hanzi: 咬, pinyin: "ngauˋ"}}
+
 exercises:
   translate:
+    - en: "A-tsai's dog bites; the cat doesn't."
+      sx: {hanzi: "阿財个狗仔會咬人，貓仔毋會。", pinyin: "aˊ coiˇ ge gieuˋ eˇ voi ngauˊ nginˇ, meu eˋ mˇ voi."}
+      hl: {hanzi: "阿財个狗會咬人，貓仔毋會。", pinyin: "a+ coi gaiˇ gieuˊ voi+ ngauˋ ngin, ngiauˇ er m voi+."}
     - en: "I hear the neighbour is going to sell his house."
       sx: {hanzi: "聽講鄰舍愛賣屋。", pinyin: "tangˊ gongˋ linˇ sa oi mai vugˋ."}
       hl: {hanzi: "聽講鄰舍愛賣屋。", pinyin: "tangˇ gongˊ lin shaˇ oiˇ mai+ vug."}

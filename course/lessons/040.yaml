@@ -132,9 +132,19 @@ new_words:
   - {hanzi: 葉, pinyin: "iab", en: "leaf", hl: {hanzi: 葉, pinyin: "rhabˋ"}}
   - {hanzi: 新, pinyin: "xinˊ", en: "new", hl: {hanzi: 新, pinyin: "sinˋ"}}
   - {hanzi: 直, pinyin: "ciid", en: "straight", hl: {hanzi: 直, pinyin: "chidˋ"}}
+  - {hanzi: 蛇哥, pinyin: "saˇ goˊ", en: "snake", hl: {hanzi: 蛇, pinyin: "sha"}}
+  - {hanzi: 東, pinyin: "dungˊ", en: "east", hl: {hanzi: 東, pinyin: "dungˋ"}}
+  - {hanzi: 西, pinyin: "xiˊ", en: "west", hl: {hanzi: 西, pinyin: "siˋ"}}
+  - {hanzi: 平, pinyin: "piangˇ", en: "flat, level", hl: {hanzi: 平, pinyin: "piang"}}
 
 exercises:
   translate:
+    - en: "This path is flatter."
+      sx: {hanzi: "這條路較平。", pinyin: "iaˋ tiauˇ lu ka piangˇ."}
+      hl: {hanzi: "這條路較平。", pinyin: "liaˊ tiau lu+ haˇ piang."}
+    - en: "I'll cut the east side, you cut the west side. Careful, there are snakes."
+      sx: {hanzi: "𠊎剪東片，你剪西片。注意，有蛇哥。", pinyin: "ngaiˇ jienˋ dungˊ pienˋ, nˇ jienˋ xiˊ pienˋ. zu i, iuˊ saˇ goˊ."}
+      hl: {hanzi: "𠊎剪東片，你剪西片。注意，有蛇。", pinyin: "ngai zienˊ dungˋ pienˊ, ngi zienˊ siˋ pienˊ. zhuˇ rhiˇ, rhiuˋ sha."}
     - en: "Please get me a newspaper."
       sx: {hanzi: "拜託，摎𠊎拿一張報紙。", pinyin: "bai togˋ, lauˊ ngaiˇ naˊ idˋ zongˊ bo ziiˋ."}
       hl: {hanzi: "拜託，摎𠊎拿一張報紙。", pinyin: "baiˇ tog, lauˋ ngai naˋ rhid zhongˋ boˇ zhiˊ."}

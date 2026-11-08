@@ -142,9 +142,13 @@ new_words:
   - {hanzi: 車, pinyin: "caˊ", en: "car, vehicle", hl: {hanzi: 車, pinyin: "chaˋ"}}
   - {hanzi: 桌仔, pinyin: "zogˋ eˋ", en: "table", hl: {hanzi: 桌, pinyin: "zog"}}
   - {hanzi: 揹, pinyin: "baˇ", en: "carry on the back", hl: {hanzi: 揹, pinyin: "ba"}}
+  - {hanzi: 爬, pinyin: "paˇ", en: "crawl, climb", hl: {hanzi: 爬, pinyin: "pa"}}
 
 exercises:
   translate:
+    - en: "A bug is crawling on the strawberries."
+      sx: {hanzi: "有一隻蟲仔在草莓項爬。", pinyin: "iuˊ idˋ zagˋ cungˇ eˋ coiˊ coˋ moiˇ hong paˇ."}
+      hl: {hanzi: "有一隻蟲仔在草莓項爬。", pinyin: "rhiuˋ rhid zhag chung er coiˋ coˊ moi hong+ pa."}
     - en: "Grandma is wearing a hat and carrying a basket."
       sx: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "aˊ poˇ dai denˋ mo eˋ, naˊ denˋ coi lamˇ."}
       hl: {hanzi: "阿婆戴等帽仔，拿等菜籃。", pinyin: "a+ po daiˇ denˊ mo+ er, naˋ denˊ coiˇ lam."}

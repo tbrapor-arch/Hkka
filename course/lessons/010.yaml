@@ -124,9 +124,17 @@ new_words:
   - {hanzi: 摎, pinyin: "lauˊ", en: "with, to (= 同)", hl: {hanzi: 摎, pinyin: "lauˋ"}}
   - {hanzi: 麼人, pinyin: "maˋ nginˇ", en: "who", hl: {hanzi: 麼人, pinyin: "maˊ ngin"}}
   - {hanzi: 電話, pinyin: "tien fa", en: "telephone", hl: {hanzi: 電話, pinyin: "tien+ faˇ"}}
+  - {hanzi: 𫣆大家, pinyin: "enˊ tai gaˊ", en: "all of us (you included)", hl: {hanzi: 大家, pinyin: "tai+ gaˋ"}}
+  - {hanzi: 正來尞, pinyin: "zang loiˇ liau", en: "come again (goodbye)", hl: {hanzi: 正來尞, pinyin: "zhangˇ loi liau+"}}
 
 exercises:
   translate:
+    - en: "All of us, come and have tea!"
+      sx: {hanzi: "𫣆大家來食茶！", pinyin: "enˊ tai gaˊ loiˇ siid caˇ!"}
+      hl: {hanzi: "大家來食茶！", pinyin: "tai+ gaˋ loi shidˋ ca!"}
+    - en: "Goodbye! Come again!"
+      sx: {hanzi: "正來尞！", pinyin: "zang loiˇ liau!"}
+      hl: {hanzi: "正來尞！", pinyin: "zhangˇ loi liau+!"}
     - en: "We're going to the market tomorrow."
       sx: {hanzi: "𠊎兜天光日愛去買菜。", pinyin: "ngaiˇ deuˊ tienˊ gongˊ ngidˋ oi hi maiˊ coi."}
       hl: {hanzi: "𠊎兜韶早愛去買菜。", pinyin: "ngai deuˋ shau zoˊ oiˇ hiˇ maiˋ coiˇ."}

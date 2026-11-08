@@ -141,7 +141,8 @@ new_words:
   - {hanzi: 打扮, pinyin: "daˋ ban", en: "dress up", hl: {hanzi: 打扮, pinyin: "daˊ banˇ"}}
   - {hanzi: 分, pinyin: "funˊ", en: "part, tenth", hl: {hanzi: 分, pinyin: "funˋ"}}
   - {hanzi: 敬酒, pinyin: "gin jiuˋ", en: "drink a toast to", hl: {hanzi: 敬酒, pinyin: "ginˇ ziuˊ"}}
-  - {hanzi: 哪, pinyin: "nai", en: "which (哪久 when, 哪位 where)", hl: {hanzi: 哪, pinyin: "nai+"}}
+  - {hanzi: 哪, pinyin: "nai", en: "which (哪位 where)", hl: {hanzi: 哪, pinyin: "nai+"}}
+  - {hanzi: 哪久, pinyin: "nai giuˋ", en: "when", hl: {hanzi: 哪久, pinyin: "nai+ giuˊ"}}
   - {hanzi: 乾杯, pinyin: "gonˊ biˊ", en: "bottoms up, cheers", hl: {hanzi: 乾杯, pinyin: "gonˋ buiˋ"}}
   - {hanzi: 恭喜, pinyin: "giungˊ hiˋ", en: "congratulations", hl: {hanzi: 恭喜, pinyin: "giungˋ hiˊ"}}
   - {hanzi: 祝, pinyin: "zugˋ", en: "wish (someone something)", hl: {hanzi: 祝, pinyin: "zhug"}}
@@ -156,9 +157,16 @@ new_words:
   - {hanzi: 感謝, pinyin: "gamˋ qia", en: "thank (for something)", hl: {hanzi: 感謝, pinyin: "gamˊ cia+"}}
   - {hanzi: 夫妻, pinyin: "fuˊ qiˊ", en: "husband and wife", hl: {hanzi: 夫妻, pinyin: "fuˋ ciˋ"}}
   - {hanzi: 半朝, pinyin: "ban zeuˊ", en: "half a morning", hl: {hanzi: 半朝, pinyin: "banˇ zhauˋ"}}
+  - {hanzi: 杯仔, pinyin: "biˊ eˋ", en: "cup", hl: {hanzi: 杯仔, pinyin: "buiˋ er"}}
 
 exercises:
   translate:
+    - en: "Which one do you want? — That one."
+      sx: {hanzi: "你愛哪隻？——該隻。", pinyin: "nˇ oi nai zagˋ? — ge zagˋ."}
+      hl: {hanzi: "你愛哪隻？——該隻。", pinyin: "ngi oiˇ nai+ zhag? — gai zhag."}
+    - en: "One more cup!"
+      sx: {hanzi: "加一杯仔！", pinyin: "gaˊ idˋ biˊ eˋ!"}
+      hl: {hanzi: "加一杯仔！", pinyin: "gaˋ rhid buiˋ er!"}
     - en: "Everyone toasts the newly-weds."
       sx: {hanzi: "大家摎新人敬酒。", pinyin: "tai gaˊ lauˊ xinˊ nginˇ gin jiuˋ."}
       hl: {hanzi: "大家摎新人敬酒。", pinyin: "tai+ gaˋ lauˋ sinˋ ngin ginˇ ziuˊ."}

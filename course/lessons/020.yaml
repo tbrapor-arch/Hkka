@@ -123,9 +123,14 @@ new_words:
   - {hanzi: 久, pinyin: "giuˋ", en: "long (time)", hl: {hanzi: 久, pinyin: "giuˊ"}}
   - {hanzi: 歌, pinyin: "goˊ", en: "song", hl: {hanzi: 歌, pinyin: "goˋ"}}
   - {hanzi: 老人家, pinyin: "loˋ nginˇ gaˊ", en: "old person, the elderly", hl: {hanzi: 老人家, pinyin: "loˊ ngin gaˋ"}}
+  - {hanzi: 牛仔, pinyin: "ngiuˇ eˋ", en: "cow, buffalo", hl: {hanzi: 牛, pinyin: "ngiu"}}
+  - {hanzi: 死, pinyin: "xiˋ", en: "die", hl: {hanzi: 死, pinyin: "siˊ"}}
 
 exercises:
   translate:
+    - en: "In the old days Grandpa had a buffalo. That buffalo died."
+      sx: {hanzi: "頭擺阿公有一條牛仔，該條牛仔死吔。", pinyin: "teuˇ baiˋ aˊ gungˊ iuˊ idˋ tiauˇ ngiuˇ eˋ, ge tiauˇ ngiuˇ eˋ xiˋ leˊ."}
+      hl: {hanzi: "頭擺阿公有一條牛，該條牛死咧。", pinyin: "teu baiˊ a+ gungˋ rhiuˋ rhid tiau ngiu, gai tiau ngiu siˊ leˋ."}
     - en: "Grandpa is seventy-eight this year."
       sx: {hanzi: "阿公今年七十八歲。", pinyin: "aˊ gungˊ gimˊ ngienˇ qidˋ siib badˋ se."}
       hl: {hanzi: "阿公今年七十八歲。", pinyin: "a+ gungˋ gimˋ ngien cid shibˋ bad soiˇ."}

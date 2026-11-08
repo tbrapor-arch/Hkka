@@ -137,9 +137,18 @@ new_words:
   - {hanzi: 上晝, pinyin: "song zu", en: "morning (before noon)", hl: {hanzi: 上晝, pinyin: "shong+ zhiuˇ"}}
   - {hanzi: 當晝, pinyin: "dongˊ zu", en: "midday, noon", hl: {hanzi: 當晝, pinyin: "dongˋ zhiuˇ"}}
   - {hanzi: 客人, pinyin: "hagˋ nginˇ", en: "Hakka people", hl: {hanzi: 客人, pinyin: "hag ngin"}}
+  - {hanzi: 發票, pinyin: "fadˋ peuˊ", en: "receipt", hl: {hanzi: 發票, pinyin: "fad piauˇ"}}
+  - {hanzi: 減, pinyin: "gamˋ", en: "reduce, take off", hl: {hanzi: 減, pinyin: "gamˊ"}}
+  - {hanzi: 口, pinyin: "heuˋ", en: "mouthful", hl: {hanzi: 口, pinyin: "heuˊ"}}
 
 exercises:
   translate:
+    - en: "Take a hundred off. The receipt's here."
+      sx: {hanzi: "減一百。發票在這。", pinyin: "gamˋ idˋ bagˋ. fadˋ peuˊ coiˊ iaˋ."}
+      hl: {hanzi: "減一百。發票在這。", pinyin: "gamˊ rhid bag. fad piauˇ coiˋ liaˊ."}
+    - en: "Have a mouthful of tea."
+      sx: {hanzi: "食一口茶。", pinyin: "siid idˋ heuˋ caˇ."}
+      hl: {hanzi: "食一口茶。", pinyin: "shidˋ rhid heuˊ ca."}
     - en: "I'm busy this morning; I'm free this afternoon."
       sx: {hanzi: "𠊎上晝無閒，下晝有閒。", pinyin: "ngaiˇ song zu moˇ hanˇ, haˊ zu iuˊ hanˇ."}
       hl: {hanzi: "𠊎上晝無閒，下晝有閒。", pinyin: "ngai shong+ zhiuˇ mo han, haˋ zhiuˇ rhiuˋ han."}

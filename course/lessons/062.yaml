@@ -142,9 +142,15 @@ new_words:
   - {hanzi: 以, pinyin: "iˊ", en: "(以後) after", hl: {hanzi: 以, pinyin: "rhiˋ"}}
   - {hanzi: 起, pinyin: "hiˋ", en: "(after a verb) start to; build", hl: {hanzi: 起, pinyin: "hiˊ"}}
   - {hanzi: 爺哀, pinyin: "iaˇ oiˊ", en: "parents", hl: {hanzi: 爺哀, pinyin: "rha oiˋ"}}
+  - {hanzi: 頁, pinyin: "iab", en: "page", hl: {hanzi: 頁, pinyin: "rhabˋ"}}
+  - {hanzi: 文字, pinyin: "vunˇ sii", en: "writing, script", hl: {hanzi: 文字, pinyin: "vun sii+"}}
+  - {hanzi: 行, pinyin: "hongˇ", en: "line (of writing), hongˇ", hl: {hanzi: 行, pinyin: "hong"}}
 
 exercises:
   translate:
+    - en: "Two pages of letter, and two lines of it in Hakka script."
+      sx: {hanzi: "兩頁信，有兩行用客家文字寫。", pinyin: "liongˋ iab xin, iuˊ liongˋ hongˇ iung hagˋ gaˊ vunˇ sii xiaˋ."}
+      hl: {hanzi: "兩頁信，有兩行用客家文字寫。", pinyin: "liongˊ rhabˋ sinˇ, rhiuˋ liongˊ hong rhung+ hag gaˋ vun sii+ siaˊ."}
     - en: "Since going abroad he can't get used to the food there, and often misses the taste of home."
       sx: {hanzi: "出國以後，佢食毋慣該片个東西，輒輒想念起屋下个家鄉味。", pinyin: "cudˋ guedˋ iˊ heu, giˇ siid mˇ guan ge pienˋ ge dungˊ xiˊ, jiab jiab xiongˋ ngiam hiˋ vugˋ kaˊ ge gaˊ hiongˊ mi."}
       hl: {hanzi: "出國以後，佢食毋慣該片个東西，輒輒想念起屋下个家鄉味。", pinyin: "chud gued rhiˋ heu+, gi shidˋ m guanˇ gai pienˊ gaiˇ dungˋ siˋ, ziabˋ ziabˋ siongˊ ngiam+ hiˊ vug haˋ gaiˇ gaˋ hiongˋ mui+."}

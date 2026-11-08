@@ -141,9 +141,13 @@ new_words:
   - {hanzi: 恁久, pinyin: "anˋ giuˋ", en: "so long; lately", hl: {hanzi: 恁久, pinyin: "anˊ giuˊ"}}
   - {hanzi: 平安, pinyin: "pinˇ onˊ", en: "safe and well, peace", hl: {hanzi: 平安, pinyin: "pin onˋ"}}
   - {hanzi: 伯婆, pinyin: "bagˋ poˇ", en: "great-aunt (grandfather's elder brother's wife)", hl: {hanzi: 伯婆, pinyin: "bag po"}}
+  - {hanzi: 在, pinyin: "cai", en: "be (somewhere): cai, the 115 lists' reading in 無人在屋下", hl: {hanzi: 在, pinyin: "cai+"}}
 
 exercises:
   translate:
+    - en: "There's nobody at home."
+      sx: {hanzi: "無人在屋下。", pinyin: "moˇ nginˇ cai vugˋ kaˊ."}
+      hl: {hanzi: "無人在屋下。", pinyin: "mo ngin cai+ vug haˋ."}
     - en: "Grandma burns incense at the shrine every morning."
       sx: {hanzi: "阿婆逐日朝晨去伯公下燒香。", pinyin: "aˊ poˇ dagˋ ngidˋ zeuˊ siinˇ hi bagˋ gungˊ haˊ seuˊ hiongˊ."}
       hl: {hanzi: "阿婆逐日朝晨去伯公下燒香。", pinyin: "a+ po dag ngid zhauˋ shin hiˇ bag gungˋ haˋ shauˋ hiongˋ."}

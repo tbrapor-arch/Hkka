@@ -127,9 +127,13 @@ new_words:
   - {hanzi: 燒, pinyin: "seuˊ", en: "hot (to the touch)", hl: {hanzi: 燒, pinyin: "shauˋ"}}
   - {hanzi: 熱, pinyin: "ngied", en: "hot (weather)", hl: {hanzi: 熱, pinyin: "ngiedˋ"}}
   - {hanzi: 衫, pinyin: "samˊ", en: "top, shirt", hl: {hanzi: 衫, pinyin: "samˋ"}}
+  - {hanzi: 前年, pinyin: "qienˇ ngienˇ", en: "the year before last", hl: {hanzi: 前年, pinyin: "cien ngien"}}
 
 exercises:
   translate:
+    - en: "The year before last it was freezing."
+      sx: {hanzi: "前年當寒。", pinyin: "qienˇ ngienˇ dongˊ honˇ."}
+      hl: {hanzi: "前年當冷。", pinyin: "cien ngien dongˋ langˋ."}
     - en: "It's going to rain tomorrow."
       sx: {hanzi: "天光日會落雨。", pinyin: "tienˊ gongˊ ngidˋ voi log iˋ."}
       hl: {hanzi: "韶早會落水。", pinyin: "shau zoˊ voi+ logˋ shuiˊ."}

@@ -187,9 +187,18 @@ new_words:
   - {hanzi: 阿舅, pinyin: "aˊ kiuˊ", en: "uncle (mother's brother)", hl: {hanzi: 阿舅, pinyin: "a+ kiuˋ"}}
   - {hanzi: 家, pinyin: "gaˊ", en: "family, household (人家 people, others)", hl: {hanzi: 家, pinyin: "gaˋ"}}
   - {hanzi: 酒席, pinyin: "jiuˋ xid", en: "banquet (the meal)", hl: {hanzi: 酒席, pinyin: "ziuˊ sidˋ"}}
+  - {hanzi: 細阿哥仔, pinyin: "se aˊ goˊ eˋ", en: "young man, lad", hl: {hanzi: 細阿哥仔, pinyin: "seˇ a+ goˋ er"}}
+  - {hanzi: 細阿妹仔, pinyin: "se aˊ moi eˋ", en: "young woman, girl", hl: {hanzi: 細阿妹仔, pinyin: "seˇ a+ moiˇ er"}}
+  - {hanzi: 姊丈, pinyin: "jiˋ congˊ", en: "elder sister's husband", hl: {hanzi: 姊丈, pinyin: "ziˊ chongˋ"}}
 
 exercises:
   translate:
+    - en: "He is my elder sister's husband."
+      sx: {hanzi: "佢係𠊎个姊丈。", pinyin: "giˇ he ngaiˇ ge jiˋ congˊ."}
+      hl: {hanzi: "佢係𠊎个姊丈。", pinyin: "gi heˇ ngai gaiˇ ziˊ chongˋ."}
+    - en: "The groom is a young lad, the bride a girl from 竹南."
+      sx: {hanzi: "新娘公係細阿哥仔，新娘係竹南个細阿妹仔。", pinyin: "xinˊ ngiongˇ gungˊ he se aˊ goˊ eˋ, xinˊ ngiongˇ he zugˋ namˇ ge se aˊ moi eˋ."}
+      hl: {hanzi: "新娘公係細阿哥仔，新娘係竹南个細阿妹仔。", pinyin: "sinˋ ngiong gungˋ heˇ seˇ a+ goˋ er, sinˋ ngiong heˇ zhug nam gaiˇ seˇ a+ moiˇ er."}
     - en: "My uncle is taking a wife; the bride's family is from 竹南."
       sx: {hanzi: "吾阿叔愛討餔娘，新娘个外家係竹南人。", pinyin: "ngaˊ aˊ sugˋ oi toˋ buˊ ngiongˇ, xinˊ ngiongˇ ge ngoi gaˊ he zugˋ namˇ nginˇ."}
       hl: {hanzi: "𠊎阿叔愛討餔娘，新娘个外家係竹南人。", pinyin: "ngai a+ shug oiˇ toˊ buˋ ngiong, sinˋ ngiong gaiˇ ngoi+ gaˋ heˇ zhug nam ngin."}

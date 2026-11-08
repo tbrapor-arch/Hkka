@@ -134,9 +134,20 @@ new_words:
   - {hanzi: 洗身, pinyin: "seˋ siinˊ", en: "bathe, have a shower", hl: {hanzi: 洗身, pinyin: "seˊ shinˋ"}}
   - {hanzi: 價錢, pinyin: "ga qienˇ", en: "price", hl: {hanzi: 價錢, pinyin: "gaˇ cien"}}
   - {hanzi: 下二擺, pinyin: "ha ngi baiˋ", en: "next time", hl: {hanzi: 下二擺, pinyin: "ha+ ngi+ baiˊ"}}
+  - {hanzi: 梯仔, pinyin: "toiˊ eˋ", en: "ladder", hl: {hanzi: 梯仔, pinyin: "toiˋ er"}}
+  - {hanzi: 梳, pinyin: "siiˊ", en: "comb (verb)", hl: {hanzi: 梳, pinyin: "soˋ"}}
+  - {hanzi: 牙搓仔, pinyin: "ngaˇ co eˋ", en: "toothbrush", hl: {hanzi: 牙掃仔, pinyin: "nga soˇ er"}}
+  - {hanzi: 頂高, pinyin: "dangˋ goˊ", en: "above, upstairs", hl: {hanzi: 頂高, pinyin: "dangˊ goˋ"}}
+  - {hanzi: 裡背, pinyin: "diˊ boi", en: "inside", hl: {hanzi: 裡背, pinyin: "diˋ boiˇ"}}
 
 exercises:
   translate:
+    - en: "Bring a toothbrush; Lucie combs her hair in the morning."
+      sx: {hanzi: "愛帶牙搓仔；Lucie 朝晨愛梳頭那。", pinyin: "oi dai ngaˇ co eˋ; Lucie zeuˊ siinˇ oi siiˊ teuˇ naˇ."}
+      hl: {hanzi: "愛帶牙掃仔；Lucie 朝晨愛梳頭那。", pinyin: "oiˇ daiˇ nga soˇ er; Lucie zhauˋ shin oiˇ soˋ teu na."}
+    - en: "The room is upstairs, and it's big inside. The ladder is here."
+      sx: {hanzi: "間房在頂高，裡背當大。梯仔在這。", pinyin: "gienˊ fongˇ coiˊ dangˋ goˊ, diˊ boi dongˊ tai. toiˊ eˋ coiˊ iaˋ."}
+      hl: {hanzi: "間房在頂高，裡背當大。梯仔在這。", pinyin: "gienˋ fong coiˋ dangˊ goˋ, diˋ boiˇ dongˋ tai+. toiˋ er coiˋ liaˊ."}
     - en: "May I have a shower? — Of course."
       sx: {hanzi: "做得洗身無？——做得。", pinyin: "zo dedˋ seˋ siinˊ moˇ? — zo dedˋ."}
       hl: {hanzi: "做得洗身無？——做得。", pinyin: "zoˇ ded seˊ shinˋ mo? — zoˇ ded."}

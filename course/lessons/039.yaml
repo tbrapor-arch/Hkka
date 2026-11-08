@@ -162,9 +162,13 @@ new_words:
   - {hanzi: 好得, pinyin: "hoˋ dedˋ", en: "luckily, thanks to", hl: {hanzi: 好得, pinyin: "hoˊ ded"}}
   - {hanzi: 驚怕, pinyin: "giangˊ pa", en: "I'm afraid (that), probably", hl: {hanzi: 驚怕, pinyin: "giangˋ paˇ"}}
   - {hanzi: 量, pinyin: "liongˇ", en: "measure", hl: {hanzi: 量, pinyin: "liong"}}
+  - {hanzi: 脫, pinyin: "todˋ", en: "take off", hl: {hanzi: 脫, pinyin: "tod"}}
 
 exercises:
   translate:
+    - en: "Take off your shirt; the doctor will listen."
+      sx: {hanzi: "衫脫忒，先生愛聽。", pinyin: "samˊ todˋ tedˋ, xinˊ sangˊ oi tangˊ."}
+      hl: {hanzi: "衫脫忒，先生愛聽。", pinyin: "samˋ tod ted, sinˋ sangˋ oiˇ tangˋ."}
     - en: "First register, then see the doctor."
       sx: {hanzi: "先掛號，正看先生。", pinyin: "xienˊ gua ho, zang kon xinˊ sangˊ."}
       hl: {hanzi: "先掛號，正看先生。", pinyin: "senˋ guaˇ ho+, zhangˇ konˇ sinˋ sangˋ."}

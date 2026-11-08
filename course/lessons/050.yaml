@@ -164,9 +164,13 @@ new_words:
   - {hanzi: 春聯, pinyin: "cunˊ lienˇ", en: "New Year couplets", hl: {hanzi: 春聯, pinyin: "chunˋ lien"}}
   - {hanzi: 年三十, pinyin: "ngienˇ samˊ siib", en: "New Year's Eve", hl: {hanzi: 年三十, pinyin: "ngien samˋ shibˋ"}}
   - {hanzi: 習俗, pinyin: "xib xiug", en: "custom", hl: {hanzi: 習俗, pinyin: "sibˋ siugˋ"}}
+  - {hanzi: 細孲仔, pinyin: "se oˇ eˋ", en: "children, kids", hl: {hanzi: 細孲仔, pinyin: "seˇ o er"}}
 
 exercises:
   translate:
+    - en: "The kids are waiting for the 粄."
+      sx: {hanzi: "細孲仔在該等食粄。", pinyin: "se oˇ eˋ du ge denˋ siid banˋ."}
+      hl: {hanzi: "細孲仔在該等食粄。", pinyin: "seˇ o er diˇ gai denˊ shidˋ banˊ."}
     - en: "Sweet 粄 is very sticky."
       sx: {hanzi: "甜粄當黏。", pinyin: "tiamˇ banˋ dongˊ ngiamˇ."}
       hl: {hanzi: "甜粄當黏。", pinyin: "tiam banˊ dongˋ ngiam."}

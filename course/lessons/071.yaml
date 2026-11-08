@@ -158,9 +158,15 @@ new_words:
   - {hanzi: 山腳, pinyin: "sanˊ giogˋ", en: "foot of the hill", hl: {hanzi: 山腳, pinyin: "sanˋ giog"}}
   - {hanzi: 毋識, pinyin: "mˇ siidˋ", en: "not know, never have", hl: {hanzi: 毋識, pinyin: "m shid"}}
   - {hanzi: 地方, pinyin: "ti fongˊ", en: "place, area", hl: {hanzi: 地方, pinyin: "ti+ fongˋ"}}
+  - {hanzi: 南, pinyin: "namˇ", en: "south", hl: {hanzi: 南, pinyin: "nam"}}
+  - {hanzi: 船仔, pinyin: "sonˇ eˋ", en: "boat", hl: {hanzi: 船仔, pinyin: "shon er"}}
+  - {hanzi: 沙仔, pinyin: "saˊ eˋ", en: "sand", hl: {hanzi: 沙仔, pinyin: "saˋ er"}}
 
 exercises:
   translate:
+    - en: "美濃 is in the south. Here there are boats, and sand too."
+      sx: {hanzi: "美濃在南片。這位有船仔，乜有沙仔。", pinyin: "miˊ nungˇ coiˊ namˇ pienˋ. iaˋ vi iuˊ sonˇ eˋ, me iuˊ saˊ eˋ."}
+      hl: {hanzi: "美濃在南片。這位有船仔，乜有沙仔。", pinyin: "mi nung coiˋ nam pienˊ. liaˊ vui+ rhiuˋ shon er, meˇ rhiuˋ saˋ er."}
     - en: "I didn't understand just now; please say it once more."
       sx: {hanzi: "𠊎頭先聽毋識，請你再過講一擺。", pinyin: "ngaiˇ teuˇ xienˊ tangˊ mˇ siidˋ, qiangˋ nˇ zai go gongˋ idˋ baiˋ."}
       hl: {hanzi: "𠊎頭先聽毋識，請你再過講一擺。", pinyin: "ngai teu senˋ tangˋ m shid, ciangˊ ngi zaiˇ goˇ gongˊ rhid baiˊ."}

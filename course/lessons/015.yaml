@@ -141,9 +141,15 @@ new_words:
   - {hanzi: 便宜, pinyin: "pienˇ ngiˇ", en: "cheap", hl: {hanzi: 便宜, pinyin: "pien ngi"}}
   - {hanzi: 多, pinyin: "doˊ", en: "many, much", hl: {hanzi: 多, pinyin: "doˋ"}}
   - {hanzi: 人, pinyin: "nginˇ", en: "person, people", hl: {hanzi: 人, pinyin: "ngin"}}
+  - {hanzi: 裙, pinyin: "kiunˇ", en: "skirt", hl: {hanzi: 裙, pinyin: "kiun"}}
+  - {hanzi: 襪仔, pinyin: "madˋ eˇ", en: "socks", hl: {hanzi: 襪, pinyin: "mad"}}
+  - {hanzi: 柑仔色, pinyin: "gamˊ eˋ sedˋ", en: "orange (colour)", hl: {hanzi: 柑色, pinyin: "gamˋ sed"}}
 
 exercises:
   translate:
+    - en: "An orange skirt, and socks too."
+      sx: {hanzi: "一領柑仔色个裙，還有襪仔。", pinyin: "idˋ liangˊ gamˊ eˋ sedˋ ge kiunˇ, hanˇ iuˊ madˋ eˇ."}
+      hl: {hanzi: "一領柑色个裙，還有襪。", pinyin: "rhid liangˋ gamˋ sed gaiˇ kiun, han rhiuˋ mad."}
     - en: "Mandarins are cheaper than chillies."
       sx: {hanzi: "柑仔比辣椒仔較便宜。", pinyin: "gamˊ eˋ biˋ lad zeuˊ eˋ ka pienˇ ngiˇ."}
       hl: {hanzi: "柑仔比辣椒仔較便宜。", pinyin: "gamˋ er biˊ ladˋ ziauˋ er haˇ pien ngi."}

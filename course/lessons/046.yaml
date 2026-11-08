@@ -148,9 +148,14 @@ new_words:
   - {hanzi: 遮仔, pinyin: "zaˊ eˋ", en: "umbrella", hl: {hanzi: 遮仔, pinyin: "zhaˋ er"}}
   - {hanzi: 內, pinyin: "nui", en: "within (a time)", hl: {hanzi: 內, pinyin: "nui+"}}
   - {hanzi: 尺寸, pinyin: "cagˋ cun", en: "size, measurements", hl: {hanzi: 尺寸, pinyin: "chag cunˇ"}}
+  - {hanzi: 細阿姊仔, pinyin: "se aˊ jiˋ eˇ", en: "young lady (shop assistant)", hl: {hanzi: 細阿姊仔, pinyin: "seˇ a+ ze er"}}
+  - {hanzi: 哪兜, pinyin: "nai deuˊ", en: "which ones", hl: {hanzi: 哪兜, pinyin: "nai+ deuˋ"}}
 
 exercises:
   translate:
+    - en: "Miss, which of these clothes are cheaper?"
+      sx: {hanzi: "細阿姊仔，哪兜衫較便宜？", pinyin: "se aˊ jiˋ eˇ, nai deuˊ samˊ ka pienˇ ngiˇ?"}
+      hl: {hanzi: "細阿姊仔，哪兜衫較便宜？", pinyin: "seˇ a+ ze er, nai+ deuˋ samˋ haˇ pien ngi?"}
     - en: "Shopping by credit card is very convenient."
       sx: {hanzi: "買東西用信用卡，當方便。", pinyin: "maiˊ dungˊ xiˊ iung xin iung kaˋ, dongˊ fongˊ pien."}
       hl: {hanzi: "買東西用信用卡，當方便。", pinyin: "maiˋ dungˋ siˋ rhung+ sinˇ rhung+ kaˊ, dongˋ fongˋ pien+."}

@@ -132,9 +132,13 @@ new_words:
   - {hanzi: 屋下, pinyin: "vugˋ kaˊ", en: "home, household", hl: {hanzi: 屋下, pinyin: "vug haˋ"}}
   - {hanzi: 放, pinyin: "biong", en: "put", hl: {hanzi: 放, pinyin: "biongˇ"}}
   - {hanzi: 甜, pinyin: "tiamˇ", en: "sweet", hl: {hanzi: 甜, pinyin: "tiam"}}
+  - {hanzi: 咖啡, pinyin: "gaˊ biˊ", en: "coffee", hl: {hanzi: 咖啡, pinyin: "gaˋ buiˋ"}}
 
 exercises:
   translate:
+    - en: "Grandpa drinks tea; Sam drinks coffee."
+      sx: {hanzi: "阿公食茶，Sam 食咖啡。", pinyin: "aˊ gungˊ siid caˇ, Sam siid gaˊ biˊ."}
+      hl: {hanzi: "阿公食茶，Sam 食咖啡。", pinyin: "a+ gungˋ shidˋ ca, Sam shidˋ gaˋ buiˋ."}
     - en: "A-min is still asleep."
       sx: {hanzi: "阿明還在該睡目。", pinyin: "aˊ minˇ hanˇ du ge soi mugˋ."}
       hl: {hanzi: "阿明還在該睡目。", pinyin: "a+ min han diˇ gai shoi+ mug."}

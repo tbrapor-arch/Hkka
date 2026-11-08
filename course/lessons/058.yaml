@@ -164,9 +164,13 @@ new_words:
   - {hanzi: 公司, pinyin: "gungˊ siiˊ", en: "company", hl: {hanzi: 公司, pinyin: "gungˋ siiˋ"}}
   - {hanzi: 分心, pinyin: "funˊ ximˊ", en: "get distracted", hl: {hanzi: 分心, pinyin: "funˋ simˋ"}}
   - {hanzi: 容易, pinyin: "iungˇ i", en: "easy; easily", hl: {hanzi: 容易, pinyin: "rhung rhiˇ"}}
+  - {hanzi: 當在該, pinyin: "dongˊ di ge", en: "be in the middle of (doing)", hl: {hanzi: 當在該, pinyin: "dongˋ diˇ gai"}}
 
 exercises:
   translate:
+    - en: "I was just eating when the phone rang!"
+      sx: {hanzi: "當在該食飯，電話就響吔！", pinyin: "dongˊ di ge siid fan, tien fa qiu hiongˋ leˊ!"}
+      hl: {hanzi: "當在該食飯，電話就響咧！", pinyin: "dongˋ diˇ gai shidˋ pon+, tien+ faˇ ciu+ hiongˊ leˋ!"}
     - en: "I love rice porridge with fermented tofu."
       sx: {hanzi: "𠊎盡好食糜傍豆腐乳。", pinyin: "ngaiˇ qin hau siid moiˇ bongˋ teu fu iˊ."}
       hl: {hanzi: "𠊎最好食糜傍豆腐乳。", pinyin: "ngai zuiˇ hauˇ shidˋ moi bongˊ teu+ fu+ rhi."}

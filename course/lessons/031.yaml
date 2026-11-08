@@ -152,9 +152,15 @@ new_words:
   - {hanzi: 細人仔, pinyin: "se nginˇ eˋ", en: "child", hl: {hanzi: 細人仔, pinyin: "seˇ ngin er"}}
   - {hanzi: 歲數, pinyin: "se sii", en: "age", hl: {hanzi: 歲數, pinyin: "soiˇ siiˇ"}}
   - {hanzi: 時錶仔, pinyin: "siiˇ beuˋ eˋ", en: "watch (wristwatch)", hl: {hanzi: 時錶, pinyin: "shi biauˊ"}}
+  - {hanzi: 手錶仔, pinyin: "suˋ beuˋ eˇ", en: "wristwatch", hl: {hanzi: 時錶, pinyin: "shi biauˊ"}}
+  - {hanzi: 十一, pinyin: "siib idˋ", en: "eleven", hl: {hanzi: 十一, pinyin: "shibˋ rhid"}}
+  - {hanzi: 十二, pinyin: "siib ngi", en: "twelve", hl: {hanzi: 十二, pinyin: "shibˋ ngi+"}}
 
 exercises:
   translate:
+    - en: "The wristwatch is a present for A-in. — Is it eleven or twelve o'clock?"
+      sx: {hanzi: "手錶仔係送分阿英个。——十一點抑係十二點？", pinyin: "suˋ beuˋ eˇ he sung bunˊ aˊ inˊ ge. — siib idˋ diamˋ ia he siib ngi diamˋ?"}
+      hl: {hanzi: "時錶係送分阿英个。——十一點抑係十二點？", pinyin: "shi biauˊ heˇ sungˇ bunˋ a+ rhinˋ gaiˇ. — shibˋ rhid diamˊ rha+ heˇ shibˋ ngi+ diamˊ?"}
     - en: "Yesterday was Mum's birthday; we all bought her a watch together."
       sx: {hanzi: "昨晡日阿姆做生日，大家共下買一隻時錶仔送分佢。", pinyin: "coˊ buˊ ngidˋ aˊ meˊ zo sangˊ ngidˋ, tai gaˊ kiung ha maiˊ idˋ zagˋ siiˇ beuˋ eˋ sung bunˊ giˇ."}
       hl: {hanzi: "昨晡日阿姆做生日，大家共下買一隻時錶送分佢。", pinyin: "coˋ buˋ ngid a+ meˋ zoˇ sangˋ ngid, tai+ gaˋ kiung+ ha+ maiˋ rhid zhag shi biauˊ sungˇ bunˋ gi."}

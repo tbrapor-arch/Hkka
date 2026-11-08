@@ -161,9 +161,14 @@ new_words:
   - {hanzi: 皮, pinyin: "piˇ", en: "skin, peel", hl: {hanzi: 皮, pinyin: "pi"}}
   - {hanzi: 治療, pinyin: "cii liauˇ", en: "treat, treatment", hl: {hanzi: 治療, pinyin: "chi+ liau"}}
   - {hanzi: 恢復, pinyin: "fiˊ fug", en: "recover", hl: {hanzi: 恢復, pinyin: "fuiˋ fugˋ"}}
+  - {hanzi: 護理師, pinyin: "fu liˊ siiˊ", en: "nurse", hl: {hanzi: 護理師, pinyin: "fu+ liˋ siiˋ"}}
+  - {hanzi: 下來, pinyin: "haˊ loiˇ", en: "come down", hl: {hanzi: 下來, pinyin: "haˋ loi"}}
 
 exercises:
   translate:
+    - en: "Grandpa fell coming down the ladder; the nurse is with him."
+      sx: {hanzi: "阿公對梯仔下來跌倒，護理師在該。", pinyin: "aˊ gungˊ dui toiˊ eˋ haˊ loiˇ diedˋ doˋ, fu liˊ siiˊ coiˊ ge."}
+      hl: {hanzi: "阿公對梯仔下來跌倒，護理師在該。", pinyin: "a+ gungˋ duiˇ toiˋ er haˋ loi died doˊ, fu+ liˋ siiˋ coiˋ gai."}
     - en: "He fell over and broke a bone."
       source: kaga115
       abridged: true

@@ -133,9 +133,14 @@ new_words:
   - {hanzi: 信, pinyin: "xin", en: "letter", hl: {hanzi: 信, pinyin: "sinˇ"}}
   - {hanzi: 封, pinyin: "fungˊ", en: "(classifier for letters)", hl: {hanzi: 封, pinyin: "fungˋ"}}
   - {hanzi: 借, pinyin: "jia", en: "lend, borrow", hl: {hanzi: 借, pinyin: "ziaˇ"}}
+  - {hanzi: 背, pinyin: "baˇ", en: "carry on one's back (baˇ)", hl: {hanzi: 背, pinyin: "ba"}}
+  - {hanzi: 做麼个, pinyin: "zo maˋ ge", en: "what for, why", hl: {hanzi: 做麼个, pinyin: "zoˇ maˊ gaiˇ"}}
 
 exercises:
   translate:
+    - en: "Why are you carrying so many clothes on your back?"
+      sx: {hanzi: "你背恁多衫做麼个？", pinyin: "nˇ baˇ anˋ doˊ samˊ zo maˋ ge?"}
+      hl: {hanzi: "你背恁多衫做麼个？", pinyin: "ngi ba anˊ doˋ samˋ zoˇ maˊ gaiˇ?"}
     - en: "Mum sends her daughter a box of mandarins."
       sx: {hanzi: "阿姆寄一箱柑仔分厥妹仔。", pinyin: "aˊ meˊ gi idˋ xiongˊ gamˊ eˋ bunˊ giaˊ moi eˋ."}
       hl: {hanzi: "阿姆寄一箱柑仔分厥妹仔。", pinyin: "a+ meˋ giˇ rhid siongˋ gamˋ er bunˋ gia moiˇ er."}

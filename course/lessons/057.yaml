@@ -164,9 +164,18 @@ new_words:
   - {hanzi: 滑, pinyin: "vad", en: "slippery", hl: {hanzi: 滑, pinyin: "vadˋ"}}
   - {hanzi: 安全, pinyin: "onˊ qionˇ", en: "safe; safety", hl: {hanzi: 安全, pinyin: "onˋ cion"}}
   - {hanzi: 習慣, pinyin: "xib guan", en: "habit; be used to", hl: {hanzi: 習慣, pinyin: "sibˋ guanˇ"}}
+  - {hanzi: 真, pinyin: "ziinˊ", en: "really, true", hl: {hanzi: 真, pinyin: "zhinˋ"}}
+  - {hanzi: 針, pinyin: "ziimˊ", en: "needle", hl: {hanzi: 針, pinyin: "zhimˋ"}}
+  - {hanzi: 線, pinyin: "xien", en: "thread", hl: {hanzi: 線, pinyin: "sienˇ"}}
 
 exercises:
   translate:
+    - en: "Is it true?"
+      sx: {hanzi: "係真个無？", pinyin: "he ziinˊ ge moˇ?"}
+      hl: {hanzi: "係真个無？", pinyin: "heˇ zhinˋ gaiˇ mo?"}
+    - en: "Is there a needle and thread?"
+      sx: {hanzi: "有針同線無？", pinyin: "iuˊ ziimˊ tungˇ xien moˇ?"}
+      hl: {hanzi: "有針摎線無？", pinyin: "rhiuˋ zhimˋ lauˋ sienˇ mo?"}
     - en: "Sam goes to work at five and finishes at four."
       sx: {hanzi: "Sam 五點上班，四點下班。", pinyin: "Sam ngˋ diamˋ songˊ banˊ, xi diamˋ haˊ banˊ."}
       hl: {hanzi: "Sam 五點上班，四點下班。", pinyin: "Sam ngˊ diamˊ shongˋ banˋ, siˇ diamˊ haˋ banˋ."}

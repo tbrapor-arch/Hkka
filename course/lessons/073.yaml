@@ -166,9 +166,13 @@ new_words:
   - {hanzi: 路脣, pinyin: "lu sunˇ", en: "roadside", hl: {hanzi: 路脣, pinyin: "lu+ shun"}}
   - {hanzi: 田脣, pinyin: "tienˇ sunˇ", en: "edge of a field", hl: {hanzi: 田脣, pinyin: "tien shun"}}
   - {hanzi: 歷史, pinyin: "lid siiˋ", en: "history", hl: {hanzi: 歷史, pinyin: "lidˋ siiˊ"}}
+  - {hanzi: 自行車, pinyin: "cii hangˇ caˊ", en: "bicycle", hl: {hanzi: 自行車, pinyin: "cii+ hang chaˋ"}}
 
 exercises:
   translate:
+    - en: "Let's ride bicycles to see the tobacco barns."
+      sx: {hanzi: "𫣆兜騎自行車去看菸樓。", pinyin: "enˊ deuˊ kiˇ cii hangˇ caˊ hi kon ienˊ leuˇ."}
+      hl: {hanzi: "𫣆兜騎自行車去看菸樓。", pinyin: "enˋ deuˋ ki cii+ hang chaˋ hiˇ konˇ rhanˋ leu."}
     - en: "That old house will be pulled down next year."
       sx: {hanzi: "該棟舊屋仔，過忒年就愛拆忒吔。", pinyin: "ge dung kiu vugˋ eˇ, go tedˋ ngienˇ qiu oi cagˋ tedˋ leˊ."}
       hl: {hanzi: "該棟舊屋仔，明年就愛拆忒咧。", pinyin: "gai dungˇ kiu+ vug er, miang ngien ciu+ oiˇ cag ted leˋ."}

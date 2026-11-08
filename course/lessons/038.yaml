@@ -160,9 +160,14 @@ new_words:
   - {hanzi: 筷仔, pinyin: "kuai eˋ", en: "chopsticks", hl: {hanzi: 箸, pinyin: "chu+"}}
   - {hanzi: 雙, pinyin: "sungˊ", en: "pair", hl: {hanzi: 雙, pinyin: "sungˋ"}}
   - {hanzi: 圓桌, pinyin: "ienˇ zogˋ", en: "round table", hl: {hanzi: 圓桌, pinyin: "rhan zog"}}
+  - {hanzi: 下去, pinyin: "haˊ hi", en: "go down", hl: {hanzi: 下去, pinyin: "haˋ hiˇ"}}
+  - {hanzi: 食飯, pinyin: "siid fan", en: "eat (a meal)", hl: {hanzi: 食飯, pinyin: "shidˋ pon+"}}
 
 exercises:
   translate:
+    - en: "Let's go down and eat."
+      sx: {hanzi: "𫣆兜下去食飯。", pinyin: "enˊ deuˊ haˊ hi siid fan."}
+      hl: {hanzi: "𫣆兜下去食飯。", pinyin: "enˋ deuˋ haˋ hiˇ shidˋ pon+."}
     - en: "Excuse me, is there a round table?"
       sx: {hanzi: "失禮，有圓桌無？", pinyin: "siidˋ liˊ, iuˊ ienˇ zogˋ moˇ?"}
       hl: {hanzi: "失禮，有圓桌無？", pinyin: "shid liˋ, rhiuˋ rhan zog mo?"}

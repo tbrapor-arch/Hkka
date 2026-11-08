@@ -58,6 +58,9 @@ class Lexicon:
             for hz, k in con.execute(q, (acc, acc, acc, acc)):
                 if hz and k:
                     self.words[acc][hz].add(k)
+                    stem = hz.strip("…").replace("...", "")   # a pattern entry (當在該…, 拜…): its stem is a word too
+                    if stem and stem != hz and len(stem) == len(k.split("-")):
+                        self.words[acc][stem].add(k)
                     self.inv[acc].update(re.sub(r"\d+$", "", s) for s in k.split("-"))
             for hz, k in PARTICLES[acc].items():   # attested only inside listed phrases, never as a headword
                 self.words[acc][hz].add(k)

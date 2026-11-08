@@ -147,9 +147,14 @@ new_words:
   - {hanzi: 像, pinyin: "qiong", en: "look like, be like", hl: {hanzi: 像, pinyin: "ciongˇ"}}
   - {hanzi: 幾, pinyin: "giˋ", en: "several (幾下)", hl: {hanzi: 幾, pinyin: "giˊ"}}
   - {hanzi: 泥, pinyin: "naiˇ", en: "earth, mud", hl: {hanzi: 泥, pinyin: "nai"}}
+  - {hanzi: 豬仔, pinyin: "zuˊ eˋ", en: "pig", hl: {hanzi: 豬仔, pinyin: "zhuˋ er"}}
+  - {hanzi: 捉, pinyin: "zogˋ", en: "catch", hl: {hanzi: 捉, pinyin: "zug"}}
 
 exercises:
   translate:
+    - en: "A-min is catching bugs in the field; there's a pig over there."
+      sx: {hanzi: "阿明在田項捉蟲仔，該片有一隻豬仔。", pinyin: "aˊ minˇ coiˊ tienˇ hong zogˋ cungˇ eˋ, ge pienˋ iuˊ idˋ zagˋ zuˊ eˋ."}
+      hl: {hanzi: "阿明在田項捉蟲仔，該片有一隻豬仔。", pinyin: "a+ min coiˋ tien hong+ zug chung er, gai pienˊ rhiuˋ rhid zhag zhuˋ er."}
     - en: "This year's harvest is good: the rice is a lovely yellow."
       sx: {hanzi: "今年个收成當好，禾仔黃黃。", pinyin: "gimˊ ngienˇ ge suˊ siinˇ dongˊ hoˋ, voˇ eˋ vongˇ vongˇ."}
       hl: {hanzi: "今年个收成當好，禾仔黃黃。", pinyin: "gimˋ ngien gaiˇ shiuˋ shin dongˋ hoˊ, vo er vong vong."}

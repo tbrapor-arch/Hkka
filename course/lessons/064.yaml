@@ -165,9 +165,13 @@ new_words:
   - {hanzi: 烏刻刻仔, pinyin: "vuˊ kad kad eˋ", en: "pitch black, deeply tanned", hl: {hanzi: 烏刻刻, pinyin: "vuˋ kad kad"}}
   - {hanzi: 韶, pinyin: "seuˇ", en: "(in 韶早, the 竹東 word for 'tomorrow')", hl: {hanzi: 韶, pinyin: "shau"}}
   - {hanzi: 緊張, pinyin: "ginˋ zongˊ", en: "nervous", hl: {hanzi: 緊張, pinyin: "ginˊ zhongˋ"}}
+  - {hanzi: 車仔, pinyin: "caˊ eˋ", en: "car (the everyday word)", hl: {hanzi: 車仔, pinyin: "chaˋ er"}}
 
 exercises:
   translate:
+    - en: "We came back by car."
+      sx: {hanzi: "𠊎兜坐車仔轉來。", pinyin: "ngaiˇ deuˊ coˊ caˊ eˋ zonˋ loiˇ."}
+      hl: {hanzi: "𠊎兜坐車仔轉來。", pinyin: "ngai deuˋ coˋ chaˋ er zhonˊ loi."}
     - en: "A-min drove? — No, Dad drove; he gave us a lift home."
       sx: {hanzi: "阿明開車？——毋係，阿爸開車，載𠊎兜轉屋下。", pinyin: "aˊ minˇ koiˊ caˊ? — mˇ he, aˊ baˊ koiˊ caˊ, zai ngaiˇ deuˊ zonˋ vugˋ kaˊ."}
       hl: {hanzi: "阿明開車？——毋係，阿爸開車，載𠊎兜轉屋下。", pinyin: "a+ min koiˋ chaˋ? — m heˇ, a+ baˋ koiˋ chaˋ, zaiˇ ngai deuˋ zhonˊ vug haˋ."}

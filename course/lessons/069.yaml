@@ -160,9 +160,15 @@ new_words:
   - {hanzi: 石頭, pinyin: "sag teuˇ", en: "stone, rock", hl: {hanzi: 石頭, pinyin: "shagˋ teu"}}
   - {hanzi: 樹蔭, pinyin: "su im", en: "shade of a tree", hl: {hanzi: 樹蔭, pinyin: "shu+ rhimˇ"}}
   - {hanzi: 短豆仔, pinyin: "donˋ teu eˋ", en: "string beans", hl: {hanzi: 明豆, pinyin: "min teu+"}}
+  - {hanzi: 葉仔, pinyin: "iab eˋ", en: "leaf", hl: {hanzi: 葉仔, pinyin: "rhabˋ er"}}
+  - {hanzi: 尖, pinyin: "jiamˊ", en: "pointed, sharp", hl: {hanzi: 尖, pinyin: "ziamˋ"}}
+  - {hanzi: 脣, pinyin: "sunˇ", en: "edge, side (…脣)", hl: {hanzi: 脣, pinyin: "shun"}}
 
 exercises:
   translate:
+    - en: "The roadside is all tung blossom. The leaves are big, with pointed tips."
+      sx: {hanzi: "路脣都係桐花。葉仔當大，尾項尖尖。", pinyin: "lu sunˇ du he tungˇ faˊ. iab eˋ dongˊ tai, miˊ hong jiamˊ jiamˊ."}
+      hl: {hanzi: "路脣都係桐花。葉仔當大，尾項尖尖。", pinyin: "lu+ shun du+ heˇ tung faˋ. rhabˋ er dongˋ tai+, muiˋ hong+ ziamˋ ziamˋ."}
     - en: "Yesterday she wore a bright red top; she looked lovely."
       sx: {hanzi: "佢昨晡日著一領啾紅个衫，看起來當靚。", pinyin: "giˇ coˊ buˊ ngidˋ zogˋ idˋ liangˊ jiuˊ fungˇ ge samˊ, kon hiˋ loiˇ dongˊ jiangˊ."}
       hl: {hanzi: "佢昨晡日著一領啾紅个衫，看起來當靚。", pinyin: "gi coˋ buˋ ngid zhog rhid liangˋ ziuˋ fung gaiˇ samˋ, konˇ hiˊ loi dongˋ ziangˋ."}

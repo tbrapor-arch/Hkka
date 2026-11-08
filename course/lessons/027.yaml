@@ -134,9 +134,13 @@ new_words:
   - {hanzi: 盤, pinyin: "panˇ", en: "plate, dish", hl: {hanzi: 盤, pinyin: "pan"}}
   - {hanzi: 難, pinyin: "nanˇ", en: "difficult, hard", hl: {hanzi: 難, pinyin: "nan"}}
   - {hanzi: 今暗晡, pinyin: "gimˊ am buˊ", en: "this evening, tonight", hl: {hanzi: 今暗晡, pinyin: "gimˋ amˇ buˋ"}}
+  - {hanzi: 壞, pinyin: "faiˋ", en: "go bad, break", hl: {hanzi: 壞, pinyin: "faiˊ"}}
 
 exercises:
   translate:
+    - en: "This tangerine has gone bad."
+      sx: {hanzi: "這粒柑仔壞吔。", pinyin: "iaˋ liab gamˊ eˋ faiˋ leˊ."}
+      hl: {hanzi: "這粒柑仔壞咧。", pinyin: "liaˊ liab gamˋ er faiˊ leˋ."}
     - en: "The chilli was so hot my eyes watered."
       sx: {hanzi: "辣椒仔辣到目汁流出來。", pinyin: "lad zeuˊ eˋ lad do mugˋ ziibˋ liuˇ cudˋ loiˇ."}
       hl: {hanzi: "辣椒仔辣到目汁流出來。", pinyin: "ladˋ ziauˋ er ladˋ doˇ mug zhib lau chud loi."}

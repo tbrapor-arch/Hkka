@@ -166,9 +166,13 @@ new_words:
   - {hanzi: 姑婆, pinyin: "guˊ poˇ", en: "great-aunt (grandfather's sister)", hl: {hanzi: 姑婆, pinyin: "guˋ po"}}
   - {hanzi: 以前, pinyin: "iˊ qienˇ", en: "before, in the past", hl: {hanzi: 以前, pinyin: "rhiˋ cien"}}
   - {hanzi: 疊, pinyin: "tiab", en: "pile, stack", hl: {hanzi: 疊, pinyin: "tiabˋ"}}
+  - {hanzi: 中間, pinyin: "zungˊ gienˊ", en: "the middle", hl: {hanzi: 中間, pinyin: "zhungˋ gienˋ"}}
 
 exercises:
   translate:
+    - en: "The one in the middle is Grandpa."
+      sx: {hanzi: "中間該隻係阿公。", pinyin: "zungˊ gienˊ ge zagˋ he aˊ gungˊ."}
+      hl: {hanzi: "中間該隻係阿公。", pinyin: "zhungˋ gienˋ gai zhag heˇ a+ gungˋ."}
     - en: "In those days brides sat in a sedan chair; now they ride in a car."
       sx: {hanzi: "當時个新娘坐花轎，這下个新娘坐車仔。", pinyin: "dongˊ siiˇ ge xinˊ ngiongˇ coˊ faˊ kieu, iaˋ ha ge xinˊ ngiongˇ coˊ caˊ eˋ."}
       hl: {hanzi: "該當時个新娘坐花轎，這下个新娘坐車仔。", pinyin: "gai dongˋ shi gaiˇ sinˋ ngiong coˋ faˋ kiau+, liaˊ ha+ gaiˇ sinˋ ngiong coˋ chaˋ er."}

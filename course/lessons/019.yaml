@@ -129,9 +129,13 @@ new_words:
   - {hanzi: 煎, pinyin: "jienˊ", en: "pan-fry", hl: {hanzi: 煎, pinyin: "zienˋ"}}
   - {hanzi: 肚, pinyin: "duˋ", en: "inside (after a noun: 鑊肚, 店肚)", hl: {hanzi: 肚, pinyin: "duˊ"}}
   - {hanzi: 鹹, pinyin: "hamˇ", en: "salty", hl: {hanzi: 鹹, pinyin: "ham"}}
+  - {hanzi: 西瓜, pinyin: "xiˊ guaˊ", en: "watermelon", hl: {hanzi: 西瓜, pinyin: "siˋ guaˋ"}}
 
 exercises:
   translate:
+    - en: "Do you want some watermelon?"
+      sx: {hanzi: "你愛食西瓜無？", pinyin: "nˇ oi siid xiˊ guaˊ moˇ?"}
+      hl: {hanzi: "你愛食西瓜無？", pinyin: "ngi oiˇ shidˋ siˋ guaˋ mo?"}
     - en: "Wash the celery first, then cut it."
       sx: {hanzi: "先同芹菜洗好，正切。", pinyin: "xienˊ tungˇ kiunˇ coi seˋ hoˋ, zang qiedˋ."}
       hl: {hanzi: "先摎芹菜洗好，正切。", pinyin: "senˋ lauˋ kiun coiˇ seˊ hoˊ, zhangˇ cied."}

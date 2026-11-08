@@ -123,9 +123,13 @@ new_words:
   - {hanzi: 班, pinyin: "banˊ", en: "(a scheduled run: bus, train)", hl: {hanzi: 班, pinyin: "banˋ"}}
   - {hanzi: 行路, pinyin: "hangˇ lu", en: "walk, go on foot", hl: {hanzi: 行路, pinyin: "hang lu+"}}
   - {hanzi: 暗晡, pinyin: "am buˊ", en: "evening, tonight", hl: {hanzi: 暗晡, pinyin: "amˇ buˋ"}}
+  - {hanzi: 計程車, pinyin: "gie cangˇ caˊ", en: "taxi", hl: {hanzi: 計程車, pinyin: "gieˇ chang chaˋ"}}
 
 exercises:
   translate:
+    - en: "We'll take a taxi."
+      sx: {hanzi: "𠊎兜坐計程車去。", pinyin: "ngaiˇ deuˊ coˊ gie cangˇ caˊ hi."}
+      hl: {hanzi: "𠊎兜坐計程車去。", pinyin: "ngai deuˋ coˋ gieˇ chang chaˋ hiˇ."}
     - en: "Run! The train's coming!"
       sx: {hanzi: "走！火車來吔！", pinyin: "zeuˋ! foˋ caˊ loiˇ leˊ!"}
       hl: {hanzi: "走！火車來咧！", pinyin: "zeuˊ! foˊ chaˋ loi leˋ!"}

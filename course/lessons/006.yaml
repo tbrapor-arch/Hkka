@@ -132,9 +132,13 @@ new_words:
   - {hanzi: 到, pinyin: "do", en: "until, to (a point)", hl: {hanzi: 到, pinyin: "doˇ"}}
   - {hanzi: 華語, pinyin: "faˇ ngiˊ", en: "Mandarin (language)", hl: {hanzi: 華語, pinyin: "fa ngiˋ"}}
   - {hanzi: 八, pinyin: "badˋ", en: "eight", hl: {hanzi: 八, pinyin: "bad"}}
+  - {hanzi: 毋會, pinyin: "mˇ voi", en: "will not; cannot", hl: {hanzi: 毋會, pinyin: "m voi+"}}
 
 exercises:
   translate:
+    - en: "He won't come at seven."
+      sx: {hanzi: "佢七點毋會來。", pinyin: "giˇ qidˋ diamˋ mˇ voi loiˇ."}
+      hl: {hanzi: "佢七點毋會來。", pinyin: "gi cid diamˊ m voi+ loi."}
     - en: "Where is Grandpa going?"
       sx: {hanzi: "阿公愛去哪位？", pinyin: "aˊ gungˊ oi hi nai vi?"}
       hl: {hanzi: "阿公愛去哪位？", pinyin: "a+ gungˋ oiˇ hiˇ nai+ vui+?"}

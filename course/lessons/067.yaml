@@ -145,9 +145,15 @@ new_words:
   - {hanzi: 手藝, pinyin: "suˋ ngi", en: "craftsmanship, skill", hl: {hanzi: 手藝, pinyin: "shiuˊ ngi+"}}
   - {hanzi: 木材, pinyin: "mugˋ caiˇ", en: "wood, timber", hl: {hanzi: 木材, pinyin: "mug cai"}}
   - {hanzi: 割著, pinyin: "godˋ doˋ", en: "cut (oneself), get cut", hl: {hanzi: 割著, pinyin: "god doˊ"}}
+  - {hanzi: 馬仔, pinyin: "maˊ eˋ", en: "horse", hl: {hanzi: 馬, pinyin: "maˋ"}}
+  - {hanzi: 老虎, pinyin: "lo fuˋ", en: "tiger", hl: {hanzi: 老虎, pinyin: "loˊ fuˊ"}}
+  - {hanzi: 羊仔, pinyin: "iongˇ eˋ", en: "goat, sheep", hl: {hanzi: 羊仔, pinyin: "rhong er"}}
 
 exercises:
   translate:
+    - en: "He has carved a horse, a tiger and a goat."
+      sx: {hanzi: "佢刻一隻馬仔、一隻老虎同一隻羊仔。", pinyin: "giˇ kadˋ idˋ zagˋ maˊ eˋ, idˋ zagˋ lo fuˋ tungˇ idˋ zagˋ iongˇ eˋ."}
+      hl: {hanzi: "佢刻一隻馬、一隻老虎摎一隻羊仔。", pinyin: "gi kad rhid zhag maˋ, rhid zhag loˊ fuˊ lauˋ rhid zhag rhong er."}
     - en: "This statue of the earth god was carved by an old master."
       sx: {hanzi: "這尊伯公係老師傅刻个。", pinyin: "iaˋ zunˊ bagˋ gungˊ he loˋ siiˊ fu kadˋ ge."}
       hl: {hanzi: "這尊伯公係老師傅刻个。", pinyin: "liaˊ zunˋ bag gungˋ heˇ loˊ siiˋ fu+ kad gaiˇ."}

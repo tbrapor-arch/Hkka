@@ -117,9 +117,17 @@ new_words:
   - {hanzi: 學校, pinyin: "hog gauˋ", en: "school", hl: {hanzi: 學校, pinyin: "hogˋ gauˊ"}}
   - {hanzi: 湯, pinyin: "tongˊ", en: "soup", hl: {hanzi: 湯, pinyin: "tongˋ"}}
   - {hanzi: 豬肉, pinyin: "zuˊ ngiugˋ", en: "pork", hl: {hanzi: 豬肉, pinyin: "zhuˋ ngiug"}}
+  - {hanzi: 包仔, pinyin: "bauˊ eˋ", en: "steamed bun", hl: {hanzi: 包仔, pinyin: "bauˋ er"}}
+  - {hanzi: 點心, pinyin: "diamˋ ximˊ", en: "snack", hl: {hanzi: 點心, pinyin: "diamˊ simˋ"}}
+  - {hanzi: 餅仔, pinyin: "biangˋ eˇ", en: "biscuit, small cake", hl: {hanzi: 餅, pinyin: "biangˊ"}}
+  - {hanzi: 汽水, pinyin: "hi suiˋ", en: "fizzy drink", hl: {hanzi: 汽水, pinyin: "hiˇ shuiˊ"}}
+  - {hanzi: 無愛, pinyin: "moˇ oi", en: "not want", hl: {hanzi: 無愛, pinyin: "mo oiˇ"}}
 
 exercises:
   translate:
+    - en: "For a snack, two buns. I don't want biscuits or fizzy drinks."
+      sx: {hanzi: "點心食兩隻包仔。𠊎無愛餅仔，乜無愛汽水。", pinyin: "diamˋ ximˊ siid liongˋ zagˋ bauˊ eˋ. ngaiˇ moˇ oi biangˋ eˇ, me moˇ oi hi suiˋ."}
+      hl: {hanzi: "點心食兩隻包仔。𠊎無愛餅，乜無愛汽水。", pinyin: "diamˊ simˋ shidˋ liongˊ zhag bauˋ er. ngai mo oiˇ biangˊ, meˇ mo oiˇ hiˇ shuiˊ."}
     - en: "Grandma's chicken soup is very good."
       sx: {hanzi: "阿婆个雞仔湯當好食。", pinyin: "aˊ poˇ ge gieˊ eˋ tongˊ dongˊ hoˋ siid."}
       hl: {hanzi: "阿婆个雞仔湯當好食。", pinyin: "a+ po gaiˇ gaiˋ er tongˋ dongˋ hoˊ shidˋ."}

@@ -141,9 +141,18 @@ new_words:
   - {hanzi: 出去, pinyin: "cudˋ hi", en: "go out", hl: {hanzi: 出去, pinyin: "chud hiˇ"}}
   - {hanzi: 上, pinyin: "songˊ", en: "go up", hl: {hanzi: 上, pinyin: "shongˋ"}}
   - {hanzi: 天時, pinyin: "tienˊ siiˇ", en: "the weather", hl: {hanzi: 天時, pinyin: "tienˋ shi"}}
+  - {hanzi: 星仔, pinyin: "senˊ eˋ", en: "star", hl: {hanzi: 星仔, pinyin: "siangˋ er"}}
+  - {hanzi: 飛, pinyin: "biˊ", en: "fly; be blown away", hl: {hanzi: 飛, pinyin: "buiˋ"}}
+  - {hanzi: 下, pinyin: "haˊ", en: "below, under (haˊ)", hl: {hanzi: 下, pinyin: "haˋ"}}
 
 exercises:
   translate:
+    - en: "No stars tonight; the hat flew off in the wind."
+      sx: {hanzi: "今暗晡無星仔；帽仔分風吹到飛走吔。", pinyin: "gimˊ am buˊ moˇ senˊ eˋ; mo eˋ bunˊ fungˊ coiˊ do biˊ zeuˋ leˊ."}
+      hl: {hanzi: "今暗晡無星仔；帽仔分風吹到飛走咧。", pinyin: "gimˋ amˇ buˋ mo siangˋ er; mo+ er bunˋ fungˋ choiˋ doˇ buiˋ zeuˊ leˋ."}
+    - en: "The hat is under the stool."
+      sx: {hanzi: "帽仔在凳仔下。", pinyin: "mo eˋ coiˊ den eˋ haˊ."}
+      hl: {hanzi: "帽仔在凳仔下。", pinyin: "mo+ er coiˋ denˇ er haˋ."}
     - en: "The wind is strong: shut the window."
       sx: {hanzi: "風當大，窗門關好來。", pinyin: "fungˊ dongˊ tai, cungˊ munˇ guanˊ hoˋ loiˇ."}
       hl: {hanzi: "風當大，窗門關好來。", pinyin: "fungˋ dongˋ tai+, cungˋ mun guanˋ hoˊ loi."}
