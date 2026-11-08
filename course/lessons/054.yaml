@@ -163,7 +163,7 @@ exercises:
     - en: "When you write in pencil, if you get it wrong you can rub it out and write it again."
       sx: {hanzi: "用鉛筆寫字，寫毋著做得捽忒寫過。", pinyin: "iung ienˇ bidˋ xiaˋ sii, xiaˋ mˇ cog zo dedˋ cud tedˋ xiaˋ go."}
       hl: {hanzi: "用鉛筆寫字，寫毋著做得捽忒寫過。", pinyin: "rhung+ rhan bid siaˊ sii+, siaˊ m chogˋ zoˇ ded cudˋ ted siaˊ goˇ."}
-      source: kaga115
+      source: kaga
     - en: "北埔's speciality is dried persimmons; the persimmons dry in the wind."
       sx: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bedˋ puˊ ge tid sanˋ he cii biangˋ; cii eˋ bunˊ fungˊ coiˊ zauˊ."}
       hl: {hanzi: "北埔个特產係柿餅；柿仔分風吹燥。", pinyin: "bed puˋ gaiˇ tidˋ sanˊ heˇ ki+ biangˊ; ki+ er bunˋ fungˋ choiˋ zauˋ."}
@@ -171,7 +171,8 @@ exercises:
     - en: "Only the two old people are left at home."
       sx: {hanzi: "屋下淨伸兩老定定。", pinyin: "vugˋ kaˊ qiang cunˊ liongˋ loˋ tin tin."}
       hl: {hanzi: "屋下淨伸兩老定定。", pinyin: "vug haˋ ciang+ chunˋ liongˊ loˊ tin+ tin+."}
-      source: kaga115
+      source: moe
+      abridged: true
     - en: "The new 粄條 shop is very famous; old people sit in the shade under the eaves."
       sx: {hanzi: "新个粄條店當有名；老人家坐在屋簷下背。", pinyin: "xinˊ ge banˋ tiauˇ diam dongˊ iuˊ miangˇ; loˋ nginˇ gaˊ coˊ coiˊ vugˋ iamˇ haˊ boi."}
       hl: {hanzi: "新个粄條店當有名；老人家坐在屋簷下背。", pinyin: "sinˋ gaiˇ banˊ tiau diamˇ dongˋ rhiuˋ miang; loˊ ngin gaˋ coˋ coiˋ vug rham haˋ boiˇ."}

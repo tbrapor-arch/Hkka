@@ -141,7 +141,8 @@ exercises:
       sx: {hanzi: "辣椒仔辣到目汁流出來。", pinyin: "lad zeuˊ eˋ lad do mugˋ ziibˋ liuˇ cudˋ loiˇ."}
       hl: {hanzi: "辣椒仔辣到目汁流出來。", pinyin: "ladˋ ziauˋ er ladˋ doˇ mug zhib lau chud loi."}
     - en: "Don't put too much oil in a stir-fry."
-      source: kaga115
+      source: moe
+      abridged: true
       sx: {hanzi: "炒菜毋好放忒多油。", pinyin: "cauˋ coi mˇ hoˋ biong tedˋ doˊ iuˇ."}
       hl: {hanzi: "炒菜毋好放忒多油。", pinyin: "cauˊ coiˇ m hoˊ biongˇ ted doˋ rhiu."}
     - en: "This plate of food is too bland; that one's too sour."

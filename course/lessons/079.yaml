@@ -21,7 +21,7 @@ dialogue:
     en: "Coming is enough, and you've brought presents too. You're too kind."
     sx: {hanzi: "人來就好，還擐等路來，恁客氣。", pinyin: "nginˇ loiˇ qiu hoˋ, hanˇ kuan denˋ lu loiˇ, anˋ hagˋ hi."}
     hl: {hanzi: "人來就好，還擐等路來，恁客氣。", pinyin: "ngin loi ciu+ hoˊ, han kuan+ denˊ lu+ loi, anˊ hag hiˇ."}
-    source: kaga115
+    source: moe
   - n: 3
     speaker: 財伯姆
     en: "Not at all. This box of apples and these flowers are for him. And I've cooked some 麵線卵, to chase his bad luck away."
@@ -187,7 +187,7 @@ exercises:
     - en: "Thank you for your hospitality; come and see us when you're free."
       sx: {hanzi: "承蒙你个招待，有閒正來尞。", pinyin: "siinˇ mungˇ nˇ ge zeuˊ tai, iuˊ hanˇ zang loiˇ liau."}
       hl: {hanzi: "承蒙你个招待，有閒正來尞。", pinyin: "shin mung ngi gaiˇ zhauˋ tai+, rhiuˋ han zhangˇ loi liau+."}
-      source: kaga115
+      source: moe
     - en: "The neighbours really care about Grandpa."
       sx: {hanzi: "鄰舍當關心阿公。", pinyin: "linˇ sa dongˊ guanˊ ximˊ aˊ gungˊ."}
       hl: {hanzi: "鄰舍當關心阿公。", pinyin: "lin shaˇ dongˋ guanˋ simˋ a+ gungˋ."}

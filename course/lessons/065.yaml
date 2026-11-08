@@ -155,7 +155,7 @@ exercises:
     - en: "At 清明 everyone goes to the ancestors' graves to pay their respects."
       sx: {hanzi: "清明節大家都愛去祖先个墓地祭祖。", pinyin: "qiangˊ miangˇ jiedˋ tai gaˊ du oi hi zuˋ xienˊ ge mu ti ji zuˋ."}
       hl: {hanzi: "清明節大家都愛去祖先个墓地祭祖。", pinyin: "ciangˋ miang zied tai+ gaˋ du+ oiˇ hiˇ zuˊ sienˋ gaiˇ muˇ ti+ ziˇ zuˊ."}
-      source: kaga115
+      source: moe
     - en: "Grandpa's father passed away fifty years ago."
       sx: {hanzi: "阿公个爸五十年前就過身了。", pinyin: "aˊ gungˊ ge baˊ ngˋ siib ngienˇ qienˇ qiu go siinˊ leˊ."}
       hl: {hanzi: "阿公个爸五十年前就過身了。", pinyin: "a+ gungˋ gaiˇ baˋ ngˊ shibˋ ngien cien ciu+ goˇ shinˋ leˋ."}
@@ -175,7 +175,7 @@ exercises:
     - en: "At 清明, 艾粄 is made with mugwort."
       sx: {hanzi: "清明用艾仔打艾粄。", pinyin: "qiangˊ miangˇ iung ngie eˋ daˋ ngie banˋ."}
       hl: {hanzi: "清明用艾打艾粄。", pinyin: "ciangˋ miang rhung+ ngieˇ daˊ ngieˇ banˊ."}
-      source: kaga115
+      source: kaga
   fill:
     - en: "We pay our respects first, and then we eat."
       sx: {hanzi: "先拜，___食。", pinyin: "xienˊ bai, ___ siid.", answer_hanzi: "斯", answer: "siiˊ"}

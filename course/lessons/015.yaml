@@ -14,7 +14,7 @@ dialogue:
     speaker: 阿姆
     en: "Dressed like that, aren't you cold?"
     zh: "穿這麼少，會冷嗎？"
-    source: kaga115
+    source: sentence
     sx: {hanzi: "著恁少，會寒無？", pinyin: "zogˋ anˋ seuˋ, voi honˇ moˇ?"}
     hl: {hanzi: "著恁少，會冷無？", pinyin: "zhog anˊ shauˊ, voi+ langˋ mo?"}
   - n: 2

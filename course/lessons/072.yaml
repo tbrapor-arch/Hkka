@@ -15,7 +15,7 @@ dialogue:
     en: "Come and look. Umbrellas made of oiled paper are 美濃's most famous craft."
     sx: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "iuˇ ziiˋ zo ge zaˊ eˋ he mi nungˇ qin iuˊ miangˇ ge suˋ gungˊ ngi."}
     hl: {hanzi: "油紙做个遮仔係美濃盡有名个手工藝。", pinyin: "rhiu zhiˊ zoˇ gaiˇ zhaˋ er heˇ mi nung cin+ rhiuˋ miang gaiˇ shiuˊ gungˋ ngi+."}
-    source: kaga115
+    source: moe
   - n: 2
     speaker: Sam
     en: "They're beautiful! What are they made of?"
@@ -166,7 +166,7 @@ exercises:
     - en: "This umbrella is broken; it's no use to you."
       sx: {hanzi: "這枝遮仔壞了，你借去乜無用。", pinyin: "iaˋ giˊ zaˊ eˋ fai leˊ, nˇ jia hi me moˇ iung."}
       hl: {hanzi: "這枝遮仔壞了，你借去乜無用。", pinyin: "liaˊ giˋ zhaˋ er fai+ leˋ, ngi ziaˇ hiˇ meˇ mo rhung+."}
-      source: kaga115
+      source: moe
     - en: "Take an umbrella when you go out: it keeps off the sun."
       sx: {hanzi: "出去記得帶一枝遮仔抵日頭。", pinyin: "cudˋ hi gi dedˋ dai idˋ giˊ zaˊ eˋ daiˋ ngidˋ teuˇ."}
       hl: {hanzi: "出去記得帶一枝遮仔抵日頭。", pinyin: "chud hiˇ giˇ ded daiˇ rhid giˋ zhaˋ er diˊ ngid teu."}
@@ -176,7 +176,7 @@ exercises:
     - en: "At New Year and at festivals, our maternal grandmother makes rice cakes for us."
       sx: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "go ngienˇ go jiedˋ, jiaˋ poˇ du voi zo banˋ eˋ bunˊ enˊ siid."}
       hl: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "goˇ ngien goˇ zied, ziaˊ po du+ voi+ zoˇ banˊ er bunˋ enˋ shidˋ."}
-      source: kaga115
+      source: moe
     - en: "The ribs are bamboo; the black oil is made with charcoal."
       sx: {hanzi: "骨係竹仔，烏油係用火炭煮个。", pinyin: "gudˋ he zugˋ eˇ, vuˊ iuˇ he iung foˋ tan zuˋ ge."}
       hl: {hanzi: "骨係竹仔，烏油係用火炭煮个。", pinyin: "gud heˇ zhug er, vuˋ rhiu heˇ rhung+ foˊ tanˇ zhuˊ gaiˇ."}

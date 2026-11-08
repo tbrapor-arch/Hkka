@@ -56,7 +56,7 @@ dialogue:
   - n: 9
     speaker: 阿英
     en: "In the old days, to take a wife you first had to find a matchmaker. Young people today are smarter: they all find their own partners."
-    source: kaga115
+    source: kaga
     sx: {hanzi: "頭擺討新娘愛先尋媒人，這下个後生人較會，全都係自家尋便對象。", pinyin: "teuˇ baiˋ toˋ xinˊ ngiongˇ oi xienˊ qimˇ moiˇ nginˇ, iaˋ ha ge heu sangˊ nginˇ ka voi, qionˇ du he qi gaˊ qimˇ pien dui xiong."}
     hl: {hanzi: "頭擺討新娘愛先尋媒人，這下个後生人較會，全都係自家尋便對象。", pinyin: "teu baiˊ toˊ sinˋ ngiong oiˇ senˋ cim moi ngin, liaˊ ha+ gaiˇ heu+ sangˋ ngin haˇ voi+, cion du+ heˇ cid gaˋ cim pien+ duiˇ siongˇ."}
   - n: 10

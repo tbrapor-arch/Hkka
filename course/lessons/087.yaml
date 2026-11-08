@@ -179,7 +179,7 @@ exercises:
     - en: "Every morning there are old people playing the fiddle in the park."
       sx: {hanzi: "逐日朝晨都有老人家在公園肚鋸弦仔。", pinyin: "dagˋ ngidˋ zeuˊ siinˇ du iuˊ loˋ nginˇ gaˊ coiˊ gungˊ ienˇ duˋ gi hienˇ eˋ."}
       hl: {hanzi: "逐日朝晨都有老人家在公園肚挨弦仔。", pinyin: "dag ngid zhauˋ shin du+ rhiuˋ loˊ ngin gaˋ coiˋ gungˋ rhan duˊ aiˋ hien er."}
-      source: kaga115
+      source: moe
     - en: "The drummer leads; the 笛仔 player follows him."
       sx: {hanzi: "打鼓个人帶頭，吹笛仔个人跈等佢。", pinyin: "daˋ guˋ ge nginˇ dai teuˇ, coiˊ tag eˋ ge nginˇ tenˇ denˋ giˇ."}
       hl: {hanzi: "打鼓个人帶頭，歕笛仔个人跈等佢。", pinyin: "daˊ guˊ gaiˇ ngin daiˇ teu, pun tagˋ er gaiˇ ngin ten denˊ gi."}
@@ -187,7 +187,7 @@ exercises:
     - en: "In an orchestra, you need a fiddle for it to count as complete."
       sx: {hanzi: "在國樂團肚，愛有二弦正算齊全。", pinyin: "coiˊ guedˋ ngog tonˇ duˋ, oi iuˊ ngi hienˇ zang son ceˇ qionˇ."}
       hl: {hanzi: "在國樂團肚，愛有二弦正算齊全。", pinyin: "coiˋ gued ngogˋ ton duˊ, oiˇ rhiuˋ ngi+ hien zhangˇ sonˇ ce cion."}
-      source: kaga115
+      source: kaga
     - en: "阿貴伯 directs the band; at the festival people will dance as well."
       sx: {hanzi: "阿貴伯指揮八音團，義民節還有人跳舞。", pinyin: "aˊ gui bagˋ ziiˋ fiˊ badˋ imˊ tonˇ, ngi minˇ jiedˋ hanˇ iuˊ nginˇ tiau vuˋ."}
       hl: {hanzi: "阿貴伯指揮八音團，義民節還有人跳舞。", pinyin: "a+ guiˇ bag zhiˊ fuiˋ bad rhimˋ ton, ngi+ min zied han rhiuˋ ngin tiauˇ vuˊ."}
@@ -201,7 +201,7 @@ exercises:
     - en: "Every so often Mum goes next door for a chat with the neighbours."
       sx: {hanzi: "阿姆三不五時就去尋隔壁鄰舍打嘴鼓。", pinyin: "aˊ meˊ samˊ budˋ ngˋ siiˇ qiu hi qimˇ gagˋ biagˋ linˇ sa daˋ zoi guˋ."}
       hl: {hanzi: "阿姆三不五時就去尋隔壁鄰舍打嘴鼓。", pinyin: "a+ meˋ samˋ bud ngˊ shi ciu+ hiˇ cim gag biag lin shaˇ daˊ zhoiˇ guˊ."}
-      source: kaga115
+      source: moe
     - en: "You play the fiddle, and he sings the mountain songs to it."
       sx: {hanzi: "你鋸弦仔，佢和山歌。", pinyin: "nˇ gi hienˇ eˋ, giˇ foˇ sanˊ goˊ."}
       hl: {hanzi: "你挨弦仔，佢和山歌。", pinyin: "ngi aiˋ hien er, gi fo sanˋ goˋ."}

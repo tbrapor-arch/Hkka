@@ -133,7 +133,8 @@ new_words:
 exercises:
   translate:
     - en: "Grandpa is a great storyteller."
-      source: kaga115
+      source: moe
+      abridged: true
       sx: {hanzi: "阿公當會講古。", pinyin: "aˊ gungˊ dongˊ voi gongˋ guˋ."}
       hl: {hanzi: "阿公當會講古。", pinyin: "a+ gungˋ dongˋ voi+ gongˊ guˊ."}
     - en: "There are a lot of people in front of the stage; it's very lively."

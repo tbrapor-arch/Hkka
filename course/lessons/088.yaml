@@ -26,7 +26,7 @@ dialogue:
     en: "Hakka people honour the 義民 with the three-offering rite, to show their respect for them."
     sx: {hanzi: "客家人有用三獻禮來敬義民爺，表達對義民爺个尊敬。", pinyin: "hagˋ gaˊ nginˇ iuˊ iung samˊ hien liˊ loiˇ gin ngi minˇ iaˇ, beuˋ tad dui ngi minˇ iaˇ ge zunˊ gin."}
     hl: {hanzi: "客家人用三獻禮來敬義民爺，表達對義民爺个尊重。", pinyin: "hag gaˋ ngin rhung+ samˋ hienˇ liˋ loi ginˇ ngi+ min rha, biauˊ tadˋ duiˇ ngi+ min rha gaiˇ zunˋ chung+."}
-    source: kaga115
+    source: kaga
   - n: 4
     speaker: 阿英
     en: "People tell their story in different ways. Today, you just watch, and be respectful."
@@ -49,7 +49,7 @@ dialogue:
     en: "(coming over in a break, to the family) You honour us with your presence! Please, sit down, sit down!"
     sx: {hanzi: "大駕光臨，請坐！請坐！", pinyin: "tai ga gongˊ limˇ, qiangˋ coˊ! qiangˋ coˊ!"}
     hl: {hanzi: "大駕光臨，請坐！請坐！", pinyin: "tai+ gaˇ gongˋ lim, ciangˊ coˋ! ciangˊ coˋ!"}
-    source: kaga115
+    source: kaga
   - n: 8
     speaker: 阿婆
     en: "Thank you! Your band plays beautifully this year."
@@ -71,7 +71,7 @@ dialogue:
     en: "How can this tangerine be sour? Did you just eat something sweet?"
     sx: {hanzi: "這隻柑仔哪會酸，你該下係毋係有食甜个東西？", pinyin: "iaˋ zagˋ gamˊ eˋ nai voi sonˊ, nˇ ge ha he mˇ he iuˊ siid tiamˇ ge dungˊ xiˊ?"}
     hl: {hanzi: "這隻柑仔哪會酸，你該下係毋係有食甜个東西？", pinyin: "liaˊ zhag gamˋ er nai+ voi+ sonˋ, ngi gai ha+ heˇ m heˇ rhiuˋ shidˋ tiam gaiˇ dungˋ siˋ?"}
-    source: kaga115
+    source: moe
   - n: 12
     speaker: Sam
     en: "I did… the porridge!"
@@ -178,11 +178,10 @@ exercises:
     - en: "I sincerely invite everyone to this year's 義民 ceremony."
       sx: {hanzi: "𠊎誠心誠意邀請大家來參加今年个義民祭典。", pinyin: "ngaiˇ siinˇ ximˊ siinˇ i ieuˊ qiangˋ tai gaˊ loiˇ camˊ gaˊ gimˊ ngienˇ ge ngi minˇ ji dienˋ."}
       hl: {hanzi: "𠊎誠心誠意邀請大家來參加今年个義民祭典。", pinyin: "ngai shin simˋ shin rhiˇ rhauˋ ciangˊ tai+ gaˋ loi camˋ gaˋ gimˋ ngien gaiˇ ngi+ min ziˇ dienˊ."}
-      source: kaga115
+      source: moe
     - en: "Every year in the seventh month everyone goes to the temple to make offerings for the wandering spirits."
       sx: {hanzi: "逐年七月半大家都去廟項普渡拜好兄弟。", pinyin: "dagˋ ngienˇ qidˋ ngied ban tai gaˊ du hi meu hong puˊ tu bai hoˋ hiungˊ ti."}
       hl: {hanzi: "逐年七月半大家都去廟項普渡拜好兄弟。", pinyin: "dag ngien cid ngiedˋ banˇ tai+ gaˋ du+ hiˇ miau+ hong+ puˋ tu+ baiˇ hoˊ hiungˋ ti+."}
-      source: kaga115
     - en: "Mum goes with my little sister to worship at the temple. (the first half of an official sentence)"
       sx: {hanzi: "阿姆陪老妹去廟肚拜拜。", pinyin: "aˊ meˊ piˇ loˋ moi hi meu duˋ bai baiˊ."}
       hl: {hanzi: "阿姆陪老妹去廟肚拜拜。", pinyin: "a+ meˋ poi loˊ moiˇ hiˇ miau+ duˊ bai baiˊ."}

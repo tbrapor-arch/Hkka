@@ -86,7 +86,7 @@ dialogue:
     en: "(to Sam, when she has gone) When people have a happy event, you have to give a red envelope at the banquet."
     sx: {hanzi: "人家做好事，食酒定著愛包紅包。", pinyin: "nginˇ gaˊ zo hoˋ sii, siid jiuˋ tin cog oi bauˊ fungˇ bauˊ."}
     hl: {hanzi: "人家做好事，食酒定著愛包紅包。", pinyin: "ngin gaˋ zoˇ hoˊ sii+, shidˋ ziuˊ tin+ chogˋ oiˇ bauˋ fung bauˋ."}
-    source: kaga115
+    source: kaga
   - n: 16
     speaker: Sam
     en: "A red envelope? How much do I put in?"

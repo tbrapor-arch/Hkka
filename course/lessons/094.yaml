@@ -15,12 +15,12 @@ dialogue:
     en: "In about ten more minutes the contest begins."
     sx: {hanzi: "再過十分鐘左右，演講比賽就開始了。", pinyin: "zai go siib funˊ zungˊ zoˋ iu, ienˊ gongˋ biˋ soi qiu koiˊ ciiˋ leˊ."}
     hl: {hanzi: "再過十分鐘左右，演講比賽就開始了。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, rhanˋ gongˊ biˊ soiˇ ciu+ koiˋ shiˊ leˋ."}
-    source: kaga115
+    source: moe
   - n: 2
     speaker: Sam
-    en: "My heart's going up and down like anything… I was up at dawn practising, and now I can't remember a thing."
-    sx: {hanzi: "𠊎个心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngaiˇ ge ximˊ gonˊ qidˋ songˊ badˋ log … daˋ zoˋ qiu hiˋ loiˇ lien xib, iaˋ ha qionˇ mˇ gi dedˋ leˊ."}
-    hl: {hanzi: "𠊎个心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngai gaiˇ simˋ gonˋ cid shongˋ bad logˋ … daˊ zoˊ ciu+ hiˊ loi lien+ sibˋ, liaˊ ha+ cion m giˇ ded leˋ."}
+    en: "I feel my heart going up and down like anything… I was up at dawn practising, and now I can't remember a thing."
+    sx: {hanzi: "𠊎試著心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngaiˇ cii doˋ ximˊ gonˊ qidˋ songˊ badˋ log … daˋ zoˋ qiu hiˋ loiˇ lien xib, iaˋ ha qionˇ mˇ gi dedˋ leˊ."}
+    hl: {hanzi: "𠊎試著心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngai chiˇ doˊ simˋ gonˋ cid shongˋ bad logˋ … daˊ zoˊ ciu+ hiˊ loi lien+ sibˋ, liaˊ ha+ cion m giˇ ded leˋ."}
     check: true
   - n: 3
     speaker: 阿婆
@@ -56,14 +56,14 @@ dialogue:
     hl: {hanzi: "一開始係為著讀書。後來𠊎發現，原來係為著好摎屋下人講話。", pinyin: "rhid koiˋ shiˊ heˇ vui+ doˊ tugˋ shuˋ. heu+ loi ngai fad hien+, ngien loi heˇ vui+ doˊ hoˊ lauˋ vug haˋ ngin gongˊ faˇ."}
   - n: 9
     speaker: Sam
-    en: "Where I've said it wrong, please forgive me. Thank you to the Liu family, thank you all. 恁仔細！"
+    en: "Where I've said it wrong, please forgive me. Thank you to the Liu family, thank you all. 恁仔細！ (Hailu: 承蒙大家！)"
     sx: {hanzi: "𠊎講毋對个所在，請大家原諒。感謝劉家，感謝大家。恁仔細！", pinyin: "ngaiˇ gongˋ mˇ dui ge soˋ cai, qiangˋ tai gaˊ ngienˇ liong. gamˋ qia liuˇ gaˊ, gamˋ qia tai gaˊ. anˋ ziiˋ se!"}
-    hl: {hanzi: "𠊎講毋對个所在，請大家原諒。感謝劉家，感謝大家。承蒙！", pinyin: "ngai gongˊ m duiˇ gaiˇ soˊ cai+, ciangˊ tai+ gaˋ ngien liong+. gamˊ cia+ liu gaˋ, gamˊ cia+ tai+ gaˋ. shin mung!"}
+    hl: {hanzi: "𠊎講毋對个所在，請大家原諒。感謝劉家，感謝大家。承蒙大家！", pinyin: "ngai gongˊ m duiˇ gaiˇ soˊ cai+, ciangˊ tai+ gaˋ ngien liong+. gamˊ cia+ liu gaˋ, gamˊ cia+ tai+ gaˋ. shin mung tai+ gaˋ!"}
   - n: 10
     speaker: 阿婆
-    en: "(to A-in, as the audience claps) Look at that! He spoke so well!"
-    sx: {hanzi: "你看！佢講到恁好！", pinyin: "nˇ kon! giˇ gongˋ do anˋ hoˋ!"}
-    hl: {hanzi: "你看！佢講到恁好！", pinyin: "ngi konˇ! gi gongˊ doˇ anˊ hoˊ!"}
+    en: "(to A-in, as the audience claps) Look at that! He spoke so well! So good!"
+    sx: {hanzi: "你看！佢講到恁好！恁會！", pinyin: "nˇ kon! giˇ gongˋ do anˋ hoˋ! anˋ voi!"}
+    hl: {hanzi: "你看！佢講到恁好！恁會！", pinyin: "ngi konˇ! gi gongˊ doˇ anˊ hoˊ! anˋ voi+!"}
   - n: 11
     speaker: 阿英
     en: "(an hour later) They're about to announce the winners' names. The whole hall has gone dead quiet."
@@ -82,15 +82,14 @@ dialogue:
     hl: {hanzi: "第三名！摎𠊎共樣！", pinyin: "ti+ samˋ miang! lauˋ ngai kiung+ rhong+!"}
   - n: 14
     speaker: 阿明
-    en: "Go on, Sam, up you go! The county head is giving out the prizes: a certificate, and prize money too!"
-    sx: {hanzi: "Sam，遽遽上臺！縣長在該頒獎：有獎狀，還有獎金！", pinyin: "Sam, giagˋ giagˋ songˊ toiˇ! ien zongˋ du ge banˊ jiongˋ: iuˊ jiongˋ cong, hanˇ iuˊ jiongˋ gimˊ!"}
-    hl: {hanzi: "Sam，遽遽上臺！縣長在該頒獎：有獎狀，還有獎金！", pinyin: "Sam, giag giag shongˋ toi! rhanˇ zhongˊ diˇ gai banˋ ziongˊ: rhiuˋ ziongˊ cong+, han rhiuˋ ziongˊ gimˋ!"}
+    en: "Sam, your performance was impressive! Go on, up you go! The county head is giving out the prizes: a certificate, and prize money too!"
+    sx: {hanzi: "Sam，你个表現當厲害！遽遽上臺！縣長在該頒獎：有獎狀，還有獎金！", pinyin: "Sam, nˇ ge beuˋ hien dongˊ li hoi! giagˋ giagˋ songˊ toiˇ! ien zongˋ du ge banˊ jiongˋ: iuˊ jiongˋ cong, hanˇ iuˊ jiongˋ gimˊ!"}
+    hl: {hanzi: "Sam，你个表現當厲害！遽遽上臺！縣長在該頒獎：有獎狀，還有獎金！", pinyin: "Sam, ngi gaiˇ biauˊ hien+ dongˋ li+ hoi+! giag giag shongˋ toi! rhanˇ zhongˊ diˇ gai banˋ ziongˊ: rhiuˋ ziongˊ cong+, han rhiuˋ ziongˊ gimˋ!"}
   - n: 15
     speaker: 阿英
-    en: "(to Grandma, while Sam is on the stage) He's made so much progress. A year ago I'd never have believed it."
-    sx: {hanzi: "佢進步恁多。一年前，𠊎從來毋會相信。", pinyin: "giˇ jin pu anˋ doˊ. idˋ ngienˇ qienˇ, ngaiˇ qiungˇ loiˇ mˇ voi xiongˊ xin."}
-    hl: {hanzi: "佢進步恁多。一年前，𠊎從來毋會相信。", pinyin: "gi zinˇ pu+ anˊ doˋ. rhid ngien cien, ngai ciung loi m voi+ siongˋ sinˇ."}
-    check: true
+    en: "(to Grandma, while Sam is on the stage) He's made so much progress, and he's brave. A year ago I'd never have imagined it."
+    sx: {hanzi: "佢進步恁多，乜當勇敢。一年前，𠊎從來毋識想過。", pinyin: "giˇ jin pu anˋ doˊ, me dongˊ iungˋ gamˋ. idˋ ngienˇ qienˇ, ngaiˇ qiungˇ loiˇ mˇ siidˋ xiongˋ go."}
+    hl: {hanzi: "佢進步恁多，乜當勇敢。一年前，𠊎從來毋識想過。", pinyin: "gi zinˇ pu+ anˊ doˋ, meˇ dongˋ rhungˊ gamˊ. rhid ngien cien, ngai ciung loi m shid siongˊ goˇ."}
   - n: 16
     speaker: 阿公
     en: "…Not bad."
@@ -101,14 +100,15 @@ notes:
   - ref: 1
     topic: grammar
     text: >
-      An official sentence word for word, with its recording to come: 再過十分鐘左右，演講比賽就開始了 "in about ten more
-      minutes the speech contest begins". 再過 + time "in… more", 左右 "about" (lesson 93).
+      An MOE dictionary example, word for word (Sixian only; the Hailu column is the course's version, and MOE examples
+      have no recording): 再過十分鐘左右，演講比賽就開始了 "in about ten more minutes the speech contest begins". 再過 + time "in… more", 左右 "about" (lesson 93).
   - ref: 2
     topic: vocab
     text: >
       心肝 ximˊ gonˊ "heart" (the organ, and the feelings: dictionary 心臟 / 心腸). 七上八落 qidˋ songˊ badˋ log "all of a
-      flutter" (dictionary: 忐忑不安): the official example is 想著等下愛上臺表演，老妹就在該七上八落 "thinking that she
-      had to go on stage in a moment, my sister was all of a flutter". 打早 "at the crack of dawn".
+      flutter" (dictionary: 忐忑不安): the kaga115 example is 想著等下愛上臺表演，老妹心頭就七上八落 "thinking that she
+      had to go on stage in a moment, my sister's heart was all of a flutter" (exercise 1). 打早 "at the crack of dawn".
+      試著 cii doˋ "feel (that)": 𠊎試著… "I feel…".
   - ref: 3
     topic: vocab
     text: >
@@ -117,11 +117,11 @@ notes:
   - ref: 4
     topic: vocab
     text: >
-      這篇演講 "this speech": 篇 pienˊ is the classifier for a speech, an essay or an article. 超過 ceuˊ go "go over, exceed" (a false friend in the list: 逾越了標準, only of limits, not of overtaking a car).
+      這篇演講 "this speech": 篇 pienˊ is the classifier for a speech, an essay or an article. 超過 ceuˊ go "go over, exceed": MOE gives 逾越了標準 and also 勝過了別的事物 "surpass".
   - ref: 5
     topic: grammar
     text: >
-      The opening of every Hakka speech: 各位先生、各位朋友，大家好. 各位 (lesson 60) "each of you, all". 從法國來个 "(I'm) from
+      A speech opening: MOE has 各位先生，各位同學，大家好 "ladies and gentlemen, fellow students, hello"; Sam says 各位朋友. 各位 (lesson 60) "each of you, all". 從法國來个 "(I'm) from
       France": 從 qiungˇ "from" (lesson 85) + place + 來个.
   - ref: 6
     topic: grammar
@@ -135,7 +135,8 @@ notes:
   - ref: 9
     topic: hailu
     text: >
-      Sam thanks the room in Sixian, 恁仔細; the Hailu column says 承蒙, as a Hailu speaker would (lesson 53). 劉家 "the Liu
+      Sam thanks the room in Sixian, 恁仔細; the Hailu column says 承蒙大家 (MOE: 承蒙大家个愛惜), as a Hailu speaker would
+      (lesson 53): 承蒙 takes its object, where 恁仔細 stands alone. 劉家 "the Liu
       family": surname + 家.
   - ref: 11
     topic: grammar
@@ -155,8 +156,9 @@ notes:
   - ref: 15
     topic: vocab
     text: >
-      進步 jin pu "progress, improve" (a false friend in the list only because Hakka also uses it of a person getting
-      better). 從來毋會 "would never have": 從來 qiungˇ loiˇ "ever, at all" (dictionary: 向來).
+      進步 jin pu "progress, improve" (kaga115: 比原來好). 從來毋識想過 "had never even thought of it": 從來 qiungˇ loiˇ
+      "ever, at all" (dictionary: 向來) + 毋識 + V過 (lesson 37), as in MOE 𠊎從來毋識來過臺南. 勇敢 "brave".
+      厲害 "impressive", 表現 "performance", 恁會！ "so good!" (line 10).
   - ref: 16
     topic: grammar
     text: >
@@ -165,6 +167,7 @@ notes:
 
 new_words:
   - {hanzi: 心肝, pinyin: "ximˊ gonˊ", en: "heart (organ; feelings)", hl: {hanzi: 心肝, pinyin: "simˋ gonˋ"}}
+  - {hanzi: 心頭, pinyin: "ximˊ teuˇ", en: "heart, mind (where feelings sit)", hl: {hanzi: 心頭, pinyin: "simˋ teu"}}
   - {hanzi: 七上八落, pinyin: "qidˋ songˊ badˋ log", en: "all of a flutter, anxious", hl: {hanzi: 七上八落, pinyin: "cid shongˋ bad logˋ"}}
   - {hanzi: 打早, pinyin: "daˋ zoˋ", en: "at the crack of dawn", hl: {hanzi: 打早, pinyin: "daˊ zoˊ"}}
   - {hanzi: 好膽, pinyin: "hoˋ damˋ", en: "brave, bold", hl: {hanzi: 好膽, pinyin: "hoˊ damˊ"}}
@@ -189,9 +192,9 @@ new_words:
 
 exercises:
   translate:
-    - en: "Thinking she had to go on stage in a moment, my sister was all of a flutter."
-      sx: {hanzi: "想著等下愛上臺表演，老妹就在該七上八落。", pinyin: "xiongˋ doˋ denˋ ha oi songˊ toiˇ beuˋ ienˊ, loˋ moi qiu du ge qidˋ songˊ badˋ log."}
-      hl: {hanzi: "想著等下愛上臺表演，老妹就在該七上八落。", pinyin: "siongˊ doˊ denˊ ha+ oiˇ shongˋ toi biauˊ rhanˋ, loˊ moiˇ ciu+ diˇ gai cid shongˋ bad logˋ."}
+    - en: "Thinking she had to go on stage in a moment, my sister's heart was all of a flutter."
+      sx: {hanzi: "想著等下愛上臺表演，老妹心頭就七上八落。", pinyin: "xiongˋ doˋ denˋ ha oi songˊ toiˇ beuˋ ienˊ, loˋ moi ximˊ teuˇ qiu qidˋ songˊ badˋ log."}
+      hl: {hanzi: "想著等下愛上臺表演，老妹心頭就七上八落。", pinyin: "siongˊ doˊ denˊ ha+ oiˇ shongˋ toi biauˊ rhanˋ, loˊ moiˇ simˋ teu ciu+ cid shongˋ bad logˋ."}
       source: kaga115
     - en: "Your performance today was impressive. So good!"
       sx: {hanzi: "你今晡日个表現當厲害。恁會！", pinyin: "nˇ gimˊ buˊ ngidˋ ge beuˋ hien dongˊ li hoi. anˋ voi!"}

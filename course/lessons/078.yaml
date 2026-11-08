@@ -165,9 +165,10 @@ new_words:
 exercises:
   translate:
     - en: "He fell over and broke a bone."
+      source: kaga115
+      abridged: true
       sx: {hanzi: "佢跌倒，骨頭斷忒。", pinyin: "giˇ diedˋ doˋ, gudˋ teuˇ tonˊ tedˋ."}
       hl: {hanzi: "佢跢倒，骨頭斷忒。", pinyin: "gi doiˋ doˊ, gud teu tonˋ ted."}
-      source: kaga115
     - en: "Peeling a tangerine, I wasn't careful, and cut my finger on the knife."
       sx: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血了。", pinyin: "xiogˋ gamˊ eˋ ge piˇ moˇ se ngi, suˋ ziiˋ bunˊ doˊ eˋ godˋ doˋ, cudˋ hiedˋ leˊ."}
       hl: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血了。", pinyin: "siog gamˋ er gaiˇ pi mo seˇ ngi+, shiuˊ zhiˊ bunˋ doˋ er god doˊ, chud hied leˋ."}

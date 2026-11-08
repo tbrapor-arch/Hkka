@@ -106,6 +106,12 @@ def segment(lex, acc, hanzi, pinyin, names, known=frozenset()):
                 # taught/new word: 1; untaught word: 9 per character + 1 (a whole untaught word still beats its
                 # characters one by one, but never beats a cut into taught words)
                 opts.append((L, 1 if (w, k) in known or acc != "sixian" else 9 * L + 1, (w, k)))
+        # AABB reduplication of a listed AB word (清清楚楚, 歡歡喜喜): counts as a use of AB (lesson 95)
+        if N - i >= 4 and text[i] == text[i + 1] and text[i + 2] == text[i + 3] and keys[i] == keys[i + 1] \
+                and keys[i + 2] == keys[i + 3]:
+            w, k = text[i] + text[i + 2], f"{keys[i]}-{keys[i + 2]}"
+            if k in lex.words[acc].get(w, ()):
+                opts.append((4, 1 if (w, k) in known or acc != "sixian" else 9 * 4 + 1, (w, k)))
         if not any(L == 1 for L, _, _ in opts):
             opts.append((1, 100, ("?", i)))
         for L, c, item in opts:

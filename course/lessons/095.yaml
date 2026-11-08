@@ -12,9 +12,9 @@ names: [法國]
 dialogue:
   - n: 1
     speaker: 阿爸
-    en: "Fine weather today. The harvester's coming at ten to cut the rice."
-    sx: {hanzi: "今晡日好天，割禾機十點會來割禾。", pinyin: "gimˊ buˊ ngidˋ hoˋ tienˊ, godˋ voˇ giˊ siib diamˋ voi loiˇ godˋ voˇ."}
-    hl: {hanzi: "今晡日好天，割禾機十點會來割禾。", pinyin: "gimˋ buˋ ngid hoˊ tienˋ, god vo giˋ shibˋ diamˊ voi+ loi god vo."}
+    en: "These last days the sky was all overcast; today it's fine. The harvester's coming at ten to cut the rice."
+    sx: {hanzi: "這幾日天色烏陰烏陰，今晡日好天，割禾機十點會來割禾。", pinyin: "iaˋ giˋ ngidˋ tienˊ sedˋ vuˊ imˊ vuˊ imˊ, gimˊ buˊ ngidˋ hoˋ tienˊ, godˋ voˇ giˊ siib diamˋ voi loiˇ godˋ voˇ."}
+    hl: {hanzi: "這幾日天色烏陰烏陰，今晡日好天，割禾機十點會來割禾。", pinyin: "liaˊ giˊ ngid tienˋ sed vuˋ rhimˋ vuˋ rhimˋ, gimˋ buˋ ngid hoˊ tienˋ, god vo giˋ shibˋ diamˊ voi+ loi god vo."}
   - n: 2
     speaker: Sam
     en: "That fast? It'll be cut in no time?"
@@ -33,9 +33,9 @@ dialogue:
     check: true
   - n: 5
     speaker: 阿婆
-    en: "In those days the whole family went down to the fields, and we cut till our shoulders ached."
-    sx: {hanzi: "該央時，一家大細全落田，割到肩頭都痛。", pinyin: "ge iongˊ siiˇ, idˋ gaˊ tai se qionˇ log tienˇ, godˋ do gienˊ teuˇ du tung."}
-    hl: {hanzi: "該當時，一家大細全落田，割到肩頭都痛。", pinyin: "gai dongˋ shi, rhid gaˋ tai+ seˇ cion logˋ tien, god doˇ gienˋ teu du+ tungˇ."}
+    en: "In those days the whole family went down to the fields; we carried the grain on shoulder poles till our shoulders ached."
+    sx: {hanzi: "該央時，一家大細全落田，用擔竿㧡穀，㧡到肩頭都痛。", pinyin: "ge iongˊ siiˇ, idˋ gaˊ tai se qionˇ log tienˇ, iung dam gonˊ kaiˊ gugˋ, kaiˊ do gienˊ teuˇ du tung."}
+    hl: {hanzi: "該當時，一家大細全落田，用擔竿㧡穀，㧡到肩頭都痛。", pinyin: "gai dongˋ shi, rhid gaˋ tai+ seˇ cion logˋ tien, rhung+ damˇ gonˋ kaiˋ gug, kaiˋ doˇ gienˋ teu du+ tungˇ."}
     check: true
   - n: 6
     speaker: 阿明
@@ -50,9 +50,8 @@ dialogue:
   - n: 8
     speaker: 阿姆
     en: "(that afternoon, spreading the grain on the threshing floor) It has to be dried right through before it goes into the store."
-    sx: {hanzi: "愛在禾埕晒到燥燥，正收入倉庫。", pinyin: "oi coiˊ voˇ tangˇ sai do zauˊ zauˊ, zang suˊ ngib congˊ ku."}
-    hl: {hanzi: "愛在禾埕晒到燥燥，正收入倉庫。", pinyin: "oiˇ coiˋ vo tang saiˇ doˇ zauˋ zauˋ, zhangˇ shiuˋ ngibˋ congˋ kuˇ."}
-    check: true
+    sx: {hanzi: "穀愛晒到燥燥，正做得收入倉庫。", pinyin: "gugˋ oi sai do zauˊ zauˊ, zang zo dedˋ suˊ ngib congˊ ku."}
+    hl: {hanzi: "穀愛晒到燥燥，正做得收入倉庫。", pinyin: "gug oiˇ saiˇ doˇ zauˋ zauˋ, zhangˇ zoˇ ded shiuˋ ngibˋ congˋ kuˇ."}
   - n: 9
     speaker: 阿婆
     en: "(coming down with a basket of cans) Here, have a cold drink, everyone who's been cutting!"
@@ -65,9 +64,10 @@ dialogue:
     hl: {hanzi: "今年係好年冬無？", pinyin: "gimˋ ngien heˇ hoˊ ngien dungˋ mo?"}
   - n: 11
     speaker: 阿爸
-    en: "It is. The weather's been good this year: it's a good harvest."
-    sx: {hanzi: "係。今年天時好，係隻好年冬。", pinyin: "he. gimˊ ngienˇ tienˊ siiˇ hoˋ, he zagˋ hoˋ ngienˇ dungˊ."}
-    hl: {hanzi: "係。今年天時好，係隻好年冬。", pinyin: "heˇ. gimˋ ngien tienˋ shi hoˊ, heˇ zhag hoˊ ngien dungˋ."}
+    en: "It is. The weather's been good this year: the new rice in the granary gleams. It's a good harvest."
+    sx: {hanzi: "係。今年天時好，穀倉肚个新米金金，係隻好年冬。", pinyin: "he. gimˊ ngienˇ tienˊ siiˇ hoˋ, gugˋ congˊ duˋ ge xinˊ miˋ gimˊ gimˊ, he zagˋ hoˋ ngienˇ dungˊ."}
+    hl: {hanzi: "係。今年天時好，穀倉肚个新米金金，係隻好年冬。", pinyin: "heˇ. gimˋ ngien tienˋ shi hoˊ, gug congˋ duˊ gaiˇ sinˋ miˊ gimˋ gimˋ, heˇ zhag hoˊ ngien dungˋ."}
+    check: true
   - n: 12
     speaker: 阿婆
     en: "'Eat your bowl clean, and the year will be good.' Sam, every grain in your bowl."
@@ -100,7 +100,10 @@ notes:
     topic: vocab
     text: >
       割禾 godˋ voˇ "harvest rice, cut the rice" (禾 is the rice plant, lesson 45); 割禾機 "harvester". 好天 hoˋ tienˊ "fine
-      weather" (dictionary: 晴天). Taiwan has two rice crops a year; this is the second.
+      weather" (dictionary: 晴天). That Taiwan has two rice crops a year (this is the second) is general knowledge.
+      ABAB: 烏陰烏陰 "overcast, grey day after grey day", from 烏陰 "cloudy", as in MOE 這幾日天色烏陰烏陰，無想著今朝晨
+      變到一色晴天. A two-syllable word doubled whole (AB AB) describes a state that lingers; compare 好勢好勢 "all neatly
+      done" (kaga 𠊎會同你裝到好勢好勢) and the AABB of line 6. 天色 "the look of the sky".
   - ref: 3
     topic: grammar
     text: >
@@ -117,7 +120,8 @@ notes:
     topic: vocab
     text: >
       一家大細 "the whole family, young and old": 大細 tai se "big and small; one's children". 落田 "go down into the fields"
-      is the course's phrasing (the line is marked). 肩頭 gienˊ teuˇ "shoulder".
+      is attested (MOE 耕田个人大體趕早就落田); the line stays marked for 㧡到肩頭都痛. 用擔竿㧡穀 "carry the grain on a
+      shoulder pole": 擔竿 "carrying pole", 㧡 (lesson 92). 肩頭 gienˊ teuˇ "shoulder".
   - ref: 6
     topic: grammar
     text: >
@@ -127,8 +131,9 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      晒到燥燥 "dry it till it's bone dry": AA after V到 (lesson 45), with 燥 "dry" (lesson 54). 倉庫 "storehouse"; 穀倉 is
-      the granary (exercise). 收入 "put away into".
+      晒到燥燥 "dry it till it's bone dry": AA after V到 (lesson 45), with 燥 "dry" (lesson 54). The MOE example is almost
+      the line: 榖愛晒到燥燥，正做得入倉 "the grain must be dried bone dry before it can go into the store" (MOE writes the
+      variant 榖). 倉庫 "storehouse"; 穀倉 (line 11) is the granary. 收入 "put away into".
   - ref: 9
     topic: vocab
     text: >
@@ -140,6 +145,12 @@ notes:
     text: >
       好年冬 hoˋ ngienˇ dungˊ "a good year, a good harvest". The official example: 今年無麼个天災，係隻好年冬 "there were no
       disasters this year: it's a good harvest".
+  - ref: 11
+    topic: vocab
+    text: >
+      穀倉肚个新米金金 "the new rice in the granary gleams": 金金 gimˊ gimˊ "shiny, gleaming" (kaga115 entry), as in kaga
+      佢同靴仔捽到金金 "he polished his boots till they shone". Said of rice, it is the course's phrasing,
+      marked. 穀倉 gugˋ congˊ "granary".
   - ref: 12
     topic: culture
     text: >
@@ -148,12 +159,13 @@ notes:
   - ref: 13
     topic: grammar
     text: >
-      緊來緊少 "fewer and fewer": 緊來緊 + adjective "more and more…", the Hakka for 越來越 (lesson 58): 這幾下年緊來緊多个
+      緊來緊少 "fewer and fewer": 緊來緊 + adjective "more and more…", the Hakka for 越來越 (lesson 58; 緊X緊Y from lesson 51): 這幾下年緊來緊多个
       臺商去大陸 (official). 緊來緊多 "more and more" is in the word list as a phrase.
   - ref: 14
     topic: grammar
     text: >
-      An official sentence: 去旅行愛歡歡喜喜出門，平平安安轉屋下 "when you travel, set out cheerful and come home safe".
+      An MOE example (Sixian only; the Hailu column is the course's version): 去旅行愛歡歡喜喜出門，平平安安轉屋下 "when you
+      travel, set out cheerful and come home safe".
       Grandma applies it to France. 轉屋下 "go home": and the question of line 15 is which home.
 
 new_words:
@@ -179,6 +191,7 @@ new_words:
   - {hanzi: 穀, pinyin: "gugˋ", en: "grain (unhusked rice)", hl: {hanzi: 穀, pinyin: "gug"}}
   - {hanzi: 記, pinyin: "gi", en: "remember, keep in mind", hl: {hanzi: 記, pinyin: "giˇ"}}
   - {hanzi: 工, pinyin: "gungˊ", en: "work, labour (人工 by hand)", hl: {hanzi: 工, pinyin: "gungˋ"}}
+  - {hanzi: 烏陰, pinyin: "vuˊ imˊ", en: "overcast, cloudy", hl: {hanzi: 烏陰, pinyin: "vuˋ rhimˋ"}}
   - {hanzi: 擔竿, pinyin: "dam gonˊ", en: "carrying pole", hl: {hanzi: 擔竿, pinyin: "damˇ gonˋ"}}
   - {hanzi: 堆, pinyin: "doiˊ", en: "pile; heap up", hl: {hanzi: 堆, pinyin: "doiˋ"}}
   - {hanzi: 插, pinyin: "cabˋ", en: "stick in, plant", hl: {hanzi: 插, pinyin: "cab"}}
@@ -198,9 +211,9 @@ exercises:
       sx: {hanzi: "割禾過後，草堆起來；春天正落肥。", pinyin: "godˋ voˇ go heu, coˋ doiˊ hiˋ loiˇ; cunˊ tienˊ zang log piˇ."}
       hl: {hanzi: "割禾過後，草堆起來；春天正落肥。", pinyin: "god vo goˇ heu+, coˊ doiˋ hiˊ loi; chunˋ tienˋ zhangˇ logˋ pui."}
       check: true
-    - en: "The new rice in the granary is gleaming gold."
-      sx: {hanzi: "穀倉肚个新米黃金金。", pinyin: "gugˋ congˊ duˋ ge xinˊ miˋ vongˇ gimˊ gimˊ."}
-      hl: {hanzi: "穀倉肚个新米黃金金。", pinyin: "gug congˋ duˊ gaiˇ sinˋ miˊ vong gimˋ gimˋ."}
+    - en: "The new rice in the granary gleams."
+      sx: {hanzi: "穀倉肚个新米金金。", pinyin: "gugˋ congˊ duˋ ge xinˊ miˋ gimˊ gimˊ."}
+      hl: {hanzi: "穀倉肚个新米金金。", pinyin: "gug congˋ duˊ gaiˇ sinˋ miˊ gimˋ gimˋ."}
       check: true
     - en: "Stick a stick in the field so the birds stay away."
       sx: {hanzi: "田肚插一枝棍仔，鳥仔就毋敢來。", pinyin: "tienˇ duˋ cabˋ idˋ giˊ gun eˋ, diauˊ eˋ qiu mˇ gamˋ loiˇ."}

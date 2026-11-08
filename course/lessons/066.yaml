@@ -30,7 +30,7 @@ dialogue:
     en: "How many centimetres have you grown this year?"
     sx: {hanzi: "你今年高加幾多公分？", pinyin: "nˇ gimˊ ngienˇ goˊ gaˊ giˋ doˊ gungˊ funˊ?"}
     hl: {hanzi: "你今年高加幾多公分？", pinyin: "ngi gimˋ ngien goˋ gaˋ giˊ doˋ gungˋ funˋ?"}
-    source: kaga115
+    source: kaga
   - n: 5
     speaker: 阿明
     en: "Five centimetres! But 阿宏 is still a bit taller than me."
@@ -78,7 +78,7 @@ dialogue:
     en: "Good, good. Winning or losing doesn't matter in a contest; what's important is sportsmanship."
     sx: {hanzi: "比賽个輸贏無相干，重要个係愛有運動精神。", pinyin: "biˋ soi ge suˊ iangˇ moˇ xiongˊ gonˊ, cung ieu ge he oi iuˊ iun tung jinˊ siinˇ."}
     hl: {hanzi: "比賽个輸贏無相干，重要个係愛有運動精神。", pinyin: "biˊ soiˇ gaiˇ shuˋ rhang mo siongˋ gonˋ, chung+ rhauˇ gaiˇ heˇ oiˇ rhiuˋ rhun+ tung+ zinˋ shin."}
-    source: kaga115
+    source: moe
   - n: 14
     speaker: 阿明
     en: "Grandma, you can talk: you're better than all of us. You came third singing 山歌!"
@@ -155,7 +155,7 @@ exercises:
     - en: "The sports day started this morning; lots of people came."
       sx: {hanzi: "運動會今晡日朝晨正式開始，當多人來參加。", pinyin: "iun tung fi gimˊ buˊ ngidˋ zeuˊ siinˇ ziin siidˋ koiˊ ciiˋ, dongˊ doˊ nginˇ loiˇ camˊ gaˊ."}
       hl: {hanzi: "運動會今晡日朝晨正式開始，當多人來參加。", pinyin: "rhun+ tung+ fui+ gimˋ buˋ ngid zhauˋ shin zhinˇ shid koiˋ shiˊ, dongˋ doˋ ngin loi camˋ gaˋ."}
-      source: kaga115
+      source: moe
     - en: "Let's race and see who's faster; the loser buys dinner."
       sx: {hanzi: "𫣆兜來走相逐，看麼人走較遽，輸个人愛請食飯。", pinyin: "enˊ deuˊ loiˇ zeuˋ xiongˊ giugˋ, kon maˋ nginˇ zeuˋ ka giagˋ, suˊ ge nginˇ oi qiangˋ siid fan."}
       hl: {hanzi: "𫣆兜來走追仔，看麼人走較遽，輸个人愛請食飯。", pinyin: "enˋ deuˋ loi zeuˊ duiˋ er, konˇ maˊ ngin zeuˊ haˇ giag, shuˋ gaiˇ ngin oiˇ ciangˊ shidˋ pon+."}

@@ -85,7 +85,7 @@ dialogue:
     en: "(an hour later) It's got so dark you can't even see a face."
     sx: {hanzi: "斷烏了，暗到人面都看毋著了。", pinyin: "tonˊ vuˊ leˊ, am do nginˇ mien du kon mˇ doˋ leˊ."}
     hl: {hanzi: "斷烏了，暗到人面都看毋著了。", pinyin: "tonˋ vuˋ leˋ, amˇ doˇ ngin mienˇ du+ konˇ m doˊ leˋ."}
-    source: kaga115
+    source: moe
   - n: 16
     speaker: Sam
     en: "My phone still has some power. It'll light the path a little. Put your backpack under your foot."
@@ -173,9 +173,10 @@ new_words:
 exercises:
   translate:
     - en: "After days of heavy rain, the mountain road has given way in many places."
+      source: moe
+      abridged: true
       sx: {hanzi: "連等落幾下日大雨，山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "lienˇ denˋ log giˋ ha ngidˋ tai iˋ, sanˊ lu iuˊ dongˊ doˊ ti fongˊ benˊ tedˋ leˊ, tai gaˊ cudˋ ngib dongˊ mˇ fongˊ pien."}
       hl: {hanzi: "連等落幾下日大水，山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "lien denˊ logˋ giˊ ha+ ngid tai+ shuiˊ, sanˋ lu+ rhiuˋ dongˋ doˋ ti+ fongˋ benˋ ted leˋ, tai+ gaˋ chud ngibˋ dongˋ m fongˋ pien+."}
-      source: kaga115
     - en: "Ahead there's a stream, and a bridge over it."
       sx: {hanzi: "頭前有一條溪，溪項有一條橋。", pinyin: "teuˇ qienˇ iuˊ idˋ tiauˇ haiˊ, haiˊ hong iuˊ idˋ tiauˇ kieuˇ."}
       hl: {hanzi: "頭前有一條溪，溪項有一條橋。", pinyin: "teu cien rhiuˋ rhid tiau haiˋ, haiˋ hong+ rhiuˋ rhid tiau kiau."}

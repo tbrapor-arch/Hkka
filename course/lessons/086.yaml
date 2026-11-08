@@ -35,7 +35,7 @@ dialogue:
     en: "Being Hakka and not speaking Hakka: that's truly letting down your own ancestors."
     sx: {hanzi: "身為客家人毋會講客家話，正經對毋起自家个祖公。", pinyin: "siinˊ viˇ hagˋ gaˊ nginˇ mˇ voi gongˋ hagˋ gaˊ fa, ziin ginˊ dui mˇ hiˋ qi gaˊ ge zuˋ gungˊ."}
     hl: {hanzi: "身為客家人毋會講客家話，正經對毋起自家个祖公。", pinyin: "shinˋ vui hag gaˋ ngin m voi+ gongˊ hag gaˋ faˇ, zhinˇ ginˋ duiˇ m hiˊ cid gaˋ gaiˇ zuˊ gungˋ."}
-    source: kaga115
+    source: moe
     check: true
   - n: 6
     speaker: 阿婆
@@ -173,9 +173,10 @@ exercises:
       sx: {hanzi: "照𠊎看，你兩儕共樣，莫恁大聲吵。", pinyin: "zeu ngaiˇ kon, nˇ liongˋ saˇ kiung iong, mog anˋ tai sangˊ cauˇ."}
       hl: {hanzi: "照𠊎看，你兩儕共樣，莫恁大聲吵。", pinyin: "zhauˇ ngai konˇ, ngi liongˊ sa kiung+ rhong+, mogˋ anˊ tai+ shangˋ cau."}
     - en: "My English isn't up to much; I have to join the beginners' class."
+      source: moe
+      abridged: true
       sx: {hanzi: "𠊎英文程度毋好，愛讀初級班。", pinyin: "ngaiˇ inˊ vunˇ cangˇ tu mˇ hoˋ, oi tug cuˊ gibˋ banˊ."}
       hl: {hanzi: "𠊎英文程度毋好，愛讀初級班。", pinyin: "ngai rhinˋ vun chang tu+ m hoˊ, oiˇ tugˋ cuˋ gib banˋ."}
-      source: kaga115
       check: true
     - en: "Speak quietly: Grandpa is asleep."
       sx: {hanzi: "細聲講，阿公在該睡目。", pinyin: "se sangˊ gongˋ, aˊ gungˊ du ge soi mugˋ."}
@@ -186,11 +187,11 @@ exercises:
     - en: "He's set his heart on winning next month's Hakka speech contest, and now he practises hard every day."
       sx: {hanzi: "佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習。", pinyin: "giˇ idˋ ximˊ xiongˋ oi naˊ doˋ ha zagˋ ngied hagˋ fa ienˊ gongˋ biˋ soi ge ti idˋ miangˇ, iaˋ ha dagˋ ngidˋ dongˊ sadˋ mangˊ lien xib."}
       hl: {hanzi: "佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習。", pinyin: "gi rhid simˋ siongˊ oiˇ naˋ doˊ ha+ zhag ngiedˋ hag voiˋ rhanˋ gongˊ biˊ soiˇ gaiˇ ti+ rhid miang, liaˊ ha+ dag ngid dongˋ sad mangˋ lien+ sibˋ."}
-      source: kaga115
+      source: moe
     - en: "English has twenty-six letters in all."
       sx: {hanzi: "英語總共有二十六個字母。", pinyin: "inˊ ngiˊ zungˋ kiung iuˊ ngi siib liugˋ ge sii muˊ."}
       hl: {hanzi: "英語總共有二十六個字母。", pinyin: "rhinˋ ngiˋ zungˊ kiung+ rhiuˋ ngi+ shibˋ liug gaiˇ sii+ muˋ."}
-      source: kaga115
+      source: moe
     - en: "After class A-min stays in the classroom and does his homework."
       sx: {hanzi: "下課以後，阿明在教室做功課。", pinyin: "ha ko iˊ heu, aˊ minˇ coiˊ gau siidˋ zo gungˊ ko."}
       hl: {hanzi: "下課以後，阿明在教室做功課。", pinyin: "haˋ koˇ rhiˋ heu+, a+ min coiˋ gauˇ shid zoˇ gungˋ koˇ."}
