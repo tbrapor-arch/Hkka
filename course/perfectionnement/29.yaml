@@ -1,0 +1,287 @@
+id: 29
+genre: dialogue
+title:
+  en: "Cutting down the tree to pick the longans"
+  sx: {hanzi: "倒樹仔摘牛眼", pinyin: "doˋ su eˋ zagˋ ngiuˇ ngienˋ"}
+review: false
+setting: >-
+  Saturday 6 January 2029, a frosty morning in Grandpa's vegetable garden. Sam and A-min help him dig sweet potatoes,
+  then roast them in the embers.
+names: [Sam, 阿公, 阿明, 阿婆, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿公
+    en: "There was a frost this morning. The cabbages are white on top."
+    sx: {hanzi: "今晡日朝晨落霜，包心白頂高都白白。", pinyin: "gimˊ buˊ ngidˋ zeuˊ siinˇ log songˊ, bauˊ ximˊ pag dangˋ goˊ du pag pag."}
+    check: true
+  - n: 2
+    speaker: Sam
+    en: "Does it frost in Taiwan in winter too?"
+    sx: {hanzi: "冬下頭臺灣乜會落霜？", pinyin: "dungˊ haˊ teuˇ toiˇ vanˇ me voi log songˊ?"}
+  - n: 3
+    speaker: 阿公
+    en: "Up in the Miaoli hills, sometimes. In winter the vegetables grow slowly; they won't put out new shoots till the spring."
+    sx: {hanzi: "苗栗山肚有時會。冬下頭菜生較慢，等到年頭正會暴芽。", pinyin: "meuˇ lid sanˊ duˋ iuˊ siiˇ voi. dungˊ haˊ teuˇ coi sangˊ ka man, denˋ do ngienˇ teuˇ zang voi bau ngaˇ."}
+    check: true
+  - n: 4
+    speaker: 阿明
+    en: "Grandpa, what are we doing today?"
+    sx: {hanzi: "阿公，𫣆兜今晡日愛做麼个？", pinyin: "aˊ gungˊ, enˊ deuˊ gimˊ buˊ ngidˋ oi zo maˋ ge?"}
+  - n: 5
+    speaker: 阿公
+    en: "First we dig up the sweet potatoes, then we pick the spinach."
+    sx: {hanzi: "先改番薯，正拗角菜。", pinyin: "xienˊ goiˋ fanˊ suˇ, zang auˋ gogˋ coi."}
+    check: true
+  - n: 6
+    speaker: 阿公
+    en: "In the old days I ploughed this field with an ox."
+    sx: {hanzi: "頭擺𠊎用牛仔犁這坵田。", pinyin: "teuˇ baiˋ ngaiˇ iung ngiuˇ eˋ laiˇ iaˋ kiuˊ tienˇ."}
+  - n: 7
+    speaker: Sam
+    en: "How do you dig up sweet potatoes?"
+    sx: {hanzi: "番薯仰般改？", pinyin: "fanˊ suˇ ngiongˋ banˊ goiˋ?"}
+  - n: 8
+    speaker: 阿公
+    en: "You use a hoe, gently, so you don't cut into the potatoes. To fell a tree you use an axe; to dig sweet potatoes, a hoe."
+    sx: {hanzi: "用钁頭輕輕仔改，莫改著番薯。倒樹仔愛用斧頭，改番薯愛用钁頭。", pinyin: "iung giogˋ teuˇ kiangˊ kiangˊ eˋ goiˋ, mog goiˋ doˋ fanˊ suˇ. doˋ su eˋ oi iung buˋ teuˇ, goiˋ fanˊ suˇ oi iung giogˋ teuˇ."}
+  - n: 9
+    speaker: 阿明
+    en: "These clods are so hard!"
+    sx: {hanzi: "這兜泥團恁硬！", pinyin: "iaˋ deuˊ naiˇ tonˇ anˋ ngang!"}
+  - n: 10
+    speaker: 阿公
+    en: "Tread them with your foot and they'll break up."
+    sx: {hanzi: "用腳踏，泥團就會散。", pinyin: "iung giogˋ tab, naiˇ tonˇ qiu voi sanˋ."}
+    check: true
+  - n: 11
+    speaker: 阿明
+    en: "There's an ants' nest in the soil! The ants are crawling everywhere."
+    sx: {hanzi: "泥肚有蟻公竇！蟻公緊爬。", pinyin: "naiˇ duˋ iuˊ ngie gungˊ deu! ngie gungˊ ginˋ paˇ."}
+    check: true
+  - n: 12
+    speaker: 阿公
+    en: "Don't be scared. When we've dug the potatoes, gather some firewood and we'll roast them in the embers."
+    sx: {hanzi: "莫驚。改好番薯，撿兜樵來，𫣆兜來煨番薯。", pinyin: "mog giangˊ. goiˋ hoˋ fanˊ suˇ, giamˋ deuˊ ceuˇ loiˇ, enˊ deuˊ loiˇ voiˊ fanˊ suˇ."}
+  - n: 13
+    speaker: Sam
+    en: "How do you roast sweet potatoes in embers?"
+    sx: {hanzi: "煨番薯係仰般煨？", pinyin: "voiˊ fanˊ suˇ he ngiongˋ banˊ voiˊ?"}
+  - n: 14
+    speaker: 阿公
+    en: "Light a fire, bury the potatoes in the hot ashes, and leave them about an hour: then they're done."
+    sx: {hanzi: "燒火，番薯埋在火灰肚，燜一點鐘仔就熟。", pinyin: "seuˊ foˋ, fanˊ suˇ maiˇ coiˊ foˋ foiˊ duˋ, munˊ idˋ diamˋ zungˊ eˋ qiu xiugˋ."}
+    check: true
+  - n: 15
+    speaker: 阿明
+    en: "There's not enough wood. I'll get the machete and cut down a tree out the back."
+    sx: {hanzi: "樵毋罅，𠊎去擎刀嫲來倒樹仔。", pinyin: "ceuˇ mˇ la, ngaiˇ hi kiaˇ doˊ maˇ loiˇ doˋ su eˋ."}
+  - n: 16
+    speaker: 阿明
+    en: "That longan tree is so old. It hardly gave any longans this year."
+    sx: {hanzi: "該頭牛眼樹恁老，今年牛眼生無幾多。", pinyin: "ge teuˇ ngiuˇ ngienˋ su anˋ loˋ, gimˊ ngienˇ ngiuˇ ngienˋ sangˊ moˇ giˋ doˊ."}
+    check: true
+  - n: 17
+    speaker: 阿公
+    en: "Cutting down the tree to pick the longans! That tree will still give longans next summer."
+    sx: {hanzi: "倒樹仔摘牛眼！該頭樹天光年熱天還會生牛眼。", pinyin: "doˋ su eˋ zagˋ ngiuˇ ngienˋ! ge teuˇ su tienˊ gongˊ ngienˇ ngied tienˊ hanˇ voi sangˊ ngiuˇ ngienˋ."}
+  - n: 18
+    speaker: 阿公
+    en: "Go and gather wood at the foot of the hill, that'll do."
+    sx: {hanzi: "去山腳撿樵就好。", pinyin: "hi sanˊ giogˋ giamˋ ceuˇ qiu hoˋ."}
+  - n: 19
+    speaker: Sam
+    en: "We've brought the wood back. Where are the matches?"
+    sx: {hanzi: "樵撿轉來吔。捽來火在哪位？", pinyin: "ceuˇ giamˋ zonˋ loiˇ leˊ. cud loiˇ foˋ coiˊ nai vi?"}
+  - n: 20
+    speaker: 阿公
+    en: "The fire isn't going well. You need to blow on it."
+    sx: {hanzi: "火毋猛，你愛歕火。", pinyin: "foˋ mˇ mangˊ, nˇ oi punˇ foˋ."}
+  - n: 21
+    speaker: 阿明
+    en: "(laughing) The ash has flown all over Sam's face! It's all black!"
+    sx: {hanzi: "火灰飛到Sam个面！烏烏！", pinyin: "foˋ foiˊ biˊ do Sam ge mien! vuˊ vuˊ!"}
+  - n: 22
+    speaker: 阿公
+    en: "While the potatoes cook, go to the pond for water and water the vegetables with the ladle."
+    sx: {hanzi: "番薯還吂熟，去陂塘打水，用勺嫲舀水淋菜。", pinyin: "fanˊ suˇ hanˇ mangˇ xiugˋ, hi biˊ tongˇ daˋ suiˋ, iung sog maˇ ieuˋ suiˋ limˇ coi."}
+  - n: 23
+    speaker: 阿明
+    en: "The geese in the pond are swimming round and round."
+    sx: {hanzi: "陂塘肚个鵝仔緊泅來泅去。", pinyin: "biˊ tongˇ duˋ ge ngoˇ eˋ ginˋ qiuˇ loiˇ qiuˇ hi."}
+  - n: 24
+    speaker: Sam
+    en: "What are those birds on the roof?"
+    sx: {hanzi: "屋頂該兜鳥仔係麼个？", pinyin: "vugˋ dangˋ ge deuˊ diauˊ eˋ he maˋ ge?"}
+  - n: 25
+    speaker: 阿公
+    en: "Pigeons. And Grandma's hen is sitting on her eggs."
+    sx: {hanzi: "該係月鴿仔。阿婆畜个雞嫲乜在該孵卵。", pinyin: "ge he ngied gabˋ eˇ. aˊ poˇ hiugˋ ge gieˊ maˇ me du ge pu lonˋ."}
+  - n: 26
+    speaker: 阿明
+    en: "The sweet potatoes are ready!"
+    sx: {hanzi: "番薯熟吔，好食吔！", pinyin: "fanˊ suˇ xiugˋ leˊ, hoˋ siid leˊ!"}
+  - n: 27
+    speaker: Sam
+    en: "Roast sweet potatoes in winter: so warming."
+    sx: {hanzi: "冬下頭食煨番薯，當燒暖。", pinyin: "dungˊ haˊ teuˇ siid voiˊ fanˊ suˇ, dongˊ seuˊ nonˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is a saying from the official lists (高級): 倒樹仔摘牛眼 "cut down the tree to pick the longans", i.e.
+      kill the goose that lays the golden eggs (lines 15–17).
+  - ref: 1
+    topic: vocab
+    text: >
+      落霜 log songˊ "there is a frost" (霜 is from 進修 11). 包心白 bauˊ ximˊ pag "Chinese cabbage" (literally
+      "white with a wrapped heart"; 包心白淨炒乜好食). Marked for review.
+  - ref: 2
+    topic: vocab
+    text: >
+      冬下頭 dungˊ haˊ teuˇ "in winter" (冬下頭，水龍頭撙啊開，水都冷泧泧仔).
+  - ref: 3
+    topic: vocab
+    text: >
+      暴芽 bau ngaˇ "put out new shoots, sprout" (綠豆仔翕等就會暴芽，生出豆芽來). Marked for review.
+  - ref: 5
+    topic: vocab
+    text: >
+      改番薯 goiˋ fanˊ suˇ "dig up sweet potatoes" (在菜園改番薯), with 改 goiˋ "dig". 拗 auˋ "snap off, pick" (拗手把).
+      角菜 gogˋ coi "spinach" (市場項買一斤角菜愛幾多錢？). Marked for review.
+  - ref: 6
+    topic: vocab
+    text: >
+      犁田 laiˇ tienˇ "plough a field" (牛仔在田項犁田). 坵 kiuˊ, the measure word for fields (上坵田).
+  - ref: 8
+    topic: vocab
+    text: >
+      The second sentence is official: 倒樹仔愛用斧頭，改番薯愛用钁頭. 倒樹仔 doˋ su eˋ "fell a tree", 斧頭 buˋ teuˇ "axe";
+      钁頭 is lesson 65's "hoe".
+  - ref: 9
+    topic: vocab
+    text: >
+      泥團 naiˇ tonˇ "clod of earth". The official sentence is 泥團愛用腳蹂綿，正會散忒. 散 sanˋ "fall apart". Line 10 is
+      marked for review.
+  - ref: 11
+    topic: vocab
+    text: >
+      蟻公竇 ngie gungˊ deu "ants' nest" (樹頂有蟻公竇): 竇 as in 轉竇 (進修 11). Marked for review.
+  - ref: 12
+    topic: vocab
+    text: >
+      撿樵 giamˋ ceuˇ "gather firewood" (撿樵來燒火), with 樵 ceuˇ "firewood". 煨番薯 voiˊ fanˊ suˇ "roast sweet potatoes in
+      hot ashes" (寒天，大人細子都好煨番薯食).
+  - ref: 14
+    topic: vocab
+    text: >
+      埋 maiˇ "bury". 火灰 foˋ foiˊ "ashes, embers" (火灰做得拿來洗鑊仔). 熟 xiugˋ "cooked, done" (燜 is from 進修 15).
+      Marked for review.
+  - ref: 15
+    topic: vocab
+    text: >
+      刀嫲 doˊ maˇ "machete" (擎刀嫲剁樵).
+  - ref: 16
+    topic: vocab
+    text: >
+      牛眼 ngiuˇ ngienˋ "longan" (literally "ox eye"). 頭 is the measure word for trees. Marked for review.
+  - ref: 17
+    topic: vocab
+    text: >
+      天光年 "next year" (Part 1).
+  - ref: 19
+    topic: vocab
+    text: >
+      捽來火 cud loiˇ foˋ "match(es)" (一盒捽來火), literally "strike-fire".
+  - ref: 20
+    topic: vocab
+    text: >
+      歕火 punˇ foˋ "blow on a fire" (頭擺用灶頭煮飯該下，無歕火，火毋會猛). 猛 "(of a fire) fierce, going well".
+  - ref: 22
+    topic: vocab
+    text: >
+      陂塘 biˊ tongˇ "pond". 打水 daˋ suiˋ "draw water" (阿婆去井脣打水). 勺嫲 sog maˇ "ladle, water dipper" (用勺嫲舀水).
+      淋 limˇ "water (plants)" (去菜園淋菜).
+  - ref: 23
+    topic: vocab
+    text: >
+      鵝仔 ngoˇ eˋ "goose" (陂塘肚有鵝仔). 泅來泅去 qiuˇ loiˇ qiuˇ hi "swim about" (魚仔在水肚泅來泅去).
+  - ref: 25
+    topic: vocab
+    text: >
+      月鴿仔 ngied gabˋ eˇ "pigeon" (阿爸頭擺有在屋頂畜月鴿仔). 孵卵 pu lonˋ "sit on eggs, hatch" (雞嫲孵卵).
+  - ref: 27
+    topic: vocab
+    text: >
+      燒暖 "warm" (lesson 34). Marked for review.
+
+new_words:
+  - {hanzi: 倒樹仔摘牛眼, pinyin: "doˋ su eˋ zagˋ ngiuˇ ngienˋ", en: "kill the goose that lays the golden eggs"}
+  - {hanzi: 落霜, pinyin: "log songˊ", en: "there is a frost"}
+  - {hanzi: 包心白, pinyin: "bauˊ ximˊ pag", en: "Chinese cabbage"}
+  - {hanzi: 冬下頭, pinyin: "dungˊ haˊ teuˇ", en: "in winter"}
+  - {hanzi: 暴芽, pinyin: "bau ngaˇ", en: "sprout, put out shoots"}
+  - {hanzi: 改番薯, pinyin: "goiˋ fanˊ suˇ", en: "dig up sweet potatoes"}
+  - {hanzi: 拗, pinyin: "auˋ", en: "snap off, pick"}
+  - {hanzi: 角菜, pinyin: "gogˋ coi", en: "spinach"}
+  - {hanzi: 犁田, pinyin: "laiˇ tienˇ", en: "plough a field"}
+  - {hanzi: 坵, pinyin: "kiuˊ", en: "(measure word for fields)"}
+  - {hanzi: 倒樹仔, pinyin: "doˋ su eˋ", en: "fell a tree"}
+  - {hanzi: 斧頭, pinyin: "buˋ teuˇ", en: "axe"}
+  - {hanzi: 泥團, pinyin: "naiˇ tonˇ", en: "clod of earth"}
+  - {hanzi: 散, pinyin: "sanˋ", en: "fall apart, break up"}
+  - {hanzi: 蟻公竇, pinyin: "ngie gungˊ deu", en: "ants' nest"}
+  - {hanzi: 撿樵, pinyin: "giamˋ ceuˇ", en: "gather firewood"}
+  - {hanzi: 樵, pinyin: "ceuˇ", en: "firewood"}
+  - {hanzi: 煨, pinyin: "voiˊ", en: "roast in hot ashes"}
+  - {hanzi: 熟, pinyin: "xiugˋ", en: "cooked, done; ripe"}
+  - {hanzi: 犁, pinyin: "laiˇ", en: "plough"}
+  - {hanzi: 煨番薯, pinyin: "voiˊ fanˊ suˇ", en: "roast sweet potatoes in hot ashes"}
+  - {hanzi: 埋, pinyin: "maiˇ", en: "bury"}
+  - {hanzi: 火灰, pinyin: "foˋ foiˊ", en: "ashes, embers"}
+  - {hanzi: 刀嫲, pinyin: "doˊ maˇ", en: "machete"}
+  - {hanzi: 牛眼, pinyin: "ngiuˇ ngienˋ", en: "longan"}
+  - {hanzi: 捽來火, pinyin: "cud loiˇ foˋ", en: "match(es)"}
+  - {hanzi: 猛, pinyin: "mangˊ", en: "(of a fire) fierce"}
+  - {hanzi: 歕火, pinyin: "punˇ foˋ", en: "blow on a fire"}
+  - {hanzi: 陂塘, pinyin: "biˊ tongˇ", en: "pond"}
+  - {hanzi: 打水, pinyin: "daˋ suiˋ", en: "draw water"}
+  - {hanzi: 勺嫲, pinyin: "sog maˇ", en: "ladle, water dipper"}
+  - {hanzi: 淋, pinyin: "limˇ", en: "water (plants)"}
+  - {hanzi: 鵝仔, pinyin: "ngoˇ eˋ", en: "goose"}
+  - {hanzi: 泅來泅去, pinyin: "qiuˇ loiˇ qiuˇ hi", en: "swim about"}
+  - {hanzi: 月鴿仔, pinyin: "ngied gabˋ eˇ", en: "pigeon"}
+  - {hanzi: 孵卵, pinyin: "pu lonˋ", en: "sit on eggs, hatch"}
+
+exercises:
+  translate:
+    - en: "Dig sweet potatoes in the vegetable garden."
+      source: kaga115
+      sx: {hanzi: "在菜園改番薯。", pinyin: "coiˊ coi ienˇ goiˋ fanˊ suˇ."}
+    - en: "An ox is ploughing in the field."
+      source: kaga115
+      sx: {hanzi: "牛仔在田項犁田。", pinyin: "ngiuˇ eˋ coiˊ tienˇ hong laiˇ tienˇ."}
+    - en: "Gather firewood to make a fire."
+      source: kaga115
+      sx: {hanzi: "撿樵來燒火。", pinyin: "giamˋ ceuˇ loiˇ seuˊ foˋ."}
+    - en: "Scoop up water with the ladle."
+      source: kaga115
+      sx: {hanzi: "用勺嫲舀水。", pinyin: "iung sog maˇ ieuˋ suiˋ."}
+    - en: "The fish are swimming about in the water."
+      source: kaga115
+      sx: {hanzi: "魚仔在水肚泅來泅去。", pinyin: "ngˇ eˋ coiˊ suiˋ duˋ qiuˇ loiˇ qiuˇ hi."}
+  fill:
+    - en: "There was a frost."
+      sx: {hanzi: "___吔。", pinyin: "___ leˊ.", answer_hanzi: "落霜", answer: "log songˊ"}
+    - en: "I'll go and get the machete."
+      sx: {hanzi: "𠊎去擎___來。", pinyin: "ngaiˇ hi kiaˇ ___ loiˇ.", answer_hanzi: "刀嫲", answer: "doˊ maˇ"}
+    - en: "A box of matches."
+      sx: {hanzi: "一盒___。", pinyin: "idˋ hab ___.", answer_hanzi: "捽來火", answer: "cud loiˇ foˋ"}
+    - en: "There are geese in the pond."
+      sx: {hanzi: "陂塘肚有___。", pinyin: "biˊ tongˇ duˋ iuˊ ___.", answer_hanzi: "鵝仔", answer: "ngoˇ eˋ"}
+    - en: "The hen is sitting on her eggs."
+      sx: {hanzi: "雞嫲___。", pinyin: "gieˊ maˇ ___.", answer_hanzi: "孵卵", answer: "pu lonˋ"}
+
+audio: []

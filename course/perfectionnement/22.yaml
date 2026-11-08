@@ -10,7 +10,7 @@ names: [Sam, 鍾伯, 鍾伯姆, 阿英, 阿公, 阿雄, 聯合大學, 法國, �
 dialogue:
 - n: 1
   en: 'Dear 鍾伯, how are you? It''s been so long since I wrote to you: I''m sorry.'
-  sx: {hanzi: 鍾伯：你好！恁久無寫信分你，對毋住。, pinyin: 'zungˊ bagˋ: nˇ hoˋ! anˋ giuˋ moˇ xiaˋ xin bunˊ nˇ, dui mˇ cu.'}
+  sx: {hanzi: 鍾伯：你好！恁久無寫信分你，同你會失禮。, pinyin: 'zungˊ bagˋ: nˇ hoˋ! anˋ giuˋ moˇ xiaˋ xin bunˊ nˇ, tungˇ nˇ fi siidˋ liˊ.'}
 - n: 2
   en: A-in sent me your essay. It describes the 伙房 very vividly.
   sx: {hanzi: 阿英寄你个文章分𠊎看吔，文章描寫伙房，寫到當生動。, pinyin: 'aˊ inˊ gi nˇ ge vunˇ zongˊ bunˊ ngaiˇ kon leˊ, vunˇ zongˊ meuˇ xiaˋ foˋ
