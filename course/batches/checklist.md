@@ -122,3 +122,11 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Sentence-final 哦 is oˊ (MOE 勸誡 sense); 呢 neˇ and noˋ are free variants in Sixian.
 - 姐婆 is the maternal grandmother (外婆), not Grandma's mother.
 - Hailu also says 盡 for "very" (盡少, 盡想你呢); don't swap it for 最 in the Hailu column.
+
+## Added after the batch 12 review
+- 聞 vunˇ means "hear" (a book word); "smell" is 鼻 pi (你鼻看啊, 鼻得着滿屋个清香).
+- "Do it wrong" is V毋對 (唱毋對, 七做八毋對); 毋著 after a verb means "not manage to".
+- 毋會講話 means "mute, can't speak": don't use it for "I'm no good at talking".
+- A song or verse quote needs its source (the dictionary's 引自…), never a copyright claim the data can't support.
+- Gloss 盡 every time it appears ("very" or "most").
+- An official sentence that exists only in Sixian: say in the note that the Hailu column is the course's transposition.

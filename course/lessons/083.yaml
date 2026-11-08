@@ -18,9 +18,9 @@ dialogue:
     hl: {hanzi: "阿婆，𠊎在樓頂尋著一箱舊相片！", pinyin: "a+ po, ngai coiˋ leu dangˊ cim doˊ rhid siongˋ kiu+ siongˇ pienˊ!"}
   - n: 2
     speaker: 阿婆
-    en: "That box! I've been looking for it for years."
-    sx: {hanzi: "這箱相片，𠊎尋幾多年了！", pinyin: "iaˋ xiongˊ xiong pienˋ, ngaiˇ qimˇ giˋ doˊ ngienˇ leˊ!"}
-    hl: {hanzi: "這箱相片，𠊎尋幾多年了！", pinyin: "liaˊ siongˋ siongˇ pienˊ, ngai cim giˊ doˋ ngien leˋ!"}
+    en: "That box! I've been looking for it for years. In the old days the photos lay in piles, one pile on top of another."
+    sx: {hanzi: "這箱相片，𠊎尋幾多年了！以前相片係一疊一疊个。", pinyin: "iaˋ xiongˊ xiong pienˋ, ngaiˇ qimˇ giˋ doˊ ngienˇ leˊ! iˊ qienˇ xiong pienˋ he idˋ tiab idˋ tiab ge."}
+    hl: {hanzi: "這箱相片，𠊎尋幾多年了！以前相片係一疊一疊个。", pinyin: "liaˊ siongˋ siongˇ pienˊ, ngai cim giˊ doˋ ngien leˋ! rhiˋ cien siongˇ pienˊ heˇ rhid tiabˋ rhid tiabˋ gaiˇ."}
   - n: 3
     speaker: Sam
     en: "(holding up a black-and-white photo) Who's this? The young man in the suit?"
@@ -29,8 +29,8 @@ dialogue:
   - n: 4
     speaker: 阿婆
     en: "That's your grandpa. It was taken on our wedding day, fifty years ago."
-    sx: {hanzi: "該係你阿公。這張係五十年前，𠊎兜結婚該日翕个。", pinyin: "ge he nˇ aˊ gungˊ. iaˋ zongˊ he ngˋ siib ngienˇ qienˇ, ngaiˇ deuˊ giedˋ funˊ ge ngidˋ hibˋ ge."}
-    hl: {hanzi: "該係你阿公。這張係五十年前，𠊎兜結婚該日翕个。", pinyin: "gai heˇ ngi a+ gungˋ. liaˊ zhongˋ heˇ ngˊ shibˋ ngien cien, ngai deuˋ gied funˋ gai ngid hib gaiˇ."}
+    sx: {hanzi: "該係阿公。這張係五十年前，𠊎兜結婚該日翕个。", pinyin: "ge he aˊ gungˊ. iaˋ zongˊ he ngˋ siib ngienˇ qienˇ, ngaiˇ deuˊ giedˋ funˊ ge ngidˋ hibˋ ge."}
+    hl: {hanzi: "該係阿公。這張係五十年前，𠊎兜結婚該日翕个。", pinyin: "gai heˇ a+ gungˋ. liaˊ zhongˋ heˇ ngˊ shibˋ ngien cien, ngai deuˋ gied funˋ gai ngid hib gaiˇ."}
   - n: 5
     speaker: 阿明
     en: "Grandpa was so thin! And look at all that hair!"
@@ -54,9 +54,9 @@ dialogue:
     hl: {hanzi: "係𠊎。該當時無彩色相片，全部係烏白个。𠊎該日著个衫，係紅色个。", pinyin: "heˇ ngai. gai dongˋ shi mo caiˊ sed siongˇ pienˊ, cion pu+ heˇ vuˋ pagˋ gaiˇ. ngai gai ngid zhog gaiˇ samˋ, heˇ fung sed gaiˇ."}
   - n: 9
     speaker: 阿英
-    en: "How old were you then, Grandma?"
-    sx: {hanzi: "當時阿婆幾多歲？", pinyin: "dongˊ siiˇ aˊ poˇ giˋ doˊ se?"}
-    hl: {hanzi: "該當時阿婆幾多歲？", pinyin: "gai dongˋ shi a+ po giˊ doˋ soiˇ?"}
+    en: "How old were you then, Grandma? Did a matchmaker introduce you?"
+    sx: {hanzi: "當時阿婆幾多歲？係媒人婆紹介个無？", pinyin: "dongˊ siiˇ aˊ poˇ giˋ doˊ se? he moiˇ nginˇ poˇ seu gie ge moˇ?"}
+    hl: {hanzi: "該當時阿婆幾多歲？係媒人婆紹介个無？", pinyin: "gai dongˋ shi a+ po giˊ doˋ soiˇ? heˇ moi ngin po shauˇ gaiˇ gaiˇ mo?"}
   - n: 10
     speaker: 阿婆
     en: "Twenty-five. A year younger than you are now."
@@ -116,8 +116,9 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      "In those days": Sixian 當時 dongˊ siiˇ, Hailu 該當時 gai dongˋ shi. The syllabus planned 該當時 for both; the
-      word lists have it only for Hailu, so the columns differ. 烏白 vuˊ pag "black-and-white", 彩色 caiˋ sedˋ
+      "In those days": 當時 dongˊ siiˇ is 初級 in the lists for both accents. 該當時 gai dongˋ shi is the Hailu
+      favourite: MOE marks it "僅海陸用，四縣為「該央時」", yet five Sixian example sentences have it anyway
+      (該當時𠊎就同佢講過這件事情). So the Sixian column says 當時, the Hailu column 該當時, and either would be heard. 烏白 vuˊ pag "black-and-white", 彩色 caiˋ sedˋ
       "colour (photo, television)". 𠊎該日著个衫 "the clothes I wore that day": one more clause before its noun.
   - ref: 10
     topic: grammar

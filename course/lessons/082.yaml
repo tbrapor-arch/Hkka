@@ -6,7 +6,7 @@ title:
 review: false
 setting: >-
   Saturday 12 June, nine in the morning, on the veranda. Grandpa's hand is healing and he is back in his chair,
-  watching the tea field Sam has been cutting for him. A-in is home for the weekend. Sam has asked Grandma for a
+  watching the tea field Sam has been cutting for him. A-in, who lives at home again, has the Saturday off. Sam has asked Grandma for a
   singing lesson, and Grandma has put on her good blouse for it.
 names: [阿英, 採茶調, 苗栗]
 
@@ -18,9 +18,9 @@ dialogue:
     hl: {hanzi: "阿婆，你做得教𠊎唱山歌無？", pinyin: "a+ po, ngi zoˇ ded gauˋ ngai chongˇ sanˋ goˋ mo?"}
   - n: 2
     speaker: 阿婆
-    en: "I can. I'll start you on an old tune, the 'Tea-picking tune'. A traditional song: everyone in Miaoli knows it."
-    sx: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱。", pinyin: "zo dedˋ. ngaiˇ xienˊ gauˊ nˇ idˋ tiauˇ loˋ tiau, caiˋ caˇ tiau. conˇ tungˋ ge sanˊ goˊ, meuˇ lidˋ nginˇ du voi cong."}
-    hl: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱。", pinyin: "zoˇ ded. ngai senˋ gauˋ ngi rhid tiau loˊ tiau+, caiˊ ca tiau+. chon tungˊ gaiˇ sanˋ goˋ, miau lid ngin du+ voi+ chongˇ."}
+    en: "I can. I'll start you on an old tune, the 'Tea-picking tune'. A traditional song: everyone in Miaoli knows it, and there are old records of it."
+    sx: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱，乜有頭擺个唱片。", pinyin: "zo dedˋ. ngaiˇ xienˊ gauˊ nˇ idˋ tiauˇ loˋ tiau, caiˋ caˇ tiau. conˇ tungˋ ge sanˊ goˊ, meuˇ lidˋ nginˇ du voi cong, me iuˊ teuˇ baiˋ ge cong pienˋ."}
+    hl: {hanzi: "做得。𠊎先教你一條老調，〈採茶調〉。傳統个山歌，苗栗人都會唱，乜有頭擺个唱片。", pinyin: "zoˇ ded. ngai senˋ gauˋ ngi rhid tiau loˊ tiau+, caiˊ ca tiau+. chon tungˊ gaiˇ sanˋ goˋ, miau lid ngin du+ voi+ chongˇ, meˇ rhiuˋ teu baiˊ gaiˇ chongˇ pienˊ."}
     check: true
   - n: 3
     speaker: 阿婆
@@ -51,14 +51,14 @@ dialogue:
   - n: 8
     speaker: 阿婆
     en: "Singing a mountain song, the tune goes high and low, but the words have to stay words. Sing the tones wrong and people won't understand you."
-    sx: {hanzi: "唱山歌，曲調有高有低，毋過字還係字。聲調唱毋著，人就聽毋識。", pinyin: "cong sanˊ goˊ, kiugˋ tiau iuˊ goˊ iuˊ daiˊ, mˇ go sii hanˇ he sii. sangˊ tiau cong mˇ cog, nginˇ qiu tangˊ mˇ siidˋ."}
-    hl: {hanzi: "唱山歌，曲調有高有低，毋過字還係字。聲調唱毋著，人就聽毋識。", pinyin: "chongˇ sanˋ goˋ, kiug tiau+ rhiuˋ goˋ rhiuˋ daiˋ, m goˇ sii+ han heˇ sii+. shangˋ tiau+ chongˇ m chogˋ, ngin ciu+ tangˋ m shid."}
+    sx: {hanzi: "唱山歌，曲調有高有低，毋過字還係字。聲調唱毋對，人就聽毋識。", pinyin: "cong sanˊ goˊ, kiugˋ tiau iuˊ goˊ iuˊ daiˊ, mˇ go sii hanˇ he sii. sangˊ tiau cong mˇ dui, nginˇ qiu tangˊ mˇ siidˋ."}
+    hl: {hanzi: "唱山歌，曲調有高有低，毋過字還係字。聲調唱毋對，人就聽毋識。", pinyin: "chongˇ sanˋ goˋ, kiug tiau+ rhiuˋ goˋ rhiuˋ daiˋ, m goˇ sii+ han heˇ sii+. shangˋ tiau+ chongˇ m duiˇ, ngin ciu+ tangˋ m shid."}
     check: true
   - n: 9
     speaker: 阿英
-    en: "Grandma, you and Grandpa used to sing to each other, didn't you?"
-    sx: {hanzi: "阿婆，你同阿公頭擺係對唱个，係毋係？", pinyin: "aˊ poˇ, nˇ tungˇ aˊ gungˊ teuˇ baiˋ he dui cong ge, he mˇ he?"}
-    hl: {hanzi: "阿婆，你摎阿公頭擺係對唱个，係毋係？", pinyin: "a+ po, ngi lauˋ a+ gungˋ teu baiˊ heˇ duiˇ chongˇ gaiˇ, heˇ m heˇ?"}
+    en: "Grandma, you and Grandpa used to sing to each other, didn't you? Did you always have singing matches?"
+    sx: {hanzi: "阿婆，你同阿公頭擺係對唱个，係毋係？你兜總係拚山歌？", pinyin: "aˊ poˇ, nˇ tungˇ aˊ gungˊ teuˇ baiˋ he dui cong ge, he mˇ he? nˇ deuˊ zungˋ he biang sanˊ goˊ?"}
+    hl: {hanzi: "阿婆，你摎阿公頭擺係對唱个，係毋係？你兜總係拚山歌？", pinyin: "a+ po, ngi lauˋ a+ gungˋ teu baiˊ heˇ duiˇ chongˇ gaiˇ, heˇ m heˇ? ngi deuˋ zungˊ heˇ biangˇ sanˋ goˋ?"}
   - n: 10
     speaker: 阿婆
     en: "That's right. He sang a line, I answered with a line. That's how a song brings two people together."
@@ -66,9 +66,9 @@ dialogue:
     hl: {hanzi: "係啊。佢唱一句，𠊎應一句。唱條山歌來結緣。", pinyin: "heˇ a+. gi chongˇ rhid giˇ, ngai enˇ rhid giˇ. chongˇ tiau sanˋ goˋ loi gied rhan."}
   - n: 11
     speaker: 阿公
-    en: "(from his chair) The third line. You sang it too fast."
-    sx: {hanzi: "第三句，你唱忒遽了。", pinyin: "ti samˊ gi, nˇ cong tedˋ giagˋ leˊ."}
-    hl: {hanzi: "第三句，你唱忒遽了。", pinyin: "ti+ samˋ giˇ, ngi chongˇ ted giag leˋ."}
+    en: "(from his chair) The third line. You sang it too fast. And no need to take the high notes so high."
+    sx: {hanzi: "第三句，你唱忒遽了。高音乜毋使恁高。", pinyin: "ti samˊ gi, nˇ cong tedˋ giagˋ leˊ. goˊ imˊ me mˇ siiˋ anˋ goˊ."}
+    hl: {hanzi: "第三句，你唱忒遽了。高音乜毋使恁高。", pinyin: "ti+ samˋ giˇ, ngi chongˇ ted giag leˋ. goˋ rhimˋ meˇ m siiˊ anˊ goˋ."}
   - n: 12
     speaker: 阿婆
     en: "You sing it, then!"
@@ -81,16 +81,17 @@ dialogue:
     hl: {hanzi: "茶頭樹下思想起……", pinyin: "ca teu shu+ haˋ siiˋ siongˊ hiˊ …"}
   - n: 14
     speaker: Sam
-    en: "(to A-in, whispering) The two of them singing together: so lovely."
-    sx: {hanzi: "佢兩儕共下唱，恁靚。", pinyin: "giˇ liongˋ saˇ kiung ha cong, anˋ jiangˊ."}
-    hl: {hanzi: "佢兩儕共下唱，恁靚。", pinyin: "gi liongˊ sa kiung+ ha+ chongˇ, anˊ ziangˋ."}
+    en: "(to A-in, whispering) The old couple singing to each other: in tune, and lovely to hear."
+    sx: {hanzi: "佢兩公婆對唱，合線又好聽。", pinyin: "giˇ liongˋ gungˊ poˇ dui cong, gabˋ xien iu hoˋ tangˊ."}
+    hl: {hanzi: "佢兩公婆對唱，合線又好聽。", pinyin: "gi liongˊ gungˋ po duiˇ chongˇ, gab sienˇ rhiu+ hoˊ tangˋ."}
 
 notes:
   - ref: 2
     topic: culture
     text: >
-      〈採茶調〉 "the Tea-picking tune" is a traditional song, quoted in the official example sentences as 引自客家山歌
-      ＜採茶調＞; its words are not in copyright. 傳統 conˇ tungˋ "traditional". 調 tiau "tune": the official examples also
+      〈採茶調〉 "the Tea-picking tune": the course quotes the dictionary's example sentence, which gives these lines as
+      引自客家山歌〈採茶調〉 ("quoted from the Hakka mountain song 'Tea-picking tune'"), with no author or date. Whether
+      this wording is anonymous folk text is not in the data: check a printed collection before relying on it. 傳統 conˇ tungˋ "traditional". 調 tiau "tune": the official examples also
       name the classic tunes 〈老山歌〉、〈山歌子〉、〈平板〉. Whether every Miaoli person can sing this one is Grandma's
       claim, not the data's.
   - ref: 3
@@ -98,14 +99,16 @@ notes:
     text: >
       Lines 3 and 6 are the official text, word for word: 正月摘茶是新年，姊妹牽手入茶園。茶頭樹下思想起，等到哪日出頭天。
       Seven syllables a line, three beats (`groups`). The rhyme is on lines 1, 2 and 4: 年 ngienˇ, 園 ienˇ, 天 tienˊ, all
-      -ien in Sixian. In Hailu 園 is rhan, so there the rhyme is only near: the song comes from the Sixian side.
+      -ien in Sixian. In Hailu 園 is rhan, so there the rhyme is only near. The dictionary gives the song only as a Sixian example; the
+      Hailu column is the course's own transposition.
       Sandhi: 正 zangˊ before 月 ngied (陽入) is sung zangˇ (lesson 0).
   - ref: 5
     topic: grammar
     text: >
       是 sii, the book word for "is", where speech says 係 (lesson 1). Grandma's rule "係 for talking, 是 for singing"
-      matches the song's text, which has 是; the official examples use 係 everywhere else. It is the same split as 生
-      sangˊ / senˊ (lesson 37): songs and poems keep the old written forms.
+      matches the song's text, which has 是; the official examples use 係 everywhere else, and 是 otherwise only in
+      compounds (是非, 真是). The rule rests on this one song, and it is for songs: Sam's poem in lesson 81 says 係, as
+      speech does. Compare 生 sangˊ / senˊ (lesson 37).
   - ref: 6
     topic: vocab
     text: >
@@ -129,7 +132,9 @@ notes:
     text: >
       對唱 dui cong "sing to each other, antiphonal singing": an official example says 客家山歌係男女對唱个較多 "Hakka
       mountain songs are mostly sung back and forth between men and women". 應 en "answer, respond". 唱條山歌來結緣
-      "sing a mountain song and make a bond" is the official sentence, word for word; 結緣 "form a bond".
+      "sing a mountain song and make a bond" is the official sentence, word for word (Sixian only, like the two
+      exercises marked as official; their Hailu columns are the course's transposition); 結緣 "form a bond". 合線
+      gabˋ xien "in tune, in harmony", from 佢兩公婆對唱客家山歌，合線又好聽 (line 14).
   - ref: 11
     topic: culture
     text: >
@@ -152,6 +157,7 @@ new_words:
   - {hanzi: 對唱, pinyin: "dui cong", en: "sing to each other, antiphonal singing", hl: {hanzi: 對唱, pinyin: "duiˇ chongˇ"}}
   - {hanzi: 應, pinyin: "en", en: "answer, respond", hl: {hanzi: 應, pinyin: "enˇ"}}
   - {hanzi: 結緣, pinyin: "giedˋ ienˇ", en: "form a bond", hl: {hanzi: 結緣, pinyin: "gied rhan"}}
+  - {hanzi: 合線, pinyin: "gabˋ xien", en: "in tune, in harmony", hl: {hanzi: 合線, pinyin: "gab sienˇ"}}
   - {hanzi: 總係, pinyin: "zungˋ he", en: "always", hl: {hanzi: 總係, pinyin: "zungˊ heˇ"}}
   - {hanzi: 耕, pinyin: "gangˊ", en: "work (the land), farm", hl: {hanzi: 耕, pinyin: "gangˋ"}}
   - {hanzi: 嫩, pinyin: "nun", en: "tender, young (leaves)", hl: {hanzi: 嫩, pinyin: "nun+"}}

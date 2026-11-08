@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 先生
     en: "The blood was from his hand: the shears. But he has to stay in hospital at least a week and have the dressing changed every day."
-    sx: {hanzi: "血係手指个，分剪刀割著。毋過最少愛戴院一隻禮拜，逐日換藥仔。", pinyin: "hiedˋ he suˋ ziiˋ ge, bunˊ jienˋ doˊ godˋ doˋ. mˇ go zui seuˋ oi dai ien idˋ zagˋ liˊ bai, dagˋ ngidˋ von iog eˋ."}
-    hl: {hanzi: "血係手指个，分剪刀割著。毋過最少愛戴院一隻禮拜，逐日換藥仔。", pinyin: "hied heˇ shiuˊ zhiˊ gaiˇ, bunˋ zienˊ doˋ god doˊ. m goˇ zuiˇ shauˊ oiˇ daiˇ rhanˇ rhid zhag liˋ baiˇ, dag ngid von+ rhogˋ er."}
+    sx: {hanzi: "血係手指个，分茶剪仔割著。毋過最少愛戴院一隻禮拜，逐日換藥仔。", pinyin: "hiedˋ he suˋ ziiˋ ge, bunˊ caˇ jienˋ eˋ godˋ doˋ. mˇ go zui seuˋ oi dai ien idˋ zagˋ liˊ bai, dagˋ ngidˋ von iog eˋ."}
+    hl: {hanzi: "血係手指个，分茶剪仔割著。毋過盡少愛戴院一隻禮拜，逐日換藥仔。", pinyin: "hied heˇ shiuˊ zhiˊ gaiˇ, bunˋ ca zienˊ er god doˊ. m goˇ cin+ shauˊ oiˇ daiˇ rhanˇ rhid zhag liˋ baiˇ, dag ngid von+ rhogˋ er."}
   - n: 8
     speaker: Sam
     en: "A week? Will Grandpa be…"
@@ -74,9 +74,9 @@ dialogue:
     hl: {hanzi: "茶愛剪。無人剪。", pinyin: "ca oiˇ zienˊ. mo ngin zienˊ."}
   - n: 13
     speaker: Sam
-    en: "I'll cut it, Grandpa. You showed me how."
-    sx: {hanzi: "阿公，𠊎來剪。你教過𠊎。", pinyin: "aˊ gungˊ, ngaiˇ loiˇ jienˋ. nˇ gauˊ go ngaiˇ."}
-    hl: {hanzi: "阿公，𠊎來剪。你教過𠊎。", pinyin: "a+ gungˋ, ngai loi zienˊ. ngi gauˋ goˇ ngai."}
+    en: "I'll cut it, Grandpa. You showed me how. And Grandma will keep you company here."
+    sx: {hanzi: "阿公，𠊎來剪。你教過𠊎。阿婆在這陪你。", pinyin: "aˊ gungˊ, ngaiˇ loiˇ jienˋ. nˇ gauˊ go ngaiˇ. aˊ poˇ coiˊ iaˋ piˇ nˇ."}
+    hl: {hanzi: "阿公，𠊎來剪。你教過𠊎。阿婆在這陪你。", pinyin: "a+ gungˋ, ngai loi zienˊ. ngi gauˋ goˇ ngai. a+ po coiˋ liaˊ poi ngi."}
   - n: 14
     speaker: 阿英
     en: "(at noon, in her new work clothes, out of breath) Grandpa! First day at work, and I've come straight to the hospital in my lunch break!"
@@ -111,8 +111,8 @@ notes:
     topic: grammar
     text: >
       骨頭無斷忒 "the bone isn't broken": 無 + V忒 denies a result, as the official 佢跌倒，骨頭斷忒 states one. 腫起來
-      "swollen up": 起來 after an adjective for a state that has set in. 定定 "just, only" (lesson 26). 檢查 "examine,
-      test": a false friend only because Hakka also uses it for "check over" anything.
+      "swollen up": 起來 after an adjective for a state that has set in. 定定 "just, only" (lesson 26). 檢查 giamˋ caˇ
+      "examine, test", as in Mandarin.
   - ref: 6
     topic: grammar
     text: >
@@ -129,8 +129,8 @@ notes:
     text: >
       毋好做粗事 "no heavy work": 粗事 "rough work, manual labour": 粗 "coarse" (lesson 36) + 事 se, the "work" of 做事 (lesson 6).
       The doctor quotes the official example almost word for word: 阿伯正出院，身體還弱弱，毋好去做粗事 "uncle has just come
-      out of hospital, he's still weak, he mustn't do heavy work". 弱 ngiog "weak": a false friend in the lists, for its
-      other senses.
+      out of hospital, he's still weak, he mustn't do heavy work". 弱 ngiog "weak", 弱弱 "weakish, still weak". 茶剪仔
+      (line 7) are the tea shears of lesson 40.
   - ref: 16
     topic: culture
     text: >
@@ -152,7 +152,6 @@ new_words:
   - {hanzi: 手指, pinyin: "suˋ ziiˋ", en: "finger", hl: {hanzi: 手指, pinyin: "shiuˊ zhiˊ"}}
   - {hanzi: 健, pinyin: "kien", en: "fit, robust (當健 in good health)", hl: {hanzi: 健, pinyin: "kien+"}}
   - {hanzi: 事, pinyin: "se", en: "work (粗事 heavy work; as in 做事)", hl: {hanzi: 事, pinyin: "she+"}}
-  - {hanzi: 剪刀, pinyin: "jienˋ doˊ", en: "shears, scissors", hl: {hanzi: 剪刀, pinyin: "zienˊ doˋ"}}
   - {hanzi: 弱, pinyin: "ngiog", en: "weak", hl: {hanzi: 弱, pinyin: "ngiogˋ"}}
   - {hanzi: 抽, pinyin: "cuˊ", en: "draw out (抽血 take blood)", hl: {hanzi: 抽, pinyin: "chiuˋ"}}
   - {hanzi: 推, pinyin: "toiˊ", en: "push", hl: {hanzi: 推, pinyin: "toiˋ"}}
@@ -190,7 +189,7 @@ exercises:
     - en: "His knee is swollen."
       sx: {hanzi: "佢个膝頭___起來了。", pinyin: "giˇ ge qidˋ teuˇ ___ hiˋ loiˇ leˊ.", answer_hanzi: "腫", answer: "zungˋ"}
       hl: {hanzi: "佢个膝頭___起來了。", pinyin: "gi gaiˇ cid teu ___ hiˊ loi leˋ.", answer_hanzi: "腫", answer: "zhungˊ"}
-    - en: "He'll be ninety this year, and he's still fit."
+    - en: "He's going on ninety (not ninety yet), and he's still fit."
       sx: {hanzi: "佢今年___九十歲了，身體還當健。", pinyin: "giˇ gimˊ ngienˇ ___ giuˋ siib se leˊ, siinˊ tiˋ hanˇ dongˊ kien.", answer_hanzi: "會", answer: "voi"}
       hl: {hanzi: "佢今年___九十歲了，身體還當健。", pinyin: "gi gimˋ ngien ___ giuˊ shibˋ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+.", answer_hanzi: "會", answer: "voi+"}
     - en: "I'm afraid it will rain."

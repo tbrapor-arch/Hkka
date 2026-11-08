@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿明
     en: "Grandma, has the station played your mountain song again, the one from the phone-in?"
-    sx: {hanzi: "阿婆，叩應个該條山歌，電臺還有播無？", pinyin: "aˊ poˇ, ko inˋ ge ge tiauˇ sanˊ goˊ, tien toiˇ hanˇ iuˊ boˊ moˇ?"}
-    hl: {hanzi: "阿婆，叩應个該條山歌，電臺還有播無？", pinyin: "a+ po, ko inˋ gaiˇ gai tiau sanˋ goˋ, tien+ toi han rhiuˋ boˋ mo?"}
+    sx: {hanzi: "阿婆，叩應个該條山歌，電臺有再播無？", pinyin: "aˊ poˇ, ko inˋ ge ge tiauˇ sanˊ goˊ, tien toiˇ iuˊ zai boˊ moˇ?"}
+    hl: {hanzi: "阿婆，叩應个該條山歌，電臺有再播無？", pinyin: "a+ po, ko inˋ gaiˇ gai tiau sanˋ goˋ, tien+ toi rhiuˋ zaiˇ boˋ mo?"}
   - n: 7
     speaker: 阿婆
     en: "Don't talk about it. Grandpa said 'too long'."
@@ -96,7 +96,7 @@ notes:
     topic: grammar
     text: >
       叩應个該條山歌 "the mountain song from the phone-in": relative 个 + 該條 + noun (lesson 83), with 叩應 and 播 from
-      lesson 80. 還有播無？ "is it still being played?": 有 + verb in a question.
+      lesson 80. 有再播無？ "has it been played again?": 有 + verb in a question, with 再 "again".
   - ref: 9
     topic: culture
     text: >

@@ -35,14 +35,14 @@ dialogue:
     hl: {hanzi: "承蒙你兜！", pinyin: "shin mung ngi deuˋ!"}
   - n: 5
     speaker: 財伯姆
-    en: "(to Grandpa) Uncle, you look well today."
-    sx: {hanzi: "阿伯，你今晡日面色當好。", pinyin: "aˊ bagˋ, nˇ gimˊ buˊ ngidˋ mien sedˋ dongˊ hoˋ."}
-    hl: {hanzi: "阿伯，你今晡日面色當好。", pinyin: "a+ bag, ngi gimˋ buˋ ngid mienˇ sed dongˋ hoˊ."}
+    en: "(to Grandpa) Uncle, you look well today: your colour is better, and you seem in good spirits."
+    sx: {hanzi: "阿伯，你今晡日面色當好，氣色較好，心情乜當好。", pinyin: "aˊ bagˋ, nˇ gimˊ buˊ ngidˋ mien sedˋ dongˊ hoˋ, hi sedˋ ka hoˋ, ximˊ qinˇ me dongˊ hoˋ."}
+    hl: {hanzi: "阿伯，你今晡日面色當好，氣色較好，心情乜當好。", pinyin: "a+ bag, ngi gimˋ buˋ ngid mienˇ sed dongˋ hoˊ, hiˇ sed haˇ hoˊ, simˋ cin meˇ dongˋ hoˊ."}
   - n: 6
     speaker: 阿婆
-    en: "(answering for him) He sleeps in the daytime and wakes up at night. He's bored stiff in the ward."
-    sx: {hanzi: "佢日時頭睡，暗晡醒。在病房當無聊。", pinyin: "giˇ ngidˋ siiˇ teuˇ soi, am buˊ xiangˋ. coiˊ piang fongˇ dongˊ moˇ liauˇ."}
-    hl: {hanzi: "佢日時頭睡，暗晡醒。在病房當無聊。", pinyin: "gi ngid shi teu shoi+, amˇ buˋ siangˊ. coiˋ piang+ fong dongˋ mo liau."}
+    en: "(answering for him) He sleeps in the daytime and wakes up at night. He's fed up in the ward; Sam brought him a magazine."
+    sx: {hanzi: "佢日時頭睡，暗晡醒。在病房當悶，Sam 拿一本雜誌分佢看。", pinyin: "giˇ ngidˋ siiˇ teuˇ soi, am buˊ xiangˋ. coiˊ piang fongˇ dongˊ mun, Sam naˊ idˋ bunˋ cab zii bunˊ giˇ kon."}
+    hl: {hanzi: "佢日時頭睡，暗晡醒。在病房當悶，Sam 拿一本雜誌分佢看。", pinyin: "gi ngid shi teu shoi+, amˇ buˋ siangˊ. coiˋ piang+ fong dongˋ munˇ, Sam naˋ rhid bunˊ cabˋ zhiˇ bunˋ gi konˇ."}
     check: true
   - n: 7
     speaker: 阿財伯
@@ -87,9 +87,9 @@ dialogue:
     hl: {hanzi: "這就係禮數。人送東西，你講承蒙；你講承蒙，人講毋使客氣。頭擺就係恁樣个規矩。", pinyin: "liaˊ ciu+ heˇ liˋ suˇ. ngin sungˇ dungˋ siˋ, ngi gongˊ shin mung; ngi gongˊ shin mung, ngin gongˊ m siiˊ hag hiˇ. teu baiˊ ciu+ heˇ an ngiong gaiˇ guiˋ giˊ."}
   - n: 15
     speaker: 阿公
-    en: "(from the bed, suddenly) The 麵線卵."
-    sx: {hanzi: "麵線卵。", pinyin: "mien xien lonˋ."}
-    hl: {hanzi: "麵線卵。", pinyin: "mien+ sienˇ lonˊ."}
+    en: "(from the bed, suddenly) The 麵線卵. And the treats."
+    sx: {hanzi: "麵線卵。還有好料。", pinyin: "mien xien lonˋ. hanˇ iuˊ hoˋ liau."}
+    hl: {hanzi: "麵線卵。還有好料。", pinyin: "mien+ sienˇ lonˊ. han rhiuˋ hoˊ liau+."}
 
 notes:
   - ref: 2
@@ -97,12 +97,14 @@ notes:
     text: >
       The official example sentence, word for word: 人來就好，還擐等路來，恁客氣 "coming is enough, and you bring presents
       too: so kind". 等路 "a present brought on a visit" and 擐 "carry (by a handle)" from lesson 52. The reply is
-      always 毋使客氣 "no need to be polite" (line 3), from the official 請坐啊！毋使客氣.
+      always 毋使客氣 "no need to be polite" (line 3), from the official 請坐啊！毋使客氣. Both official sentences exist
+      only in Sixian; their Hailu columns are the course's transposition.
   - ref: 3
     topic: culture
     text: >
       麵線卵 mien xien lonˋ "thin noodles with an egg". An official example: 客家人食麵線卵…有過運个意義 "when Hakka people
-      eat 麵線卵… it is to get past bad luck" (過運). After an accident, it is the dish a neighbour brings. 盒 hab
+      eat 麵線卵… it is to get past bad luck" (過運); it is also a birthday dish (阿姆煮麵線卵同𠊎做生日). Taking it to a
+      patient is this course's story (general knowledge at most). 盒 hab
       "box" (classifier), 束 sogˋ "bunch": 一盒蘋果, 一束花. The whole line is marked for a check: the official sentence
       gives the custom, not this way of offering it.
   - ref: 4
@@ -173,9 +175,9 @@ exercises:
       sx: {hanzi: "佢个腳下背加一隻枕頭，乜拿一條面帕來。", pinyin: "giˇ ge giogˋ haˊ boi gaˊ idˋ zagˋ ziimˋ teuˇ, me naˊ idˋ tiauˇ mien pa loiˇ."}
       hl: {hanzi: "佢个腳下背加一隻枕頭，乜拿一條面帕來。", pinyin: "gi gaiˇ giog haˋ boiˇ gaˋ rhid zhag zhimˊ teu, meˇ naˋ rhid tiau mienˇ paˇ loi."}
       check: true
-    - en: "Grandpa is fed up in hospital; Sam brings him a magazine."
-      sx: {hanzi: "阿公在醫院當悶，Sam 拿一本雜誌分佢看。", pinyin: "aˊ gungˊ coiˊ iˊ ien dongˊ mun, Sam naˊ idˋ bunˋ cab zii bunˊ giˇ kon."}
-      hl: {hanzi: "阿公在醫院當悶，Sam 拿一本雜誌分佢看。", pinyin: "a+ gungˋ coiˋ rhiˋ rhanˇ dongˋ munˇ, Sam naˋ rhid bunˊ cabˋ zhiˇ bunˋ gi konˇ."}
+    - en: "Grandpa is bored in hospital."
+      sx: {hanzi: "阿公在醫院當無聊。", pinyin: "aˊ gungˊ coiˊ iˊ ien dongˊ moˇ liauˇ."}
+      hl: {hanzi: "阿公在醫院當無聊。", pinyin: "a+ gungˋ coiˋ rhiˋ rhanˇ dongˋ mo liau."}
     - en: "His colour is better today, and his mood is good too."
       sx: {hanzi: "佢今晡日氣色較好，心情乜當好。", pinyin: "giˇ gimˊ buˊ ngidˋ hi sedˋ ka hoˋ, ximˊ qinˇ me dongˊ hoˋ."}
       hl: {hanzi: "佢今晡日氣色較好，心情乜當好。", pinyin: "gi gimˋ buˋ ngid hiˇ sed haˇ hoˊ, simˋ cin meˇ dongˋ hoˊ."}
