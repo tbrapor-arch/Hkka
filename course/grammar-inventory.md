@@ -71,6 +71,9 @@ Mandarin 不 / 沒 / 別 / 還沒 split into seven Hakka words.
 
 The contraction **毋係 → me (55)** (one syllable) is everywhere in speech: 這毋係！ "here it is!", 係毋係 "exactly!",
 還毋係 / 就毋係 "it's just that…", 你毋知毋係 "you didn't know, did you". Stage B. *Src: 110_詞分_023, 110_036.*
+**Course data:** the official sentences write 毋係 in full (Sixian 135, Hailu 131) and never show the contraction; the
+course mentions me as speech (general knowledge) and teaches the tag 抑毋係？ (lesson 74). 這毋係！ "here it is!" has 6
+Sixian / 6 Hailu official sentences.
 
 ## 4. Wanting, can, may, know · Stage A–B
 | Hakka | Pinyin | Mandarin | # | Note |
@@ -97,13 +100,13 @@ The contraction **毋係 → me (55)** (one syllable) is everywhere in speech: �
 ## 5. Aspect and time · Stage A–B
 | Hakka | Pinyin | Mandarin | Use |
 |---|---|---|---|
-| V 等 | denˋ | V 著 | continuing state or action: 㧡等菜去賣 "carrying vegetables to sell" (HL 等 nen) |
+| V 等 | denˋ | V 著 | continuing state or action: 㧡等菜去賣 "carrying vegetables to sell" (HL 等 denˊ in 43 of 47 listed V等 words and in the 客語百句; Glossika writes nen) |
 | V 了 / 咧 | leˊ | 了 | completion and new situation at the end of the clause: 這索仔斷忒了 |
 | V 過 | go | 過 | experience (無去過), completed (食過飯了), and **again**: 下二擺正買過 "I'll buy (it) again next time" |
 | VV 啊(咧) | a | V 一下 | short action: 收收啊咧 "just bring them in" |
 | V 啊 C | a | 一 V 就 C | instant result: 食啊飽, 講啊著 |
 | V 啊 V 仔 | a | V 來 V 去 | on and off: 看啊看仔 |
-| (試)V(看)啊 | a | V 看看 | trying: 試寫看啊 "try writing it" (HL usually (試)V看仔) |
+| (試)V(看)啊 | a | V 看看 | trying: 試寫看啊 "try writing it". Official sentences: 看啊 Sixian 49 / Hailu 48, 看仔 0 / 2: 看啊 in both accents |
 | 緊 V | ginˋ | 一直 V | keeps doing: 一張嘴緊唊 "won't stop talking" |
 | V 著 / 忒 / 煞 / 好 | doˋ / tedˋ / sod / hoˋ | 到 / 掉 / 完 / 好 | phase complements: 看著 "see", 食忒 "eat up", 講煞 "finish saying", 洗好 |
 | V 等來 | denˋ loiˇ | | four meanings: come by (行等来), come on purpose (你走等來做麼个？), go on doing until (先食等來), result state (同門鎖等來); **坐等來！** "have a seat!" |
@@ -112,7 +115,9 @@ Stage A: 等, 了, 過 (experience), 在該, phase complements. Stage B: 啊 for
 *Src: 109_027, 110_037, 110_035, 111_024, 112_031, 112_032.*
 
 ## 6. 同 / 摎, 分 and other prepositions · Stage A (basic), B (full)
-**同 tungˇ / 摎 lauˊ** (same functions; 同 is older Sixian, 摎 spreading from Hailu, now common in northern Sixian):
+**同 tungˇ / 摎 lauˊ** (same functions; 同 is older Sixian, 摎 spreading from Hailu). Official sentences: Sixian 同𠊎 37 /
+摎𠊎 2, 同你 43 / 摎你 3; Hailu 摎𠊎 46, 摎你 50, 同 almost never. The course writes 同 in Sixian, 摎 in Hailu, and
+teaches Sixian 摎 for "for (someone)" in lesson 40:
 - "and": 阿英摎阿姨共下去街頂;
 - "with, to": 摎阿明講話;
 - "from": 摎佢借錢 "borrow money from him";
@@ -127,7 +132,8 @@ Stage A: 等, 了, 過 (experience), 在該, phase complements. Stage B: 啊 for
 - **purpose "so that"**: 賺錢分細人仔讀書, 唱條山歌分你聽.
 
 Double objects: 分 + person + thing (阿姆分佢錢) or V + thing + 分 + person (阿姆借錢分佢) or V分 + person + thing
-(借分佢錢). The order **分 + thing + person (阿姆分錢佢) is Hailu only**: wrong in Sixian.
+(借分佢錢). The articles give **分 + thing + person (阿姆分錢佢)** as Hailu only; the official sentences have no
+example of it in either accent (Hailu uses 送分你, 送恁多東西分𠊎), so the course does not teach it.
 Others: 對 dui (#40) "toward, to", 跈 tenˇ "follow, go along with", 到 (see 2).
 *Src: 108_031, 108_030, 111_025, 109_028, 112_033.*
 
@@ -169,9 +175,9 @@ Quantity: 一息仔 idˋ xid eˋ "a little", 兜仔 "some", 加兜 "a bit more";
 | Hakka | Pinyin | Mandarin | # | Note | HL |
 |---|---|---|---|---|---|
 | 當 | dongˊ | 很 | 7 | **false friend**; the everyday "very" | |
-| 盡 | qin | 最 (and 很) | 121 | in Sixian 盡 is "most"; 最 is spreading | 最 zuiˇ |
+| 盡 | qin | 最 (and 很) | 121 | "most" **and** "very": gloss it every time. Official sentences: 盡 Sixian 1,158 / Hailu 745, 最 97 / 133: Hailu uses 盡 too (盡想你, 盡重要) | 盡 cin+, 最 zuiˇ |
 | 已 | iˊ | 很 | – | | |
-| 還 | hanˇ | 好、挺 | 26 | 還好食！ "really tasty!" | |
+| 還 | hanˇ | 好、挺 | 26 | 還好食！ "really tasty!"; **還好 = "very (good)"**, not Mandarin "not bad" (official glosses 很、真); "not bad" is 會做得 (Sixian 10 / Hailu 11) | |
 | 恁 | anˋ | 那麼 | 51 | | |
 | 忒 | tedˋ | 太 | 76 | 食忒飽 "ate too much" | 昶 |
 | 較 | ka | 比較、更 | 35 | | 較 haˇ |
@@ -181,8 +187,9 @@ Fixed intensifiers, one per adjective (Stage C, vocabulary): 浸青, 啾紅, 淰
 
 Comparison (Stage B):
 - **X 比 Y 較 A** (the main pattern): 佢比你較高 (and 佢比你高五公分 with an amount);
-- X A 過 Y: 佢高過你, 好過 (only with one-syllable adjectives in Sixian; freer in Hailu);
-- X A Y + amount: 佢高你五公分;
+- X A 過 Y: 佢高過你, 好過 (the articles; **no official sentence** has 高過你 / 好過你, and 高過 occurs only once,
+  not as a comparative: the course teaches 比);
+- with an amount: **比 + A + amount, no 較**: 比華人高一息仔 (official); the articles' 佢高你五公分 is unattested;
 - same / different: A 摎 B 共樣 / 無共樣 (kiung iong);
 - "as … as": A 有 B 恁 A, A 無 B A (阿英無阿明高).
 *Src: 112_006, 108_028, 109_035, 108_027.*
@@ -193,7 +200,9 @@ Comparison (Stage B):
   Hakka order first.
 - **Sentence-final 添** tiamˊ "more, again": 食一碗添 "have another bowl".
 - **V (一) CL N 來** for a casual, small action: 睡一覺目來 "have a nap", 食碗飯來 "grab a bite".
-- **Object inside the potential complement**: 看佢得著 / 看佢毋著 "can / can't see him" (newer: 看得著佢).
+- **Object inside the potential complement**: 看佢得著 / 看佢毋著 "can / can't see him" (newer: 看得著佢). No official
+  sentence has either; the course teaches 看毋著 (Sixian 7 / Hailu 6), 行毋得 and 尋毋著 instead. V毋著 (doˋ) is "not
+  manage to"; "do it wrong" is V毋對.
   食飯毋落 "can't eat any more".
 - **Complement of degree with 到** do: 寫字寫到盡正板 "writes very neatly"; 驚到… "so scared that…".
 *Src: 109_029, 109_030, 108_026.*
@@ -203,7 +212,8 @@ Comparison (Stage B):
 - 吂？ "yet?";
 - **了 / 咧** leˊ "now / already" (change of state);
 - **哩** "(it's) time to": 好食飯哩;
-- 喔 / 哦, 呢 neˇ, 啊: tone and softening (the course uses them sparingly and explains each);
+- 喔 / 哦, 呢 neˇ, 啊: tone and softening (the course uses them sparingly and explains each). Official sentences: 哦
+  Sixian 149 / Hailu 147, 喔 51 / 44; Sixian 哦 of warning is oˊ (MOE); 呢 neˇ and noˋ are free variants;
 - **正** at the end = "(do it) later": 有閒正來尞 "come and visit when you're free", 下二擺正 "next time, then".
 *Src: 111_020, 110_036.*
 
@@ -214,9 +224,9 @@ Comparison (Stage B):
 | contrast | **毋過** mˇ go (#20), 但係 tan he, 雖然…毋過, 嗄 sa "but then, unexpectedly" | 不過, 但是 |
 | condition | **若係** na he, 係講, 假使, 撿採 giamˋ caiˋ, 除非, 總愛 zungˋ oi | 如果, 要是, 只要 |
 | concession | 就算…乜/都, 過…都 | 就算…也 |
-| choice | 毋係…就係…, 還係 / 也係 (in questions), 甘願…乜, …毋當… | 不是…就是, 還是, 寧可, 不如 |
+| choice | 毋係…就係…, 還係 / 也係 (in questions), 甘願 (甘願…乜 has no official sentence), …毋當… | 不是…就是, 還是, 寧可, 不如 |
 | purpose | 為著 vi doˋ, …分… (see 6) | 為了, 好讓 |
-| adding | 毋單止 / 毋單淨…還…, 還過 "and also" | 不但…還 |
+| adding | 毋單淨 (Sixian 16 / Hailu 19) / 毋單止 (4 / 1)…還…, 還過 "and also" | 不但…還 |
 | "the more" | **緊 X 緊 Y**: 緊來緊少 "fewer and fewer", 緊行緊遽 "walks faster and faster"; also "while": 緊聽緊寫 | 越…越, 一邊…一邊 |
 | "only then" | **正** zang: 佢三點正來 "he only came at three"; 先洗淨來，正好落去 "wash it first, then you can get in" | 才 |
 | "then, already" | 就 qiu, 斯 siiˊ | 就 |
@@ -232,7 +242,7 @@ Comparison (Stage B):
 | 企 | kiˊ | stand | |
 | 尞 | liau | rest, visit, have fun (來尞 "come over") | |
 | 講 | gongˋ | speak, say | 說 is literary |
-| 喊 | hemˊ | call (someone), name | |
+| 喊 | ham / hemˊ | call (someone), tell (someone to), name; kaga splits ham "call" from hemˊ "shout", MOE gives both senses to both readings | |
 | 噭 | gieu | cry | |
 | 驚 | giangˊ | be afraid | |
 | 靚 | jiangˊ | pretty | |
@@ -285,21 +295,35 @@ Verbs:
 *Src: 107_012, 107_013, 107_014, 107_015; MOE workbook lesson 25.*
 
 ## 17. Writing Hailu alongside: the differences that matter
-| Point | Sixian | Hailu |
-|---|---|---|
-| tones | 6, one sandhi rule | 7 (陽去 +33 extra), sandhi: 上聲 → 33 before any tone; 陰入 → 陽入 before any tone |
-| initials | no zh ch sh rh | zh ch sh rh (食 shidˋ, 著 chogˋ, 有 rhiuˋ) |
-| 个 / 這 / 該 | ge / iaˋ / ge | gaiˇ / liaˊ / gai |
-| "my" before a noun | 吾 (吾爸) | 𠊎 (𠊎爸) |
-| durative 等 | denˋ | nen |
-| disposal | 同 / 摎 | 摎 |
-| "most" | 盡 | 最 |
-| "thank you" | 恁仔細 | 承蒙 |
-| "tomorrow" | 天光日 | 韶早 |
-| double object 分 + thing + person | wrong | fine (分錢佢) |
-| X A 過 Y comparison | only short adjectives | productive |
-| trying | (試)V(看)啊 | (試)V看仔 |
-| 仔 suffix | eˋ (with the assimilations above) | er |
+Counts are from the official sentences only (kaga + kaga115: 14,969 Sixian, 15,123 Hailu); MOE dictionary examples
+carry no accent and are left out (see the counting rule in `course/batches/checklist.md`).
+
+| Point | Sixian | Hailu | Official sentences (Sixian / Hailu) |
+|---|---|---|---|
+| tones | 6, one sandhi rule | 7 (陽去 +33 extra), sandhi: 上聲 → 33 before any tone; 陰入 → 陽入 before any tone | |
+| initials | no zh ch sh rh | zh ch sh rh (食 shidˋ, 著 chogˋ, 有 rhiuˋ) | |
+| 个 / 這 / 該 | ge / iaˋ / ge | gaiˇ / liaˊ / gai | |
+| "my" before a noun | 吾 (吾爸) | 𠊎 (𠊎爸), 吾 rare | 吾 351 / 7 |
+| durative 等 | denˋ | denˊ (Glossika: nen) | 43 of 47 Hailu V等 list words |
+| "and, with, to" | 同 (摎 for "for someone") | 摎 | 同你 43 / 1, 摎你 3 / 50 |
+| "most / very" | 盡 | 盡, also 最 | 盡 1,158 / 745, 最 97 / 133 |
+| "thank you" | 恁仔細 | 承蒙 | 4 / 0, 1 / 5 (MOE: 恁仔細 僅四縣用, 承蒙 僅海陸用) |
+| "tomorrow" | 天光日 | 韶早 | 69 / 4, 0 / 65 |
+| "rain" | 落雨 | 落水 | 70 / 0, 6 / 73 (Sixian 落水 is "fall into the water") |
+| "cold (weather)" | 寒 (寒天 "winter") | 冷 (冷天) | 寒天 51 / 1, 冷天 0 / 47 |
+| "hungry" | 肚飢 | 肚屎枵 | 12 / 0, 0 / 9 |
+| "so, therefore" | 故所 | 所以 | 137 / 4, 1 / 131 |
+| "right (side)" | 右片 | 正手片 | 3 / 1, 0 / 3 |
+| playing the fiddle | 鋸弦仔 | 挨弦仔 | 2 / 0, 0 / 2 |
+| rice 飯 | fan | pon+ | |
+| double object 分 + thing + person | no | not in the official sentences either | 分錢佢 0 / 0 |
+| X A 過 Y comparison | 比 + 較 + A; 比 + A + amount | same | 高過你 0 / 0 |
+| trying | (試)V看啊 | (試)V看啊, rarely 看仔 | 看啊 49 / 48, 看仔 0 / 2 |
+| 仔 suffix | eˋ (with the assimilations above) | er | |
+
+Shared by both, against Mandarin: 頭先 "just now; at first" (kaga gives both), 還好 "very", 會做得 "not bad", 識
+"know (someone); ever (have done)" (not "can", which is 會), V毋對 "do it wrong", 聞 "hear" (smell is 鼻), 過忒年
+"next year; after New Year" (明年 also in Sixian sentences).
 
 Every Hailu line is checked word by word against the Hailu lists (`v_word_parallel`, `kaga115/hailu`).
 *Src: 108_026, 108_027, 107_004, 107_015, 109_028, 109_035, 114_012.*

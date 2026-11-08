@@ -1,7 +1,17 @@
-# Writing checklist (from the reviews of batches 1–3)
+# Writing checklist (from the reviews of batches 1–14)
 
 Read before writing a batch. Each point is something a reviewer caught in a draft, with the evidence it rests on
 (official example sentences in `example`, Glossika, the MOE dictionary).
+
+## Counting rule (read first)
+- The `example` table mixes three pools: **kaga115 + kaga, the official lists**, with an accent on every sentence
+  (Sixian 14,969 sentences, Hailu 15,123), and **20,185 MOE dictionary examples with no accent** (and no pinyin).
+  Earlier counts labelled "Sixian" added the MOE pool to the official Sixian one, and MOE examples often carry the
+  other accent's word in brackets (韶早﹝天光日﹞).
+- So: any claim of the form "Sixian says X, Hailu says Y", "X is commoner", or "N examples" counts the official lists
+  only, per accent (`source in ('kaga','kaga115') and accent=?`). MOE hits are reported separately as "accent
+  unmarked". In SQL: `select count(distinct hanzi) from example where source in ('kaga','kaga115') and accent='sixian' and hanzi like '%X%'`.
+- Rules below that rested on mixed counts have been corrected in place (marked *recounted*).
 
 ## Before writing a line
 - Search the pattern, not only the words: `hw.py ex 片段`, `hw.py gl 片段`. A line whose pattern has no attestation
@@ -28,7 +38,9 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - "How do you know?" is 你仰會知？; 仰般 is "how / how is it".
 - 你先行 is the attested "after you"; 你行先 is described but unattested.
 - 較 X 兜仔 "a bit more X" (with 仔).
-- Sentence-final 了 is fine in writing (759 examples); 哩 / 吔 are not in the dictionary data.
+- *Recounted:* sentence-final 了 is almost absent from the official lists (3 Sixian, 3 Hailu); the 759 were MOE.
+  The official sentences end a change of state with Sixian 吔 (356) or 哩 leˊ (211, a kaga entry), Hailu 咧 leˋ (715).
+  The course writes 了 leˊ / leˋ throughout: an open course-wide decision for the final pass.
 
 ## People
 - Sam calls Mrs Liu 伯姆, not 阿姆; the family says 阿姆.
@@ -53,12 +65,13 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Count Grandpa's lines before writing a note about how little he says.
 
 ## Added after the batch 5 review
-- Hailu rain is 落水 (not 落雨); Hailu 聽講 is tangˇ gongˊ; Hailu V等 is denˊ (nenˊ a variant); Hailu 飯 is pon+.
+- Hailu rain is 落水 (official: Sixian 落雨 70 / 落水 6, Hailu 0 / 73); Hailu 聽講 is tangˇ gongˊ; Hailu V等 is denˊ
+  (43 of 47 Hailu V等 list words; nenˊ a variant, the usual Glossika form); Hailu 飯 is pon+.
 - "Bed" is 眠床 (床 alone is a classifier). "In the pocket" is 褲袋肚 / 衫袋肚.
 - 跌在 (drop somewhere), not 跌忒在. "Shut the window" 窗門關好來 (關等 = kept shut).
 - 寄到哪位, not 寄去. 借分 + person for "lend". 一封信仔, not 一張信.
 - "Get on well" is 感情當好. "Finish eating" is 食飽 (食煞 unattested; 講煞 is fine).
-- Sixian "winter" is 寒天 (Hailu 冷天).
+- Sixian "winter" is 寒天 (Hailu 冷天): official 寒天 51 / 1, 冷天 0 / 47.
 - Keep a calendar for each batch: weekday of each lesson, who is at school or work.
 - 𫣆兜 + verb includes the listener: don't use it to leave a conversation with neighbours.
 
@@ -94,11 +107,13 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - After 恁仔細 nothing follows (no 你兜, no object): see batch 7.
 
 ## Added after the batch 9 review
-- 頭先 is "just now" (剛才), never "at first": use 一開始.
+- 頭先 is "just now" (剛才); for "at first" prefer 一開始 (see batch 13: kaga also gives 最初).
 - News items take 條 (下一條新聞, 有一條新聞講…), not 隻.
 - A number + 零 still takes its classifier: 兩百零个人 (這間工廠請有兩百零個工人).
-- Don't overstate Sixian/Hailu differences: count the examples in both accents before a note says "Hailu says X,
-  Sixian Y" (糜, 落水, 肚屎枵, 承蒙, 所以 all occur in Sixian examples too). Say "the word lists differ".
+- Don't overstate or understate Sixian/Hailu differences: count per accent in the official lists (counting rule).
+  *Recounted:* the batch 9 claim that 糜, 落水, 肚屎枵, 承蒙 and 所以 "occur in Sixian examples too" came from the MOE
+  pool. In the official lists the differences are real: 粥 / 糜 Sixian 32 / 6, Hailu 0 / 40; 肚飢 / 肚屎枵 12 / 0 and
+  0 / 9; 恁仔細 / 承蒙 4 / 1 and 0 / 5; 故所 / 所以 137 / 1 and 4 / 131; Sixian 落水 (6) means "fall into the water".
 - Keep the internal timeline consistent across a batch: weather (when the rain starts and stops), dates of events
   reported later, drive times, where people live.
 - A Latin-letter word in a line (fan, pon) is stripped from the pinyin at its first match: put it before any
@@ -109,8 +124,8 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Comparison: 比 + adjective + amount needs no 較 (比𠊎高一息仔, 比你高五公分); 比 + 較 + adjective without an amount.
 - 高過 is not a comparative in the data; 贏過 is "have won (before)".
 - Ranks take a verb: 得著頭名, 得著第三名 (also 打頭名).
-- "I miss you" out loud is 盡想你; 想念 is written (one example).
-- 一開始 "at the start"; never 頭先 (= "just now").
+- "I miss you" out loud is 盡想你; 想念 has no official sentence (one MOE example).
+- 一開始 "at the start" (prefer it to 頭先, which is mainly "just now").
 - Before writing "not in the data", check the MOE definitions too (五月雪 is in the 桐花 entry).
 - Keep a story decision for the lesson the brief gives it (A-in's job: the interview in 75, so 68–70 only decide to go).
 
@@ -118,10 +133,10 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - Sam calls Mrs Liu 伯姆, never 阿姆 (阿姆 is "Mum", for A-in and A-min only).
 - An official sentence often differs between accents (同 / 摎, 莫 / 毋好, 了 / none): quote each accent's own version.
 - Southern Sixian (美濃, 六堆): use the 176 parallel sentences, `sentence.accent='south-sixian'`, before the brackets.
-- "Young people" is 後生人 (年輕人 has no examples).
+- "Young people" is 後生人 (official 54 / 56; 年輕人 none).
 - Sentence-final 哦 is oˊ (MOE 勸誡 sense); 呢 neˇ and noˋ are free variants in Sixian.
 - 姐婆 is the maternal grandmother (外婆), not Grandma's mother.
-- Hailu also says 盡 for "very" (盡少, 盡想你呢); don't swap it for 最 in the Hailu column.
+- Hailu also says 盡 for "very" (盡少 15 / 15, 最少 0 / 1); don't swap it for 最 in the Hailu column.
 
 ## Added after the batch 12 review
 - 聞 vunˇ means "hear" (a book word); "smell" is 鼻 pi (你鼻看啊, 鼻得着滿屋个清香).
@@ -132,7 +147,8 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - An official sentence that exists only in Sixian: say in the note that the Hailu column is the course's transposition.
 
 ## Added after the batch 13 review
-- Instrument verbs differ by accent: Sixian 鋸弦仔 / Hailu 挨弦仔 (no Hailu 鋸弦); Sixian 吹笛仔 / Hailu 歕笛仔; 打鼓, 打銅鑼 (not 敲) in both.
+- Instrument verbs differ by accent: Sixian 鋸弦仔 / Hailu 挨弦仔 (official 2 / 0, 0 / 2); Sixian 吹笛仔 / Hailu 歕笛仔
+  (one sentence each); 打鼓, 打銅鑼 (1 / 1) in both.
 - "Get lost" is 撞走 (2026 list: 迷路), besides 尋毋著路. "Mist" is 濛紗煙 (Sixian) / 濛煙 (Hailu list); 濛紗煙恁重.
 - Emergencies in the story call 119 and the 消防隊 comes; safety advice (walk slowly in the dark, ice a twisted ankle) follows an official sentence or is labelled general knowledge.
 - 頭先: "just now" in kaga115, but kaga (2013) also gives 最初 "at first". Prefer 一開始 for "at first", and don't claim 頭先 is "always" one thing.
@@ -149,5 +165,5 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - 識 means "know (a person, a word)" and "ever (have done)"; "can, know how to" is 會. 毋識講客話 = "had never spoken".
 - 師傅話: quote kaga115 where it has the saying (十二月甘蔗－兩頭甜; Hailu 三隻鼻空笐), kaga or MOE otherwise, and say
   which; only call a saying an entry if it is one.
-- Hailu shares 盡 (盡重要 8 : 最重要 1). Write it in both columns.
+- Hailu shares 盡 (盡重要 8 / 8, 最重要 1 / 1). Write it in both columns.
 - ABAB (烏陰烏陰, 好勢好勢) and AABB (清清楚楚): lint now accepts AABB of a listed word.
