@@ -1,0 +1,256 @@
+id: 99
+title:
+  en: "Speaking Sixian and Hailu"
+  sx: {hanzi: "一下四縣，一下海陸", pinyin: "idˋ ha xi ien, idˋ ha hoiˋ liug"}
+  hl: {hanzi: "一下四縣，一下海陸", pinyin: "rhid ha+ siˇ rhanˇ, rhid ha+ hoiˊ liugˋ"}
+review: false
+setting: >-
+  Saturday 18 December, noon in France and seven in the evening in Miaoli. Sam, back home for three weeks, calls the
+  Lius on his phone. In Miaoli the whole family crowds round A-in's phone on the kitchen table; 阿舅 joins the call
+  from 竹東. In the story, Grandma speaks Sixian and 阿舅 Hailu, and Sam answers each in their own; as everywhere in
+  the course, every line is still given in both accents (note 0).
+names: [法國, 竹東, 苗栗, 阿舅, 阿明, 阿英, 海陸]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Sam, can you see us? We're all here, the whole family!"
+    sx: {hanzi: "Sam，看得著無？𠊎兜全家都在這位！", pinyin: "Sam, kon dedˋ doˋ moˇ? ngaiˇ deuˊ qionˇ gaˊ du coiˊ iaˋ vi!"}
+    hl: {hanzi: "Sam，看得著無？𠊎兜全家都在這位！", pinyin: "Sam, konˇ ded doˊ mo? ngai deuˋ cion gaˋ du+ coiˋ liaˊ vui+!"}
+  - n: 2
+    speaker: Sam
+    en: "I can! We're so far apart: it's about twelve here in France, and seven in the evening in Miaoli. Seven hours' difference. I've just had lunch."
+    sx: {hanzi: "看得著！隔恁遠：法國這下大概十二點，苗栗暗晡頭七點，差七點鐘。𠊎正食晝。", pinyin: "kon dedˋ doˋ! gagˋ anˋ ienˋ: fabˋ guedˋ iaˋ ha tai koiˋ siib ngi diamˋ, meuˇ lidˋ am buˊ teuˇ qidˋ diamˋ, caˊ qidˋ diamˋ zungˊ. ngaiˇ zang siid zu."}
+    hl: {hanzi: "看得著！隔恁遠：法國這下大概十二點，苗栗暗晡頭七點，差七點鐘。𠊎正食晝。", pinyin: "konˇ ded doˊ! gag anˊ rhanˊ: fab gued liaˊ ha+ tai+ koiˊ shibˋ ngi+ diamˊ, miau lid amˇ buˋ teu cid diamˊ, caˋ cid diamˊ zhungˋ. ngai zhangˇ shidˋ zhiuˇ."}
+  - n: 3
+    speaker: 阿明
+    en: "阿舅's here too! He's in 竹東, joining in on his phone."
+    sx: {hanzi: "阿舅乜來了！佢在竹東，用手機仔同𠊎兜鬥陣講。", pinyin: "aˊ kiuˊ me loiˇ leˊ! giˇ coiˊ zugˋ dungˊ, iung suˋ giˊ eˋ tungˇ ngaiˇ deuˊ deu ciin gongˋ."}
+    hl: {hanzi: "阿舅乜來了！佢在竹東，用手機摎𠊎兜鬥陣講。", pinyin: "a+ kiuˋ meˇ loi leˋ! gi coiˋ zug dungˋ, rhung+ shiuˊ giˋ lauˋ ngai deuˋ deuˇ chin+ gongˊ."}
+  - n: 4
+    speaker: 阿舅
+    en: "Sam, thank you for calling! Is it cold in Europe?"
+    sx: {hanzi: "Sam，承蒙你打電話來！歐洲冷無？", pinyin: "Sam, siinˇ mungˇ nˇ daˋ tien fa loiˇ! euˊ zuˊ langˊ moˇ?"}
+    hl: {hanzi: "Sam，承蒙你打電話來！歐洲冷無？", pinyin: "Sam, shin mung ngi daˊ tien+ faˇ loi! euˋ zhiuˋ langˋ mo?"}
+  - n: 5
+    speaker: 阿婆
+    en: "(not to be outdone) Is France cold?"
+    sx: {hanzi: "法國寒無？", pinyin: "fabˋ guedˋ honˇ moˇ?"}
+    hl: {hanzi: "法國寒無？", pinyin: "fab gued hon mo?"}
+  - n: 6
+    speaker: Sam
+    en: "Grandma, it's 寒; 阿舅, it's 冷. Freezing, about zero, colder than the fridge, and it's snowing!"
+    sx: {hanzi: "阿婆，當寒；阿舅，當冷。冷颼颼仔，大概零度，比冰箱還冷，還落雪了！", pinyin: "aˊ poˇ, dongˊ honˇ; aˊ kiuˊ, dongˊ langˊ. langˊ xiuˇ xiuˇ eˋ, tai koiˋ langˇ tu, biˋ benˊ xiongˊ hanˇ langˊ, hanˇ log xiedˋ leˊ!"}
+    hl: {hanzi: "阿婆，當寒；阿舅，當冷。冷颼颼仔，大概零度，比冰箱還冷，還落雪了！", pinyin: "a+ po, dongˋ hon; a+ kiuˋ, dongˋ langˋ. langˋ siu siu er, tai+ koiˊ lang tu+, biˊ benˋ siongˋ han langˋ, han logˋ sied leˋ!"}
+  - n: 7
+    speaker: 阿明
+    en: "One minute Sixian, the next Hailu: it's like listening to an interpreter!"
+    sx: {hanzi: "你一下講四縣，一下講海陸，像在該翻譯！", pinyin: "nˇ idˋ ha gongˋ xi ien, idˋ ha gongˋ hoiˋ liug, qiong du ge fanˊ id!"}
+    hl: {hanzi: "你一下講四縣，一下講海陸，像在該翻譯！", pinyin: "ngi rhid ha+ gongˊ siˇ rhanˇ, rhid ha+ gongˊ hoiˊ liugˋ, ciongˇ diˇ gai fanˋ rhidˋ!"}
+  - n: 8
+    speaker: 阿舅
+    en: "Sam, are you hungry now?"
+    sx: {hanzi: "Sam，你這下肚飢無？", pinyin: "Sam, nˇ iaˋ ha duˋ giˊ moˇ?"}
+    hl: {hanzi: "Sam，你這下肚屎枵無？", pinyin: "Sam, ngi liaˊ ha+ duˊ shiˊ iauˋ mo?"}
+  - n: 9
+    speaker: Sam
+    en: "I've just eaten, I'm not hungry. …阿舅, in 竹東 you say 肚屎枵, and in Miaoli we say 肚飢, don't we?"
+    sx: {hanzi: "𠊎正食飽，毋會肚飢。……阿舅，你兜竹東講肚屎枵，𠊎兜苗栗講肚飢，係毋係？", pinyin: "ngaiˇ zang siid bauˋ, mˇ voi duˋ giˊ. … aˊ kiuˊ, nˇ deuˊ zugˋ dungˊ gongˋ duˋ siiˋ iauˊ, ngaiˇ deuˊ meuˇ lidˋ gongˋ duˋ giˊ, he mˇ he?"}
+    hl: {hanzi: "𠊎正食飽，毋會肚屎枵。……阿舅，你兜竹東講肚屎枵，𠊎兜苗栗講肚飢，係毋係？", pinyin: "ngai zhangˇ shidˋ bauˊ, m voi+ duˊ shiˊ iauˋ. … a+ kiuˋ, ngi deuˋ zug dungˋ gongˊ duˊ shiˊ iauˋ, ngai deuˋ miau lid gongˊ duˊ giˋ, heˇ m heˇ?"}
+  - n: 10
+    speaker: 阿舅
+    en: "That's right. Each of us says it our own way, and everyone understands."
+    sx: {hanzi: "係。各人講各人个，大家都聽得識。", pinyin: "he. gogˋ nginˇ gongˋ gogˋ nginˇ ge, tai gaˊ du tangˊ dedˋ siidˋ."}
+    hl: {hanzi: "係。各人講各人个，大家都聽得識。", pinyin: "heˇ. gog ngin gongˊ gog ngin gaiˇ, tai+ gaˋ du+ tangˋ ded shid."}
+    check: true
+  - n: 11
+    speaker: 阿婆
+    en: "The accent is different; the Hakka is the same."
+    sx: {hanzi: "腔調無共樣，客話係共樣个。", pinyin: "kiongˊ tiau moˇ kiung iong, hagˋ fa he kiung iong ge."}
+    hl: {hanzi: "腔調無共樣，客話係共樣个。", pinyin: "kiongˋ tiau+ mo kiung+ rhong+, hag voiˋ heˇ kiung+ rhong+ gaiˇ."}
+  - n: 12
+    speaker: Sam
+    en: "At first I thought Sixian and Hailu were very different. Only now do I see that most of it is the same."
+    sx: {hanzi: "原底𠊎試著四縣同海陸差別當大。這下正知，相同个較多。", pinyin: "ngienˇ daiˋ ngaiˇ cii doˋ xi ien tungˇ hoiˋ liug caˊ pied dongˊ tai. iaˋ ha zang diˊ, xiongˊ tungˇ ge ka doˊ."}
+    hl: {hanzi: "原底𠊎試著四縣摎海陸差別當大。這下正知，相同个較多。", pinyin: "ngien daiˊ ngai chiˇ doˊ siˇ rhanˇ lauˋ hoiˊ liugˋ caˋ piedˋ dongˋ tai+. liaˊ ha+ zhangˇ diˋ, siongˋ tung gaiˇ haˇ doˋ."}
+  - n: 13
+    speaker: 阿英
+    en: "Your memory's so good: you remember both."
+    sx: {hanzi: "你个記性恁好，兩種都記得。", pinyin: "nˇ ge gi xin anˋ hoˋ, liongˋ zungˋ du gi dedˋ."}
+    hl: {hanzi: "你个記性恁好，兩種都記得。", pinyin: "ngi gaiˇ giˇ sinˇ anˊ hoˊ, liongˊ zhungˊ du+ giˇ ded."}
+  - n: 14
+    speaker: Sam
+    en: "It's not a good head, just an ordinary brain. Hear it every day and you pick it up. …But I'm afraid I'll go backwards, here."
+    sx: {hanzi: "毋係頭腦好，係一般个腦筋定定。逐日聽，就會。……毋過𠊎驚會退步。", pinyin: "mˇ he teuˇ noˋ hoˋ, he idˋ banˊ ge noˋ ginˊ tin tin. dagˋ ngidˋ tangˊ, qiu voi. … mˇ go ngaiˇ giangˊ voi tui pu."}
+    hl: {hanzi: "毋係頭腦好，係一般个腦筋定定。逐日聽，就會。……毋過𠊎驚會退步。", pinyin: "m heˇ teu noˊ hoˊ, heˇ rhid banˋ gaiˇ noˊ ginˋ tin+ tin+. dag ngid tangˋ, ciu+ voi+. … m goˇ ngai giangˋ voi+ tuiˇ pu+."}
+  - n: 15
+    speaker: 阿明
+    en: "You won't! We'll take turns chatting with you: Saturdays Grandma, Sundays 阿舅."
+    sx: {hanzi: "毋會退步！𠊎兜輪流同你打嘴鼓：禮拜六阿婆，禮拜日阿舅。", pinyin: "mˇ voi tui pu! ngaiˇ deuˊ lunˇ liuˇ tungˇ nˇ daˋ zoi guˋ: liˊ bai liugˋ aˊ poˇ, liˊ bai ngidˋ aˊ kiuˊ."}
+    hl: {hanzi: "毋會退步！𠊎兜輪流摎你打嘴鼓：禮拜六阿婆，禮拜日阿舅。", pinyin: "m voi+ tuiˇ pu+! ngai deuˋ lun liu lauˋ ngi daˊ zhoiˇ guˊ: liˋ baiˇ liug a+ po, liˋ baiˇ ngid a+ kiuˋ."}
+  - n: 16
+    speaker: 阿英
+    en: "In France you're a local; and when you come back to Miaoli, you're no outsider either."
+    sx: {hanzi: "在法國你係本地人；轉來苗栗，你乜毋係外地人。", pinyin: "coiˊ fabˋ guedˋ nˇ he bunˋ ti nginˇ; zonˋ loiˇ meuˇ lidˋ, nˇ me mˇ he ngoi ti nginˇ."}
+    hl: {hanzi: "在法國你係本地人；轉來苗栗，你乜毋係外地人。", pinyin: "coiˋ fab gued ngi heˇ bunˊ ti+ ngin; zhonˊ loi miau lid, ngi meˇ m heˇ ngoi+ ti+ ngin."}
+  - n: 17
+    speaker: 阿舅
+    en: "Tomorrow the factory still has 粄條 to make, so I'm off to bed. Thank you, Sam!"
+    sx: {hanzi: "天光日工廠還愛做粄條，𠊎先去睡目。承蒙你，Sam！", pinyin: "tienˊ gongˊ ngidˋ gungˊ congˋ hanˇ oi zo banˋ tiauˇ, ngaiˇ xienˊ hi soi mugˋ. siinˇ mungˇ nˇ, Sam!"}
+    hl: {hanzi: "韶早工廠還愛做粄條，𠊎先去睡目。承蒙你，Sam！", pinyin: "shau zoˊ gungˋ chongˊ han oiˇ zoˇ banˊ tiau, ngai senˋ hiˇ shoi+ mug. shin mung ngi, Sam!"}
+  - n: 18
+    speaker: Sam
+    en: "Thank you, 阿舅! …And thank you, Grandma!"
+    sx: {hanzi: "承蒙你，阿舅！……恁仔細，阿婆！", pinyin: "siinˇ mungˇ nˇ, aˊ kiuˊ! … anˋ ziiˋ se, aˊ poˇ!"}
+    hl: {hanzi: "承蒙你，阿舅！……恁仔細，阿婆！", pinyin: "shin mung ngi, a+ kiuˋ! … anˊ ziiˊ seˇ, a+ po!"}
+  - n: 19
+    speaker: 阿公
+    en: "(leaning into the picture behind Grandma) Sam, have you eaten?"
+    sx: {hanzi: "Sam，食飽吂？", pinyin: "Sam, siid bauˋ mangˇ?"}
+    hl: {hanzi: "Sam，食飽吂？", pinyin: "Sam, shidˋ bauˊ mang?"}
+  - n: 20
+    speaker: Sam
+    en: "I've eaten, Grandpa."
+    sx: {hanzi: "食飽了，阿公。", pinyin: "siid bauˋ leˊ, aˊ gungˊ."}
+    hl: {hanzi: "食飽了，阿公。", pinyin: "shidˋ bauˊ leˋ, a+ gungˋ."}
+
+notes:
+  - ref: 0
+    topic: hailu
+    text: >
+      How to read this lesson's two columns. In the story Grandma speaks Sixian and 阿舅 Hailu, and Sam switches. The
+      Sixian column gives 阿舅's lines as a Sixian speaker would say them (line 8: 肚飢, line 17: 天光日), and the Hailu
+      column gives Grandma's lines in Hailu. Where the joke is in the words themselves (lines 5–6, 9, 18), both columns
+      keep the same words, read each in its own accent: 寒, 冷, 肚屎枵, 恁仔細 and 承蒙 all have readings in both.
+  - ref: 2
+    topic: vocab
+    text: >
+      隔恁遠 "so far apart": 隔 gagˋ "be separated by". 差七點鐘 "seven hours' difference": 差 (lesson 59) + 點鐘 (lesson
+      20). 暗晡頭 "the evening", 食晝 (lesson 57) "have lunch", 大概 tai koiˋ "about, roughly", before a number or a guess.
+      正食晝 "have just had lunch": 正 "only just".
+  - ref: 3
+    topic: vocab
+    text: >
+      鬥陣 deu ciin "together, in company": 同𠊎兜鬥陣講 "talks along with us". In Hailu, 摎 again where Sixian has 同.
+  - ref: 6
+    topic: hailu
+    text: >
+      寒 and 冷. The word lists pair Sixian 寒 honˇ with Hailu 冷 langˋ for "cold" (寒冷). But both accents have both
+      words: the official examples have 寒 in 274 Sixian sentences and 32 Hailu ones, and 冷 in 228 Sixian and 215 Hailu
+      ones (Sixian 冷 langˊ is listed as "cold, cool": 冷颼颼仔 "freezing", 冷天). So Sam's answer is a courtesy, not a
+      translation: each of them would have understood either word. 冷颼颼仔 langˊ xiuˇ xiuˇ eˋ "bitterly cold" (Hailu
+      冷颼颼仔 langˋ siu siu er).
+  - ref: 7
+    topic: grammar
+    text: >
+      一下…一下… "one moment…, the next…": 你一下講四縣，一下講海陸. 四縣 (lesson 53) and 海陸 are the names of the two accents
+      (MOE 四縣: the four counties of the old 嘉應州; 海陸: 海豐 and 陸豐, lesson 53). 翻譯 fanˊ id "translate,
+      interpreter".
+  - ref: 9
+    topic: hailu
+    text: >
+      肚飢 and 肚屎枵 "hungry": the word lists pair them (Sixian 肚飢 duˋ giˊ, Hailu 肚屎枵 duˊ shiˊ iauˋ). In the examples
+      肚飢 is in 27 Sixian sentences and no Hailu one; 肚屎枵 in 9 Hailu and 4 Sixian ones. Sam's "you say…, we say…" is
+      the right shape: 你兜竹東講…，𠊎兜苗栗講…, with 𠊎兜 because 阿舅 is not of Miaoli.
+  - ref: 10
+    topic: grammar
+    text: >
+      各人講各人个 "each says his own": 各人 gogˋ nginˇ "each person". 聽得識 "can understand (by ear)": V得 + result, as
+      in 看得著 (line 1), the positive of 聽無 (lesson 64); 聽得識 is in the official examples (3 Sixian, 2 Hailu), but
+      各人講各人个 is the course's own phrasing, marked for a check.
+  - ref: 12
+    topic: hailu
+    text: >
+      What the course has met, with the data behind it. The official examples hold 35,154 Sixian sentences and 15,123
+      Hailu ones, so compare within an accent, not raw numbers across. "Sentences with" counts any sentence containing
+      the characters.
+      Words the lists pair, where the other accent also has the word: 恁仔細 / 承蒙 (Sixian has 承蒙 in 11 sentences and
+      恁仔細 in 9; Hailu only 承蒙, 5); 故所 / 所以 (Sixian 346 / 211; Hailu 4 / 133); 同 / 摎 "with, and" (Sixian has 摎 in
+      923 sentences and 同 in 1,101; Hailu 摎 759, 同 80); 粥 / 糜 (Sixian 44 / 23, Hailu 0 / 40); 右片 / 正手片 (Sixian 5 /
+      3, Hailu 1 / 3); 鋸弦仔 / 挨弦仔 (Sixian 4 / 1, Hailu 0 / 2).
+      Words the other accent lacks in the examples: 落雨 (Sixian 141, Hailu 0; both have 落水, 80 and 74); 天光日 / 韶早
+      (Sixian 162 / 5, Hailu 4 / 65); 吾 "my" (Sixian 474, Hailu 7, where Hailu says 𠊎 + noun).
+      Same character, other reading: 飯 fan / pon+, 个 ge / gaiˇ, 這 iaˋ / liaˊ, 話 fa / faˇ (and voiˋ in 客話).
+      盡: both accents use it a great deal (2,067 Sixian sentences, 753 Hailu). The 2026 lists gloss Sixian 盡 as "most"
+      (pairing it with Hailu 最) and Hailu 盡 as "very": gloss it each time.
+      Tones: one code covers them (lesson 0): Sixian ˊ → Hailu ˋ, ˇ → unmarked, ˋ → ˊ, unmarked → ˇ or +, checked ˋ →
+      unmarked and unmarked → ˋ. And the Hailu initials zh ch sh rh where Sixian has z c s and a vowel.
+      Several "rules" written at the start of this course turned out softer in the data (Hailu V等 is denˊ, with nenˊ a
+      variant; 試V看啊 is commoner than 看仔 in both accents): the counts, not the rules, are the guide.
+  - ref: 14
+    topic: vocab
+    text: >
+      頭腦 teuˇ noˋ "head, brains", 腦筋 noˋ ginˊ "mind, brain", 記性 gi xin (line 13) "memory": all three in the MOE
+      examples. 一般个 "ordinary". 退步 tui pu "go backwards, get worse", the opposite of 進步 (lesson 94).
+  - ref: 15
+    topic: vocab
+    text: >
+      輪流 lunˇ liuˇ "take turns" and 打嘴鼓 (lesson 58) "chat": 輪流同你打嘴鼓 "take turns chatting with you".
+  - ref: 16
+    topic: vocab
+    text: >
+      本地人 "a local" and 外地人 "an outsider": 本地 bunˋ ti, 外地 ngoi ti.
+  - ref: 17
+    topic: hailu
+    text: >
+      The two columns at work: the Sixian line says 天光日, the Hailu line 韶早. 韶早 has no Sixian reading in the lists,
+      so it only appears in Hailu lines (checklist). 原底 (line 12) ngienˇ daiˋ "originally, at first".
+  - ref: 19
+    topic: culture
+    text: >
+      Grandpa's 食飽吂？ is lesson 3's question, a year on and ten thousand kilometres away.
+
+new_words:
+  - {hanzi: 大概, pinyin: "tai koiˋ", en: "about, roughly; probably", hl: {hanzi: 大概, pinyin: "tai+ koiˊ"}}
+  - {hanzi: 鬥陣, pinyin: "deu ciin", en: "together, in company", hl: {hanzi: 鬥陣, pinyin: "deuˇ chin+"}}
+  - {hanzi: 歐洲, pinyin: "euˊ zuˊ", en: "Europe", hl: {hanzi: 歐洲, pinyin: "euˋ zhiuˋ"}}
+  - {hanzi: 冷颼颼仔, pinyin: "langˊ xiuˇ xiuˇ eˋ", en: "bitterly cold", hl: {hanzi: 冷颼颼仔, pinyin: "langˋ siu siu er"}}
+  - {hanzi: 翻譯, pinyin: "fanˊ id", en: "translate; interpreter", hl: {hanzi: 翻譯, pinyin: "fanˋ rhidˋ"}}
+  - {hanzi: 各人, pinyin: "gogˋ nginˇ", en: "each person, everyone (separately)", hl: {hanzi: 各人, pinyin: "gog ngin"}}
+  - {hanzi: 腔調, pinyin: "kiongˊ tiau", en: "accent, intonation", hl: {hanzi: 腔調, pinyin: "kiongˋ tiau+"}}
+  - {hanzi: 原底, pinyin: "ngienˇ daiˋ", en: "originally, at first", hl: {hanzi: 原底, pinyin: "ngien daiˊ"}}
+  - {hanzi: 差別, pinyin: "caˊ pied", en: "difference", hl: {hanzi: 差別, pinyin: "caˋ piedˋ"}}
+  - {hanzi: 相同, pinyin: "xiongˊ tungˇ", en: "the same, alike", hl: {hanzi: 相同, pinyin: "siongˋ tung"}}
+  - {hanzi: 記性, pinyin: "gi xin", en: "memory", hl: {hanzi: 記性, pinyin: "giˇ sinˇ"}}
+  - {hanzi: 頭腦, pinyin: "teuˇ noˋ", en: "head, brains", hl: {hanzi: 頭腦, pinyin: "teu noˊ"}}
+  - {hanzi: 一般, pinyin: "idˋ banˊ", en: "ordinary, general", hl: {hanzi: 一般, pinyin: "rhid banˋ"}}
+  - {hanzi: 腦筋, pinyin: "noˋ ginˊ", en: "mind, brain", hl: {hanzi: 腦筋, pinyin: "noˊ ginˋ"}}
+  - {hanzi: 退步, pinyin: "tui pu", en: "get worse, go backwards", hl: {hanzi: 退步, pinyin: "tuiˇ pu+"}}
+  - {hanzi: 輪流, pinyin: "lunˇ liuˇ", en: "take turns", hl: {hanzi: 輪流, pinyin: "lun liu"}}
+  - {hanzi: 本地, pinyin: "bunˋ ti", en: "local", hl: {hanzi: 本地, pinyin: "bunˊ ti+"}}
+  - {hanzi: 外地, pinyin: "ngoi ti", en: "from elsewhere, outside", hl: {hanzi: 外地, pinyin: "ngoi+ ti+"}}
+  - {hanzi: 冰箱, pinyin: "benˊ xiongˊ", en: "fridge", hl: {hanzi: 冰箱, pinyin: "benˋ siongˋ"}}
+  - {hanzi: 隔, pinyin: "gagˋ", en: "be apart, separated by", hl: {hanzi: 隔, pinyin: "gag"}}
+  - {hanzi: 暗晡頭, pinyin: "am buˊ teuˇ", en: "evening", hl: {hanzi: 暗晡頭, pinyin: "amˇ buˋ teu"}}
+  - {hanzi: 交換, pinyin: "gauˊ von", en: "exchange, swap", hl: {hanzi: 交換, pinyin: "gauˋ von+"}}
+
+exercises:
+  translate:
+    - en: "Let's swap: you speak Hailu, I'll speak Sixian."
+      sx: {hanzi: "𫣆兜交換：你講海陸，𠊎講四縣。", pinyin: "enˊ deuˊ gauˊ von: nˇ gongˋ hoiˋ liug, ngaiˇ gongˋ xi ien."}
+      hl: {hanzi: "𫣆兜交換：你講海陸，𠊎講四縣。", pinyin: "enˋ deuˋ gauˋ von+: ngi gongˊ hoiˊ liugˋ, ngai gongˊ siˇ rhanˇ."}
+    - en: "There's not much difference between the two accents."
+      sx: {hanzi: "兩種腔个差別無恁大。", pinyin: "liongˋ zungˋ kiongˊ ge caˊ pied moˇ anˋ tai."}
+      hl: {hanzi: "兩種腔个差別無恁大。", pinyin: "liongˊ zhungˊ kiongˋ gaiˇ caˋ piedˋ mo anˊ tai+."}
+    - en: "Have you had lunch? — Not yet, I'm hungry."
+      sx: {hanzi: "你食晝吂？——吂，𠊎肚飢了。", pinyin: "nˇ siid zu mangˇ? — mangˇ, ngaiˇ duˋ giˊ leˊ."}
+      hl: {hanzi: "你食晝吂？——吂，𠊎肚屎枵了。", pinyin: "ngi shidˋ zhiuˇ mang? — mang, ngai duˊ shiˊ iauˋ leˋ."}
+    - en: "Grandpa's memory isn't what it was, but his mind is still sharp."
+      sx: {hanzi: "阿公个記性較毋好了，毋過頭腦還當清楚。", pinyin: "aˊ gungˊ ge gi xin ka mˇ hoˋ leˊ, mˇ go teuˇ noˋ hanˇ dongˊ qinˊ cuˋ."}
+      hl: {hanzi: "阿公个記性較毋好了，毋過頭腦還當清楚。", pinyin: "a+ gungˋ gaiˇ giˇ sinˇ haˇ m hoˊ leˋ, m goˇ teu noˊ han dongˋ cinˋ cuˊ."}
+      check: true
+    - en: "Locals and outsiders alike come to eat 粄條."
+      sx: {hanzi: "本地人、外地人都來食粄條。", pinyin: "bunˋ ti nginˇ, ngoi ti nginˇ du loiˇ siid banˋ tiauˇ."}
+      hl: {hanzi: "本地人、外地人都來食粄條。", pinyin: "bunˊ ti+ ngin, ngoi+ ti+ ngin du+ loi shidˋ banˊ tiau."}
+  fill:
+    - en: "The accent is different; the Hakka is the same."
+      sx: {hanzi: "___無共樣，客話係共樣个。", pinyin: "___ moˇ kiung iong, hagˋ fa he kiung iong ge.", answer_hanzi: "腔調", answer: "kiongˊ tiau"}
+      hl: {hanzi: "___無共樣，客話係共樣个。", pinyin: "___ mo kiung+ rhong+, hag voiˋ heˇ kiung+ rhong+ gaiˇ.", answer_hanzi: "腔調", answer: "kiongˋ tiau+"}
+    - en: "It's about zero degrees."
+      sx: {hanzi: "___零度。", pinyin: "___ langˇ tu.", answer_hanzi: "大概", answer: "tai koiˋ"}
+      hl: {hanzi: "___零度。", pinyin: "___ lang tu+.", answer_hanzi: "大概", answer: "tai+ koiˊ"}
+    - en: "Let's take turns."
+      sx: {hanzi: "𫣆兜___。", pinyin: "enˊ deuˊ ___.", answer_hanzi: "輪流", answer: "lunˇ liuˇ"}
+      hl: {hanzi: "𫣆兜___。", pinyin: "enˋ deuˋ ___.", answer_hanzi: "輪流", answer: "lun liu"}
+
+audio: []
