@@ -1,0 +1,188 @@
+id: 28
+genre: review
+title:
+  en: "Don't worry"
+  sx: {hanzi: "毋使掛吊", pinyin: "mˇ siiˋ gua diau"}
+review: true
+setting: >-
+  Saturday 30 December 2028, supper at the family's house. Sam's account is open (進修 27), and Grandma has caught a
+  cold. Review of 進修 22–27: no new words.
+names: [Sam, 阿英, 阿明, 阿婆, 阿公, 黃醫生]
+
+dialogue:
+  - n: 1
+    speaker: 阿公
+    en: "Sam, have you finished the formalities at the post office?"
+    sx: {hanzi: "Sam，郵局个手續辦好吂？", pinyin: "Sam, iuˇ kiug ge suˋ xiug pan hoˋ mangˇ?"}
+  - n: 2
+    speaker: Sam
+    en: "Yes. A-in came with me. I brought my passport and proof of enrolment, signed, and that was it."
+    sx: {hanzi: "辦好吔。阿英同𠊎去，帶護照同註冊證明，簽名就好。", pinyin: "pan hoˋ leˊ. aˊ inˊ tungˇ ngaiˇ hi, dai fu zeu tungˇ zu cagˋ ziin minˇ, qiamˊ miangˇ qiu hoˋ."}
+  - n: 3
+    speaker: 阿公
+    en: "Has the scholarship come through?"
+    sx: {hanzi: "獎學金來吔無？", pinyin: "jiongˋ hog gimˊ loiˇ leˊ moˇ?"}
+  - n: 4
+    speaker: Sam
+    en: "Yesterday. Now I needn't worry about having nowhere to keep the banknotes."
+    sx: {hanzi: "昨晡日來吔。這下𠊎毋使驚紙票無位所好放。", pinyin: "coˊ buˊ ngidˋ loiˇ leˊ. iaˋ ha ngaiˇ mˇ siiˋ giangˊ ziiˋ peu moˇ vi soˋ hoˋ biong."}
+  - n: 5
+    speaker: 阿英
+    en: "Grandma, why do you keep sneezing?"
+    sx: {hanzi: "阿婆，你仰緊打哈啾？", pinyin: "aˊ poˇ, nˇ ngiongˋ ginˋ daˋ had qiuˋ?"}
+  - n: 6
+    speaker: 阿婆
+    en: "I've caught a cold. Lots of phlegm, and my throat itches."
+    sx: {hanzi: "寒著吔。痰當多，喉嗹又癢。", pinyin: "honˇ doˋ leˊ. tamˇ dongˊ doˊ, heuˇ lienˇ iu iongˊ."}
+  - n: 7
+    speaker: 阿英
+    en: "You should see a doctor and take some cough mixture."
+    sx: {hanzi: "你愛去看西醫，食兜仔藥水。", pinyin: "nˇ oi hi kon xiˊ iˊ, siid deuˊ eˋ iog suiˋ."}
+  - n: 8
+    speaker: 阿英
+    en: "Dr Huang said on the radio: in winter rest a lot and eat nourishing food."
+    sx: {hanzi: "黃醫生在廣播講，寒天愛多歇睏，食東西愛有營養。", pinyin: "vongˇ iˊ senˊ coiˊ gongˋ boˊ gongˋ, honˇ tienˊ oi doˊ hiedˋ kun, siid dungˊ xiˊ oi iuˊ inˇ iongˊ."}
+    check: true
+  - n: 9
+    speaker: 阿婆
+    en: "I don't need a doctor. Chinese medicine will do."
+    sx: {hanzi: "𠊎毋使看醫生，食漢藥就好。", pinyin: "ngaiˇ mˇ siiˋ kon iˊ senˊ, siid hon iog qiu hoˋ."}
+  - n: 10
+    speaker: 阿明
+    en: "That's Grandma: always acting tough."
+    sx: {hanzi: "阿婆就係恁逞強。", pinyin: "aˊ poˇ qiu he anˋ ciinˋ kiongˇ."}
+  - n: 11
+    speaker: 阿婆
+    en: "Sam, your scarf is lovely."
+    sx: {hanzi: "Sam，你个頸圍仔當靚。", pinyin: "Sam, nˇ ge giangˋ viˇ eˋ dongˊ jiangˊ."}
+  - n: 12
+    speaker: Sam
+    en: "A-in gave it to me for my birthday. When it's cold and dreary, I wear it whenever I go out."
+    sx: {hanzi: "係阿英做生日送𠊎个。天時冷沁沁仔，出門𠊎就圍。", pinyin: "he aˊ inˊ zo sangˊ ngidˋ sung ngaiˇ ge. tienˊ siiˇ langˊ xim xim eˋ, cudˋ munˇ ngaiˇ qiu viˇ."}
+    check: true
+  - n: 13
+    speaker: 阿英
+    en: "That Western dinner was very good too."
+    sx: {hanzi: "該暗晡个西餐乜當好食。", pinyin: "ge am buˊ ge xiˊ conˊ me dongˊ hoˋ siid."}
+  - n: 14
+    speaker: 阿英
+    en: "A-min ate for free and took the best seat, and was fussy too. Remember?"
+    sx: {hanzi: "阿明邋食坐大位，又揀食，還記得無？", pinyin: "aˊ minˇ lab siid coˊ tai vi, iu gienˋ siid, hanˇ gi dedˋ moˇ?"}
+  - n: 15
+    speaker: 阿明
+    en: "I'm not fussy. I just don't like raw salad!"
+    sx: {hanzi: "𠊎毋係揀食，𠊎係無愛食鹽生！", pinyin: "ngaiˇ mˇ he gienˋ siid, ngaiˇ he moˇ oi siid iamˇ sangˊ!"}
+  - n: 16
+    speaker: 阿公
+    en: "Did you see the news? The con man who sold jade bracelets was sentenced to prison by the judge."
+    sx: {hanzi: "你兜看新聞無？該隻賣玉手鈪个落仔分法官判坐管仔。", pinyin: "nˇ deuˊ kon xinˊ vunˇ moˇ? ge zagˋ mai ngiug suˋ agˋ ge lau eˋ bunˊ fabˋ gonˊ pan coˊ gonˋ eˇ."}
+  - n: 17
+    speaker: 阿明
+    en: "I saw. He even went to the police station to accuse the temple keeper: a real case of the killer crying murder."
+    sx: {hanzi: "看著吔。佢還去派出所控告廟公，正經係㓾人喊救命。", pinyin: "kon doˋ leˊ. giˇ hanˇ hi pai cudˋ soˋ kungˋ go meu gungˊ, ziin ginˊ he ciiˇ nginˇ hemˊ giu miang."}
+  - n: 18
+    speaker: 阿公
+    en: "People must be fair, and not swindle others."
+    sx: {hanzi: "做人愛公當，毋好梟人。", pinyin: "zo nginˇ oi gungˊ dong, mˇ hoˋ hieuˊ nginˇ."}
+  - n: 19
+    speaker: 阿英
+    en: "Sam, have you finished your essay?"
+    sx: {hanzi: "Sam，你个文章寫好吂？", pinyin: "Sam, nˇ ge vunˇ zongˊ xiaˋ hoˋ mangˇ?"}
+  - n: 20
+    speaker: Sam
+    en: "Yes. The teacher said it was very vivid and gave me ninety."
+    sx: {hanzi: "寫好吔，先生講寫到當生動，分𠊎九十分。", pinyin: "xiaˋ hoˋ leˊ, xinˊ sangˊ gongˋ xiaˋ do dongˊ sangˊ tung, bunˊ ngaiˇ giuˋ siib funˊ."}
+  - n: 21
+    speaker: Sam
+    en: "Earlier this month I did badly in a test and felt hard done by, but now I'm more confident. I passed this week's test."
+    sx: {hanzi: "這隻月初𠊎考試考毋好，心肚當委屈，毋過這下較有自信吔。這禮拜个測驗𠊎及格吔。", pinyin: "iaˋ zagˋ ngied cuˊ ngaiˇ kauˋ sii kauˋ mˇ hoˋ, ximˊ duˋ dongˊ viˊ kudˋ, mˇ go iaˋ ha ka iuˊ cii xin leˊ. iaˋ liˊ bai ge cedˋ ngiam ngaiˇ kib giedˋ leˊ."}
+    check: true
+  - n: 22
+    speaker: 阿公
+    en: "As long as you don't fish for three days and dry the nets for four."
+    sx: {hanzi: "你毋係三日打魚四日晒網就好。", pinyin: "nˇ mˇ he samˊ ngidˋ daˋ ngˇ xi ngidˋ sai miongˋ qiu hoˋ."}
+  - n: 23
+    speaker: 阿婆
+    en: "When you come into a new place, you have to get used to it slowly."
+    sx: {hanzi: "入到新環境愛定定仔適應。", pinyin: "ngib do xinˊ fanˇ gin oi tin tin eˋ siidˋ in."}
+    source: kaga115
+  - n: 24
+    speaker: 阿婆
+    en: "Our home is your home in Taiwan. Don't worry."
+    sx: {hanzi: "吾屋下就係你在臺灣个屋下，毋使掛吊。", pinyin: "ngaˊ vugˋ kaˊ qiu he nˇ coiˊ toiˇ vanˇ ge vugˋ kaˊ, mˇ siiˋ gua diau."}
+  - n: 25
+    speaker: Sam
+    en: "Thank you. With you all to rely on, I'm content."
+    sx: {hanzi: "恁仔細。有你兜做得偎靠，𠊎當滿足。", pinyin: "anˋ ziiˋ se. iuˊ nˇ deuˊ zo dedˋ vaˋ ko, ngaiˇ dongˊ manˊ jiugˋ."}
+  - n: 26
+    speaker: 阿公
+    en: "Tomorrow is the last day of the year. Come and eat with us."
+    sx: {hanzi: "天光日係今年最尾一日，來共下食飯。", pinyin: "tienˊ gongˊ ngidˋ he gimˊ ngienˇ zui miˊ idˋ ngidˋ, loiˇ kiung ha siid fan."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      Review of 進修 22–27. The title is an official sentence: 毋使掛吊 "don't worry" (進修 26), which Grandma says in
+      line 24.
+  - ref: 2
+    topic: vocab
+    text: >
+      手續, 護照, 註冊, 簽名 (進修 27).
+  - ref: 5
+    topic: vocab
+    text: >
+      打哈啾, 痰, 癢, 西醫, 藥水, 營養, 漢藥 (進修 24). 仰緊 + verb "why do you keep…".
+  - ref: 8
+    topic: vocab
+    text: >
+      廣播 "radio broadcast" (Part 1). Marked for review.
+  - ref: 12
+    topic: vocab
+    text: >
+      頸圍仔, 圍 (進修 23); 冷沁沁仔 (進修 26). 做生日 "celebrate a birthday" (Part 1). Marked for review.
+  - ref: 14
+    topic: vocab
+    text: >
+      邋食坐大位, 揀食, 鹽生 (進修 23).
+  - ref: 16
+    topic: vocab
+    text: >
+      法官, 判, 坐管仔, 派出所, 控告, 㓾人喊救命, 公當, 梟人 (進修 25).
+  - ref: 20
+    topic: vocab
+    text: >
+      生動, 測驗, 及格, 三日打魚四日晒網 (進修 22); 委屈, 自信 (進修 26). 月初 "beginning of the month". Line 21 is
+      marked for review.
+  - ref: 23
+    topic: vocab
+    text: >
+      適應, 掛吊, 偎靠, 滿足 (進修 26). Line 23 is an official sentence.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "Have you finished the formalities?"
+      sx: {hanzi: "手續辦好吂？", pinyin: "suˋ xiug pan hoˋ mangˇ?"}
+    - en: "Why do you keep sneezing?"
+      sx: {hanzi: "你仰緊打哈啾？", pinyin: "nˇ ngiongˋ ginˋ daˋ had qiuˋ?"}
+    - en: "I'm not fussy about food."
+      sx: {hanzi: "𠊎毋係揀食。", pinyin: "ngaiˇ mˇ he gienˋ siid."}
+    - en: "People must be fair."
+      sx: {hanzi: "做人愛公當。", pinyin: "zo nginˇ oi gungˊ dong."}
+    - en: "I'm more confident now."
+      sx: {hanzi: "𠊎這下較有自信吔。", pinyin: "ngaiˇ iaˋ ha ka iuˊ cii xin leˊ."}
+  fill:
+    - en: "I signed, and that was it."
+      sx: {hanzi: "___就好。", pinyin: "___ qiu hoˋ.", answer_hanzi: "簽名", answer: "qiamˊ miangˇ"}
+    - en: "Eat nourishing food."
+      sx: {hanzi: "食東西愛有___。", pinyin: "siid dungˊ xiˊ oi iuˊ ___.", answer_hanzi: "營養", answer: "inˇ iongˊ"}
+    - en: "The judge sentenced him to prison."
+      sx: {hanzi: "法官判佢___。", pinyin: "fabˋ gonˊ pan giˇ ___.", answer_hanzi: "坐管仔", answer: "coˊ gonˋ eˇ"}
+    - en: "I passed the test."
+      sx: {hanzi: "測驗𠊎___吔。", pinyin: "cedˋ ngiam ngaiˇ ___ leˊ.", answer_hanzi: "及格", answer: "kib giedˋ"}
+    - en: "Don't worry."
+      sx: {hanzi: "毋使___。", pinyin: "mˇ siiˋ ___.", answer_hanzi: "掛吊", answer: "gua diau"}
+
+audio: []
