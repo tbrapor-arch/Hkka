@@ -1,3 +1,4 @@
+<meta charset="utf-8">
 <title>客話 Hakka · Sixian</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -745,7 +746,8 @@ function showLesson(L) {
       <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${prev}" aria-label="Previous lesson" ${prev !== undefined ? '' : 'disabled'}>‹</button>
       <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${nxt}" aria-label="Next lesson" ${nxt !== undefined ? '' : 'disabled'}>›</button></div>
     <div class="head"><span class="eyebrow">${WAVE ? (L.review ? 'Review · second wave' : 'Second wave') : `${lname(L.id)}${L.review ? ' · Review' : L.genre && L.genre !== 'dialogue' ? ' · ' + (GENRES[L.genre] || L.genre) : ''}${L.p2 ? ' · Sixian' : a === 'hl' ? ' · Hailu' : ' · Sixian'}`}</span>
-      <h1>${esc(T.h)}</h1><span class="rom">${rom(T.p)} · ${esc(L.title.en)}</span></div>
+      <h1>${esc(T.h)}</h1><span class="rom">${rom(T.p)} · ${esc(L.title.en)}</span>
+      ${L.lines.some(ln => blk(ln).audio) ? `<div class="row">${T.audio ? `<button class="btn small line" data-lplay="${esc(T.audio)}">▶ Title</button>` : ''}<button class="btn small" id="playall">▶ Play the whole ${L.genre === 'dialogue' || L.genre === 'review' || L.genre === 'play' ? 'dialogue' : 'text'}</button><span class="sub" style="font-size:.8rem">Synthetic voice (VoxHakka)</span></div>` : ''}</div>
     ${chips.length ? `<nav class="lnav" aria-label="Sections">${chips.map(([id, t]) => `<button data-jump="${id}">${t}</button>`).join('')}</nav>` : ''}
     ${WAVE ? `<p class="wave-intro">Each line shows the English. Say it in Hakka out loud, then tap <b>Show Hakka</b> to check. Tap a word to open its card; the notes are in the normal lesson.</p>`
       : `<p class="setting" style="margin:0">${fmt(L.setting)}</p>`}
@@ -777,7 +779,8 @@ function showLesson(L) {
   $$('[data-tw]', main).forEach(b => b.onclick = () => { $('#tw-' + b.dataset.tw).hidden = false; b.remove(); });
   const sa = $('#show-all', main); if (sa) sa.onclick = () => { $$('[data-tw]', main).forEach(b => b.click()); sa.remove(); };
   $$('[data-note]', main).forEach(b => b.onclick = () => openNote(L, +b.dataset.note));
-  $$('[data-lplay]', main).forEach(b => b.onclick = () => play(b.dataset.lplay, b));
+  $$('[data-lplay]', main).forEach(b => b.onclick = () => { allRun++; play(b.dataset.lplay, b); });
+  const pa = $('#playall', main); if (pa) pa.onclick = () => playAll(L, a, pa);
   $$('[data-word]', main).forEach(b => b.onclick = () => openCard(b.dataset.word));
   const wids = L.words.map(w => (w[a] || w.sx || {}).id).filter(Boolean);
   const cnt = () => { const n = $('#inlist'); if (n) n.textContent = `${wids.filter(id => deck[id]).length} of ${wids.length} in Practice`; };
@@ -814,12 +817,13 @@ async function copyText(txt, btn, okMsg) {
 // ---------- exercises: "translate" shows a Hakka sentence (meaning hidden); "fill" asks for the missing word
 function exHTML(e, i, a) {
   const b = e[a] || e.sx; if (!b) return '';
+  const au = b.audio ? `<button class="lplay rec" data-lplay="${esc(b.audio)}" aria-label="Listen" style="align-self:start">▶</button>` : '';
   if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span><span class="h">${esc(b.h)}</span><span class="t">${rom(b.p)}</span><span class="sub">${esc(e.en || '')}</span>
     <form data-ex="${i}"><input id="ex-${i}" aria-label="Your answer" autocomplete="off" spellcheck="false" placeholder="Type in pinyin or 漢字">
     <button class="btn small" type="submit">Check</button><button class="btn small quiet" type="button" data-show="${i}">Show</button></form>
-    <span class="fb" id="fb-${i}" aria-live="polite"></span></div>`;
+    <span class="fb" id="fb-${i}" aria-live="polite"></span>${au ? `<details><summary class="sub" style="font-size:.85rem">Hear the answer</summary>${au}</details>` : ''}</div>`;
   return `<div class="card exi"><span class="k">What does it mean?</span><span class="h">${esc(b.h)}</span><span class="t">${rom(b.p)}</span>
-    <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show English</button><span class="fb" id="fb-${i}"></span></div>`;
+    <div class="row">${au}<button class="btn small quiet" data-ans="${i}">Show English</button></div><span class="fb" id="fb-${i}"></span></div>`;
 }
 const norm = s => (s || '').normalize('NFC').toLowerCase().replace(/[.,!?;:'"「」，。！？：、]/g, '').replace(/\s+/g, ' ').trim();
 const bare = s => norm(s).replace(/[ˊˇˋ^+]/g, '').replace(/\s+/g, '');
@@ -864,7 +868,7 @@ function openCard(id, w) {
       ${c.ex ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.ex.h)}</div>${c.ex.p ? `<div class="t">${rom(c.ex.p)}</div>` : ''}<div class="m">${esc(c.ex.m || '')}</div>${c.ex.en ? `<div class="sub">${esc(c.ex.en)}</div>` : ''}${c.exclip ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the example</button>` : ''}</div>` : ''}
       ${c.at ? `<div class="wc-at">New word in <button class="linkish" data-go="lesson-${c.atid}"><b>${esc(c.at)}</b></button></div>` : ''}
       <div class="row"><button class="btn small ${inD ? 'quiet' : ''}" id="deck">${inD ? '✓ In Practice · remove' : 'Add to Practice'}</button></div>
-      ${c.src ? `<div class="wc-src">Source: ${esc(SRC[c.src] || c.src)}${c.clip ? '. Recording: 客家委員會.' : ''}</div>` : ''}`;
+      ${c.src ? `<div class="wc-src">Source: ${esc(SRC[c.src] || c.src)}${c.clip ? (c.synth ? '. Voice: synthetic (VoxHakka, CC BY-NC 4.0).' : '. Recording: 客家委員會.') : ''}</div>` : ''}`;
     $('#deck', sh).onclick = () => { if (deck[id]) { delete deck[id]; store.set('deck', deck); toast('Removed from Practice'); } else { addToDeck([id]); toast('Added to Practice'); } openCard(id, w); renderTabs(currentTab()); $$('.wchip[data-word]').forEach(b => b.classList.toggle('indeck', !!deck[b.dataset.word])); };
     const pl = $('#play', sh); if (pl) pl.onclick = () => play(c.clip, pl);
     const ep = $('#explay', sh); if (ep) ep.onclick = () => play(c.exclip, ep);
@@ -1036,6 +1040,22 @@ let player = null;
 function play(src, btn) {
   try { if (player) player.pause(); player = new Audio(src); } catch { return; }
   player.play().catch(() => { if (btn) { btn.disabled = true; btn.textContent = 'No recording here'; } });
+}
+// the whole lesson, line after line (Assimil style); a tap on any ▶ or a second tap here stops it
+let allRun = 0;
+async function playAll(L, a, btn) {
+  const run = ++allRun;
+  if (btn.classList.contains('on')) { btn.classList.remove('on'); btn.textContent = btn.dataset.t; if (player) player.pause(); return; }
+  btn.dataset.t = btn.textContent; btn.classList.add('on'); btn.textContent = '■ Stop';
+  for (const ln of L.lines) {
+    const b = ln[a] || ln.sx; if (!b.audio) continue;
+    if (run !== allRun) break;
+    const el = document.getElementById('line-' + ln.n); $$('.sent.saying').forEach(x => x.classList.remove('saying')); if (el) { el.classList.add('saying'); el.scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+    await new Promise(res => { try { if (player) player.pause(); player = new Audio(b.audio); player.onended = res; player.onerror = res; player.play().catch(res); } catch { res(); } });
+    await new Promise(r => setTimeout(r, 450));
+  }
+  $$('.sent.saying').forEach(x => x.classList.remove('saying'));
+  if (run === allRun) { btn.classList.remove('on'); btn.textContent = btn.dataset.t; }
 }
 let toastT = 0;
 function toast(msg) { const t = $('#toast'); t.textContent = msg; t.hidden = false; clearTimeout(toastT); toastT = setTimeout(() => t.hidden = true, 2200); }

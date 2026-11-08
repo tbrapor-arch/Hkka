@@ -23,6 +23,8 @@ Romanisation throughout is the Ministry of Education's 臺灣客家語拼音方�
 | Noto Sans (`app/fonts/`) | Google, via [@fontsource-variable/noto-sans](https://fontsource.org/fonts/noto-sans) | [SIL OFL 1.1](https://openfontlicense.org) | Embedded in the app for pinyin, with the tone letters ˊ ˇ ˋ. |
 | Plangothic | Fitzgerald Wu (@free-fonts/plangothic 1.0.0) | SIL OFL 1.1 | Glyphs of rare characters (𠊎, 𫣆, 𢯭…), subset at build time. |
 | Iansui, Noto Sans TC, Atkinson Hyperlegible, Nunito | Google Fonts | SIL OFL 1.1 | Loaded from Google Fonts. |
+| Word and example recordings (Hkka-audio `clips/`) | 客家委員會 Hakka Affairs Council | 政府資料開放授權條款-第1版 | Played on word cards and examples. |
+| Synthetic voice (Hkka-audio `tts/`) | generated with VoxHakka, `formospeech/yourtts-htia-240704` (United Link, National United University) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), not the course licence | Titles, dialogue lines, exercise answers, new words without a recording. |
 | App design and code | adapted from Tsheh-tû (tbrapor-arch/tsehtu) | as this repository | |
 
 ## Private, local-only

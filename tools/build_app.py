@@ -8,8 +8,11 @@ tools/lint.py, preferring words already taught); each word gets a card from the 
 then the MOE dictionary), with the course's own English gloss when the word is a new word somewhere in the course.
 Part 1 lines carry both accents (Sixian sx, Hailu hl); 進修 lines are Sixian only.
 
-Audio is optional: if app/dist/audio/clips/<path> exists (the 客委會 word and example clips, `audio_clip.path`) a card
-gets ▶; if app/dist/audio/tts/<accent>/<L>-<n>.m4a exists a line gets ▶ (L = 001…100, P01…P70).
+Audio comes from a checkout of the public repo tbrapor-arch/Hkka-audio ($HKKA_AUDIO, default ../Hkka-audio):
+  clips/index.json + clips/<accent>/<level>/<n>.m4a   客委會 recordings of the list words and their examples
+  tts/manifest.json + tts/<accent>/<L>-<nn>.m4a        synthetic voice (VoxHakka) of titles (nn = 00), lines,
+                                                       exercises (ex/<L>-f01, -t01) and words without a recording
+Only the files the app uses are copied into app/dist/audio/. Without the checkout the app is built silent.
 """
 import base64
 import datetime
@@ -37,7 +40,23 @@ LEVELS = {"基礎級": 1, "初級": 2, "中級": 3, "中高級": 4, "高級": 5}
 
 lex = Lexicon()
 con = sqlite3.connect(os.path.join(ROOT, "data/build/hakka.db"))
-HAS_CLIPS = bool(con.execute("SELECT name FROM sqlite_master WHERE name='audio_clip'").fetchone())
+AUDIO_SRC = os.environ.get("HKKA_AUDIO") or os.path.join(os.path.dirname(ROOT), "Hkka-audio")
+_j = lambda *p: json.load(open(os.path.join(AUDIO_SRC, *p), encoding="utf-8")) if os.path.exists(os.path.join(AUDIO_SRC, *p)) else {}
+CLIPS = _j("clips", "index.json")          # "sixian|<src_id>" -> {"w": path, "x": path}
+TTS = _j("tts", "manifest.json")
+USED = set()
+
+
+def take(rel):
+    """a file of the audio repo the app uses: copied at the end, returned as the app's URL"""
+    if not os.path.exists(os.path.join(AUDIO_SRC, rel)):
+        return None
+    USED.add(rel)
+    return "audio/" + rel
+
+
+def tts_file(rel):
+    return take("tts/" + rel)
 
 
 def pkey(pinyin, acc):
@@ -72,6 +91,11 @@ for d in raw:
 
 # ---------- word cards
 cards = {}
+TTS_WORDS = {}
+for v in TTS.values():
+    if v.get("kind") == "word" and v.get("file"):
+        acc = v["file"].split("/")[0]
+        TTS_WORDS.setdefault((acc, v["hanzi"], pkey(v["pinyin"], acc)), v["file"])
 
 
 def card(acc, h, k, shown):
@@ -79,12 +103,18 @@ def card(acc, h, k, shown):
     if cid in cards:
         return cid
     c = {"h": h, "p": shown, "a": acc}
-    row = con.execute("SELECT id, source, pinyin, level, mandarin, english, category, cognate FROM entry "
+    row = con.execute("SELECT id, source, pinyin, level, mandarin, english, category, cognate, src_id FROM entry "
                       "WHERE hanzi=? AND pkey=? AND accent=? AND source IN ('kaga115','kaga') "
                       "ORDER BY source='kaga115' DESC LIMIT 1", (h, k, acc)).fetchone()
     eid = None
     if row:
-        eid, src, p, lvl, mand, en, cat, cog = row
+        eid, src, p, lvl, mand, en, cat, cog, sid = row
+        clip = CLIPS.get(f"{acc}|{sid}") if src == "kaga115" else None
+        if clip:
+            for kk, fld in (("w", "clip"), ("x", "exclip")):
+                f = clip.get(kk) and take("clips/" + clip[kk])
+                if f:
+                    c[fld] = f
         c.update(src=src, p=p or shown)
         if lvl:
             c["lvl"] = lvl
@@ -115,10 +145,10 @@ def card(acc, h, k, shown):
                          "ORDER BY (accent=?) DESC, id LIMIT 1", (eid, acc)).fetchone()
         if ex:
             c["ex"] = {k2: v for k2, v in zip(("h", "p", "m", "en"), ex) if v}
-        if HAS_CLIPS:
-            for kind, path in con.execute("SELECT kind, path FROM audio_clip WHERE entry_id=? AND accent=?", (eid, acc)):
-                if os.path.exists(os.path.join(AUDIO, "clips", path)):
-                    c["clip" if kind == "word" else "exclip"] = "audio/clips/" + path
+    if not c.get("clip") and (acc, h, k) in TTS_WORDS:      # no recording: the synthetic voice of the new word
+        f = take("tts/" + TTS_WORDS[(acc, h, k)])
+        if f:
+            c["clip"], c["synth"] = f, 1
     cards[cid] = c
     return cid
 
@@ -228,9 +258,9 @@ for d in raw:
             blk = block(ln.get(b), acc, names, known if b == "sx" else set())
             if blk:
                 o[b] = blk
-                a = os.path.join(AUDIO, "tts", acc, f"{lid_str(d)}-{ln['n']:02d}.m4a")
-                if os.path.exists(a):
-                    blk["audio"] = os.path.relpath(a, DIST)
+                a = tts_file(f"{acc}/{lid_str(d)}-{ln['n']:02d}.m4a")
+                if a:
+                    blk["audio"] = a
         if ln.get("check"):
             o["check"] = 1
         if ln.get("source"):
@@ -247,18 +277,24 @@ for d in raw:
         nw.append(o)
     ex = []
     for kind, items in (d.get("exercises") or {}).items():
-        for it in items or []:
+        for j, it in enumerate(items or [], 1):
             o = {"kind": kind, "en": it.get("en", "")}
             for b, acc in ACC.items():
                 blk = block(it.get(b), acc, names, known if b == "sx" else set(), ("answer", "answer_hanzi"))
                 if blk:
+                    a = tts_file(f"{acc}/ex/{lid_str(d)}-{kind[0]}{j:02d}.m4a")
+                    if a:
+                        blk["audio"] = a
                     o[b] = blk
             ex.append(o)
     t = d["title"]
     title = {"en": t.get("en", "")}
-    for b in ACC:
+    for b, acc in ACC.items():
         if t.get(b):
             title[b] = {"h": t[b]["hanzi"], "p": t[b]["pinyin"]}
+            a = tts_file(f"{acc}/{lid_str(d)}-00.m4a")
+            if a:
+                title[b]["audio"] = a
     lessons.append({"id": d["_lid"], "p2": d["_p2"], "title": title, "review": bool(d.get("review")),
                     "genre": d.get("genre", "dialogue"), "setting": d.get("setting", ""), "lines": lines,
                     "notes": [{"ref": n.get("ref", 0), "topic": n.get("topic", ""), "text": n.get("text", "")}
@@ -348,6 +384,15 @@ os.makedirs(DIST, exist_ok=True)
 out = os.path.join(DIST, "index.html")
 html = tpl.replace("/*__DATA__*/null", payload.replace("<", "\\u003c"))
 open(out, "w", encoding="utf-8").write(unicodedata.normalize("NFC", html))
+# ---------- copy the audio the app uses
+import shutil  # noqa: E402
+for rel in sorted(USED):
+    dst = os.path.join(AUDIO, rel)
+    if not os.path.exists(dst):
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        shutil.copy2(os.path.join(AUDIO_SRC, rel), dst)
+n_lines = sum(1 for L in lessons for ln in L["lines"] for b in ACC if ln.get(b, {}).get("audio"))
+print(f"audio: {len(USED)} files from {AUDIO_SRC if USED else 'nowhere (no Hkka-audio checkout)'}, {n_lines} lines voiced")
 n_tok = sum(1 for L in lessons for ln in L["lines"] for b in ACC if b in ln for t in ln[b]["t"] if "w" in t)
 n_card = sum(1 for L in lessons for ln in L["lines"] for b in ACC if b in ln for t in ln[b]["t"] if t.get("w", {}).get("id"))
 n_whole = sum(1 for L in lessons for ln in L["lines"] for b in ACC if b in ln if len(ln[b]["t"]) == 1 and "x" in ln[b]["t"][0])

@@ -50,8 +50,17 @@ jobs:
           make lint
           make test
 
+      # recordings and synthetic voice (public repo, two licences: see its README); the app copies what it uses
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          repository: tbrapor-arch/Hkka-audio
+          path: Hkka-audio
+          persist-credentials: false
+
       - name: App
         run: make app
+        env:
+          HKKA_AUDIO: ${{ github.workspace }}/Hkka-audio
 
       - name: Site (installable app, icon, full screen, offline)
         run: python3 -I tools/site.py _site

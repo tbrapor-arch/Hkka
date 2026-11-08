@@ -35,9 +35,10 @@ HAKKA_PRIVATE=../Hkka-private make db   # also load the private Glossika sentenc
 `.github/workflows/pages.yml` builds it from the open sources and publishes it on GitHub Pages
 (https://tbrapor-arch.github.io/Hkka/), where it can be installed on a phone's home screen.
 Lessons (Part 1 in Sixian and Hailu, 進修 in Sixian), tap-a-word cards from the lists and the MOE dictionary,
-notes, exercises, a Leitner word-card practice, progress saved in the browser. Audio is not in the public build yet:
-the 客委會 clips and the synthetic lesson voice live in Hkka-private (`tools/build_app.py` picks them up from
-`app/dist/audio/` when present).
+notes, exercises, a Leitner word-card practice, progress saved in the browser. Audio comes from the public repo
+[Hkka-audio](https://github.com/tbrapor-arch/Hkka-audio): the 客委會 recordings of the list words and their examples,
+and the synthetic voice (VoxHakka, CC BY-NC 4.0) of titles, lines, exercise answers and words without a recording.
+Clone it next to this repo (or set `HKKA_AUDIO`) and `make app` copies the files the app uses into `app/dist/audio/`.
 
 ## What the database gives you
 - 15,456 MOE dictionary readings with all six Taiwanese accents, definitions, part of speech, example sentences
