@@ -118,9 +118,9 @@ dialogue:
   sx: {hanzi: 社會變當多，毋過隔壁鄰舍還係隔壁鄰舍。, pinyin: 'sa fi bien dongˊ doˊ, mˇ go gagˋ biagˋ linˇ sa hanˇ he gagˋ biagˋ linˇ sa.'}
 - n: 23
   speaker: 主播
-  en: 'Fifth: the main road on 中正路 was closed half a day for repairs, and cars could use it again from this afternoon.'
-  sx: {hanzi: 第五條：中正路个大路修理半日，今晡日下晝車仔重新過得吔。, pinyin: 'ti ngˋ tiauˇ: zungˊ ziin lu ge tai lu xiuˊ liˊ ban ngidˋ, gimˊ buˊ ngidˋ
-      haˊ zu qiungˇ xinˊ koiˊ fong.'}
+  en: 'Fifth: the main road on 中正路 was under repair for half a day; since this afternoon cars can get through again.'
+  sx: {hanzi: 第五條：中正路个大路修理半日，今晡日下晝車仔重新過得吔。, pinyin: 'ti ngˋ tiauˇ: zungˊ ziin lu ge tai lu xiuˊ liˊ ban ngidˋ, gimˊ buˊ
+      ngidˋ haˊ zu caˊ eˋ qiungˇ xinˊ go dedˋ leˊ.'}
 - n: 24
   speaker: 記者
   en: The man in charge says the cement isn't dry yet, so drive slowly.
