@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: 阿英
     en: "'No face, no eyes.' …For me, it was your speech. Not only did you come third: you even made Grandpa say 'not bad'."
-    sx: {hanzi: "「無面無目。」……𠊎係你个演講。你毋單淨得著第三名，甚至阿公乜講「會做得」。", pinyin: "moˇ mien moˇ mugˋ. … ngaiˇ he nˇ ge ienˊ gongˋ. nˇ mˇ danˊ qiang dedˋ doˋ ti samˊ miangˇ, siimˋ zii aˊ gungˊ me gongˋ voi zo dedˋ."}
-    hl: {hanzi: "「無面無目。」……𠊎係你个演講。你毋單淨得著第三名，甚至阿公乜講「會做得」。", pinyin: "mo mienˇ mo mug. … ngai heˇ ngi gaiˇ rhanˋ gongˊ. ngi m danˋ ciang+ ded doˊ ti+ samˋ miang, shimˊ zhiˇ a+ gungˋ meˇ gongˊ voi+ zoˇ ded."}
+    sx: {hanzi: "「無面無目。」……𠊎盡中意个係你个演講。你毋單淨得著第三名，甚至阿公乜講「會做得」。", pinyin: "moˇ mien moˇ mugˋ. … ngaiˇ qin zung i ge he nˇ ge ienˊ gongˋ. nˇ mˇ danˊ qiang dedˋ doˋ ti samˊ miangˇ, siimˋ zii aˊ gungˊ me gongˋ voi zo dedˋ."}
+    hl: {hanzi: "「無面無目。」……𠊎盡中意个係你个演講。你毋單淨得著第三名，甚至阿公乜講「會做得」。", pinyin: "mo mienˇ mo mug. … ngai cin+ zhungˇ rhiˇ gaiˇ heˇ ngi gaiˇ rhanˋ gongˊ. ngi m danˋ ciang+ ded doˊ ti+ samˋ miang, shimˊ zhiˇ a+ gungˋ meˇ gongˊ voi+ zoˇ ded."}
     check: true
   - n: 6
     speaker: Sam
@@ -59,8 +59,8 @@ dialogue:
   - n: 10
     speaker: Sam
     en: "Then I'll say it: I'll miss you. I'll miss all of you."
-    sx: {hanzi: "恁樣𠊎講：𠊎會盡想你。會想你兜全部。", pinyin: "anˋ ngiongˇ ngaiˇ gongˋ: ngaiˇ voi qin xiongˋ nˇ. voi xiongˋ nˇ deuˊ qionˇ pu."}
-    hl: {hanzi: "恁樣𠊎講：𠊎會盡想你。會想你兜全部。", pinyin: "an ngiong ngai gongˊ: ngai voi+ cin+ siongˊ ngi. voi+ siongˊ ngi deuˋ cion pu+."}
+    sx: {hanzi: "恁樣𠊎講：𠊎會盡想你。你兜全部𠊎都會想。", pinyin: "anˋ ngiongˇ ngaiˇ gongˋ: ngaiˇ voi qin xiongˋ nˇ. nˇ deuˊ qionˇ pu ngaiˇ du voi xiongˋ."}
+    hl: {hanzi: "恁樣𠊎講：𠊎會盡想你。你兜全部𠊎都會想。", pinyin: "an ngiong ngai gongˊ: ngai voi+ cin+ siongˊ ngi. ngi deuˋ cion pu+ ngai du+ voi+ siongˊ."}
     check: true
   - n: 11
     speaker: 阿英
@@ -86,8 +86,8 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      毋單淨…甚至… (lessons 93–94), 得著第三名 (lessons 66, 94), 會做得 (lessons 67, 94). 𠊎係你个演講 "for me it was your
-      speech": 係 links the topic and the answer, marked for a check.
+      毋單淨…甚至… (lessons 93–94), 得著第三名 (lessons 66, 94), 會做得 (lessons 67, 94). 𠊎盡中意个係你个演講 "what I
+      liked best was your speech": 盡 "most" here, 中意 "like" (lesson 93), 个 + 係 for "the one I…, is…".
   - ref: 6
     topic: grammar
     text: >
@@ -104,8 +104,8 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu this batch: 明年 for 過忒年, 最尾 for 盡尾, 該當時 for 該央時, 安𧩣 for 阿𧩣, 鼻空 for 鼻公空, 承蒙 for 恁仔細,
-      and 最 in 最重要 where the Hailu word list has it.
+      Hailu this batch: 明年 for 過忒年 (Hailu has 過忒年 too, and Sixian examples have 明年), 最尾 for 盡尾, 該當時 for
+      該央時, 安𧩣 for 阿𧩣, 鼻空笐 for 鼻公空, 承蒙 for 恁仔細; and 盡 shared, as in 盡重要.
 
 new_words: []
 

@@ -1,11 +1,11 @@
 id: 97
 title:
   en: "One year later"
-  sx: {hanzi: "一年前个今晡日", pinyin: "idˋ ngienˇ qienˇ ge gimˊ buˊ ngidˋ"}
-  hl: {hanzi: "一年前个今晡日", pinyin: "rhid ngien cien gaiˇ gimˋ buˋ ngid"}
+  sx: {hanzi: "一年前，你就在這位落車", pinyin: "idˋ ngienˇ qienˇ, nˇ qiu coiˊ iaˋ vi log caˊ"}
+  hl: {hanzi: "一年前，你就在這位落車", pinyin: "rhid ngien cien, ngi ciu+ coiˋ liaˊ vui+ logˋ chaˋ"}
 review: false
 setting: >-
-  苗栗 station, Friday 26 November, the evening: a year to the day after lesson 1. Sam takes the evening train to
+  苗栗 station, Friday 26 November, the evening: a year after lesson 1. Sam takes the evening train to
   Taipei with A-in, who is seeing him to the airport tomorrow. The whole family has come to the platform. Cover the
   English and read lesson 1 again first: the first lines here answer it line for line.
 names: [苗栗, 阿明, 阿英, 劉, 劉家, 法國]
@@ -13,9 +13,9 @@ names: [苗栗, 阿明, 阿英, 劉, 劉家, 法國]
 dialogue:
   - n: 1
     speaker: 阿英
-    en: "Sam, a year ago today, you got off the train right here."
-    sx: {hanzi: "Sam，一年前个今晡日，你就在這位落車。", pinyin: "Sam, idˋ ngienˇ qienˇ ge gimˊ buˊ ngidˋ, nˇ qiu coiˊ iaˋ vi log caˊ."}
-    hl: {hanzi: "Sam，一年前个今晡日，你就在這位落車。", pinyin: "Sam, rhid ngien cien gaiˇ gimˋ buˋ ngid, ngi ciu+ coiˋ liaˊ vui+ logˋ chaˋ."}
+    en: "Sam, a year ago, you got off the train right here."
+    sx: {hanzi: "Sam，一年前，你就在這位落車。", pinyin: "Sam, idˋ ngienˇ qienˇ, nˇ qiu coiˊ iaˋ vi log caˊ."}
+    hl: {hanzi: "Sam，一年前，你就在這位落車。", pinyin: "Sam, rhid ngien cien, ngi ciu+ coiˋ liaˊ vui+ logˋ chaˋ."}
   - n: 2
     speaker: Sam
     en: "I remember. You said, 'Welcome to Miaoli!', and I said, 'Thank you, A-in!'"
@@ -75,9 +75,9 @@ dialogue:
     check: true
   - n: 13
     speaker: Sam
-    en: "I will. I'll keep in touch with you all, every week. Actually… I don't want to go."
-    sx: {hanzi: "𠊎會。𠊎會逐禮拜同你兜聯絡。其實……𠊎毋想走。", pinyin: "ngaiˇ voi. ngaiˇ voi dagˋ liˊ bai tungˇ nˇ deuˊ lienˇ log. kiˇ siid … ngaiˇ mˇ xiongˋ zeuˋ."}
-    hl: {hanzi: "𠊎會。𠊎會逐禮拜摎你兜聯絡。其實……𠊎毋想走。", pinyin: "ngai voi+. ngai voi+ dag liˋ baiˇ lauˋ ngi deuˋ lien logˋ. ki shidˋ … ngai m siongˊ zeuˊ."}
+    en: "I will. I'll keep in touch with you all, every week. Actually… before, I had never been to Miaoli; now I can't bear to leave."
+    sx: {hanzi: "𠊎會。𠊎會逐禮拜同你兜聯絡。其實……頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走。", pinyin: "ngaiˇ voi. ngaiˇ voi dagˋ liˊ bai tungˇ nˇ deuˊ lienˇ log. kiˇ siid … teuˇ baiˋ ngaiˇ mˇ siidˋ loiˇ go meuˇ lidˋ; iaˋ ha, ngaiˇ mˇ pan dedˋ zeuˋ."}
+    hl: {hanzi: "𠊎會。𠊎會逐禮拜摎你兜聯絡。其實……頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走。", pinyin: "ngai voi+. ngai voi+ dag liˋ baiˇ lauˋ ngi deuˋ lien logˋ. ki shidˋ … teu baiˊ ngai m shid loi goˇ miau lid; liaˊ ha+, ngai m panˇ ded zeuˊ."}
   - n: 14
     speaker: 阿英
     en: "It's settled, then: next year, in spring, I'm coming to France. Wait for me at the station."
@@ -119,7 +119,7 @@ notes:
   - ref: 1
     topic: grammar
     text: >
-      一年前个今晡日 "a year ago today": time phrase + 个 + 今晡日. Lesson 1's first line was 歡迎來苗栗！: here it is quoted
+      一年前 "a year ago": number + 年 + 前, as in Mandarin. Lesson 1's first line was 歡迎來苗栗！: here it is quoted
       back. 落車 "get off (a train, a bus)": 落 "down" (lesson 9) + 車.
   - ref: 3
     topic: grammar
@@ -140,7 +140,7 @@ notes:
     topic: vocab
     text: >
       生份 sangˊ fun "unfamiliar, strangers" (dictionary: 陌生) and its opposite, 熟事 sug sii "well acquainted" (熟識). Mr
-      Liu's line is a pair: 一年前…都還生份；這下…都熟事了. 頭擺 / 這下 again, with 了 for the change.
+      Liu's line is a pair: 一年前…都還生份；這下…都熟事了, with 了 for the change (頭擺 / 這下 come in line 13).
   - ref: 10
     topic: vocab
     text: >
@@ -160,7 +160,9 @@ notes:
     topic: vocab
     text: >
       聯絡 lienˇ log "keep in touch": the official example warns 自從畢業以後，佢摎同學緊來緊少聯絡 "since graduating he has
-      kept in touch with his classmates less and less". 其實 kiˇ siid "actually, in fact".
+      kept in touch with his classmates less and less". 其實 kiˇ siid "actually, in fact". Then the year in one sentence:
+      頭擺𠊎毋識來過苗栗；這下，𠊎毋盼得走 "before, I had never been to Miaoli; now I can't bear to leave": 頭擺 / 這下
+      "then / now", 毋識 + V過 "never (have done)" (lesson 37; MOE 𠊎從來毋識來過臺南), 毋盼得 (lesson 96).
   - ref: 14
     topic: vocab
     text: >
@@ -224,8 +226,8 @@ exercises:
       sx: {hanzi: "這擺出門當順利，總算到了。", pinyin: "iaˋ baiˋ cudˋ munˇ dongˊ sun li, zungˋ son do leˊ."}
       hl: {hanzi: "這擺出門當順利，總算到了。", pinyin: "liaˊ baiˊ chud mun dongˋ shun+ li+, zungˊ sonˇ doˇ leˋ."}
     - en: "A year ago I didn't know how to speak Hakka; now I can."
-      sx: {hanzi: "一年前𠊎毋識講客話，這下𠊎識了。", pinyin: "idˋ ngienˇ qienˇ ngaiˇ mˇ siidˋ gongˋ hagˋ fa, iaˋ ha ngaiˇ siidˋ leˊ."}
-      hl: {hanzi: "一年前𠊎毋識講客話，這下𠊎識了。", pinyin: "rhid ngien cien ngai m shid gongˊ hag voiˋ, liaˊ ha+ ngai shid leˋ."}
+      sx: {hanzi: "一年前𠊎毋會講客話，這下𠊎會講了。", pinyin: "idˋ ngienˇ qienˇ ngaiˇ mˇ voi gongˋ hagˋ fa, iaˋ ha ngaiˇ voi gongˋ leˊ."}
+      hl: {hanzi: "一年前𠊎毋會講客話，這下𠊎會講了。", pinyin: "rhid ngien cien ngai m voi+ gongˊ hag voiˋ, liaˊ ha+ ngai voi+ gongˊ leˋ."}
       check: true
   fill:
     - en: "A year ago we were strangers; now we know each other well."

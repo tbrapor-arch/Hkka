@@ -6,7 +6,7 @@ title:
 review: false
 setting: >-
   Wednesday 24 November, the evening. Sam leaves on Friday. His suitcase is open on the bed in the room he has
-  slept in for a year; Grandma has come in without knocking and is folding his clothes, badly pleased with how he
+  slept in for a year; Grandma has come in without knocking and is folding his clothes, displeased with how he
   does it himself.
 names: [法國, 阿英, 苗栗, 阿明]
 
@@ -18,14 +18,14 @@ dialogue:
     hl: {hanzi: "Sam，衫褲𠊎摎你摺好了。", pinyin: "Sam, samˋ fuˇ ngai lauˋ ngi zhab hoˊ leˋ."}
   - n: 2
     speaker: Sam
-    en: "Grandma, I can do it myself…"
-    sx: {hanzi: "阿婆，𠊎自家來就好……", pinyin: "aˊ poˇ, ngaiˇ qi gaˊ loiˇ qiu hoˋ …"}
-    hl: {hanzi: "阿婆，𠊎自家來就好……", pinyin: "a+ po, ngai cid gaˋ loi ciu+ hoˊ …"}
+    en: "Grandma, I can do it myself… And there's no need to take a quilt: France has them."
+    sx: {hanzi: "阿婆，𠊎自家來就好……被毋使帶，法國有。", pinyin: "aˊ poˇ, ngaiˇ qi gaˊ loiˇ qiu hoˋ … piˊ mˇ siiˋ dai, fabˋ guedˋ iuˊ."}
+    hl: {hanzi: "阿婆，𠊎自家來就好……被毋使帶，法國有。", pinyin: "a+ po, ngai cid gaˋ loi ciu+ hoˊ … piˋ m siiˊ daiˇ, fab gued rhiuˋ."}
   - n: 3
     speaker: 阿婆
-    en: "You fold them badly. And the suitcase is full: don't put anything else in."
-    sx: {hanzi: "你摺毋好。皮箱既經淰了，莫再放。", pinyin: "nˇ zabˋ mˇ hoˋ. piˇ xiongˊ gi ginˊ nemˊ leˊ, mog zai biong."}
-    hl: {hanzi: "你摺毋好。皮箱既經淰了，莫再放。", pinyin: "ngi zhab m hoˊ. pi siongˋ giˇ ginˋ nemˋ leˋ, mogˋ zaiˇ biongˇ."}
+    en: "You fold them badly, and you won't let Grandma do it. And the suitcase is full: don't put anything else in."
+    sx: {hanzi: "你摺毋好，又毋肯分阿婆摺。皮箱既經淰了，莫再放。", pinyin: "nˇ zabˋ mˇ hoˋ, iu mˇ henˋ bunˊ aˊ poˇ zabˋ. piˇ xiongˊ gi ginˊ nemˊ leˊ, mog zai biong."}
+    hl: {hanzi: "你摺毋好，又毋肯分阿婆摺。皮箱既經淰了，莫再放。", pinyin: "ngi zhab m hoˊ, rhiu+ m henˊ bunˋ a+ po zhab. pi siongˋ giˇ ginˋ nemˋ leˋ, mogˋ zaiˇ biongˇ."}
     check: true
   - n: 4
     speaker: 阿婆
@@ -35,9 +35,9 @@ dialogue:
     check: true
   - n: 5
     speaker: Sam
-    en: "It's so heavy…"
-    sx: {hanzi: "恁重……", pinyin: "anˋ cungˊ …"}
-    hl: {hanzi: "恁重……", pinyin: "anˊ chungˋ …"}
+    en: "It's so heavy… all my things won't fit."
+    sx: {hanzi: "恁重……所有个東西都放毋落了。", pinyin: "anˋ cungˊ … soˋ iuˊ ge dungˊ xiˊ du biong mˇ log leˊ."}
+    hl: {hanzi: "恁重……所有个東西都放毋落了。", pinyin: "anˊ chungˋ … soˊ rhiuˋ gaiˇ dungˋ siˋ du+ biongˇ m logˋ leˋ."}
   - n: 6
     speaker: 阿婆
     en: "Heavy, my foot! And here's this photo: Grandpa and me, fifty years ago."
@@ -53,7 +53,6 @@ dialogue:
     en: "He had another one printed for you, on the quiet. Don't tell him I told you."
     sx: {hanzi: "佢偷偷仔同你洗一張。莫講係𠊎講个。", pinyin: "giˇ teuˊ teuˊ eˋ tungˇ nˇ seˋ idˋ zongˊ. mog gongˋ he ngaiˇ gongˋ ge."}
     hl: {hanzi: "佢偷偷仔摎你洗一張。莫講係𠊎講个。", pinyin: "gi teuˋ teuˋ er lauˋ ngi seˊ rhid zhongˋ. mogˋ gongˊ heˇ ngai gongˊ gaiˇ."}
-    check: true
   - n: 9
     speaker: 阿婆
     en: "A year gone so fast, it feels like no time at all. When you've gone, the house will be dead quiet. Grandma will be lonely."
@@ -91,14 +90,14 @@ dialogue:
     hl: {hanzi: "第三，愛轉來。", pinyin: "ti+ samˋ, oiˇ zhonˊ loi."}
   - n: 16
     speaker: Sam
-    en: "I'll come back. Absolutely."
-    sx: {hanzi: "𠊎會轉來。絕對會。", pinyin: "ngaiˇ voi zonˋ loiˇ. qied dui voi."}
-    hl: {hanzi: "𠊎會轉來。絕對會。", pinyin: "ngai voi+ zhonˊ loi. ciedˋ duiˇ voi+."}
+    en: "I'll come back. Absolutely. The world is so big, but there's only one Miaoli."
+    sx: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngaiˇ voi zonˋ loiˇ. qied dui voi. sii gie anˋ tai, mˇ go meuˇ lidˋ qiu idˋ zagˋ tin tin."}
+    hl: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngai voi+ zhonˊ loi. ciedˋ duiˇ voi+. sheˇ gaiˇ anˊ tai+, m goˇ miau lid ciu+ rhid zhag tin+ tin+."}
   - n: 17
     speaker: 阿婆
-    en: "(patting his back, her eyes wet) Good, good. Off to bed."
-    sx: {hanzi: "好，好。去睡目。", pinyin: "hoˋ, hoˋ. hi soi mugˋ."}
-    hl: {hanzi: "好，好。去睡目。", pinyin: "hoˊ, hoˊ. hiˇ shoi+ mug."}
+    en: "(her eyes wet) Come here, let Grandma pat your back. Good, good. Off to bed."
+    sx: {hanzi: "來，阿婆拍你个背囊。好，好。去睡目。", pinyin: "loiˇ, aˊ poˇ pogˋ nˇ ge boi nongˇ. hoˋ, hoˋ. hi soi mugˋ."}
+    hl: {hanzi: "來，阿婆拍你个背囊。好，好。去睡目。", pinyin: "loi, a+ po pog ngi gaiˇ boiˇ nong. hoˊ, hoˊ. hiˇ shoi+ mug."}
 
 notes:
   - ref: 1
@@ -115,7 +114,7 @@ notes:
     topic: culture
     text: >
       鹹菜 hamˇ coi is not "salted vegetables" in general but the Hakka pickled mustard greens (dictionary: 酸菜), made
-      from the 芥菜 of lesson 8 and dried in winter; 罐仔 gon eˋ "jar, bottle". 慢慢仔食 "eat it slowly, make it last".
+      from the 芥菜 of lesson 8 (how it is made is general knowledge; kaga just says 酸菜); 罐仔 gon eˋ "jar, bottle". 慢慢仔食 "eat it slowly, make it last".
   - ref: 6
     topic: grammar
     text: >
@@ -125,7 +124,7 @@ notes:
     topic: vocab
     text: >
       偷偷仔 "on the quiet" (lesson 46). 洗一張 "have a print made": 洗 "wash" is the photographer's verb, as in Mandarin
-      洗照片; marked for a check. 莫講係𠊎講个 "don't say I told you": 係…个 once more.
+      洗照片, and attested: kaga115 翕相館乜做得洗相片. 莫講係𠊎講个 "don't say I told you": 係…个 once more.
   - ref: 9
     topic: grammar
     text: >
@@ -140,7 +139,9 @@ notes:
   - ref: 11
     topic: culture
     text: >
-      過忒年 go tedˋ ngienˇ "next year" (Hailu 明年 mang ngien): the Sixian word list has no 明年. 阿婆毋管 "Grandma won't interfere": the promise of lesson 42, kept, more or less. The thread of A-in and Sam
+      過忒年 go tedˋ ngienˇ "next year; after the New Year" (kaga115: 明年；過年後、過完春節), in Hailu too (阿美過忒年就愛嫁咧);
+      the Hailu column here has 明年. 明年 miangˇ ngienˇ is Sixian as well: no Sixian list entry, but MOE has it and
+      kaga115 examples use it (佢計畫明年出國尞). 阿婆毋管 "Grandma won't interfere": the promise of lesson 42, kept, more or less. The thread of A-in and Sam
       ends where the course leaves it: a visit to France next year.
   - ref: 12
     topic: vocab

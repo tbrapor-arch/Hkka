@@ -138,3 +138,16 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - 頭先: "just now" in kaga115, but kaga (2013) also gives 最初 "at first". Prefer 一開始 for "at first", and don't claim 頭先 is "always" one thing.
 - Before claiming anything about a character's previous lines (longest, first, never), grep them.
 - "Not in the data" claims: also search the MOE definitions (四縣 → 嘉應州, 原鄉 in kaga).
+
+## Added after the batch 14 review
+- `source:` names the table that actually holds the sentence: kaga115 (has recordings), kaga (2013), moe (dictionary
+  examples, no recording) or sentence (客語百句). Run the check before committing: every `source:` line's Sixian hanzi
+  must be in that table word for word; a shortened quote gets `abridged: true`. MOE examples are often Sixian only:
+  say so when the Hailu column is the course's version.
+- 明年 is Sixian too (MOE miangˇ ngienˇ; kaga115 examples), though not a Sixian list entry; 過忒年 means "next year" and
+  also "after New Year", in both accents.
+- 識 means "know (a person, a word)" and "ever (have done)"; "can, know how to" is 會. 毋識講客話 = "had never spoken".
+- 師傅話: quote kaga115 where it has the saying (十二月甘蔗－兩頭甜; Hailu 三隻鼻空笐), kaga or MOE otherwise, and say
+  which; only call a saying an entry if it is one.
+- Hailu shares 盡 (盡重要 8 : 最重要 1). Write it in both columns.
+- ABAB (烏陰烏陰, 好勢好勢) and AABB (清清楚楚): lint now accepts AABB of a listed word.
