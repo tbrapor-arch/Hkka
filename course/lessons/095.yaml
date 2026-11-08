@@ -1,0 +1,220 @@
+id: 95
+title:
+  en: "Harvest"
+  sx: {hanzi: "食空空，好年冬", pinyin: "siid kungˊ kungˊ, hoˋ ngienˇ dungˊ"}
+  hl: {hanzi: "食空空，好年冬", pinyin: "shidˋ kungˋ kungˋ, hoˊ ngien dungˋ"}
+review: false
+setting: >-
+  Saturday 6 November, the second rice harvest. Mr Liu has hired a harvester for the paddy below the house; the
+  whole family is out, Grandpa on a stool at the edge of the field. Three weeks before Sam leaves.
+names: [法國]
+
+dialogue:
+  - n: 1
+    speaker: 阿爸
+    en: "Fine weather today. The harvester's coming at ten to cut the rice."
+    sx: {hanzi: "今晡日好天，割禾機十點會來割禾。", pinyin: "gimˊ buˊ ngidˋ hoˋ tienˊ, godˋ voˇ giˊ siib diamˋ voi loiˇ godˋ voˇ."}
+    hl: {hanzi: "今晡日好天，割禾機十點會來割禾。", pinyin: "gimˋ buˋ ngid hoˊ tienˋ, god vo giˋ shibˋ diamˊ voi+ loi god vo."}
+  - n: 2
+    speaker: Sam
+    en: "That fast? It'll be cut in no time?"
+    sx: {hanzi: "恁遽？一下仔就割忒了？", pinyin: "anˋ giagˋ? idˋ ha eˋ qiu godˋ tedˋ leˊ?"}
+    hl: {hanzi: "恁遽？一下仔就割忒了？", pinyin: "anˊ giag? rhid ha+ er ciu+ god ted leˋ?"}
+  - n: 3
+    speaker: 阿爸
+    en: "With a harvester, farmers save a lot of time and strength."
+    sx: {hanzi: "這下有割禾機，農民省當多時間摎體力。", pinyin: "iaˋ ha iuˊ godˋ voˇ giˊ, nungˇ minˇ sangˋ dongˊ doˊ siiˇ gienˊ lauˊ tiˋ lid."}
+    hl: {hanzi: "這下有割禾機，農民省當多時間摎體力。", pinyin: "liaˊ ha+ rhiuˋ god vo giˋ, nung min sangˊ dongˋ doˋ shi gienˋ lauˋ tiˊ lidˋ."}
+  - n: 4
+    speaker: 阿公
+    en: "In the early days, people threshed with a threshing tub and dried the grain by hand."
+    sx: {hanzi: "早期个人割禾，用斛桶打穀，用人工晒穀。", pinyin: "zoˋ kiˇ ge nginˇ godˋ voˇ, iung fug tungˋ daˋ gugˋ, iung nginˇ gungˊ sai gugˋ."}
+    hl: {hanzi: "早期个人割禾，用斛桶打穀，用人工晒穀。", pinyin: "zoˊ ki gaiˇ ngin god vo, rhung+ fugˋ tungˊ daˊ gug, rhung+ ngin gungˋ saiˇ gug."}
+    check: true
+  - n: 5
+    speaker: 阿婆
+    en: "In those days the whole family went down to the fields, and we cut till our shoulders ached."
+    sx: {hanzi: "該央時，一家大細全落田，割到肩頭都痛。", pinyin: "ge iongˊ siiˇ, idˋ gaˊ tai se qionˇ log tienˇ, godˋ do gienˊ teuˇ du tung."}
+    hl: {hanzi: "該當時，一家大細全落田，割到肩頭都痛。", pinyin: "gai dongˋ shi, rhid gaˋ tai+ seˇ cion logˋ tien, god doˇ gienˋ teu du+ tungˇ."}
+    check: true
+  - n: 6
+    speaker: 阿明
+    en: "Grandpa, Grandma, you've got such good memories: things from fifty years ago, you remember them clearly."
+    sx: {hanzi: "阿公、阿婆，你兜个記才恁好，五十年前个事情都記到清清楚楚。", pinyin: "aˊ gungˊ, aˊ poˇ, nˇ deuˊ ge gi coiˇ anˋ hoˋ, ngˋ siib ngienˇ qienˇ ge sii qinˇ du gi do qinˊ qinˊ cuˋ cuˋ."}
+    hl: {hanzi: "阿公、阿婆，你兜个記才恁好，五十年前个事情都記到清清楚楚。", pinyin: "a+ gungˋ, a+ po, ngi deuˋ gaiˇ giˇ coi anˊ hoˊ, ngˊ shibˋ ngien cien gaiˇ sii+ cin du+ giˇ doˇ cinˋ cinˋ cuˊ cuˊ."}
+  - n: 7
+    speaker: 阿公
+    en: "We remember."
+    sx: {hanzi: "記得。", pinyin: "gi dedˋ."}
+    hl: {hanzi: "記得。", pinyin: "giˇ ded."}
+  - n: 8
+    speaker: 阿姆
+    en: "(that afternoon, spreading the grain on the threshing floor) It has to be dried right through before it goes into the store."
+    sx: {hanzi: "愛在禾埕晒到燥燥，正收入倉庫。", pinyin: "oi coiˊ voˇ tangˇ sai do zauˊ zauˊ, zang suˊ ngib congˊ ku."}
+    hl: {hanzi: "愛在禾埕晒到燥燥，正收入倉庫。", pinyin: "oiˇ coiˋ vo tang saiˇ doˇ zauˋ zauˋ, zhangˇ shiuˋ ngibˋ congˋ kuˇ."}
+    check: true
+  - n: 9
+    speaker: 阿婆
+    en: "(coming down with a basket of cans) Here, have a cold drink, everyone who's been cutting!"
+    sx: {hanzi: "來，割禾个人啉涼水！", pinyin: "loiˇ, godˋ voˇ ge nginˇ limˊ liongˇ suiˋ!"}
+    hl: {hanzi: "來，割禾个人啉涼水！", pinyin: "loi, god vo gaiˇ ngin limˋ liong shuiˊ!"}
+  - n: 10
+    speaker: Sam
+    en: "Is this a good year?"
+    sx: {hanzi: "今年係好年冬無？", pinyin: "gimˊ ngienˇ he hoˋ ngienˇ dungˊ moˇ?"}
+    hl: {hanzi: "今年係好年冬無？", pinyin: "gimˋ ngien heˇ hoˊ ngien dungˋ mo?"}
+  - n: 11
+    speaker: 阿爸
+    en: "It is. The weather's been good this year: it's a good harvest."
+    sx: {hanzi: "係。今年天時好，係隻好年冬。", pinyin: "he. gimˊ ngienˇ tienˊ siiˇ hoˋ, he zagˋ hoˋ ngienˇ dungˊ."}
+    hl: {hanzi: "係。今年天時好，係隻好年冬。", pinyin: "heˇ. gimˋ ngien tienˋ shi hoˊ, heˇ zhag hoˊ ngien dungˋ."}
+  - n: 12
+    speaker: 阿婆
+    en: "'Eat your bowl clean, and the year will be good.' Sam, every grain in your bowl."
+    sx: {hanzi: "食空空，好年冬。Sam，碗肚个飯粒愛食淨。", pinyin: "siid kungˊ kungˊ, hoˋ ngienˇ dungˊ. Sam, vonˋ duˋ ge fan liab oi siid qiang."}
+    hl: {hanzi: "食空空，好年冬。Sam，碗肚个飯粒愛食淨。", pinyin: "shidˋ kungˋ kungˋ, hoˊ ngien dungˋ. Sam, vonˊ duˊ gaiˇ pon+ liab oiˇ shidˋ ciang+."}
+  - n: 13
+    speaker: 阿明
+    en: "But there are fewer and fewer people farming."
+    sx: {hanzi: "毋過耕田个人緊來緊少了。", pinyin: "mˇ go gangˊ tienˇ ge nginˇ ginˋ loiˇ ginˋ seuˋ leˊ."}
+    hl: {hanzi: "毋過耕田个人緊來緊少了。", pinyin: "m goˇ gangˋ tien gaiˇ ngin ginˊ loi ginˊ shauˊ leˋ."}
+  - n: 14
+    speaker: 阿婆
+    en: "(to Sam, quietly) And when you go back to France: set out cheerful, and come back home safe."
+    sx: {hanzi: "你轉法國，愛歡歡喜喜出門，平平安安轉屋下。", pinyin: "nˇ zonˋ fabˋ guedˋ, oi fonˊ fonˊ hiˋ hiˋ cudˋ munˇ, pinˇ pinˇ onˊ onˊ zonˋ vugˋ kaˊ."}
+    hl: {hanzi: "你轉法國，愛歡歡喜喜出門，平平安安轉屋下。", pinyin: "ngi zhonˊ fab gued, oiˇ fonˋ fonˋ hiˊ hiˊ chud mun, pin pin onˋ onˋ zhonˊ vug haˋ."}
+  - n: 15
+    speaker: Sam
+    en: "Back home… to France, or here?"
+    sx: {hanzi: "轉屋下……轉法國，還係轉這位？", pinyin: "zonˋ vugˋ kaˊ … zonˋ fabˋ guedˋ, hanˇ he zonˋ iaˋ vi?"}
+    hl: {hanzi: "轉屋下……轉法國，還係轉這位？", pinyin: "zhonˊ vug haˋ … zhonˊ fab gued, han heˇ zhonˊ liaˊ vui+?"}
+  - n: 16
+    speaker: 阿婆
+    en: "Both are your home."
+    sx: {hanzi: "兩片都係你屋下。", pinyin: "liongˋ pienˋ du he nˇ vugˋ kaˊ."}
+    hl: {hanzi: "兩片都係你屋下。", pinyin: "liongˊ pienˊ du+ heˇ ngi vug haˋ."}
+    check: true
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      割禾 godˋ voˇ "harvest rice, cut the rice" (禾 is the rice plant, lesson 45); 割禾機 "harvester". 好天 hoˋ tienˊ "fine
+      weather" (dictionary: 晴天). Taiwan has two rice crops a year; this is the second.
+  - ref: 3
+    topic: grammar
+    text: >
+      From the official sentence 現下有割禾機幫助農民省去當多割禾个時間摎體力 "now the harvester saves farmers a great deal
+      of time and strength". 省 sangˋ "save" (time, money: dictionary 節省), the everyday reading; senˋ is "province".
+      農民 "farmer", 體力 tiˋ lid "physical strength".
+  - ref: 4
+    topic: culture
+    text: >
+      The official sentence, both accents: 較早（早期）个人割禾，用斛桶打穀，用人工晒穀 "in the old days people cut the rice,
+      threshed it in a threshing tub and dried the grain by hand". Grandpa uses the bracketed 早期; the line is marked
+      because it is not character for character. 斛桶 fug tungˋ "threshing tub" (dictionary: 脫穀機), 打穀 "thresh".
+  - ref: 5
+    topic: vocab
+    text: >
+      一家大細 "the whole family, young and old": 大細 tai se "big and small; one's children". 落田 "go down into the fields"
+      is the course's phrasing (the line is marked). 肩頭 gienˊ teuˇ "shoulder".
+  - ref: 6
+    topic: grammar
+    text: >
+      AABB: 清清楚楚 "very clearly", 歡歡喜喜, 平平安安 (line 14), from 清楚 (lesson 85), 歡喜 (lesson 19) and 平安 (lesson 22). A two-syllable adjective doubled syllable by syllable is
+      stronger and livelier; it often follows V到: 記到清清楚楚. The official example: 阿公个記才當好，三四十年前發生个事，
+      都記到清清楚楚. 記才 gi coiˇ "memory (the faculty)".
+  - ref: 8
+    topic: grammar
+    text: >
+      晒到燥燥 "dry it till it's bone dry": AA after V到 (lesson 45), with 燥 "dry" (lesson 54). 倉庫 "storehouse"; 穀倉 is
+      the granary (exercise). 收入 "put away into".
+  - ref: 9
+    topic: vocab
+    text: >
+      啉 limˊ "drink" (a Hakka-only word; 食 does the job too, lesson 3). 涼水 liongˇ suiˋ is a false friend: not "cold
+      water" but any cold drink, soft drinks included (dictionary: 泛指飲料). The official sentence is the scene: 下晝阿伯姆
+      擐兜涼水放在田䃗分割禾个人啉.
+  - ref: 10
+    topic: vocab
+    text: >
+      好年冬 hoˋ ngienˇ dungˊ "a good year, a good harvest". The official example: 今年無麼个天災，係隻好年冬 "there were no
+      disasters this year: it's a good harvest".
+  - ref: 12
+    topic: culture
+    text: >
+      食空空，好年冬 "eat (your bowl) empty, a good year": the official example is Grandma's own habit, 阿婆逐擺就講，食空空，
+      好年冬，愛𫣆莫浪費 "Grandma always says it, to tell us not to waste anything".
+  - ref: 13
+    topic: grammar
+    text: >
+      緊來緊少 "fewer and fewer": 緊來緊 + adjective "more and more…", the Hakka for 越來越 (lesson 58): 這幾下年緊來緊多个
+      臺商去大陸 (official). 緊來緊多 "more and more" is in the word list as a phrase.
+  - ref: 14
+    topic: grammar
+    text: >
+      An official sentence: 去旅行愛歡歡喜喜出門，平平安安轉屋下 "when you travel, set out cheerful and come home safe".
+      Grandma applies it to France. 轉屋下 "go home": and the question of line 15 is which home.
+
+new_words:
+  - {hanzi: 割禾, pinyin: "godˋ voˇ", en: "harvest rice", hl: {hanzi: 割禾, pinyin: "god vo"}}
+  - {hanzi: 好天, pinyin: "hoˋ tienˊ", en: "fine weather", hl: {hanzi: 好天, pinyin: "hoˊ tienˋ"}}
+  - {hanzi: 一下仔, pinyin: "idˋ ha eˋ", en: "in a moment, in no time", hl: {hanzi: 一下仔, pinyin: "rhid ha+ er"}}
+  - {hanzi: 農民, pinyin: "nungˇ minˇ", en: "farmer", hl: {hanzi: 農民, pinyin: "nung min"}}
+  - {hanzi: 省, pinyin: "sangˋ", en: "save (time, money)", hl: {hanzi: 省, pinyin: "sangˊ"}}
+  - {hanzi: 體力, pinyin: "tiˋ lid", en: "physical strength", hl: {hanzi: 體力, pinyin: "tiˊ lidˋ"}}
+  - {hanzi: 早期, pinyin: "zoˋ kiˇ", en: "early days, in the old days", hl: {hanzi: 早期, pinyin: "zoˊ ki"}}
+  - {hanzi: 斛桶, pinyin: "fug tungˋ", en: "threshing tub", hl: {hanzi: 斛桶, pinyin: "fugˋ tungˊ"}}
+  - {hanzi: 打穀, pinyin: "daˋ gugˋ", en: "thresh (grain)", hl: {hanzi: 打穀, pinyin: "daˊ gug"}}
+  - {hanzi: 大細, pinyin: "tai se", en: "young and old; one's children", hl: {hanzi: 大細, pinyin: "tai+ seˇ"}}
+  - {hanzi: 肩頭, pinyin: "gienˊ teuˇ", en: "shoulder", hl: {hanzi: 肩頭, pinyin: "gienˋ teu"}}
+  - {hanzi: 記才, pinyin: "gi coiˇ", en: "memory (the faculty)", hl: {hanzi: 記才, pinyin: "giˇ coi"}}
+  - {hanzi: 倉庫, pinyin: "congˊ ku", en: "storehouse", hl: {hanzi: 倉庫, pinyin: "congˋ kuˇ"}}
+  - {hanzi: 穀倉, pinyin: "gugˋ congˊ", en: "granary", hl: {hanzi: 穀倉, pinyin: "gug congˋ"}}
+  - {hanzi: 啉, pinyin: "limˊ", en: "drink", hl: {hanzi: 啉, pinyin: "limˋ"}}
+  - {hanzi: 涼水, pinyin: "liongˇ suiˋ", en: "cold drink, soft drink", hl: {hanzi: 涼水, pinyin: "liong shuiˊ"}}
+  - {hanzi: 好年冬, pinyin: "hoˋ ngienˇ dungˊ", en: "a good year, a good harvest", hl: {hanzi: 好年冬, pinyin: "hoˊ ngien dungˋ"}}
+  - {hanzi: 緊來緊多, pinyin: "ginˋ loiˇ ginˋ doˊ", en: "more and more", hl: {hanzi: 緊來緊多, pinyin: "ginˊ loi ginˊ doˋ"}}
+  - {hanzi: 機, pinyin: "giˊ", en: "machine (割禾機)", hl: {hanzi: 機, pinyin: "giˋ"}}
+  - {hanzi: 穀, pinyin: "gugˋ", en: "grain (unhusked rice)", hl: {hanzi: 穀, pinyin: "gug"}}
+  - {hanzi: 記, pinyin: "gi", en: "remember, keep in mind", hl: {hanzi: 記, pinyin: "giˇ"}}
+  - {hanzi: 工, pinyin: "gungˊ", en: "work, labour (人工 by hand)", hl: {hanzi: 工, pinyin: "gungˋ"}}
+  - {hanzi: 擔竿, pinyin: "dam gonˊ", en: "carrying pole", hl: {hanzi: 擔竿, pinyin: "damˇ gonˋ"}}
+  - {hanzi: 堆, pinyin: "doiˊ", en: "pile; heap up", hl: {hanzi: 堆, pinyin: "doiˋ"}}
+  - {hanzi: 插, pinyin: "cabˋ", en: "stick in, plant", hl: {hanzi: 插, pinyin: "cab"}}
+  - {hanzi: 落肥, pinyin: "log piˇ", en: "fertilise, put on fertiliser", hl: {hanzi: 落肥, pinyin: "logˋ pui"}}
+  - {hanzi: 金金, pinyin: "gimˊ gimˊ", en: "shining, gleaming", hl: {hanzi: 金金, pinyin: "gimˋ gimˋ"}}
+
+exercises:
+  translate:
+    - en: "In the old days they carried the grain home on a carrying pole."
+      sx: {hanzi: "頭擺个人用擔竿㧡穀轉屋下。", pinyin: "teuˇ baiˋ ge nginˇ iung dam gonˊ kaiˊ gugˋ zonˋ vugˋ kaˊ."}
+      hl: {hanzi: "頭擺个人用擔竿㧡穀轉屋下。", pinyin: "teu baiˊ gaiˇ ngin rhung+ damˇ gonˋ kaiˋ gug zhonˊ vug haˋ."}
+      check: true
+    - en: "More and more young people go to Taipei to work."
+      sx: {hanzi: "緊來緊多後生人去臺北做事。", pinyin: "ginˋ loiˇ ginˋ doˊ heu sangˊ nginˇ hi toiˇ bedˋ zo se."}
+      hl: {hanzi: "緊來緊多後生人去臺北做事。", pinyin: "ginˊ loi ginˊ doˋ heu+ sangˋ ngin hiˇ toi bed zoˇ she+."}
+    - en: "After the harvest, pile the straw up, and in spring put fertiliser on the field."
+      sx: {hanzi: "割禾過後，草堆起來；春天正落肥。", pinyin: "godˋ voˇ go heu, coˋ doiˊ hiˋ loiˇ; cunˊ tienˊ zang log piˇ."}
+      hl: {hanzi: "割禾過後，草堆起來；春天正落肥。", pinyin: "god vo goˇ heu+, coˊ doiˋ hiˊ loi; chunˋ tienˋ zhangˇ logˋ pui."}
+      check: true
+    - en: "The new rice in the granary is gleaming gold."
+      sx: {hanzi: "穀倉肚个新米黃金金。", pinyin: "gugˋ congˊ duˋ ge xinˊ miˋ vongˇ gimˊ gimˊ."}
+      hl: {hanzi: "穀倉肚个新米黃金金。", pinyin: "gug congˋ duˊ gaiˇ sinˋ miˊ vong gimˋ gimˋ."}
+      check: true
+    - en: "Stick a stick in the field so the birds stay away."
+      sx: {hanzi: "田肚插一枝棍仔，鳥仔就毋敢來。", pinyin: "tienˇ duˋ cabˋ idˋ giˊ gun eˋ, diauˊ eˋ qiu mˇ gamˋ loiˇ."}
+      hl: {hanzi: "田肚插一枝棍仔，鳥仔就毋敢來。", pinyin: "tien duˊ cab rhid giˋ gunˇ er, diauˋ er ciu+ m gamˊ loi."}
+      check: true
+  fill:
+    - en: "Have a cold drink!"
+      sx: {hanzi: "___涼水！", pinyin: "___ liongˇ suiˋ!", answer_hanzi: "啉", answer: "limˊ"}
+      hl: {hanzi: "___涼水！", pinyin: "___ liong shuiˊ!", answer_hanzi: "啉", answer: "limˋ"}
+    - en: "Fewer and fewer people farm."
+      sx: {hanzi: "耕田个人___少。", pinyin: "gangˊ tienˇ ge nginˇ ___ seuˋ.", answer_hanzi: "緊來緊", answer: "ginˋ loiˇ ginˋ"}
+      hl: {hanzi: "耕田个人___少。", pinyin: "gangˋ tien gaiˇ ngin ___ shauˊ.", answer_hanzi: "緊來緊", answer: "ginˊ loi ginˊ"}
+    - en: "He remembers it all very clearly."
+      sx: {hanzi: "佢記到___。", pinyin: "giˇ gi do ___.", answer_hanzi: "清清楚楚", answer: "qinˊ qinˊ cuˋ cuˋ"}
+      hl: {hanzi: "佢記到___。", pinyin: "gi giˇ doˇ ___.", answer_hanzi: "清清楚楚", answer: "cinˋ cinˋ cuˊ cuˊ"}
+
+audio: []
