@@ -24,6 +24,14 @@ About 430 of the 中級 words have zero Glossika and corpus frequency: expect th
 | Review loop | One brief per batch (`course/batches/PNN.md`), a fresh-agent review against the database, fixes, then the checklist is updated |
 | App | "Second notebook" after the grid of 100, as in Tsheh-tû; waits for the app |
 
+## Recycling Part 1's exercise-only words (decided 8 Nov 2026)
+`course/batches/recycle.tsv` lists the **258 words Part 1 declares but no dialogue uses**: the 106 basic words added
+in the light revision (exercises only) and older exercise-only words. Part 1 is not reopened. Instead, batches P1–P21
+reuse these words on purpose in their texts:
+- they are not new words (no `new_words` entry); a note may point back with "(lesson N)";
+- each batch brief lists the ones it picks up; aim to use every word at least once by P21;
+- regenerate the list after each batch and remove the words used.
+
 ## Genres
 Tsheh-tû's set: dialogue, article, letter, interview, tale, speech, essay, document, song, news, play, diary, debate,
 story. Hakka additions to use where the words fit:
