@@ -1,0 +1,210 @@
+id: 93
+title:
+  en: "Writing a speech"
+  sx: {hanzi: "毋單淨學客話", pinyin: "mˇ danˊ qiang hog hagˋ fa"}
+  hl: {hanzi: "毋單淨學客話", pinyin: "m danˋ ciang+ hogˋ hag voiˋ"}
+review: false
+setting: >-
+  Saturday 16 October, after lunch. A-in has entered Sam for the county Hakka speech contest (客話演講比賽), next
+  Saturday, without quite asking him first. Now they are at the kitchen table with a pad of paper. Grandma is making
+  粄 at the other end of the table and listening to every word.
+names: [南庄, 苗栗, 阿明, 龍船]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "I've signed you up. The topic's out: 'Hakka and me'."
+    sx: {hanzi: "𠊎同你報名了。題目出來了：「客話同𠊎」。", pinyin: "ngaiˇ tungˇ nˇ bo miangˇ leˊ. tiˇ mug cudˋ loiˇ leˊ: hagˋ fa tungˇ ngaiˇ."}
+    hl: {hanzi: "𠊎摎你報名了。題目出來了：「客話摎𠊎」。", pinyin: "ngai lauˋ ngi boˇ miang leˋ. ti mug chud loi leˋ: hag voiˋ lauˋ ngai."}
+  - n: 2
+    speaker: Sam
+    en: "As simple as that?"
+    sx: {hanzi: "恁簡單？", pinyin: "anˋ gienˋ danˊ?"}
+    hl: {hanzi: "恁簡單？", pinyin: "anˊ gienˊ danˋ?"}
+  - n: 3
+    speaker: 阿英
+    en: "It isn't simple. You have to speak for about five minutes, the content has to be interesting, and the sentences have to flow."
+    sx: {hanzi: "毋簡單。愛講五分鐘左右，內容愛有意思，句仔愛順。", pinyin: "mˇ gienˋ danˊ. oi gongˋ ngˋ funˊ zungˊ zoˋ iu, nui iungˇ oi iuˊ i sii, gi eˋ oi sun."}
+    hl: {hanzi: "毋簡單。愛講五分鐘左右，內容愛有意思，句仔愛順。", pinyin: "m gienˊ danˋ. oiˇ gongˊ ngˊ funˋ zhungˋ zoˊ rhiu+, nui+ rhung oiˇ rhiuˋ rhiˇ siiˇ, giˇ er oiˇ shun+."}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "I thought I'd start with the first time I came to Miaoli…"
+    sx: {hanzi: "𠊎想先寫𠊎頭一擺來苗栗个事情……", pinyin: "ngaiˇ xiongˋ xienˊ xiaˋ ngaiˇ teuˇ idˋ baiˋ loiˇ meuˇ lidˋ ge sii qinˇ …"}
+    hl: {hanzi: "𠊎想先寫𠊎頭一擺來苗栗个事情……", pinyin: "ngai siongˊ senˋ siaˊ ngai teu rhid baiˊ loi miau lid gaiˇ sii+ cin …"}
+  - n: 5
+    speaker: 阿英
+    en: "Good. You write, I'll correct it for you. Pick your topic: the first paragraph and the ending matter most."
+    sx: {hanzi: "好。你寫，𠊎同你改。主題愛選好：第一段同收尾盡重要。", pinyin: "hoˋ. nˇ xiaˋ, ngaiˇ tungˇ nˇ goiˋ. zuˋ tiˇ oi xienˋ hoˋ: ti idˋ ton tungˇ suˊ miˊ qin cung ieu."}
+    hl: {hanzi: "好。你寫，𠊎摎你改。主題愛選好：第一段摎收尾最重要。", pinyin: "hoˊ. ngi siaˊ, ngai lauˋ ngi goiˊ. zhuˊ ti oiˇ sienˊ hoˊ: ti+ rhid ton+ lauˋ shiuˋ muiˋ zuiˇ chung+ rhauˇ."}
+  - n: 6
+    speaker: Sam
+    en: "(reading out his draft) 'In Taiwan I didn't only learn Hakka: I also learnt to make 粄, to prune tea, to sing 山歌…'"
+    sx: {hanzi: "「𠊎來臺灣，毋單淨學客話，還學著做粄、剪茶、唱山歌……」", pinyin: "ngaiˇ loiˇ toiˇ vanˊ, mˇ danˊ qiang hog hagˋ fa, hanˇ hog doˋ zo banˋ, jienˋ caˇ, cong sanˊ goˊ …"}
+    hl: {hanzi: "「𠊎來臺灣，毋單淨學客話，還學著做粄、剪茶、唱山歌……」", pinyin: "ngai loi toi van, m danˋ ciang+ hogˋ hag voiˋ, han hogˋ doˊ zoˇ banˊ, zienˊ ca, chongˇ sanˋ goˋ …"}
+  - n: 7
+    speaker: 阿英
+    en: "Not bad! You could even put in the 擂茶."
+    sx: {hanzi: "會做得！甚至擂茶乜做得寫入去。", pinyin: "voi zo dedˋ! siimˋ zii luiˇ caˇ me zo dedˋ xiaˋ ngib hi."}
+    hl: {hanzi: "會做得！甚至擂茶乜做得寫入去。", pinyin: "voi+ zoˇ ded! shimˊ zhiˇ lui ca meˇ zoˇ ded siaˊ ngibˋ hiˇ."}
+  - n: 8
+    speaker: 阿婆
+    en: "(without looking up) And put in that you went up to 南庄 and didn't come down till dark!"
+    sx: {hanzi: "還有，寫你去南庄，斷烏還吂轉！", pinyin: "hanˇ iuˊ, xiaˋ nˇ hi namˇ zongˊ, tonˊ vuˊ hanˇ mangˇ zonˋ!"}
+    hl: {hanzi: "還有，寫你去南庄，斷烏還吂轉！", pinyin: "han rhiuˋ, siaˊ ngi hiˇ nam zhongˋ, tonˋ vuˋ han mang zhonˊ!"}
+  - n: 9
+    speaker: Sam
+    en: "That doesn't need to go in…"
+    sx: {hanzi: "該就毋使寫了……", pinyin: "ge qiu mˇ siiˋ xiaˋ leˊ …"}
+    hl: {hanzi: "該就毋使寫了……", pinyin: "gai ciu+ m siiˊ siaˊ leˋ …"}
+  - n: 10
+    speaker: 阿英
+    en: "My suggestion: say why you learnt it. 'For the sake of…' what?"
+    sx: {hanzi: "𠊎个建議：愛講你為著麼个學。「為著……」？", pinyin: "ngaiˇ ge gien ngi: oi gongˋ nˇ vi doˋ maˋ ge hog. vi doˋ …?"}
+    hl: {hanzi: "𠊎个建議：愛講你為著麼个學。「為著……」？", pinyin: "ngai gaiˇ gienˇ ngi+: oiˇ gongˊ ngi vui+ doˊ maˊ gaiˇ hogˋ. vui+ doˊ …?"}
+  - n: 11
+    speaker: Sam
+    en: "(after a while) At first it was for the course. Then I found out it was so I could talk to you all."
+    sx: {hanzi: "一開始係為著讀書。後來𠊎發現，原來係為著好同你兜講話。", pinyin: "idˋ koiˊ ciiˋ he vi doˋ tug suˊ. heu loiˇ ngaiˇ fadˋ hien, ngienˇ loiˇ he vi doˋ hoˋ tungˇ nˇ deuˊ gongˋ fa."}
+    hl: {hanzi: "一開始係為著讀書。後來𠊎發現，原來係為著好摎你兜講話。", pinyin: "rhid koiˋ shiˊ heˇ vui+ doˊ tugˋ shuˋ. heu+ loi ngai fad hien+, ngien loi heˇ vui+ doˊ hoˊ lauˋ ngi deuˋ gongˊ faˇ."}
+  - n: 12
+    speaker: 阿英
+    en: "(quietly) …Write that. That's the ending."
+    sx: {hanzi: "……恁樣寫。該就係收尾。", pinyin: "… anˋ ngiongˇ xiaˋ. ge qiu he suˊ miˊ."}
+    hl: {hanzi: "……恁樣寫。該就係收尾。", pinyin: "… an ngiong siaˊ. gai ciu+ heˇ shiuˋ muiˋ."}
+  - n: 13
+    speaker: Sam
+    en: "I often get the tones wrong. Will the judges hear it?"
+    sx: {hanzi: "𠊎輒常講毋對聲調，聽个人會聽得出來無？", pinyin: "ngaiˇ jiab songˇ gongˋ mˇ dui sangˊ tiau, tangˊ ge nginˇ voi tangˊ dedˋ cudˋ loiˇ moˇ?"}
+    hl: {hanzi: "𠊎輒常講毋對聲調，聽个人會聽得出來無？", pinyin: "ngai ziabˋ shong gongˊ m duiˇ shangˋ tiau+, tangˋ gaiˇ ngin voi+ tangˋ ded chud loi mo?"}
+    check: true
+  - n: 14
+    speaker: 阿英
+    en: "They will. But it isn't standard Hakka they want to hear: it's Hakka you've lived. They'll like it, I'm sure."
+    sx: {hanzi: "會。毋過佢兜毋係愛聽標準个客話，係愛聽你在屋下學个客話。佢兜會中意，𠊎完全有信心。", pinyin: "voi. mˇ go giˇ deuˊ mˇ he oi tangˊ peuˊ zunˋ ge hagˋ fa, he oi tangˊ nˇ coiˊ vugˋ kaˊ hog ge hagˋ fa. giˇ deuˊ voi zung i, ngaiˇ vanˇ qionˇ iuˊ xin ximˊ."}
+    hl: {hanzi: "會。毋過佢兜毋係愛聽標準个客話，係愛聽你在屋下學个客話。佢兜會中意，𠊎完全有信心。", pinyin: "voi+. m goˇ gi deuˋ m heˇ oiˇ tangˋ piauˋ zhunˊ gaiˇ hag voiˋ, heˇ oiˇ tangˋ ngi coiˋ vug haˋ hogˋ gaiˇ hag voiˋ. gi deuˋ voi+ zhungˇ rhiˇ, ngai van cion rhiuˋ sinˇ simˋ."}
+    check: true
+  - n: 15
+    speaker: 阿公
+    en: "(from the doorway) Speak slowly."
+    sx: {hanzi: "慢慢講。", pinyin: "man man gongˋ."}
+    hl: {hanzi: "慢慢講。", pinyin: "man+ man+ gongˊ."}
+  - n: 16
+    speaker: 阿婆
+    en: "And speak up! Whatever you have to say, say it out loud."
+    sx: {hanzi: "大聲講！需要麼个，就大聲講出來。", pinyin: "tai sangˊ gongˋ! xiˊ ieu maˋ ge, qiu tai sangˊ gongˋ cudˋ loiˇ."}
+    hl: {hanzi: "大聲講！需要麼个，就大聲講出來。", pinyin: "tai+ shangˋ gongˊ! siˋ rhauˇ maˊ gaiˇ, ciu+ tai+ shangˋ gongˊ chud loi."}
+    check: true
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      報名 bo miangˇ "sign up, enter (one's name)"; 𠊎同你報名了 "I've entered you" (同 + person "for someone", lesson 40).
+      The official examples set the scene: 佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習 "he is set on
+      winning next month's Hakka speech contest and practises hard every day".
+  - ref: 3
+    topic: grammar
+    text: >
+      五分鐘左右 "about five minutes": 左右 zoˋ iu after a number, as in Mandarin (再過十分鐘左右，演講比賽就開始了,
+      official). 內容 "content", 句仔 gi eˋ "sentence". 句仔愛順 "the sentences must flow" is the course's phrasing.
+  - ref: 5
+    topic: vocab
+    text: >
+      Writing words: 主題 "topic", 選 xienˋ "choose", 段 ton "paragraph, section" (第一段), 收尾 suˊ miˊ "the end, the part
+      that wraps it up" (dictionary: 處理事情最後的部分). 盡重要 "most important": 盡 is "most" here; the Hailu column has
+      最, the Hailu word list's own form for this sense (lesson 58).
+  - ref: 6
+    topic: grammar
+    text: >
+      毋單淨…還… "not only… but also": the official examples use it constantly, e.g. 五月節毋單淨有粽仔食，…還有划龍船好看
+      "at the Dragon Boat festival there aren't only 粽子 to eat, there are also the boat races to watch", 佢毋單淨愛分擔
+      家事，還愛𢯭手出去賺錢. 毋單止 (lesson 48) is the rarer twin. 學著 "learnt (to do)": 著 for the result.
+  - ref: 7
+    topic: grammar
+    text: >
+      甚至 siimˋ zii "even" (lesson 48), at the head of what goes furthest: 甚至擂茶乜做得寫入去 "you could even put in
+      the 擂茶". 會做得 "not bad" (lesson 67), never 還好 (which means "very").
+  - ref: 8
+    topic: culture
+    text: >
+      Grandma has not forgiven 南庄 (lessons 89–90, 92). 斷烏還吂轉 "not back by nightfall": 斷烏 "dusk, nightfall" (lesson 89).
+  - ref: 11
+    topic: grammar
+    text: >
+      為著 vi doˋ "for the sake of, in order to" (lesson 41), here twice: 為著讀書 "for my studies", 為著好同你兜講話 "so that I
+      could talk to you". 好 + verb (lesson 59) is "so as to be able to". 發現 fadˋ hien "find out, discover"; 原來 ngienˇ
+      loiˇ "so it turns out", for the truth you didn't see before.
+  - ref: 13
+    topic: grammar
+    text: >
+      輒常 jiab songˇ "often" (Hailu ziabˋ shong): 冷天北部輒常落水 (Hailu official). 講毋對 "say it wrong": V毋對 (lesson 82).
+      聽得出來 "can tell (by listening)". The word list has no entry for "judge"; 聽个人 "those listening" is the
+      course's way round it.
+  - ref: 14
+    topic: vocab
+    text: >
+      標準 peuˊ zunˋ "standard"; 中意 zung i "like, be fond of" (dictionary: 喜歡); 完全 vanˇ qionˇ "completely". A-in's
+      point is the course's own: the Hakka Sam has learnt is the Liu family's.
+  - ref: 16
+    topic: grammar
+    text: >
+      需要 xiˊ ieu "need": 需要麼个，就大聲講出來 "whatever you need, say it out loud" is Grandma's general advice, and
+      marked for a check.
+
+new_words:
+  - {hanzi: 報名, pinyin: "bo miangˇ", en: "sign up, enter", hl: {hanzi: 報名, pinyin: "boˇ miang"}}
+  - {hanzi: 簡單, pinyin: "gienˋ danˊ", en: "simple, easy", hl: {hanzi: 簡單, pinyin: "gienˊ danˋ"}}
+  - {hanzi: 左右, pinyin: "zoˋ iu", en: "about, around (after a number)", hl: {hanzi: 左右, pinyin: "zoˊ rhiu+"}}
+  - {hanzi: 內容, pinyin: "nui iungˇ", en: "content", hl: {hanzi: 內容, pinyin: "nui+ rhung"}}
+  - {hanzi: 句仔, pinyin: "gi eˋ", en: "sentence", hl: {hanzi: 句仔, pinyin: "giˇ er"}}
+  - {hanzi: 主題, pinyin: "zuˋ tiˇ", en: "topic, theme", hl: {hanzi: 主題, pinyin: "zhuˊ ti"}}
+  - {hanzi: 選, pinyin: "xienˋ", en: "choose", hl: {hanzi: 選, pinyin: "sienˊ"}}
+  - {hanzi: 段, pinyin: "ton", en: "paragraph, section", hl: {hanzi: 段, pinyin: "ton+"}}
+  - {hanzi: 收尾, pinyin: "suˊ miˊ", en: "the ending, the wrap-up", hl: {hanzi: 收尾, pinyin: "shiuˋ muiˋ"}}
+  - {hanzi: 毋單淨, pinyin: "mˇ danˊ qiang", en: "not only", hl: {hanzi: 毋單淨, pinyin: "m danˋ ciang+"}}
+  - {hanzi: 建議, pinyin: "gien ngi", en: "suggestion, suggest", hl: {hanzi: 建議, pinyin: "gienˇ ngi+"}}
+  - {hanzi: 發現, pinyin: "fadˋ hien", en: "find out, discover", hl: {hanzi: 發現, pinyin: "fad hien+"}}
+  - {hanzi: 原來, pinyin: "ngienˇ loiˇ", en: "so it turns out; originally", hl: {hanzi: 原來, pinyin: "ngien loi"}}
+  - {hanzi: 輒常, pinyin: "jiab songˇ", en: "often", hl: {hanzi: 輒常, pinyin: "ziabˋ shong"}}
+  - {hanzi: 標準, pinyin: "peuˊ zunˋ", en: "standard", hl: {hanzi: 標準, pinyin: "piauˋ zhunˊ"}}
+  - {hanzi: 中意, pinyin: "zung i", en: "like, be fond of", hl: {hanzi: 中意, pinyin: "zhungˇ rhiˇ"}}
+  - {hanzi: 完全, pinyin: "vanˇ qionˇ", en: "completely", hl: {hanzi: 完全, pinyin: "van cion"}}
+  - {hanzi: 需要, pinyin: "xiˊ ieu", en: "need", hl: {hanzi: 需要, pinyin: "siˋ rhauˇ"}}
+  - {hanzi: 母語, pinyin: "muˊ ngiˊ", en: "mother tongue", hl: {hanzi: 母語, pinyin: "muˋ ngiˋ"}}
+  - {hanzi: 傳承, pinyin: "conˇ siinˇ", en: "pass on, hand down", hl: {hanzi: 傳承, pinyin: "chon shin"}}
+  - {hanzi: 未來, pinyin: "vi loiˇ", en: "the future", hl: {hanzi: 未來, pinyin: "vui+ loi"}}
+  - {hanzi: 粽仔, pinyin: "zung eˋ", en: "zongzi (rice dumpling)", hl: {hanzi: 粽仔, pinyin: "zungˇ er"}}
+  - {hanzi: 經過, pinyin: "ginˊ go", en: "pass by, go through", hl: {hanzi: 經過, pinyin: "ginˋ goˇ"}}
+
+exercises:
+  translate:
+    - en: "He is set on winning next month's Hakka speech contest, and now he practises hard every day."
+      sx: {hanzi: "佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習。", pinyin: "giˇ idˋ ximˊ xiongˋ oi naˊ doˋ ha zagˋ ngied hagˋ fa ienˊ gongˋ biˋ soi ge ti idˋ miangˇ, iaˋ ha dagˋ ngidˋ dongˊ sadˋ mangˊ lien xib."}
+      hl: {hanzi: "佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習。", pinyin: "gi rhid simˋ siongˊ oiˇ naˋ doˊ ha+ zhag ngiedˋ hag voiˋ rhanˋ gongˊ biˊ soiˇ gaiˇ ti+ rhid miang, liaˊ ha+ dag ngid dongˋ sad mangˋ lien+ sibˋ."}
+      source: kaga115
+    - en: "The mother tongue has to be passed on: the future depends on the young."
+      sx: {hanzi: "母語愛傳承，未來就看後生人。", pinyin: "muˊ ngiˊ oi conˇ siinˇ, vi loiˇ qiu kon heu sangˊ nginˇ."}
+      hl: {hanzi: "母語愛傳承，未來就看後生人。", pinyin: "muˋ ngiˋ oiˇ chon shin, vui+ loi ciu+ konˇ heu+ sangˋ ngin."}
+    - en: "On his way to work every day he passes the 伯公 shrine."
+      sx: {hanzi: "佢逐日去上班，都會經過伯公下。", pinyin: "giˇ dagˋ ngidˋ hi songˊ banˊ, du voi ginˊ go bagˋ gungˊ haˊ."}
+      hl: {hanzi: "佢逐日去上班，都會經過伯公下。", pinyin: "gi dag ngid hiˇ shongˋ banˋ, du+ voi+ ginˋ goˇ bag gungˋ haˋ."}
+    - en: "At the Dragon Boat festival there aren't only 粽子 to eat: there are boat races to watch as well."
+      sx: {hanzi: "五月節毋單淨有粽仔食，還有划龍船好看。", pinyin: "ngˋ ngied jiedˋ mˇ danˊ qiang iuˊ zung eˋ siid, hanˇ iuˊ paˇ liungˇ sonˇ hoˋ kon."}
+      hl: {hanzi: "五月節毋單淨有粽仔食，還有划龍船好看。", pinyin: "ngˊ ngiedˋ zied m danˋ ciang+ rhiuˋ zungˇ er shidˋ, han rhiuˋ pa liung shon hoˊ konˇ."}
+      check: true
+    - en: "So it was you! I thought it was A-min."
+      sx: {hanzi: "原來係你！𠊎試著係阿明。", pinyin: "ngienˇ loiˇ he nˇ! ngaiˇ cii doˋ he aˊ minˇ."}
+      hl: {hanzi: "原來係你！𠊎試著係阿明。", pinyin: "ngien loi heˇ ngi! ngai chiˇ doˊ heˇ a+ min."}
+  fill:
+    - en: "Not only does she teach, she's also the head of department."
+      sx: {hanzi: "佢___教書，還係主任。", pinyin: "giˇ ___ gauˊ suˊ, hanˇ he zuˋ im.", answer_hanzi: "毋單淨", answer: "mˇ danˊ qiang"}
+      hl: {hanzi: "佢___教書，還係主任。", pinyin: "gi ___ gauˋ shuˋ, han heˇ zhuˊ rhim+.", answer_hanzi: "毋單淨", answer: "m danˋ ciang+"}
+    - en: "Speak for about five minutes."
+      sx: {hanzi: "講五分鐘___。", pinyin: "gongˋ ngˋ funˊ zungˊ ___.", answer_hanzi: "左右", answer: "zoˋ iu"}
+      hl: {hanzi: "講五分鐘___。", pinyin: "gongˊ ngˊ funˋ zhungˋ ___.", answer_hanzi: "左右", answer: "zoˊ rhiu+"}
+    - en: "I often forget."
+      sx: {hanzi: "𠊎___毋記得。", pinyin: "ngaiˇ ___ mˇ gi dedˋ.", answer_hanzi: "輒常", answer: "jiab songˇ"}
+      hl: {hanzi: "𠊎___毋記得。", pinyin: "ngai ___ m giˇ ded.", answer_hanzi: "輒常", answer: "ziabˋ shong"}
+
+audio: []
