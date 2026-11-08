@@ -1,0 +1,241 @@
+id: 97
+title:
+  en: "One year later"
+  sx: {hanzi: "一年前个今晡日", pinyin: "idˋ ngienˇ qienˇ ge gimˊ buˊ ngidˋ"}
+  hl: {hanzi: "一年前个今晡日", pinyin: "rhid ngien cien gaiˇ gimˋ buˋ ngid"}
+review: false
+setting: >-
+  苗栗 station, Friday 26 November, the evening: a year to the day after lesson 1. Sam takes the evening train to
+  Taipei with A-in, who is seeing him to the airport tomorrow. The whole family has come to the platform. Cover the
+  English and read lesson 1 again first: the first lines here answer it line for line.
+names: [苗栗, 阿明, 阿英, 劉, 劉家, 法國]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Sam, a year ago today, you got off the train right here."
+    sx: {hanzi: "Sam，一年前个今晡日，你就在這位落車。", pinyin: "Sam, idˋ ngienˇ qienˇ ge gimˊ buˊ ngidˋ, nˇ qiu coiˊ iaˋ vi log caˊ."}
+    hl: {hanzi: "Sam，一年前个今晡日，你就在這位落車。", pinyin: "Sam, rhid ngien cien gaiˇ gimˋ buˋ ngid, ngi ciu+ coiˋ liaˊ vui+ logˋ chaˋ."}
+  - n: 2
+    speaker: Sam
+    en: "I remember. You said, 'Welcome to Miaoli!', and I said, 'Thank you, A-in!'"
+    sx: {hanzi: "𠊎記得。你講「歡迎來苗栗」，𠊎講「恁仔細，阿英」。", pinyin: "ngaiˇ gi dedˋ. nˇ gongˋ fonˊ ngiangˇ loiˇ meuˇ lidˋ, ngaiˇ gongˋ anˋ ziiˋ se, aˊ inˊ."}
+    hl: {hanzi: "𠊎記得。你講「歡迎來苗栗」，𠊎講「承蒙你，阿英」。", pinyin: "ngai giˇ ded. ngi gongˊ fonˋ ngiang loi miau lid, ngai gongˊ shin mung ngi, a+ rhinˋ."}
+  - n: 3
+    speaker: 阿英
+    en: "And then I said, 'You can speak Hakka!', and you said…"
+    sx: {hanzi: "下後𠊎講「你會講客話」，你講……", pinyin: "ha heu ngaiˇ gongˋ nˇ voi gongˋ hagˋ fa, nˇ gongˋ …"}
+    hl: {hanzi: "下後𠊎講「你會講客話」，你講……", pinyin: "ha+ heu+ ngai gongˊ ngi voi+ gongˊ hag voiˋ, ngi gongˊ …"}
+  - n: 4
+    speaker: Sam
+    en: "'A little.' (smiling) It's still 'a little'. Only a bigger 'little'."
+    sx: {hanzi: "「一息仔。」這下還係一息仔，毋過係較大个一息仔。", pinyin: "idˋ xid eˋ. iaˋ ha hanˇ he idˋ xid eˋ, mˇ go he ka tai ge idˋ xid eˋ."}
+    hl: {hanzi: "「一息仔。」這下還係一息仔，毋過係較大个一息仔。", pinyin: "rhid sid er. liaˊ ha+ han heˇ rhid sid er, m goˇ heˇ haˇ tai+ gaiˇ rhid sid er."}
+    check: true
+  - n: 5
+    speaker: 阿明
+    en: "(taller than Sam now, grinning) And what's your surname?"
+    sx: {hanzi: "該你姓麼个？", pinyin: "ge nˇ xiang maˋ ge?"}
+    hl: {hanzi: "該你姓麼个？", pinyin: "gai ngi siangˇ maˊ gaiˇ?"}
+  - n: 6
+    speaker: Sam
+    en: "My surname is… Liu."
+    sx: {hanzi: "𠊎姓……劉。", pinyin: "ngaiˇ xiang … liuˇ."}
+    hl: {hanzi: "𠊎姓……劉。", pinyin: "ngai siangˇ … liu."}
+  - n: 7
+    speaker: 阿明
+    en: "Your surname isn't Liu!"
+    sx: {hanzi: "你毋係姓劉！", pinyin: "nˇ mˇ he xiang liuˇ!"}
+    hl: {hanzi: "你毋係姓劉！", pinyin: "ngi m heˇ siangˇ liu!"}
+  - n: 8
+    speaker: 阿婆
+    en: "Yes it is, yes it is. He's one of the Lius."
+    sx: {hanzi: "係，係。佢係劉家人。", pinyin: "he, he. giˇ he liuˇ gaˊ nginˇ."}
+    hl: {hanzi: "係，係。佢係劉家人。", pinyin: "heˇ, heˇ. gi heˇ liu gaˋ ngin."}
+  - n: 9
+    speaker: 阿爸
+    en: "A year ago we were all strangers. Now we know each other well."
+    sx: {hanzi: "一年前，大家都還生份；這下，大家都熟事了。", pinyin: "idˋ ngienˇ qienˇ, tai gaˊ du hanˇ sangˊ fun; iaˋ ha, tai gaˊ du sug sii leˊ."}
+    hl: {hanzi: "一年前，大家都還生份；這下，大家都熟事了。", pinyin: "rhid ngien cien, tai+ gaˋ du+ han sangˋ fun+; liaˊ ha+, tai+ gaˋ du+ shugˋ sii+ leˋ."}
+  - n: 10
+    speaker: 阿姆
+    en: "Have you got your ticket? What time does the train leave?"
+    sx: {hanzi: "票有帶等無？火車幾多點出發？", pinyin: "peuˊ iuˊ dai denˋ moˇ? foˋ caˊ giˋ doˊ diamˋ cudˋ fadˋ?"}
+    hl: {hanzi: "票有帶等無？火車幾多點出發？", pinyin: "piauˇ rhiuˋ daiˇ denˊ mo? foˊ chaˋ giˊ doˋ diamˊ chud fad?"}
+  - n: 11
+    speaker: Sam
+    en: "I've got it. Eight o'clock. …At first I thought a year was a long time. It turns out it was over in a moment."
+    sx: {hanzi: "帶等了。八點。……本成𠊎試著一年當長，原來一時就過忒了。", pinyin: "dai denˋ leˊ. badˋ diamˋ. … bunˋ sangˇ ngaiˇ cii doˋ idˋ ngienˇ dongˊ congˇ, ngienˇ loiˇ idˋ siiˇ qiu go tedˋ leˊ."}
+    hl: {hanzi: "帶等了。八點。……本成𠊎試著一年當長，原來一時就過忒了。", pinyin: "daiˇ denˊ leˋ. bad diamˊ. … bunˊ shang ngai chiˇ doˊ rhid ngien dongˋ chong, ngien loi rhid shi ciu+ goˇ ted leˋ."}
+  - n: 12
+    speaker: 阿英
+    en: "Since you came, the house has been full of life. When you're back in France, keep on speaking Hakka."
+    sx: {hanzi: "自從你來，屋下就當鬧熱。轉去法國以後，愛繼續講客話。", pinyin: "cii qiungˇ nˇ loiˇ, vugˋ kaˊ qiu dongˊ nau ngied. zonˋ hi fabˋ guedˋ iˊ heu, oi gi xiug gongˋ hagˋ fa."}
+    hl: {hanzi: "自從你來，屋下就當鬧熱。轉去法國以後，愛繼續講客話。", pinyin: "cii+ ciung ngi loi, vug haˋ ciu+ dongˋ nau+ ngiedˋ. zhonˊ hiˇ fab gued rhiˋ heu+, oiˇ giˇ siugˋ gongˊ hag voiˋ."}
+    check: true
+  - n: 13
+    speaker: Sam
+    en: "I will. I'll keep in touch with you all, every week. Actually… I don't want to go."
+    sx: {hanzi: "𠊎會。𠊎會逐禮拜同你兜聯絡。其實……𠊎毋想走。", pinyin: "ngaiˇ voi. ngaiˇ voi dagˋ liˊ bai tungˇ nˇ deuˊ lienˇ log. kiˇ siid … ngaiˇ mˇ xiongˋ zeuˋ."}
+    hl: {hanzi: "𠊎會。𠊎會逐禮拜摎你兜聯絡。其實……𠊎毋想走。", pinyin: "ngai voi+. ngai voi+ dag liˋ baiˇ lauˋ ngi deuˋ lien logˋ. ki shidˋ … ngai m siongˊ zeuˊ."}
+  - n: 14
+    speaker: 阿英
+    en: "It's settled, then: next year, in spring, I'm coming to France. Wait for me at the station."
+    sx: {hanzi: "恁樣就確定了：過忒年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "anˋ ngiongˇ qiu kogˋ tin leˊ: go tedˋ ngienˇ cunˊ tienˊ, ngaiˇ hi fabˋ guedˋ. nˇ coiˊ caˊ teuˇ denˋ ngaiˇ."}
+    hl: {hanzi: "恁樣就確定了：明年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "an ngiong ciu+ kog tin+ leˋ: mang ngien chunˋ tienˋ, ngai hiˇ fab gued. ngi coiˋ chaˋ teu denˊ ngai."}
+  - n: 15
+    speaker: Sam
+    en: "This year's over, but my Hakka isn't. I've been very happy. Luckily, I had you all."
+    sx: {hanzi: "這一年結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "iaˋ idˋ ngienˇ giedˋ sugˋ leˊ, mˇ go ngaiˇ ge hagˋ fa hanˇ mangˇ giedˋ sugˋ. ngaiˇ dongˊ hen fugˋ. hoˋ cai iuˊ nˇ deuˊ."}
+    hl: {hanzi: "這一年結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "liaˊ rhid ngien gied sug leˋ, m goˇ ngai gaiˇ hag voiˋ han mang gied sug. ngai dongˋ hen+ fug. hoˊ cai+ rhiuˋ ngi deuˋ."}
+  - n: 16
+    speaker: 阿婆
+    en: "Don't forget Grandma's three things."
+    sx: {hanzi: "莫毋記得阿婆个三件事。", pinyin: "mog mˇ gi dedˋ aˊ poˇ ge samˊ kien sii."}
+    hl: {hanzi: "莫毋記得阿婆个三件事。", pinyin: "mogˋ m giˇ ded a+ po gaiˇ samˋ kien+ sii+."}
+  - n: 17
+    speaker: Sam
+    en: "The third one: come back. The Lius will always be my home."
+    sx: {hanzi: "第三件：愛轉來。劉家永久係𠊎屋下。", pinyin: "ti samˊ kien: oi zonˋ loiˇ. liuˇ gaˊ iunˋ giuˋ he ngaiˇ vugˋ kaˊ."}
+    hl: {hanzi: "第三件：愛轉來。劉家永久係𠊎屋下。", pinyin: "ti+ samˋ kien+: oiˇ zhonˊ loi. liu gaˋ rhunˊ giuˊ heˇ ngai vug haˋ."}
+  - n: 18
+    speaker: 阿公
+    en: "The train's here."
+    sx: {hanzi: "車來了。", pinyin: "caˊ loiˇ leˊ."}
+    hl: {hanzi: "車來了。", pinyin: "chaˋ loi leˋ."}
+  - n: 19
+    speaker: 阿明
+    en: "(as the train pulls out) Look, he's waving! …Grandma, don't cry."
+    sx: {hanzi: "看，佢在該擛手！……阿婆，莫噭。", pinyin: "kon, giˇ du ge iag suˋ! … aˊ poˇ, mog gieu."}
+    hl: {hanzi: "看，佢在該擛手！……阿婆，莫噭。", pinyin: "konˇ, gi diˇ gai rhagˋ shiuˊ! … a+ po, mogˋ giauˇ."}
+  - n: 20
+    speaker: 阿婆
+    en: "I'm not crying. In the end, every boy who goes away comes home."
+    sx: {hanzi: "𠊎無噭。盡尾，出去个細倈仔都會轉來。", pinyin: "ngaiˇ moˇ gieu. qin miˊ, cudˋ hi ge se lai eˋ du voi zonˋ loiˇ."}
+    hl: {hanzi: "𠊎無噭。最尾，出去个細倈仔都會轉來。", pinyin: "ngai mo giauˇ. zuiˇ muiˋ, chud hiˇ gaiˇ seˇ laiˇ er du+ voi+ zhonˊ loi."}
+    check: true
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      一年前个今晡日 "a year ago today": time phrase + 个 + 今晡日. Lesson 1's first line was 歡迎來苗栗！: here it is quoted
+      back. 落車 "get off (a train, a bus)": 落 "down" (lesson 9) + 車.
+  - ref: 3
+    topic: grammar
+    text: >
+      Reported speech the plain way: 你講「…」，𠊎講「…」, no change of person or tense. 下後 ha heu "then, after that"
+      (dictionary: 後來，以後).
+  - ref: 4
+    topic: culture
+    text: >
+      一息仔 was Sam's whole answer in lesson 1, line 4. 較大个一息仔 "a bigger 'little'" is Sam's joke, and the course's
+      (marked for a check).
+  - ref: 5
+    topic: grammar
+    text: >
+      Lines 5–8 replay lesson 1, lines 6–9: 你姓麼个？ / 𠊎姓…… / …毋係姓！ / 係，係……. A-min started the joke a year ago;
+      Grandma finishes it. 劉家人 "one of the Liu family": surname + 家 + 人.
+  - ref: 9
+    topic: vocab
+    text: >
+      生份 sangˊ fun "unfamiliar, strangers" (dictionary: 陌生) and its opposite, 熟事 sug sii "well acquainted" (熟識). Mr
+      Liu's line is a pair: 一年前…都還生份；這下…都熟事了. 頭擺 / 這下 again, with 了 for the change.
+  - ref: 10
+    topic: vocab
+    text: >
+      票 peuˊ "ticket". 出發 cudˋ fadˋ "set off, depart". 帶等 "have it on you" (V等, lesson 29).
+  - ref: 11
+    topic: grammar
+    text: >
+      本成 bunˋ sangˇ "originally, at first" (dictionary: 原來、原本), 原來 "it turns out" (lesson 93): the pair tells a
+      mistake and its discovery. 一時 idˋ siiˇ "in a moment" (dictionary: 一下子). 試著 "feel, think" (lesson 94). 過忒了
+      "is over, has passed": V忒 for "gone" (lesson 33).
+  - ref: 12
+    topic: grammar
+    text: >
+      自從 cii qiungˇ "since": 自從你來 "since you came", with the result after it. 鬧熱 "lively, bustling" (lesson 23).
+      繼續 gi xiug "go on, continue" (dictionary: 連續不間斷) before the verb.
+  - ref: 13
+    topic: vocab
+    text: >
+      聯絡 lienˇ log "keep in touch": the official example warns 自從畢業以後，佢摎同學緊來緊少聯絡 "since graduating he has
+      kept in touch with his classmates less and less". 其實 kiˇ siid "actually, in fact".
+  - ref: 14
+    topic: vocab
+    text: >
+      確定 kogˋ tin "settled, definite". 車頭 caˊ teuˇ "station": the Hakka word, alongside 車站 (lesson 64). 過忒年 "next
+      year" (Hailu 明年, lesson 96).
+  - ref: 15
+    topic: grammar
+    text: >
+      結束 giedˋ sugˋ "end, be over": 這一年結束了…客話還吂結束 "the year is over; my Hakka isn't (yet)", with 吂 "not yet"
+      from lesson 3. 幸福 hen fugˋ "happy (in one's life)", a deeper word than 歡喜. 好在 hoˋ cai "luckily, thank goodness".
+  - ref: 17
+    topic: vocab
+    text: >
+      永久 iunˋ giuˋ "always, for ever": a false friend in the word list, because Hakka uses it where Mandarin says 永遠
+      (dictionary: 永遠), as the official 佢个精神永久存在𠊎个心肝肚 does.
+  - ref: 18
+    topic: culture
+    text: >
+      車來了 is what Grandpa said on this platform in lesson 35, when Lucie left.
+  - ref: 20
+    topic: vocab
+    text: >
+      盡尾 qin miˊ "in the end, at last" (dictionary: 最後；後來): 盡 is "most" here; Hailu 最尾. 細倈仔 se lai eˋ "boy". Grandma's
+      last line in the course is a saying of her own, marked for a check.
+
+new_words:
+  - {hanzi: 下後, pinyin: "ha heu", en: "then, after that, later", hl: {hanzi: 下後, pinyin: "ha+ heu+"}}
+  - {hanzi: 生份, pinyin: "sangˊ fun", en: "unfamiliar, strangers", hl: {hanzi: 生份, pinyin: "sangˋ fun+"}}
+  - {hanzi: 熟事, pinyin: "sug sii", en: "well acquainted, familiar", hl: {hanzi: 熟事, pinyin: "shugˋ sii+"}}
+  - {hanzi: 票, pinyin: "peuˊ", en: "ticket", hl: {hanzi: 票, pinyin: "piauˇ"}}
+  - {hanzi: 出發, pinyin: "cudˋ fadˋ", en: "set off, depart", hl: {hanzi: 出發, pinyin: "chud fad"}}
+  - {hanzi: 本成, pinyin: "bunˋ sangˇ", en: "originally, at first", hl: {hanzi: 本成, pinyin: "bunˊ shang"}}
+  - {hanzi: 一時, pinyin: "idˋ siiˇ", en: "in a moment", hl: {hanzi: 一時, pinyin: "rhid shi"}}
+  - {hanzi: 自從, pinyin: "cii qiungˇ", en: "since", hl: {hanzi: 自從, pinyin: "cii+ ciung"}}
+  - {hanzi: 繼續, pinyin: "gi xiug", en: "go on, continue", hl: {hanzi: 繼續, pinyin: "giˇ siugˋ"}}
+  - {hanzi: 聯絡, pinyin: "lienˇ log", en: "keep in touch, contact", hl: {hanzi: 聯絡, pinyin: "lien logˋ"}}
+  - {hanzi: 其實, pinyin: "kiˇ siid", en: "actually, in fact", hl: {hanzi: 其實, pinyin: "ki shidˋ"}}
+  - {hanzi: 確定, pinyin: "kogˋ tin", en: "settled, definite; make sure", hl: {hanzi: 確定, pinyin: "kog tin+"}}
+  - {hanzi: 車頭, pinyin: "caˊ teuˇ", en: "station", hl: {hanzi: 車頭, pinyin: "chaˋ teu"}}
+  - {hanzi: 結束, pinyin: "giedˋ sugˋ", en: "end, be over", hl: {hanzi: 結束, pinyin: "gied sug"}}
+  - {hanzi: 幸福, pinyin: "hen fugˋ", en: "happy (in life), fortunate", hl: {hanzi: 幸福, pinyin: "hen+ fug"}}
+  - {hanzi: 好在, pinyin: "hoˋ cai", en: "luckily, thank goodness", hl: {hanzi: 好在, pinyin: "hoˊ cai+"}}
+  - {hanzi: 永久, pinyin: "iunˋ giuˋ", en: "always, for ever", hl: {hanzi: 永久, pinyin: "rhunˊ giuˊ"}}
+  - {hanzi: 擛手, pinyin: "iag suˋ", en: "wave (the hand)", hl: {hanzi: 擛手, pinyin: "rhagˋ shiuˊ"}}
+  - {hanzi: 盡尾, pinyin: "qin miˊ", en: "in the end, at last", hl: {hanzi: 最尾, pinyin: "zuiˇ muiˋ"}}
+  - {hanzi: 細倈仔, pinyin: "se lai eˋ", en: "boy", hl: {hanzi: 細倈仔, pinyin: "seˇ laiˇ er"}}
+  - {hanzi: 得人惜, pinyin: "dedˋ nginˇ xiagˋ", en: "lovable, endearing", hl: {hanzi: 得人惜, pinyin: "ded ngin siag"}}
+  - {hanzi: 順利, pinyin: "sun li", en: "smoothly, without a hitch", hl: {hanzi: 順利, pinyin: "shun+ li+"}}
+  - {hanzi: 總算, pinyin: "zungˋ son", en: "at last, after all", hl: {hanzi: 總算, pinyin: "zungˊ sonˇ"}}
+
+exercises:
+  translate:
+    - en: "Since he graduated, he's kept in touch with his classmates less and less."
+      sx: {hanzi: "自從畢業以後，佢同同學緊來緊少聯絡。", pinyin: "cii qiungˇ bidˋ ngiab iˊ heu, giˇ tungˇ tungˇ hog ginˋ loiˇ ginˋ seuˋ lienˇ log."}
+      hl: {hanzi: "自從畢業以後，佢摎同學緊來緊少聯絡。", pinyin: "cii+ ciung bid ngiabˋ rhiˋ heu+, gi lauˋ tung hogˋ ginˊ loi ginˊ shauˊ lien logˋ."}
+      check: true
+    - en: "A-min was so lovable when he was small."
+      sx: {hanzi: "阿明細時節當得人惜。", pinyin: "aˊ minˇ se siiˇ jiedˋ dongˊ dedˋ nginˇ xiagˋ."}
+      hl: {hanzi: "阿明細時節當得人惜。", pinyin: "a+ min seˇ shi zied dongˋ ded ngin siag."}
+    - en: "The trip went off without a hitch: at last he's arrived."
+      sx: {hanzi: "這擺出門當順利，總算到了。", pinyin: "iaˋ baiˋ cudˋ munˇ dongˊ sun li, zungˋ son do leˊ."}
+      hl: {hanzi: "這擺出門當順利，總算到了。", pinyin: "liaˊ baiˊ chud mun dongˋ shun+ li+, zungˊ sonˇ doˇ leˋ."}
+    - en: "A year ago I didn't know how to speak Hakka; now I can."
+      sx: {hanzi: "一年前𠊎毋識講客話，這下𠊎識了。", pinyin: "idˋ ngienˇ qienˇ ngaiˇ mˇ siidˋ gongˋ hagˋ fa, iaˋ ha ngaiˇ siidˋ leˊ."}
+      hl: {hanzi: "一年前𠊎毋識講客話，這下𠊎識了。", pinyin: "rhid ngien cien ngai m shid gongˊ hag voiˋ, liaˊ ha+ ngai shid leˋ."}
+      check: true
+  fill:
+    - en: "A year ago we were strangers; now we know each other well."
+      sx: {hanzi: "一年前大家都___，這下都熟事了。", pinyin: "idˋ ngienˇ qienˇ tai gaˊ du ___, iaˋ ha du sug sii leˊ.", answer_hanzi: "生份", answer: "sangˊ fun"}
+      hl: {hanzi: "一年前大家都___，這下都熟事了。", pinyin: "rhid ngien cien tai+ gaˋ du+ ___, liaˊ ha+ du+ shugˋ sii+ leˋ.", answer_hanzi: "生份", answer: "sangˋ fun+"}
+    - en: "Since you came, the house has been lively."
+      sx: {hanzi: "___你來，屋下就當鬧熱。", pinyin: "___ nˇ loiˇ, vugˋ kaˊ qiu dongˊ nau ngied.", answer_hanzi: "自從", answer: "cii qiungˇ"}
+      hl: {hanzi: "___你來，屋下就當鬧熱。", pinyin: "___ ngi loi, vug haˋ ciu+ dongˋ nau+ ngiedˋ.", answer_hanzi: "自從", answer: "cii+ ciung"}
+    - en: "Luckily, I had you all."
+      sx: {hanzi: "___有你兜。", pinyin: "___ iuˊ nˇ deuˊ.", answer_hanzi: "好在", answer: "hoˋ cai"}
+      hl: {hanzi: "___有你兜。", pinyin: "___ rhiuˋ ngi deuˋ.", answer_hanzi: "好在", answer: "hoˊ cai+"}
+
+audio: []
