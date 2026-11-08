@@ -104,19 +104,20 @@ lessons:
 - {n: 82, new: 25, en: 'Grandma teaches Sam a 山歌', focus: 'song words, tone and melody, 恁靚'}
 - {n: 83, new: 25, en: 'An old photo album', focus: 'relative clauses with 个, 該當時, time words'}
 - {n: 84, review: true, en: 'Review 12'}
-# Later: 義民 festival (old 67, August), 八音 (old 69), Grandma's story (old 64, now inside 65).
+# 85–100 rearranged (briefs 13–15): summer (八音, 義民 on lunar 7/20 = Sat 21 Aug 2027, 南庄), autumn (中秋, the speech
+# contest, harvest), Sam's last week (a year after lesson 1), then France.
 - {n: 85, new: 25, en: 'The 客家 museum', focus: 'migration history (四縣 from 嘉應州), 原鄉, written register'}
-- {n: 86, new: 25, en: 'Debate at dinner', focus: 'opinions: 𠊎想, 𠊎看, 就毋係, 還毋係 "it''s just that"'}
-- {n: 87, new: 25, en: 'Neighbourhood gossip', focus: '聽講, reported speech, 恁該 / 無恁該 "it''s not that easy"'}
-- {n: 88, new: 25, en: 'A wedding banquet', focus: 'banquet words, toasts, 會 + state (這粒柑仔會酸)'}
-- {n: 89, new: 25, en: 'Lost in the mountains (南庄)', focus: 'directions in nature, 看佢毋著, 行毋去'}
+- {n: 86, new: 25, en: 'Debate at dinner', focus: 'opinions: 𠊎想, 𠊎看, 就毋係, 還毋係 "it''s just that", 恁該 / 無恁該'}
+- {n: 87, new: 25, en: 'Eight-tone music (八音)', focus: 'instruments, 聽著, 正 "just now / only then", reported speech'}
+- {n: 88, new: 25, en: 'The 義民 festival', focus: 'history and religion, 三獻禮, respect language, 會 + state'}
+- {n: 89, new: 25, en: 'Lost in the mountains (南庄)', focus: 'directions in nature, V毋去 / V毋著, 看佢毋著'}
 - {n: 90, new: 25, en: 'Rescue', focus: 'urgent speech, short tone groups, 遽遽, 毋好驚'}
 - {n: 91, review: true, en: 'Review 13'}
-- {n: 92, new: 25, en: 'A Hakka idiom a day', focus: '師傅話 (two-part sayings), idioms with 恁'}
+- {n: 92, new: 25, en: 'Mid-Autumn sayings', focus: '師傅話 (two-part sayings), idioms with 恁'}
 - {n: 93, new: 25, en: 'Writing a speech', focus: 'formal linking: 毋單淨…還…, 甚至, 為著'}
-- {n: 94, new: 25, en: 'The speech', focus: 'public register, numbers and dates, thanks'}
+- {n: 94, new: 25, en: 'The speech contest', focus: 'public register, numbers and dates, thanks'}
 - {n: 95, new: 25, en: 'Harvest', focus: 'farm work, ABAB / AABB reduplication, 緊來緊…'}
-- {n: 96, new: 25, en: 'Saying goodbye to Grandma', focus: 'emotion words, 惜, 毋盼得 "can''t bear to part", 毋記得 "forget"'}
+- {n: 96, new: 25, en: 'Saying goodbye to Grandma', focus: 'emotion words, 惜, 毋盼得 "can''t bear to part", 毋記得'}
 - {n: 97, new: 25, en: 'One year later', focus: 'looking back: 過, 識, 頭擺 vs 這下; all aspect markers'}
 - {n: 98, review: true, en: 'Review 14'}
 - {n: 99, new: 25, en: 'Speaking Sixian and Hailu', focus: 'the accent differences (grammar inventory §17), switching'}
