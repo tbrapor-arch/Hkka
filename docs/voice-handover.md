@@ -94,3 +94,27 @@ Proposed casting, one fixed voice per character. Main speakers by line count: Sa
   voices for Hailu. The casting page (step 1) picks the individual voices.
 - **Licence:** CC BY-NC audio is accepted for the app, shipped as separately licensed assets (ATTRIBUTION.md).
   HAT-TTS stays the route if the app ever becomes paid.
+
+## Done (2026-11-08, afternoon)
+
+- **All of Part 1 is voiced**, Sixian and Hailu: titles, every dialogue line, every exercise answer (translate: the
+  Hakka answer; fill: the sentence with its blank filled in), and the new words that have no real 客委會 clip.
+  6,015 items, about 4 h of audio, in Hkka-private `audio/tts/<accent>/` (`ex/`, `words/`), with
+  `audio/tts/manifest.json` (spoken pinyin, IPA, voice, cache hash; `real` = clip of the official recording).
+- Tools in Hkka-private: `tools/tts.py` (voicing, cached), `tools/cast.yaml` (one voice per character, 36 characters,
+  no voice shared inside a lesson; PROVISIONAL), `tools/tts_page.py` (the "Hakka Lesson Voices" listening page with a
+  problem flag per line).
+- `tools/sandhi.py` now has the Hailu rules (上聲 → 33, 陰入 → 陽入 before any tone, MOE 107_015); `spoken(text, accent)`.
+- Choices made while voicing: Lucie's French lines stay silent; Latin names read with Hakka syllables (Sam sam, Martin
+  ma tin, Lucie lu xi / lu si); 做毋得 zomˇ built as zo + m; a Hailu syllable missing from the Hailu lexicon falls back
+  to the Sixian IPA (叩應 inˋ); the speaker encoder (voice cloning only) is skipped; silent beats ("……") skipped.
+- Only one lesson line is an official single-example sentence (Hailu 008-07 辣椒仔。當辣！); all others are synthetic.
+
+## Next
+
+1. The user listens and sends the flagged lines; fix readings or casting, re-run `tools/tts.py` (only changed lines
+   are re-voiced).
+2. Final casting (ages of the voices are unknown).
+3. Licence placement: the audio is CC BY-NC; decide whether it stays private or moves to a public folder or repo with
+   its own licence notice (ATTRIBUTION.md).
+4. Round-trip check with the Hakka recogniser (GitHub Actions or Kaggle).
