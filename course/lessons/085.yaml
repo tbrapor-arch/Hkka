@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿英
     en: "According to our family register, our ancestors came from 廣東. They crossed the sea by boat to Taiwan."
-    sx: {hanzi: "根據族譜个記載，𠊎兜个祖公在廣東，坐船渡海來臺灣。", pinyin: "ginˊ giˋ cug puˋ ge gi zai, ngaiˇ deuˊ ge zuˋ gungˊ coiˊ gongˋ dungˊ, coˊ sonˇ tu hoiˋ loiˇ toiˇ vanˊ."}
-    hl: {hanzi: "根據族譜个記載，𠊎兜个祖公在廣東，坐船渡海來臺灣。", pinyin: "ginˋ giˊ cugˋ puˊ gaiˇ giˇ zaiˇ, ngai deuˋ gaiˇ zuˊ gungˋ coiˋ gongˊ dungˋ, coˋ shon tu+ hoiˊ loi toi van."}
+    sx: {hanzi: "根據族譜个記載，𠊎兜个祖公來自廣東，坐船渡海來臺灣。", pinyin: "ginˊ giˋ cug puˋ ge gi zai, ngaiˇ deuˊ ge zuˋ gungˊ loiˇ cii gongˋ dungˊ, coˊ sonˇ tu hoiˋ loiˇ toiˇ vanˊ."}
+    hl: {hanzi: "根據族譜个記載，𠊎兜个祖公來自廣東，坐船渡海來臺灣。", pinyin: "ginˋ giˊ cugˋ puˊ gaiˇ giˇ zaiˇ, ngai deuˋ gaiˇ zuˊ gungˋ loi cii+ gongˊ dungˋ, coˋ shon tu+ hoiˊ loi toi van."}
     check: true
   - n: 7
     speaker: 阿明
@@ -75,8 +75,8 @@ dialogue:
   - n: 13
     speaker: 阿英
     en: "In the old days people cleared the hills and the forest with their bare hands. They left their home towns and never went back."
-    sx: {hanzi: "頭擺人開山打林，當辛苦。離開故鄉，就無轉去了。", pinyin: "teuˇ baiˋ nginˇ koiˊ sanˊ daˋ naˇ, dongˊ xinˊ kuˋ. liˇ koiˊ gu hiongˊ, qiu moˇ zonˋ hi leˊ."}
-    hl: {hanzi: "頭擺人開山打林，當辛苦。離開故鄉，就無轉去了。", pinyin: "teu baiˊ ngin koiˋ sanˋ daˊ na, dongˋ sinˋ kuˊ. li koiˋ guˇ hiongˋ, ciu+ mo zhonˊ hiˇ leˋ."}
+    sx: {hanzi: "頭擺人淨用一雙手來開山打林，實在艱苦。離開故鄉，就無轉去了。", pinyin: "teuˇ baiˋ nginˇ qiang iung idˋ sungˊ suˋ loiˇ koiˊ sanˊ daˋ naˇ, siid cai ganˊ kuˋ. liˇ koiˊ gu hiongˊ, qiu moˇ zonˋ hi leˊ."}
+    hl: {hanzi: "頭擺人淨用一雙手來開山打林，實在艱苦。離開故鄉，就無轉去了。", pinyin: "teu baiˊ ngin ciang+ rhung+ rhid sungˋ shiuˊ loi koiˋ sanˋ daˊ na, shidˋ cai+ ganˋ kuˊ. li koiˋ guˇ hiongˋ, ciu+ mo zhonˊ hiˇ leˋ."}
   - n: 14
     speaker: Sam
     en: "Now I understand: the Hakka came from 唐山, and in Taiwan they built houses, farmed, sang mountain songs…"
@@ -112,26 +112,28 @@ notes:
     text: >
       唐山 and 長山 (kaga115: 指大陸原鄉，即「唐山」) both name the mainland as the place the ancestors left. 原鄉 ngienˇ
       hiongˊ "ancestral homeland": the examples use it of families (吾來臺祖个原鄉係福建省詔安縣 "the 原鄉 of my first
-      ancestor in Taiwan is 詔安 in 福建"). It is not in the word lists as one word; learn it from the two characters.
+      ancestor in Taiwan is 詔安 in 福建"); the 2013 list has it as a word, 原鄉 ngienˇ hiongˊ. A warning: 轉長山 also has a
+      darker sense, in 佢轉長山賣鴨卵哩 "he has gone back to the mainland to sell duck eggs", that is, "he has died"; and
+      喊人「長山仔」係盡無禮貌个事情 "calling someone 長山仔 is very rude" (both official examples).
   - ref: 6
     topic: grammar
     text: >
       根據族譜个記載 "according to the family register": a word-for-word opening from an official sentence (根據族譜个記載，
-      吾祖公來自廣東省饒平縣); A-in's ending is simplified, so the line is marked for checking. 族譜 cug puˋ "family
+      吾祖公來自廣東省饒平縣), with the same 來自 "come from"; A-in's ending is her own, so the line is marked for checking. 族譜 cug puˋ "family
       register", kept in many Hakka households; 渡海 tu hoiˋ "cross the sea".
   - ref: 8
     topic: culture
     text: >
-      An official sentence quoted exactly: 乾隆初年，就有廣東陸豐人來到竹東開墾 "early in the 乾隆 reign (the 1730s and
-      after), people from 陸豐 in 廣東 came to 竹東 to clear the land". 開墾 koiˊ kienˋ "open up, clear (new land)", the
+      An official sentence quoted exactly: 乾隆初年，就有廣東陸豐人來到竹東開墾 "early in the 乾隆 reign (by general
+      knowledge, the 1730s and after), people from 陸豐 in 廣東 came to 竹東 to clear the land". 開墾 koiˊ kienˋ "open up, clear (new land)", the
       written word for 開山打林 (lesson 65). The note in lesson 53 already tied 海陸 to 海豐 and 陸豐 (惠州府來到臺灣个客家人，
       大體係海豐縣、陸豐縣較多).
   - ref: 11
     topic: culture
     text: >
-      Why "four counties": by general knowledge, 四縣 names four counties of the old 嘉應州 prefecture in 廣東 (興寧, 長樂,
-      平遠, 鎮平). The database has no example with 嘉應, so A-in quotes her teacher, and so does this note. The word
-      list spells it xi ien (lesson 53).
+      Why "four counties": the MOE dictionary's entry 四縣 says 指原為清朝廣東嘉應州所屬的興寧、五華、平遠、蕉嶺等四個縣
+      "the four counties that belonged to 嘉應州 in 廣東 under the Qing: 興寧, 五華, 平遠 and 蕉嶺". That the older names of
+      two of them were 長樂 and 鎮平 is general knowledge. The word list spells 四縣 xi ien (lesson 53).
   - ref: 13
     topic: grammar
     text: >
@@ -156,6 +158,8 @@ new_words:
   - {hanzi: 舉辦, pinyin: "giˋ pan", en: "hold, organise", hl: {hanzi: 舉辦, pinyin: "giˊ pan+"}}
   - {hanzi: 展覽, pinyin: "zanˋ lam", en: "exhibition", hl: {hanzi: 展覽, pinyin: "zhanˊ lamˇ"}}
   - {hanzi: 從, pinyin: "qiungˇ", en: "from (written)", hl: {hanzi: 從, pinyin: "ciung"}}
+  - {hanzi: 艱苦, pinyin: "ganˊ kuˋ", en: "hard, arduous", hl: {hanzi: 艱苦, pinyin: "ganˋ kuˊ"}}
+  - {hanzi: 自, pinyin: "cii", en: "from (written: 來自 come from)", hl: {hanzi: 自, pinyin: "cii+"}}
   - {hanzi: 唐山, pinyin: "tongˇ sanˊ", en: "the mainland (the ancestors' land)", hl: {hanzi: 唐山, pinyin: "tong sanˋ"}}
   - {hanzi: 長山, pinyin: "congˇ sanˊ", en: "the mainland (= 唐山)", hl: {hanzi: 長山, pinyin: "chong sanˋ"}}
   - {hanzi: 大陸, pinyin: "tai liug", en: "the mainland", hl: {hanzi: 大陸, pinyin: "tai+ liugˋ"}}

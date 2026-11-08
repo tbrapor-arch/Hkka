@@ -70,8 +70,8 @@ dialogue:
   - n: 12
     speaker: 阿婆
     en: "All right. But at home, no Mandarin! When you come home from school, it's Hakka."
-    sx: {hanzi: "好。毋過屋下做毋得講華語！放學轉來就講客話。", pinyin: "hoˋ. mˇ go vugˋ kaˊ zo mˇ dedˋ gongˋ faˇ ngiˊ! biong hog zonˋ loiˇ qiu gongˋ hagˋ fa."}
-    hl: {hanzi: "好。毋過屋下做毋得講華語！放學轉來就講客話。", pinyin: "hoˊ. m goˇ vug haˋ zoˇ m ded gongˊ fa ngiˋ! biongˇ hogˋ zhonˊ loi ciu+ gongˊ hag voiˋ."}
+    sx: {hanzi: "好。毋過屋下做毋得講華語！補習轉來就講客話。", pinyin: "hoˋ. mˇ go vugˋ kaˊ zo mˇ dedˋ gongˋ faˇ ngiˊ! buˋ xib zonˋ loiˇ qiu gongˋ hagˋ fa."}
+    hl: {hanzi: "好。毋過屋下做毋得講華語！補習轉來就講客話。", pinyin: "hoˊ. m goˇ vug haˋ zoˇ m ded gongˊ fa ngiˋ! buˊ sibˋ zhonˊ loi ciu+ gongˊ hag voiˋ."}
   - n: 13
     speaker: 阿明
     en: "And what about Sam? Is Sam allowed to speak French?"
@@ -109,7 +109,7 @@ notes:
   - ref: 5
     topic: culture
     text: >
-      Grandpa quotes an official example sentence word for word, the course's longest line from him. 身為 "being (as)",
+      Grandpa quotes an official example sentence word for word, his second-longest line in the course, after lesson 20. 身為 "being (as)",
       a written word; 對毋起 "let down, wrong (someone)"; 正經 "truly" (lesson 47). The Hailu line is the course's
       rendering of the same sentence, so it is marked for checking.
   - ref: 8
@@ -134,7 +134,7 @@ notes:
     text: >
       Mr Liu quotes an official sentence: 這片係贊成，該片係反對，你愛企哪片？ "this side for, that side against: which side
       do you stand on?". 贊成 "be for" and 反對 "be against" are not in the word lists as words, only their characters;
-      the line is marked for checking because the readings come from the characters. 企 "stand" (lesson 23).
+      the line is marked for checking because the readings come from the characters. 企 "stand" (lesson 49).
   - ref: 0
     topic: hailu
     text: >
@@ -175,6 +175,7 @@ exercises:
     - en: "My English isn't up to much; I have to join the beginners' class."
       sx: {hanzi: "𠊎英文程度毋好，愛讀初級班。", pinyin: "ngaiˇ inˊ vunˇ cangˇ tu mˇ hoˋ, oi tug cuˊ gibˋ banˊ."}
       hl: {hanzi: "𠊎英文程度毋好，愛讀初級班。", pinyin: "ngai rhinˋ vun chang tu+ m hoˊ, oiˇ tugˋ cuˋ gib banˋ."}
+      source: kaga115
       check: true
     - en: "Speak quietly: Grandpa is asleep."
       sx: {hanzi: "細聲講，阿公在該睡目。", pinyin: "se sangˊ gongˋ, aˊ gungˊ du ge soi mugˋ."}
@@ -202,6 +203,9 @@ exercises:
     - en: "A-min's classmates all speak Mandarin."
       sx: {hanzi: "阿明个同學都講華語。", pinyin: "aˊ minˇ ge tungˇ hog du gongˋ faˇ ngiˊ."}
       hl: {hanzi: "阿明个同學都講華語。", pinyin: "a+ min gaiˇ tung hogˋ du+ gongˊ fa ngiˋ."}
+    - en: "In term time, when you're back from school, speak Hakka at home."
+      sx: {hanzi: "放學轉來屋下，就講客話。", pinyin: "biong hog zonˋ loiˇ vugˋ kaˊ, qiu gongˋ hagˋ fa."}
+      hl: {hanzi: "放學轉來屋下，就講客話。", pinyin: "biongˇ hogˋ zhonˊ loi vug haˋ, ciu+ gongˊ hag voiˋ."}
   fill:
     - en: "Making a living isn't easy."
       sx: {hanzi: "賺錢___。", pinyin: "con qienˇ ___.", answer_hanzi: "無恁該", answer: "moˇ anˋ goiˊ"}

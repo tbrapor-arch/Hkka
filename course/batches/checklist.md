@@ -130,3 +130,11 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - A song or verse quote needs its source (the dictionary's 引自…), never a copyright claim the data can't support.
 - Gloss 盡 every time it appears ("very" or "most").
 - An official sentence that exists only in Sixian: say in the note that the Hailu column is the course's transposition.
+
+## Added after the batch 13 review
+- Instrument verbs differ by accent: Sixian 鋸弦仔 / Hailu 挨弦仔 (no Hailu 鋸弦); Sixian 吹笛仔 / Hailu 歕笛仔; 打鼓, 打銅鑼 (not 敲) in both.
+- "Get lost" is 撞走 (2026 list: 迷路), besides 尋毋著路. "Mist" is 濛紗煙 (Sixian) / 濛煙 (Hailu list); 濛紗煙恁重.
+- Emergencies in the story call 119 and the 消防隊 comes; safety advice (walk slowly in the dark, ice a twisted ankle) follows an official sentence or is labelled general knowledge.
+- 頭先: "just now" in kaga115, but kaga (2013) also gives 最初 "at first". Prefer 一開始 for "at first", and don't claim 頭先 is "always" one thing.
+- Before claiming anything about a character's previous lines (longest, first, never), grep them.
+- "Not in the data" claims: also search the MOE definitions (四縣 → 嘉應州, 原鄉 in kaga).

@@ -8,7 +8,7 @@ setting: >-
   Saturday 21 August, the twentieth day of the seventh lunar month: the 義民 festival. The temple courtyard is full,
   incense smoke hangs in the heat, and 阿貴伯's band is playing. Grandpa is in the band, with his fiddle: he has
   practised for a month.
-names: [義民, 義民節, 義民廟, 阿貴伯, 阿劉哥, 阿英, 阿明]
+names: [義民, 義民節, 義民廟, 阿貴伯, 阿劉哥, 阿英, 阿明, 中元]
 
 dialogue:
   - n: 1
@@ -62,7 +62,7 @@ dialogue:
     hl: {hanzi: "好得有阿劉哥！來，請食糖糜。", pinyin: "hoˊ ded rhiuˋ a+ liu goˋ! loi, ciangˊ shidˋ tong moi."}
   - n: 10
     speaker: Sam
-    en: "(after the porridge, biting into a tangerine from the offerings table) Ugh, this tangerine is sour!"
+    en: "(after the porridge, 阿貴伯 hands Sam a tangerine from his own bag; Sam bites into it) Ugh, this tangerine is sour!"
     sx: {hanzi: "哇，這隻柑仔會酸！", pinyin: "va, iaˋ zagˋ gamˊ eˋ voi sonˊ!"}
     hl: {hanzi: "哇，這隻柑仔會酸！", pinyin: "vaˇ, liaˊ zhag gamˋ er voi+ sonˋ!"}
     check: true
@@ -95,10 +95,9 @@ dialogue:
     check: true
   - n: 16
     speaker: 阿婆
-    en: "(to Sam, as Grandpa goes) Look: they make offerings to the 義民 of tangerines and sweet porridge."
-    sx: {hanzi: "你看，佢兜用柑仔同糖粥供義民爺。", pinyin: "nˇ kon, giˇ deuˊ iung gamˊ eˋ tungˇ tongˇ zugˋ giung ngi minˇ iaˇ."}
-    hl: {hanzi: "你看，佢兜用柑仔摎糖糜供義民爺。", pinyin: "ngi konˇ, gi deuˋ rhung+ gamˋ er lauˋ tong moi giungˇ ngi+ min rha."}
-    check: true
+    en: "(to Sam, as Grandpa goes) You see: when the 義民 temple holds its 中元, they give everyone sweet porridge."
+    sx: {hanzi: "你看，義民廟做中元个時節，會請人食糖粥。", pinyin: "nˇ kon, ngi minˇ meu zo zungˊ ienˇ ge siiˇ jiedˋ, voi qiangˋ nginˇ siid tongˇ zugˋ."}
+    hl: {hanzi: "你看，義民廟做中元个時節，會請人食糖糜。", pinyin: "ngi konˇ, ngi+ min miau+ zoˇ zhungˋ ngien gaiˇ shi zied, voi+ ciangˊ ngin shidˋ tong moi."}
   - n: 17
     speaker: Sam
     en: "Next time there's 普渡, I'll come too."
@@ -109,22 +108,25 @@ notes:
   - ref: 1
     topic: culture
     text: >
-      The 義民 festival falls on the twentieth day of the seventh lunar month (general knowledge; in 2027, Saturday 21
-      August). The examples mention 義民廟 (吾屋下在義民廟附近，有閒愛來坐), the 義民祭典 (𠊎誠心誠意邀請大家來參加今年个義民祭典),
+      The 義民 festival falls on the twentieth day of the seventh lunar month, as the official sentence says in every
+      accent: 舊曆七月二十義民節，義民廟當鬧熱 "on the twentieth of the seventh month is the 義民 festival, and the 義民
+      temple is full of life" (in 2027, Saturday 21 August). The examples also mention 義民廟 (吾屋下在義民廟附近，有閒愛來坐), the 義民祭典 (𠊎誠心誠意邀請大家來參加今年个義民祭典),
       and 糖粥 at the temple in the seventh month (逐年義民廟做中元个時節，就會有請人食糖粥).
   - ref: 3
     topic: culture
     text: >
       An official sentence, and each accent has its own version: Sixian 客家人有用三獻禮來敬義民爺，表達對義民爺个尊敬; Hailu
       客家人用三獻禮來敬義民爺，表達對義民爺个尊重 (no 有, and 尊重 for 尊敬). 三獻禮 samˊ hien liˊ is the ceremony of three
-      offerings; 敬 gin "honour, worship"; 表達 "express"; 尊敬 "respect". 爺 iaˇ is a respectful title for a god.
+      offerings; 敬 gin "honour, worship"; 表達 "express"; 尊敬 "respect". 爺 iaˇ: the MOE dictionary gives it only as an old word for "father"; its use as a title comes from 義民爺 in the examples.
   - ref: 4
     topic: culture
     text: >
-      Who the 義民 were is a matter of history, and the history is told differently by different communities. By
-      general knowledge, they were Hakka militiamen killed in the uprisings of the late eighteenth century, honoured
-      by Hakka communities as "righteous", and remembered differently by others. The course goes no further than A-in
-      does: 大家个講法無共樣 "people tell it differently". 尊重 "respect (someone's beliefs)".
+      Who the 義民 were is a matter of history, and the history is told differently by different communities. The MOE
+      dictionary's entry 義民廟 says the earliest temple honours the dead of 康熙六十年朱一貴之亂 (1721), and that 義民爺
+      generally refers to 乾隆五十一年林爽文之亂及同治元年戴潮春之亂陣亡的當地軍民 "the local soldiers and civilians killed in
+      the 林爽文 uprising of 1786 and the 戴潮春 uprising of 1862" (the Western years are general knowledge). Beyond
+      that, the course goes no further than A-in does: 大家个講法無共樣 "people tell it differently". 尊重 "respect
+      (someone's beliefs)".
   - ref: 7
     topic: grammar
     text: >
@@ -141,7 +143,9 @@ notes:
   - ref: 14
     topic: culture
     text: >
-      Hailu calls the sweet porridge 糖糜 tong moi, where the Sixian list has 糖粥 (lesson 58 met 糜). 無硬了 "not stiff any more": Grandpa's answer to his own 手硬了 of lesson 87. 盡好聽 (line 8): 盡 means "very" here.
+      The word lists differ: Hailu 糖糜 tong moi, Sixian 糖粥; but Sixian examples use 糖糜 too (熱天个時節，阿婆當好食糖糜), as
+      lesson 58 found with 糜. Line 16 is the official sentence 逐年義民廟做中元个時節，就會有請人食糖粥, shortened; 中元
+      (the mid-seventh-month festival) is not in the word lists and is given as a name. 無硬了 "not stiff any more": Grandpa's answer to his own 手硬了 of lesson 87. 盡好聽 (line 8): 盡 means "very" here.
 
 new_words:
   - {hanzi: 三獻禮, pinyin: "samˊ hien liˊ", en: "the three-offering rite", hl: {hanzi: 三獻禮, pinyin: "samˋ hienˇ liˋ"}}
@@ -179,7 +183,7 @@ exercises:
       sx: {hanzi: "逐年七月半大家都去廟項普渡拜好兄弟。", pinyin: "dagˋ ngienˇ qidˋ ngied ban tai gaˊ du hi meu hong puˊ tu bai hoˋ hiungˊ ti."}
       hl: {hanzi: "逐年七月半大家都去廟項普渡拜好兄弟。", pinyin: "dag ngien cid ngiedˋ banˇ tai+ gaˋ du+ hiˇ miau+ hong+ puˋ tu+ baiˇ hoˊ hiungˋ ti+."}
       source: kaga115
-    - en: "Mum goes with my little sister to worship at the temple."
+    - en: "Mum goes with my little sister to worship at the temple. (the first half of an official sentence)"
       sx: {hanzi: "阿姆陪老妹去廟肚拜拜。", pinyin: "aˊ meˊ piˇ loˋ moi hi meu duˋ bai baiˊ."}
       hl: {hanzi: "阿姆陪老妹去廟肚拜拜。", pinyin: "a+ meˋ poi loˊ moiˇ hiˇ miau+ duˊ bai baiˊ."}
     - en: "The head of the committee welcomes the guests at the temple gate."
