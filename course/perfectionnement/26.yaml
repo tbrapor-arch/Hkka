@@ -1,0 +1,265 @@
+id: 26
+genre: essay
+title:
+  en: "December mustard greens"
+  sx: {hanzi: "十二月个芥菜", pinyin: "siib ngi ngied ge gie coi"}
+review: false
+setting: >-
+  Friday 15 December 2028. Sam's essay for his Hakka writing class at 聯合大學, read out in class. His first winter
+  away from home.
+names: [Sam, 阿英, 阿婆, 阿明, 法國]
+
+dialogue:
+  - n: 1
+    en: "The Hakka say 'December mustard greens', and the second half is 'they bolt' (上心), which sounds like 'heartbroken' (傷心)."
+    sx: {hanzi: "客家人講「十二月个芥菜」，後背一句係「上心」，聽起來就像「傷心」。", pinyin: "hagˋ gaˊ nginˇ gongˋ siib ngi ngied ge gie coi, heu boi idˋ gi he songˊ ximˊ, tangˊ hiˋ loiˇ qiu qiong songˊ ximˊ."}
+  - n: 2
+    en: "These last two weeks I have been December mustard greens."
+    sx: {hanzi: "這兩禮拜，𠊎就係十二月个芥菜。", pinyin: "iaˋ liongˋ liˊ bai, ngaiˇ qiu he siib ngi ngied ge gie coi."}
+  - n: 3
+    en: "The weather is cold and dreary, I'm on my own far from home, and at night I can't sleep."
+    sx: {hanzi: "天時冷沁沁仔，一儕人在外鄉，暗晡頭睡毋得。", pinyin: "tienˊ siiˇ langˊ xim xim eˋ, idˋ saˇ nginˇ coiˊ ngoi hiongˊ, am buˊ teuˇ soi mˇ dedˋ."}
+  - n: 4
+    en: "I think back to when I came to Taiwan this summer: I wanted to learn everything."
+    sx: {hanzi: "回想今年熱天來臺灣个時節，𠊎麼个都想愛學。", pinyin: "fiˇ xiongˋ gimˊ ngienˇ ngied tienˊ loiˇ toiˇ vanˇ ge siiˇ jiedˋ, ngaiˇ maˋ ge du xiongˋ oi hog."}
+  - n: 5
+    en: "Back then I was full of enthusiasm for Hakka and not the least bit afraid."
+    sx: {hanzi: "該下𠊎對客話當有興頭，一息仔都毋驚。", pinyin: "ge ha ngaiˇ dui hagˋ fa dongˊ iuˊ him teuˇ, idˋ xid eˋ du mˇ giangˊ."}
+  - n: 6
+    en: "But as the year draws to a close, I feel sadder and sadder."
+    sx: {hanzi: "毋過到吔年尾，𠊎心肚緊來緊憂傷。", pinyin: "mˇ go do leˊ ngienˇ miˊ, ngaiˇ ximˊ duˋ ginˋ loiˇ ginˋ iuˊ songˊ."}
+  - n: 7
+    en: "In France, at the end of the year, families eat together."
+    sx: {hanzi: "在法國，年尾个時節屋下人會共下食飯。", pinyin: "coiˊ fabˋ guedˋ, ngienˇ miˊ ge siiˇ jiedˋ vugˋ kaˊ nginˇ voi kiung ha siid fan."}
+  - n: 8
+    en: "This year I have no one with me, and my parents have no one with them either."
+    sx: {hanzi: "今年𠊎無伴，吾爺哀乜無伴。", pinyin: "gimˊ ngienˇ ngaiˇ moˇ panˊ, ngaˊ iaˇ oiˊ me moˇ panˊ."}
+  - n: 9
+    en: "My mother phoned and told me not to worry about her, but I know she is worrying about me."
+    sx: {hanzi: "阿姆打電話來，講毋使掛吊佢，毋過𠊎知得佢在該操煩。", pinyin: "aˊ meˊ daˋ tien fa loiˇ, gongˋ mˇ siiˋ gua diau giˇ, mˇ go ngaiˇ diˊ dedˋ giˇ du ge cauˊ fanˇ."}
+  - n: 10
+    en: "One day I did badly in a test and felt very hard done by."
+    sx: {hanzi: "有一日，𠊎考試考毋好，心肚當委屈。", pinyin: "iuˊ idˋ ngidˋ, ngaiˇ kauˋ sii kauˋ mˇ hoˋ, ximˊ duˋ dongˊ viˊ kudˋ."}
+  - n: 11
+    en: "I went back to my room, annoyed with myself and miserable, and very nearly cried."
+    sx: {hanzi: "𠊎轉到房間，又懊惱又悲傷，差一息仔就噭眵。", pinyin: "ngaiˇ zonˋ do fongˇ gienˊ, iu au nau iu biˊ songˊ, caˊ idˋ xid eˋ qiu gieu ziiˊ."}
+  - n: 12
+    en: "And that evening my computer broke down too: I was past tears!"
+    sx: {hanzi: "該暗晡電腦又壞忒，正經噭無目汁！", pinyin: "ge am buˊ tien noˋ iu faiˋ tedˋ, ziin ginˊ gieu moˇ mugˋ ziibˋ!"}
+  - n: 13
+    en: "But I thought it over slowly and said to myself: don't try so hard to be tough; when it hurts, you have to bear it."
+    sx: {hanzi: "毋過𠊎慢慢仔思考，自家講：莫恁好逞強，痛苦乜愛忍耐。", pinyin: "mˇ go ngaiˇ man man eˋ siiˊ kauˋ, qi gaˊ gongˋ: mog anˋ hoˋ ciinˋ kiongˇ, tung kuˋ me oi ngiunˊ nai."}
+    check: true
+  - n: 14
+    en: "When you come into a new place, you have to get used to it slowly."
+    sx: {hanzi: "入到新環境愛定定仔適應。", pinyin: "ngib do xinˊ fanˇ gin, oi tin tin eˋ siidˋ in."}
+    source: kaga115
+  - n: 15
+    en: "I thought of A-in's family. They are truly fond of me."
+    sx: {hanzi: "𠊎想著阿英一家人。佢兜對𠊎係真心个。", pinyin: "ngaiˇ xiongˋ doˋ aˊ inˊ idˋ gaˊ nginˇ. giˇ deuˊ dui ngaiˇ he ziinˊ ximˊ ge."}
+  - n: 16
+    en: "Every week Grandma makes me pickled-mustard soup, saying foreigners need feeding too."
+    sx: {hanzi: "阿婆逐禮拜煮鹹菜湯分𠊎食，講外國人乜愛食飽。", pinyin: "aˊ poˇ giugˋ liˊ bai zuˋ hamˇ coi tongˊ bunˊ ngaiˇ siid, gongˋ ngoi guedˋ nginˇ me oi siid bauˋ."}
+  - n: 17
+    en: "A-min envies me for speaking three languages, and I envy him for singing mountain songs."
+    sx: {hanzi: "阿明當欽羨𠊎會講三種話，𠊎乜欽羨佢會唱山歌。", pinyin: "aˊ minˇ dongˊ kimˊ xien ngaiˇ voi gongˋ samˊ zungˋ fa, ngaiˇ me kimˊ xien giˇ voi cong sanˊ goˊ."}
+  - n: 18
+    en: "A friendship like that is something I must treasure."
+    sx: {hanzi: "恁樣个友誼，𠊎愛儆惜。", pinyin: "anˋ ngiongˇ ge iuˊ ngiˇ, ngaiˇ oi kiang xiagˋ."}
+  - n: 19
+    en: "I have come to understand that even far from home, there are people I can rely on."
+    sx: {hanzi: "𠊎體會著，一儕人在外鄉，還係有人好偎靠。", pinyin: "ngaiˇ tiˋ fi doˋ, idˋ saˇ nginˇ coiˊ ngoi hiongˊ, hanˇ he iuˊ nginˇ hoˋ vaˋ ko."}
+    check: true
+  - n: 20
+    en: "Now my days are easy and full."
+    sx: {hanzi: "這下𠊎過日仔過到當自在，乜當充實。", pinyin: "iaˋ ha ngaiˇ go ngidˋ eˇ go do dongˊ cii cai, me dongˊ cungˊ siid."}
+  - n: 21
+    en: "I have more confidence in myself."
+    sx: {hanzi: "𠊎對自家較有自信吔。", pinyin: "ngaiˇ dui qi gaˊ ka iuˊ cii xin leˊ."}
+  - n: 22
+    en: "I imagine going back to France one day and speaking Hakka to my parents."
+    sx: {hanzi: "𠊎想像，日後轉法國，𠊎會講客話分爺哀聽。", pinyin: "ngaiˇ xiongˋ xiong, ngidˋ heu zonˋ fabˋ guedˋ, ngaiˇ voi gongˋ hagˋ fa bunˊ iaˇ oiˊ tangˊ."}
+  - n: 23
+    en: "They would be so moved."
+    sx: {hanzi: "佢兜一定會當感心。", pinyin: "giˇ deuˊ idˋ tin voi dongˊ gamˋ ximˊ."}
+  - n: 24
+    en: "For the sake of my future, I must keep working hard."
+    sx: {hanzi: "為著自家个前途，還係愛煞猛兜仔。", pinyin: "vi doˋ qi gaˊ ge qienˇ tuˇ, hanˇ he oi sadˋ mangˊ deuˊ eˋ."}
+    source: kaga115
+  - n: 25
+    en: "December mustard greens bolt; but January's mustard greens can be pressed into pickles."
+    sx: {hanzi: "十二月个芥菜係上心，毋過一月个芥菜做得矺鹹菜。", pinyin: "siib ngi ngied ge gie coi he songˊ ximˊ, mˇ go idˋ ngied ge gie coi zo dedˋ zagˋ hamˇ coi."}
+    check: true
+  - n: 26
+    en: "I feel content."
+    sx: {hanzi: "𠊎心肚當滿足。", pinyin: "ngaiˇ ximˊ duˋ dongˊ manˊ jiugˋ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      An essay. The title is a 師傅話 from the official lists (高級): 十二月个芥菜, whose unspoken second half is 上心
+      songˊ ximˊ "(the plant) bolts, sends up a flower stalk". 上心 sounds like 傷心 "heartbroken", so the saying means
+      "sad". Like all 師傅話 (lesson 64), you say the first half and the listener supplies the pun.
+  - ref: 3
+    topic: vocab
+    text: >
+      冷沁沁仔 langˊ xim xim eˋ "cold and dreary" (這幾日天時冷沁沁仔). 外鄉 ngoi hiongˊ "away from home, in another place"
+      (後生時節，佢去外鄉打拚). 睡毋得 "be unable to sleep" (腳痛到歸夜仔睡毋得).
+  - ref: 4
+    topic: vocab
+    text: >
+      回想 fiˇ xiongˋ "think back to" (回想還細時節个事情，試著當生趣).
+  - ref: 5
+    topic: vocab
+    text: >
+      興頭 him teuˇ "enthusiasm, keen interest" (佢對音樂當有興頭).
+  - ref: 6
+    topic: vocab
+    text: >
+      年尾 ngienˇ miˊ "the end of the year" (起福在年頭，還福在年尾). 緊來緊 "more and more" (Part 1). 憂傷 iuˊ songˊ "sad, grieved".
+  - ref: 8
+    topic: vocab
+    text: >
+      無伴 moˇ panˊ "have no companion" (正降一隻定定，細人仔無伴好尞 "an only child has no one to play with").
+  - ref: 9
+    topic: vocab
+    text: >
+      掛吊 gua diau "worry about" (毋使掛吊 "don't worry"), the Hakka word beside 掛心. 操煩 cauˊ fanˇ "worry, fret"
+      (做爺哀个，歸日仔就在該操煩細人仔). 在該 + verb "be doing" (lesson 33).
+  - ref: 10
+    topic: vocab
+    text: >
+      委屈 viˊ kudˋ "feel wronged, hard done by" (無搭無碓分人罵，心肚試著異委屈).
+  - ref: 11
+    topic: vocab
+    text: >
+      懊惱 au nau "annoyed, vexed" (朝晨無赴著車，佢一肚屎懊惱). 悲傷 "miserable". 噭眵 gieu ziiˊ "cry, snivel"
+      (講佢兩句仔就噭眵，還見笑).
+  - ref: 12
+    topic: vocab
+    text: >
+      噭無目汁 gieu moˇ mugˋ ziibˋ "too upset even to cry" (literally "cry without tears"; 車仔壞忒又無帶著錢包，這下正經噭無目汁！).
+  - ref: 13
+    topic: vocab
+    text: >
+      思考 "think, reflect". 逞強 ciinˋ kiongˇ "act tough" (莫恁好逞強！). 痛苦 "pain, suffering", 忍耐 ngiunˊ nai "bear,
+      endure" (膏藥仔，會痛乜愛忍耐). Our line; marked for review.
+  - ref: 14
+    topic: vocab
+    text: >
+      適應 siidˋ in "adapt, get used to". An official sentence; 環境 is from 進修 10.
+  - ref: 15
+    topic: vocab
+    text: >
+      真心 "sincere, from the heart" (對待朋友，愛用真心).
+  - ref: 17
+    topic: vocab
+    text: >
+      欽羨 kimˊ xien "envy, admire" (同學全部都當欽羨佢).
+  - ref: 18
+    topic: vocab
+    text: >
+      友誼 iuˊ ngiˇ "friendship" (恁多年个友誼，實在難得). 儆惜 kiang xiagˋ "treasure, take care of" (東西愛儆惜使用).
+  - ref: 19
+    topic: vocab
+    text: >
+      體會 tiˋ fi "come to understand (by experience)" (子女愛體會爺哀个辛苦). 偎靠 vaˋ ko "rely on" (老阿婆盡衰過，無人好偎靠).
+      Marked for review.
+  - ref: 20
+    topic: vocab
+    text: >
+      過日仔 "live, get by" (Part 1). 自在 cii cai "at ease" (一儕人歇莊下，生活當自在). 充實 cungˊ siid "full, rich".
+  - ref: 21
+    topic: vocab
+    text: >
+      自信 "confidence" (佢對自家無半息自信).
+  - ref: 22
+    topic: vocab
+    text: >
+      想像 xiongˋ xiong "imagine". 日後 "later on" (Part 1).
+  - ref: 23
+    topic: vocab
+    text: >
+      感心 gamˋ ximˊ "moved, touched" (Mandarin 感動).
+  - ref: 24
+    topic: vocab
+    text: >
+      前途 qienˇ tuˇ "future, prospects": an official sentence.
+  - ref: 25
+    topic: culture
+    text: >
+      Sam's own twist on the saying. 芥菜 is pressed and salted to make 鹹菜 (lesson 96), with 矺 "press down" (進修 18).
+      Marked for review.
+  - ref: 26
+    topic: vocab
+    text: >
+      滿足 manˊ jiugˋ "content, satisfied" (肚屎毋會餓著，佢就當滿足吔).
+
+new_words:
+  - {hanzi: 十二月个芥菜, pinyin: "siib ngi ngied ge gie coi", en: "December mustard greens (= sad)"}
+  - {hanzi: 上心, pinyin: "songˊ ximˊ", en: "(of a plant) bolt"}
+  - {hanzi: 冷沁沁仔, pinyin: "langˊ xim xim eˋ", en: "cold and dreary"}
+  - {hanzi: 外鄉, pinyin: "ngoi hiongˊ", en: "away from home, another place"}
+  - {hanzi: 睡毋得, pinyin: "soi mˇ dedˋ", en: "be unable to sleep"}
+  - {hanzi: 回想, pinyin: "fiˇ xiongˋ", en: "think back to"}
+  - {hanzi: 興頭, pinyin: "him teuˇ", en: "enthusiasm, keen interest"}
+  - {hanzi: 年尾, pinyin: "ngienˇ miˊ", en: "end of the year"}
+  - {hanzi: 憂傷, pinyin: "iuˊ songˊ", en: "sad, grieved"}
+  - {hanzi: 無伴, pinyin: "moˇ panˊ", en: "have no companion"}
+  - {hanzi: 掛吊, pinyin: "gua diau", en: "worry about"}
+  - {hanzi: 操煩, pinyin: "cauˊ fanˇ", en: "worry, fret"}
+  - {hanzi: 委屈, pinyin: "viˊ kudˋ", en: "feel wronged"}
+  - {hanzi: 懊惱, pinyin: "au nau", en: "annoyed, vexed"}
+  - {hanzi: 悲傷, pinyin: "biˊ songˊ", en: "miserable, sorrowful"}
+  - {hanzi: 噭眵, pinyin: "gieu ziiˊ", en: "cry, snivel"}
+  - {hanzi: 噭無目汁, pinyin: "gieu moˇ mugˋ ziibˋ", en: "too upset even to cry"}
+  - {hanzi: 思考, pinyin: "siiˊ kauˋ", en: "think, reflect"}
+  - {hanzi: 逞強, pinyin: "ciinˋ kiongˇ", en: "act tough"}
+  - {hanzi: 痛苦, pinyin: "tung kuˋ", en: "pain, suffering"}
+  - {hanzi: 忍耐, pinyin: "ngiunˊ nai", en: "bear, endure"}
+  - {hanzi: 適應, pinyin: "siidˋ in", en: "adapt, get used to"}
+  - {hanzi: 真心, pinyin: "ziinˊ ximˊ", en: "sincere, from the heart"}
+  - {hanzi: 欽羨, pinyin: "kimˊ xien", en: "envy, admire"}
+  - {hanzi: 友誼, pinyin: "iuˊ ngiˇ", en: "friendship"}
+  - {hanzi: 儆惜, pinyin: "kiang xiagˋ", en: "treasure, take care of"}
+  - {hanzi: 體會, pinyin: "tiˋ fi", en: "come to understand"}
+  - {hanzi: 偎靠, pinyin: "vaˋ ko", en: "rely on"}
+  - {hanzi: 自在, pinyin: "cii cai", en: "at ease"}
+  - {hanzi: 充實, pinyin: "cungˊ siid", en: "full, rich (of life)"}
+  - {hanzi: 自信, pinyin: "cii xin", en: "confidence"}
+  - {hanzi: 想像, pinyin: "xiongˋ xiong", en: "imagine"}
+  - {hanzi: 感心, pinyin: "gamˋ ximˊ", en: "moved, touched"}
+  - {hanzi: 前途, pinyin: "qienˇ tuˇ", en: "future, prospects"}
+  - {hanzi: 滿足, pinyin: "manˊ jiugˋ", en: "content, satisfied"}
+
+exercises:
+  translate:
+    - en: "Don't worry."
+      source: kaga115
+      sx: {hanzi: "毋使掛吊。", pinyin: "mˇ siiˋ gua diau."}
+    - en: "Don't try so hard to act tough!"
+      source: kaga115
+      sx: {hanzi: "莫恁好逞強！", pinyin: "mog anˋ hoˋ ciinˋ kiongˇ!"}
+    - en: "He is very keen on music."
+      source: kaga115
+      sx: {hanzi: "佢對音樂當有興頭。", pinyin: "giˇ dui imˊ ngog dongˊ iuˊ him teuˇ."}
+    - en: "I feel deeply sad."
+      source: kaga115
+      sx: {hanzi: "心肚十分憂傷。", pinyin: "ximˊ duˋ siib funˊ iuˊ songˊ."}
+    - en: "Children should understand how hard their parents work."
+      source: kaga115
+      sx: {hanzi: "子女愛體會爺哀个辛苦。", pinyin: "ziiˋ ngˋ oi tiˋ fi iaˇ oiˊ ge xinˊ kuˋ."}
+  fill:
+    - en: "When young, he went away from home to work hard."
+      sx: {hanzi: "後生時節，佢去___打拚。", pinyin: "heu sangˊ siiˇ jiedˋ, giˇ hi ___ daˋ biang.", answer_hanzi: "外鄉", answer: "ngoi hiongˊ"}
+    - en: "I feel very hard done by."
+      sx: {hanzi: "心肚當___。", pinyin: "ximˊ duˋ dongˊ ___.", answer_hanzi: "委屈", answer: "viˊ kudˋ"}
+    - en: "Get used to it slowly."
+      sx: {hanzi: "愛定定仔___。", pinyin: "oi tin tin eˋ ___.", answer_hanzi: "適應", answer: "siidˋ in"}
+    - en: "A friendship of so many years is rare indeed."
+      sx: {hanzi: "恁多年个___，實在難得。", pinyin: "anˋ doˊ ngienˇ ge ___, siid cai nanˇ dedˋ.", answer_hanzi: "友誼", answer: "iuˊ ngiˇ"}
+    - en: "If it hurts, you have to bear it."
+      sx: {hanzi: "會痛乜愛___。", pinyin: "voi tung me oi ___.", answer_hanzi: "忍耐", answer: "ngiunˊ nai"}
+
+audio: []
