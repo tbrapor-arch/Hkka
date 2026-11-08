@@ -227,7 +227,7 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   harvest) name the season (熱天) instead of the year.
 - Leaflets, rules, hours and limits of real Taiwanese institutions (the post office) are invented: say so in the
   setting.
-- Continuity: Sam spent the winter of 2026–27 and the 2027 New Year with the Lius (Part 1, lessons 29 and 50–51), so
-  P2 is not his "first winter" or "first New Year in Taiwan". 阿太 is Grandpa's father (lesson 65). Sam has a sister,
+- Continuity: Sam spent the winter of 2026–27 and the 2027 New Year with the Lius (Part 1, lessons 29 and 50–51): in Part 2
+  it is not his "first winter" or "first New Year in Taiwan". 阿太 is Grandpa's father (lesson 65). Sam has a sister,
   Lucie (lesson 29). A-min has never met 鍾伯.
 - 2029: the twelfth lunar month has 29 days, so New Year's Eve (Mon 12 Feb) is the 29th; it is still 年三十.
