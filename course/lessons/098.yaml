@@ -1,0 +1,140 @@
+id: 98
+title:
+  en: "Review 14"
+  sx: {hanzi: "過忒年在車頭等你", pinyin: "go tedˋ ngienˇ coiˊ caˊ teuˇ denˋ nˇ"}
+  hl: {hanzi: "明年在車頭等你", pinyin: "mang ngien coiˋ chaˋ teu denˊ ngi"}
+review: true
+setting: >-
+  Saturday 27 November, the airport train from Taipei, early morning. A-in is seeing Sam off. His suitcase is full
+  (淰), the jar of 鹹菜 wrapped in a jumper. Nothing new in the dialogue: everything comes from lessons 1–97.
+names: [阿英, 法國, 苗栗, 劉]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Have you got everything? Ticket, phone?"
+    sx: {hanzi: "東西有帶等無？票、手機仔呢？", pinyin: "dungˊ xiˊ iuˊ dai denˋ moˇ? peuˊ, suˋ giˊ eˋ neˇ?"}
+    hl: {hanzi: "東西有帶等無？票、手機呢？", pinyin: "dungˋ siˋ rhiuˋ daiˇ denˊ mo? piauˇ, shiuˊ giˋ neˇ?"}
+  - n: 2
+    speaker: Sam
+    en: "Got them. And Grandma's 鹹菜. The suitcase was already full; she made me put it in anyway."
+    sx: {hanzi: "帶等了。還有阿婆个鹹菜。皮箱既經淰了，佢還係愛𠊎放。", pinyin: "dai denˋ leˊ. hanˇ iuˊ aˊ poˇ ge hamˇ coi. piˇ xiongˊ gi ginˊ nemˊ leˊ, giˇ hanˇ he oi ngaiˇ biong."}
+    hl: {hanzi: "帶等了。還有阿婆个鹹菜。皮箱既經淰了，佢還係愛𠊎放。", pinyin: "daiˇ denˊ leˋ. han rhiuˋ a+ po gaiˇ ham coiˇ. pi siongˋ giˇ ginˋ nemˋ leˋ, gi han heˇ oiˇ ngai biongˇ."}
+  - n: 3
+    speaker: 阿英
+    en: "That's Grandma: 'heavy, my foot!'"
+    sx: {hanzi: "阿婆就係恁樣：「重麼个！」", pinyin: "aˊ poˇ qiu he anˋ ngiongˇ: cungˊ maˋ ge!"}
+    hl: {hanzi: "阿婆就係恁樣：「重麼个！」", pinyin: "a+ po ciu+ heˇ an ngiong: chungˋ maˊ gaiˇ!"}
+  - n: 4
+    speaker: Sam
+    en: "In the end, the thing I like best this year was Mid-Autumn. Grandpa won with 'a felt hat on your knee'."
+    sx: {hanzi: "這一年，𠊎盡中意个係八月半。阿公講「膝頭戴氈帽」就贏了。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ qin zung i ge he badˋ ngied ban. aˊ gungˊ gongˋ qidˋ teuˇ dai zamˊ mo qiu iangˇ leˊ."}
+    hl: {hanzi: "這一年，𠊎盡中意个係八月半。阿公講「膝頭戴氈帽」就贏了。", pinyin: "liaˊ rhid ngien, ngai cin+ zhungˇ rhiˇ gaiˇ heˇ bad ngiedˋ banˇ. a+ gungˋ gongˊ cid teu daiˇ zhanˋ mo+ ciu+ rhang leˋ."}
+  - n: 5
+    speaker: 阿英
+    en: "'No face, no eyes.' …For me, it was your speech. Not only did you come third: you even made Grandpa say 'not bad'."
+    sx: {hanzi: "「無面無目。」……𠊎係你个演講。你毋單淨得著第三名，甚至阿公乜講「會做得」。", pinyin: "moˇ mien moˇ mugˋ. … ngaiˇ he nˇ ge ienˊ gongˋ. nˇ mˇ danˊ qiang dedˋ doˋ ti samˊ miangˇ, siimˋ zii aˊ gungˊ me gongˋ voi zo dedˋ."}
+    hl: {hanzi: "「無面無目。」……𠊎係你个演講。你毋單淨得著第三名，甚至阿公乜講「會做得」。", pinyin: "mo mienˇ mo mug. … ngai heˇ ngi gaiˇ rhanˋ gongˊ. ngi m danˋ ciang+ ded doˊ ti+ samˋ miang, shimˊ zhiˇ a+ gungˋ meˇ gongˊ voi+ zoˇ ded."}
+    check: true
+  - n: 6
+    speaker: Sam
+    en: "That was the prize. …A-in, at first I thought a year was long."
+    sx: {hanzi: "該就係獎。……阿英，本成𠊎試著一年當長。", pinyin: "ge qiu he jiongˋ. … aˊ inˊ, bunˋ sangˇ ngaiˇ cii doˋ idˋ ngienˇ dongˊ congˇ."}
+    hl: {hanzi: "該就係獎。……阿英，本成𠊎試著一年當長。", pinyin: "gai ciu+ heˇ ziongˊ. … a+ rhinˋ, bunˊ shang ngai chiˇ doˊ rhid ngien dongˋ chong."}
+  - n: 7
+    speaker: 阿英
+    en: "And now?"
+    sx: {hanzi: "這下呢？", pinyin: "iaˋ ha neˇ?"}
+    hl: {hanzi: "這下呢？", pinyin: "liaˊ ha+ neˇ?"}
+  - n: 8
+    speaker: Sam
+    en: "Now I can't bear to leave."
+    sx: {hanzi: "這下𠊎毋盼得走。", pinyin: "iaˋ ha ngaiˇ mˇ pan dedˋ zeuˋ."}
+    hl: {hanzi: "這下𠊎毋盼得走。", pinyin: "liaˊ ha+ ngai m panˇ ded zeuˊ."}
+  - n: 9
+    speaker: 阿英
+    en: "Don't keep it in your heart. Grandma's second thing: say it out loud."
+    sx: {hanzi: "莫放在心肝肚。阿婆个第二件事：愛講出來。", pinyin: "mog biong coiˊ ximˊ gonˊ duˋ. aˊ poˇ ge ti ngi kien sii: oi gongˋ cudˋ loiˇ."}
+    hl: {hanzi: "莫放在心肝肚。阿婆个第二件事：愛講出來。", pinyin: "mogˋ biongˇ coiˋ simˋ gonˋ duˊ. a+ po gaiˇ ti+ ngi+ kien+ sii+: oiˇ gongˊ chud loi."}
+  - n: 10
+    speaker: Sam
+    en: "Then I'll say it: I'll miss you. I'll miss all of you."
+    sx: {hanzi: "恁樣𠊎講：𠊎會盡想你。會想你兜全部。", pinyin: "anˋ ngiongˇ ngaiˇ gongˋ: ngaiˇ voi qin xiongˋ nˇ. voi xiongˋ nˇ deuˊ qionˇ pu."}
+    hl: {hanzi: "恁樣𠊎講：𠊎會盡想你。會想你兜全部。", pinyin: "an ngiong ngai gongˊ: ngai voi+ cin+ siongˊ ngi. voi+ siongˊ ngi deuˋ cion pu+."}
+    check: true
+  - n: 11
+    speaker: 阿英
+    en: "(after a moment) Next year, at the station in France. Settled."
+    sx: {hanzi: "過忒年，法國个車頭。確定了。", pinyin: "go tedˋ ngienˇ, fabˋ guedˋ ge caˊ teuˇ. kogˋ tin leˊ."}
+    hl: {hanzi: "明年，法國个車頭。確定了。", pinyin: "mang ngien, fab gued gaiˇ chaˋ teu. kog tin+ leˋ."}
+  - n: 12
+    speaker: Sam
+    en: "Settled. I'll wait for you. Thank you, A-in."
+    sx: {hanzi: "確定了。𠊎等你。恁仔細，阿英。", pinyin: "kogˋ tin leˊ. ngaiˇ denˋ nˇ. anˋ ziiˋ se, aˊ inˊ."}
+    hl: {hanzi: "確定了。𠊎等你。承蒙你，阿英。", pinyin: "kog tin+ leˋ. ngai denˊ ngi. shin mung ngi, a+ rhinˋ."}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      既經淰了 "already full" (lesson 96); 還係愛𠊎放 "still wanted me to put it in": 還係 "still, all the same" (lesson 18).
+  - ref: 4
+    topic: grammar
+    text: >
+      𠊎盡中意个係八月半 "what I liked best was Mid-Autumn": a 个 clause as the subject (lesson 83), 盡 "most" + 中意
+      (lesson 93). The sayings are lesson 92's.
+  - ref: 5
+    topic: grammar
+    text: >
+      毋單淨…甚至… (lessons 93–94), 得著第三名 (lessons 66, 94), 會做得 (lessons 67, 94). 𠊎係你个演講 "for me it was your
+      speech": 係 links the topic and the answer, marked for a check.
+  - ref: 6
+    topic: grammar
+    text: >
+      本成…試著… "at first… I thought" (lesson 97), and line 8 answers it with 毋盼得 (lesson 96).
+  - ref: 10
+    topic: grammar
+    text: >
+      盡想你 "miss you very much" (lesson 69), with 會 "will" (lesson 34). 想你兜全部 is Sam's own word order, marked.
+  - ref: 12
+    topic: culture
+    text: >
+      Sam's last words in Taiwan are his first words in lesson 1: 恁仔細，阿英 (Hailu 承蒙你). Cover the English and tell
+      the whole year in your own Hakka: the 粄 and the tea, the New Year, 竹東, the hospital, the speech, the station.
+  - ref: 0
+    topic: hailu
+    text: >
+      Hailu this batch: 明年 for 過忒年, 最尾 for 盡尾, 該當時 for 該央時, 安𧩣 for 阿𧩣, 鼻空 for 鼻公空, 承蒙 for 恁仔細,
+      and 最 in 最重要 where the Hailu word list has it.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "No wonder he can't bear to leave: the Lius are his home."
+      sx: {hanzi: "難怪佢毋盼得走：劉家係佢屋下。", pinyin: "nanˇ guai giˇ mˇ pan dedˋ zeuˋ: liuˇ gaˊ he giˇ vugˋ kaˊ."}
+      hl: {hanzi: "難怪佢毋盼得走：劉家係佢屋下。", pinyin: "nan guaiˇ gi m panˇ ded zeuˊ: liu gaˋ heˇ gi vug haˋ."}
+    - en: "Since he came to Miaoli, his Hakka has made a lot of progress."
+      sx: {hanzi: "自從佢來苗栗，佢个客話進步當多。", pinyin: "cii qiungˇ giˇ loiˇ meuˇ lidˋ, giˇ ge hagˋ fa jin pu dongˊ doˊ."}
+      hl: {hanzi: "自從佢來苗栗，佢个客話進步當多。", pinyin: "cii+ ciung gi loi miau lid, gi gaiˇ hag voiˋ zinˇ pu+ dongˋ doˋ."}
+    - en: "Eat your bowl clean, and the year will be good."
+      sx: {hanzi: "食空空，好年冬。", pinyin: "siid kungˊ kungˊ, hoˋ ngienˇ dungˊ."}
+      hl: {hanzi: "食空空，好年冬。", pinyin: "shidˋ kungˋ kungˋ, hoˊ ngien dungˋ."}
+    - en: "Grandpa remembers things from fifty years ago very clearly."
+      sx: {hanzi: "阿公五十年前个事情都記到清清楚楚。", pinyin: "aˊ gungˊ ngˋ siib ngienˇ qienˇ ge sii qinˇ du gi do qinˊ qinˊ cuˋ cuˋ."}
+      hl: {hanzi: "阿公五十年前个事情都記到清清楚楚。", pinyin: "a+ gungˋ ngˊ shibˋ ngien cien gaiˇ sii+ cin du+ giˇ doˇ cinˋ cinˋ cuˊ cuˊ."}
+    - en: "In about ten minutes the train sets off."
+      sx: {hanzi: "再過十分鐘左右，火車就出發了。", pinyin: "zai go siib funˊ zungˊ zoˋ iu, foˋ caˊ qiu cudˋ fadˋ leˊ."}
+      hl: {hanzi: "再過十分鐘左右，火車就出發了。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, foˊ chaˋ ciu+ chud fad leˋ."}
+  fill:
+    - en: "A rice steamer on New Year's Eve: never a moment's rest."
+      sx: {hanzi: "三十暗晡个飯甑：___。", pinyin: "samˊ siib am buˊ ge fan zen: ___.", answer_hanzi: "無閒", answer: "moˇ hanˇ"}
+      hl: {hanzi: "三十暗晡个飯甑：___。", pinyin: "samˋ shibˋ amˇ buˋ gaiˇ pon+ zenˇ: ___.", answer_hanzi: "無閒", answer: "mo han"}
+    - en: "At last he's arrived."
+      sx: {hanzi: "佢___到了。", pinyin: "giˇ ___ do leˊ.", answer_hanzi: "總算", answer: "zungˋ son"}
+      hl: {hanzi: "佢___到了。", pinyin: "gi ___ doˇ leˋ.", answer_hanzi: "總算", answer: "zungˊ sonˇ"}
+    - en: "Keep in touch every week."
+      sx: {hanzi: "逐禮拜愛___。", pinyin: "dagˋ liˊ bai oi ___.", answer_hanzi: "聯絡", answer: "lienˇ log"}
+      hl: {hanzi: "逐禮拜愛___。", pinyin: "dag liˋ baiˇ oiˇ ___.", answer_hanzi: "聯絡", answer: "lien logˋ"}
+
+audio: []
