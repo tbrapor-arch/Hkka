@@ -34,13 +34,14 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 - "Talk to someone" is 同 X 講話; 同 X 講 is "tell X".
 - A demonstrative before a noun takes a classifier: 該隻阿伯, 這領衫.
 - 盡 is "very" as often as "most"; say so whenever it appears.
-- "I told you" is 𠊎講過了 / 𠊎就同你講過了, not *𠊎講了.
+- "I told you" is 𠊎講過吔 / 𠊎就同你講過吔, not *𠊎講吔.
 - "How do you know?" is 你仰會知？; 仰般 is "how / how is it".
 - 你先行 is the attested "after you"; 你行先 is described but unattested.
 - 較 X 兜仔 "a bit more X" (with 仔).
 - *Recounted:* sentence-final 了 is almost absent from the official lists (3 Sixian, 3 Hailu); the 759 were MOE.
   The official sentences end a change of state with Sixian 吔 (356) or 哩 leˊ (211, a kaga entry), Hailu 咧 leˋ (715).
-  The course writes 了 leˊ / leˋ throughout: an open course-wide decision for the final pass.
+  Decided (final pass): the course writes 吔 leˊ in Sixian and 咧 leˋ in Hailu, as the lists do; MOE quotations keep
+  their 了 (lesson 2 note).
 
 ## People
 - Sam calls Mrs Liu 伯姆, not 阿姆; the family says 阿姆.
@@ -78,7 +79,7 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
 ## Added after the batch 6 review
 - An injection is 注射 (打針 is unattested).
 - No bare 毋 + adjective, ever: 毋會嚴重, 毋會譴.
-- 舊年 is always "last year"; "this year is nearly over" is 今年愛過忒了.
+- 舊年 is always "last year"; "this year is nearly over" is 今年愛過忒吔.
 - "Nice and fine" is 幼幼仔 (剁到幼幼仔), not 當幼. "Give it a stir" is 摝摝仔.
 - "Never (have done)" is 毋識 + V過 (你毋識講過), not 無 V過.
 - No claims about how long or short a character's lines are unless you have counted.

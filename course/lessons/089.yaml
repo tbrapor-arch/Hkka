@@ -169,8 +169,8 @@ new_words:
   - {hanzi: 蛇, pinyin: "saˇ", en: "snake", hl: {hanzi: 蛇, pinyin: "sha"}}
   - {hanzi: 回聲, pinyin: "fiˇ sangˊ", en: "echo", hl: {hanzi: 回聲, pinyin: "fui shangˋ"}}
   - {hanzi: 山頂, pinyin: "sanˊ dangˋ", en: "on the mountain, up in the hills", hl: {hanzi: 山頂, pinyin: "sanˋ dangˊ"}}
-
   - {hanzi: 了, pinyin: "leˊ", en: "the dictionary's spelling of 吔 (lesson 2)", hl: {hanzi: 了, pinyin: "leˋ"}}
+
 exercises:
   translate:
     - en: "After days of heavy rain, the mountain road has given way in many places."
