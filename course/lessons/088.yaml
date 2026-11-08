@@ -1,0 +1,208 @@
+id: 88
+title:
+  en: "The 義民 festival"
+  sx: {hanzi: "義民節", pinyin: "ngi minˇ jiedˋ"}
+  hl: {hanzi: "義民節", pinyin: "ngi+ min zied"}
+review: false
+setting: >-
+  Saturday 21 August, the twentieth day of the seventh lunar month: the 義民 festival. The temple courtyard is full,
+  incense smoke hangs in the heat, and 阿貴伯's band is playing. Grandpa is in the band, with his fiddle: he has
+  practised for a month.
+names: [義民, 義民節, 義民廟, 阿貴伯, 阿劉哥, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Today is the 義民 festival. Everyone put on good clothes, and hurry, off to the temple to burn incense and pray for peace."
+    sx: {hanzi: "今晡日係義民節，大家著好衫，遽遽去廟項燒香求平安。", pinyin: "gimˊ buˊ ngidˋ he ngi minˇ jiedˋ, tai gaˊ zogˋ hoˋ samˊ, giagˋ giagˋ hi meu hong seuˊ hiongˊ kiuˇ pinˇ onˊ."}
+    hl: {hanzi: "今晡日係義民節，大家著好衫，遽遽去廟項燒香求平安。", pinyin: "gimˋ buˋ ngid heˇ ngi+ min zied, tai+ gaˋ zhog hoˊ samˋ, giag giag hiˇ miau+ hong+ shauˋ hiongˋ kiu pin onˋ."}
+  - n: 2
+    speaker: Sam
+    en: "(at the temple) It's packed! So much smoke! Who are the 義民?"
+    sx: {hanzi: "人山人海！煙恁多！義民爺係麼人？", pinyin: "nginˇ sanˊ nginˇ hoiˋ! ienˊ anˋ doˊ! ngi minˇ iaˇ he maˋ nginˇ?"}
+    hl: {hanzi: "人山人海！煙恁多！義民爺係麼人？", pinyin: "ngin sanˋ ngin hoiˊ! rhanˋ anˊ doˋ! ngi+ min rha heˇ maˊ ngin?"}
+  - n: 3
+    speaker: 阿英
+    en: "Hakka people honour the 義民 with the three-offering rite, to show their respect for them."
+    sx: {hanzi: "客家人有用三獻禮來敬義民爺，表達對義民爺个尊敬。", pinyin: "hagˋ gaˊ nginˇ iuˊ iung samˊ hien liˊ loiˇ gin ngi minˇ iaˇ, beuˋ tad dui ngi minˇ iaˇ ge zunˊ gin."}
+    hl: {hanzi: "客家人用三獻禮來敬義民爺，表達對義民爺个尊重。", pinyin: "hag gaˋ ngin rhung+ samˋ hienˇ liˋ loi ginˇ ngi+ min rha, biauˊ tadˋ duiˇ ngi+ min rha gaiˇ zunˋ chung+."}
+    source: kaga115
+  - n: 4
+    speaker: 阿英
+    en: "People tell their story in different ways. Today, you just watch, and be respectful."
+    sx: {hanzi: "佢兜个故事，大家个講法無共樣。今晡日你看就好，愛尊重。", pinyin: "giˇ deuˊ ge gu sii, tai gaˊ ge gongˋ fabˋ moˇ kiung iong. gimˊ buˊ ngidˋ nˇ kon qiu hoˋ, oi zunˊ cung."}
+    hl: {hanzi: "佢兜个故事，大家个講法無共樣。今晡日你看就好，愛尊重。", pinyin: "gi deuˋ gaiˇ guˇ sii+, tai+ gaˋ gaiˇ gongˊ fab mo kiung+ rhong+. gimˋ buˋ ngid ngi konˇ ciu+ hoˊ, oiˇ zunˋ chung+."}
+    check: true
+  - n: 5
+    speaker: 阿明
+    en: "Look, Grandpa's in the band, playing the fiddle!"
+    sx: {hanzi: "你看，阿公在八音團肚鋸弦仔！", pinyin: "nˇ kon, aˊ gungˊ coiˊ badˋ imˊ tonˇ duˋ gi hienˇ eˋ!"}
+    hl: {hanzi: "你看，阿公在八音團肚鋸弦仔！", pinyin: "ngi konˇ, a+ gungˋ coiˋ bad rhimˋ ton duˊ giˇ hien er!"}
+  - n: 6
+    speaker: 阿婆
+    en: "He's been practising for a month. Every evening, on the veranda."
+    sx: {hanzi: "佢練一隻月了。逐暗晡都在屋簷下練。", pinyin: "giˇ lien idˋ zagˋ ngied leˊ. dagˋ am buˊ du coiˊ vugˋ iamˇ haˊ lien."}
+    hl: {hanzi: "佢練一隻月了。逐暗晡都在屋簷下練。", pinyin: "gi lien+ rhid zhag ngiedˋ leˋ. dag amˇ buˋ du+ coiˋ vug rham haˋ lien+."}
+    check: true
+  - n: 7
+    speaker: 阿貴伯
+    en: "(coming over in a break, to the family) You honour us with your presence! Please, sit down, sit down!"
+    sx: {hanzi: "大駕光臨，請坐！請坐！", pinyin: "tai ga gongˊ limˇ, qiangˋ coˊ! qiangˋ coˊ!"}
+    hl: {hanzi: "大駕光臨，請坐！請坐！", pinyin: "tai+ gaˇ gongˋ lim, ciangˊ coˋ! ciangˊ coˋ!"}
+    source: kaga115
+  - n: 8
+    speaker: 阿婆
+    en: "Thank you! Your band plays beautifully this year."
+    sx: {hanzi: "恁仔細！今年你兜个八音盡好聽。", pinyin: "anˋ ziiˋ se! gimˊ ngienˇ nˇ deuˊ ge badˋ imˊ qin hoˋ tangˊ."}
+    hl: {hanzi: "承蒙你！今年你兜个八音盡好聽。", pinyin: "shin mung ngi! gimˋ ngien ngi deuˋ gaiˇ bad rhimˋ cin+ hoˊ tangˋ."}
+  - n: 9
+    speaker: 阿貴伯
+    en: "Thanks to 阿劉哥! Come, please have some sweet rice porridge."
+    sx: {hanzi: "好得有阿劉哥！來，請食糖粥。", pinyin: "hoˋ dedˋ iuˊ aˊ liuˇ goˊ! loiˇ, qiangˋ siid tongˇ zugˋ."}
+    hl: {hanzi: "好得有阿劉哥！來，請食糖糜。", pinyin: "hoˊ ded rhiuˋ a+ liu goˋ! loi, ciangˊ shidˋ tong moi."}
+  - n: 10
+    speaker: Sam
+    en: "(after the porridge, biting into a tangerine from the offerings table) Ugh, this tangerine is sour!"
+    sx: {hanzi: "哇，這隻柑仔會酸！", pinyin: "va, iaˋ zagˋ gamˊ eˋ voi sonˊ!"}
+    hl: {hanzi: "哇，這隻柑仔會酸！", pinyin: "vaˇ, liaˊ zhag gamˋ er voi+ sonˋ!"}
+    check: true
+  - n: 11
+    speaker: 阿明
+    en: "How can this tangerine be sour? Did you just eat something sweet?"
+    sx: {hanzi: "這隻柑仔哪會酸，你該下係毋係有食甜个東西？", pinyin: "iaˋ zagˋ gamˊ eˋ nai voi sonˊ, nˇ ge ha he mˇ he iuˊ siid tiamˇ ge dungˊ xiˊ?"}
+    hl: {hanzi: "這隻柑仔哪會酸，你該下係毋係有食甜个東西？", pinyin: "liaˊ zhag gamˋ er nai+ voi+ sonˋ, ngi gai ha+ heˇ m heˇ rhiuˋ shidˋ tiam gaiˇ dungˋ siˋ?"}
+    source: kaga115
+  - n: 12
+    speaker: Sam
+    en: "I did… the porridge!"
+    sx: {hanzi: "有……糖粥！", pinyin: "iuˊ … tongˇ zugˋ!"}
+    hl: {hanzi: "有……糖糜！", pinyin: "rhiuˋ … tong moi!"}
+  - n: 13
+    speaker: 阿英
+    en: "(as the music stops) Grandpa! How are your hands?"
+    sx: {hanzi: "阿公！你个手仰般？", pinyin: "aˊ gungˊ! nˇ ge suˋ ngiongˋ banˊ?"}
+    hl: {hanzi: "阿公！你个手仰般？", pinyin: "a+ gungˋ! ngi gaiˇ shiuˊ ngiongˊ banˋ?"}
+  - n: 14
+    speaker: 阿公
+    en: "(flexing his fingers, almost smiling) Not stiff any more."
+    sx: {hanzi: "無硬了。", pinyin: "moˇ ngang leˊ."}
+    hl: {hanzi: "無硬了。", pinyin: "mo ngang+ leˋ."}
+  - n: 15
+    speaker: 阿貴伯
+    en: "The offerings are done. 阿劉哥, come and burn the gold paper. The committee members are welcoming guests at the gate and want you there."
+    sx: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，喊你去。", pinyin: "bai baiˊ hoˋ leˊ. aˊ liuˇ goˊ, loiˇ seuˊ gimˊ. viˊ ienˇ coiˊ meu munˇ heuˋ ngiangˇ nginˇ hagˋ, ham nˇ hi."}
+    hl: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，喊你去。", pinyin: "bai baiˊ hoˊ leˋ. a+ liu goˋ, loi shauˋ gimˋ. vuiˋ rhan coiˋ miau+ mun heuˊ ngiang ngin hag, hamˇ ngi hiˇ."}
+    check: true
+  - n: 16
+    speaker: 阿婆
+    en: "(to Sam, as Grandpa goes) Look: they make offerings to the 義民 of tangerines and sweet porridge."
+    sx: {hanzi: "你看，佢兜用柑仔同糖粥供義民爺。", pinyin: "nˇ kon, giˇ deuˊ iung gamˊ eˋ tungˇ tongˇ zugˋ giung ngi minˇ iaˇ."}
+    hl: {hanzi: "你看，佢兜用柑仔摎糖糜供義民爺。", pinyin: "ngi konˇ, gi deuˋ rhung+ gamˋ er lauˋ tong moi giungˇ ngi+ min rha."}
+    check: true
+  - n: 17
+    speaker: Sam
+    en: "Next time there's 普渡, I'll come too."
+    sx: {hanzi: "下二擺普渡，𠊎乜愛來。", pinyin: "ha ngi baiˋ puˊ tu, ngaiˇ me oi loiˇ."}
+    hl: {hanzi: "下二擺普渡，𠊎乜愛來。", pinyin: "ha+ ngi+ baiˊ puˋ tu+, ngai meˇ oiˇ loi."}
+
+notes:
+  - ref: 1
+    topic: culture
+    text: >
+      The 義民 festival falls on the twentieth day of the seventh lunar month (general knowledge; in 2027, Saturday 21
+      August). The examples mention 義民廟 (吾屋下在義民廟附近，有閒愛來坐), the 義民祭典 (𠊎誠心誠意邀請大家來參加今年个義民祭典),
+      and 糖粥 at the temple in the seventh month (逐年義民廟做中元个時節，就會有請人食糖粥).
+  - ref: 3
+    topic: culture
+    text: >
+      An official sentence, and each accent has its own version: Sixian 客家人有用三獻禮來敬義民爺，表達對義民爺个尊敬; Hailu
+      客家人用三獻禮來敬義民爺，表達對義民爺个尊重 (no 有, and 尊重 for 尊敬). 三獻禮 samˊ hien liˊ is the ceremony of three
+      offerings; 敬 gin "honour, worship"; 表達 "express"; 尊敬 "respect". 爺 iaˇ is a respectful title for a god.
+  - ref: 4
+    topic: culture
+    text: >
+      Who the 義民 were is a matter of history, and the history is told differently by different communities. By
+      general knowledge, they were Hakka militiamen killed in the uprisings of the late eighteenth century, honoured
+      by Hakka communities as "righteous", and remembered differently by others. The course goes no further than A-in
+      does: 大家个講法無共樣 "people tell it differently". 尊重 "respect (someone's beliefs)".
+  - ref: 7
+    topic: grammar
+    text: >
+      Respect language: 大駕光臨，請坐！請坐！ is an official sentence, word for word, in both accents: "your exalted
+      carriage has arrived", the host's welcome for honoured guests. 請 + verb is the polite invitation (請坐, 請食,
+      line 9). Grandma answers with plain 恁仔細; in Hailu, 承蒙你.
+  - ref: 10
+    topic: grammar
+    text: >
+      會 + adjective, for a quality you notice when you try something: 這隻柑仔會酸 "this tangerine is (turning out) sour".
+      A-min's reply is the official sentence that teaches it: 這隻柑仔哪會酸…？ "how can it be sour…?". Compare 會痛 "it
+      hurts" (lesson 39). Sam's exclamation itself has no example, so it is marked. 該下 ge ha "at that time, just
+      then". Its Hailu line is the course's transposition (the official sentence is Sixian only).
+  - ref: 14
+    topic: culture
+    text: >
+      Hailu calls the sweet porridge 糖糜 tong moi, where the Sixian list has 糖粥 (lesson 58 met 糜). 無硬了 "not stiff any more": Grandpa's answer to his own 手硬了 of lesson 87. 盡好聽 (line 8): 盡 means "very" here.
+
+new_words:
+  - {hanzi: 三獻禮, pinyin: "samˊ hien liˊ", en: "the three-offering rite", hl: {hanzi: 三獻禮, pinyin: "samˋ hienˇ liˋ"}}
+  - {hanzi: 敬, pinyin: "gin", en: "honour, worship; respect", hl: {hanzi: 敬, pinyin: "ginˇ"}}
+  - {hanzi: 爺, pinyin: "iaˇ", en: "(title of respect for a god)", hl: {hanzi: 爺, pinyin: "rha"}}
+  - {hanzi: 表達, pinyin: "beuˋ tad", en: "express", hl: {hanzi: 表達, pinyin: "biauˊ tadˋ"}}
+  - {hanzi: 尊敬, pinyin: "zunˊ gin", en: "respect, revere", hl: {hanzi: 尊敬, pinyin: "zunˋ ginˇ"}}
+  - {hanzi: 尊重, pinyin: "zunˊ cung", en: "respect (someone's views, beliefs)", hl: {hanzi: 尊重, pinyin: "zunˋ chung+"}}
+  - {hanzi: 駕, pinyin: "ga", en: "(大駕) honoured guest (lit. carriage)", hl: {hanzi: 駕, pinyin: "gaˇ"}}
+  - {hanzi: 屋簷下, pinyin: "vugˋ iamˇ haˊ", en: "under the eaves, the veranda", hl: {hanzi: 屋簷下, pinyin: "vug rham haˋ"}}
+  - {hanzi: 哇, pinyin: "va", en: "wow, ugh (exclamation)", hl: {hanzi: 哇, pinyin: "vaˇ"}}
+  - {hanzi: 求, pinyin: "kiuˇ", en: "pray for, ask for", hl: {hanzi: 求, pinyin: "kiu"}}
+  - {hanzi: 人山人海, pinyin: "nginˇ sanˊ nginˇ hoiˋ", en: "crowds and crowds", hl: {hanzi: 人山人海, pinyin: "ngin sanˋ ngin hoiˊ"}}
+  - {hanzi: 煙, pinyin: "ienˊ", en: "smoke", hl: {hanzi: 煙, pinyin: "rhanˋ"}}
+  - {hanzi: 燒金, pinyin: "seuˊ gimˊ", en: "burn gold paper (for the gods)", hl: {hanzi: 燒金, pinyin: "shauˋ gimˋ"}}
+  - {hanzi: 金紙, pinyin: "gimˊ ziiˋ", en: "gold paper (offering)", hl: {hanzi: 金紙, pinyin: "gimˋ zhiˊ"}}
+  - {hanzi: 光臨, pinyin: "gongˊ limˇ", en: "(polite) honour (a place) with one's presence", hl: {hanzi: 光臨, pinyin: "gongˋ lim"}}
+  - {hanzi: 糖粥, pinyin: "tongˇ zugˋ", en: "sweet rice porridge", hl: {hanzi: 糖糜, pinyin: "tong moi"}}
+  - {hanzi: 祭典, pinyin: "ji dienˋ", en: "rite, ceremony", hl: {hanzi: 祭典, pinyin: "ziˇ dienˊ"}}
+  - {hanzi: 邀請, pinyin: "ieuˊ qiangˋ", en: "invite (formal)", hl: {hanzi: 邀請, pinyin: "rhauˋ ciangˊ"}}
+  - {hanzi: 誠心誠意, pinyin: "siinˇ ximˊ siinˇ i", en: "with all sincerity", hl: {hanzi: 誠心誠意, pinyin: "shin simˋ shin rhiˇ"}}
+  - {hanzi: 普渡, pinyin: "puˊ tu", en: "offerings for the wandering spirits (seventh month)", hl: {hanzi: 普渡, pinyin: "puˋ tu+"}}
+  - {hanzi: 拜拜, pinyin: "bai baiˊ", en: "worship (at a temple), make offerings", hl: {hanzi: 拜拜, pinyin: "bai baiˊ"}}
+  - {hanzi: 委員, pinyin: "viˊ ienˇ", en: "committee member", hl: {hanzi: 委員, pinyin: "vuiˋ rhan"}}
+  - {hanzi: 供, pinyin: "giung", en: "make an offering", hl: {hanzi: 供, pinyin: "giungˇ"}}
+  - {hanzi: 迎, pinyin: "ngiangˇ", en: "welcome, receive (a god, a guest)", hl: {hanzi: 迎, pinyin: "ngiang"}}
+
+exercises:
+  translate:
+    - en: "I sincerely invite everyone to this year's 義民 ceremony."
+      sx: {hanzi: "𠊎誠心誠意邀請大家來參加今年个義民祭典。", pinyin: "ngaiˇ siinˇ ximˊ siinˇ i ieuˊ qiangˋ tai gaˊ loiˇ camˊ gaˊ gimˊ ngienˇ ge ngi minˇ ji dienˋ."}
+      hl: {hanzi: "𠊎誠心誠意邀請大家來參加今年个義民祭典。", pinyin: "ngai shin simˋ shin rhiˇ rhauˋ ciangˊ tai+ gaˋ loi camˋ gaˋ gimˋ ngien gaiˇ ngi+ min ziˇ dienˊ."}
+      source: kaga115
+    - en: "Every year in the seventh month everyone goes to the temple to make offerings for the wandering spirits."
+      sx: {hanzi: "逐年七月半大家都去廟項普渡拜好兄弟。", pinyin: "dagˋ ngienˇ qidˋ ngied ban tai gaˊ du hi meu hong puˊ tu bai hoˋ hiungˊ ti."}
+      hl: {hanzi: "逐年七月半大家都去廟項普渡拜好兄弟。", pinyin: "dag ngien cid ngiedˋ banˇ tai+ gaˋ du+ hiˇ miau+ hong+ puˋ tu+ baiˇ hoˊ hiungˋ ti+."}
+      source: kaga115
+    - en: "Mum goes with my little sister to worship at the temple."
+      sx: {hanzi: "阿姆陪老妹去廟肚拜拜。", pinyin: "aˊ meˊ piˇ loˋ moi hi meu duˋ bai baiˊ."}
+      hl: {hanzi: "阿姆陪老妹去廟肚拜拜。", pinyin: "a+ meˋ poi loˊ moiˇ hiˇ miau+ duˊ bai baiˊ."}
+    - en: "The head of the committee welcomes the guests at the temple gate."
+      sx: {hanzi: "主任委員在廟門口迎人客。", pinyin: "zuˋ im viˊ ienˇ coiˊ meu munˇ heuˋ ngiangˇ nginˇ hagˋ."}
+      hl: {hanzi: "主任委員在廟門口迎人客。", pinyin: "zhuˊ rhim+ vuiˋ rhan coiˋ miau+ mun heuˊ ngiang ngin hag."}
+      check: true
+    - en: "Grandma offers tangerines to the gods."
+      sx: {hanzi: "阿婆用柑仔供神明。", pinyin: "aˊ poˇ iung gamˊ eˋ giung siinˇ minˇ."}
+      hl: {hanzi: "阿婆用柑仔供神明。", pinyin: "a+ po rhung+ gamˋ er giungˇ shin min."}
+      check: true
+    - en: "After the offerings, Grandma goes to burn the gold paper."
+      sx: {hanzi: "拜拜好了，阿婆去燒金。金紙愛燒好。", pinyin: "bai baiˊ hoˋ leˊ, aˊ poˇ hi seuˊ gimˊ. gimˊ ziiˋ oi seuˊ hoˋ."}
+      hl: {hanzi: "拜拜好了，阿婆去燒金。金紙愛燒好。", pinyin: "bai baiˊ hoˊ leˋ, a+ po hiˇ shauˋ gimˋ. gimˋ zhiˊ oiˇ shauˋ hoˊ."}
+      check: true
+  fill:
+    - en: "Please sit down!"
+      sx: {hanzi: "___坐！", pinyin: "___ coˊ!", answer_hanzi: "請", answer: "qiangˋ"}
+      hl: {hanzi: "___坐！", pinyin: "___ coˋ!", answer_hanzi: "請", answer: "ciangˊ"}
+    - en: "How can this tangerine be sour?"
+      sx: {hanzi: "這隻柑仔哪___酸？", pinyin: "iaˋ zagˋ gamˊ eˋ nai ___ sonˊ?", answer_hanzi: "會", answer: "voi"}
+      hl: {hanzi: "這隻柑仔哪___酸？", pinyin: "liaˊ zhag gamˋ er nai+ ___ sonˋ?", answer_hanzi: "會", answer: "voi+"}
+    - en: "to show respect for the 義民"
+      sx: {hanzi: "___對義民爺个尊敬", pinyin: "___ dui ngi minˇ iaˇ ge zunˊ gin", answer_hanzi: "表達", answer: "beuˋ tad"}
+      hl: {hanzi: "___對義民爺个尊重", pinyin: "___ duiˇ ngi+ min rha gaiˇ zunˋ chung+", answer_hanzi: "表達", answer: "biauˊ tadˋ"}
+
+audio: []
