@@ -1,0 +1,217 @@
+id: 94
+title:
+  en: "The speech contest"
+  sx: {hanzi: "心肝七上八落", pinyin: "ximˊ gonˊ qidˋ songˊ badˋ log"}
+  hl: {hanzi: "心肝七上八落", pinyin: "simˋ gonˋ cid shongˋ bad logˋ"}
+review: false
+setting: >-
+  Saturday 23 October, the county hall in 苗栗. Sam has been up since dawn practising in the courtyard; the whole
+  family has come, Grandpa in his good shirt. Sam is number twelve of fifteen.
+names: [苗栗, 法國, 劉家, 南庄, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "In about ten more minutes the contest begins."
+    sx: {hanzi: "再過十分鐘左右，演講比賽就開始了。", pinyin: "zai go siib funˊ zungˊ zoˋ iu, ienˊ gongˋ biˋ soi qiu koiˊ ciiˋ leˊ."}
+    hl: {hanzi: "再過十分鐘左右，演講比賽就開始了。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, rhanˋ gongˊ biˊ soiˇ ciu+ koiˋ shiˊ leˋ."}
+    source: kaga115
+  - n: 2
+    speaker: Sam
+    en: "My heart's going up and down like anything… I was up at dawn practising, and now I can't remember a thing."
+    sx: {hanzi: "𠊎个心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngaiˇ ge ximˊ gonˊ qidˋ songˊ badˋ log … daˋ zoˋ qiu hiˋ loiˇ lien xib, iaˋ ha qionˇ mˇ gi dedˋ leˊ."}
+    hl: {hanzi: "𠊎个心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngai gaiˇ simˋ gonˋ cid shongˋ bad logˋ … daˊ zoˊ ciu+ hiˊ loi lien+ sibˋ, liaˊ ha+ cion m giˇ ded leˋ."}
+    check: true
+  - n: 3
+    speaker: 阿婆
+    en: "No need to be scared. Be brave and speak!"
+    sx: {hanzi: "毋使驚。好膽講！", pinyin: "mˇ siiˋ giangˊ. hoˋ damˋ gongˋ!"}
+    hl: {hanzi: "毋使驚。好膽講！", pinyin: "m siiˊ giangˋ. hoˊ damˊ gongˊ!"}
+    check: true
+  - n: 4
+    speaker: 阿英
+    en: "Remember: your speech mustn't go over five minutes."
+    sx: {hanzi: "記得：你這篇演講毋好超過五分鐘。", pinyin: "gi dedˋ: nˇ iaˋ pienˊ ienˊ gongˋ mˇ hoˋ ceuˊ go ngˋ funˊ zungˊ."}
+    hl: {hanzi: "記得：你這篇演講毋好超過五分鐘。", pinyin: "giˇ ded: ngi liaˊ pienˋ rhanˋ gongˊ m hoˊ chauˋ goˇ ngˊ funˋ zhungˋ."}
+  - n: 5
+    speaker: Sam
+    en: "(at the microphone) Ladies and gentlemen, friends, good afternoon. My name is Sam. I come from France."
+    sx: {hanzi: "各位先生、各位朋友，大家好。𠊎係 Sam，從法國來个。", pinyin: "gogˋ vi xinˊ sangˊ, gogˋ vi penˇ iuˊ, tai gaˊ hoˋ. ngaiˇ he Sam, qiungˇ fabˋ guedˋ loiˇ ge."}
+    hl: {hanzi: "各位先生、各位朋友，大家好。𠊎係 Sam，從法國來个。", pinyin: "gog vui+ sinˋ sangˋ, gog vui+ pen rhiuˋ, tai+ gaˋ hoˊ. ngai heˇ Sam, ciung fab gued loi gaiˇ."}
+    check: true
+  - n: 6
+    speaker: Sam
+    en: "A year ago I got off the train at Miaoli station. At that time, all the Hakka I had was 'a little'."
+    sx: {hanzi: "一年前，𠊎在苗栗車站落車。該央時，𠊎个客話就一息仔定定。", pinyin: "idˋ ngienˇ qienˇ, ngaiˇ coiˊ meuˇ lidˋ caˊ zam log caˊ. ge iongˊ siiˇ, ngaiˇ ge hagˋ fa qiu idˋ xid eˋ tin tin."}
+    hl: {hanzi: "一年前，𠊎在苗栗車站落車。該當時，𠊎个客話就一息仔定定。", pinyin: "rhid ngien cien, ngai coiˋ miau lid chaˋ cam+ logˋ chaˋ. gai dongˋ shi, ngai gaiˇ hag voiˋ ciu+ rhid sid er tin+ tin+."}
+  - n: 7
+    speaker: Sam
+    en: "This year I didn't only learn Hakka: I even learnt to make 粄, to prune tea and to sing 山歌."
+    sx: {hanzi: "這一年，𠊎毋單淨學客話，甚至還學著做粄、剪茶、唱山歌。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ mˇ danˊ qiang hog hagˋ fa, siimˋ zii hanˇ hog doˋ zo banˋ, jienˋ caˇ, cong sanˊ goˊ."}
+    hl: {hanzi: "這一年，𠊎毋單淨學客話，甚至還學著做粄、剪茶、唱山歌。", pinyin: "liaˊ rhid ngien, ngai m danˋ ciang+ hogˋ hag voiˋ, shimˊ zhiˇ han hogˋ doˊ zoˇ banˊ, zienˊ ca, chongˇ sanˋ goˋ."}
+  - n: 8
+    speaker: Sam
+    en: "At first it was for my studies. Then I found out that it was so I could talk to the family I live with."
+    sx: {hanzi: "一開始係為著讀書。後來𠊎發現，原來係為著好同屋下人講話。", pinyin: "idˋ koiˊ ciiˋ he vi doˋ tug suˊ. heu loiˇ ngaiˇ fadˋ hien, ngienˇ loiˇ he vi doˋ hoˋ tungˇ vugˋ kaˊ nginˇ gongˋ fa."}
+    hl: {hanzi: "一開始係為著讀書。後來𠊎發現，原來係為著好摎屋下人講話。", pinyin: "rhid koiˋ shiˊ heˇ vui+ doˊ tugˋ shuˋ. heu+ loi ngai fad hien+, ngien loi heˇ vui+ doˊ hoˊ lauˋ vug haˋ ngin gongˊ faˇ."}
+  - n: 9
+    speaker: Sam
+    en: "Where I've said it wrong, please forgive me. Thank you to the Liu family, thank you all. 恁仔細！"
+    sx: {hanzi: "𠊎講毋對个所在，請大家原諒。感謝劉家，感謝大家。恁仔細！", pinyin: "ngaiˇ gongˋ mˇ dui ge soˋ cai, qiangˋ tai gaˊ ngienˇ liong. gamˋ qia liuˇ gaˊ, gamˋ qia tai gaˊ. anˋ ziiˋ se!"}
+    hl: {hanzi: "𠊎講毋對个所在，請大家原諒。感謝劉家，感謝大家。承蒙！", pinyin: "ngai gongˊ m duiˇ gaiˇ soˊ cai+, ciangˊ tai+ gaˋ ngien liong+. gamˊ cia+ liu gaˋ, gamˊ cia+ tai+ gaˋ. shin mung!"}
+  - n: 10
+    speaker: 阿婆
+    en: "(to A-in, as the audience claps) Look at that! He spoke so well!"
+    sx: {hanzi: "你看！佢講到恁好！", pinyin: "nˇ kon! giˇ gongˋ do anˋ hoˋ!"}
+    hl: {hanzi: "你看！佢講到恁好！", pinyin: "ngi konˇ! gi gongˊ doˇ anˊ hoˊ!"}
+  - n: 11
+    speaker: 阿英
+    en: "(an hour later) They're about to announce the winners' names. The whole hall has gone dead quiet."
+    sx: {hanzi: "等下就愛講得獎人个名仔了。觀眾全緊張到恬索索。", pinyin: "denˋ ha qiu oi gongˋ dedˋ jiongˋ nginˇ ge miangˇ eˋ leˊ. gonˊ zung qionˇ ginˋ zongˊ do diamˊ sogˋ sogˋ."}
+    hl: {hanzi: "等下就愛講得獎人个名仔了。觀眾全緊張到恬索索。", pinyin: "denˊ ha+ ciu+ oiˇ gongˊ ded ziongˊ ngin gaiˇ miang er leˋ. gonˋ zhungˇ cion ginˊ zhongˋ doˇ diamˋ sog sog."}
+    check: true
+  - n: 12
+    speaker: 主持人
+    en: "Third place: Sam Martin!"
+    sx: {hanzi: "第三名：Sam Martin！", pinyin: "ti samˊ miangˇ: Sam Martin!"}
+    hl: {hanzi: "第三名：Sam Martin！", pinyin: "ti+ samˋ miang: Sam Martin!"}
+  - n: 13
+    speaker: 阿婆
+    en: "Third! The same as me at 天穿日!"
+    sx: {hanzi: "第三名！同𠊎共樣！", pinyin: "ti samˊ miangˇ! tungˇ ngaiˇ kiung iong!"}
+    hl: {hanzi: "第三名！摎𠊎共樣！", pinyin: "ti+ samˋ miang! lauˋ ngai kiung+ rhong+!"}
+  - n: 14
+    speaker: 阿明
+    en: "Go on, Sam, up you go! The county head is giving out the prizes: a certificate, and prize money too!"
+    sx: {hanzi: "Sam，遽遽上臺！縣長在該頒獎：有獎狀，還有獎金！", pinyin: "Sam, giagˋ giagˋ songˊ toiˇ! ien zongˋ du ge banˊ jiongˋ: iuˊ jiongˋ cong, hanˇ iuˊ jiongˋ gimˊ!"}
+    hl: {hanzi: "Sam，遽遽上臺！縣長在該頒獎：有獎狀，還有獎金！", pinyin: "Sam, giag giag shongˋ toi! rhanˇ zhongˊ diˇ gai banˋ ziongˊ: rhiuˋ ziongˊ cong+, han rhiuˋ ziongˊ gimˋ!"}
+  - n: 15
+    speaker: 阿英
+    en: "(to Grandma, while Sam is on the stage) He's made so much progress. A year ago I'd never have believed it."
+    sx: {hanzi: "佢進步恁多。一年前，𠊎從來毋會相信。", pinyin: "giˇ jin pu anˋ doˊ. idˋ ngienˇ qienˇ, ngaiˇ qiungˇ loiˇ mˇ voi xiongˊ xin."}
+    hl: {hanzi: "佢進步恁多。一年前，𠊎從來毋會相信。", pinyin: "gi zinˇ pu+ anˊ doˋ. rhid ngien cien, ngai ciung loi m voi+ siongˋ sinˇ."}
+    check: true
+  - n: 16
+    speaker: 阿公
+    en: "…Not bad."
+    sx: {hanzi: "……會做得。", pinyin: "… voi zo dedˋ."}
+    hl: {hanzi: "……會做得。", pinyin: "… voi+ zoˇ ded."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      An official sentence word for word, with its recording to come: 再過十分鐘左右，演講比賽就開始了 "in about ten more
+      minutes the speech contest begins". 再過 + time "in… more", 左右 "about" (lesson 93).
+  - ref: 2
+    topic: vocab
+    text: >
+      心肝 ximˊ gonˊ "heart" (the organ, and the feelings: dictionary 心臟 / 心腸). 七上八落 qidˋ songˊ badˋ log "all of a
+      flutter" (dictionary: 忐忑不安): the official example is 想著等下愛上臺表演，老妹就在該七上八落 "thinking that she
+      had to go on stage in a moment, my sister was all of a flutter". 打早 "at the crack of dawn".
+  - ref: 3
+    topic: vocab
+    text: >
+      好膽 hoˋ damˋ "brave, bold" (dictionary: 有膽量、不怕). 好膽講 "have the nerve to speak" is Grandma's coinage, marked.
+      Its opposite, of a person who has no nerve at all: 無膽.
+  - ref: 4
+    topic: vocab
+    text: >
+      這篇演講 "this speech": 篇 pienˊ is the classifier for a speech, an essay or an article. 超過 ceuˊ go "go over, exceed" (a false friend in the list: 逾越了標準, only of limits, not of overtaking a car).
+  - ref: 5
+    topic: grammar
+    text: >
+      The opening of every Hakka speech: 各位先生、各位朋友，大家好. 各位 (lesson 60) "each of you, all". 從法國來个 "(I'm) from
+      France": 從 qiungˇ "from" (lesson 85) + place + 來个.
+  - ref: 6
+    topic: grammar
+    text: >
+      該央時 ge iongˊ siiˇ "at that time": the Sixian form the dictionary gives (MOE: 四縣為「該央時」); Hailu says 該當時.
+      Lesson 83 taught the plain 當時, which both accents share. Sam is quoting lesson 1 (一息仔) on purpose.
+  - ref: 7
+    topic: grammar
+    text: >
+      The speech is lesson 93's draft, as delivered: 毋單淨…甚至還… "not only… even", the strongest form of the pattern.
+  - ref: 9
+    topic: hailu
+    text: >
+      Sam thanks the room in Sixian, 恁仔細; the Hailu column says 承蒙, as a Hailu speaker would (lesson 53). 劉家 "the Liu
+      family": surname + 家.
+  - ref: 11
+    topic: grammar
+    text: >
+      Adapted from the official sentence 等下主辦人就愛當眾宣布得獎人个名仔，這下大家全緊張到恬索索 "in a moment the
+      organiser will announce the winners' names in front of everyone; now everyone is so tense you could hear a pin
+      drop". 恬索索 diamˊ sogˋ sogˋ "dead quiet" (an ABB form, lesson 69). 名仔 "name". 觀眾 "audience".
+  - ref: 13
+    topic: culture
+    text: >
+      Grandma came third at the 天穿日 山歌 contest (lessons 56, 60). Third place runs in the family now.
+  - ref: 14
+    topic: vocab
+    text: >
+      Prize words: 頒獎 banˊ jiongˋ "award the prizes", 獎狀 jiongˋ cong "certificate", 獎金 jiongˋ gimˊ "prize money";
+      上臺 "go up on stage". 縣長 "county head".
+  - ref: 15
+    topic: vocab
+    text: >
+      進步 jin pu "progress, improve" (a false friend in the list only because Hakka also uses it of a person getting
+      better). 從來毋會 "would never have": 從來 qiungˇ loiˇ "ever, at all" (dictionary: 向來).
+  - ref: 16
+    topic: grammar
+    text: >
+      會做得 "not bad" (lesson 67), the same verdict Grandpa gave in lesson 84.
+      From Grandpa, it is the prize.
+
+new_words:
+  - {hanzi: 心肝, pinyin: "ximˊ gonˊ", en: "heart (organ; feelings)", hl: {hanzi: 心肝, pinyin: "simˋ gonˋ"}}
+  - {hanzi: 七上八落, pinyin: "qidˋ songˊ badˋ log", en: "all of a flutter, anxious", hl: {hanzi: 七上八落, pinyin: "cid shongˋ bad logˋ"}}
+  - {hanzi: 打早, pinyin: "daˋ zoˋ", en: "at the crack of dawn", hl: {hanzi: 打早, pinyin: "daˊ zoˊ"}}
+  - {hanzi: 好膽, pinyin: "hoˋ damˋ", en: "brave, bold", hl: {hanzi: 好膽, pinyin: "hoˊ damˊ"}}
+  - {hanzi: 篇, pinyin: "pienˊ", en: "(classifier for speeches, essays)", hl: {hanzi: 篇, pinyin: "pienˋ"}}
+  - {hanzi: 獎, pinyin: "jiongˋ", en: "prize, award", hl: {hanzi: 獎, pinyin: "ziongˊ"}}
+  - {hanzi: 超過, pinyin: "ceuˊ go", en: "exceed, go over (a limit)", hl: {hanzi: 超過, pinyin: "chauˋ goˇ"}}
+  - {hanzi: 該央時, pinyin: "ge iongˊ siiˇ", en: "at that time", hl: {hanzi: 該當時, pinyin: "gai dongˋ shi"}}
+  - {hanzi: 名仔, pinyin: "miangˇ eˋ", en: "name", hl: {hanzi: 名仔, pinyin: "miang er"}}
+  - {hanzi: 觀眾, pinyin: "gonˊ zung", en: "audience", hl: {hanzi: 觀眾, pinyin: "gonˋ zhungˇ"}}
+  - {hanzi: 恬索索, pinyin: "diamˊ sogˋ sogˋ", en: "dead quiet", hl: {hanzi: 恬索索, pinyin: "diamˋ sog sog"}}
+  - {hanzi: 頒獎, pinyin: "banˊ jiongˋ", en: "award prizes", hl: {hanzi: 頒獎, pinyin: "banˋ ziongˊ"}}
+  - {hanzi: 獎狀, pinyin: "jiongˋ cong", en: "certificate (of an award)", hl: {hanzi: 獎狀, pinyin: "ziongˊ cong+"}}
+  - {hanzi: 獎金, pinyin: "jiongˋ gimˊ", en: "prize money", hl: {hanzi: 獎金, pinyin: "ziongˊ gimˋ"}}
+  - {hanzi: 縣長, pinyin: "ien zongˋ", en: "county head", hl: {hanzi: 縣長, pinyin: "rhanˇ zhongˊ"}}
+  - {hanzi: 進步, pinyin: "jin pu", en: "progress, improve", hl: {hanzi: 進步, pinyin: "zinˇ pu+"}}
+  - {hanzi: 從來, pinyin: "qiungˇ loiˇ", en: "ever, at all, all along", hl: {hanzi: 從來, pinyin: "ciung loi"}}
+  - {hanzi: 表現, pinyin: "beuˋ hien", en: "performance; perform", hl: {hanzi: 表現, pinyin: "biauˊ hien+"}}
+  - {hanzi: 厲害, pinyin: "li hoi", en: "impressive, formidable", hl: {hanzi: 厲害, pinyin: "li+ hoi+"}}
+  - {hanzi: 恁會, pinyin: "anˋ voi", en: "so good (at it)! well done!", hl: {hanzi: 恁會, pinyin: "anˋ voi+"}}
+  - {hanzi: 勇敢, pinyin: "iungˋ gamˋ", en: "brave", hl: {hanzi: 勇敢, pinyin: "rhungˊ gamˊ"}}
+  - {hanzi: 試著, pinyin: "cii doˋ", en: "feel, think (that)", hl: {hanzi: 試著, pinyin: "chiˇ doˊ"}}
+
+exercises:
+  translate:
+    - en: "Thinking she had to go on stage in a moment, my sister was all of a flutter."
+      sx: {hanzi: "想著等下愛上臺表演，老妹就在該七上八落。", pinyin: "xiongˋ doˋ denˋ ha oi songˊ toiˇ beuˋ ienˊ, loˋ moi qiu du ge qidˋ songˊ badˋ log."}
+      hl: {hanzi: "想著等下愛上臺表演，老妹就在該七上八落。", pinyin: "siongˊ doˊ denˊ ha+ oiˇ shongˋ toi biauˊ rhanˋ, loˊ moiˇ ciu+ diˇ gai cid shongˋ bad logˋ."}
+      source: kaga115
+    - en: "Your performance today was impressive. So good!"
+      sx: {hanzi: "你今晡日个表現當厲害。恁會！", pinyin: "nˇ gimˊ buˊ ngidˋ ge beuˋ hien dongˊ li hoi. anˋ voi!"}
+      hl: {hanzi: "你今晡日个表現當厲害。恁會！", pinyin: "ngi gimˋ buˋ ngid gaiˇ biauˊ hien+ dongˋ li+ hoi+. anˋ voi+!"}
+    - en: "A-min was very brave on 南庄 that night."
+      sx: {hanzi: "該暗晡在南庄，阿明當勇敢。", pinyin: "ge am buˊ coiˊ namˇ zongˊ, aˊ minˇ dongˊ iungˋ gamˋ."}
+      hl: {hanzi: "該暗晡在南庄，阿明當勇敢。", pinyin: "gai amˇ buˋ coiˋ nam zhongˋ, a+ min dongˋ rhungˊ gamˊ."}
+    - en: "I feel this speech is a bit too long: it goes over five minutes."
+      sx: {hanzi: "𠊎試著這篇演講忒長了，超過五分鐘。", pinyin: "ngaiˇ cii doˋ iaˋ pienˊ ienˊ gongˋ tedˋ congˇ leˊ, ceuˊ go ngˋ funˊ zungˊ."}
+      hl: {hanzi: "𠊎試著這篇演講忒長了，超過五分鐘。", pinyin: "ngai chiˇ doˊ liaˊ pienˋ rhanˋ gongˊ ted chong leˋ, chauˋ goˇ ngˊ funˋ zhungˋ."}
+      check: true
+  fill:
+    - en: "My heart's all of a flutter."
+      sx: {hanzi: "𠊎个心肝___。", pinyin: "ngaiˇ ge ximˊ gonˊ ___.", answer_hanzi: "七上八落", answer: "qidˋ songˊ badˋ log"}
+      hl: {hanzi: "𠊎个心肝___。", pinyin: "ngai gaiˇ simˋ gonˋ ___.", answer_hanzi: "七上八落", answer: "cid shongˋ bad logˋ"}
+    - en: "At that time I spoke only a little Hakka."
+      sx: {hanzi: "___，𠊎个客話就一息仔定定。", pinyin: "___, ngaiˇ ge hagˋ fa qiu idˋ xid eˋ tin tin.", answer_hanzi: "該央時", answer: "ge iongˊ siiˇ"}
+      hl: {hanzi: "___，𠊎个客話就一息仔定定。", pinyin: "___, ngai gaiˇ hag voiˋ ciu+ rhid sid er tin+ tin+.", answer_hanzi: "該當時", answer: "gai dongˋ shi"}
+    - en: "The hall went dead quiet."
+      sx: {hanzi: "觀眾全___。", pinyin: "gonˊ zung qionˇ ___.", answer_hanzi: "恬索索", answer: "diamˊ sogˋ sogˋ"}
+      hl: {hanzi: "觀眾全___。", pinyin: "gonˋ zhungˇ cion ___.", answer_hanzi: "恬索索", answer: "diamˋ sog sog"}
+
+audio: []
