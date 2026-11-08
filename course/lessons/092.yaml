@@ -13,9 +13,9 @@ names: [財伯姆, 南庄]
 dialogue:
   - n: 1
     speaker: 阿姆
-    en: "It's the fifteenth of the eighth month tonight, no wonder the moon is so big and round. Come and have some pomelo, everyone!"
-    sx: {hanzi: "今暗晡係八月半，難怪月光又大又圓。大家來食柚仔！", pinyin: "gimˊ am buˊ he badˋ ngied ban, nanˇ guai ngied gongˊ iu tai iu ienˇ. tai gaˊ loiˇ siid iu eˋ!"}
-    hl: {hanzi: "今暗晡係八月半，難怪月光又大又圓。大家來食柚仔！", pinyin: "gimˋ amˇ buˋ heˇ bad ngiedˋ banˇ, nan guaiˇ ngiedˋ gongˋ rhiu+ tai+ rhiu+ rhan. tai+ gaˋ loi shidˋ rhiu+ er!"}
+    en: "It's the fifteenth of the eighth month tonight, no wonder the moon is so big and round. The weather's lovely and cool. Come and have some pomelo, everyone! It's a 文旦."
+    sx: {hanzi: "今暗晡係八月半，難怪月光又大又圓。天時恁涼爽，大家來食柚仔！這係文旦。", pinyin: "gimˊ am buˊ he badˋ ngied ban, nanˇ guai ngied gongˊ iu tai iu ienˇ. tienˊ siiˇ anˋ liongˇ songˋ, tai gaˊ loiˇ siid iu eˋ! iaˋ he vunˇ dan."}
+    hl: {hanzi: "今暗晡係八月半，難怪月光又大又圓。天時恁涼爽，大家來食柚仔！這係文旦。", pinyin: "gimˋ amˇ buˋ heˇ bad ngiedˋ banˇ, nan guaiˇ ngiedˋ gongˋ rhiu+ tai+ rhiu+ rhan. tienˋ shi anˊ liong songˊ, tai+ gaˋ loi shidˋ rhiu+ er! liaˊ heˇ vun danˇ."}
   - n: 2
     speaker: Sam
     en: "Grandma, how do you eat a pomelo?"
@@ -103,9 +103,9 @@ dialogue:
     hl: {hanzi: "若係財伯姆聽著……", pinyin: "na+ heˇ coi bag meˊ tangˋ doˊ …"}
   - n: 19
     speaker: 阿公
-    en: "'A felt hat on your knee…' (nobody knows it) '…no face, no eyes: shameless.' I win."
-    sx: {hanzi: "膝頭戴氈帽……無面無目。𠊎贏了。", pinyin: "qidˋ teuˇ dai zamˊ mo … moˇ mien moˇ mugˋ. ngaiˇ iangˇ leˊ."}
-    hl: {hanzi: "膝頭戴氈帽……無面無目。𠊎贏了。", pinyin: "cid teu daiˇ zhanˋ mo+ … mo mienˇ mo mug. ngai rhang leˋ."}
+    en: "'A felt hat on your knee…' (nobody knows it) '…no face, no eyes: shameless.' So in the end, I win."
+    sx: {hanzi: "膝頭戴氈帽……無面無目。結果，𠊎贏了。", pinyin: "qidˋ teuˇ dai zamˊ mo … moˇ mien moˇ mugˋ. giedˋ goˋ, ngaiˇ iangˇ leˊ."}
+    hl: {hanzi: "膝頭戴氈帽……無面無目。結果，𠊎贏了。", pinyin: "cid teu daiˇ zhanˋ mo+ … mo mienˇ mo mug. gied goˊ, ngai rhang leˋ."}
   - n: 20
     speaker: 阿明
     en: "(looking up) Grandma, is there a rabbit on the moon?"

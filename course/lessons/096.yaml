@@ -65,9 +65,9 @@ dialogue:
     hl: {hanzi: "𠊎乜毋盼得走。", pinyin: "ngai meˇ m panˇ ded zeuˊ."}
   - n: 11
     speaker: 阿婆
-    en: "A-in says she's going to France next year to see you. What the two of you do is your business: Grandma won't interfere."
-    sx: {hanzi: "阿英講佢過忒年愛去法國尋你。你兩儕个事，阿婆毋管。", pinyin: "aˊ inˊ gongˋ giˇ go tedˋ ngienˇ oi hi fabˋ guedˋ qimˇ nˇ. nˇ liongˋ saˇ ge sii, aˊ poˇ mˇ gonˋ."}
-    hl: {hanzi: "阿英講佢明年愛去法國尋你。你兩儕个事，阿婆毋管。", pinyin: "a+ rhinˋ gongˊ gi mang ngien oiˇ hiˇ fab gued cim ngi. ngi liongˊ sa gaiˇ sii+, a+ po m gonˊ."}
+    en: "Grandma's granddaughter A-in says she's going to France next year to see you. What the two of you do is your business: Grandma won't interfere."
+    sx: {hanzi: "阿婆个孫女阿英講佢過忒年愛去法國尋你。你兩儕个事，阿婆毋管。", pinyin: "aˊ poˇ ge sunˊ ngˋ aˊ inˊ gongˋ giˇ go tedˋ ngienˇ oi hi fabˋ guedˋ qimˇ nˇ. nˇ liongˋ saˇ ge sii, aˊ poˇ mˇ gonˋ."}
+    hl: {hanzi: "阿婆个孫女阿英講佢明年愛去法國尋你。你兩儕个事，阿婆毋管。", pinyin: "a+ po gaiˇ sunˋ ngˊ a+ rhinˋ gongˊ gi mang ngien oiˇ hiˇ fab gued cim ngi. ngi liongˊ sa gaiˇ sii+, a+ po m gonˊ."}
   - n: 12
     speaker: 阿婆
     en: "But Grandma has three things to tell you. Keep them in your heart."
@@ -95,9 +95,9 @@ dialogue:
     hl: {hanzi: "𠊎會轉來。絕對會。世界恁大，毋過苗栗就一隻定定。", pinyin: "ngai voi+ zhonˊ loi. ciedˋ duiˇ voi+. sheˇ gaiˇ anˊ tai+, m goˇ miau lidˋ ciu+ rhid zhag tin+ tin+."}
   - n: 17
     speaker: 阿婆
-    en: "(her eyes wet) Come here, let Grandma pat your back. Good, good. Off to bed."
-    sx: {hanzi: "來，阿婆拍你个背囊。好，好。去睡目。", pinyin: "loiˇ, aˊ poˇ pogˋ nˇ ge boi nongˇ. hoˋ, hoˋ. hi soi mugˋ."}
-    hl: {hanzi: "來，阿婆拍你个背囊。好，好。去睡目。", pinyin: "loi, a+ po pog ngi gaiˇ boiˇ nong. hoˊ, hoˊ. hiˇ shoi+ mug."}
+    en: "(her eyes wet) Come here: Grandma takes your hand, strokes your head, pats your back. Good, good. Off to bed."
+    sx: {hanzi: "來，阿婆牽你个手，摸你个頭那，拍你个背囊。好，好。去睡目。", pinyin: "loiˇ, aˊ poˇ kienˊ nˇ ge suˋ, miaˊ nˇ ge teuˇ naˇ, pogˋ nˇ ge boi nongˇ. hoˋ, hoˋ. hi soi mugˋ."}
+    hl: {hanzi: "來，阿婆牽你个手，摸你个頭那，拍你个背囊。好，好。去睡目。", pinyin: "loi, a+ po kienˋ ngi gaiˇ shiuˊ, miaˋ ngi gaiˇ teu na, pog ngi gaiˇ boiˇ nong. hoˊ, hoˊ. hiˇ shoi+ mug."}
 
 notes:
   - ref: 1

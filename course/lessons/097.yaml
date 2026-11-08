@@ -49,9 +49,9 @@ dialogue:
     hl: {hanzi: "你毋係姓劉！", pinyin: "ngi m heˇ siangˇ liu!"}
   - n: 8
     speaker: 阿婆
-    en: "Yes it is, yes it is. He's one of the Lius."
-    sx: {hanzi: "係，係。佢係劉家人。", pinyin: "he, he. giˇ he liuˇ gaˊ nginˇ."}
-    hl: {hanzi: "係，係。佢係劉家人。", pinyin: "heˇ, heˇ. gi heˇ liu gaˋ ngin."}
+    en: "Yes it is, yes it is. He's one of the Lius. Such a lovable boy."
+    sx: {hanzi: "係，係。佢係劉家人。佢當得人惜。", pinyin: "he, he. giˇ he liuˇ gaˊ nginˇ. giˇ dongˊ dedˋ nginˇ xiagˋ."}
+    hl: {hanzi: "係，係。佢係劉家人。佢當得人惜。", pinyin: "heˇ, heˇ. gi heˇ liu gaˋ ngin. gi dongˋ ded ngin siag."}
   - n: 9
     speaker: 阿爸
     en: "A year ago we were all strangers. Now we know each other well."
@@ -85,9 +85,9 @@ dialogue:
     hl: {hanzi: "恁樣就確定了：明年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "an ngiong ciu+ kog tin+ leˋ: mang ngien chunˋ tienˋ, ngai hiˇ fab gued. ngi coiˋ chaˋ teu denˊ ngai."}
   - n: 15
     speaker: Sam
-    en: "This year's over, but my Hakka isn't. I've been very happy. Luckily, I had you all."
-    sx: {hanzi: "這一年結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "iaˋ idˋ ngienˇ giedˋ sugˋ leˊ, mˇ go ngaiˇ ge hagˋ fa hanˇ mangˇ giedˋ sugˋ. ngaiˇ dongˊ hen fugˋ. hoˋ cai iuˊ nˇ deuˊ."}
-    hl: {hanzi: "這一年結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "liaˊ rhid ngien gied sug leˋ, m goˇ ngai gaiˇ hag voiˋ han mang gied sug. ngai dongˋ hen+ fug. hoˊ cai+ rhiuˋ ngi deuˋ."}
+    en: "This year's over at last, and it went well, but my Hakka isn't over. I've been very happy. Luckily, I had you all."
+    sx: {hanzi: "這一年總算順利結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "iaˋ idˋ ngienˇ zungˋ son sun li giedˋ sugˋ leˊ, mˇ go ngaiˇ ge hagˋ fa hanˇ mangˇ giedˋ sugˋ. ngaiˇ dongˊ hen fugˋ. hoˋ cai iuˊ nˇ deuˊ."}
+    hl: {hanzi: "這一年總算順利結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "liaˊ rhid ngien zungˊ sonˇ shun+ li+ gied sug leˋ, m goˇ ngai gaiˇ hag voiˋ han mang gied sug. ngai dongˋ hen+ fug. hoˊ cai+ rhiuˋ ngi deuˋ."}
   - n: 16
     speaker: 阿婆
     en: "Don't forget Grandma's three things."
