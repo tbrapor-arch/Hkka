@@ -138,7 +138,17 @@ def segment(lex, acc, hanzi, pinyin, names, known=frozenset()):
 
 
 def lesson_files(args):
-    return args or sorted(glob.glob(os.path.join(ROOT, "course/lessons/[0-9]*.yaml")))
+    return args or (sorted(glob.glob(os.path.join(ROOT, "course/lessons/[0-9]*.yaml")))
+                    + sorted(glob.glob(os.path.join(ROOT, "course/perfectionnement/[0-9]*.yaml"))))
+
+
+def is_part2(path):
+    """進修 (Perfectionnement) lessons: Sixian only, id N stands for internal id 100 + N."""
+    return os.path.basename(os.path.dirname(os.path.abspath(path))) == "perfectionnement"
+
+
+GENRES = {"dialogue", "article", "letter", "interview", "tale", "speech", "essay", "document", "song", "news",
+          "play", "diary", "debate", "story", "review"}
 
 
 def load_syllabus():
@@ -162,7 +172,19 @@ def main():
 
     for path in files:
         d = yaml.safe_load(open(path, encoding="utf-8"))
-        n = d.get("id", 0)
+        part2 = is_part2(path)
+        n = d.get("id", 0) + (100 if part2 else 0)
+        accents = ("sx",) if part2 else ("sx", "hl")
+        if part2:
+            if d.get("genre", "dialogue") not in GENRES:
+                say(path, "genre", "E", f"unknown genre {d.get('genre')!r} (one of {', '.join(sorted(GENRES))})")
+            nl = len(d.get("dialogue") or [])
+            if not 20 <= nl <= 30:
+                say(path, "dialogue", "W", f"{nl} lines; 進修 lessons have 20–30")
+            ex = d.get("exercises") or {}
+            for kind in ("translate", "fill"):
+                if len(ex.get(kind) or []) != 5:
+                    say(path, f"exercises.{kind}", "W", f"{len(ex.get(kind) or [])} items; 進修 has 5")
         names = set(d.get("names") or [])
         for f in ("id", "title", "dialogue", "notes", "new_words"):
             if f not in d:
@@ -206,16 +228,18 @@ def main():
             where = f"line {line.get('n', '?')}"
             if not line.get("en"):
                 say(path, where, "E", "missing en")
-            for a in ("sx", "hl"):
+            for a in accents:
                 if not (line.get(a) or {}).get("hanzi") or not (line.get(a) or {}).get("pinyin"):
-                    say(path, where, "E", f"missing {a} hanzi/pinyin (both accents are written alongside)")
+                    say(path, where, "E", f"missing {a} hanzi/pinyin" + ("" if part2 else " (both accents are written alongside)"))
                 check(where, line.get(a), a)
+            if part2 and line.get("hl"):
+                say(path, where, "W", "進修 is Sixian only: hl block ignored")
             src = line.get("source")
             if src and (line.get("sx") or {}).get("hanzi") not in lex.examples:
                 say(path, where, "E", f"marked source: {src} but not an exact official sentence")
         for kind, items in (d.get("exercises") or {}).items():
             for j, it in enumerate(items or []):
-                for a in ("sx", "hl"):
+                for a in accents:
                     b = dict(it.get(a) or {})
                     if not b:
                         continue
@@ -230,7 +254,9 @@ def main():
         for k in new_keys:
             taught.setdefault(k, n)
 
-        plan = syl.get(n)
+        if part2 and not d.get("review") and not 32 <= len(new) <= 55:
+            say(path, "new_words", "W", f"{len(new)} new words; 進修 aims at about 40")
+        plan = None if part2 else syl.get(n)
         if plan and not d.get("review"):
             target = plan.get("new")
             if target and not (target - 3 <= len(new) <= target + 3):

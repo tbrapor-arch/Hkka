@@ -3,7 +3,7 @@
 
   python3 -I tools/coverage.py [N]     # summary, pacing per lesson, then the next N words to teach (default 40)
 
-Next words are chosen like the syllabus: lowest certification level first (基礎級 → 初級 → 中級), and within a
+Next words are chosen like the syllabus: lowest certification level first (基礎級 → 初級 → 中級 → 中高級), and within a
 level by frequency; Hakka-only words and false friends are listed first because they are the ones that need notes.
 
 Pattern entries (…兜, …背, …肚, 拜…, 當在該…) count as covered when their stem is taught with the listed reading,
@@ -29,15 +29,24 @@ if os.path.exists(sp):
     syl = {l["n"]: l for l in (yaml.safe_load(open(sp, encoding="utf-8")) or {}).get("lessons", [])}
 
 taught, per_lesson = set(), []
-for f in sorted(glob.glob(os.path.join(ROOT, "course/lessons/[0-9]*.yaml"))):
+files = (sorted(glob.glob(os.path.join(ROOT, "course/lessons/[0-9]*.yaml")))
+         + sorted(glob.glob(os.path.join(ROOT, "course/perfectionnement/[0-9]*.yaml"))))
+for f in files:
     d = yaml.safe_load(open(f, encoding="utf-8"))
+    if os.path.basename(os.path.dirname(f)) == "perfectionnement":
+        d["id"] = f"P{d.get('id')}"
     ks = {(w["hanzi"], py.key(w.get("pinyin", ""))) for w in d.get("new_words") or []}
     taught |= ks
     per_lesson.append((d.get("id"), len(ks), (syl.get(d.get("id")) or {}).get("new")))
 
+# v_core (基礎級–中級) plus 中高級, which 進修 starts on once 中級 is done
 core = con.execute("SELECT v.hanzi, v.pinyin, v.pkey, v.level, v.mandarin, e.cognate, e.english, "
                    "coalesce(e.glossika_freq, 0) * 10 + coalesce(e.corpus_freq, 0) AS f "
-                   "FROM v_core v JOIN entry e USING(id) ORDER BY f DESC").fetchall()
+                   "FROM v_core v JOIN entry e USING(id) "
+                   "UNION ALL SELECT hanzi, pinyin, pkey, level, mandarin, cognate, english, "
+                   "coalesce(glossika_freq, 0) * 10 + coalesce(corpus_freq, 0) "
+                   "FROM entry WHERE source = 'kaga115' AND accent = 'sixian' AND level = '中高級' "
+                   "ORDER BY 8 DESC").fetchall()
 print(f"lessons written: {len(per_lesson)}; words taught: {len(taught)}")
 def covered(hz, k):
     if (hz, k) in taught:
@@ -53,7 +62,7 @@ def covered(hz, k):
     return any(t.startswith(stem) and tk.split("-")[:n] == k.split("-") for t, tk in taught)
 
 
-for lvl in ("基礎級", "初級", "中級"):
+for lvl in ("基礎級", "初級", "中級", "中高級"):
     part = [r for r in core if r[3] == lvl]
     got = sum(covered(r[0], r[2]) for r in part)
     print(f"  {lvl}: {got}/{len(part)} ({100 * got // max(1, len(part))}%)")
@@ -62,7 +71,7 @@ if per_lesson:
     print("  " + "  ".join(f"{n}:{c}/{t or '-'}" for n, c, t in per_lesson))
 
 want = int(sys.argv[1]) if len(sys.argv) > 1 else 40
-order = {"基礎級": 0, "初級": 1, "中級": 2}
+order = {"基礎級": 0, "初級": 1, "中級": 2, "中高級": 3}
 todo = [r for r in core if not covered(r[0], r[2])]
 todo.sort(key=lambda r: (order.get(r[3], 9), r[5] not in ("hakka-only", "false-friend")))
 print(f"\nnext {want} core words (level, then Hakka-only / false friends first, then frequency):")
