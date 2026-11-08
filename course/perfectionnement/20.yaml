@@ -1,0 +1,288 @@
+id: 20
+genre: dialogue
+title:
+  en: Carrying the tea
+  sx: {hanzi: 扛茶, pinyin: gongˊ caˇ}
+review: false
+setting: 'Saturday 28 October 2028, late morning, the bride''s family house in 竹南. It is 阿傑''s engagement (進修 8). 阿舅 has
+  come from 竹東 with 阿傑''s parents; Sam has come too. On the bride''s side: her father 陳伯, her mother, her younger sister
+  阿芬, and a 好命婆, a married woman with a happy family, who leads the bride through the ceremony.'
+names: [Sam, 阿傑, 阿琴, 阿芬, 阿舅, 陳伯, 好命婆, 竹南, 竹東]
+dialogue:
+- n: 1
+  speaker: 阿舅
+  en: Sam, you made it! 阿傑's so nervous his hands are shaking.
+  sx: {hanzi: Sam，你來吔！阿傑緊張到手都會顫。, pinyin: 'Sam, nˇ loiˇ leˊ! aˊ kied ginˋ zongˊ do suˋ du voi zunˊ.'}
+- n: 2
+  speaker: 阿傑
+  en: I'm… not nervous.
+  sx: {hanzi: 𠊎……毋會緊張。, pinyin: ngaiˇ … mˇ voi ginˋ zongˊ.}
+- n: 3
+  speaker: Sam
+  en: Your face is as red as a tangerine.
+  sx: {hanzi: 你个面紅到像柑仔。, pinyin: nˇ ge mien fungˇ do qiong gamˊ eˋ.}
+- n: 4
+  speaker: 阿舅
+  en: We matched the horoscopes, picked a lucky day, and now we're ready for the engagement. Today's a lucky day.
+  sx: {hanzi: 合過八字，看好日仔，準備好過定吔。今晡日係好日仔。, pinyin: 'gab go badˋ sii, kon hoˋ ngidˋ eˋ, zunˋ pi hoˋ go tin leˊ. gimˊ buˊ ngidˋ
+      he hoˋ ngidˋ eˋ.'}
+  check: true
+- n: 5
+  speaker: Sam
+  en: There's a marquee up in the yard, hung with balloons. Very festive.
+  sx: {hanzi: 禾埕搭一隻棚，掛當多雞胲仔，當鬧熱。, pinyin: 'voˇ tangˇ dabˋ idˋ zagˋ pangˇ, gua dongˊ doˊ gieˊ goiˊ eˋ, dongˊ nau ngied.'}
+  check: true
+- n: 6
+  speaker: 陳伯
+  en: Welcome, everyone! These days, when people get engaged, they mostly don't take a bride price. We don't want one either.
+  sx: {hanzi: 歡迎大家！這下人定婚，大體無收聘金。𠊎兜乜無愛。, pinyin: 'fonˊ ngiangˇ tai gaˊ! iaˋ ha nginˇ tin funˊ, tai tiˋ moˇ suˊ pinˋ gimˊ.
+      ngaiˇ deuˊ me moˇ oi.'}
+- n: 7
+  speaker: 阿舅
+  en: (relieved) Thank you!
+  sx: {hanzi: 恁仔細！, pinyin: anˋ ziiˋ se!}
+- n: 8
+  speaker: 好命婆
+  en: Here comes the bride, carrying the tea!
+  sx: {hanzi: 新娘出來扛茶吔！, pinyin: xinˊ ngiongˇ cudˋ loiˇ gongˊ caˇ leˊ!}
+- n: 9
+  speaker: 阿芬
+  en: My sister looks so pretty today.
+  sx: {hanzi: 阿姊今晡日著到靚膩膩。, pinyin: aˊ jiˋ gimˊ buˊ ngidˋ zogˋ do jiangˊ ne ne.}
+- n: 10
+  speaker: 阿芬
+  en: 'My aunts and great-aunt have all come: the house is packed.'
+  sx: {hanzi: 叔姆、阿姑、叔婆都來吔，歸屋下滿滿係人。, pinyin: 'sugˋ meˊ, aˊ guˊ, sugˋ poˇ du loiˇ leˊ, guiˊ vugˋ kaˊ manˊ manˊ he nginˇ.'}
+- n: 11
+  speaker: 叔婆
+  en: 'A-khim''s so pretty, and so good-natured: everyone praises her.'
+  sx: {hanzi: 阿琴生來恁靚，又當乖，大家都阿腦佢。, pinyin: 'aˊ kimˇ sangˊ loiˇ anˋ jiangˊ, iu dongˊ guaiˊ, tai gaˊ du oˊ noˋ giˇ.'}
+- n: 12
+  speaker: 阿芬
+  en: Usually she orders me about all day. Today she's all shy.
+  sx: {hanzi: 平常時佢對𠊎使上使下，今晡日正知驚見笑。, pinyin: 'pinˇ songˇ siiˇ giˇ dui ngaiˇ siiˋ songˊ siiˋ haˊ, gimˊ buˊ ngidˋ zang diˊ
+      giangˊ gien seu.'}
+  check: true
+- n: 13
+  speaker: 好命婆
+  en: 'At an engagement, the 好命婆 leads the bride out to carry the tea; when you take the bride''s tea, stand up and hold
+    it with both hands: that''s good manners.'
+  sx: {hanzi: 過定个時節，好命婆會牽新娘出來扛茶，食新娘茶，愛企起來用兩隻手兜，正有禮貌。, pinyin: 'go tin ge siiˇ jiedˋ, hoˋ miang poˇ voi kienˊ xinˊ ngiongˇ
+      cudˋ loiˇ gongˊ caˇ, siid xinˊ ngiongˇ caˇ, oi kiˊ hiˋ loiˇ iung liongˋ zagˋ suˋ deuˊ, zang iuˊ liˊ mau.'}
+  check: true
+- n: 14
+  speaker: Sam
+  en: (standing, the cup in both hands) Thank you!
+  sx: {hanzi: 恁仔細！, pinyin: anˋ ziiˋ se!}
+- n: 15
+  speaker: 阿芬
+  en: So you're the Frenchman? Handsome or not… let me see… not bad.
+  sx: {hanzi: 你就係該隻法國人？緣投無，𠊎看……會做得。, pinyin: 'nˇ qiu he ge zagˋ fabˋ guedˋ nginˇ? ienˇ dauˇ moˇ, ngaiˇ kon … voi zo dedˋ.'}
+- n: 16
+  speaker: 阿芬
+  en: '''Not bad'' means: very good-mannered, and refined-looking.'
+  sx: {hanzi: 會做得：當有禮貌，生到當斯文。, pinyin: 'voi zo dedˋ: dongˊ iuˊ liˊ mau, sangˊ do dongˊ siiˊ vunˇ.'}
+- n: 17
+  speaker: 阿舅
+  en: Once the tea's drunk, everyone gives the bride a red envelope.
+  sx: {hanzi: 茶食過，大家愛放紅包分新娘。, pinyin: 'caˇ siid go, tai gaˊ oi biong fungˇ bauˊ bunˊ xinˊ ngiongˇ.'}
+  check: true
+- n: 18
+  speaker: 好命婆
+  en: Now the groom puts the ring on the bride.
+  sx: {hanzi: 這下新郎同新娘戴禁指。, pinyin: iaˋ ha xinˊ longˇ tungˇ xinˊ ngiongˇ dai gim ziiˋ.}
+- n: 19
+  speaker: 阿傑
+  en: (his hands shaking) Oh no, the ring's fallen on the floor!
+  sx: {hanzi: 害吔，禁指跌落地泥吔！, pinyin: 'hoi leˊ, gim ziiˋ diedˋ log ti naiˇ leˊ!'}
+- n: 20
+  speaker: 阿芬
+  en: (picking it up) Brother-in-law, you're so nervous!
+  sx: {hanzi: 姊丈，你恁緊張！, pinyin: 'jiˋ congˊ, nˇ anˋ ginˋ zongˊ!'}
+- n: 21
+  speaker: 陳伯
+  en: 阿傑, I'm giving A-khim into your care. Love her all your life.
+  sx: {hanzi: 阿傑，阿琴交分你吔，你愛惜佢一生人。, pinyin: 'aˊ kied, aˊ kimˇ gauˊ bunˊ nˇ leˊ, nˇ oi xiagˋ giˇ idˋ senˊ nginˇ.'}
+- n: 22
+  speaker: 阿傑
+  en: I will. I promise.
+  sx: {hanzi: 𠊎會。𠊎保證。, pinyin: ngaiˇ voi. ngaiˇ boˋ ziin.}
+- n: 23
+  speaker: 丈人哀
+  en: 阿傑, you're an honest man. A-khim is lucky.
+  sx: {hanzi: 阿傑，你係老實人，阿琴好命。, pinyin: 'aˊ kied, nˇ he loˋ siid nginˇ, aˊ kimˇ hoˋ miang.'}
+- n: 24
+  speaker: 丈人哀
+  en: She's our youngest daughter, and we've rather spoilt her.
+  sx: {hanzi: 佢係𠊎兜个滿女，𠊎兜較縱佢。, pinyin: 'giˇ he ngaiˇ deuˊ ge manˊ ngˋ, ngaiˇ deuˊ ka jiungˋ giˇ.'}
+- n: 25
+  speaker: 阿傑个阿姆
+  en: I'll love her; I'll never be unkind to her.
+  sx: {hanzi: 𠊎會惜佢，毋會苦毒佢。, pinyin: 'ngaiˇ voi xiagˋ giˇ, mˇ voi kuˋ tug giˇ.'}
+- n: 26
+  speaker: 阿舅
+  en: Now our two families are related. (to A-khim's mother) Come and visit us in 竹東 often.
+  sx: {hanzi: 這下兩家人係親戚吔。以後多來竹東尞。, pinyin: iaˋ ha liongˋ gaˊ nginˇ he qinˊ qidˋ leˊ. iˊ heu doˊ loiˇ zugˋ dungˊ liau.}
+- n: 27
+  speaker: 丈人哀
+  en: We will. And you all come to us when you're free.
+  sx: {hanzi: 好。你兜有閒正來尞。, pinyin: hoˋ. nˇ deuˊ iuˊ hanˇ zang loiˇ liau.}
+- n: 28
+  speaker: 阿芬
+  en: (to Sam) Sam, where's your girlfriend, then?
+  sx: {hanzi: Sam，你个細妹條仔呢？, pinyin: 'Sam, nˇ ge se moi tiauˇ eˋ neˇ?'}
+- n: 29
+  speaker: Sam
+  en: Haven't got one yet.
+  sx: {hanzi: 還吂有。, pinyin: hanˇ mangˇ iuˊ.}
+- n: 30
+  speaker: 阿芬
+  en: Then when it's your engagement, I'll come and drink the tea too.
+  sx: {hanzi: 該下二擺你過定，𠊎乜來食新娘茶。, pinyin: 'ge ha ngi baiˋ nˇ go tin, ngaiˇ me loiˇ siid xinˊ ngiongˇ caˇ.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    扛茶 gongˊ caˇ (a 高級 list word) is the moment of the engagement when the bride serves tea to the groom's family and friends.
+    The official sentence in line 13 describes it. Customs vary by family; the lines rest on the official sentences where
+    possible, and the red envelopes (line 17) are general knowledge.
+- ref: 1
+  topic: vocab
+  text: >
+    顫 zunˊ "shake, tremble" (佢桊針手緊顫，線桊毋得過 "her hand kept shaking, she couldn't thread the needle"). 緊張 (lesson 64).
+- ref: 3
+  topic: vocab
+  text: >
+    柑仔 gamˊ meˋ: 仔 copies the final consonant (grammar inventory §14).
+- ref: 4
+  topic: culture
+  text: >
+    The line follows the official sentence 合過八字，看好日仔，準備好過定哩: 合八字 "match the two horoscopes", 八字 badˋ sii "the eight characters
+    (of one's birth)", 好日仔 "an auspicious day" (MOE).
+- ref: 5
+  topic: vocab
+  text: >
+    搭 dabˋ "put up, build (a shelter)" (搭寮仔、搭篷仔). 棚 pangˇ "stage, awning". 雞胲仔 gieˊ goiˊ eˋ "balloon" (細人仔盡好歕雞胲仔 "children
+    love blowing up balloons"). 掛 "hang".
+- ref: 6
+  topic: vocab
+  text: >
+    An official sentence (2013 lists), with an addition. 定婚 tin funˊ "get engaged" (= 過定); 聘金 pinˋ gimˊ "bride price"; 大體
+    tai tiˋ "on the whole, mostly" (食尾牙大體會有摸彩活動 "at the year-end dinner there's usually a prize draw").
+- ref: 7
+  topic: vocab
+  text: >
+    恁仔細 stands alone (checklist).
+- ref: 8
+  topic: vocab
+  text: >
+    好命婆 hoˋ miang poˇ: a married woman, "blessed with a good fate" (好命 "lucky, fortunate", line 23), who guides the bride
+    (新娘下轎，大體愛請好命婆來牽新娘).
+- ref: 10
+  topic: vocab
+  text: >
+    叔姆 sugˋ meˊ "aunt (wife of father's younger brother)", 阿姑 aˊ guˊ "aunt (father's sister)", 叔婆 sugˋ poˇ "great-aunt".
+    滿滿 "packed".
+- ref: 11
+  topic: vocab
+  text: >
+    乖 guaiˊ "good, well-behaved". 阿腦 oˊ noˋ "praise" (先生緊同厥爸阿腦佢 "the teacher kept praising him to his father"; note the
+    reading).
+- ref: 12
+  topic: vocab
+  text: >
+    使上使下 siiˋ songˊ siiˋ haˊ "order about" (佢歸日仔分人使上使下 "he's been ordered about all day").
+- ref: 13
+  topic: vocab
+  text: "The official sentence, with 有禮 \"polite\" written 有禮貌: the character 禮 is only in the lists inside 禮貌 and other\
+    \ words. 新娘茶 \"the bride's tea\". 兜 deuˊ \"hold in both hands\" (the lists gloss it 端、捧). \n"
+- ref: 15
+  topic: false-friend
+  text: >
+    會做得 "not bad, all right" (checklist: 還好 is "very"; "not bad" is 會做得).
+- ref: 16
+  topic: vocab
+  text: >
+    斯文 siiˊ vunˇ "refined, gentle" (佢生到當斯文 "he looks very refined").
+- ref: 18
+  topic: vocab
+  text: >
+    禁指 gim ziiˋ "ring" (這隻禁指恁珍貴，愛好好保留 "this ring is so precious, look after it"). 新郎 xinˊ longˇ "groom"; the lists also
+    say 新娘公.
+- ref: 19
+  topic: vocab
+  text: >
+    害吔 "oh no!" (害, 進修 1).
+- ref: 20
+  topic: culture
+  text: >
+    阿芬 is teasing: he isn't her brother-in-law (姊丈, lesson 43) until the wedding.
+- ref: 21
+  topic: vocab
+  text: >
+    一生人 "all one's life" (lesson 37).
+- ref: 24
+  topic: vocab
+  text: >
+    滿女 manˊ ngˋ "youngest daughter" (一般滿女仔較會做嬌 "the youngest daughter is usually the pampered one"). 縱 jiungˋ "spoil, indulge"
+    (縱子上壁 "spoil a child and he'll climb the walls").
+- ref: 25
+  topic: vocab
+  text: >
+    苦毒 kuˋ tug "mistreat, be cruel to" (做毋得苦毒動物).
+- ref: 26
+  topic: vocab
+  text: >
+    親戚 "relatives" (lesson 43). The two mothers are now 且姆 (進修 8).
+new_words:
+- {hanzi: 顫, pinyin: zunˊ, en: 'shake, tremble'}
+- {hanzi: 八字, pinyin: badˋ sii, en: horoscope (the eight characters of one's birth)}
+- {hanzi: 定婚, pinyin: tin funˊ, en: get engaged}
+- {hanzi: 大體, pinyin: tai tiˋ, en: 'on the whole, mostly'}
+- {hanzi: 聘金, pinyin: pinˋ gimˊ, en: bride price}
+- {hanzi: 扛茶, pinyin: gongˊ caˇ, en: 'serve tea (bride, at the engagement)'}
+- {hanzi: 好命, pinyin: hoˋ miang, en: 'lucky, fortunate'}
+- {hanzi: 斯文, pinyin: siiˊ vunˇ, en: 'refined, gentle'}
+- {hanzi: 新郎, pinyin: xinˊ longˇ, en: groom}
+- {hanzi: 禁指, pinyin: gim ziiˋ, en: ring}
+- {hanzi: 合, pinyin: gab, en: match (horoscopes)}
+- {hanzi: 搭, pinyin: dabˋ, en: 'put up, build (a shelter)'}
+- {hanzi: 棚, pinyin: pangˇ, en: 'stage, awning'}
+- {hanzi: 雞胲仔, pinyin: gieˊ goiˊ eˋ, en: balloon}
+- {hanzi: 掛, pinyin: gua, en: hang}
+- {hanzi: 叔姆, pinyin: sugˋ meˊ, en: aunt (father's younger brother's wife)}
+- {hanzi: 阿姑, pinyin: aˊ guˊ, en: aunt (father's sister)}
+- {hanzi: 叔婆, pinyin: sugˋ poˇ, en: great-aunt}
+- {hanzi: 乖, pinyin: guaiˊ, en: 'good, well-behaved'}
+- {hanzi: 阿腦, pinyin: oˊ noˋ, en: praise}
+- {hanzi: 使上使下, pinyin: siiˋ songˊ siiˋ haˊ, en: order about}
+- {hanzi: 滿女, pinyin: manˊ ngˋ, en: youngest daughter}
+- {hanzi: 縱, pinyin: jiungˋ, en: 'spoil, indulge'}
+- {hanzi: 苦毒, pinyin: kuˋ tug, en: 'mistreat, be cruel to'}
+- {hanzi: 歕, pinyin: punˇ, en: blow}
+exercises:
+  translate:
+  - en: Don't be so nervous.
+    source: kaga115
+    sx: {hanzi: 毋使恁緊張。, pinyin: mˇ siiˋ anˋ ginˋ zongˊ.}
+  - en: 'This ring is worth nothing: it''s fake.'
+    sx: {hanzi: 這隻禁指無值錢，係假个。, pinyin: 'iaˋ zagˋ gim ziiˋ moˇ dad qienˇ, he gaˋ ge.'}
+  - en: He looks very refined.
+    sx: {hanzi: 佢生到當斯文。, pinyin: giˇ sangˊ do dongˊ siiˊ vunˇ.}
+  - en: Children love blowing up balloons.
+    source: kaga115
+    sx: {hanzi: 細人仔盡好歕雞胲仔。, pinyin: se nginˇ eˋ qin hau punˇ gieˊ goiˊ eˋ.}
+  - en: The two families are now related.
+    sx: {hanzi: 兩家人係親戚吔。, pinyin: liongˋ gaˊ nginˇ he qinˊ qidˋ leˊ.}
+  fill:
+  - en: His hands are shaking.
+    sx: {hanzi: 佢个手會___。, pinyin: giˇ ge suˋ voi ___., answer_hanzi: 顫, answer: zunˊ}
+  - en: They mostly don't take a bride price.
+    sx: {hanzi: ___無收聘金。, pinyin: ___ moˇ suˊ pinˋ gimˊ., answer_hanzi: 大體, answer: tai tiˋ}
+  - en: The bride comes out to serve the tea.
+    sx: {hanzi: 新娘出來___。, pinyin: xinˊ ngiongˇ cudˋ loiˇ ___., answer_hanzi: 扛茶, answer: gongˊ caˇ}
+  - en: The ring has fallen on the floor.
+    sx: {hanzi: ___跌落地泥吔。, pinyin: ___ diedˋ log ti naiˇ leˊ., answer_hanzi: 禁指, answer: gim ziiˋ}
+  - en: A-khim is lucky.
+    sx: {hanzi: 阿琴___。, pinyin: aˊ kimˇ ___., answer_hanzi: 好命, answer: hoˋ miang}
+audio: []
