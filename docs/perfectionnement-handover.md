@@ -6,7 +6,8 @@ planning with the user, not for writing lessons.
 
 ## Where Part 1 stands
 - **Lessons 1–100 are written, reviewed and fixed.** Sixian, with Hailu written alongside every line. `make lint`
-  shows 0 errors. A light revision then taught the basic words that were still missing (see "Coverage" below).
+  shows 0 errors. A light revision then taught the 106 basic words that were still missing: 基礎級 is now 100%,
+  初級 58%, 中級 18%.
 - **The story** covers Sam's year with the 劉 family in Miaoli, Nov 2026 – Nov 2027, on the real calendar. Lessons
   99–100 are in France: a video call in two accents, then a letter.
 - **How it was written.** Each of the 15 batches had a brief, `course/batches/NN.md`, and a fresh-agent review
@@ -53,8 +54,8 @@ What Hakka needs on top:
 - **Two accents.** Every line gets a Hailu version. Genres like news, article and document also need it, so check
   the Hailu wording of set phrases and proverbs.
 - **Coverage after Part 1.**
-  - 中級 is only partly covered (the figures are in `make coverage`). That gives Part 2 a clear vocabulary target:
-    初級 and 中級 first, then 中高級.
+  - 中級 is only partly covered (18%; 初級 58%; figures in `make coverage`). That gives Part 2 a clear vocabulary
+    target: the rest of 初級 and 中級 first, then 中高級.
   - The 115年度 lists also have about 7,700 official example sentences with recordings, so many 進修 lines can be
     official sentences.
 - **Story options for the user to choose from.**

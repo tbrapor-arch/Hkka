@@ -73,8 +73,8 @@ official lists, `check: true` on unattested patterns). Details and the vocabular
   for 2,119 of the 3,030 core words.
 
 ## Lessons written (2026-11-08)
-**Part 1 is complete: lessons 1–100**, `make lint` 0 errors, 1,773 words taught (基礎級 78%, 初級 57%, 中級 18%;
-`make coverage`). 15 batches, each with a brief in `course/batches/NN.md` (calendar, scenes, threads, load) and a
+**Part 1 is complete: lessons 1–100**, `make lint` 0 errors, about 1,880 words taught (基礎級 100% after the light
+revision, 初級 58%, 中級 18%; `make coverage`). 15 batches, each with a brief in `course/batches/NN.md` (calendar, scenes, threads, load) and a
 fresh-agent review against the database; every finding went into `course/batches/checklist.md`, which is the
 rulebook for any further writing. 241 lines carry `check: true` for a native speaker.
 - Story: Sam (French, as in Tsheh-tû) with the 劉 family in Miaoli, Nov 2026 – Nov 2027, on the real calendar (lunar
@@ -95,10 +95,12 @@ rulebook for any further writing. 241 lines carry `check: true` for a native spe
 1. **A native speaker** for the 241 `check: true` lines (collect them with a script into one sheet), and for the
    reading of 吔 (leˊ or eˊ: the lists give no romanisation; listen to the 115年度 recordings).
 2. **Audio**: link lesson lines marked `source: kaga115` to their recordings; TTS for the rest (`docs/audio.md`).
-3. **Gaps**: 106 基礎級 words still untaught (`make coverage`: 十一, 十二, 無愛, 哪久, 頂高, 脣…); fold them into a light
-   revision of early lessons or into the 進修 part. Hailu 美濃 reading (no list entry) is open.
-4. **App**: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent switch.
-5. Older items: 客語百句 lost characters, Glossika → MOE pinyin, the MOE dictionary licence.
+3. **Light revision done (8 Nov):** the 106 missing 基礎級 words were added to 47 lessons, mostly as one translation
+   exercise each (not yet in dialogues); pattern entries (…兜, …背…) count as covered when their stem is taught
+   (`tools/coverage.py`). Moving them into dialogues is optional polish. Hailu 美濃 reading (no list entry) is open.
+4. **Part 2 (進修):** plan in a new conversation from `docs/perfectionnement-handover.md`.
+5. **App**: copy Tsheh-tû's `app/` and `tools/build_app.py`, add the accent switch.
+6. Older items: 客語百句 lost characters, Glossika → MOE pinyin, the MOE dictionary licence.
 
 ## Things to know
 - The cloud session cannot create GitHub repos, and cannot reach Taiwanese government sites from the shell (data.gov.tw,
