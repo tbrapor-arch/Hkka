@@ -1,0 +1,251 @@
+id: 32
+genre: letter
+title:
+  en: "The capital went into the sweet-potato soup"
+  sx: {hanzi: "本錢落番薯湯", pinyin: "bunˋ qienˇ log fanˊ suˇ tongˊ"}
+review: false
+setting: >-
+  Friday 2 February 2029 (lunar 12th month, 19th day). 鍾伯 of 美濃 answers Sam's letter of 進修 22 and invites him
+  for the New Year.
+names: [Sam, 鍾伯, 鍾伯姆, 阿財哥, 美濃, 苗栗]
+
+dialogue:
+  - n: 1
+    en: "Sam: I was very glad to get your letter."
+    sx: {hanzi: "Sam：接著你个信，當歡喜。", pinyin: "Sam: jiabˋ doˋ nˇ ge xin, dongˊ fonˊ hiˋ."}
+  - n: 2
+    en: "You study so hard in Miaoli: my wife and I both admire you."
+    sx: {hanzi: "你在苗栗讀書讀到恁煞猛，鍾伯姆同𠊎都當欽羨你。", pinyin: "nˇ coiˊ meuˇ lid tug suˊ tug do anˋ sadˋ mangˊ, zungˊ bagˋ meˊ tungˇ ngaiˇ du dongˊ kimˊ xien nˇ."}
+  - n: 3
+    en: "It's nearly the New Year now, and every household in 美濃 is getting ready."
+    sx: {hanzi: "這下係年頷下仔，美濃家家屋屋都在該準備過年。", pinyin: "iaˋ ha he ngienˇ ngabˋ haˊ eˋ, miˊ nungˇ gaˊ gaˊ vugˋ vugˋ du du ge zunˋ pi go ngienˇ."}
+  - n: 4
+    en: "By the new calendar it's February; by the old calendar it's still the twelfth month."
+    sx: {hanzi: "新曆係二月，舊曆還係十二月。", pinyin: "xinˊ lag he ngi ngied, kiu lag hanˇ he siib ngi ngied."}
+  - n: 5
+    en: "美濃 is a farming place. In the past we grew tobacco; now more people grow vegetables."
+    sx: {hanzi: "美濃係農業个所在，過去種菸，這下種菜个人較多。", pinyin: "miˊ nungˇ he nungˇ ngiab ge soˋ cai, go hi zung ienˊ, iaˋ ha zung coi ge nginˇ ka doˊ."}
+  - n: 6
+    en: "In recent years business has boomed, and a lot of new shops have opened on the street."
+    sx: {hanzi: "這兜年商業發達，街項新開當多店頭。", pinyin: "iaˋ deuˊ ngienˇ songˊ ngiab fadˋ tad, gieˊ hong xinˊ koiˊ dongˊ doˊ diam teuˇ."}
+    check: true
+  - n: 7
+    en: "My neighbour 阿財哥 put money into a big vegetable plot last year and planted Chinese cabbage."
+    sx: {hanzi: "吾隔壁个阿財哥，舊年投資一大片菜園，種包心白。", pinyin: "ngaˊ gagˋ biagˋ ge aˊ coiˇ goˊ, kiu ngienˇ teuˇ ziiˊ idˋ tai pienˋ coi ienˇ, zung bauˊ ximˊ pag."}
+  - n: 8
+    en: "He thought cabbage would fetch a good price before the New Year."
+    sx: {hanzi: "佢想講包心白過年前會好價。", pinyin: "giˇ xiongˋ gongˋ bauˊ ximˊ pag go ngienˇ qienˇ voi hoˋ ga."}
+  - n: 9
+    en: "But the weather was good this year, there was a glut of cabbage, and the price fell."
+    sx: {hanzi: "毋過今年天時好，包心白大出，嗄落價。", pinyin: "mˇ go gimˊ ngienˇ tienˊ siiˇ hoˋ, bauˊ ximˊ pag tai cudˋ, sa log ga."}
+  - n: 10
+    en: "It sold for less than ten dollars a catty; he couldn't even earn back his costs."
+    sx: {hanzi: "一斤賣毋到十銀，連成本都賺毋轉來。", pinyin: "idˋ ginˊ mai mˇ do siib ngiunˇ, lienˇ siinˇ bunˋ du con mˇ zonˋ loiˇ."}
+    check: true
+  - n: 11
+    en: "He lost a lot of money: his capital really did go into the sweet-potato soup."
+    sx: {hanzi: "佢蝕本蝕當多，正經係本錢落番薯湯。", pinyin: "giˇ sad bunˋ sad dongˊ doˊ, ziin ginˊ he bunˋ qienˇ log fanˊ suˇ tongˊ."}
+  - n: 12
+    en: "He says: 'Farmers depend on the weather for their living; sooner or later my luck will turn.'"
+    sx: {hanzi: "佢講：「做田人靠天食飯，早慢會好空。」", pinyin: "giˇ gongˋ: zo tienˇ nginˇ ko tienˊ siid fan, zoˋ man voi hoˋ kungˊ."}
+    check: true
+  - n: 13
+    en: "I told him that in buying and selling you sometimes gain and sometimes lose, and not to fret so."
+    sx: {hanzi: "𠊎同佢講，買賣有賺有蝕，毋使恁愁慮。", pinyin: "ngaiˇ tungˇ giˇ gongˋ, maiˊ mai iuˊ con iuˊ sad, mˇ siiˋ anˋ seuˇ li."}
+  - n: 14
+    en: "At the start of the year he'll go to the temple and cast the divination blocks, to ask the gods what to plant next year."
+    sx: {hanzi: "年頭佢愛去廟項跌筊仔，問神明天光年種麼个較好。", pinyin: "ngienˇ teuˇ giˇ oi hi meu hong diedˋ gau eˋ, mun siinˇ minˇ tienˊ gongˊ ngienˇ zung maˋ ge ka hoˋ."}
+  - n: 15
+    en: "If the blocks fall one up, one down, it means the gods approve."
+    sx: {hanzi: "若係聖筊，就代表神明合意。", pinyin: "na he siin gau, qiu toi beuˋ siinˇ minˇ gagˋ i."}
+  - n: 16
+    en: "The festivals in 美濃 are very lively."
+    sx: {hanzi: "美濃个年節當鬧熱。", pinyin: "miˊ nungˇ ge ngienˇ jiedˋ dongˊ nau ngied."}
+  - n: 17
+    en: "On New Year's Eve the whole family sits down together for the reunion dinner."
+    sx: {hanzi: "年三十暗晡，一家人共下圍爐。", pinyin: "ngienˇ samˊ siib am buˊ, idˋ gaˊ nginˇ kiung ha viˇ luˇ."}
+  - n: 18
+    en: "On the ninth day we worship the Lord of Heaven, burning gold paper and offering the three meats."
+    sx: {hanzi: "初九拜天公，愛燒金紙、敬三牲。", pinyin: "cuˊ giuˋ bai tienˊ gungˊ, oi seuˊ gimˊ ziiˋ, gin samˊ senˊ."}
+  - n: 19
+    en: "At the temple festival the gods are invited out, and everyone comes to watch."
+    sx: {hanzi: "做鬧熱个時節，廟項會請神，大家出來看。", pinyin: "zo nau ngied ge siiˇ jiedˋ, meu hong voi qiangˋ siinˇ, tai gaˊ cudˋ loiˇ kon."}
+  - n: 20
+    en: "In the first month there are weddings: two families become in-laws, and the banquets are lavish."
+    sx: {hanzi: "正月有人做好事，兩家人結親家，酒席當豐沛。", pinyin: "zangˊ ngied iuˊ nginˇ zo hoˋ sii, liongˋ gaˊ nginˇ giedˋ qinˊ gaˊ, jiuˋ xid dongˊ pongˊ pai."}
+  - n: 21
+    en: "Could you come and stay in 美濃? We have a guest room: staying a couple of nights is no problem."
+    sx: {hanzi: "你做得來美濃尞無？吾屋下有人客間，你來歇兩暗晡乜無問題。", pinyin: "nˇ zo dedˋ loiˇ miˊ nungˇ liau moˇ? ngaˊ vugˋ kaˊ iuˊ nginˇ hagˋ gienˊ, nˇ loiˇ hiedˋ liongˋ am buˊ me moˇ mun tiˇ."}
+  - n: 22
+    en: "If you can bear to leave Miaoli for a few days, you'll be very welcome."
+    sx: {hanzi: "若係你盼得離開苗栗幾日，𫣆兜當歡迎。", pinyin: "na he nˇ pan dedˋ liˇ koiˊ meuˇ lid giˋ ngidˋ, enˊ deuˊ dongˊ fonˊ ngiangˇ."}
+    check: true
+  - n: 23
+    en: "Whatever there is to say, we'll say it face to face when you come."
+    sx: {hanzi: "有麼个話，等你來，𫣆兜當面講。", pinyin: "iuˊ maˋ ge fa, denˋ nˇ loiˇ, enˊ deuˊ dongˊ mien gongˋ."}
+  - n: 24
+    en: "Happy New Year. 鍾伯"
+    sx: {hanzi: "祝你新年快樂。鍾伯", pinyin: "zugˋ nˇ xinˊ ngienˇ kuai log. zungˊ bagˋ"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A letter. The title is a saying from the official lists (高級): 本錢落番薯湯 "the capital went into the sweet-potato
+      soup", i.e. the whole investment was lost (line 11).
+  - ref: 1
+    topic: vocab
+    text: >
+      接著 jiabˋ doˋ "receive" (MOE).
+  - ref: 3
+    topic: vocab
+    text: >
+      年頷下仔 ngienˇ ngabˋ haˊ eˋ "the run-up to the New Year", from about the 15th of the twelfth lunar month
+      (literally "under the year's chin"). 家家屋屋 "every household".
+  - ref: 4
+    topic: vocab
+    text: >
+      新曆 xinˊ lag "the Western calendar" (今晡日係新曆二月初十), 舊曆 kiu lag "the lunar calendar" (舊曆過年).
+  - ref: 5
+    topic: culture
+    text: >
+      農業 nungˇ ngiab "agriculture" (臺灣頭擺係農業社會). 美濃 was famous for tobacco (菸); its last tobacco crops were in
+      the 2000s (general knowledge).
+  - ref: 6
+    topic: vocab
+    text: >
+      商業 "commerce" (商業發達), 發達 fadˋ tad "flourish". 店頭 diam teuˇ "shop" (該間新開个店頭生理毋會㜮). Marked for review.
+  - ref: 7
+    topic: vocab
+    text: >
+      投資 teuˇ ziiˊ "invest; investment" (買基金乜係投資). 舊年 "last year" (Part 1).
+  - ref: 8
+    topic: vocab
+    text: >
+      好價 hoˋ ga "fetch a good price" (這駁仔青菜當好價).
+  - ref: 9
+    topic: vocab
+    text: >
+      大出 tai cudˋ "be in glut, plentiful" and 落價 log ga "fall in price": the official sentence is 菠麗菜大出嗄落價.
+  - ref: 10
+    topic: vocab
+    text: >
+      成本 siinˇ bunˋ "cost (of production)". Marked for review.
+  - ref: 11
+    topic: vocab
+    text: >
+      蝕本 sad bunˋ "lose money (on a deal)" (蝕本生理無人做); 蝕 sad "lose". 本錢 "capital" (中高級).
+  - ref: 12
+    topic: vocab
+    text: >
+      早慢 zoˋ man "sooner or later" (做壞事早慢會分警察捉著). 好空 hoˋ kungˊ "good luck, a windfall" (得著好空). 靠天食飯
+      "depend on the weather to eat" is ours; marked for review.
+  - ref: 13
+    topic: vocab
+    text: >
+      買賣 maiˊ mai "buying and selling, trade". 愁慮 seuˇ li "fret, worry" (細人仔大吔，毋使恁愁慮).
+  - ref: 14
+    topic: culture
+    text: >
+      跌筊仔 diedˋ gau eˋ "cast the divination blocks" (去廟項跌筊仔). Two crescent-shaped blocks are dropped before the
+      altar.
+  - ref: 15
+    topic: vocab
+    text: >
+      聖筊 siin gau "a 'yes' throw: one block face up, one face down" (見擺佢跌筊就會聖筊). 合意 gagˋ i "like, approve of"
+      (有兜人合意食苦瓜).
+  - ref: 16
+    topic: vocab
+    text: >
+      年節 ngienˇ jiedˋ "the New Year and festivals" (見年節就愛拜神明).
+  - ref: 18
+    topic: culture
+    text: >
+      拜天公 bai tienˊ gungˊ "worship the Lord of Heaven", on the ninth day of the first month (in 2029, 21 February).
+      三牲 is from lesson 51.
+  - ref: 19
+    topic: vocab
+    text: >
+      請神 qiangˋ siinˇ "invite the gods (out of the temple)": 做鬧熱愛請神 is an official sentence.
+  - ref: 20
+    topic: vocab
+    text: >
+      做好事 zo hoˋ sii "hold a wedding (or other happy event)" (人做好事，去食酒愛包禮). 結親家 giedˋ qinˊ gaˊ "become in-laws".
+      豐沛 pongˊ pai "lavish, plentiful" (這張酒席魚魚肉肉恁多，當豐沛哦).
+  - ref: 21
+    topic: vocab
+    text: >
+      歇 hiedˋ "stay (a night or two)", as a guest; compare 進修 12.
+  - ref: 22
+    topic: vocab
+    text: >
+      盼得 pan dedˋ "bear to (let go, part with)" (𠊎哪盼得分你走). Marked for review.
+  - ref: 23
+    topic: vocab
+    text: >
+      當面 dongˊ mien "face to face" (有麼个話，大家出來當面講).
+
+new_words:
+  - {hanzi: 本錢落番薯湯, pinyin: "bunˋ qienˇ log fanˊ suˇ tongˊ", en: "lose one's whole investment"}
+  - {hanzi: 接著, pinyin: "jiabˋ doˋ", en: "receive"}
+  - {hanzi: 年頷下仔, pinyin: "ngienˇ ngabˋ haˊ eˋ", en: "the run-up to the New Year"}
+  - {hanzi: 新曆, pinyin: "xinˊ lag", en: "the Western calendar"}
+  - {hanzi: 舊曆, pinyin: "kiu lag", en: "the lunar calendar"}
+  - {hanzi: 農業, pinyin: "nungˇ ngiab", en: "agriculture"}
+  - {hanzi: 商業, pinyin: "songˊ ngiab", en: "commerce"}
+  - {hanzi: 發達, pinyin: "fadˋ tad", en: "flourish, be developed"}
+  - {hanzi: 店頭, pinyin: "diam teuˇ", en: "shop"}
+  - {hanzi: 投資, pinyin: "teuˇ ziiˊ", en: "invest; investment"}
+  - {hanzi: 好價, pinyin: "hoˋ ga", en: "fetch a good price"}
+  - {hanzi: 大出, pinyin: "tai cudˋ", en: "be in glut, plentiful"}
+  - {hanzi: 落價, pinyin: "log ga", en: "fall in price"}
+  - {hanzi: 成本, pinyin: "siinˇ bunˋ", en: "cost (of production)"}
+  - {hanzi: 蝕, pinyin: "sad", en: "lose (money)"}
+  - {hanzi: 蝕本, pinyin: "sad bunˋ", en: "lose money (on a deal)"}
+  - {hanzi: 早慢, pinyin: "zoˋ man", en: "sooner or later"}
+  - {hanzi: 好空, pinyin: "hoˋ kungˊ", en: "good luck, a windfall"}
+  - {hanzi: 買賣, pinyin: "maiˊ mai", en: "buying and selling, trade"}
+  - {hanzi: 愁慮, pinyin: "seuˇ li", en: "fret, worry"}
+  - {hanzi: 跌筊仔, pinyin: "diedˋ gau eˋ", en: "cast the divination blocks"}
+  - {hanzi: 聖筊, pinyin: "siin gau", en: "a 'yes' throw of the blocks"}
+  - {hanzi: 合意, pinyin: "gagˋ i", en: "like, approve of"}
+  - {hanzi: 年節, pinyin: "ngienˇ jiedˋ", en: "the New Year and festivals"}
+  - {hanzi: 拜天公, pinyin: "bai tienˊ gungˊ", en: "worship the Lord of Heaven"}
+  - {hanzi: 做鬧熱, pinyin: "zo nau ngied", en: "hold a temple festival"}
+  - {hanzi: 請神, pinyin: "qiangˋ siinˇ", en: "invite the gods"}
+  - {hanzi: 做好事, pinyin: "zo hoˋ sii", en: "hold a wedding"}
+  - {hanzi: 結親家, pinyin: "giedˋ qinˊ gaˊ", en: "become in-laws"}
+  - {hanzi: 豐沛, pinyin: "pongˊ pai", en: "lavish, plentiful"}
+  - {hanzi: 盼得, pinyin: "pan dedˋ", en: "bear to (part with)"}
+  - {hanzi: 當面, pinyin: "dongˊ mien", en: "face to face"}
+
+exercises:
+  translate:
+    - en: "Taiwan used to be an agricultural society."
+      source: kaga115
+      sx: {hanzi: "臺灣頭擺係農業社會。", pinyin: "toiˇ vanˇ teuˇ baiˋ he nungˇ ngiab sa fi."}
+    - en: "Strike lucky."
+      source: kaga115
+      sx: {hanzi: "得著好空。", pinyin: "dedˋ doˋ hoˋ kungˊ."}
+    - en: "No one does business at a loss."
+      source: kaga115
+      sx: {hanzi: "蝕本生理無人做。", pinyin: "sad bunˋ senˊ liˊ moˇ nginˇ zo."}
+    - en: "Children who are grown up: there's no need to fret so."
+      source: kaga115
+      sx: {hanzi: "細人仔大吔，毋使恁愁慮。", pinyin: "se nginˇ eˋ tai leˊ, mˇ siiˋ anˋ seuˇ li."}
+    - en: "How could I bear to let you go?"
+      source: kaga115
+      sx: {hanzi: "𠊎哪盼得分你走。", pinyin: "ngaiˇ nai pan dedˋ bunˊ nˇ zeuˋ."}
+  fill:
+    - en: "New Year by the lunar calendar."
+      sx: {hanzi: "___過年。", pinyin: "___ go ngienˇ.", answer_hanzi: "舊曆", answer: "kiu lag"}
+    - en: "This is dear because the cost is very high."
+      sx: {hanzi: "這東西貴係因為___當高。", pinyin: "iaˋ dungˊ xiˊ gui he inˊ vi ___ dongˊ goˊ.", answer_hanzi: "成本", answer: "siinˇ bunˋ"}
+    - en: "Go and cast the divination blocks at the temple."
+      sx: {hanzi: "去廟項___。", pinyin: "hi meu hong ___.", answer_hanzi: "跌筊仔", answer: "diedˋ gau eˋ"}
+    - en: "A temple festival needs the gods invited."
+      sx: {hanzi: "做鬧熱愛___。", pinyin: "zo nau ngied oi ___.", answer_hanzi: "請神", answer: "qiangˋ siinˇ"}
+    - en: "Let's say it face to face."
+      sx: {hanzi: "大家出來___講。", pinyin: "tai gaˊ cudˋ loiˇ ___ gongˋ.", answer_hanzi: "當面", answer: "dongˊ mien"}
+
+audio: []
