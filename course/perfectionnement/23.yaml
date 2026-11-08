@@ -29,7 +29,7 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "(dropping into the only armchair) I'm sitting here!"
-    sx: {hanzi: "𠊎坐這！", pinyin: "ngaiˇ coˊ iaˋ!"}
+    sx: {hanzi: "𠊎坐這位！", pinyin: "ngaiˇ coˊ iaˋ vi!"}
   - n: 6
     speaker: 阿英
     en: "Eating for free and taking the best seat: have you no shame?"
@@ -59,8 +59,8 @@ dialogue:
     sx: {hanzi: "你莫恁揀食！", pinyin: "nˇ mog anˋ gienˋ siid!"}
   - n: 12
     speaker: 阿雄
-    en: "This sausage goes really well with it. It'd be great with rice… I mean, with bread."
-    sx: {hanzi: "這煙腸當合味，當扯飯……毋係，當扯麵包。", pinyin: "iaˋ ienˊ congˇ dongˊ gagˋ mi, dongˊ caˋ fan … mˇ he, dongˊ caˋ mien bauˊ."}
+    en: "These sausages taste just right. They'd be great with rice… I mean, with bread."
+    sx: {hanzi: "這兜煙腸當合味，當扯飯……毋係，當扯麵包。", pinyin: "iaˋ deuˊ ienˊ congˇ dongˊ gagˋ mi, dongˊ caˋ fan … mˇ he, dongˊ caˋ mien bauˊ."}
   - n: 13
     speaker: Sam
     en: "Beer, anyone? With ice cubes?"
@@ -149,8 +149,8 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      鹽生 iamˇ sangˊ "raw vegetables dressed with salt" (竻瓜仔鹽生脆脆當好食). 撒 saˋ "sprinkle" (撒兜仔鹽), 攞 loˊ "mix
-      in" (蔥仔炒香正攞卵 "fry the spring onion till fragrant, then mix in the egg"). Sam's salad with vinegar is ours; marked for review.
+      鹽生 iamˇ sangˊ "raw vegetables dressed with salt" (竻瓜仔鹽生脆脆異好食). 撒 saˋ "sprinkle" (撒兜仔鹽), 攞 loˊ "mix in" (蔥仔炒香正攞卵
+      "fry the spring onion till fragrant, then mix in the egg"). Sam's salad with vinegar is ours; marked for review.
   - ref: 9
     topic: vocab
     text: >
@@ -180,7 +180,7 @@ notes:
   - ref: 17
     topic: vocab
     text: >
-      書架仔 suˊ ga eˋ "bookshelf", 時鐘仔 siiˇ zungˊ eˋ "clock" (時鐘仔个電池無電吔 "the clock battery is flat").
+      書架仔 suˊ ga eˋ "bookshelf", 時鐘仔 siiˇ zungˊ eˋ "clock" (時鐘仔个電池無電哩 "the clock battery is flat").
   - ref: 18
     topic: false-friend
     text: >

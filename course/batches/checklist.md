@@ -205,3 +205,29 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   `new_words` in the review dialogue.
 - An official sentence that lint cannot read (禮 alone in 正有禮) is adapted with `check: true` and a note, not
   quoted with `source:`.
+
+## 進修 batches 4–5 review (P22–P35)
+- 逐 "every" is dagˋ (逐日, 逐禮拜, 逐項); giugˋ is "chase" (逐老鼠, 逐黃蚻). Seven "every" lines in P26–P33 had giugˋ:
+  grep the pinyin of every 逐.
+- 熟 "cooked, done" is sug (lesson 29); xiugˋ is "ripe" (kaga115: 指蔬果熟成). Check polyphonic words by sense, not
+  only by lint: lint accepts any listed reading.
+- 好 is hau before a verb also after 恁: 莫恁好逞強 "don't be so keen to act tough".
+- 愛多 + verb for advice is attested (19 official: 愛多運動, 愛多溫習, 愛多尞), so the batch 1 rule against 多讀 is about
+  quantity. With a number, the verb comes first with 加: 歇加兩暗晡 (official 歇加幾夜仔), not 多歇兩暗晡.
+- "Not many" after a verb is V無幾多 (做無幾多, 賺無幾多錢), not V毋多.
+- 睡忒晝 is "oversleep" (MOE); 晝 zu is "late" (忒晝吔！會赴毋著哩). "Go to bed late" has no example.
+- In a letter, writer + reader is 𫣆兜 (𫣆兜兩儕當多話題好講); the writer's household welcoming the reader is 𠊎兜.
+- Lint checks `source:` only in the dialogue, and not the table name. Check exercise sources by hand: 年初二轉妹家 is
+  kaga115, not kaga; 得著好空 is half of 得著亞軍。得著好空 (`abridged: true`).
+- A note quoting an official sentence keeps its own particles and adverbs (哩, 異), even where the course writes 吔
+  and 當; a line or exercise that swaps them is the course's version and has no `source:`. 異 is not taught yet.
+- A list entry whose only sense is a measure word (擔 量詞) is glossed from MOE for the verb (負責、承當), and the note
+  says so.
+- January–February: 今年, 舊年 and 天光年 differ by calendar until the lunar New Year. For seasons (longans, a
+  harvest) name the season (熱天) instead of the year.
+- Leaflets, rules, hours and limits of real Taiwanese institutions (the post office) are invented: say so in the
+  setting.
+- Continuity: Sam spent the winter of 2026–27 and the 2027 New Year with the Lius (Part 1, lessons 29 and 50–51), so
+  P2 is not his "first winter" or "first New Year in Taiwan". 阿太 is Grandpa's father (lesson 65). Sam has a sister,
+  Lucie (lesson 29). A-min has never met 鍾伯.
+- 2029: the twelfth lunar month has 29 days, so New Year's Eve (Mon 12 Feb) is the 29th; it is still 年三十.

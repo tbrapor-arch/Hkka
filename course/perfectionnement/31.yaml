@@ -24,7 +24,7 @@ dialogue:
     en: "He was the ringleader round here: very nimble, and very naughty."
     sx: {hanzi: "佢係這片个搞頭王，手腳當溜掠，又當番綻。", pinyin: "giˇ he iaˋ pienˋ ge gauˋ teuˇ vongˇ, suˋ giogˋ dongˊ liuˊ liagˋ, iu dongˊ fanˊ can."}
   - n: 5
-    en: "His grandmother was always scolding him: 'Don't be so naughty: behave yourself!'"
+    en: "My great-grandfather was always scolding him: 'Don't be so naughty: behave yourself!'"
     sx: {hanzi: "阿太輒輒罵佢：「毋好恁賤，愛較乖兜仔！」", pinyin: "aˊ tai jiab jiab ma giˇ: mˇ hoˋ anˋ qien, oi ka guaiˊ deuˊ eˋ!"}
   - n: 6
     en: "There weren't many toys then; children made their own things to play with."
@@ -37,7 +37,7 @@ dialogue:
   - n: 8
     en: "At break, children queued up for the swings."
     sx: {hanzi: "下課時節，細人仔排列吊晃槓仔。", pinyin: "ha ko siiˇ jiedˋ, se nginˇ eˋ baiˇ lied diau gongˇ gong eˋ."}
-    check: true
+    source: kaga115
   - n: 9
     en: "At the school sports day there was a tug of war, and everyone pulled together."
     sx: {hanzi: "學校運動會有挷大索比賽，大家當團結。", pinyin: "hog gauˋ iun tung fi iuˊ bangˊ tai sogˋ biˋ soi, tai gaˊ dongˊ tonˇ giedˋ."}
@@ -73,7 +73,7 @@ dialogue:
     sx: {hanzi: "乜有人講，細人仔學鋼琴、打網球，比頭擺較好。", pinyin: "me iuˊ nginˇ gongˋ, se nginˇ eˋ hog gong kimˇ, daˋ miongˋ kiuˇ, biˋ teuˇ baiˋ ka hoˋ."}
   - n: 19
     en: "Homes have cameras and stereos: every kind of equipment."
-    sx: {hanzi: "屋下有翕相機、音響，逐項設備都有。", pinyin: "vugˋ kaˊ iuˊ hibˋ xiong giˊ, imˊ hiongˋ, giugˋ hong sadˋ pi du iuˊ."}
+    sx: {hanzi: "屋下有翕相機、音響，逐項設備都有。", pinyin: "vugˋ kaˊ iuˊ hibˋ xiong giˊ, imˊ hiongˋ, dagˋ hong sadˋ pi du iuˊ."}
   - n: 20
     en: "On Sundays parents take their children to the zoo to see elephants and camels."
     sx: {hanzi: "禮拜日爺哀帶細人仔去動物園看象仔、駱駝。", pinyin: "liˊ bai ngidˋ iaˇ oiˊ dai se nginˇ eˋ hi tung vud ienˇ kon xiong eˋ, log toˇ."}
@@ -117,7 +117,8 @@ notes:
   - ref: 5
     topic: vocab
     text: >
-      An official sentence. 賤 qien "naughty, can't keep still" (not "cheap", which is another sense).
+      The quotation is an official sentence. 阿太 is Grandpa's father, A-in's great-grandfather (lesson 65). 賤 qien
+      "naughty, can't keep still" (not "cheap", which is another sense).
   - ref: 6
     topic: vocab
     text: >
@@ -129,8 +130,7 @@ notes:
   - ref: 8
     topic: vocab
     text: >
-      吊晃槓仔 diau gongˇ gong eˋ "swing; go on the swings". The official sentence is 下課時節，細人仔排列吊晃槓仔
-      followed by more; marked for review.
+      吊晃槓仔 diau gongˇ gong eˋ "swing; go on the swings". The line is an official sentence.
   - ref: 9
     topic: vocab
     text: >

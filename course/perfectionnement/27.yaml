@@ -4,18 +4,19 @@ title:
   en: Not even the first stroke of the character eight
   sx: {hanzi: 八字吂有一撇, pinyin: badˋ sii mangˇ iuˊ idˋ pied}
 review: false
-setting: Monday 18 December 2028. Sam's scholarship is about to be paid, and he needs a savings account. Lines 1–19 are
-  the leaflet from the Miaoli post office for foreigners opening an account. Lines 20–27 are the note Sam leaves for A-in
-  after his first try.
+setting: >-
+  Monday 18 December 2028. Sam's scholarship is about to be paid, and he needs a savings account. Lines 1–19 are the
+  leaflet from the Miaoli post office for foreigners opening an account; it is the course's own, and its rules, hours
+  and limits are invented, not the real post office's. Lines 20–27 are the note Sam leaves for A-in after his first
+  try.
 names: [苗栗, 阿英, Sam]
 dialogue:
 - n: 1
   en: 'Miaoli Post Office: opening a savings account (for foreign nationals)'
   sx: {hanzi: 苗栗郵局：外國人辦理貯金个手續, pinyin: 'meuˇ lid iuˇ kiug: ngoi guedˋ nginˇ pan liˊ duˋ gimˊ ge suˋ xiug'}
 - n: 2
-  en: Foreign friends are welcome to save with the post office. Before you apply, please have the following documents ready.
-  sx: {hanzi: 歡迎外國朋友來郵局貯金。辦理進前，請先準備下背个文件。, pinyin: 'fonˊ ngiangˇ ngoi guedˋ penˇ iuˊ loiˇ iuˇ kiug duˋ gimˊ. pan liˊ jin
-      qienˇ, qiangˋ xienˊ zunˋ pi haˊ boi ge vunˇ kien.'}
+  en: "Foreign friends are welcome to save with the post office. Before you apply, please have these documents ready."
+  sx: {hanzi: "歡迎外國朋友來郵局貯金。辦理進前，請先準備這兜文件。", pinyin: "fonˊ ngiangˇ ngoi guedˋ penˇ iuˊ loiˇ iuˇ kiug duˋ gimˊ. pan liˊ jin qienˇ, qiangˋ xienˊ zunˋ pi iaˋ deuˊ vunˇ kien."}
 - n: 3
   en: '1. Your passport. It must still be valid: an expired passport cannot be used.'
   sx: {hanzi: 一、護照。護照愛還有效，過期个做毋得用。, pinyin: 'idˋ, fu zeu. fu zeu oi hanˇ iuˊ hauˋ, go kiˇ ge zo mˇ dedˋ iung.'}
@@ -41,10 +42,8 @@ dialogue:
   en: Please sign here. Your signature must be the same as in your passport.
   sx: {hanzi: 請在這位簽名，簽名愛同護照項个共樣。, pinyin: 'qiangˋ coiˊ iaˋ vi qiamˊ miangˇ, qiamˊ miangˇ oi tungˇ fu zeu hong ge kiung iong.'}
 - n: 10
-  en: The passbook is free. The post office will process your details within three days.
-  sx: {hanzi: 辦簿仔免費。郵局會在三日肚處理好你个資料。, pinyin: pan puˊ eˋ mienˊ fi. iuˇ kiug voi coiˊ samˊ ngidˋ duˋ cuˋ liˊ hoˋ nˇ ge ziiˊ
-      liau.}
-  check: true
+  en: "The passbook is free. The post office will process your details within three days."
+  sx: {hanzi: "辦簿仔免費。郵局會在三日內處理好你个資料。", pinyin: "pan puˊ eˋ mienˊ fi. iuˇ kiug voi coiˊ samˊ ngidˋ nui cuˋ liˊ hoˋ nˇ ge ziiˊ liau."}
 - n: 11
   en: While your details are being processed, the passbook cannot be used for the time being.
   sx: {hanzi: 處理个期間，簿仔暫時做毋得用。, pinyin: 'cuˋ liˊ ge kiˇ gienˊ, puˊ eˋ qiam siiˇ zo mˇ dedˋ iung.'}
@@ -69,9 +68,8 @@ dialogue:
   en: Closed on Saturdays and Sundays.
   sx: {hanzi: 禮拜六、禮拜日無辦公。, pinyin: 'liˊ bai liugˋ, liˊ bai ngidˋ moˇ pan gungˊ.'}
 - n: 18
-  en: The postman comes every day. You can give him letters and postcards to post.
-  sx: {hanzi: 送信仔个逐日會來。信仔、明信片做得交分佢寄。, pinyin: 'sung xin eˋ ge giugˋ ngidˋ voi loiˇ. xin eˋ, minˇ xin pienˋ zo dedˋ gauˊ
-      bunˊ giˇ gi.'}
+  en: "The postman comes every day. You can give him letters and postcards to post."
+  sx: {hanzi: "送信仔个逐日會來。信仔、明信片做得交分佢寄。", pinyin: "sung xin eˋ ge dagˋ ngidˋ voi loiˇ. xin eˋ, minˇ xin pienˋ zo dedˋ gauˊ bunˊ giˇ gi."}
 - n: 19
   en: Thank you for your cooperation.
   sx: {hanzi: 請大家配合辦理。, pinyin: qiangˋ tai gaˊ pi hab pan liˊ.}
@@ -116,7 +114,7 @@ notes:
 - ref: 2
   topic: vocab
   text: >
-    文件 vunˇ kien "document" (這文件搭你拿分佢). 進前 "before" (Part 1): written Hakka avoids 以前 after a verb.
+    文件 vunˇ kien "document" (這文件搭你拿分佢). 進前 "before" (Part 1); 以前 also follows a verb (開學以前, note 5).
 - ref: 3
   topic: vocab
   text: >
@@ -137,8 +135,8 @@ notes:
 - ref: 10
   topic: vocab
   text: >
-    簿仔 puˊ eˋ "notebook; (here) passbook" (MOE). 免費 mienˊ fi "free of charge" (這滿做得免費參觀). 處理 cuˋ liˊ "process, deal with"
-    (手割著無處理好勢，嗄發炎吔, 進修 24's 發炎). The three-day delay is ours; marked for review.
+    簿仔 puˊ eˋ "notebook; (here) passbook" (MOE). 免費 mienˊ fi "free of charge" (這滿做得免費參觀). 處理 cuˋ liˊ "process, deal
+    with" (手割著無處理好勢，嗄發炎吔, 進修 24's 發炎). 三日內 "within three days" (N日內, checklist).
 - ref: 11
   topic: vocab
   text: >
@@ -254,5 +252,5 @@ exercises:
   - en: The interest isn't high.
     sx: {hanzi: ___無高。, pinyin: ___ moˇ goˊ., answer_hanzi: 利子, answer: li ziiˋ}
   - en: The postman comes every day.
-    sx: {hanzi: ___逐日就會來。, pinyin: ___ giugˋ ngidˋ qiu voi loiˇ., answer_hanzi: 送信仔个, answer: sung xin eˋ ge}
+    sx: {hanzi: ___逐日就會來。, pinyin: ___ dagˋ ngidˋ qiu voi loiˇ., answer_hanzi: 送信仔个, answer: sung xin eˋ ge}
 audio: []

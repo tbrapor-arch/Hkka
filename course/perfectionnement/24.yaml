@@ -12,7 +12,7 @@ names: [阿英, 黃醫生, 公館]
 dialogue:
   - n: 1
     speaker: 阿英
-    en: "Good evening, listeners. This is 'Health in Hakka', and today's guest is Dr Huang of 公館."
+    en: "Hello, listeners. This is 'Health in Hakka', and today's guest is Dr Huang of 公館."
     sx: {hanzi: "各位聽眾好，這係「客家講健康」，今晡日請著个人客係公館个黃醫生。", pinyin: "gogˋ vi tangˊ zung hoˋ, iaˋ he hagˋ gaˊ gongˋ kien kongˊ, gimˊ buˊ ngidˋ qiangˋ doˋ ge nginˇ hagˋ he gungˊ gonˋ ge vongˇ iˊ senˊ."}
   - n: 2
     speaker: 阿英
@@ -21,14 +21,14 @@ dialogue:
   - n: 3
     speaker: 黃醫生
     en: "Half my life: fifty-odd years. I was a physician, not a surgeon, so I didn't do many operations."
-    sx: {hanzi: "做半生人吔，五十零年。𠊎係內科，毋係外科，手術做毋多。", pinyin: "zo ban senˊ nginˇ leˊ, ngˋ siib langˇ ngienˇ. ngaiˇ he nui koˊ, mˇ he ngoi koˊ, suˋ sud zo mˇ doˊ."}
+    sx: {hanzi: "做半生人吔，五十零年。𠊎係內科，毋係外科，手術做無幾多。", pinyin: "zo ban senˊ nginˇ leˊ, ngˋ siib langˇ ngienˇ. ngaiˇ he nui koˊ, mˇ he ngoi koˊ, suˋ sud zo moˇ giˋ doˊ."}
   - n: 4
     speaker: 阿英
     en: "You practise Western medicine. Do you also use Chinese medicine?"
     sx: {hanzi: "你看西醫，乜看漢藥無？", pinyin: "nˇ kon xiˊ iˊ, me kon hon iog moˇ?"}
   - n: 5
     speaker: 黃醫生
-    en: "In the old days people trusted Chinese medicine more: when they had symptoms they went to the herbalist's. Now everyone sees a Western doctor."
+    en: "In the old days people trusted Chinese medicine more: when they had symptoms they went to the pharmacy. Now everyone sees a Western doctor."
     sx: {hanzi: "早期个人較信漢藥，有症頭就去藥房。這下個個都看西醫。", pinyin: "zoˋ kiˇ ge nginˇ ka xin hon iog, iuˊ ziin teuˇ qiu hi iog fongˇ. iaˋ ha ge ge du kon xiˊ iˊ."}
   - n: 6
     speaker: 阿英
@@ -69,12 +69,12 @@ dialogue:
     sx: {hanzi: "這兜日仔天時寒，當多人打哈啾，喉嗹有痰。", pinyin: "iaˋ deuˊ ngidˋ eˇ tienˊ siiˇ honˇ, dongˊ doˊ nginˇ daˋ had qiuˋ, heuˇ lienˇ iuˊ tamˇ."}
   - n: 15
     speaker: 黃醫生
-    en: "Those are the symptoms of a cold. Take some cough mixture and rest a lot, and you'll get better."
+    en: "Those are the symptoms of a cold. Take some liquid medicine and rest a lot, and you'll get better."
     sx: {hanzi: "該係寒著个症頭。食兜仔藥水，多歇睏就會恢復。", pinyin: "ge he honˇ doˋ ge ziin teuˇ. siid deuˊ eˋ iog suiˋ, doˊ hiedˋ kun qiu voi fiˊ fug."}
   - n: 16
     speaker: 阿英
-    en: "Some people have stomach ache, and their stomach gets inflamed whenever they eat. What should they do?"
-    sx: {hanzi: "有人講胃痛，食東西胃就發炎，仰般好？", pinyin: "iuˊ nginˇ gongˋ vi tung, siid dungˊ xiˊ vi qiu fadˋ iamˇ, ngiongˋ banˊ hoˋ?"}
+    en: "Some people have stomach ache that hurts whenever they eat. Is their stomach inflamed?"
+    sx: {hanzi: "有人胃痛，食東西就痛，係胃發炎無？", pinyin: "iuˊ nginˇ vi tung, siid dungˊ xiˊ qiu tung, he vi fadˋ iamˇ moˇ?"}
     check: true
   - n: 17
     speaker: 黃醫生
@@ -114,7 +114,7 @@ dialogue:
     sx: {hanzi: "這下个細孲仔近視當多。", pinyin: "iaˋ ha ge se oˇ eˋ kiun sii dongˊ doˊ."}
   - n: 26
     speaker: 黃醫生
-    en: "Too long in front of the computer. Parents should keep an eye on their height and weight too."
+    en: "Too long in front of the computer. You should also keep an eye on their height and weight."
     sx: {hanzi: "看電腦看忒久吔。乜愛注意身高同體重。", pinyin: "kon tien noˋ kon tedˋ giuˋ leˊ. me oi zu i siinˊ goˊ tungˇ tiˋ cungˊ."}
   - n: 27
     speaker: 阿英
@@ -130,8 +130,9 @@ dialogue:
     sx: {hanzi: "這下个醫學當進步，你掛心麼个？", pinyin: "iaˋ ha ge iˊ hog dongˊ jin pu, nˇ gua ximˊ maˋ ge?"}
   - n: 30
     speaker: 黃醫生
-    en: "That young people don't look after themselves: food poisoning, going to bed too late. It's all dangerous."
-    sx: {hanzi: "𠊎掛心後生人毋會照顧身體。食物中毒、睡忒晝，都係危險个事情。", pinyin: "ngaiˇ gua ximˊ heu sangˊ nginˇ mˇ voi zeu gu siinˊ tiˋ. siid vud zung tug, soi tedˋ zu, du he nguiˇ hiamˋ ge sii qinˇ."}
+    en: "That young people don't look after themselves. Careless eating can give you food poisoning, and going to bed too late is bad for you too."
+    sx: {hanzi: "𠊎掛心後生人毋會照顧身體。食東西無注意會食物中毒，暗晡頭忒晝正睡乜對身體毋好。", pinyin: "ngaiˇ gua ximˊ heu sangˊ nginˇ mˇ voi zeu gu siinˊ tiˋ. siid dungˊ xiˊ moˇ zu i voi siid vud zung tug, am buˊ teuˇ tedˋ zu zang soi me dui siinˊ tiˋ mˇ hoˋ."}
+    check: true
 
 notes:
   - ref: 0
@@ -142,8 +143,8 @@ notes:
   - ref: 3
     topic: vocab
     text: >
-      半生人 ban senˊ nginˇ "half a lifetime" (佢用半生人正完成這本書). 內科 "internal medicine" and 外科 "surgery": in Hakka
-      as in Mandarin, 𠊎係內科 means "I am a physician". 手術 suˋ sud "operation".
+      半生人 ban senˊ nginˇ "half a lifetime" (佢用半生人正完成這本書). 內科 "internal medicine" and 外科 "surgery": 𠊎係內科 "I'm in internal
+      medicine", i.e. a physician. 手術 suˋ sud "operation".
   - ref: 4
     topic: vocab
     text: >
@@ -190,7 +191,7 @@ notes:
   - ref: 16
     topic: vocab
     text: >
-      胃 "stomach"; 發炎 fadˋ iamˇ "become inflamed" (手割著無處理好勢，嗄發炎吔). Marked for review.
+      胃 "stomach"; 發炎 fadˋ iamˇ "become inflamed" (手割著無處理好勢，嗄發炎吔). 胃發炎 is ours; marked for review.
   - ref: 17
     topic: vocab
     text: >
@@ -227,8 +228,8 @@ notes:
   - ref: 30
     topic: vocab
     text: >
-      中毒 "be poisoned" (食物中毒 "food poisoning"). 晝 zu "late" (睡忒晝 "go to bed too late"): the same word as
-      晝 "midday", in its sense "late in the day".
+      中毒 "be poisoned" (食物中毒 "food poisoning"). 晝 zu "late", the same word as 晝 "midday" (忒晝吔！會赴毋著哩 "it's too late,
+      we'll miss it!"). 忒晝正睡 "go to bed too late" is ours, marked for review; MOE 睡忒晝 is "oversleep".
 
 new_words:
   - {hanzi: 長病無孝子, pinyin: "congˇ piang moˇ hau ziiˋ", en: "a long illness leaves no dutiful son"}

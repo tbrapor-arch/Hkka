@@ -27,7 +27,7 @@ dialogue:
     sx: {hanzi: "救護車同消防隊遽遽來救人，好得無人消忒。這係一件不幸个意外。", pinyin: "giu fu caˊ tungˇ seuˊ fongˇ cui giagˋ giagˋ loiˇ giu nginˇ, hoˋ dedˋ moˇ nginˇ xiauˊ tedˋ. iaˋ he idˋ kien budˋ hen ge i ngoi."}
   - n: 6
     en: "The motorway was jammed: cars waited three hours before they could move."
-    sx: {hanzi: "高速公路塞車，車仔等三點鐘正行得。", pinyin: "goˊ sugˋ gungˊ lu sedˋ caˊ, caˊ eˋ denˋ samˊ diamˋ zungˊ zang hangˇ dedˋ."}
+    sx: {hanzi: "高速公路塞車，車仔等三點鐘久正行得。", pinyin: "goˊ sugˋ gungˊ lu sedˋ caˊ, caˊ eˋ denˋ samˊ diamˋ zungˊ giuˋ zang hangˇ dedˋ."}
   - n: 7
     en: "Second: yesterday an old house in 苗栗市 caught fire."
     sx: {hanzi: "第二條新聞：昨晡日苗栗市一間舊屋火燒屋。", pinyin: "ti ngi tiauˇ xinˊ vunˇ: coˊ buˊ ngidˋ meuˇ lid sii idˋ gienˊ kiu vugˋ foˋ seuˊ vugˋ."}
@@ -87,8 +87,8 @@ dialogue:
     en: "Her children say they are very grateful to the police."
     sx: {hanzi: "老伯姆个子女講，當感謝警察。", pinyin: "loˋ bagˋ meˊ ge ziiˋ ngˋ gongˋ, dongˊ gamˋ qia ginˋ cadˋ."}
   - n: 26
-    en: "That was today's news. Thank you, everyone."
-    sx: {hanzi: "這係今晡日个新聞。恁仔細大家。", pinyin: "iaˋ he gimˊ buˊ ngidˋ ge xinˊ vunˇ. anˋ ziiˋ se tai gaˊ."}
+    en: "That was today's news. Thank you!"
+    sx: {hanzi: "這係今晡日个新聞。恁仔細！", pinyin: "iaˋ he gimˊ buˊ ngidˋ ge xinˊ vunˇ. anˋ ziiˋ se!"}
 
 notes:
   - ref: 0
@@ -116,7 +116,8 @@ notes:
   - ref: 6
     topic: vocab
     text: >
-      塞車 sedˋ caˊ "traffic jam" (中高級; 過年過節高速公路不時會塞車). Note sedˋ here, not the cedˋ of 塞著 "blocked" (進修 24).
+      塞車 sedˋ caˊ "traffic jam" (中高級; 過年過節高速公路不時會塞車). Note sedˋ here, not the cedˋ of 塞著 "blocked" (進修 24). 三點鐘久 "three
+      hours": 點鐘 is a duration and takes 久 (checklist).
   - ref: 7
     topic: vocab
     text: >
@@ -124,8 +125,8 @@ notes:
   - ref: 8
     topic: vocab
     text: >
-      屋主 vugˋ zuˋ "owner of the house; landlord" (屋主等下愛來撿錢). 電線 "wiring, electric wire" and 燒忒 "burn out,
-      burn up": the official sentence is 電線係燒忒，該斯危險吔.
+      屋主 vugˋ zuˋ "owner of the house; landlord" (屋主等下愛來撿錢). 電線 "wiring, electric wire" and 燒忒 "burn out, burn up": the
+      official sentence is 電線係燒忒，該斯危險哩.
   - ref: 10
     topic: vocab
     text: >
@@ -165,7 +166,8 @@ notes:
   - ref: 20
     topic: vocab
     text: >
-      賭徼 duˋ gieuˋ "gamble; gambling"; The official sentence: 賭徼場會撮目花，毋好去賭 "gambling dens dazzle you: don't go and gamble".
+      賭徼 duˋ gieuˋ "gamble; gambling". The official sentence: 賭徼場會撮目花，毋好去賭 "gambling dens dazzle you: don't go and
+      gamble".
   - ref: 21
     topic: vocab
     text: >

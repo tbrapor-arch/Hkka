@@ -21,7 +21,7 @@ dialogue:
     sx: {hanzi: "冬下頭臺灣乜會落霜？", pinyin: "dungˊ haˊ teuˇ toiˇ vanˇ me voi log songˊ?"}
   - n: 3
     speaker: 阿公
-    en: "Up in the Miaoli hills, sometimes. In winter the vegetables grow slowly; they won't put out new shoots till the spring."
+    en: "Up in the Miaoli hills, sometimes. In winter the vegetables grow slowly; they won't put out new shoots till the New Year."
     sx: {hanzi: "苗栗山肚有時會。冬下頭菜生較慢，等到年頭正會暴芽。", pinyin: "meuˇ lid sanˊ duˋ iuˊ siiˇ voi. dungˊ haˊ teuˇ coi sangˊ ka man, denˋ do ngienˇ teuˇ zang voi bau ngaˇ."}
     check: true
   - n: 4
@@ -70,21 +70,21 @@ dialogue:
   - n: 14
     speaker: 阿公
     en: "Light a fire, bury the potatoes in the hot ashes, and leave them about an hour: then they're done."
-    sx: {hanzi: "燒火，番薯埋在火灰肚，燜一點鐘仔就熟。", pinyin: "seuˊ foˋ, fanˊ suˇ maiˇ coiˊ foˋ foiˊ duˋ, munˊ idˋ diamˋ zungˊ eˋ qiu xiugˋ."}
+    sx: {hanzi: "燒火，番薯埋在火灰肚，燜一點鐘久就熟。", pinyin: "seuˊ foˋ, fanˊ suˇ maiˇ coiˊ foˋ foiˊ duˋ, munˊ idˋ diamˋ zungˊ giuˋ qiu sug."}
     check: true
   - n: 15
     speaker: 阿明
-    en: "There's not enough wood. I'll get the machete and cut down a tree out the back."
+    en: "There's not enough wood. I'll get the machete and cut down a tree."
     sx: {hanzi: "樵毋罅，𠊎去擎刀嫲來倒樹仔。", pinyin: "ceuˇ mˇ la, ngaiˇ hi kiaˇ doˊ maˇ loiˇ doˋ su eˋ."}
   - n: 16
     speaker: 阿明
-    en: "That longan tree is so old. It hardly gave any longans this year."
-    sx: {hanzi: "該頭牛眼樹恁老，今年牛眼生無幾多。", pinyin: "ge teuˇ ngiuˇ ngienˋ su anˋ loˋ, gimˊ ngienˇ ngiuˇ ngienˋ sangˊ moˇ giˋ doˊ."}
+    en: "That longan tree is so old. It hardly gives any longans now."
+    sx: {hanzi: "該頭牛眼樹恁老，牛眼生無幾多吔。", pinyin: "ge teuˇ ngiuˇ ngienˋ su anˋ loˋ, ngiuˇ ngienˋ sangˊ moˇ giˋ doˊ leˊ."}
     check: true
   - n: 17
     speaker: 阿公
-    en: "Cutting down the tree to pick the longans! That tree will still give longans next summer."
-    sx: {hanzi: "倒樹仔摘牛眼！該頭樹天光年熱天還會生牛眼。", pinyin: "doˋ su eˋ zagˋ ngiuˇ ngienˋ! ge teuˇ su tienˊ gongˊ ngienˇ ngied tienˊ hanˇ voi sangˊ ngiuˇ ngienˋ."}
+    en: "Cutting down the tree to pick the longans! That tree will still give longans in the summer."
+    sx: {hanzi: "倒樹仔摘牛眼！該頭樹熱天還會生牛眼。", pinyin: "doˋ su eˋ zagˋ ngiuˇ ngienˋ! ge teuˇ su ngied tienˊ hanˇ voi sangˊ ngiuˇ ngienˋ."}
   - n: 18
     speaker: 阿公
     en: "Go and gather wood at the foot of the hill, that'll do."
@@ -95,8 +95,8 @@ dialogue:
     sx: {hanzi: "樵撿轉來吔。捽來火在哪位？", pinyin: "ceuˇ giamˋ zonˋ loiˇ leˊ. cud loiˇ foˋ coiˊ nai vi?"}
   - n: 20
     speaker: 阿公
-    en: "The fire isn't going well. You need to blow on it."
-    sx: {hanzi: "火毋猛，你愛歕火。", pinyin: "foˋ mˇ mangˊ, nˇ oi punˇ foˋ."}
+    en: "The fire won't get going. You need to blow on it."
+    sx: {hanzi: "火毋會猛，你愛歕火。", pinyin: "foˋ mˇ voi mangˊ, nˇ oi punˇ foˋ."}
   - n: 21
     speaker: 阿明
     en: "(laughing) The ash has flown all over Sam's face! It's all black!"
@@ -104,7 +104,7 @@ dialogue:
   - n: 22
     speaker: 阿公
     en: "While the potatoes cook, go to the pond for water and water the vegetables with the ladle."
-    sx: {hanzi: "番薯還吂熟，去陂塘打水，用勺嫲舀水淋菜。", pinyin: "fanˊ suˇ hanˇ mangˇ xiugˋ, hi biˊ tongˇ daˋ suiˋ, iung sog maˇ ieuˋ suiˋ limˇ coi."}
+    sx: {hanzi: "番薯還吂熟，去陂塘打水，用勺嫲舀水淋菜。", pinyin: "fanˊ suˇ hanˇ mangˇ sug, hi biˊ tongˇ daˋ suiˋ, iung sog maˇ ieuˋ suiˋ limˇ coi."}
   - n: 23
     speaker: 阿明
     en: "The geese in the pond are swimming round and round."
@@ -120,12 +120,11 @@ dialogue:
   - n: 26
     speaker: 阿明
     en: "The sweet potatoes are ready!"
-    sx: {hanzi: "番薯熟吔，好食吔！", pinyin: "fanˊ suˇ xiugˋ leˊ, hoˋ siid leˊ!"}
+    sx: {hanzi: "番薯熟吔，好食吔！", pinyin: "fanˊ suˇ sug leˊ, hoˋ siid leˊ!"}
   - n: 27
     speaker: Sam
     en: "Roast sweet potatoes in winter: so warming."
     sx: {hanzi: "冬下頭食煨番薯，當燒暖。", pinyin: "dungˊ haˊ teuˇ siid voiˊ fanˊ suˇ, dongˊ seuˊ nonˊ."}
-    check: true
 
 notes:
   - ref: 0
@@ -177,8 +176,8 @@ notes:
   - ref: 14
     topic: vocab
     text: >
-      埋 maiˇ "bury". 火灰 foˋ foiˊ "ashes, embers" (火灰做得拿來洗鑊仔). 熟 xiugˋ "cooked, done" (燜 is from 進修 15).
-      Marked for review.
+      埋 maiˇ "bury". 火灰 foˋ foiˊ "ashes, embers" (火灰做得拿來洗鑊仔). 熟 sug "cooked, done" (lesson 29; xiugˋ is "ripe", of fruit
+      and vegetables). 一點鐘久 "about an hour", with 久 (checklist); 燜 is from 進修 15. Marked for review.
   - ref: 15
     topic: vocab
     text: >
@@ -190,7 +189,7 @@ notes:
   - ref: 17
     topic: vocab
     text: >
-      天光年 "next year" (Part 1).
+      Grandpa answers with the saying of the title: the tree still fruits, so felling it for firewood would be a loss.
   - ref: 19
     topic: vocab
     text: >
@@ -198,7 +197,8 @@ notes:
   - ref: 20
     topic: vocab
     text: >
-      歕火 punˇ foˋ "blow on a fire" (頭擺用灶頭煮飯該下，無歕火，火毋會猛). 猛 "(of a fire) fierce, going well".
+      歕火 punˇ foˋ "blow on a fire" (頭擺用灶頭煮飯該下，無歕火，火毋會猛). 猛 "(of a fire) fierce, going well": 火毋會猛, with 毋會 before the
+      adjective (checklist).
   - ref: 22
     topic: vocab
     text: >
@@ -215,7 +215,7 @@ notes:
   - ref: 27
     topic: vocab
     text: >
-      燒暖 "warm" (lesson 34). Marked for review.
+      燒暖 "warm" (lesson 34); MOE uses it of food that warms you (食烏糖煮老薑嫲會感覺著當燒暖).
 
 new_words:
   - {hanzi: 倒樹仔摘牛眼, pinyin: "doˋ su eˋ zagˋ ngiuˇ ngienˋ", en: "kill the goose that lays the golden eggs"}
@@ -236,7 +236,6 @@ new_words:
   - {hanzi: 撿樵, pinyin: "giamˋ ceuˇ", en: "gather firewood"}
   - {hanzi: 樵, pinyin: "ceuˇ", en: "firewood"}
   - {hanzi: 煨, pinyin: "voiˊ", en: "roast in hot ashes"}
-  - {hanzi: 熟, pinyin: "xiugˋ", en: "cooked, done; ripe"}
   - {hanzi: 犁, pinyin: "laiˇ", en: "plough"}
   - {hanzi: 煨番薯, pinyin: "voiˊ fanˊ suˇ", en: "roast sweet potatoes in hot ashes"}
   - {hanzi: 埋, pinyin: "maiˇ", en: "bury"}

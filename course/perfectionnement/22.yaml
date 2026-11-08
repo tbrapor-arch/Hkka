@@ -75,24 +75,21 @@ dialogue:
   en: 'I asked him: with this subject, what will you do later? He said: teach.'
   sx: {hanzi: 𠊎問佢：你讀這科系，後擺做麼个？佢講：教書。, pinyin: 'ngaiˇ mun giˇ: nˇ tug iaˋ koˊ ne, heu baiˋ zo maˋ ge? giˇ gongˋ: gauˊ suˊ.'}
 - n: 20
-  en: 'At the end of term I have to hand in a report. I''d like to write about your 伙房: may I ask your advice?'
-  sx: {hanzi: 學期尾愛交一篇報告。𠊎想寫你个伙房，做得請教你無？, pinyin: 'hog kiˇ miˊ oi gauˊ idˋ pienˊ bo go. ngaiˇ xiongˋ xiaˋ nˇ ge foˋ fongˇ,
-      zo dedˋ qiangˋ gau nˇ moˇ?'}
+  en: "This term I have to hand in a report. I'd like to write about your 伙房: may I ask your advice?"
+  sx: {hanzi: "這學期愛交一篇報告。𠊎想寫你个伙房，做得請教你無？", pinyin: "iaˋ hog kiˇ oi gauˊ idˋ pienˊ bo go. ngaiˇ xiongˋ xiaˋ nˇ ge foˋ fongˇ, zo dedˋ qiangˋ gau nˇ moˇ?"}
 - n: 21
   en: I'd like to ask a few questions; I'll use your answers for reference.
   sx: {hanzi: 𠊎想問幾隻問題，你个答案𠊎會做參考。, pinyin: 'ngaiˇ xiongˋ mun giˋ zagˋ mun tiˇ, nˇ ge dabˋ on ngaiˇ voi zo camˊ kauˋ.'}
 - n: 22
-  en: The two of us have plenty to talk about; I'm sure we'll talk till I can't bear to leave.
-  sx: {hanzi: 𠊎兜兩儕當多話題好講，一定會講到𠊎毋盼得轉。, pinyin: 'ngaiˇ deuˊ liongˋ saˇ dongˊ doˊ fa tiˇ hoˋ gongˋ, idˋ tin voi gongˋ do ngaiˇ
-      mˇ pan dedˋ zonˋ.'}
+  en: "The two of us have plenty to talk about; I'm sure we'll talk till I can't bear to leave."
+  sx: {hanzi: "𫣆兜兩儕當多話題好講，一定會講到𠊎毋盼得轉。", pinyin: "enˊ deuˊ liongˋ saˇ dongˊ doˊ fa tiˇ hoˋ gongˋ, idˋ tin voi gongˋ do ngaiˇ mˇ pan dedˋ zonˋ."}
 - n: 23
-  en: That kind of exchange is worth more than the knowledge in textbooks.
-  sx: {hanzi: 同人交流，比課本个知識較有意思。, pinyin: 'tungˇ nginˇ gauˊ liuˇ, biˋ ko bunˋ ge ziiˊ siidˋ ka iuˊ i sii.'}
+  en: "Exchanging with people is more interesting than the knowledge in textbooks."
+  sx: {hanzi: "同人交流，比課本个知識較有意思。", pinyin: "tungˇ nginˇ gauˊ liuˇ, biˋ ko bunˋ ge ziiˊ siidˋ ka iuˊ i sii."}
   check: true
 - n: 24
-  en: Studying isn't only about books; it's about getting to know people.
-  sx: {hanzi: 讀書毋單淨係讀書，係識人。, pinyin: 'tug suˊ mˇ danˊ qiang he tug suˊ, he siidˋ nginˇ.'}
-  check: true
+  en: "Studying isn't only reading books: you also have to get to know more people."
+  sx: {hanzi: "讀書毋單淨係看書，乜愛識加兜人。", pinyin: "tug suˊ mˇ danˊ qiang he kon suˊ, me oi siidˋ gaˊ deuˊ nginˇ."}
 - n: 25
   en: Wishing you and 鍾伯姆 good health!
   sx: {hanzi: 祝你同鍾伯姆身體康健！, pinyin: zugˋ nˇ tungˇ zungˊ bagˋ meˊ siinˊ tiˋ kongˊ kien!}
@@ -108,12 +105,13 @@ notes:
 - ref: 1
   topic: vocab
   text: >
-    對毋住 "I'm sorry" (to apologise in writing; 會失禮, 進修 9, when you have done someone a wrong).
+    同你會失禮 "I apologise to you" (會失禮, 進修 9): the lists use it when you are in the wrong (做毋著斯愛同對方會失禮); here Sam
+    apologises for his long silence.
 - ref: 2
   topic: vocab
   text: >
-    描寫 meuˇ xiaˋ "describe" (厥文章描寫到當清楚). 生動 sangˊ tung "lively": the lists gloss it 活潑、靈巧 and use it of a person (這個後生仔盡生動);
-    for writing the line is ours, marked for review.
+    描寫 meuˇ xiaˋ "describe" (厥文章描寫到當清楚). 生動 sangˊ tung "lively": the lists gloss it 活潑、靈巧 and use it of a person
+    (這個後生仔盡生動); MOE also uses it of a reading (這篇散文由佢來宣讀，使人聽起來特別生動). Of writing, the line is ours: marked for review.
 - ref: 3
   topic: vocab
   text: >
@@ -191,15 +189,20 @@ notes:
 - ref: 22
   topic: vocab
   text: >
-    話題 fa tiˇ "topic of conversation" (佢兩儕當多話題好講 "those two have plenty to talk about": our line follows it). 毋盼得 (lesson
-    96) "can't bear to (leave)".
+    𫣆兜 includes 鍾伯, the reader. 話題 fa tiˇ "topic of conversation" (佢兩儕當多話題好講 "those two have plenty to talk about": our
+    line follows it). 毋盼得 (lesson 96) "can't bear to (leave)".
 - ref: 23
   topic: vocab
   text: >
     交流 gauˊ liuˇ "exchange, interaction". 知識 ziiˊ siidˋ "knowledge" (無知識乜愛有常識).
+- ref: 24
+  topic: grammar
+  text: >
+    毋單淨係…，乜愛… "not only…, but also…" (社會个治安毋單淨係警察个責任，乜愛大家來配合). 識加兜人 "get to know more people": 加兜 follows the verb
+    (checklist, 進修 batch 1).
 new_words:
 - {hanzi: 描寫, pinyin: meuˇ xiaˋ, en: describe}
-- {hanzi: 生動, pinyin: sangˊ tung, en: 'lively, vivid'}
+- {hanzi: 生動, pinyin: sangˊ tung, en: 'lively; vivid (MOE, of a reading)'}
 - {hanzi: 意義, pinyin: i ngi, en: 'meaning, significance'}
 - {hanzi: 文獻, pinyin: vunˇ hien, en: 'documents, records'}
 - {hanzi: 學院, pinyin: hog ien, en: 'college, faculty'}

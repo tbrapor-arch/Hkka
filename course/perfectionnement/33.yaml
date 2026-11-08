@@ -50,7 +50,7 @@ dialogue:
   - n: 9
     speaker: 阿婆
     en: "Yes. Every morning the jar was full of white rice, and he never had to go to the rice shop again."
-    sx: {hanzi: "有。逐日朝晨，米缸都係白米，佢毋使再去米店糴米。", pinyin: "iuˊ. giugˋ ngidˋ zeuˊ siinˇ, miˋ gongˊ du he pag miˋ, giˇ mˇ siiˋ zai hi miˋ diam tag miˋ."}
+    sx: {hanzi: "有。逐日朝晨，米缸都係白米，佢毋使再去米店糴米。", pinyin: "iuˊ. dagˋ ngidˋ zeuˊ siinˇ, miˋ gongˊ du he pag miˋ, giˇ mˇ siiˋ zai hi miˋ diam tag miˋ."}
   - n: 10
     speaker: 阿婆
     en: "阿福 knew his place. He took only what he needed and gave the rest to the poor."
@@ -60,7 +60,6 @@ dialogue:
     speaker: 阿婆
     en: "He said, 'You have to be content to be happy.'"
     sx: {hanzi: "佢講：「人愛知足正會快樂。」", pinyin: "giˇ gongˋ: nginˇ oi diˊ jiugˋ zang voi kuai log."}
-    check: true
   - n: 12
     speaker: 阿婆
     en: "The rich man heard about it and came to borrow the jar."
@@ -123,7 +122,7 @@ dialogue:
   - n: 25
     speaker: 阿明
     en: "So the lesson of the story is: don't be greedy."
-    sx: {hanzi: "所以這古个教訓就係：毋好貪心。", pinyin: "soˋ iˊ iaˋ guˋ ge gau hiun qiu he: mˇ hoˋ tamˊ ximˊ."}
+    sx: {hanzi: "所以這隻古个教訓就係：毋好貪心。", pinyin: "soˋ iˊ iaˋ zagˋ guˋ ge gau hiun qiu he: mˇ hoˋ tamˊ ximˊ."}
     check: true
   - n: 26
     speaker: 阿婆
@@ -133,7 +132,6 @@ dialogue:
     speaker: Sam
     en: "But a person's fate is in his own hands too."
     sx: {hanzi: "毋過人个運命係自家做得把扼个。", pinyin: "mˇ go nginˇ ge iun miang he qi gaˊ zo dedˋ baˋ agˋ ge."}
-    check: true
 
 notes:
   - ref: 0
@@ -149,11 +147,12 @@ notes:
   - ref: 2
     topic: vocab
     text: >
-      孤老 guˊ loˋ "a loner, unsociable" (這人異孤老，全無朋友). 歇 hed "live (somewhere)".
+      孤老 guˊ loˋ "a loner, unsociable" (這人異孤老，全無朋友; the exercise has 當 for 異, not yet taught). 歇 hed "live (somewhere)".
   - ref: 3
     topic: vocab
     text: >
-      魯夫 luˊ fuˊ "a brute, a man who won't listen to reason". 欺負 kiˊ fu "bully" (莫恁欺負人好無？). Marked for review.
+      魯夫 luˊ fuˊ "rough, hot-tempered, unreasonable"; MOE also uses it as a noun, "a brute" (該隻魯夫，講話總係無大無細), as here. 欺負
+      kiˊ fu "bully" (莫恁欺負人好無？). Marked for review.
   - ref: 5
     topic: vocab
     text: >
@@ -181,7 +180,7 @@ notes:
   - ref: 11
     topic: vocab
     text: >
-      知足 diˊ jiugˋ "be content": from the official 人愛知足正會快樂. Marked for review.
+      知足 diˊ jiugˋ "be content": 人愛知足正會快樂 is an official sentence.
   - ref: 14
     topic: vocab
     text: >
@@ -201,8 +200,7 @@ notes:
   - ref: 19
     topic: vocab
     text: >
-      財產 coiˇ sanˋ "property, assets". 錢財 qienˇ coiˇ "money, wealth" (人為著錢財來死，盡毋值). 埋 "bury" (進修 29).
-      Marked for review.
+      財產 coiˇ sanˋ "property, assets". 錢財 qienˇ coiˇ "money, wealth" (人為着錢財來死，盡毋值). 埋 "bury" (進修 29). Marked for review.
   - ref: 20
     topic: vocab
     text: >
@@ -222,8 +220,8 @@ notes:
   - ref: 25
     topic: vocab
     text: >
-      教訓 gau hiun "lesson, moral; teach a lesson" (這細人仔無規矩，無教訓一下做毋得). 古 "story" (lesson 64's 講古).
-      Marked for review.
+      教訓 gau hiun "lesson, moral; teach a lesson" (這細人仔無規矩，無教訓一下做毋得). 古 "story" (lesson 64's 講古). 這隻古, with the
+      classifier (checklist). Marked for review.
   - ref: 27
     topic: vocab
     text: >
@@ -233,7 +231,7 @@ new_words:
   - {hanzi: 人心節節高, pinyin: "nginˇ ximˊ jiedˋ jiedˋ goˊ", en: "desire knows no end"}
   - {hanzi: 無爺無哀, pinyin: "moˇ iaˇ moˇ oiˊ", en: "be an orphan"}
   - {hanzi: 孤老, pinyin: "guˊ loˋ", en: "loner, unsociable"}
-  - {hanzi: 魯夫, pinyin: "luˊ fuˊ", en: "brute"}
+  - {hanzi: 魯夫, pinyin: "luˊ fuˊ", en: "rough, unreasonable; a brute"}
   - {hanzi: 欺負, pinyin: "kiˊ fu", en: "bully"}
   - {hanzi: 米缸, pinyin: "miˋ gongˊ", en: "rice jar"}
   - {hanzi: 神奇, pinyin: "siinˇ kiˇ", en: "magical, amazing"}
@@ -259,7 +257,7 @@ new_words:
 
 exercises:
   translate:
-    - en: "This man is a real loner: he has no friends at all."
+    - en: "This man is very unsociable: he has no friends at all."
       sx: {hanzi: "這人當孤老，全無朋友。", pinyin: "iaˋ nginˇ dongˊ guˊ loˋ, qionˇ moˇ penˇ iuˊ."}
     - en: "Stop bullying people, will you?"
       source: kaga115

@@ -6,13 +6,13 @@ title:
 review: false
 setting: >-
   Monday 15 January 2029. A-min (劉明) stands for class president for next term and gives his speech to the class. 阿芳,
-  his opponent from the debate in 進修 13, is the other candidate. Sam has the text from A-min, who wants it corrected.
+  his opponent from the debate in 進修 13, is the other candidate. A-min tried the speech out on Sam the evening before.
 names: [劉明, 阿明, 阿芳]
 
 dialogue:
   - n: 1
     speaker: 阿明
-    en: "Classmates, teacher, good morning. I am 劉明, and I am a candidate in this election for class president."
+    en: "Classmates, teacher, hello everyone. I am 劉明, and I am a candidate in this election for class president."
     sx: {hanzi: "各位同學、先生，大家好。𠊎係劉明，𠊎係這擺班長選舉个候選人。", pinyin: "gogˋ vi tungˇ hog, xinˊ sangˊ, tai gaˊ hoˋ. ngaiˇ he liuˇ minˇ, ngaiˇ he iaˋ baiˋ banˊ zongˋ xienˋ giˋ ge heu xienˋ nginˇ."}
   - n: 2
     speaker: 阿明
@@ -21,16 +21,16 @@ dialogue:
     check: true
   - n: 3
     speaker: 阿明
-    en: "You must fight for your own rights, and you must also take on the responsibility of getting things done."
-    sx: {hanzi: "自家个權利愛爭取，做事个責任乜愛擔。", pinyin: "qi gaˊ ge kienˇ li oi zenˊ qiˋ, zo se ge jidˋ im me oi damˊ."}
+    en: "You must fight for your own rights, and you must also answer for how things turn out."
+    sx: {hanzi: "自家个權利愛爭取，做人乜愛擔輸贏。", pinyin: "qi gaˊ ge kienˇ li oi zenˊ qiˋ, zo nginˇ me oi damˊ suˊ iangˇ."}
   - n: 4
     speaker: 阿明
     en: "I know I have faults. Last term I was often late, and I talk rather loudly."
-    sx: {hanzi: "𠊎知自家有缺點。上學期𠊎輒輒較晝到，講話乜較大聲。", pinyin: "ngaiˇ diˊ qi gaˊ iuˊ kiedˋ diamˋ. song hog kiˇ ngaiˇ jiab jiab ka zu do, gongˋ fa me ka tai sangˊ."}
+    sx: {hanzi: "𠊎知自家有缺點。上學期𠊎輒輒慢到，講話乜較大聲。", pinyin: "ngaiˇ diˊ qi gaˊ iuˊ kiedˋ diamˋ. song hog kiˇ ngaiˇ jiab jiab man do, gongˋ fa me ka tai sangˊ."}
   - n: 5
     speaker: 阿明
     en: "If you have faults, you must improve. This term I've been first into the classroom every day."
-    sx: {hanzi: "有缺點就愛改進。這學期𠊎逐日都第一個到教室。", pinyin: "iuˊ kiedˋ diamˋ qiu oi goiˋ jin. iaˋ hog kiˇ ngaiˇ giugˋ ngidˋ du ti idˋ ge do gau siidˋ."}
+    sx: {hanzi: "有缺點就愛改進。這學期𠊎逐日都第一個到教室。", pinyin: "iuˊ kiedˋ diamˋ qiu oi goiˋ jin. iaˋ hog kiˇ ngaiˇ dagˋ ngidˋ du ti idˋ ge do gau siidˋ."}
   - n: 6
     speaker: 阿明
     en: "I have good points too: I'm keen, and when a classmate has a problem, I offer to help."
@@ -38,7 +38,7 @@ dialogue:
   - n: 7
     speaker: 阿明
     en: "Attitude matters for a class president. I will do things carefully and conscientiously."
-    sx: {hanzi: "做班長，態度當重要。𠊎會用細心个態度做事情。", pinyin: "zo banˊ zongˋ, tai tu dongˊ cung ieu. ngaiˇ voi iung se ximˊ ge tai tu zo sii qinˇ."}
+    sx: {hanzi: "做班長，態度當重要。𠊎會用細心細意个態度做事情。", pinyin: "zo banˊ zongˋ, tai tu dongˊ cung ieu. ngaiˇ voi iung se ximˊ se i ge tai tu zo sii qinˇ."}
   - n: 8
     speaker: 阿明
     en: "I make you three promises."
@@ -46,20 +46,20 @@ dialogue:
   - n: 9
     speaker: 阿明
     en: "First: set up a cleaning rota. The class will split into four groups, taking turns each week to sweep the classroom."
-    sx: {hanzi: "第一，建立拚掃个制度。歸班分做四隻小組，逐禮拜輪流拚掃教室。", pinyin: "ti idˋ, gien lib biang so ge zii tu. guiˊ banˊ bunˊ zo xi zagˋ seuˋ zuˊ, giugˋ liˊ bai lunˇ liuˇ biang so gau siidˋ."}
+    sx: {hanzi: "第一，建立拚掃个制度。歸班分做四隻小組，逐禮拜輪流拚掃教室。", pinyin: "ti idˋ, gien lib biang so ge zii tu. guiˊ banˊ bunˊ zo xi zagˋ seuˋ zuˊ, dagˋ liˊ bai lunˇ liuˇ biang so gau siidˋ."}
   - n: 10
     speaker: 阿明
     en: "Second: for the environment, no one may burn rubbish any old how."
     sx: {hanzi: "第二，為著環保，做毋得烏白燒垃圾。", pinyin: "ti ngi, vi doˋ kuanˇ boˋ, zo mˇ dedˋ vuˊ pag seuˊ laˋ sabˋ."}
   - n: 11
     speaker: 阿明
-    en: "Third: this term the school is holding an inter-class choir contest. I'll arrange times for us all to practise."
-    sx: {hanzi: "第三，這學期學校有辦班級个合唱比賽。𠊎會安排時間，分大家練習。", pinyin: "ti samˊ, iaˋ hog kiˇ hog gauˋ iuˊ pan banˊ kibˋ ge hab cong biˋ soi. ngaiˇ voi onˊ paiˇ siiˇ gienˊ, bunˊ tai gaˊ lien xib."}
+    en: "Third: next term the school is holding an inter-class choir contest. I'll arrange times for us all to practise."
+    sx: {hanzi: "第三，下學期學校有辦班級个合唱比賽。𠊎會安排時間，分大家練習。", pinyin: "ti samˊ, ha hog kiˇ hog gauˋ iuˊ pan banˊ kibˋ ge hab cong biˋ soi. ngaiˇ voi onˊ paiˇ siiˇ gienˊ, bunˊ tai gaˊ lien xib."}
   - n: 12
     speaker: 阿明
     en: "When everyone works together, things get done faster."
     sx: {hanzi: "大家互相合作，事情較遽做好。", pinyin: "tai gaˊ fu xiongˊ hab zogˋ, sii qinˇ ka giagˋ zo hoˋ."}
-    check: true
+    source: kaga115
   - n: 13
     speaker: 阿明
     en: "At the last basketball match we didn't pull together, and we stood there watching the other side win."
@@ -75,7 +75,7 @@ dialogue:
     sx: {hanzi: "有人問：「活動經費毋罅，愛仰結煞？」", pinyin: "iuˊ nginˇ mun: fad tung ginˊ fi mˇ la, oi ngiong gadˋ sadˋ?"}
   - n: 16
     speaker: 阿明
-    en: "I'll talk it over with the teacher. Nobody will have to pay more."
+    en: "I'll talk it over with the teacher, so that the burden on everyone isn't too heavy."
     sx: {hanzi: "𠊎會同先生參詳，毋會分大家个負擔忒大。", pinyin: "ngaiˇ voi tungˇ xinˊ sangˊ camˊ xiongˇ, mˇ voi bunˊ tai gaˊ ge fu damˊ tedˋ tai."}
     check: true
   - n: 17
@@ -125,7 +125,9 @@ notes:
   - ref: 3
     topic: vocab
     text: >
-      爭取 zenˊ qiˋ "fight for, strive for": the official sentence is 自家个權利愛爭取. 擔 damˊ "shoulder, take on". 參詳 camˊ xiongˇ "talk over" (line 16, 中高級).
+      爭取 zenˊ qiˋ "fight for, strive for": the official sentence is 自家个權利愛爭取. 擔 damˊ "shoulder, take on" (MOE 負責、承當; the
+      list entry is its measure-word sense): 做人愛擔輸贏 "you must answer for success or failure" is official, with 輸贏
+      (lesson 66). 慢到 "be late" (line 4; 你忒慢到，無飯好食哩). 參詳 camˊ xiongˇ "talk over" (line 16, 中高級).
   - ref: 5
     topic: vocab
     text: >
@@ -138,7 +140,7 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      態度 tai tu "attitude": compare the official 用細心細意个態度做事情. 細心 se ximˊ "careful".
+      態度 tai tu "attitude": from the official 用細心細意个態度做事情，較毋會有所爭. 細心細意 se ximˊ se i "careful, meticulous" (中高級).
   - ref: 8
     topic: vocab
     text: >
@@ -156,11 +158,12 @@ notes:
   - ref: 11
     topic: vocab
     text: >
-      合唱 hab cong "choir, choral singing": from the official 這學期學校有辦班級个合唱比賽. 安排 onˊ paiˇ "arrange".
+      合唱 hab cong "choir, choral singing": from the official 這學期學校有辦班級个合唱比賽, with 下學期 "next term": the contest is in
+      term 2. 安排 onˊ paiˇ "arrange".
   - ref: 12
     topic: vocab
     text: >
-      合作 hab zogˋ "cooperate" (大家互相合作，事情較遽做好). Marked for review.
+      合作 hab zogˋ "cooperate" (大家互相合作，事情較遽做好). An official sentence.
   - ref: 13
     topic: vocab
     text: >
@@ -204,12 +207,12 @@ new_words:
   - {hanzi: 權利, pinyin: "kienˇ li", en: "right"}
   - {hanzi: 義務, pinyin: "ngi vu", en: "duty"}
   - {hanzi: 爭取, pinyin: "zenˊ qiˋ", en: "fight for, strive for"}
-  - {hanzi: 擔, pinyin: "damˊ", en: "shoulder, take on"}
+  - {hanzi: 擔, pinyin: "damˊ", en: "shoulder, take on (MOE)"}
   - {hanzi: 改進, pinyin: "goiˋ jin", en: "improve"}
   - {hanzi: 優點, pinyin: "iuˊ diamˋ", en: "good point, strength"}
   - {hanzi: 熱心, pinyin: "ngied ximˊ", en: "keen, warm-hearted"}
   - {hanzi: 主動, pinyin: "zuˋ tung", en: "on one's own initiative"}
-  - {hanzi: 細心, pinyin: "se ximˊ", en: "careful"}
+  - {hanzi: 細心細意, pinyin: "se ximˊ se i", en: "careful, meticulous"}
   - {hanzi: 態度, pinyin: "tai tu", en: "attitude"}
   - {hanzi: 應承, pinyin: "inˋ siinˇ", en: "promise, agree to"}
   - {hanzi: 建立, pinyin: "gien lib", en: "set up, establish"}

@@ -48,13 +48,12 @@ dialogue:
   - n: 12
     en: "He says: 'Farmers depend on the weather for their living; sooner or later my luck will turn.'"
     sx: {hanzi: "佢講：「做田人靠天食飯，早慢會好空。」", pinyin: "giˇ gongˋ: zo tienˇ nginˇ ko tienˊ siid fan, zoˋ man voi hoˋ kungˊ."}
-    check: true
   - n: 13
     en: "I told him that in buying and selling you sometimes gain and sometimes lose, and not to fret so."
     sx: {hanzi: "𠊎同佢講，買賣有賺有蝕，毋使恁愁慮。", pinyin: "ngaiˇ tungˇ giˇ gongˋ, maiˊ mai iuˊ con iuˊ sad, mˇ siiˋ anˋ seuˇ li."}
   - n: 14
-    en: "At the start of the year he'll go to the temple and cast the divination blocks, to ask the gods what to plant next year."
-    sx: {hanzi: "年頭佢愛去廟項跌筊仔，問神明天光年種麼个較好。", pinyin: "ngienˇ teuˇ giˇ oi hi meu hong diedˋ gau eˋ, mun siinˇ minˇ tienˊ gongˊ ngienˇ zung maˋ ge ka hoˋ."}
+    en: "At the start of the year he'll go to the temple and cast the divination blocks, to ask the gods what he should plant."
+    sx: {hanzi: "年頭佢愛去廟項跌筊仔，問神明種麼个較好。", pinyin: "ngienˇ teuˇ giˇ oi hi meu hong diedˋ gau eˋ, mun siinˇ minˇ zung maˋ ge ka hoˋ."}
   - n: 15
     en: "If the blocks fall one up, one down, it means the gods approve."
     sx: {hanzi: "若係聖筊，就代表神明合意。", pinyin: "na he siin gau, qiu toi beuˋ siinˇ minˇ gagˋ i."}
@@ -78,7 +77,7 @@ dialogue:
     sx: {hanzi: "你做得來美濃尞無？吾屋下有人客間，你來歇兩暗晡乜無問題。", pinyin: "nˇ zo dedˋ loiˇ miˊ nungˇ liau moˇ? ngaˊ vugˋ kaˊ iuˊ nginˇ hagˋ gienˊ, nˇ loiˇ hiedˋ liongˋ am buˊ me moˇ mun tiˇ."}
   - n: 22
     en: "If you can bear to leave Miaoli for a few days, you'll be very welcome."
-    sx: {hanzi: "若係你盼得離開苗栗幾日，𫣆兜當歡迎。", pinyin: "na he nˇ pan dedˋ liˇ koiˊ meuˇ lid giˋ ngidˋ, enˊ deuˊ dongˊ fonˊ ngiangˇ."}
+    sx: {hanzi: "若係你盼得離開苗栗幾日，𠊎兜當歡迎。", pinyin: "na he nˇ pan dedˋ liˇ koiˊ meuˇ lid giˋ ngidˋ, ngaiˇ deuˊ dongˊ fonˊ ngiangˇ."}
     check: true
   - n: 23
     en: "Whatever there is to say, we'll say it face to face when you come."
@@ -109,8 +108,8 @@ notes:
   - ref: 5
     topic: culture
     text: >
-      農業 nungˇ ngiab "agriculture" (臺灣頭擺係農業社會). 美濃 was famous for tobacco (菸); its last tobacco crops were in
-      the 2000s (general knowledge).
+      農業 nungˇ ngiab "agriculture" (臺灣頭擺係農業社會). 美濃 was famous for tobacco (菸); general knowledge; the dates of its
+      decline are left out.
   - ref: 6
     topic: vocab
     text: >
@@ -138,8 +137,8 @@ notes:
   - ref: 12
     topic: vocab
     text: >
-      早慢 zoˋ man "sooner or later" (做壞事早慢會分警察捉著). 好空 hoˋ kungˊ "good luck, a windfall" (得著好空). 靠天食飯
-      "depend on the weather to eat" is ours; marked for review.
+      早慢 zoˋ man "sooner or later" (做壞事早慢會分警察捉著). 好空 hoˋ kungˊ "good luck, a windfall" (得著好空). 靠天食飯 "depend on the
+      weather for a living" follows the official 漁民靠天食飯.
   - ref: 13
     topic: vocab
     text: >
@@ -179,7 +178,8 @@ notes:
   - ref: 22
     topic: vocab
     text: >
-      盼得 pan dedˋ "bear to (let go, part with)" (𠊎哪盼得分你走). Marked for review.
+      盼得 pan dedˋ "bear to (let go, part with)" (𠊎哪盼得分你走). 𠊎兜: 鍾伯 and his wife, without Sam (in line 23, 𫣆兜 includes
+      him). Marked for review.
   - ref: 23
     topic: vocab
     text: >
@@ -226,11 +226,12 @@ exercises:
       sx: {hanzi: "臺灣頭擺係農業社會。", pinyin: "toiˇ vanˇ teuˇ baiˋ he nungˇ ngiab sa fi."}
     - en: "Strike lucky."
       source: kaga115
+      abridged: true
       sx: {hanzi: "得著好空。", pinyin: "dedˋ doˋ hoˋ kungˊ."}
     - en: "No one does business at a loss."
       source: kaga115
       sx: {hanzi: "蝕本生理無人做。", pinyin: "sad bunˋ senˊ liˊ moˇ nginˇ zo."}
-    - en: "Children who are grown up: there's no need to fret so."
+    - en: "The children are grown up: there's no need to fret so."
       source: kaga115
       sx: {hanzi: "細人仔大吔，毋使恁愁慮。", pinyin: "se nginˇ eˋ tai leˊ, mˇ siiˋ anˋ seuˇ li."}
     - en: "How could I bear to let you go?"
