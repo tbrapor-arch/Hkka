@@ -1,0 +1,178 @@
+id: 14
+genre: review
+title:
+  en: "Review 2"
+  sx: {hanzi: "燕仔轉竇，毋使愁", pinyin: "ien eˋ zonˋ deu, mˇ siiˋ seuˇ"}
+review: true
+setting: >-
+  Saturday 30 September 2028, the morning market in town. Mid-Autumn is on Tuesday; Grandma, A-in, A-min and Sam
+  are buying pomelos. Nothing new in the dialogue: everything comes from Part 1 and 進修 1–13.
+names: [Sam, 阿婆, 阿英, 阿明, 阿傑, 鍾伯, 美濃, 麻豆]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Tuesday is Mid-Autumn; today we have to buy pomelos."
+    sx: {hanzi: "禮拜二就係八月半，今晡日愛買柚仔。", pinyin: "liˊ bai ngi qiu he badˋ ngied ban, gimˊ buˊ ngidˋ oi maiˊ iu eˋ."}
+  - n: 2
+    speaker: Sam
+    en: "Grandma, I'm paying this time."
+    sx: {hanzi: "阿婆，這擺𠊎來撿錢。", pinyin: "aˊ poˇ, iaˋ baiˋ ngaiˇ loiˇ giamˋ qienˇ."}
+  - n: 3
+    speaker: 阿婆
+    en: "A student like you: how much have you got? Be a bit careful with it."
+    sx: {hanzi: "你一隻學生仔，手頭有幾多錢？省儆兜仔。", pinyin: "nˇ idˋ zagˋ hog sangˊ eˋ, suˋ teuˇ iuˊ giˋ doˊ qienˇ? sangˋ kiang deuˊ eˋ."}
+  - n: 4
+    speaker: Sam
+    en: "A-min says a thousand on credit is worth less than eight hundred in cash. I've got cash."
+    sx: {hanzi: "阿明講，千賒毋當八百現。𠊎有現金。", pinyin: "aˊ minˇ gongˋ, qienˊ caˊ mˇ dong badˋ bagˋ hien. ngaiˇ iuˊ hien gimˊ."}
+  - n: 5
+    speaker: 阿明
+    en: "I said that! I won the debate by three votes."
+    sx: {hanzi: "係𠊎講个！𠊎辯論贏三票。", pinyin: "he ngaiˇ gongˋ ge! ngaiˇ pien lun iangˇ samˊ peuˊ."}
+  - n: 6
+    speaker: Sam
+    en: "I know. And you also said your sister is terribly stingy."
+    sx: {hanzi: "𠊎知，你乜講你阿姊當齧。", pinyin: "ngaiˇ diˊ, nˇ me gongˋ nˇ aˊ jiˋ dongˊ ngadˋ."}
+  - n: 7
+    speaker: 阿英
+    en: "A-min! Since when am I that stingy?"
+    sx: {hanzi: "阿明！𠊎幾時恁齧？", pinyin: "aˊ minˇ! ngaiˇ giˋ siiˇ anˋ ngadˋ?"}
+  - n: 8
+    speaker: 阿明
+    en: "When you lend me money, I have to pay back twenty dollars more."
+    sx: {hanzi: "你借錢分𠊎，愛還加二十銀。", pinyin: "nˇ jia qienˇ bunˊ ngaiˇ, oi vanˇ gaˊ ngi siib ngiunˇ."}
+  - n: 9
+    speaker: 阿英
+    en: "That's to teach you to count every cent… no, I mean to teach you a skill."
+    sx: {hanzi: "該係教你計較……毋係，教你學問。", pinyin: "ge he gauˊ nˇ gie gau … mˇ he, gauˊ nˇ hog mun."}
+  - n: 10
+    speaker: 阿婆
+    en: "(to the stallholder) How much are these pomelos?"
+    sx: {hanzi: "頭家，這柚仔價數幾多？", pinyin: "teuˇ gaˊ, iaˋ iu eˋ ga sii giˋ doˊ?"}
+  - n: 11
+    speaker: 頭家
+    en: "Sixty dollars a catty. These are 文旦 from 麻豆: the real thing."
+    sx: {hanzi: "一斤六十銀。這係麻豆个文旦，真个。", pinyin: "idˋ ginˊ liugˋ siib ngiunˇ. iaˋ he maˇ teu ge vunˇ dan, ziinˊ ge."}
+  - n: 12
+    speaker: 阿明
+    en: "(quietly) That con man in front of the temple last time said his stuff was real too."
+    sx: {hanzi: "上擺廟前該隻落仔，乜講係真个。", pinyin: "song baiˋ meu qienˇ ge zagˋ lau eˋ, me gongˋ he ziinˊ ge."}
+  - n: 13
+    speaker: 阿婆
+    en: "That con man was a great boaster; when the turtle's feet came out, he ran off."
+    sx: {hanzi: "該隻落仔當會膨風，鱉腳趖出來就走忒吔。", pinyin: "ge zagˋ lau eˋ dongˊ voi pong fungˊ, biedˋ giogˋ soˇ cudˋ loiˇ qiu zeuˋ tedˋ leˊ."}
+  - n: 14
+    speaker: 阿英
+    en: "Sam, have you seen 阿傑's girlfriend?"
+    sx: {hanzi: "Sam，阿傑个細妹條仔你看過無？", pinyin: "Sam, aˊ kied ge se moi tiauˇ eˋ nˇ kon go moˇ?"}
+  - n: 15
+    speaker: Sam
+    en: "Not yet. They say she's very pretty. They get engaged on 28 October; I'm going."
+    sx: {hanzi: "吂看過。聽講靚膩膩。十月二十八過定，𠊎會去。", pinyin: "mangˇ kon go. tangˊ gongˋ jiangˊ ne ne. siib ngied ngi siib badˋ go tin, ngaiˇ voi hi."}
+  - n: 16
+    speaker: 阿明
+    en: "Her younger sister wants to see whether the Frenchman is handsome."
+    sx: {hanzi: "佢老妹想看法國人緣投無。", pinyin: "giˇ loˋ moi xiongˋ kon fabˋ guedˋ nginˇ ienˇ dauˇ moˇ."}
+  - n: 17
+    speaker: Sam
+    en: "Then I'd better wear something smart, and not be late."
+    sx: {hanzi: "該𠊎愛著好兜个衫，毋好赴毋掣。", pinyin: "ge ngaiˇ oi zogˋ hoˋ deuˊ ge samˊ, mˇ hoˋ fu mˇ cadˋ."}
+  - n: 18
+    speaker: 阿婆
+    en: "What's your professor like?"
+    sx: {hanzi: "你个教授仰般？", pinyin: "nˇ ge gau su ngiongˋ banˊ?"}
+  - n: 19
+    speaker: Sam
+    en: "Very good-tempered. I told him about 鍾伯's essay, and he says he knows 鍾伯."
+    sx: {hanzi: "性體當好。𠊎同佢講著鍾伯个文章，佢講佢識鍾伯。", pinyin: "xin tiˋ dongˊ hoˋ. ngaiˇ tungˇ giˇ gongˋ doˋ zungˊ bagˋ ge vunˇ zongˊ, giˇ gongˋ giˇ siidˋ zungˊ bagˋ."}
+  - n: 20
+    speaker: 阿英
+    en: "The 鍾伯 from 美濃? The one whose cutting I sent you?"
+    sx: {hanzi: "美濃該隻鍾伯？𠊎寄分你个該篇文章？", pinyin: "miˊ nungˇ ge zagˋ zungˊ bagˋ? ngaiˇ gi bunˊ nˇ ge ge pienˊ vunˇ zongˊ?"}
+  - n: 21
+    speaker: 阿明
+    en: "The young Frenchman in 鍾伯's essay is Sam! Sam's in the papers!"
+    sx: {hanzi: "鍾伯文章肚講个法國後生人，就係Sam！Sam在報紙項吔！", pinyin: "zungˊ bagˋ vunˇ zongˊ duˋ gongˋ ge fabˋ guedˋ heu sangˊ nginˇ, qiu he Sam! Sam coiˊ bo ziiˋ hong leˊ!"}
+  - n: 22
+    speaker: Sam
+    en: "Grandma, I've sung Grandpa's mountain song for A-in."
+    sx: {hanzi: "阿婆，阿公个山歌，𠊎唱分阿英聽吔。", pinyin: "aˊ poˇ, aˊ gungˊ ge sanˊ goˊ, ngaiˇ cong bunˊ aˊ inˊ tangˊ leˊ."}
+  - n: 23
+    speaker: 阿婆
+    en: "And what did she say when she heard it?"
+    sx: {hanzi: "佢聽著仰般講？", pinyin: "giˇ tangˊ doˋ ngiongˋ banˊ gongˋ?"}
+  - n: 24
+    speaker: 阿英
+    en: "(before Sam can answer) I said: the swallow comes home with nothing to fear."
+    sx: {hanzi: "𠊎講：燕仔轉竇，毋使愁。", pinyin: "ngaiˇ gongˋ: ien eˋ zonˋ deu, mˇ siiˋ seuˇ."}
+  - n: 25
+    speaker: 阿婆
+    en: "(smiling) The osmanthus smells lovely. Let's buy some to take home and put in the yard."
+    sx: {hanzi: "桂花當香，買兜仔轉去，放在禾埕。", pinyin: "gui faˊ dongˊ hiongˊ, maiˊ deuˊ eˋ zonˋ hi, biong coiˊ voˇ tangˇ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      Mid-Autumn (八月半) falls on Tuesday 3 October in 2028; the pomelos (柚仔, 文旦) are lesson 92's.
+  - ref: 2
+    topic: vocab
+    text: >
+      撿錢 "pay" (進修 9's note). 手頭 (進修 9) and 省儆 (進修 13) in line 3.
+  - ref: 4
+    topic: vocab
+    text: >
+      千賒毋當八百現 and 現金 come from the debate (進修 13) and the market (進修 9).
+  - ref: 9
+    topic: vocab
+    text: >
+      計較 and 學問 (進修 13, 10): A-in turns the debate's two words into a joke at A-min's expense.
+  - ref: 13
+    topic: vocab
+    text: >
+      進修 9's saying 鱉腳趖出來, with 落仔 and 膨風.
+  - ref: 15
+    topic: vocab
+    text: >
+      進修 8's letter: 細妹條仔, 靚膩膩, 過定, 緣投.
+  - ref: 19
+    topic: grammar
+    text: >
+      講著 "mention, talk about" (V著 for reaching the object). 識 "know (a person)" (checklist).
+  - ref: 20
+    topic: culture
+    text: >
+      A-in posted Sam the cutting of 鍾伯's essay (進修 12). 寄 "post, send" and 篇 for a piece of writing.
+  - ref: 24
+    topic: vocab
+    text: >
+      A-in quotes Grandpa's song (進修 11).
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "I'm paying this time."
+      sx: {hanzi: "這擺𠊎來撿錢。", pinyin: "iaˋ baiˋ ngaiˇ loiˇ giamˋ qienˇ."}
+    - en: "These pomelos are the real thing."
+      sx: {hanzi: "這柚仔係真个。", pinyin: "iaˋ iu eˋ he ziinˊ ge."}
+    - en: "That con man was a great boaster."
+      sx: {hanzi: "該隻落仔當會膨風。", pinyin: "ge zagˋ lau eˋ dongˊ voi pong fungˊ."}
+    - en: "Don't be late."
+      sx: {hanzi: "毋好赴毋掣。", pinyin: "mˇ hoˋ fu mˇ cadˋ."}
+    - en: "My professor is very good-tempered."
+      sx: {hanzi: "吾教授性體當好。", pinyin: "ngaˊ gau su xin tiˋ dongˊ hoˋ."}
+  fill:
+    - en: "Be a bit careful with your money."
+      sx: {hanzi: "___兜仔。", pinyin: "___ deuˊ eˋ.", answer_hanzi: "省儆", answer: "sangˋ kiang"}
+    - en: "Since when am I that stingy?"
+      sx: {hanzi: "𠊎幾時恁___？", pinyin: "ngaiˇ giˋ siiˇ anˋ ___?", answer_hanzi: "齧", answer: "ngadˋ"}
+    - en: "How much are these pomelos?"
+      sx: {hanzi: "這柚仔___幾多？", pinyin: "iaˋ iu eˋ ___ giˋ doˊ?", answer_hanzi: "價數", answer: "ga sii"}
+    - en: "They get engaged on 28 October."
+      sx: {hanzi: "十月二十八___。", pinyin: "siib ngied ngi siib badˋ ___.", answer_hanzi: "過定", answer: "go tin"}
+    - en: "The swallow comes home to its nest."
+      sx: {hanzi: "燕仔___。", pinyin: "ien eˋ ___.", answer_hanzi: "轉竇", answer: "zonˋ deu"}
+
+audio: []
