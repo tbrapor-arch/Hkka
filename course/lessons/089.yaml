@@ -187,9 +187,9 @@ exercises:
     - en: "This stream is very wide."
       sx: {hanzi: "這條溪當闊。", pinyin: "iaˋ tiauˇ haiˊ dongˊ fadˋ."}
       hl: {hanzi: "這條溪當闊。", pinyin: "liaˊ tiau haiˋ dongˋ fad."}
-    - en: "Shout, and the hills give back an echo."
-      sx: {hanzi: "大聲喊，山項有回聲。", pinyin: "tai sangˊ ham, sanˊ hong iuˊ fiˇ sangˊ."}
-      hl: {hanzi: "大聲喊，山項有回聲。", pinyin: "tai+ shangˋ hamˇ, sanˋ hong+ rhiuˋ fui shangˋ."}
+    - en: "Speak loudly, and the hills give back an echo."
+      sx: {hanzi: "大聲講，山項有回聲。", pinyin: "tai sangˊ gongˋ, sanˊ hong iuˊ fiˇ sangˊ."}
+      hl: {hanzi: "大聲講，山項有回聲。", pinyin: "tai+ shangˋ gongˊ, sanˋ hong+ rhiuˋ fui shangˋ."}
       check: true
   fill:
     - en: "We can't find the way."
