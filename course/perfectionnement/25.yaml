@@ -1,0 +1,251 @@
+id: 25
+genre: news
+title:
+  en: "The killer cries murder"
+  sx: {hanzi: "㓾人喊救命", pinyin: "ciiˇ nginˇ hemˊ giu miang"}
+review: false
+setting: >-
+  Friday 8 December 2028, the evening news on Hakka TV, which Sam watches with the family. The third item is about
+  the man who sold fake jade bracelets at the temple fair (進修 9).
+names: [頭份, 苗栗市, 竹南]
+
+dialogue:
+  - n: 1
+    en: "Good evening, viewers. Here is today's Hakka news."
+    sx: {hanzi: "各位觀眾好，這係今晡日个客家新聞。", pinyin: "gogˋ vi gonˊ zung hoˋ, iaˋ he gimˊ buˊ ngidˋ ge hagˋ gaˊ xinˊ vunˇ."}
+  - n: 2
+    en: "First: this morning there was an accident on the motorway near 頭份."
+    sx: {hanzi: "第一條新聞：今晡日朝晨，高速公路頭份該位發生車禍。", pinyin: "ti idˋ tiauˇ xinˊ vunˇ: gimˊ buˊ ngidˋ zeuˊ siinˇ, goˊ sugˋ gungˊ lu teuˇ fun ge vi fadˋ senˊ caˊ fo."}
+  - n: 3
+    en: "A car going too fast ran into the car in front; two people were injured on the spot."
+    sx: {hanzi: "一隻轎車速度忒遽，撞著頭前个車，當場有兩儕受傷。", pinyin: "idˋ zagˋ kieu caˊ sugˋ tu tedˋ giagˋ, cong doˋ teuˇ qienˇ ge caˊ, dongˊ congˇ iuˊ liongˋ saˇ su songˊ."}
+  - n: 4
+    en: "The police say the driver of the car was drunk. He will be punished."
+    sx: {hanzi: "警察講，轎車个運轉手食酒醉，佢會分人處罰。", pinyin: "ginˋ cadˋ gongˋ, kieu caˊ ge iun zonˋ suˋ siid jiuˋ zui, giˇ voi bunˊ nginˇ cuˋ fad."}
+  - n: 5
+    en: "Ambulances and the fire brigade came quickly, and luckily no one died. It was an unfortunate accident."
+    sx: {hanzi: "救護車同消防隊遽遽來救人，好得無人消忒。這係一件不幸个意外。", pinyin: "giu fu caˊ tungˇ seuˊ fongˇ cui giagˋ giagˋ loiˇ giu nginˇ, hoˋ dedˋ moˇ nginˇ xiauˊ tedˋ. iaˋ he idˋ kien budˋ hen ge i ngoi."}
+  - n: 6
+    en: "The motorway was jammed: cars waited three hours before they could move."
+    sx: {hanzi: "高速公路塞車，車仔等三點鐘正行得。", pinyin: "goˊ sugˋ gungˊ lu sedˋ caˊ, caˊ eˋ denˋ samˊ diamˋ zungˊ zang hangˇ dedˋ."}
+  - n: 7
+    en: "Second: yesterday an old house in 苗栗市 caught fire."
+    sx: {hanzi: "第二條新聞：昨晡日苗栗市一間舊屋火燒屋。", pinyin: "ti ngi tiauˇ xinˊ vunˇ: coˊ buˊ ngidˋ meuˇ lid sii idˋ gienˊ kiu vugˋ foˋ seuˊ vugˋ."}
+  - n: 8
+    en: "The cause of the fire is still under investigation. The owner says the wiring may have burnt out."
+    sx: {hanzi: "火燒屋个原因還在調查。屋主講，可能係電線燒忒。", pinyin: "foˋ seuˊ vugˋ ge ngienˇ inˊ hanˇ coiˊ tiauˇ caˇ. vugˋ zuˋ gongˋ, koˋ nenˇ he tien xien seuˊ tedˋ."}
+  - n: 9
+    en: "Luckily the owner's family were out and no one was hurt, but everything in the house was burnt."
+    sx: {hanzi: "好得屋主一家人在外背，無人受傷，毋過屋肚个東西都燒忒吔。", pinyin: "hoˋ dedˋ vugˋ zuˋ idˋ gaˊ nginˇ coiˊ ngoi boi, moˇ nginˇ su songˊ, mˇ go vugˋ duˋ ge dungˊ xiˊ du seuˊ tedˋ leˊ."}
+  - n: 10
+    en: "Third: today the court tried a con man."
+    sx: {hanzi: "第三條新聞：法院今晡日審判一隻梟人个落仔。", pinyin: "ti samˊ tiauˇ xinˊ vunˇ: fabˋ ien gimˊ buˊ ngidˋ siimˋ pan idˋ zagˋ hieuˊ nginˇ ge lau eˋ."}
+  - n: 11
+    en: "At 中元 he sold fake jade bracelets in front of the temple, cheating old people out of their money."
+    sx: {hanzi: "中元節个時節，佢在廟前賣假个玉手鈪，騙老人家个錢。", pinyin: "zungˊ ngienˇ jiedˋ ge siiˇ jiedˋ, giˇ coiˊ meu qienˇ mai gaˋ ge ngiug suˋ agˋ, pien loˋ nginˇ gaˊ ge qienˇ."}
+  - n: 12
+    en: "When he was found out, he went to the police station and accused the temple keeper of hitting him."
+    sx: {hanzi: "事情分人知得過後，佢嗄去派出所控告廟公，講廟公打佢。", pinyin: "sii qinˇ bunˊ nginˇ diˊ dedˋ go heu, giˇ sa hi pai cudˋ soˋ kungˋ go meu gungˊ, gongˋ meu gungˊ daˋ giˇ."}
+  - n: 13
+    en: "A case of 'the killer crying murder'. The judge looked into it and found that the temple keeper had not hit him: he had made a false accusation."
+    sx: {hanzi: "這就係「㓾人喊救命」。法官調查過後，知得廟公無打佢，係佢賴人。", pinyin: "iaˋ qiu he ciiˇ nginˇ hemˊ giu miang. fabˋ gonˊ tiauˇ caˇ go heu, diˊ dedˋ meu gungˊ moˇ daˋ giˇ, he giˇ lai nginˇ."}
+  - n: 14
+    en: "The temple keeper said, 'I don't want to go to court against anyone, but people must be fair.'"
+    sx: {hanzi: "廟公講：「𠊎毋想同人打官司，毋過做人愛公當。」", pinyin: "meu gungˊ gongˋ: ngaiˇ mˇ xiongˋ tungˇ nginˇ daˋ gonˊ siiˊ, mˇ go zo nginˇ oi gungˊ dong."}
+  - n: 15
+    en: "The judge sentenced him to eight months in prison."
+    sx: {hanzi: "法官判佢坐管仔八隻月。", pinyin: "fabˋ gonˊ pan giˇ coˊ gonˋ eˇ badˋ zagˋ ngied."}
+  - n: 16
+    en: "The judge said the law protects good people, and those who commit crimes must stand trial."
+    sx: {hanzi: "法官講，法律係保護好人个，犯罪就愛接受審判。", pinyin: "fabˋ gonˊ gongˋ, fabˋ lid he boˋ fu hoˋ nginˇ ge, fam cui qiu oi jiabˋ su siimˋ pan."}
+  - n: 17
+    en: "Fourth: customs caught smugglers at the harbour in 竹南."
+    sx: {hanzi: "第四條新聞：海關在竹南个港口捉著走私。", pinyin: "ti xi tiauˇ xinˊ vunˇ: hoiˋ guanˊ coiˊ zugˋ namˇ ge gongˋ heuˋ zogˋ doˋ zeuˋ siiˊ."}
+  - n: 18
+    en: "On a boat customs found ten handguns and a lot of bullets."
+    sx: {hanzi: "海關在一條船項尋著十枝手銃同當多銃子。", pinyin: "hoiˋ guanˊ coiˊ idˋ tiauˇ sonˇ hong qimˇ doˋ siib giˊ suˋ cung tungˇ dongˊ doˊ cung ziiˋ."}
+  - n: 19
+    en: "Buying and selling handguns is illegal in Taiwan."
+    sx: {hanzi: "在臺灣手銃買賣係違法个。", pinyin: "coiˊ toiˇ vanˇ suˋ cung maiˊ mai he viˇ fabˋ ge."}
+    source: kaga115
+  - n: 20
+    en: "The police say the guns may have been meant for gamblers."
+    sx: {hanzi: "警察講，這兜手銃可能係愛賣分賭徼个人。", pinyin: "ginˋ cadˋ gongˋ, iaˋ deuˊ suˋ cung koˋ nenˇ he oi mai bunˊ duˋ gieuˋ ge nginˇ."}
+  - n: 21
+    en: "Local people say law and order here used to be very good; now everyone is frightened."
+    sx: {hanzi: "當地个人講，這片治安本成當好，這下大家當驚。", pinyin: "dongˊ ti ge nginˇ gongˋ, iaˋ pienˋ cii onˊ bunˋ sangˇ dongˊ hoˋ, iaˋ ha tai gaˊ dongˊ giangˊ."}
+  - n: 22
+    en: "The police say that if you see anything strange, ring the police station at once."
+    sx: {hanzi: "警察講，若係看著奇怪个事情，愛遽遽打電話去派出所。", pinyin: "ginˋ cadˋ gongˋ, na he kon doˋ kiˇ guai ge sii qinˇ, oi giagˋ giagˋ daˋ tien fa hi pai cudˋ soˋ."}
+  - n: 23
+    en: "And finally: a ninety-year-old woman couldn't find her way home."
+    sx: {hanzi: "最尾一條新聞：一個九十歲个老伯姆尋毋著路轉屋。", pinyin: "zui miˊ idˋ tiauˇ xinˊ vunˇ: idˋ ge giuˋ siib se ge loˋ bagˋ meˊ qimˇ mˇ doˋ lu zonˋ vugˋ."}
+  - n: 24
+    en: "Officers from the police station found her house and took her home."
+    sx: {hanzi: "派出所个警察尋到佢个屋下，送佢轉去。", pinyin: "pai cudˋ soˋ ge ginˋ cadˋ qimˇ do giˇ ge vugˋ kaˊ, sung giˇ zonˋ hi."}
+  - n: 25
+    en: "Her children say they are very grateful to the police."
+    sx: {hanzi: "老伯姆个子女講，當感謝警察。", pinyin: "loˋ bagˋ meˊ ge ziiˋ ngˋ gongˋ, dongˊ gamˋ qia ginˋ cadˋ."}
+  - n: 26
+    en: "That was today's news. Thank you, everyone."
+    sx: {hanzi: "這係今晡日个新聞。恁仔細大家。", pinyin: "iaˋ he gimˊ buˊ ngidˋ ge xinˊ vunˇ. anˋ ziiˋ se tai gaˊ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A news bulletin, in the style of Hakka TV (客家電視). The title is a saying from the official lists (高級):
+      㓾人喊救命 "the killer cries murder", for the wrongdoer who gets his complaint in first (Mandarin 惡人先告狀).
+  - ref: 2
+    topic: vocab
+    text: >
+      高速公路 goˊ sugˋ gungˊ lu "motorway". 車禍 caˊ fo "road accident" (佢上隻月車禍入院).
+  - ref: 3
+    topic: vocab
+    text: >
+      轎車 kieu caˊ "car, saloon" (literally "sedan-chair car"). 速度 "speed". 當場 dongˊ congˇ "on the spot" (佢偷東西，當場分人捉著).
+  - ref: 4
+    topic: vocab
+    text: >
+      運轉手 iun zonˋ suˋ "driver" (from Japanese 運転手; 運轉手駛車進前，做毋得食酒). 食酒醉 "get drunk", with 醉 zui. 處罰
+      cuˋ fad "punish".
+  - ref: 5
+    topic: vocab
+    text: >
+      不幸 budˋ hen "unfortunate", 意外 "accident, mishap". 好得 "luckily" (lesson 39).
+  - ref: 6
+    topic: vocab
+    text: >
+      塞車 sedˋ caˊ "traffic jam" (中高級; 過年過節高速公路不時會塞車). Note sedˋ here, not the cedˋ of 塞著 "blocked" (進修 24).
+  - ref: 7
+    topic: vocab
+    text: >
+      火燒屋 foˋ seuˊ vugˋ "a house fire; (a house) catch fire" (隔壁火燒屋，還得人驚).
+  - ref: 8
+    topic: vocab
+    text: >
+      屋主 vugˋ zuˋ "owner of the house; landlord" (屋主等下愛來撿錢). 電線 "wiring, electric wire" and 燒忒 "burn out,
+      burn up": the official sentence is 電線係燒忒，該斯危險吔.
+  - ref: 10
+    topic: vocab
+    text: >
+      法院 "court", 審判 siimˋ pan "try (a case); trial" (犯法愛接受司法个審判). 梟人 hieuˊ nginˇ "swindle people" (這儕人盡會梟人).
+  - ref: 12
+    topic: vocab
+    text: >
+      知得 diˊ dedˋ "know, find out" (麼人知得會恁仔？). 派出所 "police station". 控告 kungˋ go "accuse, sue".
+  - ref: 13
+    topic: vocab
+    text: >
+      法官 "judge". 賴人 lai nginˇ "accuse someone falsely" (做毋得無證據就儘採賴人).
+  - ref: 14
+    topic: vocab
+    text: >
+      打官司 daˋ gonˊ siiˊ "go to law". 公當 gungˊ dong "fair" (做裁判愛公當).
+  - ref: 15
+    topic: vocab
+    text: >
+      判 pan "sentence" (MOE). 坐管仔 coˊ gonˋ eˇ "be in prison" (聽講佢坐管仔坐幾下年).
+  - ref: 16
+    topic: vocab
+    text: >
+      法律 "the law", 犯罪 fam cui "commit a crime" (犯罪就愛捉去關).
+  - ref: 17
+    topic: vocab
+    text: >
+      海關 "customs" (出國愛過海關). 港口 "harbour" (港口有大條船仔出入). 走私 "smuggle; smuggling".
+  - ref: 18
+    topic: vocab
+    text: >
+      手銃 suˋ cung "handgun", 銃子 cung ziiˋ "bullet". 枝 giˊ is the measure word for guns.
+  - ref: 19
+    topic: vocab
+    text: >
+      An official sentence. 違法 viˇ fabˋ "illegal".
+  - ref: 20
+    topic: vocab
+    text: >
+      賭徼 duˋ gieuˋ "gamble; gambling"; The official sentence: 賭徼場會撮目花，毋好去賭 "gambling dens dazzle you: don't go and gamble".
+  - ref: 21
+    topic: vocab
+    text: >
+      當地 "local". 治安 cii onˊ "law and order, public safety" (這搭仔治安毋好，你莫忒暗轉).
+  - ref: 23
+    topic: vocab
+    text: >
+      老伯姆 loˋ bagˋ meˊ "old lady" (行等來个老伯姆係若麼人？).
+
+new_words:
+  - {hanzi: 㓾人喊救命, pinyin: "ciiˇ nginˇ hemˊ giu miang", en: "the killer cries murder"}
+  - {hanzi: 高速公路, pinyin: "goˊ sugˋ gungˊ lu", en: "motorway"}
+  - {hanzi: 車禍, pinyin: "caˊ fo", en: "road accident"}
+  - {hanzi: 轎車, pinyin: "kieu caˊ", en: "car, saloon"}
+  - {hanzi: 速度, pinyin: "sugˋ tu", en: "speed"}
+  - {hanzi: 當場, pinyin: "dongˊ congˇ", en: "on the spot"}
+  - {hanzi: 運轉手, pinyin: "iun zonˋ suˋ", en: "driver"}
+  - {hanzi: 醉, pinyin: "zui", en: "drunk"}
+  - {hanzi: 處罰, pinyin: "cuˋ fad", en: "punish"}
+  - {hanzi: 不幸, pinyin: "budˋ hen", en: "unfortunate"}
+  - {hanzi: 意外, pinyin: "i ngoi", en: "accident, mishap"}
+  - {hanzi: 塞車, pinyin: "sedˋ caˊ", en: "traffic jam"}
+  - {hanzi: 火燒屋, pinyin: "foˋ seuˊ vugˋ", en: "house fire"}
+  - {hanzi: 屋主, pinyin: "vugˋ zuˋ", en: "house owner; landlord"}
+  - {hanzi: 電線, pinyin: "tien xien", en: "electric wire, wiring"}
+  - {hanzi: 燒忒, pinyin: "seuˊ tedˋ", en: "burn out, burn up"}
+  - {hanzi: 法院, pinyin: "fabˋ ien", en: "court (of law)"}
+  - {hanzi: 審判, pinyin: "siimˋ pan", en: "try (a case); trial"}
+  - {hanzi: 梟人, pinyin: "hieuˊ nginˇ", en: "swindle people"}
+  - {hanzi: 知得, pinyin: "diˊ dedˋ", en: "know, find out"}
+  - {hanzi: 派出所, pinyin: "pai cudˋ soˋ", en: "police station"}
+  - {hanzi: 控告, pinyin: "kungˋ go", en: "accuse, sue"}
+  - {hanzi: 法官, pinyin: "fabˋ gonˊ", en: "judge"}
+  - {hanzi: 賴人, pinyin: "lai nginˇ", en: "accuse someone falsely"}
+  - {hanzi: 打官司, pinyin: "daˋ gonˊ siiˊ", en: "go to law"}
+  - {hanzi: 公當, pinyin: "gungˊ dong", en: "fair"}
+  - {hanzi: 判, pinyin: "pan", en: "sentence (in court)"}
+  - {hanzi: 坐管仔, pinyin: "coˊ gonˋ eˇ", en: "be in prison"}
+  - {hanzi: 法律, pinyin: "fabˋ lid", en: "the law"}
+  - {hanzi: 中元節, pinyin: "zungˊ ngienˇ jiedˋ", en: "the Ghost Festival (7th month, 15th day)"}
+  - {hanzi: 保護, pinyin: "boˋ fu", en: "protect"}
+  - {hanzi: 犯罪, pinyin: "fam cui", en: "commit a crime"}
+  - {hanzi: 海關, pinyin: "hoiˋ guanˊ", en: "customs"}
+  - {hanzi: 港口, pinyin: "gongˋ heuˋ", en: "harbour"}
+  - {hanzi: 走私, pinyin: "zeuˋ siiˊ", en: "smuggle; smuggling"}
+  - {hanzi: 手銃, pinyin: "suˋ cung", en: "handgun"}
+  - {hanzi: 銃子, pinyin: "cung ziiˋ", en: "bullet"}
+  - {hanzi: 違法, pinyin: "viˇ fabˋ", en: "illegal"}
+  - {hanzi: 賭徼, pinyin: "duˋ gieuˋ", en: "gamble; gambling"}
+  - {hanzi: 當地, pinyin: "dongˊ ti", en: "local"}
+  - {hanzi: 治安, pinyin: "cii onˊ", en: "law and order"}
+  - {hanzi: 老伯姆, pinyin: "loˋ bagˋ meˊ", en: "old lady"}
+
+exercises:
+  translate:
+    - en: "He was in a road accident last month and went into hospital."
+      source: kaga115
+      sx: {hanzi: "佢上隻月車禍入院。", pinyin: "giˇ song zagˋ ngied caˊ fo ngib ien."}
+    - en: "He stole something and was caught on the spot."
+      source: kaga115
+      sx: {hanzi: "佢偷東西，當場分人捉著。", pinyin: "giˇ teuˊ dungˊ xiˊ, dongˊ congˇ bunˊ nginˇ zogˋ doˋ."}
+    - en: "Lawyers know the law very well."
+      source: kaga115
+      sx: {hanzi: "律師當知法律。", pinyin: "lid siiˊ dongˊ diˊ fabˋ lid."}
+    - en: "If you commit a crime, you get locked up."
+      source: kaga115
+      sx: {hanzi: "犯罪就愛捉去關。", pinyin: "fam cui qiu oi zogˋ hi guanˊ."}
+    - en: "You have to go through customs when you go abroad."
+      source: kaga115
+      sx: {hanzi: "出國愛過海關。", pinyin: "cudˋ guedˋ oi go hoiˋ guanˊ."}
+  fill:
+    - en: "The motorway is jammed."
+      sx: {hanzi: "高速公路___。", pinyin: "goˊ sugˋ gungˊ lu ___.", answer_hanzi: "塞車", answer: "sedˋ caˊ"}
+    - en: "The house next door caught fire."
+      sx: {hanzi: "隔壁___。", pinyin: "gagˋ biagˋ ___.", answer_hanzi: "火燒屋", answer: "foˋ seuˊ vugˋ"}
+    - en: "The judge sentenced him to eight months in prison."
+      sx: {hanzi: "___判佢坐管仔八隻月。", pinyin: "___ pan giˇ coˊ gonˋ eˇ badˋ zagˋ ngied.", answer_hanzi: "法官", answer: "fabˋ gonˊ"}
+    - en: "Law and order here is not good."
+      sx: {hanzi: "這片___毋好。", pinyin: "iaˋ pienˋ ___ mˇ hoˋ.", answer_hanzi: "治安", answer: "cii onˊ"}
+    - en: "Gambling is illegal."
+      sx: {hanzi: "賭徼係___个。", pinyin: "duˋ gieuˋ he ___ ge.", answer_hanzi: "違法", answer: "viˇ fabˋ"}
+
+audio: []
