@@ -19,8 +19,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "Grandma, how do you eat a pomelo?"
-    sx: {hanzi: "伯婆，柚仔愛仰般食？", pinyin: "bagˋ poˇ, iu eˋ oi ngiongˋ banˊ siid?"}
-    hl: {hanzi: "伯婆，柚仔愛仰般食？", pinyin: "bag po, rhiu+ er oiˇ ngiongˊ banˋ shidˋ?"}
+    sx: {hanzi: "阿婆，柚仔愛仰般食？", pinyin: "aˊ poˇ, iu eˋ oi ngiongˋ banˊ siid?"}
+    hl: {hanzi: "阿婆，柚仔愛仰般食？", pinyin: "a+ po, rhiu+ er oiˇ ngiongˊ banˋ shidˋ?"}
   - n: 3
     speaker: 阿婆
     en: "First you cut it open, then you peel off the skin. Here, have a go."
@@ -131,8 +131,7 @@ notes:
   - ref: 2
     topic: grammar
     text: >
-      伯婆 is Sam's word for Grandma when he speaks to her directly, as 伯姆 is for Mrs Liu (lesson 2): he is a guest, not
-      a grandson. 仰般食 "how do you eat it": 仰般 "how" (lesson 15).
+      仰般食 "how do you eat it": 仰般 "how" (lesson 15). A pomelo is a fruit you have to be shown.
   - ref: 3
     topic: vocab
     text: >

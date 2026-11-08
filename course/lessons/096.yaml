@@ -1,0 +1,218 @@
+id: 96
+title:
+  en: "Goodbye to Grandma"
+  sx: {hanzi: "毋盼得", pinyin: "mˇ pan dedˋ"}
+  hl: {hanzi: "毋盼得", pinyin: "m panˇ ded"}
+review: false
+setting: >-
+  Wednesday 24 November, the evening. Sam leaves on Friday. His suitcase is open on the bed in the room he has
+  slept in for a year; Grandma has come in without knocking and is folding his clothes, badly pleased with how he
+  does it himself.
+names: [法國, 阿英, 苗栗, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, I've folded your clothes for you."
+    sx: {hanzi: "Sam，衫褲𠊎同你摺好了。", pinyin: "Sam, samˊ fu ngaiˇ tungˇ nˇ zabˋ hoˋ leˊ."}
+    hl: {hanzi: "Sam，衫褲𠊎摎你摺好了。", pinyin: "Sam, samˋ fuˇ ngai lauˋ ngi zhab hoˊ leˋ."}
+  - n: 2
+    speaker: Sam
+    en: "Grandma, I can do it myself…"
+    sx: {hanzi: "阿婆，𠊎自家來就好……", pinyin: "aˊ poˇ, ngaiˇ qi gaˊ loiˇ qiu hoˋ …"}
+    hl: {hanzi: "阿婆，𠊎自家來就好……", pinyin: "a+ po, ngai cid gaˋ loi ciu+ hoˊ …"}
+  - n: 3
+    speaker: 阿婆
+    en: "You fold them badly. And the suitcase is full: don't put anything else in."
+    sx: {hanzi: "你摺毋好。皮箱既經淰了，莫再放。", pinyin: "nˇ zabˋ mˇ hoˋ. piˇ xiongˊ gi ginˊ nemˊ leˊ, mog zai biong."}
+    hl: {hanzi: "你摺毋好。皮箱既經淰了，莫再放。", pinyin: "ngi zhab m hoˊ. pi siongˋ giˇ ginˋ nemˋ leˋ, mogˋ zaiˇ biongˇ."}
+    check: true
+  - n: 4
+    speaker: 阿婆
+    en: "…Except this jar of pickled mustard greens. Grandma made it herself. Take it back to France and eat it slowly."
+    sx: {hanzi: "……毋過這罐仔鹹菜愛放。阿婆自家做个。帶轉去法國，慢慢仔食。", pinyin: "… mˇ go iaˋ gon eˋ hamˇ coi oi biong. aˊ poˇ qi gaˊ zo ge. dai zonˋ hi fabˋ guedˋ, man man eˋ siid."}
+    hl: {hanzi: "……毋過這罐仔鹹菜愛放。阿婆自家做个。帶轉去法國，慢慢仔食。", pinyin: "… m goˇ liaˊ gonˇ er ham coiˇ oiˇ biongˇ. a+ po cid gaˋ zoˇ gaiˇ. daiˇ zhonˊ hiˇ fab gued, man+ man+ er shidˋ."}
+    check: true
+  - n: 5
+    speaker: Sam
+    en: "It's so heavy…"
+    sx: {hanzi: "恁重……", pinyin: "anˋ cungˊ …"}
+    hl: {hanzi: "恁重……", pinyin: "anˊ chungˋ …"}
+  - n: 6
+    speaker: 阿婆
+    en: "Heavy, my foot! And here's this photo: Grandpa and me, fifty years ago."
+    sx: {hanzi: "重麼个！還有這張相片：阿公同阿婆，五十年前个。", pinyin: "cungˊ maˋ ge! hanˇ iuˊ iaˋ zongˊ xiong pienˋ: aˊ gungˊ tungˇ aˊ poˇ, ngˋ siib ngienˇ qienˇ ge."}
+    hl: {hanzi: "重麼个！還有這張相片：阿公摎阿婆，五十年前个。", pinyin: "chungˋ maˊ gaiˇ! han rhiuˋ liaˊ zhongˋ siongˇ pienˊ: a+ gungˋ lauˋ a+ po, ngˊ shibˋ ngien cien gaiˇ."}
+  - n: 7
+    speaker: Sam
+    en: "But this is… the one Grandpa said 'This one, for me' about?"
+    sx: {hanzi: "這毋係……阿公講「這張，分𠊎」該張？", pinyin: "iaˋ mˇ he … aˊ gungˊ gongˋ iaˋ zongˊ, bunˊ ngaiˇ ge zongˊ?"}
+    hl: {hanzi: "這毋係……阿公講「這張，分𠊎」該張？", pinyin: "liaˊ m heˇ … a+ gungˋ gongˊ liaˊ zhongˋ, bunˋ ngai gai zhongˋ?"}
+  - n: 8
+    speaker: 阿婆
+    en: "He had another one printed for you, on the quiet. Don't tell him I told you."
+    sx: {hanzi: "佢偷偷仔同你洗一張。莫講係𠊎講个。", pinyin: "giˇ teuˊ teuˊ eˋ tungˇ nˇ seˋ idˋ zongˊ. mog gongˋ he ngaiˇ gongˋ ge."}
+    hl: {hanzi: "佢偷偷仔摎你洗一張。莫講係𠊎講个。", pinyin: "gi teuˋ teuˋ er lauˋ ngi seˊ rhid zhongˋ. mogˋ gongˊ heˇ ngai gongˊ gaiˇ."}
+    check: true
+  - n: 9
+    speaker: 阿婆
+    en: "A year gone so fast, it feels like no time at all. When you've gone, the house will be dead quiet. Grandma will be lonely."
+    sx: {hanzi: "一年過到恁遽，好像無幾久。你轉去以後，屋下會恬索索，阿婆會孤栖。", pinyin: "idˋ ngienˇ go do anˋ giagˋ, hoˋ qiong moˇ gidˋ giuˋ. nˇ zonˋ hi iˊ heu, vugˋ kaˊ voi diamˊ sogˋ sogˋ, aˊ poˇ voi guˊ xiˊ."}
+    hl: {hanzi: "一年過到恁遽，好像無幾久。你轉去以後，屋下會恬索索，阿婆會孤栖。", pinyin: "rhid ngien goˇ doˇ anˊ giag, hoˊ ciongˇ mo giˊ giuˊ. ngi zhonˊ hiˇ rhiˋ heu+, vug haˋ voi+ diamˋ sog sog, a+ po voi+ guˋ siˋ."}
+  - n: 10
+    speaker: Sam
+    en: "I can't bear to go either."
+    sx: {hanzi: "𠊎乜毋盼得走。", pinyin: "ngaiˇ me mˇ pan dedˋ zeuˋ."}
+    hl: {hanzi: "𠊎乜毋盼得走。", pinyin: "ngai meˇ m panˇ ded zeuˊ."}
+  - n: 11
+    speaker: 阿婆
+    en: "A-in says she's going to France next year to see you. What the two of you do is your business: Grandma won't interfere."
+    sx: {hanzi: "阿英講佢過忒年愛去法國尋你。你兩儕个事，阿婆毋管。", pinyin: "aˊ inˊ gongˋ giˇ go tedˋ ngienˇ oi hi fabˋ guedˋ qimˇ nˇ. nˇ liongˋ saˇ ge sii, aˊ poˇ mˇ gonˋ."}
+    hl: {hanzi: "阿英講佢明年愛去法國尋你。你兩儕个事，阿婆毋管。", pinyin: "a+ rhinˋ gongˊ gi mang ngien oiˇ hiˇ fab gued cim ngi. ngi liongˊ sa gaiˇ sii+, a+ po m gonˊ."}
+  - n: 12
+    speaker: 阿婆
+    en: "But Grandma has three things to tell you. Keep them in your heart."
+    sx: {hanzi: "毋過阿婆有三件事愛吩咐你，愛記入心。", pinyin: "mˇ go aˊ poˇ iuˊ samˊ kien sii oi funˊ fu nˇ, oi gi ngib ximˊ."}
+    hl: {hanzi: "毋過阿婆有三件事愛吩咐你，愛記入心。", pinyin: "m goˇ a+ po rhiuˋ samˋ kien+ sii+ oiˇ funˋ fuˇ ngi, oiˇ giˇ ngibˋ simˋ."}
+  - n: 13
+    speaker: 阿婆
+    en: "One: eat your bowl clean. Two: whatever happens to you, don't keep it in your heart, say it."
+    sx: {hanzi: "第一，食飯愛食空空。第二，堵著麼个事情，毋好放在自家心肝肚，愛講出來。", pinyin: "ti idˋ, siid fan oi siid kungˊ kungˊ. ti ngi, duˇ doˋ maˋ ge sii qinˇ, mˇ hoˋ biong coiˊ qi gaˊ ximˊ gonˊ duˋ, oi gongˋ cudˋ loiˇ."}
+    hl: {hanzi: "第一，食飯愛食空空。第二，堵著麼个事情，毋好放在自家心肝肚，愛講出來。", pinyin: "ti+ rhid, shidˋ pon+ oiˇ shidˋ kungˋ kungˋ. ti+ ngi+, du doˊ maˊ gaiˇ sii+ cin, m hoˊ biongˇ coiˋ cid gaˋ simˋ gonˋ duˊ, oiˇ gongˊ chud loi."}
+  - n: 14
+    speaker: Sam
+    en: "And three?"
+    sx: {hanzi: "第三呢？", pinyin: "ti samˊ neˇ?"}
+    hl: {hanzi: "第三呢？", pinyin: "ti+ samˋ neˇ?"}
+  - n: 15
+    speaker: 阿婆
+    en: "Three: come back."
+    sx: {hanzi: "第三，愛轉來。", pinyin: "ti samˊ, oi zonˋ loiˇ."}
+    hl: {hanzi: "第三，愛轉來。", pinyin: "ti+ samˋ, oiˇ zhonˊ loi."}
+  - n: 16
+    speaker: Sam
+    en: "I'll come back. Absolutely."
+    sx: {hanzi: "𠊎會轉來。絕對會。", pinyin: "ngaiˇ voi zonˋ loiˇ. qied dui voi."}
+    hl: {hanzi: "𠊎會轉來。絕對會。", pinyin: "ngai voi+ zhonˊ loi. ciedˋ duiˇ voi+."}
+  - n: 17
+    speaker: 阿婆
+    en: "(patting his back, her eyes wet) Good, good. Off to bed."
+    sx: {hanzi: "好，好。去睡目。", pinyin: "hoˋ, hoˋ. hi soi mugˋ."}
+    hl: {hanzi: "好，好。去睡目。", pinyin: "hoˊ, hoˊ. hiˇ shoi+ mug."}
+
+notes:
+  - ref: 1
+    topic: vocab
+    text: >
+      摺 zabˋ "fold": 衫褲摺好 "fold the clothes (properly)", with 好 for "done right" (lesson 33). Grandma's 同你 "for you"
+      (lesson 40).
+  - ref: 3
+    topic: vocab
+    text: >
+      淰 nemˊ "full (to the brim)", a Hakka-only word (dictionary: 滿). 既經 gi ginˊ "already" (dictionary: 已經), a word
+      that sits where Mandarin puts 已經. 摺毋好 "folds them badly": V毋好 "do it badly".
+  - ref: 4
+    topic: culture
+    text: >
+      鹹菜 hamˇ coi is not "salted vegetables" in general but the Hakka pickled mustard greens (dictionary: 酸菜), made
+      from the 芥菜 of lesson 8 and dried in winter; 罐仔 gon eˋ "jar, bottle". 慢慢仔食 "eat it slowly, make it last".
+  - ref: 6
+    topic: grammar
+    text: >
+      重麼个！ "heavy, what?!": the X麼个 retort (lessons 36, 39), Grandma's last. The photo is the one in the album of
+      lesson 83.
+  - ref: 8
+    topic: vocab
+    text: >
+      偷偷仔 "on the quiet" (lesson 46). 洗一張 "have a print made": 洗 "wash" is the photographer's verb, as in Mandarin
+      洗照片; marked for a check. 莫講係𠊎講个 "don't say I told you": 係…个 once more.
+  - ref: 9
+    topic: grammar
+    text: >
+      無幾久 moˇ gidˋ giuˋ "not long, no time at all". 孤栖 guˊ xiˊ "lonely" (dictionary: 孤獨；孤單): 一儕人來臺北食頭路…
+      毋會有孤栖个心情 (official). The house will be 恬索索, as the hall was for the prizes (lesson 94).
+  - ref: 10
+    topic: vocab
+    text: >
+      毋盼得 mˇ pan dedˋ "can't bear to part with, can't bring oneself to": 厥爸毋盼得佢受苦 "his father couldn't bear him
+      to suffer", 細人仔日漸成人長大，爺哀再毋盼得也係愛分家 "children grow up, and however much the parents hate it, the
+      family has to split" (official). 毋盼得走 "can't bear to leave".
+  - ref: 11
+    topic: culture
+    text: >
+      過忒年 go tedˋ ngienˇ "next year" (Hailu 明年 mang ngien): the Sixian word list has no 明年. 阿婆毋管 "Grandma won't interfere": the promise of lesson 42, kept, more or less. The thread of A-in and Sam
+      ends where the course leaves it: a visit to France next year.
+  - ref: 12
+    topic: vocab
+    text: >
+      吩咐 funˊ fu "tell (someone to), give instructions": an elder's word. 記入心 gi ngib ximˊ "take to heart, keep in
+      mind": 這恁重要个事情愛記入心，毋好毋記得 "something this important you must keep in mind, don't forget it"
+      (official, both accents).
+  - ref: 13
+    topic: grammar
+    text: >
+      Grandma's first instruction is lesson 95's saying; the second is close to an official sentence: 先生希望大家有麼个問題
+      全做得同佢講，毋好放在自家心肝肚 "don't keep it to yourself". 心肝肚 ximˊ gonˊ duˋ "in one's heart" (心肝 + 肚 "inside").
+      堵著 duˇ doˋ "come across, meet with".
+  - ref: 16
+    topic: vocab
+    text: >
+      絕對 qied dui "absolutely, definitely". Sam's 會 is the 會 of lesson 1, "can", and of lesson 34, "will": both.
+
+new_words:
+  - {hanzi: 摺, pinyin: "zabˋ", en: "fold", hl: {hanzi: 摺, pinyin: "zhab"}}
+  - {hanzi: 既經, pinyin: "gi ginˊ", en: "already", hl: {hanzi: 既經, pinyin: "giˇ ginˋ"}}
+  - {hanzi: 淰, pinyin: "nemˊ", en: "full (to the brim)", hl: {hanzi: 淰, pinyin: "nemˋ"}}
+  - {hanzi: 罐仔, pinyin: "gon eˋ", en: "jar, bottle", hl: {hanzi: 罐仔, pinyin: "gonˇ er"}}
+  - {hanzi: 鹹菜, pinyin: "hamˇ coi", en: "pickled mustard greens", hl: {hanzi: 鹹菜, pinyin: "ham coiˇ"}}
+  - {hanzi: 慢慢仔, pinyin: "man man eˋ", en: "slowly, little by little", hl: {hanzi: 慢慢仔, pinyin: "man+ man+ er"}}
+  - {hanzi: 無幾久, pinyin: "moˇ gidˋ giuˋ", en: "not long, no time at all", hl: {hanzi: 無幾久, pinyin: "mo giˊ giuˊ"}}
+  - {hanzi: 孤栖, pinyin: "guˊ xiˊ", en: "lonely", hl: {hanzi: 孤栖, pinyin: "guˋ siˋ"}}
+  - {hanzi: 毋盼得, pinyin: "mˇ pan dedˋ", en: "can't bear to (part with)", hl: {hanzi: 毋盼得, pinyin: "m panˇ ded"}}
+  - {hanzi: 過忒年, pinyin: "go tedˋ ngienˇ", en: "next year", hl: {hanzi: 明年, pinyin: "mang ngien"}}
+  - {hanzi: 吩咐, pinyin: "funˊ fu", en: "instruct, tell (to do)", hl: {hanzi: 吩咐, pinyin: "funˋ fuˇ"}}
+  - {hanzi: 記入心, pinyin: "gi ngib ximˊ", en: "take to heart, keep in mind", hl: {hanzi: 記入心, pinyin: "giˇ ngibˋ simˋ"}}
+  - {hanzi: 堵著, pinyin: "duˇ doˋ", en: "come across, meet with", hl: {hanzi: 堵著, pinyin: "du doˊ"}}
+  - {hanzi: 心肝肚, pinyin: "ximˊ gonˊ duˋ", en: "in one's heart", hl: {hanzi: 心肝肚, pinyin: "simˋ gonˋ duˊ"}}
+  - {hanzi: 絕對, pinyin: "qied dui", en: "absolutely", hl: {hanzi: 絕對, pinyin: "ciedˋ duiˇ"}}
+  - {hanzi: 背囊, pinyin: "boi nongˇ", en: "back (of the body)", hl: {hanzi: 背囊, pinyin: "boiˇ nong"}}
+  - {hanzi: 拍, pinyin: "pogˋ", en: "pat, clap", hl: {hanzi: 拍, pinyin: "pog"}}
+  - {hanzi: 摸, pinyin: "miaˊ", en: "touch, stroke", hl: {hanzi: 摸, pinyin: "miaˋ"}}
+  - {hanzi: 牽, pinyin: "kienˊ", en: "lead by the hand", hl: {hanzi: 牽, pinyin: "kienˋ"}}
+  - {hanzi: 孫女, pinyin: "sunˊ ngˋ", en: "granddaughter", hl: {hanzi: 孫女, pinyin: "sunˋ ngˊ"}}
+  - {hanzi: 世界, pinyin: "sii gie", en: "the world", hl: {hanzi: 世界, pinyin: "sheˇ gaiˇ"}}
+  - {hanzi: 所有, pinyin: "soˋ iuˊ", en: "all, every", hl: {hanzi: 所有, pinyin: "soˊ rhiuˋ"}}
+  - {hanzi: 被, pinyin: "piˊ", en: "quilt, blanket", hl: {hanzi: 被, pinyin: "piˋ"}}
+  - {hanzi: 肯, pinyin: "henˋ", en: "be willing to", hl: {hanzi: 肯, pinyin: "henˊ"}}
+
+exercises:
+  translate:
+    - en: "Grandma patted him on the back and stroked his hair."
+      sx: {hanzi: "阿婆拍佢个背囊，摸佢个頭那毛。", pinyin: "aˊ poˇ pogˋ giˇ ge boi nongˇ, miaˊ giˇ ge teuˇ naˇ moˊ."}
+      hl: {hanzi: "阿婆拍佢个背囊，摸佢个頭那毛。", pinyin: "a+ po pog gi gaiˇ boiˇ nong, miaˋ gi gaiˇ teu na moˋ."}
+    - en: "A-in is Grandma's granddaughter, and she's just like her."
+      sx: {hanzi: "阿英係阿婆个孫女，同阿婆共樣。", pinyin: "aˊ inˊ he aˊ poˇ ge sunˊ ngˋ, tungˇ aˊ poˇ kiung iong."}
+      hl: {hanzi: "阿英係阿婆个孫女，摎阿婆共樣。", pinyin: "a+ rhinˋ heˇ a+ po gaiˇ sunˋ ngˊ, lauˋ a+ po kiung+ rhong+."}
+    - en: "The world is big; but there's only one Miaoli."
+      sx: {hanzi: "世界恁大，毋過苗栗就一隻定定。", pinyin: "sii gie anˋ tai, mˇ go meuˇ lidˋ qiu idˋ zagˋ tin tin."}
+      hl: {hanzi: "世界恁大，毋過苗栗就一隻定定。", pinyin: "sheˇ gaiˇ anˊ tai+, m goˇ miau lid ciu+ rhid zhag tin+ tin+."}
+      check: true
+    - en: "Grandma led A-min by the hand to school when he was small."
+      sx: {hanzi: "阿明細時節，阿婆牽佢去學校。", pinyin: "aˊ minˇ se siiˇ jiedˋ, aˊ poˇ kienˊ giˇ hi hog gauˋ."}
+      hl: {hanzi: "阿明細時節，阿婆牽佢去學校。", pinyin: "a+ min seˇ shi zied, a+ po kienˋ gi hiˇ hogˋ gauˊ."}
+    - en: "He won't take the quilt: he says France is warm. Pack it all the same, all of it."
+      sx: {hanzi: "佢毋肯帶被，講法國當燒暖。所有个東西還係愛帶。", pinyin: "giˇ mˇ henˋ dai piˊ, gongˋ fabˋ guedˋ dongˊ seuˊ nonˊ. soˋ iuˊ ge dungˊ xiˊ hanˇ he oi dai."}
+      hl: {hanzi: "佢毋肯帶被，講法國當燒暖。所有个東西還係愛帶。", pinyin: "gi m henˊ daiˇ piˋ, gongˊ fab gued dongˋ shauˋ nonˋ. soˊ rhiuˋ gaiˇ dungˋ siˋ han heˇ oiˇ daiˇ."}
+      check: true
+  fill:
+    - en: "I can't bear to leave."
+      sx: {hanzi: "𠊎___走。", pinyin: "ngaiˇ ___ zeuˋ.", answer_hanzi: "毋盼得", answer: "mˇ pan dedˋ"}
+      hl: {hanzi: "𠊎___走。", pinyin: "ngai ___ zeuˊ.", answer_hanzi: "毋盼得", answer: "m panˇ ded"}
+    - en: "Keep it in mind; don't forget."
+      sx: {hanzi: "愛___，毋好毋記得。", pinyin: "oi ___, mˇ hoˋ mˇ gi dedˋ.", answer_hanzi: "記入心", answer: "gi ngib ximˊ"}
+      hl: {hanzi: "愛___，毋好毋記得。", pinyin: "oiˇ ___, m hoˊ m giˇ ded.", answer_hanzi: "記入心", answer: "giˇ ngibˋ simˋ"}
+    - en: "The suitcase is already full."
+      sx: {hanzi: "皮箱___淰了。", pinyin: "piˇ xiongˊ ___ nemˊ leˊ.", answer_hanzi: "既經", answer: "gi ginˊ"}
+      hl: {hanzi: "皮箱___淰了。", pinyin: "pi siongˋ ___ nemˋ leˋ.", answer_hanzi: "既經", answer: "giˇ ginˋ"}
+
+audio: []
