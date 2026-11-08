@@ -37,7 +37,7 @@ dialogue:
     speaker: 阿明
     en: "Look, Grandpa's in the band, playing the fiddle!"
     sx: {hanzi: "你看，阿公在八音團肚鋸弦仔！", pinyin: "nˇ kon, aˊ gungˊ coiˊ badˋ imˊ tonˇ duˋ gi hienˇ eˋ!"}
-    hl: {hanzi: "你看，阿公在八音團肚鋸弦仔！", pinyin: "ngi konˇ, a+ gungˋ coiˋ bad rhimˋ ton duˊ giˇ hien er!"}
+    hl: {hanzi: "你看，阿公在八音團肚挨弦仔！", pinyin: "ngi konˇ, a+ gungˋ coiˋ bad rhimˋ ton duˊ aiˋ hien er!"}
   - n: 6
     speaker: 阿婆
     en: "He's been practising for a month. Every evening, on the veranda."

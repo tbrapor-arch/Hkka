@@ -28,13 +28,13 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "Grandma, I'm sorry. It was my fault. The mist was so thick we couldn't find the way."
-    sx: {hanzi: "阿婆，敗勢，係𠊎毋著。濛紗恁大，𫣆兜尋毋著路。", pinyin: "aˊ poˇ, paiˇ se, he ngaiˇ mˇ cog. mungˇ saˊ anˋ tai, enˊ deuˊ qimˇ mˇ doˋ lu."}
-    hl: {hanzi: "阿婆，敗勢，係𠊎毋著。濛紗恁大，𫣆兜尋毋著路。", pinyin: "a+ po, pai+ sheˇ, heˇ ngai m chogˋ. mung saˋ anˊ tai+, enˋ deuˋ cim m doˊ lu+."}
+    sx: {hanzi: "阿婆，敗勢，係𠊎毋著。濛紗煙恁重，𠊎兜尋毋著路。", pinyin: "aˊ poˇ, paiˇ se, he ngaiˇ mˇ cog. mungˇ saˊ ienˊ anˋ cungˊ, ngaiˇ deuˊ qimˇ mˇ doˋ lu."}
+    hl: {hanzi: "阿婆，敗勢，係𠊎毋著。濛煙恁重，𠊎兜尋毋著路。", pinyin: "a+ po, pai+ sheˇ, heˇ ngai m chogˋ. mung rhanˋ anˊ chungˋ, ngai deuˋ cim m doˊ lu+."}
   - n: 5
     speaker: 阿婆
-    en: "Never mind. Back safe, that's what counts. Here, have some 擂茶."
-    sx: {hanzi: "無要緊。平安就好。來，食擂茶。", pinyin: "moˇ ieu ginˋ. pinˇ onˊ qiu hoˋ. loiˇ, siid luiˇ caˇ."}
-    hl: {hanzi: "無要緊。平安就好。來，食擂茶。", pinyin: "moˇ rhauˇ ginˊ. pin onˋ ciu+ hoˊ. loi, shidˋ lui ca."}
+    en: "Never mind. Back safe, that's what counts. Next time, don't get lost! Here, have some 擂茶."
+    sx: {hanzi: "無要緊。平安就好。下二擺莫撞走了！來，食擂茶。", pinyin: "moˇ ieu ginˋ. pinˇ onˊ qiu hoˋ. ha ngi baiˋ mog cong zeuˋ leˊ! loiˇ, siid luiˇ caˇ."}
+    hl: {hanzi: "無要緊。平安就好。下二擺莫撞走了！來，食擂茶。", pinyin: "moˇ rhauˇ ginˊ. pin onˋ ciu+ hoˊ. ha+ ngi+ baiˊ mogˋ cong+ zeuˊ leˋ! loi, shidˋ lui ca."}
   - n: 6
     speaker: 阿英
     en: "What a summer: the museum, the dinner where we argued, 八音, the 義民 festival, and then the mountain…"
@@ -45,7 +45,7 @@ dialogue:
     speaker: 阿明
     en: "And at the festival, Grandpa played the fiddle!"
     sx: {hanzi: "還有義民節，阿公鋸弦仔！", pinyin: "hanˇ iuˊ ngi minˇ jiedˋ, aˊ gungˊ gi hienˇ eˋ!"}
-    hl: {hanzi: "還有義民節，阿公鋸弦仔！", pinyin: "han rhiuˋ ngi+ min zied, a+ gungˋ giˇ hien er!"}
+    hl: {hanzi: "還有義民節，阿公挨弦仔！", pinyin: "han rhiuˋ ngi+ min zied, a+ gungˋ aiˋ hien er!"}
   - n: 8
     speaker: Sam
     en: "Learning Hakka isn't easy… but this summer I learnt a lot."
@@ -70,7 +70,7 @@ dialogue:
     speaker: 阿婆
     en: "(laughing) He means his hands! He wants to play for you."
     sx: {hanzi: "佢講佢个手！佢想鋸弦仔分你兜聽。", pinyin: "giˇ gongˋ giˇ ge suˋ! giˇ xiongˋ gi hienˇ eˋ bunˊ nˇ deuˊ tangˊ."}
-    hl: {hanzi: "佢講佢个手！佢想鋸弦仔分你兜聽。", pinyin: "gi gongˊ gi gaiˇ shiuˊ! gi siongˊ giˇ hien er bunˋ ngi deuˋ tangˋ."}
+    hl: {hanzi: "佢講佢个手！佢想挨弦仔分你兜聽。", pinyin: "gi gongˊ gi gaiˇ shiuˊ! gi siongˊ aiˋ hien er bunˋ ngi deuˋ tangˋ."}
 
 notes:
   - ref: 1
@@ -82,7 +82,8 @@ notes:
     topic: grammar
     text: >
       係𠊎毋著 "it's my fault": 毋著 mˇ cog "wrong, at fault", and in the same line 尋毋著 mˇ doˋ "couldn't find" (lessons 47,
-      89). Same characters, two readings, two meanings.
+      89). Same characters, two readings, two meanings. 濛紗煙恁重 "the mist was so thick" and Grandma's 莫撞走 "don't get
+      lost" are both from lesson 89.
   - ref: 6
     topic: grammar
     text: >
@@ -125,7 +126,7 @@ exercises:
   fill:
     - en: "He can only play the fiddle."
       sx: {hanzi: "佢___會鋸弦仔。", pinyin: "giˇ ___ voi gi hienˇ eˋ.", answer_hanzi: "單淨", answer: "danˊ qiang"}
-      hl: {hanzi: "佢___會鋸弦仔。", pinyin: "gi ___ voi+ giˇ hien er.", answer_hanzi: "單淨", answer: "danˋ ciang+"}
+      hl: {hanzi: "佢___會挨弦仔。", pinyin: "gi ___ voi+ aiˋ hien er.", answer_hanzi: "單淨", answer: "danˋ ciang+"}
     - en: "Please sit down!"
       sx: {hanzi: "___坐！", pinyin: "___ coˊ!", answer_hanzi: "請", answer: "qiangˋ"}
       hl: {hanzi: "___坐！", pinyin: "___ coˋ!", answer_hanzi: "請", answer: "ciangˊ"}

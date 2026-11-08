@@ -18,9 +18,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "Beautiful! But the mist is coming up. Shall we go back down?"
-    sx: {hanzi: "當靚！毋過起濛紗了，𫣆兜轉去好無？", pinyin: "dongˊ jiangˊ! mˇ go hiˋ mungˇ saˊ leˊ, enˊ deuˊ zonˋ hi hoˋ moˇ?"}
+    sx: {hanzi: "當靚！毋過起濛紗煙了，𫣆兜轉去好無？", pinyin: "dongˊ jiangˊ! mˇ go hiˋ mungˇ saˊ ienˊ leˊ, enˊ deuˊ zonˋ hi hoˋ moˇ?"}
     hl: {hanzi: "當靚！毋過起濛紗了，𫣆兜轉去好無？", pinyin: "dongˋ ziangˋ! m goˇ hiˊ mung saˋ leˋ, enˋ deuˋ zhonˊ hiˇ hoˊ mo?"}
-    check: true
   - n: 3
     speaker: 阿明
     en: "OK. Let's take this path back."
@@ -29,8 +28,8 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "(an hour later) A-min, this isn't the path we came up by. There was a fork back there."
-    sx: {hanzi: "阿明，這條毋係頭先个路。後背有岔路。", pinyin: "aˊ minˇ, iaˋ tiauˇ mˇ he teuˇ xienˊ ge lu. heu boi iuˊ ca lu."}
-    hl: {hanzi: "阿明，這條毋係頭先个路。後背有岔路。", pinyin: "a+ min, liaˊ tiau m heˇ teu senˋ gaiˇ lu+. heu+ boiˇ rhiuˋ caˇ lu+."}
+    sx: {hanzi: "阿明，這條毋係𫣆兜上來个路。後背有岔路。", pinyin: "aˊ minˇ, iaˋ tiauˇ mˇ he enˊ deuˊ songˊ loiˇ ge lu. heu boi iuˊ ca lu."}
+    hl: {hanzi: "阿明，這條毋係𫣆兜上來个路。後背有岔路。", pinyin: "a+ min, liaˊ tiau m heˇ enˋ deuˋ shongˋ loi gaiˇ lu+. heu+ boiˇ rhiuˋ caˇ lu+."}
   - n: 5
     speaker: 阿明
     en: "Should we have gone left?"
@@ -39,14 +38,13 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "I don't know… The mist's so thick I can't see the path. We can't find the way."
-    sx: {hanzi: "𠊎毋知……濛紗恁大，看毋著路。𫣆兜尋毋著路了。", pinyin: "ngaiˇ mˇ diˊ … mungˇ saˊ anˋ tai, kon mˇ doˋ lu. enˊ deuˊ qimˇ mˇ doˋ lu leˊ."}
-    hl: {hanzi: "𠊎毋知……濛紗恁大，看毋著路。𫣆兜尋毋著路了。", pinyin: "ngai m diˋ … mung saˋ anˊ tai+, konˇ m doˊ lu+. enˋ deuˋ cim m doˊ lu+ leˋ."}
+    sx: {hanzi: "𠊎毋知……濛紗煙恁重，看毋著路。𫣆兜撞走了。", pinyin: "ngaiˇ mˇ diˊ … mungˇ saˊ ienˊ anˋ cungˊ, kon mˇ doˋ lu. enˊ deuˊ cong zeuˋ leˊ."}
+    hl: {hanzi: "𠊎毋知……濛煙恁重，看毋著路。𫣆兜撞走了。", pinyin: "ngai m diˋ … mung rhanˋ anˊ chungˋ, konˇ m doˊ lu+. enˋ deuˋ cong+ zeuˊ leˋ."}
   - n: 7
     speaker: 阿明
     en: "I'll phone my sister… No, the phone can't get through."
     sx: {hanzi: "𠊎打電話分阿姊……毋係，手機仔打毋出去。", pinyin: "ngaiˇ daˋ tien fa bunˊ aˊ jiˋ … mˇ he, suˋ giˊ eˋ daˋ mˇ cudˋ hi."}
     hl: {hanzi: "𠊎打電話分阿姊……毋係，手機打毋出去。", pinyin: "ngai daˊ tien+ faˇ bunˋ a+ ziˊ … m heˇ, shiuˊ giˋ daˊ m chud hiˇ."}
-    check: true
   - n: 8
     speaker: Sam
     en: "Don't be frightened. Let's sit down and rest a bit."
@@ -55,9 +53,8 @@ dialogue:
   - n: 9
     speaker: 阿明
     en: "(stepping off the path, slipping) Ow! I've twisted my ankle!"
-    sx: {hanzi: "啊！𠊎个腳扭著了！", pinyin: "a! ngaiˇ ge giogˋ ngiuˋ doˋ leˊ!"}
-    hl: {hanzi: "啊！𠊎个腳扭著了！", pinyin: "a+! ngai gaiˇ giog ngiuˊ doˊ leˋ!"}
-    check: true
+    sx: {hanzi: "啊！𠊎个腳目珠扭著了！", pinyin: "a! ngaiˇ ge giogˋ mugˋ zuˊ ngiuˋ doˋ leˊ!"}
+    hl: {hanzi: "啊！𠊎个腳目珠偏著了！", pinyin: "a+! ngai gaiˇ giog mug zhuˋ pienˋ doˊ leˋ!"}
   - n: 10
     speaker: Sam
     en: "Does it hurt? Can you walk?"
@@ -106,24 +103,27 @@ notes:
   - ref: 2
     topic: vocab
     text: >
-      起濛紗 "the mist rises": the example is 朝晨頭起濛紗煙（起濛露），大體會好天 "when mist rises early in the morning, the
-      day is usually fine". 濛紗 is not in the word lists, only its characters, so the line is marked for checking.
+      起濛紗煙 "the mist rises": 濛紗煙 mungˇ saˊ ienˊ is the 2026 list's word for 霧 "mist, fog" (also written 濛沙煙),
+      and 起濛煙 is "fog comes up". The examples: 朝晨頭起濛紗煙，大體會好天 "when mist rises early in the morning, the
+      day is usually fine", and 山項濛沙煙恁重，看毋著對面个路 "the mist on the mountain is so thick you can't see the
+      path opposite" (line 6). Hailu: the list gives 濛煙, and a Hailu example says 起濛紗个時節.
   - ref: 4
     topic: vocab
     text: >
-      岔路 ca lu "a fork in the road". 頭先个路 "the path we were on before, just now" (頭先 is always "just now").
+      岔路 ca lu "a fork in the road". 𫣆兜上來个路 "the path we came up by": a relative clause with 个 (lesson 83).
   - ref: 6
     topic: grammar
     text: >
       Verb + 毋著 doˋ "can't manage to": 看毋著 "can't see" (MOE lists both readings, kon mˇ doˋ and kon mˇ cog), 尋毋著
       "can't find" (恁暗了，尋毋著車仔轉屋下 "so late, no car to get home"). The positive is 看著 / 尋著 (lessons 22, 33).
-      尋毋著路 "can't find the way" is how Hakka says "lost". The syllabus form 行毋去 has no example; 行毋得 (line 11)
+      尋毋著路 "can't find the way"; Hakka also has a word for "get lost": 撞走 cong zeuˋ (2026 list: 迷路), as in
+      𫣆兜撞走了 (line 6). The syllabus form 行毋去 has no example; 行毋得 (line 11)
       does: 頭前个紅毛泥路歸條必壢，行毋得了 "the concrete road ahead had cracked from end to end: impassable".
   - ref: 7
     topic: grammar
     text: >
       毋係 at the start of a correction: "no, wait…". 打毋出去 "the call won't go out": V毋 + direction, the same pattern
-      as 看毋著; this line has no example of its own and is marked.
+      as 看毋著 (official, both accents: 電話分人切斷吔，打毋出去 "the line has been cut, calls won't go out").
   - ref: 11
     topic: grammar
     text: >
@@ -149,7 +149,9 @@ new_words:
   - {hanzi: 山崗, pinyin: "sanˊ gongˊ", en: "hilltop, ridge", hl: {hanzi: 山崗, pinyin: "sanˋ gongˋ"}}
   - {hanzi: 闊, pinyin: "fadˋ", en: "wide", hl: {hanzi: 闊, pinyin: "fad"}}
   - {hanzi: 天闊地闊, pinyin: "tienˊ fadˋ ti fadˋ", en: "wide sky, wide land", hl: {hanzi: 天闊地闊, pinyin: "tienˋ fad ti+ fad"}}
-  - {hanzi: 濛, pinyin: "mungˇ", en: "misty (濛紗 mist)", hl: {hanzi: 濛, pinyin: "mung"}}
+  - {hanzi: 濛紗煙, pinyin: "mungˇ saˊ ienˊ", en: "mist, fog", hl: {hanzi: 濛煙, pinyin: "mung rhanˋ"}}
+  - {hanzi: 撞走, pinyin: "cong zeuˋ", en: "get lost", hl: {hanzi: 撞走, pinyin: "cong+ zeuˊ"}}
+  - {hanzi: 腳目珠, pinyin: "giogˋ mugˋ zuˊ", en: "ankle", hl: {hanzi: 腳目珠, pinyin: "giog mug zhuˋ"}}
   - {hanzi: 岔, pinyin: "ca", en: "fork (岔路 a fork in the road)", hl: {hanzi: 岔, pinyin: "caˇ"}}
   - {hanzi: 落山, pinyin: "log sanˊ", en: "(of the sun) go down, set", hl: {hanzi: 落山, pinyin: "logˋ sanˋ"}}
   - {hanzi: 斷烏, pinyin: "tonˊ vuˊ", en: "be pitch dark (night has fallen)", hl: {hanzi: 斷烏, pinyin: "tonˋ vuˋ"}}
@@ -162,7 +164,6 @@ new_words:
   - {hanzi: 溪, pinyin: "haiˊ", en: "stream, river", hl: {hanzi: 溪, pinyin: "haiˋ"}}
   - {hanzi: 暗晡夜, pinyin: "am buˊ ia", en: "night, at night", hl: {hanzi: 暗晡夜, pinyin: "amˇ buˋ rha+"}}
   - {hanzi: 暗, pinyin: "am", en: "dark", hl: {hanzi: 暗, pinyin: "amˇ"}}
-  - {hanzi: 紗, pinyin: "saˊ", en: "gauze (濛紗 mist)", hl: {hanzi: 紗, pinyin: "saˋ"}}
   - {hanzi: 蹶, pinyin: "kied", en: "climb", hl: {hanzi: 蹶, pinyin: "kiedˋ"}}
   - {hanzi: 蚊仔, pinyin: "munˊ eˋ", en: "mosquito", hl: {hanzi: 蚊仔, pinyin: "munˋ er"}}
   - {hanzi: 蛇, pinyin: "saˇ", en: "snake", hl: {hanzi: 蛇, pinyin: "sha"}}
@@ -172,9 +173,9 @@ new_words:
 exercises:
   translate:
     - en: "After days of heavy rain, the mountain road has given way in many places."
-      sx: {hanzi: "山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "sanˊ lu iuˊ dongˊ doˊ ti fongˊ benˊ tedˋ leˊ, tai gaˊ cudˋ ngib dongˊ mˇ fongˊ pien."}
-      hl: {hanzi: "山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "sanˋ lu+ rhiuˋ dongˋ doˋ ti+ fongˋ benˋ ted leˋ, tai+ gaˋ chud ngibˋ dongˋ m fongˋ pien+."}
-      check: true
+      sx: {hanzi: "連等落幾下日大雨，山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "lienˇ denˋ log giˋ ha ngidˋ tai iˋ, sanˊ lu iuˊ dongˊ doˊ ti fongˊ benˊ tedˋ leˊ, tai gaˊ cudˋ ngib dongˊ mˇ fongˊ pien."}
+      hl: {hanzi: "連等落幾下日大水，山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "lien denˊ logˋ giˊ ha+ ngid tai+ shuiˊ, sanˋ lu+ rhiuˋ dongˋ doˋ ti+ fongˋ benˋ ted leˋ, tai+ gaˋ chud ngibˋ dongˋ m fongˋ pien+."}
+      source: kaga115
     - en: "Ahead there's a stream, and a bridge over it."
       sx: {hanzi: "頭前有一條溪，溪項有一條橋。", pinyin: "teuˇ qienˇ iuˊ idˋ tiauˇ haiˊ, haiˊ hong iuˊ idˋ tiauˇ kieuˇ."}
       hl: {hanzi: "頭前有一條溪，溪項有一條橋。", pinyin: "teu cien rhiuˋ rhid tiau haiˋ, haiˋ hong+ rhiuˋ rhid tiau kiau."}
