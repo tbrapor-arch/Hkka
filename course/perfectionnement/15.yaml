@@ -1,0 +1,284 @@
+id: 15
+genre: dialogue
+title:
+  en: Like a duck swallowing a worm
+  sx: {hanzi: 鴨仔吞紅䘆, pinyin: abˋ eˇ tunˊ fungˇ hienˋ}
+review: false
+setting: Tuesday 3 October 2028, Mid-Autumn (八月半), evening, in the Lius' yard. Mr Liu has set up a barbecue on the 禾埕; Grandma
+  and Mrs Liu have been cooking since the afternoon. The whole family is there, and Sam.
+names: [Sam, 阿爸, 阿姆, 阿婆, 阿公, 阿英, 阿明, 法國]
+dialogue:
+- n: 1
+  speaker: 阿爸
+  en: The charcoal's caught! Come on, everyone, let's grill the meat.
+  sx: {hanzi: 炭燒著吔！大家來焙肉。, pinyin: tan seuˊ doˋ leˊ! tai gaˊ loiˇ poi ngiugˋ.}
+- n: 2
+  speaker: 阿明
+  en: I'll see to the fire!
+  sx: {hanzi: 𠊎來燒火！, pinyin: ngaiˇ loiˇ seuˊ foˋ!}
+- n: 3
+  speaker: 阿姆
+  en: Careful, don't burn yourself!
+  sx: {hanzi: 細義，莫分火熝著哦！, pinyin: 'se ngi, mog bunˊ foˋ lug doˋ oˊ!'}
+- n: 4
+  speaker: Sam
+  en: At Mid-Autumn in Taiwan, everybody has a barbecue, right?
+  sx: {hanzi: 臺灣个八月半，大家都愛焙肉係無？, pinyin: 'toiˇ vanˇ ge badˋ ngied ban, tai gaˊ du oi poi ngiugˋ he moˇ?'}
+- n: 5
+  speaker: 阿英
+  en: Yes. Nobody knows who started it, but now every household does it.
+  sx: {hanzi: 係啊，毋知麼人開始个，這下家家戶戶都焙肉。, pinyin: 'he a, mˇ diˊ maˋ nginˇ koiˊ siiˋ ge, iaˋ ha gaˊ gaˊ fu fu du poi ngiugˋ.'}
+- n: 6
+  speaker: 阿婆
+  en: In the old days there was no barbecue. At Mid-Autumn we ate glutinous rice cakes and pomelo.
+  sx: {hanzi: 頭擺無焙肉，八月半食粢粑仔同柚仔。, pinyin: 'teuˇ baiˋ moˇ poi ngiugˋ, badˋ ngied ban siid qiˇ baˊ eˋ tungˇ iu eˋ.'}
+- n: 7
+  speaker: 阿婆
+  en: I've made the rice cakes; dip them in sugar to eat.
+  sx: {hanzi: 粢粑仔𠊎打好吔，搵糖食。, pinyin: 'qiˇ baˊ eˋ ngaiˇ daˋ hoˋ leˊ, vun tongˇ siid.'}
+- n: 8
+  speaker: Sam
+  en: (chewing) The rice cake's so sticky, I can't chew it down.
+  sx: {hanzi: 粢粑仔當黏，噍毋綿。, pinyin: 'qiˇ baˊ eˋ dongˊ ngiamˇ, ceu mˇ mienˇ.'}
+  check: true
+- n: 9
+  speaker: 阿公
+  en: Chew slowly. Don't swallow it in one go.
+  sx: {hanzi: 慢慢仔噍，莫一口就吞落去。, pinyin: 'man man eˋ ceu, mog idˋ heuˋ qiu tunˊ log hi.'}
+- n: 10
+  speaker: 阿姆
+  en: The beef has to soak in soy sauce and garlic first; then you grill it.
+  sx: {hanzi: 牛肉愛先浸豆油同蒜頭，續等正焙。, pinyin: 'ngiuˇ ngiugˋ oi xienˊ jim teu iuˇ tungˇ son teuˇ, sa denˋ zang poi.'}
+- n: 11
+  speaker: 阿爸
+  en: Chop the chicken a bit smaller; it cooks more easily.
+  sx: {hanzi: 雞肉剁細兜仔，較好熟。, pinyin: 'gieˊ ngiugˋ dog se deuˊ eˋ, ka hoˋ sug.'}
+- n: 12
+  speaker: 阿明
+  en: Stick it on a fork and grill it!
+  sx: {hanzi: 用插仔插起來焙！, pinyin: iung cabˋ eˇ cabˋ hiˋ loiˇ poi!}
+  check: true
+- n: 13
+  speaker: 阿婆
+  en: In the kitchen there's fried taro and braised pork too, and the pork knuckle is still simmering.
+  sx: {hanzi: 灶下還有烰芋仔、燜豬肉，豬腳還在該煲。, pinyin: 'zo haˊ hanˇ iuˊ poˇ vu eˋ, munˊ zuˊ ngiugˋ, zuˊ giogˋ hanˇ du ge boˊ.'}
+- n: 14
+  speaker: Sam
+  en: So much food! Is Mid-Autumn a cooking contest in your family?
+  sx: {hanzi: 恁多菜！你兜八月半係煮食比賽係無？, pinyin: 'anˋ doˊ coi! nˇ deuˊ badˋ ngied ban he zuˋ siid biˋ soi he moˇ?'}
+- n: 15
+  speaker: 阿姆
+  en: If it gets cold, we'll warm it up.
+  sx: {hanzi: 冷吔就暖一下。, pinyin: langˊ leˊ qiu nonˊ idˋ ha.}
+- n: 16
+  speaker: 阿英
+  en: Grandma, how do you open a pomelo?
+  sx: {hanzi: 阿婆，這柚仔仰般擘？, pinyin: 'aˊ poˇ, iaˋ iu eˋ ngiongˋ banˊ bagˋ?'}
+- n: 17
+  speaker: 阿婆
+  en: First cut a ring round it with a knife, then prise it open with your hands.
+  sx: {hanzi: 先用刀仔割一圈，續等用手擘開來。, pinyin: 'xienˊ iung doˊ eˋ godˋ idˋ kienˊ, sa denˋ iung suˋ bagˋ koiˊ loiˇ.'}
+- n: 18
+  speaker: 阿明
+  en: (putting the empty peel on his head) Look, a hat!
+  sx: {hanzi: 你看，帽仔！, pinyin: 'nˇ kon, mo eˋ!'}
+- n: 19
+  speaker: 阿公
+  en: 'This tea is good and strong. Have a cup: it helps the digestion.'
+  sx: {hanzi: 這茶當釅，食一杯，好消化。, pinyin: 'iaˋ caˇ dongˊ ngiamˇ, siid idˋ biˊ, hoˋ seuˊ fa.'}
+- n: 20
+  speaker: 阿姆
+  en: The soup's been simmering so long it's lovely and thick.
+  sx: {hanzi: 這湯煲到當醹，好食。, pinyin: 'iaˋ tongˊ boˊ do dongˊ neuˇ, hoˋ siid.'}
+  check: true
+- n: 21
+  speaker: Sam
+  en: (licking his fingers) It's so good I want to lick my fingers clean.
+  sx: {hanzi: 好食到手指都想舐淨。, pinyin: hoˋ siid do suˋ ziiˋ du xiongˋ seˊ qiang.}
+- n: 22
+  speaker: 阿明
+  en: Sam eats like a duck swallowing a worm!
+  sx: {hanzi: Sam食到像鴨仔吞紅䘆！, pinyin: Sam siid do qiong abˋ eˇ tunˊ fungˇ hienˋ!}
+- n: 23
+  speaker: 阿公
+  en: Look, the moon's out.
+  sx: {hanzi: 你兜看，月光出來吔。, pinyin: 'nˇ deuˊ kon, ngied gongˊ cudˋ loiˇ leˊ.'}
+- n: 24
+  speaker: 阿英
+  en: It's so big and round.
+  sx: {hanzi: 月光又大又圓。, pinyin: ngied gongˊ iu tai iu ienˇ.}
+- n: 25
+  speaker: 阿婆
+  en: At Mid-Autumn the moon is full, and the family should be together too.
+  sx: {hanzi: 八月半，月光圓，人乜愛團圓。, pinyin: 'badˋ ngied ban, ngied gongˊ ienˇ, nginˇ me oi tonˇ ienˇ.'}
+- n: 26
+  speaker: Sam
+  en: In France it's still the afternoon now; my parents can't see the moon.
+  sx: {hanzi: 法國這下還係下晝，吾爺哀看毋著月光。, pinyin: 'fabˋ guedˋ iaˋ ha hanˇ he haˊ zu, ngaˊ iaˇ oiˊ kon mˇ doˋ ngied gongˊ.'}
+- n: 27
+  speaker: 阿明
+  en: Then take a photo and send it to them!
+  sx: {hanzi: 該你翕相分佢兜看！, pinyin: ge nˇ hibˋ xiong bunˊ giˇ deuˊ kon!}
+- n: 28
+  speaker: 阿公
+  en: (pouring) Come on, everyone, have some tea.
+  sx: {hanzi: 來，大家食茶。, pinyin: 'loiˇ, tai gaˊ siid caˇ.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    The title is a saying from the official lists (高級): 鴨仔吞紅䘆 "a duck swallowing an earthworm", for eating with relish.
+    紅䘆 fungˇ hienˋ is an earthworm. A-min uses it on Sam in line 22.
+- ref: 1
+  topic: vocab
+  text: >
+    焙 poi "grill, roast": 焙肉 "barbecue" (八月半焙肉 is an official example: the Mid-Autumn barbecue is now a Taiwan custom).
+    炭 tan "charcoal"; 燒著 "has caught fire".
+- ref: 2
+  topic: vocab
+  text: >
+    燒火 seuˊ foˋ "make and tend a fire" (撿樵來燒火 "gather firewood to make a fire").
+- ref: 3
+  topic: vocab
+  text: >
+    熝 lug "scald, burn" (莫分燒水熝著哦！ "don't get scalded by the hot water!"): 分 + agent + verb, the passive.
+- ref: 5
+  topic: vocab
+  text: >
+    家家戶戶 "every household" (in an official sentence: 家家戶戶疊沙包擱水): 戶 fu counts households.
+- ref: 6
+  topic: vocab
+  text: >
+    粢粑仔 qiˇ baˊ eˋ "glutinous rice cake" (Hakka 麻糬): 打粢粑仔 "pound rice cakes" (line 7). 柚仔 (lesson 92).
+- ref: 7
+  topic: vocab
+  text: >
+    搵 vun "dip" (搵豆油 "dip in soy sauce"); 蘸 is another word for it.
+- ref: 8
+  topic: vocab
+  text: >
+    噍 ceu "chew" (豬腸韌韌，噍毋得綿 "pig's intestine is tough, you can't chew it soft"). 黏 "sticky" (lesson 50), 綿 "soft" (lesson
+    36). 噍毋綿 shortens the official 噍毋得綿; marked for review.
+- ref: 9
+  topic: vocab
+  text: >
+    吞 tunˊ "swallow" (吞落去 "swallow it down"). 一口 "in one mouthful".
+- ref: 10
+  topic: vocab
+  text: >
+    浸 jim "soak, marinate" (做得浸酒 "can be steeped in wine"). 蒜頭 son teuˇ "garlic". 牛肉 ngiuˇ ngiugˋ "beef".
+- ref: 11
+  topic: vocab
+  text: >
+    剁 dog "chop" (剁樵 "chop firewood"); 雞肉 "chicken (meat)". 熟 sug "cooked".
+- ref: 12
+  topic: vocab
+  text: >
+    插仔 cabˋ eˇ "fork" (阿姆教老弟用插仔刺水果 "Mum taught my brother to spear fruit with a fork"). 插起來 "spear it" is our phrase.
+- ref: 13
+  topic: vocab
+  text: >
+    Three cooking verbs: 烰 poˇ "deep-fry" (烰菜當香), 燜 munˊ "cook with the lid on, braise" (燜糯米飯, an official example), 煲 boˊ
+    "simmer for a long time" (豬腳煲越久越入味 "the longer pork knuckle simmers, the more flavour it takes": 入味 ngib mi). 芋仔 vu
+    eˋ "taro", 豬腳 zuˊ giogˋ "pork knuckle". 在該 du ge + verb "is …ing".
+- ref: 14
+  topic: vocab
+  text: >
+    煮食 zuˋ siid "cooking" (煮食、煮茶). 比賽 (lesson 55).
+- ref: 15
+  topic: vocab
+  text: >
+    暖 nonˊ "warm up, reheat" (暖菜 "reheat the dishes"). 冷 "cold" for things (checklist).
+- ref: 16
+  topic: vocab
+  text: >
+    擘 bagˋ "prise open, break open with the hands" (同柑仔擘開來 "break the tangerine open").
+- ref: 17
+  topic: vocab
+  text: >
+    圈 kienˊ counts rings and rounds (捩一圈 "turn once round"); 割一圈 "cut round it". 刀仔 (lesson 67).
+- ref: 18
+  topic: culture
+  text: >
+    Children wearing the empty pomelo peel as a hat at Mid-Autumn is a common Taiwan sight (general knowledge).
+- ref: 19
+  topic: vocab
+  text: >
+    釅 ngiamˇ "strong (of tea, wine)" (釅茶 "strong tea"). 消化 (進修 5).
+- ref: 20
+  topic: vocab
+  text: >
+    醹 neuˇ "thick, rich" (粥煮到醹合汔 "the congee is cooked thick"); for soup the line is ours, marked for review.
+- ref: 21
+  topic: vocab
+  text: >
+    舐 seˊ "lick" (狗仔將盆仔舐到淨淨 "the dog licked the bowl clean"). 手指 (lesson 78).
+- ref: 25
+  topic: vocab
+  text: >
+    團圓 "be together as a family" (lesson 51). Grandma's rhythm (八月半，月光圓) is ours.
+- ref: 26
+  topic: culture
+  text: >
+    France is six hours behind Taiwan in October (summer time ends on the last Sunday of the month), so at eight in the
+    evening in Miaoli it is two in the afternoon there.
+new_words:
+- {hanzi: 炭, pinyin: tan, en: charcoal}
+- {hanzi: 焙, pinyin: poi, en: 'grill, roast'}
+- {hanzi: 燒火, pinyin: seuˊ foˋ, en: make and tend a fire}
+- {hanzi: 熝, pinyin: lug, en: 'scald, burn'}
+- {hanzi: 粢粑仔, pinyin: qiˇ baˊ eˋ, en: glutinous rice cake}
+- {hanzi: 搵, pinyin: vun, en: dip}
+- {hanzi: 噍, pinyin: ceu, en: chew}
+- {hanzi: 吞, pinyin: tunˊ, en: swallow}
+- {hanzi: 牛肉, pinyin: ngiuˇ ngiugˋ, en: beef}
+- {hanzi: 浸, pinyin: jim, en: 'soak, marinate'}
+- {hanzi: 蒜頭, pinyin: son teuˇ, en: garlic}
+- {hanzi: 雞肉, pinyin: gieˊ ngiugˋ, en: chicken (meat)}
+- {hanzi: 剁, pinyin: dog, en: chop}
+- {hanzi: 插仔, pinyin: cabˋ eˇ, en: fork}
+- {hanzi: 烰, pinyin: poˇ, en: deep-fry}
+- {hanzi: 芋仔, pinyin: vu eˋ, en: taro}
+- {hanzi: 燜, pinyin: munˊ, en: 'cook covered, braise'}
+- {hanzi: 豬腳, pinyin: zuˊ giogˋ, en: pork knuckle}
+- {hanzi: 煲, pinyin: boˊ, en: simmer}
+- {hanzi: 煮食, pinyin: zuˋ siid, en: cooking}
+- {hanzi: 暖, pinyin: nonˊ, en: 'warm up, reheat'}
+- {hanzi: 擘, pinyin: bagˋ, en: 'prise open, break open'}
+- {hanzi: 圈, pinyin: kienˊ, en: 'ring, round (classifier)'}
+- {hanzi: 釅, pinyin: ngiamˇ, en: 'strong (tea, wine)'}
+- {hanzi: 醹, pinyin: neuˇ, en: 'thick, rich'}
+- {hanzi: 舐, pinyin: seˊ, en: lick}
+- {hanzi: 鴨仔吞紅䘆, pinyin: abˋ eˇ tunˊ fungˇ hienˋ, en: like a duck swallowing a worm (eat with relish)}
+- {hanzi: 戶, pinyin: fu, en: household (classifier)}
+- {hanzi: 入味, pinyin: ngib mi, en: (of food) take on the flavour}
+- {hanzi: 盆仔, pinyin: punˇ eˋ, en: 'bowl, basin'}
+exercises:
+  translate:
+  - en: At Mid-Autumn we barbecue meat.
+    source: kaga115
+    sx: {hanzi: 八月半焙肉。, pinyin: badˋ ngied ban poi ngiugˋ.}
+  - en: Pork knuckle tastes better the longer it simmers.
+    source: kaga115
+    sx: {hanzi: 豬腳煲越久越入味。, pinyin: zuˊ giogˋ boˊ ied giuˋ ied ngib mi.}
+  - en: Don't get scalded by the hot water!
+    source: kaga115
+    sx: {hanzi: 莫分燒水熝著哦！, pinyin: mog bunˊ seuˊ suiˋ lug doˋ oˊ!}
+  - en: Break the tangerine open.
+    source: kaga115
+    sx: {hanzi: 同柑仔擘開來, pinyin: tungˇ gamˊ eˋ bagˋ koiˊ loiˇ}
+  - en: The dog licked the bowl clean.
+    source: kaga115
+    sx: {hanzi: 狗仔將盆仔舐到淨淨。, pinyin: gieuˋ eˇ jiongˊ punˇ eˋ seˊ do qiang qiang.}
+  fill:
+  - en: Dip it in sugar to eat.
+    sx: {hanzi: ___糖食。, pinyin: ___ tongˇ siid., answer_hanzi: 搵, answer: vun}
+  - en: Chew slowly.
+    sx: {hanzi: 慢慢仔___。, pinyin: man man eˋ ___., answer_hanzi: 噍, answer: ceu}
+  - en: Don't swallow it in one go.
+    sx: {hanzi: 莫一口就___落去。, pinyin: mog idˋ heuˋ qiu ___ log hi., answer_hanzi: 吞, answer: tunˊ}
+  - en: If it gets cold, warm it up.
+    sx: {hanzi: 冷吔就___一下。, pinyin: langˊ leˊ qiu ___ idˋ ha., answer_hanzi: 暖, answer: nonˊ}
+  - en: This tea is very strong.
+    sx: {hanzi: 這茶當___。, pinyin: iaˋ caˇ dongˊ ___., answer_hanzi: 釅, answer: ngiamˇ}
+audio: []
