@@ -14,7 +14,7 @@ dialogue:
   - n: 1
     speaker: 阿明
     en: "(at the foot of the stairs) These stairs are so steep, and the box is heavy. You take that end, I'll take this one."
-    sx: {hanzi: "這梯排恁斜，箱仔又重，你扛該頭，𠊎扛這頭。", pinyin: "iaˋ toiˊ paiˇ anˋ qiaˇ, xiongˊ eˋ iu cungˊ, nˇ gongˊ ge teuˇ, ngaiˇ gongˊ iaˋ teuˇ."}
+    sx: {hanzi: "梯排恁斜，箱仔又重，你扛該頭，𠊎扛這頭。", pinyin: "toiˊ paiˇ anˋ qiaˇ, xiongˊ eˋ iu cungˊ, nˇ gongˊ ge teuˇ, ngaiˇ gongˊ iaˋ teuˇ."}
   - n: 2
     speaker: Sam
     en: "OK. Take it slowly, don't push me!"
@@ -26,7 +26,7 @@ dialogue:
   - n: 4
     speaker: 阿英
     en: "Sam, have you got the key in your pocket?"
-    sx: {hanzi: "Sam，鎖匙在你袋仔肚無？", pinyin: "Sam, soˋ siiˋ coiˊ nˇ toi eˋ duˋ moˇ?"}
+    sx: {hanzi: "Sam，鎖匙在你衫袋肚無？", pinyin: "Sam, soˋ siiˋ coiˊ nˇ samˊ toi duˋ moˇ?"}
   - n: 5
     speaker: Sam
     en: "(opening the door) …Why is the floor so filthy?"
@@ -59,7 +59,7 @@ dialogue:
   - n: 12
     speaker: Sam
     en: "(at the chest of drawers) There aren't enough clothes hangers, I'll have to buy a few more. And there's a jar in this drawer; no idea who left it."
-    sx: {hanzi: "衫弓仔毋罅，愛加買兜仔。拖箱仔肚還有一隻盎仔，毋知麼人留个。", pinyin: "samˊ giungˊ eˋ mˇ la, oi gaˊ maiˊ deuˊ eˋ. toˊ xiongˊ eˋ duˋ hanˇ iuˊ idˋ zagˋ angˊ eˋ, mˇ diˊ maˋ nginˇ liuˇ ge."}
+    sx: {hanzi: "衫弓仔毋罅，愛買加兜仔。拖箱仔肚還有一隻盎仔，毋知麼人留个。", pinyin: "samˊ giungˊ eˋ mˇ la, oi maiˊ gaˊ deuˊ eˋ. toˊ xiongˊ eˋ duˋ hanˇ iuˊ idˋ zagˋ angˊ eˋ, mˇ diˊ maˋ nginˇ liuˇ ge."}
   - n: 13
     speaker: 阿明
     en: "What's in the jar?"
@@ -127,7 +127,7 @@ dialogue:
   - n: 29
     speaker: Sam
     en: "(evening falls) Quiet! Did you hear that? There's a noise under the sofa."
-    sx: {hanzi: "恬恬！你兜聽著無？膨凳下有聲。", pinyin: "diamˊ diamˊ! nˇ deuˊ tangˊ doˋ moˇ? pong den haˊ iuˊ sangˊ."}
+    sx: {hanzi: "莫講話！你兜聽著無？膨凳下有聲。", pinyin: "mog gongˋ fa! nˇ deuˊ tangˊ doˋ moˇ? pong den haˊ iuˊ sangˊ."}
   - n: 30
     speaker: 阿英
     en: "(already at the door) We're off home! Put the key away safely and shut the windows."
@@ -149,12 +149,13 @@ notes:
   - ref: 3
     topic: vocab
     text: >
-      䌈 tagˋ "tie, bind": 䌈索仔 "tie a string". 索仔 sogˋ eˇ "string, rope" (跳索仔 "skipping rope"); note eˇ after a
-      checked syllable.
+      䌈 tagˋ "tie, bind": 䌈索仔 "tie a string". 索仔 sogˋ eˇ "string, rope" (跳索仔 "skipping rope"); the lists give eˇ here (but
+      桌仔 zogˋ eˋ: learn the tone of 仔 with each word).
   - ref: 4
     topic: vocab
     text: >
-      袋仔 toi eˋ is a bag and also a pocket; 袋仔肚 "in the pocket", with 肚 "inside" as in 拖箱仔肚, 盎仔肚 (lines 12, 13).
+      衫袋肚 samˊ toi duˋ "in your (shirt) pocket" (𠊎在衫袋肚摟著兩百個銀 "I fished two hundred dollars out of my
+      pocket"), with 肚 "inside" as in 拖箱仔肚, 盎仔肚 (lines 12, 13). A trouser pocket is 褲袋仔.
   - ref: 5
     topic: vocab
     text: >
@@ -187,6 +188,11 @@ notes:
     text: >
       黃蚻 vongˇ cad "cockroach". An official sentence has the same complaint: 佢盡惱黃蚻，尤其係會飛个 "he hates
       cockroaches, especially the flying ones" (盡 "very" here).
+  - ref: 19
+    topic: grammar
+    text: >
+      係無 he moˇ at the end of a statement asks for agreement: "…, do you? …, is it?" (行恁遽做麼个？趕時間係無？
+      "why the rush? in a hurry, are you?").
   - ref: 20
     topic: false-friend
     text: >
@@ -224,7 +230,6 @@ new_words:
   - {hanzi: 𢱤, pinyin: "sungˋ", en: "push"}
   - {hanzi: 索仔, pinyin: "sogˋ eˇ", en: "string, rope"}
   - {hanzi: 䌈, pinyin: "tagˋ", en: "tie, bind"}
-  - {hanzi: 袋仔, pinyin: "toi eˋ", en: "bag; pocket"}
   - {hanzi: 屙糟, pinyin: "oˊ zoˊ", en: "dirty, filthy"}
   - {hanzi: 壁, pinyin: "biagˋ", en: "wall"}
   - {hanzi: 日曆, pinyin: "ngidˋ lag", en: "(tear-off) calendar"}
@@ -244,6 +249,7 @@ new_words:
   - {hanzi: 黃蚻, pinyin: "vongˇ cad", en: "cockroach"}
   - {hanzi: 精, pinyin: "jinˊ", en: "clever, smart"}
   - {hanzi: 逐, pinyin: "giugˋ", en: "chase, drive away"}
+  - {hanzi: 係無, pinyin: "he moˇ", en: "…, isn't it? …, do you? (asking for agreement)"}
   - {hanzi: 衰過, pinyin: "coiˊ go", en: "pitiable; poor thing"}
   - {hanzi: 屋肚, pinyin: "vugˋ duˋ", en: "indoors, in the house"}
   - {hanzi: 地圾, pinyin: "ti sebˋ", en: "rubbish, garbage"}
@@ -274,7 +280,7 @@ exercises:
       sx: {hanzi: "阿姆同東西排到正正。", pinyin: "aˊ meˊ tungˇ dungˊ xiˊ paiˇ do zang zang."}
   fill:
     - en: "The stairs are so steep."
-      sx: {hanzi: "這梯排恁___。", pinyin: "iaˋ toiˊ paiˇ anˋ ___.", answer_hanzi: "斜", answer: "qiaˇ"}
+      sx: {hanzi: "梯排恁___。", pinyin: "toiˊ paiˇ anˋ ___.", answer_hanzi: "斜", answer: "qiaˇ"}
     - en: "There aren't enough clothes hangers."
       sx: {hanzi: "衫弓仔___。", pinyin: "samˊ giungˊ eˋ ___.", answer_hanzi: "毋罅", answer: "mˇ la"}
     - en: "Today we're giving it a thorough clean."

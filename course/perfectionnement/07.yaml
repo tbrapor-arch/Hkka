@@ -17,12 +17,12 @@ dialogue:
     sx: {hanzi: "外背風搓恁大，Sam仰般來个？", pinyin: "ngoi boi fungˊ caiˊ anˋ tai, Sam ngiongˋ banˊ loiˇ ge?"}
   - n: 2
     speaker: Sam
-    en: "A-in drove me over. This time she didn't slam on the brakes."
+    en: "A-in drove me over. This time she didn't brake immediately."
     sx: {hanzi: "阿英駛車仔載𠊎來个。這擺佢無黏時踏擋仔。", pinyin: "aˊ inˊ siiˋ caˊ eˋ zai ngaiˇ loiˇ ge. iaˋ baiˋ giˇ moˇ ngiamˇ siiˇ tab dongˋ eˇ."}
   - n: 3
     speaker: 阿明
-    en: "Lucky for you! Last time I lost my drink and went thirsty all day."
-    sx: {hanzi: "好得！上擺𠊎个汽水跌忒，害𠊎嘴燥歸日。", pinyin: "hoˋ dedˋ! song baiˋ ngaiˇ ge hi suiˋ diedˋ tedˋ, hoi ngaiˇ zoi zauˊ guiˊ ngidˋ."}
+    en: "Lucky she didn't this time! Last time I lost my drink and went thirsty all day."
+    sx: {hanzi: "好得佢這擺無恁樣！上擺𠊎个汽水跌忒，害𠊎歸日嘴燥。", pinyin: "hoˋ dedˋ giˇ iaˋ baiˋ moˇ anˋ ngiongˇ! song baiˋ ngaiˇ ge hi suiˋ diedˋ tedˋ, hoi ngaiˇ guiˊ ngidˋ zoi zauˊ."}
   - n: 4
     speaker: 阿英
     en: "A-min, stop talking nonsense. Sit up and eat."
@@ -57,8 +57,8 @@ dialogue:
     sx: {hanzi: "今晡日落大雨，𧊅仔歸日都在叫。", pinyin: "gimˊ buˊ ngidˋ log tai iˋ, guaiˋ eˇ guiˊ ngidˋ du coiˊ gieu."}
   - n: 12
     speaker: Sam
-    en: "I still remember Grandpa's story: rainbow in the east, fine weather; rainbow in the west, rain."
-    sx: {hanzi: "阿公个古𠊎還記得：東弓晴，西弓雨。", pinyin: "aˊ gungˊ ge guˋ ngaiˇ hanˇ gi dedˋ: dungˊ giungˊ qiangˇ, xiˊ giungˊ iˋ."}
+    en: "I still remember Grandpa's saying: rainbow in the east, fine weather; rainbow in the west, rain."
+    sx: {hanzi: "阿公講个老古人言𠊎還記得：東弓晴，西弓雨。", pinyin: "aˊ gungˊ gongˋ ge loˋ guˋ nginˇ ngienˇ ngaiˇ hanˇ gi dedˋ: dungˊ giungˊ qiangˇ, xiˊ giungˊ iˋ."}
   - n: 13
     speaker: 阿明
     en: "I've written up my interview too. Sam's the main character; the teacher's sure to say my piece is fun."
@@ -69,8 +69,8 @@ dialogue:
     sx: {hanzi: "你寫麼个？", pinyin: "nˇ xiaˋ maˋ ge?"}
   - n: 15
     speaker: 阿明
-    en: "That when Sam was at primary school his marks were poor, and all he liked was playing football."
-    sx: {hanzi: "寫Sam讀小學个時節成績毋好，淨好踢足球。", pinyin: "xiaˋ Sam tug seuˋ hog ge siiˇ jiedˋ siinˇ jidˋ mˇ hoˋ, qiang hau tedˋ jiugˋ kiuˇ."}
+    en: "That when Sam was at primary school his marks weren't great, and all he liked was playing football."
+    sx: {hanzi: "寫Sam讀小學个時節成績毋理想，淨好踢足球。", pinyin: "xiaˋ Sam tug seuˋ hog ge siiˇ jiedˋ siinˇ jidˋ mˇ liˊ xiongˋ, qiang hau tedˋ jiugˋ kiuˇ."}
   - n: 16
     speaker: Sam
     en: "A-min! That's my private business!"
@@ -78,7 +78,7 @@ dialogue:
   - n: 17
     speaker: 阿婆
     en: "Plenty of people who were poor at school came to like studying later on."
-    sx: {hanzi: "讀書毋好个人，背尾正好讀書，乜當多。", pinyin: "tug suˊ mˇ hoˋ ge nginˇ, boi miˊ zang hau tug suˊ, me dongˊ doˊ."}
+    sx: {hanzi: "毋會讀書个人，背尾正好讀書，乜當多。", pinyin: "mˇ voi tug suˊ ge nginˇ, boi miˊ zang hau tug suˊ, me dongˊ doˊ."}
   - n: 18
     speaker: 阿婆
     en: "Summer isn't over yet, and here's a typhoon. You all look after your health."
@@ -105,8 +105,8 @@ dialogue:
     sx: {hanzi: "𠊎無睡當晝，身體乜當康健。", pinyin: "ngaiˇ moˇ soi dongˊ zu, siinˊ tiˋ me dongˊ kongˊ kien."}
   - n: 24
     speaker: Sam
-    en: "It's been so long since I saw you all. Eating together like this is like coming home."
-    sx: {hanzi: "恁久無看著大家，同大家共下食飯，就像轉家鄉樣。", pinyin: "anˋ giuˋ moˇ kon doˋ tai gaˊ, tungˇ tai gaˊ kiung ha siid fan, qiu qiong zonˋ gaˊ hiongˊ iong."}
+    en: "Eating together with you all like this is like coming home."
+    sx: {hanzi: "同大家共下食飯，就像轉家鄉樣。", pinyin: "tungˇ tai gaˊ kiung ha siid fan, qiu qiong zonˋ gaˊ hiongˊ iong."}
   - n: 25
     speaker: 阿英
     en: "It is your home, it always was."
@@ -141,7 +141,7 @@ notes:
   - ref: 12
     topic: vocab
     text: >
-      進修 3's saying. 古 "story" and 記得 "remember".
+      進修 3's saying, with 老古人言 (lesson 44) and 記得 "remember".
   - ref: 13
     topic: vocab
     text: >
@@ -182,7 +182,7 @@ exercises:
       sx: {hanzi: "膨凳下該隻___還在。", pinyin: "pong den haˊ ge zagˋ ___ hanˇ coiˊ.", answer_hanzi: "黃蚻", answer: "vongˇ cad"}
     - en: "Look after your health."
       sx: {hanzi: "愛___身體。", pinyin: "oi ___ siinˊ tiˋ.", answer_hanzi: "注意", answer: "zu i"}
-    - en: "She didn't slam on the brakes."
+    - en: "She didn't brake immediately."
       sx: {hanzi: "佢無黏時踏___。", pinyin: "giˇ moˇ ngiamˇ siiˇ tab ___.", answer_hanzi: "擋仔", answer: "dongˋ eˇ"}
     - en: "That's my private business!"
       sx: {hanzi: "該係𠊎___个事情！", pinyin: "ge he ngaiˇ ___ ge sii qinˇ!", answer_hanzi: "個人", answer: "ge nginˇ"}

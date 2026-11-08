@@ -168,3 +168,21 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   which; only call a saying an entry if it is one.
 - Hailu shares 盡 (盡重要 8 / 8, 最重要 1 / 1). Write it in both columns.
 - ABAB (烏陰烏陰, 好勢好勢) and AABB (清清楚楚): lint now accepts AABB of a listed word.
+
+## 進修 batch 1 review (P1–P7)
+- 黏時 is "at once, immediately" (馬上、隨即、立刻), not "suddenly"; "suddenly" is 好恬恬 (kaga115) or 無提無防.
+- 問題 takes 隻 or 個 (這隻問題, 這個問題), not 條.
+- A rainbow faces away from the sun: in the evening it is in the east, in the morning in the west (東弓晴，西弓雨;
+  kaga: 朝晨頭若係出天弓，大體就會落雨).
+- "Live (somewhere)" is 歇 hed (歇在: 22 official sentences); 住 cu only in compounds (住址, 對毋住).
+- Adverb after the verb, also with 加: 買加兜仔, 讀加兜仔書, 識加兜人 (not 加買, 多讀, 多識).
+- "Good points" is not 好个所在 (a calque); "to this day" is 到今 (36), not 到今晡日 (0).
+- Daytime is 日時頭 (lesson 79). Before writing "our own phrase", check whether a taught list word already covers it.
+- 毋正常 → 無正常 (0 / 4). 毋好 "bad" is lexicalised (對身體毋好, 人毋好) and is the one exception to the bare-毋
+  rule; for marks, the lists say 成績毋理想.
+- Before declaring a word, look for the same hanzi under any reading in Part 1 and earlier 進修 lessons
+  (`candidates.py` shows DECLARED): 揚蝶仔 (lesson 69) and 開始 (lesson 58) were declared twice. Lint misses
+  compounds used before their declaration (聽講): grep for them.
+- Numbered items inside a text (leaflets, rules, news items) must run in order.
+- In a review lesson, check the batch calendar before "long time no see" and similar lines.
+- A new word's gloss must match a sense the list gives (kaga115 弓 is the classifier for a hand of bananas).

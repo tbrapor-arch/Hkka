@@ -29,7 +29,7 @@ dialogue:
   speaker: 頭家娘
   en: I saw him and told him to give it back, and he turned on me, fiercer than I was, saying I was talking nonsense! The
     thief fiercer than the owner, that's what it is!
-  sx: {hanzi: 𠊎看著佢，喊佢還錢，佢嗄比𠊎還惡，講𠊎亂講！這就係賊仔惡過人！, pinyin: 'ngaiˇ kon doˋ giˇ, ham giˇ vanˇ qienˇ, giˇ sa biˋ ngaiˇ hanˇ ogˋ,
+  sx: {hanzi: 𠊎看著佢，喊佢還錢，佢嗄比𠊎還較惡，講𠊎亂講！這就係賊仔惡過人！, pinyin: 'ngaiˇ kon doˋ giˇ, ham giˇ vanˇ qienˇ, giˇ sa biˋ ngaiˇ hanˇ ka ogˋ,
       gongˋ ngaiˇ lon gongˋ! iaˋ qiu he ced eˋ ogˋ go nginˇ!'}
 - n: 5
   speaker: 記者
@@ -41,6 +41,7 @@ dialogue:
   en: Luckily the market's manager phoned the police, and the thief didn't get away.
   sx: {hanzi: 好得市場管理員打電話分警察，賊仔走毋忒。, pinyin: 'hoˋ dedˋ sii congˇ gonˋ liˊ ienˇ daˋ tien fa bunˊ ginˋ cadˋ, ced eˋ zeuˋ mˇ
       tedˋ.'}
+  check: true
 - n: 7
   speaker: 記者
   en: The police say that stealing is against the law, and he will be punished.
@@ -63,7 +64,7 @@ dialogue:
 - n: 11
   speaker: 記者
   en: Luckily nobody was hurt; only the scooter has to go in for repair.
-  sx: {hanzi: 好得無人受傷，淨係機車愛送去修理。, pinyin: 'hoˋ dedˋ moˇ nginˇ su songˊ, qiang he giˊ caˊ oi sung hi xiuˊ liˊ.'}
+  sx: {hanzi: 好得無人著傷，淨係機車愛送去修理。, pinyin: 'hoˋ dedˋ moˇ nginˇ cog songˊ, qiang he giˊ caˊ oi sung hi xiuˊ liˊ.'}
 - n: 12
   speaker: 記者
   en: 'The police say scooters should be checked often: safety first.'
@@ -72,7 +73,7 @@ dialogue:
   speaker: 主播
   en: 'Third: the weather. It has been very hot these last few days; the health centre says more than ten people have had
     heatstroke.'
-  sx: {hanzi: 第三條：天氣。這幾日當熱，衛生所講，有十過隻人熱著。, pinyin: 'ti samˊ tiauˇ: tienˊ hi. iaˋ giˋ ngidˋ dongˊ ngied, vi senˊ soˋ gongˋ,
+  sx: {hanzi: 第三條：天時。這幾日當熱，衛生所講，有十過隻人熱著。, pinyin: 'ti samˊ tiauˇ: tienˊ siiˇ. iaˋ giˋ ngidˋ dongˊ ngied, vi senˊ soˋ gongˋ,
       iuˊ siib go zagˋ nginˇ ngied doˋ.'}
 - n: 14
   speaker: 主播
@@ -100,8 +101,8 @@ dialogue:
   speaker: 里長
   en: Neighbours should get on well. I've invited everyone to eat this time so that people get to know a few more of each
     other.
-  sx: {hanzi: 隔壁鄰舍愛相好。這擺請大家來食飯，就係愛大家多識兜人。, pinyin: 'gagˋ biagˋ linˇ sa oi xiongˊ hoˋ. iaˋ baiˋ qiangˋ tai gaˊ loiˇ siid
-      fan, qiu he oi tai gaˊ doˊ siidˋ deuˊ nginˇ.'}
+  sx: {hanzi: 隔壁鄰舍愛相好。這擺請大家來食飯，就係愛大家識加兜人。, pinyin: 'gagˋ biagˋ linˇ sa oi xiongˊ hoˋ. iaˋ baiˋ qiangˋ tai gaˊ loiˇ siid
+      fan, qiu he oi tai gaˊ siidˋ gaˊ deuˊ nginˇ.'}
 - n: 20
   speaker: 記者
   en: Before the meal, everyone shook hands with the ward chief, very politely.
@@ -110,7 +111,7 @@ dialogue:
   speaker: 里長
   en: 'In the old days everyone knew each other. Now people live in tower blocks: you meet someone in the lift and have
     no idea who they are.'
-  sx: {hanzi: 頭擺个人都相識，這下住大樓，電梯肚看著人乜毋知係麼人。, pinyin: 'teuˇ baiˋ ge nginˇ du xiongˊ siidˋ, iaˋ ha cu tai leuˇ, tien toiˊ duˋ
+  sx: {hanzi: 頭擺个人都相識，這下歇大樓，電梯肚看著人乜毋知係麼人。, pinyin: 'teuˇ baiˋ ge nginˇ du xiongˊ siidˋ, iaˋ ha hed tai leuˇ, tien toiˊ duˋ
       kon doˋ nginˇ me mˇ diˊ he maˋ nginˇ.'}
 - n: 22
   speaker: 主播
@@ -118,13 +119,14 @@ dialogue:
   sx: {hanzi: 社會變當多，毋過隔壁鄰舍還係隔壁鄰舍。, pinyin: 'sa fi bien dongˊ doˊ, mˇ go gagˋ biagˋ linˇ sa hanˇ he gagˋ biagˋ linˇ sa.'}
 - n: 23
   speaker: 主播
-  en: 'Fifth: the main road on 中正路 was under repair for half a day; since this afternoon cars can get through again.'
-  sx: {hanzi: 第五條：中正路个大路修理半日，今晡日下晝車仔重新過得吔。, pinyin: 'ti ngˋ tiauˇ: zungˊ ziin lu ge tai lu xiuˊ liˊ ban ngidˋ, gimˊ buˊ
-      ngidˋ haˊ zu caˊ eˋ qiungˇ xinˊ go dedˋ leˊ.'}
+  en: 'Fifth: 中正路 was under repair for half a day; since this afternoon cars can get through again.'
+  sx: {hanzi: 第五條：中正路修理半日，今晡日下晝車仔又過得吔。, pinyin: 'ti ngˋ tiauˇ: zungˊ ziin lu xiuˊ liˊ ban ngidˋ, gimˊ buˊ
+      ngidˋ haˊ zu caˊ eˋ iu go dedˋ leˊ.'}
+  check: true
 - n: 24
   speaker: 記者
-  en: The man in charge says the cement isn't dry yet, so drive slowly.
-  sx: {hanzi: 負責个人講，紅毛泥還吂燥，車仔愛慢慢仔駛。, pinyin: 'fu jidˋ ge nginˇ gongˋ, fungˇ moˊ naiˇ hanˇ mangˇ zauˊ, caˊ eˋ oi man man
+  en: The man in charge says the cement has only just dried, so drive slowly.
+  sx: {hanzi: 負責个人講，紅毛泥正燥，車仔愛慢慢仔駛。, pinyin: 'fu jidˋ ge nginˇ gongˋ, fungˇ moˊ naiˇ zang zauˊ, caˊ eˋ oi man man
       eˋ siiˋ.'}
 - n: 25
   speaker: 主播
@@ -144,10 +146,10 @@ notes:
 - ref: 0
   topic: culture
   text: >
-    A news bulletin, with its set phrases at the start and the end (lines 1, 24). News items take 條 (checklist). The title
+    A news bulletin, with its set phrases at the start and the end (lines 1, 27). News items take 條 (checklist). The title
     is a saying from the official lists (高級): 賊仔惡過人 "the thief is fiercer than the owner", for someone in the wrong who
     shouts loudest. The stallholder quotes it in line 4. X 惡過 Y is a fixed comparison here; in ordinary speech the course
-    uses 比 (line 4: 佢比𠊎還惡).
+    uses 比 (line 4: 佢比𠊎還較惡).
 - ref: 1
   topic: vocab
   text: >
@@ -165,7 +167,7 @@ notes:
 - ref: 4
   topic: grammar
   text: >
-    嗄 sa "but then, unexpectedly" (lesson 41). 佢比𠊎還惡 "he was even fiercer than me": 比 + 還 + adjective.
+    嗄 sa "but then, unexpectedly" (lesson 41). 佢比𠊎還較惡 "he was even fiercer than me": 比 + 還較 + adjective, as in the official 比𠊎還較後生.
 - ref: 5
   topic: vocab
   text: >
@@ -175,7 +177,7 @@ notes:
   topic: vocab
   text: >
     管理員 gonˋ liˊ ienˇ "manager, caretaker" (管理 "manage", 這公司交分你管理 "I'm handing this company over to you to run"). 警察 (lesson
-    90). 走毋忒 "couldn't get away": V毋忒 "can't manage to get rid of / get away".
+    90). 走毋忒 "couldn't get away": our phrase, marked for a native speaker (V毋忒 in the lists: 睡毋忒 "can't get to sleep").
 - ref: 7
   topic: vocab
   text: >
@@ -190,7 +192,7 @@ notes:
   topic: vocab
   text: >
     撞著 cong doˋ "run into, hit" (撞 + 著, as in 看著, 聽著). 大路 tai lu "main road" (過大路愛細義 "be careful crossing the road"). 輒
-    jiab "often" (line 11) is the single form of 輒輒 (進修 1).
+    jiab "often" (line 12) is the single form of 輒輒 (進修 1).
 - ref: 11
   topic: vocab
   text: >
@@ -199,7 +201,7 @@ notes:
 - ref: 14
   topic: vocab
   text: >
-    另外 nang ngoi "besides, also" (note nang). 聽講 tangˊ gongˋ "I hear that, they say" (聽講佢愛去英國留學 "I hear he's going to study
+    另外 nang ngoi "besides, also" (note nang). 聽講 tangˊ gongˋ (進修 4) "I hear that, they say" (聽講佢愛去英國留學 "I hear he's going to study
     in England"). 風搓 "typhoon" (lesson 60).
 - ref: 15
   topic: vocab
@@ -213,7 +215,7 @@ notes:
 - ref: 19
   topic: vocab
   text: >
-    相好 xiongˊ hoˋ "get on well, be close" (該兩公婆盡相好 "that couple are very close"). 識 siidˋ "know (a person)": 多識兜人 "get to
+    相好 xiongˊ hoˋ "get on well, be close" (該兩公婆盡相好 "that couple are very close"). 識 siidˋ "know (a person)": 識加兜人 "get to
     know a few more people" (checklist: 識 is "know", not "can").
 - ref: 20
   topic: vocab
@@ -231,7 +233,7 @@ notes:
 - ref: 23
   topic: vocab
   text: >
-    半日 ban ngidˋ "half a day". 重新 qiungˇ xinˊ "again, anew" (重新做加一遍 "do it all over again"). 過得 "can get through" (這片當狹，愛挨身正過得).
+    半日 ban ngidˋ "half a day". 又過得 "can get through again": our phrase, marked for a native speaker (過得 "can get through": 這片當狹，愛挨身正過得).
 - ref: 24
   topic: vocab
   text: >
@@ -262,8 +264,6 @@ new_words:
 - {hanzi: 撞著, pinyin: cong doˋ, en: 'run into, hit'}
 - {hanzi: 輒, pinyin: jiab, en: often}
 - {hanzi: 修理, pinyin: xiuˊ liˊ, en: repair}
-- {hanzi: 天氣, pinyin: tienˊ hi, en: weather}
-- {hanzi: 聽講, pinyin: tangˊ gongˋ, en: 'hear (that), they say'}
 - {hanzi: 另外, pinyin: nang ngoi, en: 'besides, also; another'}
 - {hanzi: 引起, pinyin: inˊ hiˋ, en: 'cause, bring about'}
 - {hanzi: 發大水, pinyin: bodˋ tai suiˋ, en: flood}
@@ -282,7 +282,6 @@ new_words:
 - {hanzi: 搶, pinyin: qiongˋ, en: 'rob, snatch'}
 - {hanzi: 得人驚, pinyin: dedˋ nginˇ giangˊ, en: frightening}
 - {hanzi: 半日, pinyin: ban ngidˋ, en: half a day}
-- {hanzi: 重新, pinyin: qiungˇ xinˊ, en: 'again, anew'}
 - {hanzi: 負責, pinyin: fu jidˋ, en: 'be in charge, be responsible'}
 - {hanzi: 紅毛泥, pinyin: fungˇ moˊ naiˇ, en: cement}
 exercises:

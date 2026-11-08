@@ -6,30 +6,30 @@ title:
 review: false
 setting: Saturday 29 July 2028, at the Lius'. A-min's summer homework is to interview someone and write it up; he has picked
   Sam. He reads his questions from a notebook and records the answers on his phone. In September he starts senior high school.
-names: [Sam, 阿明, 阿婆, 苗栗, 聯合大學, 法國, 臺灣]
+names: [Sam, 阿明, 阿婆, 阿英, 苗栗, 聯合大學, 法國, 臺灣, 臺北]
 dialogue:
 - n: 1
   speaker: 阿明
   en: Sam, my holiday homework is to interview someone and write a piece about it. Can I interview you?
-  sx: {hanzi: Sam，𠊎个避暑作業係訪問一個人，寫一篇文章。𠊎做得訪問你無？, pinyin: 'Sam, ngaiˇ ge pidˋ cuˋ zogˋ ngiab he fongˋ mun idˋ ge nginˇ, xiaˋ
+  sx: {hanzi: Sam，𠊎个暑假作業係訪問一個人，寫一篇文章。𠊎做得訪問你無？, pinyin: 'Sam, ngaiˇ ge cuˋ gaˋ zogˋ ngiab he fongˋ mun idˋ ge nginˇ, xiaˋ
       idˋ pienˊ vunˇ zongˊ. ngaiˇ zo dedˋ fongˋ mun nˇ moˇ?'}
 - n: 2
   speaker: 阿明
   en: 'First question: what made you want to learn Hakka?'
-  sx: {hanzi: 第一條問題：你仰會想學客話？, pinyin: 'ti idˋ tiauˇ mun tiˇ: nˇ ngiongˋ voi xiongˋ hog hagˋ fa?'}
+  sx: {hanzi: 第一隻問題：你仰會想學客話？, pinyin: 'ti idˋ zagˋ mun tiˇ: nˇ ngiongˋ voi xiongˋ hog hagˋ fa?'}
 - n: 3
   speaker: Sam
-  en: The first time I came to Miaoli I heard Grandma singing a mountain song. It was really lovely, so I started learning.
-  sx: {hanzi: 頭一擺來苗栗，𠊎聽著阿婆唱山歌，十分好聽，就開始學。, pinyin: 'teuˇ idˋ baiˋ loiˇ meuˇ lid, ngaiˇ tangˊ doˋ aˊ poˇ cong sanˊ goˊ, siib
-      funˊ hoˋ tangˊ, qiu koiˊ siiˋ hog.'}
+  en: In Taipei I heard A-in speaking Hakka. It sounded really lovely, so I started learning.
+  sx: {hanzi: 𠊎在臺北聽著阿英講客話，十分好聽，就開始學。, pinyin: 'ngaiˇ coiˊ toiˇ bedˋ tangˊ doˋ aˊ inˊ gongˋ hagˋ fa, siib funˊ hoˋ tangˊ,
+      qiu koiˊ ciiˋ hog.'}
 - n: 4
   speaker: 阿明
   en: What's difficult about learning Hakka?
   sx: {hanzi: 學客話有麼个困難？, pinyin: 'hog hagˋ fa iuˊ maˋ ge kun nanˇ?'}
 - n: 5
   speaker: Sam
-  en: Mainly the tones. And at the same time, there are some words you can't find in the textbook.
-  sx: {hanzi: 主要係聲調。同時，有兜字課本肚尋毋著。, pinyin: 'zuˋ ieu he sangˊ tiau. tungˇ siiˇ, iuˊ deuˊ sii ko bunˋ duˋ qimˇ mˇ doˋ.'}
+  en: Mainly the tones. And there are also some words you can't find in the textbook.
+  sx: {hanzi: 主要係聲調。還有兜字課本肚尋毋著。, pinyin: 'zuˋ ieu he sangˊ tiau. hanˇ iuˊ deuˊ sii ko bunˋ duˋ qimˇ mˇ doˋ.'}
 - n: 6
   speaker: 阿明
   en: What's your method for learning Hakka?
@@ -62,12 +62,12 @@ dialogue:
   sx: {hanzi: 你讀小學个時節，係仰般个學生仔？, pinyin: 'nˇ tug seuˋ hog ge siiˇ jiedˋ, he ngiongˋ banˊ ge hog sangˊ eˋ?'}
 - n: 13
   speaker: Sam
-  en: My marks were poor. I didn't want to study; all I liked was playing football.
-  sx: {hanzi: 𠊎个成績毋好。𠊎無愛讀書，淨好踢足球。, pinyin: 'ngaiˇ ge siinˇ jidˋ mˇ hoˋ. ngaiˇ moˇ oi tug suˊ, qiang hau tedˋ jiugˋ kiuˇ.'}
+  en: My marks weren't great. I didn't want to study; all I liked was playing football.
+  sx: {hanzi: 𠊎个成績毋理想。𠊎無愛讀書，淨好踢足球。, pinyin: 'ngaiˇ ge siinˇ jidˋ mˇ liˊ xiongˋ. ngaiˇ moˇ oi tug suˊ, qiang hau tedˋ jiugˋ kiuˇ.'}
 - n: 14
   speaker: 阿明
   en: Just like me!
-  sx: {hanzi: 就像𠊎！, pinyin: qiu qiong ngaiˇ!}
+  sx: {hanzi: 同𠊎共樣！, pinyin: tungˇ ngaiˇ kiung iong!}
 - n: 15
   speaker: Sam
   en: It was only at senior high that I came to like studying. I was always in the library, and I liked going to bookshops
@@ -86,8 +86,8 @@ dialogue:
   sx: {hanzi: 這方面𠊎毋係專家，淨講𠊎個人个經驗。, pinyin: 'iaˋ fongˊ mien ngaiˇ mˇ he zonˊ gaˊ, qiang gongˋ ngaiˇ ge nginˇ ge ginˊ ngiam.'}
 - n: 18
   speaker: Sam
-  en: When I was at school, the afternoons were freer; we could go to the sports ground and play football.
-  sx: {hanzi: 𠊎讀書个時節，下晝較自由，學生仔做得去運動坪踢球。, pinyin: 'ngaiˇ tug suˊ ge siiˇ jiedˋ, haˊ zu ka cii iuˇ, hog sangˊ eˋ zo dedˋ hi
+  en: When I was at school, there were no classes on Wednesday afternoons; we were free and could go to the sports ground and play football.
+  sx: {hanzi: 𠊎讀書个時節，禮拜三下晝無上課，學生仔當自由，做得去運動坪踢球。, pinyin: 'ngaiˇ tug suˊ ge siiˇ jiedˋ, liˊ bai samˊ haˊ zu moˇ song ko, hog sangˊ eˋ dongˊ cii iuˇ, zo dedˋ hi
       iun tung piangˇ tedˋ kiuˇ.'}
 - n: 19
   speaker: 阿明
@@ -97,10 +97,10 @@ dialogue:
       xib. ngaiˇ moˇ oi hi, mˇ go moˇ fabˋ tu.'}
 - n: 20
   speaker: Sam
-  en: 'Education in Taiwan and in France is different; both have their good points. Make use of the holidays: you can read
+  en: 'Education in Taiwan and in France is different; each has its own good points. Make use of the holidays: you can read
     a bit more.'
-  sx: {hanzi: 臺灣个教育同法國个毋共樣，兩片都有好个所在。利用避暑，你做得多讀兜書。, pinyin: 'toiˇ vanˇ ge gau iugˋ tungˇ fabˋ guedˋ ge mˇ kiung iong, liongˋ
-      pienˋ du iuˊ hoˋ ge soˋ cai. li iung pidˋ cuˋ, nˇ zo dedˋ doˊ tug deuˊ suˊ.'}
+  sx: {hanzi: 臺灣个教育同法國个毋共樣，各有各个好。利用避暑，你做得讀加兜仔書。, pinyin: 'toiˇ vanˇ ge gau iugˋ tungˇ fabˋ guedˋ ge mˇ kiung iong, gogˋ
+      iuˊ gogˋ ge hoˋ. li iung pidˋ cuˋ, nˇ zo dedˋ tug gaˊ deuˊ eˋ suˊ.'}
   check: true
 - n: 21
   speaker: 阿明
@@ -130,7 +130,7 @@ dialogue:
 - n: 27
   speaker: 阿明
   en: Never mind! You teach, I'll learn. I've got a blackboard and a duster in my room.
-  sx: {hanzi: 毋怕！你教，𠊎學。𠊎房間有粉牌同粉捽仔。, pinyin: 'mˇ pa! nˇ gauˊ, ngaiˇ hog. ngaiˇ fongˇ gienˊ iuˊ funˋ paiˇ tungˇ funˋ cud eˋ.'}
+  sx: {hanzi: 毋怕！你教，𠊎學。吾房間有粉牌同粉捽仔。, pinyin: 'mˇ pa! nˇ gauˊ, ngaiˇ hog. ngaˊ fongˇ gienˊ iuˊ funˋ paiˇ tungˇ funˋ cud eˋ.'}
 - n: 28
   speaker: Sam
   en: '(at the blackboard) Lesson one: the alphabet. A, B, C.'
@@ -157,7 +157,7 @@ notes:
 - ref: 2
   topic: vocab
   text: >
-    第一條問題 "the first question": 問題 (lesson 74) takes 條, as news items do.
+    第一隻問題 "the first question": 問題 (lesson 74) takes 隻 or 個 (這隻問題, 這個問題 in the official sentences), not 條.
 - ref: 3
   topic: vocab
   text: >
@@ -165,7 +165,7 @@ notes:
 - ref: 5
   topic: grammar
   text: >
-    主要 zuˋ ieu "mainly" (活動主要係佢負責 "he is mainly in charge of the event"); 同時 tungˇ siiˇ "at the same time; also". 尋毋著 "can't
+    主要 zuˋ ieu "mainly" (活動主要係佢負責 "he is mainly in charge of the event"); 還有兜字 "there are also some words". 尋毋著 "can't
     find": V毋著 (doˋ) is "not manage to V" (checklist).
 - ref: 7
   topic: grammar
@@ -175,12 +175,13 @@ notes:
 - ref: 11
   topic: vocab
   text: >
-    上課 song ko "have class, go to class". 詳細 xiongˇ se "detailed, thorough". 解釋 gieˋ siidˋ "explain" (做得解釋分𠊎聽無？ "can you
+    聽講 tangˊ gongˋ "I hear that, they say" (used since lesson 32, declared here). 上課 song ko "have class, go to class". 詳細 xiongˇ se "detailed, thorough". 解釋 gieˋ siidˋ "explain" (做得解釋分𠊎聽無？ "can you
     explain it to me?").
 - ref: 13
   topic: grammar
   text: >
-    好 hau + verb is "like doing" (淨好踢足球 "all he liked was playing football"); 好 hoˋ is "good". Line 15 has it twice.
+    成績毋理想 "my marks weren't great" is an official phrase (佢這擺个成績毋理想; 理想 is also "dream",
+    line 21). 好 hau + verb is "like doing" (淨好踢足球 "all he liked was playing football"); 好 hoˋ is "good". Line 15 has it twice.
 - ref: 16
   topic: vocab
   text: >
@@ -203,7 +204,8 @@ notes:
   topic: vocab
   text: >
     利用 li iung "make use of" (時間有限，愛好好來利用正好 "time is short: use it well"). With a stretch of time as its object the line
-    is our own; marked for a native speaker.
+    is our own; marked for a native speaker. 各有各个好 "each has its good side" follows the official
+    各有各个職務; 讀加兜仔書 "read a bit more", with 加 after the verb.
 - ref: 22
   topic: false-friend
   text: >
@@ -233,13 +235,13 @@ new_words:
 - {hanzi: 十分, pinyin: siib funˊ, en: 'very, extremely'}
 - {hanzi: 困難, pinyin: kun nanˇ, en: difficulty; difficult}
 - {hanzi: 主要, pinyin: zuˋ ieu, en: main; mainly}
-- {hanzi: 同時, pinyin: tungˇ siiˇ, en: at the same time; also}
 - {hanzi: 課本, pinyin: ko bunˋ, en: textbook}
 - {hanzi: 方法, pinyin: fongˊ fabˋ, en: 'method, way'}
 - {hanzi: 課文, pinyin: ko vunˇ, en: text of a lesson}
 - {hanzi: 上課, pinyin: song ko, en: 'have class, go to class'}
 - {hanzi: 詳細, pinyin: xiongˇ se, en: 'detailed, thorough'}
 - {hanzi: 解釋, pinyin: gieˋ siidˋ, en: explain}
+- {hanzi: 聽講, pinyin: tangˊ gongˋ, en: 'hear (that), they say'}
 - {hanzi: 小學, pinyin: seuˋ hog, en: primary school}
 - {hanzi: 足球, pinyin: jiugˋ kiuˇ, en: football}
 - {hanzi: 高中, pinyin: goˊ zungˊ, en: senior high school}
@@ -251,6 +253,7 @@ new_words:
 - {hanzi: 個人, pinyin: ge nginˇ, en: personal; individual}
 - {hanzi: 自由, pinyin: cii iuˇ, en: free; freedom}
 - {hanzi: 運動坪, pinyin: iun tung piangˇ, en: sports ground}
+- {hanzi: 各, pinyin: gogˋ, en: 'each (各有各个: each has its own)'}
 - {hanzi: 利用, pinyin: li iung, en: make use of}
 - {hanzi: 理想, pinyin: liˊ xiongˋ, en: 'ideal, dream'}
 - {hanzi: 講演, pinyin: gongˋ ienˊ, en: give a talk; speech}

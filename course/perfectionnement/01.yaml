@@ -37,7 +37,7 @@ dialogue:
     sx: {hanzi: "學兩隻月吔。毋怕，𠊎駛到當細義。", pinyin: "hog liongˋ zagˋ ngied leˊ. mˇ pa, ngaiˇ siiˋ do dongˊ se ngi."}
   - n: 7
     speaker: 阿明
-    en: "(quietly) Sit tight. Last time she slammed on the brakes all of a sudden and my fizzy drink went flying."
+    en: "(quietly) Sit tight. Last time she braked straight away and my fizzy drink went flying."
     sx: {hanzi: "你愛坐好來。上擺佢黏時踏擋仔，害𠊎个汽水跌忒。", pinyin: "nˇ oi coˊ hoˋ loiˇ. song baiˋ giˇ ngiamˇ siiˇ tab dongˋ eˇ, hoi ngaiˇ ge hi suiˋ diedˋ tedˋ."}
   - n: 8
     speaker: 阿英
@@ -62,7 +62,7 @@ dialogue:
   - n: 13
     speaker: 阿英
     en: "Have you found somewhere to live?"
-    sx: {hanzi: "住个所在尋著吂？", pinyin: "cu ge soˋ cai qimˇ doˋ mangˇ?"}
+    sx: {hanzi: "歇个所在尋著吂？", pinyin: "hed ge soˋ cai qimˇ doˋ mangˇ?"}
   - n: 14
     speaker: Sam
     en: "I have, next to the university: a tiny room. The address is here. Do you know that lane?"
@@ -85,12 +85,13 @@ dialogue:
     sx: {hanzi: "頭一擺去國外，麼个都生趣。尤其係巴黎个捷運，𠊎輒輒尋無方向。", pinyin: "teuˇ idˋ baiˋ hi guedˋ ngoi, maˋ ge du senˊ qi. iuˇ kiˇ he baˊ liˇ ge qiab iun, ngaiˇ jiab jiab qimˇ moˇ fongˊ hiong."}
   - n: 19
     speaker: 阿明
-    en: "Ever since she got back she's always going on about Paris, all day long."
+    en: "Ever since she got back she's been on about Paris all the time, all day long."
     sx: {hanzi: "阿姊轉來過後，長間講巴黎，歸日都在講。", pinyin: "aˊ jiˋ zonˋ loiˇ go heu, congˇ gienˊ gongˋ baˊ liˇ, guiˊ ngidˋ du coiˊ gongˋ."}
   - n: 20
     speaker: 阿英
-    en: "Is that so? I just keep thinking back to those memories, that's all."
-    sx: {hanzi: "係無？𠊎就係輒輒想著該兜回憶。", pinyin: "he moˇ? ngaiˇ qiu he jiab jiab xiongˋ doˋ ge deuˊ fiˇ i."}
+    en: "I am not! I just keep thinking back to those memories, that's all."
+    sx: {hanzi: "哪有！𠊎就係輒輒想著該兜回憶。", pinyin: "nai iuˊ! ngaiˇ qiu he jiab jiab xiongˋ doˋ ge deuˊ fiˇ i."}
+    check: true
   - n: 21
     speaker: Sam
     en: "You spent so much money: was it worth it?"
@@ -158,14 +159,19 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      擋仔 dongˋ eˇ "the brake" (a noun); 踏擋仔 "brake, step on the brake". 黏時 ngiamˇ siiˇ "at once, suddenly".
+      擋仔 dongˋ eˇ "the brake" (a noun); 踏擋仔 "brake, step on the brake". 黏時 ngiamˇ siiˇ "at once, immediately" (the lists: 馬上、隨即、立刻; not "suddenly").
       害 hoi + person + result "make someone…, cause": 害𠊎个汽水跌忒 "so that I lost my drink". 上擺 song baiˋ "last
       time" (上擺有講過，仰又毋記得？ "I told you last time; how come you've forgotten?").
   - ref: 10
     topic: vocab
     text: >
-      幾久 gidˋ giuˋ "how long". 飛行機 biˊ hangˇ giˊ is the Hakka for "plane" (lesson 34 taught 飛 biˊ). 發夢 bodˋ mung "dream" (發 read bodˋ, as in 發病仔). 睡一覺目 "have a sleep": V 一 CL
+      幾久 gidˋ giuˋ "how long". 飛行機 biˊ hangˇ giˊ "plane" (lesson 30; 飛 biˊ, lesson 34). 發夢 bodˋ mung "dream" (發 read bodˋ, as in 發病仔). 睡一覺目 "have a sleep": V 一 CL
       N for one short, casual action (grammar inventory §10).
+  - ref: 13
+    topic: vocab
+    text: >
+      歇 hed "live" (lesson 22) is the spoken word: 歇个所在 "where you'll live" (歇在 has 22 official sentences).
+      住 cu is the written one, kept in compounds such as 住址 "address" (line 14).
   - ref: 16
     topic: false-friend
     text: >
@@ -183,20 +189,21 @@ notes:
   - ref: 19
     topic: vocab
     text: >
-      長間 congˇ gienˊ "always, all the time" (佢長間毋食朝 "he never has breakfast"). 輒輒 (line 18) is another
+      長間 congˇ gienˊ "always, all the time" (佢長間毋食朝 "he often skips breakfast"). 輒輒 (line 18) is another
       "often"; both are glossed 經常 / 常 in the lists.
   - ref: 20
     topic: grammar
     text: >
-      係無？ he moˇ at the start of a reply: "is that so? really?" At the end of a statement it asks for agreement.
+      哪有！ nai iuˊ "not at all, no way": 哪有 is attested as a rhetorical "how could…" (哪有可能落雪？ "how could it
+      snow?"); standing alone as a retort it is our use, marked for a native speaker.
   - ref: 23
     topic: vocab
     text: >
       到底 do daiˋ "(…) anyway, after all" in an impatient question (到底愛仰仔做正好呢？ "so what on earth should we do?").
   - ref: 25
-    topic: false-friend
+    topic: vocab
     text: >
-      揣 tonˇ "guess" (先生做令仔分學生仔揣 "the teacher set riddles for the pupils to guess"); not Mandarin chuǎi.
+      揣 tonˇ "guess" (先生做令仔分學生仔揣 "the teacher set riddles for the pupils to guess"), the same sense as Mandarin 揣測.
   - ref: 28
     topic: grammar
     text: >
@@ -213,7 +220,7 @@ new_words:
   - {hanzi: 哪央時, pinyin: "nai iongˊ siiˇ", en: "when"}
   - {hanzi: 毋怕, pinyin: "mˇ pa", en: "never mind, it's all right"}
   - {hanzi: 上擺, pinyin: "song baiˋ", en: "last time"}
-  - {hanzi: 黏時, pinyin: "ngiamˇ siiˇ", en: "at once, suddenly"}
+  - {hanzi: 黏時, pinyin: "ngiamˇ siiˇ", en: "at once, immediately"}
   - {hanzi: 擋仔, pinyin: "dongˋ eˇ", en: "brake"}
   - {hanzi: 踏, pinyin: "tab", en: "step on, tread"}
   - {hanzi: 害, pinyin: "hoi", en: "harm; cause (something bad)"}
@@ -222,7 +229,6 @@ new_words:
   - {hanzi: 發夢, pinyin: "bodˋ mung", en: "dream"}
   - {hanzi: 考, pinyin: "kauˋ", en: "sit (an exam), take a test"}
   - {hanzi: 研究, pinyin: "ngienˇ giu", en: "research, study"}
-  - {hanzi: 住, pinyin: "cu", en: "live, stay"}
   - {hanzi: 房間, pinyin: "fongˇ gienˊ", en: "room"}
   - {hanzi: 住址, pinyin: "cu ziiˋ", en: "address"}
   - {hanzi: 巷仔, pinyin: "hong eˋ", en: "lane, alley"}
@@ -234,8 +240,7 @@ new_words:
   - {hanzi: 生趣, pinyin: "senˊ qi", en: "fun, amusing"}
   - {hanzi: 尤其, pinyin: "iuˇ kiˇ", en: "especially"}
   - {hanzi: 方向, pinyin: "fongˊ hiong", en: "direction, bearings"}
-  - {hanzi: 長間, pinyin: "congˇ gienˊ", en: "always, constantly"}
-  - {hanzi: 係無, pinyin: "he moˇ", en: "is that so?; …, isn't it?"}
+  - {hanzi: 長間, pinyin: "congˇ gienˊ", en: "often, all the time"}
   - {hanzi: 到底, pinyin: "do daiˋ", en: "after all, (…) anyway"}
   - {hanzi: 愁, pinyin: "seuˇ", en: "worry"}
   - {hanzi: 揣, pinyin: "tonˇ", en: "guess"}
@@ -256,7 +261,7 @@ exercises:
     - en: "What's worrying you so much?"
       source: kaga115
       sx: {hanzi: "麼个事情分你恁愁？", pinyin: "maˋ ge sii qinˇ bunˊ nˇ anˋ seuˇ?"}
-    - en: "He never has breakfast, so he has no energy at work."
+    - en: "He often skips breakfast, so he has no energy at work."
       source: kaga115
       sx: {hanzi: "佢長間毋食朝，故所上班無精神。", pinyin: "giˇ congˇ gienˊ mˇ siid zeuˊ, gu soˋ song banˊ moˇ jinˊ siinˇ."}
     - en: "Remember to be on time the day after tomorrow."

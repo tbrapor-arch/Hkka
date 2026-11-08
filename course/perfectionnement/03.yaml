@@ -5,9 +5,10 @@ title:
   sx: {hanzi: "東弓晴，西弓雨", pinyin: "dungˊ giungˊ qiangˇ, xiˊ giungˊ iˋ"}
 review: false
 setting: >-
-  Sunday 23 July 2028, towards evening, in Grandpa's tea garden above the Lius' house. Sam has come over for the
-  day; he and A-min are helping Grandpa. A rainbow comes out over the hills in the west, and Grandpa tells a story
-  of his own: an old man's tale, not a legend from a book. Lines 8–16 and 18–19 are the tale.
+  Sunday 23 July 2028, early morning, in Grandpa's tea garden above the Lius' house. Sam has come over at dawn to
+  help with the tea before the heat; A-min is there too. The sun is up in the east, and a rainbow comes out over the
+  hills in the west. Grandpa tells a story of his own: an old man's tale, not a legend from a book. Lines 8–16 and
+  18–19 are the tale.
 names: [Sam, 阿明, 阿公, 苗栗]
 
 dialogue:
@@ -21,8 +22,8 @@ dialogue:
     sx: {hanzi: "紅色、柑仔色、黃色、青色、藍色、吊菜色……仰無水紅色？", pinyin: "fungˇ sedˋ, gamˊ eˋ sedˋ, vongˇ sedˋ, qiangˊ sedˋ, lamˇ sedˋ, diau coi sedˋ … ngiongˋ moˇ suiˋ fungˇ sedˋ?"}
   - n: 3
     speaker: Sam
-    en: "Funny: the sun's still out; how can there be a rainbow?"
-    sx: {hanzi: "奇怪，日頭還在，仰會有天弓？", pinyin: "kiˇ guai, ngidˋ teuˇ hanˇ coiˊ, ngiongˋ voi iuˊ tienˊ giungˊ?"}
+    en: "Funny: the sun's out; how can there be a rainbow?"
+    sx: {hanzi: "奇怪，日頭出來吔，仰會有天弓？", pinyin: "kiˇ guai, ngidˋ teuˇ cudˋ loiˇ leˊ, ngiongˋ voi iuˊ tienˊ giungˊ?"}
   - n: 4
     speaker: 阿公
     en: "The rainbow's in the west. As the old saying goes: rainbow in the east, fine weather; rainbow in the west, rain. In a moment it'll pour."
@@ -30,7 +31,7 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "Listen, the frogs have started croaking."
-    sx: {hanzi: "你兜聽，𧊅仔開始叫吔。", pinyin: "nˇ deuˊ tangˊ, guaiˋ eˇ koiˊ siiˋ gieu leˊ."}
+    sx: {hanzi: "你兜聽，𧊅仔開始叫吔。", pinyin: "nˇ deuˊ tangˊ, guaiˋ eˇ koiˊ ciiˋ gieu leˊ."}
   - n: 6
     speaker: Sam
     en: "How do frogs know it's going to rain?"
@@ -70,11 +71,11 @@ dialogue:
   - n: 15
     speaker: 阿公
     en: "So every time the frog sees dark clouds, it starts croaking and calls on the Lord of Heaven to send rain."
-    sx: {hanzi: "故所𧊅仔逐擺看著烏雲，就開始叫，喊天公落雨。", pinyin: "gu soˋ guaiˋ eˇ dagˋ baiˋ kon doˋ vuˊ iunˇ, qiu koiˊ siiˋ gieu, ham tienˊ gungˊ log iˋ."}
+    sx: {hanzi: "故所𧊅仔逐擺看著烏雲，就開始叫，喊天公落雨。", pinyin: "gu soˋ guaiˋ eˇ dagˋ baiˋ kon doˋ vuˊ iunˇ, qiu koiˊ ciiˋ gieu, ham tienˊ gungˊ log iˋ."}
   - n: 16
     speaker: 阿公
     en: "And to this day the frog still holds it against the Lord of Heaven."
-    sx: {hanzi: "到今晡日，𧊅仔還在怨天公。", pinyin: "do gimˊ buˊ ngidˋ, guaiˋ eˇ hanˇ coiˊ ien tienˊ gungˊ."}
+    sx: {hanzi: "𧊅仔到今還在怨天公。", pinyin: "guaiˋ eˇ do gimˊ hanˇ coiˊ ien tienˊ gungˊ."}
   - n: 17
     speaker: Sam
     en: "And the rainbow? What's the rainbow?"
@@ -89,8 +90,8 @@ dialogue:
     sx: {hanzi: "天公行東片，就好天；行西片，就落雨。", pinyin: "tienˊ gungˊ hangˇ dungˊ pienˋ, qiu hoˋ tienˊ; hangˇ xiˊ pienˋ, qiu log iˋ."}
   - n: 20
     speaker: 阿公
-    en: "Here in Miaoli we've green hills; to the west is the plain, and the rain comes from over there."
-    sx: {hanzi: "𠊎兜苗栗有青山，西片係平洋，雨對該片來。", pinyin: "ngaiˇ deuˊ meuˇ lid iuˊ qiangˊ sanˊ, xiˊ pienˋ he piangˇ iongˇ, iˋ dui ge pienˋ loiˇ."}
+    en: "Here in Miaoli we've green hills; to the west is the plain."
+    sx: {hanzi: "𠊎兜苗栗有青山，西片係平洋。", pinyin: "ngaiˇ deuˊ meuˇ lid iuˊ qiangˊ sanˊ, xiˊ pienˋ he piangˇ iongˇ."}
   - n: 21
     speaker: 阿明
     en: "Grandpa, your story isn't the same as what the teacher says. The teacher says a rainbow is water in the air."
@@ -110,11 +111,11 @@ dialogue:
   - n: 25
     speaker: 阿公
     en: "Quick, home! Look, the butterflies and the bees have all flown off, and the caterpillars and ants have gone too."
-    sx: {hanzi: "遽遽轉去！你看，揚蝶仔、糖蜂仔都飛走吔，虐毛蟲、蟻公乜走忒吔。", pinyin: "giagˋ giagˋ zonˋ hi! nˇ kon, iongˇ iab eˋ, tongˇ pungˊ eˋ du biˊ zeuˋ leˊ, ngiogˋ moˊ cungˇ, ngie gungˊ me zeuˋ tedˋ leˊ."}
+    sx: {hanzi: "遽遽轉去！你看，揚蝶仔、糖蜂仔都飛走吔，虐毛蟲、蟻公乜走忒吔。", pinyin: "giagˋ giagˋ zonˋ hi! nˇ kon, iongˇ iag eˋ, tongˇ pungˊ eˋ du biˊ zeuˋ leˊ, ngiogˋ moˊ cungˇ, ngie gungˊ me zeuˋ tedˋ leˊ."}
   - n: 26
     speaker: 阿公
     en: "(at the door) After the rain the stream will be in spate. The day after tomorrow we'll go and net shrimps in the stream."
-    sx: {hanzi: "落雨過後，溪項个水會滾。後日𠊎兜去溪項撈蝦公。", pinyin: "log iˋ go heu, haiˊ hong ge suiˋ voi gunˋ. heuˊ ngidˋ ngaiˇ deuˊ hi haiˊ hong leuˇ haˇ gungˊ."}
+    sx: {hanzi: "落雨過後，溪項个水會滾。後日𫣆兜去溪項撈蝦公。", pinyin: "log iˋ go heu, haiˊ hong ge suiˋ voi gunˋ. heuˊ ngidˋ enˊ deuˊ hi haiˊ hong leuˇ haˇ gungˊ."}
     check: true
 
 notes:
@@ -122,8 +123,11 @@ notes:
     topic: culture
     text: >
       The title is a weather saying from the official lists (高級): 東弓晴，西弓雨 "a rainbow in the east means fine
-      weather, in the west, rain". 弓 giungˊ "bow" is short for 天弓 tienˊ giungˊ "rainbow", literally "sky bow"; 晴 qiangˇ "fine, clear". The
-      tale itself is Grandpa's own; it is not a known legend.
+      weather, in the west, rain". 弓 giungˊ (in the lists, the classifier for a hand of bananas) is short here for 天弓 tienˊ giungˊ "rainbow",
+      literally "sky bow"; 晴 qiangˇ "fine, clear". The
+      tale itself is Grandpa's own; it is not a known legend. A rainbow faces away from the sun, so in the morning it
+      is in the west; the kaga list says the same: 朝晨頭若係出天弓，大體就會落雨 "a rainbow in the morning usually means
+      rain".
   - ref: 2
     topic: vocab
     text: >
@@ -142,7 +146,7 @@ notes:
     topic: vocab
     text: >
       𧊅仔 guaiˋ eˇ "frog". 叫 gieu is for animals and birds calling (the lists' 蟲鳴鳥叫); a person crying is 噭 gieu,
-      the same sound with another character. 開始 koiˊ siiˋ "begin". The lists also give 𧊅仔嘓嘓滾 for the frogs' racket.
+      the same sound with another character. 開始 "begin" (lesson 58). The lists also give 𧊅仔嘓嘓滾 for the frogs' racket.
   - ref: 8
     topic: vocab
     text: >
@@ -166,14 +170,14 @@ notes:
   - ref: 13
     topic: grammar
     text: >
-      緊吵緊鬧 "kicking up more and more fuss": 緊 X 緊 Y "the more… the more…" (lesson 29). 忍 ngiunˊ "bear, put up
+      緊吵緊鬧 "kicking up more and more fuss": 緊 X 緊 Y "the more… the more…" (lesson 51). 忍 ngiunˊ "bear, put up
       with" (你斯愛忍等 "you just have to bear it"); 忍等 "keep putting up with it". 發譴 fadˋ kienˋ "lose one's
       temper" (佢作業無寫，先生發譴吔 "he didn't do his homework and the teacher got angry"). 背尾 boi miˊ "in the
       end" (本成愛去，背尾無去 "he meant to go, but in the end he didn't").
   - ref: 15
     topic: vocab
     text: >
-      烏雲 vuˊ iunˇ "dark clouds" (MOE). 逐擺 "every time" (逐 dagˋ "every"; 逐 giugˋ "chase", 進修 2, is the same
+      烏雲 vuˊ iunˇ "dark clouds" (a MOE headword, also in official sentences: 一下四方八面烏雲遮天). 逐擺 "every time" (逐 dagˋ "every"; 逐 giugˋ "chase", 進修 2, is the same
       character with another reading).
   - ref: 16
     topic: vocab
@@ -196,7 +200,7 @@ notes:
   - ref: 25
     topic: vocab
     text: >
-      揚蝶仔 iongˇ iab eˋ "butterfly"; 虐毛蟲 ngiogˋ moˊ cungˇ "caterpillar" (虐毛蟲會變到靚靚个揚蝶仔 "caterpillars turn
+      揚蝶仔 iongˇ iag eˋ "butterfly" (lesson 69); 虐毛蟲 ngiogˋ moˊ cungˇ "caterpillar" (虐毛蟲會變到靚靚个揚蝶仔 "caterpillars turn
       into lovely butterflies"); 蟻公 ngie gungˊ "ant".
   - ref: 26
     topic: vocab
@@ -207,9 +211,8 @@ notes:
 
 new_words:
   - {hanzi: 天弓, pinyin: "tienˊ giungˊ", en: "rainbow"}
-  - {hanzi: 弓, pinyin: "giungˊ", en: "bow; (in sayings) rainbow"}
+  - {hanzi: 弓, pinyin: "giungˊ", en: "classifier for a hand of bananas; (東弓, 西弓) rainbow"}
   - {hanzi: 晴, pinyin: "qiangˇ", en: "clear, fine (weather)"}
-  - {hanzi: 開始, pinyin: "koiˊ siiˋ", en: "begin, start"}
   - {hanzi: 古, pinyin: "guˋ", en: "story, tale (講古: tell stories)"}
   - {hanzi: 吊菜色, pinyin: "diau coi sedˋ", en: "purple"}
   - {hanzi: 水紅色, pinyin: "suiˋ fungˇ sedˋ", en: "pink"}
@@ -252,7 +255,6 @@ new_words:
   - {hanzi: 奇妙, pinyin: "kiˇ meu", en: "wonderful, marvellous"}
   - {hanzi: 虐毛蟲, pinyin: "ngiogˋ moˊ cungˇ", en: "caterpillar"}
   - {hanzi: 蟻公, pinyin: "ngie gungˊ", en: "ant"}
-  - {hanzi: 揚蝶仔, pinyin: "iongˇ iab eˋ", en: "butterfly"}
   - {hanzi: 滾, pinyin: "gunˋ", en: "boil, seethe"}
   - {hanzi: 撈, pinyin: "leuˇ", en: "scoop up, net (from water)"}
   - {hanzi: 蝦公, pinyin: "haˇ gungˊ", en: "shrimp"}
@@ -269,7 +271,7 @@ exercises:
       sx: {hanzi: "這鳥仔翼胛著傷，飛毋起來。", pinyin: "iaˋ diauˊ eˋ id gabˋ cog songˊ, biˊ mˇ hiˋ loiˇ."}
     - en: "Caterpillars turn into lovely butterflies."
       source: kaga115
-      sx: {hanzi: "虐毛蟲會變到靚靚个揚蝶仔。", pinyin: "ngiogˋ moˊ cungˇ voi bien do jiangˊ jiangˊ ge iongˇ iab eˋ."}
+      sx: {hanzi: "虐毛蟲會變到靚靚个揚蝶仔。", pinyin: "ngiogˋ moˊ cungˇ voi bien do jiangˊ jiangˊ ge iongˇ iag eˋ."}
     - en: "He meant to go, but in the end he didn't."
       source: kaga115
       sx: {hanzi: "本成愛去，背尾無去。", pinyin: "bunˋ sangˇ oi hi, boi miˊ moˇ hi."}
@@ -281,7 +283,7 @@ exercises:
     - en: "In the end he lost his temper."
       sx: {hanzi: "背尾還係___吔。", pinyin: "boi miˊ hanˇ he ___ leˊ.", answer_hanzi: "發譴", answer: "fadˋ kienˋ"}
     - en: "Listen, the frogs have started croaking."
-      sx: {hanzi: "你兜聽，___開始叫吔。", pinyin: "nˇ deuˊ tangˊ, ___ koiˊ siiˋ gieu leˊ.", answer_hanzi: "𧊅仔", answer: "guaiˋ eˇ"}
+      sx: {hanzi: "你兜聽，___開始叫吔。", pinyin: "nˇ deuˊ tangˊ, ___ koiˊ ciiˋ gieu leˊ.", answer_hanzi: "𧊅仔", answer: "guaiˋ eˇ"}
     - en: "From now on, you may only speak before a downpour."
       sx: {hanzi: "___，你淨做得在落大雨進前講話。", pinyin: "___, nˇ qiang zo dedˋ coiˊ log tai iˋ jin qienˇ gongˋ fa.", answer_hanzi: "從今以後", answer: "qiungˇ gimˊ iˊ heu"}
 
