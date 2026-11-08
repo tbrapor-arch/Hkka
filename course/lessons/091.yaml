@@ -1,0 +1,136 @@
+id: 91
+title:
+  en: "Review 13"
+  sx: {hanzi: "毋好驚，平安就好", pinyin: "mˇ hoˋ giangˊ, pinˇ onˊ qiu hoˋ"}
+  hl: {hanzi: "毋好驚，平安就好", pinyin: "m hoˊ giangˋ, pin onˋ ciu+ hoˊ"}
+review: true
+setting: >-
+  Sunday 29 August, late morning. A-min is on the sofa with his ankle on a cushion and a bag of ice on it; Sam has
+  slept until ten. Grandma has made 擂茶. Nothing new in the dialogue: everything comes from lessons 1–90.
+names: [南庄, 義民節, 義民, 阿貴伯, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Is your ankle still swollen?"
+    sx: {hanzi: "你个腳還腫無？", pinyin: "nˇ ge giogˋ hanˇ zungˋ moˇ?"}
+    hl: {hanzi: "你个腳還腫無？", pinyin: "ngi gaiˇ giog han zhungˊ mo?"}
+  - n: 2
+    speaker: 阿明
+    en: "A bit less. It still hurts, but it's not serious."
+    sx: {hanzi: "較好兜仔了。還會痛，毋過毋會嚴重。", pinyin: "ka hoˋ deuˊ eˋ leˊ. hanˇ voi tung, mˇ go mˇ voi ngiamˇ cung."}
+    hl: {hanzi: "較好兜仔了。還會痛，毋過毋會嚴重。", pinyin: "haˇ hoˊ deuˋ er leˋ. han voi+ tungˇ, m goˇ m voi+ ngiam chung+."}
+  - n: 3
+    speaker: 阿婆
+    en: "Next time you go up the mountain, take a torch. And come back before dark!"
+    sx: {hanzi: "下二擺上山頂，愛帶手電筒仔。斷烏以前愛轉！", pinyin: "ha ngi baiˋ songˊ sanˊ dangˋ, oi dai suˋ tien tungˇ eˋ. tonˊ vuˊ iˊ qienˇ oi zonˋ!"}
+    hl: {hanzi: "下二擺上山頂，愛帶手電筒仔。斷烏以前愛轉！", pinyin: "ha+ ngi+ baiˊ shongˋ sanˋ dangˊ, oiˇ daiˇ shiuˊ tien+ tung er. tonˋ vuˋ rhiˋ cien oiˇ zhonˊ!"}
+  - n: 4
+    speaker: Sam
+    en: "Grandma, I'm sorry. It was my fault. The mist was so thick we couldn't find the way."
+    sx: {hanzi: "阿婆，敗勢，係𠊎毋著。濛紗恁大，𫣆兜尋毋著路。", pinyin: "aˊ poˇ, paiˇ se, he ngaiˇ mˇ cog. mungˇ saˊ anˋ tai, enˊ deuˊ qimˇ mˇ doˋ lu."}
+    hl: {hanzi: "阿婆，敗勢，係𠊎毋著。濛紗恁大，𫣆兜尋毋著路。", pinyin: "a+ po, pai+ sheˇ, heˇ ngai m chogˋ. mung saˋ anˊ tai+, enˋ deuˋ cim m doˊ lu+."}
+  - n: 5
+    speaker: 阿婆
+    en: "Never mind. Back safe, that's what counts. Here, have some 擂茶."
+    sx: {hanzi: "無要緊。平安就好。來，食擂茶。", pinyin: "moˇ ieu ginˋ. pinˇ onˊ qiu hoˋ. loiˇ, siid luiˇ caˇ."}
+    hl: {hanzi: "無要緊。平安就好。來，食擂茶。", pinyin: "moˇ rhauˇ ginˊ. pin onˋ ciu+ hoˊ. loi, shidˋ lui ca."}
+  - n: 6
+    speaker: 阿英
+    en: "What a summer: the museum, the dinner where we argued, 八音, the 義民 festival, and then the mountain…"
+    sx: {hanzi: "這隻熱天：博物館、食飯該擺个贊成反對、八音、義民節，還有山頂……", pinyin: "iaˋ zagˋ ngied tienˊ: bogˋ vud gonˋ, siid fan ge baiˋ ge zan sangˇ fanˋ dui, badˋ imˊ, ngi minˇ jiedˋ, hanˇ iuˊ sanˊ dangˋ …"}
+    hl: {hanzi: "這隻熱天：博物館、食飯該擺个贊成反對、八音、義民節，還有山頂……", pinyin: "liaˊ zhag ngiedˋ tienˋ: bog vudˋ gonˊ, shidˋ pon+ gai baiˊ gaiˇ zanˇ shang fanˊ duiˇ, bad rhimˋ, ngi+ min zied, han rhiuˋ sanˋ dangˊ …"}
+    check: true
+  - n: 7
+    speaker: 阿明
+    en: "And at the festival, Grandpa played the fiddle!"
+    sx: {hanzi: "還有義民節，阿公鋸弦仔！", pinyin: "hanˇ iuˊ ngi minˇ jiedˋ, aˊ gungˊ gi hienˇ eˋ!"}
+    hl: {hanzi: "還有義民節，阿公鋸弦仔！", pinyin: "han rhiuˋ ngi+ min zied, a+ gungˋ giˇ hien er!"}
+  - n: 8
+    speaker: Sam
+    en: "Learning Hakka isn't easy… but this summer I learnt a lot."
+    sx: {hanzi: "學客話無恁該……毋過這隻熱天𠊎學著當多。", pinyin: "hog hagˋ fa moˇ anˋ goiˊ … mˇ go iaˋ zagˋ ngied tienˊ ngaiˇ hog doˋ dongˊ doˊ."}
+    hl: {hanzi: "學客話無恁該……毋過這隻熱天𠊎學著當多。", pinyin: "hogˋ hag voiˋ mo anˊ goiˋ … m goˇ liaˊ zhag ngiedˋ tienˋ ngai hogˋ doˊ dongˋ doˋ."}
+  - n: 9
+    speaker: 阿英
+    en: "Don't you speak better than A-min now?"
+    sx: {hanzi: "你還毋係講到比阿明還較好？", pinyin: "nˇ hanˇ mˇ he gongˋ do biˋ aˊ minˇ hanˇ ka hoˋ?"}
+    hl: {hanzi: "你還毋係講到比阿明還較好？", pinyin: "ngi han m heˇ gongˊ doˇ biˊ a+ min han haˇ hoˊ?"}
+  - n: 10
+    speaker: 阿明
+    en: "(from the sofa) I heard that!"
+    sx: {hanzi: "𠊎聽著了！", pinyin: "ngaiˇ tangˊ doˋ leˊ!"}
+    hl: {hanzi: "𠊎聽著了！", pinyin: "ngai tangˋ doˊ leˋ!"}
+  - n: 11
+    speaker: 阿公
+    en: "(coming in from the veranda with his fiddle) Not stiff."
+    sx: {hanzi: "無硬。", pinyin: "moˇ ngang."}
+    hl: {hanzi: "無硬。", pinyin: "mo ngang+."}
+  - n: 12
+    speaker: 阿婆
+    en: "(laughing) He means his hands! He wants to play for you."
+    sx: {hanzi: "佢講佢个手！佢想鋸弦仔分你兜聽。", pinyin: "giˇ gongˋ giˇ ge suˋ! giˇ xiongˋ gi hienˇ eˋ bunˊ nˇ deuˊ tangˊ."}
+    hl: {hanzi: "佢講佢个手！佢想鋸弦仔分你兜聽。", pinyin: "gi gongˊ gi gaiˇ shiuˊ! gi siongˊ giˇ hien er bunˋ ngi deuˋ tangˋ."}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      腫 "swollen" (lesson 78) and 還…無？ "still…?". 較好兜仔 (line 2) "a bit better": 較 + adjective + 兜仔;
+      毋會嚴重, never a bare 毋 + adjective (lesson 39).
+  - ref: 4
+    topic: grammar
+    text: >
+      係𠊎毋著 "it's my fault": 毋著 mˇ cog "wrong, at fault", and in the same line 尋毋著 mˇ doˋ "couldn't find" (lessons 47,
+      89). Same characters, two readings, two meanings.
+  - ref: 6
+    topic: grammar
+    text: >
+      A-in lists the summer: 博物館 (85), 贊成 / 反對 (86), 八音 (87), 義民節 (88), 山頂 (89–90). Turning 贊成反對 into "the
+      dinner where we argued" is her own shorthand, so the line is marked.
+  - ref: 9
+    topic: grammar
+    text: >
+      你還毋係… "aren't you…?" (lesson 86) and 比…還較好 "even better than" (lessons 66, 78, 86).
+  - ref: 12
+    topic: culture
+    text: >
+      Grandpa's two syllables, and Grandma translates. Cover the English and tell the summer in your own Hakka: the
+      museum, the debate, 八音 and the 義民 festival, the night on the mountain.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "In the old days most Hakka people came to Taiwan from 唐山."
+      sx: {hanzi: "頭擺客家人大部分都係從唐山來臺灣。", pinyin: "teuˇ baiˋ hagˋ gaˊ nginˇ tai pu fun du he qiungˇ tongˇ sanˊ loiˇ toiˇ vanˊ."}
+      hl: {hanzi: "頭擺客家人大部分都係從唐山來臺灣。", pinyin: "teu baiˊ hag gaˋ ngin tai+ pu+ fun+ du+ heˇ ciung tong sanˋ loi toi van."}
+      source: kaga115
+    - en: "The way I see it, learning Hakka isn't easy, but it matters a lot."
+      sx: {hanzi: "𠊎看，學客話無恁該，毋過當重要。", pinyin: "ngaiˇ kon, hog hagˋ fa moˇ anˋ goiˊ, mˇ go dongˊ cung ieu."}
+      hl: {hanzi: "𠊎看，學客話無恁該，毋過當重要。", pinyin: "ngai konˇ, hogˋ hag voiˋ mo anˊ goiˋ, m goˇ dongˋ chung+ rhauˇ."}
+    - en: "The traditional music of the Hakka is 八音."
+      sx: {hanzi: "客家个傳統音樂就係八音。", pinyin: "hagˋ gaˊ ge conˇ tungˋ imˊ ngog qiu he badˋ imˊ."}
+      hl: {hanzi: "客家个傳統音樂斯係八音。", pinyin: "hag gaˋ gaiˇ chon tungˊ rhimˋ ngogˋ sii+ heˇ bad rhimˋ."}
+      source: kaga115
+    - en: "How can this tangerine be sour?"
+      sx: {hanzi: "這隻柑仔哪會酸？", pinyin: "iaˋ zagˋ gamˊ eˋ nai voi sonˊ?"}
+      hl: {hanzi: "這隻柑仔哪會酸？", pinyin: "liaˊ zhag gamˋ er nai+ voi+ sonˋ?"}
+    - en: "It's so dark you can't even see a face."
+      sx: {hanzi: "暗到人面都看毋著了。", pinyin: "am do nginˇ mien du kon mˇ doˋ leˊ."}
+      hl: {hanzi: "暗到人面都看毋著了。", pinyin: "amˇ doˇ ngin mienˇ du+ konˇ m doˊ leˋ."}
+    - en: "Is anyone hurt? — No. Don't be frightened."
+      sx: {hanzi: "有人受傷無？——無。毋好驚。", pinyin: "iuˊ nginˇ su songˊ moˇ? — moˇ. mˇ hoˋ giangˊ."}
+      hl: {hanzi: "有人受傷無？——無。毋好驚。", pinyin: "rhiuˋ ngin shiu+ shongˋ mo? — mo. m hoˊ giangˋ."}
+  fill:
+    - en: "He can only play the fiddle."
+      sx: {hanzi: "佢___會鋸弦仔。", pinyin: "giˇ ___ voi gi hienˇ eˋ.", answer_hanzi: "單淨", answer: "danˊ qiang"}
+      hl: {hanzi: "佢___會鋸弦仔。", pinyin: "gi ___ voi+ giˇ hien er.", answer_hanzi: "單淨", answer: "danˋ ciang+"}
+    - en: "Please sit down!"
+      sx: {hanzi: "___坐！", pinyin: "___ coˊ!", answer_hanzi: "請", answer: "qiangˋ"}
+      hl: {hanzi: "___坐！", pinyin: "___ coˋ!", answer_hanzi: "請", answer: "ciangˊ"}
+    - en: "Seeing them back safe, everyone was at ease."
+      sx: {hanzi: "看著佢兜平安轉來，大家就___了。", pinyin: "kon doˋ giˇ deuˊ pinˇ onˊ zonˋ loiˇ, tai gaˊ qiu ___ leˊ.", answer_hanzi: "寬心", answer: "konˊ ximˊ"}
+      hl: {hanzi: "看著佢兜平安轉來，大家就___了。", pinyin: "konˇ doˊ gi deuˋ pin onˋ zhonˊ loi, tai+ gaˋ ciu+ ___ leˋ.", answer_hanzi: "寬心", answer: "konˋ simˋ"}
+
+audio: []
