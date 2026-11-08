@@ -85,8 +85,8 @@ dialogue:
   - n: 15
     speaker: 阿爸
     en: "Right. Everyone sees it differently. This side for, that side against: which side are you on?"
-    sx: {hanzi: "好了。大家个看法無共樣。這片係贊成，該片係反對，你愛企哪片？", pinyin: "hoˋ leˊ. tai gaˊ ge kon fabˋ moˇ kiung iong. iaˋ pienˋ he zan sangˇ, ge pienˋ he fanˋ dui, nˇ oi kiˊ nai pienˋ?"}
-    hl: {hanzi: "好了。大家个看法無共樣。這片係贊成，該片係反對，你愛企哪片？", pinyin: "hoˊ leˋ. tai+ gaˋ gaiˇ konˇ fab mo kiung+ rhong+. liaˊ pienˊ heˇ zanˇ shang, gai pienˊ heˇ fanˊ duiˇ, ngi oiˇ kiˋ nai+ pienˊ?"}
+    sx: {hanzi: "好吔。大家个看法無共樣。這片係贊成，該片係反對，你愛企哪片？", pinyin: "hoˋ leˊ. tai gaˊ ge kon fabˋ moˇ kiung iong. iaˋ pienˋ he zan sangˇ, ge pienˋ he fanˋ dui, nˇ oi kiˊ nai pienˋ?"}
+    hl: {hanzi: "好咧。大家个看法無共樣。這片係贊成，該片係反對，你愛企哪片？", pinyin: "hoˊ leˋ. tai+ gaˋ gaiˇ konˇ fab mo kiung+ rhong+. liaˊ pienˊ heˇ zanˇ shang, gai pienˊ heˇ fanˊ duiˇ, ngi oiˇ kiˋ nai+ pienˊ?"}
     check: true
   - n: 16
     speaker: 阿明

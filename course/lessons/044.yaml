@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: 阿婆
     en: "A-tsu! Ten years at least! You haven't changed a bit."
-    sx: {hanzi: "阿珠！有十年了！你還係恁後生。", pinyin: "aˊ zuˊ! iuˊ siib ngienˇ leˊ! nˇ hanˇ he anˋ heu sangˊ."}
-    hl: {hanzi: "阿珠！有十年了！你還係恁後生。", pinyin: "a+ zhuˋ! rhiuˋ shibˋ ngien leˋ! ngi han heˇ anˊ heu+ sangˋ."}
+    sx: {hanzi: "阿珠！有十年吔！你還係恁後生。", pinyin: "aˊ zuˊ! iuˊ siib ngienˇ leˊ! nˇ hanˇ he anˋ heu sangˊ."}
+    hl: {hanzi: "阿珠！有十年咧！你還係恁後生。", pinyin: "a+ zhuˋ! rhiuˋ shibˋ ngien leˋ! ngi han heˇ anˊ heu+ sangˋ."}
   - n: 3
     speaker: 阿明
     en: "(as the bride passes in her third dress) The bride is so pretty!"
@@ -58,8 +58,8 @@ dialogue:
   - n: 10
     speaker: 阿婆
     en: "(glancing at A-in, then firmly at her bowl) Grandma isn't interfering any more."
-    sx: {hanzi: "阿婆毋管了。", pinyin: "aˊ poˇ mˇ gonˋ leˊ."}
-    hl: {hanzi: "阿婆毋管了。", pinyin: "a+ po m gonˊ leˋ."}
+    sx: {hanzi: "阿婆毋管吔。", pinyin: "aˊ poˇ mˇ gonˋ leˊ."}
+    hl: {hanzi: "阿婆毋管咧。", pinyin: "a+ po m gonˊ leˋ."}
   - n: 11
     speaker: 阿公
     en: "(who has said nothing all evening, to no one in particular) Kissing with your conical hats on."

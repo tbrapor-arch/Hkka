@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 師傅
     en: "Everyone's like that at the start. Learn three years from an old master, and the day you set up on your own, you're famous."
-    sx: {hanzi: "一開始都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "idˋ koiˊ ciiˋ du anˋ ngiongˇ. tenˇ loˋ siiˊ fu hog samˊ ngienˇ, idˋ cudˋ sanˊ qiu cudˋ miangˇ leˊ."}
-    hl: {hanzi: "一開始都恁樣。跈老師傅學三年，一出山就出名了。", pinyin: "rhid koiˋ shiˊ du+ an ngiong. ten loˊ siiˋ fu+ hogˋ samˋ ngien, rhid chud sanˋ ciu+ chud miang leˋ."}
+    sx: {hanzi: "一開始都恁樣。跈老師傅學三年，一出山就出名吔。", pinyin: "idˋ koiˊ ciiˋ du anˋ ngiongˇ. tenˇ loˋ siiˊ fu hog samˊ ngienˇ, idˋ cudˋ sanˊ qiu cudˋ miangˇ leˊ."}
+    hl: {hanzi: "一開始都恁樣。跈老師傅學三年，一出山就出名咧。", pinyin: "rhid koiˋ shiˊ du+ an ngiong. ten loˊ siiˋ fu+ hogˋ samˋ ngien, rhid chud sanˋ ciu+ chud miang leˋ."}
   - n: 8
     speaker: 師傅
     en: "(an hour later) What's that you've carved?"
@@ -65,8 +65,8 @@ dialogue:
   - n: 11
     speaker: 師傅
     en: "For a first go, it's not bad at all."
-    sx: {hanzi: "頭一擺刻，會做得了。", pinyin: "teuˇ idˋ baiˋ kadˋ, voi zo dedˋ leˊ."}
-    hl: {hanzi: "頭一擺刻，會做得了。", pinyin: "teu rhid baiˊ kad, voi+ zoˇ ded leˋ."}
+    sx: {hanzi: "頭一擺刻，會做得吔。", pinyin: "teuˇ idˋ baiˋ kadˋ, voi zo dedˋ leˊ."}
+    hl: {hanzi: "頭一擺刻，會做得咧。", pinyin: "teu rhid baiˊ kad, voi+ zoˇ ded leˋ."}
   - n: 12
     speaker: 阿英
     en: "Grandma's bound to be pleased. It's your first piece of work."
@@ -112,7 +112,7 @@ notes:
   - ref: 7
     topic: grammar
     text: >
-      The master's line is an official sentence (跈老師傅學三年，一出山就出名了). 一…就… "as soon as…, then…"; 出山
+      The master's line is an official sentence (跈老師傅學三年，一出山就出名吔). 一…就… "as soon as…, then…"; 出山
       "leave the mountain", here "finish the apprenticeship, set up on your own"; 出名 "become famous". 一開始 "at the start" (lesson 58);
       not 頭先, which is only "a moment ago".
   - ref: 11
@@ -172,8 +172,8 @@ exercises:
       sx: {hanzi: "___刻。", pinyin: "___ kadˋ.", answer_hanzi: "毋好", answer: "mˇ hoˋ"}
       hl: {hanzi: "___刻。", pinyin: "___ kad.", answer_hanzi: "毋好", answer: "m hoˊ"}
     - en: "Not bad, quite good."
-      sx: {hanzi: "___了。", pinyin: "___ leˊ.", answer_hanzi: "會做得", answer: "voi zo dedˋ"}
-      hl: {hanzi: "___了。", pinyin: "___ leˋ.", answer_hanzi: "會做得", answer: "voi+ zoˇ ded"}
+      sx: {hanzi: "___吔。", pinyin: "___ leˊ.", answer_hanzi: "會做得", answer: "voi zo dedˋ"}
+      hl: {hanzi: "___咧。", pinyin: "___ leˋ.", answer_hanzi: "會做得", answer: "voi+ zoˇ ded"}
     - en: "Be careful!"
       sx: {hanzi: "愛___！", pinyin: "oi ___!", answer_hanzi: "細義", answer: "se ngi"}
       hl: {hanzi: "愛___！", pinyin: "oiˇ ___!", answer_hanzi: "細義", answer: "seˇ ngi+"}

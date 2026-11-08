@@ -23,8 +23,8 @@ dialogue:
   - n: 3
     speaker: Sam
     en: "So you admit it?"
-    sx: {hanzi: "你承認了？", pinyin: "nˇ siinˇ ngin leˊ?"}
-    hl: {hanzi: "你承認了？", pinyin: "ngi shin ngin+ leˋ?"}
+    sx: {hanzi: "你承認吔？", pinyin: "nˇ siinˇ ngin leˊ?"}
+    hl: {hanzi: "你承認咧？", pinyin: "ngi shin ngin+ leˋ?"}
   - n: 4
     speaker: 阿明
     en: "I admit it. And not only will I send the shoes back, I'll pay you back the money as well."
@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: Sam
     en: "(taking it, then giving it back) …I'm sorry too. Yesterday I was far too loud."
-    sx: {hanzi: "……𠊎乜失禮。昨晡日𠊎忒大聲了。", pinyin: "… ngaiˇ me siidˋ liˊ. coˊ buˊ ngidˋ ngaiˇ tedˋ tai sangˊ leˊ."}
-    hl: {hanzi: "……𠊎乜失禮。昨晡日𠊎忒大聲了。", pinyin: "… ngai meˇ shid liˋ. coˋ buˋ ngid ngai ted tai+ shangˋ leˋ."}
+    sx: {hanzi: "……𠊎乜失禮。昨晡日𠊎忒大聲吔。", pinyin: "… ngaiˇ me siidˋ liˊ. coˊ buˊ ngidˋ ngaiˇ tedˋ tai sangˊ leˊ."}
+    hl: {hanzi: "……𠊎乜失禮。昨晡日𠊎忒大聲咧。", pinyin: "… ngai meˇ shid liˋ. coˋ buˋ ngid ngai ted tai+ shangˋ leˋ."}
   - n: 8
     speaker: 阿明
     en: "Grandpa told me off last night. Not just me: he said you were wrong too."
@@ -114,7 +114,7 @@ notes:
     topic: culture
     text: >
       床頭吵，床尾和 "quarrel at the head of the bed, make up at its foot": a saying about married couples, quoted in an
-      official example (人講「床頭吵，床尾和。」佢兩公婆早就和好了！). 兩公婆 (line 12) "husband and wife, the couple". Grandma knows exactly what the
+      official example (人講「床頭吵，床尾和。」佢兩公婆早就和好吔！). 兩公婆 (line 12) "husband and wife, the couple". Grandma knows exactly what the
       saying is about. 該句 "that sentence, that saying": 句 classifier for sayings and sentences.
 
 new_words:
@@ -152,14 +152,14 @@ exercises:
       sx: {hanzi: "佢毋單止無慢到，甚至還提早到。", pinyin: "giˇ mˇ danˊ ziiˋ moˇ man do, siimˋ zii hanˇ tiˇ zoˋ do."}
       hl: {hanzi: "佢毋單止無慢到，甚至還提早到。", pinyin: "gi m danˋ zhiˊ mo man+ doˇ, shimˊ zhiˇ han ti zoˊ doˇ."}
     - en: "The couple have made up already."
-      sx: {hanzi: "佢兩公婆早就和好了。", pinyin: "giˇ liongˋ gungˊ poˇ zoˋ qiu foˇ hoˋ leˊ."}
-      hl: {hanzi: "佢兩公婆早就和好了。", pinyin: "gi liongˊ gungˋ po zoˊ ciu+ fo hoˊ leˋ."}
+      sx: {hanzi: "佢兩公婆早就和好吔。", pinyin: "giˇ liongˋ gungˊ poˇ zoˋ qiu foˇ hoˋ leˊ."}
+      hl: {hanzi: "佢兩公婆早就和好咧。", pinyin: "gi liongˊ gungˋ po zoˊ ciu+ fo hoˊ leˋ."}
     - en: "You broke the window: you have to pay for it."
       sx: {hanzi: "你打爛窗門，愛賠。", pinyin: "nˇ daˋ lan cungˊ munˇ, oi poiˇ."}
       hl: {hanzi: "你打爛窗門，愛賠。", pinyin: "ngi daˊ lan+ cungˋ mun, oiˇ poi."}
     - en: "Sam and A-min are like brothers; they won't quarrel again."
-      sx: {hanzi: "Sam 同阿明像兄弟，佢兜毋會再冤家了。", pinyin: "Sam tungˇ aˊ minˇ qiong hiungˊ ti, giˇ deuˊ mˇ voi zai ienˊ gaˊ leˊ."}
-      hl: {hanzi: "Sam 摎阿明像兄弟，佢兜毋會再冤家了。", pinyin: "Sam lauˋ a+ min ciongˇ hiungˋ ti+, gi deuˋ m voi+ zaiˇ rhanˋ gaˋ leˋ."}
+      sx: {hanzi: "Sam 同阿明像兄弟，佢兜毋會再冤家吔。", pinyin: "Sam tungˇ aˊ minˇ qiong hiungˊ ti, giˇ deuˊ mˇ voi zai ienˊ gaˊ leˊ."}
+      hl: {hanzi: "Sam 摎阿明像兄弟，佢兜毋會再冤家咧。", pinyin: "Sam lauˋ a+ min ciongˇ hiungˋ ti+, gi deuˋ m voi+ zaiˇ rhanˋ gaˋ leˋ."}
     - en: "A-min is saving money to buy a phone."
       sx: {hanzi: "阿明在該存錢，愛買手機仔。", pinyin: "aˊ minˇ du ge sunˇ qienˇ, oi maiˊ suˋ giˊ eˋ."}
       hl: {hanzi: "阿明在該存錢，愛買手機。", pinyin: "a+ min diˇ gai sun cien, oiˇ maiˋ shiuˊ giˋ."}

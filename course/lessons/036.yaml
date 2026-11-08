@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: Sam
     en: "(ten minutes later) My arm's aching…"
-    sx: {hanzi: "𠊎个手痠了……", pinyin: "ngaiˇ ge suˋ sonˊ leˊ …"}
-    hl: {hanzi: "𠊎个手痠了……", pinyin: "ngai gaiˇ shiuˊ sonˋ leˋ …"}
+    sx: {hanzi: "𠊎个手痠吔……", pinyin: "ngaiˇ ge suˋ sonˊ leˊ …"}
+    hl: {hanzi: "𠊎个手痠咧……", pinyin: "ngai gaiˇ shiuˊ sonˋ leˋ …"}
   - n: 8
     speaker: 阿明
     en: "Sam, you've got no strength! Let me do it."
@@ -53,8 +53,8 @@ dialogue:
   - n: 9
     speaker: 阿明
     en: "(three seconds of furious grinding) Done!"
-    sx: {hanzi: "好了！", pinyin: "hoˋ leˊ!"}
-    hl: {hanzi: "好了！", pinyin: "hoˊ leˋ!"}
+    sx: {hanzi: "好吔！", pinyin: "hoˋ leˊ!"}
+    hl: {hanzi: "好咧！", pinyin: "hoˊ leˋ!"}
   - n: 10
     speaker: 阿婆
     en: "Done, my foot! It's still really coarse."
@@ -74,8 +74,8 @@ dialogue:
   - n: 13
     speaker: 阿婆
     en: "This one is savoury. Use it to wash down rice and vegetables. …There, the guests are here!"
-    sx: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來了！", pinyin: "iaˋ vonˋ he hamˇ ge, zo dedˋ bongˋ fan siid. … hoˋ, nginˇ hagˋ loiˇ leˊ!"}
-    hl: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來了！", pinyin: "liaˊ vonˊ heˇ ham gaiˇ, zoˇ ded bongˊ pon+ shidˋ. … hoˊ, ngin hag loi leˋ!"}
+    sx: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來吔！", pinyin: "iaˋ vonˋ he hamˇ ge, zo dedˋ bongˋ fan siid. … hoˋ, nginˇ hagˋ loiˇ leˊ!"}
+    hl: {hanzi: "這碗係鹹个，做得傍飯食。……好，人客來咧！", pinyin: "liaˊ vonˊ heˇ ham gaiˇ, zoˇ ded bongˊ pon+ shidˋ. … hoˊ, ngin hag loi leˋ!"}
     check: true
 
 notes:
@@ -166,7 +166,7 @@ exercises:
       sx: {hanzi: "___摝仔。", pinyin: "___ lugˋ eˋ.", answer_hanzi: "摝", answer: "lugˋ"}
       hl: {hanzi: "___摝仔。", pinyin: "___ lug er.", answer_hanzi: "摝", answer: "lug"}
     - en: "My arm aches."
-      sx: {hanzi: "𠊎个手___了。", pinyin: "ngaiˇ ge suˋ ___ leˊ.", answer_hanzi: "痠", answer: "sonˊ"}
-      hl: {hanzi: "𠊎个手___了。", pinyin: "ngai gaiˇ shiuˊ ___ leˋ.", answer_hanzi: "痠", answer: "sonˋ"}
+      sx: {hanzi: "𠊎个手___吔。", pinyin: "ngaiˇ ge suˋ ___ leˊ.", answer_hanzi: "痠", answer: "sonˊ"}
+      hl: {hanzi: "𠊎个手___咧。", pinyin: "ngai gaiˇ shiuˊ ___ leˋ.", answer_hanzi: "痠", answer: "sonˋ"}
 
 audio: []

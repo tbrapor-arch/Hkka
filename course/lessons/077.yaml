@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "He went to 美濃 for two days and came back a southerner. Are you daft or what, Sam?"
-    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "giˇ hi miˊ nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong dong ia mˇ he?"}
-    hl: {hanzi: "佢去美濃兩日，轉來就變成南部人了。Sam，你戇噹抑毋係？", pinyin: "gi hiˇ mi nung liongˊ ngid, zhonˊ loi ciu+ bienˇ shang nam pu+ ngin leˋ. Sam, ngi ngongˇ dongˇ rha+ m heˇ?"}
+    sx: {hanzi: "佢去美濃兩日，轉來就變成南部人吔。Sam，你戇噹抑毋係？", pinyin: "giˇ hi miˊ nungˇ liongˋ ngidˋ, zonˋ loiˇ qiu bien sangˇ namˇ pu nginˇ leˊ. Sam, nˇ ngong dong ia mˇ he?"}
+    hl: {hanzi: "佢去美濃兩日，轉來就變成南部人咧。Sam，你戇噹抑毋係？", pinyin: "gi hiˇ mi nung liongˊ ngid, zhonˊ loi ciu+ bienˇ shang nam pu+ ngin leˋ. Sam, ngi ngongˇ dongˇ rha+ m heˇ?"}
   - n: 6
     speaker: Sam
     en: "In 美濃 they say 歸去 for 轉去, and they call 粄條 面帕粄."
@@ -50,18 +50,18 @@ dialogue:
   - n: 8
     speaker: 阿英
     en: "We did. These days they've all gone empty; the young people all go off to work elsewhere."
-    sx: {hanzi: "有。這下都空忒去了，後生人都出外食頭路。", pinyin: "iuˊ. iaˋ ha du kungˊ tedˋ hi leˊ, heu sangˊ nginˇ du cudˋ ngoi siid teuˇ lu."}
-    hl: {hanzi: "有。這下都空忒去了，後生人都出外食頭路。", pinyin: "rhiuˋ. liaˊ ha+ du+ kungˋ ted hiˇ leˋ, heu+ sangˋ ngin du+ chud ngoi+ shidˋ teu lu+."}
+    sx: {hanzi: "有。這下都空忒去吔，後生人都出外食頭路。", pinyin: "iuˊ. iaˋ ha du kungˊ tedˋ hi leˊ, heu sangˊ nginˇ du cudˋ ngoi siid teuˇ lu."}
+    hl: {hanzi: "有。這下都空忒去咧，後生人都出外食頭路。", pinyin: "rhiuˋ. liaˊ ha+ du+ kungˋ ted hiˇ leˋ, heu+ sangˋ ngin du+ chud ngoi+ shidˋ teu lu+."}
   - n: 9
     speaker: 阿公
     en: "(after a long pause) And you've come back."
-    sx: {hanzi: "你乜轉來了。", pinyin: "nˇ me zonˋ loiˇ leˊ."}
-    hl: {hanzi: "你乜轉來了。", pinyin: "ngi meˇ zhonˊ loi leˋ."}
+    sx: {hanzi: "你乜轉來吔。", pinyin: "nˇ me zonˋ loiˇ leˊ."}
+    hl: {hanzi: "你乜轉來咧。", pinyin: "ngi meˇ zhonˊ loi leˋ."}
   - n: 10
     speaker: 阿英
     en: "I have. I start at the county office next month."
-    sx: {hanzi: "係。下隻月就愛去縣政府上班了。", pinyin: "he. ha zagˋ ngied qiu oi hi ien ziin fuˋ songˊ banˊ leˊ."}
-    hl: {hanzi: "係。下隻月就愛去縣政府上班了。", pinyin: "heˇ. ha+ zhag ngiedˋ ciu+ oiˇ hiˇ rhanˇ zhinˇ fuˊ shongˋ banˋ leˋ."}
+    sx: {hanzi: "係。下隻月就愛去縣政府上班吔。", pinyin: "he. ha zagˋ ngied qiu oi hi ien ziin fuˋ songˊ banˊ leˊ."}
+    hl: {hanzi: "係。下隻月就愛去縣政府上班咧。", pinyin: "heˇ. ha+ zhag ngiedˋ ciu+ oiˇ hiˇ rhanˇ zhinˇ fuˊ shongˋ banˋ leˋ."}
   - n: 11
     speaker: 阿姆
     en: "Then I'll keep this umbrella for the day you start. Remember to go to bed early the night before!"
@@ -96,7 +96,7 @@ notes:
   - ref: 9
     topic: culture
     text: >
-      Grandpa's 你乜轉來了 "and you've come back" answers A-in's line about the young people leaving: he says only two short
+      Grandpa's 你乜轉來吔 "and you've come back" answers A-in's line about the young people leaving: he says only two short
       lines in this lesson, and this one is about her.
   - ref: 11
     topic: grammar
@@ -118,8 +118,8 @@ exercises:
       sx: {hanzi: "𠊎等禮拜日歸去，蓋遠。", pinyin: "ngaiˇ denˋ liˊ bai ngidˋ guiˊ hi, goi ienˋ."}
       hl: {hanzi: "𠊎兜禮拜日轉去，當遠。", pinyin: "ngai deuˋ liˋ baiˇ ngid zhonˊ hiˇ, dongˋ rhanˊ."}
     - en: "Umbrellas used to keep off the rain; now, of all things, they've become works of art."
-      sx: {hanzi: "遮仔頭擺係用來抵雨个，這下嗄變成藝術品了。", pinyin: "zaˊ eˋ teuˇ baiˋ he iung loiˇ daiˋ iˋ ge, iaˋ ha sa bien sangˇ ngi sud pinˋ leˊ."}
-      hl: {hanzi: "遮仔頭擺係用來抵水个，這下嗄變成藝術品了。", pinyin: "zhaˋ er teu baiˊ heˇ rhung+ loi diˊ shuiˊ gaiˇ, liaˊ ha+ saˇ bienˇ shang ngi+ sudˋ pinˊ leˋ."}
+      sx: {hanzi: "遮仔頭擺係用來抵雨个，這下嗄變成藝術品吔。", pinyin: "zaˊ eˋ teuˇ baiˋ he iung loiˇ daiˋ iˋ ge, iaˋ ha sa bien sangˇ ngi sud pinˋ leˊ."}
+      hl: {hanzi: "遮仔頭擺係用來抵水个，這下嗄變成藝術品咧。", pinyin: "zhaˋ er teu baiˊ heˇ rhung+ loi diˊ shuiˊ gaiˇ, liaˊ ha+ saˇ bienˇ shang ngi+ sudˋ pinˊ leˋ."}
     - en: "Have you ever been to a 菸樓? — Yes, last week."
       sx: {hanzi: "你有去過菸樓無？——有，上禮拜去過。", pinyin: "nˇ iuˊ hi go ienˊ leuˇ moˇ? — iuˊ, song liˊ bai hi go."}
       hl: {hanzi: "你有去過菸樓無？——有，上禮拜去過。", pinyin: "ngi rhiuˋ hiˇ goˇ rhanˋ leu mo? — rhiuˋ, shong+ liˋ baiˇ hiˇ goˇ."}

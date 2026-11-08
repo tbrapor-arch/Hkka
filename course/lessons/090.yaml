@@ -29,8 +29,8 @@ dialogue:
   - n: 4
     speaker: 消防隊員
     en: "(a rescuer, from below) We see it! Don't move! We're the fire brigade, we're coming up close to get you!"
-    sx: {hanzi: "看著了！莫動！𠊎兜係消防隊，偎過來搶救你兜！", pinyin: "kon doˋ leˊ! mog tungˊ! ngaiˇ deuˊ he seuˊ fongˇ cui, vaˋ go loiˇ qiongˋ giu nˇ deuˊ!"}
-    hl: {hanzi: "看著了！莫動！𠊎兜係消防隊，偎過來搶救你兜！", pinyin: "konˇ doˊ leˋ! mogˋ tungˋ! ngai deuˋ heˇ siauˋ fong chui+, vaˊ goˇ loi ciongˊ giuˇ ngi deuˋ!"}
+    sx: {hanzi: "看著吔！莫動！𠊎兜係消防隊，偎過來搶救你兜！", pinyin: "kon doˋ leˊ! mog tungˊ! ngaiˇ deuˊ he seuˊ fongˇ cui, vaˋ go loiˇ qiongˋ giu nˇ deuˊ!"}
+    hl: {hanzi: "看著咧！莫動！𠊎兜係消防隊，偎過來搶救你兜！", pinyin: "konˇ doˊ leˋ! mogˋ tungˋ! ngai deuˋ heˇ siauˋ fong chui+, vaˊ goˇ loi ciongˊ giuˇ ngi deuˋ!"}
   - n: 5
     speaker: 阿英
     en: "(arriving out of breath, torch in hand) Is anyone hurt? We've been walking so fast we're dripping with sweat!"
@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "A-min's twisted his ankle. He can't walk on it."
-    sx: {hanzi: "阿明个腳目珠扭著了，行毋得。", pinyin: "aˊ minˇ ge giogˋ mugˋ zuˊ ngiuˋ doˋ leˊ, hangˇ mˇ dedˋ."}
-    hl: {hanzi: "阿明个腳目珠偏著了，行毋得。", pinyin: "a+ min gaiˇ giog mug zhuˋ pienˋ doˊ leˋ, hang m ded."}
+    sx: {hanzi: "阿明个腳目珠扭著吔，行毋得。", pinyin: "aˊ minˇ ge giogˋ mugˋ zuˊ ngiuˋ doˋ leˊ, hangˇ mˇ dedˋ."}
+    hl: {hanzi: "阿明个腳目珠偏著咧，行毋得。", pinyin: "a+ min gaiˇ giog mug zhuˋ pienˋ doˊ leˋ, hang m ded."}
   - n: 7
     speaker: 阿爸
     en: "Don't be frightened. Dad'll carry you on his back."
@@ -54,8 +54,8 @@ dialogue:
   - n: 9
     speaker: 阿爸
     en: "Never mind that. It's dark: walk slowly, walk carefully, follow the torch. Sam, give A-in your arm."
-    sx: {hanzi: "莫講了。暗晡頭，慢慢仔行，細義行，跈等手電筒仔。Sam，你扶阿英。", pinyin: "mog gongˋ leˊ. am buˊ teuˇ, man man eˋ hangˇ, se ngi hangˇ, tenˇ denˋ suˋ tien tungˇ eˋ. Sam, nˇ fuˇ aˊ inˊ."}
-    hl: {hanzi: "莫講了。暗晡頭，慢慢仔行，細義行，跈等手電筒仔。Sam，你扶阿英。", pinyin: "mogˋ gongˊ leˋ. amˇ buˋ teu, man+ man+ er hang, seˇ ngi+ hang, ten denˊ shiuˊ tien+ tung er. Sam, ngi fu a+ rhinˋ."}
+    sx: {hanzi: "莫講吔。暗晡頭，慢慢仔行，細義行，跈等手電筒仔。Sam，你扶阿英。", pinyin: "mog gongˋ leˊ. am buˊ teuˇ, man man eˋ hangˇ, se ngi hangˇ, tenˇ denˋ suˋ tien tungˇ eˋ. Sam, nˇ fuˇ aˊ inˊ."}
+    hl: {hanzi: "莫講咧。暗晡頭，慢慢仔行，細義行，跈等手電筒仔。Sam，你扶阿英。", pinyin: "mogˋ gongˊ leˋ. amˇ buˋ teu, man+ man+ er hang, seˇ ngi+ hang, ten denˊ shiuˊ tien+ tung er. Sam, ngi fu a+ rhinˋ."}
   - n: 10
     speaker: 阿英
     en: "(to Sam, on the way down) Why didn't you call?"
@@ -69,8 +69,8 @@ dialogue:
   - n: 12
     speaker: 阿英
     en: "Grandma was so frightened she couldn't eat. She phoned 119 and called the fire brigade, the police and an ambulance. As soon as we're back at the car, call her, quick!"
-    sx: {hanzi: "阿婆嚇著了，驚到食毋落飯。佢打一一九，喊消防隊、警察同救護車來救你兜。到車項，遽遽打電話分佢！", pinyin: "aˊ poˇ hagˋ doˋ leˊ, giangˊ do siid mˇ log fan. giˇ daˋ idˋ idˋ giuˋ, ham seuˊ fongˇ cui, ginˋ cadˋ tungˇ giu fu caˊ loiˇ giu nˇ deuˊ. do caˊ hong, giagˋ giagˋ daˋ tien fa bunˊ giˇ!"}
-    hl: {hanzi: "阿婆嚇著了，驚到食毋落飯。佢打一一九，喊消防隊、警察摎救護車來救你兜。到車項，遽遽打電話分佢！", pinyin: "a+ po hag doˊ leˋ, giangˋ doˇ shidˋ m logˋ pon+. gi daˊ rhid rhid giuˊ, hamˇ siauˋ fong chui+, ginˇ cad lauˋ giuˇ fu+ chaˋ loi giuˇ ngi deuˋ. doˇ chaˋ hong+, giag giag daˊ tien+ faˇ bunˋ gi!"}
+    sx: {hanzi: "阿婆嚇著吔，驚到食毋落飯。佢打一一九，喊消防隊、警察同救護車來救你兜。到車項，遽遽打電話分佢！", pinyin: "aˊ poˇ hagˋ doˋ leˊ, giangˊ do siid mˇ log fan. giˇ daˋ idˋ idˋ giuˋ, ham seuˊ fongˇ cui, ginˋ cadˋ tungˇ giu fu caˊ loiˇ giu nˇ deuˊ. do caˊ hong, giagˋ giagˋ daˋ tien fa bunˊ giˇ!"}
+    hl: {hanzi: "阿婆嚇著咧，驚到食毋落飯。佢打一一九，喊消防隊、警察摎救護車來救你兜。到車項，遽遽打電話分佢！", pinyin: "a+ po hag doˊ leˋ, giangˋ doˇ shidˋ m logˋ pon+. gi daˊ rhid rhid giuˊ, hamˇ siauˋ fong chui+, ginˇ cad lauˋ giuˇ fu+ chaˋ loi giuˇ ngi deuˋ. doˇ chaˋ hong+, giag giag daˊ tien+ faˇ bunˋ gi!"}
   - n: 13
     speaker: 阿婆
     en: "(at home, eleven at night, running out to the car, crying and trembling) A-min! Sam! You're back safe, that's all that matters!"
@@ -79,19 +79,19 @@ dialogue:
   - n: 14
     speaker: 阿婆
     en: "Seeing you back safe, my heart can rest."
-    sx: {hanzi: "看著你兜平安轉來，𠊎心肝頭就寬心了。", pinyin: "kon doˋ nˇ deuˊ pinˇ onˊ zonˋ loiˇ, ngaiˇ ximˊ gonˊ teuˇ qiu konˊ ximˊ leˊ."}
-    hl: {hanzi: "看著你兜平安轉來，𠊎心肝頭就寬心了。", pinyin: "konˇ doˊ ngi deuˋ pin onˋ zhonˊ loi, ngai simˋ gonˋ teu ciu+ konˋ simˋ leˋ."}
+    sx: {hanzi: "看著你兜平安轉來，𠊎心肝頭就寬心吔。", pinyin: "kon doˋ nˇ deuˊ pinˇ onˊ zonˋ loiˇ, ngaiˇ ximˊ gonˊ teuˇ qiu konˊ ximˊ leˊ."}
+    hl: {hanzi: "看著你兜平安轉來，𠊎心肝頭就寬心咧。", pinyin: "konˇ doˊ ngi deuˋ pin onˋ zhonˊ loi, ngai simˋ gonˋ teu ciu+ konˋ simˋ leˋ."}
     check: true
   - n: 15
     speaker: 阿公
     en: "(at the door) …Back."
-    sx: {hanzi: "……轉來了。", pinyin: "… zonˋ loiˇ leˊ."}
-    hl: {hanzi: "……轉來了。", pinyin: "… zhonˊ loi leˋ."}
+    sx: {hanzi: "……轉來吔。", pinyin: "… zonˋ loiˇ leˊ."}
+    hl: {hanzi: "……轉來咧。", pinyin: "… zhonˊ loi leˋ."}
   - n: 16
     speaker: 阿英
     en: "Grandma, don't cry. Look, your hands are shaking."
-    sx: {hanzi: "阿婆，莫噭了。你看，你个手緊掣。", pinyin: "aˊ poˇ, mog gieu leˊ. nˇ kon, nˇ ge suˋ ginˋ cadˋ."}
-    hl: {hanzi: "阿婆，莫噭了。你看，你个手緊掣。", pinyin: "a+ po, mogˋ giauˇ leˋ. ngi konˇ, ngi gaiˇ shiuˊ ginˊ chad."}
+    sx: {hanzi: "阿婆，莫噭吔。你看，你个手緊掣。", pinyin: "aˊ poˇ, mog gieu leˊ. nˇ kon, nˇ ge suˋ ginˋ cadˋ."}
+    hl: {hanzi: "阿婆，莫噭咧。你看，你个手緊掣。", pinyin: "a+ po, mogˋ giauˇ leˋ. ngi konˇ, ngi gaiˇ shiuˊ ginˊ chad."}
     check: true
   - n: 17
     speaker: 阿明
@@ -143,13 +143,13 @@ notes:
   - ref: 14
     topic: grammar
     text: >
-      Grandma's line adapts an official sentence (看著佢平安轉來，大家就寬心了 "seeing him back safe, everyone was at ease").
+      Grandma's line adapts an official sentence (看著佢平安轉來，大家就寬心吔 "seeing him back safe, everyone was at ease").
       寬心 konˊ ximˊ "be at ease" (kaga115: 安心、放心); 心肝頭 "in one's heart". Her version doubles the "heart", the way
       relief does, so it is marked for checking.
   - ref: 15
     topic: culture
     text: >
-      Grandpa's three syllables at the door, 轉來了, say everything he has to say.
+      Grandpa's three syllables at the door, 轉來吔, say everything he has to say.
   - ref: 18
     topic: vocab
     text: >
@@ -211,8 +211,8 @@ exercises:
       hl: {hanzi: "火燒屋愛通知消防隊來救火。", pinyin: "foˊ shauˋ vug oiˇ tungˋ diˋ siauˋ fong chui+ loi giuˇ foˊ."}
       source: kaga
     - en: "Grandma got such a fright her heart was racing."
-      sx: {hanzi: "阿婆嚇著了，心跳當遽。", pinyin: "aˊ poˇ hagˋ doˋ leˊ, ximˊ tiau dongˊ giagˋ."}
-      hl: {hanzi: "阿婆嚇著了，心跳當遽。", pinyin: "a+ po hag doˊ leˋ, simˋ tiauˇ dongˋ giag."}
+      sx: {hanzi: "阿婆嚇著吔，心跳當遽。", pinyin: "aˊ poˇ hagˋ doˋ leˊ, ximˊ tiau dongˊ giagˋ."}
+      hl: {hanzi: "阿婆嚇著咧，心跳當遽。", pinyin: "a+ po hag doˊ leˋ, simˋ tiauˇ dongˋ giag."}
       check: true
   fill:
     - en: "Don't be frightened!"

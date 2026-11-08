@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿英
     en: "Everyone, I've got something to say. I've decided: I'm going for the interview at the county government."
-    sx: {hanzi: "大家，𠊎有事情愛講。𠊎決定了：𠊎愛去縣政府面試。", pinyin: "tai gaˊ, ngaiˇ iuˊ sii qinˇ oi gongˋ. ngaiˇ giedˋ tin leˊ: ngaiˇ oi hi ien ziin fuˋ mien cii."}
-    hl: {hanzi: "大家，𠊎有事情愛講。𠊎決定了：𠊎愛去縣政府面試。", pinyin: "tai+ gaˋ, ngai rhiuˋ sii+ cin oiˇ gongˊ. ngai gied tin+ leˋ: ngai oiˇ hiˇ rhanˇ zhinˇ fuˊ mienˇ chiˇ."}
+    sx: {hanzi: "大家，𠊎有事情愛講。𠊎決定吔：𠊎愛去縣政府面試。", pinyin: "tai gaˊ, ngaiˇ iuˊ sii qinˇ oi gongˋ. ngaiˇ giedˋ tin leˊ: ngaiˇ oi hi ien ziin fuˋ mien cii."}
+    hl: {hanzi: "大家，𠊎有事情愛講。𠊎決定咧：𠊎愛去縣政府面試。", pinyin: "tai+ gaˋ, ngai rhiuˋ sii+ cin oiˇ gongˊ. ngai gied tin+ leˋ: ngai oiˇ hiˇ rhanˇ zhinˇ fuˊ mienˇ chiˇ."}
     check: true
   - n: 7
     speaker: 阿姆
@@ -126,8 +126,8 @@ exercises:
       sx: {hanzi: "你愛___！", pinyin: "nˇ oi ___!", answer_hanzi: "轉來", answer: "zonˋ loiˇ"}
       hl: {hanzi: "你愛___！", pinyin: "ngi oiˇ ___!", answer_hanzi: "轉來", answer: "zhonˊ loi"}
     - en: "You gave me a fright!"
-      sx: {hanzi: "___𠊎了！", pinyin: "___ ngaiˇ leˊ!", answer_hanzi: "嚇著", answer: "hagˋ doˋ"}
-      hl: {hanzi: "___𠊎了！", pinyin: "___ ngai leˋ!", answer_hanzi: "嚇著", answer: "hag doˊ"}
+      sx: {hanzi: "___𠊎吔！", pinyin: "___ ngaiˇ leˊ!", answer_hanzi: "嚇著", answer: "hagˋ doˋ"}
+      hl: {hanzi: "___𠊎咧！", pinyin: "___ ngai leˋ!", answer_hanzi: "嚇著", answer: "hag doˊ"}
     - en: "I'd rather earn less."
       sx: {hanzi: "𠊎___月給少兜。", pinyin: "ngaiˇ ___ ngied gibˋ seuˋ deuˊ.", answer_hanzi: "甘願", answer: "gamˊ ngien"}
       hl: {hanzi: "𠊎___月給少兜。", pinyin: "ngai ___ ngiedˋ gib shauˊ deuˋ.", answer_hanzi: "甘願", answer: "gamˋ ngien+"}

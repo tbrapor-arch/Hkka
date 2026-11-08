@@ -104,8 +104,8 @@ dialogue:
   - n: 19
     speaker: 阿公
     en: "'A felt hat on your knee…' (nobody knows it) '…no face, no eyes: shameless.' So in the end, I win."
-    sx: {hanzi: "膝頭戴氈帽……無面無目。結果，𠊎贏了。", pinyin: "qidˋ teuˇ dai zamˊ mo … moˇ mien moˇ mugˋ. giedˋ goˋ, ngaiˇ iangˇ leˊ."}
-    hl: {hanzi: "膝頭戴氈帽……無面無目。結果，𠊎贏了。", pinyin: "cid teu daiˇ zhanˋ mo+ … mo mienˇ mo mug. gied goˊ, ngai rhang leˋ."}
+    sx: {hanzi: "膝頭戴氈帽……無面無目。結果，𠊎贏吔。", pinyin: "qidˋ teuˇ dai zamˊ mo … moˇ mien moˇ mugˋ. giedˋ goˋ, ngaiˇ iangˇ leˊ."}
+    hl: {hanzi: "膝頭戴氈帽……無面無目。結果，𠊎贏咧。", pinyin: "cid teu daiˇ zhanˋ mo+ … mo mienˇ mo mug. gied goˊ, ngai rhang leˋ."}
   - n: 20
     speaker: 阿明
     en: "(looking up) Grandma, is there a rabbit on the moon?"

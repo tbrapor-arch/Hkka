@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿英
     en: "I've signed you up. The topic's out: 'Hakka and me'."
-    sx: {hanzi: "𠊎同你報名了。題目出來了：「客話同𠊎」。", pinyin: "ngaiˇ tungˇ nˇ bo miangˇ leˊ. tiˇ mug cudˋ loiˇ leˊ: hagˋ fa tungˇ ngaiˇ."}
-    hl: {hanzi: "𠊎摎你報名了。題目出來了：「客話摎𠊎」。", pinyin: "ngai lauˋ ngi boˇ miang leˋ. ti mug chud loi leˋ: hag voiˋ lauˋ ngai."}
+    sx: {hanzi: "𠊎同你報名吔。題目出來吔：「客話同𠊎」。", pinyin: "ngaiˇ tungˇ nˇ bo miangˇ leˊ. tiˇ mug cudˋ loiˇ leˊ: hagˋ fa tungˇ ngaiˇ."}
+    hl: {hanzi: "𠊎摎你報名咧。題目出來咧：「客話摎𠊎」。", pinyin: "ngai lauˋ ngi boˇ miang leˋ. ti mug chud loi leˋ: hag voiˋ lauˋ ngai."}
   - n: 2
     speaker: Sam
     en: "As simple as that?"
@@ -55,8 +55,8 @@ dialogue:
   - n: 9
     speaker: Sam
     en: "That doesn't need to go in…"
-    sx: {hanzi: "該就毋使寫了……", pinyin: "ge qiu mˇ siiˋ xiaˋ leˊ …"}
-    hl: {hanzi: "該就毋使寫了……", pinyin: "gai ciu+ m siiˊ siaˊ leˋ …"}
+    sx: {hanzi: "該就毋使寫吔……", pinyin: "ge qiu mˇ siiˋ xiaˋ leˊ …"}
+    hl: {hanzi: "該就毋使寫咧……", pinyin: "gai ciu+ m siiˊ siaˊ leˋ …"}
   - n: 10
     speaker: 阿英
     en: "My suggestion: you need to say why you learnt it. 'For the sake of…' what?"
@@ -99,14 +99,14 @@ notes:
   - ref: 1
     topic: vocab
     text: >
-      報名 bo miangˇ "sign up, enter (one's name)"; 𠊎同你報名了 "I've entered you" (同 + person "for someone", lesson 40).
+      報名 bo miangˇ "sign up, enter (one's name)"; 𠊎同你報名吔 "I've entered you" (同 + person "for someone", lesson 40).
       An MOE example sets the scene (exercise 1; Sixian only, the Hailu column is the course's version): 佢一心想愛拿著
       下隻月客話演講比賽个第一名，這下逐日當煞猛練習 "he is set on winning next month's Hakka speech contest and practises
       hard every day".
   - ref: 3
     topic: grammar
     text: >
-      無恁簡單 "it's not that simple" (MOE: 可能無恁簡單), the answer to 恁簡單？; 無恁該 (lesson 86) is its cousin. 五分鐘左右 "about five minutes": 左右 zoˋ iu after a number, as in Mandarin (再過十分鐘左右，演講比賽就開始了,
+      無恁簡單 "it's not that simple" (MOE: 可能無恁簡單), the answer to 恁簡單？; 無恁該 (lesson 86) is its cousin. 五分鐘左右 "about five minutes": 左右 zoˋ iu after a number, as in Mandarin (再過十分鐘左右，演講比賽就開始吔,
       official). 內容 "content", 句仔 gi eˋ "sentence". 句仔愛順 "the sentences must flow" is the course's phrasing.
   - ref: 5
     topic: vocab

@@ -48,13 +48,13 @@ dialogue:
   - n: 8
     speaker: 細妹仔
     en: "(two minutes later) Here's the station. The shop's just opposite."
-    sx: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˋ caˊ teuˇ do leˊ. diam qiu coiˊ dui mien."}
-    hl: {hanzi: "火車頭到了。店就在對面。", pinyin: "foˊ chaˋ teu doˇ leˋ. diamˇ ciu+ coiˋ duiˇ mienˇ."}
+    sx: {hanzi: "火車頭到吔。店就在對面。", pinyin: "foˋ caˊ teuˇ do leˊ. diam qiu coiˊ dui mien."}
+    hl: {hanzi: "火車頭到咧。店就在對面。", pinyin: "foˊ chaˋ teu doˇ leˋ. diamˇ ciu+ coiˋ duiˇ mienˇ."}
   - n: 9
     speaker: Sam
     en: "Thank you! …I walked past it three times."
-    sx: {hanzi: "恁仔細！……𠊎行過去三擺了！", pinyin: "anˋ ziiˋ se! … ngaiˇ hangˇ go hi samˊ baiˋ leˊ!"}
-    hl: {hanzi: "承蒙你！……𠊎行過去三擺了！", pinyin: "shin mung ngi! … ngai hang goˇ hiˇ samˋ baiˊ leˋ!"}
+    sx: {hanzi: "恁仔細！……𠊎行過去三擺吔！", pinyin: "anˋ ziiˋ se! … ngaiˇ hangˇ go hi samˊ baiˋ leˊ!"}
+    hl: {hanzi: "承蒙你！……𠊎行過去三擺咧！", pinyin: "shin mung ngi! … ngai hang goˇ hiˇ samˋ baiˊ leˋ!"}
   - n: 10
     speaker: 細妹仔
     en: "(laughing) I'll tell A-min!"
@@ -88,7 +88,7 @@ notes:
   - ref: 8
     topic: vocab
     text: >
-      火車頭到了 "here's the station", literally "the station has arrived": 到 do "arrive". 店 diam "shop"; 對面 dui mien
+      火車頭到吔 "here's the station", literally "the station has arrived": 到 do "arrive". 店 diam "shop"; 對面 dui mien
       "opposite, across the street", as in Mandarin.
   - ref: 9
     topic: grammar
@@ -133,8 +133,8 @@ exercises:
       sx: {hanzi: "細个店在學校後背。", pinyin: "se ge diam coiˊ hog gauˋ heu boi."}
       hl: {hanzi: "細个店在學校後背。", pinyin: "seˇ gaiˇ diamˇ coiˋ hogˋ gauˊ heu+ boiˇ."}
     - en: "Grandpa has gone out; Grandma has gone into the garden."
-      sx: {hanzi: "阿公出去了，阿婆去菜園了。", pinyin: "aˊ gungˊ cudˋ hi leˊ, aˊ poˇ hi coi ienˇ leˊ."}
-      hl: {hanzi: "阿公出去了，阿婆去菜園了。", pinyin: "a+ gungˋ chud hiˇ leˋ, a+ po hiˇ coiˇ rhan leˋ."}
+      sx: {hanzi: "阿公出去吔，阿婆去菜園吔。", pinyin: "aˊ gungˊ cudˋ hi leˊ, aˊ poˇ hi coi ienˇ leˊ."}
+      hl: {hanzi: "阿公出去咧，阿婆去菜園咧。", pinyin: "a+ gungˋ chud hiˇ leˋ, a+ po hiˇ coiˇ rhan leˋ."}
     - en: "Every time I come, A-min is at school."
       sx: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngaiˇ dagˋ baiˋ loiˇ, aˊ minˇ du coiˊ hog gauˋ."}
       hl: {hanzi: "𠊎逐擺來，阿明都在學校。", pinyin: "ngai dag baiˊ loi, a+ min du+ coiˋ hogˋ gauˊ."}

@@ -78,8 +78,8 @@ dialogue:
   - n: 14
     speaker: 阿婆
     en: "Twenty-six already… that's getting on! A-in, when are you going to get married?"
-    sx: {hanzi: "二十六歲了，老了……阿英，你幾時愛嫁？", pinyin: "ngi siib liugˋ se leˊ, loˋ leˊ … aˊ inˊ, nˇ giˋ siiˇ oi ga?"}
-    hl: {hanzi: "二十六歲了，老了……阿英，你幾時愛嫁？", pinyin: "ngi+ shibˋ liug soiˇ leˋ, loˊ leˋ … a+ rhinˋ, ngi giˊ shi oiˇ gaˇ?"}
+    sx: {hanzi: "二十六歲吔，老吔……阿英，你幾時愛嫁？", pinyin: "ngi siib liugˋ se leˊ, loˋ leˊ … aˊ inˊ, nˇ giˋ siiˇ oi ga?"}
+    hl: {hanzi: "二十六歲咧，老咧……阿英，你幾時愛嫁？", pinyin: "ngi+ shibˋ liug soiˇ leˋ, loˊ leˋ … a+ rhinˋ, ngi giˊ shi oiˇ gaˇ?"}
   - n: 15
     speaker: 阿英
     en: "Grandma!"
@@ -127,7 +127,7 @@ notes:
     topic: culture
     text: >
       幾時 giˋ siiˇ "when": 你幾時愛嫁？ "when are you going to get married?". Grandma asked the gods in lesson 23; now
-      she asks A-in directly, in front of everyone, on her birthday. Some questions are a grandmother's privilege. 老了 "getting old": 老 loˋ "old" (of people and things).
+      she asks A-in directly, in front of everyone, on her birthday. Some questions are a grandmother's privilege. 老吔 "getting old": 老 loˋ "old" (of people and things).
   - ref: 0
     topic: hailu
     text: >
@@ -165,8 +165,8 @@ exercises:
       sx: {hanzi: "你个生日係幾時？", pinyin: "nˇ ge sangˊ ngidˋ he giˋ siiˇ?"}
       hl: {hanzi: "你个生日係幾時？", pinyin: "ngi gaiˇ sangˋ ngid heˇ giˊ shi?"}
     - en: "Grandpa is getting on in years: seventy-eight, with two grandchildren."
-      sx: {hanzi: "阿公歲數大了：七十八歲，有兩隻孫仔。", pinyin: "aˊ gungˊ se sii tai leˊ: qidˋ siib badˋ se, iuˊ liongˋ zagˋ sunˊ eˋ."}
-      hl: {hanzi: "阿公歲數大了：七十八歲，有兩隻孫仔。", pinyin: "a+ gungˋ soiˇ siiˇ tai+ leˋ: cid shibˋ bad soiˇ, rhiuˋ liongˊ zhag sunˋ er."}
+      sx: {hanzi: "阿公歲數大吔：七十八歲，有兩隻孫仔。", pinyin: "aˊ gungˊ se sii tai leˊ: qidˋ siib badˋ se, iuˊ liongˋ zagˋ sunˊ eˋ."}
+      hl: {hanzi: "阿公歲數大咧：七十八歲，有兩隻孫仔。", pinyin: "a+ gungˋ soiˇ siiˇ tai+ leˋ: cid shibˋ bad soiˇ, rhiuˋ liongˊ zhag sunˋ er."}
     - en: "Last week I borrowed money from A-min."
       sx: {hanzi: "上禮拜𠊎同阿明借錢。", pinyin: "song liˊ bai ngaiˇ tungˇ aˊ minˇ jia qienˇ."}
       hl: {hanzi: "上禮拜𠊎摎阿明借錢。", pinyin: "shong+ liˋ baiˇ ngai lauˋ a+ min ziaˇ cien."}
@@ -174,8 +174,8 @@ exercises:
       sx: {hanzi: "生日一年正一擺，大家拍手唱歌。", pinyin: "sangˊ ngidˋ idˋ ngienˇ zang idˋ baiˋ, tai gaˊ pogˋ suˋ cong goˊ."}
       hl: {hanzi: "生日一年正一擺，大家拍手唱歌。", pinyin: "sangˋ ngid rhid ngien zhangˇ rhid baiˊ, tai+ gaˋ pog shiuˊ chongˇ goˋ."}
     - en: "A-in isn't a child any more: last year she was twenty-five, now she's twenty-six!"
-      sx: {hanzi: "阿英毋係細人仔了：舊年二十五歲，這下二十六歲了！", pinyin: "aˊ inˊ mˇ he se nginˇ eˋ leˊ: kiu ngienˇ ngi siib ngˋ se, iaˋ ha ngi siib liugˋ se leˊ!"}
-      hl: {hanzi: "阿英毋係細人仔了：舊年二十五歲，這下二十六歲了！", pinyin: "a+ rhinˋ m heˇ seˇ ngin er leˋ: kiu+ ngien ngi+ shibˋ ngˊ soiˇ, liaˊ ha+ ngi+ shibˋ liug soiˇ leˋ!"}
+      sx: {hanzi: "阿英毋係細人仔吔：舊年二十五歲，這下二十六歲吔！", pinyin: "aˊ inˊ mˇ he se nginˇ eˋ leˊ: kiu ngienˇ ngi siib ngˋ se, iaˋ ha ngi siib liugˋ se leˊ!"}
+      hl: {hanzi: "阿英毋係細人仔咧：舊年二十五歲，這下二十六歲咧！", pinyin: "a+ rhinˋ m heˇ seˇ ngin er leˋ: kiu+ ngien ngi+ shibˋ ngˊ soiˇ, liaˊ ha+ ngi+ shibˋ liug soiˇ leˋ!"}
   fill:
     - en: "Two cakes."
       sx: {hanzi: "___隻雞卵糕。", pinyin: "___ zagˋ gieˊ lonˋ gauˊ.", answer_hanzi: "兩", answer: "liongˋ"}

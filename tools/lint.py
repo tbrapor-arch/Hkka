@@ -36,7 +36,9 @@ ACC = {"sx": "sixian", "hl": "hailu"}
 HARD = {"false-friend", "hakka-only"}
 # Particles the lists only contain inside longer entries: 啊 in 動啊着 tungˊ a doˋ / tungˋ a+ doˊ, 睞啊過 (kaga), and
 # in the MOE example sentences 嗒看啊, 試看啊, 看看啊 (VV啊 and V看啊, lesson 36).
-PARTICLES = {"sixian": {"啊": "a55"}, "hailu": {"啊": "a33"}}
+PARTICLES = {"sixian": {"啊": "a55", "吔": "le24"}, "hailu": {"啊": "a33"}}
+# 吔: the 115年度 lists write the sentence-final particle 吔 in Sixian (about 650 sentences, against 6 with 了) but give
+# it no reading; the course reads it as MOE's 了 leˊ (le24). Hailu writes 咧 leˋ, which the lists have as a word.
 
 
 def caps(n):

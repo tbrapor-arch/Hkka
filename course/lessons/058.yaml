@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿蘭嫂
     en: "Take a break, have some breakfast. I've brought rice porridge, nice and hot, with dried radish and fermented tofu. Here are the spoons."
-    sx: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒，還有菜脯摎豆腐乳。湯匙在這。", pinyin: "hiedˋ idˋ ha, siid zeuˊ. ngaiˇ zuˋ moiˇ loiˇ leˊ, seuˊ seuˊ, hanˇ iuˊ coi puˋ lauˊ teu fu iˊ. tongˊ ciiˇ coiˊ iaˋ."}
-    hl: {hanzi: "歇一下，食朝。𠊎煮糜來了，燒燒，還有菜脯摎豆腐乳。湯匙在這。", pinyin: "hied rhid ha+, shidˋ zhauˋ. ngai zhuˊ moi loi leˋ, shauˋ shauˋ, han rhiuˋ coiˇ buˊ lauˋ teu+ fu+ rhi. tongˋ shi coiˋ liaˊ."}
+    sx: {hanzi: "歇一下，食朝。𠊎煮糜來吔，燒燒，還有菜脯摎豆腐乳。湯匙在這。", pinyin: "hiedˋ idˋ ha, siid zeuˊ. ngaiˇ zuˋ moiˇ loiˇ leˊ, seuˊ seuˊ, hanˇ iuˊ coi puˋ lauˊ teu fu iˊ. tongˊ ciiˇ coiˊ iaˋ."}
+    hl: {hanzi: "歇一下，食朝。𠊎煮糜來咧，燒燒，還有菜脯摎豆腐乳。湯匙在這。", pinyin: "hied rhid ha+, shidˋ zhauˋ. ngai zhuˊ moi loi leˋ, shauˋ shauˋ, han rhiuˋ coiˇ buˊ lauˋ teu+ fu+ rhi. tongˋ shi coiˋ liaˊ."}
   - n: 2
     speaker: Sam
     en: "Porridge? Lovely! I always have bread in the morning."
@@ -28,8 +28,8 @@ dialogue:
   - n: 4
     speaker: 阿傑
     en: "Some say 糜, some say something else. Sam, your Hailu's getting better and better."
-    sx: {hanzi: "有講糜个，乜有講別樣个。Sam，你个海陸話越來越好了。", pinyin: "iuˊ gongˋ moiˇ ge, me iuˊ gongˋ ped iong ge. Sam, nˇ ge hoiˋ liugˋ fa ied loiˇ ied hoˋ leˊ."}
-    hl: {hanzi: "有講糜个，乜有講別樣个。Sam，你个海陸話越來越好了。", pinyin: "rhiuˋ gongˊ moi gaiˇ, meˇ rhiuˋ gongˊ pedˋ rhong+ gaiˇ. Sam, ngi gaiˇ hoiˊ liugˋ voiˋ rhadˋ loi rhadˋ hoˊ leˋ."}
+    sx: {hanzi: "有講糜个，乜有講別樣个。Sam，你个海陸話越來越好吔。", pinyin: "iuˊ gongˋ moiˇ ge, me iuˊ gongˋ ped iong ge. Sam, nˇ ge hoiˋ liugˋ fa ied loiˇ ied hoˋ leˊ."}
+    hl: {hanzi: "有講糜个，乜有講別樣个。Sam，你个海陸話越來越好咧。", pinyin: "rhiuˋ gongˊ moi gaiˇ, meˇ rhiuˋ gongˊ pedˋ rhong+ gaiˇ. Sam, ngi gaiˇ hoiˊ liugˋ voiˋ rhadˋ loi rhadˋ hoˊ leˋ."}
   - n: 5
     speaker: Sam
     en: "Better and better? No: the more I speak, the more mixed up it gets."
@@ -69,18 +69,18 @@ dialogue:
   - n: 12
     speaker: 阿蘭嫂
     en: "Look at that: Sam's embarrassed! He's gone all red in the face!"
-    sx: {hanzi: "你看，Sam 見笑了！面紅紅！", pinyin: "nˇ kon, Sam gien seu leˊ! mien fungˇ fungˇ!"}
-    hl: {hanzi: "你看，Sam 見笑了！面紅紅！", pinyin: "ngi konˇ, Sam gienˇ siauˇ leˋ! mienˇ fung fung!"}
+    sx: {hanzi: "你看，Sam 見笑吔！面紅紅！", pinyin: "nˇ kon, Sam gien seu leˊ! mien fungˇ fungˇ!"}
+    hl: {hanzi: "你看，Sam 見笑咧！面紅紅！", pinyin: "ngi konˇ, Sam gienˇ siauˇ leˋ! mienˇ fung fung!"}
   - n: 13
     speaker: 阿傑
     en: "Ohh… I get it."
-    sx: {hanzi: "……𠊎知了。", pinyin: "… ngaiˇ diˊ leˊ."}
-    hl: {hanzi: "……𠊎知了。", pinyin: "… ngai diˋ leˋ."}
+    sx: {hanzi: "……𠊎知吔。", pinyin: "… ngaiˇ diˊ leˊ."}
+    hl: {hanzi: "……𠊎知咧。", pinyin: "… ngai diˋ leˋ."}
   - n: 14
     speaker: 阿蘭嫂
     en: "That's enough chatter. Back to work! The more you chat, the less you get done."
-    sx: {hanzi: "好了，莫打嘴鼓了，做事！緊打嘴鼓，緊做毋煞。", pinyin: "hoˋ leˊ, mog daˋ zoi guˋ leˊ, zo se! ginˋ daˋ zoi guˋ, ginˋ zo mˇ sod."}
-    hl: {hanzi: "好了，莫打嘴鼓了，做事！緊打嘴鼓，緊做毋煞。", pinyin: "hoˊ leˋ, mogˋ daˊ zhoiˇ guˊ leˋ, zoˇ she+! ginˊ daˊ zhoiˇ guˊ, ginˊ zoˇ m sod."}
+    sx: {hanzi: "好吔，莫打嘴鼓吔，做事！緊打嘴鼓，緊做毋煞。", pinyin: "hoˋ leˊ, mog daˋ zoi guˋ leˊ, zo se! ginˋ daˋ zoi guˋ, ginˋ zo mˇ sod."}
+    hl: {hanzi: "好咧，莫打嘴鼓咧，做事！緊打嘴鼓，緊做毋煞。", pinyin: "hoˊ leˋ, mogˋ daˊ zhoiˇ guˊ leˋ, zoˇ she+! ginˊ daˊ zhoiˇ guˊ, ginˊ zoˇ m sod."}
     check: true
 
 notes:
@@ -188,8 +188,8 @@ exercises:
       hl: {hanzi: "這下个筆記型電腦，緊做緊輕。", pinyin: "liaˊ ha+ gaiˇ bid giˇ hin tien+ noˊ, ginˊ zoˇ ginˊ kiangˋ."}
       source: kaga
     - en: "There are fewer and fewer people who make 粄條 by hand."
-      sx: {hanzi: "用手做粄條个人越來越少了。", pinyin: "iung suˋ zo banˋ tiauˇ ge nginˇ ied loiˇ ied seuˋ leˊ."}
-      hl: {hanzi: "用手做粄條个人越來越少了。", pinyin: "rhung+ shiuˊ zoˇ banˊ tiau gaiˇ ngin rhadˋ loi rhadˋ shauˊ leˋ."}
+      sx: {hanzi: "用手做粄條个人越來越少吔。", pinyin: "iung suˋ zo banˋ tiauˇ ge nginˇ ied loiˇ ied seuˋ leˊ."}
+      hl: {hanzi: "用手做粄條个人越來越少咧。", pinyin: "rhung+ shiuˊ zoˇ banˊ tiau gaiˇ ngin rhadˋ loi rhadˋ shauˊ leˋ."}
     - en: "Rice porridge with dried radish: easy to eat."
       sx: {hanzi: "糜傍菜脯，當容易食。", pinyin: "moiˇ bongˋ coi puˋ, dongˊ iungˇ i siid."}
       hl: {hanzi: "糜傍菜脯，當容易食。", pinyin: "moi bongˊ coiˇ buˊ, dongˋ rhung rhiˇ shidˋ."}

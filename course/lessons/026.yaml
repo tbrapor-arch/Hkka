@@ -28,8 +28,8 @@ dialogue:
   - n: 4
     speaker: 阿玉
     en: "That's me! Your Hakka has got better."
-    sx: {hanzi: "係𠊎！你个客話較好了。", pinyin: "he ngaiˇ! nˇ ge hagˋ fa ka hoˋ leˊ."}
-    hl: {hanzi: "係𠊎！你个客話較好了。", pinyin: "heˇ ngai! ngi gaiˇ hag voiˋ haˇ hoˊ leˋ."}
+    sx: {hanzi: "係𠊎！你个客話較好吔。", pinyin: "he ngaiˇ! nˇ ge hagˋ fa ka hoˋ leˊ."}
+    hl: {hanzi: "係𠊎！你个客話較好咧。", pinyin: "heˇ ngai! ngi gaiˇ hag voiˋ haˇ hoˊ leˋ."}
   - n: 5
     speaker: Sam
     en: "A-yu, what do you like doing, usually?"

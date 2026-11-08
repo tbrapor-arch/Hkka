@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 鍾伯
     en: "Hardly anyone. In the old days everyone grew it; now the barns have all gone empty."
-    sx: {hanzi: "盡少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "qin seuˋ leˊ. teuˇ baiˋ tai gaˊ du zung, iaˋ ha ienˊ leuˇ du kungˊ tedˋ hi leˊ."}
-    hl: {hanzi: "盡少了。頭擺大家都種，這下菸樓都空忒去了。", pinyin: "cin+ shauˊ leˋ. teu baiˊ tai+ gaˋ du+ zhungˇ, liaˊ ha+ rhanˋ leu du+ kungˋ ted hiˇ leˋ."}
+    sx: {hanzi: "盡少吔。頭擺大家都種，這下菸樓都空忒去吔。", pinyin: "qin seuˋ leˊ. teuˇ baiˋ tai gaˊ du zung, iaˋ ha ienˊ leuˇ du kungˊ tedˋ hi leˊ."}
+    hl: {hanzi: "盡少咧。頭擺大家都種，這下菸樓都空忒去咧。", pinyin: "cin+ shauˊ leˋ. teu baiˊ tai+ gaˋ du+ zhungˇ, liaˊ ha+ rhanˋ leu du+ kungˋ ted hiˇ leˋ."}
     check: true
   - n: 7
     speaker: 鍾伯姆
@@ -55,8 +55,8 @@ dialogue:
   - n: 9
     speaker: 鍾伯
     en: "Quiet, yes, but prettier too. Now people come to look and take photos of the barns."
-    sx: {hanzi: "係較安靜，毋過也較靚了。這下有人專門來看菸樓、翕相。", pinyin: "he ka onˊ qin, mˇ go ia ka jiangˊ leˊ. iaˋ ha iuˊ nginˇ zonˊ munˇ loiˇ kon ienˊ leuˇ, hibˋ xiong."}
-    hl: {hanzi: "係較安靜，毋過也較靚了。這下有人專門來看菸樓、翕相。", pinyin: "heˇ haˇ onˋ cin+, m goˇ rha+ haˇ ziangˋ leˋ. liaˊ ha+ rhiuˋ ngin zhonˋ mun loi konˇ rhanˋ leu, hib siongˇ."}
+    sx: {hanzi: "係較安靜，毋過也較靚吔。這下有人專門來看菸樓、翕相。", pinyin: "he ka onˊ qin, mˇ go ia ka jiangˊ leˊ. iaˋ ha iuˊ nginˇ zonˊ munˇ loiˇ kon ienˊ leuˇ, hibˋ xiong."}
+    hl: {hanzi: "係較安靜，毋過也較靚咧。這下有人專門來看菸樓、翕相。", pinyin: "heˇ haˇ onˋ cin+, m goˇ rha+ haˇ ziangˋ leˋ. liaˊ ha+ rhiuˋ ngin zhonˋ mun loi konˇ rhanˋ leu, hib siongˇ."}
   - n: 10
     speaker: Sam
     en: "That tall thing on the roof: is it a chimney?"
@@ -66,8 +66,8 @@ dialogue:
   - n: 11
     speaker: 鍾伯
     en: "It is. Some of the old barns have been pulled down, but you can still see them by the roads and at the edges of the fields."
-    sx: {hanzi: "係。有兜舊菸樓拆忒了，毋過路脣、田脣還看得著。", pinyin: "he. iuˊ deuˊ kiu ienˊ leuˇ cagˋ tedˋ leˊ, mˇ go lu sunˇ, tienˇ sunˇ hanˇ kon dedˋ doˋ."}
-    hl: {hanzi: "係。有兜舊菸樓拆忒了，毋過路脣、田脣還看得著。", pinyin: "heˇ. rhiuˋ deuˋ kiu+ rhanˋ leu cag ted leˋ, m goˇ lu+ shun, tien shun han konˇ ded doˊ."}
+    sx: {hanzi: "係。有兜舊菸樓拆忒吔，毋過路脣、田脣還看得著。", pinyin: "he. iuˊ deuˊ kiu ienˊ leuˇ cagˋ tedˋ leˊ, mˇ go lu sunˇ, tienˇ sunˇ hanˇ kon dedˋ doˋ."}
+    hl: {hanzi: "係。有兜舊菸樓拆忒咧，毋過路脣、田脣還看得著。", pinyin: "heˇ. rhiuˋ deuˋ kiu+ rhanˋ leu cag ted leˋ, m goˇ lu+ shun, tien shun han konˇ ded doˊ."}
   - n: 12
     speaker: 阿英
     en: "That's 美濃's history."
@@ -170,8 +170,8 @@ new_words:
 exercises:
   translate:
     - en: "That old house will be pulled down next year."
-      sx: {hanzi: "該棟舊屋仔，過忒年就愛拆忒了。", pinyin: "ge dung kiu vugˋ eˇ, go tedˋ ngienˇ qiu oi cagˋ tedˋ leˊ."}
-      hl: {hanzi: "該棟舊屋仔，明年就愛拆忒了。", pinyin: "gai dungˇ kiu+ vug er, miang ngien ciu+ oiˇ cag ted leˋ."}
+      sx: {hanzi: "該棟舊屋仔，過忒年就愛拆忒吔。", pinyin: "ge dung kiu vugˋ eˇ, go tedˋ ngienˇ qiu oi cagˋ tedˋ leˊ."}
+      hl: {hanzi: "該棟舊屋仔，明年就愛拆忒咧。", pinyin: "gai dungˇ kiu+ vug er, miang ngien ciu+ oiˇ cag ted leˋ."}
       source: moe
     - en: "In the old days water wasn't as easy to get as it is now."
       sx: {hanzi: "頭擺个人用水無像這下恁方便。", pinyin: "teuˇ baiˋ ge nginˇ iung suiˋ moˇ qiong iaˋ ha anˋ fongˊ pien."}
@@ -185,8 +185,8 @@ exercises:
       hl: {hanzi: "大家共樣係出外食頭路个人，所以互相照顧。", pinyin: "tai+ gaˋ kiung+ rhong+ heˇ chud ngoi+ shidˋ teu lu+ gaiˇ ngin, soˊ rhiˋ fu+ siongˋ zhauˇ guˇ."}
       check: true
     - en: "The birds have eaten the leaves, and the tree has gone bare."
-      sx: {hanzi: "鳥仔摎葉仔食忒，樹仔空忒去了。", pinyin: "diauˊ eˋ lauˊ iab eˋ siid tedˋ, su eˋ kungˊ tedˋ hi leˊ."}
-      hl: {hanzi: "鳥仔摎葉仔食忒，樹仔空忒去了。", pinyin: "diauˋ er lauˋ rhabˋ er shidˋ ted, shu+ er kungˋ ted hiˇ leˋ."}
+      sx: {hanzi: "鳥仔摎葉仔食忒，樹仔空忒去吔。", pinyin: "diauˊ eˋ lauˊ iab eˋ siid tedˋ, su eˋ kungˊ tedˋ hi leˊ."}
+      hl: {hanzi: "鳥仔摎葉仔食忒，樹仔空忒去咧。", pinyin: "diauˋ er lauˋ rhabˋ er shidˋ ted, shu+ er kungˋ ted hiˇ leˋ."}
       check: true
     - en: "The barns stand by the roadside, at the edge of the fields."
       sx: {hanzi: "菸樓企在路脣、田脣。", pinyin: "ienˊ leuˇ kiˊ coiˊ lu sunˇ, tienˇ sunˇ."}
@@ -194,8 +194,8 @@ exercises:
       check: true
   fill:
     - en: "In the old days… now…"
-      sx: {hanzi: "___種菸，這下無人種了。", pinyin: "___ zung ienˊ, iaˋ ha moˇ nginˇ zung leˊ.", answer_hanzi: "頭擺", answer: "teuˇ baiˋ"}
-      hl: {hanzi: "___種菸，這下無人種了。", pinyin: "___ zhungˇ rhanˋ, liaˊ ha+ mo ngin zhungˇ leˋ.", answer_hanzi: "頭擺", answer: "teu baiˊ"}
+      sx: {hanzi: "___種菸，這下無人種吔。", pinyin: "___ zung ienˊ, iaˋ ha moˇ nginˇ zung leˊ.", answer_hanzi: "頭擺", answer: "teuˇ baiˋ"}
+      hl: {hanzi: "___種菸，這下無人種咧。", pinyin: "___ zhungˇ rhanˋ, liaˊ ha+ mo ngin zhungˇ leˋ.", answer_hanzi: "頭擺", answer: "teu baiˊ"}
     - en: "It's become so warm!"
       sx: {hanzi: "___恁燒暖！", pinyin: "___ anˋ seuˊ nonˊ!", answer_hanzi: "變到", answer: "bien do"}
       hl: {hanzi: "___恁燒暖！", pinyin: "___ anˊ shauˋ nonˋ!", answer_hanzi: "變到", answer: "bienˇ doˇ"}

@@ -28,8 +28,8 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "Not any more!"
-    sx: {hanzi: "毋痛了！", pinyin: "mˇ tung leˊ!"}
-    hl: {hanzi: "毋痛了！", pinyin: "m tungˇ leˋ!"}
+    sx: {hanzi: "毋痛吔！", pinyin: "mˇ tung leˊ!"}
+    hl: {hanzi: "毋痛咧！", pinyin: "m tungˇ leˋ!"}
   - n: 5
     speaker: 阿姆
     en: "So, was 公館 nice?"
@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: 阿婆
     en: "A chilli! I told you, you shouldn't eat chillies!"
-    sx: {hanzi: "辣椒仔！𠊎講過了，毋好食辣椒仔！", pinyin: "lad zeuˊ eˋ! ngaiˇ gongˋ go leˊ, mˇ hoˋ siid lad zeuˊ eˋ!"}
-    hl: {hanzi: "辣椒仔！𠊎講過了，毋好食辣椒仔！", pinyin: "ladˋ ziauˋ er! ngai gongˊ goˇ leˋ, m hoˊ shidˋ ladˋ ziauˋ er!"}
+    sx: {hanzi: "辣椒仔！𠊎講過吔，毋好食辣椒仔！", pinyin: "lad zeuˊ eˋ! ngaiˇ gongˋ go leˊ, mˇ hoˋ siid lad zeuˊ eˋ!"}
+    hl: {hanzi: "辣椒仔！𠊎講過咧，毋好食辣椒仔！", pinyin: "ladˋ ziauˋ er! ngai gongˊ goˇ leˋ, m hoˊ shidˋ ladˋ ziauˋ er!"}
   - n: 8
     speaker: Sam
     en: "Just one! It wasn't hot!"
@@ -73,8 +73,8 @@ dialogue:
   - n: 13
     speaker: 阿婆
     en: "(when the laughing stops) Come on, eat! Two bowls!"
-    sx: {hanzi: "好了，食飯！兩碗！", pinyin: "hoˋ leˊ, siid fan! liongˋ vonˋ!"}
-    hl: {hanzi: "好了，食飯！兩碗！", pinyin: "hoˊ leˋ, shidˋ pon+! liongˊ vonˊ!"}
+    sx: {hanzi: "好吔，食飯！兩碗！", pinyin: "hoˋ leˊ, siid fan! liongˋ vonˋ!"}
+    hl: {hanzi: "好咧，食飯！兩碗！", pinyin: "hoˊ leˋ, shidˋ pon+! liongˊ vonˊ!"}
 
 notes:
   - ref: 0
@@ -91,7 +91,7 @@ notes:
     topic: grammar
     text: >
       Don'ts: 毋好 "you shouldn't" (毋好食辣椒仔), 莫 "don't!" (莫食冷个), 毋使 "no need" (毋使驚, 毋使兩碗). And 會 for
-      what is about to happen (會落雨), 毋會 "won't". 𠊎講過了 "I told you" is the family's favourite sentence this
+      what is about to happen (會落雨), 毋會 "won't". 𠊎講過吔 "I told you" is the family's favourite sentence this
       week: Grandpa, A-min, now Grandma.
   - ref: 9
     topic: false-friend

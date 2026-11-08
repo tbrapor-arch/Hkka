@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿蘭嫂
     en: "Lunchtime! Sam, where's your lunch box?"
-    sx: {hanzi: "食晝了！Sam，你个便當呢？", pinyin: "siid zu leˊ! Sam, nˇ ge pien dongˊ neˇ?"}
-    hl: {hanzi: "食晝了！Sam，你个便當呢？", pinyin: "shidˋ zhiuˇ leˋ! Sam, ngi gaiˇ pien+ dongˋ neˇ?"}
+    sx: {hanzi: "食晝吔！Sam，你个便當呢？", pinyin: "siid zu leˊ! Sam, nˇ ge pien dongˊ neˇ?"}
+    hl: {hanzi: "食晝咧！Sam，你个便當呢？", pinyin: "shidˋ zhiuˇ leˋ! Sam, ngi gaiˇ pien+ dongˋ neˇ?"}
   - n: 2
     speaker: Sam
     en: "I didn't bring one… and I'm starving."
@@ -189,8 +189,8 @@ exercises:
       sx: {hanzi: "正落過水，這條路當毋好行。", pinyin: "zang log go suiˋ, iaˋ tiauˇ lu dongˊ mˇ hoˋ hangˇ."}
       hl: {hanzi: "正落過水，這條路當毋好行。", pinyin: "zhangˇ logˋ goˇ shuiˊ, liaˊ tiau lu+ dongˋ m hoˊ hang."}
     - en: "Grandma took the hen's eggs home to fry a radish omelette."
-      sx: {hanzi: "雞嫲生个雞卵分阿婆收轉去煎菜脯卵了。", pinyin: "gieˊ maˇ sangˊ ge gieˊ lonˋ bunˊ aˊ poˇ suˊ zonˋ hi jienˊ coi puˋ lonˋ leˊ."}
-      hl: {hanzi: "雞嫲生个雞卵分阿婆收轉去煎菜脯卵了。", pinyin: "gaiˋ ma sangˋ gaiˇ gaiˋ lonˊ bunˋ a+ po shiuˋ zhonˊ hiˇ zienˋ coiˇ buˊ lonˊ leˋ."}
+      sx: {hanzi: "雞嫲生个雞卵分阿婆收轉去煎菜脯卵吔。", pinyin: "gieˊ maˇ sangˊ ge gieˊ lonˋ bunˊ aˊ poˇ suˊ zonˋ hi jienˊ coi puˋ lonˋ leˊ."}
+      hl: {hanzi: "雞嫲生个雞卵分阿婆收轉去煎菜脯卵咧。", pinyin: "gaiˋ ma sangˋ gaiˇ gaiˋ lonˊ bunˋ a+ po shiuˋ zhonˊ hiˇ zienˋ coiˇ buˊ lonˊ leˋ."}
       source: moe
     - en: "This soup is too bland; add a little salt. — Careful, don't make it too salty."
       sx: {hanzi: "這碗湯忒淡，加兜仔鹽。——莫加忒多，會忒鹹。", pinyin: "iaˋ vonˋ tongˊ tedˋ tamˊ, gaˊ deuˊ eˋ iamˇ. — mog gaˊ tedˋ doˊ, voi tedˋ hamˇ."}
@@ -203,8 +203,8 @@ exercises:
       sx: {hanzi: "今暗晡食夜食麼个？——魚肉、青菜摎筍。", pinyin: "gimˊ am buˊ siid ia siid maˋ ge? — ngˇ ngiugˋ, qiangˊ coi lauˊ sunˋ."}
       hl: {hanzi: "今暗晡食夜食麼个？——魚肉、青菜摎筍。", pinyin: "gimˋ amˇ buˋ shidˋ rha+ shidˋ maˊ gaiˇ? — ng ngiug, ciangˋ coiˇ lauˋ sunˊ."}
     - en: "This food has gone off: it smells. Don't eat it."
-      sx: {hanzi: "這兜食物臭了，莫食。", pinyin: "iaˋ deuˊ siid vud cu leˊ, mog siid."}
-      hl: {hanzi: "這兜食物臭了，莫食。", pinyin: "liaˊ deuˋ shidˋ vudˋ chiuˇ leˋ, mogˋ shidˋ."}
+      sx: {hanzi: "這兜食物臭吔，莫食。", pinyin: "iaˋ deuˊ siid vud cu leˊ, mog siid."}
+      hl: {hanzi: "這兜食物臭咧，莫食。", pinyin: "liaˊ deuˋ shidˋ vudˋ chiuˇ leˋ, mogˋ shidˋ."}
     - en: "Add a little vinegar to the bitter melon."
       sx: {hanzi: "苦瓜加兜仔酸醋。", pinyin: "fuˋ guaˊ gaˊ deuˊ eˋ sonˊ cii."}
       hl: {hanzi: "苦瓜加兜仔酸醋。", pinyin: "fuˊ guaˋ gaˋ deuˋ er sonˋ siiˇ."}

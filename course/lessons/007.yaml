@@ -44,8 +44,8 @@ dialogue:
   - n: 7
     speaker: 阿婆
     en: "Now that A-in's gone back to Taipei, you'll have to speak Hakka."
-    sx: {hanzi: "這下阿英轉去臺北了，你愛講客話。", pinyin: "iaˋ ha aˊ inˊ zonˋ hi toiˇ bedˋ leˊ, nˇ oi gongˋ hagˋ fa."}
-    hl: {hanzi: "這下阿英轉去臺北了，你愛講客話。", pinyin: "liaˊ ha+ a+ rhinˋ zhonˊ hiˇ toi bed leˋ, ngi oiˇ gongˊ hag voiˋ."}
+    sx: {hanzi: "這下阿英轉去臺北吔，你愛講客話。", pinyin: "iaˋ ha aˊ inˊ zonˋ hi toiˇ bedˋ leˊ, nˇ oi gongˋ hagˋ fa."}
+    hl: {hanzi: "這下阿英轉去臺北咧，你愛講客話。", pinyin: "liaˊ ha+ a+ rhinˋ zhonˊ hiˇ toi bed leˋ, ngi oiˇ gongˊ hag voiˋ."}
   - n: 8
     speaker: Sam
     en: "I can speak a little."
@@ -88,9 +88,9 @@ notes:
     topic: grammar
     text: >
       Three ways to say "not". 毋 mˇ for will and plain fact (毋食 "won't eat", 毋放糖 "we don't put sugar"), and
-      always before 係 (毋係). 無 moˇ for "there isn't, didn't" (無了 "none left", 無放糖 "didn't put any", 無在屋下
+      always before 係 (毋係). 無 moˇ for "there isn't, didn't" (無吔 "none left", 無放糖 "didn't put any", 無在屋下
       "isn't home"). 吂 mangˇ for "not yet" (還吂 "not yet"). Sam's answer in line 2 is the honest one; the formula
-      is 食飽了.
+      is 食飽吔.
   - ref: 3
     topic: grammar
     text: >
@@ -125,8 +125,8 @@ new_words: []
 exercises:
   translate:
     - en: "Grandpa isn't home. He's gone to buy tea."
-      sx: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "aˊ gungˊ moˇ coiˊ vugˋ kaˊ, giˇ hi maiˊ caˇ leˊ."}
-      hl: {hanzi: "阿公無在屋下，佢去買茶了。", pinyin: "a+ gungˋ mo coiˋ vug haˋ, gi hiˇ maiˋ ca leˋ."}
+      sx: {hanzi: "阿公無在屋下，佢去買茶吔。", pinyin: "aˊ gungˊ moˇ coiˊ vugˋ kaˊ, giˇ hi maiˊ caˇ leˊ."}
+      hl: {hanzi: "阿公無在屋下，佢去買茶咧。", pinyin: "a+ gungˋ mo coiˋ vug haˋ, gi hiˇ maiˋ ca leˋ."}
     - en: "This is my room, that's my brother's."
       sx: {hanzi: "這係𠊎个間房，該係吾老弟个。", pinyin: "iaˋ he ngaiˇ ge gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge."}
       hl: {hanzi: "這係𠊎个間房，該係𠊎老弟个。", pinyin: "liaˊ heˇ ngai gaiˇ gienˋ fong, gai heˇ ngai loˊ taiˋ gaiˇ."}
@@ -147,7 +147,7 @@ exercises:
       sx: {hanzi: "阿明還___食。", pinyin: "aˊ minˇ hanˇ ___ siid.", answer_hanzi: "吂", answer: "mangˇ"}
       hl: {hanzi: "阿明還___食。", pinyin: "a+ min han ___ shidˋ.", answer_hanzi: "吂", answer: "mang"}
     - en: "There's no congee left."
-      sx: {hanzi: "粥___了。", pinyin: "zugˋ ___ leˊ.", answer_hanzi: "無", answer: "moˇ"}
-      hl: {hanzi: "糜___了。", pinyin: "moi ___ leˋ.", answer_hanzi: "無", answer: "mo"}
+      sx: {hanzi: "粥___吔。", pinyin: "zugˋ ___ leˊ.", answer_hanzi: "無", answer: "moˇ"}
+      hl: {hanzi: "糜___咧。", pinyin: "moi ___ leˋ.", answer_hanzi: "無", answer: "mo"}
 
 audio: []

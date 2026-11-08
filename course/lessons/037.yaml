@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: 阿公
     en: "I'm old. My voice isn't nice to listen to any more."
-    sx: {hanzi: "𠊎老了，聲毋好聽了。", pinyin: "ngaiˇ loˋ leˊ, sangˊ mˇ hoˋ tangˊ leˊ."}
-    hl: {hanzi: "𠊎老了，聲毋好聽了。", pinyin: "ngai loˊ leˋ, shangˋ m hoˊ tangˋ leˋ."}
+    sx: {hanzi: "𠊎老吔，聲毋好聽吔。", pinyin: "ngaiˇ loˋ leˊ, sangˊ mˇ hoˋ tangˊ leˊ."}
+    hl: {hanzi: "𠊎老咧，聲毋好聽咧。", pinyin: "ngai loˊ leˋ, shangˋ m hoˊ tangˋ leˋ."}
   - n: 3
     speaker: 阿婆
     en: "Don't listen to him. When he was young, everyone knew what a good singer he was."
@@ -65,8 +65,8 @@ dialogue:
   - n: 11
     speaker: 阿公
     en: "I remember. Fifty years now."
-    sx: {hanzi: "記得。五十年了。", pinyin: "gi dedˋ. ngˋ siib ngienˇ leˊ."}
-    hl: {hanzi: "記得。五十年了。", pinyin: "giˇ ded. ngˊ shibˋ ngien leˋ."}
+    sx: {hanzi: "記得。五十年吔。", pinyin: "gi dedˋ. ngˋ siib ngienˇ leˊ."}
+    hl: {hanzi: "記得。五十年咧。", pinyin: "giˇ ded. ngˊ shibˋ ngien leˋ."}
   - n: 12
     speaker: 阿明
     en: "Grandpa, sing another one!"
@@ -75,8 +75,8 @@ dialogue:
   - n: 13
     speaker: 阿公
     en: "No more. (to Grandma, quietly) You sing."
-    sx: {hanzi: "毋唱了。……你唱。", pinyin: "mˇ cong leˊ. … nˇ cong."}
-    hl: {hanzi: "毋唱了。……你唱。", pinyin: "m chongˇ leˋ. … ngi chongˇ."}
+    sx: {hanzi: "毋唱吔。……你唱。", pinyin: "mˇ cong leˊ. … nˇ cong."}
+    hl: {hanzi: "毋唱咧。……你唱。", pinyin: "m chongˇ leˋ. … ngi chongˇ."}
 
 notes:
   - ref: 2

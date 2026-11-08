@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿婆
     en: "Thank goodness he goes home today. Grandpa, sit down slowly."
-    sx: {hanzi: "好得，今晡日愛出院了。阿公，慢慢坐。", pinyin: "hoˋ dedˋ, gimˊ buˊ ngidˋ oi cudˋ ien leˊ. aˊ gungˊ, man man coˊ.", groups: "hoˋ dedˋ, gimˊ buˊ ngidˋ | oi cudˋ ien leˊ. aˊ gungˊ, man man coˊ."}
-    hl: {hanzi: "好得，今晡日愛出院了。阿公，慢慢坐。", pinyin: "hoˊ ded, gimˋ buˋ ngid oiˇ chud rhanˇ leˋ. a+ gungˋ, man+ man+ coˋ."}
+    sx: {hanzi: "好得，今晡日愛出院吔。阿公，慢慢坐。", pinyin: "hoˋ dedˋ, gimˊ buˊ ngidˋ oi cudˋ ien leˊ. aˊ gungˊ, man man coˊ.", groups: "hoˋ dedˋ, gimˊ buˊ ngidˋ | oi cudˋ ien leˊ. aˊ gungˊ, man man coˊ."}
+    hl: {hanzi: "好得，今晡日愛出院咧。阿公，慢慢坐。", pinyin: "hoˊ ded, gimˋ buˋ ngid oiˇ chud rhanˇ leˋ. a+ gungˋ, man+ man+ coˋ."}
   - n: 2
     speaker: 阿明
     en: "Grandpa, Sam has something for you."
@@ -60,14 +60,14 @@ dialogue:
   - n: 10
     speaker: 阿婆
     en: "And you read the 生 in 人生 right: in a poem, you use the reading-from-books way."
-    sx: {hanzi: "「人生」个「生」，你乜讀著了。唸詩，愛用讀書个讀法。", pinyin: "nginˇ senˊ ge senˊ, nˇ me tug doˋ leˊ. ngiam siiˊ, oi iung tug suˊ ge tug fabˋ."}
-    hl: {hanzi: "「人生」个「生」，你乜讀著了。唸詩，愛用讀書个讀法。", pinyin: "ngin senˋ gaiˇ senˋ, ngi meˇ tugˋ doˊ leˋ. ngiam+ shiˋ, oiˇ rhung+ tugˋ shuˋ gaiˇ tugˋ fab."}
+    sx: {hanzi: "「人生」个「生」，你乜讀著吔。唸詩，愛用讀書个讀法。", pinyin: "nginˇ senˊ ge senˊ, nˇ me tug doˋ leˊ. ngiam siiˊ, oi iung tug suˊ ge tug fabˋ."}
+    hl: {hanzi: "「人生」个「生」，你乜讀著咧。唸詩，愛用讀書个讀法。", pinyin: "ngin senˋ gaiˇ senˋ, ngi meˇ tugˋ doˊ leˋ. ngiam+ shiˋ, oiˇ rhung+ tugˋ shuˋ gaiˇ tugˋ fab."}
     check: true
   - n: 11
     speaker: Sam
     en: "Grandpa taught me, the night he sang. I've learnt the poem by heart too."
-    sx: {hanzi: "阿公唱山歌該暗晡教𠊎个。這首詩𠊎乜背起來了。", pinyin: "aˊ gungˊ cong sanˊ goˊ ge am buˊ gauˊ ngaiˇ ge. iaˋ suˋ siiˊ ngaiˇ me boi hiˋ loiˇ leˊ."}
-    hl: {hanzi: "阿公唱山歌該暗晡教𠊎个。這首詩𠊎乜背起來了。", pinyin: "a+ gungˋ chongˇ sanˋ goˋ gai amˇ buˋ gauˋ ngai gaiˇ. liaˊ shiuˊ shiˋ ngai meˇ boiˇ hiˊ loi leˋ."}
+    sx: {hanzi: "阿公唱山歌該暗晡教𠊎个。這首詩𠊎乜背起來吔。", pinyin: "aˊ gungˊ cong sanˊ goˊ ge am buˊ gauˊ ngaiˇ ge. iaˋ suˋ siiˊ ngaiˇ me boi hiˋ loiˇ leˊ."}
+    hl: {hanzi: "阿公唱山歌該暗晡教𠊎个。這首詩𠊎乜背起來咧。", pinyin: "a+ gungˋ chongˇ sanˋ goˋ gai amˇ buˋ gauˋ ngai gaiˇ. liaˊ shiuˊ shiˋ ngai meˇ boiˇ hiˊ loi leˋ."}
   - n: 12
     speaker: 阿明
     en: "'One cup of hot tea'… Grandpa, do you want some tea? I brought the teapot."
@@ -81,8 +81,8 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "(quietly, to Sam) Look, Grandma has tears in her eyes."
-    sx: {hanzi: "你看，阿婆个目汁都流出來了。", pinyin: "nˇ kon, aˊ poˇ ge mugˋ ziibˋ du liuˇ cudˋ loiˇ leˊ."}
-    hl: {hanzi: "你看，阿婆个目汁都流出來了。", pinyin: "ngi konˇ, a+ po gaiˇ mug zhib du+ lau chud loi leˋ."}
+    sx: {hanzi: "你看，阿婆个目汁都流出來吔。", pinyin: "nˇ kon, aˊ poˇ ge mugˋ ziibˋ du liuˇ cudˋ loiˇ leˊ."}
+    hl: {hanzi: "你看，阿婆个目汁都流出來咧。", pinyin: "ngi konˇ, a+ po gaiˇ mug zhib du+ lau chud loi leˋ."}
 
 notes:
   - ref: 1
@@ -90,7 +90,7 @@ notes:
     text: >
       Reading aloud: tone sandhi (lesson 0, section 4) works inside a phrase. In 今晡日 gimˊ buˊ ngidˋ, 今 comes before
       another ˊ syllable, so it is read gimˇ; 晡 comes before ˋ and keeps its ˊ. The `groups` line shows the breaks
-      where sandhi stops: 出院了 is a new phrase. The text always writes the dictionary tones; the change is made in the
+      where sandhi stops: 出院吔 is a new phrase. The text always writes the dictionary tones; the change is made in the
       mouth.
   - ref: 3
     topic: vocab

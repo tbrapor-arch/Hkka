@@ -1,8 +1,8 @@
 id: 64
 title:
   en: "Back in Miaoli"
-  sx: {hanzi: "你轉來了！", pinyin: "nˇ zonˋ loiˇ leˊ!"}
-  hl: {hanzi: "你轉來了！", pinyin: "ngi zhonˊ loi leˋ!"}
+  sx: {hanzi: "你轉來吔！", pinyin: "nˇ zonˋ loiˇ leˊ!"}
+  hl: {hanzi: "你轉來咧！", pinyin: "ngi zhonˊ loi leˋ!"}
 review: false
 setting: >-
   Saturday 27 March, half past eleven, the platform of 苗栗 station, where Sam first got off the train in lesson 1. A-in
@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 阿英
     en: "We said I'd wait for you at the station. I've come in the car to give you a lift. …You've got thinner, and the sun's tanned you dark. You look different."
-    sx: {hanzi: "講好在火車頭等你。𠊎開車來載你。……你瘦了，乜晒到烏刻刻仔，看起來無共樣了。", pinyin: "gongˋ hoˋ coiˊ foˋ caˊ teuˇ denˋ nˇ. ngaiˇ koiˊ caˊ loiˇ zai nˇ. … nˇ ceu leˊ, me sai do vuˊ kad kad eˋ, kon hiˋ loiˇ moˇ kiung iong leˊ."}
-    hl: {hanzi: "講好在火車頭等你。𠊎開車來載你。……你瘦了，乜晒到烏刻刻，看起來無共樣了。", pinyin: "gongˊ hoˊ coiˋ foˊ chaˋ teu denˊ ngi. ngai koiˋ chaˋ loi zaiˇ ngi. … ngi seuˇ leˋ, meˇ saiˇ doˇ vuˋ kad kad, konˇ hiˊ loi mo kiung+ rhong+ leˋ."}
+    sx: {hanzi: "講好在火車頭等你。𠊎開車來載你。……你瘦吔，乜晒到烏刻刻仔，看起來無共樣吔。", pinyin: "gongˋ hoˋ coiˊ foˋ caˊ teuˇ denˋ nˇ. ngaiˇ koiˊ caˊ loiˇ zai nˇ. … nˇ ceu leˊ, me sai do vuˊ kad kad eˋ, kon hiˋ loiˇ moˇ kiung iong leˊ."}
+    hl: {hanzi: "講好在火車頭等你。𠊎開車來載你。……你瘦咧，乜晒到烏刻刻，看起來無共樣咧。", pinyin: "gongˊ hoˊ coiˋ foˊ chaˋ teu denˊ ngi. ngai koiˋ chaˋ loi zaiˇ ngi. … ngi seuˇ leˋ, meˇ saiˇ doˇ vuˋ kad kad, konˇ hiˊ loi mo kiung+ rhong+ leˋ."}
     check: true
   - n: 4
     speaker: Sam
@@ -45,13 +45,13 @@ dialogue:
   - n: 7
     speaker: 阿明
     en: "(bursting out of the car park) Sam! You're back! You gave me a fright, you're so brown! Grandma says hurry home for lunch!"
-    sx: {hanzi: "Sam！你轉來了！恁烏，嚇著𠊎！阿婆喊你遽遽轉屋下食晝！", pinyin: "Sam! nˇ zonˋ loiˇ leˊ! anˋ vuˊ, hagˋ doˋ ngaiˇ! aˊ poˇ ham nˇ giagˋ giagˋ zonˋ vugˋ kaˊ siid zu!"}
-    hl: {hanzi: "Sam！你轉來了！恁烏，嚇著𠊎！阿婆喊你遽遽轉屋下食晝！", pinyin: "Sam! ngi zhonˊ loi leˋ! anˊ vuˋ, hag doˊ ngai! a+ po hamˇ ngi giag giag zhonˊ vug haˋ shidˋ zhiuˇ!"}
+    sx: {hanzi: "Sam！你轉來吔！恁烏，嚇著𠊎！阿婆喊你遽遽轉屋下食晝！", pinyin: "Sam! nˇ zonˋ loiˇ leˊ! anˋ vuˊ, hagˋ doˋ ngaiˇ! aˊ poˇ ham nˇ giagˋ giagˋ zonˋ vugˋ kaˊ siid zu!"}
+    hl: {hanzi: "Sam！你轉來咧！恁烏，嚇著𠊎！阿婆喊你遽遽轉屋下食晝！", pinyin: "Sam! ngi zhonˊ loi leˋ! anˊ vuˋ, hag doˊ ngai! a+ po hamˇ ngi giag giag zhonˊ vug haˋ shidˋ zhiuˇ!"}
   - n: 8
     speaker: 阿婆
     en: "(at the door) Sam's home! Come here, let Grandma give you a hug. Sit down. Are you hungry?"
-    sx: {hanzi: "Sam 轉來了！來，阿婆抱一下。坐等來。肚飢無？", pinyin: "Sam zonˋ loiˇ leˊ! loiˇ, aˊ poˇ pau idˋ ha. coˊ denˋ loiˇ. duˋ giˊ moˇ?"}
-    hl: {hanzi: "Sam 轉來了！來，阿婆抱一下。坐等來。肚屎枵無？", pinyin: "Sam zhonˊ loi leˋ! loi, a+ po pau+ rhid ha+. coˋ denˊ loi. duˊ shiˊ iauˋ mo?"}
+    sx: {hanzi: "Sam 轉來吔！來，阿婆抱一下。坐等來。肚飢無？", pinyin: "Sam zonˋ loiˇ leˊ! loiˇ, aˊ poˇ pau idˋ ha. coˊ denˋ loiˇ. duˋ giˊ moˇ?"}
+    hl: {hanzi: "Sam 轉來咧！來，阿婆抱一下。坐等來。肚屎枵無？", pinyin: "Sam zhonˊ loi leˋ! loi, a+ po pau+ rhid ha+. coˋ denˊ loi. duˊ shiˊ iauˋ mo?"}
   - n: 9
     speaker: Sam
     en: "I'm starving! Grandma, what are we eating 韶早?"
@@ -61,8 +61,8 @@ dialogue:
   - n: 10
     speaker: 阿婆
     en: "(laughing) 韶早? Listen to him! A month in 竹東, and he comes back talking Hailu! Here it's 天光日, and 天光日 it stays!"
-    sx: {hanzi: "韶早？你聽！去竹東一隻月，轉來就講海陸話了！這位講天光日，就係天光日！", pinyin: "seuˇ zoˋ? nˇ tangˊ! hi zugˋ dungˊ idˋ zagˋ ngied, zonˋ loiˇ qiu gongˋ hoiˋ liugˋ fa leˊ! iaˋ vi gongˋ tienˊ gongˊ ngidˋ, qiu he tienˊ gongˊ ngidˋ!"}
-    hl: {hanzi: "韶早？你聽！去竹東一隻月，轉來就講海陸話了！這位講天光日，就係天光日！", pinyin: "shau zoˊ? ngi tangˋ! hiˇ zhug dungˋ rhid zhag ngiedˋ, zhonˊ loi ciu+ gongˊ hoiˊ liug faˇ leˋ! liaˊ vui+ gongˊ tienˋ gongˋ ngid, ciu+ heˇ tienˋ gongˋ ngid!"}
+    sx: {hanzi: "韶早？你聽！去竹東一隻月，轉來就講海陸話吔！這位講天光日，就係天光日！", pinyin: "seuˇ zoˋ? nˇ tangˊ! hi zugˋ dungˊ idˋ zagˋ ngied, zonˋ loiˇ qiu gongˋ hoiˋ liugˋ fa leˊ! iaˋ vi gongˋ tienˊ gongˊ ngidˋ, qiu he tienˊ gongˊ ngidˋ!"}
+    hl: {hanzi: "韶早？你聽！去竹東一隻月，轉來就講海陸話咧！這位講天光日，就係天光日！", pinyin: "shau zoˊ? ngi tangˋ! hiˇ zhug dungˋ rhid zhag ngiedˋ, zhonˊ loi ciu+ gongˊ hoiˊ liug faˇ leˋ! liaˊ vui+ gongˊ tienˋ gongˋ ngid, ciu+ heˇ tienˋ gongˋ ngid!"}
     check: true
   - n: 11
     speaker: 阿公
@@ -100,7 +100,7 @@ notes:
     topic: grammar
     text: >
       轉 zonˋ is "go back, return home", and it takes a direction like any verb of movement: 轉來 "come back (here)",
-      the word of the person who is at home (你轉來了！, line 8 Sam 轉來了！); 轉去 "go back (there)", the word of the
+      the word of the person who is at home (你轉來吔！, line 8 Sam 轉來吔！); 轉去 "go back (there)", the word of the
       person who is leaving; 轉屋下 "go home". An official example: 放學轉屋下以後，功課寫忒正做得尞 "after school, once home,
       homework first, then play". The official examples give 歸來 as a variant of 轉來 (轉來（歸來）) without naming a place;
       by general knowledge it is the southern form, which you will hear in 美濃 (lesson 71). In the north, 歸 is "whole"
@@ -108,7 +108,7 @@ notes:
   - ref: 3
     topic: grammar
     text: >
-      看起來 kon hiˋ loiˇ "look, seem": 看起來無共樣了 "(you) look different". 晒到烏刻刻仔 "tanned dark": 晒 (lesson 9) "be in
+      看起來 kon hiˋ loiˇ "look, seem": 看起來無共樣吔 "(you) look different". 晒到烏刻刻仔 "tanned dark": 晒 (lesson 9) "be in
       the sun", V到 + result, and 烏刻刻仔 "pitch black", an adjective with a doubled tail, the pattern of lesson 69 (白雪雪仔).
       Hailu says 烏刻刻 without 仔. 開車來載你 "come in the car to give you a lift": 開車 "drive", 載 zai "carry, give a lift".
       瘦 (lesson 45) "thin".
@@ -175,8 +175,8 @@ exercises:
       sx: {hanzi: "南部人同北部人講話無共樣，有時節𠊎聽無。", pinyin: "namˇ pu nginˇ tungˇ bedˋ pu nginˇ gongˋ fa moˇ kiung iong, iuˊ siiˇ jiedˋ ngaiˇ tangˊ moˇ."}
       hl: {hanzi: "南部人摎北部人講話無共樣，有時節𠊎聽無。", pinyin: "nam pu+ ngin lauˋ bed pu+ ngin gongˊ faˇ mo kiung+ rhong+, rhiuˋ shi zied ngai tangˇ mo."}
     - en: "Grandma's 菜脯 has been drying in the sun for three days."
-      sx: {hanzi: "阿婆个菜脯晒三日了。", pinyin: "aˊ poˇ ge coi puˋ sai samˊ ngidˋ leˊ."}
-      hl: {hanzi: "阿婆个菜脯晒三日了。", pinyin: "a+ po gaiˇ coiˇ buˊ saiˇ samˋ ngid leˋ."}
+      sx: {hanzi: "阿婆个菜脯晒三日吔。", pinyin: "aˊ poˇ ge coi puˋ sai samˊ ngidˋ leˊ."}
+      hl: {hanzi: "阿婆个菜脯晒三日咧。", pinyin: "a+ po gaiˇ coiˇ buˊ saiˇ samˋ ngid leˋ."}
     - en: "阿蘭嫂's 菜脯 has dried a lovely yellow in the sun."
       sx: {hanzi: "阿蘭嫂个菜脯晒到黃黃。", pinyin: "aˊ lanˇ soˋ ge coi puˋ sai do vongˇ vongˇ."}
       hl: {hanzi: "阿蘭嫂个菜脯晒到黃黃。", pinyin: "a+ lan soˊ gaiˇ coiˇ buˊ saiˇ doˇ vong vong."}
@@ -197,8 +197,8 @@ exercises:
       sx: {hanzi: "阿英看起來當緊張。", pinyin: "aˊ inˊ kon hiˋ loiˇ dongˊ ginˋ zongˊ."}
       hl: {hanzi: "阿英看起來當緊張。", pinyin: "a+ rhinˋ konˇ hiˊ loi dongˋ ginˊ zhongˋ."}
     - en: "In a month Sam has turned into a 竹東 man!"
-      sx: {hanzi: "一隻月，Sam 就變到竹東人了！", pinyin: "idˋ zagˋ ngied, Sam qiu bien do zugˋ dungˊ nginˇ leˊ!"}
-      hl: {hanzi: "一隻月，Sam 就變到竹東人了！", pinyin: "rhid zhag ngiedˋ, Sam ciu+ bienˇ doˇ zhug dungˋ ngin leˋ!"}
+      sx: {hanzi: "一隻月，Sam 就變到竹東人吔！", pinyin: "idˋ zagˋ ngied, Sam qiu bien do zugˋ dungˊ nginˇ leˊ!"}
+      hl: {hanzi: "一隻月，Sam 就變到竹東人咧！", pinyin: "rhid zhag ngiedˋ, Sam ciu+ bienˇ doˇ zhug dungˋ ngin leˋ!"}
     - en: "Where's the station? — Over there, next to the factory."
       sx: {hanzi: "車站在哪位？——在該，工廠个隔壁。", pinyin: "caˊ zam coiˊ nai vi? — coiˊ ge, gungˊ congˋ ge gagˋ biagˋ."}
       hl: {hanzi: "車站在哪位？——在該，工廠个隔壁。", pinyin: "chaˋ zhamˇ coiˋ nai+ vui+? — coiˋ gai, gungˋ chongˊ gaiˇ gag biag."}
@@ -208,13 +208,13 @@ exercises:
       check: true
   fill:
     - en: "You're back! (said by the one at home)"
-      sx: {hanzi: "你___了！", pinyin: "nˇ ___ leˊ!", answer_hanzi: "轉來", answer: "zonˋ loiˇ"}
-      hl: {hanzi: "你___了！", pinyin: "ngi ___ leˋ!", answer_hanzi: "轉來", answer: "zhonˊ loi"}
+      sx: {hanzi: "你___吔！", pinyin: "nˇ ___ leˊ!", answer_hanzi: "轉來", answer: "zonˋ loiˇ"}
+      hl: {hanzi: "你___咧！", pinyin: "ngi ___ leˋ!", answer_hanzi: "轉來", answer: "zhonˊ loi"}
     - en: "I'm going back to 竹東 tomorrow. (said in Miaoli)"
       sx: {hanzi: "𠊎天光日愛___竹東。", pinyin: "ngaiˇ tienˊ gongˊ ngidˋ oi ___ zugˋ dungˊ.", answer_hanzi: "轉去", answer: "zonˋ hi"}
       hl: {hanzi: "𠊎韶早愛___竹東。", pinyin: "ngai shau zoˊ oiˇ ___ zhug dungˋ.", answer_hanzi: "轉去", answer: "zhonˊ hiˇ"}
     - en: "You gave me a fright!"
-      sx: {hanzi: "___𠊎了！", pinyin: "___ ngaiˇ leˊ!", answer_hanzi: "嚇著", answer: "hagˋ doˋ"}
-      hl: {hanzi: "___𠊎了！", pinyin: "___ ngai leˋ!", answer_hanzi: "嚇著", answer: "hag doˊ"}
+      sx: {hanzi: "___𠊎吔！", pinyin: "___ ngaiˇ leˊ!", answer_hanzi: "嚇著", answer: "hagˋ doˋ"}
+      hl: {hanzi: "___𠊎咧！", pinyin: "___ ngai leˋ!", answer_hanzi: "嚇著", answer: "hag doˊ"}
 
 audio: []

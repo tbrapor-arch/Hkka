@@ -1,8 +1,8 @@
 id: 43
 title:
   en: "A red invitation"
-  sx: {hanzi: "討餔娘了！", pinyin: "toˋ buˊ ngiongˇ leˊ!"}
-  hl: {hanzi: "討餔娘了！", pinyin: "toˊ buˋ ngiong leˋ!"}
+  sx: {hanzi: "討餔娘吔！", pinyin: "toˋ buˊ ngiongˇ leˊ!"}
+  hl: {hanzi: "討餔娘咧！", pinyin: "toˊ buˋ ngiong leˋ!"}
 review: false
 setting: >-
   Monday breakfast, the second week of January. Weddings crowd into the weeks before the Lunar New Year. 財伯姆, the
@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 財伯姆
     en: "My grandson A-hin is taking a wife! The banquet is on Saturday evening."
-    sx: {hanzi: "吾孫仔阿興愛討餔娘了！禮拜六暗晡食酒。", pinyin: "ngaˊ sunˊ eˋ aˊ hinˊ oi toˋ buˊ ngiongˇ leˊ! liˊ bai liugˋ am buˊ siid jiuˋ."}
-    hl: {hanzi: "𠊎个孫仔阿興愛討餔娘了！禮拜六暗晡食酒。", pinyin: "ngai gaiˇ sunˋ er a+ hinˋ oiˇ toˊ buˋ ngiong leˋ! liˋ baiˇ liug amˇ buˋ shidˋ ziuˊ."}
+    sx: {hanzi: "吾孫仔阿興愛討餔娘吔！禮拜六暗晡食酒。", pinyin: "ngaˊ sunˊ eˋ aˊ hinˊ oi toˋ buˊ ngiongˇ leˊ! liˊ bai liugˋ am buˊ siid jiuˋ."}
+    hl: {hanzi: "𠊎个孫仔阿興愛討餔娘咧！禮拜六暗晡食酒。", pinyin: "ngai gaiˇ sunˋ er a+ hinˋ oiˇ toˊ buˋ ngiong leˋ! liˋ baiˇ liug amˇ buˋ shidˋ ziuˊ."}
   - n: 4
     speaker: 阿婆
     en: "How lovely! And who is the bride?"
@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿婆
     en: "(with a sigh) A-hin is a year younger than A-in, and he's already taking a wife… And A-in, at her age, is still so choosy!"
-    sx: {hanzi: "阿興比阿英還細一歲，就討餔娘了……阿英年紀恁大，還恁會擇！", pinyin: "aˊ hinˊ biˋ aˊ inˊ hanˇ se idˋ se, qiu toˋ buˊ ngiongˇ leˊ … aˊ inˊ ngienˇ giˋ anˋ tai, hanˇ anˋ voi tog!"}
-    hl: {hanzi: "阿興比阿英還細一歲，就討餔娘了……阿英年紀恁大，還恁會擇！", pinyin: "a+ hinˋ biˊ a+ rhinˋ han seˇ rhid soiˇ, ciu+ toˊ buˋ ngiong leˋ … a+ rhinˋ ngien giˊ anˊ tai+, han anˊ voi+ togˋ!"}
+    sx: {hanzi: "阿興比阿英還細一歲，就討餔娘吔……阿英年紀恁大，還恁會擇！", pinyin: "aˊ hinˊ biˋ aˊ inˊ hanˇ se idˋ se, qiu toˋ buˊ ngiongˇ leˊ … aˊ inˊ ngienˇ giˋ anˋ tai, hanˇ anˋ voi tog!"}
+    hl: {hanzi: "阿興比阿英還細一歲，就討餔娘咧……阿英年紀恁大，還恁會擇！", pinyin: "a+ hinˋ biˊ a+ rhinˋ han seˇ rhid soiˇ, ciu+ toˊ buˋ ngiong leˋ … a+ rhinˋ ngien giˊ anˊ tai+, han anˊ voi+ togˋ!"}
   - n: 7
     speaker: Sam
     en: "(to A-min) What does 討餔娘 mean?"
@@ -201,8 +201,8 @@ exercises:
       hl: {hanzi: "係講落水，酒席就在屋肚辦。", pinyin: "heˇ gongˊ logˋ shuiˊ, ziuˊ sidˋ ciu+ coiˋ vug duˊ pan+."}
       check: true
     - en: "He's getting on in years, and still won't take a wife: he's too choosy."
-      sx: {hanzi: "佢年紀恁大，還毋討餔娘，忒會擇了。", pinyin: "giˇ ngienˇ giˋ anˋ tai, hanˇ mˇ toˋ buˊ ngiongˇ, tedˋ voi tog leˊ."}
-      hl: {hanzi: "佢年紀恁大，還毋討餔娘，忒會擇了。", pinyin: "gi ngien giˊ anˊ tai+, han m toˊ buˋ ngiong, ted voi+ togˋ leˋ."}
+      sx: {hanzi: "佢年紀恁大，還毋討餔娘，忒會擇吔。", pinyin: "giˇ ngienˇ giˋ anˋ tai, hanˇ mˇ toˋ buˊ ngiongˇ, tedˋ voi tog leˊ."}
+      hl: {hanzi: "佢年紀恁大，還毋討餔娘，忒會擇咧。", pinyin: "gi ngien giˊ anˊ tai+, han m toˊ buˋ ngiong, ted voi+ togˋ leˋ."}
     - en: "The groom's sister-in-law arranged the catering."
       sx: {hanzi: "新娘公个阿嫂請人辦桌。", pinyin: "xinˊ ngiongˇ gungˊ ge aˊ soˋ qiangˋ nginˇ pan zogˋ."}
       hl: {hanzi: "新娘公个阿嫂請人辦桌。", pinyin: "sinˋ ngiong gungˋ gaiˇ a+ soˊ ciangˊ ngin pan+ zog."}

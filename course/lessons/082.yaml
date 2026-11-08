@@ -67,8 +67,8 @@ dialogue:
   - n: 11
     speaker: 阿公
     en: "(from his chair) The third line. You sang it too fast. And no need to take the high notes so high."
-    sx: {hanzi: "第三句，你唱忒遽了。高音乜毋使恁高。", pinyin: "ti samˊ gi, nˇ cong tedˋ giagˋ leˊ. goˊ imˊ me mˇ siiˋ anˋ goˊ."}
-    hl: {hanzi: "第三句，你唱忒遽了。高音乜毋使恁高。", pinyin: "ti+ samˋ giˇ, ngi chongˇ ted giag leˋ. goˋ rhimˋ meˇ m siiˊ anˊ goˋ."}
+    sx: {hanzi: "第三句，你唱忒遽吔。高音乜毋使恁高。", pinyin: "ti samˊ gi, nˇ cong tedˋ giagˋ leˊ. goˊ imˊ me mˇ siiˋ anˋ goˊ."}
+    hl: {hanzi: "第三句，你唱忒遽咧。高音乜毋使恁高。", pinyin: "ti+ samˋ giˇ, ngi chongˇ ted giag leˋ. goˋ rhimˋ meˇ m siiˊ anˊ goˋ."}
   - n: 12
     speaker: 阿婆
     en: "You sing it, then!"

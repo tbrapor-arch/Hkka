@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿婆
     en: "You're so hot! I'm afraid you've got a fever."
-    sx: {hanzi: "恁燒！驚怕係發燒了。", pinyin: "anˋ seuˊ! giangˊ pa he fadˋ seuˊ leˊ."}
-    hl: {hanzi: "恁燒！驚怕係發燒了。", pinyin: "anˊ shauˋ! giangˋ paˇ heˇ fad shauˋ leˋ."}
+    sx: {hanzi: "恁燒！驚怕係發燒吔。", pinyin: "anˋ seuˊ! giangˊ pa he fadˋ seuˊ leˊ."}
+    hl: {hanzi: "恁燒！驚怕係發燒咧。", pinyin: "anˊ shauˋ! giangˋ paˇ heˇ fad shauˋ leˋ."}
   - n: 2
     speaker: Sam
     en: "My head aches, and my throat hurts too… but it's nothing."
@@ -78,8 +78,8 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "I'm better. Luckily I did what the doctor said. But… now Grandpa has a fever too!"
-    sx: {hanzi: "有較好了，好得有聽先生个話。毋過……阿公乜發燒了！", pinyin: "iuˊ ka hoˋ leˊ, hoˋ dedˋ iuˊ tangˊ xinˊ sangˊ ge fa. mˇ go … aˊ gungˊ me fadˋ seuˊ leˊ!"}
-    hl: {hanzi: "有較好了，好得有聽先生个話。毋過……阿公乜發燒了！", pinyin: "rhiuˋ haˇ hoˊ leˋ, hoˊ ded rhiuˋ tangˋ sinˋ sangˋ gaiˇ faˇ. m goˇ … a+ gungˋ meˇ fad shauˋ leˋ!"}
+    sx: {hanzi: "有較好吔，好得有聽先生个話。毋過……阿公乜發燒吔！", pinyin: "iuˊ ka hoˋ leˊ, hoˋ dedˋ iuˊ tangˊ xinˊ sangˊ ge fa. mˇ go … aˊ gungˊ me fadˋ seuˊ leˊ!"}
+    hl: {hanzi: "有較好咧，好得有聽先生个話。毋過……阿公乜發燒咧！", pinyin: "rhiuˋ haˇ hoˊ leˋ, hoˊ ded rhiuˋ tangˋ sinˋ sangˋ gaiˇ faˇ. m goˇ … a+ gungˋ meˇ fad shauˋ leˋ!"}
   - n: 15
     speaker: 阿公
     en: "(from his room) No need to see the doctor!"
@@ -91,7 +91,7 @@ notes:
     topic: grammar
     text: >
       恁燒！ "so hot!": 恁 + adjective as an exclamation (恁大領, lesson 34). 燒 seuˊ is "hot to the touch" (lesson 9),
-      and 發燒 (lesson 12) "have a fever". 驚怕 giangˊ pa "I'm afraid (that)…, probably": 驚怕係寒著了 "I'm afraid it's a
+      and 發燒 (lesson 12) "have a fever". 驚怕 giangˊ pa "I'm afraid (that)…, probably": 驚怕係寒著吔 "I'm afraid it's a
       cold" is an official example.
   - ref: 2
     topic: grammar
@@ -179,15 +179,15 @@ exercises:
       sx: {hanzi: "你今晡日恁無精神。有睡目無？", pinyin: "nˇ gimˊ buˊ ngidˋ anˋ moˇ jinˊ siinˇ. iuˊ soi mugˋ moˇ?"}
       hl: {hanzi: "你今晡日恁無精神。有睡目無？", pinyin: "ngi gimˋ buˋ ngid anˊ mo zinˋ shin. rhiuˋ shoi+ mug mo?"}
     - en: "I'd like to go out, but it's too cold."
-      sx: {hanzi: "𠊎想愛出去，毋過忒寒了。", pinyin: "ngaiˇ xiongˋ oi cudˋ hi, mˇ go tedˋ honˇ leˊ."}
-      hl: {hanzi: "𠊎想愛出去，毋過忒冷了。", pinyin: "ngai siongˊ oiˇ chud hiˇ, m goˇ ted langˋ leˋ."}
+      sx: {hanzi: "𠊎想愛出去，毋過忒寒吔。", pinyin: "ngaiˇ xiongˋ oi cudˋ hi, mˇ go tedˋ honˇ leˊ."}
+      hl: {hanzi: "𠊎想愛出去，毋過忒冷咧。", pinyin: "ngai siongˊ oiˇ chud hiˇ, m goˇ ted langˋ leˋ."}
   fill:
     - en: "Does it hurt?"
       sx: {hanzi: "會___無？", pinyin: "voi ___ moˇ?", answer_hanzi: "痛", answer: "tung"}
       hl: {hanzi: "會___無？", pinyin: "voi+ ___ mo?", answer_hanzi: "痛", answer: "tungˇ"}
     - en: "He's better (than before)."
-      sx: {hanzi: "佢___較好了。", pinyin: "giˇ ___ ka hoˋ leˊ.", answer_hanzi: "有", answer: "iuˊ"}
-      hl: {hanzi: "佢___較好了。", pinyin: "gi ___ haˇ hoˊ leˋ.", answer_hanzi: "有", answer: "rhiuˋ"}
+      sx: {hanzi: "佢___較好吔。", pinyin: "giˇ ___ ka hoˋ leˊ.", answer_hanzi: "有", answer: "iuˊ"}
+      hl: {hanzi: "佢___較好咧。", pinyin: "gi ___ haˇ hoˊ leˋ.", answer_hanzi: "有", answer: "rhiuˋ"}
     - en: "You need a good rest."
       sx: {hanzi: "你愛好好___。", pinyin: "nˇ oi hoˋ hoˋ ___.", answer_hanzi: "歇睏", answer: "hiedˋ kun"}
       hl: {hanzi: "你愛好好___。", pinyin: "ngi oiˇ hoˊ hoˊ ___.", answer_hanzi: "歇睏", answer: "hied kunˇ"}

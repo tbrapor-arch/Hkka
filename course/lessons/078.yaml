@@ -35,13 +35,13 @@ dialogue:
   - n: 5
     speaker: 先生
     en: "(coming in with the X-rays) The tests are done. No broken bones; the knee is just swollen."
-    sx: {hanzi: "檢查好了。骨頭無斷忒，膝頭腫起來定定。", pinyin: "giamˋ caˇ hoˋ leˊ. gudˋ teuˇ moˇ tonˊ tedˋ, qidˋ teuˇ zungˋ hiˋ loiˇ tin tin."}
-    hl: {hanzi: "檢查好了。骨頭無斷忒，膝頭腫起來定定。", pinyin: "giamˊ ca hoˊ leˋ. gud teu mo tonˋ ted, cid teu zhungˊ hiˊ loi tin+ tin+."}
+    sx: {hanzi: "檢查好吔。骨頭無斷忒，膝頭腫起來定定。", pinyin: "giamˋ caˇ hoˋ leˊ. gudˋ teuˇ moˇ tonˊ tedˋ, qidˋ teuˇ zungˋ hiˋ loiˇ tin tin."}
+    hl: {hanzi: "檢查好咧。骨頭無斷忒，膝頭腫起來定定。", pinyin: "giamˊ ca hoˊ leˋ. gud teu mo tonˋ ted, cid teu zhungˊ hiˊ loi tin+ tin+."}
   - n: 6
     speaker: 阿婆
     en: "Thank goodness! I was afraid his bones were broken. Last night there was so much blood…"
-    sx: {hanzi: "好得！𠊎驚怕佢个骨頭斷忒了。昨暗晡流恁多血……", pinyin: "hoˋ dedˋ! ngaiˇ giangˊ pa giˇ ge gudˋ teuˇ tonˊ tedˋ leˊ. coˊ am buˊ liuˇ anˋ doˊ hiedˋ …"}
-    hl: {hanzi: "好得！𠊎驚怕佢个骨頭斷忒了。昨暗晡流恁多血……", pinyin: "hoˊ ded! ngai giangˋ paˇ gi gaiˇ gud teu tonˋ ted leˋ. coˋ amˇ buˋ lau anˊ doˋ hied …"}
+    sx: {hanzi: "好得！𠊎驚怕佢个骨頭斷忒吔。昨暗晡流恁多血……", pinyin: "hoˋ dedˋ! ngaiˇ giangˊ pa giˇ ge gudˋ teuˇ tonˊ tedˋ leˊ. coˊ am buˊ liuˇ anˋ doˊ hiedˋ …"}
+    hl: {hanzi: "好得！𠊎驚怕佢个骨頭斷忒咧。昨暗晡流恁多血……", pinyin: "hoˊ ded! ngai giangˋ paˇ gi gaiˇ gud teu tonˋ ted leˋ. coˋ amˇ buˋ lau anˊ doˋ hied …"}
   - n: 7
     speaker: 先生
     en: "The blood was from his hand: the shears. But he has to stay in hospital at least a week and have the dressing changed every day."
@@ -55,13 +55,13 @@ dialogue:
   - n: 9
     speaker: 先生
     en: "Don't worry. He's very fit. How old is he?"
-    sx: {hanzi: "毋使驚。阿伯身體當健。佢幾多歲了？", pinyin: "mˇ siiˋ giangˊ. aˊ bagˋ siinˊ tiˋ dongˊ kien. giˇ giˋ doˊ se leˊ?"}
-    hl: {hanzi: "毋使驚。阿伯身體當健。佢幾多歲了？", pinyin: "m siiˊ giangˋ. a+ bag shinˋ tiˊ dongˋ kien+. gi giˊ doˋ soiˇ leˋ?"}
+    sx: {hanzi: "毋使驚。阿伯身體當健。佢幾多歲吔？", pinyin: "mˇ siiˋ giangˊ. aˊ bagˋ siinˊ tiˋ dongˊ kien. giˇ giˋ doˊ se leˊ?"}
+    hl: {hanzi: "毋使驚。阿伯身體當健。佢幾多歲咧？", pinyin: "m siiˊ giangˋ. a+ bag shinˋ tiˊ dongˋ kien+. gi giˊ doˋ soiˇ leˋ?"}
   - n: 10
     speaker: 阿婆
     en: "Seventy-eight. He'll be seventy-nine this year."
-    sx: {hanzi: "七十八。今年會七十九歲了。", pinyin: "qidˋ siib badˋ. gimˊ ngienˇ voi qidˋ siib giuˋ se leˊ."}
-    hl: {hanzi: "七十八。今年會七十九歲了。", pinyin: "cid shibˋ bad. gimˋ ngien voi+ cid shibˋ giuˊ soiˇ leˋ."}
+    sx: {hanzi: "七十八。今年會七十九歲吔。", pinyin: "qidˋ siib badˋ. gimˊ ngienˇ voi qidˋ siib giuˋ se leˊ."}
+    hl: {hanzi: "七十八。今年會七十九歲咧。", pinyin: "cid shibˋ bad. gimˋ ngien voi+ cid shibˋ giuˊ soiˇ leˋ."}
   - n: 11
     speaker: 先生
     en: "Nearly seventy-nine and still working in the tea field? Once he's out, no heavy work."
@@ -116,13 +116,13 @@ notes:
   - ref: 6
     topic: grammar
     text: >
-      驚怕 "be afraid that, I'm afraid" (lesson 39): 𠊎驚怕佢个骨頭斷忒了 "I was afraid his bones were broken". With 好得
+      驚怕 "be afraid that, I'm afraid" (lesson 39): 𠊎驚怕佢个骨頭斷忒吔 "I was afraid his bones were broken". With 好得
       "luckily" (lesson 39) in front, relief comes first and the fear after, as Grandma would say it.
   - ref: 10
     topic: grammar
     text: >
-      會 + age "will be, is going on": 今年會七十九歲了 "he'll be seventy-nine this year". The official examples use it for
-      "nearly": 叔公太會一百歲了，身體還當健 "great-uncle is nearly a hundred, and still fit". 健 kien "fit, robust", 當健
+      會 + age "will be, is going on": 今年會七十九歲吔 "he'll be seventy-nine this year". The official examples use it for
+      "nearly": 叔公太會一百歲吔，身體還當健 "great-uncle is nearly a hundred, and still fit". 健 kien "fit, robust", 當健
       "in good health" (lesson 9's 當 + adjective), the word for old people who still work.
   - ref: 11
     topic: vocab
@@ -170,8 +170,8 @@ exercises:
       sx: {hanzi: "佢跌倒，骨頭斷忒。", pinyin: "giˇ diedˋ doˋ, gudˋ teuˇ tonˊ tedˋ."}
       hl: {hanzi: "佢跢倒，骨頭斷忒。", pinyin: "gi doiˋ doˊ, gud teu tonˋ ted."}
     - en: "Peeling a tangerine, I wasn't careful, and cut my finger on the knife."
-      sx: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血了。", pinyin: "xiogˋ gamˊ eˋ ge piˇ moˇ se ngi, suˋ ziiˋ bunˊ doˊ eˋ godˋ doˋ, cudˋ hiedˋ leˊ."}
-      hl: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血了。", pinyin: "siog gamˋ er gaiˇ pi mo seˇ ngi+, shiuˊ zhiˊ bunˋ doˋ er god doˊ, chud hied leˋ."}
+      sx: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血吔。", pinyin: "xiogˋ gamˊ eˋ ge piˇ moˇ se ngi, suˋ ziiˋ bunˊ doˊ eˋ godˋ doˋ, cudˋ hiedˋ leˊ."}
+      hl: {hanzi: "削柑仔个皮無細義，手指分刀仔割著，出血咧。", pinyin: "siog gamˋ er gaiˇ pi mo seˇ ngi+, shiuˊ zhiˊ bunˋ doˋ er god doˊ, chud hied leˋ."}
     - en: "Grandma keeps Grandpa company in the ward every day."
       sx: {hanzi: "阿婆逐日在病房陪阿公。", pinyin: "aˊ poˇ dagˋ ngidˋ coiˊ piang fongˇ piˇ aˊ gungˊ."}
       hl: {hanzi: "阿婆逐日在病房陪阿公。", pinyin: "a+ po dag ngid coiˋ piang+ fong poi a+ gungˋ."}
@@ -183,16 +183,16 @@ exercises:
       sx: {hanzi: "佢正出院，身體還弱弱，毋好做粗事。", pinyin: "giˇ zang cudˋ ien, siinˊ tiˋ hanˇ ngiog ngiog, mˇ hoˋ zo cuˊ se."}
       hl: {hanzi: "佢正出院，身體還弱弱，毋好做粗事。", pinyin: "gi zhangˇ chud rhanˇ, shinˋ tiˊ han ngiogˋ ngiogˋ, m hoˊ zoˇ cuˋ she+."}
     - en: "Put this shirt on; the nurse is coming."
-      sx: {hanzi: "這領衫著起來，護士愛來了。", pinyin: "iaˋ liangˊ samˊ zogˋ hiˋ loiˇ, fu sii oi loiˇ leˊ."}
-      hl: {hanzi: "這領衫著起來，護士愛來了。", pinyin: "liaˊ liangˋ samˋ zhog hiˊ loi, fu+ sii+ oiˇ loi leˋ."}
+      sx: {hanzi: "這領衫著起來，護士愛來吔。", pinyin: "iaˋ liangˊ samˊ zogˋ hiˋ loiˇ, fu sii oi loiˇ leˊ."}
+      hl: {hanzi: "這領衫著起來，護士愛來咧。", pinyin: "liaˊ liangˋ samˋ zhog hiˊ loi, fu+ sii+ oiˇ loi leˋ."}
       check: true
   fill:
     - en: "His knee is swollen."
-      sx: {hanzi: "佢个膝頭___起來了。", pinyin: "giˇ ge qidˋ teuˇ ___ hiˋ loiˇ leˊ.", answer_hanzi: "腫", answer: "zungˋ"}
-      hl: {hanzi: "佢个膝頭___起來了。", pinyin: "gi gaiˇ cid teu ___ hiˊ loi leˋ.", answer_hanzi: "腫", answer: "zhungˊ"}
+      sx: {hanzi: "佢个膝頭___起來吔。", pinyin: "giˇ ge qidˋ teuˇ ___ hiˋ loiˇ leˊ.", answer_hanzi: "腫", answer: "zungˋ"}
+      hl: {hanzi: "佢个膝頭___起來咧。", pinyin: "gi gaiˇ cid teu ___ hiˊ loi leˋ.", answer_hanzi: "腫", answer: "zhungˊ"}
     - en: "He's going on ninety (not ninety yet), and he's still fit."
-      sx: {hanzi: "佢今年___九十歲了，身體還當健。", pinyin: "giˇ gimˊ ngienˇ ___ giuˋ siib se leˊ, siinˊ tiˋ hanˇ dongˊ kien.", answer_hanzi: "會", answer: "voi"}
-      hl: {hanzi: "佢今年___九十歲了，身體還當健。", pinyin: "gi gimˋ ngien ___ giuˊ shibˋ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+.", answer_hanzi: "會", answer: "voi+"}
+      sx: {hanzi: "佢今年___九十歲吔，身體還當健。", pinyin: "giˇ gimˊ ngienˇ ___ giuˋ siib se leˊ, siinˊ tiˋ hanˇ dongˊ kien.", answer_hanzi: "會", answer: "voi"}
+      hl: {hanzi: "佢今年___九十歲咧，身體還當健。", pinyin: "gi gimˋ ngien ___ giuˊ shibˋ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+.", answer_hanzi: "會", answer: "voi+"}
     - en: "I'm afraid it will rain."
       sx: {hanzi: "𠊎___會落雨。", pinyin: "ngaiˇ ___ voi log iˋ.", answer_hanzi: "驚怕", answer: "giangˊ pa"}
       hl: {hanzi: "𠊎___會落水。", pinyin: "ngai ___ voi+ logˋ shuiˊ.", answer_hanzi: "驚怕", answer: "giangˋ paˇ"}

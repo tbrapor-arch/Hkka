@@ -73,13 +73,13 @@ dialogue:
   - n: 13
     speaker: 阿公
     en: "(after a few notes, looking at his fingers) My hands have gone stiff."
-    sx: {hanzi: "手硬了。", pinyin: "suˋ ngang leˊ."}
-    hl: {hanzi: "手硬了。", pinyin: "shiuˊ ngang+ leˋ."}
+    sx: {hanzi: "手硬吔。", pinyin: "suˋ ngang leˊ."}
+    hl: {hanzi: "手硬咧。", pinyin: "shiuˊ ngang+ leˋ."}
   - n: 14
     speaker: 阿貴伯
     en: "A bit of practice and they'll loosen up. At the 義民 festival, come and play with us!"
-    sx: {hanzi: "練一下就好了。義民節，你來同𠊎兜共下鋸！", pinyin: "lien idˋ ha qiu hoˋ leˊ. ngi minˇ jiedˋ, nˇ loiˇ tungˇ ngaiˇ deuˊ kiung ha gi!"}
-    hl: {hanzi: "練一下就好了。義民節，你來摎𠊎兜共下挨！", pinyin: "lien+ rhid ha+ ciu+ hoˊ leˋ. ngi+ min zied, ngi loi lauˋ ngai deuˋ kiung+ ha+ aiˋ!"}
+    sx: {hanzi: "練一下就好吔。義民節，你來同𠊎兜共下鋸！", pinyin: "lien idˋ ha qiu hoˋ leˊ. ngi minˇ jiedˋ, nˇ loiˇ tungˇ ngaiˇ deuˊ kiung ha gi!"}
+    hl: {hanzi: "練一下就好咧。義民節，你來摎𠊎兜共下挨！", pinyin: "lien+ rhid ha+ ciu+ hoˊ leˋ. ngi+ min zied, ngi loi lauˋ ngai deuˋ kiung+ ha+ aiˋ!"}
   - n: 15
     speaker: 阿公
     en: "…I'll come once I've practised it properly."
@@ -93,8 +93,8 @@ dialogue:
   - n: 17
     speaker: 阿貴伯
     en: "(who heard) With your grandpa, our band will be complete!"
-    sx: {hanzi: "你阿公來，𠊎兜个八音團就齊全了！", pinyin: "nˇ aˊ gungˊ loiˇ, ngaiˇ deuˊ ge badˋ imˊ tonˇ qiu ceˇ qionˇ leˊ!"}
-    hl: {hanzi: "你阿公來，𠊎兜个八音團就齊全了！", pinyin: "ngi a+ gungˋ loi, ngai deuˋ gaiˇ bad rhimˋ ton ciu+ ce cion leˋ!"}
+    sx: {hanzi: "你阿公來，𠊎兜个八音團就齊全吔！", pinyin: "nˇ aˊ gungˊ loiˇ, ngaiˇ deuˊ ge badˋ imˊ tonˇ qiu ceˇ qionˇ leˊ!"}
+    hl: {hanzi: "你阿公來，𠊎兜个八音團就齊全咧！", pinyin: "ngi a+ gungˋ loi, ngai deuˋ gaiˇ bad rhimˋ ton ciu+ ce cion leˋ!"}
   - n: 18
     speaker: 阿明
     en: "阿貴伯 beats the drum and leads, Grandpa plays the fiddle… and Sam strikes the gong!"
@@ -147,7 +147,7 @@ notes:
   - ref: 13
     topic: grammar
     text: >
-      手硬了 "my hands have gone stiff": 了 for the change of state (lesson 9). Grandpa sang every day in the tea garden in
+      手硬吔 "my hands have gone stiff": 了 for the change of state (lesson 9). Grandpa sang every day in the tea garden in
       his youth (lesson 20) but refused to sing for the family until lesson 37; now it turns out he played too.
 
 new_words:

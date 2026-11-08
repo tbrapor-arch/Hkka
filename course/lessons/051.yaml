@@ -30,8 +30,8 @@ dialogue:
   - n: 4
     speaker: 阿婆
     en: "(in the main room, before the ancestors' tablet) Ancestors, the three offerings are laid out, and the incense is in the burner. This year Sam is spending the New Year in our house too."
-    sx: {hanzi: "阿公婆，三牲放好了，香乜放在香爐了。今年 Sam 乜在𫣆兜屋下過年。", pinyin: "aˊ gungˊ poˇ, samˊ senˊ biong hoˋ leˊ, hiongˊ me biong coiˊ hiongˊ luˇ leˊ. gimˊ ngienˇ Sam me coiˊ enˊ deuˊ vugˋ kaˊ go ngienˇ."}
-    hl: {hanzi: "阿公婆，三牲放好了，香乜放在香爐了。今年 Sam 乜在𫣆兜屋下過年。", pinyin: "a+ gungˋ po, samˋ senˋ biongˇ hoˊ leˋ, hiongˋ meˇ biongˇ coiˋ hiongˋ lu leˋ. gimˋ ngien Sam meˇ coiˋ enˋ deuˋ vug haˋ goˇ ngien."}
+    sx: {hanzi: "阿公婆，三牲放好吔，香乜放在香爐吔。今年 Sam 乜在𫣆兜屋下過年。", pinyin: "aˊ gungˊ poˇ, samˊ senˊ biong hoˋ leˊ, hiongˊ me biong coiˊ hiongˊ luˇ leˊ. gimˊ ngienˇ Sam me coiˊ enˊ deuˊ vugˋ kaˊ go ngienˇ."}
+    hl: {hanzi: "阿公婆，三牲放好咧，香乜放在香爐咧。今年 Sam 乜在𫣆兜屋下過年。", pinyin: "a+ gungˋ po, samˋ senˋ biongˇ hoˊ leˋ, hiongˋ meˇ biongˇ coiˋ hiongˋ lu leˋ. gimˋ ngien Sam meˇ coiˋ enˋ deuˋ vug haˋ goˇ ngien."}
   - n: 5
     speaker: 阿姆
     en: "(at the round table) Come on, have some 長年菜. Eat it and you'll live to a hundred."
@@ -60,8 +60,8 @@ dialogue:
   - n: 10
     speaker: Sam
     en: "Me too? But I'm a grown-up!"
-    sx: {hanzi: "𠊎乜有？毋過𠊎係大人了！", pinyin: "ngaiˇ me iuˊ? mˇ go ngaiˇ he tai nginˇ leˊ!"}
-    hl: {hanzi: "𠊎乜有？毋過𠊎係大人了！", pinyin: "ngai meˇ rhiuˋ? m goˇ ngai heˇ tai+ ngin leˋ!"}
+    sx: {hanzi: "𠊎乜有？毋過𠊎係大人吔！", pinyin: "ngaiˇ me iuˊ? mˇ go ngaiˇ he tai nginˇ leˊ!"}
+    hl: {hanzi: "𠊎乜有？毋過𠊎係大人咧！", pinyin: "ngai meˇ rhiuˋ? m goˇ ngai heˇ tai+ ngin leˋ!"}
   - n: 11
     speaker: 阿婆
     en: "In Grandma's house, you're a child."
@@ -75,8 +75,8 @@ dialogue:
   - n: 13
     speaker: 阿爸
     en: "(watching A-min reach for the radish cake again) A-min is getting fatter and fatter."
-    sx: {hanzi: "阿明緊來緊大箍了。", pinyin: "aˊ minˇ ginˋ loiˇ ginˋ tai kieuˊ leˊ."}
-    hl: {hanzi: "阿明緊來緊大箍了。", pinyin: "a+ min ginˊ loi ginˊ tai+ kieuˋ leˋ."}
+    sx: {hanzi: "阿明緊來緊大箍吔。", pinyin: "aˊ minˇ ginˋ loiˇ ginˋ tai kieuˊ leˊ."}
+    hl: {hanzi: "阿明緊來緊大箍咧。", pinyin: "a+ min ginˊ loi ginˊ tai+ kieuˋ leˋ."}
   - n: 14
     speaker: 阿明
     en: "It's Grandma's fault: her 粄 is too good! …Tonight we're letting off firecrackers and playing cards till dawn!"

@@ -41,8 +41,8 @@ dialogue:
   - n: 6
     speaker: 阿婆
     en: "He's been practising for a month. Every evening, on the veranda."
-    sx: {hanzi: "佢練一隻月了。逐暗晡都在屋簷下練。", pinyin: "giˇ lien idˋ zagˋ ngied leˊ. dagˋ am buˊ du coiˊ vugˋ iamˇ haˊ lien."}
-    hl: {hanzi: "佢練一隻月了。逐暗晡都在屋簷下練。", pinyin: "gi lien+ rhid zhag ngiedˋ leˋ. dag amˇ buˋ du+ coiˋ vug rham haˋ lien+."}
+    sx: {hanzi: "佢練一隻月吔。逐暗晡都在屋簷下練。", pinyin: "giˇ lien idˋ zagˋ ngied leˊ. dagˋ am buˊ du coiˊ vugˋ iamˇ haˊ lien."}
+    hl: {hanzi: "佢練一隻月咧。逐暗晡都在屋簷下練。", pinyin: "gi lien+ rhid zhag ngiedˋ leˋ. dag amˇ buˋ du+ coiˋ vug rham haˋ lien+."}
     check: true
   - n: 7
     speaker: 阿貴伯
@@ -85,13 +85,13 @@ dialogue:
   - n: 14
     speaker: 阿公
     en: "(flexing his fingers, almost smiling) Not stiff any more."
-    sx: {hanzi: "無硬了。", pinyin: "moˇ ngang leˊ."}
-    hl: {hanzi: "無硬了。", pinyin: "mo ngang+ leˋ."}
+    sx: {hanzi: "無硬吔。", pinyin: "moˇ ngang leˊ."}
+    hl: {hanzi: "無硬咧。", pinyin: "mo ngang+ leˋ."}
   - n: 15
     speaker: 阿貴伯
     en: "The offerings are done. 阿劉哥, come and burn the gold paper. The committee members are welcoming guests at the gate and have invited you."
-    sx: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，邀請你去。", pinyin: "bai baiˊ hoˋ leˊ. aˊ liuˇ goˊ, loiˇ seuˊ gimˊ. viˊ ienˇ coiˊ meu munˇ heuˋ ngiangˇ nginˇ hagˋ, ieuˊ qiangˋ nˇ hi."}
-    hl: {hanzi: "拜拜好了。阿劉哥，來燒金。委員在廟門口迎人客，邀請你去。", pinyin: "bai baiˊ hoˊ leˋ. a+ liu goˋ, loi shauˋ gimˋ. vuiˋ rhan coiˋ miau+ mun heuˊ ngiang ngin hag, rhauˋ ciangˊ ngi hiˇ."}
+    sx: {hanzi: "拜拜好吔。阿劉哥，來燒金。委員在廟門口迎人客，邀請你去。", pinyin: "bai baiˊ hoˋ leˊ. aˊ liuˇ goˊ, loiˇ seuˊ gimˊ. viˊ ienˇ coiˊ meu munˇ heuˋ ngiangˇ nginˇ hagˋ, ieuˊ qiangˋ nˇ hi."}
+    hl: {hanzi: "拜拜好咧。阿劉哥，來燒金。委員在廟門口迎人客，邀請你去。", pinyin: "bai baiˊ hoˊ leˋ. a+ liu goˋ, loi shauˋ gimˋ. vuiˋ rhan coiˋ miau+ mun heuˊ ngiang ngin hag, rhauˋ ciangˊ ngi hiˇ."}
     check: true
   - n: 16
     speaker: 阿婆
@@ -145,7 +145,7 @@ notes:
     text: >
       The word lists differ: Hailu 糖糜 tong moi, Sixian 糖粥; but Sixian examples use 糖糜 too (熱天个時節，阿婆當好食糖糜), as
       lesson 58 found with 糜. Line 16 is the official sentence 逐年義民廟做中元个時節，就會有請人食糖粥, shortened; 中元
-      (the mid-seventh-month festival) is not in the word lists and is given as a name. 無硬了 "not stiff any more": Grandpa's answer to his own 手硬了 of lesson 87. 盡好聽 (line 8): 盡 means "very" here.
+      (the mid-seventh-month festival) is not in the word lists and is given as a name. 無硬吔 "not stiff any more": Grandpa's answer to his own 手硬吔 of lesson 87. 盡好聽 (line 8): 盡 means "very" here.
 
 new_words:
   - {hanzi: 三獻禮, pinyin: "samˊ hien liˊ", en: "the three-offering rite", hl: {hanzi: 三獻禮, pinyin: "samˋ hienˇ liˋ"}}
@@ -194,8 +194,8 @@ exercises:
       hl: {hanzi: "阿婆用柑仔供神明。", pinyin: "a+ po rhung+ gamˋ er giungˇ shin min."}
       check: true
     - en: "After the offerings, Grandma goes to burn the gold paper."
-      sx: {hanzi: "拜拜好了，阿婆去燒金。金紙愛燒好。", pinyin: "bai baiˊ hoˋ leˊ, aˊ poˇ hi seuˊ gimˊ. gimˊ ziiˋ oi seuˊ hoˋ."}
-      hl: {hanzi: "拜拜好了，阿婆去燒金。金紙愛燒好。", pinyin: "bai baiˊ hoˊ leˋ, a+ po hiˇ shauˋ gimˋ. gimˋ zhiˊ oiˇ shauˋ hoˊ."}
+      sx: {hanzi: "拜拜好吔，阿婆去燒金。金紙愛燒好。", pinyin: "bai baiˊ hoˋ leˊ, aˊ poˇ hi seuˊ gimˊ. gimˊ ziiˋ oi seuˊ hoˋ."}
+      hl: {hanzi: "拜拜好咧，阿婆去燒金。金紙愛燒好。", pinyin: "bai baiˊ hoˊ leˋ, a+ po hiˇ shauˋ gimˋ. gimˋ zhiˊ oiˇ shauˋ hoˊ."}
       check: true
   fill:
     - en: "Please sit down!"

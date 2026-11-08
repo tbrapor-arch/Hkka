@@ -63,8 +63,8 @@ dialogue:
   - n: 11
     speaker: 阿婆
     en: "(to Sam, delighted) He's talked a lot today!"
-    sx: {hanzi: "佢今晡日講恁多話了！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ anˋ doˊ fa leˊ!"}
-    hl: {hanzi: "佢今晡日講恁多話了！", pinyin: "gi gimˋ buˋ ngid gongˊ anˊ doˋ faˇ leˋ!"}
+    sx: {hanzi: "佢今晡日講恁多話吔！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ anˋ doˊ fa leˊ!"}
+    hl: {hanzi: "佢今晡日講恁多話咧！", pinyin: "gi gimˋ buˋ ngid gongˊ anˊ doˋ faˇ leˋ!"}
 
 notes:
   - ref: 1
@@ -136,8 +136,8 @@ exercises:
       sx: {hanzi: "頭擺當辛苦。", pinyin: "teuˇ baiˋ dongˊ xinˊ kuˋ."}
       hl: {hanzi: "頭擺當辛苦。", pinyin: "teu baiˊ dongˋ sinˋ kuˊ."}
     - en: "In the old days there were no buses; now there are."
-      sx: {hanzi: "頭擺無巴士，這下有了。", pinyin: "teuˇ baiˋ moˇ ba siiˋ, iaˋ ha iuˊ leˊ."}
-      hl: {hanzi: "頭擺無巴士，這下有了。", pinyin: "teu baiˊ mo ba siiˋ, liaˊ ha+ rhiuˋ leˋ."}
+      sx: {hanzi: "頭擺無巴士，這下有吔。", pinyin: "teuˇ baiˋ moˇ ba siiˋ, iaˋ ha iuˊ leˊ."}
+      hl: {hanzi: "頭擺無巴士，這下有咧。", pinyin: "teu baiˊ mo ba siiˋ, liaˊ ha+ rhiuˋ leˋ."}
     - en: "When I was young I sang every day."
       sx: {hanzi: "𠊎後生个時節逐日唱歌。", pinyin: "ngaiˇ heu sangˊ ge siiˇ jiedˋ dagˋ ngidˋ cong goˊ."}
       hl: {hanzi: "𠊎後生个時節逐日唱歌。", pinyin: "ngai heu+ sangˋ gaiˇ shi zied dag ngid chongˇ goˋ."}

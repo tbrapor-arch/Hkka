@@ -25,8 +25,8 @@ dialogue:
   - n: 3
     speaker: 阿明
     en: "阿舅's here too! He's in 竹東, joining in on his phone."
-    sx: {hanzi: "阿舅乜來了！佢在竹東，用手機仔同𠊎兜鬥陣講。", pinyin: "aˊ kiuˊ me loiˇ leˊ! giˇ coiˊ zugˋ dungˊ, iung suˋ giˊ eˋ tungˇ ngaiˇ deuˊ deu ciin gongˋ."}
-    hl: {hanzi: "阿舅乜來了！佢在竹東，用手機摎𠊎兜鬥陣講。", pinyin: "a+ kiuˋ meˇ loi leˋ! gi coiˋ zug dungˋ, rhung+ shiuˊ giˋ lauˋ ngai deuˋ deuˇ chin+ gongˊ."}
+    sx: {hanzi: "阿舅乜來吔！佢在竹東，用手機仔同𠊎兜鬥陣講。", pinyin: "aˊ kiuˊ me loiˇ leˊ! giˇ coiˊ zugˋ dungˊ, iung suˋ giˊ eˋ tungˇ ngaiˇ deuˊ deu ciin gongˋ."}
+    hl: {hanzi: "阿舅乜來咧！佢在竹東，用手機摎𠊎兜鬥陣講。", pinyin: "a+ kiuˋ meˇ loi leˋ! gi coiˋ zug dungˋ, rhung+ shiuˊ giˋ lauˋ ngai deuˋ deuˇ chin+ gongˊ."}
     check: true
   - n: 4
     speaker: 阿舅
@@ -42,8 +42,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "Grandma, it's 寒; 阿舅, it's 冷. Freezing, about zero, colder than the fridge, and it's even snowing!"
-    sx: {hanzi: "阿婆，當寒；阿舅，當冷。冷颼颼仔，大概零度，比冰箱較冷，還落雪了！", pinyin: "aˊ poˇ, dongˊ honˇ; aˊ kiuˊ, dongˊ langˊ. langˊ xiuˇ xiuˇ eˋ, tai koiˋ langˇ tu, biˋ benˊ xiongˊ ka langˊ, hanˇ log xiedˋ leˊ!"}
-    hl: {hanzi: "阿婆，當寒；阿舅，當冷。冷颼颼仔，大概零度，比冰箱較冷，還落雪了！", pinyin: "a+ po, dongˋ hon; a+ kiuˋ, dongˋ langˋ. langˋ siu siu er, tai+ koiˊ lang tu+, biˊ benˋ siongˋ haˇ langˋ, han logˋ sied leˋ!"}
+    sx: {hanzi: "阿婆，當寒；阿舅，當冷。冷颼颼仔，大概零度，比冰箱較冷，還落雪吔！", pinyin: "aˊ poˇ, dongˊ honˇ; aˊ kiuˊ, dongˊ langˊ. langˊ xiuˇ xiuˇ eˋ, tai koiˋ langˇ tu, biˋ benˊ xiongˊ ka langˊ, hanˇ log xiedˋ leˊ!"}
+    hl: {hanzi: "阿婆，當寒；阿舅，當冷。冷颼颼仔，大概零度，比冰箱較冷，還落雪咧！", pinyin: "a+ po, dongˋ hon; a+ kiuˋ, dongˋ langˋ. langˋ siu siu er, tai+ koiˊ lang tu+, biˊ benˋ siongˋ haˇ langˋ, han logˋ sied leˋ!"}
     check: true
   - n: 7
     speaker: 阿明
@@ -117,8 +117,8 @@ dialogue:
   - n: 20
     speaker: Sam
     en: "I've eaten, Grandpa."
-    sx: {hanzi: "食飽了，阿公。", pinyin: "siid bauˋ leˊ, aˊ gungˊ."}
-    hl: {hanzi: "食飽了，阿公。", pinyin: "shidˋ bauˊ leˋ, a+ gungˋ."}
+    sx: {hanzi: "食飽吔，阿公。", pinyin: "siid bauˋ leˊ, aˊ gungˊ."}
+    hl: {hanzi: "食飽咧，阿公。", pinyin: "shidˋ bauˊ leˋ, a+ gungˋ."}
 
 notes:
   - ref: 0
@@ -245,11 +245,11 @@ exercises:
       sx: {hanzi: "兩種腔个差別無恁大。", pinyin: "liongˋ zungˋ kiongˊ ge caˊ pied moˇ anˋ tai."}
       hl: {hanzi: "兩種腔个差別無恁大。", pinyin: "liongˊ zhungˊ kiongˋ gaiˇ caˋ piedˋ mo anˊ tai+."}
     - en: "Have you had lunch? — Not yet, I'm hungry."
-      sx: {hanzi: "你食晝吂？——吂，𠊎肚飢了。", pinyin: "nˇ siid zu mangˇ? — mangˇ, ngaiˇ duˋ giˊ leˊ."}
-      hl: {hanzi: "你食晝吂？——吂，𠊎肚屎枵了。", pinyin: "ngi shidˋ zhiuˇ mang? — mang, ngai duˊ shiˊ iauˋ leˋ."}
+      sx: {hanzi: "你食晝吂？——吂，𠊎肚飢吔。", pinyin: "nˇ siid zu mangˇ? — mangˇ, ngaiˇ duˋ giˊ leˊ."}
+      hl: {hanzi: "你食晝吂？——吂，𠊎肚屎枵咧。", pinyin: "ngi shidˋ zhiuˇ mang? — mang, ngai duˊ shiˊ iauˋ leˋ."}
     - en: "Grandpa's memory isn't what it was, but his mind is still sharp."
-      sx: {hanzi: "阿公个記性較毋好了，毋過頭腦還當清楚。", pinyin: "aˊ gungˊ ge gi xin ka mˇ hoˋ leˊ, mˇ go teuˇ noˋ hanˇ dongˊ qinˊ cuˋ."}
-      hl: {hanzi: "阿公个記性較毋好了，毋過頭腦還當清楚。", pinyin: "a+ gungˋ gaiˇ giˇ sinˇ haˇ m hoˊ leˋ, m goˇ teu noˊ han dongˋ cinˋ cuˊ."}
+      sx: {hanzi: "阿公个記性較毋好吔，毋過頭腦還當清楚。", pinyin: "aˊ gungˊ ge gi xin ka mˇ hoˋ leˊ, mˇ go teuˇ noˋ hanˇ dongˊ qinˊ cuˋ."}
+      hl: {hanzi: "阿公个記性較毋好咧，毋過頭腦還當清楚。", pinyin: "a+ gungˋ gaiˇ giˇ sinˇ haˇ m hoˊ leˋ, m goˇ teu noˊ han dongˋ cinˋ cuˊ."}
       check: true
     - en: "Locals and outsiders alike come to eat 粄條."
       sx: {hanzi: "本地人、外地人都來食粄條。", pinyin: "bunˋ ti nginˇ, ngoi ti nginˇ du loiˇ siid banˋ tiauˇ."}

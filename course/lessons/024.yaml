@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: 阿公
     en: "Three days? One is enough."
-    sx: {hanzi: "三日？一日就罅了。", pinyin: "samˊ ngidˋ? idˋ ngidˋ qiu la leˊ."}
-    hl: {hanzi: "三日？一日就罅了。", pinyin: "samˋ ngid? rhid ngid ciu+ la+ leˋ."}
+    sx: {hanzi: "三日？一日就罅吔。", pinyin: "samˊ ngidˋ? idˋ ngidˋ qiu la leˊ."}
+    hl: {hanzi: "三日？一日就罅咧。", pinyin: "samˋ ngid? rhid ngid ciu+ la+ leˋ."}
   - n: 8
     speaker: Sam
     en: "Grandpa! He said three days!"
@@ -96,7 +96,7 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      罅 la "enough": 一日就罅了 "one day will do". 毋罅 "not enough". A Hakka word with its own character; Mandarin 夠.
+      罅 la "enough": 一日就罅吔 "one day will do". 毋罅 "not enough". A Hakka word with its own character; Mandarin 夠.
   - ref: 9
     topic: false-friend
     text: >
@@ -150,8 +150,8 @@ exercises:
       sx: {hanzi: "水罅無？——毋罅。", pinyin: "suiˋ la moˇ? — mˇ la."}
       hl: {hanzi: "水罅無？——毋罅。", pinyin: "shuiˊ la+ mo? — m la+."}
     - en: "He's ill; he has to go to the pharmacy."
-      sx: {hanzi: "佢破病了，愛去藥房。", pinyin: "giˇ po piang leˊ, oi hi iog fongˇ."}
-      hl: {hanzi: "佢破病了，愛去藥房。", pinyin: "gi poˇ piang+ leˋ, oiˇ hiˇ rhog fong."}
+      sx: {hanzi: "佢破病吔，愛去藥房。", pinyin: "giˇ po piang leˊ, oi hi iog fongˇ."}
+      hl: {hanzi: "佢破病咧，愛去藥房。", pinyin: "gi poˇ piang+ leˋ, oiˇ hiˇ rhog fong."}
     - en: "Grandpa is in very good health."
       sx: {hanzi: "阿公个身體當好。", pinyin: "aˊ gungˊ ge siinˊ tiˋ dongˊ hoˋ."}
       hl: {hanzi: "阿公个身體當好。", pinyin: "a+ gungˋ gaiˇ shinˋ tiˊ dongˋ hoˊ."}
@@ -163,7 +163,7 @@ exercises:
       sx: {hanzi: "食飽___食。", pinyin: "siid bauˋ ___ siid.", answer_hanzi: "正", answer: "zang"}
       hl: {hanzi: "食飽___食。", pinyin: "shidˋ bauˊ ___ shidˋ.", answer_hanzi: "正", answer: "zhangˇ"}
     - en: "One day is enough."
-      sx: {hanzi: "一日就___了。", pinyin: "idˋ ngidˋ qiu ___ leˊ.", answer_hanzi: "罅", answer: "la"}
-      hl: {hanzi: "一日就___了。", pinyin: "rhid ngid ciu+ ___ leˋ.", answer_hanzi: "罅", answer: "la+"}
+      sx: {hanzi: "一日就___吔。", pinyin: "idˋ ngidˋ qiu ___ leˊ.", answer_hanzi: "罅", answer: "la"}
+      hl: {hanzi: "一日就___咧。", pinyin: "rhid ngid ciu+ ___ leˋ.", answer_hanzi: "罅", answer: "la+"}
 
 audio: []

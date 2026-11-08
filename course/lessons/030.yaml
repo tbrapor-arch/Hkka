@@ -69,13 +69,13 @@ dialogue:
   - n: 12
     speaker: 阿明
     en: "Why come to the post office? She's coming home on Thursday!"
-    sx: {hanzi: "做麼个愛來郵局寄？佢禮拜四就轉來了！", pinyin: "zo maˋ ge oi loiˇ iuˇ kiug gi? giˇ liˊ bai xi qiu zonˋ loiˇ leˊ!"}
-    hl: {hanzi: "做麼个愛來郵局寄？佢禮拜四就轉來了！", pinyin: "zoˇ maˊ gaiˇ oiˇ loi rhiu kiugˋ giˇ? gi liˋ baiˇ siˇ ciu+ zhonˊ loi leˋ!"}
+    sx: {hanzi: "做麼个愛來郵局寄？佢禮拜四就轉來吔！", pinyin: "zo maˋ ge oi loiˇ iuˇ kiug gi? giˇ liˊ bai xi qiu zonˋ loiˇ leˊ!"}
+    hl: {hanzi: "做麼个愛來郵局寄？佢禮拜四就轉來咧！", pinyin: "zoˇ maˊ gaiˇ oiˇ loi rhiu kiugˋ giˇ? gi liˋ baiˇ siˇ ciu+ zhonˊ loi leˋ!"}
   - n: 13
     speaker: Sam
     en: "…No need to post it, then."
-    sx: {hanzi: "……毋使寄了。", pinyin: "… mˇ siiˋ gi leˊ."}
-    hl: {hanzi: "……毋使寄了。", pinyin: "… m siiˊ giˇ leˋ."}
+    sx: {hanzi: "……毋使寄吔。", pinyin: "… mˇ siiˋ gi leˊ."}
+    hl: {hanzi: "……毋使寄咧。", pinyin: "… m siiˊ giˇ leˋ."}
 
 notes:
   - ref: 2

@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "Got them. And Grandma's 鹹菜. The suitcase was already full; she made me put it in anyway."
-    sx: {hanzi: "帶等了。還有阿婆个鹹菜。皮箱既經淰了，佢還係愛𠊎放。", pinyin: "dai denˋ leˊ. hanˇ iuˊ aˊ poˇ ge hamˇ coi. piˇ xiongˊ gi ginˊ nemˊ leˊ, giˇ hanˇ he oi ngaiˇ biong."}
-    hl: {hanzi: "帶等了。還有阿婆个鹹菜。皮箱既經淰了，佢還係愛𠊎放。", pinyin: "daiˇ denˊ leˋ. han rhiuˋ a+ po gaiˇ ham coiˇ. pi siongˋ giˇ ginˋ nemˋ leˋ, gi han heˇ oiˇ ngai biongˇ."}
+    sx: {hanzi: "帶等吔。還有阿婆个鹹菜。皮箱既經淰吔，佢還係愛𠊎放。", pinyin: "dai denˋ leˊ. hanˇ iuˊ aˊ poˇ ge hamˇ coi. piˇ xiongˊ gi ginˊ nemˊ leˊ, giˇ hanˇ he oi ngaiˇ biong."}
+    hl: {hanzi: "帶等咧。還有阿婆个鹹菜。皮箱既經淰咧，佢還係愛𠊎放。", pinyin: "daiˇ denˊ leˋ. han rhiuˋ a+ po gaiˇ ham coiˇ. pi siongˋ giˇ ginˋ nemˋ leˋ, gi han heˇ oiˇ ngai biongˇ."}
   - n: 3
     speaker: 阿英
     en: "That's Grandma: 'heavy, my foot!'"
@@ -28,8 +28,8 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "In the end, the thing I like best this year was Mid-Autumn. Grandpa won with 'a felt hat on your knee'."
-    sx: {hanzi: "這一年，𠊎盡中意个係八月半。阿公講「膝頭戴氈帽」就贏了。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ qin zung i ge he badˋ ngied ban. aˊ gungˊ gongˋ qidˋ teuˇ dai zamˊ mo qiu iangˇ leˊ."}
-    hl: {hanzi: "這一年，𠊎盡中意个係八月半。阿公講「膝頭戴氈帽」就贏了。", pinyin: "liaˊ rhid ngien, ngai cin+ zhungˇ rhiˇ gaiˇ heˇ bad ngiedˋ banˇ. a+ gungˋ gongˊ cid teu daiˇ zhanˋ mo+ ciu+ rhang leˋ."}
+    sx: {hanzi: "這一年，𠊎盡中意个係八月半。阿公講「膝頭戴氈帽」就贏吔。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ qin zung i ge he badˋ ngied ban. aˊ gungˊ gongˋ qidˋ teuˇ dai zamˊ mo qiu iangˇ leˊ."}
+    hl: {hanzi: "這一年，𠊎盡中意个係八月半。阿公講「膝頭戴氈帽」就贏咧。", pinyin: "liaˊ rhid ngien, ngai cin+ zhungˇ rhiˇ gaiˇ heˇ bad ngiedˋ banˇ. a+ gungˋ gongˊ cid teu daiˇ zhanˋ mo+ ciu+ rhang leˋ."}
   - n: 5
     speaker: 阿英
     en: "'No face, no eyes.' …For me, it was your speech. Not only did you come third: you even made Grandpa say 'not bad'."
@@ -65,19 +65,19 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "(after a moment) Next year, at the station in France. Settled."
-    sx: {hanzi: "過忒年，法國个車頭。確定了。", pinyin: "go tedˋ ngienˇ, fabˋ guedˋ ge caˊ teuˇ. kogˋ tin leˊ."}
-    hl: {hanzi: "明年，法國个車頭。確定了。", pinyin: "mang ngien, fab gued gaiˇ chaˋ teu. kog tin+ leˋ."}
+    sx: {hanzi: "過忒年，法國个車頭。確定吔。", pinyin: "go tedˋ ngienˇ, fabˋ guedˋ ge caˊ teuˇ. kogˋ tin leˊ."}
+    hl: {hanzi: "明年，法國个車頭。確定咧。", pinyin: "mang ngien, fab gued gaiˇ chaˋ teu. kog tin+ leˋ."}
   - n: 12
     speaker: Sam
     en: "Settled. I'll wait for you. Thank you, A-in."
-    sx: {hanzi: "確定了。𠊎等你。恁仔細，阿英。", pinyin: "kogˋ tin leˊ. ngaiˇ denˋ nˇ. anˋ ziiˋ se, aˊ inˊ."}
-    hl: {hanzi: "確定了。𠊎等你。承蒙你，阿英。", pinyin: "kog tin+ leˋ. ngai denˊ ngi. shin mung ngi, a+ rhinˋ."}
+    sx: {hanzi: "確定吔。𠊎等你。恁仔細，阿英。", pinyin: "kogˋ tin leˊ. ngaiˇ denˋ nˇ. anˋ ziiˋ se, aˊ inˊ."}
+    hl: {hanzi: "確定咧。𠊎等你。承蒙你，阿英。", pinyin: "kog tin+ leˋ. ngai denˊ ngi. shin mung ngi, a+ rhinˋ."}
 
 notes:
   - ref: 2
     topic: grammar
     text: >
-      既經淰了 "already full" (lesson 96); 還係愛𠊎放 "still wanted me to put it in": 還係 "still, all the same" (lesson 18).
+      既經淰吔 "already full" (lesson 96); 還係愛𠊎放 "still wanted me to put it in": 還係 "still, all the same" (lesson 18).
   - ref: 4
     topic: grammar
     text: >
@@ -124,15 +124,15 @@ exercises:
       sx: {hanzi: "阿公五十年前个事情都記到清清楚楚。", pinyin: "aˊ gungˊ ngˋ siib ngienˇ qienˇ ge sii qinˇ du gi do qinˊ qinˊ cuˋ cuˋ."}
       hl: {hanzi: "阿公五十年前个事情都記到清清楚楚。", pinyin: "a+ gungˋ ngˊ shibˋ ngien cien gaiˇ sii+ cin du+ giˇ doˇ cinˋ cinˋ cuˊ cuˊ."}
     - en: "In about ten minutes the train sets off."
-      sx: {hanzi: "再過十分鐘左右，火車就出發了。", pinyin: "zai go siib funˊ zungˊ zoˋ iu, foˋ caˊ qiu cudˋ fadˋ leˊ."}
-      hl: {hanzi: "再過十分鐘左右，火車就出發了。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, foˊ chaˋ ciu+ chud fad leˋ."}
+      sx: {hanzi: "再過十分鐘左右，火車就出發吔。", pinyin: "zai go siib funˊ zungˊ zoˋ iu, foˋ caˊ qiu cudˋ fadˋ leˊ."}
+      hl: {hanzi: "再過十分鐘左右，火車就出發咧。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, foˊ chaˋ ciu+ chud fad leˋ."}
   fill:
     - en: "A rice steamer on New Year's Eve: never a moment's rest."
       sx: {hanzi: "三十暗晡个飯甑：___。", pinyin: "samˊ siib am buˊ ge fan zen: ___.", answer_hanzi: "無閒", answer: "moˇ hanˇ"}
       hl: {hanzi: "三十暗晡个飯甑：___。", pinyin: "samˋ shibˋ amˇ buˋ gaiˇ pon+ zenˇ: ___.", answer_hanzi: "無閒", answer: "mo han"}
     - en: "At last he's arrived."
-      sx: {hanzi: "佢___到了。", pinyin: "giˇ ___ do leˊ.", answer_hanzi: "總算", answer: "zungˋ son"}
-      hl: {hanzi: "佢___到了。", pinyin: "gi ___ doˇ leˋ.", answer_hanzi: "總算", answer: "zungˊ sonˇ"}
+      sx: {hanzi: "佢___到吔。", pinyin: "giˇ ___ do leˊ.", answer_hanzi: "總算", answer: "zungˋ son"}
+      hl: {hanzi: "佢___到咧。", pinyin: "gi ___ doˇ leˋ.", answer_hanzi: "總算", answer: "zungˊ sonˇ"}
     - en: "Keep in touch every week."
       sx: {hanzi: "逐禮拜愛___。", pinyin: "dagˋ liˊ bai oi ___.", answer_hanzi: "聯絡", answer: "lienˇ log"}
       hl: {hanzi: "逐禮拜愛___。", pinyin: "dag liˋ baiˇ oiˇ ___.", answer_hanzi: "聯絡", answer: "lien logˋ"}

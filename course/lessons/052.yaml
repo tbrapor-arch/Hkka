@@ -62,8 +62,8 @@ dialogue:
   - n: 10
     speaker: 財伯姆
     en: "And where's A-in? …How old is A-in this year?"
-    sx: {hanzi: "阿英呢？……阿英今年幾多歲了？", pinyin: "aˊ inˊ neˇ? … aˊ inˊ gimˊ ngienˇ giˋ doˊ se leˊ?"}
-    hl: {hanzi: "阿英呢？……阿英今年幾多歲了？", pinyin: "a+ rhinˋ neˇ? … a+ rhinˋ gimˋ ngien giˊ doˋ soiˇ leˋ?"}
+    sx: {hanzi: "阿英呢？……阿英今年幾多歲吔？", pinyin: "aˊ inˊ neˇ? … aˊ inˊ gimˊ ngienˇ giˋ doˊ se leˊ?"}
+    hl: {hanzi: "阿英呢？……阿英今年幾多歲咧？", pinyin: "a+ rhinˋ neˇ? … a+ rhinˋ gimˋ ngien giˊ doˋ soiˇ leˋ?"}
   - n: 11
     speaker: 阿英
     en: "(appearing from the kitchen, with a very bright smile) Happy New Year, 財伯姆!"
@@ -77,13 +77,13 @@ dialogue:
   - n: 13
     speaker: 阿婆
     en: "(cutting in) Tea! Have some tea! This year Grandma doesn't interfere."
-    sx: {hanzi: "食茶！食茶！今年阿婆毋管了。", pinyin: "siid caˇ! siid caˇ! gimˊ ngienˇ aˊ poˇ mˇ gonˋ leˊ."}
-    hl: {hanzi: "食茶！食茶！今年阿婆毋管了。", pinyin: "shidˋ ca! shidˋ ca! gimˋ ngien a+ po m gonˊ leˋ."}
+    sx: {hanzi: "食茶！食茶！今年阿婆毋管吔。", pinyin: "siid caˇ! siid caˇ! gimˊ ngienˇ aˊ poˇ mˇ gonˋ leˊ."}
+    hl: {hanzi: "食茶！食茶！今年阿婆毋管咧。", pinyin: "shidˋ ca! shidˋ ca! gimˋ ngien a+ po m gonˊ leˋ."}
   - n: 14
     speaker: 阿財伯
     en: "(finishing his tea) Right: the New Year is the season for going round. We've other houses to visit; relatives and friends are expecting us."
-    sx: {hanzi: "好，新正年時係行春時節。𠊎兜愛去別家拜年了，親戚朋友在該等。", pinyin: "hoˋ, xinˊ zangˊ ngienˇ siiˇ he hangˇ cunˊ siiˇ jiedˋ. ngaiˇ deuˊ oi hi ped gaˊ bai ngienˇ leˊ, qinˊ qidˋ penˇ iuˊ du ge denˋ."}
-    hl: {hanzi: "好，新正年時係行春時節。𠊎兜愛去別家拜年了，親戚朋友在該等。", pinyin: "hoˊ, sinˋ zhangˋ ngien shi heˇ hang chunˋ shi zied. ngai deuˋ oiˇ hiˇ pedˋ gaˋ baiˇ ngien leˋ, cinˋ cid pen rhiuˋ diˇ gai denˊ."}
+    sx: {hanzi: "好，新正年時係行春時節。𠊎兜愛去別家拜年吔，親戚朋友在該等。", pinyin: "hoˋ, xinˊ zangˊ ngienˇ siiˇ he hangˇ cunˊ siiˇ jiedˋ. ngaiˇ deuˊ oi hi ped gaˊ bai ngienˇ leˊ, qinˊ qidˋ penˇ iuˊ du ge denˋ."}
+    hl: {hanzi: "好，新正年時係行春時節。𠊎兜愛去別家拜年咧，親戚朋友在該等。", pinyin: "hoˊ, sinˋ zhangˋ ngien shi heˇ hang chunˋ shi zied. ngai deuˋ oiˇ hiˇ pedˋ gaˋ baiˇ ngien leˋ, cinˋ cid pen rhiuˋ diˇ gai denˊ."}
 
 notes:
   - ref: 2
@@ -122,7 +122,7 @@ notes:
   - ref: 13
     topic: culture
     text: >
-      Grandma has changed sides since lesson 41: 阿婆毋管了 "Grandma doesn't interfere", and she shields A-in from the
+      Grandma has changed sides since lesson 41: 阿婆毋管吔 "Grandma doesn't interfere", and she shields A-in from the
       neighbour's question.
   - ref: 14
     topic: culture

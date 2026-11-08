@@ -55,13 +55,13 @@ dialogue:
   - n: 9
     speaker: 阿公
     en: "(to A-min and Sam, the first thing he has said all lunch) Are you two all right now?"
-    sx: {hanzi: "你兩儕這下好了無？", pinyin: "nˇ liongˋ saˇ iaˋ ha hoˋ leˊ moˇ?"}
-    hl: {hanzi: "你兩儕這下好了無？", pinyin: "ngi liongˊ sa liaˊ ha+ hoˊ leˋ mo?"}
+    sx: {hanzi: "你兩儕這下好吔無？", pinyin: "nˇ liongˋ saˇ iaˋ ha hoˋ leˊ moˇ?"}
+    hl: {hanzi: "你兩儕這下好咧無？", pinyin: "ngi liongˊ sa liaˊ ha+ hoˊ leˋ mo?"}
   - n: 10
     speaker: 阿明
     en: "We're fine. Even if we quarrel, we make up: 'quarrel at the head of the bed, make up at the foot'!"
-    sx: {hanzi: "好了。就算吵，乜會和好：床頭吵，床尾和！", pinyin: "hoˋ leˊ. qiu son cauˇ, me voi foˇ hoˋ: congˇ teuˇ cauˇ, congˇ miˊ foˇ!"}
-    hl: {hanzi: "好了。就算吵，乜會和好：床頭吵，床尾和！", pinyin: "hoˊ leˋ. ciu+ sonˇ cau, meˇ voi+ fo hoˊ: cong teu cau, cong muiˋ fo!"}
+    sx: {hanzi: "好吔。就算吵，乜會和好：床頭吵，床尾和！", pinyin: "hoˋ leˊ. qiu son cauˇ, me voi foˇ hoˋ: congˇ teuˇ cauˇ, congˇ miˊ foˇ!"}
+    hl: {hanzi: "好咧。就算吵，乜會和好：床頭吵，床尾和！", pinyin: "hoˊ leˋ. ciu+ sonˇ cau, meˇ voi+ fo hoˊ: cong teu cau, cong muiˋ fo!"}
   - n: 11
     speaker: 阿英
     en: "A-min! That saying's about husbands and wives!"

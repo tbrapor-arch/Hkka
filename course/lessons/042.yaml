@@ -39,13 +39,13 @@ dialogue:
     speaker: 阿英
     en: "Not any more. But Grandma, next time, don't find me anyone!"
     check: true
-    sx: {hanzi: "毋會譴了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "mˇ voi kienˋ leˊ. mˇ go aˊ poˇ, ha ngi baiˋ mog lauˊ ngaiˇ seu gie dui xiong!"}
-    hl: {hanzi: "毋會閼了。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "m voi+ ad leˋ. m goˇ a+ po, ha+ ngi+ baiˊ mogˋ lauˋ ngai shauˇ gaiˇ duiˇ siongˇ!"}
+    sx: {hanzi: "毋會譴吔。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "mˇ voi kienˋ leˊ. mˇ go aˊ poˇ, ha ngi baiˋ mog lauˊ ngaiˇ seu gie dui xiong!"}
+    hl: {hanzi: "毋會閼咧。毋過阿婆，下二擺莫摎𠊎紹介對象！", pinyin: "m voi+ ad leˋ. m goˇ a+ po, ha+ ngi+ baiˊ mogˋ lauˋ ngai shauˇ gaiˇ duiˇ siongˇ!"}
   - n: 7
     speaker: 阿婆
     en: "All right, all right. Grandma won't interfere."
-    sx: {hanzi: "好，好。阿婆毋管了。", pinyin: "hoˋ, hoˋ. aˊ poˇ mˇ gonˋ leˊ."}
-    hl: {hanzi: "好，好。阿婆毋管了。", pinyin: "hoˊ, hoˊ. a+ po m gonˊ leˋ."}
+    sx: {hanzi: "好，好。阿婆毋管吔。", pinyin: "hoˋ, hoˋ. aˊ poˇ mˇ gonˋ leˊ."}
+    hl: {hanzi: "好，好。阿婆毋管咧。", pinyin: "hoˊ, hoˊ. a+ po m gonˊ leˋ."}
   - n: 8
     speaker: Sam
     en: "Grandpa, is your cold better?"
@@ -54,13 +54,13 @@ dialogue:
   - n: 9
     speaker: 阿婆
     en: "He wouldn't go to the doctor, and he got better all by himself, if you please!"
-    sx: {hanzi: "佢毋去看先生，嗄自家好了！", pinyin: "giˇ mˇ hi kon xinˊ sangˊ, sa qi gaˊ hoˋ leˊ!"}
-    hl: {hanzi: "佢毋去看先生，嗄自家好了！", pinyin: "gi m hiˇ konˇ sinˋ sangˋ, saˇ cid gaˋ hoˊ leˋ!"}
+    sx: {hanzi: "佢毋去看先生，嗄自家好吔！", pinyin: "giˇ mˇ hi kon xinˊ sangˊ, sa qi gaˊ hoˋ leˊ!"}
+    hl: {hanzi: "佢毋去看先生，嗄自家好咧！", pinyin: "gi m hiˇ konˇ sinˋ sangˋ, saˇ cid gaˋ hoˊ leˋ!"}
   - n: 10
     speaker: 阿明
     en: "Grandpa, the year is nearly over: sing us a mountain song!"
-    sx: {hanzi: "阿公，今年愛過忒了，唱一條山歌！", pinyin: "aˊ gungˊ, gimˊ ngienˇ oi go tedˋ leˊ, cong idˋ tiauˇ sanˊ goˊ!"}
-    hl: {hanzi: "阿公，今年愛過忒了，唱一條山歌！", pinyin: "a+ gungˋ, gimˋ ngien oiˇ goˇ ted leˋ, chongˇ rhid tiau sanˋ goˋ!"}
+    sx: {hanzi: "阿公，今年愛過忒吔，唱一條山歌！", pinyin: "aˊ gungˊ, gimˊ ngienˇ oi go tedˋ leˊ, cong idˋ tiauˇ sanˊ goˊ!"}
+    hl: {hanzi: "阿公，今年愛過忒咧，唱一條山歌！", pinyin: "a+ gungˋ, gimˋ ngien oiˇ goˇ ted leˋ, chongˇ rhid tiau sanˋ goˋ!"}
   - n: 11
     speaker: 阿公
     en: "Let your grandmother sing."
@@ -92,16 +92,16 @@ notes:
     topic: grammar
     text: >
       莫摎𠊎紹介對象 "don't introduce anyone to me": 摎 + person "for, to (someone)" (lesson 40), and the vocabulary of
-      lesson 41. 毋管了 (line 7) "won't interfere any more": 管 "mind, bother about".
+      lesson 41. 毋管吔 (line 7) "won't interfere any more": 管 "mind, bother about".
   - ref: 9
     topic: grammar
     text: >
-      嗄自家好了 "and then he got better on his own, of all things": Grandma's 嗄 (lesson 41) is half indignation, half
+      嗄自家好吔 "and then he got better on his own, of all things": Grandma's 嗄 (lesson 41) is half indignation, half
       relief. 有較好無？ (line 8) from lesson 39.
   - ref: 10
     topic: vocab
     text: >
-      今年愛過忒了 "this year is about to be over": 愛 "about to" (lesson 34) + 過忒 "pass, be gone". Not 舊年, which is
+      今年愛過忒吔 "this year is about to be over": 愛 "about to" (lesson 34) + 過忒 "pass, be gone". Not 舊年, which is
       always "last year" (lesson 31).
   - ref: 13
     topic: culture
@@ -135,8 +135,8 @@ exercises:
       sx: {hanzi: "人生、後生：同一隻字，兩種讀法。", pinyin: "nginˇ senˊ, heu sangˊ: tungˇ idˋ zagˋ sii, liongˋ zungˋ tug fabˋ."}
       hl: {hanzi: "人生、後生：同一隻字，兩種讀法。", pinyin: "ngin senˋ, heu+ sangˋ: tung rhid zhag sii+, liongˊ zhungˊ tugˋ fab."}
     - en: "Sorry, I've had enough: I can't eat any more."
-      sx: {hanzi: "敗勢，𠊎食飽了，食毋落了。", pinyin: "paiˇ se, ngaiˇ siid bauˋ leˊ, siid mˇ log leˊ."}
-      hl: {hanzi: "敗勢，𠊎食飽了，食毋落了。", pinyin: "pai+ sheˇ, ngai shidˋ bauˊ leˋ, shidˋ m logˋ leˋ."}
+      sx: {hanzi: "敗勢，𠊎食飽吔，食毋落吔。", pinyin: "paiˇ se, ngaiˇ siid bauˋ leˊ, siid mˇ log leˊ."}
+      hl: {hanzi: "敗勢，𠊎食飽咧，食毋落咧。", pinyin: "pai+ sheˇ, ngai shidˋ bauˊ leˋ, shidˋ m logˋ leˋ."}
   fill:
     - en: "Have a go!"
       sx: {hanzi: "你試看___！", pinyin: "nˇ cii kon ___!", answer_hanzi: "啊", answer: "a"}

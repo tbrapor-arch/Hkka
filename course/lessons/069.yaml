@@ -35,8 +35,8 @@ dialogue:
   - n: 5
     speaker: 阿英
     en: "(laughing) You've learnt 浸青? Then how do you say 'very red'?"
-    sx: {hanzi: "你會講浸青了？恁樣，「當紅」愛仰般講？", pinyin: "nˇ voi gongˋ jim qiangˊ leˊ? anˋ ngiongˇ, dongˊ fungˇ oi ngiongˋ banˊ gongˋ?"}
-    hl: {hanzi: "你會講浸青了？恁樣，「當紅」愛仰般講？", pinyin: "ngi voi+ gongˊ zimˇ ciangˋ leˋ? an ngiong, dongˋ fung oiˇ ngiongˊ banˋ gongˊ?"}
+    sx: {hanzi: "你會講浸青吔？恁樣，「當紅」愛仰般講？", pinyin: "nˇ voi gongˋ jim qiangˊ leˊ? anˋ ngiongˇ, dongˊ fungˇ oi ngiongˋ banˊ gongˋ?"}
+    hl: {hanzi: "你會講浸青咧？恁樣，「當紅」愛仰般講？", pinyin: "ngi voi+ gongˊ zimˇ ciangˋ leˋ? an ngiong, dongˋ fung oiˇ ngiongˊ banˋ gongˊ?"}
   - n: 6
     speaker: Sam
     en: "啾紅! Like your face right now."
@@ -66,8 +66,8 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "(walking on, not looking back) Come on, take a photo. The flowers are falling: in a week there'll be none left."
-    sx: {hanzi: "來，翕相。花緊落，過一禮拜就無了。", pinyin: "loiˇ, hibˋ xiong. faˊ ginˋ log, go idˋ liˊ bai qiu moˇ leˊ."}
-    hl: {hanzi: "來，翕相。花緊落，過一禮拜就無了。", pinyin: "loi, hib siongˇ. faˋ ginˊ logˋ, goˇ rhid liˋ baiˇ ciu+ mo leˋ."}
+    sx: {hanzi: "來，翕相。花緊落，過一禮拜就無吔。", pinyin: "loiˇ, hibˋ xiong. faˊ ginˋ log, go idˋ liˊ bai qiu moˇ leˊ."}
+    hl: {hanzi: "來，翕相。花緊落，過一禮拜就無咧。", pinyin: "loi, hib siongˇ. faˋ ginˊ logˋ, goˇ rhid liˋ baiˇ ciu+ mo leˋ."}
   - n: 12
     speaker: Sam
     en: "(taking the photo) The sky's blue, the clouds are white, the flowers are white…"

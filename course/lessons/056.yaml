@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿舅
     en: "Such a crowd! Everyone sit yourselves down, the contest is about to begin."
-    sx: {hanzi: "恁多人！大家坐等來，比賽愛來了。", pinyin: "anˋ doˊ nginˇ! tai gaˊ coˊ denˋ loiˇ, biˋ soi oi loiˇ leˊ."}
-    hl: {hanzi: "恁多人！大家坐等來，比賽愛來了。", pinyin: "anˊ doˋ ngin! tai+ gaˋ coˋ denˊ loi, biˊ soiˇ oiˇ loi leˋ."}
+    sx: {hanzi: "恁多人！大家坐等來，比賽愛來吔。", pinyin: "anˋ doˊ nginˇ! tai gaˊ coˊ denˋ loiˇ, biˋ soi oi loiˇ leˊ."}
+    hl: {hanzi: "恁多人！大家坐等來，比賽愛來咧。", pinyin: "anˊ doˋ ngin! tai+ gaˋ coˋ denˊ loi, biˊ soiˇ oiˇ loi leˋ."}
   - n: 2
     speaker: 姐婆
     en: "My dear 親家, it's been so long! Thank you for coming to 竹東."
@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 阿婆
     en: "(on the stage, singing) 'Fifty years ago you sang a song; / this time it is the girl who sings in return. / We sang mountain songs till we grew old; / old now, and still we want to sing them.'"
-    sx: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老了還愛唱山歌。", pinyin: "ngˋ siib ngienˇ qienˇ nˇ cong goˊ, iaˋ baiˋ aˊ moi loiˇ cong go; sanˊ goˊ cong do nginˇ voi loˋ, loˋ leˊ hanˇ oi cong sanˊ goˊ."}
-    hl: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老了還愛唱山歌。", pinyin: "ngˊ shibˋ ngien cien ngi chongˇ goˋ, liaˊ baiˊ a+ moiˇ loi chongˇ goˇ; sanˋ goˋ chongˇ doˇ ngin voi+ loˊ, loˊ leˋ han oiˇ chongˇ sanˋ goˋ."}
+    sx: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老吔還愛唱山歌。", pinyin: "ngˋ siib ngienˇ qienˇ nˇ cong goˊ, iaˋ baiˋ aˊ moi loiˇ cong go; sanˊ goˊ cong do nginˇ voi loˋ, loˋ leˊ hanˇ oi cong sanˊ goˊ."}
+    hl: {hanzi: "五十年前你唱歌，這擺阿妹來唱過；山歌唱到人會老，老咧還愛唱山歌。", pinyin: "ngˊ shibˋ ngien cien ngi chongˇ goˋ, liaˊ baiˊ a+ moiˇ loi chongˇ goˇ; sanˋ goˋ chongˇ doˇ ngin voi+ loˊ, loˊ leˋ han oiˇ chongˇ sanˋ goˋ."}
     check: true
   - n: 8
     speaker: 阿舅

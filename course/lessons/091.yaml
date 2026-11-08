@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: 阿明
     en: "A bit less. It still hurts, but it's not serious."
-    sx: {hanzi: "較好兜仔了。還會痛，毋過毋會嚴重。", pinyin: "ka hoˋ deuˊ eˋ leˊ. hanˇ voi tung, mˇ go mˇ voi ngiamˇ cung."}
-    hl: {hanzi: "較好兜仔了。還會痛，毋過毋會嚴重。", pinyin: "haˇ hoˊ deuˋ er leˋ. han voi+ tungˇ, m goˇ m voi+ ngiam chung+."}
+    sx: {hanzi: "較好兜仔吔。還會痛，毋過毋會嚴重。", pinyin: "ka hoˋ deuˊ eˋ leˊ. hanˇ voi tung, mˇ go mˇ voi ngiamˇ cung."}
+    hl: {hanzi: "較好兜仔咧。還會痛，毋過毋會嚴重。", pinyin: "haˇ hoˊ deuˋ er leˋ. han voi+ tungˇ, m goˇ m voi+ ngiam chung+."}
   - n: 3
     speaker: 阿婆
     en: "Next time you go up the mountain, take a torch. And come back before dark!"
@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: 阿婆
     en: "Never mind. Back safe, that's what counts. Next time, don't get lost! Here, have some 擂茶."
-    sx: {hanzi: "無要緊。平安就好。下二擺莫撞走了！來，食擂茶。", pinyin: "moˇ ieu ginˋ. pinˇ onˊ qiu hoˋ. ha ngi baiˋ mog cong zeuˋ leˊ! loiˇ, siid luiˇ caˇ."}
-    hl: {hanzi: "無要緊。平安就好。下二擺莫撞走了！來，食擂茶。", pinyin: "moˇ rhauˇ ginˊ. pin onˋ ciu+ hoˊ. ha+ ngi+ baiˊ mogˋ cong+ zeuˊ leˋ! loi, shidˋ lui ca."}
+    sx: {hanzi: "無要緊。平安就好。下二擺莫撞走吔！來，食擂茶。", pinyin: "moˇ ieu ginˋ. pinˇ onˊ qiu hoˋ. ha ngi baiˋ mog cong zeuˋ leˊ! loiˇ, siid luiˇ caˇ."}
+    hl: {hanzi: "無要緊。平安就好。下二擺莫撞走咧！來，食擂茶。", pinyin: "moˇ rhauˇ ginˊ. pin onˋ ciu+ hoˊ. ha+ ngi+ baiˊ mogˋ cong+ zeuˊ leˋ! loi, shidˋ lui ca."}
   - n: 6
     speaker: 阿英
     en: "What a summer: the museum, the dinner where we argued, 八音, the 義民 festival, and then the mountain…"
@@ -59,8 +59,8 @@ dialogue:
   - n: 10
     speaker: 阿明
     en: "(from the sofa) I heard that!"
-    sx: {hanzi: "𠊎聽著了！", pinyin: "ngaiˇ tangˊ doˋ leˊ!"}
-    hl: {hanzi: "𠊎聽著了！", pinyin: "ngai tangˋ doˊ leˋ!"}
+    sx: {hanzi: "𠊎聽著吔！", pinyin: "ngaiˇ tangˊ doˋ leˊ!"}
+    hl: {hanzi: "𠊎聽著咧！", pinyin: "ngai tangˋ doˊ leˋ!"}
   - n: 11
     speaker: 阿公
     en: "(coming in from the veranda with his fiddle) Not stiff."
@@ -118,8 +118,8 @@ exercises:
       sx: {hanzi: "這隻柑仔哪會酸？", pinyin: "iaˋ zagˋ gamˊ eˋ nai voi sonˊ?"}
       hl: {hanzi: "這隻柑仔哪會酸？", pinyin: "liaˊ zhag gamˋ er nai+ voi+ sonˋ?"}
     - en: "It's so dark you can't even see a face."
-      sx: {hanzi: "暗到人面都看毋著了。", pinyin: "am do nginˇ mien du kon mˇ doˋ leˊ."}
-      hl: {hanzi: "暗到人面都看毋著了。", pinyin: "amˇ doˇ ngin mienˇ du+ konˇ m doˊ leˋ."}
+      sx: {hanzi: "暗到人面都看毋著吔。", pinyin: "am do nginˇ mien du kon mˇ doˋ leˊ."}
+      hl: {hanzi: "暗到人面都看毋著咧。", pinyin: "amˇ doˇ ngin mienˇ du+ konˇ m doˊ leˋ."}
     - en: "Is anyone hurt? — No. Don't be frightened."
       sx: {hanzi: "有人受傷無？——無。毋好驚。", pinyin: "iuˊ nginˇ su songˊ moˇ? — moˇ. mˇ hoˋ giangˊ."}
       hl: {hanzi: "有人受傷無？——無。毋好驚。", pinyin: "rhiuˋ ngin shiu+ shongˋ mo? — mo. m hoˊ giangˋ."}
@@ -131,7 +131,7 @@ exercises:
       sx: {hanzi: "___坐！", pinyin: "___ coˊ!", answer_hanzi: "請", answer: "qiangˋ"}
       hl: {hanzi: "___坐！", pinyin: "___ coˋ!", answer_hanzi: "請", answer: "ciangˊ"}
     - en: "Seeing them back safe, everyone was at ease."
-      sx: {hanzi: "看著佢兜平安轉來，大家就___了。", pinyin: "kon doˋ giˇ deuˊ pinˇ onˊ zonˋ loiˇ, tai gaˊ qiu ___ leˊ.", answer_hanzi: "寬心", answer: "konˊ ximˊ"}
-      hl: {hanzi: "看著佢兜平安轉來，大家就___了。", pinyin: "konˇ doˊ gi deuˋ pin onˋ zhonˊ loi, tai+ gaˋ ciu+ ___ leˋ.", answer_hanzi: "寬心", answer: "konˋ simˋ"}
+      sx: {hanzi: "看著佢兜平安轉來，大家就___吔。", pinyin: "kon doˋ giˇ deuˊ pinˇ onˊ zonˋ loiˇ, tai gaˊ qiu ___ leˊ.", answer_hanzi: "寬心", answer: "konˊ ximˊ"}
+      hl: {hanzi: "看著佢兜平安轉來，大家就___咧。", pinyin: "konˇ doˊ gi deuˋ pin onˋ zhonˊ loi, tai+ gaˋ ciu+ ___ leˋ.", answer_hanzi: "寬心", answer: "konˋ simˋ"}
 
 audio: []

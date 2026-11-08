@@ -63,8 +63,8 @@ dialogue:
   - n: 11
     speaker: 阿明
     en: "Told you. It's half past seven, I've got to get to school!"
-    sx: {hanzi: "𠊎講過了。七點半了，𠊎愛去學校！", pinyin: "ngaiˇ gongˋ go leˊ. qidˋ diamˋ ban leˊ, ngaiˇ oi hi hog gauˋ!"}
-    hl: {hanzi: "𠊎講過了。七點半了，𠊎愛去學校！", pinyin: "ngai gongˊ goˇ leˋ. cid diamˊ banˇ leˋ, ngai oiˇ hiˇ hogˋ gauˊ!"}
+    sx: {hanzi: "𠊎講過吔。七點半吔，𠊎愛去學校！", pinyin: "ngaiˇ gongˋ go leˊ. qidˋ diamˋ ban leˊ, ngaiˇ oi hi hog gauˋ!"}
+    hl: {hanzi: "𠊎講過咧。七點半咧，𠊎愛去學校！", pinyin: "ngai gongˊ goˇ leˋ. cid diamˊ banˇ leˋ, ngai oiˇ hiˇ hogˋ gauˊ!"}
 
 notes:
   - ref: 0

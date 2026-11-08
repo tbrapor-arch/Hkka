@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿明
     en: "Summer holidays at last! Sam, today we're going to visit the Hakka cultural park."
-    sx: {hanzi: "放暑假了！Sam，今晡日𫣆兜去參觀客家文化園區。", pinyin: "biong cuˋ gaˋ leˊ! Sam, gimˊ buˊ ngidˋ enˊ deuˊ hi camˊ gonˊ hagˋ gaˊ vunˇ fa ienˇ kiˊ."}
-    hl: {hanzi: "放暑假了！Sam，今晡日𫣆兜去參觀客家文化園區。", pinyin: "biongˇ chuˊ gaˊ leˋ! Sam, gimˋ buˋ ngid enˋ deuˋ hiˇ camˋ gonˋ hag gaˋ vun faˇ rhan kiˋ."}
+    sx: {hanzi: "放暑假吔！Sam，今晡日𫣆兜去參觀客家文化園區。", pinyin: "biong cuˋ gaˋ leˊ! Sam, gimˊ buˊ ngidˋ enˊ deuˊ hi camˊ gonˊ hagˋ gaˊ vunˇ fa ienˇ kiˊ."}
+    hl: {hanzi: "放暑假咧！Sam，今晡日𫣆兜去參觀客家文化園區。", pinyin: "biongˇ chuˊ gaˊ leˋ! Sam, gimˋ buˋ ngid enˋ deuˋ hiˇ camˋ gonˋ hag gaˋ vun faˇ rhan kiˋ."}
   - n: 2
     speaker: 阿英
     en: "It's in 銅鑼, twenty minutes by car. They often put on exhibitions."
@@ -75,18 +75,18 @@ dialogue:
   - n: 13
     speaker: 阿英
     en: "In the old days people cleared the hills and the forest with their bare hands. They left their home towns and never went back."
-    sx: {hanzi: "頭擺人淨用一雙手來開山打林，實在艱苦。離開故鄉，就無轉去了。", pinyin: "teuˇ baiˋ nginˇ qiang iung idˋ sungˊ suˋ loiˇ koiˊ sanˊ daˋ naˇ, siid cai ganˊ kuˋ. liˇ koiˊ gu hiongˊ, qiu moˇ zonˋ hi leˊ."}
-    hl: {hanzi: "頭擺人淨用一雙手來開山打林，實在艱苦。離開故鄉，就無轉去了。", pinyin: "teu baiˊ ngin ciang+ rhung+ rhid sungˋ shiuˊ loi koiˋ sanˋ daˊ na, shidˋ cai+ ganˋ kuˊ. li koiˋ guˇ hiongˋ, ciu+ mo zhonˊ hiˇ leˋ."}
+    sx: {hanzi: "頭擺人淨用一雙手來開山打林，實在艱苦。離開故鄉，就無轉去吔。", pinyin: "teuˇ baiˋ nginˇ qiang iung idˋ sungˊ suˋ loiˇ koiˊ sanˊ daˋ naˇ, siid cai ganˊ kuˋ. liˇ koiˊ gu hiongˊ, qiu moˇ zonˋ hi leˊ."}
+    hl: {hanzi: "頭擺人淨用一雙手來開山打林，實在艱苦。離開故鄉，就無轉去咧。", pinyin: "teu baiˊ ngin ciang+ rhung+ rhid sungˋ shiuˊ loi koiˋ sanˋ daˊ na, shidˋ cai+ ganˋ kuˊ. li koiˋ guˇ hiongˋ, ciu+ mo zhonˊ hiˇ leˋ."}
   - n: 14
     speaker: Sam
     en: "Now I understand: the Hakka came from 唐山, and in Taiwan they built houses, farmed, sang mountain songs…"
-    sx: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "iaˋ ha ngaiˇ minˇ ped leˊ: hagˋ gaˊ nginˇ qiungˇ tongˇ sanˊ loiˇ, coiˊ toiˇ vanˇ zo vugˋ, gangˊ tienˇ, cong sanˊ goˊ …"}
-    hl: {hanzi: "這下𠊎明白了：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "liaˊ ha+ ngai min pagˋ leˋ: hag gaˋ ngin ciung tong sanˋ loi, coiˋ toi van zoˇ vug, gangˋ tien, chongˇ sanˋ goˋ …"}
+    sx: {hanzi: "這下𠊎明白吔：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "iaˋ ha ngaiˇ minˇ ped leˊ: hagˋ gaˊ nginˇ qiungˇ tongˇ sanˊ loiˇ, coiˊ toiˇ vanˇ zo vugˋ, gangˊ tienˇ, cong sanˊ goˊ …"}
+    hl: {hanzi: "這下𠊎明白咧：客家人從唐山來，在臺灣做屋、耕田、唱山歌……", pinyin: "liaˊ ha+ ngai min pagˋ leˋ: hag gaˋ ngin ciung tong sanˋ loi, coiˋ toi van zoˇ vug, gangˋ tien, chongˇ sanˋ goˋ …"}
   - n: 15
     speaker: 阿明
     en: "…and moved here, and ate 粄! Can we go and eat now? Inside it's cool, but my stomach's empty."
-    sx: {hanzi: "……還有移民來食粄！做得去食了無？裡肚當涼，毋過𠊎肚屎枵了。", pinyin: "… hanˇ iuˊ iˇ minˇ loiˇ siid banˋ! zo dedˋ hi siid leˊ moˇ? diˊ duˋ dongˊ liongˇ, mˇ go ngaiˇ duˋ siiˋ iauˊ leˊ."}
-    hl: {hanzi: "……還有移民來食粄！做得去食了無？裡肚當涼，毋過𠊎肚屎枵了。", pinyin: "… han rhiuˋ rhi min loi shidˋ banˊ! zoˇ ded hiˇ shidˋ leˋ mo? diˋ duˊ dongˋ liong, m goˇ ngai duˊ shiˊ iauˋ leˋ."}
+    sx: {hanzi: "……還有移民來食粄！做得去食吔無？裡肚當涼，毋過𠊎肚屎枵吔。", pinyin: "… hanˇ iuˊ iˇ minˇ loiˇ siid banˋ! zo dedˋ hi siid leˊ moˇ? diˊ duˋ dongˊ liongˇ, mˇ go ngaiˇ duˋ siiˋ iauˊ leˊ."}
+    hl: {hanzi: "……還有移民來食粄！做得去食咧無？裡肚當涼，毋過𠊎肚屎枵咧。", pinyin: "… han rhiuˋ rhi min loi shidˋ banˊ! zoˇ ded hiˇ shidˋ leˋ mo? diˋ duˊ dongˋ liong, m goˇ ngai duˊ shiˊ iauˋ leˋ."}
     check: true
 
 notes:
@@ -137,8 +137,8 @@ notes:
   - ref: 13
     topic: grammar
     text: >
-      離開故鄉，就無轉去了 "they left their home town and never went back": 離開 liˇ koiˊ "leave", 故鄉 gu hiongˊ "home town"
-      (離開故鄉歸十年了 is an official example). 就 + 無 + V + 了: "and then, no longer".
+      離開故鄉，就無轉去吔 "they left their home town and never went back": 離開 liˇ koiˊ "leave", 故鄉 gu hiongˊ "home town"
+      (離開故鄉歸十年吔 is an official example). 就 + 無 + V + 了: "and then, no longer".
   - ref: 15
     topic: vocab
     text: >
@@ -191,8 +191,8 @@ exercises:
       hl: {hanzi: "博物館个人解說客家人个歷史，講到當清楚。", pinyin: "bog vudˋ gonˊ gaiˇ ngin gaiˊ shod hag gaˋ ngin gaiˇ lidˋ siiˊ, gongˊ doˇ dongˋ cinˋ cuˊ."}
       check: true
     - en: "He left his home town to study a great many years ago."
-      sx: {hanzi: "佢離開家鄉去讀書盡多年了。", pinyin: "giˇ liˇ koiˊ gaˊ hiongˊ hi tug suˊ qin doˊ ngienˇ leˊ."}
-      hl: {hanzi: "佢離開家鄉去讀書盡多年了。", pinyin: "gi li koiˋ gaˋ hiongˋ hiˇ tugˋ shuˋ cin+ doˋ ngien leˋ."}
+      sx: {hanzi: "佢離開家鄉去讀書盡多年吔。", pinyin: "giˇ liˇ koiˊ gaˊ hiongˊ hi tug suˊ qin doˊ ngienˇ leˊ."}
+      hl: {hanzi: "佢離開家鄉去讀書盡多年咧。", pinyin: "gi li koiˋ gaˋ hiongˋ hiˇ tugˋ shuˋ cin+ doˋ ngien leˋ."}
       source: moe
     - en: "In summer the museum is cool; outside it's hot."
       sx: {hanzi: "熱天博物館裡肚當涼，外背當熱。", pinyin: "ngied tienˊ bogˋ vud gonˋ diˊ duˋ dongˊ liongˇ, ngoi boi dongˊ ngied."}

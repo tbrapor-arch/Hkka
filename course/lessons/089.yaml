@@ -13,13 +13,13 @@ dialogue:
   - n: 1
     speaker: 阿明
     en: "Sam, we've climbed right to the top! Look how wide the sky and the land are!"
-    sx: {hanzi: "Sam，蹶山蹶到山崗頂了！你看，天闊地闊！", pinyin: "Sam, kied sanˊ kied do sanˊ gongˊ dangˋ leˊ! nˇ kon, tienˊ fadˋ ti fadˋ!"}
-    hl: {hanzi: "Sam，蹶山蹶到山崗頂了！你看，天闊地闊！", pinyin: "Sam, kiedˋ sanˋ kiedˋ doˇ sanˋ gongˋ dangˊ leˋ! ngi konˇ, tienˋ fad ti+ fad!"}
+    sx: {hanzi: "Sam，蹶山蹶到山崗頂吔！你看，天闊地闊！", pinyin: "Sam, kied sanˊ kied do sanˊ gongˊ dangˋ leˊ! nˇ kon, tienˊ fadˋ ti fadˋ!"}
+    hl: {hanzi: "Sam，蹶山蹶到山崗頂咧！你看，天闊地闊！", pinyin: "Sam, kiedˋ sanˋ kiedˋ doˇ sanˋ gongˋ dangˊ leˋ! ngi konˇ, tienˋ fad ti+ fad!"}
   - n: 2
     speaker: Sam
     en: "Beautiful! But the mist is coming up. Shall we go back down?"
-    sx: {hanzi: "當靚！毋過起濛紗煙了，𫣆兜轉去好無？", pinyin: "dongˊ jiangˊ! mˇ go hiˋ mungˇ saˊ ienˊ leˊ, enˊ deuˊ zonˋ hi hoˋ moˇ?"}
-    hl: {hanzi: "當靚！毋過起濛紗了，𫣆兜轉去好無？", pinyin: "dongˋ ziangˋ! m goˇ hiˊ mung saˋ leˋ, enˋ deuˋ zhonˊ hiˇ hoˊ mo?"}
+    sx: {hanzi: "當靚！毋過起濛紗煙吔，𫣆兜轉去好無？", pinyin: "dongˊ jiangˊ! mˇ go hiˋ mungˇ saˊ ienˊ leˊ, enˊ deuˊ zonˋ hi hoˋ moˇ?"}
+    hl: {hanzi: "當靚！毋過起濛紗咧，𫣆兜轉去好無？", pinyin: "dongˋ ziangˋ! m goˇ hiˊ mung saˋ leˋ, enˋ deuˋ zhonˊ hiˇ hoˊ mo?"}
   - n: 3
     speaker: 阿明
     en: "OK. Let's take this path back."
@@ -38,8 +38,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "I don't know… The mist's so thick I can't see the path. We can't find the way."
-    sx: {hanzi: "𠊎毋知……濛紗煙恁重，看毋著路。𫣆兜撞走了。", pinyin: "ngaiˇ mˇ diˊ … mungˇ saˊ ienˊ anˋ cungˊ, kon mˇ doˋ lu. enˊ deuˊ cong zeuˋ leˊ."}
-    hl: {hanzi: "𠊎毋知……濛煙恁重，看毋著路。𫣆兜撞走了。", pinyin: "ngai m diˋ … mung rhanˋ anˊ chungˋ, konˇ m doˊ lu+. enˋ deuˋ cong+ zeuˊ leˋ."}
+    sx: {hanzi: "𠊎毋知……濛紗煙恁重，看毋著路。𫣆兜撞走吔。", pinyin: "ngaiˇ mˇ diˊ … mungˇ saˊ ienˊ anˋ cungˊ, kon mˇ doˋ lu. enˊ deuˊ cong zeuˋ leˊ."}
+    hl: {hanzi: "𠊎毋知……濛煙恁重，看毋著路。𫣆兜撞走咧。", pinyin: "ngai m diˋ … mung rhanˋ anˊ chungˋ, konˇ m doˊ lu+. enˋ deuˋ cong+ zeuˊ leˋ."}
   - n: 7
     speaker: 阿明
     en: "I'll phone my sister… No, the phone can't get through."
@@ -53,8 +53,8 @@ dialogue:
   - n: 9
     speaker: 阿明
     en: "(stepping off the path, slipping) Ow! I've twisted my ankle!"
-    sx: {hanzi: "啊！𠊎个腳目珠扭著了！", pinyin: "a! ngaiˇ ge giogˋ mugˋ zuˊ ngiuˋ doˋ leˊ!"}
-    hl: {hanzi: "啊！𠊎个腳目珠偏著了！", pinyin: "a+! ngai gaiˇ giog mug zhuˋ pienˋ doˊ leˋ!"}
+    sx: {hanzi: "啊！𠊎个腳目珠扭著吔！", pinyin: "a! ngaiˇ ge giogˋ mugˋ zuˊ ngiuˋ doˋ leˊ!"}
+    hl: {hanzi: "啊！𠊎个腳目珠偏著咧！", pinyin: "a+! ngai gaiˇ giog mug zhuˋ pienˋ doˊ leˋ!"}
   - n: 10
     speaker: Sam
     en: "Does it hurt? Can you walk?"
@@ -63,13 +63,13 @@ dialogue:
   - n: 11
     speaker: 阿明
     en: "It hurts. I can't walk on it."
-    sx: {hanzi: "會痛。行毋得了。", pinyin: "voi tung. hangˇ mˇ dedˋ leˊ."}
-    hl: {hanzi: "會痛。行毋得了。", pinyin: "voi+ tungˇ. hang m ded leˋ."}
+    sx: {hanzi: "會痛。行毋得吔。", pinyin: "voi tung. hangˇ mˇ dedˋ leˊ."}
+    hl: {hanzi: "會痛。行毋得咧。", pinyin: "voi+ tungˇ. hang m ded leˋ."}
   - n: 12
     speaker: Sam
     en: "The sun's going down… It'll be dark soon. At night it's cold up in the hills."
-    sx: {hanzi: "日頭落山了……天愛斷烏了。暗晡夜山頂當寒。", pinyin: "ngidˋ teuˇ log sanˊ leˊ … tienˊ oi tonˊ vuˊ leˊ. am buˊ ia sanˊ dangˋ dongˊ honˇ."}
-    hl: {hanzi: "日頭落山了……天愛斷烏了。暗晡夜山頂當冷。", pinyin: "ngid teu logˋ sanˋ leˋ … tienˋ oiˇ tonˋ vuˋ leˋ. amˇ buˋ rha+ sanˋ dangˊ dongˋ langˋ."}
+    sx: {hanzi: "日頭落山吔……天愛斷烏吔。暗晡夜山頂當寒。", pinyin: "ngidˋ teuˇ log sanˊ leˊ … tienˊ oi tonˊ vuˊ leˊ. am buˊ ia sanˊ dangˋ dongˊ honˇ."}
+    hl: {hanzi: "日頭落山咧……天愛斷烏咧。暗晡夜山頂當冷。", pinyin: "ngid teu logˋ sanˋ leˋ … tienˋ oiˇ tonˋ vuˋ leˋ. amˇ buˋ rha+ sanˋ dangˊ dongˋ langˋ."}
   - n: 13
     speaker: 阿明
     en: "Sam… I'm scared. There are mosquitoes, and maybe snakes."
@@ -84,7 +84,7 @@ dialogue:
     speaker: 阿明
     en: "(an hour later) It's got so dark you can't even see a face."
     sx: {hanzi: "斷烏了，暗到人面都看毋著了。", pinyin: "tonˊ vuˊ leˊ, am do nginˇ mien du kon mˇ doˋ leˊ."}
-    hl: {hanzi: "斷烏了，暗到人面都看毋著了。", pinyin: "tonˋ vuˋ leˋ, amˇ doˇ ngin mienˇ du+ konˇ m doˊ leˋ."}
+    hl: {hanzi: "斷烏咧，暗到人面都看毋著咧。", pinyin: "tonˋ vuˋ leˋ, amˇ doˇ ngin mienˇ du+ konˇ m doˊ leˋ."}
     source: moe
   - n: 16
     speaker: Sam
@@ -115,10 +115,10 @@ notes:
     topic: grammar
     text: >
       Verb + 毋著 doˋ "can't manage to": 看毋著 "can't see" (MOE lists both readings, kon mˇ doˋ and kon mˇ cog), 尋毋著
-      "can't find" (恁暗了，尋毋著車仔轉屋下 "so late, no car to get home"). The positive is 看著 / 尋著 (lessons 22, 33).
+      "can't find" (恁暗吔，尋毋著車仔轉屋下 "so late, no car to get home"). The positive is 看著 / 尋著 (lessons 22, 33).
       尋毋著路 "can't find the way"; Hakka also has a word for "get lost": 撞走 cong zeuˋ (2026 list: 迷路), as in
-      𫣆兜撞走了 (line 6). The syllabus form 行毋去 has no example; 行毋得 (line 11)
-      does: 頭前个紅毛泥路歸條必壢，行毋得了 "the concrete road ahead had cracked from end to end: impassable".
+      𫣆兜撞走吔 (line 6). The syllabus form 行毋去 has no example; 行毋得 (line 11)
+      does: 頭前个紅毛泥路歸條必壢，行毋得吔 "the concrete road ahead had cracked from end to end: impassable".
   - ref: 7
     topic: grammar
     text: >
@@ -170,13 +170,14 @@ new_words:
   - {hanzi: 回聲, pinyin: "fiˇ sangˊ", en: "echo", hl: {hanzi: 回聲, pinyin: "fui shangˋ"}}
   - {hanzi: 山頂, pinyin: "sanˊ dangˋ", en: "on the mountain, up in the hills", hl: {hanzi: 山頂, pinyin: "sanˋ dangˊ"}}
 
+  - {hanzi: 了, pinyin: "leˊ", en: "the dictionary's spelling of 吔 (lesson 2)", hl: {hanzi: 了, pinyin: "leˋ"}}
 exercises:
   translate:
     - en: "After days of heavy rain, the mountain road has given way in many places."
       source: moe
       abridged: true
-      sx: {hanzi: "連等落幾下日大雨，山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "lienˇ denˋ log giˋ ha ngidˋ tai iˋ, sanˊ lu iuˊ dongˊ doˊ ti fongˊ benˊ tedˋ leˊ, tai gaˊ cudˋ ngib dongˊ mˇ fongˊ pien."}
-      hl: {hanzi: "連等落幾下日大水，山路有當多地方崩忒了，大家出入當毋方便。", pinyin: "lien denˊ logˋ giˊ ha+ ngid tai+ shuiˊ, sanˋ lu+ rhiuˋ dongˋ doˋ ti+ fongˋ benˋ ted leˋ, tai+ gaˋ chud ngibˋ dongˋ m fongˋ pien+."}
+      sx: {hanzi: "連等落幾下日大雨，山路有當多地方崩忒吔，大家出入當毋方便。", pinyin: "lienˇ denˋ log giˋ ha ngidˋ tai iˋ, sanˊ lu iuˊ dongˊ doˊ ti fongˊ benˊ tedˋ leˊ, tai gaˊ cudˋ ngib dongˊ mˇ fongˊ pien."}
+      hl: {hanzi: "連等落幾下日大水，山路有當多地方崩忒咧，大家出入當毋方便。", pinyin: "lien denˊ logˋ giˊ ha+ ngid tai+ shuiˊ, sanˋ lu+ rhiuˋ dongˋ doˋ ti+ fongˋ benˋ ted leˋ, tai+ gaˋ chud ngibˋ dongˋ m fongˋ pien+."}
     - en: "Ahead there's a stream, and a bridge over it."
       sx: {hanzi: "頭前有一條溪，溪項有一條橋。", pinyin: "teuˇ qienˇ iuˊ idˋ tiauˇ haiˊ, haiˊ hong iuˊ idˋ tiauˇ kieuˇ."}
       hl: {hanzi: "頭前有一條溪，溪項有一條橋。", pinyin: "teu cien rhiuˋ rhid tiau haiˋ, haiˋ hong+ rhiuˋ rhid tiau kiau."}
@@ -198,10 +199,10 @@ exercises:
       sx: {hanzi: "𫣆兜尋___路。", pinyin: "enˊ deuˊ qimˇ ___ lu.", answer_hanzi: "毋著", answer: "mˇ doˋ"}
       hl: {hanzi: "𫣆兜尋___路。", pinyin: "enˋ deuˋ cim ___ lu+.", answer_hanzi: "毋著", answer: "m doˊ"}
     - en: "It's pitch dark."
-      sx: {hanzi: "___了。", pinyin: "___ leˊ.", answer_hanzi: "斷烏", answer: "tonˊ vuˊ"}
-      hl: {hanzi: "___了。", pinyin: "___ leˋ.", answer_hanzi: "斷烏", answer: "tonˋ vuˋ"}
+      sx: {hanzi: "___吔。", pinyin: "___ leˊ.", answer_hanzi: "斷烏", answer: "tonˊ vuˊ"}
+      hl: {hanzi: "___咧。", pinyin: "___ leˋ.", answer_hanzi: "斷烏", answer: "tonˋ vuˋ"}
     - en: "I can't walk on it any more."
-      sx: {hanzi: "行___了。", pinyin: "hangˇ ___ leˊ.", answer_hanzi: "毋得", answer: "mˇ dedˋ"}
-      hl: {hanzi: "行___了。", pinyin: "hang ___ leˋ.", answer_hanzi: "毋得", answer: "m ded"}
+      sx: {hanzi: "行___吔。", pinyin: "hangˇ ___ leˊ.", answer_hanzi: "毋得", answer: "mˇ dedˋ"}
+      hl: {hanzi: "行___咧。", pinyin: "hang ___ leˋ.", answer_hanzi: "毋得", answer: "m ded"}
 
 audio: []

@@ -57,13 +57,13 @@ dialogue:
   - n: 9
     speaker: 財伯姆
     en: "Stop joking, you two. A patient needs peace and rest."
-    sx: {hanzi: "莫講笑了。病人愛安心歇睏。", pinyin: "mog gongˋ seu leˊ. piang nginˇ oi onˊ ximˊ hiedˋ kun."}
-    hl: {hanzi: "莫講笑了。病人愛安心歇睏。", pinyin: "mogˋ gongˊ siauˇ leˋ. piang+ ngin oiˇ onˋ simˋ hied kunˇ."}
+    sx: {hanzi: "莫講笑吔。病人愛安心歇睏。", pinyin: "mog gongˋ seu leˊ. piang nginˇ oi onˊ ximˊ hiedˋ kun."}
+    hl: {hanzi: "莫講笑咧。病人愛安心歇睏。", pinyin: "mogˋ gongˊ siauˇ leˋ. piang+ ngin oiˇ onˋ simˋ hied kunˇ."}
   - n: 10
     speaker: 護士
     en: "Excuse me, visiting time is over. Uncle has to rest."
-    sx: {hanzi: "失禮，探病个時間過了。阿伯愛歇睏了。", pinyin: "siidˋ liˊ, tamˋ piang ge siiˇ gienˊ go leˊ. aˊ bagˋ oi hiedˋ kun leˊ."}
-    hl: {hanzi: "失禮，探病个時間過了。阿伯愛歇睏了。", pinyin: "shid liˋ, tamˇ piang+ gaiˇ shi gienˋ goˇ leˋ. a+ bag oiˇ hied kunˇ leˋ."}
+    sx: {hanzi: "失禮，探病个時間過吔。阿伯愛歇睏吔。", pinyin: "siidˋ liˊ, tamˋ piang ge siiˇ gienˊ go leˊ. aˊ bagˋ oi hiedˋ kun leˊ."}
+    hl: {hanzi: "失禮，探病个時間過咧。阿伯愛歇睏咧。", pinyin: "shid liˋ, tamˇ piang+ gaiˇ shi gienˋ goˇ leˋ. a+ bag oiˇ hied kunˇ leˋ."}
     check: true
   - n: 11
     speaker: 財伯姆
@@ -196,10 +196,10 @@ exercises:
       sx: {hanzi: "恁仔細！——___。", pinyin: "anˋ ziiˋ se! — ___.", answer_hanzi: "毋使客氣", answer: "mˇ siiˋ hagˋ hi"}
       hl: {hanzi: "承蒙你！——___。", pinyin: "shin mung ngi! — ___.", answer_hanzi: "毋使客氣", answer: "m siiˊ hag hiˇ"}
     - en: "We've come to visit the patient."
-      sx: {hanzi: "𠊎兜來___了。", pinyin: "ngaiˇ deuˊ loiˇ ___ leˊ.", answer_hanzi: "探病", answer: "tamˋ piang"}
-      hl: {hanzi: "𠊎兜來___了。", pinyin: "ngai deuˋ loi ___ leˋ.", answer_hanzi: "探病", answer: "tamˇ piang+"}
+      sx: {hanzi: "𠊎兜來___吔。", pinyin: "ngaiˇ deuˊ loiˇ ___ leˊ.", answer_hanzi: "探病", answer: "tamˋ piang"}
+      hl: {hanzi: "𠊎兜來___咧。", pinyin: "ngai deuˋ loi ___ leˋ.", answer_hanzi: "探病", answer: "tamˇ piang+"}
     - en: "Visiting time is over."
-      sx: {hanzi: "探病个___過了。", pinyin: "tamˋ piang ge ___ go leˊ.", answer_hanzi: "時間", answer: "siiˇ gienˊ"}
-      hl: {hanzi: "探病个___過了。", pinyin: "tamˇ piang+ gaiˇ ___ goˇ leˋ.", answer_hanzi: "時間", answer: "shi gienˋ"}
+      sx: {hanzi: "探病个___過吔。", pinyin: "tamˋ piang ge ___ go leˊ.", answer_hanzi: "時間", answer: "siiˇ gienˊ"}
+      hl: {hanzi: "探病个___過咧。", pinyin: "tamˇ piang+ gaiˇ ___ goˇ leˋ.", answer_hanzi: "時間", answer: "shi gienˋ"}
 
 audio: []

@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: Sam
     en: "(at the window, looking out again and again) It's raining again."
-    sx: {hanzi: "又落雨了。歸日陰天。", pinyin: "iu log iˋ leˊ. guiˊ ngidˋ imˊ tienˊ."}
-    hl: {hanzi: "又落雨了。歸日陰天。", pinyin: "rhiu+ logˋ rhiˊ leˋ. guiˋ ngid rhimˋ tienˋ."}
+    sx: {hanzi: "又落雨吔。歸日陰天。", pinyin: "iu log iˋ leˊ. guiˊ ngidˋ imˊ tienˊ."}
+    hl: {hanzi: "又落雨咧。歸日陰天。", pinyin: "rhiu+ logˋ rhiˊ leˋ. guiˋ ngid rhimˋ tienˋ."}
     check: true
   - n: 2
     speaker: 阿傑
@@ -41,8 +41,8 @@ dialogue:
   - n: 6
     speaker: 阿傑
     en: "(grinding and grinding) Like this?… My arm's aching already."
-    sx: {hanzi: "恁樣擂？……擂啊擂仔，手就痠了。", pinyin: "anˋ ngiongˇ luiˇ? … luiˇ a luiˇ eˋ, suˋ qiu sonˊ leˊ."}
-    hl: {hanzi: "恁樣擂？……擂啊擂仔，手就痠了。", pinyin: "an ngiong lui? … lui a+ lui er, shiuˊ ciu+ sonˋ leˋ."}
+    sx: {hanzi: "恁樣擂？……擂啊擂仔，手就痠吔。", pinyin: "anˋ ngiongˇ luiˇ? … luiˇ a luiˇ eˋ, suˋ qiu sonˊ leˊ."}
+    hl: {hanzi: "恁樣擂？……擂啊擂仔，手就痠咧。", pinyin: "an ngiong lui? … lui a+ lui er, shiuˊ ciu+ sonˋ leˋ."}
     check: true
   - n: 7
     speaker: Sam
@@ -73,13 +73,13 @@ dialogue:
   - n: 12
     speaker: Sam
     en: "(at the door, an hour later) The rain's stopped! …The sun's out!"
-    sx: {hanzi: "停了！……出日頭了！天晴了！", pinyin: "tinˇ leˊ! … cudˋ ngidˋ teuˇ leˊ! tienˊ qiangˇ leˊ!"}
-    hl: {hanzi: "停了！……出日頭了！天晴了！", pinyin: "tin leˋ! … chud ngid teu leˋ! tienˋ ciang leˋ!"}
+    sx: {hanzi: "停吔！……出日頭吔！天晴吔！", pinyin: "tinˇ leˊ! … cudˋ ngidˋ teuˇ leˊ! tienˊ qiangˇ leˊ!"}
+    hl: {hanzi: "停咧！……出日頭咧！天晴咧！", pinyin: "tin leˋ! … chud ngid teu leˋ! tienˋ ciang leˋ!"}
   - n: 13
     speaker: 阿傑
     en: "(stepping out, straight into a puddle) …My shoes are soaked."
-    sx: {hanzi: "……𠊎个鞋溼了。", pinyin: "… ngaiˇ ge haiˇ siibˋ leˊ."}
-    hl: {hanzi: "……𠊎个鞋溼了。", pinyin: "… ngai gaiˇ hai shib leˋ."}
+    sx: {hanzi: "……𠊎个鞋溼吔。", pinyin: "… ngaiˇ ge haiˇ siibˋ leˊ."}
+    hl: {hanzi: "……𠊎个鞋溼咧。", pinyin: "… ngai gaiˇ hai shib leˋ."}
   - n: 14
     speaker: Sam
     en: "There's a puddle! Try looking where you're going."
@@ -89,8 +89,8 @@ dialogue:
   - n: 15
     speaker: 阿傑
     en: "(too late: he slips, and gets up limping) …I've fallen over. I've twisted my ankle."
-    sx: {hanzi: "……𠊎跌倒了。腳扭著了。", pinyin: "… ngaiˇ diedˋ doˋ leˊ. giogˋ ngiuˋ doˋ leˊ."}
-    hl: {hanzi: "……𠊎跢倒了。腳扭著了。", pinyin: "… ngai doiˋ doˊ leˋ. giog ngiuˊ doˊ leˋ."}
+    sx: {hanzi: "……𠊎跌倒吔。腳扭著吔。", pinyin: "… ngaiˇ diedˋ doˋ leˊ. giogˋ ngiuˋ doˋ leˊ."}
+    hl: {hanzi: "……𠊎跢倒咧。腳扭著咧。", pinyin: "… ngai doiˋ doˊ leˋ. giog ngiuˊ doˊ leˋ."}
   - n: 16
     speaker: Sam
     en: "(helping him along, the two of them hobbling home) Next time, let's go in waterproof shoes."
@@ -204,8 +204,8 @@ exercises:
       sx: {hanzi: "你試擂___。", pinyin: "nˇ cii luiˇ ___.", answer_hanzi: "看仔", answer: "kon eˋ"}
       hl: {hanzi: "你試擂___。", pinyin: "ngi chiˇ lui ___.", answer_hanzi: "看仔", answer: "konˇ er"}
     - en: "It's raining. (in Hailu)"
-      sx: {hanzi: "___了。", pinyin: "___ leˊ.", answer_hanzi: "落水", answer: "log suiˋ"}
-      hl: {hanzi: "___了。", pinyin: "___ leˋ.", answer_hanzi: "落水", answer: "logˋ shuiˊ"}
+      sx: {hanzi: "___吔。", pinyin: "___ leˊ.", answer_hanzi: "落水", answer: "log suiˋ"}
+      hl: {hanzi: "___咧。", pinyin: "___ leˋ.", answer_hanzi: "落水", answer: "logˋ shuiˊ"}
     - en: "Take an umbrella."
       sx: {hanzi: "遮仔___等。", pinyin: "zaˊ eˋ ___ denˋ.", answer_hanzi: "擎", answer: "kiaˇ"}
       hl: {hanzi: "遮仔___等。", pinyin: "zhaˋ er ___ denˊ.", answer_hanzi: "擎", answer: "kia"}

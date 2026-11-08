@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿婆
     en: "Grandpa, the doctor says you can walk now, but no heavy work."
-    sx: {hanzi: "阿公，先生講你做得行路了，毋過毋好做粗事。", pinyin: "aˊ gungˊ, xinˊ sangˊ gongˋ nˇ zo dedˋ hangˇ lu leˊ, mˇ go mˇ hoˋ zo cuˊ se."}
-    hl: {hanzi: "阿公，先生講你做得行路了，毋過毋好做粗事。", pinyin: "a+ gungˋ, sinˋ sangˋ gongˊ ngi zoˇ ded hang lu+ leˋ, m goˇ m hoˊ zoˇ cuˋ she+."}
+    sx: {hanzi: "阿公，先生講你做得行路吔，毋過毋好做粗事。", pinyin: "aˊ gungˊ, xinˊ sangˊ gongˋ nˇ zo dedˋ hangˇ lu leˊ, mˇ go mˇ hoˋ zo cuˊ se."}
+    hl: {hanzi: "阿公，先生講你做得行路咧，毋過毋好做粗事。", pinyin: "a+ gungˋ, sinˋ sangˋ gongˊ ngi zoˇ ded hang lu+ leˋ, m goˇ m hoˊ zoˇ cuˋ she+."}
   - n: 2
     speaker: 阿公
     en: "I know."
@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: Sam
     en: "Grandpa, I've finished cutting the tea in the field."
-    sx: {hanzi: "阿公，茶園个茶，𠊎剪好了。", pinyin: "aˊ gungˊ, caˇ ienˇ ge caˇ, ngaiˇ jienˋ hoˋ leˊ."}
-    hl: {hanzi: "阿公，茶園个茶，𠊎剪好了。", pinyin: "a+ gungˋ, ca rhan gaiˇ ca, ngai zienˊ hoˊ leˋ."}
+    sx: {hanzi: "阿公，茶園个茶，𠊎剪好吔。", pinyin: "aˊ gungˊ, caˇ ienˇ ge caˇ, ngaiˇ jienˋ hoˋ leˊ."}
+    hl: {hanzi: "阿公，茶園个茶，𠊎剪好咧。", pinyin: "a+ gungˋ, ca rhan gaiˇ ca, ngai zienˊ hoˊ leˋ."}
   - n: 4
     speaker: 阿公
     en: "(after a long look along the rows) …Not bad."
@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: 阿英
     en: "Grandpa said 'not bad'! Sam, from Grandpa that's the highest praise there is."
-    sx: {hanzi: "阿公講「會做得」！Sam，這係阿公盡好个話了。", pinyin: "aˊ gungˊ gongˋ voi zo dedˋ! Sam, iaˋ he aˊ gungˊ qin hoˋ ge fa leˊ."}
-    hl: {hanzi: "阿公講「會做得」！Sam，這係阿公盡好个話了。", pinyin: "a+ gungˋ gongˊ voi+ zoˇ ded! Sam, liaˊ heˇ a+ gungˋ cin+ hoˊ gaiˇ faˇ leˋ."}
+    sx: {hanzi: "阿公講「會做得」！Sam，這係阿公盡好个話吔。", pinyin: "aˊ gungˊ gongˋ voi zo dedˋ! Sam, iaˋ he aˊ gungˊ qin hoˋ ge fa leˊ."}
+    hl: {hanzi: "阿公講「會做得」！Sam，這係阿公盡好个話咧。", pinyin: "a+ gungˋ gongˊ voi+ zoˇ ded! Sam, liaˊ heˇ a+ gungˋ cin+ hoˊ gaiˇ faˇ leˋ."}
   - n: 6
     speaker: 阿明
     en: "Grandma, has the station played your mountain song again, the one from the phone-in?"
@@ -44,8 +44,8 @@ dialogue:
   - n: 7
     speaker: 阿婆
     en: "Don't talk about it. Grandpa said 'too long'."
-    sx: {hanzi: "莫講了。阿公講「恁長」。", pinyin: "mog gongˋ leˊ. aˊ gungˊ gongˋ anˋ congˇ."}
-    hl: {hanzi: "莫講了。阿公講「恁長」。", pinyin: "mogˋ gongˊ leˋ. a+ gungˋ gongˊ anˊ chong."}
+    sx: {hanzi: "莫講吔。阿公講「恁長」。", pinyin: "mog gongˋ leˊ. aˊ gungˊ gongˋ anˋ congˇ."}
+    hl: {hanzi: "莫講咧。阿公講「恁長」。", pinyin: "mogˋ gongˊ leˋ. a+ gungˋ gongˊ anˊ chong."}
   - n: 8
     speaker: 阿公
     en: "Too long. But lovely to listen to."
@@ -54,8 +54,8 @@ dialogue:
   - n: 9
     speaker: 阿婆
     en: "(to the others, astonished) He's said a lot today!"
-    sx: {hanzi: "佢今晡日講恁多話了！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ anˋ doˊ fa leˊ!"}
-    hl: {hanzi: "佢今晡日講恁多話了！", pinyin: "gi gimˋ buˋ ngid gongˊ anˊ doˋ faˇ leˋ!"}
+    sx: {hanzi: "佢今晡日講恁多話吔！", pinyin: "giˇ gimˊ buˊ ngidˋ gongˋ anˋ doˊ fa leˊ!"}
+    hl: {hanzi: "佢今晡日講恁多話咧！", pinyin: "gi gimˋ buˋ ngid gongˊ anˊ doˋ faˇ leˋ!"}
   - n: 10
     speaker: Sam
     en: "Grandpa, shall I read you the poem one more time?"
@@ -74,8 +74,8 @@ dialogue:
   - n: 13
     speaker: 阿婆
     en: "(coming out with a tray) And here's the hot tea."
-    sx: {hanzi: "燒茶來了。", pinyin: "seuˊ caˇ loiˇ leˊ."}
-    hl: {hanzi: "燒茶來了。", pinyin: "shauˋ ca loi leˋ."}
+    sx: {hanzi: "燒茶來吔。", pinyin: "seuˊ caˇ loiˇ leˊ."}
+    hl: {hanzi: "燒茶來咧。", pinyin: "shauˋ ca loi leˋ."}
 
 notes:
   - ref: 1
@@ -100,7 +100,7 @@ notes:
   - ref: 9
     topic: culture
     text: >
-      佢今晡日講恁多話了！ is Grandma's line from lesson 20, word for word, when Grandpa told the story of walking to 公館.
+      佢今晡日講恁多話吔！ is Grandma's line from lesson 20, word for word, when Grandpa told the story of walking to 公館.
       Sixty-four lessons later the joke still works.
   - ref: 12
     topic: culture
@@ -132,8 +132,8 @@ exercises:
       sx: {hanzi: "當時無彩色相片。", pinyin: "dongˊ siiˇ moˇ caiˋ sedˋ xiong pienˋ."}
       hl: {hanzi: "該當時無彩色相片。", pinyin: "gai dongˋ shi mo caiˊ sed siongˇ pienˊ."}
     - en: "He'll be seventy-nine this year, and he's still fit."
-      sx: {hanzi: "佢今年會七十九歲了，身體還當健。", pinyin: "giˇ gimˊ ngienˇ voi qidˋ siib giuˋ se leˊ, siinˊ tiˋ hanˇ dongˊ kien."}
-      hl: {hanzi: "佢今年會七十九歲了，身體還當健。", pinyin: "gi gimˋ ngien voi+ cid shibˋ giuˊ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+."}
+      sx: {hanzi: "佢今年會七十九歲吔，身體還當健。", pinyin: "giˇ gimˊ ngienˇ voi qidˋ siib giuˋ se leˊ, siinˊ tiˋ hanˇ dongˊ kien."}
+      hl: {hanzi: "佢今年會七十九歲咧，身體還當健。", pinyin: "gi gimˋ ngien voi+ cid shibˋ giuˊ soiˇ leˋ, shinˋ tiˊ han dongˋ kien+."}
   fill:
     - en: "In a song, 'is' is sung 是."
       sx: {hanzi: "唱歌唱「___」。", pinyin: "cong goˊ cong ___.", answer_hanzi: "是", answer: "sii"}

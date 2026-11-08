@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿明
     en: "Grandma! Grandpa! Sam's here!"
-    sx: {hanzi: "阿婆！阿公！Sam 來了！", pinyin: "aˊ poˇ! aˊ gungˊ! Sam loiˇ leˊ!"}
-    hl: {hanzi: "阿婆！阿公！Sam 來了！", pinyin: "a+ po! a+ gungˋ! Sam loi leˋ!"}
+    sx: {hanzi: "阿婆！阿公！Sam 來吔！", pinyin: "aˊ poˇ! aˊ gungˊ! Sam loiˇ leˊ!"}
+    hl: {hanzi: "阿婆！阿公！Sam 來咧！", pinyin: "a+ po! a+ gungˋ! Sam loi leˋ!"}
   - n: 2
     speaker: 阿英
     en: "Sam, this is my grandma, and that's my grandpa."
@@ -74,8 +74,11 @@ notes:
   - ref: 1
     topic: grammar
     text: >
-      了 leˊ at the end of a sentence marks a new situation, like Mandarin 了: Sam 來了 "Sam's here (now)". It is a
-      rising tone, not a neutral one.
+      吔 leˊ at the end of a sentence marks a new situation, like Mandarin 了: Sam 來吔 "Sam's here (now)". It is a
+      rising tone, not a neutral one. Spelling: the official 115年度 word lists write it 吔 in Sixian (about 650 of their
+      sentences, against 6 with 了) and 咧 leˋ in Hailu; the MOE dictionary writes 了 leˊ, and you will see that too
+      (lesson 89 quotes it). This course follows the lists, whose recordings you will hear. The lists give 吔 no
+      romanisation: the reading leˊ is the dictionary's, and a lighter eˊ is also heard (south Sixian e²⁴); listen.
   - ref: 2
     topic: grammar
     text: >
@@ -128,7 +131,7 @@ notes:
 new_words:
   - {hanzi: 阿婆, pinyin: "aˊ poˇ", en: "grandmother (father's mother)", hl: {hanzi: 阿婆, pinyin: "a+ po"}}
   - {hanzi: 阿公, pinyin: "aˊ gungˊ", en: "grandfather (father's father)", hl: {hanzi: 阿公, pinyin: "a+ gungˋ"}}
-  - {hanzi: 了, pinyin: "leˊ", en: "(end of sentence) new situation, 了", hl: {hanzi: 了, pinyin: "leˋ"}}
+  - {hanzi: 吔, pinyin: "leˊ", en: "(end of sentence) new situation", hl: {hanzi: 咧, pinyin: "leˋ"}}
   - {hanzi: 婆, pinyin: "poˇ", en: "grandmother (after 吾, 若, 厥)", hl: {hanzi: 婆, pinyin: "po"}}
   - {hanzi: 公, pinyin: "gungˊ", en: "grandfather (after 吾, 若, 厥)", hl: {hanzi: 公, pinyin: "gungˋ"}}
   - {hanzi: 該, pinyin: "ge", en: "that (那)", hl: {hanzi: 該, pinyin: "gai"}}
@@ -156,8 +159,8 @@ exercises:
       sx: {hanzi: "這係𠊎个，該係你个。", pinyin: "iaˋ he ngaiˇ ge, ge he nˇ ge."}
       hl: {hanzi: "這係𠊎个，該係你个。", pinyin: "liaˊ heˇ ngai gaiˇ, gai heˇ ngi gaiˇ."}
     - en: "Grandma, A-in's here!"
-      sx: {hanzi: "阿婆，阿英來了！", pinyin: "aˊ poˇ, aˊ inˊ loiˇ leˊ!"}
-      hl: {hanzi: "阿婆，阿英來了！", pinyin: "a+ po, a+ rhinˋ loi leˋ!"}
+      sx: {hanzi: "阿婆，阿英來吔！", pinyin: "aˊ poˇ, aˊ inˊ loiˇ leˊ!"}
+      hl: {hanzi: "阿婆，阿英來咧！", pinyin: "a+ po, a+ rhinˋ loi leˋ!"}
     - en: "A-min again!"
       sx: {hanzi: "又係阿明！", pinyin: "iu he aˊ minˇ!"}
       hl: {hanzi: "又係阿明！", pinyin: "rhiu+ heˇ a+ min!"}

@@ -59,8 +59,8 @@ dialogue:
   - n: 10
     speaker: 阿婆
     en: "Now you can make 客家小炒! A-in will be so pleased."
-    sx: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "nˇ voi zuˋ hagˋ gaˊ seuˋ cauˋ leˊ! aˊ inˊ voi dongˊ fonˊ hiˋ."}
-    hl: {hanzi: "你會煮客家小炒了！阿英會當歡喜。", pinyin: "ngi voi+ zhuˊ hag gaˋ siauˊ cauˊ leˋ! a+ rhinˋ voi+ dongˋ fonˋ hiˊ."}
+    sx: {hanzi: "你會煮客家小炒吔！阿英會當歡喜。", pinyin: "nˇ voi zuˋ hagˋ gaˊ seuˋ cauˋ leˊ! aˊ inˊ voi dongˊ fonˊ hiˋ."}
+    hl: {hanzi: "你會煮客家小炒咧！阿英會當歡喜。", pinyin: "ngi voi+ zhuˊ hag gaˋ siauˊ cauˊ leˋ! a+ rhinˋ voi+ dongˋ fonˋ hiˊ."}
 
 notes:
   - ref: 1

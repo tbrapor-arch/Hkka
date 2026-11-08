@@ -44,14 +44,14 @@ dialogue:
   - n: 7
     speaker: Sam
     en: "A-min's faster! …Oh. 阿宏 got to the finishing line first. 阿宏's won."
-    sx: {hanzi: "阿明走較遽！……啊，阿宏先到終點，阿宏贏了。", pinyin: "aˊ minˇ zeuˋ ka giagˋ! … a, aˊ fenˇ xienˊ do zungˊ diamˋ, aˊ fenˇ iangˇ leˊ."}
-    hl: {hanzi: "阿明走較遽！……啊，阿宏先到終點，阿宏贏了。", pinyin: "a+ min zeuˊ haˇ giag! … a+, a+ fen senˋ doˇ zhungˋ diamˊ, a+ fen rhang leˋ."}
+    sx: {hanzi: "阿明走較遽！……啊，阿宏先到終點，阿宏贏吔。", pinyin: "aˊ minˇ zeuˋ ka giagˋ! … a, aˊ fenˇ xienˊ do zungˊ diamˋ, aˊ fenˇ iangˇ leˊ."}
+    hl: {hanzi: "阿明走較遽！……啊，阿宏先到終點，阿宏贏咧。", pinyin: "a+ min zeuˊ haˇ giag! … a+, a+ fen senˋ doˇ zhungˋ diamˊ, a+ fen rhang leˋ."}
     check: true
   - n: 8
     speaker: 阿明
     en: "(out of breath, back in the stands) I lost… He came first, I came second. Only one step in it."
-    sx: {hanzi: "𠊎輸忒了……佢得著頭名，𠊎得著第二名。爭差一步定定。", pinyin: "ngaiˇ suˊ tedˋ leˊ … giˇ dedˋ doˋ teuˇ miangˇ, ngaiˇ dedˋ doˋ ti ngi miangˇ. zenˊ caˊ idˋ pu tin tin."}
-    hl: {hanzi: "𠊎輸忒了……佢得著頭名，𠊎得著第二名。爭差一步定定。", pinyin: "ngai shuˋ ted leˋ … gi ded doˊ teu miang, ngai ded doˊ ti+ ngi+ miang. zangˋ caˋ rhid pu+ tin+ tin+."}
+    sx: {hanzi: "𠊎輸忒吔……佢得著頭名，𠊎得著第二名。爭差一步定定。", pinyin: "ngaiˇ suˊ tedˋ leˊ … giˇ dedˋ doˋ teuˇ miangˇ, ngaiˇ dedˋ doˋ ti ngi miangˇ. zenˊ caˊ idˋ pu tin tin."}
+    hl: {hanzi: "𠊎輸忒咧……佢得著頭名，𠊎得著第二名。爭差一步定定。", pinyin: "ngai shuˋ ted leˋ … gi ded doˊ teu miang, ngai ded doˊ ti+ ngi+ miang. zangˋ caˋ rhid pu+ tin+ tin+."}
     check: true
   - n: 9
     speaker: 阿公
@@ -66,13 +66,13 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "(that afternoon, jumping up) They've won! A-min's class came first!"
-    sx: {hanzi: "贏了！阿明个班得著頭名！", pinyin: "iangˇ leˊ! aˊ minˇ ge banˊ dedˋ doˋ teuˇ miangˇ!"}
-    hl: {hanzi: "贏了！阿明个班得著頭名！", pinyin: "rhang leˋ! a+ min gaiˇ banˋ ded doˊ teu miang!"}
+    sx: {hanzi: "贏吔！阿明个班得著頭名！", pinyin: "iangˇ leˊ! aˊ minˇ ge banˊ dedˋ doˋ teuˇ miangˇ!"}
+    hl: {hanzi: "贏咧！阿明个班得著頭名！", pinyin: "rhang leˋ! a+ min gaiˇ banˋ ded doˊ teu miang!"}
   - n: 12
     speaker: 阿明
     en: "Told you so!"
-    sx: {hanzi: "𠊎講過了！", pinyin: "ngaiˇ gongˋ go leˊ!"}
-    hl: {hanzi: "𠊎講過了！", pinyin: "ngai gongˊ goˇ leˋ!"}
+    sx: {hanzi: "𠊎講過吔！", pinyin: "ngaiˇ gongˋ go leˊ!"}
+    hl: {hanzi: "𠊎講過咧！", pinyin: "ngai gongˊ goˇ leˋ!"}
   - n: 13
     speaker: 阿婆
     en: "Good, good. Winning or losing doesn't matter in a contest; what's important is sportsmanship."
@@ -110,7 +110,7 @@ notes:
     text: >
       Ranks: 頭名 teuˇ miangˇ "first place" (also 第一名), 第二名 "second", 第三名 "third" (lesson 60), and they take a
       verb: 得著頭名 "came first" (得著 "obtain", 打頭名 is also attested; official: 這擺走追仔，老弟得著頭名). 輸 suˊ "lose",
-      贏 iangˇ "win, beat": 𠊎愛贏阿宏 "I have to beat 阿宏", 輸忒了 "lost". 爭差一步 "one step's difference": 爭差 "the
+      贏 iangˇ "win, beat": 𠊎愛贏阿宏 "I have to beat 阿宏", 輸忒吔 "lost". 爭差一步 "one step's difference": 爭差 "the
       difference, the gap".
   - ref: 13
     topic: grammar
@@ -167,8 +167,8 @@ exercises:
       sx: {hanzi: "阿婆比阿公較高無？——無，阿公較高。", pinyin: "aˊ poˇ biˋ aˊ gungˊ ka goˊ moˇ? — moˇ, aˊ gungˊ ka goˊ."}
       hl: {hanzi: "阿婆比阿公較高無？——無，阿公較高。", pinyin: "a+ po biˊ a+ gungˋ haˇ goˋ mo? — mo, a+ gungˋ haˇ goˋ."}
     - en: "A-min's team trained hard every day, so they won."
-      sx: {hanzi: "阿明个隊逐日當煞猛練習，故所贏了。", pinyin: "aˊ minˇ ge cui dagˋ ngidˋ dongˊ sadˋ mangˊ lien xib, gu soˋ iangˇ leˊ."}
-      hl: {hanzi: "阿明个隊逐日當煞猛練習，所以贏了。", pinyin: "a+ min gaiˇ chui+ dag ngid dongˋ sad mangˋ lien+ sibˋ, soˊ rhiˋ rhang leˋ."}
+      sx: {hanzi: "阿明个隊逐日當煞猛練習，故所贏吔。", pinyin: "aˊ minˇ ge cui dagˋ ngidˋ dongˊ sadˋ mangˊ lien xib, gu soˋ iangˇ leˊ."}
+      hl: {hanzi: "阿明个隊逐日當煞猛練習，所以贏咧。", pinyin: "a+ min gaiˇ chui+ dag ngid dongˋ sad mangˋ lien+ sibˋ, soˊ rhiˋ rhang leˋ."}
     - en: "A-min plays ball every day."
       sx: {hanzi: "阿明逐日打球。", pinyin: "aˊ minˇ dagˋ ngidˋ daˋ kiuˇ."}
       hl: {hanzi: "阿明逐日打球。", pinyin: "a+ min dag ngid daˊ kiu."}
@@ -177,8 +177,8 @@ exercises:
       sx: {hanzi: "佢___𠊎較高。", pinyin: "giˇ ___ ngaiˇ ka goˊ.", answer_hanzi: "比", answer: "biˋ"}
       hl: {hanzi: "佢___𠊎較高。", pinyin: "gi ___ ngai haˇ goˋ.", answer_hanzi: "比", answer: "biˊ"}
     - en: "We won! — No, we lost."
-      sx: {hanzi: "𠊎兜贏了！——毋係，𠊎兜___忒了。", pinyin: "ngaiˇ deuˊ iangˇ leˊ! — mˇ he, ngaiˇ deuˊ ___ tedˋ leˊ.", answer_hanzi: "輸", answer: "suˊ"}
-      hl: {hanzi: "𠊎兜贏了！——毋係，𠊎兜___忒了。", pinyin: "ngai deuˋ rhang leˋ! — m heˇ, ngai deuˋ ___ ted leˋ.", answer_hanzi: "輸", answer: "shuˋ"}
+      sx: {hanzi: "𠊎兜贏吔！——毋係，𠊎兜___忒吔。", pinyin: "ngaiˇ deuˊ iangˇ leˊ! — mˇ he, ngaiˇ deuˊ ___ tedˋ leˊ.", answer_hanzi: "輸", answer: "suˊ"}
+      hl: {hanzi: "𠊎兜贏咧！——毋係，𠊎兜___忒咧。", pinyin: "ngai deuˋ rhang leˋ! — m heˇ, ngai deuˋ ___ ted leˋ.", answer_hanzi: "輸", answer: "shuˋ"}
     - en: "It doesn't matter."
       sx: {hanzi: "___。", pinyin: "___.", answer_hanzi: "無相干", answer: "moˇ xiongˊ gonˊ"}
       hl: {hanzi: "___。", pinyin: "___.", answer_hanzi: "無相干", answer: "mo siongˋ gonˋ"}

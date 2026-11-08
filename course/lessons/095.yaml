@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "That fast? It'll be cut in no time?"
-    sx: {hanzi: "恁遽？一下仔就割忒了？", pinyin: "anˋ giagˋ? idˋ ha eˋ qiu godˋ tedˋ leˊ?"}
-    hl: {hanzi: "恁遽？一下仔就割忒了？", pinyin: "anˊ giag? rhid ha+ er ciu+ god ted leˋ?"}
+    sx: {hanzi: "恁遽？一下仔就割忒吔？", pinyin: "anˋ giagˋ? idˋ ha eˋ qiu godˋ tedˋ leˊ?"}
+    hl: {hanzi: "恁遽？一下仔就割忒咧？", pinyin: "anˊ giag? rhid ha+ er ciu+ god ted leˋ?"}
   - n: 3
     speaker: 阿爸
     en: "With a harvester, farmers save a lot of time and strength."
@@ -76,8 +76,8 @@ dialogue:
   - n: 13
     speaker: 阿明
     en: "But there are fewer and fewer people farming."
-    sx: {hanzi: "毋過耕田个人緊來緊少了。", pinyin: "mˇ go gangˊ tienˇ ge nginˇ ginˋ loiˇ ginˋ seuˋ leˊ."}
-    hl: {hanzi: "毋過耕田个人緊來緊少了。", pinyin: "m goˇ gangˋ tien gaiˇ ngin ginˊ loi ginˊ shauˊ leˋ."}
+    sx: {hanzi: "毋過耕田个人緊來緊少吔。", pinyin: "mˇ go gangˊ tienˇ ge nginˇ ginˋ loiˇ ginˋ seuˋ leˊ."}
+    hl: {hanzi: "毋過耕田个人緊來緊少咧。", pinyin: "m goˇ gangˋ tien gaiˇ ngin ginˊ loi ginˊ shauˊ leˋ."}
   - n: 14
     speaker: 阿婆
     en: "(to Sam, quietly) And when you go back to France: set out cheerful, and come back home safe."

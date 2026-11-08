@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 財伯姆
     en: "Grandma Liu, I hear Sam has a girlfriend!"
-    sx: {hanzi: "阿婆，聽講 Sam 有女朋友了！", pinyin: "aˊ poˇ, tangˊ gongˋ Sam iuˊ ngˋ penˇ iuˊ leˊ!"}
-    hl: {hanzi: "阿婆，聽講 Sam 有女朋友了！", pinyin: "a+ po, tangˇ gongˊ Sam rhiuˋ ngˊ pen rhiuˋ leˋ!"}
+    sx: {hanzi: "阿婆，聽講 Sam 有女朋友吔！", pinyin: "aˊ poˇ, tangˊ gongˋ Sam iuˊ ngˋ penˇ iuˊ leˊ!"}
+    hl: {hanzi: "阿婆，聽講 Sam 有女朋友咧！", pinyin: "a+ po, tangˇ gongˊ Sam rhiuˋ ngˊ pen rhiuˋ leˋ!"}
   - n: 2
     speaker: 阿婆
     en: "A girlfriend? Who said so?"
@@ -69,8 +69,8 @@ dialogue:
   - n: 12
     speaker: 阿婆
     en: "Right, right. I must get home for breakfast."
-    sx: {hanzi: "好了，好了。𠊎愛轉去食朝了。", pinyin: "hoˋ leˊ, hoˋ leˊ. ngaiˇ oi zonˋ hi siid zeuˊ leˊ."}
-    hl: {hanzi: "好了，好了。𠊎愛轉去食朝了。", pinyin: "hoˊ leˋ, hoˊ leˋ. ngai oiˇ zhonˊ hiˇ shidˋ zhauˋ leˋ."}
+    sx: {hanzi: "好吔，好吔。𠊎愛轉去食朝吔。", pinyin: "hoˋ leˊ, hoˋ leˊ. ngaiˇ oi zonˋ hi siid zeuˊ leˊ."}
+    hl: {hanzi: "好咧，好咧。𠊎愛轉去食朝咧。", pinyin: "hoˊ leˋ, hoˊ leˋ. ngai oiˇ zhonˊ hiˇ shidˋ zhauˋ leˋ."}
 
 notes:
   - ref: 1

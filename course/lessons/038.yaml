@@ -48,8 +48,8 @@ dialogue:
   - n: 8
     speaker: 阿婆
     en: "You're a layer short! Your thick jacket went home with Lucie."
-    sx: {hanzi: "你著少一領衫！你个燒暖衫分 Lucie 著轉去了。", pinyin: "nˇ zogˋ seuˋ idˋ liangˊ samˊ! nˇ ge seuˊ nonˊ samˊ bunˊ Lucie zogˋ zonˋ hi leˊ."}
-    hl: {hanzi: "你著少一領衫！你个燒暖衫分 Lucie 著轉去了。", pinyin: "ngi zhog shauˊ rhid liangˋ samˋ! ngi gaiˇ shauˋ nonˋ samˋ bunˋ Lucie zhog zhonˊ hiˇ leˋ."}
+    sx: {hanzi: "你著少一領衫！你个燒暖衫分 Lucie 著轉去吔。", pinyin: "nˇ zogˋ seuˋ idˋ liangˊ samˊ! nˇ ge seuˊ nonˊ samˊ bunˊ Lucie zogˋ zonˋ hi leˊ."}
+    hl: {hanzi: "你著少一領衫！你个燒暖衫分 Lucie 著轉去咧。", pinyin: "ngi zhog shauˊ rhid liangˋ samˋ! ngi gaiˇ shauˋ nonˋ samˋ bunˋ Lucie zhog zhonˊ hiˇ leˋ."}
     check: true
   - n: 9
     speaker: Sam
@@ -59,8 +59,8 @@ dialogue:
   - n: 10
     speaker: 阿公
     en: "Never mind. Once I've eaten I'll be warm."
-    sx: {hanzi: "無要緊。食飽就燒暖了。", pinyin: "moˇ ieu ginˋ. siid bauˋ qiu seuˊ nonˊ leˊ."}
-    hl: {hanzi: "無要緊。食飽就燒暖了。", pinyin: "moˇ rhauˇ ginˊ. shidˋ bauˊ ciu+ shauˋ nonˋ leˋ."}
+    sx: {hanzi: "無要緊。食飽就燒暖吔。", pinyin: "moˇ ieu ginˋ. siid bauˋ qiu seuˊ nonˊ leˊ."}
+    hl: {hanzi: "無要緊。食飽就燒暖咧。", pinyin: "moˇ rhauˇ ginˊ. shidˋ bauˊ ciu+ shauˋ nonˋ leˋ."}
   - n: 11
     speaker: 阿明
     en: "(half an hour later) Waiter, another bowl of rice! (to the table) Sam's paying, so I'm having another bowl!"
@@ -70,8 +70,8 @@ dialogue:
   - n: 12
     speaker: 阿婆
     en: "That's three already! In a moment you won't be able to eat any more."
-    sx: {hanzi: "你食三碗了！等下食毋落。", pinyin: "nˇ siid samˊ vonˋ leˊ! denˋ ha siid mˇ log."}
-    hl: {hanzi: "你食三碗了！等下食毋落。", pinyin: "ngi shidˋ samˋ vonˊ leˋ! denˊ ha+ shidˋ m logˋ."}
+    sx: {hanzi: "你食三碗吔！等下食毋落。", pinyin: "nˇ siid samˊ vonˋ leˊ! denˋ ha siid mˇ log."}
+    hl: {hanzi: "你食三碗咧！等下食毋落。", pinyin: "ngi shidˋ samˋ vonˊ leˋ! denˊ ha+ shidˋ m logˋ."}
   - n: 13
     speaker: Sam
     en: "(at the end, at the counter, to the owner) The bill, please."
@@ -81,8 +81,8 @@ dialogue:
   - n: 14
     speaker: 頭家
     en: "It's been paid. The lady paid a moment ago."
-    sx: {hanzi: "算過了。該隻阿婆頭先算忒了。", pinyin: "son go leˊ. ge zagˋ aˊ poˇ teuˇ xienˊ son tedˋ leˊ."}
-    hl: {hanzi: "算過了。該隻阿婆頭先算忒了。", pinyin: "sonˇ goˇ leˋ. gai zhag a+ po teu senˋ sonˇ ted leˋ."}
+    sx: {hanzi: "算過吔。該隻阿婆頭先算忒吔。", pinyin: "son go leˊ. ge zagˋ aˊ poˇ teuˇ xienˊ son tedˋ leˊ."}
+    hl: {hanzi: "算過咧。該隻阿婆頭先算忒咧。", pinyin: "sonˇ goˇ leˋ. gai zhag a+ po teu senˋ sonˇ ted leˋ."}
     check: true
   - n: 15
     speaker: Sam
@@ -135,7 +135,7 @@ notes:
   - ref: 14
     topic: culture
     text: >
-      算數 son sii "settle the bill"; 算過了 "it's settled" (marked for checking). Grandma has paid behind the host's back, and the 下二擺 "next time" that follows
+      算數 son sii "settle the bill"; 算過吔 "it's settled" (marked for checking). Grandma has paid behind the host's back, and the 下二擺 "next time" that follows
       may never come. A saying from the official examples:
       講著食，大家就擠等來；講著算數，大家就閃開開 "talk about eating and everyone crowds in; talk about the bill and
       everyone scatters".
@@ -176,8 +176,8 @@ exercises:
       sx: {hanzi: "等加一下添，湯吂好。", pinyin: "denˋ gaˊ idˋ ha tiamˊ, tongˊ mangˇ hoˋ."}
       hl: {hanzi: "等加一下添，湯吂好。", pinyin: "denˊ gaˋ rhid ha+ tiamˋ, tongˋ mang hoˊ."}
     - en: "Stop eating! You can't eat any more."
-      sx: {hanzi: "停，莫食了！你食毋落了。", pinyin: "tinˇ, mog siid leˊ! nˇ siid mˇ log leˊ."}
-      hl: {hanzi: "停，莫食了！你食毋落了。", pinyin: "tin, mogˋ shidˋ leˋ! ngi shidˋ m logˋ leˋ."}
+      sx: {hanzi: "停，莫食吔！你食毋落吔。", pinyin: "tinˇ, mog siid leˊ! nˇ siid mˇ log leˊ."}
+      hl: {hanzi: "停，莫食咧！你食毋落咧。", pinyin: "tin, mogˋ shidˋ leˋ! ngi shidˋ m logˋ leˋ."}
     - en: "Put on one more layer, it's cold outside."
       sx: {hanzi: "著加一領衫添，外背當寒。", pinyin: "zogˋ gaˊ idˋ liangˊ samˊ tiamˊ, ngoi boi dongˊ honˇ."}
       hl: {hanzi: "著加一領衫添，外背當冷。", pinyin: "zhog gaˋ rhid liangˋ samˋ tiamˋ, ngo+ boiˇ dongˋ langˋ."}

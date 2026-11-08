@@ -68,8 +68,8 @@ dialogue:
   - n: 12
     speaker: Sam
     en: "(typing in the card number, then going upstairs) Right. The jacket only, OK?"
-    sx: {hanzi: "好了。淨衫定定，好無？", pinyin: "hoˋ leˊ. qiang samˊ tin tin, hoˋ moˇ?"}
-    hl: {hanzi: "好了。淨衫定定，好無？", pinyin: "hoˊ leˋ. ciang+ samˋ tin+ tin+, hoˊ mo?"}
+    sx: {hanzi: "好吔。淨衫定定，好無？", pinyin: "hoˋ leˊ. qiang samˊ tin tin, hoˋ moˇ?"}
+    hl: {hanzi: "好咧。淨衫定定，好無？", pinyin: "hoˊ leˋ. ciang+ samˋ tin+ tin+, hoˊ mo?"}
   - n: 13
     speaker: 阿明
     en: "(alone, muttering) These shoes are cool too… I'll quietly add a pair. Nobody'll know."

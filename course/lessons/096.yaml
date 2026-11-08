@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿婆
     en: "Sam, I've folded your clothes for you."
-    sx: {hanzi: "Sam，衫褲𠊎同你摺好了。", pinyin: "Sam, samˊ fu ngaiˇ tungˇ nˇ zabˋ hoˋ leˊ."}
-    hl: {hanzi: "Sam，衫褲𠊎摎你摺好了。", pinyin: "Sam, samˋ fuˇ ngai lauˋ ngi zhab hoˊ leˋ."}
+    sx: {hanzi: "Sam，衫褲𠊎同你摺好吔。", pinyin: "Sam, samˊ fu ngaiˇ tungˇ nˇ zabˋ hoˋ leˊ."}
+    hl: {hanzi: "Sam，衫褲𠊎摎你摺好咧。", pinyin: "Sam, samˋ fuˇ ngai lauˋ ngi zhab hoˊ leˋ."}
   - n: 2
     speaker: Sam
     en: "Grandma, I can do it myself… And there's no need to take a quilt: France has them."
@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 阿婆
     en: "You fold them badly, and you won't let Grandma do it. And the suitcase is full: don't put anything else in."
-    sx: {hanzi: "你摺毋好，又毋肯分阿婆摺。皮箱既經淰了，莫再放。", pinyin: "nˇ zabˋ mˇ hoˋ, iu mˇ henˋ bunˊ aˊ poˇ zabˋ. piˇ xiongˊ gi ginˊ nemˊ leˊ, mog zai biong."}
-    hl: {hanzi: "你摺毋好，又毋肯分阿婆摺。皮箱既經淰了，莫再放。", pinyin: "ngi zhab m hoˊ, rhiu+ m henˊ bunˋ a+ po zhab. pi siongˋ giˇ ginˋ nemˋ leˋ, mogˋ zaiˇ biongˇ."}
+    sx: {hanzi: "你摺毋好，又毋肯分阿婆摺。皮箱既經淰吔，莫再放。", pinyin: "nˇ zabˋ mˇ hoˋ, iu mˇ henˋ bunˊ aˊ poˇ zabˋ. piˇ xiongˊ gi ginˊ nemˊ leˊ, mog zai biong."}
+    hl: {hanzi: "你摺毋好，又毋肯分阿婆摺。皮箱既經淰咧，莫再放。", pinyin: "ngi zhab m hoˊ, rhiu+ m henˊ bunˋ a+ po zhab. pi siongˋ giˇ ginˋ nemˋ leˋ, mogˋ zaiˇ biongˇ."}
     check: true
   - n: 4
     speaker: 阿婆
@@ -36,8 +36,8 @@ dialogue:
   - n: 5
     speaker: Sam
     en: "It's so heavy… all my things won't fit."
-    sx: {hanzi: "恁重……所有个東西都放毋落了。", pinyin: "anˋ cungˊ … soˋ iuˊ ge dungˊ xiˊ du biong mˇ log leˊ."}
-    hl: {hanzi: "恁重……所有个東西都放毋落了。", pinyin: "anˊ chungˋ … soˊ rhiuˋ gaiˇ dungˋ siˋ du+ biongˇ m logˋ leˋ."}
+    sx: {hanzi: "恁重……所有个東西都放毋落吔。", pinyin: "anˋ cungˊ … soˋ iuˊ ge dungˊ xiˊ du biong mˇ log leˊ."}
+    hl: {hanzi: "恁重……所有个東西都放毋落咧。", pinyin: "anˊ chungˋ … soˊ rhiuˋ gaiˇ dungˋ siˋ du+ biongˇ m logˋ leˋ."}
   - n: 6
     speaker: 阿婆
     en: "Heavy, my foot! And here's this photo: Grandpa and me, fifty years ago."
@@ -213,7 +213,7 @@ exercises:
       sx: {hanzi: "愛___，毋好毋記得。", pinyin: "oi ___, mˇ hoˋ mˇ gi dedˋ.", answer_hanzi: "記入心", answer: "gi ngib ximˊ"}
       hl: {hanzi: "愛___，毋好毋記得。", pinyin: "oiˇ ___, m hoˊ m giˇ ded.", answer_hanzi: "記入心", answer: "giˇ ngibˋ simˋ"}
     - en: "The suitcase is already full."
-      sx: {hanzi: "皮箱___淰了。", pinyin: "piˇ xiongˊ ___ nemˊ leˊ.", answer_hanzi: "既經", answer: "gi ginˊ"}
-      hl: {hanzi: "皮箱___淰了。", pinyin: "pi siongˋ ___ nemˋ leˋ.", answer_hanzi: "既經", answer: "giˇ ginˋ"}
+      sx: {hanzi: "皮箱___淰吔。", pinyin: "piˇ xiongˊ ___ nemˊ leˊ.", answer_hanzi: "既經", answer: "gi ginˊ"}
+      hl: {hanzi: "皮箱___淰咧。", pinyin: "pi siongˋ ___ nemˋ leˋ.", answer_hanzi: "既經", answer: "giˇ ginˋ"}
 
 audio: []

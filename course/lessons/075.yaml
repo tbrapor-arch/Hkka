@@ -19,13 +19,13 @@ dialogue:
   - n: 2
     speaker: 阿英
     en: "I have, thank you, sir."
-    sx: {hanzi: "食過了。恁仔細，主任。", pinyin: "siid go leˊ. anˋ ziiˋ se, zuˋ im."}
-    hl: {hanzi: "食過了。承蒙你，主任。", pinyin: "shidˋ goˇ leˋ. shin mung ngi, zhuˊ rhim+."}
+    sx: {hanzi: "食過吔。恁仔細，主任。", pinyin: "siid go leˊ. anˋ ziiˋ se, zuˋ im."}
+    hl: {hanzi: "食過咧。承蒙你，主任。", pinyin: "shidˋ goˇ leˋ. shin mung ngi, zhuˊ rhim+."}
   - n: 3
     speaker: 彭主任
     en: "I've read your CV. Then first, would you introduce yourself?"
-    sx: {hanzi: "你个履歷𠊎看過了。先請你紹介自家。", pinyin: "nˇ ge liˊ lid ngaiˇ kon go leˊ. xienˊ qiangˋ nˇ seu gie qi gaˊ."}
-    hl: {hanzi: "你个履歷𠊎看過了。先請你紹介自家。", pinyin: "ngi gaiˇ liˋ lidˋ ngai konˇ goˇ leˋ. senˋ ciangˊ ngi shauˇ gaiˇ cid gaˋ."}
+    sx: {hanzi: "你个履歷𠊎看過吔。先請你紹介自家。", pinyin: "nˇ ge liˊ lid ngaiˇ kon go leˊ. xienˊ qiangˋ nˇ seu gie qi gaˊ."}
+    hl: {hanzi: "你个履歷𠊎看過咧。先請你紹介自家。", pinyin: "ngi gaiˇ liˋ lidˋ ngai konˇ goˇ leˋ. senˋ ciangˊ ngi shauˇ gaiˇ cid gaˋ."}
   - n: 4
     speaker: 阿英
     en: "My name is Liu Ying; I'm from 苗栗. At university I studied literature, and I've worked for three years for a company in Taipei."
@@ -81,8 +81,8 @@ dialogue:
   - n: 14
     speaker: 阿婆
     en: "(at home, four in the afternoon) The phone's ringing! A-in, it's for you!"
-    sx: {hanzi: "電話響了！阿英，你个！", pinyin: "tien fa hiongˋ leˊ! aˊ inˊ, nˇ ge!"}
-    hl: {hanzi: "電話響了！阿英，你个！", pinyin: "tien+ faˇ hiongˊ leˋ! a+ rhinˋ, ngi gaiˇ!"}
+    sx: {hanzi: "電話響吔！阿英，你个！", pinyin: "tien fa hiongˋ leˊ! aˊ inˊ, nˇ ge!"}
+    hl: {hanzi: "電話響咧！阿英，你个！", pinyin: "tien+ faˇ hiongˊ leˋ! a+ rhinˋ, ngi gaiˇ!"}
   - n: 15
     speaker: 阿英
     en: "(putting the phone down, very calmly) This afternoon I got the notice to start work. I've passed the interview."
@@ -92,13 +92,13 @@ dialogue:
   - n: 16
     speaker: Sam
     en: "Congratulations! So you're coming back to Miaoli!"
-    sx: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˊ hiˋ! anˋ ngiongˇ nˇ oi zonˋ loiˇ meuˇ lid leˊ!"}
-    hl: {hanzi: "恭喜！恁樣你愛轉來苗栗了！", pinyin: "giungˋ hiˊ! an ngiong ngi oiˇ zhonˊ loi miau lidˋ leˋ!"}
+    sx: {hanzi: "恭喜！恁樣你愛轉來苗栗吔！", pinyin: "giungˊ hiˋ! anˋ ngiongˇ nˇ oi zonˋ loiˇ meuˇ lid leˊ!"}
+    hl: {hanzi: "恭喜！恁樣你愛轉來苗栗咧！", pinyin: "giungˋ hiˊ! an ngiong ngi oiˇ zhonˊ loi miau lidˋ leˋ!"}
   - n: 17
     speaker: 阿英
     en: "I am. I've decided: I'm taking it."
-    sx: {hanzi: "係。𠊎決定了，𠊎愛去。", pinyin: "he. ngaiˇ giedˋ tin leˊ, ngaiˇ oi hi."}
-    hl: {hanzi: "係。𠊎決定了，𠊎愛去。", pinyin: "heˇ. ngai gied tin+ leˋ, ngai oiˇ hiˇ."}
+    sx: {hanzi: "係。𠊎決定吔，𠊎愛去。", pinyin: "he. ngaiˇ giedˋ tin leˊ, ngaiˇ oi hi."}
+    hl: {hanzi: "係。𠊎決定咧，𠊎愛去。", pinyin: "heˇ. ngai gied tin+ leˋ, ngai oiˇ hiˇ."}
   - n: 18
     speaker: 阿婆
     en: "Grandma's not interfering… but Grandma's very happy!"
@@ -110,7 +110,7 @@ notes:
     topic: grammar
     text: >
       食飽吂？ "have you eaten?" (lesson 3), the greeting MOE files as 見面招呼語: it is the polite opener even in an
-      office. In A-in's answer, 食過了 "I have (eaten)", 過 after a verb marks something done and finished (食過飯了
+      office. In A-in's answer, 食過吔 "I have (eaten)", 過 after a verb marks something done and finished (食過飯吔
       "has had a meal"), as in the official Sixian example 阿公頭先食過飯吔 "Grandpa ate a moment ago". 劉小姐
       "Miss Liu" is how a stranger addresses her (小姐 is not in the word lists; the course treats the title as part of
       the name). 主任 zuˋ im "director, head (of an office)".
@@ -193,13 +193,13 @@ exercises:
       hl: {hanzi: "主任講，下隻月會通知大家。", pinyin: "zhuˊ rhim+ gongˊ, ha+ zhag ngiedˋ voi+ tungˋ diˋ tai+ gaˋ."}
   fill:
     - en: "Have you eaten?"
-      sx: {hanzi: "食___了無？", pinyin: "siid ___ leˊ moˇ?", answer_hanzi: "過", answer: "go"}
-      hl: {hanzi: "食___了無？", pinyin: "shidˋ ___ leˋ mo?", answer_hanzi: "過", answer: "goˇ"}
+      sx: {hanzi: "食___吔無？", pinyin: "siid ___ leˊ moˇ?", answer_hanzi: "過", answer: "go"}
+      hl: {hanzi: "食___咧無？", pinyin: "shidˋ ___ leˋ mo?", answer_hanzi: "過", answer: "goˇ"}
     - en: "Have you ever been to 美濃?"
       sx: {hanzi: "你___去過美濃無？", pinyin: "nˇ ___ hi go miˊ nungˇ moˇ?", answer_hanzi: "有", answer: "iuˊ"}
       hl: {hanzi: "你___去過美濃無？", pinyin: "ngi ___ hiˇ goˇ mi nung mo?", answer_hanzi: "有", answer: "rhiuˋ"}
     - en: "I've passed the interview."
-      sx: {hanzi: "面試___了。", pinyin: "mien cii ___ leˊ.", answer_hanzi: "過關", answer: "go guanˊ"}
-      hl: {hanzi: "面試___了。", pinyin: "mienˇ chiˇ ___ leˋ.", answer_hanzi: "過關", answer: "goˇ guanˋ"}
+      sx: {hanzi: "面試___吔。", pinyin: "mien cii ___ leˊ.", answer_hanzi: "過關", answer: "go guanˊ"}
+      hl: {hanzi: "面試___咧。", pinyin: "mienˇ chiˇ ___ leˋ.", answer_hanzi: "過關", answer: "goˇ guanˋ"}
 
 audio: []

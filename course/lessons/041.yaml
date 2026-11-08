@@ -51,8 +51,8 @@ dialogue:
     speaker: 阿婆
     en: "Grandma did it for your own good. Grandma's old, and she worries about you…"
     check: true
-    sx: {hanzi: "阿婆係為著你好。阿婆老了，當煩惱你……", pinyin: "aˊ poˇ he vi doˋ nˇ hoˋ. aˊ poˇ loˋ leˊ, dongˊ fanˇ nauˊ nˇ …"}
-    hl: {hanzi: "阿婆係為著你好。阿婆老了，當煩惱你……", pinyin: "a+ po heˇ vui+ doˊ ngi hoˊ. a+ po loˊ leˋ, dongˋ fan nauˋ ngi …"}
+    sx: {hanzi: "阿婆係為著你好。阿婆老吔，當煩惱你……", pinyin: "aˊ poˇ he vi doˋ nˇ hoˋ. aˊ poˇ loˋ leˊ, dongˊ fanˇ nauˊ nˇ …"}
+    hl: {hanzi: "阿婆係為著你好。阿婆老咧，當煩惱你……", pinyin: "a+ po heˇ vui+ doˊ ngi hoˊ. a+ po loˊ leˋ, dongˋ fan nauˋ ngi …"}
   - n: 9
     speaker: 阿英
     en: "In the old days, to take a wife you first had to find a matchmaker. Young people today are smarter: they all find their own partners."
@@ -62,8 +62,8 @@ dialogue:
   - n: 10
     speaker: 阿婆
     en: "(sighing) All right, all right… Anyway, he phoned. Turns out he isn't coming."
-    sx: {hanzi: "好，好……毋過，佢打電話來，佢嗄講毋來了。", pinyin: "hoˋ, hoˋ … mˇ go, giˇ daˋ tien fa loiˇ, giˇ sa gongˋ mˇ loiˇ leˊ."}
-    hl: {hanzi: "好，好……毋過，佢打電話來，佢嗄講毋來了。", pinyin: "hoˊ, hoˊ … m goˇ, gi daˊ tien+ faˇ loi, gi saˇ gongˊ m loi leˋ."}
+    sx: {hanzi: "好，好……毋過，佢打電話來，佢嗄講毋來吔。", pinyin: "hoˋ, hoˋ … mˇ go, giˇ daˋ tien fa loiˇ, giˇ sa gongˋ mˇ loiˇ leˊ."}
+    hl: {hanzi: "好，好……毋過，佢打電話來，佢嗄講毋來咧。", pinyin: "hoˊ, hoˊ … m goˇ, gi daˊ tien+ faˇ loi, gi saˇ gongˊ m loi leˋ."}
   - n: 11
     speaker: 阿英
     en: "What? He's not coming? …Why not?!"
@@ -82,8 +82,8 @@ dialogue:
   - n: 14
     speaker: 阿婆
     en: "(glancing at Sam, then at A-in) Never mind. Grandma won't say another word."
-    sx: {hanzi: "無要緊。阿婆毋講了。", pinyin: "moˇ ieu ginˋ. aˊ poˇ mˇ gongˋ leˊ."}
-    hl: {hanzi: "無要緊。阿婆毋講了。", pinyin: "moˇ rhauˇ ginˊ. a+ po m gongˊ leˋ."}
+    sx: {hanzi: "無要緊。阿婆毋講吔。", pinyin: "moˇ ieu ginˋ. aˊ poˇ mˇ gongˋ leˊ."}
+    hl: {hanzi: "無要緊。阿婆毋講咧。", pinyin: "moˇ rhauˇ ginˊ. a+ po m gongˊ leˋ."}
 
 notes:
   - ref: 3
@@ -118,7 +118,7 @@ notes:
     topic: grammar
     text: >
       嗄 sa "and then, of all things, unexpectedly": it goes before the verb and marks a surprise, often an unwelcome
-      one: 佢嗄講毋來了 "and then he said he wasn't coming", 這間店嗄倒忒了 "turns out the shop has closed down". In a
+      one: 佢嗄講毋來吔 "and then he said he wasn't coming", 這間店嗄倒忒吔 "turns out the shop has closed down". In a
       question it is indignant: 佢嗄毋來？ "he's not coming?!". There is no single English word for it; tone of voice
       does the work.
   - ref: 13
@@ -165,8 +165,8 @@ exercises:
       sx: {hanzi: "阿英盡好心，係當譴定定。", pinyin: "aˊ inˊ qin hoˋ ximˊ, he dongˊ kienˋ tin tin."}
       hl: {hanzi: "阿英最好心，係當閼定定。", pinyin: "a+ rhinˋ zuiˇ hoˊ simˋ, heˇ dongˋ ad tin+ tin+."}
     - en: "Don't scold her; she's decided for herself."
-      sx: {hanzi: "莫罵佢，佢自家決定了。", pinyin: "mog ma giˇ, giˇ qi gaˊ giedˋ tin leˊ."}
-      hl: {hanzi: "莫罵佢，佢自家決定了。", pinyin: "mogˋ maˇ gi, gi cid gaˋ gied tin+ leˋ."}
+      sx: {hanzi: "莫罵佢，佢自家決定吔。", pinyin: "mog ma giˇ, giˇ qi gaˊ giedˋ tin leˊ."}
+      hl: {hanzi: "莫罵佢，佢自家決定咧。", pinyin: "mogˋ maˇ gi, gi cid gaˋ gied tin+ leˋ."}
     - en: "Don't bother about me, and don't worry."
       sx: {hanzi: "莫管𠊎，乜毋使擔心。", pinyin: "mog gonˋ ngaiˇ, me mˇ siiˋ damˊ ximˊ."}
       hl: {hanzi: "莫管𠊎，乜毋使擔心。", pinyin: "mogˋ gonˊ ngai, meˇ m siiˊ damˋ simˋ."}

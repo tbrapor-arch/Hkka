@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿英
     en: "Sam, your Hakka is better than before!"
-    sx: {hanzi: "Sam，你个客話比頭擺較好了！", pinyin: "Sam, nˇ ge hagˋ fa biˋ teuˇ baiˋ ka hoˋ leˊ!"}
-    hl: {hanzi: "Sam，你个客話比頭擺較好了！", pinyin: "Sam, ngi gaiˇ hag voiˋ biˊ teu baiˊ haˇ hoˊ leˋ!"}
+    sx: {hanzi: "Sam，你个客話比頭擺較好吔！", pinyin: "Sam, nˇ ge hagˋ fa biˋ teuˇ baiˋ ka hoˋ leˊ!"}
+    hl: {hanzi: "Sam，你个客話比頭擺較好咧！", pinyin: "Sam, ngi gaiˇ hag voiˋ biˊ teu baiˊ haˇ hoˊ leˋ!"}
   - n: 2
     speaker: Sam
     en: "Thank you. Grandma talks to me every day."

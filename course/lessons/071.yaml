@@ -92,8 +92,8 @@ dialogue:
   - n: 16
     speaker: 阿英
     en: "(laughing) 'Lovely' with a 蓋 already! The countryside is quiet like this: you can hear the birds."
-    sx: {hanzi: "你乜講「蓋」了！鄉下就係恁安靜，聽得著鳥仔。", pinyin: "nˇ me gongˋ goi leˊ! hiongˊ ha qiu he anˋ onˊ qin, tangˊ dedˋ doˋ diauˊ eˋ."}
-    hl: {hanzi: "你乜講「蓋」了！鄉下就係恁安靜，聽得著鳥仔。", pinyin: "ngi meˇ gongˊ goiˇ leˋ! hiongˋ ha+ ciu+ heˇ anˊ onˋ cin+, tangˋ ded doˊ diauˋ er."}
+    sx: {hanzi: "你乜講「蓋」吔！鄉下就係恁安靜，聽得著鳥仔。", pinyin: "nˇ me gongˋ goi leˊ! hiongˊ ha qiu he anˋ onˊ qin, tangˊ dedˋ doˋ diauˊ eˋ."}
+    hl: {hanzi: "你乜講「蓋」咧！鄉下就係恁安靜，聽得著鳥仔。", pinyin: "ngi meˇ gongˊ goiˇ leˋ! hiongˋ ha+ ciu+ heˇ anˊ onˋ cin+, tangˋ ded doˊ diauˋ er."}
     check: true
 
 notes:
@@ -122,7 +122,7 @@ notes:
     topic: grammar
     text: >
       歸去 guiˊ hi "go back home" = 轉去: MOE gives 歸 the sense 返回. Two southern sentences have it where the Sixian set
-      has 轉: 阿姆毋曾歸來 "Mum hasn't come home yet", 歸來了！ "back home!" (Sixian 轉來了). The brackets of the official
+      has 轉: 阿姆毋曾歸來 "Mum hasn't come home yet", 歸來吔！ "back home!" (Sixian 轉來吔). The brackets of the official
       examples have 轉（歸）over a hundred times (阿爸逐（每）日都轉（歸）屋下食晝). 歸 is also "the whole" (歸日, 歸屋下): context decides.
   - ref: 12
     topic: culture

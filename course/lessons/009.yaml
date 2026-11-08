@@ -33,8 +33,8 @@ dialogue:
   - n: 5
     speaker: 阿婆
     en: "(three hours later) Sam! It's raining! Quick, get the washing in!"
-    sx: {hanzi: "Sam！落雨了！遽遽收衫褲！", pinyin: "Sam! log iˋ leˊ! giagˋ giagˋ suˊ samˊ fu!"}
-    hl: {hanzi: "Sam！落水了！遽遽收衫褲！", pinyin: "Sam! logˋ shuiˊ leˋ! giag giag shiuˋ samˋ fuˇ!"}
+    sx: {hanzi: "Sam！落雨吔！遽遽收衫褲！", pinyin: "Sam! log iˋ leˊ! giagˋ giagˋ suˊ samˊ fu!"}
+    hl: {hanzi: "Sam！落水咧！遽遽收衫褲！", pinyin: "Sam! logˋ shuiˊ leˋ! giag giag shiuˋ samˋ fuˇ!"}
   - n: 6
     speaker: Sam
     en: "(back on the porch, soaked) Such heavy rain…"
@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: 阿公
     en: "(perfectly dry) I told you."
-    sx: {hanzi: "𠊎講過了。", pinyin: "ngaiˇ gongˋ go leˊ."}
-    hl: {hanzi: "𠊎講過了。", pinyin: "ngai gongˊ goˇ leˋ."}
+    sx: {hanzi: "𠊎講過吔。", pinyin: "ngaiˇ gongˋ go leˊ."}
+    hl: {hanzi: "𠊎講過咧。", pinyin: "ngai gongˊ goˇ leˋ."}
   - n: 8
     speaker: Sam
     en: "Grandpa, how did you know?"
@@ -72,7 +72,7 @@ notes:
     text: >
       會 voi, which you know as "can" (會講客話), also says what is going to happen: 會落雨 "it's going to rain".
       Mandarin does this too (會下雨), but Hakka leans on it harder: 會 can mean "about to, any minute now", as in
-      會落雨了 "it's about to rain". Its negative is 毋會 "won't" (line 3). 落雨 log iˋ "rain" (下雨): rain "falls".
+      會落雨吔 "it's about to rain". Its negative is 毋會 "won't" (line 3). 落雨 log iˋ "rain" (下雨): rain "falls".
   - ref: 4
     topic: grammar
     text: >
@@ -81,13 +81,13 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      落雨了 "it's raining (now)": 了 at the end marks the change, as in 雞卵無了 and 這下五點半了. 遽遽 giagˋ giagˋ
+      落雨吔 "it's raining (now)": 了 at the end marks the change, as in 雞卵無吔 and 這下五點半吔. 遽遽 giagˋ giagˋ
       "quick, hurry" (快快). 收 suˊ "take in, collect", as in Mandarin.
   - ref: 7
     topic: grammar
     text: >
-      𠊎講過了 "I said so (already)", four syllables of pure satisfaction. 過 go after a verb marks it as done; you
-      will meet it again for "have ever done" (lesson 16). The fuller 𠊎就同你講過了 is "I told you so". Grandpa has
+      𠊎講過吔 "I said so (already)", four syllables of pure satisfaction. 過 go after a verb marks it as done; you
+      will meet it again for "have ever done" (lesson 16). The fuller 𠊎就同你講過吔 is "I told you so". Grandpa has
       said barely twenty words in three lessons and been right every time.
   - ref: 8
     topic: vocab
@@ -100,7 +100,7 @@ notes:
       Two kinds of hot. 燒 seuˊ is hot to the touch: 燒茶 "hot tea", 粥當燒 "the congee is very hot". 熱 ngied is hot
       weather or a hot body: 今晡日當熱 "it's very hot today". Mandarin 燒 is "burn" or "fever"; here it is the
       everyday word for anything you can scald your tongue on. Two kinds of cold, too: 寒 honˇ is
-      how a person feels (寒無？ "are you cold?", 當寒 "it's freezing"), 冷 langˊ is for cold things (茶冷了 "the tea's
+      how a person feels (寒無？ "are you cold?", 當寒 "it's freezing"), 冷 langˊ is for cold things (茶冷吔 "the tea's
       gone cold").
   - ref: 0
     topic: hailu
@@ -137,8 +137,8 @@ exercises:
       sx: {hanzi: "這碗粥當燒。", pinyin: "iaˋ vonˋ zugˋ dongˊ seuˊ."}
       hl: {hanzi: "這碗糜當燒。", pinyin: "liaˊ vonˊ moi dongˋ shauˋ."}
     - en: "The tea has gone cold."
-      sx: {hanzi: "茶冷了。", pinyin: "caˇ langˊ leˊ."}
-      hl: {hanzi: "茶冷了。", pinyin: "ca langˋ leˋ."}
+      sx: {hanzi: "茶冷吔。", pinyin: "caˇ langˊ leˊ."}
+      hl: {hanzi: "茶冷咧。", pinyin: "ca langˋ leˋ."}
     - en: "It's so hot today!"
       sx: {hanzi: "今晡日恁熱！", pinyin: "gimˊ buˊ ngidˋ anˋ ngied!"}
       hl: {hanzi: "今晡日恁熱！", pinyin: "gimˋ buˋ ngid anˊ ngiedˋ!"}
@@ -150,8 +150,8 @@ exercises:
       hl: {hanzi: "𠊎毋知。這下七點，九點阿英會來。", pinyin: "ngai m diˋ. liaˊ ha+ cid diamˊ, giuˊ diamˊ a+ rhinˋ voi+ loi."}
   fill:
     - en: "It's raining!"
-      sx: {hanzi: "落雨___！", pinyin: "log iˋ ___!", answer_hanzi: "了", answer: "leˊ"}
-      hl: {hanzi: "落水___！", pinyin: "logˋ shuiˊ ___!", answer_hanzi: "了", answer: "leˋ"}
+      sx: {hanzi: "落雨___！", pinyin: "log iˋ ___!", answer_hanzi: "吔", answer: "leˊ"}
+      hl: {hanzi: "落水___！", pinyin: "logˋ shuiˊ ___!", answer_hanzi: "咧", answer: "leˋ"}
     - en: "How do you know?"
       sx: {hanzi: "你___知？", pinyin: "nˇ ___ diˊ?", answer_hanzi: "仰會", answer: "ngiongˋ voi"}
       hl: {hanzi: "你___知？", pinyin: "ngi ___ diˋ?", answer_hanzi: "仰會", answer: "ngiongˊ voi+"}

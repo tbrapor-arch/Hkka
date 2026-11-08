@@ -19,8 +19,8 @@ dialogue:
   - n: 2
     speaker: 阿婆
     en: "That box! I've been looking for it for years. In the old days the photos lay in piles, one pile on top of another."
-    sx: {hanzi: "這箱相片，𠊎尋幾多年了！以前相片係一疊一疊个。", pinyin: "iaˋ xiongˊ xiong pienˋ, ngaiˇ qimˇ giˋ doˊ ngienˇ leˊ! iˊ qienˇ xiong pienˋ he idˋ tiab idˋ tiab ge."}
-    hl: {hanzi: "這箱相片，𠊎尋幾多年了！以前相片係一疊一疊个。", pinyin: "liaˊ siongˋ siongˇ pienˊ, ngai cim giˊ doˋ ngien leˋ! rhiˋ cien siongˇ pienˊ heˇ rhid tiabˋ rhid tiabˋ gaiˇ."}
+    sx: {hanzi: "這箱相片，𠊎尋幾多年吔！以前相片係一疊一疊个。", pinyin: "iaˋ xiongˊ xiong pienˋ, ngaiˇ qimˇ giˋ doˊ ngienˇ leˊ! iˊ qienˇ xiong pienˋ he idˋ tiab idˋ tiab ge."}
+    hl: {hanzi: "這箱相片，𠊎尋幾多年咧！以前相片係一疊一疊个。", pinyin: "liaˊ siongˋ siongˇ pienˊ, ngai cim giˊ doˋ ngien leˋ! rhiˋ cien siongˇ pienˊ heˇ rhid tiabˋ rhid tiabˋ gaiˇ."}
   - n: 3
     speaker: Sam
     en: "(holding up a black-and-white photo) Who's this? The young man in the suit?"
@@ -81,8 +81,8 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "Times have changed, but Grandpa's face hasn't changed much."
-    sx: {hanzi: "時代改變了，毋過阿公个面無麼个變。", pinyin: "siiˇ toi goiˋ bien leˊ, mˇ go aˊ gungˊ ge mien moˇ maˋ ge bien."}
-    hl: {hanzi: "時代改變了，毋過阿公个面無麼个變。", pinyin: "shi toi+ goiˊ bienˇ leˋ, m goˇ a+ gungˋ gaiˇ mienˇ mo maˊ gaiˇ bienˇ."}
+    sx: {hanzi: "時代改變吔，毋過阿公个面無麼个變。", pinyin: "siiˇ toi goiˋ bien leˊ, mˇ go aˊ gungˊ ge mien moˇ maˋ ge bien."}
+    hl: {hanzi: "時代改變咧，毋過阿公个面無麼个變。", pinyin: "shi toi+ goiˊ bienˇ leˋ, m goˇ a+ gungˋ gaiˇ mienˇ mo maˊ gaiˇ bienˇ."}
   - n: 15
     speaker: 阿公
     en: "(picking up the wedding photo) This one: it's mine."

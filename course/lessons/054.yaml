@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: 頭家
     en: "Sorry, they've nearly all sold out today: there are only these two packets left."
-    sx: {hanzi: "失禮，今晡日差毋多賣忒了，淨伸這兩包定定。", pinyin: "siidˋ liˊ, gimˊ buˊ ngidˋ caˊ mˇ doˊ mai tedˋ leˊ, qiang cunˊ iaˋ liongˋ bauˊ tin tin."}
-    hl: {hanzi: "失禮，今晡日差毋多賣忒了，淨伸這兩包定定。", pinyin: "shid liˋ, gimˋ buˋ ngid caˋ m doˋ mai+ ted leˋ, ciang+ chunˋ liaˊ liongˊ bauˋ tin+ tin+."}
+    sx: {hanzi: "失禮，今晡日差毋多賣忒吔，淨伸這兩包定定。", pinyin: "siidˋ liˊ, gimˊ buˊ ngidˋ caˊ mˇ doˊ mai tedˋ leˊ, qiang cunˊ iaˋ liongˋ bauˊ tin tin."}
+    hl: {hanzi: "失禮，今晡日差毋多賣忒咧，淨伸這兩包定定。", pinyin: "shid liˋ, gimˋ buˋ ngid caˋ m doˋ mai+ ted leˋ, ciang+ chunˋ liaˊ liongˊ bauˋ tin+ tin+."}
   - n: 8
     speaker: Sam
     en: "Then I'll take the two. I'll come back and buy more next time."
@@ -80,8 +80,8 @@ dialogue:
   - n: 14
     speaker: 阿舅
     en: "No need to wait for 'when you have time': next month you'll be making them!"
-    sx: {hanzi: "毋使有閒正來，下隻月你就愛做了！", pinyin: "mˇ siiˋ iuˊ hanˇ zang loiˇ, ha zagˋ ngied nˇ qiu oi zo leˊ!"}
-    hl: {hanzi: "毋使有閒正來，下隻月你就愛做了！", pinyin: "m siiˊ rhiuˋ han zhangˇ loi, ha+ zhag ngiedˋ ngi ciu+ oiˇ zoˇ leˋ!"}
+    sx: {hanzi: "毋使有閒正來，下隻月你就愛做吔！", pinyin: "mˇ siiˋ iuˊ hanˇ zang loiˇ, ha zagˋ ngied nˇ qiu oi zo leˊ!"}
+    hl: {hanzi: "毋使有閒正來，下隻月你就愛做咧！", pinyin: "m siiˊ rhiuˋ han zhangˇ loi, ha+ zhag ngiedˋ ngi ciu+ oiˇ zoˇ leˋ!"}
   - n: 15
     speaker: 頭家
     en: "(as they leave the noodle shop) Thank you! Come again when you're free!"
@@ -118,7 +118,7 @@ notes:
     topic: grammar
     text: >
       淨伸 qiang cunˊ "only … left": 伸 (lesson 39) here means "be left over", 淨 (lesson 46) "only". 屋下淨伸兩老定定 "only
-      the two old people are left at home" (official example). 賣忒了 "sold out": 忒 "away, gone" (lesson 33).
+      the two old people are left at home" (official example). 賣忒吔 "sold out": 忒 "away, gone" (lesson 33).
       差毋多 (lesson 48) "almost".
   - ref: 8
     topic: grammar

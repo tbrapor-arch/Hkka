@@ -51,8 +51,8 @@ dialogue:
   - n: 8
     speaker: 阿英
     en: "Mother's Day is coming. I want to buy one for my mum."
-    sx: {hanzi: "母親節會到了，𠊎愛買一枝送吾姆。", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, ngaiˇ oi maiˊ idˋ giˊ sung ngaˊ meˊ."}
-    hl: {hanzi: "母親節會到了，𠊎愛買一枝送𠊎姆。", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngai oiˇ maiˋ rhid giˋ sungˇ ngai meˋ."}
+    sx: {hanzi: "母親節會到吔，𠊎愛買一枝送吾姆。", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, ngaiˇ oi maiˊ idˋ giˊ sung ngaˊ meˊ."}
+    hl: {hanzi: "母親節會到咧，𠊎愛買一枝送𠊎姆。", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngai oiˇ maiˋ rhid giˋ sungˇ ngai meˋ."}
   - n: 9
     speaker: 林師傅
     en: "This one, with the painted flowers: twelve hundred."
@@ -66,8 +66,8 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "(laughing) You've picked it up already! …All right, we'll just buy one."
-    sx: {hanzi: "你學會了！……好，𫣆買一枝就好。", pinyin: "nˇ hog voi leˊ! … hoˋ, enˊ maiˊ idˋ giˊ qiu hoˋ."}
-    hl: {hanzi: "你學會了！……好，𫣆買一枝就好。", pinyin: "ngi hogˋ voi+ leˋ! … hoˊ, enˋ maiˋ rhid giˋ ciu+ hoˊ."}
+    sx: {hanzi: "你學會吔！……好，𫣆買一枝就好。", pinyin: "nˇ hog voi leˊ! … hoˋ, enˊ maiˊ idˋ giˊ qiu hoˋ."}
+    hl: {hanzi: "你學會咧！……好，𫣆買一枝就好。", pinyin: "ngi hogˋ voi+ leˋ! … hoˊ, enˋ maiˋ rhid giˋ ciu+ hoˊ."}
   - n: 12
     speaker: 鍾伯姆
     en: "(that evening, in the noodle shop) Two bowls of 面帕粄, and a plate of fried egg."
@@ -124,7 +124,7 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      Measure words: 一枝遮仔 "an umbrella" (the official examples use 枝 or 支: 這枝遮仔壞了), 一碗面帕粄, 一盤炒卵. The
+      Measure words: 一枝遮仔 "an umbrella" (the official examples use 枝 or 支: 這枝遮仔壞吔), 一碗面帕粄, 一盤炒卵. The
       classifier comes between the number and the noun, and it is the classifier that 這 points at: 這枝畫花个 "this one
       with the flowers" (line 9), with the noun left out.
   - ref: 10
@@ -164,15 +164,15 @@ new_words:
 exercises:
   translate:
     - en: "This umbrella is broken; it's no use to you."
-      sx: {hanzi: "這枝遮仔壞了，你借去乜無用。", pinyin: "iaˋ giˊ zaˊ eˋ fai leˊ, nˇ jia hi me moˇ iung."}
-      hl: {hanzi: "這枝遮仔壞了，你借去乜無用。", pinyin: "liaˊ giˋ zhaˋ er fai+ leˋ, ngi ziaˇ hiˇ meˇ mo rhung+."}
+      sx: {hanzi: "這枝遮仔壞吔，你借去乜無用。", pinyin: "iaˋ giˊ zaˊ eˋ fai leˊ, nˇ jia hi me moˇ iung."}
+      hl: {hanzi: "這枝遮仔壞咧，你借去乜無用。", pinyin: "liaˊ giˋ zhaˋ er fai+ leˋ, ngi ziaˇ hiˇ meˇ mo rhung+."}
       source: moe
     - en: "Take an umbrella when you go out: it keeps off the sun."
       sx: {hanzi: "出去記得帶一枝遮仔抵日頭。", pinyin: "cudˋ hi gi dedˋ dai idˋ giˊ zaˊ eˋ daiˋ ngidˋ teuˇ."}
       hl: {hanzi: "出去記得帶一枝遮仔抵日頭。", pinyin: "chud hiˇ giˇ ded daiˇ rhid giˋ zhaˋ er diˊ ngid teu."}
     - en: "Mother's Day is coming: what are you going to buy for your mum?"
-      sx: {hanzi: "母親節會到了，你愛買麼个東西送若姆？", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, nˇ oi maiˊ maˋ ge dungˊ xiˊ sung ngiaˊ meˊ?"}
-      hl: {hanzi: "母親節會到了，你愛買麼个東西送若姆？", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngi oiˇ maiˋ maˊ gaiˇ dungˋ siˋ sungˇ ngia meˋ?"}
+      sx: {hanzi: "母親節會到吔，你愛買麼个東西送若姆？", pinyin: "muˊ qinˊ jiedˋ voi do leˊ, nˇ oi maiˊ maˋ ge dungˊ xiˊ sung ngiaˊ meˊ?"}
+      hl: {hanzi: "母親節會到咧，你愛買麼个東西送若姆？", pinyin: "muˋ cinˋ zied voi+ doˇ leˋ, ngi oiˇ maiˋ maˊ gaiˇ dungˋ siˋ sungˇ ngia meˋ?"}
     - en: "At New Year and at festivals, our maternal grandmother makes rice cakes for us."
       sx: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "go ngienˇ go jiedˋ, jiaˋ poˇ du voi zo banˋ eˋ bunˊ enˊ siid."}
       hl: {hanzi: "過年過節，姐婆都會做粄仔分𫣆食。", pinyin: "goˇ ngien goˇ zied, ziaˊ po du+ voi+ zoˇ banˊ er bunˋ enˋ shidˋ."}
@@ -185,7 +185,7 @@ exercises:
       sx: {hanzi: "一___遮仔", pinyin: "idˋ ___ zaˊ eˋ", answer_hanzi: "枝", answer: "giˊ"}
       hl: {hanzi: "一___遮仔", pinyin: "rhid ___ zhaˋ er", answer_hanzi: "枝", answer: "giˋ"}
     - en: "They've become works of art."
-      sx: {hanzi: "變成___品了。", pinyin: "bien sangˇ ___ pinˋ leˊ.", answer_hanzi: "藝術", answer: "ngi sud"}
-      hl: {hanzi: "變成___品了。", pinyin: "bienˇ shang ___ pinˊ leˋ.", answer_hanzi: "藝術", answer: "ngi+ sudˋ"}
+      sx: {hanzi: "變成___品吔。", pinyin: "bien sangˇ ___ pinˋ leˊ.", answer_hanzi: "藝術", answer: "ngi sud"}
+      hl: {hanzi: "變成___品咧。", pinyin: "bienˇ shang ___ pinˊ leˋ.", answer_hanzi: "藝術", answer: "ngi+ sudˋ"}
 
 audio: []

@@ -19,13 +19,13 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "Yes, I have, thank you!"
-    sx: {hanzi: "食飽了，恁仔細！", pinyin: "siid bauˋ leˊ, anˋ ziiˋ se!"}
-    hl: {hanzi: "食飽了，承蒙你！", pinyin: "shidˋ bauˊ leˋ, shin mung ngi!"}
+    sx: {hanzi: "食飽吔，恁仔細！", pinyin: "siid bauˋ leˊ, anˋ ziiˋ se!"}
+    hl: {hanzi: "食飽咧，承蒙你！", pinyin: "shidˋ bauˊ leˋ, shin mung ngi!"}
   - n: 3
     speaker: 阿婆
     en: "Eaten? You haven't eaten yet! Come, have a bowl of congee."
-    sx: {hanzi: "食飽了？你還吂食！來，食一碗粥。", pinyin: "siid bauˋ leˊ? nˇ hanˇ mangˇ siid! loiˇ, siid idˋ vonˋ zugˋ."}
-    hl: {hanzi: "食飽了？你還吂食！來，食一碗糜。", pinyin: "shidˋ bauˊ leˋ? ngi han mang shidˋ! loi, shidˋ rhid vonˊ moi."}
+    sx: {hanzi: "食飽吔？你還吂食！來，食一碗粥。", pinyin: "siid bauˋ leˊ? nˇ hanˇ mangˇ siid! loiˇ, siid idˋ vonˋ zugˋ."}
+    hl: {hanzi: "食飽咧？你還吂食！來，食一碗糜。", pinyin: "shidˋ bauˊ leˋ? ngi han mang shidˋ! loi, shidˋ rhid vonˊ moi."}
   - n: 4
     speaker: 阿明
     en: "Grandma, I want eggs!"
@@ -35,8 +35,8 @@ dialogue:
   - n: 5
     speaker: 阿婆
     en: "There are no eggs left. Eat your congee!"
-    sx: {hanzi: "雞卵無了。食粥！", pinyin: "gieˊ lonˋ moˇ leˊ. siid zugˋ!"}
-    hl: {hanzi: "雞卵無了。食糜！", pinyin: "gaiˋ lonˊ mo leˋ. shidˋ moi!"}
+    sx: {hanzi: "雞卵無吔。食粥！", pinyin: "gieˊ lonˋ moˇ leˊ. siid zugˋ!"}
+    hl: {hanzi: "雞卵無咧。食糜！", pinyin: "gaiˋ lonˊ mo leˋ. shidˋ moi!"}
   - n: 6
     speaker: 阿明
     en: "I'm not eating congee…"
@@ -60,15 +60,15 @@ dialogue:
   - n: 10
     speaker: Sam
     en: "Yes, I have!"
-    sx: {hanzi: "食飽了！", pinyin: "siid bauˋ leˊ!"}
-    hl: {hanzi: "食飽了！", pinyin: "shidˋ bauˊ leˋ!"}
+    sx: {hanzi: "食飽吔！", pinyin: "siid bauˋ leˊ!"}
+    hl: {hanzi: "食飽咧！", pinyin: "shidˋ bauˊ leˋ!"}
 
 notes:
   - ref: 1
     topic: culture
     text: >
       食飽吂？ siid bauˋ mangˇ "eaten (your fill) yet?" is how Hakka speakers greet each other at any hour, the
-      cousin of Taiwan Mandarin 吃飽沒. The expected reply is 食飽了 "yes, I have", whatever the truth. Sam knows the
+      cousin of Taiwan Mandarin 吃飽沒. The expected reply is 食飽吔 "yes, I have", whatever the truth. Sam knows the
       formula; what he doesn't know yet is that at seven in the morning, at Grandma's table, it is also a real question.
       早 zoˋ alone is a quick "morning!".
   - ref: 1
@@ -95,7 +95,7 @@ notes:
   - ref: 5
     topic: grammar
     text: >
-      Three negatives in one breakfast. 無 moˇ is "there isn't, have not" (沒有): 雞卵無了 "there are no eggs (any
+      Three negatives in one breakfast. 無 moˇ is "there isn't, have not" (沒有): 雞卵無吔 "there are no eggs (any
       more)". 毋 mˇ is "won't, not" (不): 𠊎毋食粥 "I'm not eating congee". 吂 mangˇ is "not yet". So 毋食 "won't eat",
       無食 "didn't eat", 吂食 "hasn't eaten yet". If you can choose between 不 and 沒 in Mandarin, you can choose
       between 毋 and 無; 吂 is the one Mandarin has to say in two words.
@@ -136,8 +136,8 @@ exercises:
       sx: {hanzi: "𠊎毋食雞卵。", pinyin: "ngaiˇ mˇ siid gieˊ lonˋ."}
       hl: {hanzi: "𠊎毋食雞卵。", pinyin: "ngai m shidˋ gaiˋ lonˊ."}
     - en: "There's no congee left."
-      sx: {hanzi: "粥無了。", pinyin: "zugˋ moˇ leˊ."}
-      hl: {hanzi: "糜無了。", pinyin: "moi mo leˋ."}
+      sx: {hanzi: "粥無吔。", pinyin: "zugˋ moˇ leˊ."}
+      hl: {hanzi: "糜無咧。", pinyin: "moi mo leˋ."}
     - en: "Grandma, I want two bowls!"
       sx: {hanzi: "阿婆，𠊎愛兩碗！", pinyin: "aˊ poˇ, ngaiˇ oi liongˋ vonˋ!"}
       hl: {hanzi: "阿婆，𠊎愛兩碗！", pinyin: "a+ po, ngai oiˇ liongˊ vonˊ!"}
@@ -149,8 +149,8 @@ exercises:
       sx: {hanzi: "你食飽___？", pinyin: "nˇ siid bauˋ ___?", answer_hanzi: "吂", answer: "mangˇ"}
       hl: {hanzi: "你食飽___？", pinyin: "ngi shidˋ bauˊ ___?", answer_hanzi: "吂", answer: "mang"}
     - en: "There are no eggs left."
-      sx: {hanzi: "雞卵___了。", pinyin: "gieˊ lonˋ ___ leˊ.", answer_hanzi: "無", answer: "moˇ"}
-      hl: {hanzi: "雞卵___了。", pinyin: "gaiˋ lonˊ ___ leˋ.", answer_hanzi: "無", answer: "mo"}
+      sx: {hanzi: "雞卵___吔。", pinyin: "gieˊ lonˋ ___ leˊ.", answer_hanzi: "無", answer: "moˇ"}
+      hl: {hanzi: "雞卵___咧。", pinyin: "gaiˋ lonˊ ___ leˋ.", answer_hanzi: "無", answer: "mo"}
     - en: "He won't eat it, so I will."
       sx: {hanzi: "佢___食，𠊎食。", pinyin: "giˇ ___ siid, ngaiˇ siid.", answer_hanzi: "毋", answer: "mˇ"}
       hl: {hanzi: "佢___食，𠊎食。", pinyin: "gi ___ shidˋ, ngai shidˋ.", answer_hanzi: "毋", answer: "m"}

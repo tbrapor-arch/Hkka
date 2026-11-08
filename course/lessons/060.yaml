@@ -60,28 +60,28 @@ dialogue:
   - n: 10
     speaker: 主播
     en: "Grandma Liu came third. She said: 'I hadn't sung for fifty years. I sang for my husband.'"
-    sx: {hanzi: "劉阿婆得著第三名。佢講：「𠊎五十年無唱了，係為著𠊎老公唱个。」", pinyin: "liuˇ aˊ poˇ dedˋ doˋ ti samˊ miangˇ. giˇ gongˋ: ngaiˇ ngˋ siib ngienˇ moˇ cong leˊ, he vi doˋ ngaiˇ loˋ gungˊ cong ge."}
-    hl: {hanzi: "劉阿婆得著第三名。佢講：「𠊎五十年無唱了，係為著𠊎老公唱个。」", pinyin: "liu a+ po ded doˊ ti+ samˋ miang. gi gongˊ: ngai ngˊ shibˋ ngien mo chongˇ leˋ, heˇ vui+ doˊ ngai loˊ gungˋ chongˇ gaiˇ."}
+    sx: {hanzi: "劉阿婆得著第三名。佢講：「𠊎五十年無唱吔，係為著𠊎老公唱个。」", pinyin: "liuˇ aˊ poˇ dedˋ doˋ ti samˊ miangˇ. giˇ gongˋ: ngaiˇ ngˋ siib ngienˇ moˇ cong leˊ, he vi doˋ ngaiˇ loˋ gungˊ cong ge."}
+    hl: {hanzi: "劉阿婆得著第三名。佢講：「𠊎五十年無唱咧，係為著𠊎老公唱个。」", pinyin: "liu a+ po ded doˊ ti+ samˋ miang. gi gongˊ: ngai ngˊ shibˋ ngien mo chongˇ leˋ, heˇ vui+ doˊ ngai loˊ gungˋ chongˇ gaiˇ."}
   - n: 11
     speaker: Sam
     en: "Grandma's on TV! I must phone her!"
-    sx: {hanzi: "阿婆上電視了！𠊎愛打電話分佢！", pinyin: "aˊ poˇ songˊ tien sii leˊ! ngaiˇ oi daˋ tien fa bunˊ giˇ!"}
-    hl: {hanzi: "阿婆上電視了！𠊎愛打電話分佢！", pinyin: "a+ po shongˋ tien+ shi+ leˋ! ngai oiˇ daˊ tien+ faˇ bunˋ gi!"}
+    sx: {hanzi: "阿婆上電視吔！𠊎愛打電話分佢！", pinyin: "aˊ poˇ songˊ tien sii leˊ! ngaiˇ oi daˋ tien fa bunˊ giˇ!"}
+    hl: {hanzi: "阿婆上電視咧！𠊎愛打電話分佢！", pinyin: "a+ po shongˋ tien+ shi+ leˋ! ngai oiˇ daˊ tien+ faˇ bunˋ gi!"}
   - n: 12
     speaker: 姐婆
     en: "Don't: it's past eight, she'll be asleep. Ring A-in; she won't be in bed yet."
-    sx: {hanzi: "莫打，八點過了，佢睡忒了。打分阿英，佢還吂睡。", pinyin: "mog daˋ, badˋ diamˋ go leˊ, giˇ soi tedˋ leˊ. daˋ bunˊ aˊ inˊ, giˇ hanˇ mangˇ soi."}
-    hl: {hanzi: "莫打，八點過了，佢睡忒了。打分阿英，佢還吂睡。", pinyin: "mogˋ daˊ, bad diamˊ goˇ leˋ, gi shoi+ ted leˋ. daˊ bunˋ a+ rhinˋ, gi han mang shoi+."}
+    sx: {hanzi: "莫打，八點過吔，佢睡忒吔。打分阿英，佢還吂睡。", pinyin: "mog daˋ, badˋ diamˋ go leˊ, giˇ soi tedˋ leˊ. daˋ bunˊ aˊ inˊ, giˇ hanˇ mangˇ soi."}
+    hl: {hanzi: "莫打，八點過咧，佢睡忒咧。打分阿英，佢還吂睡。", pinyin: "mogˋ daˊ, bad diamˊ goˇ leˋ, gi shoi+ ted leˋ. daˊ bunˋ a+ rhinˋ, gi han mang shoi+."}
   - n: 13
     speaker: 阿英
     en: "(on the phone) Sam! Did you see the news? Grandma was on it!"
-    sx: {hanzi: "Sam！你看著新聞無？阿婆上電視了！", pinyin: "Sam! nˇ kon doˋ xinˊ vunˇ moˇ? aˊ poˇ songˊ tien sii leˊ!"}
-    hl: {hanzi: "Sam！你看著新聞無？阿婆上電視了！", pinyin: "Sam! ngi konˇ doˊ sinˋ vun mo? a+ po shongˋ tien+ shi+ leˋ!"}
+    sx: {hanzi: "Sam！你看著新聞無？阿婆上電視吔！", pinyin: "Sam! nˇ kon doˋ xinˊ vunˇ moˇ? aˊ poˇ songˊ tien sii leˊ!"}
+    hl: {hanzi: "Sam！你看著新聞無？阿婆上電視咧！", pinyin: "Sam! ngi konˇ doˊ sinˋ vun mo? a+ po shongˋ tien+ shi+ leˋ!"}
   - n: 14
     speaker: Sam
     en: "I saw it! …A-in, how about you come and see the 桐花 with me in April?"
-    sx: {hanzi: "看著了！……阿英，四月𫣆兜共下去看桐花，好無？", pinyin: "kon doˋ leˊ! … aˊ inˊ, xi ngied enˊ deuˊ kiung ha hi kon tungˇ faˊ, hoˋ moˇ?"}
-    hl: {hanzi: "看著了！……阿英，四月𫣆兜共下去看桐花，好無？", pinyin: "konˇ doˊ leˋ! … a+ rhinˋ, siˇ ngiedˋ enˋ deuˋ kiung+ ha+ hiˇ konˇ tung faˋ, hoˊ mo?"}
+    sx: {hanzi: "看著吔！……阿英，四月𫣆兜共下去看桐花，好無？", pinyin: "kon doˋ leˊ! … aˊ inˊ, xi ngied enˊ deuˊ kiung ha hi kon tungˇ faˊ, hoˋ moˇ?"}
+    hl: {hanzi: "看著咧！……阿英，四月𫣆兜共下去看桐花，好無？", pinyin: "konˇ doˊ leˋ! … a+ rhinˋ, siˇ ngiedˋ enˋ deuˋ kiung+ ha+ hiˇ konˇ tung faˋ, hoˊ mo?"}
   - n: 15
     speaker: 阿英
     en: "(a short pause) …All right."
@@ -133,7 +133,7 @@ notes:
   - ref: 12
     topic: culture
     text: >
-      佢睡忒了 "she'll be asleep": 忒 after the verb, "gone (to sleep)". Grandpa goes to bed at nine (lesson 51); Grandma,
+      佢睡忒吔 "she'll be asleep": 忒 after the verb, "gone (to sleep)". Grandpa goes to bed at nine (lesson 51); Grandma,
       earlier still.
   - ref: 14
     topic: culture
@@ -168,8 +168,8 @@ new_words:
 exercises:
   translate:
     - en: "The news says a typhoon is coming."
-      sx: {hanzi: "聽新聞報導講，有隻風搓會到了。", pinyin: "tangˊ xinˊ vunˇ bo toˊ gongˋ, iuˊ zagˋ fungˊ caiˊ voi do leˊ."}
-      hl: {hanzi: "聽新聞報導講，有隻風搓會到了。", pinyin: "tangˋ sinˋ vun boˇ toˋ gongˊ, rhiuˋ zhag fungˋ caiˋ voi+ doˇ leˋ."}
+      sx: {hanzi: "聽新聞報導講，有隻風搓會到吔。", pinyin: "tangˊ xinˊ vunˇ bo toˊ gongˋ, iuˊ zagˋ fungˊ caiˊ voi do leˊ."}
+      hl: {hanzi: "聽新聞報導講，有隻風搓會到咧。", pinyin: "tangˋ sinˋ vun boˇ toˋ gongˊ, rhiuˋ zhag fungˋ caiˋ voi+ doˇ leˋ."}
       source: moe
     - en: "Because it rained, there were few visitors."
       sx: {hanzi: "因為落雨，故所遊客當少。", pinyin: "inˊ vi log iˋ, gu soˋ iuˇ hagˋ dongˊ seuˋ."}

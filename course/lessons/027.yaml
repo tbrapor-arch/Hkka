@@ -43,8 +43,8 @@ dialogue:
   - n: 7
     speaker: 阿明
     en: "I put in too much salt! Why didn't you say?"
-    sx: {hanzi: "鹽放忒多了！你仰會毋講？", pinyin: "iamˇ biong tedˋ doˊ leˊ! nˇ ngiongˋ voi mˇ gongˋ?"}
-    hl: {hanzi: "鹽放忒多了！你仰會毋講？", pinyin: "rham biongˇ ted doˋ leˋ! ngi ngiongˊ voi+ m gongˊ?"}
+    sx: {hanzi: "鹽放忒多吔！你仰會毋講？", pinyin: "iamˇ biong tedˋ doˊ leˊ! nˇ ngiongˋ voi mˇ gongˋ?"}
+    hl: {hanzi: "鹽放忒多咧！你仰會毋講？", pinyin: "rham biongˇ ted doˋ leˋ! ngi ngiongˊ voi+ m gongˊ?"}
   - n: 8
     speaker: Sam
     en: "I was too scared to say."
@@ -149,21 +149,21 @@ exercises:
       sx: {hanzi: "這盤菜忒淡，該盤忒酸。", pinyin: "iaˋ panˇ coi tedˋ tamˊ, ge panˇ tedˋ sonˊ."}
       hl: {hanzi: "這盤菜忒淡，該盤忒酸。", pinyin: "liaˊ pan coiˇ ted tamˋ, gai pan ted sonˋ."}
     - en: "I'm hungry! Is there any fried rice?"
-      sx: {hanzi: "𠊎肚飢了！有炒飯無？", pinyin: "ngaiˇ duˋ giˊ leˊ! iuˊ cauˋ fan moˇ?"}
-      hl: {hanzi: "𠊎肚屎枵了！有炒飯無？", pinyin: "ngai duˊ shiˊ iauˋ leˋ! rhiuˋ cauˊ pon+ mo?"}
+      sx: {hanzi: "𠊎肚飢吔！有炒飯無？", pinyin: "ngaiˇ duˋ giˊ leˊ! iuˊ cauˋ fan moˇ?"}
+      hl: {hanzi: "𠊎肚屎枵咧！有炒飯無？", pinyin: "ngai duˊ shiˊ iauˋ leˋ! rhiuˋ cauˊ pon+ mo?"}
     - en: "Hakka is hard; Mandarin isn't hard."
       sx: {hanzi: "客話當難，華語毋會難。", pinyin: "hagˋ fa dongˊ nanˇ, faˇ ngiˊ mˇ voi nanˇ."}
       hl: {hanzi: "客話當難，華語毋會難。", pinyin: "hag voiˋ dongˋ nan, fa ngiˋ m voi+ nan."}
     - en: "This medicine is far too bitter."
-      sx: {hanzi: "這藥仔忒苦了。", pinyin: "iaˋ iog eˋ tedˋ fuˋ leˊ."}
-      hl: {hanzi: "這藥仔忒苦了。", pinyin: "liaˊ rhogˋ er ted fuˊ leˋ."}
+      sx: {hanzi: "這藥仔忒苦吔。", pinyin: "iaˋ iog eˋ tedˋ fuˋ leˊ."}
+      hl: {hanzi: "這藥仔忒苦咧。", pinyin: "liaˊ rhogˋ er ted fuˊ leˋ."}
     - en: "Grandpa doesn't drink alcohol."
       sx: {hanzi: "阿公毋食酒。", pinyin: "aˊ gungˊ mˇ siid jiuˋ."}
       hl: {hanzi: "阿公毋食酒。", pinyin: "a+ gungˋ m shidˋ ziuˊ."}
   fill:
     - en: "Too much salt."
-      sx: {hanzi: "鹽放___多了。", pinyin: "iamˇ biong ___ doˊ leˊ.", answer_hanzi: "忒", answer: "tedˋ"}
-      hl: {hanzi: "鹽放___多了。", pinyin: "rham biongˇ ___ doˋ leˋ.", answer_hanzi: "忒", answer: "ted"}
+      sx: {hanzi: "鹽放___多吔。", pinyin: "iamˇ biong ___ doˊ leˊ.", answer_hanzi: "忒", answer: "tedˋ"}
+      hl: {hanzi: "鹽放___多咧。", pinyin: "rham biongˇ ___ doˋ leˋ.", answer_hanzi: "忒", answer: "ted"}
     - en: "So scared he didn't dare speak."
       sx: {hanzi: "佢驚___毋敢講。", pinyin: "giˇ giangˊ ___ mˇ gamˋ gongˋ.", answer_hanzi: "到", answer: "do"}
       hl: {hanzi: "佢驚___毋敢講。", pinyin: "gi giangˋ ___ m gamˊ gongˊ.", answer_hanzi: "到", answer: "doˇ"}

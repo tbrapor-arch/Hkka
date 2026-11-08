@@ -53,13 +53,13 @@ dialogue:
   - n: 9
     speaker: 阿明
     en: "(grabbing the box and running for the stairs) I'm not talking to him any more!"
-    sx: {hanzi: "𠊎毋愛同佢講話了！", pinyin: "ngaiˇ mˇ oi tungˇ giˇ gongˋ fa leˊ!"}
-    hl: {hanzi: "𠊎毋愛摎佢講話了！", pinyin: "ngai m oiˇ lauˋ gi gongˊ faˇ leˋ!"}
+    sx: {hanzi: "𠊎毋愛同佢講話吔！", pinyin: "ngaiˇ mˇ oi tungˇ giˇ gongˋ fa leˊ!"}
+    hl: {hanzi: "𠊎毋愛摎佢講話咧！", pinyin: "ngai m oiˇ lauˋ gi gongˊ faˇ leˋ!"}
   - n: 10
     speaker: Sam
     en: "(to Grandma) He used my card behind my back. Now we've had a row."
-    sx: {hanzi: "佢偷偷仔用𠊎个卡。這下𠊎兜冤家了。", pinyin: "giˇ teuˊ teuˊ eˋ iung ngaiˇ ge kaˋ. iaˋ ha ngaiˇ deuˊ ienˊ gaˊ leˊ."}
-    hl: {hanzi: "佢偷偷用𠊎个卡。這下𠊎兜冤家了。", pinyin: "gi teuˋ teuˋ rhung+ ngai gaiˇ kaˊ. liaˊ ha+ ngai deuˋ rhanˋ gaˋ leˋ."}
+    sx: {hanzi: "佢偷偷仔用𠊎个卡。這下𠊎兜冤家吔。", pinyin: "giˇ teuˊ teuˊ eˋ iung ngaiˇ ge kaˋ. iaˋ ha ngaiˇ deuˊ ienˊ gaˊ leˊ."}
+    hl: {hanzi: "佢偷偷用𠊎个卡。這下𠊎兜冤家咧。", pinyin: "gi teuˋ teuˋ rhung+ ngai gaiˇ kaˊ. liaˊ ha+ ngai deuˋ rhanˋ gaˋ leˋ."}
   - n: 11
     speaker: 阿婆
     en: "(sighing) He really does love an argument. It's plainly his fault, and he still shouts at people."
@@ -79,8 +79,8 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "He's taken them up to his room. He's locked the door; I can't get at them."
-    sx: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "giˇ naˊ songˊ hi gienˊ fongˇ leˊ. munˇ guanˊ denˋ, ngaiˇ naˊ giˇ mˇ doˋ."}
-    hl: {hanzi: "佢拿上去間房了。門關等，𠊎拿佢毋著。", pinyin: "gi naˋ shongˋ hiˇ gienˋ fong leˋ. mun guanˋ denˊ, ngai naˋ gi m doˊ."}
+    sx: {hanzi: "佢拿上去間房吔。門關等，𠊎拿佢毋著。", pinyin: "giˇ naˊ songˊ hi gienˊ fongˇ leˊ. munˇ guanˊ denˋ, ngaiˇ naˊ giˇ mˇ doˋ."}
+    hl: {hanzi: "佢拿上去間房咧。門關等，𠊎拿佢毋著。", pinyin: "gi naˋ shongˋ hiˇ gienˋ fong leˋ. mun guanˋ denˊ, ngai naˋ gi m doˊ."}
     check: true
   - n: 15
     speaker: 阿公
@@ -119,7 +119,7 @@ notes:
   - ref: 10
     topic: vocab
     text: >
-      冤家 ienˊ gaˊ "quarrel, have a row": 𠊎兜冤家了 "we've fallen out". Not "enemies" as in Mandarin 冤家: a Hakka
+      冤家 ienˊ gaˊ "quarrel, have a row": 𠊎兜冤家吔 "we've fallen out". Not "enemies" as in Mandarin 冤家: a Hakka
       false friend. 騙 pien (line 7) "lie to, cheat".
   - ref: 11
     topic: vocab
@@ -198,7 +198,7 @@ exercises:
       sx: {hanzi: "___係一百箍，乜愛問。", pinyin: "___ he idˋ bagˋ kieuˊ, me oi mun.", answer_hanzi: "就算", answer: "qiu son"}
       hl: {hanzi: "___係一百箍，乜愛問。", pinyin: "___ heˇ rhid bag kieuˋ, meˇ oiˇ munˇ.", answer_hanzi: "就算", answer: "ciu+ sonˇ"}
     - en: "We've fallen out."
-      sx: {hanzi: "𠊎兜___了。", pinyin: "ngaiˇ deuˊ ___ leˊ.", answer_hanzi: "冤家", answer: "ienˊ gaˊ"}
-      hl: {hanzi: "𠊎兜___了。", pinyin: "ngai deuˋ ___ leˋ.", answer_hanzi: "冤家", answer: "rhanˋ gaˋ"}
+      sx: {hanzi: "𠊎兜___吔。", pinyin: "ngaiˇ deuˊ ___ leˊ.", answer_hanzi: "冤家", answer: "ienˊ gaˊ"}
+      hl: {hanzi: "𠊎兜___咧。", pinyin: "ngai deuˋ ___ leˋ.", answer_hanzi: "冤家", answer: "rhanˋ gaˋ"}
 
 audio: []

@@ -74,8 +74,8 @@ dialogue:
   - n: 13
     speaker: 阿爸
     en: "Good. Go to the interview, think about what you plan to do, and make up your own mind. We've discussed it long enough: no conclusion tonight."
-    sx: {hanzi: "好。面試先去，你想看啊有麼个打算，你自家拿主意。大家討論恁久了，今暗晡無結論。", pinyin: "hoˋ. mien cii xienˊ hi, nˇ xiongˋ kon a iuˊ maˋ ge daˋ son, nˇ qi gaˊ naˊ zuˋ i. tai gaˊ toˋ lun anˋ giuˋ leˊ, gimˊ am buˊ moˇ giedˋ lun."}
-    hl: {hanzi: "好。面試先去，你想看啊有麼个打算，你自家拿主意。大家討論恁久了，今暗晡無結論。", pinyin: "hoˊ. mienˇ chiˇ senˋ hiˇ, ngi siongˊ konˇ a+ rhiuˋ maˊ gaiˇ daˊ sonˇ, ngi cid gaˋ naˋ zhuˊ rhiˇ. tai+ gaˋ toˊ lun+ anˊ giuˊ leˋ, gimˋ amˇ buˋ mo gied lun+."}
+    sx: {hanzi: "好。面試先去，你想看啊有麼个打算，你自家拿主意。大家討論恁久吔，今暗晡無結論。", pinyin: "hoˋ. mien cii xienˊ hi, nˇ xiongˋ kon a iuˊ maˋ ge daˋ son, nˇ qi gaˊ naˊ zuˋ i. tai gaˊ toˋ lun anˋ giuˋ leˊ, gimˊ am buˊ moˇ giedˋ lun."}
+    hl: {hanzi: "好。面試先去，你想看啊有麼个打算，你自家拿主意。大家討論恁久咧，今暗晡無結論。", pinyin: "hoˊ. mienˇ chiˇ senˋ hiˇ, ngi siongˊ konˇ a+ rhiuˋ maˊ gaiˇ daˊ sonˇ, ngi cid gaˋ naˋ zhuˊ rhiˇ. tai+ gaˋ toˊ lun+ anˊ giuˊ leˋ, gimˋ amˇ buˋ mo gied lun+."}
     check: true
 
 notes:

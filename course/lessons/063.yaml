@@ -19,13 +19,13 @@ dialogue:
   - n: 2
     speaker: 姐婆
     en: "A month, gone just like that."
-    sx: {hanzi: "一隻月，恁遽就過忒了。", pinyin: "idˋ zagˋ ngied, anˋ giagˋ qiu go tedˋ leˊ."}
-    hl: {hanzi: "一隻月，恁遽就過忒了。", pinyin: "rhid zhag ngiedˋ, anˊ giag ciu+ goˇ ted leˋ."}
+    sx: {hanzi: "一隻月，恁遽就過忒吔。", pinyin: "idˋ zagˋ ngied, anˋ giagˋ qiu go tedˋ leˊ."}
+    hl: {hanzi: "一隻月，恁遽就過忒咧。", pinyin: "rhid zhag ngiedˋ, anˊ giag ciu+ goˇ ted leˋ."}
   - n: 3
     speaker: 阿蘭嫂
     en: "On the first day you said 寒. Now you say 冷."
-    sx: {hanzi: "第一日你講寒，這下你會講冷了。", pinyin: "ti idˋ ngidˋ nˇ gongˋ honˇ, iaˋ ha nˇ voi gongˋ langˊ leˊ."}
-    hl: {hanzi: "第一日你講寒，這下你會講冷了。", pinyin: "ti+ rhid ngid ngi gongˊ hon, liaˊ ha+ ngi voi+ gongˊ langˋ leˋ."}
+    sx: {hanzi: "第一日你講寒，這下你會講冷吔。", pinyin: "ti idˋ ngidˋ nˇ gongˋ honˇ, iaˋ ha nˇ voi gongˋ langˊ leˊ."}
+    hl: {hanzi: "第一日你講寒，這下你會講冷咧。", pinyin: "ti+ rhid ngid ngi gongˊ hon, liaˊ ha+ ngi voi+ gongˊ langˋ leˋ."}
   - n: 4
     speaker: Sam
     en: "And 肚屎枵, 落水, 正手片, 所以…"
@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: 阿傑
     en: "Your Hailu is better and better!"
-    sx: {hanzi: "你个海陸話越來越好了！", pinyin: "nˇ ge hoiˋ liugˋ fa ied loiˇ ied hoˋ leˊ!"}
-    hl: {hanzi: "你个海陸話越來越好了！", pinyin: "ngi gaiˇ hoiˊ liugˋ voiˋ rhadˋ loi rhadˋ hoˊ leˋ!"}
+    sx: {hanzi: "你个海陸話越來越好吔！", pinyin: "nˇ ge hoiˋ liugˋ fa ied loiˇ ied hoˋ leˊ!"}
+    hl: {hanzi: "你个海陸話越來越好咧！", pinyin: "ngi gaiˇ hoiˊ liugˋ voiˋ rhadˋ loi rhadˋ hoˊ leˋ!"}
   - n: 6
     speaker: Sam
     en: "But when I get back to Miaoli, Grandma will say: what are you speaking?"
@@ -54,18 +54,18 @@ dialogue:
   - n: 9
     speaker: 阿英
     en: "(on the phone) Sam, I got your letter."
-    sx: {hanzi: "Sam，你个信𠊎收到了。", pinyin: "Sam, nˇ ge xin ngaiˇ suˊ do leˊ."}
-    hl: {hanzi: "Sam，你个信𠊎收到了。", pinyin: "Sam, ngi gaiˇ sinˇ ngai shiuˋ doˇ leˋ."}
+    sx: {hanzi: "Sam，你个信𠊎收到吔。", pinyin: "Sam, nˇ ge xin ngaiˇ suˊ do leˊ."}
+    hl: {hanzi: "Sam，你个信𠊎收到咧。", pinyin: "Sam, ngi gaiˇ sinˇ ngai shiuˋ doˇ leˋ."}
   - n: 10
     speaker: Sam
     en: "Did you… read it?"
-    sx: {hanzi: "你……看了無？", pinyin: "nˇ … kon leˊ moˇ?"}
-    hl: {hanzi: "你……看了無？", pinyin: "ngi … konˇ leˋ mo?"}
+    sx: {hanzi: "你……看吔無？", pinyin: "nˇ … kon leˊ moˇ?"}
+    hl: {hanzi: "你……看咧無？", pinyin: "ngi … konˇ leˋ mo?"}
   - n: 11
     speaker: 阿英
     en: "I did. Tomorrow I'll wait for you at Miaoli station."
-    sx: {hanzi: "看了。天光日𠊎在苗栗火車頭等你。", pinyin: "kon leˊ. tienˊ gongˊ ngidˋ ngaiˇ coiˊ meuˇ lid foˋ caˊ teuˇ denˋ nˇ."}
-    hl: {hanzi: "看了。韶早𠊎在苗栗火車頭等你。", pinyin: "konˇ leˋ. shau zoˊ ngai coiˋ miau lidˋ foˊ chaˋ teu denˊ ngi."}
+    sx: {hanzi: "看吔。天光日𠊎在苗栗火車頭等你。", pinyin: "kon leˊ. tienˊ gongˊ ngidˋ ngaiˇ coiˊ meuˇ lid foˋ caˊ teuˇ denˋ nˇ."}
+    hl: {hanzi: "看咧。韶早𠊎在苗栗火車頭等你。", pinyin: "konˇ leˋ. shau zoˊ ngai coiˋ miau lidˋ foˊ chaˋ teu denˊ ngi."}
   - n: 12
     speaker: 阿英
     en: "What you couldn't get out in the letter… you can say when you see me."
@@ -75,8 +75,8 @@ dialogue:
   - n: 13
     speaker: 阿傑
     en: "(to 阿蘭嫂) Look, Sam's gone red in the face again!"
-    sx: {hanzi: "你看，Sam 个面又紅紅了！", pinyin: "nˇ kon, Sam ge mien iu fungˇ fungˇ leˊ!"}
-    hl: {hanzi: "你看，Sam 个面又紅紅了！", pinyin: "ngi konˇ, Sam gaiˇ mienˇ rhiu+ fung fung leˋ!"}
+    sx: {hanzi: "你看，Sam 个面又紅紅吔！", pinyin: "nˇ kon, Sam ge mien iu fungˇ fungˇ leˊ!"}
+    hl: {hanzi: "你看，Sam 个面又紅紅咧！", pinyin: "ngi konˇ, Sam gaiˇ mienˇ rhiu+ fung fung leˋ!"}
   - n: 14
     speaker: 阿蘭嫂
     en: "Sam! Don't eat and talk on the phone at the same time!"
@@ -91,7 +91,7 @@ notes:
   - ref: 2
     topic: grammar
     text: >
-      恁遽就過忒了 "gone so fast": 恁 + adjective, 就, and 忒 "away, gone" after the verb (lesson 33).
+      恁遽就過忒吔 "gone so fast": 恁 + adjective, 就, and 忒 "away, gone" after the verb (lesson 33).
   - ref: 3
     topic: hailu
     text: >
@@ -144,8 +144,8 @@ exercises:
       hl: {hanzi: "阿婆得著第三名，有幾十萬人在電視看著佢。", pinyin: "a+ po ded doˊ ti+ samˋ miang, rhiuˋ giˊ shibˋ van+ ngin coiˋ tien+ shi+ konˇ doˊ gi."}
       check: true
     - en: "I miss Miaoli; I'm going home on Saturday."
-      sx: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngaiˇ dongˊ xiongˋ ngiam meuˇ lid, liˊ bai liugˋ qiu zonˋ leˊ."}
-      hl: {hanzi: "𠊎當想念苗栗，禮拜六就轉了。", pinyin: "ngai dongˋ siongˊ ngiam+ miau lidˋ, liˋ baiˇ liug ciu+ zhonˊ leˋ."}
+      sx: {hanzi: "𠊎當想念苗栗，禮拜六就轉吔。", pinyin: "ngaiˇ dongˊ xiongˋ ngiam meuˇ lid, liˊ bai liugˋ qiu zonˋ leˊ."}
+      hl: {hanzi: "𠊎當想念苗栗，禮拜六就轉咧。", pinyin: "ngai dongˋ siongˊ ngiam+ miau lidˋ, liˋ baiˇ liug ciu+ zhonˊ leˋ."}
     - en: "Rice porridge with dried radish is easy to make and tasty."
       sx: {hanzi: "糜傍菜脯，好做又好食。", pinyin: "moiˇ bongˋ coi puˋ, hoˋ zo iu hoˋ siid."}
       hl: {hanzi: "糜傍菜脯，好做又好食。", pinyin: "moi bongˊ coiˇ buˊ, hoˊ zoˇ rhiu+ hoˊ shidˋ."}

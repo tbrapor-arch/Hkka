@@ -24,8 +24,8 @@ dialogue:
   - n: 3
     speaker: 阿婆
     en: "Grandpa's father's. You should call him 阿太, great-grandfather. He died thirty years ago."
-    sx: {hanzi: "阿公个爸个。你愛喊佢阿太。佢過身三十年了。", pinyin: "aˊ gungˊ ge baˊ ge. nˇ oi ham giˇ aˊ tai. giˇ go siinˊ samˊ siib ngienˇ leˊ."}
-    hl: {hanzi: "阿公个爸个。你愛喊佢阿太。佢過身三十年了。", pinyin: "a+ gungˋ gaiˇ baˋ gaiˇ. ngi oiˇ hamˇ gi a+ taiˇ. gi goˇ shinˋ samˋ shibˋ ngien leˋ."}
+    sx: {hanzi: "阿公个爸个。你愛喊佢阿太。佢過身三十年吔。", pinyin: "aˊ gungˊ ge baˊ ge. nˇ oi ham giˇ aˊ tai. giˇ go siinˊ samˊ siib ngienˇ leˊ."}
+    hl: {hanzi: "阿公个爸个。你愛喊佢阿太。佢過身三十年咧。", pinyin: "a+ gungˋ gaiˇ baˋ gaiˇ. ngi oiˇ hamˇ gi a+ taiˇ. gi goˇ shinˋ samˋ shibˋ ngien leˋ."}
   - n: 4
     speaker: 阿明
     en: "Grandma, tell Sam the story about 阿太!"
@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 阿婆
     en: "Then one year, of all things, a typhoon came, and every bush was swept away."
-    sx: {hanzi: "有一年，嗄來一隻大風搓，茶樹全部分風吹走忒了。", pinyin: "iuˊ idˋ ngienˇ, sa loiˇ idˋ zagˋ tai fungˊ caiˊ, caˇ su qionˇ pu bunˊ fungˊ coiˊ zeuˋ tedˋ leˊ."}
-    hl: {hanzi: "有一年，嗄來一隻大風搓，茶樹全部分風吹走忒了。", pinyin: "rhiuˋ rhid ngien, saˇ loi rhid zhag tai+ fungˋ caiˋ, ca shu+ cion pu+ bunˋ fungˋ choiˋ zeuˊ ted leˋ."}
+    sx: {hanzi: "有一年，嗄來一隻大風搓，茶樹全部分風吹走忒吔。", pinyin: "iuˊ idˋ ngienˇ, sa loiˇ idˋ zagˋ tai fungˊ caiˊ, caˇ su qionˇ pu bunˊ fungˊ coiˊ zeuˋ tedˋ leˊ."}
+    hl: {hanzi: "有一年，嗄來一隻大風搓，茶樹全部分風吹走忒咧。", pinyin: "rhiuˋ rhid ngien, saˇ loi rhid zhag tai+ fungˋ caiˋ, ca shu+ cion pu+ bunˋ fungˋ choiˋ zeuˊ ted leˋ."}
   - n: 8
     speaker: Sam
     en: "And after that?"
@@ -65,18 +65,18 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "And Grandpa has looked after it his whole life."
-    sx: {hanzi: "阿公乜照顧一生人了。", pinyin: "aˊ gungˊ me zeu gu idˋ senˊ nginˇ leˊ."}
-    hl: {hanzi: "阿公乜照顧一生人了。", pinyin: "a+ gungˋ meˇ zhauˇ guˇ rhid senˋ ngin leˋ."}
+    sx: {hanzi: "阿公乜照顧一生人吔。", pinyin: "aˊ gungˊ me zeu gu idˋ senˊ nginˇ leˊ."}
+    hl: {hanzi: "阿公乜照顧一生人咧。", pinyin: "a+ gungˋ meˇ zhauˇ guˇ rhid senˋ ngin leˋ."}
   - n: 12
     speaker: 阿婆
     en: "Right. Light the incense, burn the paper money for the ancestors. Once we've paid our respects, we'll eat the 艾粄."
-    sx: {hanzi: "好了，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ bunˊ zuˋ xienˊ. bai hoˋ, siiˊ siid ngie banˋ."}
-    hl: {hanzi: "好了，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ bunˋ zuˊ sienˋ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
+    sx: {hanzi: "好吔，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ bunˊ zuˋ xienˊ. bai hoˋ, siiˊ siid ngie banˋ."}
+    hl: {hanzi: "好咧，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ bunˋ zuˊ sienˋ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
   - n: 13
     speaker: 阿明
     en: "艾粄! I'm starving!"
-    sx: {hanzi: "艾粄！𠊎肚飢了！", pinyin: "ngie banˋ! ngaiˇ duˋ giˊ leˊ!"}
-    hl: {hanzi: "艾粄！𠊎肚屎枵了！", pinyin: "ngieˇ banˊ! ngai duˊ shiˊ iauˋ leˋ!"}
+    sx: {hanzi: "艾粄！𠊎肚飢吔！", pinyin: "ngie banˋ! ngaiˇ duˋ giˊ leˊ!"}
+    hl: {hanzi: "艾粄！𠊎肚屎枵咧！", pinyin: "ngieˇ banˊ! ngai duˊ shiˊ iauˋ leˋ!"}
   - n: 14
     speaker: 阿爸
     en: "Every time we sweep the graves, the only thing you think about is eating."
@@ -113,7 +113,7 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      風搓 fungˊ caiˊ "typhoon". 分風吹走忒了 "was blown away by the wind": the passive 分 of lesson 34.
+      風搓 fungˊ caiˊ "typhoon". 分風吹走忒吔 "was blown away by the wind": the passive 分 of lesson 34.
   - ref: 9
     topic: grammar
     text: >
@@ -157,8 +157,8 @@ exercises:
       hl: {hanzi: "清明節大家都愛去祖先个墓地祭祖。", pinyin: "ciangˋ miang zied tai+ gaˋ du+ oiˇ hiˇ zuˊ sienˋ gaiˇ muˇ ti+ ziˇ zuˊ."}
       source: moe
     - en: "Grandpa's father passed away fifty years ago."
-      sx: {hanzi: "阿公个爸五十年前就過身了。", pinyin: "aˊ gungˊ ge baˊ ngˋ siib ngienˇ qienˇ qiu go siinˊ leˊ."}
-      hl: {hanzi: "阿公个爸五十年前就過身了。", pinyin: "a+ gungˋ gaiˇ baˋ ngˊ shibˋ ngien cien ciu+ goˇ shinˋ leˋ."}
+      sx: {hanzi: "阿公个爸五十年前就過身吔。", pinyin: "aˊ gungˊ ge baˊ ngˋ siib ngienˇ qienˇ qiu go siinˊ leˊ."}
+      hl: {hanzi: "阿公个爸五十年前就過身咧。", pinyin: "a+ gungˋ gaiˇ baˋ ngˊ shibˋ ngien cien ciu+ goˇ shinˋ leˋ."}
     - en: "Later the family moved to Miaoli."
       sx: {hanzi: "後來，佢兜歸屋下搬到苗栗。", pinyin: "heu loiˇ, giˇ deuˊ guiˊ vugˋ kaˊ banˊ do meuˇ lid."}
       hl: {hanzi: "後來，佢兜歸屋下搬到苗栗。", pinyin: "heu+ loi, gi deuˋ guiˋ vug haˋ banˋ doˇ miau lidˋ."}

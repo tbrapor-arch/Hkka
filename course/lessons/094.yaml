@@ -14,13 +14,13 @@ dialogue:
     speaker: 阿英
     en: "In about ten more minutes the contest begins."
     sx: {hanzi: "再過十分鐘左右，演講比賽就開始了。", pinyin: "zai go siib funˊ zungˊ zoˋ iu, ienˊ gongˋ biˋ soi qiu koiˊ ciiˋ leˊ."}
-    hl: {hanzi: "再過十分鐘左右，演講比賽就開始了。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, rhanˋ gongˊ biˊ soiˇ ciu+ koiˋ shiˊ leˋ."}
+    hl: {hanzi: "再過十分鐘左右，演講比賽就開始咧。", pinyin: "zaiˇ goˇ shibˋ funˋ zhungˋ zoˊ rhiu+, rhanˋ gongˊ biˊ soiˇ ciu+ koiˋ shiˊ leˋ."}
     source: moe
   - n: 2
     speaker: Sam
     en: "I feel my heart going up and down like anything… I was up at dawn practising, and now I can't remember a thing."
-    sx: {hanzi: "𠊎試著心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngaiˇ cii doˋ ximˊ gonˊ qidˋ songˊ badˋ log … daˋ zoˋ qiu hiˋ loiˇ lien xib, iaˋ ha qionˇ mˇ gi dedˋ leˊ."}
-    hl: {hanzi: "𠊎試著心肝七上八落……打早就起來練習，這下全毋記得了。", pinyin: "ngai chiˇ doˊ simˋ gonˋ cid shongˋ bad logˋ … daˊ zoˊ ciu+ hiˊ loi lien+ sibˋ, liaˊ ha+ cion m giˇ ded leˋ."}
+    sx: {hanzi: "𠊎試著心肝七上八落……打早就起來練習，這下全毋記得吔。", pinyin: "ngaiˇ cii doˋ ximˊ gonˊ qidˋ songˊ badˋ log … daˋ zoˋ qiu hiˋ loiˇ lien xib, iaˋ ha qionˇ mˇ gi dedˋ leˊ."}
+    hl: {hanzi: "𠊎試著心肝七上八落……打早就起來練習，這下全毋記得咧。", pinyin: "ngai chiˇ doˊ simˋ gonˋ cid shongˋ bad logˋ … daˊ zoˊ ciu+ hiˊ loi lien+ sibˋ, liaˊ ha+ cion m giˇ ded leˋ."}
     check: true
   - n: 3
     speaker: 阿婆
@@ -67,8 +67,8 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "(an hour later) They're about to announce the winners' names. The whole hall has gone dead quiet."
-    sx: {hanzi: "等下就愛講得獎人个名仔了。觀眾全緊張到恬索索。", pinyin: "denˋ ha qiu oi gongˋ dedˋ jiongˋ nginˇ ge miangˇ eˋ leˊ. gonˊ zung qionˇ ginˋ zongˊ do diamˊ sogˋ sogˋ."}
-    hl: {hanzi: "等下就愛講得獎人个名仔了。觀眾全緊張到恬索索。", pinyin: "denˊ ha+ ciu+ oiˇ gongˊ ded ziongˊ ngin gaiˇ miang er leˋ. gonˋ zhungˇ cion ginˊ zhongˋ doˇ diamˋ sog sog."}
+    sx: {hanzi: "等下就愛講得獎人个名仔吔。觀眾全緊張到恬索索。", pinyin: "denˋ ha qiu oi gongˋ dedˋ jiongˋ nginˇ ge miangˇ eˋ leˊ. gonˊ zung qionˇ ginˋ zongˊ do diamˊ sogˋ sogˋ."}
+    hl: {hanzi: "等下就愛講得獎人个名仔咧。觀眾全緊張到恬索索。", pinyin: "denˊ ha+ ciu+ oiˇ gongˊ ded ziongˊ ngin gaiˇ miang er leˋ. gonˋ zhungˇ cion ginˊ zhongˋ doˇ diamˋ sog sog."}
     check: true
   - n: 12
     speaker: 主持人
@@ -101,7 +101,7 @@ notes:
     topic: grammar
     text: >
       An MOE dictionary example, word for word (Sixian only; the Hailu column is the course's version, and MOE examples
-      have no recording): 再過十分鐘左右，演講比賽就開始了 "in about ten more minutes the speech contest begins". 再過 + time "in… more", 左右 "about" (lesson 93).
+      have no recording): 再過十分鐘左右，演講比賽就開始吔 "in about ten more minutes the speech contest begins". 再過 + time "in… more", 左右 "about" (lesson 93).
   - ref: 2
     topic: vocab
     text: >
@@ -203,8 +203,8 @@ exercises:
       sx: {hanzi: "該暗晡在南庄，阿明當勇敢。", pinyin: "ge am buˊ coiˊ namˇ zongˊ, aˊ minˇ dongˊ iungˋ gamˋ."}
       hl: {hanzi: "該暗晡在南庄，阿明當勇敢。", pinyin: "gai amˇ buˋ coiˋ nam zhongˋ, a+ min dongˋ rhungˊ gamˊ."}
     - en: "I feel this speech is a bit too long: it goes over five minutes."
-      sx: {hanzi: "𠊎試著這篇演講忒長了，超過五分鐘。", pinyin: "ngaiˇ cii doˋ iaˋ pienˊ ienˊ gongˋ tedˋ congˇ leˊ, ceuˊ go ngˋ funˊ zungˊ."}
-      hl: {hanzi: "𠊎試著這篇演講忒長了，超過五分鐘。", pinyin: "ngai chiˇ doˊ liaˊ pienˋ rhanˋ gongˊ ted chong leˋ, chauˋ goˇ ngˊ funˋ zhungˋ."}
+      sx: {hanzi: "𠊎試著這篇演講忒長吔，超過五分鐘。", pinyin: "ngaiˇ cii doˋ iaˋ pienˊ ienˊ gongˋ tedˋ congˇ leˊ, ceuˊ go ngˋ funˊ zungˊ."}
+      hl: {hanzi: "𠊎試著這篇演講忒長咧，超過五分鐘。", pinyin: "ngai chiˇ doˊ liaˊ pienˋ rhanˋ gongˊ ted chong leˋ, chauˋ goˇ ngˊ funˋ zhungˋ."}
       check: true
   fill:
     - en: "My heart's all of a flutter."

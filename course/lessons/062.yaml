@@ -19,13 +19,13 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "It has rained in 竹東 again for a week, and today, at last, the sun came out."
-    sx: {hanzi: "竹東又落雨落一隻禮拜了，今晡日正天晴。", pinyin: "zugˋ dungˊ iu log iˋ log idˋ zagˋ liˊ bai leˊ, gimˊ buˊ ngidˋ zang tienˊ qiangˇ."}
-    hl: {hanzi: "竹東又落水落一隻禮拜了，今晡日正天晴。", pinyin: "zhug dungˋ rhiu+ logˋ shuiˊ logˋ rhid zhag liˋ baiˇ leˋ, gimˋ buˋ ngid zhangˇ tienˋ ciang."}
+    sx: {hanzi: "竹東又落雨落一隻禮拜吔，今晡日正天晴。", pinyin: "zugˋ dungˊ iu log iˋ log idˋ zagˋ liˊ bai leˊ, gimˊ buˊ ngidˋ zang tienˊ qiangˇ."}
+    hl: {hanzi: "竹東又落水落一隻禮拜咧，今晡日正天晴。", pinyin: "zhug dungˋ rhiu+ logˋ shuiˊ logˋ rhid zhag liˋ baiˇ leˋ, gimˋ buˋ ngid zhangˇ tienˋ ciang."}
   - n: 3
     speaker: Sam
     en: "There's a lot to do at the factory, but I'm slowly getting used to it. I start at five every morning and finish at four."
-    sx: {hanzi: "粄條工廠个事情當多，毋過𠊎慢慢慣勢了。逐日朝晨五點上班，四點下班。", pinyin: "banˋ tiauˇ gungˊ congˋ ge sii qinˇ dongˊ doˊ, mˇ go ngaiˇ man man guan se leˊ. dagˋ ngidˋ zeuˊ siinˇ ngˋ diamˋ songˊ banˊ, xi diamˋ haˊ banˊ."}
-    hl: {hanzi: "粄條工廠个事情當多，毋過𠊎慢慢慣勢了。逐日朝晨五點上班，四點下班。", pinyin: "banˊ tiau gungˋ chong gaiˇ sii+ cin dongˋ doˋ, m goˇ ngai man+ man+ guanˇ sheˇ leˋ. dag ngid zhauˋ shin ngˊ diamˊ shongˋ banˋ, siˇ diamˊ haˋ banˋ."}
+    sx: {hanzi: "粄條工廠个事情當多，毋過𠊎慢慢慣勢吔。逐日朝晨五點上班，四點下班。", pinyin: "banˋ tiauˇ gungˊ congˋ ge sii qinˇ dongˊ doˊ, mˇ go ngaiˇ man man guan se leˊ. dagˋ ngidˋ zeuˊ siinˇ ngˋ diamˋ songˊ banˊ, xi diamˋ haˊ banˊ."}
+    hl: {hanzi: "粄條工廠个事情當多，毋過𠊎慢慢慣勢咧。逐日朝晨五點上班，四點下班。", pinyin: "banˊ tiau gungˋ chong gaiˇ sii+ cin dongˋ doˋ, m goˇ ngai man+ man+ guanˇ sheˇ leˋ. dag ngid zhauˋ shin ngˊ diamˊ shongˋ banˋ, siˇ diamˊ haˋ banˋ."}
   - n: 4
     speaker: Sam
     en: "阿蘭嫂 and 阿傑 are very good to me. 阿蘭嫂 says she works to earn money so that her grandson can go to school."
@@ -40,8 +40,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "On Saturday I'm coming back to Miaoli. I miss everyone in Miaoli a lot, and I also really miss… Grandma's cooking."
-    sx: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˊ bai liugˋ ngaiˇ qiu zonˋ meuˇ lid leˊ. ngaiˇ dongˊ xiongˋ ngiam meuˇ lid ge nginˇ, me dongˊ xiongˋ ngiam … aˊ poˇ zuˋ ge coi."}
-    hl: {hanzi: "禮拜六𠊎就轉苗栗了。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˋ baiˇ liug ngai ciu+ zhonˊ miau lidˋ leˋ. ngai dongˋ siongˊ ngiam+ miau lidˋ gaiˇ ngin, meˇ dongˋ siongˊ ngiam+ … a+ po zhuˊ gaiˇ coiˇ."}
+    sx: {hanzi: "禮拜六𠊎就轉苗栗吔。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˊ bai liugˋ ngaiˇ qiu zonˋ meuˇ lid leˊ. ngaiˇ dongˊ xiongˋ ngiam meuˇ lid ge nginˇ, me dongˊ xiongˋ ngiam … aˊ poˇ zuˋ ge coi."}
+    hl: {hanzi: "禮拜六𠊎就轉苗栗咧。𠊎當想念苗栗个人，乜當想念……阿婆煮个菜。", pinyin: "liˋ baiˇ liug ngai ciu+ zhonˊ miau lidˋ leˋ. ngai dongˋ siongˊ ngiam+ miau lidˋ gaiˇ ngin, meˇ dongˋ siongˊ ngiam+ … a+ po zhuˊ gaiˇ coiˇ."}
   - n: 7
     speaker: Sam
     en: "Don't forget: in April we're going to see the 桐花. When you get this letter, write back to me."
@@ -70,8 +70,8 @@ dialogue:
   - n: 12
     speaker: Sam
     en: "…Nothing. (folding the letter) Pen, envelope, stamp… done!"
-    sx: {hanzi: "……無麼个。筆、信封、郵票……好了！", pinyin: "… moˇ maˋ ge. bidˋ, xin fungˊ, iuˇ peuˊ … hoˋ leˊ!"}
-    hl: {hanzi: "……無麼个。筆、信封、郵票……好了！", pinyin: "… mo maˊ gaiˇ. bid, sinˇ fungˋ, rhiu piauˇ … hoˊ leˋ!"}
+    sx: {hanzi: "……無麼个。筆、信封、郵票……好吔！", pinyin: "… moˇ maˋ ge. bidˋ, xin fungˊ, iuˇ peuˊ … hoˋ leˊ!"}
+    hl: {hanzi: "……無麼个。筆、信封、郵票……好咧！", pinyin: "… mo maˊ gaiˇ. bid, sinˇ fungˋ, rhiu piauˇ … hoˊ leˋ!"}
 
 notes:
   - ref: 1
@@ -84,7 +84,7 @@ notes:
   - ref: 2
     topic: grammar
     text: >
-      落雨落一隻禮拜了 "it has been raining for a week": verb + object, then the verb again + duration + 了: the way to
+      落雨落一隻禮拜吔 "it has been raining for a week": verb + object, then the verb again + duration + 了: the way to
       say how long something has gone on when the verb has an object. 正天晴 "only today cleared up". In the Hailu column
       it is 落水 (lesson 61); Sam, writing, uses his own word.
   - ref: 3

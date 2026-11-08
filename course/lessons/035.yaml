@@ -14,13 +14,13 @@ dialogue:
   - n: 1
     speaker: 阿婆
     en: "Has she got her phone? Don't let her lose it again!"
-    sx: {hanzi: "手機仔拿等無？莫又打毋見忒了！", pinyin: "suˋ giˊ eˋ naˊ denˋ moˇ? mog iu daˋ mˇ gien tedˋ leˊ!"}
-    hl: {hanzi: "手機拿等無？莫又打毋見忒了！", pinyin: "shiuˊ giˋ naˋ denˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
+    sx: {hanzi: "手機仔拿等無？莫又打毋見忒吔！", pinyin: "suˋ giˊ eˋ naˊ denˋ moˇ? mog iu daˋ mˇ gien tedˋ leˊ!"}
+    hl: {hanzi: "手機拿等無？莫又打毋見忒咧！", pinyin: "shiuˊ giˋ naˋ denˊ mo? mogˋ rhiu+ daˊ m gienˇ ted leˋ!"}
   - n: 2
     speaker: Sam
     en: "She's holding it. She's checked it twice already this morning."
-    sx: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˊ denˋ leˊ. giˇ teuˇ xienˊ kon go liongˋ baiˋ."}
-    hl: {hanzi: "拿等了。佢頭先看過兩擺。", pinyin: "naˋ denˊ leˋ. gi teu senˋ konˇ goˇ liongˊ baiˊ."}
+    sx: {hanzi: "拿等吔。佢頭先看過兩擺。", pinyin: "naˊ denˋ leˊ. giˇ teuˇ xienˊ kon go liongˋ baiˋ."}
+    hl: {hanzi: "拿等咧。佢頭先看過兩擺。", pinyin: "naˋ denˊ leˋ. gi teu senˋ konˇ goˇ liongˊ baiˊ."}
   - n: 3
     speaker: 阿英
     en: "Come on, let's take a photo! Everyone, look this way!"
@@ -49,13 +49,13 @@ dialogue:
   - n: 8
     speaker: 阿婆
     en: "No! I told you: it's his sister!"
-    sx: {hanzi: "毋係！𠊎講過了，係厥老妹！", pinyin: "mˇ he! ngaiˇ gongˋ go leˊ, he giaˊ loˋ moi!"}
-    hl: {hanzi: "毋係！𠊎講過了，係厥老妹！", pinyin: "m heˇ! ngai gongˊ goˇ leˋ, heˇ gia loˊ moiˇ!"}
+    sx: {hanzi: "毋係！𠊎講過吔，係厥老妹！", pinyin: "mˇ he! ngaiˇ gongˋ go leˊ, he giaˊ loˋ moi!"}
+    hl: {hanzi: "毋係！𠊎講過咧，係厥老妹！", pinyin: "m heˇ! ngai gongˊ goˇ leˋ, heˇ gia loˊ moiˇ!"}
   - n: 9
     speaker: 阿公
     en: "The train's here."
-    sx: {hanzi: "車來了。", pinyin: "caˊ loiˇ leˊ."}
-    hl: {hanzi: "車來了。", pinyin: "chaˋ loi leˋ."}
+    sx: {hanzi: "車來吔。", pinyin: "caˊ loiˇ leˊ."}
+    hl: {hanzi: "車來咧。", pinyin: "chaˋ loi leˋ."}
   - n: 10
     speaker: Lucie
     en: "(to Grandma, in Hakka, carefully) Thank you!"
@@ -81,7 +81,7 @@ notes:
   - ref: 1
     topic: grammar
     text: >
-      拿等 "holding (it), have (it) on you": V等 from lesson 29. 莫又打毋見忒了 "don't lose it again": 打毋見忒 from lesson
+      拿等 "holding (it), have (it) on you": V等 from lesson 29. 莫又打毋見忒吔 "don't lose it again": 打毋見忒 from lesson
       33. 看過兩擺 "has checked it twice": 過 "(have done) before" (lesson 9) and 擺 "times" (lesson 24).
   - ref: 4
     topic: grammar
@@ -97,7 +97,7 @@ notes:
   - ref: 8
     topic: grammar
     text: >
-      𠊎講過了 "I told you (already)". The gossip of lesson 32 has done its job: 財伯姆 has come all the way to the
+      𠊎講過吔 "I told you (already)". The gossip of lesson 32 has done its job: 財伯姆 has come all the way to the
       station to see for herself.
   - ref: 10
     topic: culture
@@ -120,14 +120,14 @@ new_words: []
 exercises:
   translate:
     - en: "I hear Lucie lost her phone. Is it true?"
-      sx: {hanzi: "聽講 Lucie 个手機仔打毋見忒了，有影無？", pinyin: "tangˊ gongˋ Lucie ge suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ, iuˊ iangˋ moˇ?"}
-      hl: {hanzi: "聽講 Lucie 个手機打毋見忒了，有影無？", pinyin: "tangˇ gongˊ Lucie gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ, rhiuˋ rhangˊ mo?"}
+      sx: {hanzi: "聽講 Lucie 个手機仔打毋見忒吔，有影無？", pinyin: "tangˊ gongˋ Lucie ge suˋ giˊ eˋ daˋ mˇ gien tedˋ leˊ, iuˊ iangˋ moˇ?"}
+      hl: {hanzi: "聽講 Lucie 个手機打毋見忒咧，有影無？", pinyin: "tangˇ gongˊ Lucie gaiˇ shiuˊ giˋ daˊ m gienˇ ted leˋ, rhiuˋ rhangˊ mo?"}
     - en: "It was in Grandpa's pocket. He picked it up off the table."
       sx: {hanzi: "在阿公个褲袋肚。佢在桌項拈个。", pinyin: "coiˊ aˊ gungˊ ge fu toi duˋ. giˇ coiˊ zogˋ hong ngiamˊ ge."}
       hl: {hanzi: "在阿公个褲袋肚。佢在桌項拈个。", pinyin: "coiˋ a+ gungˋ gaiˇ fuˇ toi+ duˊ. gi coiˋ zog hong+ ngiamˋ gaiˇ."}
     - en: "Sam's hat was blown away by the wind."
-      sx: {hanzi: "Sam 个帽仔分風吹走了。", pinyin: "Sam ge mo eˋ bunˊ fungˊ coiˊ zeuˋ leˊ."}
-      hl: {hanzi: "Sam 个帽仔分風吹走了。", pinyin: "Sam gaiˇ mo+ er bunˋ fungˋ choiˋ zeuˊ leˋ."}
+      sx: {hanzi: "Sam 个帽仔分風吹走吔。", pinyin: "Sam ge mo eˋ bunˊ fungˊ coiˊ zeuˋ leˊ."}
+      hl: {hanzi: "Sam 个帽仔分風吹走咧。", pinyin: "Sam gaiˇ mo+ er bunˋ fungˋ choiˋ zeuˊ leˋ."}
     - en: "Sam posted the tea to his mum; Grandpa gave Lucie his jacket."
       sx: {hanzi: "Sam 寄茶米分厥姆，阿公送衫分 Lucie。", pinyin: "Sam gi caˇ miˋ bunˊ giaˊ meˊ, aˊ gungˊ sung samˊ bunˊ Lucie."}
       hl: {hanzi: "Sam 寄茶米分厥姆，阿公送衫分 Lucie。", pinyin: "Sam giˇ ca miˊ bunˋ gia meˋ, a+ gungˋ sungˇ samˋ bunˋ Lucie."}
@@ -142,8 +142,8 @@ exercises:
       sx: {hanzi: "尋著無？——___。", pinyin: "qimˇ doˋ moˇ? — ___.", answer_hanzi: "尋無", answer: "qimˇ moˇ"}
       hl: {hanzi: "尋著無？——___。", pinyin: "cim doˊ mo? — ___.", answer_hanzi: "尋無", answer: "cim mo"}
     - en: "I've forgotten again."
-      sx: {hanzi: "𠊎又___了。", pinyin: "ngaiˇ iu ___ leˊ.", answer_hanzi: "毋記得", answer: "mˇ gi dedˋ"}
-      hl: {hanzi: "𠊎又___了。", pinyin: "ngai rhiu+ ___ leˋ.", answer_hanzi: "毋記得", answer: "m giˇ ded"}
+      sx: {hanzi: "𠊎又___吔。", pinyin: "ngaiˇ iu ___ leˊ.", answer_hanzi: "毋記得", answer: "mˇ gi dedˋ"}
+      hl: {hanzi: "𠊎又___咧。", pinyin: "ngai rhiu+ ___ leˋ.", answer_hanzi: "毋記得", answer: "m giˇ ded"}
     - en: "Keep eating, don't wait for me."
       sx: {hanzi: "你___食，毋使等𠊎。", pinyin: "nˇ ___ siid, mˇ siiˋ denˋ ngaiˇ.", answer_hanzi: "緊", answer: "ginˋ"}
       hl: {hanzi: "你___食，毋使等𠊎。", pinyin: "ngi ___ shidˋ, m siiˊ denˊ ngai.", answer_hanzi: "緊", answer: "ginˊ"}

@@ -44,8 +44,8 @@ dialogue:
   - n: 7
     speaker: 阿英
     en: "(laughing at last) You… you're starting to talk more and more like Grandma."
-    sx: {hanzi: "你這隻人……講話越來越像阿婆了。", pinyin: "nˇ iaˋ zagˋ nginˇ … gongˋ fa ied loiˇ ied qiong aˊ poˇ leˊ."}
-    hl: {hanzi: "你這隻人……講話越來越像阿婆了。", pinyin: "ngi liaˊ zhag ngin … gongˊ faˇ rhadˋ loi rhadˋ siongˇ a+ po leˋ."}
+    sx: {hanzi: "你這隻人……講話越來越像阿婆吔。", pinyin: "nˇ iaˋ zagˋ nginˇ … gongˋ fa ied loiˇ ied qiong aˊ poˇ leˊ."}
+    hl: {hanzi: "你這隻人……講話越來越像阿婆咧。", pinyin: "ngi liaˊ zhag ngin … gongˊ faˇ rhadˋ loi rhadˋ siongˇ a+ po leˋ."}
   - n: 8
     speaker: Sam
     en: "We haven't seen you for so long. Grandma misses you terribly, you know."
@@ -79,8 +79,8 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "Yes, sir. …And you? How are you doing in Miaoli?"
-    sx: {hanzi: "知了。……你呢？你在苗栗好無？", pinyin: "diˊ leˊ. … nˇ neˇ? nˇ coiˊ meuˇ lid hoˋ moˇ?"}
-    hl: {hanzi: "知了。……你呢？你在苗栗好無？", pinyin: "diˋ leˋ. … ngi neˇ? ngi coiˋ miau lidˋ hoˊ mo?"}
+    sx: {hanzi: "知吔。……你呢？你在苗栗好無？", pinyin: "diˊ leˊ. … nˇ neˇ? nˇ coiˊ meuˇ lid hoˋ moˇ?"}
+    hl: {hanzi: "知咧。……你呢？你在苗栗好無？", pinyin: "diˋ leˋ. … ngi neˇ? ngi coiˋ miau lidˋ hoˊ mo?"}
   - n: 15
     speaker: Sam
     en: "Fine. But without you the house is very quiet."
@@ -121,8 +121,8 @@ dialogue:
   - n: 22
     speaker: Sam
     en: "If you fail… you come home and eat Grandma's 粄. Now go to bed early. Good night."
-    sx: {hanzi: "失敗就轉來食阿婆个粄。好睡目了，早兜仔睡。", pinyin: "siidˋ pai qiu zonˋ loiˇ siid aˊ poˇ ge banˋ. hoˋ soi mugˋ leˊ, zoˋ deuˊ eˋ soi."}
-    hl: {hanzi: "失敗就轉來食阿婆个粄。好睡目了，早兜仔睡。", pinyin: "shid pai+ ciu+ zhonˊ loi shidˋ a+ po gaiˇ banˊ. hoˊ shoi+ mug leˋ, zoˊ deuˋ er shoi+."}
+    sx: {hanzi: "失敗就轉來食阿婆个粄。好睡目吔，早兜仔睡。", pinyin: "siidˋ pai qiu zonˋ loiˇ siid aˊ poˇ ge banˋ. hoˋ soi mugˋ leˊ, zoˋ deuˊ eˋ soi."}
+    hl: {hanzi: "失敗就轉來食阿婆个粄。好睡目咧，早兜仔睡。", pinyin: "shid pai+ ciu+ zhonˊ loi shidˋ a+ po gaiˇ banˊ. hoˊ shoi+ mug leˋ, zoˊ deuˋ er shoi+."}
 
 notes:
   - ref: 1
@@ -164,7 +164,7 @@ notes:
   - ref: 22
     topic: grammar
     text: >
-      好睡目了 "time for bed": 好 hoˋ + verb "it's time to…, (all is ready) so that one can…": 好食飯了 "dinner's ready",
+      好睡目吔 "time for bed": 好 hoˋ + verb "it's time to…, (all is ready) so that one can…": 好食飯吔 "dinner's ready",
       official examples both. Lesson 76 has more of this 好.
   - ref: 18
     topic: grammar

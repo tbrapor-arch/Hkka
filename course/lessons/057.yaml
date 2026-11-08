@@ -30,8 +30,8 @@ dialogue:
   - n: 4
     speaker: 阿舅
     en: "This is 阿蘭嫂: she works very hard, and she's been here thirty years. That's 阿傑: he only started half a year ago. Your colleagues."
-    sx: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年了。該係阿傑，佢正來半年。你个同事。", pinyin: "iaˋ he aˊ lanˇ soˋ, giˇ zo se dongˊ ngin ziinˊ, coiˊ iaˋ zo samˊ siib ngienˇ leˊ. ge he aˊ kiedˋ, giˇ zang loiˇ ban ngienˇ. nˇ ge tungˇ sii."}
-    hl: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年了。該係阿傑，佢正來半年。你个同事。", pinyin: "liaˊ heˇ a+ lan soˊ, gi zoˇ she+ dongˋ ngin+ zhinˋ, coiˋ liaˊ zoˇ samˋ shibˋ ngien leˋ. gai heˇ a+ kied, gi zhangˇ loi banˇ ngien. ngi gaiˇ tung sii+."}
+    sx: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年吔。該係阿傑，佢正來半年。你个同事。", pinyin: "iaˋ he aˊ lanˇ soˋ, giˇ zo se dongˊ ngin ziinˊ, coiˊ iaˋ zo samˊ siib ngienˇ leˊ. ge he aˊ kiedˋ, giˇ zang loiˇ ban ngienˇ. nˇ ge tungˇ sii."}
+    hl: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年咧。該係阿傑，佢正來半年。你个同事。", pinyin: "liaˊ heˇ a+ lan soˊ, gi zoˇ she+ dongˋ ngin+ zhinˋ, coiˋ liaˊ zoˇ samˋ shibˋ ngien leˋ. gai heˇ a+ kied, gi zhangˇ loi banˇ ngien. ngi gaiˇ tung sii+."}
   - n: 5
     speaker: 阿傑
     en: "Hi, Sam! Anything you don't know, just ask me."
@@ -45,8 +45,8 @@ dialogue:
   - n: 7
     speaker: 阿舅
     en: "Pour the batter into the trays and steam it ten minutes, and it's cooked."
-    sx: {hanzi: "米漿倒落盤仔，炊十分鐘就熟了。", pinyin: "miˋ jiongˊ do log panˇ eˋ, coiˊ siib funˊ zungˊ qiu sug leˊ."}
-    hl: {hanzi: "米漿倒落盤仔，炊十分鐘就熟了。", pinyin: "miˊ ziongˋ doˇ logˋ pan er, chuiˋ shibˋ funˋ zhungˋ ciu+ shugˋ leˋ."}
+    sx: {hanzi: "米漿倒落盤仔，炊十分鐘就熟吔。", pinyin: "miˋ jiongˊ do log panˇ eˋ, coiˊ siib funˊ zungˊ qiu sug leˊ."}
+    hl: {hanzi: "米漿倒落盤仔，炊十分鐘就熟咧。", pinyin: "miˊ ziongˋ doˇ logˋ pan er, chuiˋ shibˋ funˋ zhungˋ ciu+ shugˋ leˋ."}
   - n: 8
     speaker: 阿舅
     en: "When it's steamed, take it out and cut it into strips. Every day we make two thousand catties."
@@ -76,8 +76,8 @@ dialogue:
   - n: 13
     speaker: 阿舅
     en: "(at twelve) Right, lunch. We start again at one, and finish at four."
-    sx: {hanzi: "好，食晝了。下晝一點正做過，四點下班。", pinyin: "hoˋ, siid zu leˊ. haˊ zu idˋ diamˋ zang zo go, xi diamˋ haˊ banˊ."}
-    hl: {hanzi: "好，食晝了。下晝一點正做過，四點下班。", pinyin: "hoˊ, shidˋ zhiuˇ leˋ. haˋ zhiuˇ rhid diamˊ zhangˇ zoˇ goˇ, siˇ diamˊ haˋ banˋ."}
+    sx: {hanzi: "好，食晝吔。下晝一點正做過，四點下班。", pinyin: "hoˋ, siid zu leˊ. haˊ zu idˋ diamˋ zang zo go, xi diamˋ haˊ banˊ."}
+    hl: {hanzi: "好，食晝咧。下晝一點正做過，四點下班。", pinyin: "hoˊ, shidˋ zhiuˇ leˋ. haˋ zhiuˇ rhid diamˊ zhangˇ zoˇ goˇ, siˇ diamˊ haˋ banˋ."}
   - n: 14
     speaker: Sam
     en: "My arms are aching. And I'm wet with sweat."
@@ -105,7 +105,7 @@ notes:
   - ref: 4
     topic: grammar
     text: >
-      佢在這做三十年了 "she has worked here thirty years": verb + length of time + 了, as in Mandarin. 佢正來半年 "he only
+      佢在這做三十年吔 "she has worked here thirty years": verb + length of time + 了, as in Mandarin. 佢正來半年 "he only
       came half a year ago": 正 "only just". 同事 "colleague". 嫂 after a name (阿蘭嫂) is how you address a married woman
       of your parents' generation or a little younger.
   - ref: 6

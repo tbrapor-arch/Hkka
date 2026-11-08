@@ -19,8 +19,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "It's ready. Just the one suitcase."
-    sx: {hanzi: "好了。淨一隻皮箱定定。", pinyin: "hoˋ leˊ. qiang idˋ zagˋ piˇ xiongˊ tin tin."}
-    hl: {hanzi: "好了。淨一隻皮箱定定。", pinyin: "hoˊ leˋ. ciang+ rhid zhag pi siongˋ tin+ tin+."}
+    sx: {hanzi: "好吔。淨一隻皮箱定定。", pinyin: "hoˋ leˊ. qiang idˋ zagˋ piˇ xiongˊ tin tin."}
+    hl: {hanzi: "好咧。淨一隻皮箱定定。", pinyin: "hoˊ leˋ. ciang+ rhid zhag pi siongˋ tin+ tin+."}
   - n: 3
     speaker: 阿婆
     en: "Your suitcase is only this big? Will a month's clothes fit in it?"

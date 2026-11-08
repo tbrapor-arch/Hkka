@@ -14,8 +14,8 @@ dialogue:
   - n: 1
     speaker: 阿姆
     en: "Sam, the couplets are up; now come and give us a hand! Today we're making 粄."
-    sx: {hanzi: "Sam，春聯貼好了，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, cunˊ lienˇ diabˋ hoˋ leˊ, loiˇ ten suˋ! enˊ deuˊ gimˊ buˊ ngidˋ oi daˋ banˋ."}
-    hl: {hanzi: "Sam，春聯貼好了，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, chunˋ lien dab hoˊ leˋ, loi tenˇ shiuˊ! enˋ deuˋ gimˋ buˋ ngid oiˇ daˊ banˊ."}
+    sx: {hanzi: "Sam，春聯貼好吔，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, cunˊ lienˇ diabˋ hoˋ leˊ, loiˇ ten suˋ! enˊ deuˊ gimˊ buˊ ngidˋ oi daˋ banˋ."}
+    hl: {hanzi: "Sam，春聯貼好咧，來𢯭手！𫣆兜今晡日愛打粄。", pinyin: "Sam, chunˋ lien dab hoˊ leˋ, loi tenˇ shiuˊ! enˋ deuˋ gimˋ buˋ ngid oiˇ daˊ banˊ."}
   - n: 2
     speaker: Sam
     en: "粄? What kind?"
@@ -71,13 +71,13 @@ dialogue:
   - n: 12
     speaker: 阿明
     en: "(two hours later, hovering) Has it risen?"
-    sx: {hanzi: "發了無？", pinyin: "fadˋ leˊ moˇ?"}
-    hl: {hanzi: "發了無？", pinyin: "fad leˋ mo?"}
+    sx: {hanzi: "發吔無？", pinyin: "fadˋ leˊ moˇ?"}
+    hl: {hanzi: "發咧無？", pinyin: "fad leˋ mo?"}
   - n: 13
     speaker: 阿姆
     en: "It has! Beautifully! A good sign for the new year. Tomorrow's New Year's Eve: just in time."
-    sx: {hanzi: "發了！當發！新年會發財。天光日係年三十，堵堵好。", pinyin: "fadˋ leˊ! dongˊ fadˋ! xinˊ ngienˇ voi fadˋ coiˇ. tienˊ gongˊ ngidˋ he ngienˇ samˊ siib, duˋ duˋ hoˋ."}
-    hl: {hanzi: "發了！當發！新年會發財。韶早係年三十，堵堵好。", pinyin: "fad leˋ! dongˋ fad! sinˋ ngien voi+ fad coi. shau zoˊ heˇ ngien samˋ shibˋ, duˊ duˊ hoˊ."}
+    sx: {hanzi: "發吔！當發！新年會發財。天光日係年三十，堵堵好。", pinyin: "fadˋ leˊ! dongˊ fadˋ! xinˊ ngienˇ voi fadˋ coiˇ. tienˊ gongˊ ngidˋ he ngienˇ samˊ siib, duˋ duˋ hoˋ."}
+    hl: {hanzi: "發咧！當發！新年會發財。韶早係年三十，堵堵好。", pinyin: "fad leˋ! dongˋ fad! sinˋ ngien voi+ fad coi. shau zoˊ heˇ ngien samˋ shibˋ, duˊ duˊ hoˊ."}
   - n: 14
     speaker: 阿婆
     en: "A-min! No eating on the sly! Sweet 粄 is sticky: it'll stick to your teeth."

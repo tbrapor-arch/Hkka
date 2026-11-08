@@ -28,8 +28,8 @@ dialogue:
   - n: 4
     speaker: 阿伯
     en: "(two minutes later, shouting) The five's coming! Run! Run!"
-    sx: {hanzi: "五號來了！走！走！", pinyin: "ngˋ ho loiˇ leˊ! zeuˋ! zeuˋ!"}
-    hl: {hanzi: "五號來了！走！走！", pinyin: "ngˊ ho+ loi leˋ! zeuˊ! zeuˊ!"}
+    sx: {hanzi: "五號來吔！走！走！", pinyin: "ngˋ ho loiˇ leˊ! zeuˋ! zeuˋ!"}
+    hl: {hanzi: "五號來咧！走！走！", pinyin: "ngˊ ho+ loi leˋ! zeuˊ! zeuˊ!"}
   - n: 5
     speaker: Sam
     en: "(strolling on, waving) Yes, yes, I'm going!"
@@ -127,8 +127,8 @@ new_words:
 exercises:
   translate:
     - en: "Run! The train's coming!"
-      sx: {hanzi: "走！火車來了！", pinyin: "zeuˋ! foˋ caˊ loiˇ leˊ!"}
-      hl: {hanzi: "走！火車來了！", pinyin: "zeuˊ! foˊ chaˋ loi leˋ!"}
+      sx: {hanzi: "走！火車來吔！", pinyin: "zeuˋ! foˋ caˊ loiˇ leˊ!"}
+      hl: {hanzi: "走！火車來咧！", pinyin: "zeuˊ! foˊ chaˋ loi leˋ!"}
     - en: "Grandma walks to her vegetable garden every day."
       sx: {hanzi: "阿婆逐日行路去菜園。", pinyin: "aˊ poˇ dagˋ ngidˋ hangˇ lu hi coi ienˇ."}
       hl: {hanzi: "阿婆逐日行路去菜園。", pinyin: "a+ po dag ngid hang lu+ hiˇ coiˇ rhan."}

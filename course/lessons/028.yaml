@@ -38,13 +38,13 @@ dialogue:
   - n: 6
     speaker: 阿婆
     en: "(Grandpa coughs) Have you taken your medicine? Three times a day, after meals!"
-    sx: {hanzi: "你个藥仔食了無？一日三擺，食飽正食！", pinyin: "nˇ ge iog eˋ siid leˊ moˇ? idˋ ngidˋ samˊ baiˋ, siid bauˋ zang siid!"}
-    hl: {hanzi: "你个藥仔食了無？一日三擺，食飽正食！", pinyin: "ngi gaiˇ rhogˋ er shidˋ leˋ mo? rhid ngid samˋ baiˊ, shidˋ bauˊ zhangˇ shidˋ!"}
+    sx: {hanzi: "你个藥仔食吔無？一日三擺，食飽正食！", pinyin: "nˇ ge iog eˋ siid leˊ moˇ? idˋ ngidˋ samˊ baiˋ, siid bauˋ zang siid!"}
+    hl: {hanzi: "你个藥仔食咧無？一日三擺，食飽正食！", pinyin: "ngi gaiˇ rhogˋ er shidˋ leˋ mo? rhid ngid samˋ baiˊ, shidˋ bauˊ zhangˇ shidˋ!"}
   - n: 7
     speaker: 阿公
     en: "Taken it. That's enough."
-    sx: {hanzi: "食了。罅了。", pinyin: "siid leˊ. la leˊ."}
-    hl: {hanzi: "食了。罅了。", pinyin: "shidˋ leˋ. la+ leˋ."}
+    sx: {hanzi: "食吔。罅吔。", pinyin: "siid leˊ. la leˊ."}
+    hl: {hanzi: "食咧。罅咧。", pinyin: "shidˋ leˋ. la+ leˋ."}
   - n: 8
     speaker: 阿婆
     en: "It isn't enough! Three days!"
@@ -118,8 +118,8 @@ exercises:
       sx: {hanzi: "該隻細妹仔當會唱，大家都盡好聽。", pinyin: "ge zagˋ se moi eˋ dongˊ voi cong, tai gaˊ du qin hau tangˊ."}
       hl: {hanzi: "該隻細妹仔當會唱，大家都最好聽。", pinyin: "gai zhag seˇ moiˇ er dongˋ voi+ chongˇ, tai+ gaˋ du+ zuiˇ hauˇ tangˋ."}
     - en: "Give the sweets to Grandpa; the medicine is too bitter."
-      sx: {hanzi: "糖仔分阿公，藥仔忒苦了。", pinyin: "tongˇ eˋ bunˊ aˊ gungˊ, iog eˋ tedˋ fuˋ leˊ."}
-      hl: {hanzi: "糖仔分阿公，藥仔忒苦了。", pinyin: "tong er bunˋ a+ gungˋ, rhogˋ er ted fuˊ leˋ."}
+      sx: {hanzi: "糖仔分阿公，藥仔忒苦吔。", pinyin: "tongˇ eˋ bunˊ aˊ gungˊ, iog eˋ tedˋ fuˋ leˊ."}
+      hl: {hanzi: "糖仔分阿公，藥仔忒苦咧。", pinyin: "tong er bunˋ a+ gungˋ, rhogˋ er ted fuˊ leˋ."}
   fill:
     - en: "My name is Sam."
       sx: {hanzi: "𠊎___Sam。", pinyin: "ngaiˇ ___ Sam.", answer_hanzi: "安到", answer: "onˊ do"}

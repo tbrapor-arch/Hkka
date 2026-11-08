@@ -59,13 +59,13 @@ dialogue:
   - n: 10
     speaker: 阿姆
     en: "Just right. You've learnt it!"
-    sx: {hanzi: "鹹淡堵堵好。你學會了！", pinyin: "hamˇ tamˊ duˋ duˋ hoˋ. nˇ hog voi leˊ!"}
-    hl: {hanzi: "鹹淡堵堵好。你學會了！", pinyin: "ham tamˋ duˊ duˊ hoˊ. ngi hogˋ voi+ leˋ!"}
+    sx: {hanzi: "鹹淡堵堵好。你學會吔！", pinyin: "hamˇ tamˊ duˋ duˋ hoˋ. nˇ hog voi leˊ!"}
+    hl: {hanzi: "鹹淡堵堵好。你學會咧！", pinyin: "ham tamˋ duˊ duˊ hoˊ. ngi hogˋ voi+ leˋ!"}
   - n: 11
     speaker: 阿姆
     en: "And there's more: I've cooked the mung-bean soup through, and the rice noodles are blanched."
-    sx: {hanzi: "還有：綠豆湯𠊎煮熟了，米粉乜煠好了。", pinyin: "hanˇ iuˊ: liug teu tongˊ ngaiˇ zuˋ sug leˊ, miˋ funˋ me sab hoˋ leˊ."}
-    hl: {hanzi: "還有：綠豆湯𠊎煮熟了，米粉乜煠好了。", pinyin: "han rhiuˋ: liugˋ teu+ tongˋ ngai zhuˊ shugˋ leˋ, miˊ funˊ meˇ sabˋ hoˊ leˋ."}
+    sx: {hanzi: "還有：綠豆湯𠊎煮熟吔，米粉乜煠好吔。", pinyin: "hanˇ iuˊ: liug teu tongˊ ngaiˇ zuˋ sug leˊ, miˋ funˋ me sab hoˋ leˊ."}
+    hl: {hanzi: "還有：綠豆湯𠊎煮熟咧，米粉乜煠好咧。", pinyin: "han rhiuˋ: liugˋ teu+ tongˋ ngai zhuˊ shugˋ leˋ, miˊ funˊ meˇ sabˋ hoˊ leˋ."}
     check: true
   - n: 12
     speaker: Sam
@@ -86,18 +86,18 @@ dialogue:
   - n: 15
     speaker: 阿明
     en: "(sniffing) You can smell it from far off… It does smell good."
-    sx: {hanzi: "遠遠就鼻著了……實在香。", pinyin: "ienˋ ienˋ qiu pi doˋ leˊ … siid cai hiongˊ."}
-    hl: {hanzi: "遠遠就鼻著了……實在香。", pinyin: "rhanˊ rhanˊ ciu+ pi+ doˊ leˋ … shidˋ cai+ hiongˋ."}
+    sx: {hanzi: "遠遠就鼻著吔……實在香。", pinyin: "ienˋ ienˋ qiu pi doˋ leˊ … siid cai hiongˊ."}
+    hl: {hanzi: "遠遠就鼻著咧……實在香。", pinyin: "rhanˊ rhanˊ ciu+ pi+ doˊ leˋ … shidˋ cai+ hiongˋ."}
   - n: 16
     speaker: 阿婆
     en: "(calling from the hall) Is it ready? Can we eat?"
-    sx: {hanzi: "好食飯了無？", pinyin: "hoˋ siid fan leˊ moˇ?"}
-    hl: {hanzi: "好食飯了無？", pinyin: "hoˊ shidˋ pon+ leˋ mo?"}
+    sx: {hanzi: "好食飯吔無？", pinyin: "hoˋ siid fan leˊ moˇ?"}
+    hl: {hanzi: "好食飯咧無？", pinyin: "hoˊ shidˋ pon+ leˋ mo?"}
   - n: 17
     speaker: Sam
     en: "Ready! Dinner's served!"
-    sx: {hanzi: "好了！好食飯了！", pinyin: "hoˋ leˊ! hoˋ siid fan leˊ!"}
-    hl: {hanzi: "好了！好食飯了！", pinyin: "hoˊ leˋ! hoˊ shidˋ pon+ leˋ!"}
+    sx: {hanzi: "好吔！好食飯吔！", pinyin: "hoˋ leˊ! hoˋ siid fan leˊ!"}
+    hl: {hanzi: "好咧！好食飯咧！", pinyin: "hoˊ leˋ! hoˊ shidˋ pon+ leˋ!"}
   - n: 18
     speaker: 阿公
     en: "(at the table, after the first mouthful) …Good."
@@ -157,13 +157,13 @@ notes:
   - ref: 16
     topic: grammar
     text: >
-      好食飯了 "dinner's ready", literally "(we) can eat now": 好 + verb again (line 4), here with 了 for the change. 好食飯了，
+      好食飯吔 "dinner's ready", literally "(we) can eat now": 好 + verb again (line 4), here with 了 for the change. 好食飯吔，
       𠊎來摎大家添飯 is official.
   - ref: 15
     topic: vocab
     text: >
-      鼻 pi "smell (something)": the same word as "nose" (鼻公, lesson 24), used as a verb. 遠遠就鼻著了 "you can smell it
-      from far off" follows the official 味緒實在香，遠遠就鼻著了！ 蒸 "steam" (line 13): Hailu often says 炊 (lesson 50: 22 Hailu
+      鼻 pi "smell (something)": the same word as "nose" (鼻公, lesson 24), used as a verb. 遠遠就鼻著吔 "you can smell it
+      from far off" follows the official 味緒實在香，遠遠就鼻著吔！ 蒸 "steam" (line 13): Hailu often says 炊 (lesson 50: 22 Hailu
       official examples); in Sixian it is mostly the dictionary's examples that have it (18, against 2 in the Sixian
       official list).
   - ref: 19
@@ -232,7 +232,7 @@ exercises:
       sx: {hanzi: "___豬肉切絲來。", pinyin: "___ zuˊ ngiugˋ qiedˋ siiˊ loiˇ.", answer_hanzi: "摎", answer: "lauˊ"}
       hl: {hanzi: "___豬肉切絲來。", pinyin: "___ zhuˋ ngiug cied siiˋ loi.", answer_hanzi: "摎", answer: "lauˋ"}
     - en: "Dinner's ready!"
-      sx: {hanzi: "___食飯了！", pinyin: "___ siid fan leˊ!", answer_hanzi: "好", answer: "hoˋ"}
-      hl: {hanzi: "___食飯了！", pinyin: "___ shidˋ pon+ leˋ!", answer_hanzi: "好", answer: "hoˊ"}
+      sx: {hanzi: "___食飯吔！", pinyin: "___ siid fan leˊ!", answer_hanzi: "好", answer: "hoˋ"}
+      hl: {hanzi: "___食飯咧！", pinyin: "___ shidˋ pon+ leˋ!", answer_hanzi: "好", answer: "hoˊ"}
 
 audio: []

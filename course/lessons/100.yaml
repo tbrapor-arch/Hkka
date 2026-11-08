@@ -29,8 +29,8 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "This year I didn't only learn Hakka; I also grew up a little."
-    sx: {hanzi: "這一年，𠊎毋單淨學客話，還長大了一息仔。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ mˇ danˊ qiang hog hagˋ fa, hanˇ zongˋ tai leˊ idˋ xid eˋ."}
-    hl: {hanzi: "這一年，𠊎毋單淨學客話，還長大了一息仔。", pinyin: "liaˊ rhid ngien, ngai m danˋ ciang+ hogˋ hag voiˋ, han zhongˊ tai+ leˋ rhid sid er."}
+    sx: {hanzi: "這一年，𠊎毋單淨學客話，還長大吔一息仔。", pinyin: "iaˋ idˋ ngienˇ, ngaiˇ mˇ danˊ qiang hog hagˋ fa, hanˇ zongˋ tai leˊ idˋ xid eˋ."}
+    hl: {hanzi: "這一年，𠊎毋單淨學客話，還長大咧一息仔。", pinyin: "liaˊ rhid ngien, ngai m danˋ ciang+ hogˋ hag voiˋ, han zhongˊ tai+ leˋ rhid sid er."}
     check: true
   - n: 5
     speaker: Sam
@@ -225,8 +225,8 @@ exercises:
       hl: {hanzi: "年年過年，𠊎會打電話轉屋下；日後，𠊎會轉來戴。", pinyin: "ngien ngien goˇ ngien, ngai voi+ daˊ tien+ faˇ zhonˊ vug haˋ; ngid heu+, ngai voi+ zhonˊ loi daiˇ."}
       check: true
     - en: "Look, the tree outside the window has turned white."
-      sx: {hanzi: "你看，窗門外該頭樹仔變白了。", pinyin: "nˇ kon, cungˊ munˇ ngoi ge teuˇ su eˋ bien pag leˊ."}
-      hl: {hanzi: "你看，窗門外該頭樹仔變白了。", pinyin: "ngi konˇ, cungˋ mun ngoi+ gai teu shu+ er bienˇ pagˋ leˋ."}
+      sx: {hanzi: "你看，窗門外該頭樹仔變白吔。", pinyin: "nˇ kon, cungˊ munˇ ngoi ge teuˇ su eˋ bien pag leˊ."}
+      hl: {hanzi: "你看，窗門外該頭樹仔變白咧。", pinyin: "ngi konˇ, cungˋ mun ngoi+ gai teu shu+ er bienˇ pagˋ leˋ."}
   fill:
     - en: "I'll remember your kindness all my life."
       sx: {hanzi: "你兜个___，𠊎一生人都會記得。", pinyin: "nˇ deuˊ ge ___, ngaiˇ idˋ senˊ nginˇ du voi gi dedˋ.", answer_hanzi: "恩情", answer: "enˊ qinˇ"}

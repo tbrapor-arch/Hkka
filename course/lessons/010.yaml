@@ -18,8 +18,8 @@ dialogue:
   - n: 2
     speaker: Sam
     en: "Yes, two bowls. Grandma makes me eat two bowls every day!"
-    sx: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "siid bauˋ leˊ, siid liongˋ vonˋ. aˊ poˇ dagˋ ngidˋ ham ngaiˇ siid liongˋ vonˋ!"}
-    hl: {hanzi: "食飽了，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "shidˋ bauˊ leˋ, shidˋ liongˊ vonˊ. a+ po dag ngid hamˇ ngai shidˋ liongˊ vonˊ!"}
+    sx: {hanzi: "食飽吔，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "siid bauˋ leˊ, siid liongˋ vonˋ. aˊ poˇ dagˋ ngidˋ ham ngaiˇ siid liongˋ vonˋ!"}
+    hl: {hanzi: "食飽咧，食兩碗。阿婆逐日喊𠊎食兩碗！", pinyin: "shidˋ bauˊ leˋ, shidˋ liongˊ vonˊ. a+ po dag ngid hamˇ ngai shidˋ liongˊ vonˊ!"}
   - n: 3
     speaker: 阿英
     en: "Does Grandpa talk to you?"
@@ -29,8 +29,8 @@ dialogue:
   - n: 4
     speaker: Sam
     en: "He does! We drink tea every day. He said 'it's going to rain', and it rained."
-    sx: {hanzi: "有！𠊎兜逐日食茶。佢講「會落雨」，就落雨了。", pinyin: "iuˊ! ngaiˇ deuˊ dagˋ ngidˋ siid caˇ. giˇ gongˋ \"voi log iˋ\", qiu log iˋ leˊ."}
-    hl: {hanzi: "有！𠊎兜逐日食茶。佢講「會落水」，就落水了。", pinyin: "rhiuˋ! ngai deuˋ dag ngid shidˋ ca. gi gongˊ \"voi+ logˋ shuiˊ\", ciu+ logˋ shuiˊ leˋ."}
+    sx: {hanzi: "有！𠊎兜逐日食茶。佢講「會落雨」，就落雨吔。", pinyin: "iuˊ! ngaiˇ deuˊ dagˋ ngidˋ siid caˇ. giˇ gongˋ \"voi log iˋ\", qiu log iˋ leˊ."}
+    hl: {hanzi: "有！𠊎兜逐日食茶。佢講「會落水」，就落水咧。", pinyin: "rhiuˋ! ngai deuˋ dag ngid shidˋ ca. gi gongˊ \"voi+ logˋ shuiˊ\", ciu+ logˋ shuiˊ leˋ."}
   - n: 5
     speaker: 阿英
     en: "He's right every single day."

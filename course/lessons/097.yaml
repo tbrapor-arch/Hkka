@@ -55,8 +55,8 @@ dialogue:
   - n: 9
     speaker: 阿爸
     en: "A year ago we were all strangers. Now we know each other well."
-    sx: {hanzi: "一年前，大家都還生份；這下，大家都熟事了。", pinyin: "idˋ ngienˇ qienˇ, tai gaˊ du hanˇ sangˊ fun; iaˋ ha, tai gaˊ du sug sii leˊ."}
-    hl: {hanzi: "一年前，大家都還生份；這下，大家都熟事了。", pinyin: "rhid ngien cien, tai+ gaˋ du+ han sangˋ fun+; liaˊ ha+, tai+ gaˋ du+ shugˋ sii+ leˋ."}
+    sx: {hanzi: "一年前，大家都還生份；這下，大家都熟事吔。", pinyin: "idˋ ngienˇ qienˇ, tai gaˊ du hanˇ sangˊ fun; iaˋ ha, tai gaˊ du sug sii leˊ."}
+    hl: {hanzi: "一年前，大家都還生份；這下，大家都熟事咧。", pinyin: "rhid ngien cien, tai+ gaˋ du+ han sangˋ fun+; liaˊ ha+, tai+ gaˋ du+ shugˋ sii+ leˋ."}
   - n: 10
     speaker: 阿姆
     en: "Have you got your ticket? What time does the train leave?"
@@ -65,8 +65,8 @@ dialogue:
   - n: 11
     speaker: Sam
     en: "I've got it. Eight o'clock. …At first I thought a year was a long time. It turns out it was over in a moment."
-    sx: {hanzi: "帶等了。八點。……本成𠊎試著一年當長，原來一時就過忒了。", pinyin: "dai denˋ leˊ. badˋ diamˋ. … bunˋ sangˇ ngaiˇ cii doˋ idˋ ngienˇ dongˊ congˇ, ngienˇ loiˇ idˋ siiˇ qiu go tedˋ leˊ."}
-    hl: {hanzi: "帶等了。八點。……本成𠊎試著一年當長，原來一時就過忒了。", pinyin: "daiˇ denˊ leˋ. bad diamˊ. … bunˊ shang ngai chiˇ doˊ rhid ngien dongˋ chong, ngien loi rhid shi ciu+ goˇ ted leˋ."}
+    sx: {hanzi: "帶等吔。八點。……本成𠊎試著一年當長，原來一時就過忒吔。", pinyin: "dai denˋ leˊ. badˋ diamˋ. … bunˋ sangˇ ngaiˇ cii doˋ idˋ ngienˇ dongˊ congˇ, ngienˇ loiˇ idˋ siiˇ qiu go tedˋ leˊ."}
+    hl: {hanzi: "帶等咧。八點。……本成𠊎試著一年當長，原來一時就過忒咧。", pinyin: "daiˇ denˊ leˋ. bad diamˊ. … bunˊ shang ngai chiˇ doˊ rhid ngien dongˋ chong, ngien loi rhid shi ciu+ goˇ ted leˋ."}
   - n: 12
     speaker: 阿英
     en: "Since you came, the house has been full of life. When you're back in France, keep on speaking Hakka."
@@ -81,13 +81,13 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "It's settled, then: next year, in spring, I'm coming to France. Wait for me at the station."
-    sx: {hanzi: "恁樣就確定了：過忒年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "anˋ ngiongˇ qiu kogˋ tin leˊ: go tedˋ ngienˇ cunˊ tienˊ, ngaiˇ hi fabˋ guedˋ. nˇ coiˊ caˊ teuˇ denˋ ngaiˇ."}
-    hl: {hanzi: "恁樣就確定了：明年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "an ngiong ciu+ kog tin+ leˋ: mang ngien chunˋ tienˋ, ngai hiˇ fab gued. ngi coiˋ chaˋ teu denˊ ngai."}
+    sx: {hanzi: "恁樣就確定吔：過忒年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "anˋ ngiongˇ qiu kogˋ tin leˊ: go tedˋ ngienˇ cunˊ tienˊ, ngaiˇ hi fabˋ guedˋ. nˇ coiˊ caˊ teuˇ denˋ ngaiˇ."}
+    hl: {hanzi: "恁樣就確定咧：明年春天，𠊎去法國。你在車頭等𠊎。", pinyin: "an ngiong ciu+ kog tin+ leˋ: mang ngien chunˋ tienˋ, ngai hiˇ fab gued. ngi coiˋ chaˋ teu denˊ ngai."}
   - n: 15
     speaker: Sam
     en: "This year's over at last, and it went well, but my Hakka isn't over. I've been very happy. Luckily, I had you all."
-    sx: {hanzi: "這一年總算順利結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "iaˋ idˋ ngienˇ zungˋ son sun li giedˋ sugˋ leˊ, mˇ go ngaiˇ ge hagˋ fa hanˇ mangˇ giedˋ sugˋ. ngaiˇ dongˊ hen fugˋ. hoˋ cai iuˊ nˇ deuˊ."}
-    hl: {hanzi: "這一年總算順利結束了，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "liaˊ rhid ngien zungˊ sonˇ shun+ li+ gied sug leˋ, m goˇ ngai gaiˇ hag voiˋ han mang gied sug. ngai dongˋ hen+ fug. hoˊ cai+ rhiuˋ ngi deuˋ."}
+    sx: {hanzi: "這一年總算順利結束吔，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "iaˋ idˋ ngienˇ zungˋ son sun li giedˋ sugˋ leˊ, mˇ go ngaiˇ ge hagˋ fa hanˇ mangˇ giedˋ sugˋ. ngaiˇ dongˊ hen fugˋ. hoˋ cai iuˊ nˇ deuˊ."}
+    hl: {hanzi: "這一年總算順利結束咧，毋過𠊎个客話還吂結束。𠊎當幸福。好在有你兜。", pinyin: "liaˊ rhid ngien zungˊ sonˇ shun+ li+ gied sug leˋ, m goˇ ngai gaiˇ hag voiˋ han mang gied sug. ngai dongˋ hen+ fug. hoˊ cai+ rhiuˋ ngi deuˋ."}
   - n: 16
     speaker: 阿婆
     en: "Don't forget Grandma's three things."
@@ -101,8 +101,8 @@ dialogue:
   - n: 18
     speaker: 阿公
     en: "The train's here."
-    sx: {hanzi: "車來了。", pinyin: "caˊ loiˇ leˊ."}
-    hl: {hanzi: "車來了。", pinyin: "chaˋ loi leˋ."}
+    sx: {hanzi: "車來吔。", pinyin: "caˊ loiˇ leˊ."}
+    hl: {hanzi: "車來咧。", pinyin: "chaˋ loi leˋ."}
   - n: 19
     speaker: 阿明
     en: "(as the train pulls out) Look, he's waving! …Grandma, don't cry."
@@ -140,7 +140,7 @@ notes:
     topic: vocab
     text: >
       生份 sangˊ fun "unfamiliar, strangers" (dictionary: 陌生) and its opposite, 熟事 sug sii "well acquainted" (熟識). Mr
-      Liu's line is a pair: 一年前…都還生份；這下…都熟事了, with 了 for the change (頭擺 / 這下 come in line 13).
+      Liu's line is a pair: 一年前…都還生份；這下…都熟事吔, with 了 for the change (頭擺 / 這下 come in line 13).
   - ref: 10
     topic: vocab
     text: >
@@ -149,7 +149,7 @@ notes:
     topic: grammar
     text: >
       本成 bunˋ sangˇ "originally, at first" (dictionary: 原來、原本), 原來 "it turns out" (lesson 93): the pair tells a
-      mistake and its discovery. 一時 idˋ siiˇ "in a moment" (dictionary: 一下子). 試著 "feel, think" (lesson 94). 過忒了
+      mistake and its discovery. 一時 idˋ siiˇ "in a moment" (dictionary: 一下子). 試著 "feel, think" (lesson 94). 過忒吔
       "is over, has passed": V忒 for "gone" (lesson 33).
   - ref: 12
     topic: grammar
@@ -171,7 +171,7 @@ notes:
   - ref: 15
     topic: grammar
     text: >
-      結束 giedˋ sugˋ "end, be over": 這一年結束了…客話還吂結束 "the year is over; my Hakka isn't (yet)", with 吂 "not yet"
+      結束 giedˋ sugˋ "end, be over": 這一年結束吔…客話還吂結束 "the year is over; my Hakka isn't (yet)", with 吂 "not yet"
       from lesson 3. 幸福 hen fugˋ "happy (in one's life)", a deeper word than 歡喜. 好在 hoˋ cai "luckily, thank goodness".
   - ref: 17
     topic: vocab
@@ -181,7 +181,7 @@ notes:
   - ref: 18
     topic: culture
     text: >
-      車來了 is what Grandpa said on this platform in lesson 35, when Lucie left.
+      車來吔 is what Grandpa said on this platform in lesson 35, when Lucie left.
   - ref: 20
     topic: vocab
     text: >
@@ -223,16 +223,16 @@ exercises:
       sx: {hanzi: "阿明細時節當得人惜。", pinyin: "aˊ minˇ se siiˇ jiedˋ dongˊ dedˋ nginˇ xiagˋ."}
       hl: {hanzi: "阿明細時節當得人惜。", pinyin: "a+ min seˇ shi zied dongˋ ded ngin siag."}
     - en: "The trip went off without a hitch: at last he's arrived."
-      sx: {hanzi: "這擺出門當順利，總算到了。", pinyin: "iaˋ baiˋ cudˋ munˇ dongˊ sun li, zungˋ son do leˊ."}
-      hl: {hanzi: "這擺出門當順利，總算到了。", pinyin: "liaˊ baiˊ chud mun dongˋ shun+ li+, zungˊ sonˇ doˇ leˋ."}
+      sx: {hanzi: "這擺出門當順利，總算到吔。", pinyin: "iaˋ baiˋ cudˋ munˇ dongˊ sun li, zungˋ son do leˊ."}
+      hl: {hanzi: "這擺出門當順利，總算到咧。", pinyin: "liaˊ baiˊ chud mun dongˋ shun+ li+, zungˊ sonˇ doˇ leˋ."}
     - en: "A year ago I didn't know how to speak Hakka; now I can."
-      sx: {hanzi: "一年前𠊎毋會講客話，這下𠊎會講了。", pinyin: "idˋ ngienˇ qienˇ ngaiˇ mˇ voi gongˋ hagˋ fa, iaˋ ha ngaiˇ voi gongˋ leˊ."}
-      hl: {hanzi: "一年前𠊎毋會講客話，這下𠊎會講了。", pinyin: "rhid ngien cien ngai m voi+ gongˊ hag voiˋ, liaˊ ha+ ngai voi+ gongˊ leˋ."}
+      sx: {hanzi: "一年前𠊎毋會講客話，這下𠊎會講吔。", pinyin: "idˋ ngienˇ qienˇ ngaiˇ mˇ voi gongˋ hagˋ fa, iaˋ ha ngaiˇ voi gongˋ leˊ."}
+      hl: {hanzi: "一年前𠊎毋會講客話，這下𠊎會講咧。", pinyin: "rhid ngien cien ngai m voi+ gongˊ hag voiˋ, liaˊ ha+ ngai voi+ gongˊ leˋ."}
       check: true
   fill:
     - en: "A year ago we were strangers; now we know each other well."
-      sx: {hanzi: "一年前大家都___，這下都熟事了。", pinyin: "idˋ ngienˇ qienˇ tai gaˊ du ___, iaˋ ha du sug sii leˊ.", answer_hanzi: "生份", answer: "sangˊ fun"}
-      hl: {hanzi: "一年前大家都___，這下都熟事了。", pinyin: "rhid ngien cien tai+ gaˋ du+ ___, liaˊ ha+ du+ shugˋ sii+ leˋ.", answer_hanzi: "生份", answer: "sangˋ fun+"}
+      sx: {hanzi: "一年前大家都___，這下都熟事吔。", pinyin: "idˋ ngienˇ qienˇ tai gaˊ du ___, iaˋ ha du sug sii leˊ.", answer_hanzi: "生份", answer: "sangˊ fun"}
+      hl: {hanzi: "一年前大家都___，這下都熟事咧。", pinyin: "rhid ngien cien tai+ gaˋ du+ ___, liaˊ ha+ du+ shugˋ sii+ leˋ.", answer_hanzi: "生份", answer: "sangˋ fun+"}
     - en: "Since you came, the house has been lively."
       sx: {hanzi: "___你來，屋下就當鬧熱。", pinyin: "___ nˇ loiˇ, vugˋ kaˊ qiu dongˊ nau ngied.", answer_hanzi: "自從", answer: "cii qiungˇ"}
       hl: {hanzi: "___你來，屋下就當鬧熱。", pinyin: "___ ngi loi, vug haˋ ciu+ dongˋ nau+ ngiedˋ.", answer_hanzi: "自從", answer: "cii+ ciung"}

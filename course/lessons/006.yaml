@@ -44,8 +44,8 @@ dialogue:
   - n: 7
     speaker: 阿明
     en: "It's half past five now!"
-    sx: {hanzi: "這下五點半了！", pinyin: "iaˋ ha ngˋ diamˋ ban leˊ!"}
-    hl: {hanzi: "這下五點半了！", pinyin: "liaˊ ha+ ngˊ diamˊ banˇ leˋ!"}
+    sx: {hanzi: "這下五點半吔！", pinyin: "iaˋ ha ngˋ diamˋ ban leˊ!"}
+    hl: {hanzi: "這下五點半咧！", pinyin: "liaˊ ha+ ngˊ diamˊ banˇ leˋ!"}
   - n: 8
     speaker: 阿明
     en: "(to Sam) Yesterday my sister slept till ten!"
@@ -54,8 +54,8 @@ dialogue:
   - n: 9
     speaker: 阿英
     en: "A-min! …Sam, from now on you'll have to speak Hakka. Grandma doesn't speak Mandarin."
-    sx: {hanzi: "阿明！……Sam，這下你愛講客話了。阿婆毋會講華語。", pinyin: "aˊ minˇ! … Sam, iaˋ ha nˇ oi gongˋ hagˋ fa leˊ. aˊ poˇ mˇ voi gongˋ faˇ ngiˊ."}
-    hl: {hanzi: "阿明！……Sam，這下你愛講客話了。阿婆毋會講華語。", pinyin: "a+ min! … Sam, liaˊ ha+ ngi oiˇ gongˊ hag voiˋ leˋ. a+ po m voi+ gongˊ fa ngiˋ."}
+    sx: {hanzi: "阿明！……Sam，這下你愛講客話吔。阿婆毋會講華語。", pinyin: "aˊ minˇ! … Sam, iaˋ ha nˇ oi gongˋ hagˋ fa leˊ. aˊ poˇ mˇ voi gongˋ faˇ ngiˊ."}
+    hl: {hanzi: "阿明！……Sam，這下你愛講客話咧。阿婆毋會講華語。", pinyin: "a+ min! … Sam, liaˊ ha+ ngi oiˇ gongˊ hag voiˋ leˋ. a+ po m voi+ gongˊ fa ngiˋ."}
   - n: 10
     speaker: Sam
     en: "…Thank you?"
@@ -104,7 +104,7 @@ notes:
   - ref: 9
     topic: grammar
     text: >
-      這下 iaˋ ha "now" (現在), the time word of the lesson. 這下你愛講客話了 "now you'll have to speak Hakka": 了 at
+      這下 iaˋ ha "now" (現在), the time word of the lesson. 這下你愛講客話吔 "now you'll have to speak Hakka": 了 at
       the end again marks the new situation. 華語 faˇ ngiˊ "Mandarin" (Taiwan's usual name for it). A-in will not be
       back for a while; the next lessons are Sam on his own.
   - ref: 0
@@ -158,7 +158,7 @@ exercises:
       sx: {hanzi: "阿婆毋會講___。", pinyin: "aˊ poˇ mˇ voi gongˋ ___.", answer_hanzi: "華語", answer: "faˇ ngiˊ"}
       hl: {hanzi: "阿婆毋會講___。", pinyin: "a+ po m voi+ gongˊ ___.", answer_hanzi: "華語", answer: "fa ngiˋ"}
     - en: "It's six o'clock now."
-      sx: {hanzi: "___六點了。", pinyin: "___ liugˋ diamˋ leˊ.", answer_hanzi: "這下", answer: "iaˋ ha"}
-      hl: {hanzi: "___六點了。", pinyin: "___ liug diamˊ leˋ.", answer_hanzi: "這下", answer: "liaˊ ha+"}
+      sx: {hanzi: "___六點吔。", pinyin: "___ liugˋ diamˋ leˊ.", answer_hanzi: "這下", answer: "iaˋ ha"}
+      hl: {hanzi: "___六點咧。", pinyin: "___ liug diamˊ leˋ.", answer_hanzi: "這下", answer: "liaˊ ha+"}
 
 audio: []

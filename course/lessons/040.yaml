@@ -13,8 +13,8 @@ dialogue:
   - n: 1
     speaker: 阿公
     en: "Sam, can you give me a hand? The tea needs pruning."
-    sx: {hanzi: "Sam，你做得摎𠊎𢯭手無？茶愛剪了。", pinyin: "Sam, nˇ zo dedˋ lauˊ ngaiˇ ten suˋ moˇ? caˇ oi jienˋ leˊ."}
-    hl: {hanzi: "Sam，你做得摎𠊎𢯭手無？茶愛剪了。", pinyin: "Sam, ngi zoˇ ded lauˋ ngai tenˇ shiuˊ mo? ca oiˇ zienˊ leˋ."}
+    sx: {hanzi: "Sam，你做得摎𠊎𢯭手無？茶愛剪吔。", pinyin: "Sam, nˇ zo dedˋ lauˊ ngaiˇ ten suˋ moˇ? caˇ oi jienˋ leˊ."}
+    hl: {hanzi: "Sam，你做得摎𠊎𢯭手無？茶愛剪咧。", pinyin: "Sam, ngi zoˇ ded lauˋ ngai tenˇ shiuˊ mo? ca oiˇ zienˊ leˋ."}
   - n: 2
     speaker: Sam
     en: "Of course! I'll come with you."
@@ -53,13 +53,13 @@ dialogue:
   - n: 9
     speaker: 阿婆
     en: "(arriving with a flask of tea and a jacket, looking at the rows) That's neatly done! Grandpa, I've brought you a jacket. Put on another layer!"
-    sx: {hanzi: "剪到當好勢！阿公，𠊎摎你拿衫來了。著加一領添！", pinyin: "jienˋ do dongˊ hoˋ se! aˊ gungˊ, ngaiˇ lauˊ nˇ naˊ samˊ loiˇ leˊ. zogˋ gaˊ idˋ liangˊ tiamˊ!"}
-    hl: {hanzi: "剪到當好勢！阿公，𠊎摎你拿衫來了。著加一領添！", pinyin: "zienˊ doˇ dongˋ hoˊ sheˇ! a+ gungˋ, ngai lauˋ ngi naˋ samˋ loi leˋ. zhog gaˋ rhid liangˋ tiamˋ!"}
+    sx: {hanzi: "剪到當好勢！阿公，𠊎摎你拿衫來吔。著加一領添！", pinyin: "jienˋ do dongˊ hoˋ se! aˊ gungˊ, ngaiˇ lauˊ nˇ naˊ samˊ loiˇ leˊ. zogˋ gaˊ idˋ liangˊ tiamˊ!"}
+    hl: {hanzi: "剪到當好勢！阿公，𠊎摎你拿衫來咧。著加一領添！", pinyin: "zienˊ doˇ dongˋ hoˊ sheˇ! a+ gungˋ, ngai lauˋ ngi naˋ samˋ loi leˋ. zhog gaˋ rhid liangˋ tiamˋ!"}
   - n: 10
     speaker: 阿公
     en: "No need. Working keeps me warm."
-    sx: {hanzi: "毋使。做事就燒暖了。", pinyin: "mˇ siiˋ. zo se qiu seuˊ nonˊ leˊ."}
-    hl: {hanzi: "毋使。做事就燒暖了。", pinyin: "m siiˊ. zoˇ she+ ciu+ shauˋ nonˋ leˋ."}
+    sx: {hanzi: "毋使。做事就燒暖吔。", pinyin: "mˇ siiˋ. zo se qiu seuˊ nonˊ leˊ."}
+    hl: {hanzi: "毋使。做事就燒暖咧。", pinyin: "m siiˊ. zoˇ she+ ciu+ shauˋ nonˋ leˋ."}
   - n: 11
     speaker: 阿婆
     en: "Two days ago you had a fever, and now you won't wear a jacket! And put on your hat: the sun's strong."

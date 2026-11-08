@@ -23,8 +23,8 @@ dialogue:
   - n: 3
     speaker: 阿公
     en: "The rice has been cut. Now we use the fields to grow vegetables and radishes."
-    sx: {hanzi: "禾仔割忒了，這下田項拿來種菜摎蘿蔔。", pinyin: "voˇ eˋ godˋ tedˋ leˊ, iaˋ ha tienˇ hong naˊ loiˇ zung coi lauˊ loˇ ped."}
-    hl: {hanzi: "禾仔割忒了，這下田項拿來種菜摎菜頭。", pinyin: "vo er god ted leˋ, liaˊ ha+ tien hong+ naˋ loi zhungˇ coiˇ lauˋ coiˇ teu."}
+    sx: {hanzi: "禾仔割忒吔，這下田項拿來種菜摎蘿蔔。", pinyin: "voˇ eˋ godˋ tedˋ leˊ, iaˋ ha tienˇ hong naˊ loiˇ zung coi lauˊ loˇ ped."}
+    hl: {hanzi: "禾仔割忒咧，這下田項拿來種菜摎菜頭。", pinyin: "vo er god ted leˋ, liaˊ ha+ tien hong+ naˋ loi zhungˇ coiˇ lauˋ coiˇ teu."}
   - n: 4
     speaker: Sam
     en: "What's a 蘿蔔?"
@@ -78,8 +78,8 @@ dialogue:
   - n: 14
     speaker: Sam
     en: "(a crack; half a radish in his hand) …It snapped."
-    sx: {hanzi: "……斷了。", pinyin: "… tonˊ leˊ."}
-    hl: {hanzi: "……斷了。", pinyin: "… tonˋ leˋ."}
+    sx: {hanzi: "……斷吔。", pinyin: "… tonˊ leˊ."}
+    hl: {hanzi: "……斷咧。", pinyin: "… tonˋ leˋ."}
   - n: 15
     speaker: 阿明
     en: "(delighted) Grandpa, can we eat the half that's left in the ground?"

@@ -15,13 +15,13 @@ dialogue:
   - n: 1
     speaker: 阿姆
     en: "(at the door) Mum! Brother! We're here!"
-    sx: {hanzi: "阿姆！阿哥！𠊎兜轉來了！", pinyin: "aˊ meˊ! aˊ goˊ! ngaiˇ deuˊ zonˋ loiˇ leˊ!"}
-    hl: {hanzi: "阿姆！阿哥！𠊎兜轉來了！", pinyin: "a+ meˋ! a+ goˋ! ngai deuˋ zhonˊ loi leˋ!"}
+    sx: {hanzi: "阿姆！阿哥！𠊎兜轉來吔！", pinyin: "aˊ meˊ! aˊ goˊ! ngaiˇ deuˊ zonˋ loiˇ leˊ!"}
+    hl: {hanzi: "阿姆！阿哥！𠊎兜轉來咧！", pinyin: "a+ meˋ! a+ goˋ! ngai deuˋ zhonˊ loi leˋ!"}
   - n: 2
     speaker: 姐婆
     en: "You're back! Come in, quick, come in!"
-    sx: {hanzi: "轉來了！遽遽入來，入來！", pinyin: "zonˋ loiˇ leˊ! giagˋ giagˋ ngib loiˇ, ngib loiˇ!"}
-    hl: {hanzi: "轉來了！遽遽入來，入來！", pinyin: "zhonˊ loi leˋ! giag giag ngibˋ loi, ngibˋ loi!"}
+    sx: {hanzi: "轉來吔！遽遽入來，入來！", pinyin: "zonˋ loiˇ leˊ! giagˋ giagˋ ngib loiˇ, ngib loiˇ!"}
+    hl: {hanzi: "轉來咧！遽遽入來，入來！", pinyin: "zhonˊ loi leˋ! giag giag ngibˋ loi, ngibˋ loi!"}
   - n: 3
     speaker: 阿明
     en: "Grandad, Granny, Happy New Year!"

@@ -53,8 +53,8 @@ dialogue:
   - n: 9
     speaker: 阿婆
     en: "A-tsai! You're back!"
-    sx: {hanzi: "阿財！你轉來了！", pinyin: "aˊ coiˇ! nˇ zonˋ loiˇ leˊ!"}
-    hl: {hanzi: "阿財！你轉來了！", pinyin: "a+ coi! ngi zhonˊ loi leˋ!"}
+    sx: {hanzi: "阿財！你轉來吔！", pinyin: "aˊ coiˇ! nˇ zonˋ loiˇ leˊ!"}
+    hl: {hanzi: "阿財！你轉來咧！", pinyin: "a+ coi! ngi zhonˊ loi leˋ!"}
   - n: 10
     speaker: 阿財伯
     en: "Back for the harvest opera. Tomorrow morning, in front of the temple."
