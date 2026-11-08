@@ -1,0 +1,267 @@
+id: 16
+genre: interview
+title:
+  en: Three strokes of the hoe, two baskets full
+  sx: {hanzi: 三下钁頭兩畚箕, pinyin: samˊ ha giogˋ teuˇ liongˋ bun giˊ}
+review: false
+setting: Saturday 14 October 2028, a small barber's shop on the old street in 苗栗. A-in works for the county's Hakka affairs
+  section (lesson 75) and is recording an interview for its Hakka radio slot; Sam holds the recorder. The barber is 添伯,
+  eighty, who has cut hair in the same shop for sixty years.
+names: [Sam, 阿英, 添伯, 苗栗, 臺北]
+dialogue:
+- n: 1
+  speaker: 阿英
+  en: 'Hello, listeners. Today I''m in Miaoli''s old street, interviewing a barber: 添伯.'
+  sx: {hanzi: 各位聽眾，大家好。今晡日𠊎在苗栗老街，訪問一位剃頭師傅：添伯。, pinyin: 'gogˋ vi tangˊ zung, tai gaˊ hoˋ. gimˊ buˊ ngidˋ ngaiˇ coiˊ meuˇ
+      lid loˋ gieˊ, fongˋ mun idˋ vi ti teuˇ siiˊ fu: tiamˊ bagˋ.'}
+- n: 2
+  speaker: 阿英
+  en: 添伯, how long have you been cutting hair?
+  sx: {hanzi: 添伯，你剃頭剃幾久吔？, pinyin: 'tiamˊ bagˋ, nˇ ti teuˇ ti gidˋ giuˋ leˊ?'}
+- n: 3
+  speaker: 添伯
+  en: Sixty years. I started learning at fifteen and finished my apprenticeship at eighteen.
+  sx: {hanzi: 六十年吔。十五歲學剃頭，十八歲出師。, pinyin: 'liugˋ siib ngienˇ leˊ. siib ngˋ se hog ti teuˇ, siib badˋ se cudˋ siiˊ.'}
+- n: 4
+  speaker: 阿英
+  en: Was it hard, learning the trade?
+  sx: {hanzi: 學剃頭當辛苦無？, pinyin: 'hog ti teuˇ dongˊ xinˊ kuˋ moˇ?'}
+- n: 5
+  speaker: 添伯
+  en: 'Very. Every day I was up at first light: sweeping the floor, boiling water, washing the towels.'
+  sx: {hanzi: 當辛苦。逐日臨天光仔就愛䟘床，掃地泥、燒水、洗面帕。, pinyin: 'dongˊ xinˊ kuˋ. dagˋ ngidˋ limˇ tienˊ gongˊ eˋ qiu oi hong congˇ, so
+      ti naiˇ, seuˊ suiˋ, seˋ mien pa.'}
+- n: 6
+  speaker: 添伯
+  en: 'My master was strict: get something wrong, and he''d give you a telling-off.'
+  sx: {hanzi: 師傅當惡，做毋好就分佢罵。, pinyin: 'siiˊ fu dongˊ ogˋ, zo mˇ hoˋ qiu bunˊ giˇ ma.'}
+- n: 7
+  speaker: 阿英
+  en: In those days, who came for a haircut?
+  sx: {hanzi: 頭擺來剃頭个人，係麼人較多？, pinyin: 'teuˇ baiˋ loiˇ ti teuˇ ge nginˇ, he maˋ nginˇ ka doˊ?'}
+- n: 8
+  speaker: 添伯
+  en: Labourers, tradesmen, all sorts. Rich or poor, everybody's hair needs cutting.
+  sx: {hanzi: 工人、生理人都有。有錢人、窮人，頭那毛都愛剃。, pinyin: 'gungˊ nginˇ, senˊ liˊ nginˇ du iuˊ. iuˊ qienˇ nginˇ, kiungˇ nginˇ, teuˇ
+      naˇ moˊ du oi ti.'}
+- n: 9
+  speaker: 添伯
+  en: 'Haircut, shave, and a hair wash with soap: thirty dollars.'
+  sx: {hanzi: 剃頭、刨鬚菇、用茶箍洗頭，三十銀。, pinyin: 'ti teuˇ, pauˇ xiˊ guˊ, iung caˇ guˊ seˋ teuˇ, samˊ siib ngiunˇ.'}
+- n: 10
+  speaker: 阿英
+  en: Thirty dollars! Today a bowl of 粄條 costs sixty.
+  sx: {hanzi: 三十銀！這下一碗粄條都愛六十銀。, pinyin: samˊ siib ngiunˇ! iaˋ ha idˋ vonˋ banˋ tiauˇ du oi liugˋ siib ngiunˇ.}
+- n: 11
+  speaker: Sam
+  en: 添伯, how do you shave someone without cutting them?
+  sx: {hanzi: 添伯，刨鬚菇愛仰般刨，正毋會割著？, pinyin: 'tiamˊ bagˋ, pauˇ xiˊ guˊ oi ngiongˋ banˊ pauˇ, zang mˇ voi godˋ doˋ?'}
+- n: 12
+  speaker: 添伯
+  en: First press a hot towel on the chin; then it's easier to shave.
+  sx: {hanzi: 下𪘒先用燒面帕揞揞啊，正較好刨鬚菇。, pinyin: 'haˊ ngamˊ xienˊ iung seuˊ mien pa emˊ emˊ a, zang ka hoˋ pauˇ xiˊ guˊ.'}
+  source: kaga115
+- n: 13
+  speaker: 阿英
+  en: 'Your skill is excellent. As they say: three strokes of the hoe, two baskets full.'
+  sx: {hanzi: 你个手藝當好，人講：三下钁頭兩畚箕。, pinyin: 'nˇ ge suˋ ngi dongˊ hoˋ, nginˇ gongˋ: samˊ ha giogˋ teuˇ liongˋ bun giˊ.'}
+- n: 14
+  speaker: 添伯
+  en: (laughing) Oh, go on. Do it long enough and you get used to it.
+  sx: {hanzi: 莫恁講。做久就慣勢吔。, pinyin: mog anˋ gongˋ. zo giuˋ qiu guan se leˊ.}
+- n: 15
+  speaker: 阿英
+  en: These days perms are more in fashion among young people. How's business?
+  sx: {hanzi: 這下後生人較時行電毛，你个生理還好無？, pinyin: 'iaˋ ha heu sangˊ nginˇ ka siiˇ hangˇ tien moˊ, nˇ ge senˊ liˊ hanˇ hoˋ
+      moˇ?'}
+- n: 16
+  speaker: 添伯
+  en: 'They''re mostly people I know: customers of thirty or forty years. A tradesman must have a conscience; then the customers come back.'
+  sx: {hanzi: 多係熟事人，三四十年个老人客。生理人愛有良心，人客正會轉來。, pinyin: 'doˊ he sug sii nginˇ, samˊ xi siib ngienˇ ge loˋ nginˇ hagˋ. senˊ liˊ nginˇ oi iuˊ liongˇ ximˊ, nginˇ hagˋ zang voi zonˋ loiˇ.'}
+- n: 17
+  speaker: 添伯
+  en: One became a film star. I cut his hair when he was little, and when he comes back he still comes to me.
+  sx: {hanzi: 有一隻做明星，細時節分𠊎剃頭，這下轉來，還係來尋𠊎。, pinyin: 'iuˊ idˋ zagˋ zo minˇ senˊ, se siiˇ jiedˋ bunˊ ngaiˇ ti teuˇ, iaˋ ha zonˋ
+      loiˇ, hanˇ he loiˇ qimˇ ngaiˇ.'}
+- n: 18
+  speaker: 添伯
+  en: 'One''s a lawyer, one''s a manager: when the company sends him on a business trip, he comes for a cut on his way back.'
+  sx: {hanzi: 有一隻做律師，有一隻做經理，公司派佢出差，轉來就來剃頭。, pinyin: 'iuˊ idˋ zagˋ zo lid siiˊ, iuˊ idˋ zagˋ zo ginˊ liˊ, gungˊ siiˊ pai giˇ cudˋ caiˊ,
+      zonˋ loiˇ qiu loiˇ ti teuˇ.'}
+- n: 19
+  speaker: 阿英
+  en: Have any of your children learnt to cut hair?
+  sx: {hanzi: 你个子女有學剃頭無？, pinyin: 'nˇ ge ziiˋ ngˋ iuˊ hog ti teuˇ moˇ?'}
+- n: 20
+  speaker: 添伯
+  en: My daughter runs a salon. She does perms and styling. But she doesn't do barbering.
+  sx: {hanzi: 吾妹仔開電毛店，佢會電毛、會設計頭那毛。毋過佢毋剃頭。, pinyin: 'ngaˊ moi eˋ koiˊ tien moˊ diam, giˇ voi tien moˊ, voi sadˋ gie teuˇ
+      naˇ moˊ. mˇ go giˇ mˇ ti teuˇ.'}
+- n: 21
+  speaker: 添伯
+  en: My son works in an office in Taipei, in sales, selling electronics.
+  sx: {hanzi: 吾倈仔在臺北个辦公室做業務，賣電子產品。, pinyin: 'ngaˊ lai eˋ coiˊ toiˇ bedˋ ge pan gungˊ siidˋ zo ngiab vu, mai tien ziiˋ sanˋ
+      pinˋ.'}
+- n: 22
+  speaker: 阿英
+  en: Have you ever thought of retiring?
+  sx: {hanzi: 你想過退休無？, pinyin: 'nˇ xiongˋ go tui hiuˊ moˇ?'}
+- n: 23
+  speaker: 添伯
+  en: I have. But if I gave up work, where would these old customers go for a haircut?
+  sx: {hanzi: 想過。毋過𠊎若係辭頭路，這兜老人客愛去哪位剃頭？, pinyin: 'xiongˋ go. mˇ go ngaiˇ na he ciiˇ teuˇ lu, iaˋ deuˊ loˋ nginˇ hagˋ oi hi
+      nai vi ti teuˇ?'}
+- n: 24
+  speaker: 添伯
+  en: 'I only take time off twice a year: New Year and Mid-Autumn.'
+  sx: {hanzi: 𠊎一年淨請假兩擺：過年同八月半。, pinyin: 'ngaiˇ idˋ ngienˇ qiang qiangˋ gaˋ liongˋ baiˋ: go ngienˇ tungˇ badˋ ngied ban.'}
+  check: true
+- n: 25
+  speaker: 阿英
+  en: 'Last of all: is there anything you''d like to say to our listeners?'
+  sx: {hanzi: 最後，你有麼个話愛同聽眾講？, pinyin: 'zui heu, nˇ iuˊ maˋ ge fa oi tungˇ tangˊ zung gongˋ?'}
+- n: 26
+  speaker: 添伯
+  en: Get your hair cut nicely and you'll look sharp. You're welcome to drop in!
+  sx: {hanzi: 頭那毛剃好，人就有精神。歡迎來尞！, pinyin: 'teuˇ naˇ moˊ ti hoˋ, nginˇ qiu iuˊ jinˊ siinˇ. fonˊ ngiangˇ loiˇ liau!'}
+- n: 27
+  speaker: Sam
+  en: (when the recorder is off) 添伯, could I have a cut?
+  sx: {hanzi: 添伯，𠊎做得剃一下無？, pinyin: 'tiamˊ bagˋ, ngaiˇ zo dedˋ ti idˋ ha moˇ?'}
+- n: 28
+  speaker: 添伯
+  en: Sit down! Sixty years in this shop, and you're my first Frenchman.
+  sx: {hanzi: 坐！六十年來，你係𠊎頭一隻法國人客。, pinyin: 'coˊ! liugˋ siib ngienˇ loiˇ, nˇ he ngaiˇ teuˇ idˋ zagˋ fabˋ guedˋ nginˇ hagˋ.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A radio interview. The title is a saying from the official lists (高級): 三下钁頭兩畚箕 "three strokes of the hoe and two baskets
+    are full", for a job done with ease, or a person who works fast and well (這件事情對你來講係三下钁頭兩畚箕定定 "for you this is child's
+    play"). 钁頭 is a hoe, 畚箕 a basket.
+- ref: 1
+  topic: vocab
+  text: >
+    剃頭 ti teuˇ "cut hair; have a haircut" (剃頭那毛). 剃頭師傅 "barber". 老街 "old street" appears in an official sentence (大溪个老街…).
+    聽眾 (lesson 80).
+- ref: 3
+  topic: vocab
+  text: >
+    出師 cudˋ siiˊ "finish one's apprenticeship" (厥功夫異到家吔，做得出師哩 "his skill is first-rate: he can set up on his own").
+- ref: 6
+  topic: grammar
+  text: >
+    分佢罵 "get told off by him": the passive 分 (lesson 41 taught 罵). 惡 "strict, harsh" (進修 2).
+- ref: 8
+  topic: vocab
+  text: >
+    工人 gungˊ nginˇ "labourer, worker" (工人靠苦力賺錢), 生理人 senˊ liˊ nginˇ "businessman, tradesman" (生理人愛有良心 "a tradesman must
+    have a conscience"). 有錢人 "the rich" (literally "people with money").
+- ref: 9
+  topic: vocab
+  text: >
+    刨鬚菇 pauˇ xiˊ guˊ "shave" (鬚菇 "beard", 刨 "plane, shave"). 洗頭 "wash one's hair".
+- ref: 9
+  topic: vocab
+  text: >
+    茶箍 caˇ guˊ "soap" (originally the cake left after pressing tea-seed oil, used for washing).
+- ref: 12
+  topic: vocab
+  text: >
+    An official sentence (kaga115). 下𪘒 haˊ ngamˊ "chin"; 揞揞啊 "press on for a moment" (VV啊, grammar inventory §5).
+- ref: 14
+  topic: vocab
+  text: >
+    慣勢 guan se "be used to" (lesson 57).
+- ref: 15
+  topic: vocab
+  text: >
+    時行 siiˇ hangˇ "be in fashion, be popular" (跈時行 "follow the fashion"). 電毛店 tien moˊ diam "hair salon" (literally "electric-hair
+    shop", after the perm; line 20); 電毛 "perm; give a perm" (今个人較流行電毛 "people go in for perms these days", the model for line 15).
+- ref: 16
+  topic: vocab
+  text: >
+    熟事人 sug sii nginˇ "acquaintance, someone you know" (堵著熟事人愛相借問). 人客 "customer" (lesson 16). 生理人愛有良心 "a tradesman must have a conscience" is an official sentence; 良心 liongˇ ximˊ "conscience".
+- ref: 17
+  topic: vocab
+  text: >
+    明星 minˇ senˊ "star (film, TV)" (做明星無恁該 "being a star isn't easy").
+- ref: 18
+  topic: vocab
+  text: >
+    律師 lid siiˊ "lawyer", 經理 ginˊ liˊ "manager", 出差 cudˋ caiˊ "go on a business trip"; 公司派佢出差 "the company sends him on a business trip" is an official sentence (派 pai "send").
+- ref: 20
+  topic: vocab
+  text: >
+    設計 sadˋ gie "design, style"; the lists also give it the sense "scheme against" (分人設計 "be set up").
+- ref: 21
+  topic: vocab
+  text: >
+    辦公室 pan gungˊ siidˋ "office", 業務 ngiab vu "business, sales" (這業務係佢負責个), 電子產品 "electronics" (an official example: 產品
+    sanˋ pinˋ "product").
+- ref: 23
+  topic: vocab
+  text: >
+    辭頭路 "give up one's job" (辭 ciiˇ "resign, take leave"); 分人辭頭路 is "be sacked".
+- ref: 24
+  topic: vocab
+  text: >
+    請假 qiangˋ gaˋ "take time off" (下禮拜一請假). In the lists it is asking an employer for leave; a self-employed barber using it is ours, marked for review.
+new_words:
+- {hanzi: 剃頭, pinyin: ti teuˇ, en: cut hair; have a haircut}
+- {hanzi: 出師, pinyin: cudˋ siiˊ, en: finish an apprenticeship}
+- {hanzi: 工人, pinyin: gungˊ nginˇ, en: 'labourer, worker'}
+- {hanzi: 生理人, pinyin: senˊ liˊ nginˇ, en: 'businessman, tradesman'}
+- {hanzi: 刨鬚菇, pinyin: pauˇ xiˊ guˊ, en: shave}
+- {hanzi: 洗頭, pinyin: seˋ teuˇ, en: wash one's hair}
+- {hanzi: 刨, pinyin: pauˇ, en: 'plane, shave'}
+- {hanzi: 下𪘒, pinyin: haˊ ngamˊ, en: chin}
+- {hanzi: 茶箍, pinyin: caˇ guˊ, en: soap}
+- {hanzi: 三下钁頭兩畚箕, pinyin: samˊ ha giogˋ teuˇ liongˋ bun giˊ, en: done with ease; quick and capable}
+- {hanzi: 時行, pinyin: siiˇ hangˇ, en: be in fashion}
+- {hanzi: 電毛店, pinyin: tien moˊ diam, en: hair salon}
+- {hanzi: 熟事人, pinyin: sug sii nginˇ, en: acquaintance}
+- {hanzi: 明星, pinyin: minˇ senˊ, en: 'star (film, TV)'}
+- {hanzi: 律師, pinyin: lid siiˊ, en: lawyer}
+- {hanzi: 經理, pinyin: ginˊ liˊ, en: manager}
+- {hanzi: 出差, pinyin: cudˋ caiˊ, en: go on a business trip}
+- {hanzi: 電毛, pinyin: tien moˊ, en: perm (hair)}
+- {hanzi: 設計, pinyin: sadˋ gie, en: design}
+- {hanzi: 辦公室, pinyin: pan gungˊ siidˋ, en: office}
+- {hanzi: 業務, pinyin: ngiab vu, en: 'business, sales'}
+- {hanzi: 電子, pinyin: tien ziiˋ, en: electronic}
+- {hanzi: 產品, pinyin: sanˋ pinˋ, en: product}
+- {hanzi: 辭, pinyin: ciiˇ, en: 'resign, give up (a job)'}
+- {hanzi: 請假, pinyin: qiangˋ gaˋ, en: take time off}
+- {hanzi: 剃, pinyin: ti, en: 'shave, cut (hair)'}
+- {hanzi: 派, pinyin: pai, en: send (someone somewhere)}
+- {hanzi: 良心, pinyin: liongˇ ximˊ, en: conscience}
+exercises:
+  translate:
+  - en: For you this is child's play.
+    source: kaga115
+    sx: {hanzi: 這件事情對你來講係三下钁頭兩畚箕定定。, pinyin: iaˋ kien sii qinˇ dui nˇ loiˇ gongˋ he samˊ ha giogˋ teuˇ liongˋ bun giˊ tin
+        tin.}
+  - en: A tradesman must have a conscience.
+    source: kaga115
+    sx: {hanzi: 生理人愛有良心。, pinyin: senˊ liˊ nginˇ oi iuˊ liongˇ ximˊ.}
+  - en: The company sent him on a business trip.
+    source: kaga115
+    sx: {hanzi: 公司派佢出差。, pinyin: gungˊ siiˊ pai giˇ cudˋ caiˊ.}
+  - en: I'm taking next Monday off.
+    source: kaga115
+    sx: {hanzi: 下禮拜一請假。, pinyin: ha liˊ bai idˋ qiangˋ gaˋ.}
+  - en: Being a star isn't easy.
+    sx: {hanzi: 做明星無恁簡單。, pinyin: zo minˇ senˊ moˇ anˋ gienˋ danˊ.}
+  fill:
+  - en: How long have you been cutting hair?
+    sx: {hanzi: 你___剃幾久吔？, pinyin: 'nˇ ___ ti gidˋ giuˋ leˊ?', answer_hanzi: 剃頭, answer: ti teuˇ}
+  - en: I finished my apprenticeship at eighteen.
+    sx: {hanzi: 十八歲___。, pinyin: siib badˋ se ___., answer_hanzi: 出師, answer: cudˋ siiˊ}
+  - en: Perms are more in fashion among young people.
+    sx: {hanzi: 後生人較___電毛。, pinyin: heu sangˊ nginˇ ka ___ tien moˊ., answer_hanzi: 時行, answer: siiˇ hangˇ}
+  - en: Most of them are people I know.
+    sx: {hanzi: 多係___。, pinyin: doˊ he ___., answer_hanzi: 熟事人, answer: sug sii nginˇ}
+  - en: I only take two days off a year.
+    sx: {hanzi: 𠊎一年淨___兩擺。, pinyin: ngaiˇ idˋ ngienˇ qiang ___ liongˋ baiˋ., answer_hanzi: 請假, answer: qiangˋ gaˋ}
+audio: []

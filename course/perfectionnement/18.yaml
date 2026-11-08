@@ -1,0 +1,235 @@
+id: 18
+genre: article
+title:
+  en: When the earthquake comes
+  sx: {hanzi: 地動來个時節, pinyin: ti tungˊ loiˇ ge siiˇ jiedˋ}
+review: false
+setting: Monday 23 October 2028. On Saturday night a small earthquake woke Sam up, and today A-in showed him
+  an article from the county's Hakka newsletter. The facts about the 1999 earthquake are general knowledge, kept to round
+  figures; the advice is the usual safety advice, not an official text.
+names: [臺灣]
+dialogue:
+- n: 1
+  en: When the earthquake comes
+  sx: {hanzi: 地動來个時節, pinyin: ti tungˊ loiˇ ge siiˇ jiedˋ}
+- n: 2
+  en: Taiwan is an island, and it has a great many earthquakes.
+  sx: {hanzi: 臺灣係一隻島，地動當多。, pinyin: 'toiˇ vanˇ he idˋ zagˋ doˋ, ti tungˊ dongˊ doˊ.'}
+- n: 3
+  en: Most of them are very small; people can't even feel them.
+  sx: {hanzi: 當多地動當細，人感覺毋著。, pinyin: 'dongˊ doˊ ti tungˊ dongˊ se, nginˇ gamˋ gogˋ mˇ doˋ.'}
+  check: true
+- n: 4
+  en: "But some are very big: magnitude six or seven."
+  sx: {hanzi: 毋過，有兜地動當大，有六、七級。, pinyin: 'mˇ go, iuˊ deuˊ ti tungˊ dongˊ tai, iuˊ liugˋ, qidˋ kibˋ.'}
+- n: 5
+  en: On 21 September 1999, just after one in the morning, a great earthquake struck central Taiwan.
+  sx: {hanzi: 一九九九年九月二十一號，半夜一點過，臺灣中部大地動。, pinyin: 'idˋ giuˋ giuˋ giuˋ ngienˇ giuˋ ngied ngi siib idˋ ho, ban ia idˋ diamˋ
+      go, toiˇ vanˇ zungˊ pu tai ti tungˊ.'}
+- n: 6
+  en: 'It shook terribly: houses collapsed, roads broke apart, and bridges too.'
+  sx: {hanzi: 地動當搖，屋崩忒，路斷忒，橋乜斷忒。, pinyin: 'ti tungˊ dongˊ ieuˇ, vugˋ benˊ tedˋ, lu tonˊ tedˋ, kieuˇ me tonˊ tedˋ.'}
+- n: 7
+  en: The earthquake shook hard, and garden walls toppled over.
+  sx: {hanzi: 地動當搖，圍牆橫下來。, pinyin: 'ti tungˊ dongˊ ieuˇ, viˇ qiongˇ vangˇ haˊ loiˇ.'}
+  source: kaga115
+- n: 8
+  en: In the hills, cliffs gave way, and rocks crushed houses and cars.
+  sx: {hanzi: 山項崩崗，石頭矺著屋同車仔。, pinyin: 'sanˊ hong benˊ gongˊ, sag teuˇ zagˋ doˋ vugˋ tungˇ caˊ eˋ.'}
+  check: true
+- n: 9
+  en: Some temples were half destroyed too.
+  sx: {hanzi: 有兜廟乜崩忒一半。, pinyin: iuˊ deuˊ meu me benˊ tedˋ idˋ ban.}
+  check: true
+- n: 10
+  en: More than two thousand people died in that earthquake, and the damage was beyond counting.
+  sx: {hanzi: 該擺地動消忒兩千過个人，損失無法度計算。, pinyin: 'ge baiˋ ti tungˊ xiauˊ tedˋ liongˋ qienˊ go ge nginˇ, sunˋ siidˋ moˇ fabˋ tu gie
+      son.'}
+- n: 11
+  en: 'One old man said: ''That night the house rocked like a boat; I carried my wife out on my back.'''
+  sx: {hanzi: 有一隻阿伯講：「該暗晡屋搖到像船仔樣，𠊎揹等餔娘逃出來。」, pinyin: 'iuˊ idˋ zagˋ aˊ bagˋ gongˋ: ge am buˊ vugˋ ieuˇ do qiong sonˇ eˋ iong,
+      ngaiˇ baˇ denˋ buˊ ngiongˇ toˇ cudˋ loiˇ.'}
+- n: 12
+  en: Soldiers and firemen worked day and night to save people.
+  sx: {hanzi: 兵仔同消防隊日夜都在該救人。, pinyin: binˊ eˋ tungˇ seuˊ fongˇ cui ngidˋ ia du du ge giu nginˇ.}
+  check: true
+- n: 13
+  en: People in Taiwan still remember that earthquake today.
+  sx: {hanzi: 臺灣人到今還記得該擺地動。, pinyin: toiˇ vanˇ nginˇ do gimˊ hanˇ gi dedˋ ge baiˋ ti tungˊ.}
+- n: 14
+  en: 'After it, the government improved the building regulations: houses must be built to stand firmer.'
+  sx: {hanzi: 該擺過後，政府改善建築个規定，屋愛起到較穩。, pinyin: 'ge baiˋ go heu, ziin fuˋ goiˋ san gien zugˋ ge guiˊ tin, vugˋ oi hiˋ do ka
+      vunˋ.'}
+- n: 15
+  en: When an earthquake comes, what should you do?
+  sx: {hanzi: 地動來个時節，愛仰般做？, pinyin: 'ti tungˊ loiˇ ge siiˇ jiedˋ, oi ngiongˋ banˊ zo?'}
+- n: 16
+  en: 'One: don''t panic, and don''t run outside.'
+  sx: {hanzi: 第一：莫驚，莫走出去外背。, pinyin: 'ti idˋ: mog giangˊ, mog zeuˋ cudˋ hi ngoi boi.'}
+- n: 17
+  en: 'Two: crouch under a table and cover your head with your hands.'
+  sx: {hanzi: 第二：跍在桌仔下，用手揞等頭那。, pinyin: 'ti ngi: guˊ coiˊ zogˋ eˋ haˊ, iung suˋ emˊ denˋ teuˇ naˇ.'}
+- n: 18
+  en: 'Three: keep away from windows; the glass can fall.'
+  sx: {hanzi: 第三：離窗門較遠兜，玻璃會跌下來。, pinyin: 'ti samˊ: liˇ cungˊ munˇ ka ienˋ deuˊ, boˊ liˇ voi diedˋ haˊ loiˇ.'}
+- n: 19
+  en: Once the shaking stops, check the gas first, and don't light a fire.
+  sx: {hanzi: 地動停忒過後，先檢查瓦斯，莫用火。, pinyin: 'ti tungˊ tinˇ tedˋ go heu, xienˊ giamˋ caˇ ngaˋ siiˊ, mog iung foˋ.'}
+- n: 20
+  en: Keep water, food and a torch ready at home.
+  sx: {hanzi: 屋下愛準備水、食物同手電筒仔。, pinyin: 'vugˋ kaˊ oi zunˋ pi suiˋ, siid vud tungˇ suˋ tien tungˇ eˋ.'}
+- n: 21
+  en: 'Prevention matters more than anything: schools practise every year.'
+  sx: {hanzi: 預防盡重要：學校逐年都會練習。, pinyin: 'i fongˇ qin cung ieu: hog gauˋ dagˋ ngienˇ du voi lien xib.'}
+- n: 22
+  en: In 1999, a great many people came to help.
+  sx: {hanzi: 一九九九年，當多人來幫助。, pinyin: 'idˋ giuˋ giuˋ giuˋ ngienˇ, dongˊ doˊ nginˇ loiˇ bongˊ cu.'}
+- n: 23
+  en: People all over Taiwan gave money; some gave everything they had in their pockets.
+  sx: {hanzi: 全臺灣个人都捐錢，有兜人袋仔肚个錢都捐忒。, pinyin: 'qionˇ toiˇ vanˇ ge nginˇ du gienˊ qienˇ, iuˊ deuˊ nginˇ toi eˋ duˋ ge qienˇ
+      du gienˊ tedˋ.'}
+- n: 24
+  en: An earthquake can't be stopped; but if we're prepared, the damage can be smaller.
+  sx: {hanzi: 地動擋毋著，毋過準備好來，損失就會較少。, pinyin: 'ti tungˊ dongˋ mˇ doˋ, mˇ go zunˋ pi hoˋ loiˇ, sunˋ siidˋ qiu voi ka seuˋ.'}
+  check: true
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    An article. The 1999 earthquake (九二一大地動) struck central Taiwan at 1.47 in the morning of 21 September (the article says 一點過, "after one")
+    and killed more than two thousand people (general knowledge; the article keeps to round figures). An official sentence
+    remembers it: 921地動當搖 "the 921 quake shook terribly".
+- ref: 1
+  topic: vocab
+  text: >
+    地動 ti tungˊ "earthquake" (昨晡日个地動有七級 "yesterday's quake was magnitude seven"; 級 counts the scale). Note tungˊ.
+- ref: 2
+  topic: vocab
+  text: >
+    島 doˋ "island" (宜蘭个東方有一個龜山島).
+- ref: 3
+  topic: vocab
+  text: >
+    感覺毋著 "can't feel it": V毋著 (doˋ) "not manage to" (checklist).
+- ref: 6
+  topic: vocab
+  text: >
+    搖 ieuˇ "shake, sway". 崩忒 "collapse" (崩, lesson 89); 斷 (lesson 45) "break in two".
+- ref: 7
+  topic: vocab
+  text: >
+    An official sentence (kaga115). 圍牆 viˇ qiongˇ "garden wall"; 橫下來 "topple over" (橫 vangˇ "across, lying flat": 這竹篙打橫放
+    "lay this bamboo pole across").
+- ref: 8
+  topic: vocab
+  text: >
+    崩崗 benˊ gongˊ "landslip, cliff giving way" (大地動崩崗…造成當大个災害). 矺 zagˋ "weigh down, crush" (矺等 "keep it pressed down"; a
+    高級 word in the lists). 矺著 "crushed (something)" is our use; marked for review.
+- ref: 9
+  topic: vocab
+  text: >
+    一半 idˋ ban "half": 崩忒一半 "half collapsed". The line is generic (some temples were damaged); marked for review.
+- ref: 10
+  topic: vocab
+  text: >
+    損失 sunˋ siidˋ "loss, damage", 計算 gie son "calculate": 損失無法度計算 is from an official sentence about a typhoon. 兩千過个人 "more
+    than two thousand people": number + 過 still takes its classifier, as in the official 孫仔有十過個 and 萬過斤樵 (checklist).
+    該擺 "that time" for a past event (這擺 is "this time").
+- ref: 11
+  topic: vocab
+  text: >
+    逃 toˇ "flee, escape" (MOE): 逃出來 "get out". 揹 "carry on one's back" (lesson 29). The old man's words are the article's
+    invention.
+- ref: 12
+  topic: vocab
+  text: >
+    兵仔 binˊ eˋ "soldier"; 消防隊 seuˊ fongˇ cui "fire brigade" (checklist: emergencies call 119 and the 消防隊 comes). 日夜 "day
+    and night". 在該 du ge + verb "were …ing".
+- ref: 14
+  topic: vocab
+  text: >
+    建築 gien zugˋ "building, construction"; 規定 guiˊ tin "rule, regulation"; 穩 vunˋ "steady, firm" (企愛企穩來 "stand steady").
+- ref: 17
+  topic: vocab
+  text: >
+    跍 guˊ "crouch, squat" (做事一下跍一下企). 揞 (進修 5) "cover with the hand".
+- ref: 18
+  topic: vocab
+  text: >
+    玻璃 boˊ liˇ "glass". 離 X 較遠兜 "a bit further from X".
+- ref: 19
+  topic: vocab
+  text: >
+    瓦斯 ngaˋ siiˊ "gas (for cooking)", a loanword from Japanese.
+- ref: 21
+  topic: vocab
+  text: >
+    預防 i fongˇ "prevent; prevention". 盡重要 "most important" (盡 "most" here; checklist).
+- ref: 22
+  topic: vocab
+  text: >
+    幫助 bongˊ cu "help" (食這敢有幫助？ "does eating this help?").
+- ref: 23
+  topic: vocab
+  text: >
+    捐 gienˊ "donate", 捐錢 "give money" (愛喊佢捐錢，就像愛摎佢挷毛樣, 進修 1's note).
+- ref: 24
+  topic: vocab
+  text: >
+    擋毋著 "can't be stopped": 擋 dongˋ "block, stop".
+new_words:
+- {hanzi: 地動, pinyin: ti tungˊ, en: earthquake}
+- {hanzi: 島, pinyin: doˋ, en: island}
+- {hanzi: 中部, pinyin: zungˊ pu, en: the centre (of a country)}
+- {hanzi: 搖, pinyin: ieuˇ, en: 'shake, sway'}
+- {hanzi: 圍牆, pinyin: viˇ qiongˇ, en: 'garden wall, enclosure wall'}
+- {hanzi: 橫, pinyin: vangˇ, en: 'across, lying flat; topple'}
+- {hanzi: 崩崗, pinyin: benˊ gongˊ, en: 'landslip, cliff collapse'}
+- {hanzi: 矺, pinyin: zagˋ, en: 'weigh down, crush'}
+- {hanzi: 損失, pinyin: sunˋ siidˋ, en: 'loss, damage'}
+- {hanzi: 計算, pinyin: gie son, en: calculate}
+- {hanzi: 建築, pinyin: gien zugˋ, en: 'building, construction'}
+- {hanzi: 規定, pinyin: guiˊ tin, en: 'rule, regulation'}
+- {hanzi: 跍, pinyin: guˊ, en: 'crouch, squat'}
+- {hanzi: 玻璃, pinyin: boˊ liˇ, en: glass}
+- {hanzi: 瓦斯, pinyin: ngaˋ siiˊ, en: gas (for cooking)}
+- {hanzi: 預防, pinyin: i fongˇ, en: prevent; prevention}
+- {hanzi: 幫助, pinyin: bongˊ cu, en: help}
+- {hanzi: 捐錢, pinyin: gienˊ qienˇ, en: donate money}
+- {hanzi: 捐, pinyin: gienˊ, en: donate}
+- {hanzi: 擋, pinyin: dongˋ, en: 'block, stop'}
+- {hanzi: 級, pinyin: kibˋ, en: 'level, grade; magnitude'}
+- {hanzi: 穩, pinyin: vunˋ, en: 'steady, firm'}
+- {hanzi: 一半, pinyin: idˋ ban, en: half}
+- {hanzi: 逃, pinyin: toˇ, en: 'flee, escape'}
+- {hanzi: 兵仔, pinyin: binˊ eˋ, en: soldier}
+- {hanzi: 消防隊, pinyin: seuˊ fongˇ cui, en: fire brigade}
+- {hanzi: 日夜, pinyin: ngidˋ ia, en: day and night}
+exercises:
+  translate:
+  - en: Yesterday's earthquake was magnitude seven.
+    source: kaga115
+    sx: {hanzi: 昨晡日个地動有七級。, pinyin: coˊ buˊ ngidˋ ge ti tungˊ iuˊ qidˋ kibˋ.}
+  - en: The 921 earthquake shook terribly.
+    source: kaga115
+    sx: {hanzi: 921地動當搖。, pinyin: 921 ti tungˊ dongˊ ieuˇ.}
+  - en: The damage from this typhoon is beyond counting.
+    source: kaga115
+    sx: {hanzi: 這擺風搓个損失無法度計算。, pinyin: iaˋ baiˋ fungˊ caiˊ ge sunˋ siidˋ moˇ fabˋ tu gie son.}
+  - en: Houses must be built to stand firm.
+    sx: {hanzi: 屋愛起到穩。, pinyin: vugˋ oi hiˋ do vunˋ.}
+  - en: Does eating this help?
+    source: kaga115
+    sx: {hanzi: 食這敢有幫助？, pinyin: 'siid iaˋ gamˋ iuˊ bongˊ cu?'}
+  fill:
+  - en: Taiwan is an island.
+    sx: {hanzi: 臺灣係一隻___。, pinyin: toiˇ vanˇ he idˋ zagˋ ___., answer_hanzi: 島, answer: doˋ}
+  - en: It shook terribly.
+    sx: {hanzi: 地動當___。, pinyin: ti tungˊ dongˊ ___., answer_hanzi: 搖, answer: ieuˇ}
+  - en: Crouch under a table.
+    sx: {hanzi: ___在桌仔下。, pinyin: ___ coiˊ zogˋ eˋ haˊ., answer_hanzi: 跍, answer: guˊ}
+  - en: Check the gas first.
+    sx: {hanzi: 先檢查___。, pinyin: xienˊ giamˋ caˇ ___., answer_hanzi: 瓦斯, answer: ngaˋ siiˊ}
+  - en: Prevention matters most.
+    sx: {hanzi: ___盡重要。, pinyin: ___ qin cung ieu., answer_hanzi: 預防, answer: i fongˇ}
+audio: []

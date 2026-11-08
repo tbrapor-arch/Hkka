@@ -1,0 +1,293 @@
+id: 2
+genre: play
+title:
+  en: "Burning the house down to chase out a rat"
+  sx: {hanzi: "放火燒屋逐老鼠", pinyin: "biong foˋ seuˊ vugˋ giugˋ lo cuˋ"}
+review: false
+setting: >-
+  Monday 17 July 2028, a hot afternoon. Sam moves into the room he has rented near 聯合大學: second floor, up a
+  steep staircase. A-in drove him over with his boxes; A-min came to carry them. Nobody has cleaned the room since
+  the last tenant left.
+names: [Sam, 阿英, 阿明, 阿婆]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "(at the foot of the stairs) These stairs are so steep, and the box is heavy. You take that end, I'll take this one."
+    sx: {hanzi: "梯排恁斜，箱仔又重，你扛該頭，𠊎扛這頭。", pinyin: "toiˊ paiˇ anˋ qiaˇ, xiongˊ eˋ iu cungˊ, nˇ gongˊ ge teuˇ, ngaiˇ gongˊ iaˋ teuˇ."}
+  - n: 2
+    speaker: Sam
+    en: "OK. Take it slowly, don't push me!"
+    sx: {hanzi: "好。慢慢仔來，莫𢱤𠊎！", pinyin: "hoˋ. man man eˋ loiˇ, mog sungˋ ngaiˇ!"}
+  - n: 3
+    speaker: 阿英
+    en: "(below, with a smaller box) Tie the boxes up with string, then nothing falls out."
+    sx: {hanzi: "箱仔愛用索仔䌈好來，正毋會跌下來。", pinyin: "xiongˊ eˋ oi iung sogˋ eˇ tagˋ hoˋ loiˇ, zang mˇ voi diedˋ haˊ loiˇ."}
+  - n: 4
+    speaker: 阿英
+    en: "Sam, have you got the key in your pocket?"
+    sx: {hanzi: "Sam，鎖匙在你衫袋肚無？", pinyin: "Sam, soˋ siiˋ coiˊ nˇ samˊ toi duˋ moˇ?"}
+  - n: 5
+    speaker: Sam
+    en: "(opening the door) …Why is the floor so filthy?"
+    sx: {hanzi: "房間地泥仰恁屙糟？", pinyin: "fongˇ gienˊ ti naiˇ ngiongˋ anˋ oˊ zoˊ?"}
+    source: kaga115
+  - n: 6
+    speaker: 阿明
+    en: "There's an old calendar still on the wall, from the year before last!"
+    sx: {hanzi: "壁項還有一張舊日曆，係前年个！", pinyin: "biagˋ hong hanˇ iuˊ idˋ zongˊ kiu ngidˋ lag, he qienˇ ngienˇ ge!"}
+  - n: 7
+    speaker: Sam
+    en: "Tear it down."
+    sx: {hanzi: "扯忒佢。", pinyin: "caˋ tedˋ giˇ."}
+  - n: 8
+    speaker: 阿英
+    en: "The room's so narrow: where's the sofa going to go?"
+    sx: {hanzi: "房間恁狹，膨凳愛放哪位？", pinyin: "fongˇ gienˊ anˋ hab, pong den oi biong nai vi?"}
+  - n: 9
+    speaker: Sam
+    en: "By the window. And we'll move the bed further in."
+    sx: {hanzi: "放窗門脣。眠床徙去裡背。", pinyin: "biong cungˊ munˇ sunˇ. minˇ congˇ saiˋ hi diˊ boi."}
+  - n: 10
+    speaker: 阿明
+    en: "(covering his nose) The bathroom stinks. The toilet… I daren't look."
+    sx: {hanzi: "浴堂當臭，便所𠊎毋敢看。", pinyin: "iog tongˇ dongˊ cu, pien soˋ ngaiˇ mˇ gamˋ kon."}
+  - n: 11
+    speaker: 阿英
+    en: "Today we give it a thorough clean. A-min, you scrub the bathroom; Sam, you wipe the windows; I'll sweep the floor."
+    sx: {hanzi: "今晡日愛拚掃。阿明，你去搓浴堂；Sam，你抺窗門；𠊎來掃地泥。", pinyin: "gimˊ buˊ ngidˋ oi biang so. aˊ minˇ, nˇ hi co iog tongˇ; Sam, nˇ miˇ cungˊ munˇ; ngaiˇ loiˇ so ti naiˇ."}
+  - n: 12
+    speaker: Sam
+    en: "(at the chest of drawers) There aren't enough clothes hangers, I'll have to buy a few more. And there's a jar in this drawer; no idea who left it."
+    sx: {hanzi: "衫弓仔毋罅，愛買加兜仔。拖箱仔肚還有一隻盎仔，毋知麼人留个。", pinyin: "samˊ giungˊ eˋ mˇ la, oi maiˊ gaˊ deuˊ eˋ. toˊ xiongˊ eˋ duˋ hanˇ iuˊ idˋ zagˋ angˊ eˋ, mˇ diˊ maˋ nginˇ liuˇ ge."}
+  - n: 13
+    speaker: 阿明
+    en: "What's in the jar?"
+    sx: {hanzi: "盎仔肚有麼个？", pinyin: "angˊ eˋ duˋ iuˊ maˋ ge?"}
+  - n: 14
+    speaker: Sam
+    en: "No idea. It's got its lid on; better not open it."
+    sx: {hanzi: "毋知。佢弇等，莫打開較好。", pinyin: "mˇ diˊ. giˇ giemˇ denˋ, mog daˋ koiˊ ka hoˋ."}
+  - n: 15
+    speaker: 阿明
+    en: "(opening it anyway) …A cockroach! A flying cockroach!"
+    sx: {hanzi: "黃蚻！會飛个黃蚻！", pinyin: "vongˇ cad! voi biˊ ge vongˇ cad!"}
+  - n: 16
+    speaker: 阿英
+    en: "We told you not to open it, and you just won't listen!"
+    sx: {hanzi: "喊你莫打開，你就係毋聽！", pinyin: "ham nˇ mog daˋ koiˊ, nˇ qiu he mˇ tangˊ!"}
+  - n: 17
+    speaker: Sam
+    en: "(a slipper in his hand) Don't you run! …It's gone under the sofa."
+    sx: {hanzi: "莫走！……佢走入膨凳下吔。", pinyin: "mog zeuˋ! … giˇ zeuˋ ngib pong den haˊ leˊ."}
+  - n: 18
+    speaker: 阿明
+    en: "Get a lighter! Let's burn it out!"
+    sx: {hanzi: "拿火來！燒佢！", pinyin: "naˊ foˋ loiˇ! seuˊ giˇ!"}
+  - n: 19
+    speaker: 阿英
+    en: "For one cockroach? You want to burn the house down to chase out a rat, do you?"
+    sx: {hanzi: "為著一隻黃蚻，你愛放火燒屋逐老鼠係無？", pinyin: "vi doˋ idˋ zagˋ vongˇ cad, nˇ oi biong foˋ seuˊ vugˋ giugˋ lo cuˋ he moˇ?"}
+  - n: 20
+    speaker: Sam
+    en: "It's clever: one moment it was there, the next it was gone."
+    sx: {hanzi: "佢當精，一下仔就無看著吔。", pinyin: "giˇ dongˊ jinˊ, idˋ ha eˋ qiu moˇ kon doˋ leˊ."}
+  - n: 21
+    speaker: 阿明
+    en: "Sam, you poor thing: your first day, and you're sharing a room with a cockroach."
+    sx: {hanzi: "Sam，你恁衰過，第一日就同黃蚻歇共下。", pinyin: "Sam, nˇ anˋ coiˊ go, ti idˋ ngidˋ qiu tungˇ vongˇ cad hed kiung ha."}
+  - n: 22
+    speaker: 阿英
+    en: "Take the rubbish out every day, then the cockroaches won't come."
+    sx: {hanzi: "屋肚个地圾逐日愛倒，黃蚻正毋會來。", pinyin: "vugˋ duˋ ge ti sebˋ dagˋ ngidˋ oi do, vongˇ cad zang mˇ voi loiˇ."}
+  - n: 23
+    speaker: Sam
+    en: "Where's the washing machine?"
+    sx: {hanzi: "洗衫機在哪位？", pinyin: "seˋ samˊ giˊ coiˊ nai vi?"}
+  - n: 24
+    speaker: 阿英
+    en: "Under the stairs. Everyone shares it; it's very handy."
+    sx: {hanzi: "在梯排下，大家共下用，當利便。", pinyin: "coiˊ toiˊ paiˇ haˊ, tai gaˊ kiung ha iung, dongˊ li pien."}
+  - n: 25
+    speaker: 阿明
+    en: "(unpacking) Sam, why is your alarm clock so ugly?"
+    sx: {hanzi: "你个鬧鐘仰恁媸？", pinyin: "nˇ ge nau zungˊ ngiongˋ anˋ zeˋ?"}
+  - n: 26
+    speaker: Sam
+    en: "Grandma gave it to me. She says I mustn't be lazy: get up a bit earlier in the morning."
+    sx: {hanzi: "係阿婆分𠊎个。佢講毋好懶尸，朝晨愛早兜仔䟘床。", pinyin: "he aˊ poˇ bunˊ ngaiˇ ge. giˇ gongˋ mˇ hoˋ lanˊ siiˊ, zeuˊ siinˇ oi zoˋ deuˊ eˋ hong congˇ."}
+  - n: 27
+    speaker: 阿明
+    en: "My sister's a real tyrant: I've scrubbed till my hands hurt."
+    sx: {hanzi: "阿姊當惡哦，𠊎个手都搓到痛吔。", pinyin: "aˊ jiˋ dongˊ ogˋ oˊ, ngaiˇ ge suˋ du co do tung leˊ."}
+  - n: 28
+    speaker: 阿英
+    en: "There: the room's clean and tidy."
+    sx: {hanzi: "好吔，房間拚掃到正正吔。", pinyin: "hoˋ leˊ, fongˇ gienˊ biang so do zang zang leˊ."}
+  - n: 29
+    speaker: Sam
+    en: "(evening falls) Quiet! Did you hear that? There's a noise under the sofa."
+    sx: {hanzi: "莫講話！你兜聽著無？膨凳下有聲。", pinyin: "mog gongˋ fa! nˇ deuˊ tangˊ doˋ moˇ? pong den haˊ iuˊ sangˊ."}
+  - n: 30
+    speaker: 阿英
+    en: "(already at the door) We're off home! Put the key away safely and shut the windows."
+    sx: {hanzi: "𠊎兜愛轉去吔！鎖匙收好，窗門關好來。", pinyin: "ngaiˇ deuˊ oi zonˋ hi leˊ! soˋ siiˋ suˊ hoˋ, cungˊ munˇ guanˊ hoˋ loiˇ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A play: stage directions in brackets, in English only. The title is a saying from the official lists (高級):
+      放火燒屋逐老鼠 "set fire to the house to chase out a rat", for a remedy far worse than the problem. 逐 giugˋ is
+      "chase, drive away" (烏蠅當得人惱，遽啊逐走佢 "flies are a pest, chase them out quick").
+  - ref: 1
+    topic: vocab
+    text: >
+      梯排 toiˊ paiˇ "stairs, staircase" (梯仔, lesson 25, is a ladder). 斜 qiaˇ "sloping, steep; slanting". 扛 gongˊ
+      "carry together, between two people" (坐轎毋知扛轎苦 "the one in the sedan chair doesn't know how hard the
+      bearers have it").
+  - ref: 3
+    topic: vocab
+    text: >
+      䌈 tagˋ "tie, bind": 䌈索仔 "tie a string". 索仔 sogˋ eˇ "string, rope" (跳索仔 "skipping rope"); the lists give eˇ here (but
+      桌仔 zogˋ eˋ: learn the tone of 仔 with each word).
+  - ref: 4
+    topic: vocab
+    text: >
+      衫袋肚 samˊ toi duˋ "in your (shirt) pocket" (𠊎在衫袋肚摟著兩百個銀 "I fished two hundred dollars out of my
+      pocket"), with 肚 "inside" as in 拖箱仔肚, 盎仔肚 (lines 12, 13). A trouser pocket is 褲袋仔.
+  - ref: 5
+    topic: vocab
+    text: >
+      An official sentence word for word (kaga115, with a recording). 屙糟 oˊ zoˊ "dirty, filthy" (粉牌恁屙糟 "the
+      blackboard is so dirty").
+  - ref: 7
+    topic: vocab
+    text: >
+      扯 caˋ "tear (off)": a page off a calendar is torn off every day (壁項个日曆愛逐日扯).
+  - ref: 9
+    topic: vocab
+    text: >
+      徙 saiˋ "move (to another place)": 徙走 "move out". 膨凳 pong den "sofa" (line 8); 狹 hab "narrow, cramped".
+  - ref: 11
+    topic: vocab
+    text: >
+      拚掃 biang so "give a thorough clean". 搓 co "scrub" (牙搓仔 "toothbrush", lesson 25); 抺 miˇ "wipe" (灶頭鑊尾愛抺抺摸摸
+      "the stove and the pots all need wiping").
+  - ref: 12
+    topic: vocab
+    text: >
+      毋罅 mˇ la "not enough" (罅 la "enough"). 衫弓仔 samˊ giungˊ eˋ "clothes hanger", 拖箱仔 toˊ xiongˊ eˋ "drawer",
+      盎仔 angˊ eˋ "jar, bottle" (盎仔插等一蕊花 "a flower stood in the bottle").
+  - ref: 14
+    topic: vocab
+    text: >
+      弇 giemˇ "cover, put the lid on": 弇等 "with the lid on, covered" (V等 for a lasting state).
+  - ref: 15
+    topic: vocab
+    text: >
+      黃蚻 vongˇ cad "cockroach". An official sentence has the same complaint: 佢盡惱黃蚻，尤其係會飛个 "he hates
+      cockroaches, especially the flying ones" (盡 "very" here).
+  - ref: 19
+    topic: grammar
+    text: >
+      係無 he moˇ at the end of a statement asks for agreement: "…, do you? …, is it?" (行恁遽做麼个？趕時間係無？
+      "why the rush? in a hurry, are you?").
+  - ref: 20
+    topic: false-friend
+    text: >
+      精 jinˊ "clever, smart" (猴仔當精 "monkeys are very clever"), not "refined".
+  - ref: 21
+    topic: false-friend
+    text: >
+      衰過 coiˊ go "pitiable, poor thing" (麼个都毋會，實在衰過 "can't do a thing, poor soul").
+  - ref: 22
+    topic: vocab
+    text: >
+      地圾 ti sebˋ "rubbish" (今晡日輪著你倒地圾 "it's your turn to take out the rubbish today"). 倒 do (lesson 57).
+  - ref: 24
+    topic: vocab
+    text: >
+      利便 li pien "convenient, handy" (用手機仔上網盡利便). 洗衫機 seˋ samˊ giˊ "washing machine".
+  - ref: 26
+    topic: vocab
+    text: >
+      䟘床 hong congˇ "get up (out of bed)". 懶尸 lanˊ siiˊ "lazy" (無做事，會緊尞緊懶尸 "not working, you get lazier
+      and lazier"). 鬧鐘 nau zungˊ (line 25) "alarm clock"; 媸 zeˋ "ugly" (靚媸無比止 "beauty can't be measured").
+  - ref: 27
+    topic: false-friend
+    text: >
+      惡 ogˋ "fierce, harsh, bossy" (獅仔當惡 "lions are fierce"), not "evil" in everyday talk. A-min is teasing.
+  - ref: 28
+    topic: vocab
+    text: >
+      正正 zang zang "neat and straight, in order" (阿姆同東西排到正正 "Mum lined everything up neatly").
+
+new_words:
+  - {hanzi: 梯排, pinyin: "toiˊ paiˇ", en: "stairs, staircase"}
+  - {hanzi: 斜, pinyin: "qiaˇ", en: "sloping, steep; slanting"}
+  - {hanzi: 扛, pinyin: "gongˊ", en: "carry together (two or more people)"}
+  - {hanzi: 𢱤, pinyin: "sungˋ", en: "push"}
+  - {hanzi: 索仔, pinyin: "sogˋ eˇ", en: "string, rope"}
+  - {hanzi: 䌈, pinyin: "tagˋ", en: "tie, bind"}
+  - {hanzi: 屙糟, pinyin: "oˊ zoˊ", en: "dirty, filthy"}
+  - {hanzi: 壁, pinyin: "biagˋ", en: "wall"}
+  - {hanzi: 日曆, pinyin: "ngidˋ lag", en: "(tear-off) calendar"}
+  - {hanzi: 扯, pinyin: "caˋ", en: "tear (off)"}
+  - {hanzi: 狹, pinyin: "hab", en: "narrow, cramped"}
+  - {hanzi: 膨凳, pinyin: "pong den", en: "sofa"}
+  - {hanzi: 徙, pinyin: "saiˋ", en: "move (somewhere else)"}
+  - {hanzi: 浴堂, pinyin: "iog tongˇ", en: "bathroom"}
+  - {hanzi: 拚掃, pinyin: "biang so", en: "clean thoroughly"}
+  - {hanzi: 搓, pinyin: "co", en: "scrub"}
+  - {hanzi: 抺, pinyin: "miˇ", en: "wipe"}
+  - {hanzi: 衫弓仔, pinyin: "samˊ giungˊ eˋ", en: "clothes hanger"}
+  - {hanzi: 毋罅, pinyin: "mˇ la", en: "not enough"}
+  - {hanzi: 拖箱仔, pinyin: "toˊ xiongˊ eˋ", en: "drawer"}
+  - {hanzi: 盎仔, pinyin: "angˊ eˋ", en: "jar, bottle"}
+  - {hanzi: 弇, pinyin: "giemˇ", en: "cover, put a lid on"}
+  - {hanzi: 黃蚻, pinyin: "vongˇ cad", en: "cockroach"}
+  - {hanzi: 精, pinyin: "jinˊ", en: "clever, smart"}
+  - {hanzi: 逐, pinyin: "giugˋ", en: "chase, drive away"}
+  - {hanzi: 係無, pinyin: "he moˇ", en: "…, isn't it? …, do you? (asking for agreement)"}
+  - {hanzi: 衰過, pinyin: "coiˊ go", en: "pitiable; poor thing"}
+  - {hanzi: 屋肚, pinyin: "vugˋ duˋ", en: "indoors, in the house"}
+  - {hanzi: 地圾, pinyin: "ti sebˋ", en: "rubbish, garbage"}
+  - {hanzi: 洗衫機, pinyin: "seˋ samˊ giˊ", en: "washing machine"}
+  - {hanzi: 利便, pinyin: "li pien", en: "convenient, handy"}
+  - {hanzi: 鬧鐘, pinyin: "nau zungˊ", en: "alarm clock"}
+  - {hanzi: 媸, pinyin: "zeˋ", en: "ugly"}
+  - {hanzi: 懶尸, pinyin: "lanˊ siiˊ", en: "lazy"}
+  - {hanzi: 䟘床, pinyin: "hong congˇ", en: "get up (out of bed)"}
+  - {hanzi: 惡, pinyin: "ogˋ", en: "fierce, harsh, bossy"}
+  - {hanzi: 正正, pinyin: "zang zang", en: "neat, in good order"}
+
+exercises:
+  translate:
+    - en: "If you don't work, you get lazier and lazier."
+      source: kaga115
+      sx: {hanzi: "無做事，會緊尞緊懶尸。", pinyin: "moˇ zo sii, voi ginˋ liau ginˋ lanˊ siiˊ."}
+    - en: "He can't do a thing, poor soul!"
+      source: kaga115
+      sx: {hanzi: "麼个都毋會，實在衰過！", pinyin: "maˋ ge du mˇ voi, siid cai coiˊ go!"}
+    - en: "The washing machine has broken down."
+      source: kaga115
+      sx: {hanzi: "洗衫機壞忒。", pinyin: "seˋ samˊ giˊ fai tedˋ."}
+    - en: "The key is in the drawer."
+      sx: {hanzi: "鎖匙在拖箱仔肚。", pinyin: "soˋ siiˋ coiˊ toˊ xiongˊ eˋ duˋ."}
+    - en: "Mum lined everything up neatly."
+      source: kaga115
+      sx: {hanzi: "阿姆同東西排到正正。", pinyin: "aˊ meˊ tungˇ dungˊ xiˊ paiˇ do zang zang."}
+  fill:
+    - en: "The stairs are so steep."
+      sx: {hanzi: "梯排恁___。", pinyin: "toiˊ paiˇ anˋ ___.", answer_hanzi: "斜", answer: "qiaˇ"}
+    - en: "There aren't enough clothes hangers."
+      sx: {hanzi: "衫弓仔___。", pinyin: "samˊ giungˊ eˋ ___.", answer_hanzi: "毋罅", answer: "mˇ la"}
+    - en: "Today we're giving it a thorough clean."
+      sx: {hanzi: "今晡日愛___。", pinyin: "gimˊ buˊ ngidˋ oi ___.", answer_hanzi: "拚掃", answer: "biang so"}
+    - en: "It's gone under the sofa."
+      sx: {hanzi: "佢走入___下吔。", pinyin: "giˇ zeuˋ ngib ___ haˊ leˊ.", answer_hanzi: "膨凳", answer: "pong den"}
+    - en: "Get up a bit earlier in the morning."
+      sx: {hanzi: "朝晨愛早兜仔___。", pinyin: "zeuˊ siinˇ oi zoˋ deuˊ eˋ ___.", answer_hanzi: "䟘床", answer: "hong congˇ"}
+
+audio: []

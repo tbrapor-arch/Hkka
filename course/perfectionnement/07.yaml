@@ -1,0 +1,192 @@
+id: 7
+genre: review
+title:
+  en: "Review 1"
+  sx: {hanzi: "就像轉家鄉樣", pinyin: "qiu qiong zonˋ gaˊ hiongˊ iong"}
+review: true
+setting: >-
+  Sunday 13 August 2028: the typhoon announced in 進修 6 has arrived. Nobody goes out; A-in fetched Sam by car
+  for Sunday lunch, and the whole Liu family is round the table while the rain pours down. Nothing new in the
+  dialogue: everything comes from Part 1 and 進修 1–6.
+names: [Sam, 阿英, 阿明, 阿婆, 阿公, 阿姆]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "With the typhoon blowing like this outside, how did Sam get here?"
+    sx: {hanzi: "外背風搓恁大，Sam仰般來个？", pinyin: "ngoi boi fungˊ caiˊ anˋ tai, Sam ngiongˋ banˊ loiˇ ge?"}
+  - n: 2
+    speaker: Sam
+    en: "A-in drove me over. This time she didn't brake immediately."
+    sx: {hanzi: "阿英駛車仔載𠊎來个。這擺佢無黏時踏擋仔。", pinyin: "aˊ inˊ siiˋ caˊ eˋ zai ngaiˇ loiˇ ge. iaˋ baiˋ giˇ moˇ ngiamˇ siiˇ tab dongˋ eˇ."}
+  - n: 3
+    speaker: 阿明
+    en: "Lucky she didn't this time! Last time I lost my drink and went thirsty all day."
+    sx: {hanzi: "好得佢這擺無恁樣！上擺𠊎个汽水跌忒，害𠊎歸日嘴燥。", pinyin: "hoˋ dedˋ giˇ iaˋ baiˋ moˇ anˋ ngiongˇ! song baiˋ ngaiˇ ge hi suiˋ diedˋ tedˋ, hoi ngaiˇ guiˊ ngidˋ zoi zauˊ."}
+  - n: 4
+    speaker: 阿英
+    en: "A-min, stop talking nonsense. Sit up and eat."
+    sx: {hanzi: "阿明，莫亂講。坐好來食飯。", pinyin: "aˊ minˇ, mog lon gongˋ. coˊ hoˋ loiˇ siid fan."}
+  - n: 5
+    speaker: 阿公
+    en: "The news said the rivers may flood and the hillsides give way. None of you are going out today."
+    sx: {hanzi: "新聞講，河壩會發大水，山會崩。你兜今晡日毋好出門。", pinyin: "xinˊ vunˇ gongˋ, hoˇ ba voi bodˋ tai suiˋ, sanˊ voi benˊ. nˇ deuˊ gimˊ buˊ ngidˋ mˇ hoˋ cudˋ munˇ."}
+  - n: 6
+    speaker: 阿姆
+    en: "Sam, how's your room?"
+    sx: {hanzi: "Sam，你个房間仰般？", pinyin: "Sam, nˇ ge fongˇ gienˊ ngiongˋ banˊ?"}
+  - n: 7
+    speaker: Sam
+    en: "After the big clean, it's neat and tidy. But that cockroach under the sofa is still there."
+    sx: {hanzi: "拚掃過後，正正吔。毋過膨凳下該隻黃蚻還在。", pinyin: "biang so go heu, zang zang leˊ. mˇ go pong den haˊ ge zagˋ vongˇ cad hanˇ coiˊ."}
+  - n: 8
+    speaker: 阿明
+    en: "It's clever, just like a thief."
+    sx: {hanzi: "佢當精，就像賊仔樣。", pinyin: "giˇ dongˊ jinˊ, qiu qiong ced eˋ iong."}
+  - n: 9
+    speaker: 阿英
+    en: "The thief is fiercer than the owner, and so is the cockroach!"
+    sx: {hanzi: "賊仔惡過人，黃蚻乜惡過人！", pinyin: "ced eˋ ogˋ go nginˇ, vongˇ cad me ogˋ go nginˇ!"}
+  - n: 10
+    speaker: 阿婆
+    en: "Don't go burning the house down to chase out a rat. Take the rubbish out every day, and the cockroaches won't come."
+    sx: {hanzi: "莫放火燒屋逐老鼠哦。屋肚个地圾逐日愛倒，黃蚻正毋會來。", pinyin: "mog biong foˋ seuˊ vugˋ giugˋ lo cuˋ oˊ. vugˋ duˋ ge ti sebˋ dagˋ ngidˋ oi do, vongˇ cad zang mˇ voi loiˇ."}
+  - n: 11
+    speaker: 阿公
+    en: "Pouring rain today: the frogs have been croaking all day long."
+    sx: {hanzi: "今晡日落大雨，𧊅仔歸日都在叫。", pinyin: "gimˊ buˊ ngidˋ log tai iˋ, guaiˋ eˇ guiˊ ngidˋ du coiˊ gieu."}
+  - n: 12
+    speaker: Sam
+    en: "I still remember Grandpa's saying: rainbow in the east, fine weather; rainbow in the west, rain."
+    sx: {hanzi: "阿公講个老古人言𠊎還記得：東弓晴，西弓雨。", pinyin: "aˊ gungˊ gongˋ ge loˋ guˋ nginˇ ngienˇ ngaiˇ hanˇ gi dedˋ: dungˊ giungˊ qiangˇ, xiˊ giungˊ iˋ."}
+  - n: 13
+    speaker: 阿明
+    en: "I've written up my interview too. Sam's the main character; the teacher's sure to say my piece is fun."
+    sx: {hanzi: "𠊎个訪問乜寫好吔。主角係Sam，先生一定會講𠊎个文章當生趣。", pinyin: "ngaiˇ ge fongˋ mun me xiaˋ hoˋ leˊ. zuˋ gogˋ he Sam, xinˊ sangˊ idˋ tin voi gongˋ ngaiˇ ge vunˇ zongˊ dongˊ senˊ qi."}
+  - n: 14
+    speaker: 阿英
+    en: "What did you write?"
+    sx: {hanzi: "你寫麼个？", pinyin: "nˇ xiaˋ maˋ ge?"}
+  - n: 15
+    speaker: 阿明
+    en: "That when Sam was at primary school his marks weren't great, and all he liked was playing football."
+    sx: {hanzi: "寫Sam讀小學个時節成績毋理想，淨好踢足球。", pinyin: "xiaˋ Sam tug seuˋ hog ge siiˇ jiedˋ siinˇ jidˋ mˇ liˊ xiongˋ, qiang hau tedˋ jiugˋ kiuˇ."}
+  - n: 16
+    speaker: Sam
+    en: "A-min! That's my private business!"
+    sx: {hanzi: "阿明！該係𠊎個人个事情！", pinyin: "aˊ minˇ! ge he ngaiˇ ge nginˇ ge sii qinˇ!"}
+  - n: 17
+    speaker: 阿婆
+    en: "Plenty of people who were poor at school came to like studying later on."
+    sx: {hanzi: "毋會讀書个人，背尾正好讀書，乜當多。", pinyin: "mˇ voi tug suˊ ge nginˇ, boi miˊ zang hau tug suˊ, me dongˊ doˊ."}
+  - n: 18
+    speaker: 阿婆
+    en: "Summer isn't over yet, and here's a typhoon. You all look after your health."
+    sx: {hanzi: "熱天還吂過，風搓又來。你兜愛注意身體。", pinyin: "ngied tienˊ hanˇ mangˇ go, fungˊ caiˊ iu loiˇ. nˇ deuˊ oi zu i siinˊ tiˋ."}
+  - n: 19
+    speaker: 阿姆
+    en: "Grandma read that leaflet from the health centre very carefully."
+    sx: {hanzi: "阿婆看衛生所該張紙，看到當詳細。", pinyin: "aˊ poˇ kon vi senˊ soˋ ge zongˊ ziiˋ, kon do dongˊ xiongˇ se."}
+  - n: 20
+    speaker: 阿婆
+    en: "No iced things, and don't eat in a hurry. That's what I've always said."
+    sx: {hanzi: "食冰个毋好，食飯毋好恁急。𠊎就係恁樣講个。", pinyin: "siid benˊ ge mˇ hoˋ, siid fan mˇ hoˋ anˋ gibˋ. ngaiˇ qiu he anˋ ngiongˇ gongˋ ge."}
+  - n: 21
+    speaker: 阿明
+    en: "Grandma, and now you're going to tell us about afternoon naps, right?"
+    sx: {hanzi: "阿婆，你又愛講睡當晝係無？", pinyin: "aˊ poˇ, nˇ iu oi gongˋ soi dongˊ zu he moˇ?"}
+  - n: 22
+    speaker: 阿婆
+    en: "Have your nap, and you'll stay healthy."
+    sx: {hanzi: "睡當晝，身體正會康健。", pinyin: "soi dongˊ zu, siinˊ tiˋ zang voi kongˊ kien."}
+  - n: 23
+    speaker: 阿公
+    en: "I never nap, and I'm perfectly healthy too."
+    sx: {hanzi: "𠊎無睡當晝，身體乜當康健。", pinyin: "ngaiˇ moˇ soi dongˊ zu, siinˊ tiˋ me dongˊ kongˊ kien."}
+  - n: 24
+    speaker: Sam
+    en: "Eating together with you all like this is like coming home."
+    sx: {hanzi: "同大家共下食飯，就像轉家鄉樣。", pinyin: "tungˇ tai gaˊ kiung ha siid fan, qiu qiong zonˋ gaˊ hiongˊ iong."}
+  - n: 25
+    speaker: 阿英
+    en: "It is your home, it always was."
+    sx: {hanzi: "本來就係你个家鄉啊。", pinyin: "bunˋ loiˇ qiu he nˇ ge gaˊ hiongˊ a."}
+  - n: 26
+    speaker: 阿婆
+    en: "We've eaten our fill: everyone off for a nap!"
+    sx: {hanzi: "食飽吔，大家去睡當晝！", pinyin: "siid bauˋ leˊ, tai gaˊ hi soi dongˊ zu!"}
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      風搓 (lesson 60) was forecast in 進修 6 for "the day after tomorrow": this is that Sunday. 仰般來个 "how did
+      (he) get here": 係…个 without 係, for the manner of a past event.
+  - ref: 2
+    topic: vocab
+    text: >
+      駛車仔, 黏時 and 踏擋仔 are all from 進修 1, as is line 3's 害 + person + result.
+  - ref: 7
+    topic: vocab
+    text: >
+      拚掃, 正正, 膨凳 and 黃蚻 are 進修 2's words.
+  - ref: 8
+    topic: grammar
+    text: >
+      就像…樣 "just like…" (進修 1); 精 "clever" (進修 2); 賊仔 (進修 6).
+  - ref: 9
+    topic: grammar
+    text: >
+      A-in turns 進修 6's saying 賊仔惡過人 into a joke: 黃蚻乜惡過人 "the cockroach is fiercer than people too".
+  - ref: 12
+    topic: vocab
+    text: >
+      進修 3's saying, with 老古人言 (lesson 44) and 記得 "remember".
+  - ref: 13
+    topic: vocab
+    text: >
+      訪問, 主角 (進修 4); 生趣 "fun" (進修 1).
+  - ref: 16
+    topic: vocab
+    text: >
+      個人 "personal" (進修 4): 個人个事情 "private matters".
+  - ref: 17
+    topic: grammar
+    text: >
+      背尾 "later, in the end" (進修 3); 好 hau + verb "like doing" (進修 4).
+  - ref: 19
+    topic: vocab
+    text: >
+      詳細 "detailed, careful" (進修 4) now describes how Grandma reads: 看到當詳細.
+  - ref: 23
+    topic: culture
+    text: >
+      Grandpa agrees with the official sentence quoted in 進修 5: 阿公無睡當晝个習慣.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "The news says the river may flood."
+      sx: {hanzi: "新聞講，河壩可能會發大水。", pinyin: "xinˊ vunˇ gongˋ, hoˇ ba koˋ nenˇ voi bodˋ tai suiˋ."}
+    - en: "Take the rubbish out every day."
+      sx: {hanzi: "地圾逐日愛倒。", pinyin: "ti sebˋ dagˋ ngidˋ oi do."}
+    - en: "Grandma has an afternoon nap every day."
+      sx: {hanzi: "阿婆逐日睡當晝。", pinyin: "aˊ poˇ dagˋ ngidˋ soi dongˊ zu."}
+    - en: "The frogs have been croaking all day long."
+      sx: {hanzi: "𧊅仔歸日都在叫。", pinyin: "guaiˋ eˇ guiˊ ngidˋ du coiˊ gieu."}
+    - en: "Coming back is like coming home."
+      sx: {hanzi: "轉來就像轉家鄉樣。", pinyin: "zonˋ loiˇ qiu qiong zonˋ gaˊ hiongˊ iong."}
+  fill:
+    - en: "The cockroach under the sofa is still there."
+      sx: {hanzi: "膨凳下該隻___還在。", pinyin: "pong den haˊ ge zagˋ ___ hanˇ coiˊ.", answer_hanzi: "黃蚻", answer: "vongˇ cad"}
+    - en: "Look after your health."
+      sx: {hanzi: "愛___身體。", pinyin: "oi ___ siinˊ tiˋ.", answer_hanzi: "注意", answer: "zu i"}
+    - en: "She didn't brake immediately."
+      sx: {hanzi: "佢無黏時踏___。", pinyin: "giˇ moˇ ngiamˇ siiˇ tab ___.", answer_hanzi: "擋仔", answer: "dongˋ eˇ"}
+    - en: "That's my private business!"
+      sx: {hanzi: "該係𠊎___个事情！", pinyin: "ge he ngaiˇ ___ ge sii qinˇ!", answer_hanzi: "個人", answer: "ge nginˇ"}
+    - en: "Don't eat in such a hurry."
+      sx: {hanzi: "食飯毋好恁___。", pinyin: "siid fan mˇ hoˋ anˋ ___.", answer_hanzi: "急", answer: "gibˋ"}
+
+audio: []

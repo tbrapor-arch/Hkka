@@ -1,0 +1,256 @@
+id: 27
+genre: document
+title:
+  en: Not even the first stroke of the character eight
+  sx: {hanzi: 八字吂有一撇, pinyin: badˋ sii mangˇ iuˊ idˋ pied}
+review: false
+setting: >-
+  Monday 18 December 2028. Sam's scholarship is about to be paid, and he needs a savings account. Lines 1–19 are the
+  leaflet from the Miaoli post office for foreigners opening an account; it is the course's own, and its rules, hours
+  and limits are invented, not the real post office's. Lines 20–27 are the note Sam leaves for A-in after his first
+  try.
+names: [苗栗, 阿英, Sam]
+dialogue:
+- n: 1
+  en: 'Miaoli Post Office: opening a savings account (for foreign nationals)'
+  sx: {hanzi: 苗栗郵局：外國人辦理貯金个手續, pinyin: 'meuˇ lid iuˇ kiug: ngoi guedˋ nginˇ pan liˊ duˋ gimˊ ge suˋ xiug'}
+- n: 2
+  en: "Foreign friends are welcome to save with the post office. Before you apply, please have these documents ready."
+  sx: {hanzi: "歡迎外國朋友來郵局貯金。辦理進前，請先準備這兜文件。", pinyin: "fonˊ ngiangˇ ngoi guedˋ penˇ iuˊ loiˇ iuˇ kiug duˋ gimˊ. pan liˊ jin qienˇ, qiangˋ xienˊ zunˋ pi iaˋ deuˊ vunˇ kien."}
+- n: 3
+  en: '1. Your passport. It must still be valid: an expired passport cannot be used.'
+  sx: {hanzi: 一、護照。護照愛還有效，過期个做毋得用。, pinyin: 'idˋ, fu zeu. fu zeu oi hanˇ iuˊ hauˋ, go kiˇ ge zo mˇ dedˋ iung.'}
+- n: 4
+  en: 2. Your address and telephone number in Taiwan.
+  sx: {hanzi: 二、在臺灣个住址同電話號碼。, pinyin: 'ngi, coiˊ toiˇ vanˇ ge cu ziiˋ tungˇ tien fa ho maˊ.'}
+- n: 5
+  en: 3. Proof of enrolment from your school. Students from abroad must enrol first before they can apply.
+  sx: {hanzi: 三、學校个註冊證明。留學个學生愛先註冊，正做得辦理。, pinyin: 'samˊ, hog gauˋ ge zu cagˋ ziin minˇ. liuˇ hog ge hog senˊ oi xienˊ zu
+      cagˋ, zang zo dedˋ pan liˊ.'}
+- n: 6
+  en: 4. One photograph.
+  sx: {hanzi: 四、一張相片。, pinyin: 'xi, idˋ zongˊ xiong pienˋ.'}
+- n: 7
+  en: Foreign nationals must hold a visa after entering the country before they can apply.
+  sx: {hanzi: 外國人入境過後，愛有簽證正做得辦理。, pinyin: 'ngoi guedˋ nginˇ ngib gin go heu, oi iuˊ qiamˊ ziin zang zo dedˋ pan liˊ.'}
+  check: true
+- n: 8
+  en: You must apply in person. No one may apply on your behalf.
+  sx: {hanzi: 辦理个時節，本人愛親身來，請人代理做毋得。, pinyin: 'pan liˊ ge siiˇ jiedˋ, bunˋ nginˇ oi qinˊ siinˊ loiˇ, qiangˋ nginˇ toi liˊ
+      zo mˇ dedˋ.'}
+- n: 9
+  en: Please sign here. Your signature must be the same as in your passport.
+  sx: {hanzi: 請在這位簽名，簽名愛同護照項个共樣。, pinyin: 'qiangˋ coiˊ iaˋ vi qiamˊ miangˇ, qiamˊ miangˇ oi tungˇ fu zeu hong ge kiung iong.'}
+- n: 10
+  en: "The passbook is free. The post office will process your details within three days."
+  sx: {hanzi: "辦簿仔免費。郵局會在三日內處理好你个資料。", pinyin: "pan puˊ eˋ mienˊ fi. iuˇ kiug voi coiˊ samˊ ngidˋ nui cuˋ liˊ hoˋ nˇ ge ziiˊ liau."}
+- n: 11
+  en: While your details are being processed, the passbook cannot be used for the time being.
+  sx: {hanzi: 處理个期間，簿仔暫時做毋得用。, pinyin: 'cuˋ liˊ ge kiˇ gienˊ, puˊ eˋ qiam siiˇ zo mˇ dedˋ iung.'}
+- n: 12
+  en: Interest on savings is not high, but your money is very safe.
+  sx: {hanzi: 貯金个利子無高，毋過當安全。, pinyin: 'duˋ gimˊ ge li ziiˋ moˇ goˊ, mˇ go dongˊ onˊ qionˇ.'}
+- n: 13
+  en: 'Transfers abroad are limited: at most 500,000 dollars a day.'
+  sx: {hanzi: 匯款去外國有限制，一日最多匯款五十萬銀。, pinyin: 'fi kuanˋ hi ngoi guedˋ iuˊ han zii, idˋ ngidˋ zui doˊ fi kuanˋ ngˋ siib van
+      ngiunˇ.'}
+- n: 14
+  en: Cheques can also be paid in.
+  sx: {hanzi: 若係有支票，乜做得貯入去。, pinyin: 'na he iuˊ ziiˊ peuˊ, me zo dedˋ duˋ ngib hi.'}
+- n: 15
+  en: The post office does not offer loans. For a loan, please go to a bank.
+  sx: {hanzi: 郵局無做貸款。若係愛貸款，請去銀行。, pinyin: 'iuˇ kiug moˇ zo toi kuanˋ. na he oi toi kuanˋ, qiangˋ hi ngiunˇ hongˇ.'}
+- n: 16
+  en: 'Opening hours: Monday to Friday, 8 a.m. to 5 p.m.'
+  sx: {hanzi: 服務時間：禮拜一到禮拜五，朝晨八點到下晝五點。, pinyin: 'fug vu siiˇ gienˊ: liˊ bai idˋ do liˊ bai ngˋ, zeuˊ siinˇ badˋ diamˋ do
+      haˊ zu ngˋ diamˋ.'}
+- n: 17
+  en: Closed on Saturdays and Sundays.
+  sx: {hanzi: 禮拜六、禮拜日無辦公。, pinyin: 'liˊ bai liugˋ, liˊ bai ngidˋ moˇ pan gungˊ.'}
+- n: 18
+  en: "The postman comes every day. You can give him letters and postcards to post."
+  sx: {hanzi: "送信仔个逐日會來。信仔、明信片做得交分佢寄。", pinyin: "sung xin eˋ ge dagˋ ngidˋ voi loiˇ. xin eˋ, minˇ xin pienˋ zo dedˋ gauˊ bunˊ giˇ gi."}
+- n: 19
+  en: Thank you for your cooperation.
+  sx: {hanzi: 請大家配合辦理。, pinyin: qiangˋ tai gaˊ pi hab pan liˊ.}
+  source: kaga115
+- n: 20
+  en: 'A-in: I went to the post office today, and I''m nowhere near done.'
+  sx: {hanzi: 阿英：今晡日𠊎去郵局，八字吂有一撇。, pinyin: 'aˊ inˊ: gimˊ buˊ ngidˋ ngaiˇ hi iuˇ kiug, badˋ sii mangˇ iuˊ idˋ pied.'}
+- n: 21
+  en: I hadn't brought my passport, or the proof of enrolment from the university.
+  sx: {hanzi: 𠊎無帶護照，乜無學校个註冊證明。, pinyin: 'ngaiˇ moˇ dai fu zeu, me moˇ hog gauˋ ge zu cagˋ ziin minˇ.'}
+- n: 22
+  en: The man at the post office said I can only apply once I bring the documents, and then it takes another three days.
+  sx: {hanzi: 郵局个人講，文件帶好正做得辦理，手續還愛三日。, pinyin: 'iuˇ kiug ge nginˇ gongˋ, vunˇ kien dai hoˋ zang zo dedˋ pan liˊ, suˋ xiug
+      hanˇ oi samˊ ngidˋ.'}
+- n: 23
+  en: The staff were very kind and told me not to worry.
+  sx: {hanzi: 郵局个人當親切，講毋使操煩。, pinyin: 'iuˇ kiug ge nginˇ dongˊ qinˊ qiedˋ, gongˋ mˇ siiˋ cauˊ fanˇ.'}
+- n: 24
+  en: In France I can transfer money online; it's not such a hassle.
+  sx: {hanzi: 在法國用網路就做得匯款，毋使恁費氣。, pinyin: 'coiˊ fabˋ guedˋ iung miongˋ lu qiu zo dedˋ fi kuanˋ, mˇ siiˋ anˋ fi hi.'}
+- n: 25
+  en: The scholarship comes next week, and I'm afraid I'll have nowhere to keep the banknotes.
+  sx: {hanzi: 獎學金下禮拜就會來，𠊎驚紙票無位所好放。, pinyin: 'jiongˋ hog gimˊ ha liˊ bai qiu voi loiˇ, ngaiˇ giangˊ ziiˋ peu moˇ vi soˋ hoˋ
+      biong.'}
+- n: 26
+  en: And if I suddenly need money, I don't know what I'll do.
+  sx: {hanzi: 臨時愛用錢，𠊎乜毋知仰般好。, pinyin: 'limˇ siiˇ oi iung qienˇ, ngaiˇ me mˇ diˊ ngiongˋ banˊ hoˋ.'}
+- n: 27
+  en: Could you come with me tomorrow? (Sam)
+  sx: {hanzi: 你天光日做得同𠊎共下去無？, pinyin: 'nˇ tienˊ gongˊ ngidˋ zo dedˋ tungˇ ngaiˇ kiung ha hi moˇ?'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A document (a leaflet) and a note. The title is a saying from the official lists (中高級): 八字吂有一撇 "the character 八 doesn't
+    even have its first stroke yet", i.e. things have barely begun (這擺个合作，八字吂有一撇，還愛過談正會知有成無). Sam uses it in line 20.
+- ref: 1
+  topic: vocab
+  text: >
+    辦理 pan liˊ "apply for, handle, deal with" (請大家配合辦理, line 19). 手續 suˋ xiug "formalities, procedure" (入境手續). 貯金 is from
+    進修 13.
+- ref: 2
+  topic: vocab
+  text: >
+    文件 vunˇ kien "document" (這文件搭你拿分佢). 進前 "before" (Part 1); 以前 also follows a verb (開學以前, note 5).
+- ref: 3
+  topic: vocab
+  text: >
+    護照 fu zeu "passport" (好得有人拈著若護照 "luckily someone found your passport"). 過期 go kiˇ "expired" (MOE). 有效 is from 進修 5.
+- ref: 5
+  topic: vocab
+  text: >
+    註冊 zu cagˋ "enrol, register" (開學以前愛先註冊、繳學費). 證明 "proof, certificate" (進修 9). 留學 "study abroad".
+- ref: 8
+  topic: vocab
+  text: >
+    本人 bunˋ nginˇ "the person himself" (該件事問佢本人較遽). 親身 "in person" (進修 8). 代理 toi liˊ "act on someone's behalf, stand in"
+    (天光日佢請假，你代理一下好無？).
+- ref: 9
+  topic: vocab
+  text: >
+    簽名 qiamˊ miangˇ "sign; signature" (請在這格仔裡肚簽名).
+- ref: 10
+  topic: vocab
+  text: >
+    簿仔 puˊ eˋ "notebook; (here) passbook" (MOE). 免費 mienˊ fi "free of charge" (這滿做得免費參觀). 處理 cuˋ liˊ "process, deal
+    with" (手割著無處理好勢，嗄發炎吔, 進修 24's 發炎). 三日內 "within three days" (N日內, checklist).
+- ref: 11
+  topic: vocab
+  text: >
+    期間 kiˇ gienˊ "period, (during) the time" (阿爸無在屋下个期間，你愛聽話). 暫時 qiam siiˇ "for the time being".
+- ref: 12
+  topic: vocab
+  text: >
+    利子 li ziiˋ "interest" (from Japanese 利子; 這恁久錢貯銀行，利子無高).
+- ref: 13
+  topic: vocab
+  text: >
+    匯款 fi kuanˋ "transfer money" (匯款五萬個銀). 限制 han zii "limit, restrict" (限制出境). 最多 "at most" (MOE).
+- ref: 14
+  topic: vocab
+  text: >
+    支票 ziiˊ peuˊ "cheque" (開支票 "write a cheque").
+- ref: 15
+  topic: vocab
+  text: >
+    貸款 toi kuanˋ "loan; take a loan" (阿哥同銀行貸款買屋).
+- ref: 16
+  topic: vocab
+  text: >
+    服務 fug vu "service" (同人服務 "serve people"). 服務時間 "opening hours".
+- ref: 17
+  topic: vocab
+  text: >
+    辦公 pan gungˊ "be open (of an office); work at an office" (佢在這間大樓肚辦公).
+- ref: 18
+  topic: vocab
+  text: >
+    送信仔个 sung xin eˋ ge "postman" (literally "the one who delivers letters"; 送信仔个逐日就會來). 信仔 "letter", 明信片 minˇ xin pienˋ
+    "postcard". 寄 "post" (lesson 30).
+- ref: 19
+  topic: vocab
+  text: >
+    An official sentence. 配合 pi hab "cooperate, go along with".
+- ref: 23
+  topic: vocab
+  text: >
+    親切 qinˊ qiedˋ "kind, warm" (佢對人當親切). 操煩 is from 進修 26.
+- ref: 24
+  topic: vocab
+  text: >
+    費氣 fi hi "troublesome, a bother" (這下繳稅無像頭擺恁費氣，有各種方法做得用).
+- ref: 25
+  topic: vocab
+  text: >
+    紙票 ziiˋ peu "banknote" (兩百銀个紙票較少看著). 位所 "place" (lesson 64).
+- ref: 26
+  topic: vocab
+  text: >
+    臨時 limˇ siiˇ "at short notice, suddenly" (大家講好个，佢臨時又變卦).
+new_words:
+- {hanzi: 八字吂有一撇, pinyin: badˋ sii mangˇ iuˊ idˋ pied, en: things have barely begun}
+- {hanzi: 辦理, pinyin: pan liˊ, en: 'apply for, handle'}
+- {hanzi: 手續, pinyin: suˋ xiug, en: 'formalities, procedure'}
+- {hanzi: 文件, pinyin: vunˇ kien, en: document}
+- {hanzi: 護照, pinyin: fu zeu, en: passport}
+- {hanzi: 過期, pinyin: go kiˇ, en: expired}
+- {hanzi: 註冊, pinyin: zu cagˋ, en: 'enrol, register'}
+- {hanzi: 留學, pinyin: liuˇ hog, en: study abroad}
+- {hanzi: 本人, pinyin: bunˋ nginˇ, en: the person himself or herself}
+- {hanzi: 代理, pinyin: toi liˊ, en: act on someone's behalf}
+- {hanzi: 簽名, pinyin: qiamˊ miangˇ, en: sign; signature}
+- {hanzi: 簿仔, pinyin: puˊ eˋ, en: notebook; passbook}
+- {hanzi: 免費, pinyin: mienˊ fi, en: free of charge}
+- {hanzi: 處理, pinyin: cuˋ liˊ, en: 'process, deal with'}
+- {hanzi: 期間, pinyin: kiˇ gienˊ, en: 'period, during'}
+- {hanzi: 暫時, pinyin: qiam siiˇ, en: for the time being}
+- {hanzi: 利子, pinyin: li ziiˋ, en: interest (on money)}
+- {hanzi: 匯款, pinyin: fi kuanˋ, en: transfer money}
+- {hanzi: 限制, pinyin: han zii, en: 'limit, restrict'}
+- {hanzi: 最多, pinyin: zui doˊ, en: at most}
+- {hanzi: 支票, pinyin: ziiˊ peuˊ, en: cheque}
+- {hanzi: 貸款, pinyin: toi kuanˋ, en: loan; take a loan}
+- {hanzi: 服務, pinyin: fug vu, en: service; serve}
+- {hanzi: 辦公, pinyin: pan gungˊ, en: be open (of an office); work in an office}
+- {hanzi: 送信仔个, pinyin: sung xin eˋ ge, en: postman}
+- {hanzi: 信仔, pinyin: xin eˋ, en: letter}
+- {hanzi: 明信片, pinyin: minˇ xin pienˋ, en: postcard}
+- {hanzi: 配合, pinyin: pi hab, en: cooperate}
+- {hanzi: 紙票, pinyin: ziiˋ peu, en: banknote}
+- {hanzi: 入境, pinyin: ngib gin, en: enter a country}
+- {hanzi: 簽證, pinyin: qiamˊ ziin, en: visa}
+- {hanzi: 親切, pinyin: qinˊ qiedˋ, en: 'kind, warm'}
+- {hanzi: 費氣, pinyin: fi hi, en: 'troublesome, a hassle'}
+- {hanzi: 臨時, pinyin: limˇ siiˇ, en: at short notice}
+exercises:
+  translate:
+  - en: Immigration formalities.
+    source: kaga115
+    sx: {hanzi: 入境手續。, pinyin: ngib gin suˋ xiug.}
+  - en: 'Ask the man himself: it''s quicker.'
+    source: kaga115
+    sx: {hanzi: 該件事問佢本人較遽。, pinyin: ge kien sii mun giˇ bunˋ nginˇ ka giagˋ.}
+  - en: My elder brother took out a bank loan to buy a house.
+    source: kaga115
+    sx: {hanzi: 阿哥同銀行貸款買屋。, pinyin: aˊ goˊ tungˇ ngiunˇ hongˇ toi kuanˋ maiˊ vugˋ.}
+  - en: Today I received a postcard.
+    source: kaga115
+    sx: {hanzi: 今晡日𠊎收著一張明信片。, pinyin: gimˊ buˊ ngidˋ ngaiˇ suˊ doˋ idˋ zongˊ minˇ xin pienˋ.}
+  - en: Don't tell him about this for the time being.
+    source: kaga115
+    sx: {hanzi: 這件事暫時吂愛同佢講。, pinyin: iaˋ kien sii qiam siiˇ mangˇ oi tungˇ giˇ gongˋ.}
+  fill:
+  - en: Luckily someone found your passport.
+    sx: {hanzi: 好得有人拈著若___。, pinyin: hoˋ dedˋ iuˊ nginˇ ngiamˊ doˋ ngiaˊ ___., answer_hanzi: 護照, answer: fu zeu}
+  - en: Please sign here.
+    sx: {hanzi: 請在這位___。, pinyin: qiangˋ coiˊ iaˋ vi ___., answer_hanzi: 簽名, answer: qiamˊ miangˇ}
+  - en: The passbook is free.
+    sx: {hanzi: 辦簿仔___。, pinyin: pan puˊ eˋ ___., answer_hanzi: 免費, answer: mienˊ fi}
+  - en: The interest isn't high.
+    sx: {hanzi: ___無高。, pinyin: ___ moˇ goˊ., answer_hanzi: 利子, answer: li ziiˋ}
+  - en: The postman comes every day.
+    sx: {hanzi: ___逐日就會來。, pinyin: ___ dagˋ ngidˋ qiu voi loiˇ., answer_hanzi: 送信仔个, answer: sung xin eˋ ge}
+audio: []

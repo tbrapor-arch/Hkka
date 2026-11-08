@@ -1,0 +1,271 @@
+id: 30
+genre: speech
+title:
+  en: "Don't make promises lightly"
+  sx: {hanzi: "毋好儘採應承人", pinyin: "mˇ hoˋ qinˋ caiˋ inˋ siinˇ nginˇ"}
+review: false
+setting: >-
+  Monday 15 January 2029. A-min (劉明) stands for class president for next term and gives his speech to the class. 阿芳,
+  his opponent from the debate in 進修 13, is the other candidate. A-min tried the speech out on Sam the evening before.
+names: [劉明, 阿明, 阿芳]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Classmates, teacher, hello everyone. I am 劉明, and I am a candidate in this election for class president."
+    sx: {hanzi: "各位同學、先生，大家好。𠊎係劉明，𠊎係這擺班長選舉个候選人。", pinyin: "gogˋ vi tungˇ hog, xinˊ sangˊ, tai gaˊ hoˋ. ngaiˇ he liuˇ minˇ, ngaiˇ he iaˋ baiˋ banˊ zongˋ xienˋ giˋ ge heu xienˋ nginˇ."}
+  - n: 2
+    speaker: 阿明
+    en: "People say that voting is a right in a democratic society. But I think it is also a duty."
+    sx: {hanzi: "有人講，選舉係民主社會个權利。毋過𠊎想，乜係一種義務。", pinyin: "iuˊ nginˇ gongˋ, xienˋ giˋ he minˇ zuˋ sa fi ge kienˇ li. mˇ go ngaiˇ xiongˋ, me he idˋ zungˋ ngi vu."}
+    check: true
+  - n: 3
+    speaker: 阿明
+    en: "You must fight for your own rights, and you must also answer for how things turn out."
+    sx: {hanzi: "自家个權利愛爭取，做人乜愛擔輸贏。", pinyin: "qi gaˊ ge kienˇ li oi zenˊ qiˋ, zo nginˇ me oi damˊ suˊ iangˇ."}
+  - n: 4
+    speaker: 阿明
+    en: "I know I have faults. Last term I was often late, and I talk rather loudly."
+    sx: {hanzi: "𠊎知自家有缺點。上學期𠊎輒輒慢到，講話乜較大聲。", pinyin: "ngaiˇ diˊ qi gaˊ iuˊ kiedˋ diamˋ. song hog kiˇ ngaiˇ jiab jiab man do, gongˋ fa me ka tai sangˊ."}
+  - n: 5
+    speaker: 阿明
+    en: "If you have faults, you must improve. This term I've been first into the classroom every day."
+    sx: {hanzi: "有缺點就愛改進。這學期𠊎逐日都第一個到教室。", pinyin: "iuˊ kiedˋ diamˋ qiu oi goiˋ jin. iaˋ hog kiˇ ngaiˇ dagˋ ngidˋ du ti idˋ ge do gau siidˋ."}
+  - n: 6
+    speaker: 阿明
+    en: "I have good points too: I'm keen, and when a classmate has a problem, I offer to help."
+    sx: {hanzi: "𠊎乜有優點：𠊎當熱心，同學有麼个事情，𠊎會主動同人𢯭手。", pinyin: "ngaiˇ me iuˊ iuˊ diamˋ: ngaiˇ dongˊ ngied ximˊ, tungˇ hog iuˊ maˋ ge sii qinˇ, ngaiˇ voi zuˋ tung tungˇ nginˇ ten suˋ."}
+  - n: 7
+    speaker: 阿明
+    en: "Attitude matters for a class president. I will do things carefully and conscientiously."
+    sx: {hanzi: "做班長，態度當重要。𠊎會用細心細意个態度做事情。", pinyin: "zo banˊ zongˋ, tai tu dongˊ cung ieu. ngaiˇ voi iung se ximˊ se i ge tai tu zo sii qinˇ."}
+  - n: 8
+    speaker: 阿明
+    en: "I make you three promises."
+    sx: {hanzi: "𠊎有三件事情應承大家。", pinyin: "ngaiˇ iuˊ samˊ kien sii qinˇ inˋ siinˇ tai gaˊ."}
+  - n: 9
+    speaker: 阿明
+    en: "First: set up a cleaning rota. The class will split into four groups, taking turns each week to sweep the classroom."
+    sx: {hanzi: "第一，建立拚掃个制度。歸班分做四隻小組，逐禮拜輪流拚掃教室。", pinyin: "ti idˋ, gien lib biang so ge zii tu. guiˊ banˊ bunˊ zo xi zagˋ seuˋ zuˊ, dagˋ liˊ bai lunˇ liuˇ biang so gau siidˋ."}
+  - n: 10
+    speaker: 阿明
+    en: "Second: for the environment, no one may burn rubbish any old how."
+    sx: {hanzi: "第二，為著環保，做毋得烏白燒垃圾。", pinyin: "ti ngi, vi doˋ kuanˇ boˋ, zo mˇ dedˋ vuˊ pag seuˊ laˋ sabˋ."}
+  - n: 11
+    speaker: 阿明
+    en: "Third: next term the school is holding an inter-class choir contest. I'll arrange times for us all to practise."
+    sx: {hanzi: "第三，下學期學校有辦班級个合唱比賽。𠊎會安排時間，分大家練習。", pinyin: "ti samˊ, ha hog kiˇ hog gauˋ iuˊ pan banˊ kibˋ ge hab cong biˋ soi. ngaiˇ voi onˊ paiˇ siiˇ gienˊ, bunˊ tai gaˊ lien xib."}
+  - n: 12
+    speaker: 阿明
+    en: "When everyone works together, things get done faster."
+    sx: {hanzi: "大家互相合作，事情較遽做好。", pinyin: "tai gaˊ fu xiongˊ hab zogˋ, sii qinˇ ka giagˋ zo hoˋ."}
+    source: kaga115
+  - n: 13
+    speaker: 阿明
+    en: "At the last basketball match we didn't pull together, and we stood there watching the other side win."
+    sx: {hanzi: "上擺籃球比賽，𫣆兜毋知好團結，眼擘擘看等人贏。", pinyin: "song baiˋ lamˇ kiuˇ biˋ soi, enˊ deuˊ mˇ diˊ hoˋ tonˇ giedˋ, ngienˋ bagˋ bagˋ kon denˋ nginˇ iangˇ."}
+    check: true
+  - n: 14
+    speaker: 阿明
+    en: "In the choir contest we must pull together and show what we can do."
+    sx: {hanzi: "這擺合唱比賽，𫣆兜愛團結，發揮實力。", pinyin: "iaˋ baiˋ hab cong biˋ soi, enˊ deuˊ oi tonˇ giedˋ, fadˋ fiˊ siid lid."}
+  - n: 15
+    speaker: 阿明
+    en: "Some ask: 'If the activity budget isn't enough, what then?'"
+    sx: {hanzi: "有人問：「活動經費毋罅，愛仰結煞？」", pinyin: "iuˊ nginˇ mun: fad tung ginˊ fi mˇ la, oi ngiong gadˋ sadˋ?"}
+  - n: 16
+    speaker: 阿明
+    en: "I'll talk it over with the teacher, so that the burden on everyone isn't too heavy."
+    sx: {hanzi: "𠊎會同先生參詳，毋會分大家个負擔忒大。", pinyin: "ngaiˇ voi tungˇ xinˊ sangˊ camˊ xiongˇ, mˇ voi bunˊ tai gaˊ ge fu damˊ tedˋ tai."}
+    check: true
+  - n: 17
+    speaker: 阿明
+    en: "If you can't do something, don't make promises lightly. What I promise, I will do."
+    sx: {hanzi: "係做毋到就毋好儘採應承人。𠊎應承个，𠊎一定做得到。", pinyin: "he zo mˇ do qiu mˇ hoˋ qinˋ caiˋ inˋ siinˇ nginˇ. ngaiˇ inˋ siinˇ ge, ngaiˇ idˋ tin zo dedˋ do."}
+  - n: 18
+    speaker: 阿明
+    en: "I don't want to be a model for everyone. I just want to represent you."
+    sx: {hanzi: "𠊎無想愛做大家个模範，𠊎淨想愛代表大家。", pinyin: "ngaiˇ moˇ xiongˋ oi zo tai gaˊ ge muˇ fam, ngaiˇ qiang xiongˋ oi toi beuˋ tai gaˊ."}
+  - n: 19
+    speaker: 阿明
+    en: "Please give me your vote. Thank you!"
+    sx: {hanzi: "請大家投票分𠊎。恁仔細！", pinyin: "qiangˋ tai gaˊ teuˇ peuˊ bunˊ ngaiˇ. anˋ ziiˋ se!"}
+  - n: 20
+    speaker: 先生
+    en: "(after the vote) The results are in. 劉明 twenty-two votes, 阿芳 ten."
+    sx: {hanzi: "選舉个結果出來吔。劉明二十二票，阿芳十票。", pinyin: "xienˋ giˋ ge giedˋ goˋ cudˋ loiˇ leˊ. liuˇ minˇ ngi siib ngi peuˊ, aˊ fongˊ siib peuˊ."}
+  - n: 21
+    speaker: 先生
+    en: "劉明 is elected!"
+    sx: {hanzi: "劉明當選吔！", pinyin: "liuˇ minˇ dongˊ xienˋ leˊ!"}
+  - n: 22
+    speaker: 阿芳
+    en: "Congratulations. I lost, but I'll support you."
+    sx: {hanzi: "恭喜你。𠊎落選，毋過𠊎會支持你。", pinyin: "giungˊ hiˋ nˇ. ngaiˇ log xienˋ, mˇ go ngaiˇ voi ziiˊ ciiˇ nˇ."}
+  - n: 23
+    speaker: 阿明
+    en: "Thank you. You're very able. Let's solve the class's problems together."
+    sx: {hanzi: "恁仔細。你个能力當好，𫣆兜共下來解決班項个問題。", pinyin: "anˋ ziiˋ se. nˇ ge nenˇ lid dongˊ hoˋ, enˊ deuˊ kiung ha loiˇ gieˋ giedˋ banˊ hong ge mun tiˇ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A speech. The title is from an official sentence: 係做毋到就毋好儘採應承人 "if you can't do it, don't make promises
+      lightly" (line 17). 儘採 "carelessly, any old how" is from Part 1.
+  - ref: 1
+    topic: vocab
+    text: >
+      班長 banˊ zongˋ "class president" (投票選班長). 選舉 xienˋ giˋ "election" (下一輪選舉愛等四年). 候選人 heu xienˋ nginˇ
+      "candidate" (MOE; 總統候選人).
+  - ref: 2
+    topic: vocab
+    text: >
+      民主 minˇ zuˋ "democratic; democracy" (民主社會). 權利 kienˇ li "right", 義務 ngi vu "duty" (做兵係一種義務). Marked for review.
+  - ref: 3
+    topic: vocab
+    text: >
+      爭取 zenˊ qiˋ "fight for, strive for": the official sentence is 自家个權利愛爭取. 擔 damˊ "shoulder, take on" (MOE 負責、承當; the
+      list entry is its measure-word sense): 做人愛擔輸贏 "you must answer for success or failure" is official, with 輸贏
+      (lesson 66). 慢到 "be late" (line 4; 你忒慢到，無飯好食哩). 參詳 camˊ xiongˇ "talk over" (line 16, 中高級).
+  - ref: 5
+    topic: vocab
+    text: >
+      改進 goiˋ jin "improve": 有缺點就愛改進 is an official sentence (缺點 is from 進修 13).
+  - ref: 6
+    topic: vocab
+    text: >
+      優點 iuˊ diamˋ "good point, strength". 熱心 ngied ximˊ "keen, warm-hearted". 主動 zuˋ tung "on one's own initiative":
+      主動同人𢯭手 is official.
+  - ref: 7
+    topic: vocab
+    text: >
+      態度 tai tu "attitude": from the official 用細心細意个態度做事情，較毋會有所爭. 細心細意 se ximˊ se i "careful, meticulous" (中高級).
+  - ref: 8
+    topic: vocab
+    text: >
+      應承 inˋ siinˇ "promise, agree to" (Mandarin 承諾).
+  - ref: 9
+    topic: vocab
+    text: >
+      建立 gien lib "set up, establish" and 制度 zii tu "system" (建立制度). 小組 seuˋ zuˊ "group": compare the official
+      歸班分做四隻小組討論功課.
+  - ref: 10
+    topic: vocab
+    text: >
+      環保 kuanˇ boˋ "environmental protection" (為著環保，做毋得烏白燒垃圾). The line is the official sentence with 第二 in front.
+      烏白 "any old how" (Part 1); 垃圾 laˋ sabˋ is the MOE spelling of 地圾.
+  - ref: 11
+    topic: vocab
+    text: >
+      合唱 hab cong "choir, choral singing": from the official 這學期學校有辦班級个合唱比賽, with 下學期 "next term": the contest is in
+      term 2. 安排 onˊ paiˇ "arrange".
+  - ref: 12
+    topic: vocab
+    text: >
+      合作 hab zogˋ "cooperate" (大家互相合作，事情較遽做好). An official sentence.
+  - ref: 13
+    topic: vocab
+    text: >
+      團結 tonˇ giedˋ "unite, pull together" (MOE). The official sentence 籃球比賽毋知好團結，眼擘擘看等獎杯分低年級个拿等走
+      is behind this line; 眼擘擘 "wide-eyed, helpless".
+  - ref: 14
+    topic: vocab
+    text: >
+      發揮 fadˋ fiˊ "bring out, give full play to" (自由發揮). 實力 siid lid "real ability" (係有實力就毋驚人比).
+  - ref: 15
+    topic: vocab
+    text: >
+      An official sentence. 經費 ginˊ fi "funds, budget". 仰結煞 ngiong gadˋ sadˋ "what to do?".
+  - ref: 16
+    topic: vocab
+    text: >
+      負擔 fu damˊ "burden" (負擔毋起 "can't afford it"). Marked for review.
+  - ref: 18
+    topic: vocab
+    text: >
+      模範 muˇ fam "model, example" (佢品行好、做事又認真，係大家个模範). 代表 toi beuˋ "represent" (老弟代表班項去比賽).
+      淨 "only".
+  - ref: 21
+    topic: vocab
+    text: >
+      當選 dongˊ xienˋ "be elected" (高票當選), 落選 log xienˋ "lose an election" (line 22).
+  - ref: 22
+    topic: vocab
+    text: >
+      支持 ziiˊ ciiˇ "support" (MOE; 若這建議較好，𠊎會極力支持).
+  - ref: 23
+    topic: vocab
+    text: >
+      能力 nenˇ lid "ability" (寫作能力). 解決 gieˋ giedˋ "solve" (敢有解決个辦法？).
+
+new_words:
+  - {hanzi: 班長, pinyin: "banˊ zongˋ", en: "class president"}
+  - {hanzi: 選舉, pinyin: "xienˋ giˋ", en: "election"}
+  - {hanzi: 候選人, pinyin: "heu xienˋ nginˇ", en: "candidate"}
+  - {hanzi: 民主, pinyin: "minˇ zuˋ", en: "democratic; democracy"}
+  - {hanzi: 權利, pinyin: "kienˇ li", en: "right"}
+  - {hanzi: 義務, pinyin: "ngi vu", en: "duty"}
+  - {hanzi: 爭取, pinyin: "zenˊ qiˋ", en: "fight for, strive for"}
+  - {hanzi: 擔, pinyin: "damˊ", en: "shoulder, take on (MOE)"}
+  - {hanzi: 改進, pinyin: "goiˋ jin", en: "improve"}
+  - {hanzi: 優點, pinyin: "iuˊ diamˋ", en: "good point, strength"}
+  - {hanzi: 熱心, pinyin: "ngied ximˊ", en: "keen, warm-hearted"}
+  - {hanzi: 主動, pinyin: "zuˋ tung", en: "on one's own initiative"}
+  - {hanzi: 細心細意, pinyin: "se ximˊ se i", en: "careful, meticulous"}
+  - {hanzi: 態度, pinyin: "tai tu", en: "attitude"}
+  - {hanzi: 應承, pinyin: "inˋ siinˇ", en: "promise, agree to"}
+  - {hanzi: 建立, pinyin: "gien lib", en: "set up, establish"}
+  - {hanzi: 制度, pinyin: "zii tu", en: "system"}
+  - {hanzi: 小組, pinyin: "seuˋ zuˊ", en: "group"}
+  - {hanzi: 環保, pinyin: "kuanˇ boˋ", en: "environmental protection"}
+  - {hanzi: 垃圾, pinyin: "laˋ sabˋ", en: "rubbish"}
+  - {hanzi: 合唱, pinyin: "hab cong", en: "choir, choral singing"}
+  - {hanzi: 安排, pinyin: "onˊ paiˇ", en: "arrange"}
+  - {hanzi: 合作, pinyin: "hab zogˋ", en: "cooperate"}
+  - {hanzi: 眼擘擘, pinyin: "ngienˋ bagˋ bagˋ", en: "wide-eyed, helplessly"}
+  - {hanzi: 團結, pinyin: "tonˇ giedˋ", en: "unite, pull together"}
+  - {hanzi: 發揮, pinyin: "fadˋ fiˊ", en: "bring out, give full play to"}
+  - {hanzi: 實力, pinyin: "siid lid", en: "real ability"}
+  - {hanzi: 經費, pinyin: "ginˊ fi", en: "funds, budget"}
+  - {hanzi: 仰結煞, pinyin: "ngiong gadˋ sadˋ", en: "what to do?, how will it end?"}
+  - {hanzi: 參詳, pinyin: "camˊ xiongˇ", en: "talk over, discuss"}
+  - {hanzi: 負擔, pinyin: "fu damˊ", en: "burden"}
+  - {hanzi: 模範, pinyin: "muˇ fam", en: "model, example"}
+  - {hanzi: 代表, pinyin: "toi beuˋ", en: "represent; representative"}
+  - {hanzi: 當選, pinyin: "dongˊ xienˋ", en: "be elected"}
+  - {hanzi: 落選, pinyin: "log xienˋ", en: "lose an election"}
+  - {hanzi: 支持, pinyin: "ziiˊ ciiˇ", en: "support"}
+  - {hanzi: 能力, pinyin: "nenˇ lid", en: "ability"}
+  - {hanzi: 解決, pinyin: "gieˋ giedˋ", en: "solve"}
+
+exercises:
+  translate:
+    - en: "Vote to choose the class president."
+      source: kaga115
+      sx: {hanzi: "投票選班長。", pinyin: "teuˇ peuˊ xienˋ banˊ zongˋ."}
+    - en: "Military service is a duty."
+      source: kaga115
+      sx: {hanzi: "做兵係一種義務。", pinyin: "zo binˊ he idˋ zungˋ ngi vu."}
+    - en: "If you have faults, you must improve."
+      source: kaga115
+      sx: {hanzi: "有缺點就愛改進。", pinyin: "iuˊ kiedˋ diamˋ qiu oi goiˋ jin."}
+    - en: "Dad is very warm-hearted."
+      source: kaga115
+      sx: {hanzi: "阿爸十分熱心。", pinyin: "aˊ baˊ siib funˊ ngied ximˊ."}
+    - en: "Is there a solution?"
+      source: kaga115
+      sx: {hanzi: "敢有解決个辦法？", pinyin: "gamˋ iuˊ gieˋ giedˋ ge pan fabˋ?"}
+  fill:
+    - en: "You must fight for your own rights."
+      sx: {hanzi: "自家个權利愛___。", pinyin: "qi gaˊ ge kienˇ li oi ___.", answer_hanzi: "爭取", answer: "zenˊ qiˋ"}
+    - en: "Offer to help people."
+      sx: {hanzi: "___同人𢯭手。", pinyin: "___ tungˇ nginˇ ten suˋ.", answer_hanzi: "主動", answer: "zuˋ tung"}
+    - en: "Set up a system."
+      sx: {hanzi: "建立___。", pinyin: "gien lib ___.", answer_hanzi: "制度", answer: "zii tu"}
+    - en: "He is everyone's model."
+      sx: {hanzi: "佢係大家个___。", pinyin: "giˇ he tai gaˊ ge ___.", answer_hanzi: "模範", answer: "muˇ fam"}
+    - en: "Elected by a large majority."
+      sx: {hanzi: "高票___。", pinyin: "goˊ peuˊ ___.", answer_hanzi: "當選", answer: "dongˊ xienˋ"}
+
+audio: []

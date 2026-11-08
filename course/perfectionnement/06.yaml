@@ -1,0 +1,315 @@
+id: 6
+genre: news
+title:
+  en: The thief is fiercer than the owner
+  sx: {hanzi: 賊仔惡過人, pinyin: ced eˋ ogˋ go nginˇ}
+review: false
+setting: 'Friday 11 August 2028, six in the evening: the local news on a Hakka channel, which Sam watches at the Lius''.
+  The news items are invented for the course. Speakers: the newsreader (主播), the reporter (記者), a stallholder at the market
+  (頭家娘) and a ward chief (里長).'
+names: [苗栗, 頭份, 後龍, 臺北, 里長, 主播, 中正路]
+dialogue:
+- n: 1
+  speaker: 主播
+  en: Good evening, viewers. It's Friday the eleventh of August, and here is the six o'clock news.
+  sx: {hanzi: 各位觀眾，大家好。這下係八月十一號，禮拜五，下晝六點个新聞。, pinyin: 'gogˋ vi gonˊ zung, tai gaˊ hoˋ. iaˋ ha he badˋ ngied siib idˋ ho,
+      liˊ bai ngˋ, haˊ zu liugˋ diamˋ ge xinˊ vunˇ.'}
+- n: 2
+  speaker: 主播
+  en: 'Our first story: at a market in Miaoli city this morning, a thief stole money.'
+  sx: {hanzi: 第一條新聞：苗栗市一隻市場，今晡日朝晨有賊仔偷錢。, pinyin: 'ti idˋ tiauˇ xinˊ vunˇ: meuˇ lid sii idˋ zagˋ sii congˇ, gimˊ buˊ ngidˋ
+      zeuˊ siinˇ iuˊ ced eˋ teuˊ qienˇ.'}
+- n: 3
+  speaker: 記者
+  en: The stallholder says that while everyone was queuing to buy vegetables, the thief made off with the money she had
+    left on her table.
+  sx: {hanzi: 頭家娘講，大家在該排列買菜个時節，賊仔偷走佢放在桌項个錢。, pinyin: 'teuˇ gaˊ ngiongˇ gongˋ, tai gaˊ du ge baiˇ lied maiˊ coi ge siiˇ jiedˋ,
+      ced eˋ teuˊ zeuˋ giˇ biong coiˊ zogˋ hong ge qienˇ.'}
+- n: 4
+  speaker: 頭家娘
+  en: I saw him and told him to give it back, and he turned on me, fiercer than I was, saying I was talking nonsense! The
+    thief fiercer than the owner, that's what it is!
+  sx: {hanzi: 𠊎看著佢，喊佢還錢，佢嗄比𠊎還較惡，講𠊎亂講！這就係賊仔惡過人！, pinyin: 'ngaiˇ kon doˋ giˇ, ham giˇ vanˇ qienˇ, giˇ sa biˋ ngaiˇ hanˇ ka ogˋ,
+      gongˋ ngaiˇ lon gongˋ! iaˋ qiu he ced eˋ ogˋ go nginˇ!'}
+- n: 5
+  speaker: 記者
+  en: Her neighbours came running at once, and the two of them nearly came to blows.
+  sx: {hanzi: 隔壁鄰舍黏時走過來，兩儕人差毋多相打。, pinyin: 'gagˋ biagˋ linˇ sa ngiamˇ siiˇ zeuˋ go loiˇ, liongˋ saˇ nginˇ caˊ mˇ doˊ xiongˊ
+      daˋ.'}
+- n: 6
+  speaker: 記者
+  en: Luckily the market's manager phoned the police, and the thief didn't get away.
+  sx: {hanzi: 好得市場管理員打電話分警察，賊仔走毋忒。, pinyin: 'hoˋ dedˋ sii congˇ gonˋ liˊ ienˇ daˋ tien fa bunˊ ginˋ cadˋ, ced eˋ zeuˋ mˇ
+      tedˋ.'}
+  check: true
+- n: 7
+  speaker: 記者
+  en: The police say that stealing is against the law, and he will be punished.
+  sx: {hanzi: 警察講，偷東西係犯法个，會分人罰。, pinyin: 'ginˋ cadˋ gongˋ, teuˊ dungˊ xiˊ he fam fabˋ ge, voi bunˊ nginˇ fad.'}
+- n: 8
+  speaker: 記者
+  en: 'We hear the same thief has robbed people before: quite frightening.'
+  sx: {hanzi: 聽講該隻賊仔頭擺乜搶過人，實在得人驚。, pinyin: 'tangˊ gongˋ ge zagˋ ced eˋ teuˇ baiˋ me qiongˋ go nginˇ, siid cai dedˋ nginˇ
+      giangˊ.'}
+- n: 9
+  speaker: 主播
+  en: 'Second story: on a main road in Toufen, a scooter ran into a car.'
+  sx: {hanzi: 第二條新聞：頭份一條大路項，有一臺機車撞著汽車。, pinyin: 'ti ngi tiauˇ xinˊ vunˇ: teuˇ fun idˋ tiauˇ tai lu hong, iuˊ idˋ toiˇ giˊ
+      caˊ cong doˋ hi caˊ.'}
+- n: 10
+  speaker: 記者
+  en: The young man on the scooter says his brakes failed and he couldn't stop.
+  sx: {hanzi: 騎機車个後生人講，佢个擋仔壞忒，停毋下來。, pinyin: 'kiˇ giˊ caˊ ge heu sangˊ nginˇ gongˋ, giˇ ge dongˋ eˇ fai tedˋ, tinˇ mˇ haˊ
+      loiˇ.'}
+- n: 11
+  speaker: 記者
+  en: Luckily nobody was hurt; only the scooter has to go in for repair.
+  sx: {hanzi: 好得無人著傷，淨係機車愛送去修理。, pinyin: 'hoˋ dedˋ moˇ nginˇ cog songˊ, qiang he giˊ caˊ oi sung hi xiuˊ liˊ.'}
+- n: 12
+  speaker: 記者
+  en: 'The police say scooters should be checked often: safety first.'
+  sx: {hanzi: 警察講，機車愛輒檢查，安全第一。, pinyin: 'ginˋ cadˋ gongˋ, giˊ caˊ oi jiab giamˋ caˇ, onˊ qionˇ ti idˋ.'}
+- n: 13
+  speaker: 主播
+  en: 'Third: the weather. It has been very hot these last few days; the health centre says more than ten people have had
+    heatstroke.'
+  sx: {hanzi: 第三條：天時。這幾日當熱，衛生所講，有十過隻人熱著。, pinyin: 'ti samˊ tiauˇ: tienˊ siiˇ. iaˋ giˋ ngidˋ dongˊ ngied, vi senˊ soˋ gongˋ,
+      iuˊ siib go zagˋ nginˇ ngied doˋ.'}
+- n: 14
+  speaker: 主播
+  en: Besides that, we hear there may be a typhoon the day after tomorrow.
+  sx: {hanzi: 另外，聽講後日會有風搓。, pinyin: 'nang ngoi, tangˊ gongˋ heuˊ ngidˋ voi iuˊ fungˊ caiˊ.'}
+- n: 15
+  speaker: 記者
+  en: The weather bureau says the typhoon may bring heavy rain, and the rivers may flood.
+  sx: {hanzi: 氣象講，風搓可能會引起大雨，河壩會發大水。, pinyin: 'hi xiong gongˋ, fungˊ caiˊ koˋ nenˇ voi inˊ hiˋ tai iˋ, hoˇ ba voi bodˋ tai
+      suiˋ.'}
+- n: 16
+  speaker: 記者
+  en: 'People in the hills should take care: if too much rain falls, the slopes can give way.'
+  sx: {hanzi: 山肚个人愛注意，雨落忒多，山會崩。, pinyin: 'sanˊ duˋ ge nginˇ oi zu i, iˋ log tedˋ doˊ, sanˊ voi benˊ.'}
+- n: 17
+  speaker: 主播
+  en: 'Fourth: in a ward of Miaoli city, the ward chief has invited people to a meal.'
+  sx: {hanzi: 第四條：苗栗市一隻里，里長請人食飯。, pinyin: 'ti xi tiauˇ: meuˇ lid sii idˋ zagˋ liˊ, liˊ zongˋ qiangˋ nginˇ siid fan.'}
+- n: 18
+  speaker: 記者
+  en: The ward chief says the ward's population keeps shrinking; the young people have all gone to Taipei.
+  sx: {hanzi: 里長講，這隻里个人口緊來緊少，後生人都走去臺北吔。, pinyin: 'liˊ zongˋ gongˋ, iaˋ zagˋ liˊ ge nginˇ kieuˋ ginˋ loiˇ ginˋ seuˋ, heu
+      sangˊ nginˇ du zeuˋ hi toiˇ bedˋ leˊ.'}
+- n: 19
+  speaker: 里長
+  en: Neighbours should get on well. I've invited everyone to eat this time so that people get to know a few more of each
+    other.
+  sx: {hanzi: 隔壁鄰舍愛相好。這擺請大家來食飯，就係愛大家識加兜人。, pinyin: 'gagˋ biagˋ linˇ sa oi xiongˊ hoˋ. iaˋ baiˋ qiangˋ tai gaˊ loiˇ siid
+      fan, qiu he oi tai gaˊ siidˋ gaˊ deuˊ nginˇ.'}
+- n: 20
+  speaker: 記者
+  en: Before the meal, everyone shook hands with the ward chief, very politely.
+  sx: {hanzi: 食飯進前，大家先同里長扼手，當有禮貌。, pinyin: 'siid fan jin qienˇ, tai gaˊ xienˊ tungˇ liˊ zongˋ agˋ suˋ, dongˊ iuˊ liˊ mau.'}
+- n: 21
+  speaker: 里長
+  en: 'In the old days everyone knew each other. Now people live in tower blocks: you meet someone in the lift and have
+    no idea who they are.'
+  sx: {hanzi: 頭擺个人都相識，這下歇大樓，電梯肚看著人乜毋知係麼人。, pinyin: 'teuˇ baiˋ ge nginˇ du xiongˊ siidˋ, iaˋ ha hed tai leuˇ, tien toiˊ duˋ
+      kon doˋ nginˇ me mˇ diˊ he maˋ nginˇ.'}
+- n: 22
+  speaker: 主播
+  en: Society has changed a great deal, but neighbours are still neighbours.
+  sx: {hanzi: 社會變當多，毋過隔壁鄰舍還係隔壁鄰舍。, pinyin: 'sa fi bien dongˊ doˊ, mˇ go gagˋ biagˋ linˇ sa hanˇ he gagˋ biagˋ linˇ sa.'}
+- n: 23
+  speaker: 主播
+  en: 'Fifth: 中正路 was under repair for half a day; since this afternoon cars can get through again.'
+  sx: {hanzi: 第五條：中正路修理半日，今晡日下晝車仔又過得吔。, pinyin: 'ti ngˋ tiauˇ: zungˊ ziin lu xiuˊ liˊ ban ngidˋ, gimˊ buˊ
+      ngidˋ haˊ zu caˊ eˋ iu go dedˋ leˊ.'}
+  check: true
+- n: 24
+  speaker: 記者
+  en: The man in charge says the cement has only just dried, so drive slowly.
+  sx: {hanzi: 負責个人講，紅毛泥正燥，車仔愛慢慢仔駛。, pinyin: 'fu jidˋ ge nginˇ gongˋ, fungˇ moˊ naiˇ zang zauˊ, caˊ eˋ oi man man
+      eˋ siiˋ.'}
+- n: 25
+  speaker: 主播
+  en: 'Our last story: this evening a rainbow appeared over the shore at Houlong.'
+  sx: {hanzi: 最後一條：今晡日臨暗仔，後龍海脣出天弓。, pinyin: 'zui heu idˋ tiauˇ: gimˊ buˊ ngidˋ limˇ am eˋ, heu lungˇ hoiˋ sunˇ cudˋ tienˊ
+      giungˊ.'}
+- n: 26
+  speaker: 記者
+  en: A lot of people stopped their cars and got out to take photos.
+  sx: {hanzi: 當多人停車仔落來翕相。, pinyin: dongˊ doˊ nginˇ tinˇ caˊ eˋ log loiˇ hibˋ xiong.}
+- n: 27
+  speaker: 主播
+  en: That's all the news for today. Thank you for watching; see you on Monday.
+  sx: {hanzi: 今晡日个新聞就報到這。多謝大家，禮拜一再見。, pinyin: 'gimˊ buˊ ngidˋ ge xinˊ vunˇ qiu bo do iaˋ. doˊ qia tai gaˊ, liˊ bai idˋ zai
+      gien.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A news bulletin, with its set phrases at the start and the end (lines 1, 27). News items take 條 (checklist). The title
+    is a saying from the official lists (高級): 賊仔惡過人 "the thief is fiercer than the owner", for someone in the wrong who
+    shouts loudest. The stallholder quotes it in line 4. X 惡過 Y is a fixed comparison here; in ordinary speech the course
+    uses 比 (line 4: 佢比𠊎還較惡).
+- ref: 1
+  topic: vocab
+  text: >
+    觀眾 "viewers" (lesson 94) and 新聞 "news" (lesson 60) open every bulletin. 苗栗市 "Miaoli city": 市 sii "city".
+- ref: 2
+  topic: vocab
+  text: >
+    賊仔 ced eˋ "thief", 偷 teuˊ "steal" (偷東西係犯法个, line 7, is an official sentence). 市場 sii congˇ "market" (㧡菜去市場賣 "carry vegetables
+    to market to sell").
+- ref: 3
+  topic: false-friend
+  text: >
+    排列 baiˇ lied "queue, stand in line" (搞溜滑梯愛排列 "you have to queue for the slide"): note the reading baiˇ. 在該 du ge + verb
+    "while (they) were …ing" (checklist).
+- ref: 4
+  topic: grammar
+  text: >
+    嗄 sa "but then, unexpectedly" (lesson 41). 佢比𠊎還較惡 "he was even fiercer than me": 比 + 還較 + adjective, as in the official 比𠊎還較後生.
+- ref: 5
+  topic: vocab
+  text: >
+    隔壁鄰舍 gagˋ biagˋ linˇ sa "neighbours" (隔壁鄰舍感情當好 "the neighbours get on very well"). 相打 xiongˊ daˋ "fight, come to blows"
+    (毋好動啊著就相打 "don't start fighting at the slightest thing").
+- ref: 6
+  topic: vocab
+  text: >
+    管理員 gonˋ liˊ ienˇ "manager, caretaker" (管理 "manage", 這公司交分你管理 "I'm handing this company over to you to run"). 警察 (lesson
+    90). 走毋忒 "couldn't get away": our phrase, marked for a native speaker (V毋忒 in the lists: 睡毋忒 "can't get to sleep").
+- ref: 7
+  topic: vocab
+  text: >
+    犯法 fam fabˋ "break the law". 罰 fad "punish, fine" (搶紅燈會分人罰 "run a red light and you'll be fined"); 分人罰 "be punished",
+    with the passive 分 (grammar inventory §6).
+- ref: 8
+  topic: vocab
+  text: >
+    搶 qiongˋ "rob, snatch" (also "jump the light": 搶紅燈, line 7's note). 得人驚 dedˋ nginˇ giangˊ "frightening" (外背大水頭，還得人驚
+    "the flood outside is really frightening"); 得人 + feeling "causing people to feel…", as in 得人惜 "lovable".
+- ref: 9
+  topic: vocab
+  text: >
+    撞著 cong doˋ "run into, hit" (撞 + 著, as in 看著, 聽著). 大路 tai lu "main road" (過大路愛細義 "be careful crossing the road"). 輒
+    jiab "often" (line 12) is the single form of 輒輒 (進修 1).
+- ref: 11
+  topic: vocab
+  text: >
+    修理 xiuˊ liˊ "repair". The lists also give a joke sense: 你毋聽話，斯會分人修理哦！ "if you don't do as you're told, you'll get a
+    hiding!"
+- ref: 14
+  topic: vocab
+  text: >
+    另外 nang ngoi "besides, also" (note nang). 聽講 tangˊ gongˋ (進修 4) "I hear that, they say" (聽講佢愛去英國留學 "I hear he's going to study
+    in England"). 風搓 "typhoon" (lesson 60).
+- ref: 15
+  topic: vocab
+  text: >
+    可能 "may, possibly" (lesson 60). 引起 inˊ hiˋ "cause, bring about". 發大水 bodˋ tai suiˋ "flood" (2013 list).
+- ref: 17
+  topic: vocab
+  text: >
+    里 liˊ "ward, neighbourhood" (the smallest unit of local government: 文山里里長 "the chief of 文山 ward"); 里長 "ward chief" is
+    treated as a title here. 請人 qiangˋ nginˇ "treat people, invite people to a meal" (辦桌請人客).
+- ref: 19
+  topic: vocab
+  text: >
+    相好 xiongˊ hoˋ "get on well, be close" (該兩公婆盡相好 "that couple are very close"). 識 siidˋ "know (a person)": 識加兜人 "get to
+    know a few more people" (checklist: 識 is "know", not "can").
+- ref: 20
+  topic: vocab
+  text: >
+    扼手 agˋ suˋ "shake hands" (兩隊選手比賽前會先扼手). 禮貌 liˊ mau "manners, politeness"; 有禮貌 "polite".
+- ref: 21
+  topic: vocab
+  text: >
+    相識 xiongˊ siidˋ "know each other". 大樓 tai leuˇ "tower block", 電梯 tien toiˊ "lift". 頭擺 "in the old days" (checklist:
+    not "the first time").
+- ref: 22
+  topic: vocab
+  text: >
+    社會 sa fi "society" (note the readings).
+- ref: 23
+  topic: vocab
+  text: >
+    半日 ban ngidˋ "half a day". 又過得 "can get through again": our phrase, marked for a native speaker (過得 "can get through": 這片當狹，愛挨身正過得).
+- ref: 24
+  topic: vocab
+  text: >
+    負責 fu jidˋ "be in charge of, be responsible" (活動主要係佢負責); 負責个人 "the person in charge". 紅毛泥 fungˇ moˊ naiˇ "cement", literally
+    "red-haired (= Western) mud".
+- ref: 25
+  topic: vocab
+  text: >
+    臨暗仔 limˇ am eˋ "towards evening" (阿公臨暗仔輒輒去過家尞 "Grandpa often goes visiting towards evening"). 出天弓 "a rainbow comes out"
+    (東片出天弓會好天, 進修 3). 海脣 "seashore" (lesson 18).
+- ref: 27
+  topic: vocab
+  text: >
+    報 bo "report"; 報到這 "that's as far as we report, that's all". 再見 zai gien "goodbye, see you".
+new_words:
+- {hanzi: 市, pinyin: sii, en: city}
+- {hanzi: 市場, pinyin: sii congˇ, en: market}
+- {hanzi: 賊仔, pinyin: ced eˋ, en: thief}
+- {hanzi: 偷, pinyin: teuˊ, en: steal}
+- {hanzi: 排列, pinyin: baiˇ lied, en: 'queue, stand in line'}
+- {hanzi: 賊仔惡過人, pinyin: ced eˋ ogˋ go nginˇ, en: the thief is fiercer than the owner (the guilty shout loudest)}
+- {hanzi: 隔壁鄰舍, pinyin: gagˋ biagˋ linˇ sa, en: neighbours}
+- {hanzi: 相打, pinyin: xiongˊ daˋ, en: 'fight, come to blows'}
+- {hanzi: 管理員, pinyin: gonˋ liˊ ienˇ, en: 'manager, caretaker'}
+- {hanzi: 犯法, pinyin: fam fabˋ, en: break the law}
+- {hanzi: 罰, pinyin: fad, en: 'punish, fine'}
+- {hanzi: 大路, pinyin: tai lu, en: main road}
+- {hanzi: 撞著, pinyin: cong doˋ, en: 'run into, hit'}
+- {hanzi: 輒, pinyin: jiab, en: often}
+- {hanzi: 修理, pinyin: xiuˊ liˊ, en: repair}
+- {hanzi: 另外, pinyin: nang ngoi, en: 'besides, also; another'}
+- {hanzi: 引起, pinyin: inˊ hiˋ, en: 'cause, bring about'}
+- {hanzi: 發大水, pinyin: bodˋ tai suiˋ, en: flood}
+- {hanzi: 里, pinyin: liˊ, en: ward (neighbourhood unit)}
+- {hanzi: 請人, pinyin: qiangˋ nginˇ, en: treat people (to a meal)}
+- {hanzi: 相好, pinyin: xiongˊ hoˋ, en: 'get on well, be close'}
+- {hanzi: 扼手, pinyin: agˋ suˋ, en: shake hands}
+- {hanzi: 禮貌, pinyin: liˊ mau, en: 'manners, politeness'}
+- {hanzi: 臨暗仔, pinyin: limˇ am eˋ, en: 'towards evening, at dusk'}
+- {hanzi: 相識, pinyin: xiongˊ siidˋ, en: know each other}
+- {hanzi: 大樓, pinyin: tai leuˇ, en: 'tower block, high-rise'}
+- {hanzi: 電梯, pinyin: tien toiˊ, en: 'lift, elevator'}
+- {hanzi: 社會, pinyin: sa fi, en: society}
+- {hanzi: 報, pinyin: bo, en: report}
+- {hanzi: 再見, pinyin: zai gien, en: 'goodbye, see you'}
+- {hanzi: 搶, pinyin: qiongˋ, en: 'rob, snatch'}
+- {hanzi: 得人驚, pinyin: dedˋ nginˇ giangˊ, en: frightening}
+- {hanzi: 半日, pinyin: ban ngidˋ, en: half a day}
+- {hanzi: 負責, pinyin: fu jidˋ, en: 'be in charge, be responsible'}
+- {hanzi: 紅毛泥, pinyin: fungˇ moˊ naiˇ, en: cement}
+exercises:
+  translate:
+  - en: Stealing is against the law.
+    source: kaga115
+    sx: {hanzi: 偷東西係犯法个。, pinyin: teuˊ dungˊ xiˊ he fam fabˋ ge.}
+  - en: Be careful crossing the road!
+    source: kaga115
+    sx: {hanzi: 過大路愛細義！, pinyin: go tai lu oi se ngi!}
+  - en: The neighbours get on very well.
+    source: kaga115
+    sx: {hanzi: 隔壁鄰舍感情當好。, pinyin: gagˋ biagˋ linˇ sa gamˋ qinˇ dongˊ hoˋ.}
+  - en: Don't start a fight at the slightest thing.
+    source: kaga115
+    sx: {hanzi: 毋好動啊著就相打。, pinyin: mˇ hoˋ tungˊ a doˋ qiu xiongˊ daˋ.}
+  - en: That couple are very close.
+    source: kaga115
+    sx: {hanzi: 該兩公婆盡相好。, pinyin: ge liongˋ gungˊ poˇ qin xiongˊ hoˋ.}
+  fill:
+  - en: A thief stole money.
+    sx: {hanzi: 有賊仔___錢。, pinyin: iuˊ ced eˋ ___ qienˇ., answer_hanzi: 偷, answer: teuˊ}
+  - en: A scooter ran into a car.
+    sx: {hanzi: 一臺機車___汽車。, pinyin: idˋ toiˇ giˊ caˊ ___ hi caˊ., answer_hanzi: 撞著, answer: cong doˋ}
+  - en: The scooter has to go in for repair.
+    sx: {hanzi: 機車愛送去___。, pinyin: giˊ caˊ oi sung hi ___., answer_hanzi: 修理, answer: xiuˊ liˊ}
+  - en: There may be a typhoon the day after tomorrow.
+    sx: {hanzi: 後日___會有風搓。, pinyin: heuˊ ngidˋ ___ voi iuˊ fungˊ caiˊ., answer_hanzi: 可能, answer: koˋ nenˇ}
+  - en: Everyone shook hands with the ward chief.
+    sx: {hanzi: 大家同里長___。, pinyin: tai gaˊ tungˇ liˊ zongˋ ___., answer_hanzi: 扼手, answer: agˋ suˋ}
+audio: []

@@ -1,0 +1,247 @@
+id: 31
+genre: article
+title:
+  en: "Half work, half play"
+  sx: {hanzi: "半做半尞", pinyin: "ban zo ban liau"}
+review: false
+setting: >-
+  Late January 2029. An article A-in has written for the county's Hakka magazine on how children played then and now,
+  drawing on Grandpa's memories. Sam reads it with her.
+names: [阿英, 阿公, 阿婆]
+
+dialogue:
+  - n: 1
+    en: "Children in the old days spent half their time working and half playing."
+    sx: {hanzi: "頭擺个細人仔，半做半尞。", pinyin: "teuˇ baiˋ ge se nginˇ eˋ, ban zo ban liau."}
+  - n: 2
+    en: "Grandpa says that when he was small he had to take the ox out to graze and gather firewood in the morning, and only went to school in the afternoon."
+    sx: {hanzi: "阿公講，佢細个時節，朝晨愛牽牛仔去食草、撿樵，下晝正去學校。", pinyin: "aˊ gungˊ gongˋ, giˇ se ge siiˇ jiedˋ, zeuˊ siinˇ oi kienˊ ngiuˇ eˋ hi siid coˋ, giamˋ ceuˇ, haˊ zu zang hi hog gauˋ."}
+    check: true
+  - n: 3
+    en: "Halfway through a job, he'd go off with the neighbours' children to skim stones on the river."
+    sx: {hanzi: "事做到一半，佢就同隔壁个細人仔去河壩打水漂仔。", pinyin: "se zo do idˋ ban, giˇ qiu tungˇ gagˋ biagˋ ge se nginˇ eˋ hi hoˇ ba daˋ suiˋ piu eˋ."}
+  - n: 4
+    en: "He was the ringleader round here: very nimble, and very naughty."
+    sx: {hanzi: "佢係這片个搞頭王，手腳當溜掠，又當番綻。", pinyin: "giˇ he iaˋ pienˋ ge gauˋ teuˇ vongˇ, suˋ giogˋ dongˊ liuˊ liagˋ, iu dongˊ fanˊ can."}
+  - n: 5
+    en: "My great-grandfather was always scolding him: 'Don't be so naughty: behave yourself!'"
+    sx: {hanzi: "阿太輒輒罵佢：「毋好恁賤，愛較乖兜仔！」", pinyin: "aˊ tai jiab jiab ma giˇ: mˇ hoˋ anˋ qien, oi ka guaiˊ deuˊ eˋ!"}
+  - n: 6
+    en: "There weren't many toys then; children made their own things to play with."
+    sx: {hanzi: "該下無麼个玩具，細人仔自家創造好搞个東西。", pinyin: "ge ha moˇ maˋ ge nguanˇ kiˋ, se nginˇ eˋ qi gaˊ congˋ co hoˋ gauˋ ge dungˊ xiˊ."}
+    check: true
+  - n: 7
+    en: "A bamboo pole was a horse, a clod of earth was a rice cake, a branch was a gun."
+    sx: {hanzi: "竹篙做馬仔，泥團做粄，樹椏做銃仔。", pinyin: "zugˋ goˊ zo maˊ eˋ, naiˇ tonˇ zo banˋ, su aˊ zo cung eˋ."}
+    check: true
+  - n: 8
+    en: "At break, children queued up for the swings."
+    sx: {hanzi: "下課時節，細人仔排列吊晃槓仔。", pinyin: "ha ko siiˇ jiedˋ, se nginˇ eˋ baiˇ lied diau gongˇ gong eˋ."}
+    source: kaga115
+  - n: 9
+    en: "At the school sports day there was a tug of war, and everyone pulled together."
+    sx: {hanzi: "學校運動會有挷大索比賽，大家當團結。", pinyin: "hog gauˋ iun tung fi iuˊ bangˊ tai sogˋ biˋ soi, tai gaˊ dongˊ tonˇ giedˋ."}
+  - n: 10
+    en: "In the evenings the grown-ups played the fiddle, and the children listened to Grandma telling riddles and jokes."
+    sx: {hanzi: "暗晡頭，大人鋸弦仔，細人仔聽阿婆講令仔同笑科。", pinyin: "am buˊ teuˇ, tai nginˇ gi hienˇ eˋ, se nginˇ eˋ tangˊ aˊ poˇ gongˋ liang eˋ tungˇ seu koˊ."}
+  - n: 11
+    en: "At school the teacher set riddles for the pupils to guess."
+    sx: {hanzi: "先生做令仔分學生仔揣。", pinyin: "xinˊ sangˊ zo liang eˋ bunˊ hog sangˊ eˋ tonˇ."}
+    source: kaga115
+  - n: 12
+    en: "Sometimes there were acrobats in front of the temple, or a conjuror, and the children watched open-mouthed."
+    sx: {hanzi: "有時廟前有撮把戲，抑係變奇術，細人仔看到戇面戇面。", pinyin: "iuˊ siiˇ meu qienˇ iuˊ codˋ baˋ hi, ia he bien kiˇ sud, se nginˇ eˋ kon do ngong mien ngong mien."}
+    check: true
+  - n: 13
+    en: "Children today are different."
+    sx: {hanzi: "這下个細人仔無共樣。", pinyin: "iaˋ ha ge se nginˇ eˋ moˇ kiung iong."}
+  - n: 14
+    en: "They go online on their phones, watch videos, and play on the computer till dawn."
+    sx: {hanzi: "佢兜用手機仔上網、看影片，搞電腦搞到天光。", pinyin: "giˇ deuˊ iung suˋ giˊ eˋ songˊ miongˋ, kon iangˋ pienˋ, gauˋ tien noˋ gauˋ do tienˊ gongˊ."}
+    check: true
+  - n: 15
+    en: "Technology has moved on; children are cleverer, and they know more."
+    sx: {hanzi: "科技進步，細人仔較聰明，知个東西乜較多。", pinyin: "koˊ giˊ jin pu, se nginˇ eˋ ka cungˊ minˇ, diˊ ge dungˊ xiˊ me ka doˊ."}
+  - n: 16
+    en: "But they rarely go out to play."
+    sx: {hanzi: "毋過佢兜罕得去外背搞。", pinyin: "mˇ go giˇ deuˊ hanˋ dedˋ hi ngoi boi gauˋ."}
+  - n: 17
+    en: "Some parents say that children who sit all day are weaker."
+    sx: {hanzi: "有兜爺哀講，細人仔歸日坐等，身體較弱。", pinyin: "iuˊ deuˊ iaˇ oiˊ gongˋ, se nginˇ eˋ guiˊ ngidˋ coˊ denˋ, siinˊ tiˋ ka ngiog."}
+  - n: 18
+    en: "Others say that learning the piano and playing tennis is better than the old days."
+    sx: {hanzi: "乜有人講，細人仔學鋼琴、打網球，比頭擺較好。", pinyin: "me iuˊ nginˇ gongˋ, se nginˇ eˋ hog gong kimˇ, daˋ miongˋ kiuˇ, biˋ teuˇ baiˋ ka hoˋ."}
+  - n: 19
+    en: "Homes have cameras and stereos: every kind of equipment."
+    sx: {hanzi: "屋下有翕相機、音響，逐項設備都有。", pinyin: "vugˋ kaˊ iuˊ hibˋ xiong giˊ, imˊ hiongˋ, dagˋ hong sadˋ pi du iuˊ."}
+  - n: 20
+    en: "On Sundays parents take their children to the zoo to see elephants and camels."
+    sx: {hanzi: "禮拜日爺哀帶細人仔去動物園看象仔、駱駝。", pinyin: "liˊ bai ngidˋ iaˇ oiˊ dai se nginˇ eˋ hi tung vud ienˇ kon xiong eˋ, log toˇ."}
+  - n: 21
+    en: "To children of the old days, this would have sounded like heaven."
+    sx: {hanzi: "頭擺个細人仔聽著，會講係天堂。", pinyin: "teuˇ baiˋ ge se nginˇ eˋ tangˊ doˋ, voi gongˋ he tienˊ tongˇ."}
+  - n: 22
+    en: "But Grandpa says children in the old days were better at working, and children today are better at wheedling."
+    sx: {hanzi: "毋過阿公講，頭擺个細人仔較會做事，這下个細人仔較會做嬌。", pinyin: "mˇ go aˊ gungˊ gongˋ, teuˇ baiˋ ge se nginˇ eˋ ka voi zo se, iaˋ ha ge se nginˇ eˋ ka voi zo gieuˊ."}
+  - n: 23
+    en: "Grandma's words are full of wisdom: 'Playing is learning too.'"
+    sx: {hanzi: "阿婆講話當有智慧：「搞乜係學。」", pinyin: "aˊ poˇ gongˋ fa dongˊ iuˊ zii fi: gauˋ me he hog."}
+    check: true
+  - n: 24
+    en: "When children play, they learn to cooperate and to solve problems for themselves."
+    sx: {hanzi: "細人仔搞个時節，會學著同人合作，學著自家解決問題。", pinyin: "se nginˇ eˋ gauˋ ge siiˇ jiedˋ, voi hog doˋ tungˇ nginˇ hab zogˋ, hog doˋ qi gaˊ gieˋ giedˋ mun tiˇ."}
+  - n: 25
+    en: "Seen like that, half work and half play is a good thing."
+    sx: {hanzi: "恁樣看起來，半做半尞乜係好事。", pinyin: "anˋ ngiongˇ kon hiˋ loiˇ, ban zo ban liau me he hoˋ sii."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A magazine article. The title is a saying from the official lists (中高級): 半做半尞 "half work, half rest", for
+      an easy-going job; A-in uses it literally for children's days in the old countryside.
+  - ref: 2
+    topic: vocab
+    text: >
+      牽牛仔 "lead an ox" (牽 from Part 1). Marked for review.
+  - ref: 3
+    topic: vocab
+    text: >
+      打水漂仔 daˋ suiˋ piu eˋ "skim stones" (去河壩打水漂仔).
+  - ref: 4
+    topic: vocab
+    text: >
+      搞頭王 gauˋ teuˇ vongˇ "ringleader at play" (Mandarin 孩子王). 溜掠 liuˊ liagˋ "nimble, deft" (阿姆手腳當溜掠).
+      番綻 fanˊ can "naughty" (細个番綻、大个了少).
+  - ref: 5
+    topic: vocab
+    text: >
+      The quotation is an official sentence. 阿太 is Grandpa's father, A-in's great-grandfather (lesson 65). 賤 qien
+      "naughty, can't keep still" (not "cheap", which is another sense).
+  - ref: 6
+    topic: vocab
+    text: >
+      玩具 nguanˇ kiˋ "toy" (這玩具係獎勵你个). 創造 congˋ co "create, invent". Marked for review.
+  - ref: 7
+    topic: vocab
+    text: >
+      竹篙 zugˋ goˊ "bamboo pole" (used for drying clothes or punting). 馬仔 and 樹椏 come back from Part 1.
+  - ref: 8
+    topic: vocab
+    text: >
+      吊晃槓仔 diau gongˇ gong eˋ "swing; go on the swings". The line is an official sentence.
+  - ref: 9
+    topic: vocab
+    text: >
+      挷大索 bangˊ tai sogˋ "tug of war" (literally "pull the big rope"; 挷大索比賽).
+  - ref: 10
+    topic: vocab
+    text: >
+      鋸弦仔 gi hienˇ eˋ "play the 胡琴 fiddle" (literally "saw the strings"; 你鋸弦仔，佢和山歌). 令仔 liang eˋ "riddle",
+      笑科 seu koˊ "joke" (講笑科).
+  - ref: 12
+    topic: vocab
+    text: >
+      撮把戲 codˋ baˋ hi "acrobatics, street show" (暗晡夜，廟坪該有做撮把戲). 奇術 kiˇ sud "conjuring" (變奇術, Japanese
+      奇術). 戇面 ngong mien "gormless-looking, open-mouthed". Marked for review.
+  - ref: 14
+    topic: vocab
+    text: >
+      上網 songˊ miongˋ "go online" (用手機仔上網盡利便). 影片 iangˋ pienˋ "video, film". The last clause follows the official
+      阿哥輒常搞電動搞到天光, with 電腦 for 電動. Marked for review.
+  - ref: 15
+    topic: vocab
+    text: >
+      科技 koˊ giˊ "technology". 聰明 cungˊ minˇ "clever".
+  - ref: 18
+    topic: vocab
+    text: >
+      鋼琴 gong kimˇ "piano" (彈鋼琴). 網球 miongˋ kiuˇ "tennis".
+  - ref: 19
+    topic: vocab
+    text: >
+      翕相機 hibˋ xiong giˊ "camera" (翕相 "take a photo"). 音響 imˊ hiongˋ "stereo". 設備 sadˋ pi "equipment" (這餐廳設備嶄然高級).
+  - ref: 20
+    topic: vocab
+    text: >
+      動物園 "zoo", 象仔 xiong eˋ "elephant" (象仔个鼻公長長), 駱駝 log toˇ "camel" (also, in the 高級 list, "a big
+      eater").
+  - ref: 21
+    topic: vocab
+    text: >
+      天堂 tienˊ tongˇ "heaven, paradise".
+  - ref: 22
+    topic: vocab
+    text: >
+      做嬌 zo gieuˊ "wheedle, act cute" (妹仔較會同爺哀做嬌).
+  - ref: 23
+    topic: vocab
+    text: >
+      智慧 zii fi "wisdom": 阿婆講話當有智慧 is an official sentence. Her proverb is ours; marked for review.
+
+new_words:
+  - {hanzi: 半做半尞, pinyin: "ban zo ban liau", en: "half work, half play"}
+  - {hanzi: 打水漂仔, pinyin: "daˋ suiˋ piu eˋ", en: "skim stones"}
+  - {hanzi: 搞頭王, pinyin: "gauˋ teuˇ vongˇ", en: "ringleader (at play)"}
+  - {hanzi: 溜掠, pinyin: "liuˊ liagˋ", en: "nimble, deft"}
+  - {hanzi: 番綻, pinyin: "fanˊ can", en: "naughty"}
+  - {hanzi: 賤, pinyin: "qien", en: "naughty, restless"}
+  - {hanzi: 玩具, pinyin: "nguanˇ kiˋ", en: "toy"}
+  - {hanzi: 創造, pinyin: "congˋ co", en: "create, invent"}
+  - {hanzi: 銃仔, pinyin: "cung eˋ", en: "gun"}
+  - {hanzi: 竹篙, pinyin: "zugˋ goˊ", en: "bamboo pole"}
+  - {hanzi: 吊晃槓仔, pinyin: "diau gongˇ gong eˋ", en: "swing; go on the swings"}
+  - {hanzi: 挷大索, pinyin: "bangˊ tai sogˋ", en: "tug of war"}
+  - {hanzi: 鋸弦仔, pinyin: "gi hienˇ eˋ", en: "play the fiddle"}
+  - {hanzi: 令仔, pinyin: "liang eˋ", en: "riddle"}
+  - {hanzi: 笑科, pinyin: "seu koˊ", en: "joke"}
+  - {hanzi: 撮把戲, pinyin: "codˋ baˋ hi", en: "acrobatics, street show"}
+  - {hanzi: 奇術, pinyin: "kiˇ sud", en: "conjuring, magic tricks"}
+  - {hanzi: 戇面, pinyin: "ngong mien", en: "gormless-looking"}
+  - {hanzi: 上網, pinyin: "songˊ miongˋ", en: "go online"}
+  - {hanzi: 影片, pinyin: "iangˋ pienˋ", en: "video, film"}
+  - {hanzi: 科技, pinyin: "koˊ giˊ", en: "technology"}
+  - {hanzi: 聰明, pinyin: "cungˊ minˇ", en: "clever"}
+  - {hanzi: 鋼琴, pinyin: "gong kimˇ", en: "piano"}
+  - {hanzi: 網球, pinyin: "miongˋ kiuˇ", en: "tennis"}
+  - {hanzi: 翕相機, pinyin: "hibˋ xiong giˊ", en: "camera"}
+  - {hanzi: 音響, pinyin: "imˊ hiongˋ", en: "stereo"}
+  - {hanzi: 設備, pinyin: "sadˋ pi", en: "equipment"}
+  - {hanzi: 動物園, pinyin: "tung vud ienˇ", en: "zoo"}
+  - {hanzi: 象仔, pinyin: "xiong eˋ", en: "elephant"}
+  - {hanzi: 駱駝, pinyin: "log toˇ", en: "camel"}
+  - {hanzi: 天堂, pinyin: "tienˊ tongˇ", en: "heaven, paradise"}
+  - {hanzi: 做嬌, pinyin: "zo gieuˊ", en: "wheedle, act cute"}
+  - {hanzi: 智慧, pinyin: "zii fi", en: "wisdom"}
+
+exercises:
+  translate:
+    - en: "Go skimming stones on the river."
+      source: kaga115
+      sx: {hanzi: "去河壩打水漂仔。", pinyin: "hi hoˇ ba daˋ suiˋ piu eˋ."}
+    - en: "Mum is very deft with her hands."
+      source: kaga115
+      sx: {hanzi: "阿姆手腳當溜掠。", pinyin: "aˊ meˊ suˋ giogˋ dongˊ liuˊ liagˋ."}
+    - en: "Girls are better at wheedling their parents."
+      source: kaga115
+      sx: {hanzi: "妹仔較會同爺哀做嬌。", pinyin: "moi eˋ ka voi tungˇ iaˇ oiˊ zo gieuˊ."}
+    - en: "Going online on your phone is very handy."
+      source: kaga115
+      sx: {hanzi: "用手機仔上網盡利便。", pinyin: "iung suˋ giˊ eˋ songˊ miongˋ qin li pien."}
+    - en: "How can he be so clever?"
+      source: kaga115
+      sx: {hanzi: "佢仰會恁聰明？", pinyin: "giˇ ngiongˋ voi anˋ cungˊ minˇ?"}
+  fill:
+    - en: "A tug-of-war contest."
+      sx: {hanzi: "___比賽。", pinyin: "___ biˋ soi.", answer_hanzi: "挷大索", answer: "bangˊ tai sogˋ"}
+    - en: "Tell jokes."
+      sx: {hanzi: "講___。", pinyin: "gongˋ ___.", answer_hanzi: "笑科", answer: "seu koˊ"}
+    - en: "Do magic tricks."
+      sx: {hanzi: "變___。", pinyin: "bien ___.", answer_hanzi: "奇術", answer: "kiˇ sud"}
+    - en: "Play the piano."
+      sx: {hanzi: "彈___。", pinyin: "tanˇ ___.", answer_hanzi: "鋼琴", answer: "gong kimˇ"}
+    - en: "An elephant's trunk is long."
+      sx: {hanzi: "___个鼻公長長。", pinyin: "___ ge pi gungˊ congˇ congˇ.", answer_hanzi: "象仔", answer: "xiong eˋ"}
+
+audio: []

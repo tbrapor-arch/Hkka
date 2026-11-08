@@ -1,0 +1,314 @@
+id: 5
+genre: document
+title:
+  en: Like a roasted shrimp
+  sx: {hanzi: 熇蝦公樣仔, pinyin: hogˋ haˇ gungˊ iong eˋ}
+review: false
+setting: Wednesday 2 August 2028. Sam picked up a leaflet at the town's health centre (衛生所) when he registered there, and
+  left it on the Lius' kitchen table. Grandma has read it with a pencil in her hand. Lines without a speaker are the leaflet;
+  Grandma's comments in the margin are marked 阿婆, and Sam has added one line of his own at the bottom. The advice is general
+  knowledge, not medical guidance.
+names: [Sam, 阿明, 阿婆]
+dialogue:
+- n: 1
+  en: (the leaflet's heading) Look after your health in hot weather
+  sx: {hanzi: 熱天愛注意身體, pinyin: ngied tienˊ oi zu i siinˊ tiˋ}
+- n: 2
+  en: In summer the sun is strong; people get heatstroke more easily, and fall ill more easily too.
+  sx: {hanzi: 熱天日頭當大，人較容易熱著，乜較容易發病仔。, pinyin: 'ngied tienˊ ngidˋ teuˇ dongˊ tai, nginˇ ka iungˇ i ngied doˋ, me ka iungˇ
+      i bodˋ piang eˋ.'}
+- n: 3
+  en: 'One: drink enough water. Don''t wait until you''re thirsty to drink.'
+  sx: {hanzi: 第一：水愛食罅。毋好等到嘴燥正食。, pinyin: 'ti idˋ: suiˋ oi siid la. mˇ hoˋ denˋ do zoi zauˊ zang siid.'}
+- n: 4
+  speaker: 阿婆
+  en: (in the margin) Drink it hot, not iced. Iced water's bad for the stomach.
+  sx: {hanzi: 水愛食燒个，毋好食冰个，冰个傷腸仔。, pinyin: 'suiˋ oi siid seuˊ ge, mˇ hoˋ siid benˊ ge, benˊ ge songˊ congˇ eˋ.'}
+  check: true
+- n: 5
+  en: 'Two: between twelve noon and two o''clock, it''s best not to go out.'
+  sx: {hanzi: 第二：當晝十二點到兩點，最好毋好出門。, pinyin: 'ti ngi: dongˊ zu siib ngi diamˋ do liongˋ diamˋ, zui hoˋ mˇ hoˋ cudˋ munˇ.'}
+- n: 6
+  en: If you go out, wear a hat, and keep your neck covered too.
+  sx: {hanzi: 出門愛戴帽仔，頸根乜愛遮等。, pinyin: 'cudˋ munˇ oi dai mo eˋ, giangˋ ginˊ me oi zaˊ denˋ.'}
+- n: 7
+  speaker: 阿婆
+  en: Better to stay home and have a nap after lunch. I nap every day, and I'm still healthy.
+  sx: {hanzi: 在屋下睡當晝較好。𠊎逐日睡當晝，身體還康健。, pinyin: 'coiˊ vugˋ kaˊ soi dongˊ zu ka hoˋ. ngaiˇ dagˋ ngidˋ soi dongˊ zu, siinˊ tiˋ
+      hanˇ kongˊ kien.'}
+- n: 8
+  en: 'Three: food must be fresh. In hot weather food goes off very easily.'
+  sx: {hanzi: 第三：食物愛萋。熱天食物當容易臭餿。, pinyin: 'ti samˊ: siid vud oi qiˊ. ngied tienˊ siid vud dongˊ iungˇ i cu seuˊ.'}
+- n: 9
+  en: Eat vegetables that aren't fresh, and you'll have diarrhoea all day.
+  sx: {hanzi: 食著無萋个菜，歸日仔屙瀉𣲩。, pinyin: 'siid doˋ moˇ qiˊ ge coi, guiˊ ngidˋ eˇ oˊ xia baˇ.'}
+  source: kaga115
+- n: 10
+  en: 'Four: three regular meals a day. Don''t live on iced things; eat rice too.'
+  sx: {hanzi: 第四：一日三餐愛正常。毋好淨食冰，乜愛食飯。, pinyin: 'ti xi: idˋ ngidˋ samˊ conˊ oi ziin songˇ. mˇ hoˋ qiang siid benˊ, me oi siid
+      fan.'}
+- n: 11
+  speaker: 阿婆
+  en: 'Mornings, stir yourself a glass of milk: you''ll have more energy.'
+  sx: {hanzi: 朝晨摝杯牛乳食，較有精神。, pinyin: 'zeuˊ siinˇ lugˋ biˊ ngiuˇ nen siid, ka iuˊ jinˊ siinˇ.'}
+- n: 12
+  en: 'Five: if you don''t get enough sleep, you''ll doze off.'
+  sx: {hanzi: 第五：無睡飽會啄目睡。, pinyin: 'ti ngˋ: moˇ soi bauˋ voi dugˋ mugˋ soi.'}
+- n: 13
+  en: Go to bed early in the evening, and you'll have energy in the day.
+  sx: {hanzi: 暗晡頭愛早兜仔睡，日時頭正有精神。, pinyin: 'am buˊ teuˇ oi zoˋ deuˊ eˋ soi, ngidˋ siiˇ teuˇ zang iuˊ jinˊ siinˇ.'}
+- n: 14
+  en: 'Six: don''t eat in a hurry. Eat slowly; it''s easier to digest.'
+  sx: {hanzi: 第六：食飯毋好恁急，慢慢仔食，較好消化。, pinyin: 'ti liugˋ: siid fan mˇ hoˋ anˋ gibˋ, man man eˋ siid, ka hoˋ seuˊ fa.'}
+- n: 15
+  speaker: 阿婆
+  en: A-min bolts his food. Luckily his stomach is still fine.
+  sx: {hanzi: 阿明食飯當急，好得肚屎還係當好。, pinyin: 'aˊ minˇ siid fan dongˊ gibˋ, hoˋ dedˋ duˋ siiˋ hanˇ he dongˊ hoˋ.'}
+- n: 16
+  en: 'Seven: get some exercise every day. Don''t sit so long you put down roots.'
+  sx: {hanzi: 第七：逐日愛運動。毋好坐到屎胐生根。, pinyin: 'ti qidˋ: dagˋ ngidˋ oi iun tung. mˇ hoˋ coˊ do sii vudˋ sangˊ ginˊ.'}
+- n: 17
+  speaker: 阿婆
+  en: 'That one''s about Grandpa: he sits in front of the TV till he''s rooted to the spot.'
+  sx: {hanzi: 這條講阿公，看電視看到坐到屎胐生根。, pinyin: 'iaˋ tiauˇ gongˋ aˊ gungˊ, kon tien sii kon do coˊ do sii vudˋ sangˊ ginˊ.'}
+  check: true
+- n: 18
+  en: After exercise, when you're sweating all over, dry yourself off quickly.
+  sx: {hanzi: 運動過後圓身有出汗，愛遽啊捽燥來。, pinyin: 'iun tung go heu ienˇ siinˊ iuˊ cudˋ hon, oi giagˋ a cud zauˊ loiˇ.'}
+  source: kaga115
+- n: 19
+  en: A wash afterwards, and you feel much fresher.
+  sx: {hanzi: 洗身過後，人較爽。, pinyin: 'seˋ siinˊ go heu, nginˇ ka songˋ.'}
+- n: 20
+  en: 'Eight: someone with heatstroke has a headache and a high temperature, and doesn''t sweat.'
+  sx: {hanzi: 第八：熱著个人，頭那痛、圓身發燒、無出汗。, pinyin: 'ti badˋ: ngied doˋ ge nginˇ, teuˇ naˇ tung, ienˇ siinˊ fadˋ seuˊ, moˇ
+      cudˋ hon.'}
+  check: true
+- n: 21
+  en: Help them at once to somewhere cool, and give them water to drink.
+  sx: {hanzi: 愛黏時同佢扶到涼个所在，分佢食水。, pinyin: 'oi ngiamˇ siiˇ tungˇ giˇ fuˇ do liongˇ ge soˋ cai, bunˊ giˇ siid suiˋ.'}
+- n: 22
+  en: If they're still not right, register at a clinic and have a doctor see them.
+  sx: {hanzi: 若係還無正常，就愛去診所掛號，分醫生看。, pinyin: 'na he hanˇ moˇ ziin songˇ, qiu oi hi ziinˊ soˋ gua ho, bunˊ iˊ senˊ kon.'}
+- n: 23
+  speaker: 阿婆
+  en: What's the point of the clinic? The tea Grandma brews works better.
+  sx: {hanzi: 去診所做麼个？阿婆煮个茶較有效。, pinyin: 'hi ziinˊ soˋ zo maˋ ge? aˊ poˇ zuˋ ge caˇ ka iuˊ hauˋ.'}
+- n: 24
+  speaker: Sam
+  en: '(in pen, underneath) Mrs Liu says: an illness still needs a doctor to treat it.'
+  sx: {hanzi: 伯姆講：病還係愛分醫生醫。, pinyin: 'bagˋ meˊ gongˋ: piang hanˇ he oi bunˊ iˊ senˊ iˊ.'}
+- n: 25
+  en: 'Nine: when you cough, cover your mouth with a handkerchief.'
+  sx: {hanzi: 第九：嗽个時節，愛用手帕揞嘴。, pinyin: 'ti giuˋ: cug ge siiˇ jiedˋ, oi iung suˋ pa emˊ zoi.'}
+- n: 26
+  speaker: 阿婆
+  en: If your throat is dry and you can't stop coughing, drink more water. When you're ill, eat congee, and make it thin.
+  sx: {hanzi: 喉嗹燥、嗽毋停，就愛食較多水。發病仔就食粥，粥愛煮鮮兜仔。, pinyin: 'heuˇ lienˇ zauˊ, cug mˇ tinˇ, qiu oi siid ka doˊ suiˋ. bodˋ piang
+      eˋ qiu siid zugˋ, zugˋ oi zuˋ xienˊ deuˊ eˋ.'}
+  check: true
+- n: 27
+  en: Pregnant women, children and old people need to take special care in hot weather.
+  sx: {hanzi: 大肚屎个婦人家、細人仔同老人家，熱天愛特別注意。, pinyin: 'tai duˋ siiˋ ge fu nginˇ gaˊ, se nginˇ eˋ tungˇ loˋ nginˇ gaˊ, ngied tienˊ
+      oi tid pied zu i.'}
+- n: 28
+  speaker: 阿婆
+  en: When my daughter-in-law was expecting, I made her soup every day.
+  sx: {hanzi: 吾心臼大肚屎个時節，𠊎逐日煮湯分佢食。, pinyin: 'ngaˊ ximˊ kiuˊ tai duˋ siiˋ ge siiˇ jiedˋ, ngaiˇ dagˋ ngidˋ zuˋ tongˊ bunˊ giˇ
+      siid.'}
+- n: 29
+  en: Any questions, please phone the nurse at the health centre.
+  sx: {hanzi: 有麼个問題，請打電話分衛生所个護理師。, pinyin: 'iuˊ maˋ ge mun tiˇ, qiangˋ daˋ tien fa bunˊ vi senˊ soˋ ge fu liˊ siiˊ.'}
+- n: 30
+  speaker: 阿婆
+  en: (at the bottom, underlined twice) With the sun this strong, go and work in the fields and you'll come back like a
+    roasted shrimp.
+  sx: {hanzi: 日頭恁大，你去田項做事，轉來就熇蝦公樣仔。, pinyin: 'ngidˋ teuˇ anˋ tai, nˇ hi tienˇ hong zo sii, zonˋ loiˇ qiu hogˋ haˇ gungˊ
+      iong eˋ.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A document: a health-centre leaflet, with Grandma's opinions in the margin. The title is a saying from the official
+    lists (高級): 熇蝦公樣仔 "like a roasted shrimp", for being parched and baked by the sun. 熇 hogˋ is "bake, scorch" (MOE).
+- ref: 1
+  topic: false-friend
+  text: >
+    注意 "take care with, pay attention to" (lesson 39) heads the leaflet: the lists gloss it 留意、小心.
+- ref: 2
+  topic: vocab
+  text: >
+    熱著 ngied doˋ "get heatstroke" (中暑). 發病仔 bodˋ piang eˋ "fall ill" (發病仔愛分先生看 "when you're ill, see the doctor"; 先生 is
+    also "doctor").
+- ref: 3
+  topic: vocab
+  text: >
+    Water is "eaten" in Hakka: 食水 "drink water". 罅 la "enough", so 食罅 "drink enough" (毋罅 "not enough", 進修 2). 嘴燥 "thirsty"
+    (lesson 59), literally "mouth dry".
+- ref: 4
+  topic: culture
+  text: >
+    燒 "hot to the touch" (lesson 9), 冰 "iced" (lesson 90). 傷 songˊ "hurt, harm"; 腸仔 congˇ eˋ "the intestines" (Grandma's
+    "stomach"). That cold drinks harm the stomach is Grandma's belief (general knowledge, not from the lists); the line is ours, marked for a native
+    speaker.
+- ref: 6
+  topic: vocab
+  text: >
+    頸根 giangˋ ginˊ "neck" (吾頸根偏著 "I've cricked my neck"). 遮 zaˊ "cover, shade"; 遮等 "keep covered".
+- ref: 7
+  topic: vocab
+  text: >
+    睡當晝 soi dongˊ zu "have a nap after lunch" (阿公無睡當晝个習慣 "Grandpa isn't in the habit of an afternoon nap": so in the Liu
+    house it's Grandma who naps). 康健 kongˊ kien "healthy, in good health" (身體康健), the word order of Mandarin 健康 reversed.
+- ref: 8
+  topic: vocab
+  text: >
+    萋 qiˊ "fresh" (of food), a Hakka-only word; 無萋 "stale, not fresh". 臭餿 cu seuˊ "go off, turn sour" (這飯仰鼻著臭餿臭餿 "this rice smells off").
+- ref: 9
+  topic: vocab
+  text: >
+    An official sentence (kaga115, with a recording). 屙瀉𣲩 oˊ xia baˇ "have diarrhoea". 歸日仔 "the whole day".
+- ref: 10
+  topic: vocab
+  text: >
+    三餐 samˊ conˊ "three meals" (一日三餐兩點心 "three meals and two snacks a day"). 正常 ziin songˇ "normal, regular".
+- ref: 11
+  topic: vocab
+  text: >
+    牛乳 ngiuˇ nen "milk" (摝杯牛乳食 "stir yourself a glass of milk", an official sentence). 摝 "stir" (lesson 36); milk, like
+    water, is "eaten" (食).
+- ref: 12
+  topic: vocab
+  text: >
+    啄目睡 dugˋ mugˋ soi "nod off, doze" (literally "eye-pecking sleep"); an official sentence word for word.
+- ref: 13
+  topic: vocab
+  text: >
+    日時頭 ngidˋ siiˇ teuˇ "in the daytime" (lesson 79), as in the official sentence 暗晡頭係無睡飽，日時頭會啄目睡. 精神
+    (lesson 39).
+- ref: 14
+  topic: vocab
+  text: >
+    急 gibˋ "in a hurry; impatient" (佢較急性 "he's rather impatient"). 消化 seuˊ fa "digest" (糯米氣食多，盡毋消化 "too much glutinous rice
+    is very hard to digest").
+- ref: 15
+  topic: vocab
+  text: >
+    好得 "luckily" (lesson 39) softens Grandma's complaint.
+- ref: 16
+  topic: vocab
+  text: >
+    坐到屎胐生根 coˊ do sii vudˋ sangˊ ginˊ "sit till your bottom takes root", a set phrase in the lists (中高級) for sitting far
+    too long. 屎胐 sii vudˋ is "bottom, backside".
+- ref: 18
+  topic: vocab
+  text: >
+    An official sentence (kaga115). 出汗 cudˋ hon "sweat" (汗, lesson 57); 捽燥來 "wipe dry" (捽, lesson 54).
+- ref: 19
+  topic: vocab
+  text: >
+    爽 songˋ "comfortable, refreshed" (秋天當涼爽 "autumn is lovely and cool").
+- ref: 20
+  topic: vocab
+  text: >
+    圓身 ienˇ siinˊ "the whole body" (運動過後圓身有出汗 "after exercise you sweat all over"). 無出汗 "doesn't sweat" (出汗, line 18): our
+    phrase, marked for a native speaker.
+- ref: 22
+  topic: vocab
+  text: >
+    診所 "clinic" and 掛號 "register (at a clinic)" (lesson 39) come back from Part 1's exercises; 醫生 "doctor" is
+    lesson 80.
+- ref: 23
+  topic: vocab
+  text: >
+    有效 iuˊ hauˋ "effective, it works" (這食嗽个藥水盡有效 "this cough mixture works very well").
+- ref: 24
+  topic: grammar
+  text: >
+    病 piang "an illness" (the noun; "be ill" is 破病, checklist). 醫 iˊ "treat, cure" (先生會同你醫好，毋使愁 "the doctor will cure you, don't worry").
+    Sam calls Mrs Liu 伯姆.
+- ref: 25
+  topic: vocab
+  text: >
+    嗽 cug "cough". 揞 emˊ "cover (part of the body) with the hand or a cloth": 揞嘴 "cover one's mouth" (你緊嗽，遽啊同嘴揞仔戴等 "you
+    keep coughing: put a mask on", where 嘴揞仔 is "face mask").
+- ref: 26
+  topic: vocab
+  text: >
+    喉嗹 "throat" (lesson 24). 鮮 xienˊ "thin, watery" (這粥忒鮮 "this congee is too thin"): a false friend, not "fresh" (fresh
+    is 萋, line 8).
+- ref: 27
+  topic: vocab
+  text: >
+    大肚屎 tai duˋ siiˋ "pregnant" (literally "big belly"; 阿姊大肚屎，下隻月愛降吔, where the list writes 降哩 with 吔 in brackets: "my sister is pregnant; the baby is due next month").
+    婦人家 fu nginˇ gaˊ "women", 老人家 "old people" (lesson 20).
+- ref: 28
+  topic: vocab
+  text: >
+    心臼 ximˊ kiuˊ "daughter-in-law": Grandma means Mrs Liu, A-in and A-min's mother. 吾 + noun "my" (grammar inventory §1).
+- ref: 29
+  topic: vocab
+  text: >
+    衛生所 vi senˊ soˋ "(local) health centre"; 護理師 "nurse" (lesson 78).
+new_words:
+- {hanzi: 熱著, pinyin: ngied doˋ, en: get heatstroke}
+- {hanzi: 發病仔, pinyin: bodˋ piang eˋ, en: fall ill}
+- {hanzi: 傷, pinyin: songˊ, en: 'hurt, harm'}
+- {hanzi: 腸仔, pinyin: congˇ eˋ, en: intestines}
+- {hanzi: 頸根, pinyin: giangˋ ginˊ, en: neck}
+- {hanzi: 遮, pinyin: zaˊ, en: 'cover, shade'}
+- {hanzi: 睡當晝, pinyin: soi dongˊ zu, en: have an afternoon nap}
+- {hanzi: 康健, pinyin: kongˊ kien, en: healthy}
+- {hanzi: 萋, pinyin: qiˊ, en: fresh (of food)}
+- {hanzi: 臭餿, pinyin: cu seuˊ, en: '(of food) go off, turn sour'}
+- {hanzi: 屙瀉𣲩, pinyin: oˊ xia baˇ, en: have diarrhoea}
+- {hanzi: 三餐, pinyin: samˊ conˊ, en: three meals (a day)}
+- {hanzi: 正常, pinyin: ziin songˇ, en: 'normal, regular'}
+- {hanzi: 啄目睡, pinyin: dugˋ mugˋ soi, en: 'doze, nod off'}
+- {hanzi: 急, pinyin: gibˋ, en: in a hurry; impatient}
+- {hanzi: 消化, pinyin: seuˊ fa, en: digest}
+- {hanzi: 圓身, pinyin: ienˇ siinˊ, en: the whole body}
+- {hanzi: 有效, pinyin: iuˊ hauˋ, en: effective}
+- {hanzi: 病, pinyin: piang, en: 'illness, disease'}
+- {hanzi: 醫, pinyin: iˊ, en: 'treat, cure'}
+- {hanzi: 嗽, pinyin: cug, en: cough}
+- {hanzi: 揞, pinyin: emˊ, en: cover (part of the body)}
+- {hanzi: 衛生所, pinyin: vi senˊ soˋ, en: health centre}
+- {hanzi: 熇蝦公樣仔, pinyin: hogˋ haˇ gungˊ iong eˋ, en: like a roasted shrimp (parched by the sun)}
+- {hanzi: 牛乳, pinyin: ngiuˇ nen, en: milk}
+- {hanzi: 坐到屎胐生根, pinyin: coˊ do sii vudˋ sangˊ ginˊ, en: sit so long you take root}
+- {hanzi: 出汗, pinyin: cudˋ hon, en: sweat}
+- {hanzi: 爽, pinyin: songˋ, en: 'comfortable, refreshed'}
+- {hanzi: 鮮, pinyin: xienˊ, en: 'thin, watery'}
+- {hanzi: 手帕, pinyin: suˋ pa, en: handkerchief}
+- {hanzi: 大肚屎, pinyin: tai duˋ siiˋ, en: pregnant}
+- {hanzi: 婦人家, pinyin: fu nginˇ gaˊ, en: 'woman, women'}
+- {hanzi: 心臼, pinyin: ximˊ kiuˊ, en: daughter-in-law}
+exercises:
+  translate:
+  - en: If you don't get enough sleep, you'll doze off.
+    source: kaga115
+    sx: {hanzi: 無睡飽會啄目睡。, pinyin: moˇ soi bauˋ voi dugˋ mugˋ soi.}
+  - en: Grandpa isn't in the habit of taking an afternoon nap.
+    source: kaga115
+    sx: {hanzi: 阿公無睡當晝个習慣。, pinyin: aˊ gungˊ moˇ soi dongˊ zu ge xib guan.}
+  - en: 'He''s had diarrhoea all day: he must go to the clinic.'
+    sx: {hanzi: 佢歸日仔屙瀉𣲩，愛去診所。, pinyin: 'giˇ guiˊ ngidˋ eˇ oˊ xia baˇ, oi hi ziinˊ soˋ.'}
+  - en: Three meals and two snacks a day.
+    source: kaga115
+    sx: {hanzi: 一日三餐兩點心。, pinyin: idˋ ngidˋ samˊ conˊ liongˋ diamˋ ximˊ.}
+  - en: When you're ill, you must see the doctor.
+    source: kaga115
+    sx: {hanzi: 發病仔愛分先生看。, pinyin: bodˋ piang eˋ oi bunˊ xinˊ sangˊ kon.}
+  fill:
+  - en: Food must be fresh.
+    sx: {hanzi: 食物愛___。, pinyin: siid vud oi ___., answer_hanzi: 萋, answer: qiˊ}
+  - en: Don't wait until you're thirsty to drink.
+    sx: {hanzi: 毋好等到___正食。, pinyin: mˇ hoˋ denˋ do ___ zang siid., answer_hanzi: 嘴燥, answer: zoi zauˊ}
+  - en: Keep your neck covered.
+    sx: {hanzi: ___愛遮等。, pinyin: ___ oi zaˊ denˋ., answer_hanzi: 頸根, answer: giangˋ ginˊ}
+  - en: Luckily his stomach is still fine.
+    sx: {hanzi: ___肚屎還係當好。, pinyin: ___ duˋ siiˋ hanˇ he dongˊ hoˋ., answer_hanzi: 好得, answer: hoˋ dedˋ}
+  - en: When you cough, cover your mouth.
+    sx: {hanzi: 嗽个時節，愛___嘴。, pinyin: 'cug ge siiˇ jiedˋ, oi ___ zoi.', answer_hanzi: 揞, answer: emˊ}
+audio: []

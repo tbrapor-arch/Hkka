@@ -1,0 +1,255 @@
+id: 8
+genre: letter
+title:
+  en: "Thank you for helping me along"
+  sx: {hanzi: "感謝你个牽成", pinyin: "gamˋ qia nˇ ge kienˊ siinˇ"}
+review: false
+setting: >-
+  A letter written on Friday 18 August 2028 in 竹東 and posted to Sam's room in Miaoli. It is from 阿傑, the young
+  worker at 阿舅's 粄條 factory whom Sam worked with during his month in 竹東 (lessons 57–63). 阿傑 speaks Hailu at
+  home, but the letter is in characters, and the course reads it in Sixian. 阿蘭嫂 is the factory's senior worker.
+names: [Sam, 阿傑, 阿琴, 阿蘭嫂, 阿英, 阿明, 竹南, 竹東, 聯合大學, 法國]
+
+dialogue:
+  - n: 1
+    en: "Dear Sam, how are you? It's been ages. How are your studies at 聯合大學 going?"
+    sx: {hanzi: "Sam：你好！恁久無看著，在聯合大學讀書仰般？", pinyin: "Sam: nˇ hoˋ! anˋ giuˋ moˇ kon doˋ, coiˊ lienˇ hab tai hog tug suˊ ngiongˋ banˊ?"}
+  - n: 2
+    en: "I've got some good news to tell you: I'm getting engaged!"
+    sx: {hanzi: "𠊎有一件好事愛同你講：𠊎愛過定吔！", pinyin: "ngaiˇ iuˊ idˋ kien hoˋ sii oi tungˇ nˇ gongˋ: ngaiˇ oi go tin leˊ!"}
+  - n: 3
+    en: "She's a girl from 竹南, called A-khim. She's very pretty, and a lovely person too."
+    sx: {hanzi: "係一個竹南个細妹條仔，安到阿琴。佢生來靚膩膩，人乜當好。", pinyin: "he idˋ ge zugˋ namˇ ge se moi tiauˇ eˋ, onˊ do aˊ kimˇ. giˇ sangˊ loiˇ jiangˊ ne ne, nginˇ me dongˊ hoˋ."}
+  - n: 4
+    en: "We met at 阿舅's factory. She often comes to buy 粄條."
+    sx: {hanzi: "𠊎兜係在阿舅个工廠識个。佢輒輒來買粄條。", pinyin: "ngaiˇ deuˊ he coiˊ aˊ kiuˊ ge gungˊ congˋ siidˋ ge. giˇ jiab jiab loiˇ maiˊ banˋ tiauˇ."}
+  - n: 5
+    en: "Back then I was too shy; I didn't dare speak to her."
+    sx: {hanzi: "頭過𠊎當驚見笑，毋敢同佢講話。", pinyin: "teuˇ go ngaiˇ dongˊ giangˊ gien seu, mˇ gamˋ tungˇ giˇ gongˋ fa."}
+  - n: 6
+    en: "阿蘭嫂 noticed, and told A-khim: '阿傑 is an honest lad; you can rely on him.'"
+    sx: {hanzi: "阿蘭嫂看出來，就同阿琴講：「阿傑當老實，倚恃得。」", pinyin: "aˊ lanˇ soˋ kon cudˋ loiˇ, qiu tungˇ aˊ kimˇ gongˋ: aˊ kiedˋ dongˊ loˋ siid, iˋ sii dedˋ."}
+  - n: 7
+    en: "Thanks to 阿蘭嫂 bringing us together, we became friends last winter."
+    sx: {hanzi: "感謝阿蘭嫂个牽線，舊年寒天𠊎兜開始交朋友。", pinyin: "gamˋ qia aˊ lanˇ soˋ ge kienˊ xien, kiu ngienˇ honˇ tienˊ ngaiˇ deuˊ koiˊ ciiˋ gauˊ penˇ iuˊ."}
+  - n: 8
+    en: "But the elders in her family weren't impressed with me at first."
+    sx: {hanzi: "毋過佢屋下个世大人，一開始對𠊎个印象毋係當好。", pinyin: "mˇ go giˇ vugˋ kaˊ ge sii tai nginˇ, idˋ koiˊ ciiˋ dui ngaiˇ ge in xiong mˇ he dongˊ hoˋ."}
+  - n: 9
+    en: "My future father-in-law said: 'There's not much money in making 粄條.'"
+    sx: {hanzi: "丈人老講：「做粄條个，賺無幾多錢。」", pinyin: "congˊ minˊ loˋ gongˋ: zo banˋ tiauˇ ge, con moˇ giˋ doˊ qienˇ."}
+  - n: 10
+    en: "My future mother-in-law understands A-khim better. She said: 'As long as A-khim is happy.'"
+    sx: {hanzi: "丈人哀較了解阿琴，佢講：「阿琴歡喜就好。」", pinyin: "congˊ minˊ oiˊ ka liauˋ gieˋ aˊ kimˇ, giˇ gongˋ: aˊ kimˇ fonˊ hiˋ qiu hoˋ."}
+  - n: 11
+    en: "I talked it through with her father many times, but he didn't budge."
+    sx: {hanzi: "𠊎同丈人老溝通當多擺，佢還係共樣。", pinyin: "ngaiˇ tungˇ congˊ minˊ loˋ gieuˊ tungˊ dongˊ doˊ baiˋ, giˇ hanˇ he kiung iong."}
+  - n: 12
+    en: "Luckily there was 阿舅. In the end he went to 竹南 himself and told him: 'I've watched 阿傑 grow up. I guarantee he's a good man.'"
+    sx: {hanzi: "好彩有阿舅。背尾阿舅親身去竹南，同佢講：「阿傑係𠊎看等大个，𠊎保證佢係好人。」", pinyin: "hoˋ coiˋ iuˊ aˊ kiuˊ. boi miˊ aˊ kiuˊ qinˊ siinˊ hi zugˋ namˇ, tungˇ giˇ gongˋ: aˊ kiedˋ he ngaiˇ kon denˋ tai ge, ngaiˇ boˋ ziin giˇ he hoˋ nginˇ."}
+    check: true
+  - n: 13
+    en: "Her father thought it over a little, and only then accepted."
+    sx: {hanzi: "丈人老考慮一下仔，正接受。", pinyin: "congˊ minˊ loˋ kauˋ li idˋ ha eˋ, zang jiabˋ su."}
+  - n: 14
+    en: "My parents are delighted too. Dad says he'll be a good father-in-law; Mum says she'll be a good mother-in-law and love her daughter-in-law like a daughter."
+    sx: {hanzi: "𠊎个爺哀乜當歡喜。阿爸講佢會做一個好家官，阿姆講佢會做一個好家娘，惜心臼像惜妹仔樣。", pinyin: "ngaiˇ ge iaˇ oiˊ me dongˊ fonˊ hiˋ. aˊ baˊ gongˋ giˇ voi zo idˋ ge hoˋ gaˊ gonˊ, aˊ meˊ gongˋ giˇ voi zo idˋ ge hoˋ gaˊ ngiongˇ, xiagˋ ximˊ kiuˊ qiong xiagˋ moi eˋ iong."}
+  - n: 15
+    en: "The two mothers have settled it on the phone: the engagement is on Saturday the 28th of October, in 竹南."
+    sx: {hanzi: "兩隻且姆打電話講好吔：過定个日期係十月二十八，禮拜六，在竹南。", pinyin: "liongˋ zagˋ qiaˊ meˊ daˋ tien fa gongˋ hoˋ leˊ: go tin ge ngidˋ kiˇ he siib ngied ngi siib badˋ, liˊ bai liugˋ, coiˊ zugˋ namˇ."}
+    check: true
+  - n: 16
+    en: "Sam, could you come?"
+    sx: {hanzi: "Sam，你做得來無？", pinyin: "Sam, nˇ zo dedˋ loiˇ moˇ?"}
+  - n: 17
+    en: "A-khim is one of two sisters; her younger sister will come too. She says she wants to see whether the Frenchman is handsome."
+    sx: {hanzi: "阿琴兩姊妹，佢老妹乜會來，佢講想看法國人緣投無。", pinyin: "aˊ kimˇ liongˋ jiˋ moi, giˇ loˋ moi me voi loiˇ, giˇ gongˋ xiongˋ kon fabˋ guedˋ nginˇ ienˇ dauˇ moˇ."}
+  - n: 18
+    en: "My girl cousins on my father's side will come too: it'll be very lively."
+    sx: {hanzi: "𠊎个叔伯姊妹乜會來，到時節當鬧熱。", pinyin: "ngaiˇ ge sugˋ bagˋ jiˋ moi me voi loiˇ, do siiˇ jiedˋ dongˊ nau ngied."}
+  - n: 19
+    en: "To be honest, I'm still scared: scared I'll say the wrong thing."
+    sx: {hanzi: "講實在，𠊎還係驚，驚自家講毋對話。", pinyin: "gongˋ siid cai, ngaiˇ hanˇ he giangˊ, giangˊ cii gaˊ gongˋ mˇ dui fa."}
+    check: true
+  - n: 20
+    en: "I hope that one day we'll have a happy family, with two children."
+    sx: {hanzi: "𠊎望想有一日有一個美滿个家庭，生兩個子女。", pinyin: "ngaiˇ mong xiongˋ iuˊ idˋ ngidˋ iuˊ idˋ ge miˊ manˊ ge gaˊ tinˇ, sangˊ liongˋ ge ziiˋ ngˋ."}
+  - n: 21
+    en: "If you come, I'll be very happy. And while you're at it, tell A-in and A-min."
+    sx: {hanzi: "若係你來，𠊎會當歡喜。順續仔同阿英、阿明講一聲。", pinyin: "na he nˇ loiˇ, ngaiˇ voi dongˊ fonˊ hiˋ. sun sa eˋ tungˇ aˊ inˊ, aˊ minˇ gongˋ idˋ sangˊ."}
+  - n: 22
+    en: "Good luck with your studies!"
+    sx: {hanzi: "祝你讀書順利！", pinyin: "zugˋ nˇ tug suˊ sun li!"}
+  - n: 23
+    en: "阿傑, 18 August, in 竹東."
+    sx: {hanzi: "阿傑，八月十八號，在竹東。", pinyin: "aˊ kiedˋ, badˋ ngied siib badˋ ho, coiˊ zugˋ dungˊ."}
+  - n: 24
+    en: "P.S. 阿蘭嫂 asks you: where's your girlfriend, then?"
+    sx: {hanzi: "還有：阿蘭嫂問你，你个女朋友在哪位？", pinyin: "hanˇ iuˊ: aˊ lanˇ soˋ mun nˇ, nˇ ge ngˋ penˇ iuˊ coiˊ nai vi?"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A letter. The title is an official sentence in full: 感謝你个牽成 "thank you for your help (in getting me on)".
+      牽成 kienˊ siinˇ is "help someone along, give them a leg up": in all the official sentences it is a teacher's or
+      a boss's support (係無先生个牽成，佢就無今晡日个成就), so 阿傑 thanks 阿舅 and 阿蘭嫂 with it as a whole. For the
+      matchmaking itself (line 7) he says 牽線 kienˊ xien "bring two people together" (an MOE example: 因為阿伯姆个牽線，
+      本來毋相識个兩儕人，這下開始交往).
+  - ref: 2
+    topic: vocab
+    text: >
+      過定 go tin "get engaged" (the engagement ceremony; 下隻月老妹就愛過定 "my sister gets engaged next month").
+  - ref: 3
+    topic: vocab
+    text: >
+      細妹條仔 se moi tiauˇ eˋ "young woman, girl" (遠遠行過來个係一位細妹條仔 "the person walking towards us from
+      afar was a young woman"); it means "lass", not "girlfriend", which is 女朋友 (line 24). 靚膩膩 jiangˊ ne ne "very
+      pretty" (厥妹仔生來靚膩膩 "his daughter is very pretty"): adjective + reduplicated syllable (grammar inventory
+      §15). 安到… "is called…" (lesson 22).
+  - ref: 5
+    topic: vocab
+    text: >
+      頭過 teuˇ go "before, formerly, back then" (lists: 以前). 驚見笑 giangˊ gien seu "shy, bashful" (老弟當驚見笑 "my younger
+      brother is very shy").
+  - ref: 6
+    topic: vocab
+    text: >
+      老實 loˋ siid "honest, decent" (厥婿郎係一個老實伯 "her husband is a decent sort"). 倚恃得 iˋ sii dedˋ "can be relied
+      on" (阿文哥…較倚恃得): 倚恃 "rely on" + 得.
+  - ref: 7
+    topic: vocab
+    text: >
+      牽線 kienˊ xien "bring together, act as go-between" (note 0). 交朋友 gauˊ penˇ iuˊ "make friends" (同人交朋友愛用真心):
+      in the lists it is friendship, not dating. 寒天 "winter" (Sixian; checklist).
+  - ref: 8
+    topic: vocab
+    text: >
+      世大人 sii tai nginˇ "the elders, the older generation" (愛聽世大人个勸話 "listen to your elders' advice", an
+      official sentence).
+      一開始 "at first" (checklist: preferred to 頭先). 印象 in xiong "impression".
+  - ref: 9
+    topic: culture
+    text: >
+      丈人老 congˊ minˊ loˋ "father-in-law (wife's father)" and 丈人哀 congˊ minˊ oiˊ "mother-in-law (wife's mother)",
+      line 10: note the reading minˊ for 人 in both. 阿傑 uses them ahead of the wedding. A husband's parents are 家官
+      gaˊ gonˊ and 家娘 gaˊ ngiongˇ (line 14), and the two mothers are each other's 且姆 qiaˊ meˊ (line 15). 賺 con
+      "earn". 了解 liauˋ gieˋ (line 10) "understand (someone)".
+  - ref: 11
+    topic: vocab
+    text: >
+      溝通 gieuˊ tungˊ "talk things through, communicate". The official sentence is 同佢溝通幾下擺，還係共樣 "I talked it
+      through with him several times; no change"; 幾下 there is read giaˊ, one syllable for two characters, so the
+      line says 當多擺 instead.
+  - ref: 12
+    topic: vocab
+    text: >
+      好彩 hoˋ coiˋ "luckily; good luck" (恁好彩堵著阿叔載你轉 "how lucky you ran into your uncle to drive you home").
+      親身 qinˊ siinˊ "in person, himself". 保證 boˋ ziin "guarantee". 看等大 "watched (him) grow up" is our phrase; marked
+      for a native speaker.
+  - ref: 13
+    topic: vocab
+    text: >
+      考慮 kauˋ li "think over, consider" (請你過考慮一下仔 "please think it over again"). 接受 jiabˋ su "accept". 正 "only
+      then" (grammar inventory §12).
+  - ref: 14
+    topic: vocab
+    text: >
+      爺哀 iaˇ oiˊ "parents" (lesson 62). 家娘 gaˊ ngiongˇ "mother-in-law (husband's mother)" (吾家娘盡惜孫仔 "my
+      mother-in-law dotes on her grandchildren"; 盡 "very"). 心臼 "daughter-in-law" (進修 5).
+  - ref: 15
+    topic: vocab
+    text: >
+      日期 ngidˋ kiˇ "date" (日期確定吂？ "is the date fixed yet?"). 打電話講好 "agree on the phone" (MOE: 打電話先講好勢).
+      How the two mothers settle the date is our scene; the line is marked for review.
+  - ref: 17
+    topic: vocab
+    text: >
+      兩姊妹 liongˋ jiˋ moi "two sisters" (also two siblings: the lists gloss it 兩姊妹；兩姊弟；兩兄妹). 緣投 ienˇ dauˇ
+      "handsome" (細阿哥仔當緣投).
+  - ref: 18
+    topic: vocab
+    text: >
+      叔伯姊妹 sugˋ bagˋ jiˋ moi "female cousins on the father's side" (lists: 堂姊妹, daughters of the father's brothers;
+      伙房大，叔伯姊妹就無辦法識透 "in a big compound you can't know all your cousins").
+  - ref: 19
+    topic: vocab
+    text: >
+      講實在 "to be honest" (講實在，蕹菜湯、莧菜湯，𠊎食着當畏). 講毋對話 "say the wrong thing" is our phrase (V毋對 "do it
+      wrong", checklist); marked for review.
+  - ref: 20
+    topic: vocab
+    text: >
+      望想 mong xiongˋ "hope, look forward to" (莫望想爺哀畜你一生人 "don't expect your parents to keep you all your
+      life"). 美滿 miˊ manˊ "happy, complete"; 家庭 gaˊ tinˇ "family" (創造幸福美滿个家庭). 子女 ziiˋ ngˋ "children,
+      sons and daughters".
+  - ref: 24
+    topic: culture
+    text: >
+      阿蘭嫂 is teasing: Sam has no girlfriend. 女朋友 "girlfriend" (lesson 32). 還有 "and also" serves as P.S.
+
+new_words:
+  - {hanzi: 過定, pinyin: "go tin", en: "get engaged; engagement"}
+  - {hanzi: 細妹條仔, pinyin: "se moi tiauˇ eˋ", en: "young woman, lass"}
+  - {hanzi: 靚膩膩, pinyin: "jiangˊ ne ne", en: "very pretty"}
+  - {hanzi: 頭過, pinyin: "teuˇ go", en: "before, formerly, back then"}
+  - {hanzi: 驚見笑, pinyin: "giangˊ gien seu", en: "shy, bashful"}
+  - {hanzi: 老實, pinyin: "loˋ siid", en: "honest, decent"}
+  - {hanzi: 倚恃, pinyin: "iˋ sii", en: "rely on, trust"}
+  - {hanzi: 牽成, pinyin: "kienˊ siinˇ", en: "help someone along, give a leg up"}
+  - {hanzi: 交朋友, pinyin: "gauˊ penˇ iuˊ", en: "make friends"}
+  - {hanzi: 牽線, pinyin: "kienˊ xien", en: "bring together, act as go-between"}
+  - {hanzi: 世大人, pinyin: "sii tai nginˇ", en: "the elders, older generation"}
+  - {hanzi: 印象, pinyin: "in xiong", en: "impression"}
+  - {hanzi: 丈人老, pinyin: "congˊ minˊ loˋ", en: "father-in-law (wife's father)"}
+  - {hanzi: 賺, pinyin: "con", en: "earn"}
+  - {hanzi: 丈人哀, pinyin: "congˊ minˊ oiˊ", en: "mother-in-law (wife's mother)"}
+  - {hanzi: 溝通, pinyin: "gieuˊ tungˊ", en: "communicate, talk through"}
+  - {hanzi: 親身, pinyin: "qinˊ siinˊ", en: "in person, oneself"}
+  - {hanzi: 保證, pinyin: "boˋ ziin", en: "guarantee"}
+  - {hanzi: 考慮, pinyin: "kauˋ li", en: "consider, think over"}
+  - {hanzi: 接受, pinyin: "jiabˋ su", en: "accept"}
+  - {hanzi: 家娘, pinyin: "gaˊ ngiongˇ", en: "mother-in-law (husband's mother)"}
+  - {hanzi: 日期, pinyin: "ngidˋ kiˇ", en: "date"}
+  - {hanzi: 兩姊妹, pinyin: "liongˋ jiˋ moi", en: "two sisters (or siblings)"}
+  - {hanzi: 緣投, pinyin: "ienˇ dauˇ", en: "handsome"}
+  - {hanzi: 叔伯姊妹, pinyin: "sugˋ bagˋ jiˋ moi", en: "female cousins on the father's side"}
+  - {hanzi: 望想, pinyin: "mong xiongˋ", en: "hope, look forward to"}
+  - {hanzi: 美滿, pinyin: "miˊ manˊ", en: "happy, complete"}
+  - {hanzi: 家庭, pinyin: "gaˊ tinˇ", en: "family, household"}
+  - {hanzi: 子女, pinyin: "ziiˋ ngˋ", en: "children, sons and daughters"}
+  - {hanzi: 好彩, pinyin: "hoˋ coiˋ", en: "luckily; good luck"}
+  - {hanzi: 了解, pinyin: "liauˋ gieˋ", en: "understand"}
+  - {hanzi: 家官, pinyin: "gaˊ gonˊ", en: "father-in-law (husband's father)"}
+  - {hanzi: 且姆, pinyin: "qiaˊ meˊ", en: "co-mother-in-law (the other child's mother)"}
+  - {hanzi: 順續仔, pinyin: "sun sa eˋ", en: "while you're at it, on the way"}
+
+exercises:
+  translate:
+    - en: "My sister gets engaged next month."
+      source: kaga115
+      sx: {hanzi: "下隻月老妹就愛過定。", pinyin: "ha zagˋ ngied loˋ moi qiu oi go tin."}
+    - en: "Thank you for helping me along."
+      source: kaga115
+      sx: {hanzi: "感謝你个牽成。", pinyin: "gamˋ qia nˇ ge kienˊ siinˇ."}
+    - en: "Her mother-in-law loves her very much, as if she were her own daughter."
+      sx: {hanzi: "佢个家娘當惜佢，像惜自家个妹仔樣。", pinyin: "giˇ ge gaˊ ngiongˇ dongˊ xiagˋ giˇ, qiong xiagˋ cii gaˊ ge moi eˋ iong."}
+    - en: "Please think it over again."
+      source: kaga115
+      sx: {hanzi: "請你過考慮一下仔。", pinyin: "qiangˋ nˇ go kauˋ li idˋ ha eˋ."}
+    - en: "Pick up some soy sauce on your way back."
+      source: kaga115
+      sx: {hanzi: "你順續仔買豆油轉來。", pinyin: "nˇ sun sa eˋ maiˊ teu iuˇ zonˋ loiˇ."}
+  fill:
+    - en: "I'm getting engaged!"
+      sx: {hanzi: "𠊎愛___吔！", pinyin: "ngaiˇ oi ___ leˊ!", answer_hanzi: "過定", answer: "go tin"}
+    - en: "Back then I was very shy."
+      sx: {hanzi: "頭過𠊎當___。", pinyin: "teuˇ go ngaiˇ dongˊ ___.", answer_hanzi: "驚見笑", answer: "giangˊ gien seu"}
+    - en: "He's an honest lad; you can rely on him."
+      sx: {hanzi: "佢當老實，___得。", pinyin: "giˇ dongˊ loˋ siid, ___ dedˋ.", answer_hanzi: "倚恃", answer: "iˋ sii"}
+    - en: "Her father thought it over, and only then accepted."
+      sx: {hanzi: "丈人老考慮一下仔，正___。", pinyin: "congˊ minˊ loˋ kauˋ li idˋ ha eˋ, zang ___.", answer_hanzi: "接受", answer: "jiabˋ su"}
+    - en: "She says she wants to see whether the Frenchman is handsome."
+      sx: {hanzi: "佢講想看法國人___無。", pinyin: "giˇ gongˋ xiongˋ kon fabˋ guedˋ nginˇ ___ moˇ.", answer_hanzi: "緣投", answer: "ienˇ dauˇ"}
+
+audio: []

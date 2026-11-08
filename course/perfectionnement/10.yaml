@@ -1,0 +1,267 @@
+id: 10
+genre: diary
+title:
+  en: Not a moment to sit down
+  sx: {hanzi: 屎胐吂坐燒, pinyin: sii vudˋ mangˇ coˊ seuˊ}
+review: false
+setting: Sam's diary of his first week at 聯合大學, Monday 4 to Sunday 10 September 2028, written in Hakka as practice. The
+  lines with a date open each day's entry.
+names: [Sam, 阿雄, 阿明, 阿英, 阿公, 阿婆, 美濃]
+dialogue:
+- n: 1
+  en: Monday 4 September. Term started today. I was up at first light.
+  sx: {hanzi: 九月四號，禮拜一。今晡日開學，臨天光仔𠊎就䟘床吔。, pinyin: 'giuˋ ngied xi ho, liˊ bai idˋ. gimˊ buˊ ngidˋ koiˊ hog, limˇ tienˊ gongˊ
+      eˋ ngaiˇ qiu hong congˇ leˊ.'}
+- n: 2
+  en: I couldn't sleep last night, so now I keep nodding off.
+  sx: {hanzi: 昨暗晡反躁，故所這下緊啄目睡。, pinyin: 'coˊ am buˊ fanˋ cau, gu soˋ iaˋ ha ginˋ dugˋ mugˋ soi.'}
+  source: kaga115
+- n: 3
+  en: My first class was the Hakka studies course. The professor is an old man with a very kind temper.
+  sx: {hanzi: 第一門課係客家研究个課程。教授係一個老人家，性體當好。, pinyin: 'ti idˋ munˇ ko he hagˋ gaˊ ngienˇ giu ge ko cangˇ. gau su he idˋ ge
+      loˋ nginˇ gaˊ, xin tiˋ dongˊ hoˋ.'}
+- n: 4
+  en: 'He asked me why I''m learning Hakka, then said: learning Hakka is a whole field of knowledge.'
+  sx: {hanzi: 佢問𠊎學客話个原因，續等講：學客話係一門學問。, pinyin: 'giˇ mun ngaiˇ hog hagˋ fa ge ngienˇ inˊ, sa denˋ gongˋ: hog hagˋ fa he idˋ
+      munˇ hog mun.'}
+- n: 5
+  en: Tuesday 5 September.
+  sx: {hanzi: 九月五號，禮拜二。, pinyin: 'giuˋ ngied ngˋ ho, liˊ bai ngi.'}
+- n: 6
+  en: I overslept and was late for the eight o'clock class. Luckily the professor didn't hold it against me.
+  sx: {hanzi: 𠊎睡過頭，赴毋掣八點个課。好得教授無見怪。, pinyin: 'ngaiˇ soi go teuˇ, fu mˇ cadˋ badˋ diamˋ ge ko. hoˋ dedˋ gau su moˇ gien guai.'}
+- n: 7
+  en: The other students all said hello, quite at ease. One of them is called A-hiung; he's from 美濃, a graduate student,
+    and lives in the student hall.
+  sx: {hanzi: 同學都同𠊎相借問，講話當自然。有一隻同學安到阿雄，係美濃人，讀研究所，歇學寮。, pinyin: 'tungˇ hog du tungˇ ngaiˇ xiongˊ jia mun, gongˋ fa dongˊ
+      cii ienˇ. iuˊ idˋ zagˋ tungˇ hog onˊ do aˊ hiungˇ, he miˊ nungˇ nginˇ, tug ngienˇ giu soˋ, hed hog liauˇ.'}
+- n: 8
+  en: 'In the afternoon I chose my courses: four in all.'
+  sx: {hanzi: 下晝去選課，總共四門。, pinyin: 'haˊ zu hi xienˋ ko, zungˋ kiung xi munˇ.'}
+- n: 9
+  en: Wednesday 6 September.
+  sx: {hanzi: 九月六號，禮拜三。, pinyin: 'giuˋ ngied liugˋ ho, liˊ bai samˊ.'}
+- n: 10
+  en: 'Just before noon there was a meeting: this term we have to write a report, to be handed in in December.'
+  sx: {hanzi: 臨晝仔有一個會議，講這學期愛寫一篇報告，十二月愛交。, pinyin: 'limˇ zu eˋ iuˊ idˋ ge fi ngi, gongˋ iaˋ hog kiˇ oi xiaˋ idˋ pienˊ bo
+      go, siib ngi ngied oi gauˊ.'}
+- n: 11
+  en: 'I asked the professor what the report was for. He said: interview an old person and write about their life.'
+  sx: {hanzi: 𠊎問教授報告个目的係麼个。佢講：去訪問一個老人家，寫佢个生活。, pinyin: 'ngaiˇ mun gau su bo go ge mugˋ didˋ he maˋ ge. giˇ gongˋ: hi fongˋ
+      mun idˋ ge loˋ nginˇ gaˊ, xiaˋ giˇ ge senˊ fad.'}
+- n: 12
+  en: I thought of Grandpa straight away.
+  sx: {hanzi: 𠊎黏時想著阿公。, pinyin: ngaiˇ ngiamˇ siiˇ xiongˋ doˋ aˊ gungˊ.}
+- n: 13
+  en: Thursday 7 September.
+  sx: {hanzi: 九月七號，禮拜四。, pinyin: 'giuˋ ngied qidˋ ho, liˊ bai xi.'}
+- n: 14
+  en: The library is a lovely place to work; I studied there till midday.
+  sx: {hanzi: 圖書館个環境當好，𠊎在該讀書讀到當晝心。, pinyin: 'tuˇ suˊ gonˋ ge fanˇ gin dongˊ hoˋ, ngaiˇ du ge tug suˊ tug do dongˊ zu ximˊ.'}
+- n: 15
+  en: A-hiung recommended a Hakka novel to me.
+  sx: {hanzi: 阿雄推薦𠊎看一本客家小說。, pinyin: aˊ hiungˇ tuiˊ jien ngaiˇ kon idˋ bunˋ hagˋ gaˊ seuˋ sodˋ.}
+- n: 16
+  en: I thought it would be very hard, but in the end I could keep reading.
+  sx: {hanzi: 𠊎話著會當難，結果還看得落去。, pinyin: 'ngaiˇ va doˋ voi dongˊ nanˇ, giedˋ goˋ hanˇ kon dedˋ log hi.'}
+  check: true
+- n: 17
+  en: Friday 8 September.
+  sx: {hanzi: 九月八號，禮拜五。, pinyin: 'giuˋ ngied badˋ ho, liˊ bai ngˋ.'}
+- n: 18
+  en: 'A-min rang. He says senior high has loads of homework: two compositions a week. He''s got no freedom.'
+  sx: {hanzi: 阿明打電話來，講高中个功課當多，逐禮拜愛寫兩篇作文，佢無麼个自由。, pinyin: 'aˊ minˇ daˋ tien fa loiˇ, gongˋ goˊ zungˊ ge gungˊ ko dongˊ doˊ,
+      dagˋ liˊ bai oi xiaˋ liongˋ pienˊ zogˋ vunˇ, giˇ moˇ maˋ ge cii iuˇ.'}
+- n: 19
+  en: 'I told him: studying is your responsibility; don''t worry so much.'
+  sx: {hanzi: 𠊎同佢講：讀書係你个責任，莫恁愁。, pinyin: 'ngaiˇ tungˇ giˇ gongˋ: tug suˊ he nˇ ge jidˋ im, mog anˋ seuˇ.'}
+- n: 20
+  en: In the evening I ate at A-in's, and luckily I caught the bus back.
+  sx: {hanzi: 暗晡頭去阿英屋下食飯，好得有赴著車仔轉來。, pinyin: 'am buˊ teuˇ hi aˊ inˊ vugˋ kaˊ siid fan, hoˋ dedˋ iuˊ fu doˋ caˊ eˋ zonˋ loiˇ.'}
+- n: 21
+  en: Saturday 9 September.
+  sx: {hanzi: 九月九號，禮拜六。, pinyin: 'giuˋ ngied giuˋ ho, liˊ bai liugˋ.'}
+- n: 22
+  en: I asked Grandpa if I could interview him.
+  sx: {hanzi: 𠊎問阿公，做得分𠊎訪問無。, pinyin: 'ngaiˇ mun aˊ gungˊ, zo dedˋ bunˊ ngaiˇ fongˋ mun moˇ.'}
+- n: 23
+  en: 'A-in drove me there: there and back in the same day.'
+  sx: {hanzi: 阿英載𠊎去，當日去，當日轉。, pinyin: 'aˊ inˊ zai ngaiˇ hi, dongˊ ngidˋ hi, dongˊ ngidˋ zonˋ.'}
+  check: true
+- n: 24
+  en: 'Grandpa thought a moment and said: ''Yes, on one condition: you come and work in the tea garden with Grandpa.'''
+  sx: {hanzi: 阿公愐一下仔，講：「做得，毋過有條件：你愛同阿公共下去茶園做事。」, pinyin: 'aˊ gungˊ menˋ idˋ ha eˋ, gongˋ: zo dedˋ, mˇ go iuˊ tiauˇ kien:
+      nˇ oi tungˇ aˊ gungˊ kiung ha hi caˇ ienˇ zo sii.'}
+- n: 25
+  en: 'Grandma was very suspicious: ''Since when is Grandpa so easy to talk to?'''
+  sx: {hanzi: 阿婆當疑狐：「阿公仰會恁好講話？」, pinyin: 'aˊ poˇ dongˊ ngiˇ fuˇ: aˊ gungˊ ngiongˋ voi anˋ hoˋ gongˋ fa?'}
+- n: 26
+  en: Sunday 10 September.
+  sx: {hanzi: 九月十號，禮拜日。, pinyin: 'giuˋ ngied siib ho, liˊ bai ngidˋ.'}
+- n: 27
+  en: Tomorrow I interview Grandpa. The day before an interview, you have to get your questions ready.
+  sx: {hanzi: 天光日愛訪問阿公。訪問个頭日，愛先準備好問題。, pinyin: 'tienˊ gongˊ ngidˋ oi fongˋ mun aˊ gungˊ. fongˋ mun ge teuˇ ngidˋ, oi xienˊ
+      zunˋ pi hoˋ mun tiˇ.'}
+- n: 28
+  en: 'A week has gone by, and I haven''t had a moment to sit down. But I''m very happy: this is the life I wanted.'
+  sx: {hanzi: 一禮拜過忒，𠊎屎胐吂坐燒。毋過𠊎當歡喜，這就係𠊎想愛个生活。, pinyin: 'idˋ liˊ bai go tedˋ, ngaiˇ sii vudˋ mangˇ coˊ seuˊ. mˇ go ngaiˇ dongˊ
+      fonˊ hiˋ, iaˋ qiu he ngaiˇ xiongˋ oi ge senˊ fad.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A diary. The title is a phrase from the official lists (中高級): 屎胐吂坐燒 "your bottom hasn't warmed the seat yet", for having
+    no time to settle (屎胐吂坐燒，仰恁緊愛轉屋下？ "you've barely sat down: why rush home?"). 屎胐 "bottom" is 進修 5's.
+- ref: 1
+  topic: vocab
+  text: >
+    臨天光仔 limˇ tienˊ gongˊ eˋ "at first light, dawn" (臨天光仔就愛準備去掛紙 "at dawn we have to get ready to tend the graves"): 臨 "close
+    to" + 天光 "daybreak", like 臨暗仔 and 臨晝仔 (line 10).
+- ref: 2
+  topic: vocab
+  text: >
+    An official sentence (kaga115). 反躁 fanˋ cau "be unable to sleep, insomnia". 緊 + verb "keep doing" (lesson 29).
+- ref: 3
+  topic: vocab
+  text: >
+    門 (lesson 38) also counts courses and fields of study (一門學問, line 4: 做生理係一門學問 "doing business is a skill in itself").
+    課程 ko cangˇ "course, curriculum"; 教授 gau su "professor". 性體 xin tiˋ "temper, character" (阿叔个性體像阿婆 "Uncle takes after
+    Grandma in temper").
+- ref: 4
+  topic: vocab
+  text: >
+    原因 ngienˇ inˊ "reason, cause" (你無講原因𠊎仰會知？ "how would I know if you don't give the reason?"). 學問 hog mun "learning, a
+    body of knowledge".
+- ref: 6
+  topic: vocab
+  text: >
+    赴毋掣 fu mˇ cadˋ "be too late, not make it in time" (會赴毋掣吔！ "we'll be late!"); 赴著 fu doˋ "make it in time" (line 20).
+    睡過頭 "oversleep" (an official sentence has 嗄來睡過頭). 見怪 (進修 9).
+- ref: 7
+  topic: vocab
+  text: >
+    相借問 xiongˊ jia mun "greet each other, say hello" (堵著熟事人愛相借問，正有禮貌 "say hello when you meet someone you know: that's good
+    manners"). 美濃 people speak southern Sixian (lessons 71–73).
+- ref: 7
+  topic: vocab
+  text: >
+    自然 cii ienˇ "at ease, relaxed" (the lists also give "of course"). 研究所 ngienˇ giu soˋ "graduate school"; 學寮 hog liauˇ
+    "student hall, dormitory" (阿哥讀研究所棧學寮).
+- ref: 8
+  topic: vocab
+  text: >
+    選課 xienˋ ko "choose one's courses" (這學期个選課單仔你填好吂？). 總共 zungˋ kiung "in all, altogether" (lesson 5); 共下 is "together".
+- ref: 10
+  topic: vocab
+  text: >
+    臨晝仔 limˇ zu eˋ "late morning, just before noon" (as 臨暗仔 is "towards evening", 進修 6). 會議 fi ngi "meeting", 學期 hog kiˇ
+    "term, semester". 報告 (lesson 34).
+- ref: 10
+  topic: vocab
+  text: >
+    交 gauˊ "hand in" (報告愛交 "the report must be handed in").
+- ref: 11
+  topic: vocab
+  text: >
+    目的 mugˋ didˋ "purpose". 生活 senˊ fad "life, way of life" (頭擺人个生活當艱苦 "life was hard in the old days").
+- ref: 14
+  topic: vocab
+  text: >
+    環境 fanˇ gin "surroundings, environment". 當晝心 dongˊ zu ximˊ "midday, high noon" (當晝心莫在外背晒日頭 "don't stay out in the midday
+    sun").
+- ref: 15
+  topic: vocab
+  text: >
+    推薦 tuiˊ jien "recommend". 小說 seuˋ sodˋ "novel" (𠊎異好看小說 "I love reading novels"; 異 "very", 好 hau "like").
+- ref: 16
+  topic: false-friend
+  text: >
+    話著 va doˋ "thought (wrongly), assumed" (緊喊你，就無應話，話著你無聽著呢！ "I kept calling and you didn't answer; I thought you hadn't
+    heard!"). 看得落去 "can keep reading" is our phrase; marked for review.
+- ref: 18
+  topic: vocab
+  text: >
+    作文 zogˋ vunˇ "composition, essay (at school)"; 功課 "homework" (lesson 26).
+- ref: 19
+  topic: vocab
+  text: >
+    責任 jidˋ im "responsibility" (愛有責任感，人家正會信你).
+- ref: 23
+  topic: vocab
+  text: >
+    當日去，當日轉 "go and come back the same day" is an official sentence; 當日 dongˊ ngidˋ "that same day". The line wraps it in
+    our own words; marked for review.
+- ref: 24
+  topic: vocab
+  text: >
+    愐 menˋ "think over" (愐看啊正決定 "think it over before you decide"). 條件 tiauˇ kien "condition, terms".
+- ref: 25
+  topic: vocab
+  text: >
+    疑狐 ngiˇ fuˇ "suspicious, doubtful" (佢敢有講實話？大家都當疑狐 "is he really telling the truth? Everyone's very doubtful").
+- ref: 27
+  topic: vocab
+  text: >
+    頭日 teuˇ ngidˋ "the day before; the first day" (頭日就愛先去準備 "you have to prepare the day before").
+new_words:
+- {hanzi: 反躁, pinyin: fanˋ cau, en: be unable to sleep}
+- {hanzi: 課程, pinyin: ko cangˇ, en: 'course, curriculum'}
+- {hanzi: 教授, pinyin: gau su, en: professor}
+- {hanzi: 性體, pinyin: xin tiˋ, en: 'temper, character'}
+- {hanzi: 原因, pinyin: ngienˇ inˊ, en: 'reason, cause'}
+- {hanzi: 學問, pinyin: hog mun, en: 'learning, body of knowledge'}
+- {hanzi: 赴毋掣, pinyin: fu mˇ cadˋ, en: 'be too late, not make it in time'}
+- {hanzi: 相借問, pinyin: xiongˊ jia mun, en: 'greet each other, say hello'}
+- {hanzi: 臨晝仔, pinyin: limˇ zu eˋ, en: 'late morning, just before noon'}
+- {hanzi: 會議, pinyin: fi ngi, en: meeting}
+- {hanzi: 學期, pinyin: hog kiˇ, en: 'term, semester'}
+- {hanzi: 目的, pinyin: mugˋ didˋ, en: 'purpose, aim'}
+- {hanzi: 環境, pinyin: fanˇ gin, en: 'surroundings, environment'}
+- {hanzi: 當晝心, pinyin: dongˊ zu ximˊ, en: 'midday, high noon'}
+- {hanzi: 推薦, pinyin: tuiˊ jien, en: recommend}
+- {hanzi: 小說, pinyin: seuˋ sodˋ, en: novel}
+- {hanzi: 話著, pinyin: va doˋ, en: 'think (mistakenly), assume'}
+- {hanzi: 責任, pinyin: jidˋ im, en: responsibility}
+- {hanzi: 愐, pinyin: menˋ, en: think over}
+- {hanzi: 條件, pinyin: tiauˇ kien, en: 'condition, terms'}
+- {hanzi: 疑狐, pinyin: ngiˇ fuˇ, en: 'suspicious, doubtful'}
+- {hanzi: 頭日, pinyin: teuˇ ngidˋ, en: the day before; the first day}
+- {hanzi: 屎胐吂坐燒, pinyin: sii vudˋ mangˇ coˊ seuˊ, en: not a moment to sit down}
+- {hanzi: 臨天光仔, pinyin: limˇ tienˊ gongˊ eˋ, en: 'first light, dawn'}
+- {hanzi: 自然, pinyin: cii ienˇ, en: 'at ease, relaxed; of course'}
+- {hanzi: 研究所, pinyin: ngienˇ giu soˋ, en: graduate school}
+- {hanzi: 學寮, pinyin: hog liauˇ, en: 'student hall, dormitory'}
+- {hanzi: 選課, pinyin: xienˋ ko, en: choose one's courses}
+- {hanzi: 交, pinyin: gauˊ, en: hand in}
+- {hanzi: 作文, pinyin: zogˋ vunˇ, en: 'composition, essay'}
+- {hanzi: 赴著, pinyin: fu doˋ, en: 'make it in time, catch'}
+- {hanzi: 當日, pinyin: dongˊ ngidˋ, en: that same day}
+exercises:
+  translate:
+  - en: Doing business is a skill in itself.
+    source: kaga115
+    sx: {hanzi: 做生理係一門學問。, pinyin: zo senˊ liˊ he idˋ munˇ hog mun.}
+  - en: How would I know if you don't give the reason?
+    source: kaga115
+    sx: {hanzi: 你無講原因𠊎仰會知？, pinyin: 'nˇ moˇ gongˋ ngienˇ inˊ ngaiˇ ngiongˋ voi diˊ?'}
+  - en: Think it over before you decide.
+    source: kaga115
+    sx: {hanzi: 愐看啊正決定。, pinyin: menˋ kon a zang giedˋ tin.}
+  - en: 'Classmates should say hello when they meet: that''s good manners.'
+    sx: {hanzi: 同學愛相借問，正有禮貌。, pinyin: 'tungˇ hog oi xiongˊ jia mun, zang iuˊ liˊ mau.'}
+  - en: You have to prepare the day before.
+    source: kaga115
+    sx: {hanzi: 頭日就愛先去準備。, pinyin: teuˇ ngidˋ qiu oi xienˊ hi zunˋ pi.}
+  fill:
+  - en: I was late for the eight o'clock class.
+    sx: {hanzi: 𠊎___八點个課。, pinyin: ngaiˇ ___ badˋ diamˋ ge ko., answer_hanzi: 赴毋掣, answer: fu mˇ cadˋ}
+  - en: A-hiung recommended a Hakka novel to me.
+    sx: {hanzi: 阿雄___𠊎看一本客家小說。, pinyin: aˊ hiungˇ ___ ngaiˇ kon idˋ bunˋ hagˋ gaˊ seuˋ sodˋ., answer_hanzi: 推薦, answer: tuiˊ
+        jien}
+  - en: Studying is your responsibility.
+    sx: {hanzi: 讀書係你个___。, pinyin: tug suˊ he nˇ ge ___., answer_hanzi: 責任, answer: jidˋ im}
+  - en: There's a condition.
+    sx: {hanzi: 有___。, pinyin: iuˊ ___., answer_hanzi: 條件, answer: tiauˇ kien}
+  - en: Grandma was very suspicious.
+    sx: {hanzi: 阿婆當___。, pinyin: aˊ poˇ dongˊ ___., answer_hanzi: 疑狐, answer: ngiˇ fuˇ}
+audio: []

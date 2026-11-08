@@ -1,0 +1,249 @@
+id: 34
+genre: diary
+title:
+  en: "The last rush before the New Year"
+  sx: {hanzi: "年三夜四", pinyin: "ngienˇ samˊ ia xi"}
+review: false
+setting: >-
+  Sam's diary, Friday 9 to Tuesday 13 February 2029: the New Year cleaning, cooking and shopping at the family's house,
+  New Year's Eve (Monday 12) and New Year's Day (Tuesday 13).
+names: [Sam, 阿婆, 阿公, 阿明, 阿英]
+
+dialogue:
+  - n: 1
+    en: "Friday 9 February. The last rush before the New Year: everyone at home is very busy."
+    sx: {hanzi: "二月九號，禮拜五。年三夜四，屋下大家都當無閒。", pinyin: "ngi ngied giuˋ ho, liˊ bai ngˋ. ngienˇ samˊ ia xi, vugˋ kaˊ tai gaˊ du dongˊ moˇ hanˇ."}
+  - n: 2
+    en: "Grandma says she's busy all year round: on ordinary days there's the vegetable garden, and at festivals the rice cakes."
+    sx: {hanzi: "阿婆講，佢一年透天都無閒：閒時閒節愛種菜，年節愛做粄。", pinyin: "aˊ poˇ gongˋ, giˇ idˋ ngienˇ teu tienˊ du moˇ hanˇ: hanˇ siiˇ hanˇ jiedˋ oi zung coi, ngienˇ jiedˋ oi zo banˋ."}
+    check: true
+  - n: 3
+    en: "A-min and I painted the main hall, the corridor and the courtyard wall."
+    sx: {hanzi: "正廳、走廊同圖牆，𠊎同阿明都使油漆。", pinyin: "ziin tangˊ, zeuˋ longˇ tungˇ tuˇ qiongˇ, ngaiˇ tungˇ aˊ minˇ du siiˋ iuˇ qidˋ."}
+    check: true
+  - n: 4
+    en: "The skylight was thick with dust; Grandpa climbed up to clean it."
+    sx: {hanzi: "天窗个塵灰當多，阿公爬上去拚。", pinyin: "tienˊ cungˊ ge ciinˇ foiˊ dongˊ doˊ, aˊ gungˊ paˇ songˊ hi biang."}
+    check: true
+  - n: 5
+    en: "A-in's mother washed the mosquito nets and put the quilts out in the yard to air."
+    sx: {hanzi: "伯姆洗眠帳，被骨拿出去禾埕晾。", pinyin: "bagˋ meˊ seˋ minˇ zong, piˊ gudˋ naˊ cudˋ hi voˇ tangˇ langˇ."}
+    check: true
+  - n: 6
+    en: "Saturday 10 February. Grandma soaked the rice and ground it, to steam sweet and risen rice cakes."
+    sx: {hanzi: "二月十號，禮拜六。阿婆浸米、磨粄，愛蒸甜粄同發粄。", pinyin: "ngi ngied siib ho, liˊ bai liugˋ. aˊ poˇ jim miˋ, mo banˋ, oi ziinˊ tiamˇ banˋ tungˇ fadˋ banˋ."}
+  - n: 7
+    en: "In the middle of the night she was still in the kitchen steaming them."
+    sx: {hanzi: "星光半夜，佢還在灶下炊粄。", pinyin: "sangˊ gongˊ ban ia, giˇ hanˇ coiˊ zo haˊ coiˊ banˋ."}
+    check: true
+  - n: 8
+    en: "Sunday 11 February. A-in and I went shopping in town and came back laden with bags."
+    sx: {hanzi: "二月十一號，禮拜日。阿英同𠊎去街項買東西，大包細包轉來。", pinyin: "ngi ngied siib idˋ ho, liˊ bai ngidˋ. aˊ inˊ tungˇ ngaiˇ hi gieˊ hong maiˊ dungˊ xiˊ, tai bauˊ se bauˊ zonˋ loiˇ."}
+  - n: 9
+    en: "I bought Grandma a flowery blouse and Grandpa a leather belt."
+    sx: {hanzi: "𠊎買一領花衫仔分阿婆，一條皮帶仔分阿公。", pinyin: "ngaiˇ maiˊ idˋ liangˊ faˊ samˊ eˋ bunˊ aˊ poˇ, idˋ tiauˇ piˇ dai eˋ bunˊ aˊ gungˊ."}
+  - n: 10
+    en: "Grandpa tried on the belt and said it fitted well."
+    sx: {hanzi: "阿公試著皮帶仔，講當合身。", pinyin: "aˊ gungˊ cii doˋ piˇ dai eˋ, gongˋ dongˊ gagˋ siinˊ."}
+    check: true
+  - n: 11
+    en: "Grandma's blouse is missing a button. She'll sew it on herself."
+    sx: {hanzi: "阿婆个花衫仔少一粒鈕仔，佢講自家來攣。", pinyin: "aˊ poˇ ge faˊ samˊ eˋ seuˋ idˋ liab neuˋ eˇ, giˇ gongˋ qi gaˊ loiˇ lionˇ."}
+    check: true
+  - n: 12
+    en: "A-min bought new shoes, but at home he found the two shoes weren't a pair!"
+    sx: {hanzi: "阿明買新鞋，轉到屋下正知兩隻鞋毋鬥雙！", pinyin: "aˊ minˇ maiˊ xinˊ haiˇ, zonˋ do vugˋ kaˊ zang diˊ liongˋ zagˋ haiˇ mˇ deu sungˊ!"}
+  - n: 13
+    en: "Grandpa laughed: 'Shoes must make a pair before you can wear them.'"
+    sx: {hanzi: "阿公笑講：「鞋愛鬥雙正著得。」", pinyin: "aˊ gungˊ seu gongˋ: haiˇ oi deu sungˊ zang zogˋ dedˋ."}
+  - n: 14
+    en: "Monday 12 February, New Year's Eve. Grandpa wrote the door couplets, and A-min and I pasted them on the door."
+    sx: {hanzi: "二月十二號，年三十暗晡。阿公寫門對仔，𠊎同阿明貼在門項。", pinyin: "ngi ngied siib ngi ho, ngienˇ samˊ siib am buˊ. aˊ gungˊ xiaˋ munˇ dui eˋ, ngaiˇ tungˇ aˊ minˇ diabˋ coiˊ munˇ hong."}
+  - n: 15
+    en: "After worshipping the ancestors, young and old sat down together for the reunion dinner."
+    sx: {hanzi: "拜過阿公婆，大人細子共下圍爐。", pinyin: "bai go aˊ gungˊ poˇ, tai nginˇ se ziiˋ kiung ha viˇ luˇ."}
+  - n: 16
+    en: "After the meal we took sweets for luck and told jokes."
+    sx: {hanzi: "食飽，大家拈甜、講笑科。", pinyin: "siid bauˋ, tai gaˊ ngiamˊ tiamˇ, gongˋ seu koˊ."}
+    check: true
+  - n: 17
+    en: "Grandma gave me a red envelope and said, 'Foreigners get one too.'"
+    sx: {hanzi: "阿婆分𠊎一隻紅包，講：「外國人乜有。」", pinyin: "aˊ poˇ bunˊ ngaiˇ idˋ zagˋ fungˇ bauˊ, gongˋ: ngoi guedˋ nginˇ me iuˊ."}
+  - n: 18
+    en: "Tuesday 13 February, New Year's Day. In the morning we all put on new clothes and went to the temple; everyone was beaming."
+    sx: {hanzi: "二月十三號，年初一。朝晨大家著新衫去廟項，個個都歡頭笑面。", pinyin: "ngi ngied siib samˊ ho, ngienˇ cuˊ idˋ. zeuˊ siinˇ tai gaˊ zogˋ xinˊ samˊ hi meu hong, ge ge du fonˊ teuˇ seu mien."}
+    check: true
+  - n: 19
+    en: "Grandpa wished everyone a happy New Year, all smiles."
+    sx: {hanzi: "阿公同人講恭喜，開容笑面。", pinyin: "aˊ gungˊ tungˇ nginˇ gongˋ giungˊ hiˋ, koiˊ iungˇ seu mien."}
+  - n: 20
+    en: "In the afternoon we went out and about."
+    sx: {hanzi: "下晝𫣆兜出去遶尞。", pinyin: "haˊ zu enˊ deuˊ cudˋ hi lauˊ liau."}
+  - n: 21
+    en: "In the evening some neighbours came round to eat and chat."
+    sx: {hanzi: "暗晡頭，隔壁有幾儕人來屋下打鬥四。", pinyin: "am buˊ teuˇ, gagˋ biagˋ iuˊ giˋ saˇ nginˇ loiˇ vugˋ kaˊ daˋ deu xi."}
+    check: true
+  - n: 22
+    en: "Grandma said that on the second day A-in's mother will go back to her own family's home."
+    sx: {hanzi: "阿婆講，年初二伯姆愛轉妹家。", pinyin: "aˊ poˇ gongˋ, ngienˇ cuˊ ngi bagˋ meˊ oi zonˋ moi gaˊ."}
+    check: true
+  - n: 23
+    en: "My second New Year in Taiwan. I went to sleep smiling."
+    sx: {hanzi: "這係𠊎在臺灣過个第二隻年。𠊎笑咪咪仔睡目。", pinyin: "iaˋ he ngaiˇ coiˊ toiˇ vanˇ go ge ti ngi zagˋ ngienˇ. ngaiˇ seu miˊ miˊ eˋ soi mugˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A diary. The title is a saying from the official lists (高級): 年三夜四 "the year's third, the night's fourth",
+      the last frantic days before the New Year; also any rush before a deadline.
+  - ref: 2
+    topic: vocab
+    text: >
+      一年透天 idˋ ngienˇ teu tienˊ "all year round" (佢十分無閒，一年透天…). 閒時閒節 hanˇ siiˇ hanˇ jiedˋ "ordinary days, outside the
+      festivals" (the list: 指非節日時段). 年節 is from 進修 32. Marked for review.
+  - ref: 3
+    topic: vocab
+    text: >
+      使油漆 siiˋ iuˇ qidˋ "paint (walls)" (使油漆該下，屋肚…). 正廳 ziin tangˊ "main hall" (阿公婆安在正廳項拜). 走廊
+      zeuˋ longˇ "corridor". 圖牆 tuˇ qiongˇ "courtyard wall" (Mandarin 圍牆). Marked for review.
+  - ref: 4
+    topic: vocab
+    text: >
+      天窗 tienˊ cungˊ "skylight" (有天窗光線較足). 塵灰 is from 進修 17. Marked for review.
+  - ref: 5
+    topic: vocab
+    text: >
+      被骨 piˊ gudˋ "quilt (the padding)" (寒天壅被骨). 眠帳 minˇ zong "mosquito net" (吊眠帳，正毋會分蚊仔叼). 晾 langˇ "hang out to dry,
+      air" (晾衫): the padding is aired, not washed. Marked for review.
+  - ref: 6
+    topic: vocab
+    text: >
+      磨粄 mo banˋ "grind soaked rice for rice cakes" (蒸甜粄愛先磨粄). 甜粄 and 發粄 are from lesson 50.
+  - ref: 7
+    topic: vocab
+    text: >
+      星光半夜 sangˊ gongˊ ban ia "the middle of the night" (literally "starlight midnight"). 炊 "steam" (lesson 50).
+      Marked for review.
+  - ref: 8
+    topic: vocab
+    text: >
+      大包細包 tai bauˊ se bauˊ "laden with bags".
+  - ref: 9
+    topic: vocab
+    text: >
+      花衫仔 faˊ samˊ eˋ "flowery blouse" (花衫仔合牛仔褲盡時行). 皮帶仔 piˇ dai eˋ "leather belt" (繫皮帶仔).
+  - ref: 10
+    topic: vocab
+    text: >
+      試著 "try on". 合身 "fit" (Part 1). Marked for review.
+  - ref: 11
+    topic: vocab
+    text: >
+      鈕仔 neuˋ eˇ "button" (著衫褲鈕仔愛鈕好). 攣 lionˇ "sew (on)". Marked for review.
+  - ref: 12
+    topic: vocab
+    text: >
+      鬥雙 deu sungˊ "make a pair" (鞋愛鬥雙正著得, line 13).
+  - ref: 14
+    topic: vocab
+    text: >
+      年三十暗晡 ngienˇ samˊ siib am buˊ "New Year's Eve". 門對仔 munˇ dui eˋ "door couplets" (貼門對仔). In 2029 the twelfth lunar
+      month has only 29 days, so New Year's Eve falls on the 29th (lunardate); it is still called 年三十 (the list glosses
+      年三十暗晡 除夕夜).
+  - ref: 15
+    topic: vocab
+    text: >
+      大人細子 tai nginˇ se ziiˋ "young and old" (寒天，大人細子都好煨番薯食). 圍爐 and 阿公婆 are from lesson 51.
+  - ref: 16
+    topic: vocab
+    text: >
+      拈甜 ngiamˊ tiamˇ "take a sweet (for luck)" (新正年頭，辦公桌項會放糖盒仔分人拈甜). 笑科 is from 進修 31. Marked for review.
+  - ref: 18
+    topic: vocab
+    text: >
+      歡頭笑面 fonˊ teuˇ seu mien "beaming" (對人客愛歡頭笑面). Marked for review.
+  - ref: 19
+    topic: vocab
+    text: >
+      開容笑面 koiˊ iungˇ seu mien "all smiles" (佢對人總係開容笑面).
+  - ref: 20
+    topic: vocab
+    text: >
+      遶尞 lauˊ liau "go out and about, have fun".
+  - ref: 21
+    topic: vocab
+    text: >
+      打鬥四 daˋ deu xi "get together to eat and chat" (下班來吾屋下打鬥四). Marked for review.
+  - ref: 22
+    topic: culture
+    text: >
+      轉妹家 zonˋ moi gaˊ "(of a married woman) visit her parents' home": 年初二轉妹家 is the custom. Marked for review.
+  - ref: 23
+    topic: vocab
+    text: >
+      笑咪咪仔 seu miˊ miˊ eˋ "smiling". The first New Year Sam spent in Taiwan was in Part 1 (lesson 51). Marked for
+      review.
+
+new_words:
+  - {hanzi: 年三夜四, pinyin: "ngienˇ samˊ ia xi", en: "the last rush before the New Year"}
+  - {hanzi: 一年透天, pinyin: "idˋ ngienˇ teu tienˊ", en: "all year round"}
+  - {hanzi: 閒時閒節, pinyin: "hanˇ siiˇ hanˇ jiedˋ", en: "ordinary days, outside the festivals"}
+  - {hanzi: 使油漆, pinyin: "siiˋ iuˇ qidˋ", en: "paint (walls)"}
+  - {hanzi: 正廳, pinyin: "ziin tangˊ", en: "main hall"}
+  - {hanzi: 走廊, pinyin: "zeuˋ longˇ", en: "corridor"}
+  - {hanzi: 圖牆, pinyin: "tuˇ qiongˇ", en: "courtyard wall"}
+  - {hanzi: 天窗, pinyin: "tienˊ cungˊ", en: "skylight"}
+  - {hanzi: 被骨, pinyin: "piˊ gudˋ", en: "quilt"}
+  - {hanzi: 眠帳, pinyin: "minˇ zong", en: "mosquito net"}
+  - {hanzi: 晾, pinyin: "langˇ", en: "hang out to dry"}
+  - {hanzi: 磨粄, pinyin: "mo banˋ", en: "grind rice for rice cakes"}
+  - {hanzi: 星光半夜, pinyin: "sangˊ gongˊ ban ia", en: "the middle of the night"}
+  - {hanzi: 大包細包, pinyin: "tai bauˊ se bauˊ", en: "laden with bags"}
+  - {hanzi: 花衫仔, pinyin: "faˊ samˊ eˋ", en: "flowery blouse"}
+  - {hanzi: 皮帶仔, pinyin: "piˇ dai eˋ", en: "leather belt"}
+  - {hanzi: 鈕仔, pinyin: "neuˋ eˇ", en: "button"}
+  - {hanzi: 攣, pinyin: "lionˇ", en: "sew (on)"}
+  - {hanzi: 鬥雙, pinyin: "deu sungˊ", en: "make a pair"}
+  - {hanzi: 年三十暗晡, pinyin: "ngienˇ samˊ siib am buˊ", en: "New Year's Eve"}
+  - {hanzi: 門對仔, pinyin: "munˇ dui eˋ", en: "door couplets"}
+  - {hanzi: 大人細子, pinyin: "tai nginˇ se ziiˋ", en: "young and old"}
+  - {hanzi: 拈甜, pinyin: "ngiamˊ tiamˇ", en: "take a sweet (for luck)"}
+  - {hanzi: 歡頭笑面, pinyin: "fonˊ teuˇ seu mien", en: "beaming"}
+  - {hanzi: 開容笑面, pinyin: "koiˊ iungˇ seu mien", en: "all smiles"}
+  - {hanzi: 遶尞, pinyin: "lauˊ liau", en: "go out and about, have fun"}
+  - {hanzi: 打鬥四, pinyin: "daˋ deu xi", en: "get together to eat and chat"}
+  - {hanzi: 轉妹家, pinyin: "zonˋ moi gaˊ", en: "visit one's parents' home (of a married woman)"}
+  - {hanzi: 笑咪咪仔, pinyin: "seu miˊ miˊ eˋ", en: "smiling"}
+
+exercises:
+  translate:
+    - en: "The ancestors' tablets are set up in the main hall for worship."
+      source: kaga115
+      sx: {hanzi: "阿公婆安在正廳項拜。", pinyin: "aˊ gungˊ poˇ onˊ coiˊ ziin tangˊ hong bai."}
+    - en: "Don't chase about in the corridor."
+      source: kaga115
+      sx: {hanzi: "莫在走廊項逐來逐去。", pinyin: "mog coiˊ zeuˋ longˇ hong giugˋ loiˇ giugˋ hi."}
+    - en: "He is always all smiles with people."
+      source: kaga115
+      sx: {hanzi: "佢對人總係開容笑面。", pinyin: "giˇ dui nginˇ zungˋ he koiˊ iungˇ seu mien."}
+    - en: "Be all smiles with guests."
+      source: kaga115
+      sx: {hanzi: "對人客愛歡頭笑面。", pinyin: "dui nginˇ hagˋ oi fonˊ teuˇ seu mien."}
+    - en: "On the second day of the New Year, married daughters go back to their parents' home."
+      source: kaga115
+      sx: {hanzi: "年初二轉妹家。", pinyin: "ngienˇ cuˊ ngi zonˋ moi gaˊ."}
+  fill:
+    - en: "Paste up the door couplets."
+      sx: {hanzi: "貼___。", pinyin: "diabˋ ___.", answer_hanzi: "門對仔", answer: "munˇ dui eˋ"}
+    - en: "Grandma's blouse is missing a button."
+      sx: {hanzi: "阿婆个衫少一粒___。", pinyin: "aˊ poˇ ge samˊ seuˋ idˋ liab ___.", answer_hanzi: "鈕仔", answer: "neuˋ eˇ"}
+    - en: "Shoes must make a pair before you can wear them."
+      sx: {hanzi: "鞋愛___正著得。", pinyin: "haiˇ oi ___ zang zogˋ dedˋ.", answer_hanzi: "鬥雙", answer: "deu sungˊ"}
+    - en: "Come round to mine after work to eat and chat."
+      sx: {hanzi: "下班來吾屋下___。", pinyin: "ha banˊ loiˇ ngaˊ vugˋ kaˊ ___.", answer_hanzi: "打鬥四", answer: "daˋ deu xi"}
+    - en: "The skylight is thick with dust."
+      sx: {hanzi: "___个塵灰當多。", pinyin: "___ ge ciinˇ foiˊ dongˊ doˊ.", answer_hanzi: "天窗", answer: "tienˊ cungˊ"}
+
+audio: []

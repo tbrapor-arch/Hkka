@@ -1,0 +1,191 @@
+id: 35
+genre: review
+title:
+  en: "Be content and you'll be happy"
+  sx: {hanzi: "人愛知足正會快樂", pinyin: "nginˇ oi diˊ jiugˋ zang voi kuai log"}
+review: true
+setting: >-
+  Thursday 15 February 2029, the third day of the New Year. Sam has come to stay with 鍾伯 and 鍾伯姆 in 美濃 (進修 32).
+  They sit in the courtyard after supper with the neighbour 阿財哥. Review of 進修 29–34: no new words.
+names: [Sam, 鍾伯, 鍾伯姆, 阿財哥, 美濃, 苗栗, 阿明, 阿公]
+
+dialogue:
+  - n: 1
+    speaker: 鍾伯
+    en: "Sam, you've come laden with bags!"
+    sx: {hanzi: "Sam，你大包細包來！", pinyin: "Sam, nˇ tai bauˊ se bauˊ loiˇ!"}
+  - n: 2
+    speaker: Sam
+    en: "It's sweet rice cake from Grandma in Miaoli. She ground the rice and steamed it till the middle of the night."
+    sx: {hanzi: "這係苗栗阿婆个甜粄。佢磨粄、炊粄，炊到星光半夜。", pinyin: "iaˋ he meuˇ lid aˊ poˇ ge tiamˇ banˋ. giˇ mo banˋ, coiˊ banˋ, coiˊ do sangˊ gongˊ ban ia."}
+    check: true
+  - n: 3
+    speaker: 鍾伯姆
+    en: "So kind of her. Our guest room's ready: stay a couple more nights."
+    sx: {hanzi: "恁好心。吾屋下个人客間準備好吔，你歇加兩暗晡。", pinyin: "anˋ hoˋ ximˊ. ngaˊ vugˋ kaˊ ge nginˇ hagˋ gienˊ zunˋ pi hoˋ leˊ, nˇ hiedˋ gaˊ liongˋ am buˊ."}
+    check: true
+  - n: 4
+    speaker: 鍾伯
+    en: "How did you spend the New Year in Miaoli?"
+    sx: {hanzi: "你在苗栗年仰般過？", pinyin: "nˇ coiˊ meuˇ lid ngienˇ ngiongˋ banˊ go?"}
+    check: true
+  - n: 5
+    speaker: Sam
+    en: "On New Year's Eve Grandpa wrote the door couplets. Young and old ate together, then took sweets for luck and told jokes."
+    sx: {hanzi: "年三十暗晡，阿公寫門對仔。大人細子共下食飯，食飽拈甜、講笑科。", pinyin: "ngienˇ samˊ siib am buˊ, aˊ gungˊ xiaˋ munˇ dui eˋ. tai nginˇ se ziiˋ kiung ha siid fan, siid bauˋ ngiamˊ tiamˇ, gongˋ seu koˊ."}
+  - n: 6
+    speaker: Sam
+    en: "On New Year's Day everyone was all smiles, and in the evening the neighbours came round to eat and chat."
+    sx: {hanzi: "年初一大家都開容笑面，暗晡頭隔壁个人來打鬥四。", pinyin: "ngienˇ cuˊ idˋ tai gaˊ du koiˊ iungˇ seu mien, am buˊ teuˇ gagˋ biagˋ ge nginˇ loiˇ daˋ deu xi."}
+  - n: 7
+    speaker: 阿財哥
+    en: "Sam, I'm the one who planted cabbages. Did 鍾伯 tell you?"
+    sx: {hanzi: "Sam，𠊎就係種包心白个人。鍾伯有同你講無？", pinyin: "Sam, ngaiˇ qiu he zung bauˊ ximˊ pag ge nginˇ. zungˊ bagˋ iuˊ tungˇ nˇ gongˋ moˇ?"}
+  - n: 8
+    speaker: Sam
+    en: "He did. There was a glut of cabbage, the price fell and you lost money."
+    sx: {hanzi: "有。包心白大出，嗄落價，你蝕本。", pinyin: "iuˊ. bauˊ ximˊ pag tai cudˋ, sa log ga, nˇ sad bunˋ."}
+  - n: 9
+    speaker: 阿財哥
+    en: "This morning I went to the temple and cast the blocks, and got a 'yes' first time!"
+    sx: {hanzi: "今晡日朝晨𠊎去廟項跌筊仔，一跌就聖筊！", pinyin: "gimˊ buˊ ngidˋ zeuˊ siinˇ ngaiˇ hi meu hong diedˋ gau eˋ, idˋ diedˋ qiu siin gau!"}
+    check: true
+  - n: 10
+    speaker: 鍾伯
+    en: "So the gods approve. Sooner or later you'll have your luck."
+    sx: {hanzi: "恁樣神明合意。早慢你會好空。", pinyin: "anˋ ngiongˇ siinˇ minˇ gagˋ i. zoˋ man nˇ voi hoˋ kungˊ."}
+  - n: 11
+    speaker: 阿財哥
+    en: "This year I'll accept my lot and not be greedy: I'll plant a bit less, and not invest so much."
+    sx: {hanzi: "今年𠊎愛認分，毋敢貪心，種較少兜仔，毋使投資恁多。", pinyin: "gimˊ ngienˇ ngaiˇ oi ngin fun, mˇ gamˋ tamˊ ximˊ, zung ka seuˋ deuˊ eˋ, mˇ siiˋ teuˇ ziiˊ anˋ doˊ."}
+    check: true
+  - n: 12
+    speaker: Sam
+    en: "Grandma told me a tale: 'man's heart climbs ever higher'. You have to be content to be happy."
+    sx: {hanzi: "阿婆同𠊎講一隻古：人心節節高。人愛知足正會快樂。", pinyin: "aˊ poˇ tungˇ ngaiˇ gongˋ idˋ zagˋ guˋ: nginˇ ximˊ jiedˋ jiedˋ goˊ. nginˇ oi diˊ jiugˋ zang voi kuai log."}
+    check: true
+  - n: 13
+    speaker: 鍾伯姆
+    en: "Your grandma is wise. 阿財哥 should remember the moral of that tale."
+    sx: {hanzi: "你阿婆講話當有智慧。這隻古个教訓，阿財哥愛記得。", pinyin: "nˇ aˊ poˇ gongˋ fa dongˊ iuˊ zii fi. iaˋ zagˋ guˋ ge gau hiun, aˊ coiˇ goˊ oi gi dedˋ."}
+    check: true
+  - n: 14
+    speaker: 鍾伯
+    en: "Right. Money isn't the most precious thing: what matters is that the family is well."
+    sx: {hanzi: "著。錢財毋係最珍貴个，一家人平安就好。", pinyin: "cog. qienˇ coiˇ mˇ he zui ziinˊ gui ge, idˋ gaˊ nginˇ pinˇ onˊ qiu hoˋ."}
+    check: true
+  - n: 15
+    speaker: 鍾伯
+    en: "What's the weather like in Miaoli? Any frost?"
+    sx: {hanzi: "苗栗个天時仰般？有落霜無？", pinyin: "meuˇ lid ge tienˊ siiˇ ngiongˋ banˊ? iuˊ log songˊ moˇ?"}
+  - n: 16
+    speaker: Sam
+    en: "There was last month. Grandpa and A-min and I dug sweet potatoes and roasted them in the embers."
+    sx: {hanzi: "上隻月有。𠊎同阿公、阿明改番薯，撿樵來煨番薯。", pinyin: "song zagˋ ngied iuˊ. ngaiˇ tungˇ aˊ gungˊ, aˊ minˇ goiˋ fanˊ suˇ, giamˋ ceuˇ loiˇ voiˊ fanˊ suˇ."}
+    check: true
+  - n: 17
+    speaker: Sam
+    en: "A-min wanted to cut down the longan tree for firewood. Grandpa said, 'Cutting down the tree to pick the longans!'"
+    sx: {hanzi: "阿明想愛倒樹仔做樵，阿公講：「倒樹仔摘牛眼！」", pinyin: "aˊ minˇ xiongˋ oi doˋ su eˋ zo ceuˇ, aˊ gungˊ gongˋ: doˋ su eˋ zagˋ ngiuˇ ngienˋ!"}
+  - n: 18
+    speaker: 鍾伯
+    en: "A-min's a real ringleader."
+    sx: {hanzi: "阿明正經係搞頭王。", pinyin: "aˊ minˇ ziin ginˊ he gauˋ teuˇ vongˇ."}
+    check: true
+  - n: 19
+    speaker: Sam
+    en: "He's been elected class president too, with twenty-two votes. The other candidate lost, and said they would support him."
+    sx: {hanzi: "佢乜當選班長吔，二十二票。另外一個候選人落選，乜講會支持佢。", pinyin: "giˇ me dongˊ xienˋ banˊ zongˋ leˊ, ngi siib ngi peuˊ. nang ngoi idˋ ge heu xienˋ nginˇ log xienˋ, me gongˋ voi ziiˊ ciiˇ giˇ."}
+  - n: 20
+    speaker: 鍾伯姆
+    en: "Children today spend all day on their phones and rarely go out to play."
+    sx: {hanzi: "這下个細人仔歸日用手機仔上網，罕得去外背搞。", pinyin: "iaˋ ha ge se nginˇ eˋ guiˊ ngidˋ iung suˋ giˊ eˋ songˊ miongˋ, hanˋ dedˋ hi ngoi boi gauˋ."}
+  - n: 21
+    speaker: 鍾伯
+    en: "When I was small, we went to the river to skim stones and swam about like geese."
+    sx: {hanzi: "𠊎細个時節，去河壩打水漂仔，像鵝仔樣泅來泅去。", pinyin: "ngaiˇ se ge siiˇ jiedˋ, hi hoˇ ba daˋ suiˋ piu eˋ, qiong ngoˇ eˋ iong qiuˇ loiˇ qiuˇ hi."}
+    check: true
+  - n: 22
+    speaker: 阿財哥
+    en: "Half work, half play: we were happier then."
+    sx: {hanzi: "半做半尞，該下較快樂。", pinyin: "ban zo ban liau, ge ha ka kuai log."}
+    check: true
+  - n: 23
+    speaker: 鍾伯
+    en: "Tomorrow we'll go out and about in town. If you can bear to, stay a few more days."
+    sx: {hanzi: "天光日𫣆兜去街項遶尞。你係盼得，就歇加幾日。", pinyin: "tienˊ gongˊ ngidˋ enˊ deuˊ hi gieˊ hong lauˊ liau. nˇ he pan dedˋ, qiu hiedˋ gaˊ giˋ ngidˋ."}
+    check: true
+  - n: 24
+    speaker: Sam
+    en: "Thank you. Term starts next week. Whatever there is to say, I'll come back and we'll talk face to face."
+    sx: {hanzi: "恁仔細。下禮拜愛開學吔。有麼个話，𠊎再來同你當面講。", pinyin: "anˋ ziiˋ se. ha liˊ bai oi koiˊ hog leˊ. iuˊ maˋ ge fa, ngaiˇ zai loiˇ tungˇ nˇ dongˊ mien gongˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      Review of 進修 29–34. The title is the official sentence 人愛知足正會快樂 (進修 33), which Sam quotes in line 12.
+  - ref: 1
+    topic: vocab
+    text: >
+      大包細包, 磨粄, 星光半夜 (進修 34). Line 2 is marked for review.
+  - ref: 3
+    topic: vocab
+    text: >
+      人客間 (進修 12); 歇 hiedˋ "stay as a guest"; 歇加兩暗晡 "stay two more nights", with 加 after the verb (official 歇加幾夜仔正轉).
+      Marked for review.
+  - ref: 5
+    topic: vocab
+    text: >
+      年三十暗晡, 門對仔, 大人細子, 拈甜 (進修 34); 笑科 (進修 31); 開容笑面, 打鬥四 (進修 34).
+  - ref: 8
+    topic: vocab
+    text: >
+      包心白 (進修 29); 大出, 落價, 蝕本, 跌筊仔, 聖筊, 合意, 早慢, 好空, 投資 (進修 32). Lines 9 and 11 are marked for review.
+  - ref: 12
+    topic: vocab
+    text: >
+      人心節節高, 知足 (line 12), 認分, 貪心 (line 11), 教訓 (line 13), 錢財, 珍貴 (line 14) (進修 33); 智慧 (進修 31). Lines 12–14 are marked
+      for review.
+  - ref: 15
+    topic: vocab
+    text: >
+      落霜, 改番薯, 撿樵, 煨番薯, 倒樹仔摘牛眼, 鵝仔, 泅來泅去 (進修 29). 上隻月 "last month": the frost was on 6 January. Lines 16 and 21 are
+      marked for review.
+  - ref: 18
+    topic: vocab
+    text: >
+      搞頭王, 上網, 打水漂仔, 半做半尞 (進修 31); 當選, 班長, 候選人, 落選, 支持 (進修 30; line 19).
+  - ref: 23
+    topic: vocab
+    text: >
+      遶尞 (進修 34); 盼得, 當面 (進修 32). 歇加幾日 (line 23), like 歇加兩暗晡 in line 3. Lines 23 and 24 are marked for review.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "There was a glut and the price fell."
+      sx: {hanzi: "大出，嗄落價。", pinyin: "tai cudˋ, sa log ga."}
+    - en: "Sooner or later you'll have your luck."
+      sx: {hanzi: "早慢你會好空。", pinyin: "zoˋ man nˇ voi hoˋ kungˊ."}
+    - en: "He was elected class president."
+      sx: {hanzi: "佢當選班長吔。", pinyin: "giˇ dongˊ xienˋ banˊ zongˋ leˊ."}
+    - en: "Young and old ate together."
+      sx: {hanzi: "大人細子共下食飯。", pinyin: "tai nginˇ se ziiˋ kiung ha siid fan."}
+    - en: "Don't be greedy."
+      sx: {hanzi: "毋好貪心。", pinyin: "mˇ hoˋ tamˊ ximˊ."}
+  fill:
+    - en: "Grandpa wrote the door couplets."
+      sx: {hanzi: "阿公寫___。", pinyin: "aˊ gungˊ xiaˋ ___.", answer_hanzi: "門對仔", answer: "munˇ dui eˋ"}
+    - en: "Cast the divination blocks at the temple."
+      sx: {hanzi: "去廟項___。", pinyin: "hi meu hong ___.", answer_hanzi: "跌筊仔", answer: "diedˋ gau eˋ"}
+    - en: "Roast sweet potatoes in the embers."
+      sx: {hanzi: "撿樵來___。", pinyin: "giamˋ ceuˇ loiˇ ___.", answer_hanzi: "煨番薯", answer: "voiˊ fanˊ suˇ"}
+    - en: "Children rarely go out to play."
+      sx: {hanzi: "細人仔___去外背搞。", pinyin: "se nginˇ eˋ ___ hi ngoi boi gauˋ.", answer_hanzi: "罕得", answer: "hanˋ dedˋ"}
+    - en: "Let's go out and about tomorrow."
+      sx: {hanzi: "天光日𫣆兜去___。", pinyin: "tienˊ gongˊ ngidˋ enˊ deuˊ hi ___.", answer_hanzi: "遶尞", answer: "lauˊ liau"}
+
+audio: []

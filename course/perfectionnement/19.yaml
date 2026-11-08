@@ -1,0 +1,253 @@
+id: 19
+genre: tale
+title:
+  en: The Double Ninth
+  sx: {hanzi: 九九重陽, pinyin: giuˋ giuˋ qiungˇ iongˇ}
+review: false
+setting: Thursday 26 October 2028, the Double Ninth (the ninth day of the ninth lunar month), evening at the Lius'. The
+  county has sent the old people of the town a gift, and Grandpa tells A-min and Sam where the festival comes from. Lines
+  5–16 are the tale (with A-min's interruption in lines 13–14), Grandpa's telling of a well-known Chinese legend.
+names: [Sam, 阿公, 阿婆, 阿明, 阿英, 桓景]
+dialogue:
+- n: 1
+  speaker: 阿婆
+  en: Every year at the Double Ninth, the county head sends the old folk something.
+  sx: {hanzi: 逐年个九九重陽節，縣長就會送東西分老人家。, pinyin: 'dagˋ ngienˇ ge giuˋ giuˋ qiungˇ iongˇ jiedˋ, ien zongˋ qiu voi sung dungˊ
+      xiˊ bunˊ loˋ nginˇ gaˊ.'}
+- n: 2
+  speaker: 阿婆
+  en: This year it's a bundle of fine noodles. A-in's office delivered it.
+  sx: {hanzi: 今年係一只麵線，阿英个辦公室送來个。, pinyin: 'gimˊ ngienˇ he idˋ ziiˋ mien xien, aˊ inˊ ge pan gungˊ siidˋ sung loiˇ ge.'}
+- n: 3
+  speaker: 阿明
+  en: Grandpa, why is the Double Ninth the old people's festival?
+  sx: {hanzi: 阿公，九九重陽仰會係老人家个節？, pinyin: 'aˊ gungˊ, giuˋ giuˋ qiungˇ iongˇ ngiongˋ voi he loˋ nginˇ gaˊ ge jiedˋ?'}
+  check: true
+- n: 4
+  speaker: 阿公
+  en: Let me tell you a story first.
+  sx: {hanzi: 阿公先同你兜講一個古。, pinyin: aˊ gungˊ xienˊ tungˇ nˇ deuˊ gongˋ idˋ ge guˋ.}
+- n: 5
+  speaker: 阿公
+  en: In the Han dynasty there was a young man called 桓景.
+  sx: {hanzi: 漢朝个時節，有一個後生人，安到桓景。, pinyin: 'hon ceuˇ ge siiˇ jiedˋ, iuˊ idˋ ge heu sangˊ nginˇ, onˊ do fanˇ ginˋ.'}
+- n: 6
+  speaker: 阿公
+  en: He was learning his arts from an immortal.
+  sx: {hanzi: 佢跈一個仙人學本事。, pinyin: giˇ tenˇ idˋ ge xienˊ nginˇ hog bunˋ sii.}
+- n: 7
+  speaker: 阿公
+  en: 'One day the immortal told him: ''On the ninth of the ninth month, disaster will strike your home.'''
+  sx: {hanzi: 有一日，仙人同佢講：「九月初九，你屋下會有大災。」, pinyin: 'iuˊ idˋ ngidˋ, xienˊ nginˇ tungˇ giˇ gongˋ: giuˋ ngied cuˊ giuˋ, nˇ vugˋ
+      kaˊ voi iuˊ tai zaiˊ.'}
+- n: 8
+  speaker: 阿公
+  en: '''A poisonous vapour is coming. Take your family up into the high mountains, carry herbs with you, and drink chrysanthemum
+    wine; only then will you escape it.'''
+  sx: {hanzi: 「有毒氣會來。你愛同屋下人爬上高山，帶一袋草藥，食菊花酒，正避得過。」, pinyin: 'iuˊ tug hi voi loiˇ. nˇ oi tungˇ vugˋ kaˊ nginˇ paˇ songˊ goˊ
+      sanˊ, dai idˋ toi coˋ iog, siid kiugˋ faˊ jiuˋ, zang pidˋ dedˋ go.'}
+  check: true
+- n: 9
+  speaker: 阿公
+  en: The neighbours didn't believe it; but 桓景 did as he was told.
+  sx: {hanzi: 隔壁鄰舍毋信，毋過桓景當聽話。, pinyin: 'gagˋ biagˋ linˇ sa mˇ xin, mˇ go fanˇ ginˋ dongˊ tangˊ fa.'}
+- n: 10
+  speaker: 阿公
+  en: On the ninth of the ninth month he took the whole family up to the mountaintop.
+  sx: {hanzi: 九月初九，佢就帶全家爬上山頂。, pinyin: 'giuˋ ngied cuˊ giuˋ, giˇ qiu dai qionˇ gaˊ paˇ songˊ sanˊ dangˋ.'}
+- n: 11
+  speaker: 阿公
+  en: Towards evening they came home and saw that the animals they kept, chickens, ducks, oxen and sheep, were all dead.
+  sx: {hanzi: 臨暗仔轉來，看著屋下畜个頭牲，雞仔、鴨仔、牛仔、羊仔，全部都死忒吔。, pinyin: 'limˇ am eˋ zonˋ loiˇ, kon doˋ vugˋ kaˊ hiugˋ ge teuˇ sangˊ, gieˊ eˋ,
+      abˋ eˇ, ngiuˇ eˋ, iongˇ eˋ, qionˇ pu du xiˋ tedˋ leˊ.'}
+- n: 12
+  speaker: 阿公
+  en: 'The immortal said: ''The animals died in your place.'''
+  sx: {hanzi: 仙人講：「頭牲替你兜死忒吔。」, pinyin: 'xienˊ nginˇ gongˋ: teuˇ sangˊ tai nˇ deuˊ xiˋ tedˋ leˊ.'}
+- n: 13
+  speaker: 阿明
+  en: Grandpa, can immortals turn into dragons?
+  sx: {hanzi: 阿公，仙人做得變龍無？, pinyin: 'aˊ gungˊ, xienˊ nginˇ zo dedˋ bien liungˇ moˇ?'}
+- n: 14
+  speaker: 阿公
+  en: 'They can: into a dragon, into a lion, into anything at all. Even the emperor was no match for them.'
+  sx: {hanzi: 做得，會變龍，會變獅仔，麼个都會變。皇帝乜無佢恁會。, pinyin: 'zo dedˋ, voi bien liungˇ, voi bien siiˊ eˋ, maˋ ge du voi bien. fongˇ
+      di me moˇ giˇ anˋ voi.'}
+  check: true
+- n: 15
+  speaker: 阿公
+  en: From then on, on the ninth of the ninth month, people climbed the hills and drank chrysanthemum wine.
+  sx: {hanzi: 從該以後，九月九，大家就去爬山，食菊花酒。, pinyin: 'qiungˇ ge iˊ heu, giuˋ ngied giuˋ, tai gaˊ qiu hi paˇ sanˊ, siid kiugˋ faˊ
+      jiuˋ.'}
+- n: 16
+  speaker: 阿公
+  en: Later, since nine sounds like 'long-lasting', the Double Ninth became the day to honour the old.
+  sx: {hanzi: 落尾，九同久共音，九九重陽就變做敬老个日仔。, pinyin: 'labˋ miˊ, giuˋ tungˇ giuˋ kiung imˊ, giuˋ giuˋ qiungˇ iongˇ qiu bien zo gin
+      loˋ ge ngidˋ eˋ.'}
+  check: true
+- n: 17
+  speaker: 阿明
+  en: Then today I'll have to call you 'old fogey'… no, 'respected elder'!
+  sx: {hanzi: 該今晡日𠊎愛喊你老貨仔……毋係，愛敬老！, pinyin: 'ge gimˊ buˊ ngidˋ ngaiˇ oi ham nˇ loˋ fo eˋ … mˇ he, oi gin loˋ!'}
+- n: 18
+  speaker: 阿婆
+  en: A-min! Calling people 'old fogey' is very rude.
+  sx: {hanzi: 阿明！喊人老貨仔當無禮貌。, pinyin: aˊ minˇ! ham nginˇ loˋ fo eˋ dongˊ moˇ liˊ mau.}
+- n: 19
+  speaker: 阿公
+  en: (laughing) Never mind. Grandpa really is an old fogey.
+  sx: {hanzi: 毋怕。阿公本來就係老貨仔。, pinyin: mˇ pa. aˊ gungˊ bunˋ loiˇ qiu he loˋ fo eˋ.}
+- n: 20
+  speaker: Sam
+  en: 'Grandpa, Grandma: long life to you both!'
+  sx: {hanzi: 阿公、阿婆，祝你兜長壽！, pinyin: 'aˊ gungˊ, aˊ poˇ, zugˋ nˇ deuˊ congˇ su!'}
+- n: 21
+  speaker: 阿公
+  en: A long life doesn't matter; good health is enough.
+  sx: {hanzi: 長壽毋使，康健就好。, pinyin: 'congˇ su mˇ siiˋ, kongˊ kien qiu hoˋ.'}
+- n: 22
+  speaker: 阿婆
+  en: Every evening, after dinner, Grandpa sits in the yard singing mountain songs, like an immortal.
+  sx: {hanzi: 阿公逐暗晡食飽，就坐在禾埕唱山歌，神仙樣仔。, pinyin: 'aˊ gungˊ dagˋ am buˊ siid bauˋ, qiu coˊ coiˊ voˇ tangˇ cong sanˊ goˊ, siinˇ
+      xienˊ iong eˋ.'}
+- n: 23
+  speaker: 阿公
+  en: 'Come on, the chrysanthemum tea is ready. Everyone have a cup: it''ll warm you up.'
+  sx: {hanzi: 來，菊花茶泡好吔，大家食一杯，暖暖仔。, pinyin: 'loiˇ, kiugˋ faˊ caˇ pau hoˋ leˊ, tai gaˊ siid idˋ biˊ, nonˊ nonˊ eˋ.'}
+  check: true
+- n: 24
+  speaker: 阿明
+  en: Isn't there any chrysanthemum wine?
+  sx: {hanzi: 無菊花酒係無？, pinyin: 'moˇ kiugˋ faˊ jiuˋ he moˇ?'}
+- n: 25
+  speaker: 阿婆
+  en: 'You''re fifteen: wine is for later!'
+  sx: {hanzi: 你正十五歲，酒等大兜仔正食！, pinyin: 'nˇ zang siib ngˋ se, jiuˋ denˋ tai deuˊ eˋ zang siid!'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A tale. 九九重陽 giuˋ giuˋ qiungˇ iongˇ is the Double Ninth (a 2013 list entry). The legend of 桓景 and the immortal is told
+    across the Chinese world (general knowledge); the way Grandpa tells it is ours. In Taiwan the day is also Senior Citizens'
+    Day.
+- ref: 1
+  topic: vocab
+  text: >
+    縣長 (lesson 94) "county head". The 2013 lists have the sentence with 送禮品 "send a gift".
+- ref: 2
+  topic: vocab
+  text: >
+    麵線 mien xien "fine wheat noodles" (一只麵線 "a bundle of noodles": 只 counts bundles). The lists add a joke sense: "long-winded
+    talk".
+- ref: 5
+  topic: vocab
+  text: >
+    漢朝 hon ceuˇ "the Han dynasty".
+- ref: 6
+  topic: vocab
+  text: >
+    仙人 xienˊ nginˇ "immortal" (仙人打鼓有時錯 "even immortals miss a drumbeat", a saying in the lists). 跈 "follow" (grammar inventory
+    §6). 本事 (進修 3).
+- ref: 7
+  topic: vocab
+  text: >
+    災 zaiˊ "disaster" (地動最驚推山埋人个災害).
+- ref: 8
+  topic: vocab
+  text: >
+    毒 tug "poison; poisonous"; 毒氣 tug hi "poisonous vapour" (MOE). 草藥 coˋ iog "medicinal herbs" (the legend's herb, 茱萸,
+    is left out). 避得過 "manage to escape" (避, as in 避免, 進修 13). 菊花 kiugˋ faˊ (lesson 82) "chrysanthemum".
+- ref: 9
+  topic: vocab
+  text: >
+    毋信 "not believe" (你就毋信 "you wouldn't believe it"); 聽話 "do as one is told" (佢毋聽話，分阿姆處罰).
+- ref: 11
+  topic: vocab
+  text: >
+    頭牲 teuˇ sangˊ "livestock, farm animals" (畜頭牲 "keep livestock": 畜 hiugˋ "raise").
+- ref: 12
+  topic: vocab
+  text: >
+    替 tai "in place of, for".
+- ref: 14
+  topic: vocab
+  text: >
+    龍 liungˇ "dragon", 獅仔 siiˊ eˋ "lion" (獅仔當惡 "lions are fierce"), 皇帝 fongˇ di "emperor". 無佢恁會 "not as able as them": A
+    無 B 恁 + adjective (grammar inventory §9). Grandpa's answer is ours; marked for review.
+- ref: 15
+  topic: vocab
+  text: >
+    爬山 paˇ sanˊ "climb a mountain, go hill-walking" (爬, lesson 29).
+- ref: 16
+  topic: vocab
+  text: >
+    九 and 久 are both giuˋ, so 九九 sounds like "long, long" (general knowledge). 共音 "sound the same" is our phrase. 敬老 "respect
+    the old" (做人愛敬老).
+- ref: 17
+  topic: vocab
+  text: >
+    老貨仔 loˋ fo eˋ "old fogey" (喊人老貨仔當無禮貌 "calling people 'old fogey' is very rude", an official sentence: Grandma quotes
+    it in line 18).
+- ref: 20
+  topic: vocab
+  text: >
+    長壽 congˇ su "long life" (MOE). 祝 (lesson 44).
+- ref: 22
+  topic: vocab
+  text: >
+    神仙樣仔 "like an immortal, carefree": from an official sentence about an old man sitting in his yard after dinner, playing
+    the fiddle and singing mountain songs.
+- ref: 23
+  topic: vocab
+  text: >
+    暖暖仔 "nice and warm" (暖, 進修 15). 泡 "brew (tea)" is our word; marked for review.
+new_words:
+- {hanzi: 九九重陽, pinyin: giuˋ giuˋ qiungˇ iongˇ, en: the Double Ninth festival}
+- {hanzi: 麵線, pinyin: mien xien, en: fine wheat noodles}
+- {hanzi: 只, pinyin: ziiˋ, en: bundle (classifier)}
+- {hanzi: 漢朝, pinyin: hon ceuˇ, en: the Han dynasty}
+- {hanzi: 仙人, pinyin: xienˊ nginˇ, en: immortal}
+- {hanzi: 災, pinyin: zaiˊ, en: disaster}
+- {hanzi: 高山, pinyin: goˊ sanˊ, en: high mountain}
+- {hanzi: 草藥, pinyin: coˋ iog, en: medicinal herbs}
+- {hanzi: 避, pinyin: pidˋ, en: 'avoid, escape'}
+- {hanzi: 毋信, pinyin: mˇ xin, en: not believe}
+- {hanzi: 聽話, pinyin: tangˊ fa, en: 'do as one is told, obedient'}
+- {hanzi: 頭牲, pinyin: teuˇ sangˊ, en: 'livestock, farm animals'}
+- {hanzi: 替, pinyin: tai, en: 'in place of, for'}
+- {hanzi: 爬山, pinyin: paˇ sanˊ, en: 'climb a mountain, go hill-walking'}
+- {hanzi: 老貨仔, pinyin: loˋ fo eˋ, en: old fogey}
+- {hanzi: 長壽, pinyin: congˇ su, en: long life}
+- {hanzi: 神仙, pinyin: siinˇ xienˊ, en: immortal; carefree}
+- {hanzi: 酒, pinyin: jiuˋ, en: 'wine, alcohol'}
+- {hanzi: 毒氣, pinyin: tug hi, en: 'poisonous gas, vapour'}
+- {hanzi: 畜, pinyin: hiugˋ, en: 'keep, raise (animals)'}
+- {hanzi: 龍, pinyin: liungˇ, en: dragon}
+- {hanzi: 獅仔, pinyin: siiˊ eˋ, en: lion}
+- {hanzi: 皇帝, pinyin: fongˇ di, en: emperor}
+exercises:
+  translate:
+  - en: Calling people 'old fogey' is very rude.
+    source: kaga115
+    sx: {hanzi: 喊人老貨仔當無禮貌。, pinyin: ham nginˇ loˋ fo eˋ dongˊ moˇ liˊ mau.}
+  - en: Keep livestock.
+    source: kaga115
+    sx: {hanzi: 畜頭牲。, pinyin: hiugˋ teuˇ sangˊ.}
+  - en: He didn't do as he was told, and Mum punished him.
+    sx: {hanzi: 佢毋聽話，分阿姆罰。, pinyin: 'giˇ mˇ tangˊ fa, bunˊ aˊ meˊ fad.'}
+  - en: I told you long ago, but you wouldn't believe it.
+    sx: {hanzi: 早就同你講過，你就毋信。, pinyin: 'zoˋ qiu tungˇ nˇ gongˋ go, nˇ qiu mˇ xin.'}
+  - en: On the ninth of the ninth month, everyone goes up the hills.
+    sx: {hanzi: 九月初九，大家就去爬山。, pinyin: 'giuˋ ngied cuˊ giuˋ, tai gaˊ qiu hi paˇ sanˊ.'}
+  fill:
+  - en: He was learning his arts from an immortal.
+    sx: {hanzi: 佢跈一個___學本事。, pinyin: giˇ tenˇ idˋ ge ___ hog bunˋ sii., answer_hanzi: 仙人, answer: xienˊ nginˇ}
+  - en: The neighbours didn't believe it.
+    sx: {hanzi: 隔壁鄰舍___。, pinyin: gagˋ biagˋ linˇ sa ___., answer_hanzi: 毋信, answer: mˇ xin}
+  - en: The animals were all dead.
+    sx: {hanzi: ___全部都死忒吔。, pinyin: ___ qionˇ pu du xiˋ tedˋ leˊ., answer_hanzi: 頭牲, answer: teuˇ sangˊ}
+  - en: Long life to you!
+    sx: {hanzi: 祝你___！, pinyin: zugˋ nˇ ___!, answer_hanzi: 長壽, answer: congˇ su}
+  - en: Like an immortal.
+    sx: {hanzi: ___樣仔。, pinyin: ___ iong eˋ., answer_hanzi: 神仙, answer: siinˇ xienˊ}
+audio: []

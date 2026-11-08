@@ -168,3 +168,66 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   which; only call a saying an entry if it is one.
 - Hailu shares 盡 (盡重要 8 / 8, 最重要 1 / 1). Write it in both columns.
 - ABAB (烏陰烏陰, 好勢好勢) and AABB (清清楚楚): lint now accepts AABB of a listed word.
+
+## 進修 batch 1 review (P1–P7)
+- 黏時 is "at once, immediately" (馬上、隨即、立刻), not "suddenly"; "suddenly" is 好恬恬 (kaga115) or 無提無防.
+- 問題 takes 隻 or 個 (這隻問題, 這個問題), not 條.
+- A rainbow faces away from the sun: in the evening it is in the east, in the morning in the west (東弓晴，西弓雨;
+  kaga: 朝晨頭若係出天弓，大體就會落雨).
+- "Live (somewhere)" is 歇 hed (歇在: 22 official sentences); 住 cu only in compounds (住址, 對毋住).
+- Adverb after the verb, also with 加: 買加兜仔, 讀加兜仔書, 識加兜人 (not 加買, 多讀, 多識).
+- "Good points" is not 好个所在 (a calque); "to this day" is 到今 (36), not 到今晡日 (0).
+- Daytime is 日時頭 (lesson 79). Before writing "our own phrase", check whether a taught list word already covers it.
+- 毋正常 → 無正常 (0 / 4). 毋好 "bad" is lexicalised (對身體毋好, 人毋好) and is the one exception to the bare-毋
+  rule; for marks, the lists say 成績毋理想.
+- Before declaring a word, look for the same hanzi under any reading in Part 1 and earlier 進修 lessons
+  (`candidates.py` shows DECLARED): 揚蝶仔 (lesson 69) and 開始 (lesson 58) were declared twice. Lint misses
+  compounds used before their declaration (聽講): grep for them.
+- Numbered items inside a text (leaflets, rules, news items) must run in order.
+- In a review lesson, check the batch calendar before "long time no see" and similar lines.
+- A new word's gloss must match a sense the list gives (kaga115 弓 is the classifier for a hand of bananas).
+
+## 進修 batches 2–3 review (P8–P21)
+- Demonstrative + bare noun: the classifier is the default. A bare noun only where an official sentence has one
+  (這手鈪, 這茶, 這湯: one each); 這柚仔 has none → 這隻柚仔 / 這兜柚仔.
+- 歇 for guests, guesthouses and visits is hiedˋ (短住、住宿; 你來歇兩暗晡); hed is "live" (長住). Check every 歇 in a
+  guest scene.
+- Names: X 安到 Y (lesson 22; 佢安到阿明). 名喊 is unattested.
+- "Girlfriend" is 女朋友 (lesson 32; 8 official); 細妹條仔 is "lass" (少女). 交朋友 is friendship, not dating
+  (交往 has no list reading). Matchmaking is 牽線 (MOE) or 做媒人 (3); 牽成 is a mentor's or boss's support (提攜).
+- Number + 過 takes its classifier, like number + 零: 十過個, 萬過斤, 兩千過个人.
+- "Never (in my life)": 從來毋識 + verb (6 official); bare 從來毋 + verb has none.
+- 共下 is "together"; "in all" is 總共.
+- 合 "match (horoscopes)" is hab (MOE 相匹配, 合婚; lesson 44); gab is only in 上合合.
+- 無值 is unattested; "not worth it" is 毋值 (實在毋值, 4).
+- Before calling a sentence "official", check its pool: a sentence with no accent is an MOE example (合過八字…).
+- A review lesson reuses at least three new words from each of the six lessons before it. Count each lesson's
+  `new_words` in the review dialogue.
+- An official sentence that lint cannot read (禮 alone in 正有禮) is adapted with `check: true` and a note, not
+  quoted with `source:`.
+
+## 進修 batches 4–5 review (P22–P35)
+- 逐 "every" is dagˋ (逐日, 逐禮拜, 逐項); giugˋ is "chase" (逐老鼠, 逐黃蚻). Seven "every" lines in P26–P33 had giugˋ:
+  grep the pinyin of every 逐.
+- 熟 "cooked, done" is sug (lesson 29); xiugˋ is "ripe" (kaga115: 指蔬果熟成). Check polyphonic words by sense, not
+  only by lint: lint accepts any listed reading.
+- 好 is hau before a verb also after 恁: 莫恁好逞強 "don't be so keen to act tough".
+- 愛多 + verb for advice is attested (19 official: 愛多運動, 愛多溫習, 愛多尞), so the batch 1 rule against 多讀 is about
+  quantity. With a number, the verb comes first with 加: 歇加兩暗晡 (official 歇加幾夜仔), not 多歇兩暗晡.
+- "Not many" after a verb is V無幾多 (做無幾多, 賺無幾多錢), not V毋多.
+- 睡忒晝 is "oversleep" (MOE); 晝 zu is "late" (忒晝吔！會赴毋著哩). "Go to bed late" has no example.
+- In a letter, writer + reader is 𫣆兜 (𫣆兜兩儕當多話題好講); the writer's household welcoming the reader is 𠊎兜.
+- Lint checks `source:` only in the dialogue, and not the table name. Check exercise sources by hand: 年初二轉妹家 is
+  kaga115, not kaga; 得著好空 is half of 得著亞軍。得著好空 (`abridged: true`).
+- A note quoting an official sentence keeps its own particles and adverbs (哩, 異), even where the course writes 吔
+  and 當; a line or exercise that swaps them is the course's version and has no `source:`. 異 is not taught yet.
+- A list entry whose only sense is a measure word (擔 量詞) is glossed from MOE for the verb (負責、承當), and the note
+  says so.
+- January–February: 今年, 舊年 and 天光年 differ by calendar until the lunar New Year. For seasons (longans, a
+  harvest) name the season (熱天) instead of the year.
+- Leaflets, rules, hours and limits of real Taiwanese institutions (the post office) are invented: say so in the
+  setting.
+- Continuity: Sam spent the winter of 2026–27 and the 2027 New Year with the Lius (Part 1, lessons 29 and 50–51): in Part 2
+  it is not his "first winter" or "first New Year in Taiwan". 阿太 is Grandpa's father (lesson 65). Sam has a sister,
+  Lucie (lesson 29). A-min has never met 鍾伯.
+- 2029: the twelfth lunar month has 29 days, so New Year's Eve (Mon 12 Feb) is the 29th; it is still 年三十.

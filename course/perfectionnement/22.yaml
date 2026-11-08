@@ -1,0 +1,277 @@
+id: 22
+genre: letter
+title:
+  en: Three days fishing, four days drying the nets
+  sx: {hanzi: 三日打魚四日晒網, pinyin: samˊ ngidˋ daˋ ngˇ xi ngidˋ sai miongˋ}
+review: false
+setting: Friday 10 November 2028. Sam writes to 鍾伯 in 美濃 (進修 12), whose essay A-in had posted him, to tell him about his
+  studies and to ask for his help with the term report.
+names: [Sam, 鍾伯, 鍾伯姆, 阿英, 阿公, 阿雄, 聯合大學, 法國, 苗栗]
+dialogue:
+- n: 1
+  en: 'Dear 鍾伯, how are you? It''s been so long since I wrote to you: I''m sorry.'
+  sx: {hanzi: 鍾伯：你好！恁久無寫信分你，同你會失禮。, pinyin: 'zungˊ bagˋ: nˇ hoˋ! anˋ giuˋ moˇ xiaˋ xin bunˊ nˇ, tungˇ nˇ fi siidˋ liˊ.'}
+- n: 2
+  en: A-in sent me your essay. It describes the 伙房 very vividly.
+  sx: {hanzi: 阿英寄你个文章分𠊎看吔，文章描寫伙房，寫到當生動。, pinyin: 'aˊ inˊ gi nˇ ge vunˇ zongˊ bunˊ ngaiˇ kon leˊ, vunˇ zongˊ meuˇ xiaˋ foˋ
+      fongˇ, xiaˋ do dongˊ sangˊ tung.'}
+  check: true
+- n: 3
+  en: 'My professor knows you too. He says your essay is meaningful: it could serve as a document on Hakka culture.'
+  sx: {hanzi: 吾教授乜識你。佢講你个文章有意義，做得做客家文化个文獻。, pinyin: 'ngaˊ gau su me siidˋ nˇ. giˇ gongˋ nˇ ge vunˇ zongˊ iuˊ i ngi, zo dedˋ
+      zo hagˋ gaˊ vunˇ fa ge vunˇ hien.'}
+- n: 4
+  en: I'm now studying at the college of Hakka studies at 聯合大學, as a new student.
+  sx: {hanzi: 𠊎這下在聯合大學个客家學院讀書，係新生。, pinyin: 'ngaiˇ iaˋ ha coiˊ lienˇ hab tai hog ge hagˋ gaˊ hog ien tug suˊ, he xinˊ senˊ.'}
+- n: 5
+  en: This term I have four courses. In class everyone speaks Hakka, and the teachers explain the theory in Hakka.
+  sx: {hanzi: 這學期𠊎有四門課。課堂項大家都講客話，先生用客話解釋理論。, pinyin: 'iaˋ hog kiˇ ngaiˇ iuˊ xi munˇ ko. ko tongˇ hong tai gaˊ du gongˋ hagˋ
+      fa, xinˊ sangˊ iung hagˋ fa gieˋ siidˋ liˊ lun.'}
+- n: 6
+  en: 'There''s a lot of teaching material: some are books from publishers, some are essays written by old scholars.'
+  sx: {hanzi: 教材當多，有兜係出版社出个書，有兜係老先生寫个文章。, pinyin: 'gau coiˇ dongˊ doˊ, iuˊ deuˊ he cudˋ banˋ sa cudˋ ge suˊ, iuˊ deuˊ he
+      loˋ xinˊ sangˊ xiaˋ ge vunˇ zongˊ.'}
+- n: 7
+  en: Every book has a table of contents; I read that first, then look for the key points.
+  sx: {hanzi: 逐本書都有目錄，𠊎先看目錄，正尋重點。, pinyin: 'dagˋ bunˋ suˊ du iuˊ mugˋ liug, ngaiˇ xienˊ kon mugˋ liug, zang qimˇ cung diamˋ.'}
+- n: 8
+  en: My grounding isn't good yet; when I hear a word I don't understand, I look it up in the dictionary.
+  sx: {hanzi: 𠊎个基礎還無好，聽毋識个字，就查辭典。, pinyin: 'ngaiˇ ge giˊ cuˋ hanˇ moˇ hoˋ, tangˊ mˇ siidˋ ge sii, qiu caˇ ciiˇ dienˋ.'}
+- n: 9
+  en: 'Chinese characters aren''t hard for me: I studied Chinese in France.'
+  sx: {hanzi: 學漢字對𠊎無難，𠊎在法國學過中文。, pinyin: 'hog hon sii dui ngaiˇ moˇ nanˇ, ngaiˇ coiˊ fabˋ guedˋ hog go zungˊ vunˇ.'}
+- n: 10
+  en: 'What''s hard is making sentences and writing: the way Hakka says things isn''t the same as Chinese.'
+  sx: {hanzi: 難个係造句同寫作：客話个講法同中文毋共樣。, pinyin: 'nanˇ ge he co gi tungˇ xiaˋ zogˋ: hagˋ fa ge gongˋ fabˋ tungˇ zungˊ vunˇ mˇ
+      kiung iong.'}
+- n: 11
+  en: 'The teacher says: give an example, and it''ll be clearer.'
+  sx: {hanzi: 先生講：舉隻例仔，就會較清楚。, pinyin: 'xinˊ sangˊ gongˋ: giˋ zagˋ li eˋ, qiu voi ka qinˊ cuˋ.'}
+- n: 12
+  en: Every evening I go over the lessons, copying them into an exercise book in biro.
+  sx: {hanzi: 逐暗晡𠊎溫習課文，用原子筆抄在字簿仔項。, pinyin: 'dagˋ am buˊ ngaiˇ vunˊ xib ko vunˇ, iung ngienˇ ziiˋ bidˋ cauˊ coiˊ sii puˊ
+      eˋ hong.'}
+- n: 13
+  en: On Saturdays I learn calligraphy from Grandpa, with a brush. Grandpa's characters are beautiful.
+  sx: {hanzi: 禮拜六𠊎跈阿公學寫大字，擎毛筆。阿公个字寫到當靚。, pinyin: 'liˊ bai liugˋ ngaiˇ tenˇ aˊ gungˊ hog xiaˋ tai sii, kiaˇ moˊ bidˋ. aˊ
+      gungˊ ge sii xiaˋ do dongˊ jiangˊ.'}
+- n: 14
+  en: 'Sometimes I''m lazy too: three days fishing, four days drying the nets.'
+  sx: {hanzi: 有時節𠊎乜會懶尸，三日打魚四日晒網。, pinyin: 'iuˊ siiˇ jiedˋ ngaiˇ me voi lanˊ siiˊ, samˊ ngidˋ daˋ ngˇ xi ngidˋ sai miongˋ.'}
+- n: 15
+  en: Next week there's a test. I'm afraid I won't pass and will have to resit, or even be held back a year.
+  sx: {hanzi: 下禮拜有測驗。𠊎驚無及格，愛補考，驚會留級。, pinyin: 'ha liˊ bai iuˊ cedˋ ngiam. ngaiˇ giangˊ moˇ kib giedˋ, oi buˋ kauˋ, giangˊ
+      voi liuˇ kibˋ.'}
+- n: 16
+  en: 'A-hiung says: don''t worry, you work so hard, you''re sure to pass.'
+  sx: {hanzi: 阿雄講：毋使驚，你恁用功，一定會過。, pinyin: 'aˊ hiungˇ gongˋ: mˇ siiˋ giangˊ, nˇ anˋ iung gungˊ, idˋ tin voi go.'}
+- n: 17
+  en: A-hiung is doing a master's; later he wants to do a doctorate and get a PhD.
+  sx: {hanzi: 阿雄讀碩士，佢想後擺讀博士，拿博士學位。, pinyin: 'aˊ hiungˇ tug sag sii, giˇ xiongˋ heu baiˋ tug bogˋ sii, naˊ bogˋ sii hog vi.'}
+- n: 18
+  en: His family has no money; his fees are paid by a scholarship.
+  sx: {hanzi: 佢屋下無錢，學費係靠獎學金。, pinyin: 'giˇ vugˋ kaˊ moˇ qienˇ, hog fi he ko jiongˋ hog gimˊ.'}
+- n: 19
+  en: 'I asked him: with this subject, what will you do later? He said: teach.'
+  sx: {hanzi: 𠊎問佢：你讀這科系，後擺做麼个？佢講：教書。, pinyin: 'ngaiˇ mun giˇ: nˇ tug iaˋ koˊ ne, heu baiˋ zo maˋ ge? giˇ gongˋ: gauˊ suˊ.'}
+- n: 20
+  en: "This term I have to hand in a report. I'd like to write about your 伙房: may I ask your advice?"
+  sx: {hanzi: "這學期愛交一篇報告。𠊎想寫你个伙房，做得請教你無？", pinyin: "iaˋ hog kiˇ oi gauˊ idˋ pienˊ bo go. ngaiˇ xiongˋ xiaˋ nˇ ge foˋ fongˇ, zo dedˋ qiangˋ gau nˇ moˇ?"}
+- n: 21
+  en: I'd like to ask a few questions; I'll use your answers for reference.
+  sx: {hanzi: 𠊎想問幾隻問題，你个答案𠊎會做參考。, pinyin: 'ngaiˇ xiongˋ mun giˋ zagˋ mun tiˇ, nˇ ge dabˋ on ngaiˇ voi zo camˊ kauˋ.'}
+- n: 22
+  en: "The two of us have plenty to talk about; I'm sure we'll talk till I can't bear to leave."
+  sx: {hanzi: "𫣆兜兩儕當多話題好講，一定會講到𠊎毋盼得轉。", pinyin: "enˊ deuˊ liongˋ saˇ dongˊ doˊ fa tiˇ hoˋ gongˋ, idˋ tin voi gongˋ do ngaiˇ mˇ pan dedˋ zonˋ."}
+- n: 23
+  en: "Exchanging with people is more interesting than the knowledge in textbooks."
+  sx: {hanzi: "同人交流，比課本个知識較有意思。", pinyin: "tungˇ nginˇ gauˊ liuˇ, biˋ ko bunˋ ge ziiˊ siidˋ ka iuˊ i sii."}
+  check: true
+- n: 24
+  en: "Studying isn't only reading books: you also have to get to know more people."
+  sx: {hanzi: "讀書毋單淨係看書，乜愛識加兜人。", pinyin: "tug suˊ mˇ danˊ qiang he kon suˊ, me oi siidˋ gaˊ deuˊ nginˇ."}
+- n: 25
+  en: Wishing you and 鍾伯姆 good health!
+  sx: {hanzi: 祝你同鍾伯姆身體康健！, pinyin: zugˋ nˇ tungˇ zungˊ bagˋ meˊ siinˊ tiˋ kongˊ kien!}
+- n: 26
+  en: Sam, 10 November, in Miaoli.
+  sx: {hanzi: Sam，十一月十號，在苗栗。, pinyin: 'Sam, siib idˋ ngied siib ho, coiˊ meuˇ lid.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A letter. The title is a saying from the 2013 lists: 三日打魚四日晒網 "three days fishing, four days drying the nets", for working
+    by fits and starts (三日打魚四日晒網，仰會做得好？). Mandarin says 三天打魚兩天晒網; Hakka gives the nets four days.
+- ref: 1
+  topic: vocab
+  text: >
+    同你會失禮 "I apologise to you" (會失禮, 進修 9): the lists use it when you are in the wrong (做毋著斯愛同對方會失禮); here Sam
+    apologises for his long silence.
+- ref: 2
+  topic: vocab
+  text: >
+    描寫 meuˇ xiaˋ "describe" (厥文章描寫到當清楚). 生動 sangˊ tung "lively": the lists gloss it 活潑、靈巧 and use it of a person
+    (這個後生仔盡生動); MOE also uses it of a reading (這篇散文由佢來宣讀，使人聽起來特別生動). Of writing, the line is ours: marked for review.
+- ref: 3
+  topic: vocab
+  text: >
+    意義 i ngi "meaning, significance" (辦這活動當有意義). 文獻 vunˇ hien "documents, records" (佢為著研究客家文化，收集當多文獻).
+- ref: 4
+  topic: vocab
+  text: >
+    學院 hog ien "college, faculty" (這間大學分做五隻學院). 新生 xinˊ senˊ "new student" (佢愛參加新生訓練).
+- ref: 5
+  topic: vocab
+  text: >
+    課堂 ko tongˇ "classroom, class" (課堂項做毋得食東西 "no eating in class"). 理論 liˊ lun "theory".
+- ref: 6
+  topic: vocab
+  text: >
+    教材 gau coiˇ "teaching material", 出版社 cudˋ banˋ sa "publisher" (出版社出當多書): 出版 "publish".
+- ref: 7
+  topic: vocab
+  text: >
+    目錄 mugˋ liug "table of contents" (逐本書都有目錄). 重點 cung diamˋ "key point" (講話愛講重點).
+- ref: 8
+  topic: vocab
+  text: >
+    基礎 giˊ cuˋ "foundation, grounding". 辭典 ciiˇ dienˋ "dictionary".
+- ref: 9
+  topic: vocab
+  text: >
+    漢字 hon sii "Chinese characters" (佢漢字寫到當靚), 中文 zungˊ vunˇ "Chinese (language)" (佢來臺灣學中文).
+- ref: 10
+  topic: vocab
+  text: >
+    造句 co gi "make sentences" (請用這詞彙造句), 寫作 xiaˋ zogˋ "writing, composition".
+- ref: 11
+  topic: vocab
+  text: >
+    例仔 li eˋ "example": 舉隻例仔同佢講，可能會較清楚 is the official sentence.
+- ref: 12
+  topic: vocab
+  text: >
+    溫習 vunˊ xib "revise, go over" (先生教過个，愛多溫習 "go over what the teacher taught"). 原子筆 ngienˇ ziiˋ bidˋ "biro", 字簿仔 sii puˊ
+    eˋ "exercise book". 抄 "copy" (lesson 81).
+- ref: 13
+  topic: vocab
+  text: >
+    寫大字 xiaˋ tai sii "write calligraphy" (literally "write big characters"); 毛筆 moˊ bidˋ "brush" (擎毛筆寫大字).
+- ref: 15
+  topic: vocab
+  text: >
+    測驗 cedˋ ngiam "test", 及格 kib giedˋ "pass" (差一分及格 "one mark short of a pass"), 補考 buˋ kauˋ "resit", 留級 liuˇ kibˋ "repeat
+    a year".
+- ref: 16
+  topic: vocab
+  text: >
+    用功 iung gungˊ "work hard (at studies)" (考試前佢特別用功).
+- ref: 17
+  topic: vocab
+  text: >
+    碩士 sag sii "master's degree", 博士 bogˋ sii "doctorate", 學位 hog vi "degree" (碩士學位).
+- ref: 18
+  topic: vocab
+  text: >
+    學費 hog fi "tuition fees" (逐學期愛納學費), 獎學金 jiongˋ hog gimˊ "scholarship".
+- ref: 19
+  topic: vocab
+  text: >
+    科系 koˊ ne "department, subject of study" (讀這科系毋驚尋無頭路). Note the reading ne for 系.
+- ref: 20
+  topic: vocab
+  text: >
+    請教 qiangˋ gau "ask for advice, consult" (請教一下仔).
+- ref: 21
+  topic: vocab
+  text: >
+    答案 dabˋ on "answer" (答案你自家知知吔！). 參考 camˊ kauˋ "reference; consult" (參考看啊).
+- ref: 22
+  topic: vocab
+  text: >
+    𫣆兜 includes 鍾伯, the reader. 話題 fa tiˇ "topic of conversation" (佢兩儕當多話題好講 "those two have plenty to talk about": our
+    line follows it). 毋盼得 (lesson 96) "can't bear to (leave)".
+- ref: 23
+  topic: vocab
+  text: >
+    交流 gauˊ liuˇ "exchange, interaction". 知識 ziiˊ siidˋ "knowledge" (無知識乜愛有常識).
+- ref: 24
+  topic: grammar
+  text: >
+    毋單淨係…，乜愛… "not only…, but also…" (社會个治安毋單淨係警察个責任，乜愛大家來配合). 識加兜人 "get to know more people": 加兜 follows the verb
+    (checklist, 進修 batch 1).
+new_words:
+- {hanzi: 描寫, pinyin: meuˇ xiaˋ, en: describe}
+- {hanzi: 生動, pinyin: sangˊ tung, en: 'lively; vivid (MOE, of a reading)'}
+- {hanzi: 意義, pinyin: i ngi, en: 'meaning, significance'}
+- {hanzi: 文獻, pinyin: vunˇ hien, en: 'documents, records'}
+- {hanzi: 學院, pinyin: hog ien, en: 'college, faculty'}
+- {hanzi: 新生, pinyin: xinˊ senˊ, en: new student}
+- {hanzi: 課堂, pinyin: ko tongˇ, en: 'classroom, class'}
+- {hanzi: 理論, pinyin: liˊ lun, en: theory}
+- {hanzi: 教材, pinyin: gau coiˇ, en: teaching material}
+- {hanzi: 出版社, pinyin: cudˋ banˋ sa, en: publisher}
+- {hanzi: 目錄, pinyin: mugˋ liug, en: table of contents}
+- {hanzi: 重點, pinyin: cung diamˋ, en: key point}
+- {hanzi: 基礎, pinyin: giˊ cuˋ, en: 'foundation, grounding'}
+- {hanzi: 辭典, pinyin: ciiˇ dienˋ, en: dictionary}
+- {hanzi: 漢字, pinyin: hon sii, en: Chinese characters}
+- {hanzi: 中文, pinyin: zungˊ vunˇ, en: Chinese (language)}
+- {hanzi: 造句, pinyin: co gi, en: make sentences}
+- {hanzi: 寫作, pinyin: xiaˋ zogˋ, en: 'writing, composition'}
+- {hanzi: 例仔, pinyin: li eˋ, en: example}
+- {hanzi: 溫習, pinyin: vunˊ xib, en: 'revise, go over'}
+- {hanzi: 原子筆, pinyin: ngienˇ ziiˋ bidˋ, en: 'biro, ballpoint pen'}
+- {hanzi: 字簿仔, pinyin: sii puˊ eˋ, en: exercise book}
+- {hanzi: 寫大字, pinyin: xiaˋ tai sii, en: write calligraphy}
+- {hanzi: 毛筆, pinyin: moˊ bidˋ, en: writing brush}
+- {hanzi: 三日打魚四日晒網, pinyin: samˊ ngidˋ daˋ ngˇ xi ngidˋ sai miongˋ, en: work by fits and starts}
+- {hanzi: 測驗, pinyin: cedˋ ngiam, en: test}
+- {hanzi: 及格, pinyin: kib giedˋ, en: pass (an exam)}
+- {hanzi: 補考, pinyin: buˋ kauˋ, en: resit}
+- {hanzi: 留級, pinyin: liuˇ kibˋ, en: repeat a year}
+- {hanzi: 用功, pinyin: iung gungˊ, en: work hard (at studies)}
+- {hanzi: 碩士, pinyin: sag sii, en: master's degree}
+- {hanzi: 博士, pinyin: bogˋ sii, en: 'doctorate, PhD'}
+- {hanzi: 學位, pinyin: hog vi, en: degree}
+- {hanzi: 學費, pinyin: hog fi, en: tuition fees}
+- {hanzi: 獎學金, pinyin: jiongˋ hog gimˊ, en: scholarship}
+- {hanzi: 科系, pinyin: koˊ ne, en: 'department, subject of study'}
+- {hanzi: 請教, pinyin: qiangˋ gau, en: ask for advice}
+- {hanzi: 答案, pinyin: dabˋ on, en: answer}
+- {hanzi: 參考, pinyin: camˊ kauˋ, en: reference; consult}
+- {hanzi: 話題, pinyin: fa tiˇ, en: topic of conversation}
+- {hanzi: 交流, pinyin: gauˊ liuˇ, en: 'exchange, interaction'}
+- {hanzi: 知識, pinyin: ziiˊ siidˋ, en: knowledge}
+- {hanzi: 查, pinyin: caˇ, en: 'look up, check'}
+- {hanzi: 舉, pinyin: giˋ, en: raise; give (an example)}
+- {hanzi: 靠, pinyin: ko, en: 'rely on, depend on'}
+exercises:
+  translate:
+  - en: 'Three days fishing, four days drying the nets: how can you do well?'
+    source: kaga
+    sx: {hanzi: 三日打魚四日晒網，仰會做得好？, pinyin: 'samˊ ngidˋ daˋ ngˇ xi ngidˋ sai miongˋ, ngiongˋ voi zo dedˋ hoˋ?'}
+  - en: No eating in class.
+    source: kaga115
+    sx: {hanzi: 課堂項做毋得食東西。, pinyin: ko tongˇ hong zo mˇ dedˋ siid dungˊ xiˊ.}
+  - en: Go over what the teacher has taught.
+    source: kaga115
+    sx: {hanzi: 先生教過个，愛多溫習。, pinyin: 'xinˊ sangˊ gauˊ go ge, oi doˊ vunˊ xib.'}
+  - en: One mark short of a pass.
+    source: kaga115
+    sx: {hanzi: 差一分及格。, pinyin: caˊ idˋ funˊ kib giedˋ.}
+  - en: Every book has a table of contents.
+    source: kaga115
+    sx: {hanzi: 逐本書都有目錄。, pinyin: dagˋ bunˋ suˊ du iuˊ mugˋ liug.}
+  fill:
+  - en: I look it up in the dictionary.
+    sx: {hanzi: 𠊎查___。, pinyin: ngaiˇ caˇ ___., answer_hanzi: 辭典, answer: ciiˇ dienˋ}
+  - en: You work so hard.
+    sx: {hanzi: 你恁___。, pinyin: nˇ anˋ ___., answer_hanzi: 用功, answer: iung gungˊ}
+  - en: His fees are paid by a scholarship.
+    sx: {hanzi: 學費係靠___。, pinyin: hog fi he ko ___., answer_hanzi: 獎學金, answer: jiongˋ hog gimˊ}
+  - en: May I ask your advice?
+    sx: {hanzi: 做得___你無？, pinyin: 'zo dedˋ ___ nˇ moˇ?', answer_hanzi: 請教, answer: qiangˋ gau}
+  - en: Speak to the point.
+    sx: {hanzi: 講話愛講___。, pinyin: gongˋ fa oi gongˋ ___., answer_hanzi: 重點, answer: cung diamˋ}
+audio: []

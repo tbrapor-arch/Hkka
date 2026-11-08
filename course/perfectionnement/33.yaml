@@ -1,0 +1,286 @@
+id: 33
+genre: tale
+title:
+  en: "Man's heart climbs ever higher"
+  sx: {hanzi: "人心節節高", pinyin: "nginˇ ximˊ jiedˋ jiedˋ goˊ"}
+review: false
+setting: >-
+  Thursday 8 February 2029, the evening before the 苗栗 family start their New Year cleaning. Grandma tells Sam and
+  A-min the tale of the rice jar that never empties.
+names: [阿婆, 阿福, 阿明, Sam]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Long ago there was a lad called 阿福, who had neither father nor mother."
+    sx: {hanzi: "當久以前，有一個後生仔安到阿福，無爺無哀。", pinyin: "dongˊ giuˋ iˊ qienˇ, iuˊ idˋ ge heu sangˊ eˋ onˊ do aˊ fugˋ, moˇ iaˇ moˇ oiˊ."}
+    check: true
+  - n: 2
+    speaker: 阿婆
+    en: "He lived alone and hardly spoke; people said he was a loner."
+    sx: {hanzi: "佢一儕人歇，毋好講話，人就講佢孤老。", pinyin: "giˇ idˋ saˇ nginˇ hed, mˇ hau gongˋ fa, nginˇ qiu gongˋ giˇ guˊ loˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "Round there lived a rich man, a brute, who often bullied him."
+    sx: {hanzi: "該片有一個好額人，係隻魯夫，時時欺負佢。", pinyin: "ge pienˋ iuˊ idˋ ge hoˋ ngiagˋ nginˇ, he zagˋ luˊ fuˊ, siiˇ siiˇ kiˊ fu giˇ."}
+    check: true
+  - n: 4
+    speaker: 阿婆
+    en: "One cold winter's day, 阿福 met an old man at the roadside, so hungry he could hardly move."
+    sx: {hanzi: "有一年寒天，阿福在路脣看著一個老阿伯，餓到行毋得。", pinyin: "iuˊ idˋ ngienˇ honˇ tienˊ, aˊ fugˋ coiˊ lu sunˇ kon doˋ idˋ ge loˋ aˊ bagˋ, ngo do hangˇ mˇ dedˋ."}
+  - n: 5
+    speaker: 阿婆
+    en: "阿福 had only one bowl of rice left in his rice jar, and he cooked it all for the old man."
+    sx: {hanzi: "阿福个米缸淨伸一碗米，佢全部煮分老阿伯食。", pinyin: "aˊ fugˋ ge miˋ gongˊ qiang cunˊ idˋ vonˋ miˋ, giˇ qionˇ pu zuˋ bunˊ loˋ aˊ bagˋ siid."}
+    check: true
+  - n: 6
+    speaker: 阿婆
+    en: "The old man said, 'You have a good heart. From now on your rice jar will never be empty.'"
+    sx: {hanzi: "老阿伯講：「你係好心人。從今以後，你个米缸毋會無米。」", pinyin: "loˋ aˊ bagˋ gongˋ: nˇ he hoˋ ximˊ nginˇ. qiungˇ gimˊ iˊ heu, nˇ ge miˋ gongˊ mˇ voi moˇ miˋ."}
+    check: true
+  - n: 7
+    speaker: 阿婆
+    en: "With that he vanished. He was a god!"
+    sx: {hanzi: "講忒，佢就無看著吔。原來佢係神明！", pinyin: "gongˋ tedˋ, giˇ qiu moˇ kon doˋ leˊ. ngienˇ loiˇ giˇ he siinˇ minˇ!"}
+    check: true
+  - n: 8
+    speaker: 阿明
+    en: "How amazing! Was the rice jar really full?"
+    sx: {hanzi: "恁神奇！米缸正經有米無？", pinyin: "anˋ siinˇ kiˇ! miˋ gongˊ ziin ginˊ iuˊ miˋ moˇ?"}
+  - n: 9
+    speaker: 阿婆
+    en: "Yes. Every morning the jar was full of white rice, and he never had to go to the rice shop again."
+    sx: {hanzi: "有。逐日朝晨，米缸都係白米，佢毋使再去米店糴米。", pinyin: "iuˊ. dagˋ ngidˋ zeuˊ siinˇ, miˋ gongˊ du he pag miˋ, giˇ mˇ siiˋ zai hi miˋ diam tag miˋ."}
+  - n: 10
+    speaker: 阿婆
+    en: "阿福 knew his place. He took only what he needed and gave the rest to the poor."
+    sx: {hanzi: "阿福當認分，佢淨拿自家愛食个，伸个分窮苦人。", pinyin: "aˊ fugˋ dongˊ ngin fun, giˇ qiang naˊ qi gaˊ oi siid ge, cunˊ ge bunˊ kiungˇ kuˋ nginˇ."}
+    check: true
+  - n: 11
+    speaker: 阿婆
+    en: "He said, 'You have to be content to be happy.'"
+    sx: {hanzi: "佢講：「人愛知足正會快樂。」", pinyin: "giˇ gongˋ: nginˇ oi diˊ jiugˋ zang voi kuai log."}
+  - n: 12
+    speaker: 阿婆
+    en: "The rich man heard about it and came to borrow the jar."
+    sx: {hanzi: "好額人聽著，就來借米缸。", pinyin: "hoˋ ngiagˋ nginˇ tangˊ doˋ, qiu loiˇ jia miˋ gongˊ."}
+  - n: 13
+    speaker: 阿婆
+    en: "阿福 was kind-hearted and lent it to him."
+    sx: {hanzi: "阿福好心，借分佢。", pinyin: "aˊ fugˋ hoˋ ximˊ, jia bunˊ giˇ."}
+  - n: 14
+    speaker: 阿婆
+    en: "But the rich man was greedy: rice wasn't enough, he wanted gold and silver too."
+    sx: {hanzi: "毋過好額人當貪心，有米還毋罅，佢還愛金愛銀。", pinyin: "mˇ go hoˋ ngiagˋ nginˇ dongˊ tamˊ ximˊ, iuˊ miˋ hanˇ mˇ la, giˇ hanˇ oi gimˊ oi ngiunˇ."}
+  - n: 15
+    speaker: 阿婆
+    en: "He knelt before the jar and begged: 'Give me gold, give me diamonds!'"
+    sx: {hanzi: "佢跪在米缸前，緊求：「分𠊎金仔，分𠊎鑽石！」", pinyin: "giˇ kuiˋ coiˊ miˋ gongˊ qienˇ, ginˋ kiuˇ: bunˊ ngaiˇ gimˊ eˋ, bunˊ ngaiˇ zon sag!"}
+    check: true
+  - n: 16
+    speaker: 阿婆
+    en: "He dreamed of opening a jeweller's and being richer than the king."
+    sx: {hanzi: "佢想愛開金仔店，比國王還較好額。", pinyin: "giˇ xiongˋ oi koiˊ gimˊ eˋ diam, biˋ guedˋ vongˇ hanˇ ka hoˋ ngiagˋ."}
+  - n: 17
+    speaker: 阿明
+    en: "And did gold come out?"
+    sx: {hanzi: "結果有金仔無？", pinyin: "giedˋ goˋ iuˊ gimˊ eˋ moˇ?"}
+  - n: 18
+    speaker: 阿婆
+    en: "No. Rice came out, more and more of it, filling his whole house."
+    sx: {hanzi: "無。米緊出緊多，歸間屋都係米。", pinyin: "moˇ. miˋ ginˋ cudˋ ginˋ doˊ, guiˊ gienˊ vugˋ du he miˋ."}
+    check: true
+  - n: 19
+    speaker: 阿婆
+    en: "His property, his money: all of it buried under rice."
+    sx: {hanzi: "佢个財產、錢財，全部分米埋忒。", pinyin: "giˇ ge coiˇ sanˋ, qienˇ coiˇ, qionˇ pu bunˊ miˋ maiˇ tedˋ."}
+    check: true
+  - n: 20
+    speaker: 阿婆
+    en: "In the end he had nothing left but rice."
+    sx: {hanzi: "結局，佢淨伸米。", pinyin: "giedˋ kiug, giˇ qiang cunˊ miˋ."}
+    check: true
+  - n: 21
+    speaker: Sam
+    en: "Did he take revenge on 阿福?"
+    sx: {hanzi: "佢有尋阿福報仇無？", pinyin: "giˇ iuˊ qimˇ aˊ fugˋ bo suˇ moˇ?"}
+  - n: 22
+    speaker: 阿婆
+    en: "No. He knew it was his own greed. He came to apologise to 阿福, and there was no more bad blood between them."
+    sx: {hanzi: "無。佢知係自家貪心，來同阿福會失禮，兩儕人無仇恨吔。", pinyin: "moˇ. giˇ diˊ he qi gaˊ tamˊ ximˊ, loiˇ tungˇ aˊ fugˋ fi siidˋ liˊ, liongˋ saˇ nginˇ moˇ suˇ hen leˊ."}
+    check: true
+  - n: 23
+    speaker: 阿婆
+    en: "That's what they mean by 'man's heart climbs ever higher': the more people have, the more they want."
+    sx: {hanzi: "這就係「人心節節高」，人緊有緊想愛。", pinyin: "iaˋ qiu he nginˇ ximˊ jiedˋ jiedˋ goˊ, nginˇ ginˋ iuˊ ginˋ xiongˋ oi."}
+    check: true
+  - n: 24
+    speaker: 阿婆
+    en: "A precious thing isn't gold or silver: it's a good heart."
+    sx: {hanzi: "珍貴个東西毋係金銀，係好心。", pinyin: "ziinˊ gui ge dungˊ xiˊ mˇ he gimˊ ngiunˇ, he hoˋ ximˊ."}
+    check: true
+  - n: 25
+    speaker: 阿明
+    en: "So the lesson of the story is: don't be greedy."
+    sx: {hanzi: "所以這隻古个教訓就係：毋好貪心。", pinyin: "soˋ iˊ iaˋ zagˋ guˋ ge gau hiun qiu he: mˇ hoˋ tamˊ ximˊ."}
+    check: true
+  - n: 26
+    speaker: 阿婆
+    en: "Right. And everyone's lot is different: you have to accept your own."
+    sx: {hanzi: "著。各人个命無共樣，愛認分。", pinyin: "cog. gogˋ nginˇ ge miang moˇ kiung iong, oi ngin fun."}
+  - n: 27
+    speaker: Sam
+    en: "But a person's fate is in his own hands too."
+    sx: {hanzi: "毋過人个運命係自家做得把扼个。", pinyin: "mˇ go nginˇ ge iun miang he qi gaˊ zo dedˋ baˋ agˋ ge."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      A tale. The title is a saying from the official lists (高級): 人心節節高 "man's heart climbs joint by joint" (like
+      bamboo), i.e. desire knows no end. Grandma explains it in line 23.
+  - ref: 1
+    topic: vocab
+    text: >
+      無爺無哀 moˇ iaˇ moˇ oiˊ "be an orphan" (literally "no father, no mother"). 安到 "be called" (lesson 22).
+      Marked for review.
+  - ref: 2
+    topic: vocab
+    text: >
+      孤老 guˊ loˋ "a loner, unsociable" (這人異孤老，全無朋友; the exercise has 當 for 異, not yet taught). 歇 hed "live (somewhere)".
+  - ref: 3
+    topic: vocab
+    text: >
+      魯夫 luˊ fuˊ "rough, hot-tempered, unreasonable"; MOE also uses it as a noun, "a brute" (該隻魯夫，講話總係無大無細), as here. 欺負
+      kiˊ fu "bully" (莫恁欺負人好無？). Marked for review.
+  - ref: 5
+    topic: vocab
+    text: >
+      米缸 miˋ gongˊ "rice jar" (米缸無米咧，你去米店糴米轉來). 伸 cunˊ "be left over" (lesson 39). Marked for review.
+  - ref: 6
+    topic: vocab
+    text: >
+      從今以後 "from now on". Marked for review.
+  - ref: 7
+    topic: vocab
+    text: >
+      講忒 "having finished speaking". 原來 "it turned out" (Part 1). Marked for review.
+  - ref: 8
+    topic: vocab
+    text: >
+      神奇 siinˇ kiˇ "magical, amazing" (仰有恁神奇个事？).
+  - ref: 9
+    topic: vocab
+    text: >
+      白米 pag miˋ "white rice (uncooked)". 米店 "rice shop". 糴米 tag miˋ "buy rice" (高級); its opposite is 糶米 "sell rice".
+  - ref: 10
+    topic: vocab
+    text: >
+      認分 ngin fun "know one's place, accept one's lot" (line 26). 窮苦人 "the poor". Marked for review.
+  - ref: 11
+    topic: vocab
+    text: >
+      知足 diˊ jiugˋ "be content": 人愛知足正會快樂 is an official sentence.
+  - ref: 14
+    topic: vocab
+    text: >
+      貪心 tamˊ ximˊ "greedy" (毋好恁貪心，拿到恁多！).
+  - ref: 15
+    topic: vocab
+    text: >
+      鑽石 zon sag "diamond" (打一隻鑽石禁指分佢). 求 "beg, pray for". Marked for review.
+  - ref: 16
+    topic: vocab
+    text: >
+      金仔店 gimˊ eˋ diam "jeweller's" (上禮拜這金仔店分賊仔偷). 國王 guedˋ vongˇ "king".
+  - ref: 18
+    topic: vocab
+    text: >
+      緊 X 緊 Y "the more X, the more Y" (lesson 51). Marked for review.
+  - ref: 19
+    topic: vocab
+    text: >
+      財產 coiˇ sanˋ "property, assets". 錢財 qienˇ coiˇ "money, wealth" (人為着錢財來死，盡毋值). 埋 "bury" (進修 29). Marked for review.
+  - ref: 20
+    topic: vocab
+    text: >
+      結局 giedˋ kiug "in the end" (講恁多，結局還係愛自家做). Marked for review.
+  - ref: 21
+    topic: vocab
+    text: >
+      報仇 bo suˇ "take revenge" (事情過忒就好，毋好尋人報仇).
+  - ref: 22
+    topic: vocab
+    text: >
+      仇恨 suˇ hen "hatred, bad blood" (這兩對頭仇恨異深). 會失禮 "apologise" (進修 9). Marked for review.
+  - ref: 24
+    topic: vocab
+    text: >
+      珍貴 ziinˊ gui "precious" (這藥材當珍貴). Marked for review.
+  - ref: 25
+    topic: vocab
+    text: >
+      教訓 gau hiun "lesson, moral; teach a lesson" (這細人仔無規矩，無教訓一下做毋得). 古 "story" (lesson 64's 講古). 這隻古, with the
+      classifier (checklist). Marked for review.
+  - ref: 27
+    topic: vocab
+    text: >
+      運命 iun miang "fate" (Mandarin 命運): from the official 人个運命係自家做得把扼个. 把扼 baˋ agˋ "take hold of, control".
+
+new_words:
+  - {hanzi: 人心節節高, pinyin: "nginˇ ximˊ jiedˋ jiedˋ goˊ", en: "desire knows no end"}
+  - {hanzi: 無爺無哀, pinyin: "moˇ iaˇ moˇ oiˊ", en: "be an orphan"}
+  - {hanzi: 孤老, pinyin: "guˊ loˋ", en: "loner, unsociable"}
+  - {hanzi: 魯夫, pinyin: "luˊ fuˊ", en: "rough, unreasonable; a brute"}
+  - {hanzi: 欺負, pinyin: "kiˊ fu", en: "bully"}
+  - {hanzi: 米缸, pinyin: "miˋ gongˊ", en: "rice jar"}
+  - {hanzi: 神奇, pinyin: "siinˇ kiˇ", en: "magical, amazing"}
+  - {hanzi: 白米, pinyin: "pag miˋ", en: "white rice (uncooked)"}
+  - {hanzi: 米店, pinyin: "miˋ diam", en: "rice shop"}
+  - {hanzi: 糴米, pinyin: "tag miˋ", en: "buy rice"}
+  - {hanzi: 認分, pinyin: "ngin fun", en: "know one's place, accept one's lot"}
+  - {hanzi: 知足, pinyin: "diˊ jiugˋ", en: "be content"}
+  - {hanzi: 貪心, pinyin: "tamˊ ximˊ", en: "greedy"}
+  - {hanzi: 鑽石, pinyin: "zon sag", en: "diamond"}
+  - {hanzi: 金仔店, pinyin: "gimˊ eˋ diam", en: "jeweller's"}
+  - {hanzi: 國王, pinyin: "guedˋ vongˇ", en: "king"}
+  - {hanzi: 財產, pinyin: "coiˇ sanˋ", en: "property, assets"}
+  - {hanzi: 錢財, pinyin: "qienˇ coiˇ", en: "money, wealth"}
+  - {hanzi: 結局, pinyin: "giedˋ kiug", en: "in the end"}
+  - {hanzi: 報仇, pinyin: "bo suˇ", en: "take revenge"}
+  - {hanzi: 仇恨, pinyin: "suˇ hen", en: "hatred, bad blood"}
+  - {hanzi: 珍貴, pinyin: "ziinˊ gui", en: "precious"}
+  - {hanzi: 教訓, pinyin: "gau hiun", en: "lesson, moral"}
+  - {hanzi: 命, pinyin: "miang", en: "fate, lot; life"}
+  - {hanzi: 運命, pinyin: "iun miang", en: "fate"}
+  - {hanzi: 把扼, pinyin: "baˋ agˋ", en: "take hold of, control"}
+
+exercises:
+  translate:
+    - en: "This man is very unsociable: he has no friends at all."
+      sx: {hanzi: "這人當孤老，全無朋友。", pinyin: "iaˋ nginˇ dongˊ guˊ loˋ, qionˇ moˇ penˇ iuˊ."}
+    - en: "Stop bullying people, will you?"
+      source: kaga115
+      sx: {hanzi: "莫恁欺負人好無？", pinyin: "mog anˋ kiˊ fu nginˇ hoˋ moˇ?"}
+    - en: "Don't be so greedy, taking so much!"
+      source: kaga
+      sx: {hanzi: "毋好恁貪心，拿到恁多！", pinyin: "mˇ hoˋ anˋ tamˊ ximˊ, naˊ do anˋ doˊ!"}
+    - en: "How can such an amazing thing happen?"
+      source: kaga115
+      sx: {hanzi: "仰有恁神奇个事？", pinyin: "ngiongˋ iuˊ anˋ siinˇ kiˇ ge sii?"}
+    - en: "When it's over, it's over: don't go looking for revenge."
+      source: kaga115
+      sx: {hanzi: "事情過忒就好，毋好尋人報仇。", pinyin: "sii qinˇ go tedˋ qiu hoˋ, mˇ hoˋ qimˇ nginˇ bo suˇ."}
+  fill:
+    - en: "The rice jar is empty."
+      sx: {hanzi: "___無米吔。", pinyin: "___ moˇ miˋ leˊ.", answer_hanzi: "米缸", answer: "miˋ gongˊ"}
+    - en: "You have to be content to be happy."
+      sx: {hanzi: "人愛___正會快樂。", pinyin: "nginˇ oi ___ zang voi kuai log.", answer_hanzi: "知足", answer: "diˊ jiugˋ"}
+    - en: "Last week this jeweller's was burgled."
+      sx: {hanzi: "上禮拜這___分賊仔偷。", pinyin: "song liˊ bai iaˋ ___ bunˊ ced eˋ teuˊ.", answer_hanzi: "金仔店", answer: "gimˊ eˋ diam"}
+    - en: "In the end you still have to do it yourself."
+      sx: {hanzi: "講恁多，___還係愛自家做。", pinyin: "gongˋ anˋ doˊ, ___ hanˇ he oi qi gaˊ zo.", answer_hanzi: "結局", answer: "giedˋ kiug"}
+    - en: "Everyone's lot is different; accept yours."
+      sx: {hanzi: "各人个命無共樣，愛___。", pinyin: "gogˋ nginˇ ge miang moˇ kiung iong, oi ___.", answer_hanzi: "認分", answer: "ngin fun"}
+
+audio: []

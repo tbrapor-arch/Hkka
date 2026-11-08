@@ -1,0 +1,189 @@
+id: 21
+genre: review
+title:
+  en: "Review 3"
+  sx: {hanzi: "剃頭剃到恁緣投", pinyin: "ti teuˇ ti do anˋ ienˇ dauˇ"}
+review: true
+setting: >-
+  Sunday 5 November 2028, lunch at the Lius'. Sam has just had his hair cut by 添伯 (進修 16), and he has brought
+  the stray cat from the stormy night (進修 17) in a box. Nothing new in the dialogue: everything comes from Part 1
+  and 進修 1–20.
+names: [Sam, 阿婆, 阿公, 阿英, 阿明, 阿姆, 添伯, 阿傑, 阿琴, 阿芬, 阿雄]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, you've had your hair cut! So handsome!"
+    sx: {hanzi: "Sam，你剃頭吔！剃到恁緣投！", pinyin: "Sam, nˇ ti teuˇ leˊ! ti do anˋ ienˇ dauˇ!"}
+  - n: 2
+    speaker: Sam
+    en: "添伯 cut it. Three strokes of the hoe, two baskets full: done in ten minutes."
+    sx: {hanzi: "添伯剃个。三下钁頭兩畚箕，十分鐘就剃好吔。", pinyin: "tiamˊ bagˋ ti ge. samˊ ha giogˋ teuˇ liongˋ bun giˊ, siib funˊ zungˊ qiu ti hoˋ leˊ."}
+  - n: 3
+    speaker: 阿明
+    en: "I'd rather go to the hair salon; that's what's in fashion now."
+    sx: {hanzi: "𠊎較想去電毛店，這下時行電毛。", pinyin: "ngaiˇ ka xiongˋ hi tien moˊ diam, iaˋ ha siiˇ hangˇ tien moˊ."}
+  - n: 4
+    speaker: 阿公
+    en: "Seventy years I've been having my hair cut at 添伯's: first his master, then him."
+    sx: {hanzi: "𠊎在添伯該剃頭剃七十年吔：先係佢个師傅，續等係佢。", pinyin: "ngaiˇ coiˊ tiamˊ bagˋ ge ti teuˇ ti qidˋ siib ngienˇ leˊ: xienˊ he giˇ ge siiˊ fu, sa denˋ he giˇ."}
+  - n: 5
+    speaker: 阿英
+    en: "Sam, what's in the box?"
+    sx: {hanzi: "Sam，箱仔肚係麼个？", pinyin: "Sam, xiongˊ eˋ duˋ he maˋ ge?"}
+  - n: 6
+    speaker: Sam
+    en: "The cat from that night. On the night of the storm, when the lights went out, it came in out of the blue."
+    sx: {hanzi: "該暗晡个貓仔。落大雨、電火烏忒个暗晡，佢好恬恬就走入來。", pinyin: "ge am buˊ ge meu eˋ. log tai iˋ, tien foˋ vuˊ tedˋ ge am buˊ, giˇ hoˋ diamˊ diamˊ qiu zeuˋ ngib loiˇ."}
+  - n: 7
+    speaker: 阿明
+    en: "Sam thought it was a ghost, and A-hiung got so scared he said he'd have nightmares!"
+    sx: {hanzi: "Sam話著係鬼，阿雄驚到講會發狂！", pinyin: "Sam va doˋ he guiˋ, aˊ hiungˇ giangˊ do gongˋ voi bodˋ kongˇ!"}
+  - n: 8
+    speaker: Sam
+    en: "Now it lives with me. It catches the cockroaches."
+    sx: {hanzi: "這下佢同𠊎共下歇，佢會逐黃蚻。", pinyin: "iaˋ ha giˇ tungˇ ngaiˇ kiung ha hed, giˇ voi giugˋ vongˇ cad."}
+  - n: 9
+    speaker: 阿婆
+    en: "Cats are very clever; that one ate like a duck swallowing a worm."
+    sx: {hanzi: "貓仔當精，該隻食到像鴨仔吞紅䘆。", pinyin: "meu eˋ dongˊ jinˊ, ge zagˋ siid do qiong abˋ eˇ tunˊ fungˇ hienˋ."}
+    check: true
+  - n: 10
+    speaker: 阿姆
+    en: "Come and eat. Today there's braised pork and fried taro, yesterday's, warmed up again."
+    sx: {hanzi: "來食飯。今晡日有燜豬肉、烰芋仔，係昨晡日个，暖過个。", pinyin: "loiˇ siid fan. gimˊ buˊ ngidˋ iuˊ munˊ zuˊ ngiugˋ, poˇ vu eˋ, he coˊ buˊ ngidˋ ge, nonˊ go ge."}
+    check: true
+  - n: 11
+    speaker: 阿英
+    en: "How did 阿傑's engagement go?"
+    sx: {hanzi: "阿傑過定仰般？", pinyin: "aˊ kiedˋ go tin ngiongˋ banˊ?"}
+  - n: 12
+    speaker: Sam
+    en: "Very lively. A-khim served the tea, and everyone stood up and held the cup with both hands."
+    sx: {hanzi: "當鬧熱。阿琴出來扛茶，大家都企起來用兩隻手兜。", pinyin: "dongˊ nau ngied. aˊ kimˇ cudˋ loiˇ gongˊ caˇ, tai gaˊ du kiˊ hiˋ loiˇ iung liongˋ zagˋ suˋ deuˊ."}
+  - n: 13
+    speaker: Sam
+    en: "阿傑 was so nervous his hands shook, and the ring fell on the floor."
+    sx: {hanzi: "阿傑緊張到手都會顫，禁指跌落地泥。", pinyin: "aˊ kiedˋ ginˋ zongˊ do suˋ du voi zunˊ, gim ziiˋ diedˋ log ti naiˇ."}
+  - n: 14
+    speaker: 阿明
+    en: "And A-khim's younger sister? Did she think the Frenchman was handsome?"
+    sx: {hanzi: "阿琴个老妹呢？佢看法國人緣投無？", pinyin: "aˊ kimˇ ge loˋ moi neˇ? giˇ kon fabˋ guedˋ nginˇ ienˇ dauˇ moˇ?"}
+  - n: 15
+    speaker: Sam
+    en: "She said: 'Not bad.'"
+    sx: {hanzi: "佢講：會做得。", pinyin: "giˇ gongˋ: voi zo dedˋ."}
+  - n: 16
+    speaker: 阿明
+    en: "(laughing) Just 'not bad'!"
+    sx: {hanzi: "淨係會做得！", pinyin: "qiang he voi zo dedˋ!"}
+  - n: 17
+    speaker: 阿公
+    en: "At the Double Ninth, A-min called me an old fogey."
+    sx: {hanzi: "九九重陽，阿明喊𠊎老貨仔。", pinyin: "giuˋ giuˋ qiungˇ iongˇ, aˊ minˇ ham ngaiˇ loˋ fo eˋ."}
+  - n: 18
+    speaker: 阿明
+    en: "Then I said I'd respect my elders!"
+    sx: {hanzi: "續等𠊎就講愛敬老！", pinyin: "sa denˋ ngaiˇ qiu gongˋ oi gin loˋ!"}
+  - n: 19
+    speaker: 阿婆
+    en: "On the night of 21 October there was an earthquake. Did you all feel it?"
+    sx: {hanzi: "十月二十一號半夜有地動，你兜感覺著無？", pinyin: "siib ngied ngi siib idˋ ho ban ia iuˊ ti tungˊ, nˇ deuˊ gamˋ gogˋ doˋ moˇ?"}
+  - n: 20
+    speaker: Sam
+    en: "I did. The bed swayed a bit. I crouched under the table straight away."
+    sx: {hanzi: "感覺著吔。眠床搖一下仔，𠊎黏時跍在桌仔下。", pinyin: "gamˋ gogˋ doˋ leˊ. minˇ congˇ ieuˇ idˋ ha eˋ, ngaiˇ ngiamˇ siiˇ guˊ coiˊ zogˋ eˋ haˊ."}
+  - n: 21
+    speaker: 阿英
+    en: "Well done. Prevention matters most."
+    sx: {hanzi: "當好。預防盡重要。", pinyin: "dongˊ hoˋ. i fongˇ qin cung ieu."}
+  - n: 22
+    speaker: 阿明
+    en: "And the cat? Did it crouch under the table too?"
+    sx: {hanzi: "貓仔呢？佢乜跍在桌仔下無？", pinyin: "meu eˋ neˇ? giˇ me guˊ coiˊ zogˋ eˋ haˊ moˇ?"}
+  - n: 23
+    speaker: Sam
+    en: "No. It slept on the sofa, quiet as anything: not a cock crowing, not a dog barking."
+    sx: {hanzi: "無。佢在膨凳項睡，恬恬：雞無啼狗無吠。", pinyin: "moˇ. giˇ coiˊ pong den hong soi, diamˊ diamˊ: gieˊ moˇ taiˇ gieuˋ moˇ poi."}
+  - n: 24
+    speaker: 阿公
+    en: "Cats are like immortals: nothing frightens them."
+    sx: {hanzi: "貓仔就像神仙樣，麼个都毋驚。", pinyin: "meu eˋ qiu qiong siinˇ xienˊ iong, maˋ ge du mˇ giangˊ."}
+  - n: 25
+    speaker: 阿婆
+    en: "Right, enough talk: eat! Chew slowly, don't swallow it whole."
+    sx: {hanzi: "好吔，莫講吔，食飯！慢慢仔噍，莫吞恁遽。", pinyin: "hoˋ leˊ, mog gongˋ leˊ, siid fan! man man eˋ ceu, mog tunˊ anˋ giagˋ."}
+
+notes:
+  - ref: 2
+    topic: vocab
+    text: >
+      進修 16's saying, now about 添伯's speed.
+  - ref: 3
+    topic: vocab
+    text: >
+      時行 and 電毛店, 電毛 (進修 16).
+  - ref: 6
+    topic: vocab
+    text: >
+      好恬恬, 烏忒 (進修 17).
+  - ref: 7
+    topic: false-friend
+    text: >
+      話著 "thought (wrongly)" (進修 10); 發狂 "have nightmares", not "go mad" (進修 17).
+  - ref: 9
+    topic: vocab
+    text: >
+      精 (進修 2); the saying 鴨仔吞紅䘆 is 進修 15's.
+  - ref: 10
+    topic: vocab
+    text: >
+      燜, 烰 and 暖 are 進修 15's cooking verbs.
+  - ref: 12
+    topic: vocab
+    text: >
+      扛茶 (進修 20); 兜 "hold in both hands" as in 進修 20, line 13 (lesson 10 taught 兜 as the plural suffix).
+  - ref: 15
+    topic: false-friend
+    text: >
+      會做得 "not bad" (checklist; 進修 20).
+  - ref: 17
+    topic: vocab
+    text: >
+      九九重陽, 老貨仔, 敬老 (進修 19).
+  - ref: 20
+    topic: vocab
+    text: >
+      地動, 搖, 跍, 預防 (進修 18); 盡重要 "most important" (盡 "most" here; checklist). 感覺著 "felt it": V著 (doˋ) "manage to".
+  - ref: 23
+    topic: vocab
+    text: >
+      進修 17's saying, turned to a sleeping cat.
+
+new_words: []
+
+exercises:
+  translate:
+    - en: "You've had your hair cut: so handsome!"
+      sx: {hanzi: "你剃頭吔，恁緣投！", pinyin: "nˇ ti teuˇ leˊ, anˋ ienˇ dauˇ!"}
+    - en: "Perms are in fashion now."
+      sx: {hanzi: "這下時行電毛。", pinyin: "iaˋ ha siiˇ hangˇ tien moˊ."}
+    - en: "The lights went out, out of the blue."
+      sx: {hanzi: "電火好恬恬就烏忒吔。", pinyin: "tien foˋ hoˋ diamˊ diamˊ qiu vuˊ tedˋ leˊ."}
+    - en: "Did you feel the earthquake?"
+      sx: {hanzi: "地動你感覺著無？", pinyin: "ti tungˊ nˇ gamˋ gogˋ doˋ moˇ?"}
+    - en: "Chew slowly."
+      sx: {hanzi: "慢慢仔噍。", pinyin: "man man eˋ ceu."}
+  fill:
+    - en: "His hands shook."
+      sx: {hanzi: "佢个手會___。", pinyin: "giˇ ge suˋ voi ___.", answer_hanzi: "顫", answer: "zunˊ"}
+    - en: "The ring fell on the floor."
+      sx: {hanzi: "___跌落地泥。", pinyin: "___ diedˋ log ti naiˇ.", answer_hanzi: "禁指", answer: "gim ziiˋ"}
+    - en: "He thought it was a ghost."
+      sx: {hanzi: "佢___係鬼。", pinyin: "giˇ ___ he guiˋ.", answer_hanzi: "話著", answer: "va doˋ"}
+    - en: "I crouched under the table."
+      sx: {hanzi: "𠊎___在桌仔下。", pinyin: "ngaiˇ ___ coiˊ zogˋ eˋ haˊ.", answer_hanzi: "跍", answer: "guˊ"}
+    - en: "Prevention matters most."
+      sx: {hanzi: "___盡重要。", pinyin: "___ qin cung ieu.", answer_hanzi: "預防", answer: "i fongˇ"}
+
+audio: []

@@ -1,0 +1,282 @@
+id: 1
+genre: dialogue
+title:
+  en: "Long time no see"
+  sx: {hanzi: "恁久無看著", pinyin: "anˋ giuˋ moˇ kon doˋ"}
+review: false
+setting: >-
+  Saturday 15 July 2028, mid-afternoon. Sam lands at 桃園 airport for a year in 苗栗: he has a place at 聯合大學 to
+  study Hakka, and wants to sit the Hakka certification at the end of it. A-in, who has just bought a car, and A-min
+  (fifteen, on his summer holidays) have come to fetch him. From line 9 on they are on the road to Miaoli.
+names: [Sam, 阿英, 阿明, 阿婆, 苗栗, 聯合大學, 客語認證, 法國, 巴黎, 桃園]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "(waving in the arrivals hall) Sam! Over here! Over here!"
+    sx: {hanzi: "Sam！這位！這位！", pinyin: "Sam! iaˋ vi! iaˋ vi!"}
+  - n: 2
+    speaker: Sam
+    en: "A-min! A-in! Long time no see! What are you doing at the airport?"
+    sx: {hanzi: "阿明！阿英！恁久無看著！你兜仰會在飛機場？", pinyin: "aˊ minˇ! aˊ inˊ! anˋ giuˋ moˇ kon doˋ! nˇ deuˊ ngiongˋ voi coiˊ fiˊ giˊ congˇ?"}
+  - n: 3
+    speaker: 阿英
+    en: "Fetching you, of course. At first I was going to tell you to take the MRT and then the train on your own; but A-min said that wouldn't do."
+    sx: {hanzi: "來接你啊。本來想喊你自家坐捷運，續等坐火車；毋過阿明講毋做得。", pinyin: "loiˇ jiabˋ nˇ a. bunˋ loiˇ xiongˋ ham nˇ cii gaˊ coˊ qiab iun, sa denˋ coˊ foˋ caˊ; mˇ go aˊ minˇ gongˋ mˇ zo dedˋ."}
+  - n: 4
+    speaker: 阿明
+    en: "My sister bought a car the day before yesterday!"
+    sx: {hanzi: "阿姊前日正買一臺車仔！", pinyin: "aˊ jiˋ qienˇ ngidˋ zang maiˊ idˋ toiˇ caˊ eˋ!"}
+  - n: 5
+    speaker: Sam
+    en: "You can drive? When did you learn?"
+    sx: {hanzi: "你會駛車仔？哪央時學个？", pinyin: "nˇ voi siiˋ caˊ eˋ? nai iongˊ siiˇ hog ge?"}
+  - n: 6
+    speaker: 阿英
+    en: "I've been learning for two months. Don't worry, I drive very carefully."
+    sx: {hanzi: "學兩隻月吔。毋怕，𠊎駛到當細義。", pinyin: "hog liongˋ zagˋ ngied leˊ. mˇ pa, ngaiˇ siiˋ do dongˊ se ngi."}
+  - n: 7
+    speaker: 阿明
+    en: "(quietly) Sit tight. Last time she braked straight away and my fizzy drink went flying."
+    sx: {hanzi: "你愛坐好來。上擺佢黏時踏擋仔，害𠊎个汽水跌忒。", pinyin: "nˇ oi coˊ hoˋ loiˇ. song baiˋ giˇ ngiamˇ siiˇ tab dongˋ eˇ, hoi ngaiˇ ge hi suiˋ diedˋ tedˋ."}
+  - n: 8
+    speaker: 阿英
+    en: "A-min! Stop talking nonsense!"
+    sx: {hanzi: "阿明！莫亂講！", pinyin: "aˊ minˇ! mog lon gongˋ!"}
+  - n: 9
+    speaker: 阿英
+    en: "(on the road) Sam, how long was the flight?"
+    sx: {hanzi: "Sam，坐飛行機坐幾久？", pinyin: "Sam, coˊ biˊ hangˇ giˊ coˊ gidˋ giuˋ?"}
+  - n: 10
+    speaker: Sam
+    en: "Fourteen hours. I slept on the plane and dreamt I was back in Miaoli."
+    sx: {hanzi: "十四點鐘久。在飛行機項睡一覺目，發夢轉來苗栗吔。", pinyin: "siib xi diamˋ zungˊ giuˋ. coiˊ biˊ hangˇ giˊ hong soi idˋ gau mugˋ, bodˋ mung zonˋ loiˇ meuˇ lid leˊ."}
+  - n: 11
+    speaker: 阿明
+    en: "How long are you staying this time?"
+    sx: {hanzi: "這擺你愛歇幾久？", pinyin: "iaˋ baiˋ nˇ oi hed gidˋ giuˋ?"}
+  - n: 12
+    speaker: Sam
+    en: "A year. I'm doing Hakka studies at 聯合大學, and after that I want to sit the Hakka certification."
+    sx: {hanzi: "一年。𠊎在聯合大學讀客家研究，續等愛考客語認證。", pinyin: "idˋ ngienˇ. ngaiˇ coiˊ lienˇ hab tai hog tug hagˋ gaˊ ngienˇ giu, sa denˋ oi kauˋ hagˋ ngiˊ ngin ziin."}
+  - n: 13
+    speaker: 阿英
+    en: "Have you found somewhere to live?"
+    sx: {hanzi: "歇个所在尋著吂？", pinyin: "hed ge soˋ cai qimˇ doˋ mangˇ?"}
+  - n: 14
+    speaker: Sam
+    en: "I have, next to the university: a tiny room. The address is here. Do you know that lane?"
+    sx: {hanzi: "尋著吔，在學校脣，一間細細仔个房間。住址在這，該條巷仔你知無？", pinyin: "qimˇ doˋ leˊ, coiˊ hog gauˋ sunˇ, idˋ gienˊ se se eˋ ge fongˇ gienˊ. cu ziiˋ coiˊ iaˋ, ge tiauˇ hong eˋ nˇ diˊ moˇ?"}
+  - n: 15
+    speaker: 阿英
+    en: "I do. Tonight you'll stay at our place first; the day after tomorrow we'll drive you over."
+    sx: {hanzi: "𠊎知。今暗晡先歇𠊎兜屋下，後日𠊎兜載你過去。", pinyin: "ngaiˇ diˊ. gimˊ am buˊ xienˊ hiedˋ ngaiˇ deuˊ vugˋ kaˊ, heuˊ ngidˋ ngaiˇ deuˊ zai nˇ go hi."}
+  - n: 16
+    speaker: 阿明
+    en: "I'm on holiday! School doesn't start till September; I've got two whole months of fun."
+    sx: {hanzi: "𠊎避暑吔！九月正開學，這兩隻月歸日尞。", pinyin: "ngaiˇ pidˋ cuˋ leˊ! giuˋ ngied zang koiˊ hog, iaˋ liongˋ zagˋ ngied guiˊ ngidˋ liau."}
+  - n: 17
+    speaker: Sam
+    en: "A-in, you went travelling in France: what did you make of it?"
+    sx: {hanzi: "阿英，你去法國旅行，有麼个心得？", pinyin: "aˊ inˊ, nˇ hi fabˋ guedˋ liˊ hangˇ, iuˊ maˋ ge ximˊ dedˋ?"}
+  - n: 18
+    speaker: 阿英
+    en: "My first time abroad: everything was fun. Especially the Paris metro; I kept losing my way."
+    sx: {hanzi: "頭一擺去國外，麼个都生趣。尤其係巴黎个捷運，𠊎輒輒尋無方向。", pinyin: "teuˇ idˋ baiˋ hi guedˋ ngoi, maˋ ge du senˊ qi. iuˇ kiˇ he baˊ liˇ ge qiab iun, ngaiˇ jiab jiab qimˇ moˇ fongˊ hiong."}
+  - n: 19
+    speaker: 阿明
+    en: "Ever since she got back she's been on about Paris all the time, all day long."
+    sx: {hanzi: "阿姊轉來過後，長間講巴黎，歸日都在講。", pinyin: "aˊ jiˋ zonˋ loiˇ go heu, congˇ gienˊ gongˋ baˊ liˇ, guiˊ ngidˋ du coiˊ gongˋ."}
+  - n: 20
+    speaker: 阿英
+    en: "I am not! I just keep thinking back to those memories, that's all."
+    sx: {hanzi: "哪有！𠊎就係輒輒想著該兜回憶。", pinyin: "nai iuˊ! ngaiˇ qiu he jiab jiab xiongˋ doˋ ge deuˊ fiˇ i."}
+    check: true
+  - n: 21
+    speaker: Sam
+    en: "You spent so much money: was it worth it?"
+    sx: {hanzi: "錢花忒恁多，值得無？", pinyin: "qienˇ faˊ tedˋ anˋ doˊ, dad dedˋ moˇ?"}
+  - n: 22
+    speaker: 阿英
+    en: "Very much so!"
+    sx: {hanzi: "當值得！", pinyin: "dongˊ dad dedˋ!"}
+  - n: 23
+    speaker: 阿明
+    en: "Sis, how long until we get there, anyway? I'm hungry."
+    sx: {hanzi: "阿姊，到底愛幾久正到？𠊎肚飢吔。", pinyin: "aˊ jiˋ, do daiˋ oi gidˋ giuˋ zang do? ngaiˇ duˋ giˊ leˊ."}
+  - n: 24
+    speaker: 阿英
+    en: "Half an hour. Grandma's been worrying all morning that Sam would be hungry."
+    sx: {hanzi: "半點鐘。阿婆歸朝晨都在愁，驚Sam肚飢。", pinyin: "ban diamˋ zungˊ. aˊ poˇ guiˊ zeuˊ siinˇ du coiˊ seuˇ, giangˊ Sam duˋ giˊ."}
+  - n: 25
+    speaker: 阿明
+    en: "Sam, have a guess: what's Grandma cooking?"
+    sx: {hanzi: "Sam，你揣看啊，阿婆煮麼个？", pinyin: "Sam, nˇ tonˇ kon a, aˊ poˇ zuˋ maˋ ge?"}
+  - n: 26
+    speaker: Sam
+    en: "I'd guess… pork intestine fried with ginger?"
+    sx: {hanzi: "𠊎揣……薑絲炒大腸？", pinyin: "ngaiˇ tonˇ … giongˊ xiˊ cauˋ tai congˇ?"}
+  - n: 27
+    speaker: 阿英
+    en: "Grandma says: whenever Sam arrives, that's when we eat."
+    sx: {hanzi: "阿婆講：Sam哪央時到，就哪央時食飯。", pinyin: "aˊ poˇ gongˋ: Sam nai iongˊ siiˇ do, qiu nai iongˊ siiˇ siid fan."}
+  - n: 28
+    speaker: Sam
+    en: "I'm really putting you all out. Coming back this time is like going home."
+    sx: {hanzi: "實在麻煩你兜。這擺轉來，就像轉家鄉樣。", pinyin: "siid cai maˇ fanˇ nˇ deuˊ. iaˋ baiˋ zonˋ loiˇ, qiu qiong zonˋ gaˊ hiongˊ iong."}
+  - n: 29
+    speaker: 阿英
+    en: "It is your home, it always was."
+    sx: {hanzi: "本來就係你个家鄉啊。", pinyin: "bunˋ loiˇ qiu he nˇ ge gaˊ hiongˊ a."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      進修 (Part 2) is written in Sixian only; the Hailu forms of the new words are on their cards. The lessons are
+      longer, the genres vary, and each one teaches about forty words. Many words from Part 1's exercises come back
+      in the texts on purpose (汽水, 開學, 家鄉, 回憶, 值得 here).
+  - ref: 2
+    topic: vocab
+    text: >
+      恁久無看著 "long time no see" (lesson 22) is the set greeting for a reunion; it is also this lesson's title. 飛機場 fiˊ giˊ congˇ "airport", the Hakka for 機場 (臺灣最大个飛機場在桃園 "Taiwan's largest airport is in
+      Taoyuan").
+  - ref: 3
+    topic: grammar
+    text: >
+      本來 bunˋ loiˇ "at first, originally": the plan that was dropped (本來講毋去，落尾又走去 "he said he wouldn't
+      go, then off he went"). 續等 sa denˋ "next, then", for the following step; note the reading sa. 喊 ham + person
+      + verb "tell someone to" (checklist).
+  - ref: 5
+    topic: vocab
+    text: >
+      駛 siiˋ "drive": 駛車仔 "drive a car" (佢請司機駛車仔載佢去飯店). Older sentences use it for oxen: 頭擺人駛牛來犁田.
+      哪央時 nai iongˊ siiˇ "when" (also 哪久, taught in Part 1).
+  - ref: 6
+    topic: false-friend
+    text: >
+      毋怕 mˇ pa is "never mind, it's fine", not "I'm not afraid" (你做你食，毋怕 "go ahead and eat, it's fine").
+  - ref: 7
+    topic: vocab
+    text: >
+      擋仔 dongˋ eˇ "the brake" (a noun); 踏擋仔 "brake, step on the brake". 黏時 ngiamˇ siiˇ "at once, immediately" (the lists: 馬上、隨即、立刻; not "suddenly").
+      害 hoi + person + result "make someone…, cause": 害𠊎个汽水跌忒 "so that I lost my drink". 上擺 song baiˋ "last
+      time" (上擺有講過，仰又毋記得？ "I told you last time; how come you've forgotten?").
+  - ref: 10
+    topic: vocab
+    text: >
+      幾久 gidˋ giuˋ "how long". 飛行機 biˊ hangˇ giˊ "plane" (lesson 30; 飛 biˊ, lesson 34). 發夢 bodˋ mung "dream" (發 read bodˋ, as in 發病仔). 睡一覺目 "have a sleep": V 一 CL
+      N for one short, casual action (grammar inventory §10).
+  - ref: 13
+    topic: vocab
+    text: >
+      歇 hed "live" (lesson 22) is the spoken word: 歇个所在 "where you'll live" (歇在 has 22 official sentences).
+      住 cu is the written one, kept in compounds such as 住址 "address" (line 14).
+  - ref: 16
+    topic: false-friend
+    text: >
+      避暑 pidˋ cuˋ is "be on summer holidays" (學生仔七月開始避暑), not Mandarin "escape the heat at a resort".
+  - ref: 17
+    topic: vocab
+    text: >
+      心得 ximˊ dedˋ "what you got out of it, impressions" belongs to reports (研習過後愛交心得 "after the training, hand
+      in your impressions"); Sam uses it as a joke, like a teacher.
+  - ref: 18
+    topic: vocab
+    text: >
+      輒輒 jiab jiab "again and again" (lesson 62). 尋無方向 "lose one's bearings" is the official example's phrase
+      (恁久無來，一下仔尋無方向). 生趣 senˊ qi "fun, amusing" (相聲當生趣).
+  - ref: 19
+    topic: vocab
+    text: >
+      長間 congˇ gienˊ "always, all the time" (佢長間毋食朝 "he often skips breakfast"). 輒輒 (line 18) is another
+      "often"; both are glossed 經常 / 常 in the lists.
+  - ref: 20
+    topic: grammar
+    text: >
+      哪有！ nai iuˊ "not at all, no way": 哪有 is attested as a rhetorical "how could…" (哪有可能落雪？ "how could it
+      snow?"); standing alone as a retort it is our use, marked for a native speaker.
+  - ref: 23
+    topic: vocab
+    text: >
+      到底 do daiˋ "(…) anyway, after all" in an impatient question (到底愛仰仔做正好呢？ "so what on earth should we do?").
+  - ref: 25
+    topic: vocab
+    text: >
+      揣 tonˇ "guess" (先生做令仔分學生仔揣 "the teacher set riddles for the pupils to guess"), the same sense as Mandarin 揣測.
+  - ref: 28
+    topic: grammar
+    text: >
+      就像 qiu qiong … 樣 "just like…" (愛喊佢捐錢，就像愛摎佢挷毛樣 "getting him to donate is like pulling his hair
+      out"). 麻煩 maˇ fanˇ + person "trouble someone, put someone out".
+
+new_words:
+  - {hanzi: 飛機場, pinyin: "fiˊ giˊ congˇ", en: "airport"}
+  - {hanzi: 本來, pinyin: "bunˋ loiˇ", en: "originally, at first"}
+  - {hanzi: 捷運, pinyin: "qiab iun", en: "MRT, metro"}
+  - {hanzi: 續等, pinyin: "sa denˋ", en: "next, then"}
+  - {hanzi: 前日, pinyin: "qienˇ ngidˋ", en: "the day before yesterday"}
+  - {hanzi: 駛, pinyin: "siiˋ", en: "drive"}
+  - {hanzi: 哪央時, pinyin: "nai iongˊ siiˇ", en: "when"}
+  - {hanzi: 毋怕, pinyin: "mˇ pa", en: "never mind, it's all right"}
+  - {hanzi: 上擺, pinyin: "song baiˋ", en: "last time"}
+  - {hanzi: 黏時, pinyin: "ngiamˇ siiˇ", en: "at once, immediately"}
+  - {hanzi: 擋仔, pinyin: "dongˋ eˇ", en: "brake"}
+  - {hanzi: 踏, pinyin: "tab", en: "step on, tread"}
+  - {hanzi: 害, pinyin: "hoi", en: "harm; cause (something bad)"}
+  - {hanzi: 幾久, pinyin: "gidˋ giuˋ", en: "how long"}
+  - {hanzi: 一覺目, pinyin: "idˋ gau mugˋ", en: "(sleep) a sleep, a nap"}
+  - {hanzi: 發夢, pinyin: "bodˋ mung", en: "dream"}
+  - {hanzi: 考, pinyin: "kauˋ", en: "sit (an exam), take a test"}
+  - {hanzi: 研究, pinyin: "ngienˇ giu", en: "research, study"}
+  - {hanzi: 房間, pinyin: "fongˇ gienˊ", en: "room"}
+  - {hanzi: 住址, pinyin: "cu ziiˋ", en: "address"}
+  - {hanzi: 巷仔, pinyin: "hong eˋ", en: "lane, alley"}
+  - {hanzi: 後日, pinyin: "heuˊ ngidˋ", en: "the day after tomorrow"}
+  - {hanzi: 避暑, pinyin: "pidˋ cuˋ", en: "be on summer holiday"}
+  - {hanzi: 旅行, pinyin: "liˊ hangˇ", en: "travel, trip"}
+  - {hanzi: 心得, pinyin: "ximˊ dedˋ", en: "what one has learnt, impressions"}
+  - {hanzi: 國外, pinyin: "guedˋ ngoi", en: "abroad"}
+  - {hanzi: 生趣, pinyin: "senˊ qi", en: "fun, amusing"}
+  - {hanzi: 尤其, pinyin: "iuˇ kiˇ", en: "especially"}
+  - {hanzi: 方向, pinyin: "fongˊ hiong", en: "direction, bearings"}
+  - {hanzi: 長間, pinyin: "congˇ gienˊ", en: "often, all the time"}
+  - {hanzi: 到底, pinyin: "do daiˋ", en: "after all, (…) anyway"}
+  - {hanzi: 愁, pinyin: "seuˇ", en: "worry"}
+  - {hanzi: 揣, pinyin: "tonˇ", en: "guess"}
+  - {hanzi: 薑絲, pinyin: "giongˊ xiˊ", en: "shredded ginger"}
+  - {hanzi: 大腸, pinyin: "tai congˇ", en: "large intestine (pork, as food)"}
+  - {hanzi: 麻煩, pinyin: "maˇ fanˇ", en: "trouble (someone); troublesome"}
+  - {hanzi: 就像, pinyin: "qiu qiong", en: "just like; for example"}
+  - {hanzi: 樣, pinyin: "iong", en: "(…) like, as (…樣); kind, way"}
+
+exercises:
+  translate:
+    - en: "Taiwan's biggest airport is in Taoyuan."
+      source: kaga115
+      sx: {hanzi: "臺灣最大个飛機場在桃園。", pinyin: "toiˇ vanˊ zui tai ge fiˊ giˊ congˇ cai toˇ ienˇ."}
+    - en: "I told you last time; how come you've forgotten again?"
+      source: kaga115
+      sx: {hanzi: "上擺有講過，仰又毋記得？", pinyin: "song baiˋ iuˊ gongˋ go, ngiongˋ iu mˇ gi dedˋ?"}
+    - en: "What's worrying you so much?"
+      source: kaga115
+      sx: {hanzi: "麼个事情分你恁愁？", pinyin: "maˋ ge sii qinˇ bunˊ nˇ anˋ seuˇ?"}
+    - en: "He often skips breakfast, so he has no energy at work."
+      source: kaga115
+      sx: {hanzi: "佢長間毋食朝，故所上班無精神。", pinyin: "giˇ congˇ gienˊ mˇ siid zeuˊ, gu soˋ song banˊ moˇ jinˊ siinˇ."}
+    - en: "Remember to be on time the day after tomorrow."
+      source: kaga115
+      sx: {hanzi: "後日記得愛準時。", pinyin: "heuˊ ngidˋ gi dedˋ oi zunˋ siiˇ."}
+  fill:
+    - en: "My sister bought a car the day before yesterday."
+      sx: {hanzi: "阿姊___正買一臺車仔。", pinyin: "aˊ jiˋ ___ zang maiˊ idˋ toiˇ caˊ eˋ.", answer_hanzi: "前日", answer: "qienˇ ngidˋ"}
+    - en: "When did you learn to drive?"
+      sx: {hanzi: "你___學駛車仔个？", pinyin: "nˇ ___ hog siiˋ caˊ eˋ ge?", answer_hanzi: "哪央時", answer: "nai iongˊ siiˇ"}
+    - en: "How long was the flight?"
+      sx: {hanzi: "坐飛行機坐___？", pinyin: "coˊ biˊ hangˇ giˊ coˊ ___?", answer_hanzi: "幾久", answer: "gidˋ giuˋ"}
+    - en: "Have a guess: what's Grandma cooking?"
+      sx: {hanzi: "你___看啊，阿婆煮麼个？", pinyin: "nˇ ___ kon a, aˊ poˇ zuˋ maˋ ge?", answer_hanzi: "揣", answer: "tonˇ"}
+    - en: "Long time no see!"
+      sx: {hanzi: "___！", pinyin: "___!", answer_hanzi: "恁久無看著", answer: "anˋ giuˋ moˇ kon doˋ"}
+
+audio: []

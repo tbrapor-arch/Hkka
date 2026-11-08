@@ -1,0 +1,250 @@
+id: 11
+genre: song
+title:
+  en: The swallow comes home to its nest
+  sx: {hanzi: 燕仔轉竇, pinyin: ien eˋ zonˋ deu}
+review: false
+setting: Saturday 16 September 2028, evening, in the Lius' courtyard. When Sam interviewed Grandpa on Monday he asked whether
+  he still sang mountain songs (山歌). Grandpa has made one up for him. Lines 10–21 are the song; the words are the course's
+  own, not a traditional song.
+names: [Sam, 阿公, 阿婆, 阿英, 苗栗, 法國]
+dialogue:
+- n: 1
+  speaker: 阿公
+  en: 'Sam, when you interviewed me you asked: ''Grandpa, do you still sing mountain songs?'''
+  sx: {hanzi: Sam，你訪問𠊎个時節問：「阿公還會唱山歌無？」, pinyin: 'Sam, nˇ fongˋ mun ngaiˇ ge siiˇ jiedˋ mun: aˊ gungˊ hanˇ voi cong sanˊ
+      goˊ moˇ?'}
+- n: 2
+  speaker: 阿公
+  en: I've made up a new one for you.
+  sx: {hanzi: 𠊎做一條新个山歌分你。, pinyin: ngaiˇ zo idˋ tiauˇ xinˊ ge sanˊ goˊ bunˊ nˇ.}
+- n: 3
+  speaker: Sam
+  en: What's it about?
+  sx: {hanzi: 係唱麼个个？, pinyin: 'he cong maˋ ge ge?'}
+- n: 4
+  speaker: 阿公
+  en: About swallows. Swallows build their nests under the eaves; in winter they fly south, and in spring they come back
+    to the nest.
+  sx: {hanzi: 唱燕仔。燕仔在屋簷下做竇，寒天飛去南片，春天又轉竇。, pinyin: 'cong ien eˋ. ien eˋ coiˊ vugˋ iamˇ haˊ zo deu, honˇ tienˊ biˊ hi namˇ
+      pienˋ, cunˊ tienˊ iu zonˋ deu.'}
+- n: 5
+  speaker: 阿婆
+  en: In the old days, at rice-planting time, the swallows would be flying all over the fields.
+  sx: {hanzi: 頭擺蒔田个時節，燕仔就在田項飛來飛去。, pinyin: 'teuˇ baiˋ sii tienˇ ge siiˇ jiedˋ, ien eˋ qiu coiˊ tienˇ hong biˊ loiˇ biˊ hi.'}
+- n: 6
+  speaker: 阿公
+  en: 'I thought the words up in the tea garden: seeing the seedlings sprout, and the sparrows pecking grain on the grass.'
+  sx: {hanzi: 這條歌，係𠊎在茶園愐出來个：看著秧仔必目，看著屋簷鳥在草坪項食穀。, pinyin: 'iaˋ tiauˇ goˊ, he ngaiˇ coiˊ caˇ ienˇ menˋ cudˋ loiˇ ge: kon doˋ
+      iongˊ eˋ bidˋ mugˋ, kon doˋ vugˋ iamˇ diauˊ coiˊ coˋ piangˇ hong siid gugˋ.'}
+  check: true
+- n: 7
+  speaker: 阿婆
+  en: In the old days Grandpa sang me one song, and that was me won over.
+  sx: {hanzi: 阿公頭擺唱一條山歌，就同𠊎餳走吔。, pinyin: 'aˊ gungˊ teuˇ baiˋ cong idˋ tiauˇ sanˊ goˊ, qiu tungˇ ngaiˇ xiangˇ zeuˋ leˊ.'}
+  check: true
+- n: 8
+  speaker: Sam
+  en: So that's how it was!
+  sx: {hanzi: 原來係恁樣！, pinyin: ngienˇ loiˇ he anˋ ngiongˇ!}
+- n: 9
+  speaker: 阿公
+  en: Stop it. Listen carefully. (He sings.)
+  sx: {hanzi: 莫講吔。聽好來。, pinyin: mog gongˋ leˊ. tangˊ hoˋ loiˇ.}
+- n: 10
+  speaker: 阿公
+  en: Last year the swallow flew away,
+  sx: {hanzi: 燕仔舊年飛去走，, pinyin: 'ien eˋ kiu ngienˇ biˊ hi zeuˋ,'}
+  check: true
+- n: 11
+  speaker: 阿公
+  en: this year it's back beneath the eaves;
+  sx: {hanzi: 今年又轉屋簷頭；, pinyin: gimˊ ngienˇ iu zonˋ vugˋ iamˇ teuˇ;}
+  check: true
+- n: 12
+  speaker: 阿公
+  en: the old nest under the eaves is still there,
+  sx: {hanzi: 屋簷舊竇還在該，, pinyin: 'vugˋ iamˇ kiu deu hanˇ coiˊ ge,'}
+  check: true
+- n: 13
+  speaker: 阿公
+  en: the swallow comes home with nothing to fear.
+  sx: {hanzi: 燕仔轉竇毋使愁。, pinyin: ien eˋ zonˋ deu mˇ siiˋ seuˇ.}
+  check: true
+- n: 14
+  speaker: 阿公
+  en: The autumn wind brings the scent of osmanthus,
+  sx: {hanzi: 秋風吹來桂花香，, pinyin: 'qiuˊ fungˊ coiˊ loiˇ gui faˊ hiongˊ,'}
+  check: true
+- n: 15
+  speaker: 阿公
+  en: in the fields the young rice puts out long shoots;
+  sx: {hanzi: 田項秧仔綻筍長；, pinyin: tienˇ hong iongˊ eˋ can sunˋ congˇ;}
+  check: true
+- n: 16
+  speaker: 阿公
+  en: on the grass, the sparrows;
+  sx: {hanzi: 草坪頂高屋簷鳥，, pinyin: 'coˋ piangˇ dangˋ goˊ vugˋ iamˇ diauˊ,'}
+  check: true
+- n: 17
+  speaker: 阿公
+  en: the cock crows once, and the day is light.
+  sx: {hanzi: 雞公一啼天就光。, pinyin: gieˊ gungˊ idˋ taiˇ tienˊ qiu gongˊ.}
+  check: true
+- n: 18
+  speaker: 阿公
+  en: A tree has its roots, and water its spring;
+  sx: {hanzi: 樹有根來水有源，, pinyin: 'su iuˊ ginˊ loiˇ suiˋ iuˊ ngienˇ,'}
+  check: true
+- n: 19
+  speaker: 阿公
+  en: the swallow comes home year after year;
+  sx: {hanzi: 燕仔轉竇年過年；, pinyin: ien eˋ zonˋ deu ngienˇ go ngienˇ;}
+  check: true
+- n: 20
+  speaker: 阿公
+  en: the young man flew across a thousand leagues of sea,
+  sx: {hanzi: 阿哥飛過千里海，, pinyin: 'aˊ goˊ biˊ go qienˊ liˊ hoiˋ,'}
+  check: true
+- n: 21
+  speaker: 阿公
+  en: and flying home to Miaoli, it's not so far.
+  sx: {hanzi: 飛到苗栗無恁遠。, pinyin: biˊ do meuˇ lid moˇ anˋ ienˋ.}
+  check: true
+- n: 22
+  speaker: Sam
+  en: Grandpa, is 'the swallow' me?
+  sx: {hanzi: 阿公，「燕仔」係講𠊎無？, pinyin: 'aˊ gungˊ, ien eˋ he gongˋ ngaiˇ moˇ?'}
+- n: 23
+  speaker: 阿公
+  en: Think it over yourself.
+  sx: {hanzi: 你自家愐看啊。, pinyin: nˇ cii gaˊ menˋ kon a.}
+- n: 24
+  speaker: 阿婆
+  en: 'Swallows come home to the nest, and so do people. That''s life: you go away, and you come back.'
+  sx: {hanzi: 燕仔會轉竇，人乜係。生命就係恁樣，有去有轉。, pinyin: 'ien eˋ voi zonˋ deu, nginˇ me he. senˊ miang qiu he anˋ ngiongˇ, iuˊ hi iuˊ
+      zonˋ.'}
+  check: true
+- n: 25
+  speaker: Sam
+  en: 'In France it freezes in winter: there''s frost, and even the lakes ice over.'
+  sx: {hanzi: 法國寒天會結霜，連湖肚个水都會結冰。, pinyin: 'fabˋ guedˋ honˇ tienˊ voi giedˋ songˊ, lienˇ fuˇ duˋ ge suiˋ du voi giedˋ benˊ.'}
+- n: 26
+  speaker: 阿公
+  en: Then the swallows are right to come to Taiwan.
+  sx: {hanzi: 故所燕仔愛來臺灣。, pinyin: gu soˋ ien eˋ oi loiˇ toiˇ vanˇ.}
+- n: 27
+  speaker: Sam
+  en: Grandpa, teach me. Once I've learnt it, I'll sing it for A-in.
+  sx: {hanzi: 阿公，你教𠊎。學會吔，𠊎正唱分阿英聽。, pinyin: 'aˊ gungˊ, nˇ gauˊ ngaiˇ. hog voi leˊ, ngaiˇ zang cong bunˊ aˊ inˊ tangˊ.'}
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A song. A mountain song (山歌) verse usually has four lines of seven syllables, with lines 1, 2 and 4 rhyming (general knowledge). Here the rhymes are on
+    the finals: 走 zeuˋ / 頭 teuˇ / 愁 seuˇ; 香 hiongˊ / 長 congˇ / 光 gongˊ; 源 ngienˇ / 年 ngienˇ / 遠 ienˋ. The words are the
+    course's own and every sung line is marked for a native speaker. The title comes from the official sentence 臨暗仔，月鴿仔會轉竇
+    "at dusk the pigeons go home to roost".
+- ref: 4
+  topic: vocab
+  text: >
+    燕仔 ien eˋ "swallow" (燕仔在屋簷下做竇 "swallows nest under the eaves", an official sentence). 竇 deu "nest, den"; 做竇 "build a
+    nest"; 轉竇 zonˋ deu "go home to the nest". 南片 namˇ pienˋ "the south". 屋簷 "eaves" (lesson 54). Swallows come back in spring: 逐年三、四月仔，吾屋簷下就會有燕仔來做竇 (kaga; translation exercise 4).
+- ref: 5
+  topic: vocab
+  text: >
+    蒔田 sii tienˇ "plant out the rice seedlings" (蒔田个人大部分都係赤腳嫲踏 "most people planting rice go barefoot"). 飛來飛去 "flying to
+    and fro".
+- ref: 6
+  topic: vocab
+  text: >
+    秧仔 iongˊ eˋ "seedlings" (耕種人愛自家委秧仔), 必目 bidˋ mugˋ "sprout, bud" (薑必目，好種竹 "when the ginger sprouts, it's time to plant
+    bamboo"), 屋簷鳥 vugˋ iamˇ diauˊ "sparrow", 草坪 coˋ piangˇ "lawn, grass". 愐出來 "think up" (愐, 進修 10).
+- ref: 7
+  topic: vocab
+  text: >
+    餳 xiangˇ "attract, lure" (桂花个香味當餳人 "the scent of osmanthus is very alluring"). 餳走 "won over" is our phrase; marked for
+    review. 同 + person + verb here = Mandarin 把 (grammar inventory §6).
+- ref: 8
+  topic: vocab
+  text: >
+    原來 "so that's it" (lesson 93), when you discover how things really are.
+- ref: 13
+  topic: grammar
+  text: >
+    毋使 + verb "no need to" (lesson 11): 毋使愁 "nothing to worry about".
+- ref: 14
+  topic: vocab
+  text: >
+    桂花 gui faˊ "osmanthus". 秋 qiuˊ "autumn"; 秋風 "autumn wind" appears in an old mountain-song line quoted in the lists (七月秋風漸漸涼).
+- ref: 15
+  topic: vocab
+  text: >
+    綻筍 can sunˋ "put out new shoots" (阿爸接个花樹過枝綻筍吔 "the plant Dad grafted has put out shoots").
+- ref: 17
+  topic: vocab
+  text: >
+    啼 taiˇ "crow" (of a cock; 雞公會啼，雞嫲毋會啼 "cocks crow, hens don't"). 雞公 "cock" (lesson 51).
+- ref: 18
+  topic: vocab
+  text: >
+    根 ginˊ "root"; 源 ngienˇ "source, spring" (MOE). Here roots and springs stand for where you come from.
+- ref: 24
+  topic: vocab
+  text: >
+    生命 senˊ miang "life" (生命係無價个 "life is priceless"). 有去有轉 "you go and you come back": 有 X 有 Y.
+- ref: 25
+  topic: vocab
+  text: >
+    結 giedˋ "form, set": 結霜 "frost forms" (an official example), 結冰 "freeze, ice over". 霜 songˊ "frost". 湖 fuˇ "lake" (大湖,
+    a township in Miaoli, is "big lake"). 連…都 "even".
+new_words:
+- {hanzi: 燕仔, pinyin: ien eˋ, en: swallow (bird)}
+- {hanzi: 竇, pinyin: deu, en: 'nest, den'}
+- {hanzi: 南片, pinyin: namˇ pienˋ, en: the south}
+- {hanzi: 轉竇, pinyin: zonˋ deu, en: go home to the nest}
+- {hanzi: 秧仔, pinyin: iongˊ eˋ, en: 'seedlings, young rice'}
+- {hanzi: 必目, pinyin: bidˋ mugˋ, en: 'sprout, bud'}
+- {hanzi: 屋簷鳥, pinyin: vugˋ iamˇ diauˊ, en: sparrow}
+- {hanzi: 草坪, pinyin: coˋ piangˇ, en: 'lawn, grass'}
+- {hanzi: 餳, pinyin: xiangˇ, en: 'attract, lure'}
+- {hanzi: 桂花, pinyin: gui faˊ, en: osmanthus}
+- {hanzi: 綻筍, pinyin: can sunˋ, en: put out new shoots}
+- {hanzi: 啼, pinyin: taiˇ, en: crow (of a cock)}
+- {hanzi: 根, pinyin: ginˊ, en: root}
+- {hanzi: 源, pinyin: ngienˇ, en: 'source, spring'}
+- {hanzi: 生命, pinyin: senˊ miang, en: life}
+- {hanzi: 結, pinyin: giedˋ, en: 'form, set (frost, ice)'}
+- {hanzi: 霜, pinyin: songˊ, en: frost}
+- {hanzi: 湖, pinyin: fuˇ, en: lake}
+- {hanzi: 秋, pinyin: qiuˊ, en: autumn}
+- {hanzi: 蒔田, pinyin: sii tienˇ, en: plant out rice seedlings}
+exercises:
+  translate:
+  - en: Swallows nest under the eaves.
+    source: kaga115
+    sx: {hanzi: 燕仔在屋簷下做竇。, pinyin: ien eˋ coiˊ vugˋ iamˇ haˊ zo deu.}
+  - en: Cocks crow; hens don't.
+    source: kaga115
+    sx: {hanzi: 雞公會啼，雞嫲毋會啼。, pinyin: 'gieˊ gungˊ voi taiˇ, gieˊ maˇ mˇ voi taiˇ.'}
+  - en: The scent of osmanthus is very alluring.
+    source: kaga115
+    sx: {hanzi: 桂花个香味當餳人。, pinyin: gui faˊ ge hiongˊ mi dongˊ xiangˇ nginˇ.}
+  - en: Every year in March or April, swallows come and nest under our eaves.
+    source: kaga
+    sx: {hanzi: 逐年三、四月仔，吾屋簷下就會有燕仔來做竇。, pinyin: 'dagˋ ngienˇ samˊ, xi ngied eˋ, ngaˊ vugˋ iamˇ haˊ qiu voi iuˊ ien eˋ loiˇ zo deu.'}
+  - en: The plant Dad grafted has put out new shoots.
+    source: kaga115
+    sx: {hanzi: 阿爸接个花樹過枝綻筍吔。, pinyin: aˊ baˊ jiabˋ ge faˊ su go giˊ can sunˋ leˊ.}
+  fill:
+  - en: In spring they come back to the nest.
+    sx: {hanzi: 春天又___。, pinyin: cunˊ tienˊ iu ___., answer_hanzi: 轉竇, answer: zonˋ deu}
+  - en: So that's how it was!
+    sx: {hanzi: ___係恁樣！, pinyin: ___ he anˋ ngiongˇ!, answer_hanzi: 原來, answer: ngienˇ loiˇ}
+  - en: The seedlings are sprouting.
+    sx: {hanzi: 秧仔___吔。, pinyin: iongˊ eˋ ___ leˊ., answer_hanzi: 必目, answer: bidˋ mugˋ}
+  - en: A tree has its roots.
+    sx: {hanzi: 樹有___。, pinyin: su iuˊ ___., answer_hanzi: 根, answer: ginˊ}
+  - en: The lakes ice over.
+    sx: {hanzi: 湖肚个水會___。, pinyin: fuˇ duˋ ge suiˋ voi ___., answer_hanzi: 結冰, answer: giedˋ benˊ}
+audio: []

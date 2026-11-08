@@ -1,0 +1,295 @@
+id: 13
+genre: debate
+title:
+  en: A thousand on credit is worth less than eight hundred in cash
+  sx: {hanzi: 千賒毋當八百現, pinyin: qienˊ caˊ mˇ dong badˋ bagˋ hien}
+review: false
+setting: 'Friday 29 September 2028, A-min''s class at senior high school. The class teacher chairs a debate in Hakka for
+  the school''s mother-tongue week. The question: should senior-high pupils get pocket money? A-min (劉明) speaks for, his
+  classmate 阿芳 against. Sam has come to watch.'
+names: [劉明, 阿芳, 阿明, 阿婆]
+dialogue:
+- n: 1
+  speaker: 主席
+  en: 'Today''s debate: should senior-high pupils have pocket money? On one side 劉明, on the other 阿芳.'
+  sx: {hanzi: 今晡日个辯論：高中生愛有零用錢無？一片係劉明，一片係阿芳。, pinyin: 'gimˊ buˊ ngidˋ ge pien lun: goˊ zungˊ senˊ oi iuˊ langˇ iung qienˇ
+      moˇ? idˋ pienˋ he liuˇ minˇ, idˋ pienˋ he aˊ fongˊ.'}
+- n: 2
+  speaker: 阿明
+  en: 'Madam Chair, classmates: I say senior-high pupils should have pocket money.'
+  sx: {hanzi: 主席、各位同學：𠊎講高中生愛有零用錢。, pinyin: 'zuˋ xid, gogˋ vi tungˇ hog: ngaiˇ gongˋ goˊ zungˊ senˊ oi iuˊ langˇ iung qienˇ.'}
+- n: 3
+  speaker: 阿明
+  en: Only by having pocket money do you learn how to use money.
+  sx: {hanzi: 有零用錢，正會學用錢。, pinyin: 'iuˊ langˇ iung qienˇ, zang voi hog iung qienˇ.'}
+- n: 4
+  speaker: 阿明
+  en: Money should be spent carefully, and what's left over goes into savings.
+  sx: {hanzi: 錢愛省儆用，用無忒个就拿去貯金。, pinyin: 'qienˇ oi sangˋ kiang iung, iung moˇ tedˋ ge qiu naˊ hi duˋ gimˊ.'}
+  check: true
+- n: 5
+  speaker: 阿明
+  en: Save coins one by one, and they become real money.
+  sx: {hanzi: 銀角仔一隻一隻貯，乜會變大錢。, pinyin: 'ngiunˇ gogˋ eˇ idˋ zagˋ idˋ zagˋ duˋ, me voi bien tai qienˇ.'}
+- n: 6
+  speaker: 阿明
+  en: Later, when we go to university, we'll have to pay rent; it's best to learn now.
+  sx: {hanzi: 後擺去讀大學，愛撿屋稅，這下先學較好。, pinyin: 'heu baiˋ hi tug tai hog, oi giamˋ vugˋ soi, iaˋ ha xienˊ hog ka hoˋ.'}
+- n: 7
+  speaker: 阿芳
+  en: 'Madam Chair, classmates: to be frank, I say senior-high pupils don''t need pocket money.'
+  sx: {hanzi: 主席、各位同學：打白講，𠊎講高中生毋使零用錢。, pinyin: 'zuˋ xid, gogˋ vi tungˇ hog: daˋ pag gongˋ, ngaiˇ gongˋ goˊ zungˊ senˊ mˇ
+      siiˋ langˇ iung qienˇ.'}
+- n: 8
+  speaker: 阿芳
+  en: 'First: when young people have money in hand, they buy things carelessly.'
+  sx: {hanzi: 第一，後生人手頭有錢，就會儘採買東西。, pinyin: 'ti idˋ, heu sangˊ nginˇ suˋ teuˇ iuˊ qienˇ, qiu voi qinˋ caiˋ maiˊ dungˊ xiˊ.'}
+- n: 9
+  speaker: 阿芳
+  en: 'What they buy really isn''t worth it: it''s their parents'' money wasted.'
+  sx: {hanzi: 買來个東西實在毋值，打爽爺哀个錢。, pinyin: 'maiˊ loiˇ ge dungˊ xiˊ siid cai mˇ dad, daˋ songˋ iaˇ oiˊ ge qienˇ.'}
+- n: 10
+  speaker: 阿芳
+  en: 'Second: children from rich families have lots, children from poor families little.'
+  sx: {hanzi: 第二，好額人屋下个細人仔錢多，窮人屋下个細人仔錢少。, pinyin: 'ti ngi, hoˋ ngiagˋ nginˇ vugˋ kaˊ ge se nginˇ eˋ qienˇ doˊ, kiungˇ nginˇ
+      vugˋ kaˊ ge se nginˇ eˋ qienˇ seuˋ.'}
+- n: 11
+  speaker: 阿芳
+  en: 'And if the parents are out of work, there''s no money at home: how can they give the children pocket money?'
+  sx: {hanzi: 大人無頭路，屋下就無錢，仰般分細人仔零用錢？, pinyin: 'tai nginˇ moˇ teuˇ lu, vugˋ kaˊ qiu moˇ qienˇ, ngiongˋ banˊ bunˊ se nginˇ
+      eˋ langˇ iung qienˇ?'}
+- n: 12
+  speaker: 阿芳
+  en: What good does that do? It only does harm.
+  sx: {hanzi: 這有麼个好處？淨有壞處。, pinyin: 'iaˋ iuˊ maˋ ge hoˋ cu? qiang iuˊ faiˋ cu.'}
+- n: 13
+  speaker: 阿芳
+  en: Some children just hoard their money and don't even know what to do with it.
+  sx: {hanzi: 有兜細人仔將錢囤等，乜毋知愛做麼个。, pinyin: 'iuˊ deuˊ se nginˇ eˋ jiongˊ qienˇ dunˋ denˋ, me mˇ diˊ oi zo maˋ ge.'}
+  check: true
+- n: 14
+  speaker: 阿明
+  en: What my opponent has described are the drawbacks of pocket money. But if you have no money, does that mean you won't
+    waste it?
+  sx: {hanzi: 阿芳講个，係零用錢个缺點。毋過，無錢就毋會亂用錢無？, pinyin: 'aˊ fongˊ gongˋ ge, he langˇ iung qienˇ ge kiedˋ diamˋ. mˇ go, moˇ qienˇ
+      qiu mˇ voi lon iung qienˇ moˇ?'}
+- n: 15
+  speaker: 阿明
+  en: 'Never mind children: adults waste money too. Some lose everything in business.'
+  sx: {hanzi: 莫講細人仔，大人乜會亂用錢，有兜做生理了忒淨淨。, pinyin: 'mog gongˋ se nginˇ eˋ, tai nginˇ me voi lon iung qienˇ, iuˊ deuˊ zo senˊ
+      liˊ liauˋ tedˋ qiang qiang.'}
+  check: true
+- n: 16
+  speaker: 阿明
+  en: To avoid wasting money, you have to learn early.
+  sx: {hanzi: 愛避免亂用錢，就愛早兜仔學。, pinyin: 'oi pidˋ mienˊ lon iung qienˇ, qiu oi zoˋ deuˊ eˋ hog.'}
+- n: 17
+  speaker: 阿明
+  en: 'Our family''s rule: a thousand dollars a month, and when it''s spent, it''s gone.'
+  sx: {hanzi: 吾屋下个規矩：零用錢一隻月一千銀，用忒就無。, pinyin: 'ngaˊ vugˋ kaˊ ge guiˊ giˋ: langˇ iung qienˇ idˋ zagˋ ngied idˋ qienˊ ngiunˇ,
+      iung tedˋ qiu moˇ.'}
+- n: 18
+  speaker: 阿明
+  en: I require myself to save three hundred every month.
+  sx: {hanzi: 𠊎要求自家逐隻月貯三百銀。, pinyin: ngaiˇ ieuˊ kiuˇ cii gaˊ dagˋ zagˋ ngied duˋ samˊ bagˋ ngiunˇ.}
+- n: 19
+  speaker: 阿明
+  en: If I really have to borrow, I borrow from my sister and pay her back the next month.
+  sx: {hanzi: 若係高不將愛借錢，就同阿姊借，下隻月還。, pinyin: 'na he goˊ budˋ jiongˊ oi jia qienˇ, qiu tungˇ aˊ jiˋ jia, ha zagˋ ngied vanˇ.'}
+- n: 20
+  speaker: 阿芳
+  en: Your sister's that generous?
+  sx: {hanzi: 你阿姊恁慨？, pinyin: 'nˇ aˊ jiˋ anˋ koiˋ?'}
+- n: 21
+  speaker: 阿明
+  en: 'No, she''s terribly stingy: borrow a hundred and you pay back a hundred and twenty.'
+  sx: {hanzi: 毋係，佢當齧，借一百銀愛還一百二。, pinyin: 'mˇ he, giˇ dongˊ ngadˋ, jia idˋ bagˋ ngiunˇ oi vanˇ idˋ bagˋ ngi.'}
+- n: 22
+  speaker: 阿芳
+  en: (the class laughs) That's exactly the problem! What children learn is to count every cent.
+  sx: {hanzi: 該就係問題！細人仔學著个係計較。, pinyin: ge qiu he mun tiˇ! se nginˇ eˋ hog doˋ ge he gie gau.}
+- n: 23
+  speaker: 阿芳
+  en: 'When there''s no money, make do: that''s a skill too.'
+  sx: {hanzi: 無錢个時節，將就一下，這乜係學問。, pinyin: 'moˇ qienˇ ge siiˇ jiedˋ, jiongˊ qiu idˋ ha, iaˋ me he hog mun.'}
+  check: true
+- n: 24
+  speaker: 阿明
+  en: 'Grandma says: ''A thousand on credit is worth less than eight hundred in cash.'' Only with cash in hand do you know
+    what money is worth.'
+  sx: {hanzi: 阿婆講：「千賒毋當八百現。」手頭有現金，正知錢个價值。, pinyin: 'aˊ poˇ gongˋ: qienˊ caˊ mˇ dong badˋ bagˋ hien. suˋ teuˇ iuˊ hien gimˊ,
+      zang diˊ qienˇ ge ga ciid.'}
+- n: 25
+  speaker: 主席
+  en: Right, time's up. Both sides have a point. Let's all vote.
+  sx: {hanzi: 好，時間到吔。兩片都有道理。大家來投票。, pinyin: 'hoˋ, siiˇ gienˊ do leˊ. liongˋ pienˋ du iuˊ to liˊ. tai gaˊ loiˇ teuˇ peuˊ.'}
+- n: 26
+  speaker: 主席
+  en: 劉明 wins by three votes.
+  sx: {hanzi: 劉明贏三票。, pinyin: liuˇ minˇ iangˇ samˊ peuˊ.}
+- n: 27
+  speaker: 阿芳
+  en: (shaking A-min's hand) You win this time. Next time I'll argue for.
+  sx: {hanzi: 這擺你贏。下二擺換𠊎講愛有零用錢。, pinyin: iaˋ baiˋ nˇ iangˇ. ha ngi baiˋ von ngaiˇ gongˋ oi iuˊ langˇ iung qienˇ.}
+- n: 28
+  speaker: 阿明
+  en: Then I'll argue against. And I'm not even short of pocket money!
+  sx: {hanzi: 該𠊎就講毋使。𠊎乜毋會零用錢毋罅！, pinyin: ge ngaiˇ qiu gongˋ mˇ siiˋ. ngaiˇ me mˇ voi langˇ iung qienˇ mˇ la!}
+  check: true
+notes:
+- ref: 0
+  topic: culture
+  text: >
+    A debate. The title is a saying from the official lists (中高級): 千賒毋當八百現 "a thousand on credit is not worth eight hundred
+    in cash", that is, money in hand beats promises. 毋當 mˇ dong "not as good as".
+- ref: 1
+  topic: vocab
+  text: >
+    辯論 pien lun "debate". 零用錢 "pocket money" appears in an official sentence (佢恬恬仔捐出零用錢分孤兒院). 一片…一片 "one side… the other".
+- ref: 2
+  topic: vocab
+  text: >
+    主席 zuˋ xid "chair (of a meeting)". 各位同學 "classmates, everyone".
+- ref: 4
+  topic: vocab
+  text: >
+    省儆 sangˋ kiang "thrifty, careful with things" (客人當省儆 "Hakka people are very thrifty"). 貯金 duˋ gimˊ "save money, savings"
+    (去郵局貯金 "put money in at the post office"); 貯 duˋ alone "save, store" (line 5).
+- ref: 5
+  topic: vocab
+  text: >
+    銀角仔 ngiunˇ gogˋ eˇ "coin" (銀角仔跌歸地泥無人拈 "coins all over the floor and nobody picks them up").
+- ref: 6
+  topic: vocab
+  text: >
+    屋稅 vugˋ soi "rent" (逐隻月愛納屋稅). 撿 "pay" (進修 9).
+- ref: 7
+  topic: vocab
+  text: >
+    打白講 daˋ pag gongˋ "to be frank" (打白講，𠊎其實無想去 "frankly, I don't really want to go").
+- ref: 8
+  topic: vocab
+  text: >
+    儘採 "carelessly, any old how" (lesson 47).
+- ref: 9
+  topic: vocab
+  text: >
+    值 dad "be worth" (這幅圖值得幾多錢？); 毋值 "not worth it" (official: 實在毋值, 盡毋值).
+- ref: 10
+  topic: vocab
+  text: >
+    好額 hoˋ ngiagˋ "rich". 窮 (lesson 65) "poor".
+- ref: 11
+  topic: vocab
+  text: >
+    無頭路 moˇ teuˇ lu "out of work" (無頭路愛仰仔絡食 "with no job, how do you make a living?"); 頭路 "job".
+- ref: 12
+  topic: vocab
+  text: >
+    好處 hoˋ cu "advantage, good" (運動對身體有當多好處 "exercise does the body a lot of good"); 壞處 faiˋ cu "harm, drawback". Note the
+    reading faiˋ.
+- ref: 13
+  topic: vocab
+  text: >
+    囤 dunˋ "hoard, stockpile" (囤貨 "stockpile goods"); 將 + object + verb here is like Mandarin 把. Our line; marked for review.
+- ref: 14
+  topic: vocab
+  text: >
+    缺點 kiedˋ diamˋ "shortcoming, drawback" (有缺點就愛改進).
+- ref: 15
+  topic: vocab
+  text: >
+    莫講 mog gongˋ "never mind…, let alone" (莫講你，𠊎自家乜無好食！ "never mind you, I haven't had enough myself!"). 了忒 liauˋ tedˋ "lose
+    money" (了忒幾下十萬 "lost several hundred thousand"); 淨淨 "completely, every last bit" is our addition, marked for review.
+- ref: 16
+  topic: vocab
+  text: >
+    避免 pidˋ mienˊ "avoid" (愛細義避免危險 "be careful to avoid danger").
+- ref: 18
+  topic: vocab
+  text: >
+    要求 ieuˊ kiuˇ "require, demand" (𠊎要求無多 "I don't ask for much").
+- ref: 19
+  topic: vocab
+  text: >
+    高不將 goˊ budˋ jiongˊ "if there's no other way, as a last resort" (無帶著錢，高不將先同你借 "I've no money on me, so I'll have to
+    borrow from you").
+- ref: 20
+  topic: vocab
+  text: >
+    慨 koiˋ "generous, open-handed" and 齧 ngadˋ (line 21) "stingy" (這頭家齧到會死 "this boss is stingy to death").
+- ref: 22
+  topic: vocab
+  text: >
+    計較 gie gau "count every cent, haggle" (屋下人莫恁計較 "family shouldn't be so petty with each other").
+- ref: 23
+  topic: vocab
+  text: >
+    將就 jiongˊ qiu "make do, settle for" (係無位仔好坐，將就企等看 "if there's nowhere to sit, just stand and watch").
+- ref: 24
+  topic: vocab
+  text: >
+    價值 ga ciid "value, worth".
+- ref: 25
+  topic: vocab
+  text: >
+    投票 teuˇ peuˊ "vote" (投票選班長 "vote for the class leader"). 道理 (lesson 47).
+new_words:
+- {hanzi: 辯論, pinyin: pien lun, en: debate}
+- {hanzi: 主席, pinyin: zuˋ xid, en: chair (of a meeting)}
+- {hanzi: 省儆, pinyin: sangˋ kiang, en: thrifty}
+- {hanzi: 貯金, pinyin: duˋ gimˊ, en: save money; savings}
+- {hanzi: 貯, pinyin: duˋ, en: 'save, store up'}
+- {hanzi: 屋稅, pinyin: vugˋ soi, en: rent}
+- {hanzi: 打白講, pinyin: daˋ pag gongˋ, en: to be frank}
+- {hanzi: 值, pinyin: dad, en: be worth}
+- {hanzi: 好額, pinyin: hoˋ ngiagˋ, en: rich}
+- {hanzi: 好處, pinyin: hoˋ cu, en: 'advantage, benefit'}
+- {hanzi: 壞處, pinyin: faiˋ cu, en: 'harm, drawback'}
+- {hanzi: 缺點, pinyin: kiedˋ diamˋ, en: 'shortcoming, drawback'}
+- {hanzi: 莫講, pinyin: mog gongˋ, en: 'never mind…, let alone'}
+- {hanzi: 了忒, pinyin: liauˋ tedˋ, en: lose (money)}
+- {hanzi: 避免, pinyin: pidˋ mienˊ, en: avoid}
+- {hanzi: 要求, pinyin: ieuˊ kiuˇ, en: 'require, demand'}
+- {hanzi: 高不將, pinyin: goˊ budˋ jiongˊ, en: 'as a last resort, if there''s no other way'}
+- {hanzi: 慨, pinyin: koiˋ, en: generous}
+- {hanzi: 齧, pinyin: ngadˋ, en: stingy}
+- {hanzi: 計較, pinyin: gie gau, en: 'count every cent, be petty'}
+- {hanzi: 將就, pinyin: jiongˊ qiu, en: 'make do, settle for'}
+- {hanzi: 千賒毋當八百現, pinyin: qienˊ caˊ mˇ dong badˋ bagˋ hien, en: a thousand on credit is worth less than eight hundred in
+    cash}
+- {hanzi: 價值, pinyin: ga ciid, en: 'value, worth'}
+- {hanzi: 投票, pinyin: teuˇ peuˊ, en: vote}
+- {hanzi: 銀角仔, pinyin: ngiunˇ gogˋ eˇ, en: coin}
+- {hanzi: 無頭路, pinyin: moˇ teuˇ lu, en: out of work}
+- {hanzi: 囤, pinyin: dunˋ, en: 'hoard, stockpile'}
+- {hanzi: 將, pinyin: jiongˊ, en: '(marks the object, like Mandarin 把)'}
+exercises:
+  translate:
+  - en: Hakka people are very thrifty.
+    source: kaga115
+    sx: {hanzi: 客人當省儆。, pinyin: hagˋ nginˇ dongˊ sangˋ kiang.}
+  - en: Exercise does the body a lot of good.
+    source: kaga115
+    sx: {hanzi: 運動對身體有當多好處。, pinyin: iun tung dui siinˊ tiˋ iuˊ dongˊ doˊ hoˋ cu.}
+  - en: Family shouldn't be so petty with each other.
+    source: kaga115
+    sx: {hanzi: 屋下人莫恁計較。, pinyin: vugˋ kaˊ nginˇ mog anˋ gie gau.}
+  - en: If there's nowhere to sit, just stand and watch.
+    source: kaga115
+    sx: {hanzi: 係無位仔好坐，將就企等看。, pinyin: 'he moˇ vi eˋ hoˋ coˊ, jiongˊ qiu kiˊ denˋ kon.'}
+  - en: Be careful to avoid danger.
+    source: kaga115
+    sx: {hanzi: 愛細義避免危險。, pinyin: oi se ngi pidˋ mienˊ nguiˇ hiamˋ.}
+  fill:
+  - en: To be frank, I don't think they need it.
+    sx: {hanzi: ___，𠊎講毋使。, pinyin: '___, ngaiˇ gongˋ mˇ siiˋ.', answer_hanzi: 打白講, answer: daˋ pag gongˋ}
+  - en: What good does it do?
+    sx: {hanzi: 這有麼个___？, pinyin: 'iaˋ iuˊ maˋ ge ___?', answer_hanzi: 好處, answer: hoˋ cu}
+  - en: Your sister's that generous?
+    sx: {hanzi: 你阿姊恁___？, pinyin: 'nˇ aˊ jiˋ anˋ ___?', answer_hanzi: 慨, answer: koiˋ}
+  - en: She's terribly stingy.
+    sx: {hanzi: 佢當___。, pinyin: giˇ dongˊ ___., answer_hanzi: 齧, answer: ngadˋ}
+  - en: Let's all vote.
+    sx: {hanzi: 大家來___。, pinyin: tai gaˊ loiˇ ___., answer_hanzi: 投票, answer: teuˇ peuˊ}
+audio: []
