@@ -40,8 +40,8 @@ dialogue:
   - n: 6
     speaker: Sam
     en: "(in a shop in town, holding up two coats) This one's nicer than that one, isn't it?"
-    sx: {hanzi: "阿姆，這領比該領較靚，係無？", pinyin: "aˊ meˊ, iaˋ liangˊ biˋ ge liangˊ ka jiangˊ, he moˇ?"}
-    hl: {hanzi: "阿姆，這領比該領較靚，係無？", pinyin: "a+ meˋ, liaˊ liangˋ biˊ gai liangˋ haˇ ziangˋ, heˇ mo?"}
+    sx: {hanzi: "伯姆，這領比該領較靚，係無？", pinyin: "bagˋ meˊ, iaˋ liangˊ biˋ ge liangˊ ka jiangˊ, he moˇ?"}
+    hl: {hanzi: "伯姆，這領比該領較靚，係無？", pinyin: "bag meˊ, liaˊ liangˋ biˊ gai liangˋ haˇ ziangˋ, heˇ mo?"}
   - n: 7
     speaker: 阿姆
     en: "Nicer. And dearer."
