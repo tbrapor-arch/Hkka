@@ -1,0 +1,214 @@
+id: 87
+title:
+  en: "Eight-tone music"
+  sx: {hanzi: "客家个八音", pinyin: "hagˋ gaˊ ge badˋ imˊ"}
+  hl: {hanzi: "客家个八音", pinyin: "hag gaˋ gaiˇ bad rhimˋ"}
+review: false
+setting: >-
+  Saturday 24 July, after dinner. Grandpa's old friend 阿貴伯 leads a small 八音 band, and they are rehearsing in front
+  of the temple for the 義民 festival next month. A-min has been sent to fetch Grandpa; Sam comes along.
+names: [阿貴伯, 阿劉哥, 阿德, 銅鑼, 義民, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Grandpa, 阿貴伯 says their 八音 band is practising in front of the temple, and he's asking you to come and listen."
+    sx: {hanzi: "阿公，阿貴伯講，佢兜个八音團在廟前練習，喊你去聽。", pinyin: "aˊ gungˊ, aˊ gui bagˋ gongˋ, giˇ deuˊ ge badˋ imˊ tonˇ coiˊ meu qienˇ lien xib, ham nˇ hi tangˊ."}
+    hl: {hanzi: "阿公，阿貴伯講，佢兜个八音團在廟前練習，喊你去聽。", pinyin: "a+ gungˋ, a+ guiˇ bag gongˊ, gi deuˋ gaiˇ bad rhimˋ ton coiˋ miau+ cien lien+ sibˋ, hamˇ ngi hiˇ tangˋ."}
+  - n: 2
+    speaker: 阿公
+    en: "Right."
+    sx: {hanzi: "好。", pinyin: "hoˋ."}
+    hl: {hanzi: "好。", pinyin: "hoˊ."}
+  - n: 3
+    speaker: 阿貴伯
+    en: "(at the temple, putting down his drumsticks) 阿劉哥, you've just arrived! We've only just started."
+    sx: {hanzi: "阿劉哥，你正來！𠊎兜正開始。", pinyin: "aˊ liuˇ goˊ, nˇ zang loiˇ! ngaiˇ deuˊ zang koiˊ ciiˋ."}
+    hl: {hanzi: "阿劉哥，你正來！𠊎兜正開始。", pinyin: "a+ liu goˋ, ngi zhangˇ loi! ngai deuˋ zhangˇ koiˋ shiˊ."}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "So this is 八音?"
+    sx: {hanzi: "這就係八音？", pinyin: "iaˋ qiu he badˋ imˊ?"}
+    hl: {hanzi: "這就係八音？", pinyin: "liaˊ ciu+ heˇ bad rhimˋ?"}
+  - n: 5
+    speaker: 阿貴伯
+    en: "It is. The traditional music of the Hakka is 八音."
+    sx: {hanzi: "係啊。客家个傳統音樂就係八音。", pinyin: "he a. hagˋ gaˊ ge conˇ tungˋ imˊ ngog qiu he badˋ imˊ."}
+    hl: {hanzi: "係啊。客家个傳統音樂斯係八音。", pinyin: "heˇ a+. hag gaˋ gaiˇ chon tungˊ rhimˋ ngogˋ sii+ heˇ bad rhimˋ."}
+  - n: 6
+    speaker: Sam
+    en: "And what instruments are these?"
+    sx: {hanzi: "這兜係麼个樂器？", pinyin: "iaˋ deuˊ he maˋ ge ngog hi?"}
+    hl: {hanzi: "這兜係麼个樂器？", pinyin: "liaˊ deuˋ heˇ maˊ gaiˇ ngogˋ hiˇ?"}
+  - n: 7
+    speaker: 阿貴伯
+    en: "This is the 笛仔: you blow it, and it's loud. That's the fiddle: 阿德 is bowing it. And there's the drum and the gong."
+    sx: {hanzi: "這係笛仔，歕起來當大聲。該係弦仔，阿德在該鋸弦仔。還有鼓同銅鑼。", pinyin: "iaˋ he tag eˋ, punˇ hiˋ loiˇ dongˊ tai sangˊ. ge he hienˇ eˋ, aˊ dedˋ du ge gi hienˇ eˋ. hanˇ iuˊ guˋ tungˇ tungˇ loˇ."}
+    hl: {hanzi: "這係笛仔，歕起來當大聲。該係弦仔，阿德在該鋸弦仔。還有鼓摎銅鑼。", pinyin: "liaˊ heˇ tagˋ er, pun hiˊ loi dongˋ tai+ shangˋ. gai heˇ hien er, a+ ded diˇ gai giˇ hien er. han rhiuˋ guˊ lauˋ tung lo."}
+  - n: 8
+    speaker: Sam
+    en: "銅鑼? Like the town of 銅鑼, where the museum is?"
+    sx: {hanzi: "銅鑼？同博物館該隻銅鑼共樣？", pinyin: "tungˇ loˇ? tungˇ bogˋ vud gonˋ ge zagˋ tungˇ loˇ kiung iong?"}
+    hl: {hanzi: "銅鑼？摎博物館該隻銅鑼共樣？", pinyin: "tung lo? lauˋ bog vudˋ gonˊ gai zhag tung lo kiung+ rhong+?"}
+  - n: 9
+    speaker: 阿明
+    en: "Same word! Gong your 銅鑼 too loud and you'll disturb other people."
+    sx: {hanzi: "共樣个字！打銅鑼打到恁大聲，會吵著別儕人。", pinyin: "kiung iong ge sii! daˋ tungˇ loˇ daˋ do anˋ tai sangˊ, voi cauˇ doˋ ped saˇ nginˇ."}
+    hl: {hanzi: "共樣个字！打銅鑼打到恁大聲，會吵著別儕人。", pinyin: "kiung+ rhong+ gaiˇ sii+! daˊ tung lo daˊ doˇ anˊ tai+ shangˋ, voi+ cau doˊ pedˋ sa ngin."}
+  - n: 10
+    speaker: Sam
+    en: "(as the band starts again, Grandpa murmurs something) What did Grandpa say?"
+    sx: {hanzi: "阿公講麼个？", pinyin: "aˊ gungˊ gongˋ maˋ ge?"}
+    hl: {hanzi: "阿公講麼个？", pinyin: "a+ gungˋ gongˊ maˊ gaiˇ?"}
+  - n: 11
+    speaker: 阿明
+    en: "Grandpa says that in the old days he could play the fiddle too. But only the fiddle."
+    sx: {hanzi: "阿公講，頭擺佢乜會鋸弦仔。毋過佢單淨會鋸弦仔。", pinyin: "aˊ gungˊ gongˋ, teuˇ baiˋ giˇ me voi gi hienˇ eˋ. mˇ go giˇ danˊ qiang voi gi hienˇ eˋ."}
+    hl: {hanzi: "阿公講，頭擺佢乜會鋸弦仔。毋過佢單淨會鋸弦仔。", pinyin: "a+ gungˋ gongˊ, teu baiˊ gi meˇ voi+ giˇ hien er. m goˇ gi danˋ ciang+ voi+ giˇ hien er."}
+  - n: 12
+    speaker: 阿貴伯
+    en: "That's right! Your grandpa was a fine fiddler when he was young. Here, have a go."
+    sx: {hanzi: "係啊！你阿公後生个時節，鋸弦仔當會！來，你試看啊。", pinyin: "he a! nˇ aˊ gungˊ heu sangˊ ge siiˇ jiedˋ, gi hienˇ eˋ dongˊ voi! loiˇ, nˇ cii kon a."}
+    hl: {hanzi: "係啊！你阿公後生个時節，鋸弦仔當會！來，你試看啊。", pinyin: "heˇ a+! ngi a+ gungˋ heu+ sangˋ gaiˇ shi zied, giˇ hien er dongˋ voi+! loi, ngi chiˇ konˇ a+."}
+  - n: 13
+    speaker: 阿公
+    en: "(after a few notes, looking at his fingers) My hands have gone stiff."
+    sx: {hanzi: "手硬了。", pinyin: "suˋ ngang leˊ."}
+    hl: {hanzi: "手硬了。", pinyin: "shiuˊ ngang+ leˋ."}
+  - n: 14
+    speaker: 阿貴伯
+    en: "A bit of practice and they'll loosen up. At the 義民 festival, come and play with us!"
+    sx: {hanzi: "練一下就好了。義民節，你來同𠊎兜共下鋸！", pinyin: "lien idˋ ha qiu hoˋ leˊ. ngi minˇ jiedˋ, nˇ loiˇ tungˇ ngaiˇ deuˊ kiung ha gi!"}
+    hl: {hanzi: "練一下就好了。義民節，你來摎𠊎兜共下鋸！", pinyin: "lien+ rhid ha+ ciu+ hoˊ leˋ. ngi+ min zied, ngi loi lauˋ ngai deuˋ kiung+ ha+ giˇ!"}
+  - n: 15
+    speaker: 阿公
+    en: "…I'll come once I've practised it properly."
+    sx: {hanzi: "……愛練好正來。", pinyin: "… oi lien hoˋ zang loiˇ."}
+    hl: {hanzi: "……愛練好正來。", pinyin: "… oiˇ lien+ hoˊ zhangˇ loi."}
+  - n: 16
+    speaker: Sam
+    en: "(whispering to A-min) Five syllables in one go!"
+    sx: {hanzi: "阿公一擺講五隻字！", pinyin: "aˊ gungˊ idˋ baiˋ gongˋ ngˋ zagˋ sii!"}
+    hl: {hanzi: "阿公一擺講五隻字！", pinyin: "a+ gungˋ rhid baiˊ gongˊ ngˊ zhag sii+!"}
+  - n: 17
+    speaker: 阿貴伯
+    en: "(who heard) With your grandpa, our band will be complete!"
+    sx: {hanzi: "你阿公來，𠊎兜个八音團就齊全了！", pinyin: "nˇ aˊ gungˊ loiˇ, ngaiˇ deuˊ ge badˋ imˊ tonˇ qiu ceˇ qionˇ leˊ!"}
+    hl: {hanzi: "你阿公來，𠊎兜个八音團就齊全了！", pinyin: "ngi a+ gungˋ loi, ngai deuˋ gaiˇ bad rhimˋ ton ciu+ ce cion leˋ!"}
+  - n: 18
+    speaker: 阿明
+    en: "阿貴伯 beats the drum and leads, Grandpa plays the fiddle… and Sam strikes the gong!"
+    sx: {hanzi: "阿貴伯打鼓又指揮，阿公鋸弦仔……Sam 敲銅鑼！", pinyin: "aˊ gui bagˋ daˋ guˋ iu ziiˋ fiˊ, aˊ gungˊ gi hienˇ eˋ … Sam kau tungˇ loˇ!"}
+    hl: {hanzi: "阿貴伯打鼓又指揮，阿公鋸弦仔……Sam 敲銅鑼！", pinyin: "a+ guiˇ bag daˊ guˊ rhiu+ zhiˊ fuiˋ, a+ gungˋ giˇ hien er … Sam kauˇ tung lo!"}
+    check: true
+
+notes:
+  - ref: 1
+    topic: grammar
+    text: >
+      Reported speech has no special form: 阿貴伯講，佢兜…, 喊你去聽 "阿貴伯 says their band… (and) he's asking you to come
+      and listen". The 佢 inside is 阿貴伯's 𠊎, turned round as in English. Line 11 does the same with Grandpa's words.
+      八音團 "八音 band": 團 tonˇ "group, troupe".
+  - ref: 3
+    topic: grammar
+    text: >
+      正 zang before a verb has two jobs. "Just (now)": 你正來 "you've just arrived", 𠊎兜正開始 "we've only just started"
+      (an official example: 正落過水，這條路當毋好行 "it has just rained, the road is hard going"). "Only then" after a
+      condition, as since lesson 24: 愛練好正來 (line 15) "only when I've practised properly will I come". The exact
+      greeting 你正來 has no example of its own, so the line is marked for checking.
+  - ref: 5
+    topic: culture
+    text: >
+      An official sentence, in both accents: Sixian 客家个傳統音樂就係八音, Hailu 客家个傳統音樂斯係八音 (with Hailu 斯 for 就).
+      By general knowledge, a 八音 band plays at weddings, festivals and temple rites, with wind, strings and
+      percussion; the name is older than any count of the instruments.
+  - ref: 7
+    topic: vocab
+    text: >
+      The verbs go with the instruments: 歕 punˇ "blow" (the 笛仔: 老了正學吹笛仔 is glossed 嗩吶, the shawm), 鋸 gi "saw"
+      for bowing the fiddle (逐日朝晨都有老人家在公園肚鋸弦仔 "every morning old people play the fiddle in the park";
+      拉弦仔 is also listed), and 打 for the drum and gong (打鼓, 打銅鑼). 弦仔 hienˇ eˋ "fiddle", 鼓 guˋ "drum".
+  - ref: 9
+    topic: vocab
+    text: >
+      The town 銅鑼 and the gong 銅鑼 are the same word: "brass gong". A-min's warning is an official sentence word for
+      word (打銅鑼打到恁大聲，會吵著別儕人); its Hailu line is the course's transposition. 別儕人 ped saˇ nginˇ "other people"
+      (Hailu 別儕). Official sentences in this lesson's exercises are Sixian only unless the note says otherwise (the
+      國樂團 one exists in both accents); the other Hailu lines are the course's transposition.
+  - ref: 11
+    topic: grammar
+    text: >
+      單淨 danˊ qiang "only, merely" before the verb: 佢單淨會鋸弦仔 is borrowed from an official sentence (在恁多樂器裡肚，佢單淨
+      會鋸弦仔 "of all those instruments, the only one he can play is the fiddle"). Compare 定定 (lesson 26), which goes at
+      the end: 佢會鋸弦仔定定.
+  - ref: 13
+    topic: grammar
+    text: >
+      手硬了 "my hands have gone stiff": 了 for the change of state (lesson 9). Grandpa never sang in front of anyone
+      (lesson 20) until lesson 37; now it turns out he played too.
+
+new_words:
+  - {hanzi: 八音, pinyin: "badˋ imˊ", en: "八音, Hakka eight-tone music", hl: {hanzi: 八音, pinyin: "bad rhimˋ"}}
+  - {hanzi: 團, pinyin: "tonˇ", en: "group, troupe, band", hl: {hanzi: 團, pinyin: "ton"}}
+  - {hanzi: 音樂, pinyin: "imˊ ngog", en: "music", hl: {hanzi: 音樂, pinyin: "rhimˋ ngogˋ"}}
+  - {hanzi: 樂器, pinyin: "ngog hi", en: "musical instrument", hl: {hanzi: 樂器, pinyin: "ngogˋ hiˇ"}}
+  - {hanzi: 笛仔, pinyin: "tag eˋ", en: "笛仔 (the shawm of the 八音 band; a flute)", hl: {hanzi: 笛仔, pinyin: "tagˋ er"}}
+  - {hanzi: 歕, pinyin: "punˇ", en: "blow (a wind instrument, a candle)", hl: {hanzi: 歕, pinyin: "pun"}}
+  - {hanzi: 弦仔, pinyin: "hienˇ eˋ", en: "fiddle (two-string)", hl: {hanzi: 弦仔, pinyin: "hien er"}}
+  - {hanzi: 鼓, pinyin: "guˋ", en: "drum", hl: {hanzi: 鼓, pinyin: "guˊ"}}
+  - {hanzi: 打鼓, pinyin: "daˋ guˋ", en: "beat a drum", hl: {hanzi: 打鼓, pinyin: "daˊ guˊ"}}
+  - {hanzi: 弦, pinyin: "hienˇ", en: "string (of an instrument); 二弦 two-string fiddle", hl: {hanzi: 弦, pinyin: "hien"}}
+  - {hanzi: 樂, pinyin: "ngog", en: "music (國樂 Chinese music)", hl: {hanzi: 樂, pinyin: "ngogˋ"}}
+  - {hanzi: 三不五時, pinyin: "samˊ budˋ ngˋ siiˇ", en: "every so often", hl: {hanzi: 三不五時, pinyin: "samˋ bud ngˊ shi"}}
+  - {hanzi: 單淨, pinyin: "danˊ qiang", en: "only, merely", hl: {hanzi: 單淨, pinyin: "danˋ ciang+"}}
+  - {hanzi: 別儕人, pinyin: "ped saˇ nginˇ", en: "other people", hl: {hanzi: 別儕, pinyin: "pedˋ sa"}}
+  - {hanzi: 練, pinyin: "lien", en: "practise", hl: {hanzi: 練, pinyin: "lien+"}}
+  - {hanzi: 拉, pinyin: "laiˊ", en: "pull; (拉弦仔) play the fiddle", hl: {hanzi: 拉, pinyin: "laiˋ"}}
+  - {hanzi: 敲, pinyin: "kau", en: "knock, strike", hl: {hanzi: 敲, pinyin: "kauˇ"}}
+  - {hanzi: 齊全, pinyin: "ceˇ qionˇ", en: "complete, all there", hl: {hanzi: 齊全, pinyin: "ce cion"}}
+  - {hanzi: 公園, pinyin: "gungˊ ienˇ", en: "park", hl: {hanzi: 公園, pinyin: "gungˋ rhan"}}
+  - {hanzi: 耳公, pinyin: "ngiˋ gungˊ", en: "ear", hl: {hanzi: 耳空, pinyin: "ngiˊ kungˋ"}}
+  - {hanzi: 指揮, pinyin: "ziiˋ fiˊ", en: "direct, give the lead", hl: {hanzi: 指揮, pinyin: "zhiˊ fuiˋ"}}
+  - {hanzi: 團體, pinyin: "tonˇ tiˋ", en: "group, organisation", hl: {hanzi: 團體, pinyin: "ton tiˊ"}}
+
+exercises:
+  translate:
+    - en: "Every morning there are old people playing the fiddle in the park."
+      sx: {hanzi: "逐日朝晨都有老人家在公園肚鋸弦仔。", pinyin: "dagˋ ngidˋ zeuˊ siinˇ du iuˊ loˋ nginˇ gaˊ coiˊ gungˊ ienˇ duˋ gi hienˇ eˋ."}
+      hl: {hanzi: "逐日朝晨都有老人家在公園肚鋸弦仔。", pinyin: "dag ngid zhauˋ shin du+ rhiuˋ loˊ ngin gaˋ coiˋ gungˋ rhan duˊ giˇ hien er."}
+      source: kaga115
+    - en: "The drum gives the beat; the 笛仔 player follows it."
+      sx: {hanzi: "打鼓个人敲節奏，歕笛仔个人跈等佢。", pinyin: "daˋ guˋ ge nginˇ kau jiedˋ zeu, punˇ tag eˋ ge nginˇ tenˇ denˋ giˇ."}
+      hl: {hanzi: "打鼓个人敲節奏，歕笛仔个人跈等佢。", pinyin: "daˊ guˊ gaiˇ ngin kauˇ zied zeuˇ, pun tagˋ er gaiˇ ngin ten denˊ gi."}
+      check: true
+    - en: "In an orchestra, you need a fiddle for it to count as complete."
+      sx: {hanzi: "在國樂團肚，愛有二弦正算齊全。", pinyin: "coiˊ guedˋ ngog tonˇ duˋ, oi iuˊ ngi hienˇ zang son ceˇ qionˇ."}
+      hl: {hanzi: "在國樂團肚，愛有二弦正算齊全。", pinyin: "coiˋ gued ngogˋ ton duˊ, oiˇ rhiuˋ ngi+ hien zhangˇ sonˇ ce cion."}
+      source: kaga115
+    - en: "阿貴伯 directs the band; at the festival people will dance as well."
+      sx: {hanzi: "阿貴伯指揮八音團，義民節還有人跳舞。", pinyin: "aˊ gui bagˋ ziiˋ fiˊ badˋ imˊ tonˇ, ngi minˇ jiedˋ hanˇ iuˊ nginˇ tiau vuˋ."}
+      hl: {hanzi: "阿貴伯指揮八音團，義民節還有人跳舞。", pinyin: "a+ guiˇ bag zhiˊ fuiˋ bad rhimˋ ton, ngi+ min zied han rhiuˋ ngin tiauˇ vuˊ."}
+    - en: "Pull the door shut; the drum is hurting my ears."
+      sx: {hanzi: "門拉起來，鼓聲吵到𠊎个耳公痛。", pinyin: "munˇ laiˊ hiˋ loiˇ, guˋ sangˊ cauˇ do ngaiˇ ge ngiˋ gungˊ tung."}
+      hl: {hanzi: "門拉起來，鼓聲吵到𠊎个耳空痛。", pinyin: "mun laiˋ hiˊ loi, guˊ shangˋ cau doˇ ngai gaiˇ ngiˊ kungˋ tungˇ."}
+      check: true
+    - en: "The band and the dance troupe are two different groups."
+      sx: {hanzi: "八音團同跳舞个隊，係兩隻團體。", pinyin: "badˋ imˊ tonˇ tungˇ tiau vuˋ ge cui, he liongˋ zagˋ tonˇ tiˋ."}
+      hl: {hanzi: "八音團摎跳舞个隊，係兩隻團體。", pinyin: "bad rhimˋ ton lauˋ tiauˇ vuˊ gaiˇ chui+, heˇ liongˊ zhag ton tiˊ."}
+    - en: "Every so often Mum goes next door for a chat with the neighbours."
+      sx: {hanzi: "阿姆三不五時就去尋隔壁鄰舍打嘴鼓。", pinyin: "aˊ meˊ samˊ budˋ ngˋ siiˇ qiu hi qimˇ gagˋ biagˋ linˇ sa daˋ zoi guˋ."}
+      hl: {hanzi: "阿姆三不五時就去尋隔壁鄰舍打嘴鼓。", pinyin: "a+ meˋ samˋ bud ngˊ shi ciu+ hiˇ cim gag biag lin shaˇ daˊ zhoiˇ guˊ."}
+      source: kaga115
+  fill:
+    - en: "You've only just arrived!"
+      sx: {hanzi: "你___來！", pinyin: "nˇ ___ loiˇ!", answer_hanzi: "正", answer: "zang"}
+      hl: {hanzi: "你___來！", pinyin: "ngi ___ loi!", answer_hanzi: "正", answer: "zhangˇ"}
+    - en: "He can only play the fiddle."
+      sx: {hanzi: "佢___會鋸弦仔。", pinyin: "giˇ ___ voi gi hienˇ eˋ.", answer_hanzi: "單淨", answer: "danˊ qiang"}
+      hl: {hanzi: "佢___會鋸弦仔。", pinyin: "gi ___ voi+ giˇ hien er.", answer_hanzi: "單淨", answer: "danˋ ciang+"}
+    - en: "Blow the 笛仔!"
+      sx: {hanzi: "___笛仔！", pinyin: "___ tag eˋ!", answer_hanzi: "歕", answer: "punˇ"}
+      hl: {hanzi: "___笛仔！", pinyin: "___ tagˋ er!", answer_hanzi: "歕", answer: "pun"}
+
+audio: []
