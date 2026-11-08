@@ -1,0 +1,216 @@
+id: 86
+title:
+  en: "Debate at dinner"
+  sx: {hanzi: "學客話無恁該", pinyin: "hog hagˋ fa moˇ anˋ goiˊ"}
+  hl: {hanzi: "學客話無恁該", pinyin: "hogˋ hag voiˋ mo anˊ goiˋ"}
+review: false
+setting: >-
+  Saturday 10 July, dinner. Mr Liu (阿爸) is home early for once, and A-min has chosen the moment to ask for something
+  he wants: a summer course in English in town. Seven at the table, one subject.
+names: [阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿明
+    en: "Dad, this summer I'd like to go to a cram school and learn English. My exam marks in English class at junior high aren't good."
+    sx: {hanzi: "阿爸，熱天𠊎想去補習英文。𠊎國中英文課考試个分數毋好。", pinyin: "aˊ baˊ, ngied tienˊ ngaiˇ xiongˋ hi buˋ xib inˊ vunˇ. ngaiˇ guedˋ zungˊ inˊ vunˇ ko kauˋ sii ge funˊ su mˇ hoˋ."}
+    hl: {hanzi: "阿爸，熱天𠊎想去補習英文。𠊎國中英文課考試个分數毋好。", pinyin: "a+ baˋ, ngiedˋ tienˋ ngai siongˊ hiˇ buˊ sibˋ rhinˋ vun. ngai gued zhungˋ rhinˋ vun koˇ kauˊ shiˇ gaiˇ funˋ suˇ m hoˊ."}
+  - n: 2
+    speaker: 阿爸
+    en: "English is very important. The way I see it, that's fine. In my view, start with the beginners' class."
+    sx: {hanzi: "英文當重要。𠊎看做得。照𠊎看，先讀初級班。", pinyin: "inˊ vunˇ dongˊ cung ieu. ngaiˇ kon zo dedˋ. zeu ngaiˇ kon, xienˊ tug cuˊ gibˋ banˊ."}
+    hl: {hanzi: "英文當重要。𠊎看做得。照𠊎看，先讀初級班。", pinyin: "rhinˋ vun dongˋ chung+ rhauˇ. ngai konˇ zoˇ ded. zhauˇ ngai konˇ, senˋ tugˋ cuˋ gib banˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "English? You can't even speak Hakka properly, and you want to learn English!"
+    sx: {hanzi: "英文？你客話都講毋好，還愛學英文！", pinyin: "inˊ vunˇ? nˇ hagˋ fa du gongˋ mˇ hoˋ, hanˇ oi hog inˊ vunˇ!"}
+    hl: {hanzi: "英文？你客話都講毋好，還愛學英文！", pinyin: "rhinˋ vun? ngi hag voiˋ du+ gongˊ m hoˊ, han oiˇ hogˋ rhinˋ vun!"}
+  - n: 4
+    speaker: 阿明
+    en: "Grandma, most young people these days speak Mandarin. Not many speak Hakka. My classmates all speak Mandarin after class."
+    sx: {hanzi: "阿婆，這下大部分後生人都講華語，講客話个無幾多。教室个同學，下課都講華語。", pinyin: "aˊ poˇ, iaˋ ha tai pu fun heu sangˊ nginˇ du gongˋ faˇ ngiˊ, gongˋ hagˋ fa ge moˇ giˋ doˊ. gau siidˋ ge tungˇ hog, ha ko du gongˋ faˇ ngiˊ."}
+    hl: {hanzi: "阿婆，這下大部分後生人都講華語，講客話个無幾多。教室个同學，下課都講華語。", pinyin: "a+ po, liaˊ ha+ tai+ pu+ fun+ heu+ sangˋ ngin du+ gongˊ fa ngiˋ, gongˊ hag voiˋ gaiˇ mo giˊ doˋ. gauˇ shid gaiˇ tung hogˋ, haˋ koˇ du+ gongˊ fa ngiˋ."}
+  - n: 5
+    speaker: 阿公
+    en: "Being Hakka and not speaking Hakka: that's truly letting down your own ancestors."
+    sx: {hanzi: "身為客家人毋會講客家話，正經對毋起自家个祖公。", pinyin: "siinˊ viˇ hagˋ gaˊ nginˇ mˇ voi gongˋ hagˋ gaˊ fa, ziin ginˊ dui mˇ hiˋ qi gaˊ ge zuˋ gungˊ."}
+    hl: {hanzi: "身為客家人毋會講客家話，正經對毋起自家个祖公。", pinyin: "shinˋ vui hag gaˋ ngin m voi+ gongˊ hag gaˋ faˇ, zhinˇ ginˋ duiˇ m hiˊ cid gaˋ gaiˇ zuˊ gungˋ."}
+    source: kaga115
+    check: true
+  - n: 6
+    speaker: 阿婆
+    en: "(delighted) Did you hear that? A whole sentence from Grandpa!"
+    sx: {hanzi: "你兜聽著無？阿公講一句恁長个話！", pinyin: "nˇ deuˊ tangˊ doˋ moˇ? aˊ gungˊ gongˋ idˋ gi anˋ congˇ ge fa!"}
+    hl: {hanzi: "你兜聽著無？阿公講一句恁長个話！", pinyin: "ngi deuˋ tangˋ doˊ mo? a+ gungˋ gongˊ rhid giˇ anˊ chong gaiˇ faˇ!"}
+  - n: 7
+    speaker: Sam
+    en: "I think he can learn both. I'm French, and I'm learning Hakka, though the pronunciation is hard."
+    sx: {hanzi: "𠊎想，兩種都做得學。𠊎係法國人，乜在該學客話，毋過客話个發音當難。", pinyin: "ngaiˇ xiongˋ, liongˋ zungˋ du zo dedˋ hog. ngaiˇ he fabˋ guedˋ nginˇ, me du ge hog hagˋ fa, mˇ go hagˋ fa ge fadˋ imˊ dongˊ nanˇ."}
+    hl: {hanzi: "𠊎想，兩種都做得學。𠊎係法國人，乜在該學客話，毋過客話个發音當難。", pinyin: "ngai siongˊ, liongˊ zhungˊ du+ zoˇ ded hogˋ. ngai heˇ fab gued ngin, meˇ diˇ gai hogˋ hag voiˋ, m goˇ hag voiˋ gaiˇ fad rhimˋ dongˋ nan."}
+  - n: 8
+    speaker: 阿明
+    en: "Learning Hakka isn't easy. It took Sam a whole year!"
+    sx: {hanzi: "學客話無恁該，Sam 學一年正會講！", pinyin: "hog hagˋ fa moˇ anˋ goiˊ, Sam hog idˋ ngienˇ zang voi gongˋ!"}
+    hl: {hanzi: "學客話無恁該，Sam 學一年正會講！", pinyin: "hogˋ hag voiˋ mo anˊ goiˋ, Sam hogˋ rhid ngien zhangˇ voi+ gongˊ!"}
+  - n: 9
+    speaker: 阿英
+    en: "Don't you talk Hakka with Grandma every day anyway? Your Hakka is really good."
+    sx: {hanzi: "你還毋係逐日同阿婆講客話？你个客話程度還好！", pinyin: "nˇ hanˇ mˇ he dagˋ ngidˋ tungˇ aˊ poˇ gongˋ hagˋ fa? nˇ ge hagˋ fa cangˇ tu hanˇ hoˋ!"}
+    hl: {hanzi: "你還毋係逐日摎阿婆講客話？你个客話程度還好！", pinyin: "ngi han m heˇ dag ngid lauˋ a+ po gongˊ hag voiˋ? ngi gaiˇ hag voiˋ chang tu+ han hoˊ!"}
+  - n: 10
+    speaker: 阿姆
+    en: "Here's my idea: in the daytime he goes to English classes, and at home he speaks Hakka with Grandma."
+    sx: {hanzi: "𠊎个想法係恁樣：日時頭去補習英文，轉來屋下同阿婆講客話。", pinyin: "ngaiˇ ge xiongˋ fabˋ he anˋ ngiongˇ: ngidˋ siiˇ teuˇ hi buˋ xib inˊ vunˇ, zonˋ loiˇ vugˋ kaˊ tungˇ aˊ poˇ gongˋ hagˋ fa."}
+    hl: {hanzi: "𠊎个想法係恁樣：日時頭去補習英文，轉來屋下摎阿婆講客話。", pinyin: "ngai gaiˇ siongˊ fab heˇ an ngiong: ngid shi teu hiˇ buˊ sibˋ rhinˋ vun, zhonˊ loi vug haˋ lauˋ a+ po gongˊ hag voiˋ."}
+  - n: 11
+    speaker: 阿公
+    en: "That makes sense."
+    sx: {hanzi: "有道理。", pinyin: "iuˊ to liˊ."}
+    hl: {hanzi: "有道理。", pinyin: "rhiuˋ to+ liˋ."}
+  - n: 12
+    speaker: 阿婆
+    en: "All right. But at home, no Mandarin! When you come home from school, it's Hakka."
+    sx: {hanzi: "好。毋過屋下做毋得講華語！放學轉來就講客話。", pinyin: "hoˋ. mˇ go vugˋ kaˊ zo mˇ dedˋ gongˋ faˇ ngiˊ! biong hog zonˋ loiˇ qiu gongˋ hagˋ fa."}
+    hl: {hanzi: "好。毋過屋下做毋得講華語！放學轉來就講客話。", pinyin: "hoˊ. m goˇ vug haˋ zoˇ m ded gongˊ fa ngiˋ! biongˇ hogˋ zhonˊ loi ciu+ gongˊ hag voiˋ."}
+  - n: 13
+    speaker: 阿明
+    en: "And what about Sam? Is Sam allowed to speak French?"
+    sx: {hanzi: "該 Sam 呢？Sam 做得講法國話無？", pinyin: "ge Sam neˇ? Sam zo dedˋ gongˋ fabˋ guedˋ fa moˇ?"}
+    hl: {hanzi: "該 Sam 呢？Sam 做得講法國話無？", pinyin: "gai Sam neˇ? Sam zoˇ ded gongˊ fab gued faˇ mo?"}
+  - n: 14
+    speaker: 阿婆
+    en: "Sam speaks Hakka better than you do!"
+    sx: {hanzi: "Sam 講客話比你還較好！", pinyin: "Sam gongˋ hagˋ fa biˋ nˇ hanˇ ka hoˋ!"}
+    hl: {hanzi: "Sam 講客話比你還較好！", pinyin: "Sam gongˊ hag voiˋ biˊ ngi han haˇ hoˊ!"}
+  - n: 15
+    speaker: 阿爸
+    en: "Right. Everyone sees it differently. This side for, that side against: which side are you on?"
+    sx: {hanzi: "好了。大家个看法無共樣。這片係贊成，該片係反對，你愛企哪片？", pinyin: "hoˋ leˊ. tai gaˊ ge kon fabˋ moˇ kiung iong. iaˋ pienˋ he zan sangˇ, ge pienˋ he fanˋ dui, nˇ oi kiˊ nai pienˋ?"}
+    hl: {hanzi: "好了。大家个看法無共樣。這片係贊成，該片係反對，你愛企哪片？", pinyin: "hoˊ leˋ. tai+ gaˋ gaiˇ konˇ fab mo kiung+ rhong+. liaˊ pienˊ heˇ zanˇ shang, gai pienˊ heˇ fanˊ duiˇ, ngi oiˇ kiˋ nai+ pienˊ?"}
+    check: true
+  - n: 16
+    speaker: 阿明
+    en: "(after a long look round the table) …For."
+    sx: {hanzi: "……贊成。", pinyin: "… zan sangˇ."}
+    hl: {hanzi: "……贊成。", pinyin: "… zanˇ shang."}
+
+notes:
+  - ref: 2
+    topic: grammar
+    text: >
+      𠊎看 "the way I see it" and 𠊎想 (line 7) "I think": both open an opinion, as in Mandarin. The examples use 𠊎看 for
+      judgements (𠊎看係一個半斤，一個八兩 "the way I see it, they're six of one and half a dozen of the other") and 𠊎想
+      for suggestions (𠊎想有兜事情還係無愛同佢講較好). 照𠊎看 "in my view" is the formal version.
+  - ref: 3
+    topic: grammar
+    text: >
+      你客話都講毋好，還愛學英文 "you can't even speak Hakka well, and you want to learn English": 都 after the topic is
+      "even", and 還 in the second half is indignant: "and on top of that".
+  - ref: 5
+    topic: culture
+    text: >
+      Grandpa quotes an official example sentence word for word, the course's longest line from him. 身為 "being (as)",
+      a written word; 對毋起 "let down, wrong (someone)"; 正經 "truly" (lesson 47). The Hailu line is the course's
+      rendering of the same sentence, so it is marked for checking.
+  - ref: 8
+    topic: grammar
+    text: >
+      無恁該 moˇ anˋ goiˊ "not that easy": kaga115 glosses it 沒那麼容易, and it is everywhere in the examples (愛食一碗飯無恁該
+      "it wasn't easy to get a bowl of rice", in the old days). The positive is rare: you say something is 無恁該, not
+      that it is 恁該. 學一年正會講 "learnt for a year, and only then could speak": 正 "only then" (lesson 24).
+  - ref: 9
+    topic: grammar
+    text: >
+      你還毋係… "don't you still…? aren't you…?": 還毋係 asks a question that is really a reproach (講無好食，你還毋係食到當飽
+      "you say it's not good, and yet you ate your fill"). It turns the other person's own behaviour against their
+      argument. 你个客話程度還好！ "your Hakka is really good": 還好 + adjective is "very" (lesson 67), and 程度 "level".
+  - ref: 10
+    topic: vocab
+    text: >
+      𠊎个想法係恁樣 "my idea is this": 想法 (lesson 68) + 係恁樣 and a colon. 日時頭 ngidˋ siiˇ teuˇ "in the daytime", the
+      everyday Hakka word (the Mandarin 白天 is not used).
+  - ref: 15
+    topic: grammar
+    text: >
+      Mr Liu quotes an official sentence: 這片係贊成，該片係反對，你愛企哪片？ "this side for, that side against: which side
+      do you stand on?". 贊成 "be for" and 反對 "be against" are not in the word lists as words, only their characters;
+      the line is marked for checking because the readings come from the characters. 企 "stand" (lesson 23).
+  - ref: 0
+    topic: hailu
+    text: >
+      Grandpa's sentence (line 5) and the two official exercise sentences (the speech contest, the alphabet) exist in
+      Sixian only; their Hailu lines are the course's own transposition. Mr Liu's 贊成 / 反對 sentence (line 15) is
+      official in both accents. Hailu says 客話 hag voiˋ but 客家話 hag gaˋ faˇ.
+
+new_words:
+  - {hanzi: 補習, pinyin: "buˋ xib", en: "take extra classes, cram school", hl: {hanzi: 補習, pinyin: "buˊ sibˋ"}}
+  - {hanzi: 英文, pinyin: "inˊ vunˇ", en: "English (language, as a subject)", hl: {hanzi: 英文, pinyin: "rhinˋ vun"}}
+  - {hanzi: 客家話, pinyin: "hagˋ gaˊ fa", en: "the Hakka language", hl: {hanzi: 客家話, pinyin: "hag gaˋ faˇ"}}
+  - {hanzi: 無恁該, pinyin: "moˇ anˋ goiˊ", en: "not that easy", hl: {hanzi: 無恁該, pinyin: "mo anˊ goiˋ"}}
+  - {hanzi: 贊, pinyin: "zan", en: "(贊成) be for, agree", hl: {hanzi: 贊, pinyin: "zanˇ"}}
+  - {hanzi: 反, pinyin: "fanˋ", en: "(反對) be against", hl: {hanzi: 反, pinyin: "fanˊ"}}
+  - {hanzi: 考試, pinyin: "kauˋ sii", en: "exam; take an exam", hl: {hanzi: 考試, pinyin: "kauˊ shiˇ"}}
+  - {hanzi: 分數, pinyin: "funˊ su", en: "mark, score", hl: {hanzi: 分數, pinyin: "funˋ suˇ"}}
+  - {hanzi: 發音, pinyin: "fadˋ imˊ", en: "pronunciation", hl: {hanzi: 發音, pinyin: "fad rhimˋ"}}
+  - {hanzi: 放學, pinyin: "biong hog", en: "school's out; after school", hl: {hanzi: 放學, pinyin: "biongˇ hogˋ"}}
+  - {hanzi: 初級, pinyin: "cuˊ gibˋ", en: "beginners' (level)", hl: {hanzi: 初級, pinyin: "cuˋ gib"}}
+  - {hanzi: 一心, pinyin: "idˋ ximˊ", en: "with all one's heart, set on", hl: {hanzi: 一心, pinyin: "rhid simˋ"}}
+  - {hanzi: 演講, pinyin: "ienˊ gongˋ", en: "speech, give a speech", hl: {hanzi: 演講, pinyin: "rhanˋ gongˊ"}}
+  - {hanzi: 字母, pinyin: "sii muˊ", en: "letter (of an alphabet)", hl: {hanzi: 字母, pinyin: "sii+ muˋ"}}
+  - {hanzi: 下課, pinyin: "ha ko", en: "class is over; after class", hl: {hanzi: 下課, pinyin: "haˋ koˇ"}}
+  - {hanzi: 教室, pinyin: "gau siidˋ", en: "classroom", hl: {hanzi: 教室, pinyin: "gauˇ shid"}}
+  - {hanzi: 國中, pinyin: "guedˋ zungˊ", en: "junior high school", hl: {hanzi: 國中, pinyin: "gued zhungˋ"}}
+  - {hanzi: 成績, pinyin: "siinˇ jidˋ", en: "grades, results", hl: {hanzi: 成績, pinyin: "shin zid"}}
+  - {hanzi: 個, pinyin: "ge", en: "(written form of 个, in official sentences)", hl: {hanzi: 個, pinyin: "gaiˇ"}}
+  - {hanzi: 課, pinyin: "ko", en: "class, lesson", hl: {hanzi: 課, pinyin: "koˇ"}}
+  - {hanzi: 照, pinyin: "zeu", en: "according to (照𠊎看 in my view)", hl: {hanzi: 照, pinyin: "zhauˇ"}}
+  - {hanzi: 程度, pinyin: "cangˇ tu", en: "level, standard", hl: {hanzi: 程度, pinyin: "chang tu+"}}
+  - {hanzi: 看法, pinyin: "kon fabˋ", en: "view, opinion", hl: {hanzi: 看法, pinyin: "konˇ fab"}}
+
+exercises:
+  translate:
+    - en: "In my view, both of you are as bad as each other: don't argue so loudly."
+      sx: {hanzi: "照𠊎看，你兩儕共樣，莫恁大聲吵。", pinyin: "zeu ngaiˇ kon, nˇ liongˋ saˇ kiung iong, mog anˋ tai sangˊ cauˇ."}
+      hl: {hanzi: "照𠊎看，你兩儕共樣，莫恁大聲吵。", pinyin: "zhauˇ ngai konˇ, ngi liongˊ sa kiung+ rhong+, mogˋ anˊ tai+ shangˋ cau."}
+    - en: "My English isn't up to much; I have to join the beginners' class."
+      sx: {hanzi: "𠊎英文程度毋好，愛讀初級班。", pinyin: "ngaiˇ inˊ vunˇ cangˇ tu mˇ hoˋ, oi tug cuˊ gibˋ banˊ."}
+      hl: {hanzi: "𠊎英文程度毋好，愛讀初級班。", pinyin: "ngai rhinˋ vun chang tu+ m hoˊ, oiˇ tugˋ cuˋ gib banˋ."}
+      check: true
+    - en: "Speak quietly: Grandpa is asleep."
+      sx: {hanzi: "細聲講，阿公在該睡目。", pinyin: "se sangˊ gongˋ, aˊ gungˊ du ge soi mugˋ."}
+      hl: {hanzi: "細聲講，阿公在該睡目。", pinyin: "seˇ shangˋ gongˊ, a+ gungˋ diˇ gai shoi+ mug."}
+    - en: "What's your view? — My view is the same as Grandpa's."
+      sx: {hanzi: "你个看法係仰般？——𠊎个看法同阿公共樣。", pinyin: "nˇ ge kon fabˋ he ngiongˋ banˊ? — ngaiˇ ge kon fabˋ tungˇ aˊ gungˊ kiung iong."}
+      hl: {hanzi: "你个看法係仰般？——𠊎个看法摎阿公共樣。", pinyin: "ngi gaiˇ konˇ fab heˇ ngiongˊ banˋ? — ngai gaiˇ konˇ fab lauˋ a+ gungˋ kiung+ rhong+."}
+    - en: "He's set his heart on winning next month's Hakka speech contest, and now he practises hard every day."
+      sx: {hanzi: "佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習。", pinyin: "giˇ idˋ ximˊ xiongˋ oi naˊ doˋ ha zagˋ ngied hagˋ fa ienˊ gongˋ biˋ soi ge ti idˋ miangˇ, iaˋ ha dagˋ ngidˋ dongˊ sadˋ mangˊ lien xib."}
+      hl: {hanzi: "佢一心想愛拿著下隻月客話演講比賽个第一名，這下逐日當煞猛練習。", pinyin: "gi rhid simˋ siongˊ oiˇ naˋ doˊ ha+ zhag ngiedˋ hag voiˋ rhanˋ gongˊ biˊ soiˇ gaiˇ ti+ rhid miang, liaˊ ha+ dag ngid dongˋ sad mangˋ lien+ sibˋ."}
+      source: kaga115
+    - en: "English has twenty-six letters in all."
+      sx: {hanzi: "英語總共有二十六個字母。", pinyin: "inˊ ngiˊ zungˋ kiung iuˊ ngi siib liugˋ ge sii muˊ."}
+      hl: {hanzi: "英語總共有二十六個字母。", pinyin: "rhinˋ ngiˋ zungˊ kiung+ rhiuˋ ngi+ shibˋ liug gaiˇ sii+ muˋ."}
+      source: kaga115
+    - en: "After class A-min stays in the classroom and does his homework."
+      sx: {hanzi: "下課以後，阿明在教室做功課。", pinyin: "ha ko iˊ heu, aˊ minˇ coiˊ gau siidˋ zo gungˊ ko."}
+      hl: {hanzi: "下課以後，阿明在教室做功課。", pinyin: "haˋ koˇ rhiˋ heu+, a+ min coiˋ gauˇ shid zoˇ gungˋ koˇ."}
+    - en: "A-min's grades at junior high are not bad."
+      sx: {hanzi: "阿明在國中个成績會做得。", pinyin: "aˊ minˇ coiˊ guedˋ zungˊ ge siinˇ jidˋ voi zo dedˋ."}
+      hl: {hanzi: "阿明在國中个成績會做得。", pinyin: "a+ min coiˋ gued zhungˋ gaiˇ shin zid voi+ zoˇ ded."}
+    - en: "There's no English class today."
+      sx: {hanzi: "今晡日無英文課。", pinyin: "gimˊ buˊ ngidˋ moˇ inˊ vunˇ ko."}
+      hl: {hanzi: "今晡日無英文課。", pinyin: "gimˋ buˋ ngid mo rhinˋ vun koˇ."}
+    - en: "A-min's classmates all speak Mandarin."
+      sx: {hanzi: "阿明个同學都講華語。", pinyin: "aˊ minˇ ge tungˇ hog du gongˋ faˇ ngiˊ."}
+      hl: {hanzi: "阿明个同學都講華語。", pinyin: "a+ min gaiˇ tung hogˋ du+ gongˊ fa ngiˋ."}
+  fill:
+    - en: "Making a living isn't easy."
+      sx: {hanzi: "賺錢___。", pinyin: "con qienˇ ___.", answer_hanzi: "無恁該", answer: "moˇ anˋ goiˊ"}
+      hl: {hanzi: "賺錢___。", pinyin: "con+ cien ___.", answer_hanzi: "無恁該", answer: "mo anˊ goiˋ"}
+    - en: "Don't you eat 粄 every day yourself? (so don't complain)"
+      sx: {hanzi: "你___逐日食粄？", pinyin: "nˇ ___ dagˋ ngidˋ siid banˋ?", answer_hanzi: "還毋係", answer: "hanˇ mˇ he"}
+      hl: {hanzi: "你___逐日食粄？", pinyin: "ngi ___ dag ngid shidˋ banˊ?", answer_hanzi: "還毋係", answer: "han m heˇ"}
+    - en: "That makes sense."
+      sx: {hanzi: "有___。", pinyin: "iuˊ ___.", answer_hanzi: "道理", answer: "to liˊ"}
+      hl: {hanzi: "有___。", pinyin: "rhiuˋ ___.", answer_hanzi: "道理", answer: "to+ liˋ"}
+
+audio: []
