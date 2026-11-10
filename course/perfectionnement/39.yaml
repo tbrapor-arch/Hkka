@@ -37,7 +37,7 @@ dialogue:
   - n: 6
     speaker: 阿舅
     en: "Not that big. My factory is a small one: there's an accountant, two shop assistants, and an assistant."
-    sx: {hanzi: "無恁大。𠊎个工廠細細間，有一個會計、兩個店員，還有一個助理。", pinyin: "moˇ anˋ tai. ngaiˇ ge gungˊ congˋ se se gienˊ, iuˊ idˋ ge fi gie, liongˋ ge diam ienˇ, hanˇ iuˊ idˋ ge cu liˊ."}
+    sx: {hanzi: "無恁大。𠊎个工廠細細仔，有一個會計、兩個店員，還有一個助理。", pinyin: "moˇ anˋ tai. ngaiˇ ge gungˊ congˋ se se eˋ, iuˊ idˋ ge fi gie, liongˋ ge diam ienˇ, hanˇ iuˊ idˋ ge cu liˊ."}
     check: true
   - n: 7
     speaker: 阿英
@@ -71,7 +71,7 @@ dialogue:
   - n: 13
     speaker: 阿英
     en: "Is there a discount before the New Year?"
-    sx: {hanzi: "年下會打折無？", pinyin: "ngienˇ ha voi daˋ zadˋ moˇ?"}
+    sx: {hanzi: "年下仔會打折無？", pinyin: "ngienˇ haˊ eˋ voi daˋ zadˋ moˇ?"}
   - n: 14
     speaker: 阿舅
     en: "Yes. Before the New Year, if you buy more you get a discount. These last two years the cost of electricity and gas has gone up and up: we don't make much."
@@ -93,7 +93,7 @@ dialogue:
   - n: 18
     speaker: 阿舅
     en: "The market, noodle shops and restaurants. There's a chef who comes for them every day. My stall is next to the pork stall in the market, and customers say my noodles are as good as that stall's pork."
-    sx: {hanzi: "市場、麵店同餐廳。有一個廚師日日來拿。吾攤仔在市場豬砧个隔壁，人客講，吾粄條个水準同該豬砧个豬肉共樣好。", pinyin: "sii congˇ, mien diam tungˇ conˊ tangˊ. iuˊ idˋ ge cuˇ siiˊ ngidˋ ngidˋ loiˇ naˊ. ngaˊ tanˊ eˋ coiˊ sii congˇ zuˊ diamˊ ge gagˋ biagˋ, nginˇ hagˋ gongˋ, ngaˊ banˋ tiauˇ ge suiˋ zunˋ tungˇ ge zuˊ diamˊ ge zuˊ ngiugˋ kiung iong hoˋ."}
+    sx: {hanzi: "市場、麵店同餐廳。有一個廚師日日來拿。𠊎个攤仔在市場豬砧个隔壁，人客講，𠊎个粄條个水準同該豬砧个豬肉共樣好。", pinyin: "sii congˇ, mien diam tungˇ conˊ tangˊ. iuˊ idˋ ge cuˇ siiˊ ngidˋ ngidˋ loiˇ naˊ. ngaiˇ ge tanˊ eˋ coiˊ sii congˇ zuˊ diamˊ ge gagˋ biagˋ, nginˇ hagˋ gongˋ, ngaiˇ ge banˋ tiauˇ ge suiˋ zunˋ tungˇ ge zuˊ diamˊ ge zuˊ ngiugˋ kiung iong hoˋ."}
     check: true
   - n: 19
     speaker: 阿英
@@ -227,6 +227,7 @@ notes:
       場 congˇ is the measure for events (一場活動), 群 kiunˇ for a group (一群細人仔). 利 li "sharp" (這刀仔當利，愛擎好).
 
 new_words:
+  - {hanzi: "年下仔", pinyin: "ngienˇ haˊ eˋ", en: "the weeks before the New Year"}
   - {hanzi: "使錢", pinyin: "siiˋ qienˇ", en: "spend money"}
   - {hanzi: "起工", pinyin: "hiˋ gungˊ", en: "start work (again)"}
   - {hanzi: "事頭", pinyin: "se teuˇ", en: "work, jobs to do"}

@@ -55,6 +55,12 @@ rules:
   - {id: problem-cl, hanzi: "條問題", msg: "問題 takes 隻 or 個, not 條"}
   - {id: together-total, hanzi: "共下[一兩三四五六七八九十百千幾]", msg: "共下 is 'together'; 'in all' is 總共"}
 
+  - {id: shelter-rain, hanzi: "囥雨", msg: "'shelter from the rain' is 寄雨 gi iˋ (3 official; 囥雨 0)"}
+  - {id: bare-year-end, hanzi: "年下(?!仔)", msg: "Sixian says 年下仔 ngienˇ haˊ eˋ, not 年下 (MOE)"}
+  - {id: these-years, hanzi: "這兜年", msg: "'these years' is 這幾年 (2 official, 8 MOE; 這兜年 0)"}
+  - {id: bag-of, hanzi: "一袋仔", msg: "the measure is 一袋 + noun (買一袋米轉去), not 一袋仔"}
+  - {id: not-much-different, hanzi: "差無幾多", msg: "'much the same' is 差毋多 (26 official; 差無幾多 0)"}
+  - {id: my-subject, hanzi: "吾有", msg: "吾 is 'my', before a noun; the subject 'I' is 𠊎"}
   # --- grammar ---
   - id: bare-m-adj
     hanzi: "(?<![係做])毋(?=貴|辣|甜|嚴重|譴|遠|靚|熱|寒|痛|難|簡單|方便|便宜|鹹|酸|苦|忙|閒|淨俐|鬧熱|危險)"

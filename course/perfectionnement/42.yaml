@@ -5,15 +5,15 @@ title:
   sx: {hanzi: "多練習就會熟絡", pinyin: "doˊ lien xib qiu voi sug log"}
 review: true
 setting: >-
-  Sunday 15 April 2029, lunch at the Liu house. 阿舅 has come over from 竹東. Sam has not been for a while. Review of 進修
+  Sunday 15 April 2029, lunch at the Liu house. 阿舅 has come over from 竹東. Review of 進修
   36–41: no new words.
 names: [Sam, 阿公, 阿婆, 阿舅, 叔婆, 阿明, 阿英, 阿傑, 黃醫生]
 
 dialogue:
   - n: 1
     speaker: 阿婆
-    en: "Sam, you haven't been for so long! Is the studying going more smoothly these days?"
-    sx: {hanzi: "Sam，你恁久無來吔！這下讀書有較順序無？", pinyin: "Sam, nˇ anˋ giuˋ moˇ loiˇ leˊ! iaˋ ha tug suˊ iuˊ ka sun xi moˇ?"}
+    en: "Sam, here you are! Is the studying going more smoothly these days?"
+    sx: {hanzi: "Sam，你來吔！這下讀書有較順序無？", pinyin: "Sam, nˇ loiˇ leˊ! iaˋ ha tug suˊ iuˊ ka sun xi moˇ?"}
   - n: 2
     speaker: Sam
     en: "I've made a little progress. The classmates in my group study together once a week, and I don't dare work by fits and starts any more."
@@ -78,8 +78,8 @@ dialogue:
     sx: {hanzi: "好吔，好吔。Sam，上屋个叔婆身體好無？", pinyin: "hoˋ leˊ, hoˋ leˊ. Sam, song vugˋ ge sugˋ poˇ siinˊ tiˋ hoˋ moˇ?"}
   - n: 16
     speaker: Sam
-    en: "Very well. She even mended my trousers for me, and whenever she has vegetables she gives me a bagful."
-    sx: {hanzi: "當好。佢還擎針摎𠊎補褲，隨時有菜就分𠊎一袋仔。", pinyin: "dongˊ hoˋ. giˇ hanˇ kiaˇ ziimˊ lauˊ ngaiˇ buˋ fu, suiˇ siiˇ iuˊ coi qiu bunˊ ngaiˇ idˋ toi eˋ."}
+    en: "Very well. Last week she even mended my trousers for me, and whenever she has vegetables she gives me a bagful."
+    sx: {hanzi: "當好。上禮拜佢還擎針摎𠊎補褲，隨時有菜就分𠊎一袋。", pinyin: "dongˊ hoˋ. song liˊ bai giˇ hanˇ kiaˇ ziimˊ lauˊ ngaiˇ buˋ fu, suiˇ siiˇ iuˊ coi qiu bunˊ ngaiˇ idˋ toi."}
     check: true
   - n: 17
     speaker: Sam
@@ -117,7 +117,7 @@ dialogue:
   - n: 24
     speaker: Sam
     en: "Next time shall we all go and see the waterfall together?"
-    sx: {hanzi: "𫣆這兜下擺共下去看水沖，好無？", pinyin: "enˊ iaˋ deuˊ ha baiˋ kiung haˊ hi kon suiˋ cungˇ, hoˋ moˇ?"}
+    sx: {hanzi: "𫣆這兜下擺共下去看水沖，好無？", pinyin: "enˊ iaˋ deuˊ ha baiˋ kiung ha hi kon suiˋ cungˇ, hoˋ moˇ?"}
 
 notes:
   - ref: 0

@@ -34,7 +34,7 @@ dialogue:
     sx: {hanzi: "對山頭看啊過去，係一大片个樹林。", pinyin: "dui sanˊ teuˇ kon a go hi, he idˋ tai pienˋ ge su naˇ."}
   - n: 6
     en: "Looking north-west, you can see the ocean far away. That hillside caught fire last year, and the trees there are still small."
-    sx: {hanzi: "向西北片看，遠遠看得著海洋。該片山頭舊年著火，到這下樹仔還細細頭。", pinyin: "hiong xiˊ bedˋ pienˋ kon, ienˋ ienˋ kon dedˋ doˋ hoiˋ iongˇ. ge pienˋ sanˊ teuˇ kiu ngienˇ cog foˋ, do iaˋ ha su eˋ hanˇ se se teuˇ."}
+    sx: {hanzi: "向西北片看，遠遠看得著海洋。該片山頭舊年著火，到這下樹仔還細細仔。", pinyin: "hiong xiˊ bedˋ pienˋ kon, ienˋ ienˋ kon dedˋ doˋ hoiˋ iongˇ. ge pienˋ sanˊ teuˇ kiu ngienˇ cog foˋ, do iaˋ ha su eˋ hanˇ se se eˋ."}
     check: true
   - n: 7
     speaker: 阿公
@@ -55,7 +55,7 @@ dialogue:
     sx: {hanzi: "壁項个必縫緊漏水。", pinyin: "biagˋ hong ge bidˋ pung ginˋ leu suiˋ."}
   - n: 11
     speaker: 阿公
-    en: "In the old days my father worked in the coal mine with the other men. The work that generation did, young people today couldn't do."
+    en: "In the old days my father dug coal for other people, as a hired miner. The work that generation did, young people today couldn't do."
     sx: {hanzi: "頭擺阿太同人打炭礦。該代人做个事頭，這下个後生人做毋來。", pinyin: "teuˇ baiˋ aˊ tai tungˇ nginˇ daˋ tan kongˋ. ge toi nginˇ zo ge se teuˇ, iaˋ ha ge heu sangˊ nginˇ zo mˇ loiˇ."}
     check: true
   - n: 12
@@ -121,10 +121,10 @@ dialogue:
     speaker: 阿公
     en: "The wind is getting up! Put a jacket on, or you'll catch cold!"
     source: kaga115
-    sx: {hanzi: "起風吔！著領外衫，無斯會寒著哦！", pinyin: "hiˋ fungˊ leˊ! zogˋ liangˊ ngoi samˊ, moˇ siiˊ voi honˇ doˋ oˊ!"}
+    sx: {hanzi: "起風吔！著領外衫，無斯會寒著哦！", pinyin: "hiˋ fungˊ leˊ! zogˋ liangˊ ngoi samˊ, moˇ siiˇ voi honˇ doˋ oˊ!"}
   - n: 26
     en: "Halfway back a downpour came down, and the three of them ran to shelter under a water tower."
-    sx: {hanzi: "轉到半路落浩洪斗雨，三儕人走到一隻水塔下背囥雨。", pinyin: "zonˋ do ban lu log heˊ fungˇ deuˋ iˋ, samˊ saˇ nginˇ zeuˋ do idˋ zagˋ suiˋ tabˋ haˊ boi kong iˋ."}
+    sx: {hanzi: "轉到半路落浩洪斗雨，三儕人走到一隻水塔下背寄雨。", pinyin: "zonˋ do ban lu log heˊ fungˇ deuˋ iˋ, samˊ saˇ nginˇ zeuˋ do idˋ zagˋ suiˋ tabˋ haˊ boi gi iˋ."}
     check: true
   - n: 27
     en: "The rain stopped, shafts of sunlight came through the clouds, and a rainbow appeared in the east. As the sun went down, their three shadows grew longer and longer."
@@ -139,8 +139,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "暗晡頭在較無光害个所在，有時節看得著天河。", pinyin: "am buˊ teuˇ coiˊ ka moˇ gongˊ hoi ge soˋ cai, iuˊ siiˇ jiedˋ kon dedˋ doˋ tienˊ hoˇ."}
   - n: 30
-    en: "The three of them walked home without a word. The whole day had gone safely and smoothly."
-    sx: {hanzi: "三儕人恬恬仔行轉屋下。今晡日一路平安順序。", pinyin: "samˊ saˇ nginˇ diamˊ diamˊ eˋ hangˇ zonˋ vugˋ kaˊ. gimˊ buˊ ngidˋ idˋ lu pinˇ onˊ sun xi."}
+    en: "The three of them drove home without a word. The whole day had gone safely and smoothly."
+    sx: {hanzi: "三儕人恬恬仔坐車轉屋下。今晡日一路平安順序。", pinyin: "samˊ saˇ nginˇ diamˊ diamˊ eˋ coˊ caˊ zonˋ vugˋ kaˊ. gimˊ buˊ ngidˋ idˋ lu pinˇ onˊ sun xi."}
     check: true
 
 notes:
@@ -230,6 +230,8 @@ notes:
       恬恬仔 diamˊ diamˊ eˋ "quietly, without a word" (恬恬仔行入來). 順序 sun xi "smooth, without trouble" (祝福你平安順序).
 
 new_words:
+  - {hanzi: "寄雨", pinyin: "gi iˋ", en: "shelter from the rain"}
+  - {hanzi: "無斯", pinyin: "moˇ siiˇ", en: "otherwise, or else"}
   - {hanzi: "光景", pinyin: "gongˊ ginˋ", en: "scenery, view"}
   - {hanzi: "包袱", pinyin: "bauˊ fug", en: "bundle, bag, luggage"}
   - {hanzi: "炭礦", pinyin: "tan kongˋ", en: "coal mine"}
@@ -291,7 +293,7 @@ exercises:
       sx: {hanzi: "___仔行入來。", pinyin: "___ eˋ hangˇ ngib loiˇ.", answer_hanzi: "恬恬", answer: "diamˊ diamˊ"}
     - en: "A slight fever."
       sx: {hanzi: "___發燒。", pinyin: "___ fadˋ seuˊ.", answer_hanzi: "略略仔", answer: "liog liog eˋ"}
-    - en: "In the old days his father worked in the coal mine."
+    - en: "In the old days his father mined coal for other people."
       sx: {hanzi: "頭擺厥爸同人打___。", pinyin: "teuˇ baiˋ giaˊ baˊ tungˇ nginˇ daˋ ___.", answer_hanzi: "炭礦", answer: "tan kongˋ"}
     - en: "The cold wind blows from the north-west."
       sx: {hanzi: "冷風對___片吹過來。", pinyin: "langˊ fungˊ dui ___ pienˋ coiˊ go loiˇ.", answer_hanzi: "西北", answer: "xiˊ bedˋ"}

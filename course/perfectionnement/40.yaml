@@ -37,7 +37,7 @@ dialogue:
   - n: 6
     speaker: 黃醫生
     en: "First, walking. I have an old friend who, since he retired, sits watching television every day."
-    sx: {hanzi: "先講行路。吾有一個老朋友，退休後逐日坐等看電視。", pinyin: "xienˊ gongˋ hangˇ lu. ngaˊ iuˊ idˋ ge loˋ penˇ iuˊ, tui hiuˊ heu dagˋ ngidˋ coˊ denˋ kon tien sii."}
+    sx: {hanzi: "先講行路。𠊎有一個老朋友，退休後逐日坐等看電視。", pinyin: "xienˊ gongˋ hangˇ lu. ngaiˇ iuˊ idˋ ge loˋ penˇ iuˊ, tui hiuˊ heu dagˋ ngidˋ coˊ denˋ kon tien sii."}
     check: true
   - n: 7
     speaker: 黃醫生
@@ -208,7 +208,7 @@ notes:
     topic: pronunciation
     text: >
       煞 read sadˋ is "decisive, resolute" (佢做事異煞); 煞手 in 進修 38 has the same reading. Read sod it is "finish, be
-      over" (戲做煞吔).
+      over": 戲做煞吔 (進修 38, line 30).
   - ref: 21
     topic: vocab
     text: >

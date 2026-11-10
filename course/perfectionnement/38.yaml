@@ -36,8 +36,8 @@ dialogue:
     sx: {hanzi: "佢當輒去人屋下白食。", pinyin: "giˇ dongˊ jiab hi nginˇ vugˋ kaˊ pag siid."}
   - n: 6
     speaker: 大嫂
-    en: "Someone who eats for free is not much better than a robber! And he doesn't only eat for free, he keeps teasing people too."
-    sx: {hanzi: "白食个人同強盜差無幾多！佢毋單淨白食，還輒輒撩人。", pinyin: "pag siid ge nginˇ tungˇ kiongˇ to caˊ moˇ giˋ doˊ! giˇ mˇ danˊ qiang pag siid, hanˇ jiab jiab liauˇ nginˇ."}
+    en: "Someone who eats for free is much the same as a robber! And he doesn't only eat for free, he keeps teasing people too."
+    sx: {hanzi: "白食个人同強盜差毋多！佢毋單淨白食，還輒輒撩人。", pinyin: "pag siid ge nginˇ tungˇ kiongˇ to caˊ mˇ doˊ! giˇ mˇ danˊ qiang pag siid, hanˇ jiab jiab liauˇ nginˇ."}
     check: true
   - n: 7
     speaker: 大嫂
@@ -94,8 +94,8 @@ dialogue:
     sx: {hanzi: "多練習就會熟絡。", pinyin: "doˊ lien xib qiu voi sug log."}
   - n: 18
     speaker: 阿旺姆
-    en: "Whose daughter? What's her name? I must go and find out."
-    sx: {hanzi: "麼人个妹仔？名姓安到麼个？𠊎愛去打探看啊。", pinyin: "maˋ nginˇ ge moi eˋ? miangˇ xiang onˊ do maˋ ge? ngaiˇ oi hi daˋ tamˋ kon a."}
+    en: "Whose daughter? What is she called? I must go and find out about her name."
+    sx: {hanzi: "麼人个妹仔？佢安到麼个名？厥名姓𠊎愛去打探看啊。", pinyin: "maˋ nginˇ ge moi eˋ? giˇ onˊ do maˋ ge miangˇ? giaˊ miangˇ xiang ngaiˇ oi hi daˋ tamˋ kon a."}
     check: true
   - n: 19
     speaker: 阿秀
@@ -139,7 +139,7 @@ dialogue:
   - n: 27
     speaker: 阿旺
     en: "Tomorrow I'm going to look for a job. Mum, I owe you so much for all these years. When I've made money, I'll build you a three-storey house to live in."
-    sx: {hanzi: "天光日𠊎就去尋頭路。阿姆，這兜年𠊎虧欠你當多。等𠊎賺著錢，起一棟三棧樓个屋分你歇。", pinyin: "tienˊ gongˊ ngidˋ ngaiˇ qiu hi qimˇ teuˇ lu. aˊ meˊ, iaˋ deuˊ ngienˇ ngaiˇ kuiˊ kiam nˇ dongˊ doˊ. denˋ ngaiˇ con doˋ qienˇ, hiˋ idˋ dung samˊ zan leuˇ ge vugˋ bunˊ nˇ hed."}
+    sx: {hanzi: "天光日𠊎就去尋頭路。阿姆，這幾年𠊎虧欠你當多。等𠊎賺著錢，起一棟三棧樓个屋分你歇。", pinyin: "tienˊ gongˊ ngidˋ ngaiˇ qiu hi qimˇ teuˇ lu. aˊ meˊ, iaˋ giˋ ngienˇ ngaiˇ kuiˊ kiam nˇ dongˊ doˊ. denˋ ngaiˇ con doˋ qienˇ, hiˋ idˋ dung samˊ zan leuˇ ge vugˋ bunˊ nˇ hed."}
     check: true
   - n: 28
     speaker: 阿旺姆

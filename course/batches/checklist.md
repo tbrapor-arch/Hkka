@@ -231,3 +231,24 @@ Read before writing a batch. Each point is something a reviewer caught in a draf
   it is not his "first winter" or "first New Year in Taiwan". 阿太 is Grandpa's father (lesson 65). Sam has a sister,
   Lucie (lesson 29). A-min has never met 鍾伯.
 - 2029: the twelfth lunar month has 29 days, so New Year's Eve (Mon 12 Feb) is the 29th; it is still 年三十.
+
+## Batch 6 (P36–P42), review of 10 Nov 2026
+A fresh agent reviewed the seven lessons against the database after lint showed 0 errors. Counts are official Sixian
+sentences / MOE examples. All findings below were fixed unless marked "left".
+- **Readings the draft tool got wrong:** 共下 kiung haˊ → kiung ha (P42); 輪著 lunˇ → linˊ, as lesson 92 (lunˇ is an
+  MOE-only reading, example 輪流) (P36); 無斯 moˇ siiˊ → moˇ siiˇ, the kaga115 entry (P41). Left: 斯 alone stays siiˊ,
+  as lesson 65 teaches it, although MOE gives siiˇ for 斯 "就".
+- **吾 as a subject**: 吾有一個老朋友 0 / 0; 吾 is always followed by a noun. → 𠊎有 (P40). 吾攤仔, 吾粄條 → 𠊎个 (P39).
+- **年下** alone: MOE says 四縣不說「年下」; 4 official sentences have 年下仔. → 年下仔, now a new word of P39.
+- **囥雨** 0 / 0 → 寄雨 gi iˋ (3 official), now a new word of P41.
+- **差無幾多** 0 / 0 → 差毋多 (26 / 31) (P38). **這兜年** 0 / 0 → 這幾年 (2 / 8) (P38). **一袋仔 + noun** 0 / 0 → 一袋
+  (3 official) (P37, P42). **細細間, 細細頭** 0 / 0 → 細細仔 (P39, P41). **名姓安到麼个** 0 / 0 → 佢安到麼个名 (P38).
+- **English:** 同人打炭礦 is "dig coal for other people" (official gloss 替人家), not "with the other men" (P41).
+- **Story:** P36 said "term started this week" on 27 Feb (it started on 19 Feb). P42 opened with "you haven't been for
+  so long", eight days after the outing of P41. P41 went by car and "walked home". P42 had 叔婆 mend the trousers Sam
+  mended himself in P37: now "last week".
+- **Notes:** MOE gives 粄圓 as the Hailu word, not "the other accents"; 落 has three readings; a course line quoted in
+  a note says which lesson it is from.
+- Left: 傑 is read kiedˋ in 14 places of the course and kied in 6 (MOE has only kied). To settle for the whole course.
+- Checked and found right: every other reading of 著, 好, 落, 行, 下, 上, 會, 分, 正, 喊, 歇, 還, 倒, 降, 兩, 煞; the 229
+  glosses; every sentence quoted in a note; all weekdays and lunar dates.

@@ -31,6 +31,9 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - 還好 + adjective is "very". "Not bad" is 會做得. Gloss 盡 every time ("very" or "most").
 
 ## Grammar a script cannot see
+- 吾, 若, 厥 go with family, home, school and body parts (吾屋下, 吾老弟). With goods and other nouns write 𠊎个 (𠊎个攤仔).
+- "Small" after a noun is 細細仔 (機關細細仔), not 細細間 or 細細頭. "What is X called" is X 安到麼个名.
+- 輪 "take turns" is linˊ (lesson 92), 共下 is kiung ha, 無斯 "or else" is moˇ siiˇ: the draft tool cannot know these.
 - "We": 𫣆兜 includes the listener, 𠊎兜 excludes. Check each one against who is listening (in a letter: writer +
   reader is 𫣆兜).
 - Demonstrative + classifier + noun (這隻柚仔). A bare noun only where an official sentence has it.

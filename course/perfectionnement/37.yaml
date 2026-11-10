@@ -110,7 +110,7 @@ dialogue:
     sx: {hanzi: "菜先買便來，隨時就有好食。", pinyin: "coi xienˊ maiˊ pien loiˇ, suiˇ siiˇ qiu iuˊ hoˋ siid."}
   - n: 26
     en: "When I got back, the old lady gave me a bag of vegetables and put it on my table."
-    sx: {hanzi: "轉來該下，叔婆分𠊎一袋仔菜，放在𠊎个桌仔面頂。", pinyin: "zonˋ loiˇ ge ha, sugˋ poˇ bunˊ ngaiˇ idˋ toi eˋ coi, biong coiˊ ngaiˇ ge zogˋ eˋ mien dangˋ."}
+    sx: {hanzi: "轉來該下，叔婆分𠊎一袋菜，放在𠊎个桌仔面頂。", pinyin: "zonˋ loiˇ ge ha, sugˋ poˇ bunˊ ngaiˇ idˋ toi coi, biong coiˊ ngaiˇ ge zogˋ eˋ mien dangˋ."}
     check: true
   - n: 27
     en: "These vegetables haven't been sprayed: you can eat them without worry."

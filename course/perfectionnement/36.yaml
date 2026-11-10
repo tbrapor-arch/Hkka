@@ -16,8 +16,8 @@ dialogue:
     sx: {hanzi: "Sam 恁久無來吔！今晡日正月半，暗晡夜愛食雪圓仔。", pinyin: "Sam anˋ giuˋ moˇ loiˇ leˊ! gimˊ buˊ ngidˋ zangˊ ngied ban, am buˊ ia oi siid xiedˋ ienˇ eˋ."}
   - n: 2
     speaker: Sam
-    en: "Term started this week, so I've been busy. This term I have to pass the university's exam first; only then can I sit the intermediate test."
-    sx: {hanzi: "因爭這禮拜開學，故所較無閒。這學期𠊎愛先通過學校个考試，正做得去考中級。", pinyin: "inˊ zenˊ iaˋ liˊ bai koiˊ hog, gu soˋ ka moˇ hanˇ. iaˋ hog kiˇ ngaiˇ oi xienˊ tungˊ go hog gauˋ ge kauˋ sii, zang zo dedˋ hi kauˋ zungˊ kibˋ."}
+    en: "Term started last week, so I've been busy. This term I have to pass the university's exam first; only then can I sit the intermediate test."
+    sx: {hanzi: "因爭上禮拜開學，故所較無閒。這學期𠊎愛先通過學校个考試，正做得去考中級。", pinyin: "inˊ zenˊ song liˊ bai koiˊ hog, gu soˋ ka moˇ hanˇ. iaˋ hog kiˇ ngaiˇ oi xienˊ tungˊ go hog gauˋ ge kauˋ sii, zang zo dedˋ hi kauˋ zungˊ kibˋ."}
   - n: 3
     speaker: 阿婆
     en: "In the old days, at New Year and festivals, most people ground their own rice for the cakes."
@@ -147,7 +147,7 @@ dialogue:
     speaker: 阿英
     en: "Today it's your turn to take out the rubbish."
     source: kaga115
-    sx: {hanzi: "今晡日輪著你倒地圾。", pinyin: "gimˊ buˊ ngidˋ lunˇ doˋ nˇ doˋ ti sebˋ."}
+    sx: {hanzi: "今晡日輪著你倒地圾。", pinyin: "gimˊ buˊ ngidˋ linˊ doˋ nˇ doˋ ti sebˋ."}
 
 notes:
   - ref: 0
@@ -160,7 +160,7 @@ notes:
     topic: vocab
     text: >
       正月半 zangˊ ngied ban is "the fifteenth of the first month", the lantern festival. Its rice balls are 雪圓仔 xiedˋ
-      ienˇ eˋ in Sixian; the MOE dictionary gives 粄圓 as the word of the other accents.
+      ienˇ eˋ in Sixian; the MOE dictionary gives 粄圓 as the Hailu word.
   - ref: 2
     topic: grammar
     text: >
@@ -182,7 +182,7 @@ notes:
   - ref: 10
     topic: pronunciation
     text: >
-      落 has two readings. log "fall, come down" as in 落雨. lau "come loose and drop off", the one here. 繫 gieˊ "tie,
+      落 has three readings, and two are met here. log "fall, come down" as in 落雨. lau "come loose and drop off", the one here. 繫 gieˊ "tie,
       fasten" (繫皮帶仔); 緪 henˇ "tight". 尺 cagˋ is the Taiwanese foot, about 30 cm.
   - ref: 11
     topic: vocab
@@ -225,13 +225,12 @@ notes:
   - ref: 30
     topic: vocab
     text: >
-      輪著你 lunˇ doˋ nˇ "it is your turn": 輪 lunˇ "take turns". 做下 zo ha "all, the whole lot" (樹仔做下燒淨淨). 同時 tungˇ siiˇ
+      輪著你 linˊ doˋ nˇ "it is your turn": 輪 linˊ "take turns" (lesson 92). 做下 zo ha "all, the whole lot" (樹仔做下燒淨淨). 同時 tungˇ siiˇ
       "at the same time". 倒地圾 doˋ ti sebˋ "take out the rubbish": 倒 doˋ "tip out, pour away".
 
 new_words:
   - {hanzi: "雪圓仔", pinyin: "xiedˋ ienˇ eˋ", en: "rice balls (tangyuan)"}
   - {hanzi: "中", pinyin: "zungˊ", en: "middle; intermediate"}
-  - {hanzi: "輪", pinyin: "lunˇ", en: "take turns; be the turn of"}
   - {hanzi: "因爭", pinyin: "inˊ zenˊ", en: "because"}
   - {hanzi: "通過", pinyin: "tungˊ go", en: "pass (an exam), get through"}
   - {hanzi: "磨", pinyin: "mo", en: "grind"}
