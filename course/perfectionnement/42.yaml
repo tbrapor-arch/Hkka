@@ -1,0 +1,177 @@
+id: 42
+genre: review
+title:
+  en: "Practise more and it will come easily"
+  sx: {hanzi: "多練習就會熟絡", pinyin: "doˊ lien xib qiu voi sug log"}
+review: true
+setting: >-
+  Sunday 15 April 2029, lunch at the Liu house. 阿舅 has come over from 竹東. Sam has not been for a while. Review of 進修
+  36–41: no new words.
+names: [Sam, 阿公, 阿婆, 阿舅, 叔婆, 阿明, 阿英, 阿傑, 黃醫生]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, you haven't been for so long! Is the studying going more smoothly these days?"
+    sx: {hanzi: "Sam，你恁久無來吔！這下讀書有較順序無？", pinyin: "Sam, nˇ anˋ giuˋ moˇ loiˇ leˊ! iaˋ ha tug suˊ iuˊ ka sun xi moˇ?"}
+  - n: 2
+    speaker: Sam
+    en: "I've made a little progress. The classmates in my group study together once a week, and I don't dare work by fits and starts any more."
+    sx: {hanzi: "略略仔有進步。同組个同學逐禮拜共下讀一擺書，𠊎毋敢再過三日打魚四日晒網吔。", pinyin: "liog liog eˋ iuˊ jin pu. tungˇ zuˊ ge tungˇ hog dagˋ liˊ bai kiung ha tug idˋ baiˋ suˊ, ngaiˇ mˇ gamˋ zai go samˊ ngidˋ daˋ ngˇ xi ngidˋ sai miongˋ leˊ."}
+    check: true
+  - n: 3
+    speaker: 阿公
+    en: "Last month I went to hear Dr 黃's talk. He said old people should go out for a walk often: that is how the legs stay strong."
+    sx: {hanzi: "上隻月𠊎去聽黃醫生講演。佢講，老人家不時愛出門行行啊，腳力正會好。", pinyin: "song zagˋ ngied ngaiˇ hi tangˊ vongˇ iˊ senˊ gongˋ ienˊ. giˇ gongˋ, loˋ nginˇ gaˊ budˋ siiˇ oi cudˋ munˇ hangˇ hangˇ a, giogˋ lid zang voi hoˋ."}
+  - n: 4
+    speaker: 阿婆
+    en: "He also said not to hold your water, and not to smoke. Your grandfather listened, and buys more cigarettes than before instead!"
+    sx: {hanzi: "佢乜講毋好禁尿、毋好哺菸。你阿公聽吔，顛倒買較多菸！", pinyin: "giˇ me gongˋ mˇ hoˋ gim ngiau, mˇ hoˋ buˇ ienˊ. nˇ aˊ gungˊ tangˊ leˊ, dienˊ do maiˊ ka doˊ ienˊ!"}
+    check: true
+  - n: 5
+    speaker: 阿公
+    en: "Not at all! I've cut down a lot."
+    sx: {hanzi: "哪有！𠊎減少當多吔。", pinyin: "nai iuˊ! ngaiˇ gamˋ seuˋ dongˊ doˊ leˊ."}
+  - n: 6
+    speaker: 阿明
+    en: "And when something is wrong with Grandpa, he won't see a doctor either."
+    sx: {hanzi: "阿公有毛病乜毋肯看醫生。", pinyin: "aˊ gungˊ iuˊ moˊ piang me mˇ henˋ kon iˊ senˊ."}
+  - n: 7
+    speaker: 阿舅
+    en: "Hello everyone! I've brought a stack of flat noodles: it's all for you."
+    sx: {hanzi: "大家好！𠊎帶一落粄條來，通棚分你兜。", pinyin: "tai gaˊ hoˋ! ngaiˇ dai idˋ labˋ banˋ tiauˇ loiˇ, tungˊ pangˇ bunˊ nˇ deuˊ."}
+  - n: 8
+    speaker: 阿英
+    en: "Uncle, the listeners said your story was very good. Is there still as much work these days?"
+    sx: {hanzi: "阿舅，聽眾講你个故事當好聽。這下事頭還係恁多無？", pinyin: "aˊ kiuˊ, tangˊ zung gongˋ nˇ ge gu sii dongˊ hoˋ tangˊ. iaˋ ha se teuˇ hanˇ he anˋ doˊ moˇ?"}
+  - n: 9
+    speaker: 阿舅
+    en: "Still overtime every day. Luckily A-kied gets things done: I've made him the manager."
+    sx: {hanzi: "還係日日加班。好得阿傑做事煞手，𠊎喊佢做主管吔。", pinyin: "hanˇ he ngidˋ ngidˋ gaˊ banˊ. hoˋ dedˋ aˊ kiedˋ zo se sadˋ suˋ, ngaiˇ ham giˇ zo zuˋ gonˋ leˊ."}
+    check: true
+  - n: 10
+    speaker: 阿舅
+    en: "At the end of the month there's money to collect and accounts to keep: the accountant can't get through it alone."
+    sx: {hanzi: "月底愛撿錢、記數，會計一儕人做毋去。", pinyin: "ngied daiˋ oi giamˋ qienˇ, gi sii, fi gie idˋ saˇ nginˇ zo mˇ hi."}
+    check: true
+  - n: 11
+    speaker: 阿明
+    en: "Uncle, can I come and help at your factory in the summer? I don't want to eat for free."
+    sx: {hanzi: "阿舅，熱天𠊎做得去你工廠𢯭手無？𠊎毋想白食。", pinyin: "aˊ kiuˊ, ngied tienˊ ngaiˇ zo dedˋ hi nˇ gungˊ congˋ ten suˋ moˇ? ngaiˇ mˇ xiongˋ pag siid."}
+  - n: 12
+    speaker: 阿公
+    en: "You? Last time we went out to see the country, you ate nothing but sweets: sweets for a meal!"
+    sx: {hanzi: "你？上擺去遶光景，你淨食糖仔，糖仔準飯食！", pinyin: "nˇ? song baiˋ hi lauˊ gongˊ ginˋ, nˇ qiang siid tongˇ eˋ, tongˇ eˋ zunˋ fan siid!"}
+    check: true
+  - n: 13
+    speaker: 阿明
+    en: "Grandpa's teasing me again. I'm telling Grandma!"
+    sx: {hanzi: "阿公又撩𠊎。𠊎愛投阿婆！", pinyin: "aˊ gungˊ iu liauˇ ngaiˇ. ngaiˇ oi teuˇ aˊ poˇ!"}
+  - n: 14
+    speaker: 阿英
+    en: "At your age, still like this: people will say you'll never come to anything."
+    sx: {hanzi: "你恁大吔還恁樣，會分人講無出息。", pinyin: "nˇ anˋ tai leˊ hanˇ anˋ ngiongˇ, voi bunˊ nginˇ gongˋ moˇ cudˋ xidˋ."}
+    check: true
+  - n: 15
+    speaker: 阿婆
+    en: "All right, all right. Sam, how is the old lady up your lane?"
+    sx: {hanzi: "好吔，好吔。Sam，上屋个叔婆身體好無？", pinyin: "hoˋ leˊ, hoˋ leˊ. Sam, song vugˋ ge sugˋ poˇ siinˊ tiˋ hoˋ moˇ?"}
+  - n: 16
+    speaker: Sam
+    en: "Very well. She even mended my trousers for me, and whenever she has vegetables she gives me a bagful."
+    sx: {hanzi: "當好。佢還擎針摎𠊎補褲，隨時有菜就分𠊎一袋仔。", pinyin: "dongˊ hoˋ. giˇ hanˇ kiaˇ ziimˊ lauˊ ngaiˇ buˋ fu, suiˇ siiˇ iuˊ coi qiu bunˊ ngaiˇ idˋ toi eˋ."}
+    check: true
+  - n: 17
+    speaker: Sam
+    en: "I really ought to ask her to dinner. But what I should cook as the host, I haven't worked out yet."
+    sx: {hanzi: "𠊎該當愛請佢食飯。毋過做主人愛煮麼个，𠊎還吂想好。", pinyin: "ngaiˇ goiˊ dongˊ oi qiangˋ giˇ siid fan. mˇ go zo zuˋ nginˇ oi zuˋ maˋ ge, ngaiˇ hanˇ mangˇ xiongˋ hoˋ."}
+    check: true
+  - n: 18
+    speaker: 阿婆
+    en: "I'll teach you to stew pork. Pork dipped in soy sauce is delicious."
+    sx: {hanzi: "𠊎教你燉豬肉。豬肉蘸豆油，當好食。", pinyin: "ngaiˇ gauˊ nˇ dunˊ zuˊ ngiugˋ. zuˊ ngiugˋ jiamˋ teu iuˇ, dongˊ hoˋ siid."}
+    check: true
+  - n: 19
+    speaker: 阿明
+    en: "Sam will make a mess of the pork. He can't even roll a rice ball round!"
+    sx: {hanzi: "Sam 會同豬肉搣到壞壞。佢連雪圓仔都挼毋圓！", pinyin: "Sam voi tungˇ zuˊ ngiugˋ medˋ do faiˋ faiˋ. giˇ lienˇ xiedˋ ienˇ eˋ du noˇ mˇ ienˇ!"}
+    check: true
+  - n: 20
+    speaker: Sam
+    en: "A few more tries and I'll get the hang of it."
+    sx: {hanzi: "𠊎多做幾擺就會熟絡。", pinyin: "ngaiˇ doˊ zo giˋ baiˋ qiu voi sug log."}
+  - n: 21
+    speaker: 阿公
+    en: "Talking of food makes me hungry. A-min, bring the watermelon and cut it in half: a piece each."
+    sx: {hanzi: "講著食，𠊎就肚飢吔。阿明，西瓜拿來，對半破，一儕一析。", pinyin: "gongˋ doˋ siid, ngaiˇ qiu duˋ giˊ leˊ. aˊ minˇ, xiˊ guaˊ naˊ loiˇ, dui ban po, idˋ saˇ idˋ sagˋ."}
+    check: true
+  - n: 22
+    speaker: 阿舅
+    en: "After lunch I must be going. The wind will get up tonight and the mountain road is winding: it's safer to leave a bit early."
+    sx: {hanzi: "食飽𠊎愛轉吔。暗晡夜會起風，山路又彎，早兜仔走較安心。", pinyin: "siid bauˋ ngaiˇ oi zonˋ leˊ. am buˊ ia voi hiˋ fungˊ, sanˊ lu iu vanˊ, zoˋ deuˊ eˋ zeuˋ ka onˊ ximˊ."}
+    check: true
+  - n: 23
+    speaker: 阿婆
+    en: "There's a lot of traffic: you take care."
+    sx: {hanzi: "車仔多，你自家愛注意。", pinyin: "caˊ eˋ doˊ, nˇ qi gaˊ oi zu i."}
+  - n: 24
+    speaker: Sam
+    en: "Next time shall we all go and see the waterfall together?"
+    sx: {hanzi: "𫣆這兜下擺共下去看水沖，好無？", pinyin: "enˊ iaˋ deuˊ ha baiˋ kiung haˊ hi kon suiˋ cungˇ, hoˋ moˇ?"}
+
+notes:
+  - ref: 0
+    topic: vocab
+    text: >
+      The title is the official sentence of 進修 38, line 17. This review brings back words from the six lessons
+      before it: 順序, 略略仔, 光景, 準, 析, 起風, 彎, 水沖 (41); 不時, 腳力, 禁尿, 哺菸, 顛倒, 減少, 毛病 (40); 落, 事頭, 加班, 主管, 撿錢, 記數, 會計, 早兜仔
+      (39); 通棚, 煞手, 白食, 撩, 出息, 熟絡 (38); 組, 上屋, 擎針, 隨時, 袋仔, 該當, 主人, 𫣆這兜 (37); 投, 燉, 蘸, 搣, 雪圓仔, 挼, 破 (36).
+  - ref: 2
+    topic: vocab
+    text: >
+      三日打魚四日晒網 "work by fits and starts" is the title of 進修 22.
+  - ref: 7
+    topic: pronunciation
+    text: >
+      一落 idˋ labˋ "a stack": 落 as a measure is read labˋ (進修 39).
+  - ref: 12
+    topic: grammar
+    text: >
+      糖仔準飯食 "sweets eaten as a meal": 準 "serve as" stands between the thing and what it replaces (進修 41, line 20).
+  - ref: 17
+    topic: vocab
+    text: >
+      做主人 "be the host": the rule of 進修 37, 主人吂食，你仰好先食？, now applies to Sam.
+
+new_words:
+
+exercises:
+  translate:
+    - en: "When you buy something, you have to pay."
+      source: kaga115
+      sx: {hanzi: "買東西愛撿錢分人。", pinyin: "maiˊ dungˊ xiˊ oi giamˋ qienˇ bunˊ nginˇ."}
+    - en: "Go out and see the country."
+      source: kaga115
+      sx: {hanzi: "出去遶光景。", pinyin: "cudˋ hi lauˊ gongˊ ginˋ."}
+    - en: "She is the school's accountant."
+      source: kaga115
+      sx: {hanzi: "佢在學校做會計。", pinyin: "giˇ coiˊ hog gauˋ zo fi gie."}
+    - en: "These vegetables have been sprayed."
+      source: kaga115
+      sx: {hanzi: "這菜有洩藥仔。", pinyin: "iaˋ coi iuˊ xied iog eˋ."}
+    - en: "Split firewood."
+      source: kaga115
+      sx: {hanzi: "破樵。", pinyin: "po ceuˇ."}
+  fill:
+    - en: "Dip it in soy sauce."
+      sx: {hanzi: "___豆油。", pinyin: "___ teu iuˇ.", answer_hanzi: "蘸", answer: "jiamˋ"}
+    - en: "Dad does overtime every day: he's very busy."
+      sx: {hanzi: "阿爸逐日___，當無閒。", pinyin: "aˊ baˊ dagˋ ngidˋ ___, dongˊ moˇ hanˇ.", answer_hanzi: "加班", answer: "gaˊ banˊ"}
+    - en: "Don't get too close to him."
+      sx: {hanzi: "毋好同佢行忒___。", pinyin: "mˇ hoˋ tungˇ giˇ hangˇ tedˋ ___.", answer_hanzi: "兼", answer: "giamˊ"}
+    - en: "There isn't much cloud in the sky."
+      sx: {hanzi: "天頂___雲。", pinyin: "tienˊ dangˋ ___ iunˇ.", answer_hanzi: "無麼个", answer: "moˇ maˋ ge"}
+    - en: "My brother's job hunt isn't going smoothly."
+      sx: {hanzi: "阿哥尋頭路毋___。", pinyin: "aˊ goˊ qimˇ teuˇ lu mˇ ___.", answer_hanzi: "順序", answer: "sun xi"}
+
+audio: []
