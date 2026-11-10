@@ -58,3 +58,6 @@ style of 採茶戲, not a sung one.
 - P45, Sat 28 Apr afternoon, the open day at 阿舅's factory in 竹東 (thread of P39 closed). Thirty-odd children;
   阿傑 guides, the master cooks noodles, nobody pays. A-min asks to work there in the summer: 阿舅 says yes, come
   and look around first.
+- P46, Sun 6 May, Sam's letter to 鍾伯 and 鍾伯姆 (answers P32). His exam is "next week" (about 14–18 May). A power
+  cut and a water cut "last week". Grandma has taught him to stir-fry pig's kidneys. A-min caught a cold after clam
+  hunting on Sun 29 Apr. Sam asks whether 阿財哥 is planting again.

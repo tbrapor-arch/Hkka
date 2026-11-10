@@ -1,0 +1,289 @@
+id: 46
+genre: letter
+title:
+  en: "Work hard and your day will come"
+  sx: {hanzi: "煞猛打拚，總有一日會出頭", pinyin: "sadˋ mangˊ daˋ biang, zungˋ iuˊ idˋ ngidˋ voi cudˋ teuˇ"}
+review: false
+setting: >-
+  Sunday 6 May 2029. Sam writes to 鍾伯 and 鍾伯姆 in 美濃, a week before his university exam: his days, the old lady up
+  the lane, the Liu family.
+names: [Sam, 鍾伯, 鍾伯姆, 阿財哥, 美濃, 苗栗, 阿公, 阿婆, 阿舅, 阿明]
+
+dialogue:
+  - n: 1
+    en: "Uncle Zhong, Aunt Zhong: how are you both? I'm sorry I haven't written for so long."
+    sx: {hanzi: "鍾伯、鍾伯姆：你兜人好無？恁久無寫信仔，失禮。", pinyin: "zungˊ bagˋ, zungˊ bagˋ meˊ: nˇ deuˊ nginˇ hoˋ moˇ? anˋ giuˋ moˇ xiaˋ xin eˋ, siidˋ liˊ."}
+    check: true
+  - n: 2
+    en: "It is May and Miaoli is getting hotter and hotter. My room faces west and is very hot in the afternoon, though the mornings are still cool."
+    sx: {hanzi: "五月吔，苗栗緊來緊熱。𠊎个間房向西片，下晝當熱，毋過朝晨還涼涼。", pinyin: "ngˋ ngied leˊ, meuˇ lid ginˋ loiˇ ginˋ ngied. ngaiˇ ge gienˊ fongˇ hiong xiˊ pienˋ, haˊ zu dongˊ ngied, mˇ go zeuˊ siinˇ hanˇ liongˇ liongˇ."}
+    check: true
+  - n: 3
+    en: "The mornings are rather cool: an extra waistcoat is just right."
+    source: kaga115
+    sx: {hanzi: "朝晨天時有較涼，著加一領裌仔較堵好。", pinyin: "zeuˊ siinˇ tienˊ siiˇ iuˊ ka liongˇ, zogˋ gaˊ idˋ liangˊ gabˋ eˇ ka duˋ hoˋ."}
+  - n: 4
+    en: "In hot weather a cold wash feels very good."
+    source: kaga115
+    sx: {hanzi: "熱天洗冷水當鬆爽。", pinyin: "ngied tienˊ seˋ langˊ suiˋ dongˊ sungˊ songˋ."}
+  - n: 5
+    en: "Grandpa is very sturdy: he washes in cold water all the year round. I am not so sturdy, what can I do? In winter I still need hot water."
+    sx: {hanzi: "阿公身體當砸，一年透天都用冷水洗身。𠊎無恁砸，有麼个法度？寒天還係愛洗燒水。", pinyin: "aˊ gungˊ siinˊ tiˋ dongˊ zabˋ, idˋ ngienˇ teu tienˊ du iung langˊ suiˋ seˋ siinˊ. ngaiˇ moˇ anˋ zabˋ, iuˊ maˋ ge fabˋ tu? honˇ tienˊ hanˇ he oi seˋ seuˊ suiˋ."}
+    check: true
+  - n: 6
+    en: "Next week I have my exam."
+    sx: {hanzi: "下禮拜𠊎愛考試。", pinyin: "ha liˊ bai ngaiˇ oi kauˋ sii."}
+    check: true
+  - n: 7
+    en: "This exam covers a lot of ground."
+    source: kaga115
+    sx: {hanzi: "這擺考試个範圍當闊。", pinyin: "iaˋ baiˋ kauˋ sii ge fam viˇ dongˊ fadˋ."}
+  - n: 8
+    en: "I study till midnight every night, then brush my teeth and go to bed."
+    sx: {hanzi: "𠊎逐暗晡讀到半夜，洗嘴過後正去睡。", pinyin: "ngaiˇ dagˋ am buˊ tug do ban ia, seˋ zoi go heu zang hi soi."}
+    check: true
+  - n: 9
+    en: "With a thermos flask in the room, it is handier when you want hot water to drink."
+    source: kaga115
+    sx: {hanzi: "間房項放一隻暖壺，愛食滾水就較便。", pinyin: "gienˊ fongˇ hong biong idˋ zagˋ nonˊ fuˇ, oi siid gunˋ suiˋ qiu ka pien."}
+  - n: 10
+    en: "In the morning rush I forgot to take my lunch box."
+    source: kaga115
+    sx: {hanzi: "朝晨緊拚拚仔，飯包嗄毋記得帶著。", pinyin: "zeuˊ siinˇ ginˋ biang biang eˋ, fan bauˊ sa mˇ gi dedˋ dai doˋ."}
+  - n: 11
+    en: "One evening last week the power went off, and I read by torchlight. The next day the water was cut off, and the tap water only came back in the afternoon."
+    sx: {hanzi: "上禮拜有一暗晡停電，𠊎拿手電筒看書。隔日又停水，到下晝水道水正來。", pinyin: "song liˊ bai iuˊ idˋ am buˊ tinˇ tien, ngaiˇ naˊ suˋ tien tungˇ kon suˊ. gagˋ ngidˋ iu tinˇ suiˋ, do haˊ zu suiˋ to suiˋ zang loiˇ."}
+    check: true
+  - n: 12
+    en: "Up the lane there is an old lady who lives alone and often leaves a note on my door calling me in for a meal. Her vegetable garden is really big."
+    sx: {hanzi: "上屋有一個叔婆，自家一儕人歇，時常在𠊎个門項留一張紙條仔，喊𠊎去食飯。厥菜園嶄然闊。", pinyin: "song vugˋ iuˊ idˋ ge sugˋ poˇ, qi gaˊ idˋ saˇ nginˇ hed, siiˇ songˇ coiˊ ngaiˇ ge munˇ hong liuˇ idˋ zongˊ ziiˋ tiauˇ eˋ, ham ngaiˇ hi siid fan. giaˊ coi ienˇ zamˋ ienˇ fadˋ."}
+    check: true
+  - n: 13
+    en: "She sits under the tree fanning herself, and I help her by cutting the weeds."
+    sx: {hanzi: "佢坐在樹下撥扇仔，𠊎同佢𢯭手伐草。", pinyin: "giˇ coˊ coiˊ su haˊ padˋ san eˋ, ngaiˇ tungˇ giˇ ten suˋ padˋ coˋ."}
+    check: true
+  - n: 14
+    en: "I sweep the leaves off the ground with the bamboo broom."
+    source: kaga115
+    sx: {hanzi: "用祛把掃地泥項个葉仔。", pinyin: "iung kia baˋ so ti naiˇ hong ge iab eˋ."}
+  - n: 15
+    en: "Grandma teaches me a lot of manners."
+    sx: {hanzi: "阿婆教𠊎當多規矩。", pinyin: "aˊ poˇ gauˊ ngaiˇ dongˊ doˊ guiˊ giˋ."}
+    check: true
+  - n: 16
+    en: "When you go to someone's house, don't step on their threshold."
+    source: kaga
+    sx: {hanzi: "去人屋下，毋好踏人个門檻。", pinyin: "hi nginˇ vugˋ kaˊ, mˇ hoˋ tab nginˇ ge munˇ kiamˊ."}
+  - n: 17
+    en: "Grandma has also taught me to stir-fry pig's kidneys. She says to be careful with the pinch of salt and not to put in too much."
+    sx: {hanzi: "阿婆還教𠊎炒豬腰仔。佢講撮鹽愛細義，毋好放忒多。", pinyin: "aˊ poˇ hanˇ gauˊ ngaiˇ cauˋ zuˊ ieuˊ eˋ. giˇ gongˋ zebˋ iamˇ oi se ngi, mˇ hoˋ biong tedˋ doˊ."}
+    check: true
+  - n: 18
+    en: "Last Sunday A-min and I went to the river to feel for clams, and our trouser legs got soaked."
+    sx: {hanzi: "上禮拜日𠊎同阿明去河壩覓蜆仔，褲腳溼忒吔。", pinyin: "song liˊ bai ngidˋ ngaiˇ tungˇ aˊ minˇ hi hoˇ ba mi hanˋ eˇ, fu giogˋ siibˋ tedˋ leˊ."}
+    check: true
+  - n: 19
+    en: "He was told to put on another layer before going out, and he just would not listen."
+    source: kaga115
+    sx: {hanzi: "喊佢著加一領衫出門，佢偏偏毋聽人講。", pinyin: "ham giˇ zogˋ gaˊ idˋ liangˊ samˊ cudˋ munˇ, giˇ pienˊ pienˊ mˇ tangˊ nginˇ gongˋ."}
+  - n: 20
+    en: "Now he has caught a cold."
+    sx: {hanzi: "這下佢寒著吔。", pinyin: "iaˋ ha giˇ honˇ doˋ leˊ."}
+    check: true
+  - n: 21
+    en: "This medicine doesn't work very well."
+    source: kaga115
+    sx: {hanzi: "這藥仔效果無異好。", pinyin: "iaˋ iog eˋ hauˋ goˋ moˇ i hoˋ."}
+  - n: 22
+    en: "A-min's school had a choir contest, and his class came second."
+    sx: {hanzi: "阿明个學校比合唱，厥班得著亞軍。", pinyin: "aˊ minˇ ge hog gauˋ biˋ hab cong, giaˊ banˊ dedˋ doˋ aˋ giunˊ."}
+    check: true
+  - n: 23
+    en: "The contest was very fierce."
+    source: kaga115
+    sx: {hanzi: "比賽十分激烈。", pinyin: "biˋ soi siib funˊ gidˋ lied."}
+  - n: 24
+    en: "Uncle's factory had an open day for children."
+    sx: {hanzi: "阿舅个工廠開放分細人仔參觀。", pinyin: "aˊ kiuˊ ge gungˊ congˋ koiˊ fong bunˊ se nginˇ eˋ camˊ gonˊ."}
+    check: true
+  - n: 25
+    en: "His business is doing very well: he makes a good deal of money every month."
+    source: kaga115
+    sx: {hanzi: "佢生理異好，逐個月賺不少錢。", pinyin: "giˇ senˊ liˊ i hoˋ, dagˋ ge ngied con budˋ seuˋ qienˇ."}
+  - n: 26
+    en: "The night market sells all sorts of things: I bought two tops and a tube of toothpaste."
+    sx: {hanzi: "夜市有賣各式各樣个東西，𠊎買兩領衫同一條牙膏。", pinyin: "ia sii iuˊ mai gogˋ siidˋ gogˋ iong ge dungˊ xiˊ, ngaiˇ maiˊ liongˋ liangˊ samˊ tungˇ idˋ tiauˇ ngaˇ gauˊ."}
+    check: true
+  - n: 27
+    en: "The clothes sold at the night market are cheaper."
+    source: kaga115
+    sx: {hanzi: "夜市仔賣个服裝價數較便宜。", pinyin: "ia sii eˋ mai ge fug zongˊ ga sii ka pienˇ ngiˇ."}
+  - n: 28
+    en: "I hear A-cai is growing vegetables again: is that true? How many hectares are you farming this year?"
+    sx: {hanzi: "聽講阿財哥又種菜吔，這係真實个無？你兜人今年耕幾多甲田？", pinyin: "tangˊ gongˋ aˊ coiˇ goˊ iu zung coi leˊ, iaˋ he ziinˊ siid ge moˇ? nˇ deuˊ nginˇ gimˊ ngienˇ gangˊ giˋ doˊ gabˋ tienˇ?"}
+    check: true
+  - n: 29
+    en: "Grandpa tells me: \"Work hard, and one day you will make it.\""
+    sx: {hanzi: "阿公同𠊎講：「煞猛打拚，總有一日會出頭。」", pinyin: "aˊ gungˊ tungˇ ngaiˇ gongˋ: sadˋ mangˊ daˋ biang, zungˋ iuˊ idˋ ngidˋ voi cudˋ teuˇ."}
+    check: true
+  - n: 30
+    en: "I wish you both peace and all that goes well. Sam"
+    sx: {hanzi: "祝你兜人平安順序。Sam", pinyin: "zugˋ nˇ deuˊ nginˇ pinˇ onˊ sun xi. Sam"}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is an official sentence, quoted in line 29: 總有 zungˋ iuˊ "there will always be", so 總有一日 "one day,
+      sooner or later". The letter answers 鍾伯's letter of 進修 32.
+  - ref: 1
+    topic: grammar
+    text: >
+      你兜人 nˇ deuˊ nginˇ "you" (plural): the same as 你兜, with 人 added (你兜人等下愛去哪？).
+  - ref: 2
+    topic: vocab
+    text: >
+      西片 xiˊ pienˋ "the west side" (日頭對西片落山 "the sun sets in the west").
+  - ref: 3
+    topic: vocab
+    text: >
+      裌仔 gabˋ eˇ "waistcoat, sleeveless jacket". 著 "put on, wear" is read zogˋ.
+  - ref: 4
+    topic: vocab
+    text: >
+      冷水 langˊ suiˋ "cold water"; the list also gives "unboiled water". 燒水 seuˊ suiˋ in line 5 is "hot water"
+      (莫分燒水熝著哦！ "don't get scalded by the hot water!").
+  - ref: 5
+    topic: vocab
+    text: >
+      砸 zabˋ "sturdy, strong" (身體當砸). 法度 fabˋ tu "way, means": 有麼个法度？ "what can one do?"; 無法度 is from lesson 60.
+  - ref: 7
+    topic: vocab
+    text: >
+      範圍 fam viˇ "range, scope".
+  - ref: 8
+    topic: vocab
+    text: >
+      洗嘴 seˋ zoi "brush one's teeth".
+  - ref: 9
+    topic: vocab
+    text: >
+      暖壺 nonˊ fuˇ "thermos flask". 飯包 fan bauˊ in line 10 is "lunch box".
+  - ref: 11
+    topic: vocab
+    text: >
+      手電筒 suˋ tien tungˇ "torch" (停電吔，去拿手電筒出來). 隔日 gagˋ ngidˋ "the next day". 水道水 suiˋ to suiˋ "tap water"
+      (這下莊下乜有水道水好用).
+  - ref: 12
+    topic: vocab
+    text: >
+      時常 siiˇ songˇ "often". 紙條仔 ziiˋ tiauˇ eˋ "note, slip of paper" (出門前，留張紙條仔分阿姆放心). 嶄然 zamˋ ienˇ "quite, really"
+      (這會場嶄然闊). 上屋叔婆 is from 進修 37.
+  - ref: 13
+    topic: vocab
+    text: >
+      扇仔 san eˋ "fan": 撥扇仔 "fan oneself" (撥 is from 進修 45). 伐草 padˋ coˋ "cut down weeds" (掛紙前兩日，阿叔去伐草). 祛把 kia baˋ
+      in line 14 is a broom of bamboo twigs.
+  - ref: 16
+    topic: culture
+    text: >
+      門檻 munˇ kiamˊ "threshold". The rule is in the official sentence itself.
+  - ref: 17
+    topic: vocab
+    text: >
+      豬腰仔 zuˊ ieuˊ eˋ "pig's kidney". 撮鹽 zebˋ iamˇ "take a pinch of salt": 一撮鹽 "a pinch of salt".
+  - ref: 18
+    topic: vocab
+    text: >
+      覓蜆仔 mi hanˋ eˇ "feel for clams" in the river bed (朝晨𠊎去河壩覓蜆仔). 褲腳 fu giogˋ "trouser leg".
+  - ref: 19
+    topic: vocab
+    text: >
+      偏偏 pienˊ pienˊ "wilfully, just the opposite of what was asked".
+  - ref: 21
+    topic: vocab
+    text: >
+      效果 hauˋ goˋ "effect". 激烈 gidˋ lied in line 23 is "fierce, intense". The choir contest is in 進修 44.
+  - ref: 25
+    topic: vocab
+    text: >
+      不少 budˋ seuˋ "quite a lot". The open day is in 進修 45.
+  - ref: 26
+    topic: vocab
+    text: >
+      各式各樣 gogˋ siidˋ gogˋ iong "of all kinds" (店項有賣各式各樣个褲). 牙膏 ngaˇ gauˊ "toothpaste": the measure is 條. 服裝 fug
+      zongˊ in line 27 is "clothes".
+  - ref: 28
+    topic: vocab
+    text: >
+      真實 ziinˊ siid "true, real" (你講个係真實个無？). 甲 gabˋ is a measure of land, a little less than a hectare (佢這下還耕歸十甲田).
+      阿財哥 had too many cabbages in 進修 32.
+
+new_words:
+  - {hanzi: "你兜人", pinyin: "nˇ deuˊ nginˇ", en: "you (plural)"}
+  - {hanzi: "裌仔", pinyin: "gabˋ eˇ", en: "waistcoat, sleeveless jacket"}
+  - {hanzi: "冷水", pinyin: "langˊ suiˋ", en: "cold water; unboiled water"}
+  - {hanzi: "砸", pinyin: "zabˋ", en: "sturdy, strong"}
+  - {hanzi: "法度", pinyin: "fabˋ tu", en: "way, means"}
+  - {hanzi: "燒水", pinyin: "seuˊ suiˋ", en: "hot water"}
+  - {hanzi: "範圍", pinyin: "fam viˇ", en: "range, scope"}
+  - {hanzi: "暖壺", pinyin: "nonˊ fuˇ", en: "thermos flask"}
+  - {hanzi: "飯包", pinyin: "fan bauˊ", en: "lunch box"}
+  - {hanzi: "手電筒", pinyin: "suˋ tien tungˇ", en: "torch"}
+  - {hanzi: "隔日", pinyin: "gagˋ ngidˋ", en: "the next day"}
+  - {hanzi: "水道水", pinyin: "suiˋ to suiˋ", en: "tap water"}
+  - {hanzi: "時常", pinyin: "siiˇ songˇ", en: "often"}
+  - {hanzi: "嶄然", pinyin: "zamˋ ienˇ", en: "quite, really"}
+  - {hanzi: "扇仔", pinyin: "san eˋ", en: "fan"}
+  - {hanzi: "祛把", pinyin: "kia baˋ", en: "bamboo broom"}
+  - {hanzi: "門檻", pinyin: "munˇ kiamˊ", en: "threshold"}
+  - {hanzi: "撮鹽", pinyin: "zebˋ iamˇ", en: "take a pinch of salt"}
+  - {hanzi: "覓蜆仔", pinyin: "mi hanˋ eˇ", en: "feel for clams (in a river)"}
+  - {hanzi: "褲腳", pinyin: "fu giogˋ", en: "trouser leg"}
+  - {hanzi: "偏偏", pinyin: "pienˊ pienˊ", en: "wilfully, just (the opposite)"}
+  - {hanzi: "效果", pinyin: "hauˋ goˋ", en: "effect"}
+  - {hanzi: "激烈", pinyin: "gidˋ lied", en: "fierce, intense"}
+  - {hanzi: "不少", pinyin: "budˋ seuˋ", en: "quite a lot"}
+  - {hanzi: "牙膏", pinyin: "ngaˇ gauˊ", en: "toothpaste"}
+  - {hanzi: "服裝", pinyin: "fug zongˊ", en: "clothes, clothing"}
+  - {hanzi: "真實", pinyin: "ziinˊ siid", en: "true, real"}
+  - {hanzi: "甲", pinyin: "gabˋ", en: "(measure of land, about a hectare)"}
+  - {hanzi: "總有", pinyin: "zungˋ iuˊ", en: "there will always be; some day"}
+  - {hanzi: "西片", pinyin: "xiˊ pienˋ", en: "the west side"}
+  - {hanzi: "洗嘴", pinyin: "seˋ zoi", en: "brush one's teeth"}
+  - {hanzi: "紙條仔", pinyin: "ziiˋ tiauˇ eˋ", en: "slip of paper, note"}
+  - {hanzi: "伐草", pinyin: "padˋ coˋ", en: "cut weeds (with a long knife)"}
+  - {hanzi: "豬腰仔", pinyin: "zuˊ ieuˊ eˋ", en: "pig's kidney"}
+  - {hanzi: "各式各樣", pinyin: "gogˋ siidˋ gogˋ iong", en: "of all kinds"}
+
+exercises:
+  translate:
+    - en: "There is a thermos flask on the table."
+      source: kaga
+      sx: {hanzi: "桌頂有一隻暖壺。", pinyin: "zogˋ dangˋ iuˊ idˋ zagˋ nonˊ fuˇ."}
+    - en: "The sun sets in the west."
+      source: kaga115
+      sx: {hanzi: "日頭對西片落山。", pinyin: "ngidˋ teuˇ dui xiˊ pienˋ log sanˊ."}
+    - en: "Where are you all going in a moment?"
+      source: kaga115
+      sx: {hanzi: "你兜人等下愛去哪？", pinyin: "nˇ deuˊ nginˇ denˋ ha oi hi nai?"}
+    - en: "Now the countryside has tap water too."
+      source: kaga
+      sx: {hanzi: "這下莊下乜有水道水好用。", pinyin: "iaˋ ha zongˊ ha me iuˊ suiˋ to suiˋ hoˋ iung."}
+    - en: "My elder sister is going south today and will be back the next day."
+      source: kaga115
+      sx: {hanzi: "阿姊今晡日下南，隔日就會轉來。", pinyin: "aˊ jiˋ gimˊ buˊ ngidˋ ha namˇ, gagˋ ngidˋ qiu voi zonˋ loiˇ."}
+  fill:
+    - en: "The power is off: go and get the torch."
+      sx: {hanzi: "停電吔，去拿___出來。", pinyin: "tinˇ tien leˊ, hi naˊ ___ cudˋ loiˇ.", answer_hanzi: "手電筒", answer: "suˋ tien tungˇ"}
+    - en: "Is what you say true?"
+      sx: {hanzi: "你講个係___个無？", pinyin: "nˇ gongˋ ge he ___ ge moˇ?", answer_hanzi: "真實", answer: "ziinˊ siid"}
+    - en: "The shop sells trousers of all kinds."
+      sx: {hanzi: "店項有賣___个褲。", pinyin: "diam hong iuˊ mai ___ ge fu.", answer_hanzi: "各式各樣", answer: "gogˋ siidˋ gogˋ iong"}
+    - en: "He is always ailing and often goes to the doctor."
+      sx: {hanzi: "佢人就破病破病，___去看醫生。", pinyin: "giˇ nginˇ qiu po piang po piang, ___ hi kon iˊ senˊ.", answer_hanzi: "時常", answer: "siiˇ songˇ"}
+    - en: "In the morning I went to the river to feel for clams."
+      sx: {hanzi: "朝晨𠊎去河壩___。", pinyin: "zeuˊ siinˇ ngaiˇ hi hoˇ ba ___.", answer_hanzi: "覓蜆仔", answer: "mi hanˋ eˇ"}
+
+audio: []
