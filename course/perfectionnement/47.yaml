@@ -1,0 +1,322 @@
+id: 47
+genre: dialogue
+title:
+  en: "It is good to be modest"
+  sx: {hanzi: "做人愛自謙正好", pinyin: "zo nginˇ oi cii kiamˊ zang hoˋ"}
+review: false
+setting: >-
+  Saturday 19 May 2029, evening, Sam's rented room up the lane. His exam finished the day before. He has invited the
+  old lady from up the lane (上屋叔婆) to dinner and cooked the dish Grandma taught him.
+names: [Sam, 叔婆, 阿婆, 張]
+
+dialogue:
+  - n: 1
+    speaker: Sam
+    en: "Auntie, please come in and sit down! Dinner is all ready."
+    sx: {hanzi: "叔婆，請入來坐！飯菜便便吔。", pinyin: "sugˋ poˇ, qiangˋ ngib loiˇ coˊ! fan coi pien pien leˊ."}
+    check: true
+  - n: 2
+    speaker: 叔婆
+    en: "Thank you. Is your exam over?"
+    sx: {hanzi: "恁仔細。你考試考忒吔？", pinyin: "anˋ ziiˋ se. nˇ kauˋ sii kauˋ tedˋ leˊ?"}
+    check: true
+  - n: 3
+    speaker: Sam
+    en: "It finished yesterday. The teacher stressed that you need to reach seventy marks to pass, and I don't know yet whether I have. Auntie, to this day I don't know your family name."
+    sx: {hanzi: "昨晡日考忒吔。先生強調成績愛達到七十分正算過，𠊎還毋知有過無。叔婆，𠊎到這下還毋知你姓麼个。", pinyin: "coˊ buˊ ngidˋ kauˋ tedˋ leˊ. xinˊ sangˊ kiongˇ tiau siinˇ jidˋ oi tad do qidˋ siib funˊ zang son go, ngaiˇ hanˇ mˇ diˊ iuˊ go moˇ. sugˋ poˇ, ngaiˇ do iaˋ ha hanˇ mˇ diˊ nˇ xiang maˋ ge."}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "May I ask your family name?"
+    source: kaga115
+    sx: {hanzi: "請問你貴姓？", pinyin: "qiangˋ mun nˇ gui xiang?"}
+  - n: 5
+    speaker: 叔婆
+    en: "My name is Zhang. As for my age, you'd better not ask!"
+    sx: {hanzi: "𠊎姓張。年齡你就毋好問吔！", pinyin: "ngaiˇ xiang zongˊ. ngienˇ linˇ nˇ qiu mˇ hoˋ mun leˊ!"}
+    check: true
+  - n: 6
+    speaker: Sam
+    en: "This is stir-fried pig's kidney: Grandma taught me. I'm not much of a cook."
+    sx: {hanzi: "這係炒豬腰仔，阿婆教𠊎个。𠊎無麼个本等。", pinyin: "iaˋ he cauˋ zuˊ ieuˊ eˋ, aˊ poˇ gauˊ ngaiˇ ge. ngaiˇ moˇ maˋ ge bunˋ denˋ."}
+    check: true
+  - n: 7
+    speaker: 叔婆
+    en: "It is good for a person to be modest."
+    source: kaga115
+    sx: {hanzi: "做人愛自謙正好。", pinyin: "zo nginˇ oi cii kiamˊ zang hoˋ."}
+  - n: 8
+    speaker: 叔婆
+    en: "It is a little tough, but the taste isn't bad. A tiny bit more salt and it would be better still."
+    sx: {hanzi: "有兜仔韌，毋過味緒毋會㜮。放加一滴仔鹽就還較好。", pinyin: "iuˊ deuˊ eˋ ngiun, mˇ go mi xi mˇ voi lamˊ. biong gaˊ idˋ did eˋ iamˇ qiu hanˇ ka hoˋ."}
+    check: true
+  - n: 9
+    speaker: Sam
+    en: "Auntie, do have a little more! How is your family?"
+    sx: {hanzi: "叔婆，加減食兜仔！你屋下人好無？", pinyin: "sugˋ poˇ, gaˊ gamˋ siid deuˊ eˋ! nˇ vugˋ kaˊ nginˇ hoˋ moˇ?"}
+    check: true
+  - n: 10
+    speaker: 叔婆
+    en: "My younger brother's wife had a baby girl last week."
+    source: kaga115
+    sx: {hanzi: "老弟心臼上禮拜降妹仔。", pinyin: "loˋ taiˊ ximˊ kiuˊ song liˊ bai giung moi eˋ."}
+  - n: 11
+    speaker: 叔婆
+    en: "My brother's ideas are still very traditional: he wanted a grandson. I told him that nowadays a girl is as good as a boy, and that his way of doing things is too backward."
+    sx: {hanzi: "吾老弟个觀念還當傳統，想愛孫仔。𠊎同佢講，這滿降妹仔降倈仔共樣好，厥做法忒落後。", pinyin: "ngaˊ loˋ taiˊ ge gonˊ ngiam hanˇ dongˊ conˇ tungˋ, xiongˋ oi sunˊ eˋ. ngaiˇ tungˇ giˇ gongˋ, iaˋ manˊ giung moi eˋ giung lai eˋ kiung iong hoˋ, giaˊ zo fabˋ tedˋ log heu."}
+    check: true
+  - n: 12
+    speaker: 叔婆
+    en: "My younger sister's husband is a plain, honest man."
+    sx: {hanzi: "吾老妹婿係一個老實伯。", pinyin: "ngaˊ loˋ moi se he idˋ ge loˋ siid bagˋ."}
+    check: true
+  - n: 13
+    speaker: 叔婆
+    en: "Whatever people ask of him, he has never once said no."
+    source: kaga115
+    sx: {hanzi: "人拜託佢个事情，佢從來毋識推辭。", pinyin: "nginˇ bai togˋ giˇ ge sii qinˇ, giˇ qiungˇ loiˇ mˇ siidˋ toiˊ ciiˇ."}
+  - n: 14
+    speaker: 叔婆
+    en: "When my grandson was small he was a great tease, and the teacher was always sending for his parents. Now he works hard, and this year he sat the university entrance exam."
+    sx: {hanzi: "吾孫仔細个時節當會撩人，先生輒輒尋家長。這滿佢當認真，今年考大學。", pinyin: "ngaˊ sunˊ eˋ se ge siiˇ jiedˋ dongˊ voi liauˇ nginˇ, xinˊ sangˊ jiab jiab qimˇ gaˊ zongˋ. iaˋ manˊ giˇ dongˊ ngin ziinˊ, gimˊ ngienˇ kauˋ tai hog."}
+    check: true
+  - n: 15
+    speaker: 叔婆
+    en: "In this exam he got in with a high mark."
+    source: kaga115
+    sx: {hanzi: "這擺考試，佢高分錄取。", pinyin: "iaˋ baiˋ kauˋ sii, giˇ goˊ funˊ liug qiˋ."}
+  - n: 16
+    speaker: Sam
+    en: "You must bring him on well."
+    source: kaga115
+    sx: {hanzi: "你愛好好培養佢。", pinyin: "nˇ oi hoˋ hoˋ piˇ iongˊ giˇ."}
+  - n: 17
+    speaker: 叔婆
+    en: "And you? When you finish your studies, do you plan to look for a steady job?"
+    sx: {hanzi: "你呢？讀忒書按算尋一份穩定个頭路無？", pinyin: "nˇ neˇ? tug tedˋ suˊ on son qimˇ idˋ fun vunˋ tin ge teuˇ lu moˇ?"}
+    check: true
+  - n: 18
+    speaker: Sam
+    en: "After I graduate from university, I plan to sit the exam for graduate school."
+    source: kaga115
+    sx: {hanzi: "大學畢業後，𠊎按算考研究所。", pinyin: "tai hog bidˋ ngiab heu, ngaiˇ on son kauˋ ngienˇ giu soˋ."}
+  - n: 19
+    speaker: Sam
+    en: "My youngest aunt's son is my cousin, and he wants to come and study in Taiwan too."
+    sx: {hanzi: "吾滿姨个倈仔係吾表仔，佢乜想來臺灣讀書。", pinyin: "ngaˊ manˊ iˇ ge lai eˋ he ngaˊ beuˋ eˇ, giˇ me xiongˋ loiˇ toiˇ vanˇ tug suˊ."}
+    check: true
+  - n: 20
+    speaker: 叔婆
+    en: "People in the village say your family is very rich, to be able to send you so far away to study."
+    sx: {hanzi: "莊下人講你屋下盡有錢，正有法度來恁遠个所在讀書。", pinyin: "zongˊ ha nginˇ gongˋ nˇ vugˋ kaˊ qin iuˊ qienˇ, zang iuˊ fabˋ tu loiˇ anˋ ienˋ ge soˋ cai tug suˊ."}
+    check: true
+  - n: 21
+    speaker: Sam
+    en: "Everyone says I'm very rich: there's nothing in it!"
+    source: kaga
+    sx: {hanzi: "大家講𠊎盡有錢，無影無跡！", pinyin: "tai gaˊ gongˋ ngaiˇ qin iuˊ qienˇ, moˇ iangˋ moˇ jiagˋ!"}
+  - n: 22
+    speaker: 叔婆
+    en: "People just say things. It's dark: where is the light?"
+    sx: {hanzi: "人隨便講講定定。天暗吔，電火呢？", pinyin: "nginˇ suiˇ pien gongˋ gongˋ tin tin. tienˊ am leˊ, tien foˋ neˇ?"}
+    check: true
+  - n: 23
+    speaker: Sam
+    en: "The light switch is right beside you."
+    source: kaga
+    sx: {hanzi: "電火開關就在若邊脣。", pinyin: "tien foˋ koiˊ guanˊ qiu coiˊ ngiaˊ bienˊ sunˇ."}
+  - n: 24
+    speaker: Sam
+    en: "I'll make you some tea. Oh!"
+    sx: {hanzi: "𠊎泡茶分你食。啊！", pinyin: "ngaiˇ pau caˇ bunˊ nˇ siid. a!"}
+    check: true
+  - n: 25
+    speaker: Sam
+    en: "There isn't a single tea leaf left: I'll buy a tin tomorrow."
+    source: kaga115
+    sx: {hanzi: "無半息茶米哩，天光日買一罐轉來。", pinyin: "moˇ ban xid caˇ miˋ leˊ, tienˊ gongˊ ngidˋ maiˊ idˋ gon zonˋ loiˇ."}
+  - n: 26
+    speaker: 叔婆
+    en: "Never mind, I must go home and watch television."
+    sx: {hanzi: "無要緊，𠊎愛轉去看電視吔。", pinyin: "moˇ ieu ginˋ, ngaiˇ oi zonˋ hi kon tien sii leˊ."}
+    check: true
+  - n: 27
+    speaker: 叔婆
+    en: "The television stations have a lot of talk shows."
+    source: kaga115
+    sx: {hanzi: "電視臺有當多談話个節目。", pinyin: "tien sii toiˇ iuˊ dongˊ doˊ tamˇ fa ge jiedˋ mug."}
+  - n: 28
+    speaker: 叔婆
+    en: "So much talk, and nothing in it."
+    source: kaga115
+    sx: {hanzi: "講恁多，乜無搭碓。", pinyin: "gongˋ anˋ doˊ, me moˇ dabˋ doi."}
+  - n: 29
+    speaker: 叔婆
+    en: "For the Dragon Boat Festival I'll wrap rice dumplings for you."
+    sx: {hanzi: "五月節𠊎包粽仔分你食。", pinyin: "ngˋ ngied jiedˋ ngaiˇ bauˊ zung eˋ bunˊ nˇ siid."}
+    check: true
+  - n: 30
+    speaker: 叔婆
+    en: "The dried radish is chopped very fine before the dumplings are wrapped."
+    source: kaga115
+    sx: {hanzi: "菜脯剁到幼幼仔正包粽仔。", pinyin: "coi puˋ dog do iu iu eˋ zang bauˊ zung eˋ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 7, an official sentence: 自謙 cii kiamˊ "modest". 上屋叔婆 is the old lady of 進修 37; Sam promised
+      her this dinner in 進修 42.
+  - ref: 1
+    topic: vocab
+    text: >
+      便便 pien pien "ready, all prepared" (飯菜便便，你自家蒸來食).
+  - ref: 3
+    topic: vocab
+    text: >
+      強調 kiongˇ tiau "stress, emphasize" (佢強調佢無騙人). 達到 tad do "reach (a standard)". The pass mark is the course's
+      invention.
+  - ref: 4
+    topic: vocab
+    text: >
+      貴姓 gui xiang "your family name", the polite question. 年齡 ngienˇ linˇ in line 5 is "age" (這比賽係照年齡來分个).
+  - ref: 6
+    topic: vocab
+    text: >
+      本等 bunˋ denˋ "ability, skill" (有本等正講，莫伸一張嘴 "talk when you can do it: don't just open your mouth"). 豬腰仔 is from
+      進修 46.
+  - ref: 8
+    topic: vocab
+    text: >
+      韌 ngiun "tough, chewy" (這當韌，切毋斷！). 㜮 lamˊ "poor, bad": 毋會㜮 "not bad" (這攤仔生理毋會㜮). 一滴仔 idˋ did eˋ "a tiny bit"
+      (倒一滴仔油落去).
+  - ref: 9
+    topic: vocab
+    text: >
+      加減 gaˊ gamˋ "more or less, a little anyway": 加減食兜仔 "have a little, at least" (加加減減做兜仔).
+  - ref: 10
+    topic: vocab
+    text: >
+      老弟心臼 loˋ taiˊ ximˊ kiuˊ "younger brother's wife". 老妹婿 loˋ moi se in line 12 is "younger sister's husband". 降
+      "give birth to" is read giung.
+  - ref: 11
+    topic: vocab
+    text: >
+      觀念 gonˊ ngiam "idea, way of thinking" (厥觀念還當傳統). 這滿 iaˋ manˊ "now, nowadays; this time" (這滿你愛仰仔解決？). 做法 zo
+      fabˋ "way of doing things". 落後 log heu "backward".
+  - ref: 12
+    topic: vocab
+    text: >
+      老實伯 loˋ siid bagˋ "a plain, honest man" (佢係一個老實伯，你毋好欺負佢).
+  - ref: 13
+    topic: vocab
+    text: >
+      推辭 toiˊ ciiˇ "decline, refuse".
+  - ref: 14
+    topic: vocab
+    text: >
+      撩人 liauˇ nginˇ "tease, provoke people" (佢在學校輒輒撩人，故所無麼个朋友): 撩 liauˇ is from 進修 38. 家長 gaˊ zongˋ "a pupil's
+      parent; head of a family".
+  - ref: 15
+    topic: vocab
+    text: >
+      錄取 liug qiˋ "admit, accept after an exam". 培養 piˇ iongˊ in line 16 is "bring on, cultivate".
+  - ref: 17
+    topic: vocab
+    text: >
+      按算 on son "plan, intend" (這件事你按算仰仔做？). 穩定 vunˋ tin "stable, steady" (這頭路穩定穩定，仰愛辭忒呢？).
+  - ref: 19
+    topic: vocab
+    text: >
+      滿姨 manˊ iˇ "youngest aunt on the mother's side": 滿 is "youngest". 表仔 beuˋ eˇ is a cousin of another surname.
+  - ref: 21
+    topic: vocab
+    text: >
+      無影無跡 moˇ iangˋ moˇ jiagˋ "groundless, untrue" (無影無跡个事情，佢也敢講).
+  - ref: 22
+    topic: vocab
+    text: >
+      隨便 suiˇ pien "casual, careless; as one likes" (恁樣做事情忒隨便哩).
+  - ref: 23
+    topic: vocab
+    text: >
+      邊脣 bienˊ sunˇ "edge, side" (這張紙个邊脣分人拗著哩).
+  - ref: 25
+    topic: vocab
+    text: >
+      無半息 moˇ ban xid "not a bit left, nothing at all" (佢對自家無半息自信). 茶米 is "tea leaves".
+  - ref: 27
+    topic: vocab
+    text: >
+      談話 tamˇ fa "talk, conversation": 談話个節目 "talk show". 無搭碓 moˇ dabˋ doi in line 28 is "pointless, no fun".
+  - ref: 30
+    topic: vocab
+    text: >
+      幼幼仔 iu iu eˋ "very fine, very small". 五月節 is on 16 June in 2029.
+
+new_words:
+  - {hanzi: "便便", pinyin: "pien pien", en: "ready, all prepared"}
+  - {hanzi: "強調", pinyin: "kiongˇ tiau", en: "stress, emphasize"}
+  - {hanzi: "達到", pinyin: "tad do", en: "reach (a standard)"}
+  - {hanzi: "貴姓", pinyin: "gui xiang", en: "your (honourable) family name"}
+  - {hanzi: "年齡", pinyin: "ngienˇ linˇ", en: "age"}
+  - {hanzi: "本等", pinyin: "bunˋ denˋ", en: "ability, skill"}
+  - {hanzi: "自謙", pinyin: "cii kiamˊ", en: "modest"}
+  - {hanzi: "韌", pinyin: "ngiun", en: "tough, chewy"}
+  - {hanzi: "㜮", pinyin: "lamˊ", en: "poor, bad"}
+  - {hanzi: "一滴仔", pinyin: "idˋ did eˋ", en: "a tiny bit"}
+  - {hanzi: "加減", pinyin: "gaˊ gamˋ", en: "more or less; a little anyway"}
+  - {hanzi: "老弟心臼", pinyin: "loˋ taiˊ ximˊ kiuˊ", en: "younger brother's wife"}
+  - {hanzi: "觀念", pinyin: "gonˊ ngiam", en: "idea, way of thinking"}
+  - {hanzi: "這滿", pinyin: "iaˋ manˊ", en: "now, this time"}
+  - {hanzi: "做法", pinyin: "zo fabˋ", en: "way of doing things"}
+  - {hanzi: "落後", pinyin: "log heu", en: "backward, behind"}
+  - {hanzi: "老妹婿", pinyin: "loˋ moi se", en: "younger sister's husband"}
+  - {hanzi: "老實伯", pinyin: "loˋ siid bagˋ", en: "plain, honest man"}
+  - {hanzi: "推辭", pinyin: "toiˊ ciiˇ", en: "decline, refuse"}
+  - {hanzi: "撩人", pinyin: "liauˇ nginˇ", en: "tease, provoke people"}
+  - {hanzi: "家長", pinyin: "gaˊ zongˋ", en: "parent (of a pupil), head of a family"}
+  - {hanzi: "錄取", pinyin: "liug qiˋ", en: "admit, accept (after an exam)"}
+  - {hanzi: "培養", pinyin: "piˇ iongˊ", en: "bring on, cultivate"}
+  - {hanzi: "按算", pinyin: "on son", en: "plan, intend"}
+  - {hanzi: "穩定", pinyin: "vunˋ tin", en: "stable, steady"}
+  - {hanzi: "滿姨", pinyin: "manˊ iˇ", en: "youngest aunt (mother's side)"}
+  - {hanzi: "表仔", pinyin: "beuˋ eˇ", en: "cousin (of another surname)"}
+  - {hanzi: "無影無跡", pinyin: "moˇ iangˋ moˇ jiagˋ", en: "groundless, untrue"}
+  - {hanzi: "隨便", pinyin: "suiˇ pien", en: "casual, careless; as one likes"}
+  - {hanzi: "邊脣", pinyin: "bienˊ sunˇ", en: "edge, side"}
+  - {hanzi: "無半息", pinyin: "moˇ ban xid", en: "not a bit left, nothing at all"}
+  - {hanzi: "談話", pinyin: "tamˇ fa", en: "talk, conversation"}
+  - {hanzi: "無搭碓", pinyin: "moˇ dabˋ doi", en: "pointless, no fun"}
+  - {hanzi: "幼幼仔", pinyin: "iu iu eˋ", en: "very fine, very small"}
+
+exercises:
+  translate:
+    - en: "May I ask your family name?"
+      source: kaga115
+      sx: {hanzi: "請問你貴姓？", pinyin: "qiangˋ mun nˇ gui xiang?"}
+    - en: "He insists that he did not cheat anyone."
+      source: kaga115
+      sx: {hanzi: "佢強調佢無騙人。", pinyin: "giˇ kiongˇ tiau giˇ moˇ pien nginˇ."}
+    - en: "This stall does not do badly."
+      source: kaga115
+      sx: {hanzi: "這攤仔生理毋會㜮。", pinyin: "iaˋ tanˊ eˋ senˊ liˊ mˇ voi lamˊ."}
+    - en: "How do you plan to do this?"
+      source: kaga115
+      sx: {hanzi: "這件事你按算仰仔做？", pinyin: "iaˋ kien sii nˇ on son ngiongˋ eˋ zo?"}
+    - en: "That is too careless a way to do things."
+      source: kaga115
+      sx: {hanzi: "恁樣做事情忒隨便哩。", pinyin: "anˋ ngiongˇ zo sii qinˇ tedˋ suiˇ pien leˊ."}
+  fill:
+    - en: "His ideas are still very traditional."
+      sx: {hanzi: "厥___還當傳統。", pinyin: "giaˊ ___ hanˇ dongˊ conˇ tungˋ.", answer_hanzi: "觀念", answer: "gonˊ ngiam"}
+    - en: "How will you settle it this time?"
+      sx: {hanzi: "___你愛仰仔解決？", pinyin: "___ nˇ oi ngiongˋ eˋ gieˋ giedˋ?", answer_hanzi: "這滿", answer: "iaˋ manˊ"}
+    - en: "The edge of this sheet has been folded by someone."
+      sx: {hanzi: "這張紙个___分人拗著哩。", pinyin: "iaˋ zongˊ ziiˋ ge ___ bunˊ nginˇ auˋ cog leˊ.", answer_hanzi: "邊脣", answer: "bienˊ sunˇ"}
+    - en: "He is a plain, honest man: don't bully him."
+      sx: {hanzi: "佢係一個___，你毋好欺負佢。", pinyin: "giˇ he idˋ ge ___, nˇ mˇ hoˋ kiˊ fu giˇ.", answer_hanzi: "老實伯", answer: "loˋ siid bagˋ"}
+    - en: "Pour in a tiny bit of oil."
+      sx: {hanzi: "倒___油落去。", pinyin: "do ___ iuˇ log hi.", answer_hanzi: "一滴仔", answer: "idˋ did eˋ"}
+
+audio: []

@@ -61,3 +61,6 @@ style of 採茶戲, not a sung one.
 - P46, Sun 6 May, Sam's letter to 鍾伯 and 鍾伯姆 (answers P32). His exam is "next week" (about 14–18 May). A power
   cut and a water cut "last week". Grandma has taught him to stir-fry pig's kidneys. A-min caught a cold after clam
   hunting on Sun 29 Apr. Sam asks whether 阿財哥 is planting again.
+- P47, Sat 19 May evening, Sam's room. His exam ended Fri 18 May (pass mark 70, result not known). 上屋叔婆 comes
+  to dinner (thread of P42 closed): her surname is 張; a brother (traditional, a new granddaughter), a sister's
+  husband, a grandson just admitted to university. Sam plans graduate school. She will wrap 粽仔 for 五月節.
