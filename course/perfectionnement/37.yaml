@@ -1,0 +1,283 @@
+id: 37
+genre: diary
+title:
+  en: "The host has not eaten yet: how can you start first?"
+  sx: {hanzi: "主人吂食，你仰好先食？", pinyin: "zuˋ nginˇ mangˇ siid, nˇ ngiongˋ hoˋ xienˊ siid?"}
+review: false
+setting: >-
+  Sam's diary, Monday 5 to Sunday 11 March 2029: a week of spring rain in Miaoli. He buys rain gear, eats at his
+  neighbour's, cleans his room, and worries about how little he studies.
+names: [Sam, 叔婆, 伯姆]
+
+dialogue:
+  - n: 1
+    en: "Monday 5 March. It started raining yesterday and still hasn't stopped. I have no raincoat, and my clothes all got soaked."
+    sx: {hanzi: "三月五號，禮拜一。昨晡日開始落雨，到這下還吂停。𠊎無水衣，衫褲做下溼忒吔。", pinyin: "samˊ ngied ngˋ ho, liˊ bai idˋ. coˊ buˊ ngidˋ koiˊ ciiˋ log iˋ, do iaˋ ha hanˇ mangˇ tinˇ. ngaiˇ moˇ suiˋ iˊ, samˊ fu zo ha siibˋ tedˋ leˊ."}
+    check: true
+  - n: 2
+    en: "When you ride a scooter on a rainy day, you have to wear a raincoat."
+    source: kaga
+    sx: {hanzi: "落雨天騎車仔，愛著水衣。", pinyin: "log iˋ tienˊ kiˇ caˊ eˋ, oi zogˋ suiˋ iˊ."}
+  - n: 3
+    en: "After class I went and bought a raincoat, and a pair of rubber boots as well."
+    sx: {hanzi: "下課後𠊎去買一領水衣，還買一雙水靴筒。", pinyin: "ha ko heu ngaiˇ hi maiˊ idˋ liangˊ suiˋ iˊ, hanˇ maiˊ idˋ sungˊ suiˋ hioˊ tungˇ."}
+  - n: 4
+    en: "Fetched a basin of water to wash my feet."
+    source: kaga115
+    sx: {hanzi: "打一盆水來洗腳。", pinyin: "daˋ idˋ punˇ suiˋ loiˇ seˋ giogˋ."}
+  - n: 5
+    en: "Tuesday 6 March. This evening the old lady next door up the lane boiled dumplings and called me over to eat."
+    sx: {hanzi: "三月六號，禮拜二。暗晡頭上屋叔婆煠水餃，喊𠊎過去食。", pinyin: "samˊ ngied liugˋ ho, liˊ bai ngi. am buˊ teuˇ song vugˋ sugˋ poˇ sab suiˋ giauˋ, ham ngaiˇ go hi siid."}
+    check: true
+  - n: 6
+    en: "The old lady up the lane is very old now!"
+    source: kaga115
+    sx: {hanzi: "上屋叔婆當多歲吔！", pinyin: "song vugˋ sugˋ poˇ dongˊ doˊ se leˊ!"}
+  - n: 7
+    en: "She lives on her own, and there is a vegetable garden behind the house."
+    sx: {hanzi: "佢自家一儕人歇，屋背後有一隻菜園。", pinyin: "giˇ qi gaˊ idˋ saˇ nginˇ hed, vugˋ boi heuˊ iuˊ idˋ zagˋ coi ienˇ."}
+    check: true
+  - n: 8
+    en: "She lives on her pension."
+    source: kaga115
+    sx: {hanzi: "靠退休金過日仔。", pinyin: "ko tui hiuˊ gimˊ go ngidˋ eˇ."}
+  - n: 9
+    en: "Living alone in the country, life is very free and easy."
+    source: kaga115
+    sx: {hanzi: "一儕人戴莊下，生活當自在。", pinyin: "idˋ saˇ nginˇ dai zongˊ ha, senˊ fad dongˊ cii cai."}
+  - n: 10
+    en: "She served the pickled mustard soup in a big bowl, with a spoon each."
+    sx: {hanzi: "佢用盆頭裝覆菜湯，一儕一隻調羹仔。", pinyin: "giˇ iung punˇ teuˇ zongˊ pugˋ coi tongˊ, idˋ saˇ idˋ zagˋ tiauˇ gangˊ eˋ."}
+    check: true
+  - n: 11
+    en: "The host hasn't eaten yet: how can you start first?"
+    source: kaga115
+    sx: {hanzi: "主人吂食，你仰好先食？", pinyin: "zuˋ nginˇ mangˇ siid, nˇ ngiongˋ hoˋ xienˊ siid?"}
+  - n: 12
+    en: "Wednesday 7 March. No classes today: I swept the floor of my room."
+    sx: {hanzi: "三月七號，禮拜三。今晡日無課，𠊎在間房掃地泥。", pinyin: "samˊ ngied qidˋ ho, liˊ bai samˊ. gimˊ buˊ ngidˋ moˇ ko, ngaiˇ coiˊ gienˊ fongˇ so ti naiˇ."}
+  - n: 13
+    en: "The dust on the window was very thick."
+    source: kaga115
+    sx: {hanzi: "窗門頂个塵灰當賁。", pinyin: "cungˊ munˇ dangˋ ge ciinˇ foiˊ dongˊ punˊ."}
+  - n: 14
+    en: "The washing has hung for three days and is still just as damp. Luckily A-in's mother gave me a woollen jumper: it's very warm to wear."
+    sx: {hanzi: "衫褲晾三日吔，還本本溼溼。好得伯姆送𠊎一領膨線衫，著起來當燒暖。", pinyin: "samˊ fu langˇ samˊ ngidˋ leˊ, hanˇ bunˋ bunˋ siibˋ siibˋ. hoˋ dedˋ bagˋ meˊ sung ngaiˇ idˋ liangˊ pong xien samˊ, zogˋ hiˋ loiˇ dongˊ seuˊ nonˊ."}
+    check: true
+  - n: 15
+    en: "It's still cold! Without a padded jacket you can't bear it."
+    source: kaga
+    sx: {hanzi: "還寒哦！無著襖婆佇毋著。", pinyin: "hanˇ honˇ oˊ! moˇ zogˋ oˋ poˇ du mˇ diauˇ."}
+  - n: 16
+    en: "Thursday 8 March. This morning, on my way out, I found one shoe and couldn't find the other."
+    sx: {hanzi: "三月八號，禮拜四。朝晨愛出門，尋著一隻靴仔，另外一隻尋毋著。", pinyin: "samˊ ngied badˋ ho, liˊ bai xi. zeuˊ siinˇ oi cudˋ munˇ, qimˇ doˋ idˋ zagˋ hioˊ eˋ, nang ngoi idˋ zagˋ qimˇ mˇ doˋ."}
+    check: true
+  - n: 17
+    en: "Shoes have to make a pair before you can wear them."
+    source: kaga115
+    sx: {hanzi: "鞋愛鬥雙正著得。", pinyin: "haiˇ oi deu sungˊ zang zogˋ dedˋ."}
+  - n: 18
+    en: "In the evening my trousers tore, and I took a needle to mend them myself."
+    sx: {hanzi: "暗晡頭褲爛忒，𠊎自家擎針來補。", pinyin: "am buˊ teuˇ fu lan tedˋ, ngaiˇ qi gaˊ kiaˇ ziimˊ loiˇ buˋ."}
+    check: true
+  - n: 19
+    en: "The cloth was too thick: the needle wouldn't go in."
+    source: kaga115
+    sx: {hanzi: "布仔忒賁，針刺毋落。", pinyin: "bu eˋ tedˋ punˊ, ziimˊ qiugˋ mˇ log."}
+  - n: 20
+    en: "Friday 9 March. In class my seat was right at the back. The teacher split us into five groups: we have to do the report again."
+    sx: {hanzi: "三月九號，禮拜五。上課該下，𠊎个位仔在盡後尾。先生同𠊎兜分做五組，愛重新做報告。", pinyin: "samˊ ngied giuˋ ho, liˊ bai ngˋ. song ko ge ha, ngaiˇ ge vi eˋ coiˊ qin heu miˊ. xinˊ sangˊ tungˇ ngaiˇ deuˊ bunˊ zo ngˋ zuˊ, oi qiungˇ xinˊ zo bo go."}
+    check: true
+  - n: 21
+    en: "A classmate in my group said: \"Shall we all study together once a week?\" I marked it on the calendar: two months to go before the exam."
+    sx: {hanzi: "同組个同學講：「𫣆這兜逐禮拜共下讀一擺書，好無？」𠊎在月曆項記等：離考試還有兩隻月。", pinyin: "tungˇ zuˊ ge tungˇ hog gongˋ: enˊ iaˋ deuˊ dagˋ liˊ bai kiung ha tug idˋ baiˋ suˊ, hoˋ moˇ? ngaiˇ coiˊ ngied lag hong gi denˋ: liˇ kauˋ sii hanˇ iuˊ liongˋ zagˋ ngied."}
+    check: true
+  - n: 22
+    en: "It rained this week and I didn't study much. Like this, can I really pass the exam?"
+    sx: {hanzi: "這禮拜落雨，𠊎讀無幾多書。恁樣敢有法度通過考試？", pinyin: "iaˋ liˊ bai log iˋ, ngaiˇ tug moˇ giˋ doˊ suˊ. anˋ ngiongˇ gamˋ iuˊ fabˋ tu tungˊ go kauˋ sii?"}
+    check: true
+  - n: 23
+    en: "The books I ought to read, I had better read sooner."
+    sx: {hanzi: "該當愛讀个書，還係較早讀較好。", pinyin: "goiˊ dongˊ oi tug ge suˊ, hanˇ he ka zoˋ tug ka hoˋ."}
+    check: true
+  - n: 24
+    en: "Saturday 10 March. I took a bag into town to buy food and things for the house."
+    sx: {hanzi: "三月十號，禮拜六。𠊎帶等袋仔去街項買食品同生活用品。", pinyin: "samˊ ngied siib ho, liˊ bai liugˋ. ngaiˇ dai denˋ toi eˋ hi gieˊ hong maiˊ siid pinˋ tungˇ senˊ fad iung pinˋ."}
+    check: true
+  - n: 25
+    en: "Buy the vegetables ahead, and there's something to eat at any time."
+    source: kaga115
+    sx: {hanzi: "菜先買便來，隨時就有好食。", pinyin: "coi xienˊ maiˊ pien loiˇ, suiˇ siiˇ qiu iuˊ hoˋ siid."}
+  - n: 26
+    en: "When I got back, the old lady gave me a bag of vegetables and put it on my table."
+    sx: {hanzi: "轉來該下，叔婆分𠊎一袋仔菜，放在𠊎个桌仔面頂。", pinyin: "zonˋ loiˇ ge ha, sugˋ poˇ bunˊ ngaiˇ idˋ toi eˋ coi, biong coiˊ ngaiˇ ge zogˋ eˋ mien dangˋ."}
+    check: true
+  - n: 27
+    en: "These vegetables haven't been sprayed: you can eat them without worry."
+    source: kaga115
+    sx: {hanzi: "這菜無洩藥仔，做得安心食。", pinyin: "iaˋ coi moˇ xied iog eˋ, zo dedˋ onˊ ximˊ siid."}
+  - n: 28
+    en: "Sunday 11 March. In the afternoon the rain stopped, and a rainbow appeared in the east."
+    sx: {hanzi: "三月十一號，禮拜日。下晝雨停吔，天弓出現在東片。", pinyin: "samˊ ngied siib idˋ ho, liˊ bai ngidˋ. haˊ zu iˋ tinˇ leˊ, tienˊ giungˊ cudˋ hien coiˊ dungˊ pienˋ."}
+    check: true
+  - n: 29
+    en: "They say that when a rainbow appears in the east, fine weather is coming."
+    source: kaga115
+    sx: {hanzi: "聽講天弓出現在東片會好天。", pinyin: "tangˊ gongˋ tienˊ giungˊ cudˋ hien coiˊ dungˊ pienˋ voi hoˋ tienˊ."}
+  - n: 30
+    en: "The old lady says the rain is a good thing too: no need to water the vegetables. The Earth God's birthday is nearly here, and she is going to make red rice cakes."
+    sx: {hanzi: "叔婆講，落雨也係好事，菜毋使淋水。伯公生就會到吔，佢愛打紅粄。", pinyin: "sugˋ poˇ gongˋ, log iˋ ia he hoˋ sii, coi mˇ siiˋ limˇ suiˋ. bagˋ gungˊ sangˊ qiu voi do leˊ, giˇ oi daˋ fungˇ banˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is an official sentence (line 11), a rule of the table: the guest waits for the host. 主人 zuˋ nginˇ
+      "host; owner".
+  - ref: 1
+    topic: vocab
+    text: >
+      Rain gear: 水衣 suiˋ iˊ "raincoat" (落雨天騎車仔，愛著水衣), 水靴筒 suiˋ hioˊ tungˇ "rubber boots" (落雨天，著水靴筒較利便). In these
+      words 水 is "rain", as in Hailu 落水. 靴仔 hioˊ eˋ in line 16 is "leather shoe, boot".
+  - ref: 4
+    topic: vocab
+    text: >
+      盆 punˇ "basin". 盆頭 punˇ teuˇ in line 10 is a big bowl or pot for serving (頭擺人用盆頭煮飯，這下人用電鑊仔).
+  - ref: 6
+    topic: vocab
+    text: >
+      上屋 song vugˋ "the house above, the neighbours up the lane". 叔婆 is how Sam addresses an old woman of Grandma's
+      generation. 背後 boi heuˊ "behind" (屋背後).
+  - ref: 8
+    topic: vocab
+    text: >
+      過日仔 go ngidˋ eˇ "live, get by" (快樂過日仔). 莊下 zongˊ ha "the country, a village" (莊下人 "country people").
+  - ref: 10
+    topic: vocab
+    text: >
+      覆菜 pugˋ coi "pickled mustard greens, dried and pressed" (芥菜滷鹽變做鹹菜，再分日頭晒，變到覆菜). 調羹仔 tiauˇ gangˊ eˋ "spoon"; the
+      lists also have 湯匙 (lesson word).
+  - ref: 13
+    topic: vocab
+    text: >
+      賁 punˊ "thick" (of dust, cloth, a coat): 著較賁兜仔 "dress more warmly". Its opposite is 薄.
+  - ref: 14
+    topic: grammar
+    text: >
+      還本本 hanˇ bunˋ bunˋ + adjective "still just as …" (你仰食恁久，飯還本本恁多呢？). 膨線衫 pong xien samˊ "woollen jumper".
+  - ref: 15
+    topic: vocab
+    text: >
+      佇毋著 du mˇ diauˇ "can't bear it, can't stand it" (阿姆企忒久，身體佇毋著).
+  - ref: 17
+    topic: vocab
+    text: >
+      鬥雙 deu sungˊ "make a pair" (進修 34). The sentence is said of shoes here and of chopsticks in 進修 36.
+  - ref: 18
+    topic: vocab
+    text: >
+      擎針 kiaˇ ziimˊ "do needlework, take up a needle" (佢擎針補爛忒个衫). 刺 qiugˋ in line 19 is "prick, pierce".
+  - ref: 20
+    topic: vocab
+    text: >
+      位仔 vi eˋ "seat, place"; 後尾 heu miˊ "the back, the rear" (若位仔在盡後尾). 組 zuˊ "group; set" (一組號碼). 重新 qiungˇ xinˊ
+      "again, afresh".
+  - ref: 21
+    topic: grammar
+    text: >
+      𫣆這兜 enˊ iaˋ deuˊ "all of us here", the listeners included. 月曆 ngied lag "calendar".
+  - ref: 22
+    topic: grammar
+    text: >
+      敢有 gamˋ iuˊ "is there really …? can it be that …?" (敢有恁嚴重？). 讀無幾多書 "did not study much": verb + 無幾多. 該當 goiˊ
+      dongˊ "ought to, should".
+  - ref: 24
+    topic: vocab
+    text: >
+      袋仔 toi eˋ "bag; pocket". 食品 siid pinˋ "food products"; 用品 iung pinˋ "goods, things for use" (生活用品). 隨時 suiˇ
+      siiˇ in line 25 is "at any time".
+  - ref: 26
+    topic: vocab
+    text: >
+      面頂 mien dangˋ "on top, the top" (牛乳放在若書桌面頂). 洩 xied in line 27 is "spray": 洩藥仔 "spray pesticide".
+  - ref: 28
+    topic: vocab
+    text: >
+      出現 cudˋ hien "appear". 東片 dungˊ pienˋ "the east side".
+  - ref: 30
+    topic: culture
+    text: >
+      也係 ia he "is also". 紅粄 fungˇ banˋ "red rice cake", made for birthdays and for the gods. 伯公生, the Earth God's
+      birthday, is the second day of the second lunar month: Friday 16 March in 2029.
+
+new_words:
+  - {hanzi: "水衣", pinyin: "suiˋ iˊ", en: "raincoat"}
+  - {hanzi: "水靴筒", pinyin: "suiˋ hioˊ tungˇ", en: "rubber boots"}
+  - {hanzi: "盆", pinyin: "punˇ", en: "basin"}
+  - {hanzi: "上屋", pinyin: "song vugˋ", en: "the house above, the neighbours up the lane"}
+  - {hanzi: "水餃", pinyin: "suiˋ giauˋ", en: "boiled dumplings"}
+  - {hanzi: "背後", pinyin: "boi heuˊ", en: "behind"}
+  - {hanzi: "過日仔", pinyin: "go ngidˋ eˇ", en: "live, get by"}
+  - {hanzi: "莊下", pinyin: "zongˊ ha", en: "the country, a village"}
+  - {hanzi: "盆頭", pinyin: "punˇ teuˇ", en: "big bowl or pot for serving"}
+  - {hanzi: "覆菜", pinyin: "pugˋ coi", en: "pickled mustard greens (dried and pressed)"}
+  - {hanzi: "調羹仔", pinyin: "tiauˇ gangˊ eˋ", en: "spoon"}
+  - {hanzi: "主人", pinyin: "zuˋ nginˇ", en: "host; owner"}
+  - {hanzi: "掃地泥", pinyin: "so ti naiˇ", en: "sweep the floor"}
+  - {hanzi: "賁", pinyin: "punˊ", en: "thick"}
+  - {hanzi: "本本", pinyin: "bunˋ bunˋ", en: "still, just as before"}
+  - {hanzi: "膨線衫", pinyin: "pong xien samˊ", en: "woollen jumper"}
+  - {hanzi: "佇毋著", pinyin: "du mˇ diauˇ", en: "can't bear it, can't stand it"}
+  - {hanzi: "靴仔", pinyin: "hioˊ eˋ", en: "leather shoe, boot"}
+  - {hanzi: "擎針", pinyin: "kiaˇ ziimˊ", en: "do needlework"}
+  - {hanzi: "刺", pinyin: "qiugˋ", en: "prick, pierce"}
+  - {hanzi: "位仔", pinyin: "vi eˋ", en: "seat, place"}
+  - {hanzi: "後尾", pinyin: "heu miˊ", en: "the back, the rear"}
+  - {hanzi: "組", pinyin: "zuˊ", en: "group; set"}
+  - {hanzi: "重新", pinyin: "qiungˇ xinˊ", en: "again, afresh"}
+  - {hanzi: "𫣆這兜", pinyin: "enˊ iaˋ deuˊ", en: "all of us here (you included)"}
+  - {hanzi: "月曆", pinyin: "ngied lag", en: "calendar"}
+  - {hanzi: "敢有", pinyin: "gamˋ iuˊ", en: "is there really …? can it be that …?"}
+  - {hanzi: "該當", pinyin: "goiˊ dongˊ", en: "ought to, should"}
+  - {hanzi: "袋仔", pinyin: "toi eˋ", en: "bag; pocket"}
+  - {hanzi: "食品", pinyin: "siid pinˋ", en: "food products"}
+  - {hanzi: "用品", pinyin: "iung pinˋ", en: "goods, things for use"}
+  - {hanzi: "隨時", pinyin: "suiˇ siiˇ", en: "at any time"}
+  - {hanzi: "面頂", pinyin: "mien dangˋ", en: "on top, the top"}
+  - {hanzi: "洩", pinyin: "xied", en: "spray"}
+  - {hanzi: "出現", pinyin: "cudˋ hien", en: "appear"}
+  - {hanzi: "東片", pinyin: "dungˊ pienˋ", en: "the east side"}
+  - {hanzi: "也係", pinyin: "ia he", en: "is also"}
+  - {hanzi: "紅粄", pinyin: "fungˇ banˋ", en: "red rice cake"}
+
+exercises:
+  translate:
+    - en: "On a rainy day, rubber boots are more convenient."
+      source: kaga
+      sx: {hanzi: "落雨天，著水靴筒較利便。", pinyin: "log iˋ tienˊ, zogˋ suiˋ hioˊ tungˇ ka li pien."}
+    - en: "Dumplings are eaten dipped in vinegar."
+      source: kaga
+      sx: {hanzi: "食水餃愛搵酸醋。", pinyin: "siid suiˋ giauˋ oi vun sonˊ cii."}
+    - en: "The air in the country is very good."
+      source: kaga115
+      sx: {hanzi: "莊下空氣當好。", pinyin: "zongˊ ha kungˊ hi dongˊ hoˋ."}
+    - en: "Is it really that serious?"
+      source: kaga115
+      sx: {hanzi: "敢有恁嚴重？", pinyin: "gamˋ iuˊ anˋ ngiamˇ cung?"}
+    - en: "She takes a needle and mends the torn clothes."
+      source: kaga115
+      sx: {hanzi: "佢擎針補爛忒个衫。", pinyin: "giˇ kiaˇ ziimˊ buˋ lan tedˋ ge samˊ."}
+  fill:
+    - en: "Everything is packed: we can leave at any time."
+      sx: {hanzi: "東西都收好吔，___做得出發。", pinyin: "dungˊ xiˊ du suˊ hoˋ leˊ, ___ zo dedˋ cudˋ fadˋ.", answer_hanzi: "隨時", answer: "suiˇ siiˇ"}
+    - en: "This jumper was knitted by machine."
+      sx: {hanzi: "這領___係用機器打个。", pinyin: "iaˋ liangˊ ___ he iung giˊ hi daˋ ge.", answer_hanzi: "膨線衫", answer: "pong xien samˊ"}
+    - en: "A set of numbers."
+      sx: {hanzi: "一___號碼。", pinyin: "idˋ ___ ho maˊ.", answer_hanzi: "組", answer: "zuˊ"}
+    - en: "His seat is empty: you may sit there."
+      sx: {hanzi: "厥___空空，你做得坐。", pinyin: "giaˊ ___ kungˊ kungˊ, nˇ zo dedˋ coˊ.", answer_hanzi: "位仔", answer: "vi eˋ"}
+    - en: "Mum has been standing too long: her body can't take it."
+      sx: {hanzi: "阿姆企忒久，身體___。", pinyin: "aˊ meˊ kiˊ tedˋ giuˋ, siinˊ tiˋ ___.", answer_hanzi: "佇毋著", answer: "du mˇ diauˇ"}
+
+audio: []
