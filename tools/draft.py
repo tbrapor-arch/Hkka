@@ -187,9 +187,9 @@ def main(path):
     out = os.path.join(ROOT, f"course/perfectionnement/{n:02d}.yaml")
     d = Drafter(new, names, out)
     L = [f"id: {n}", f"genre: {head['genre']}", "title:"]
-    th, _, te = head["title"].partition("|")
-    hz, pin = d.pinyin(th.strip(), "title")
-    L += [f"  en: {q(te.strip())}", f"  sx: {{hanzi: {q(hz)}, pinyin: {q(pin)}}}", f"review: {'true' if head['genre'] == 'review' else 'false'}",
+    th, te = split_fields(head["title"])[:2]
+    hz, pin = d.pinyin(th, "title")
+    L += [f"  en: {q(te)}", f"  sx: {{hanzi: {q(hz)}, pinyin: {q(pin)}}}", f"review: {'true' if head['genre'] == 'review' else 'false'}",
           "setting: >-"]
     words, cur = head["setting"].split(), "  "
     for w in words:

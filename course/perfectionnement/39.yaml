@@ -1,0 +1,297 @@
+id: 39
+genre: interview
+title:
+  en: "Money is hard to earn: don't spend it carelessly"
+  sx: {hanzi: "錢當難賺，莫緊儘採使錢", pinyin: "qienˇ dongˊ nanˇ con, mog ginˋ qinˋ caiˋ siiˋ qienˇ"}
+review: false
+setting: >-
+  Saturday 24 March 2029. On her radio slot, A-in interviews her uncle from 竹東 about his flat-noodle factory, which
+  started work again after the New Year. On the air he speaks Sixian.
+names: [Sam, 阿英, 阿舅, 竹東, 阿傑]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Hello everyone! Today's guest is my uncle, who runs a flat-noodle factory in 竹東. Uncle, the New Year is long past: what day did the factory start work again?"
+    sx: {hanzi: "大家好！今晡日个人客係吾阿舅，佢在竹東開粄條工廠。阿舅，年過忒恁久吔，工廠哪日起工？", pinyin: "tai gaˊ hoˋ! gimˊ buˊ ngidˋ ge nginˇ hagˋ he ngaˊ aˊ kiuˊ, giˇ coiˊ zugˋ dungˊ koiˊ banˋ tiauˇ gungˊ congˋ. aˊ kiuˊ, ngienˇ go tedˋ anˋ giuˋ leˊ, gungˊ congˋ nai ngidˋ hiˋ gungˊ?"}
+    check: true
+  - n: 2
+    speaker: 阿舅
+    en: "We started on the sixth day of the New Year."
+    sx: {hanzi: "年初六就起工吔。", pinyin: "ngienˇ cuˊ liugˋ qiu hiˋ gungˊ leˊ."}
+  - n: 3
+    speaker: 阿舅
+    en: "There's so much work we can't get through it."
+    source: kaga115
+    sx: {hanzi: "事頭恁多做毋去。", pinyin: "se teuˇ anˋ doˊ zo mˇ hi."}
+  - n: 4
+    speaker: 阿舅
+    en: "The workers do overtime every day, and I've been working to the end of the month myself without a rest. We make three batches a day, two hundred catties a batch."
+    sx: {hanzi: "工人逐日加班，𠊎自家乜做到月底無歇睏。一日做三枋，一枋兩百斤。", pinyin: "gungˊ nginˇ dagˋ ngidˋ gaˊ banˊ, ngaiˇ qi gaˊ me zo do ngied daiˋ moˇ hiedˋ kun. idˋ ngidˋ zo samˊ biongˊ, idˋ biongˊ liongˋ bagˋ ginˊ."}
+    check: true
+  - n: 5
+    speaker: 阿英
+    en: "The business has grown big."
+    source: kaga115
+    sx: {hanzi: "事業做當大。", pinyin: "sii ngiab zo dongˊ tai."}
+  - n: 6
+    speaker: 阿舅
+    en: "Not that big. My factory is a small one: there's an accountant, two shop assistants, and an assistant."
+    sx: {hanzi: "無恁大。𠊎个工廠細細間，有一個會計、兩個店員，還有一個助理。", pinyin: "moˇ anˋ tai. ngaiˇ ge gungˊ congˋ se se gienˊ, iuˊ idˋ ge fi gie, liongˋ ge diam ienˇ, hanˇ iuˊ idˋ ge cu liˊ."}
+    check: true
+  - n: 7
+    speaker: 阿英
+    en: "In the old days there were no computers: how did you keep the accounts?"
+    sx: {hanzi: "頭擺無電腦，仰般記數？", pinyin: "teuˇ baiˋ moˇ tien noˋ, ngiongˋ banˊ gi sii?"}
+  - n: 8
+    speaker: 阿舅
+    en: "My father kept them on the abacus. Now we use a computer, and the accountant has to enter everything every day."
+    sx: {hanzi: "吾爸打算盤記數。這下用電腦，會計逐日愛記好。", pinyin: "ngaˊ baˊ daˋ son panˇ gi sii. iaˋ ha iung tien noˋ, fi gie dagˋ ngidˋ oi gi hoˋ."}
+    check: true
+  - n: 9
+    speaker: 阿舅
+    en: "That job has to be finished before she goes home."
+    source: kaga115
+    sx: {hanzi: "這項事情，下班以前愛完成。", pinyin: "iaˋ hong sii qinˇ, haˊ banˊ iˊ qienˇ oi vanˇ siinˇ."}
+  - n: 10
+    speaker: 阿英
+    en: "When the shops in town buy noodles from you, do they have to pay at once?"
+    sx: {hanzi: "街項个店仔同你買粄條，愛黏時撿錢無？", pinyin: "gieˊ hong ge diam eˋ tungˇ nˇ maiˊ banˋ tiauˇ, oi ngiamˇ siiˇ giamˋ qienˇ moˇ?"}
+    check: true
+  - n: 11
+    speaker: 阿英
+    en: "Can they buy on credit?"
+    source: kaga115
+    sx: {hanzi: "做得賒數無？", pinyin: "zo dedˋ caˊ sii moˇ?"}
+  - n: 12
+    speaker: 阿舅
+    en: "Old customers can: I come round for the money at the end of the month. New customers can't, unless someone stands guarantor. My father used to say: in business, don't stand guarantor for just anyone."
+    sx: {hanzi: "老人客做得，月底正來撿錢。新人客無人擔保就做毋得。吾爸講過，做生理毋好儘採同人擔保。", pinyin: "loˋ nginˇ hagˋ zo dedˋ, ngied daiˋ zang loiˇ giamˋ qienˇ. xinˊ nginˇ hagˋ moˇ nginˇ damˊ boˋ qiu zomˇ dedˋ. ngaˊ baˊ gongˋ go, zo senˊ liˊ mˇ hoˋ qinˋ caiˋ tungˇ nginˇ damˊ boˋ."}
+    check: true
+  - n: 13
+    speaker: 阿英
+    en: "Is there a discount before the New Year?"
+    sx: {hanzi: "年下會打折無？", pinyin: "ngienˇ ha voi daˋ zadˋ moˇ?"}
+  - n: 14
+    speaker: 阿舅
+    en: "Yes. Before the New Year, if you buy more you get a discount. These last two years the cost of electricity and gas has gone up and up: we don't make much."
+    sx: {hanzi: "會。過年前買較多就有打折。這兩年電同瓦斯个費用緊來緊高，賺無幾多錢。", pinyin: "voi. go ngienˇ qienˇ maiˊ ka doˊ qiu iuˊ daˋ zadˋ. iaˋ liongˋ ngienˇ tien tungˇ ngaˋ siiˊ ge fi iung ginˋ loiˇ ginˋ goˊ, con moˇ giˋ doˊ qienˇ."}
+    check: true
+  - n: 15
+    speaker: 阿英
+    en: "The workers are on a monthly wage, aren't they? Has anyone left?"
+    sx: {hanzi: "工人係食月給个係無？有人辭頭路無？", pinyin: "gungˊ nginˇ he siid ngied gibˋ ge he moˇ? iuˊ nginˇ ciiˇ teuˇ lu moˇ?"}
+  - n: 16
+    speaker: 阿舅
+    en: "All of them are on a monthly wage. Last year a young man left after three months; now he's an assistant in the convenience store on the corner."
+    sx: {hanzi: "做下食月給。舊年有一個後生人做三隻月就辭頭路，這下在轉角該間便利商店做店員。", pinyin: "zo ha siid ngied gibˋ. kiu ngienˇ iuˊ idˋ ge heu sangˊ nginˇ zo samˊ zagˋ ngied qiu ciiˇ teuˇ lu, iaˋ ha coiˊ zonˋ gogˋ ge gienˊ pien li songˊ diam zo diam ienˇ."}
+    check: true
+  - n: 17
+    speaker: 阿英
+    en: "Who do you sell the noodles to?"
+    sx: {hanzi: "粄條賣分麼人？", pinyin: "banˋ tiauˇ mai bunˊ maˋ nginˇ?"}
+  - n: 18
+    speaker: 阿舅
+    en: "The market, noodle shops and restaurants. There's a chef who comes for them every day. My stall is next to the pork stall in the market, and customers say my noodles are as good as that stall's pork."
+    sx: {hanzi: "市場、麵店同餐廳。有一個廚師日日來拿。吾攤仔在市場豬砧个隔壁，人客講，吾粄條个水準同該豬砧个豬肉共樣好。", pinyin: "sii congˇ, mien diam tungˇ conˊ tangˊ. iuˊ idˋ ge cuˇ siiˊ ngidˋ ngidˋ loiˇ naˊ. ngaˊ tanˊ eˋ coiˊ sii congˇ zuˊ diamˊ ge gagˋ biagˋ, nginˇ hagˋ gongˋ, ngaˊ banˋ tiauˇ ge suiˋ zunˋ tungˇ ge zuˊ diamˊ ge zuˊ ngiugˋ kiung iong hoˋ."}
+    check: true
+  - n: 19
+    speaker: 阿英
+    en: "Do the tourists who come to 竹東 buy any?"
+    sx: {hanzi: "來竹東尞个旅客會買無？", pinyin: "loiˇ zugˋ dungˊ liau ge liˊ hagˋ voi maiˊ moˇ?"}
+  - n: 20
+    speaker: 阿舅
+    en: "Yes. But tourists don't eat much: one stack each is enough. Some foreign tourists ask whether they can pay in foreign currency."
+    sx: {hanzi: "會。毋過旅客食無幾多，一儕買一落就罅吔。有个外國旅客問做得用外國个貨幣無。", pinyin: "voi. mˇ go liˊ hagˋ siid moˇ giˋ doˊ, idˋ saˇ maiˊ idˋ labˋ qiu la leˊ. iuˊ ge ngoi guedˋ liˊ hagˋ mun zo dedˋ iung ngoi guedˋ ge fo bi moˇ."}
+    check: true
+  - n: 21
+    speaker: 阿舅
+    en: "Five taels is plenty: no need to buy so much."
+    source: kaga115
+    sx: {hanzi: "買五兩就好，毋使買恁多。", pinyin: "maiˊ ngˋ liongˊ qiu hoˋ, mˇ siiˋ maiˊ anˋ doˊ."}
+  - n: 22
+    speaker: 阿英
+    en: "How many grams is a tael?"
+    sx: {hanzi: "一兩係幾多克？", pinyin: "idˋ liongˊ he giˋ doˊ kiedˋ?"}
+  - n: 23
+    speaker: 阿舅
+    en: "A tael is about thirty-seven grams. Sixteen taels make a catty: that's six hundred grams."
+    sx: {hanzi: "一兩差毋多三十七克。一斤十六兩，就係六百克。", pinyin: "idˋ liongˊ caˊ mˇ doˊ samˊ siib qidˋ kiedˋ. idˋ ginˊ siib liugˋ liongˊ, qiu he liugˋ bagˋ kiedˋ."}
+    check: true
+  - n: 24
+    speaker: 阿英
+    en: "They say a boss has an easy life. Is that so?"
+    sx: {hanzi: "人講做頭家當好命，係無？", pinyin: "nginˇ gongˋ zo teuˇ gaˊ dongˊ hoˋ miang, he moˇ?"}
+  - n: 25
+    speaker: 阿舅
+    en: "Money is hard to earn: don't keep spending it carelessly."
+    source: kaga115
+    sx: {hanzi: "錢當難賺，莫緊儘採使錢。", pinyin: "qienˇ dongˊ nanˇ con, mog ginˋ qinˋ caiˋ siiˋ qienˇ."}
+  - n: 26
+    speaker: 阿舅
+    en: "I get in a little earlier than the workers every day. The best thing would be for a young person to take over. A-kied gets things done: I'm thinking of making him the manager."
+    sx: {hanzi: "𠊎逐日比工人早兜仔到。盡好係有後生人來接。阿傑做事當煞手，𠊎想分佢做主管。", pinyin: "ngaiˇ dagˋ ngidˋ biˋ gungˊ nginˇ zoˋ deuˊ eˋ do. qin hoˋ he iuˊ heu sangˊ nginˇ loiˇ jiabˋ. aˊ kiedˋ zo se dongˊ sadˋ suˋ, ngaiˇ xiongˋ bunˊ giˇ zo zuˋ gonˋ."}
+    check: true
+  - n: 27
+    speaker: 阿舅
+    en: "Next month the factory is holding an event: we've invited a group of children to see how the noodles are made. The knives for cutting them are very sharp: the children mustn't touch them."
+    sx: {hanzi: "下隻月工廠愛辦一場活動，請一群細人仔來看粄條仰般做。切粄个刀仔當利，細人仔做毋得摸。", pinyin: "ha zagˋ ngied gungˊ congˋ oi pan idˋ congˇ fad tung, qiangˋ idˋ kiunˇ se nginˇ eˋ loiˇ kon banˋ tiauˇ ngiongˋ banˊ zo. qiedˋ banˋ ge doˊ eˋ dongˊ li, se nginˇ eˋ zomˇ dedˋ miaˊ."}
+    check: true
+  - n: 28
+    speaker: 阿英
+    en: "Thank you!"
+    sx: {hanzi: "恁仔細！", pinyin: "anˋ ziiˋ se!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is an official sentence (line 25). 使錢 siiˋ qienˇ "spend money"; 儘採 "carelessly, as one pleases".
+  - ref: 1
+    topic: vocab
+    text: >
+      起工 hiˋ gungˊ "start work (again), start a job" (年過忒愛起工哩). 事頭 se teuˇ in line 3 is "work, jobs to do": 事頭恁多做毋去
+      "so much work that we can't get through it".
+  - ref: 4
+    topic: vocab
+    text: >
+      加班 gaˊ banˊ "do overtime". 月底 "the end of the month": 底 daiˋ "bottom, end". 枋 biongˊ here is a measure,
+      "batch; run (of a bus or train)" (一日一枋車 "one bus a day").
+  - ref: 5
+    topic: vocab
+    text: >
+      事業 sii ngiab "business, enterprise, career".
+  - ref: 6
+    topic: vocab
+    text: >
+      會計 fi gie "accountant; accounts" (佢在這間公司做會計): 會 is read fi here. 店員 diam ienˇ "shop assistant". 助理 cu liˊ
+      "assistant".
+  - ref: 7
+    topic: vocab
+    text: >
+      記數 gi sii "keep accounts". 打算盤 daˋ son panˇ in line 8 is "use the abacus" (頭擺个小學生愛學打算盤). 完成 vanˇ siinˇ in line
+      9 is "finish, complete".
+  - ref: 10
+    topic: vocab
+    text: >
+      撿錢 giamˋ qienˇ is "pay" and also "collect payment" (買東西愛撿錢分人; 屋主等下愛來撿錢). 賒數 caˊ sii in line 11 is "buy on
+      credit" (做得賒數無？).
+  - ref: 12
+    topic: vocab
+    text: >
+      擔保 damˊ boˋ "stand guarantor, guarantee" (佢信用恁差，麼人敢同佢擔保？).
+  - ref: 13
+    topic: vocab
+    text: >
+      打折 daˋ zadˋ "give a discount". 費用 fi iung in line 14 is "cost, expenses". 緊來緊高 "higher and higher": the 緊 … 緊
+      pattern of 進修 38.
+  - ref: 15
+    topic: vocab
+    text: >
+      食月給 siid ngied gibˋ "be on a monthly wage" (你這下在哪位食月給？). 辭頭路 ciiˇ teuˇ lu "leave a job; be dismissed".
+  - ref: 16
+    topic: vocab
+    text: >
+      商店 songˊ diam "shop": 便利商店 "convenience store" (轉角有一間便利商店).
+  - ref: 18
+    topic: vocab
+    text: >
+      廚師 cuˇ siiˊ "chef, cook" (這廚師異會煮食). 豬砧 zuˊ diamˊ "pork stall, butcher's" (這豬砧賣个豬肉盡萋). 水準 suiˋ zunˋ "standard,
+      level".
+  - ref: 19
+    topic: vocab
+    text: >
+      旅客 liˊ hagˋ "tourist, traveller" (來臺灣尞个旅客當多). 貨幣 fo bi in line 20 is "currency" (逐國用个貨幣無共樣).
+  - ref: 20
+    topic: pronunciation
+    text: >
+      落 read labˋ is a measure: "a stack, a pile" (一落碗). It is the third reading of this character, after log "fall"
+      and lau "come loose" (進修 36).
+  - ref: 21
+    topic: pronunciation
+    text: >
+      兩 read liongˊ is the Taiwanese tael, 37.5 g; sixteen make a 斤 of 600 g (general knowledge). 兩 "two" is liongˋ.
+      克 kiedˋ "gram" (一公斤有一千克). 就係 qiu he "that is, is precisely".
+  - ref: 24
+    topic: vocab
+    text: >
+      人講 nginˇ gongˋ "people say, as they say".
+  - ref: 26
+    topic: vocab
+    text: >
+      早兜仔 zoˋ deuˊ eˋ "a bit earlier" (早兜仔轉來！). 盡好 qin hoˋ "ideally, the best thing" (事情盡好係像你講个恁樣). 主管 zuˋ gonˋ
+      "manager, the person in charge". 煞手 is from 進修 38.
+  - ref: 27
+    topic: vocab
+    text: >
+      場 congˇ is the measure for events (一場活動), 群 kiunˇ for a group (一群細人仔). 利 li "sharp" (這刀仔當利，愛擎好).
+
+new_words:
+  - {hanzi: "使錢", pinyin: "siiˋ qienˇ", en: "spend money"}
+  - {hanzi: "起工", pinyin: "hiˋ gungˊ", en: "start work (again)"}
+  - {hanzi: "事頭", pinyin: "se teuˇ", en: "work, jobs to do"}
+  - {hanzi: "加班", pinyin: "gaˊ banˊ", en: "do overtime"}
+  - {hanzi: "底", pinyin: "daiˋ", en: "bottom, end"}
+  - {hanzi: "枋", pinyin: "biongˊ", en: "(measure) batch; run (of a bus)"}
+  - {hanzi: "事業", pinyin: "sii ngiab", en: "business, enterprise, career"}
+  - {hanzi: "會計", pinyin: "fi gie", en: "accountant; accounts"}
+  - {hanzi: "店員", pinyin: "diam ienˇ", en: "shop assistant"}
+  - {hanzi: "助理", pinyin: "cu liˊ", en: "assistant"}
+  - {hanzi: "記數", pinyin: "gi sii", en: "keep accounts"}
+  - {hanzi: "打算盤", pinyin: "daˋ son panˇ", en: "use the abacus"}
+  - {hanzi: "完成", pinyin: "vanˇ siinˇ", en: "finish, complete"}
+  - {hanzi: "撿錢", pinyin: "giamˋ qienˇ", en: "pay; collect payment"}
+  - {hanzi: "賒數", pinyin: "caˊ sii", en: "buy on credit"}
+  - {hanzi: "擔保", pinyin: "damˊ boˋ", en: "stand guarantor, guarantee"}
+  - {hanzi: "打折", pinyin: "daˋ zadˋ", en: "give a discount"}
+  - {hanzi: "費用", pinyin: "fi iung", en: "cost, expenses"}
+  - {hanzi: "食月給", pinyin: "siid ngied gibˋ", en: "be on a monthly wage"}
+  - {hanzi: "辭頭路", pinyin: "ciiˇ teuˇ lu", en: "leave a job; be dismissed"}
+  - {hanzi: "商店", pinyin: "songˊ diam", en: "shop"}
+  - {hanzi: "廚師", pinyin: "cuˇ siiˊ", en: "chef, cook"}
+  - {hanzi: "豬砧", pinyin: "zuˊ diamˊ", en: "pork stall, butcher's"}
+  - {hanzi: "水準", pinyin: "suiˋ zunˋ", en: "standard, level"}
+  - {hanzi: "旅客", pinyin: "liˊ hagˋ", en: "tourist, traveller"}
+  - {hanzi: "落", pinyin: "labˋ", en: "(measure) a stack, a pile"}
+  - {hanzi: "貨幣", pinyin: "fo bi", en: "currency"}
+  - {hanzi: "兩", pinyin: "liongˊ", en: "tael (37.5 g)"}
+  - {hanzi: "克", pinyin: "kiedˋ", en: "gram"}
+  - {hanzi: "就係", pinyin: "qiu he", en: "that is, is precisely"}
+  - {hanzi: "人講", pinyin: "nginˇ gongˋ", en: "people say, as they say"}
+  - {hanzi: "早兜仔", pinyin: "zoˋ deuˊ eˋ", en: "a bit earlier"}
+  - {hanzi: "盡好", pinyin: "qin hoˋ", en: "ideally, the best thing"}
+  - {hanzi: "主管", pinyin: "zuˋ gonˋ", en: "manager, person in charge"}
+  - {hanzi: "場", pinyin: "congˇ", en: "(measure for events)"}
+  - {hanzi: "群", pinyin: "kiunˇ", en: "(measure) group, crowd"}
+  - {hanzi: "利", pinyin: "li", en: "sharp"}
+
+exercises:
+  translate:
+    - en: "There is a convenience store on the corner."
+      source: kaga115
+      sx: {hanzi: "轉角有一間便利商店。", pinyin: "zonˋ gogˋ iuˊ idˋ gienˊ pien li songˊ diam."}
+    - en: "This chef is a very good cook."
+      source: kaga115
+      sx: {hanzi: "這廚師異會煮食。", pinyin: "iaˋ cuˇ siiˊ i voi zuˋ siid."}
+    - en: "Every country uses a different currency."
+      source: kaga115
+      sx: {hanzi: "逐國用个貨幣無共樣。", pinyin: "dagˋ guedˋ iung ge fo bi moˇ kiung iong."}
+    - en: "A great many tourists come to Taiwan."
+      source: kaga115
+      sx: {hanzi: "來臺灣尞个旅客當多。", pinyin: "loiˇ toiˇ vanˇ liau ge liˊ hagˋ dongˊ doˊ."}
+    - en: "She is the accountant of this company."
+      source: kaga
+      sx: {hanzi: "佢在這間公司做會計。", pinyin: "giˇ coiˊ iaˋ gienˊ gungˊ siiˊ zo fi gie."}
+  fill:
+    - en: "The New Year is over: time to start work."
+      sx: {hanzi: "年過忒愛___哩。", pinyin: "ngienˇ go tedˋ oi ___ leˊ.", answer_hanzi: "起工", answer: "hiˋ gungˊ"}
+    - en: "Tonight I have to do overtime."
+      sx: {hanzi: "暗晡夜愛___。", pinyin: "am buˊ ia oi ___.", answer_hanzi: "加班", answer: "gaˊ banˊ"}
+    - en: "A stack of bowls."
+      sx: {hanzi: "一___碗。", pinyin: "idˋ ___ vonˋ.", answer_hanzi: "落", answer: "labˋ"}
+    - en: "There are a thousand grams in a kilogram."
+      sx: {hanzi: "一公斤有一千___。", pinyin: "idˋ gungˊ ginˊ iuˊ idˋ qienˊ ___.", answer_hanzi: "克", answer: "kiedˋ"}
+    - en: "This knife is very sharp: hold it carefully."
+      sx: {hanzi: "這刀仔當___，愛擎好。", pinyin: "iaˋ doˊ eˋ dongˊ ___, oi kiaˇ hoˋ.", answer_hanzi: "利", answer: "li"}
+
+audio: []
