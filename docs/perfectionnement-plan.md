@@ -4,10 +4,12 @@ Decided with the user on 8 Nov 2026. Model: Tsheh-tû's `docs/perfectionnement-p
 Before writing a lesson, read `course/batches/card.md` (one page) and `course/batches/state.md`.
 `course/batches/checklist.md` holds the evidence behind the card.
 
-## Status (10 Nov 2026)
-**P1–P35 written, reviewed by fresh agents, fixed and merged into main.** Lint shows 0 errors.
-- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35).
-- Coverage after P35: 2,862 words taught. 基礎級 100%, 初級 84%, 中級 53%, 中高級 5%.
+## Status (10 Nov 2026, evening)
+**P1–P35 written, reviewed by fresh agents, fixed and merged into main. P36–P42 written and reviewed on branch
+`claude/p36-tooling`** (not merged). Lint shows 0 errors. The accent bridge (six pages between lesson 100 and 進修 1) is
+on the same branch: see "Accent bridge" below.
+- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35), `P36.md` (P36–P42).
+- Coverage after P42: 3,091 words taught. 基礎級 100%, 初級 92%, 中級 61%, 中高級 6% (after P35: 2,862; 84%, 53%, 5%).
 - New words per lesson average about 35, short of the 40 target:
   - P8–P21 averaged 28, because many candidates were already taught in Part 1.
   - From P22 on, picking words first from the untaught list raised the average.
@@ -15,8 +17,9 @@ Before writing a lesson, read `course/batches/card.md` (one page) and `course/ba
 - The 40-word question (raise the line cap to 35, or add a third exercise?) is answered by the word plan below:
   about 45 planned words per lesson, lessons stay at 20–30 lines and two exercises (P22 and P24 already held 43–45 new
   words in 26–30 lines). The user can still change this.
-- Story so far: Sam is at 聯合大學 from Sept 2028. Lessons run through New Year 2029, ending with 年初三 in 美濃 (P35).
-- Next: P36 onwards, from late Feb 2029. The 中級 exam is around Nov 2029. The second wave is the app's business
+- P36–P41 average 38 new words (229 in six lessons); 40% of their lines are exact official sentences.
+- Story so far: Sam is at 聯合大學 from Sept 2028. P42 is Sun 15 Apr 2029 (`course/batches/state.md`).
+- Next: P43 onwards, from late April 2029 (桐花 season, then 端午 on 16 Jun). The 中級 exam is around Nov 2029. The second wave is the app's business
   (finishing P36 brings back P1): it puts no constraint on the words or the theme of P36.
 
 ## Process from P36 on (10 Nov 2026: faster, still one lesson at a time)
@@ -38,6 +41,20 @@ whole checklist, and a review that looked for mechanical errors. These are now d
    The user approves the batch result, not each lesson.
 
 Handover of the tooling: `docs/tooling-handover.md`.
+
+## Accent bridge (10 Nov 2026)
+Asked by the user: "a bridge between normal and perfectionnement, from the perspective of Sixian toward Hailu and
+others". Six pages, shown in the app from the Part 2 cover, before 進修 1:
+overview, then Hailu, South Sixian, Dapu, Raoping, Zhao'an. Each page has the same seven sections (tones,
+consonants, vowels and endings, the suffix 仔, words that change, the same eight sentences, try it).
+- `tools/bridge.py build` writes `course/bridge/*.md`. Every table, count and example is measured on the 115年度 lists
+  (Hailu, Dapu, Raoping, Zhao'an), the MOE dictionary (South Sixian) and 客語百句 (the eight sentences, six accents).
+- The hand-written remarks are in `course/bridge/notes.yaml`. A remark may only say what its table shows; places and
+  speaker ranks are from the MOE dictionary article 107_002. The script stops if a word listed there is not in the data.
+- Measured distance (Part 1 words written with the same characters): Hailu 96%, Raoping 94%, Dapu 89%, Zhao'an 77%.
+  South Sixian: 91% of the MOE entries are read exactly as in the north.
+- Not done: the recordings of the eight sentences (easytalk.hakka.gov.tw) are not played by the app. No native speaker
+  has checked the pages.
 
 ## Starting point (8 Nov 2026, after the light revision of Part 1)
 `make coverage`: 1,874 words taught; 基礎級 483/483, 初級 487/841, 中級 311/1,706.

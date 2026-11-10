@@ -19,6 +19,8 @@ In the 100 most frequent words, 60 are not plain Mandarin. That is where the tim
 - First wave: all 100 lessons, each new. Second wave: from lesson 50, finishing lesson N brings back lesson N−49,
   read in English first and said in Hakka.
 - Dialogue length as in Tsheh-tû: 8–10 lines at the start, 15 by lesson 51, 18–20 at the end; reviews about 10.
+- Between the two parts: **the accent bridge**, six pages from Sixian to Hailu, South Sixian, Dapu, Raoping and
+  Zhao'an (`course/bridge/`, written by `tools/bridge.py` from the lists; remarks in `course/bridge/notes.yaml`).
 - Part 2: **進修** (perfectionnement), 70 longer texts in varied genres (dialogue, tale, letter, essay, interview,
   play), every 7th a review.
 

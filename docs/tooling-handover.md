@@ -25,7 +25,10 @@ order is poorer.
 ## What was added
 | File | What it is |
 |---|---|
-| `tools/packets.py` | Four commands: `plan`, `packet N`, `status`, `recycle` |
+| `tools/packets.py` | Commands: `plan`, `packet N`, `short N` (the packet on one screen), `status`, `recycle` |
+| `tools/draft.py` | Writes a lesson from a draft that has no pinyin (added with batch P36–P42) |
+| `course/drafts/PNN.txt` | The draft of one lesson. Not committed (`.gitignore`) |
+| `tools/bridge.py` | The accent bridge: `report`, `build` (see `docs/perfectionnement-plan.md`) |
 | `course/packets/plan.tsv` | The word plan: 1,350 words for P36–P69, about 45 per lesson. Made once. You can edit it by hand |
 | `course/packets/PNN.md` | The packet of one lesson. Generated, not committed (`.gitignore`) |
 | `course/batches/rules.yaml` | 37 checklist rules that a pattern can catch. Lint reads it |
@@ -35,11 +38,20 @@ order is poorer.
 | `Makefile` | `make packet N=36` |
 
 ## How to write one lesson
-1. `make packet N=36`, then read `course/packets/P36.md`, `course/batches/card.md` and `course/batches/state.md`.
+1. `python3 -I tools/packets.py short 43`, then read `course/batches/card.md` and `course/batches/state.md`.
 2. Choose a genre and a scene that hold 40 or more of the packet words.
-3. Start from the sentences tagged `[clean]`. Quote them exactly, with `source: kaga115`. Then write the lines between.
-4. `make lint`. Fix every error. Fix every warning, or know why it stays.
-5. Commit. Add three lines to the log in `state.md`.
+3. Write the draft `course/drafts/P43.txt`: characters and English only, no pinyin (format: the top of
+   `tools/draft.py`). Start from the clean official sentences and quote them exactly, each as a line of its own.
+4. `python3 -I tools/draft.py course/drafts/P43.txt` writes `course/perfectionnement/43.yaml` with the pinyin, the
+   `source:` labels and `new_words`. Read its report:
+   - `NEW?`: a word that is not taught and not declared. Declare it or change the line.
+   - `PICK`: a word with several taught readings. The tool took the first one taught. Force another with
+     `[word|reading]` in the draft (著, 好, 落, 倒, 降, 兩, 煞 need this often).
+   - `UNUSED`: a declared word that the text only has inside a longer taught word.
+5. `make lint`. Fix every error. Fix every warning, or know why it stays. Go back to step 3 until it is clean.
+6. Commit. Add two or three lines to the log in `state.md`.
+
+After the review, fixes go into the YAML file directly: the draft is not kept.
 
 After seven lessons: write the batch table in `course/batches/P36.md`, ask a fresh agent to review, fix, then run
 `python3 -I tools/packets.py recycle` and `make coverage`.
@@ -85,6 +97,12 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
 - In both cases, put the evidence (counts, example sentences) in `checklist.md`.
 - Then run `make lint` on all lessons. If the new rule gives a false alarm, make the pattern narrower.
 
+## First batch with the tooling (P36–P42, 10 Nov 2026)
+- Seven lessons, 229 new words (38 per lesson; P1–P35 averaged 35), 40% of the lines are exact official sentences.
+- Each lesson took three or four runs of the draft tool and lint. No database query was needed while writing, except
+  to check a phrase that was not official.
+- 42 planned words were not taught. `course/batches/P36.md` says why, word by word.
+
 ## Checked on 10 Nov 2026
 - `make lint` on the 135 lessons: 0 errors, and no new warning on P1–P35.
 - A test lesson with errors on purpose (wrong table in `source:`, 幾點, 逐日 read giugˋ, 打針, bare 毋貴, a word used
@@ -99,11 +117,11 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
 - The themes of the lists are broad. A packet of 外在活動與動作 holds actions of many kinds: the writer still has to
   find the scene. You may move words between lessons in `plan.tsv`.
 - The rules look at 進修 lessons only (Sixian). Part 1 is not checked against them.
-- No lesson has been written with the packets yet. P36 is the first test: note what was missing in the packet and
-  improve `packets.py` after the first batch.
+- The draft tool's default reading is the first one taught, which is wrong for several frequent words. The review
+  of P36–P42 looked at every such word; the next writer must force the reading in the draft.
+- A pattern with … in the middle (除忒…以外) cannot be declared as a new word, so coverage keeps it as untaught.
 
 ## Next
-1. Brief for batch P36–P42 (`course/batches/P36.md`): calendar from Mon 19 Feb 2029 (compute 元宵, 天穿日, 清明 with
-   `lunardate`), one genre and scene per packet.
-2. Write P36–P41 one at a time, then the review lesson P42.
+1. Batch P43–P49: story from late April 2029 (`course/batches/state.md` has the open threads and the calendar).
+2. Write P43–P48 one at a time, then the review lesson P49.
 3. Fresh-agent review, fixes, new rules, `recycle`, `make coverage`. Show the batch result to the user.

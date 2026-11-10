@@ -4,12 +4,14 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 `checklist.md`: open it only when a point here is not enough. 進修 is Sixian only, so the Hailu rules are left out.
 
 ## Order of work for one lesson
-1. `make packet N=36` and read `course/packets/P36.md` and `state.md`.
-2. Pick a genre and a scene that hold 40 or more of the packet words. Start from the `[clean]` sentences: quoted word
-   for word with `source: kaga115`, they are already correct and have a real recording.
-3. Write 20–30 lines, two exercises of 5 items, notes, `new_words`. Every new word is in the text, not only in an exercise.
-4. `make lint`: 0 errors, and no warning left without a reason.
-5. Read the lesson once against this card. Commit. Add three lines to `state.md`.
+1. `python3 -I tools/packets.py short 43` and read `state.md`.
+2. Pick a genre and a scene that hold 40 or more of the packet words. Start from the clean official sentences: quoted
+   word for word, each as a line of its own, they are already correct and have a real recording.
+3. Write the draft `course/drafts/P43.txt` (characters and English, no pinyin): 20–30 lines, two exercises of 5 items,
+   notes, new words. Every new word is in the text, not only in an exercise.
+4. `python3 -I tools/draft.py course/drafts/P43.txt`, then `make lint`: 0 errors, and no warning left without a reason.
+   For every `PICK` line of the report, check the reading against the sense.
+5. Read the lesson once against this card. Commit. Add two or three lines to `state.md`.
 
 ## Quoting
 - An official sentence is quoted exactly, with its own particles (哩, 了, 異). If you change one character, it is the
@@ -37,7 +39,12 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - Advice: 愛多 + verb. Quantity: verb + 加 + amount (歇加兩暗晡, 買加兜仔).
 - A pattern with no official sentence either changes or gets `check: true` and a note that says so.
 
+## Titles
+- A title is used once. Titles already taken include 三日打魚四日晒網 (P22) and 邋食坐大位 (P23): grep before choosing.
+
 ## People and story
+- 上屋叔婆 is the old woman up Sam's lane (P37); 黃醫生 is the retired doctor of 公館 (P24, P40); 阿傑 manages 阿舅's
+  factory from April 2029 (P42).
 - Sam (French, surname Martin) calls Mrs Liu 伯姆. 阿姆 is for A-in and A-min. Sam has a sister, Lucie.
 - 阿太 is Grandpa's father. 姐婆 is the maternal grandmother. 頭家 is the owner, not the waiter.
 - Sam spent the winter of 2026–27 with the Lius: nothing in Part 2 is his "first" winter or New Year in Taiwan.
