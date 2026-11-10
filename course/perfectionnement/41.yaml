@@ -1,0 +1,301 @@
+id: 41
+genre: story
+title:
+  en: "Out to see the country"
+  sx: {hanzi: "出去遶光景", pinyin: "cudˋ hi lauˊ gongˊ ginˋ"}
+review: false
+setting: >-
+  Saturday 7 April 2029, just after the Qingming holiday. Grandpa takes Sam and A-min into the Miaoli hills to see
+  the old coal mine where his father worked, and a waterfall. The weather turns on the way back.
+names: [Sam, 阿公, 阿婆, 阿太, 阿明]
+
+dialogue:
+  - n: 1
+    en: "Saturday 7 April. Qingming is over and the weather has turned warm: Grandpa is taking Sam and A-min out to see the country."
+    sx: {hanzi: "四月七號，禮拜六。清明過忒，天時燒暖吔，阿公帶 Sam 同阿明出去遶光景。", pinyin: "xi ngied qidˋ ho, liˊ bai liugˋ. qiangˊ miangˇ go tedˋ, tienˊ siiˇ seuˊ nonˊ leˊ, aˊ gungˊ dai Sam tungˇ aˊ minˇ cudˋ hi lauˊ gongˊ ginˋ."}
+    check: true
+  - n: 2
+    speaker: 阿婆
+    en: "Bags big and small: where are you off to?"
+    source: kaga115
+    sx: {hanzi: "包袱仔大包細包，愛去哪？", pinyin: "bauˊ fug eˋ tai bauˊ se bauˊ, oi hi nai?"}
+  - n: 3
+    speaker: 阿公
+    en: "To see the old coal mine, and a waterfall too."
+    sx: {hanzi: "去看頭擺个炭礦，還有一隻水沖。", pinyin: "hi kon teuˇ baiˋ ge tan kongˋ, hanˇ iuˊ idˋ zagˋ suiˋ cungˇ."}
+    check: true
+  - n: 4
+    en: "Grandma gave them a hand of bananas to take along. The mountain road is full of bends: it took half an hour's drive to get there."
+    sx: {hanzi: "阿婆拿一托弓蕉分佢兜帶去。山路當彎，車仔駛半點鐘正到。", pinyin: "aˊ poˇ naˊ idˋ togˋ giungˊ zeuˊ bunˊ giˇ deuˊ dai hi. sanˊ lu dongˊ vanˊ, caˊ eˋ siiˋ ban diamˋ zungˊ zang do."}
+    check: true
+  - n: 5
+    en: "Looking across from the hilltop, there is one great stretch of forest."
+    source: kaga115
+    sx: {hanzi: "對山頭看啊過去，係一大片个樹林。", pinyin: "dui sanˊ teuˇ kon a go hi, he idˋ tai pienˋ ge su naˇ."}
+  - n: 6
+    en: "Looking north-west, you can see the ocean far away. That hillside caught fire last year, and the trees there are still small."
+    sx: {hanzi: "向西北片看，遠遠看得著海洋。該片山頭舊年著火，到這下樹仔還細細頭。", pinyin: "hiong xiˊ bedˋ pienˋ kon, ienˋ ienˋ kon dedˋ doˋ hoiˋ iongˇ. ge pienˋ sanˊ teuˇ kiu ngienˇ cog foˋ, do iaˋ ha su eˋ hanˇ se se teuˇ."}
+    check: true
+  - n: 7
+    speaker: 阿公
+    en: "Taiwan has many kinds of landscape."
+    source: kaga115
+    sx: {hanzi: "臺灣有當多種地形。", pinyin: "toiˇ vanˇ iuˊ dongˊ doˊ zungˋ ti hinˇ."}
+  - n: 8
+    en: "The mine tunnel is shut with an iron gate: you can't go in."
+    sx: {hanzi: "炭礦个窿用鐵仔做个門關等，做毋得入去。", pinyin: "tan kongˋ ge lungˇ iung tiedˋ eˇ zo ge munˇ guanˊ denˋ, zomˇ dedˋ ngib hi."}
+    check: true
+  - n: 9
+    en: "There isn't enough light."
+    source: kaga115
+    sx: {hanzi: "光線毋罅。", pinyin: "gongˊ xien mˇ la."}
+  - n: 10
+    en: "Water keeps leaking from the cracks in the wall."
+    source: kaga115
+    sx: {hanzi: "壁項个必縫緊漏水。", pinyin: "biagˋ hong ge bidˋ pung ginˋ leu suiˋ."}
+  - n: 11
+    speaker: 阿公
+    en: "In the old days my father worked in the coal mine with the other men. The work that generation did, young people today couldn't do."
+    sx: {hanzi: "頭擺阿太同人打炭礦。該代人做个事頭，這下个後生人做毋來。", pinyin: "teuˇ baiˋ aˊ tai tungˇ nginˇ daˋ tan kongˋ. ge toi nginˇ zo ge se teuˇ, iaˋ ha ge heu sangˊ nginˇ zo mˇ loiˇ."}
+    check: true
+  - n: 12
+    speaker: 阿公
+    en: "Hewing coal in the mine for a living is both dangerous and hard."
+    source: kaga
+    sx: {hanzi: "在炭礦肚打炭討食，又危險又辛苦。", pinyin: "coiˊ tan kongˋ duˋ daˋ tan toˋ siid, iu nguiˇ hiamˋ iu xinˊ kuˋ."}
+  - n: 13
+    speaker: 阿公
+    en: "This area is often flooded."
+    source: kaga115
+    sx: {hanzi: "這地區輒輒做大水。", pinyin: "iaˋ ti kiˊ jiab jiab zo tai suiˋ."}
+  - n: 14
+    en: "One year there was a flood, and the mine closed. The three of them walked across a stretch of rough grass."
+    sx: {hanzi: "有一年做大水，炭礦就關忒吔。三儕人行過一片草埔。", pinyin: "iuˊ idˋ ngienˇ zo tai suiˋ, tan kongˋ qiu guanˊ tedˋ leˊ. samˊ saˇ nginˇ hangˇ go idˋ pienˋ coˋ puˊ."}
+    check: true
+  - n: 15
+    speaker: 阿明
+    en: "This grassland is so flat you could make a playing field of it."
+    source: kaga115
+    sx: {hanzi: "這草埔恁平，做得開球場。", pinyin: "iaˋ coˋ puˊ anˋ piangˇ, zo dedˋ koiˊ kiuˇ congˇ."}
+  - n: 16
+    en: "The trees along the path have thorns."
+    sx: {hanzi: "路脣个樹仔有竻。", pinyin: "lu sunˇ ge su eˋ iuˊ nedˋ."}
+    check: true
+  - n: 17
+    speaker: 阿公
+    en: "Watch out for yourselves: if you fall, there'll be nothing to be done!"
+    source: kaga115
+    sx: {hanzi: "自家愛注意，無跌啊倒斯無結無煞！", pinyin: "qi gaˊ oi zu i, moˇ diedˋ a doˋ siiˊ moˇ gadˋ moˇ sadˋ!"}
+  - n: 18
+    en: "The waterfall is thirty metres high. The water comes down from the top; below there is a big pool, and beside it a strip of sand."
+    sx: {hanzi: "水沖有三十公尺高。水對山頂落下來，底下有一隻大水窟，脣項還有一片沙壩。", pinyin: "suiˋ cungˇ iuˊ samˊ siib gungˊ cagˋ goˊ. suiˋ dui sanˊ dangˋ log haˊ loiˇ, daiˋ haˊ iuˊ idˋ zagˋ tai suiˋ fudˋ, sunˇ hong hanˇ iuˊ idˋ pienˋ saˊ ba."}
+    check: true
+  - n: 19
+    en: "The three of them sat on the sand to have lunch. A-min didn't eat his rice, only sweets."
+    sx: {hanzi: "三儕人坐在沙壩食晝。阿明無食飯，淨食糖仔。", pinyin: "samˊ saˇ nginˇ coˊ coiˊ saˊ ba siid zu. aˊ minˇ moˇ siid fan, qiang siid tongˇ eˋ."}
+    check: true
+  - n: 20
+    speaker: 阿公
+    en: "You can't eat sweets in place of a meal."
+    source: kaga115
+    sx: {hanzi: "糖仔做毋得準飯食。", pinyin: "tongˇ eˋ zomˇ dedˋ zunˋ fan siid."}
+  - n: 21
+    speaker: 阿公
+    en: "Cut this watermelon in half: a piece each."
+    source: kaga115
+    sx: {hanzi: "將這粒西瓜對半破，一儕一析。", pinyin: "jiongˊ iaˋ liab xiˊ guaˊ dui ban po, idˋ saˇ idˋ sagˋ."}
+  - n: 22
+    speaker: Sam
+    en: "Grandpa, does your leg still hurt?"
+    sx: {hanzi: "阿公，你个腳還會痛無？", pinyin: "aˊ gungˊ, nˇ ge giogˋ hanˇ voi tung moˇ?"}
+  - n: 23
+    speaker: 阿公
+    en: "The place I hurt when I fell last time still aches a little."
+    source: kaga115
+    sx: {hanzi: "上擺跌倒傷著个位仔，還略略仔會痛。", pinyin: "song baiˋ diedˋ doˋ songˊ doˋ ge vi eˋ, hanˇ liog liog eˋ voi tung."}
+  - n: 24
+    en: "The sky went black: it looked like rain."
+    source: kaga115
+    sx: {hanzi: "烏天暗地，像會落雨樣仔。", pinyin: "vuˊ tienˊ am ti, qiong voi log iˋ iong eˋ."}
+  - n: 25
+    speaker: 阿公
+    en: "The wind is getting up! Put a jacket on, or you'll catch cold!"
+    source: kaga115
+    sx: {hanzi: "起風吔！著領外衫，無斯會寒著哦！", pinyin: "hiˋ fungˊ leˊ! zogˋ liangˊ ngoi samˊ, moˇ siiˊ voi honˇ doˋ oˊ!"}
+  - n: 26
+    en: "Halfway back a downpour came down, and the three of them ran to shelter under a water tower."
+    sx: {hanzi: "轉到半路落浩洪斗雨，三儕人走到一隻水塔下背囥雨。", pinyin: "zonˋ do ban lu log heˊ fungˇ deuˋ iˋ, samˊ saˇ nginˇ zeuˋ do idˋ zagˋ suiˋ tabˋ haˊ boi kong iˋ."}
+    check: true
+  - n: 27
+    en: "The rain stopped, shafts of sunlight came through the clouds, and a rainbow appeared in the east. As the sun went down, their three shadows grew longer and longer."
+    sx: {hanzi: "雨停吔，雲肚出日頭花，東片還出現天弓。日頭落山，三儕人个影仔緊來緊長。", pinyin: "iˋ tinˇ leˊ, iunˇ duˋ cudˋ ngidˋ teuˇ faˊ, dungˊ pienˋ hanˇ cudˋ hien tienˊ giungˊ. ngidˋ teuˇ log sanˊ, samˊ saˇ nginˇ ge iangˋ eˇ ginˋ loiˇ ginˋ congˇ."}
+    check: true
+  - n: 28
+    en: "In the evening the hills were very quiet. Grandpa said that the hills have four seasons, and the country in spring is not the country in autumn."
+    sx: {hanzi: "暗晡頭山肚當恬靜。阿公講，山肚一年有四季，春天同秋天个光景無共樣。", pinyin: "am buˊ teuˇ sanˊ duˋ dongˊ diamˊ qin. aˊ gungˊ gongˋ, sanˊ duˋ idˋ ngienˇ iuˊ xi gui, cunˊ tienˊ tungˇ qiuˊ tienˊ ge gongˊ ginˋ moˇ kiung iong."}
+    check: true
+  - n: 29
+    en: "At night, in places with less light pollution, you can sometimes see the Milky Way."
+    source: kaga115
+    sx: {hanzi: "暗晡頭在較無光害个所在，有時節看得著天河。", pinyin: "am buˊ teuˇ coiˊ ka moˇ gongˊ hoi ge soˋ cai, iuˊ siiˇ jiedˋ kon dedˋ doˋ tienˊ hoˇ."}
+  - n: 30
+    en: "The three of them walked home without a word. The whole day had gone safely and smoothly."
+    sx: {hanzi: "三儕人恬恬仔行轉屋下。今晡日一路平安順序。", pinyin: "samˊ saˇ nginˇ diamˊ diamˊ eˋ hangˇ zonˋ vugˋ kaˊ. gimˊ buˊ ngidˋ idˋ lu pinˇ onˊ sun xi."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: vocab
+    text: >
+      遶光景 "go and see the country, go sightseeing" (出去遶光景): 光景 gongˊ ginˋ "scenery, view". This lesson is narrated;
+      the spoken lines carry a name.
+  - ref: 2
+    topic: vocab
+    text: >
+      包袱 bauˊ fug "bundle, bag, luggage" (包袱仔先裝便來). 炭礦 tan kongˋ in line 3 is "coal mine"; 水沖 suiˋ cungˇ
+      "waterfall".
+  - ref: 4
+    topic: vocab
+    text: >
+      托 togˋ is the measure for a hand of bananas (一托弓蕉). 彎 vanˊ "bend; winding" (山路當彎).
+  - ref: 5
+    topic: vocab
+    text: >
+      山頭 sanˊ teuˇ "hilltop, hill" (日頭對該片个山頭出來). 西北 xiˊ bedˋ in line 6 is "north-west"; 海洋 hoiˋ iongˇ "ocean". 著火
+      cog foˋ "catch fire" (樹林著火哩，樹仔做下燒淨淨): 著 is read cog here.
+  - ref: 7
+    topic: vocab
+    text: >
+      地形 ti hinˇ "terrain, the lie of the land".
+  - ref: 8
+    topic: vocab
+    text: >
+      窿 lungˇ "tunnel, hole". 鐵仔 tiedˋ eˇ "iron". 光線 gongˊ xien in line 9 is "light" (這隻間房光線當好). 必縫 bidˋ pung in
+      line 10 is "crack".
+  - ref: 11
+    topic: vocab
+    text: >
+      代 toi "generation": 該代人 "that generation". 阿太 is Grandpa's father. 事頭 is from 進修 39.
+  - ref: 13
+    topic: vocab
+    text: >
+      地區 ti kiˊ "area, district". 做大水 zo tai suiˋ "be flooded, have a flood" (大雨落無停，驚怕會做大水). 草埔 coˋ puˊ in line 14
+      is "rough grassland".
+  - ref: 16
+    topic: vocab
+    text: >
+      竻 nedˋ "thorn".
+  - ref: 17
+    topic: vocab
+    text: >
+      無結無煞 moˇ gadˋ moˇ sadˋ "be at a loss, nothing to be done". 跌啊倒 "happen to fall": 啊 between the two halves of
+      跌倒.
+  - ref: 18
+    topic: vocab
+    text: >
+      公尺 gungˊ cagˋ "metre". 底下 daiˋ haˊ "underneath, below" (盒仔底下有兩張紙). 水窟 "pool". 沙壩 saˊ ba "sandbank, beach".
+  - ref: 20
+    topic: vocab
+    text: >
+      準 zunˋ "serve as, count as": 準飯食 "eat it as a meal". 一儕一析 in line 21: 析 sagˋ is a piece cut off something
+      round (破兩析); 破 is from 進修 36.
+  - ref: 23
+    topic: vocab
+    text: >
+      略略仔 liog liog eˋ "slightly, a little" (略略仔發燒).
+  - ref: 24
+    topic: vocab
+    text: >
+      烏天暗地 vuˊ tienˊ am ti "the sky goes black". 起風 hiˋ fungˊ in line 25 is "the wind gets up".
+  - ref: 26
+    topic: vocab
+    text: >
+      浩洪斗雨 heˊ fungˇ deuˋ iˋ "a downpour". 水塔 "water tower": 塔 tabˋ "tower".
+  - ref: 27
+    topic: vocab
+    text: >
+      日頭花 ngidˋ teuˇ faˊ "shafts of sunlight between the clouds". 影仔 iangˋ eˇ "shadow" (日光下看影仔，自看自大 "look at your
+      shadow in the sun and you see yourself big").
+  - ref: 28
+    topic: vocab
+    text: >
+      恬靜 diamˊ qin "quiet, still". 四季 xi gui "the four seasons" (一年有四季).
+  - ref: 29
+    topic: vocab
+    text: >
+      天河 tienˊ hoˇ "the Milky Way".
+  - ref: 30
+    topic: vocab
+    text: >
+      恬恬仔 diamˊ diamˊ eˋ "quietly, without a word" (恬恬仔行入來). 順序 sun xi "smooth, without trouble" (祝福你平安順序).
+
+new_words:
+  - {hanzi: "光景", pinyin: "gongˊ ginˋ", en: "scenery, view"}
+  - {hanzi: "包袱", pinyin: "bauˊ fug", en: "bundle, bag, luggage"}
+  - {hanzi: "炭礦", pinyin: "tan kongˋ", en: "coal mine"}
+  - {hanzi: "水沖", pinyin: "suiˋ cungˇ", en: "waterfall"}
+  - {hanzi: "托", pinyin: "togˋ", en: "(measure) a hand (of bananas)"}
+  - {hanzi: "彎", pinyin: "vanˊ", en: "bend; winding"}
+  - {hanzi: "山頭", pinyin: "sanˊ teuˇ", en: "hilltop, hill"}
+  - {hanzi: "西北", pinyin: "xiˊ bedˋ", en: "north-west"}
+  - {hanzi: "海洋", pinyin: "hoiˋ iongˇ", en: "ocean"}
+  - {hanzi: "著火", pinyin: "cog foˋ", en: "catch fire"}
+  - {hanzi: "地形", pinyin: "ti hinˇ", en: "terrain, the lie of the land"}
+  - {hanzi: "窿", pinyin: "lungˇ", en: "tunnel, hole"}
+  - {hanzi: "鐵仔", pinyin: "tiedˋ eˇ", en: "iron"}
+  - {hanzi: "光線", pinyin: "gongˊ xien", en: "light"}
+  - {hanzi: "必縫", pinyin: "bidˋ pung", en: "crack"}
+  - {hanzi: "代", pinyin: "toi", en: "generation"}
+  - {hanzi: "地區", pinyin: "ti kiˊ", en: "area, district"}
+  - {hanzi: "做大水", pinyin: "zo tai suiˋ", en: "be flooded, have a flood"}
+  - {hanzi: "草埔", pinyin: "coˋ puˊ", en: "rough grassland"}
+  - {hanzi: "竻", pinyin: "nedˋ", en: "thorn"}
+  - {hanzi: "無結無煞", pinyin: "moˇ gadˋ moˇ sadˋ", en: "be at a loss, nothing to be done"}
+  - {hanzi: "公尺", pinyin: "gungˊ cagˋ", en: "metre"}
+  - {hanzi: "底下", pinyin: "daiˋ haˊ", en: "underneath, below"}
+  - {hanzi: "沙壩", pinyin: "saˊ ba", en: "sandbank, beach"}
+  - {hanzi: "準", pinyin: "zunˋ", en: "serve as, count as"}
+  - {hanzi: "析", pinyin: "sagˋ", en: "piece (cut off something round)"}
+  - {hanzi: "略略仔", pinyin: "liog liog eˋ", en: "slightly, a little"}
+  - {hanzi: "烏天暗地", pinyin: "vuˊ tienˊ am ti", en: "the sky goes black"}
+  - {hanzi: "起風", pinyin: "hiˋ fungˊ", en: "the wind gets up"}
+  - {hanzi: "浩洪斗雨", pinyin: "heˊ fungˇ deuˋ iˋ", en: "a downpour"}
+  - {hanzi: "塔", pinyin: "tabˋ", en: "tower"}
+  - {hanzi: "日頭花", pinyin: "ngidˋ teuˇ faˊ", en: "shafts of sunlight between the clouds"}
+  - {hanzi: "影仔", pinyin: "iangˋ eˇ", en: "shadow"}
+  - {hanzi: "恬靜", pinyin: "diamˊ qin", en: "quiet, still"}
+  - {hanzi: "四季", pinyin: "xi gui", en: "the four seasons"}
+  - {hanzi: "天河", pinyin: "tienˊ hoˇ", en: "the Milky Way"}
+  - {hanzi: "恬恬仔", pinyin: "diamˊ diamˊ eˋ", en: "quietly, without a word"}
+  - {hanzi: "順序", pinyin: "sun xi", en: "smooth, without trouble"}
+
+exercises:
+  translate:
+    - en: "The mountain road is full of bends."
+      source: kaga115
+      sx: {hanzi: "山路當彎。", pinyin: "sanˊ lu dongˊ vanˊ."}
+    - en: "A year has four seasons."
+      source: kaga115
+      sx: {hanzi: "一年有四季。", pinyin: "idˋ ngienˇ iuˊ xi gui."}
+    - en: "This room gets very good light."
+      source: kaga
+      sx: {hanzi: "這隻間房光線當好。", pinyin: "iaˋ zagˋ gienˊ fongˇ gongˊ xien dongˊ hoˋ."}
+    - en: "The heavy rain doesn't stop: I'm afraid there will be a flood."
+      source: kaga115
+      sx: {hanzi: "大雨落無停，驚怕會做大水。", pinyin: "tai iˋ log moˇ tinˇ, giangˊ pa voi zo tai suiˋ."}
+    - en: "There are two sheets of paper under the box."
+      source: kaga115
+      sx: {hanzi: "盒仔底下有兩張紙。", pinyin: "hab eˋ daiˋ haˊ iuˊ liongˋ zongˊ ziiˋ."}
+  fill:
+    - en: "Come in quietly."
+      sx: {hanzi: "___仔行入來。", pinyin: "___ eˋ hangˇ ngib loiˇ.", answer_hanzi: "恬恬", answer: "diamˊ diamˊ"}
+    - en: "A slight fever."
+      sx: {hanzi: "___發燒。", pinyin: "___ fadˋ seuˊ.", answer_hanzi: "略略仔", answer: "liog liog eˋ"}
+    - en: "In the old days his father worked in the coal mine."
+      sx: {hanzi: "頭擺厥爸同人打___。", pinyin: "teuˇ baiˋ giaˊ baˊ tungˇ nginˇ daˋ ___.", answer_hanzi: "炭礦", answer: "tan kongˋ"}
+    - en: "The cold wind blows from the north-west."
+      sx: {hanzi: "冷風對___片吹過來。", pinyin: "langˊ fungˊ dui ___ pienˋ coiˊ go loiˇ.", answer_hanzi: "西北", answer: "xiˊ bedˋ"}
+    - en: "The sun comes up over that hill."
+      sx: {hanzi: "日頭對該片个___出來。", pinyin: "ngidˋ teuˇ dui ge pienˋ ge ___ cudˋ loiˇ.", answer_hanzi: "山頭", answer: "sanˊ teuˇ"}
+
+audio: []
