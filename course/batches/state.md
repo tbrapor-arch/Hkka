@@ -49,3 +49,6 @@ style of 採茶戲, not a sung one.
 - P41, Sat 7 Apr. Grandpa, Sam and A-min at the old coal mine where 阿太 worked, then a waterfall (30 m). Rain on the
   way back, a rainbow in the east.
 - P42 (review), Sun 15 Apr, lunch at the Liu house with 阿舅. 阿傑 is manager. Grandpa still smokes.
+- P43, Sun 22 Apr, at the Liu house. Sam asks Grandpa and Grandma about beliefs and feast days for a class paper.
+  Grandma asked the temple about Sam's exam: no yes from the blocks. 阿太 once survived a mine accident (invented).
+  Sam's family is Catholic. 阿舅's open day is Sat 28 Apr.

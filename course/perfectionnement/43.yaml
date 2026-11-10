@@ -1,0 +1,322 @@
+id: 43
+genre: dialogue
+title:
+  en: "A leap month comes every three years"
+  sx: {hanzi: "三年一到閏月", pinyin: "samˊ ngienˇ idˋ do iun ngied"}
+review: false
+setting: >-
+  Sunday 22 April 2029, afternoon, at the Liu house. For his Hakka culture class Sam has to write a paper on what
+  Hakka people believe and the days they keep. He asks Grandpa and Grandma.
+names: [Sam, 阿公, 阿婆, 阿太, 阿傑, 阿舅]
+
+dialogue:
+  - n: 1
+    en: "Sunday 22 April. Sam has to write a paper on what Hakka people believe and the days they keep. He looked up the related material online, then went to ask Grandpa and Grandma, who are older."
+    sx: {hanzi: "四月二十二號，禮拜日。Sam 愛寫一篇文章，講客家人个信仰同節日。佢上網查相關个資料，又去問歲數較大个阿公同阿婆。", pinyin: "xi ngied ngi siib ngi ho, liˊ bai ngidˋ. Sam oi xiaˋ idˋ pienˊ vunˇ zongˊ, gongˋ hagˋ gaˊ nginˇ ge xin ngiongˋ tungˇ jiedˋ ngidˋ. giˇ songˊ miongˋ caˇ xiongˊ guanˊ ge ziiˊ liau, iu hi mun se sii ka tai ge aˊ gungˊ tungˇ aˊ poˇ."}
+    check: true
+  - n: 2
+    speaker: 阿公
+    en: "Tianchuan Day is a festival that only the Hakka have."
+    source: kaga115
+    sx: {hanzi: "天穿日係客人正有个節日。", pinyin: "tienˊ conˊ ngidˋ he hagˋ nginˇ zang iuˊ ge jiedˋ ngidˋ."}
+  - n: 3
+    speaker: 阿公
+    en: "On the fourth of the first month we welcome the gods back."
+    source: kaga115
+    sx: {hanzi: "正月初四愛迎神。", pinyin: "zangˊ ngied cuˊ xi oi ngiangˇ siinˇ."}
+  - n: 4
+    speaker: 阿婆
+    en: "At New Year and on feast days, the market is full of life!"
+    source: kaga115
+    sx: {hanzi: "過年過節，市場肚當鬧熱！", pinyin: "go ngienˇ go jiedˋ, sii congˇ duˋ dongˊ nau ngied!"}
+  - n: 5
+    speaker: 阿婆
+    en: "When my family goes visiting at New Year, we mostly go to the temple to light incense and pray for blessings."
+    source: kaga115
+    sx: {hanzi: "吾屋下人過年行春，大體會去廟項點香起福。", pinyin: "ngaˊ vugˋ kaˊ nginˇ go ngienˇ hangˇ cunˊ, tai tiˋ fi hi meu hong diamˋ hiongˊ hiˋ fugˋ."}
+  - n: 6
+    speaker: 阿公
+    en: "The first of January is called New Year's Day: nobody welcomes the gods that day. The end of the lunar year is everybody's busy season, and on the day of the year-end feast the boss treats the workers to a meal."
+    sx: {hanzi: "新曆一月一號安到元旦，該日無人迎神。年下仔係逐儕个無閒時節，尾牙該日頭家愛請做事个人食飯。", pinyin: "xinˊ lag idˋ ngied idˋ ho onˊ do ngienˇ dan, ge ngidˋ moˇ nginˇ ngiangˇ siinˇ. ngienˇ haˊ eˋ he dagˋ saˇ ge moˇ hanˇ siiˇ jiedˋ, miˊ ngaˇ ge ngidˋ teuˇ gaˊ oi qiangˋ zo se ge nginˇ siid fan."}
+    check: true
+  - n: 7
+    speaker: Sam
+    en: "\"Leap year\" and \"leap month\" sound very alike: what is the difference?"
+    sx: {hanzi: "閏年同閏月聽起來當相像，有麼个無共樣？", pinyin: "iun ngienˇ tungˇ iun ngied tangˊ hiˋ loiˇ dongˊ xiongˊ qiong, iuˊ maˋ ge moˇ kiung iong?"}
+    check: true
+  - n: 8
+    speaker: 阿公
+    en: "In a leap year of the Western calendar, February has twenty-nine days."
+    source: kaga
+    sx: {hanzi: "新曆閏年个二月有二十九日。", pinyin: "xinˊ lag iun ngienˇ ge ngi ngied iuˊ ngi siib giuˋ ngidˋ."}
+  - n: 9
+    speaker: 阿公
+    en: "A leap month comes round once in three years."
+    source: kaga115
+    sx: {hanzi: "三年一到閏月。", pinyin: "samˊ ngienˇ idˋ do iun ngied."}
+  - n: 10
+    speaker: 阿公
+    en: "Once there was an accident in the coal mine, and my father was inside."
+    sx: {hanzi: "頭擺炭礦出事，阿太在裡背。", pinyin: "teuˇ baiˋ tan kongˋ cudˋ sii, aˊ tai coiˊ diˊ boi."}
+    check: true
+  - n: 11
+    speaker: 阿公
+    en: "Thanks to the gods' protection, he came to no harm."
+    source: kaga115
+    sx: {hanzi: "好得神明庇佑，佢正無事情。", pinyin: "hoˋ dedˋ siinˇ minˇ bi iu, giˇ zang moˇ sii qinˇ."}
+  - n: 12
+    speaker: 阿婆
+    en: "I went to the temple to ask the gods whether Sam will pass his exam."
+    sx: {hanzi: "𠊎去廟項問神明，Sam 个考試會過無。", pinyin: "ngaiˇ hi meu hong mun siinˇ minˇ, Sam ge kauˋ sii voi go moˇ."}
+    check: true
+  - n: 13
+    speaker: 阿婆
+    en: "I don't know why, but this time the blocks would not give a yes."
+    source: kaga
+    sx: {hanzi: "毋知做麼个，這擺請神跌無筊。", pinyin: "mˇ diˊ zo maˋ ge, iaˋ baiˋ qiangˋ siinˇ diedˋ moˇ gau."}
+  - n: 14
+    speaker: Sam
+    en: "I've been preparing for the exam all this time and I feel a lot of pressure. No yes from the blocks: I can't accept that!"
+    sx: {hanzi: "𠊎恁久準備考試，心理壓力異大。跌無筊，𠊎當毋甘願！", pinyin: "ngaiˇ anˋ giuˋ zunˋ pi kauˋ sii, ximˊ liˊ abˋ lid i tai. diedˋ moˇ gau, ngaiˇ dongˊ mˇ gamˊ ngien!"}
+    check: true
+  - n: 15
+    speaker: 阿婆
+    en: "Never mind, I'll go and ask again in a while. Whatever the gods say, you still have to study hard."
+    sx: {hanzi: "無要緊，加一駁仔𠊎正過去問。不管神明仰般講，你還係愛認真讀書。", pinyin: "moˇ ieu ginˋ, gaˊ idˋ bogˋ eˇ ngaiˇ zang go hi mun. budˋ gonˋ siinˇ minˇ ngiongˋ banˊ gongˋ, nˇ hanˇ he oi ngin ziinˊ tug suˊ."}
+    check: true
+  - n: 16
+    speaker: 阿公
+    en: "For a wedding you have to choose a lucky day. A-kied's father thinks the same way."
+    sx: {hanzi: "結婚愛擇吉日。阿傑厥爸乜恁樣想。", pinyin: "giedˋ funˊ oi tog gidˋ ngidˋ. aˊ kied giaˊ baˊ me anˋ ngiongˇ xiongˋ."}
+    check: true
+  - n: 17
+    speaker: 阿公
+    en: "He hopes his son will marry soon and carry on the family line."
+    source: kaga115
+    sx: {hanzi: "佢望倈仔遽啊結婚傳香火。", pinyin: "giˇ mong lai eˋ giagˋ a giedˋ funˊ conˇ hiongˊ foˋ."}
+  - n: 18
+    speaker: 阿婆
+    en: "Before the wedding, once the groom's family has set up the bed, that room counts as the bridal chamber."
+    source: kaga
+    sx: {hanzi: "結婚以前，男家頭安床過後，該間房就算係新娘間哩。", pinyin: "giedˋ funˊ iˊ qienˇ, namˇ gaˊ teuˇ onˊ congˇ go heu, ge gienˊ fongˇ qiu son he xinˊ ngiongˇ gienˊ leˊ."}
+  - n: 19
+    speaker: 阿婆
+    en: "When a baby has its first birthday, people say four rhymed lines of good wishes."
+    source: kaga
+    sx: {hanzi: "嬰兒仔做對歲時節，愛講四句。", pinyin: "oˇ nga eˋ zo dui se siiˇ jiedˋ, oi gongˋ xi gi."}
+  - n: 20
+    speaker: 阿公
+    en: "Nowadays very few families take in a son-in-law."
+    source: kaga115
+    sx: {hanzi: "這下當少人招婿郎。", pinyin: "iaˋ ha dongˊ seuˋ nginˇ zeuˊ se longˇ."}
+  - n: 21
+    speaker: 阿婆
+    en: "After the divorce, the children go with the mother."
+    source: kaga115
+    sx: {hanzi: "離婚過後，細人仔跈阿姆。", pinyin: "liˇ funˊ go heu, se nginˇ eˋ tenˇ aˊ meˊ."}
+  - n: 22
+    speaker: 阿公
+    en: "Funerals nowadays get simpler and simpler."
+    source: kaga115
+    sx: {hanzi: "這下人做歪事，緊來緊簡單。", pinyin: "iaˋ ha nginˇ zo vaiˊ sii, ginˋ loiˇ ginˋ gienˋ danˊ."}
+  - n: 23
+    speaker: 阿公
+    en: "In the old days a funeral began with the striking of the gong, and relatives and friends gave condolence money."
+    sx: {hanzi: "頭擺做歪事愛先開鑼，親戚朋友愛包奠儀。", pinyin: "teuˇ baiˋ zo vaiˊ sii oi xienˊ koiˊ loˇ, qinˊ qidˋ penˇ iuˊ oi bauˊ tien ngiˇ."}
+    check: true
+  - n: 24
+    speaker: 阿公
+    en: "For the hundredth-day rite you ask someone to come and chant the scriptures."
+    source: kaga115
+    sx: {hanzi: "做百日愛請人來誦經。", pinyin: "zo bagˋ ngidˋ oi qiangˋ nginˇ loiˇ xiung ginˊ."}
+  - n: 25
+    speaker: 阿公
+    en: "The geomancer says our family's ancestral tomb has very good feng shui: it will bring forth able people."
+    source: kaga115
+    sx: {hanzi: "地理先生講，吾屋下个祖塔風水異好，會出慶人。", pinyin: "ti liˊ xinˊ sangˊ gongˋ, ngaˊ vugˋ kaˊ ge zuˋ tabˋ fungˊ suiˋ i hoˋ, voi cudˋ kiang nginˇ."}
+  - n: 26
+    speaker: 阿公
+    en: "He is a real professional at reading the land: if your house has a feng shui problem, he is the one to see."
+    source: kaga115
+    sx: {hanzi: "看地理佢異專業，若屋下風水有問題尋佢就著哩。", pinyin: "kon ti liˊ giˇ i zonˊ ngiab, ngiaˊ vugˋ kaˊ fungˊ suiˋ iuˊ mun tiˇ qimˇ giˇ qiu cog leˊ."}
+  - n: 27
+    speaker: Sam
+    en: "My family is Catholic, and I have a classmate who is Protestant."
+    sx: {hanzi: "𠊎屋下人信天主教，𠊎有一個同學信基督教。", pinyin: "ngaiˇ vugˋ kaˊ nginˇ xin tienˊ zuˋ gau, ngaiˇ iuˊ idˋ ge tungˇ hog xin giˊ dugˋ gau."}
+    check: true
+  - n: 28
+    speaker: 阿公
+    en: "A different faith doesn't matter. In the old days, paper with writing on it was taken to the paper-burning tower to be burned."
+    sx: {hanzi: "信仰無共樣無相干。頭擺寫過字个紙愛拿去聖蹟亭燒。", pinyin: "xin ngiongˋ moˇ kiung iong moˇ xiongˊ gonˊ. teuˇ baiˋ xiaˋ go sii ge ziiˋ oi naˊ hi siin jidˋ tinˇ seuˊ."}
+    check: true
+  - n: 29
+    speaker: 阿婆
+    en: "The Dragon Boat Festival is coming. Girls used to embroider scent bags; nobody embroiders them now."
+    sx: {hanzi: "五月節會到吔。頭擺个細妹仔愛繡香包，這下無人繡香包吔。", pinyin: "ngˋ ngied jiedˋ voi do leˊ. teuˇ baiˋ ge se moi eˋ oi xiu hiongˊ bauˊ, iaˋ ha moˇ nginˇ xiu hiongˊ bauˊ leˊ."}
+    check: true
+  - n: 30
+    speaker: 阿公
+    en: "Next Saturday Uncle's factory is open to visitors: do you want to go?"
+    sx: {hanzi: "下禮拜六阿舅个工廠開放分人參觀，你愛去無？", pinyin: "ha liˊ bai liugˋ aˊ kiuˊ ge gungˊ congˋ koiˊ fong bunˊ nginˇ camˊ gonˊ, nˇ oi hi moˇ?"}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 9, an official sentence. The lunar calendar adds a whole month (閏月 iun ngied) about once in
+      three years; the Western calendar adds one day in a leap year (閏年 iun ngienˇ, line 8). 相像 xiongˊ qiong in line
+      7 is "alike" (佢兩儕生來異相像).
+  - ref: 1
+    topic: vocab
+    text: >
+      信仰 xin ngiongˋ "belief, faith"; 節日 jiedˋ ngidˋ "festival, feast day". 相關 xiongˊ guanˊ "related": the official
+      sentence is 你做得上網查相關个研究證明.
+  - ref: 3
+    topic: culture
+    text: >
+      迎神 ngiangˇ siinˇ "welcome the gods". The gods are sent off before the New Year and welcomed back on the fourth
+      day (general knowledge). 天穿日 in line 2 is from 進修 36.
+  - ref: 4
+    topic: vocab
+    text: >
+      過年過節 go ngienˇ go jiedˋ "at New Year and on feast days". 起福 hiˋ fugˋ in line 5 is "pray for blessings".
+  - ref: 6
+    topic: vocab
+    text: >
+      元旦 ngienˇ dan "New Year's Day, 1 January". 無閒時節 moˇ hanˇ siiˇ jiedˋ "busy season". 尾牙 miˊ ngaˇ is the feast an
+      employer gives the staff at the end of the lunar year (今晡日尾牙，頭家愛請𠊎這兜食飯).
+  - ref: 11
+    topic: vocab
+    text: >
+      庇佑 bi iu "protect, bless". 阿太 worked in the coal mine of 進修 41. The accident is the course's invention.
+  - ref: 13
+    topic: culture
+    text: >
+      跌無筊 diedˋ moˇ gau: 筊 are the two wooden blocks thrown before a god to get an answer. 跌無筊 is "throw them and
+      get no yes".
+  - ref: 14
+    topic: vocab
+    text: >
+      心理 ximˊ liˊ "mind, psychological"; 壓力 abˋ lid "pressure" is an MOE word (現下个學生仔讀書壓力盡大), not in the
+      certification lists. 毋甘願 mˇ gamˊ ngien "unwilling to accept" (𠊎輸到當毋甘願).
+  - ref: 15
+    topic: vocab
+    text: >
+      一駁仔 idˋ bogˋ eˇ "a while": 加一駁仔 "in a while, a little later" (這下無錢，加一駁仔正講). 不管 budˋ gonˋ "no matter, whatever"
+      (不管仰仔，你還係愛來).
+  - ref: 16
+    topic: vocab
+    text: >
+      吉日 gidˋ ngidˋ "lucky day". 傳香火 conˇ hiongˊ foˋ in line 17 is "carry on the family line": 香火 is the incense
+      burned for the ancestors. 阿傑 was engaged in 進修 20.
+  - ref: 18
+    topic: vocab
+    text: >
+      新娘間 xinˊ ngiongˇ gienˊ "bridal chamber". 講四句 gongˋ xi gi in line 19: four rhymed lines of good wishes, said at
+      weddings and other family occasions. 招婿郎 zeuˊ se longˇ in line 20: the husband moves into the wife's family.
+  - ref: 21
+    topic: vocab
+    text: >
+      離婚 liˇ funˊ "divorce".
+  - ref: 22
+    topic: vocab
+    text: >
+      做歪事 zo vaiˊ sii "hold a funeral". 開鑼 koiˊ loˇ in line 23 is the striking of the gong that opens the rites. 奠儀
+      tien ngiˇ is the money given to the bereaved family (the list glosses it 白包).
+  - ref: 24
+    topic: vocab
+    text: >
+      做百日 zo bagˋ ngidˋ: the rite on the hundredth day after a death. 誦經 xiung ginˊ "chant scriptures".
+  - ref: 25
+    topic: vocab
+    text: >
+      祖塔 zuˋ tabˋ: the family tomb that holds the ancestors' urns (塔 is from 進修 41). 專業 zonˊ ngiab in line 26 is
+      "professional; speciality".
+  - ref: 27
+    topic: vocab
+    text: >
+      天主教 tienˊ zuˋ gau "Catholicism"; 基督教 giˊ dugˋ gau "Protestant Christianity".
+  - ref: 28
+    topic: culture
+    text: >
+      聖蹟亭 siin jidˋ tinˇ: a small tower where paper with writing on it was burned (這座聖蹟亭係古蹟 "this paper-burning
+      tower is a historic monument").
+  - ref: 29
+    topic: vocab
+    text: >
+      繡香包 xiu hiongˊ bauˊ "embroider scent bags", worn at the Dragon Boat Festival (五月節, 16 June in 2029).
+  - ref: 30
+    topic: vocab
+    text: >
+      開放 koiˊ fong "open (to the public)": the official sentence is 工廠開放分人參觀. 阿舅 announced the open day in 進修 39.
+
+new_words:
+  - {hanzi: "信仰", pinyin: "xin ngiongˋ", en: "belief, faith"}
+  - {hanzi: "節日", pinyin: "jiedˋ ngidˋ", en: "festival, feast day"}
+  - {hanzi: "相關", pinyin: "xiongˊ guanˊ", en: "related"}
+  - {hanzi: "迎神", pinyin: "ngiangˇ siinˇ", en: "welcome the gods"}
+  - {hanzi: "過年過節", pinyin: "go ngienˇ go jiedˋ", en: "at New Year and on feast days"}
+  - {hanzi: "起福", pinyin: "hiˋ fugˋ", en: "pray for blessings"}
+  - {hanzi: "元旦", pinyin: "ngienˇ dan", en: "New Year's Day (1 January)"}
+  - {hanzi: "無閒時節", pinyin: "moˇ hanˇ siiˇ jiedˋ", en: "busy season"}
+  - {hanzi: "尾牙", pinyin: "miˊ ngaˇ", en: "year-end feast"}
+  - {hanzi: "閏年", pinyin: "iun ngienˇ", en: "leap year"}
+  - {hanzi: "閏月", pinyin: "iun ngied", en: "leap month"}
+  - {hanzi: "相像", pinyin: "xiongˊ qiong", en: "alike"}
+  - {hanzi: "庇佑", pinyin: "bi iu", en: "protect, bless"}
+  - {hanzi: "跌無筊", pinyin: "diedˋ moˇ gau", en: "get no \"yes\" from the divination blocks"}
+  - {hanzi: "心理", pinyin: "ximˊ liˊ", en: "mind, psychological"}
+  - {hanzi: "壓力", pinyin: "abˋ lid", en: "pressure"}
+  - {hanzi: "毋甘願", pinyin: "mˇ gamˊ ngien", en: "unwilling to accept"}
+  - {hanzi: "一駁仔", pinyin: "idˋ bogˋ eˇ", en: "a while"}
+  - {hanzi: "不管", pinyin: "budˋ gonˋ", en: "no matter, whatever"}
+  - {hanzi: "吉日", pinyin: "gidˋ ngidˋ", en: "lucky day"}
+  - {hanzi: "傳香火", pinyin: "conˇ hiongˊ foˋ", en: "carry on the family line"}
+  - {hanzi: "新娘間", pinyin: "xinˊ ngiongˇ gienˊ", en: "bridal chamber"}
+  - {hanzi: "講四句", pinyin: "gongˋ xi gi", en: "say four rhymed lines of good wishes"}
+  - {hanzi: "招婿郎", pinyin: "zeuˊ se longˇ", en: "take in a son-in-law"}
+  - {hanzi: "離婚", pinyin: "liˇ funˊ", en: "divorce"}
+  - {hanzi: "做歪事", pinyin: "zo vaiˊ sii", en: "hold a funeral"}
+  - {hanzi: "開鑼", pinyin: "koiˊ loˇ", en: "strike the gong (to open a rite)"}
+  - {hanzi: "奠儀", pinyin: "tien ngiˇ", en: "condolence money"}
+  - {hanzi: "做百日", pinyin: "zo bagˋ ngidˋ", en: "hold the hundredth-day rite"}
+  - {hanzi: "誦經", pinyin: "xiung ginˊ", en: "chant scriptures"}
+  - {hanzi: "祖塔", pinyin: "zuˋ tabˋ", en: "ancestral tomb (holding the family's urns)"}
+  - {hanzi: "專業", pinyin: "zonˊ ngiab", en: "professional; speciality"}
+  - {hanzi: "天主教", pinyin: "tienˊ zuˋ gau", en: "Catholicism"}
+  - {hanzi: "基督教", pinyin: "giˊ dugˋ gau", en: "Protestant Christianity"}
+  - {hanzi: "聖蹟亭", pinyin: "siin jidˋ tinˇ", en: "tower for burning written paper"}
+  - {hanzi: "繡香包", pinyin: "xiu hiongˊ bauˊ", en: "embroider scent bags"}
+  - {hanzi: "開放", pinyin: "koiˊ fong", en: "open (to the public)"}
+
+exercises:
+  translate:
+    - en: "This year is a leap year."
+      source: kaga115
+      sx: {hanzi: "今年係閏年。", pinyin: "gimˊ ngienˇ he iun ngienˇ."}
+    - en: "My elder brother is a Catholic."
+      source: kaga115
+      sx: {hanzi: "阿哥信天主教。", pinyin: "aˊ goˊ xin tienˊ zuˋ gau."}
+    - en: "The two of them look very much alike."
+      source: kaga115
+      sx: {hanzi: "佢兩儕生來異相像。", pinyin: "giˇ liongˋ saˇ sangˊ loiˇ i xiongˊ qiong."}
+    - en: "He and I do not share the same faith."
+      source: kaga115
+      sx: {hanzi: "𠊎同佢無共信仰。", pinyin: "ngaiˇ tungˇ giˇ moˇ kiung xin ngiongˋ."}
+    - en: "Today is the year-end feast: the boss is treating us to a meal."
+      source: kaga
+      sx: {hanzi: "今晡日尾牙，頭家愛請𠊎這兜食飯。", pinyin: "gimˊ buˊ ngidˋ miˊ ngaˇ, teuˇ gaˊ oi qiangˋ ngaiˇ iaˋ deuˊ siid fan."}
+  fill:
+    - en: "He is a Protestant."
+      sx: {hanzi: "佢信___。", pinyin: "giˇ xin ___.", answer_hanzi: "基督教", answer: "giˊ dugˋ gau"}
+    - en: "There's no money now: we'll talk about it in a while."
+      sx: {hanzi: "這下無錢，加___正講。", pinyin: "iaˋ ha moˇ qienˇ, gaˊ ___ zang gongˋ.", answer_hanzi: "一駁仔", answer: "idˋ bogˋ eˇ"}
+    - en: "Whatever happens, you still have to come."
+      sx: {hanzi: "___仰仔，你還係愛來。", pinyin: "___ ngiongˋ eˋ, nˇ hanˇ he oi loiˇ.", answer_hanzi: "不管", answer: "budˋ gonˋ"}
+    - en: "This paper-burning tower is a historic monument."
+      sx: {hanzi: "這座___係古蹟。", pinyin: "iaˋ co ___ he guˋ jidˋ.", answer_hanzi: "聖蹟亭", answer: "siin jidˋ tinˇ"}
+    - en: "I lost, and I can't accept it."
+      sx: {hanzi: "𠊎輸到當___。", pinyin: "ngaiˇ suˊ do dongˊ ___.", answer_hanzi: "毋甘願", answer: "mˇ gamˊ ngien"}
+
+audio: []
