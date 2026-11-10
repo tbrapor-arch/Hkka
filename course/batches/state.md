@@ -52,3 +52,6 @@ style of 採茶戲, not a sung one.
 - P43, Sun 22 Apr, at the Liu house. Sam asks Grandpa and Grandma about beliefs and feast days for a class paper.
   Grandma asked the temple about Sam's exam: no yes from the blocks. 阿太 once survived a mine accident (invented).
   Sam's family is Catholic. 阿舅's open day is Sat 28 Apr.
+- P44, Sat 28 Apr, A-in's radio slot: she interviews A-min about his school's contest week (plays Mon, choirs Wed,
+  table tennis; a painter's talk on Fri). His class came second in the choir contest (thread of P30 closed); he got
+  a fountain pen. The open day at 阿舅's factory is that afternoon.

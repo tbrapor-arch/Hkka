@@ -1,0 +1,320 @@
+id: 44
+genre: interview
+title:
+  en: "Second place gets a prize too"
+  sx: {hanzi: "亞軍乜有獎品", pinyin: "aˋ giunˊ me iuˊ jiongˋ pinˋ"}
+review: false
+setting: >-
+  Saturday 28 April 2029, morning, A-in's slot on the local radio. Her guest is her brother A-min, first year of
+  junior high and class president. His school has just had a week of contests. The school, its contests and the
+  painter are invented.
+names: [阿英, 阿明, 阿舅]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Hello everyone! Today's guest is my little brother A-min. He is in the first year of junior high and he is class president. His school has had a lively week."
+    sx: {hanzi: "大家好！今晡日个人客係吾老弟阿明，佢讀國中一年級，係班長。這禮拜厥學校當鬧熱。", pinyin: "tai gaˊ hoˋ! gimˊ buˊ ngidˋ ge nginˇ hagˋ he ngaˊ loˋ taiˊ aˊ minˇ, giˇ tug guedˋ zungˊ idˋ ngienˇ kibˋ, he banˊ zongˋ. iaˋ liˊ bai giaˊ hog gauˋ dongˊ nau ngied."}
+    check: true
+  - n: 2
+    speaker: 阿明
+    en: "The second years went on a trip to the south and the first years couldn't go. Nothing to be done: we could only stay at school and compete. Plays in the hall on Monday, choirs on Wednesday, and table tennis too."
+    sx: {hanzi: "二年級去南部遊覽，一年級無好去，無奈何，淨做得留在學校比賽：禮拜一在禮堂比話劇，禮拜三比合唱，還有乒乓。", pinyin: "ngi ngienˇ kibˋ hi namˇ pu iuˇ lam, idˋ ngienˇ kibˋ moˇ hoˋ hi, moˇ nai hoˇ, qiang zo dedˋ liuˇ coiˊ hog gauˋ biˋ soi: liˊ bai idˋ coiˊ liˊ tongˇ biˋ fa kiagˋ, liˊ bai samˊ biˋ hab cong, hanˇ iuˊ pinˊ pongˋ."}
+    check: true
+  - n: 3
+    speaker: 阿英
+    en: "How does the play contest work?"
+    sx: {hanzi: "話劇比賽仰般進行？", pinyin: "fa kiagˋ biˋ soi ngiongˋ banˊ jin hangˇ?"}
+    check: true
+  - n: 4
+    speaker: 阿明
+    en: "Each class has to write its own script. Ours is about how people went to school in the old days."
+    sx: {hanzi: "逐班愛自家寫劇本。吾班个劇本講頭擺人仰般讀書。", pinyin: "dagˋ banˊ oi qi gaˊ xiaˋ kiagˋ bunˋ. ngaˊ banˊ ge kiagˋ bunˋ gongˋ teuˇ baiˋ nginˇ ngiongˋ banˊ tug suˊ."}
+    check: true
+  - n: 5
+    speaker: 阿明
+    en: "Primary school pupils used to have to learn the abacus."
+    source: kaga115
+    sx: {hanzi: "頭擺个小學生愛學打算盤。", pinyin: "teuˇ baiˋ ge seuˋ hog senˊ oi hog daˋ son panˇ."}
+  - n: 6
+    speaker: 阿明
+    en: "Now primary school pupils have to learn English."
+    source: kaga115
+    sx: {hanzi: "這下小學生愛學英文。", pinyin: "iaˋ ha seuˋ hog senˊ oi hog inˊ vunˇ."}
+  - n: 7
+    speaker: 阿明
+    en: "We chose a tall, well-built classmate to play the teacher: he wrote on the blackboard with chalk."
+    sx: {hanzi: "𠊎兜選一個生來高大个同學做先生，佢拿粉筆在烏枋項寫字。", pinyin: "ngaiˇ deuˊ xienˋ idˋ ge sangˊ loiˇ goˊ tai ge tungˇ hog zo xinˊ sangˊ, giˇ naˊ funˋ bidˋ coiˊ vuˊ biongˊ hong xiaˋ sii."}
+    check: true
+  - n: 8
+    speaker: 阿明
+    en: "But it was a third-year class that came first."
+    sx: {hanzi: "毋過得著冠軍个係三年級个班。", pinyin: "mˇ go dedˋ doˋ gon giunˊ ge he samˊ ngienˇ kibˋ ge banˊ."}
+    check: true
+  - n: 9
+    speaker: 阿明
+    en: "The actors were very good: they had people crying and laughing."
+    source: kaga115
+    sx: {hanzi: "做戲个異慶，弄到人又噭又笑。", pinyin: "zo hi ge i kiang, nung do nginˇ iu gieu iu seu."}
+  - n: 10
+    speaker: 阿英
+    en: "And the choir? I hear you played the drum."
+    sx: {hanzi: "合唱呢？聽講你打鼓仔。", pinyin: "hab cong neˇ? tangˊ gongˋ nˇ daˋ guˋ eˇ."}
+    check: true
+  - n: 11
+    speaker: 阿明
+    en: "Yes, and our class came second."
+    sx: {hanzi: "著，吾班得著亞軍。", pinyin: "cog, ngaˊ banˊ dedˋ doˋ aˋ giunˊ."}
+    check: true
+  - n: 12
+    speaker: 阿明
+    en: "Second place gets a prize too."
+    source: kaga115
+    sx: {hanzi: "亞軍乜有獎品。", pinyin: "aˋ giunˊ me iuˊ jiongˋ pinˋ."}
+  - n: 13
+    speaker: 阿明
+    en: "The headmaster gave me a fountain pen. The classes that didn't place needn't mind: everyone tried hard. And there was the table tennis."
+    sx: {hanzi: "校長送𠊎一支鋼筆。打無名个班乜無要緊，逐儕都當認真。還有乒乓比賽。", pinyin: "gauˋ zongˋ sung ngaiˇ idˋ giˊ gong bidˋ. daˋ moˇ miangˇ ge banˊ me moˇ ieu ginˋ, dagˋ saˇ du dongˊ ngin ziinˊ. hanˇ iuˊ pinˊ pongˋ biˋ soi."}
+    check: true
+  - n: 14
+    speaker: 阿明
+    en: "Playing table tennis is like playing tennis on a small court."
+    source: kaga
+    sx: {hanzi: "打乒乓就像打細場个網球。", pinyin: "daˋ pinˊ pongˋ qiu qiong daˋ se congˇ ge miongˋ kiuˇ."}
+  - n: 15
+    speaker: 阿明
+    en: "You pick the most suitable person to take part."
+    source: kaga115
+    sx: {hanzi: "選出最適當个人去參加比賽。", pinyin: "xienˋ cudˋ zui didˋ dongˊ ge nginˇ hi camˊ gaˊ biˋ soi."}
+  - n: 16
+    speaker: 阿明
+    en: "The table tennis coach is a friend of the PE teacher's. In the daytime he works in a factory."
+    sx: {hanzi: "乒乓教練係體育先生个朋友，日時頭在工廠做事。", pinyin: "pinˊ pongˋ gau lien he tiˋ iugˋ xinˊ sangˊ ge penˇ iuˊ, ngidˋ siiˇ teuˇ coiˊ gungˊ congˋ zo se."}
+    check: true
+  - n: 17
+    speaker: 阿明
+    en: "After work he still goes to night school: he really works hard."
+    source: kaga115
+    sx: {hanzi: "佢下班過後還愛打夜學，實在當拚。", pinyin: "giˇ haˊ banˊ go heu hanˇ oi daˋ ia hog, siid cai dongˊ biang."}
+  - n: 18
+    speaker: 阿明
+    en: "A classmate of mine drew the poster."
+    sx: {hanzi: "吾班有一個同學畫海報。", pinyin: "ngaˊ banˊ iuˊ idˋ ge tungˇ hog fa hoiˋ bo."}
+    check: true
+  - n: 19
+    speaker: 阿明
+    en: "He has a real gift for drawing: he could be an artist one day."
+    source: kaga
+    sx: {hanzi: "佢對畫圖當有天分，將來做得做美術家。", pinyin: "giˇ dui fa tuˇ dongˊ iuˊ tienˊ fun, jiongˊ loiˇ zo dedˋ zo miˊ sud gaˊ."}
+  - n: 20
+    speaker: 阿明
+    en: "On Friday the school invited a painter to give a talk, and people from the education office came to listen. The owner of the photo studio took the pictures: they will be in the school magazine that comes out next month. The painter said:"
+    sx: {hanzi: "禮拜五學校請一位畫家來講話，教育局个人乜來聽。翕相館个頭家來攝影，相片會放在下隻月出版个學校雜誌肚。畫家講：", pinyin: "liˊ bai ngˋ hog gauˋ qiangˋ idˋ vi fa gaˊ loiˇ gongˋ fa, gau iugˋ kiug ge nginˇ me loiˇ tangˊ. hibˋ xiong gonˋ ge teuˇ gaˊ loiˇ ngiabˋ iangˋ, xiong pienˋ voi biong coiˊ ha zagˋ ngied cudˋ banˋ ge hog gauˋ cab zii duˋ. fa gaˊ gongˋ:"}
+    check: true
+  - n: 21
+    speaker: 阿明
+    en: "Hakka is one kind of Chinese."
+    source: kaga115
+    sx: {hanzi: "客話係漢語个一種。", pinyin: "hagˋ fa he hon ngiˊ ge idˋ zungˋ."}
+  - n: 22
+    speaker: 阿明
+    en: "He is very successful now, but he said that in his day he did badly in physics and only liked drawing. He also said:"
+    sx: {hanzi: "佢這下當有成就，毋過佢講頭擺物理考毋好，淨好畫圖。佢還講：", pinyin: "giˇ iaˋ ha dongˊ iuˊ siinˇ qiu, mˇ go giˇ gongˋ teuˇ baiˋ vud liˊ kauˋ mˇ hoˋ, qiang hau fa tuˇ. giˇ hanˇ gongˋ:"}
+    check: true
+  - n: 23
+    speaker: 阿明
+    en: "I was born into a simple family."
+    source: kaga115
+    sx: {hanzi: "𠊎在單純个家庭出世。", pinyin: "ngaiˇ coiˊ danˊ sunˇ ge gaˊ tinˇ cudˋ se."}
+  - n: 24
+    speaker: 阿明
+    en: "His parents were hard-working and thrifty, and he is a devoted son."
+    sx: {hanzi: "厥爺哀當勤儉，佢乜當有孝。", pinyin: "giaˊ iaˇ oiˊ dongˊ kiunˇ kiam, giˇ me dongˊ iuˊ hau."}
+    check: true
+  - n: 25
+    speaker: 阿英
+    en: "You're class president, you act and you play the drum: can you keep up with your studies?"
+    sx: {hanzi: "你又做班長又做戲又打鼓仔，書讀得來無？", pinyin: "nˇ iu zo banˊ zongˋ iu zo hi iu daˋ guˋ eˇ, suˊ tug dedˋ loiˇ moˇ?"}
+    check: true
+  - n: 26
+    speaker: 阿明
+    en: "The more important things must be done first, and quickly."
+    source: kaga115
+    sx: {hanzi: "較要緊个事情愛遽啊先做。", pinyin: "ka ieu ginˋ ge sii qinˇ oi giagˋ a xienˊ zo."}
+  - n: 27
+    speaker: 阿英
+    en: "You act so well: don't tell me you want to be in a TV serial one day?"
+    sx: {hanzi: "你做戲恁慶，敢講下二擺想做連續劇？", pinyin: "nˇ zo hi anˋ kiang, gamˋ gongˋ ha ngi baiˋ xiongˋ zo lienˇ xiug kiagˋ?"}
+    check: true
+  - n: 28
+    speaker: 阿明
+    en: "Sis, are you out of your mind! … No, wait: no insults on the radio."
+    sx: {hanzi: "阿姊，你發麼个神經！…… 毋著，在電臺做毋得罵人。", pinyin: "aˊ jiˋ, nˇ fadˋ maˋ ge siinˇ ginˊ! … … mˇ cog, coiˊ tien toiˇ zomˇ dedˋ ma nginˇ."}
+    check: true
+  - n: 29
+    speaker: 阿明
+    en: "My big sister is ever so gentle."
+    source: kaga115
+    sx: {hanzi: "阿姊盡溫柔。", pinyin: "aˊ jiˋ qin vunˊ iuˇ."}
+  - n: 30
+    speaker: 阿英
+    en: "Thank you, A-min. Have you got all your things? This afternoon you and I are going to visit Uncle's factory."
+    sx: {hanzi: "多謝阿明。東西帶齊吂？下晝𠊎同你愛去阿舅个工廠參觀。", pinyin: "doˊ qia aˊ minˇ. dungˊ xiˊ dai ceˇ mangˇ? haˊ zu ngaiˇ tungˇ nˇ oi hi aˊ kiuˊ ge gungˊ congˋ camˊ gonˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 12, an official sentence. 亞軍 aˋ giunˊ is "second place" and 冠軍 gon giunˊ (line 8) "first
+      place, champion" (這擺籃球比賽，𫣆兜學校得著全國冠軍).
+  - ref: 2
+    topic: vocab
+    text: >
+      遊覽 iuˇ lam "go on a trip, tour". 無奈何 moˇ nai hoˇ "nothing to be done" (耕田儕看天食飯，當無奈何). 禮堂 liˊ tongˇ "assembly
+      hall"; 話劇 fa kiagˋ "spoken play"; 乒乓 pinˊ pongˋ "table tennis". 合唱 is from 進修 30.
+  - ref: 3
+    topic: vocab
+    text: >
+      進行 jin hangˇ "proceed, be carried out" (你講活動愛仰般進行？).
+  - ref: 4
+    topic: vocab
+    text: >
+      劇本 kiagˋ bunˋ "script". 小學生 seuˋ hog senˊ in line 5 is "primary school pupil".
+  - ref: 7
+    topic: vocab
+    text: >
+      高大 goˊ tai "tall and big" (阿哥像阿爸，生來高大高大). 粉筆 funˋ bidˋ "chalk".
+  - ref: 9
+    topic: vocab
+    text: >
+      做戲 zo hi "act, put on a play": 做戲个 is "the actors". 慶 is "good, skilled".
+  - ref: 10
+    topic: vocab
+    text: >
+      鼓仔 guˋ eˇ "drum": 打鼓仔 "play the drum".
+  - ref: 13
+    topic: vocab
+    text: >
+      鋼筆 gong bidˋ "fountain pen". 打無名 daˋ moˇ miangˇ "not get a place". 要緊 ieu ginˋ "serious; important": 無要緊 "it
+      doesn't matter"; line 26 has 較要緊个事情 "the more important things".
+  - ref: 15
+    topic: vocab
+    text: >
+      適當 didˋ dongˊ "suitable". The lists also give the reading siidˋ dongˊ; the course writes didˋ dongˊ.
+  - ref: 16
+    topic: vocab
+    text: >
+      教練 gau lien "coach"; 體育 tiˋ iugˋ "physical education" (上體育愛先換運動衫). 打夜學 daˋ ia hog in line 17 is "go to night
+      school".
+  - ref: 19
+    topic: vocab
+    text: >
+      美術 miˊ sud "fine art": 美術家 "artist". 天分 tienˊ fun is "gift, talent": 分 is read fun here (MOE; the word is not
+      in the certification lists).
+  - ref: 20
+    topic: vocab
+    text: >
+      畫家 fa gaˊ "painter". 教育局 gau iugˋ kiug "education office". 翕相館 hibˋ xiong gonˋ "photo studio" (翕相館乜做得洗相片); 攝影
+      ngiabˋ iangˋ "take photographs, film". 出版 cudˋ banˋ "publish".
+  - ref: 21
+    topic: vocab
+    text: >
+      漢語 hon ngiˊ "the Chinese language".
+  - ref: 22
+    topic: vocab
+    text: >
+      成就 siinˇ qiu "achievement, success" (老弟這下異有成就). 物理 vud liˊ "physics". 好 before a verb, "be keen on", is read
+      hau.
+  - ref: 23
+    topic: vocab
+    text: >
+      單純 danˊ sunˇ "simple". 勤儉 kiunˇ kiam in line 24 is "hard-working and thrifty"; 有孝 iuˊ hau "devoted to one's
+      parents" (做人子女儕，愛有孝爺哀).
+  - ref: 27
+    topic: grammar
+    text: >
+      敢講 gamˋ gongˋ opens a question that expects "surely not": 天時敢講又愛轉冷吔？ "don't tell me it is turning cold again?"
+      連續劇 lienˇ xiug kiagˋ is a TV serial (阿公當好看連續劇).
+  - ref: 28
+    topic: vocab
+    text: >
+      發神經 "go crazy": 神經 siinˇ ginˊ alone is an insult, as the list says (好恬恬就罵人，發麼个神經？). 溫柔 vunˊ iuˇ in line 29 is
+      "gentle".
+  - ref: 30
+    topic: vocab
+    text: >
+      齊 ceˇ "complete": 東西帶齊吂？ "have you got everything?" is an official sentence. The open day at 阿舅's factory was
+      announced in 進修 39.
+
+new_words:
+  - {hanzi: "遊覽", pinyin: "iuˇ lam", en: "go on a trip, tour"}
+  - {hanzi: "無奈何", pinyin: "moˇ nai hoˇ", en: "nothing to be done, have no choice"}
+  - {hanzi: "禮堂", pinyin: "liˊ tongˇ", en: "assembly hall"}
+  - {hanzi: "話劇", pinyin: "fa kiagˋ", en: "(spoken) play"}
+  - {hanzi: "乒乓", pinyin: "pinˊ pongˋ", en: "table tennis"}
+  - {hanzi: "進行", pinyin: "jin hangˇ", en: "proceed, carry on"}
+  - {hanzi: "劇本", pinyin: "kiagˋ bunˋ", en: "script"}
+  - {hanzi: "小學生", pinyin: "seuˋ hog senˊ", en: "primary school pupil"}
+  - {hanzi: "高大", pinyin: "goˊ tai", en: "tall and big"}
+  - {hanzi: "粉筆", pinyin: "funˋ bidˋ", en: "chalk"}
+  - {hanzi: "冠軍", pinyin: "gon giunˊ", en: "champion, first place"}
+  - {hanzi: "做戲", pinyin: "zo hi", en: "act, put on a play"}
+  - {hanzi: "鼓仔", pinyin: "guˋ eˇ", en: "drum"}
+  - {hanzi: "亞軍", pinyin: "aˋ giunˊ", en: "runner-up, second place"}
+  - {hanzi: "鋼筆", pinyin: "gong bidˋ", en: "fountain pen"}
+  - {hanzi: "打無名", pinyin: "daˋ moˇ miangˇ", en: "not get a place"}
+  - {hanzi: "要緊", pinyin: "ieu ginˋ", en: "important; serious"}
+  - {hanzi: "適當", pinyin: "didˋ dongˊ", en: "suitable"}
+  - {hanzi: "教練", pinyin: "gau lien", en: "coach"}
+  - {hanzi: "體育", pinyin: "tiˋ iugˋ", en: "physical education"}
+  - {hanzi: "打夜學", pinyin: "daˋ ia hog", en: "go to night school"}
+  - {hanzi: "美術", pinyin: "miˊ sud", en: "fine art"}
+  - {hanzi: "天分", pinyin: "tienˊ fun", en: "gift, talent"}
+  - {hanzi: "畫家", pinyin: "fa gaˊ", en: "painter"}
+  - {hanzi: "教育局", pinyin: "gau iugˋ kiug", en: "education office"}
+  - {hanzi: "翕相館", pinyin: "hibˋ xiong gonˋ", en: "photo studio"}
+  - {hanzi: "攝影", pinyin: "ngiabˋ iangˋ", en: "take photographs, film"}
+  - {hanzi: "出版", pinyin: "cudˋ banˋ", en: "publish"}
+  - {hanzi: "漢語", pinyin: "hon ngiˊ", en: "the Chinese language"}
+  - {hanzi: "成就", pinyin: "siinˇ qiu", en: "achievement, success"}
+  - {hanzi: "物理", pinyin: "vud liˊ", en: "physics"}
+  - {hanzi: "單純", pinyin: "danˊ sunˇ", en: "simple"}
+  - {hanzi: "勤儉", pinyin: "kiunˇ kiam", en: "hard-working and thrifty"}
+  - {hanzi: "有孝", pinyin: "iuˊ hau", en: "filial, devoted to one's parents"}
+  - {hanzi: "敢講", pinyin: "gamˋ gongˋ", en: "can it be that…?"}
+  - {hanzi: "連續劇", pinyin: "lienˇ xiug kiagˋ", en: "TV serial"}
+  - {hanzi: "神經", pinyin: "siinˇ ginˊ", en: "crazy (an insult)"}
+  - {hanzi: "溫柔", pinyin: "vunˊ iuˇ", en: "gentle"}
+  - {hanzi: "齊", pinyin: "ceˇ", en: "complete; neat"}
+
+exercises:
+  translate:
+    - en: "The school hall."
+      source: kaga115
+      sx: {hanzi: "學校禮堂。", pinyin: "hog gauˋ liˊ tongˇ."}
+    - en: "Grandpa loves watching TV serials."
+      source: kaga
+      sx: {hanzi: "阿公當好看連續劇。", pinyin: "aˊ gungˊ dongˊ hoˋ kon lienˇ xiug kiagˋ."}
+    - en: "My younger brother is very successful now."
+      source: kaga115
+      sx: {hanzi: "老弟這下異有成就。", pinyin: "loˋ taiˊ iaˋ ha i iuˊ siinˇ qiu."}
+    - en: "Next week the school is holding a play contest."
+      source: kaga
+      sx: {hanzi: "下禮拜，學校愛辦話劇比賽。", pinyin: "ha liˊ bai, hog gauˋ oi pan fa kiagˋ biˋ soi."}
+    - en: "The photo studio can print photos too."
+      source: kaga115
+      sx: {hanzi: "翕相館乜做得洗相片。", pinyin: "hibˋ xiong gonˋ me zo dedˋ seˋ xiong pienˋ."}
+  fill:
+    - en: "Give him a fountain pen."
+      sx: {hanzi: "送佢一支___。", pinyin: "sung giˇ idˋ giˊ ___.", answer_hanzi: "鋼筆", answer: "gong bidˋ"}
+    - en: "Before PE you have to change into sports clothes."
+      sx: {hanzi: "上___愛先換運動衫。", pinyin: "song ___ oi xienˊ von iun tung samˊ.", answer_hanzi: "體育", answer: "tiˋ iugˋ"}
+    - en: "The chalk has gone missing."
+      sx: {hanzi: "___毋見忒。", pinyin: "___ mˇ gien tedˋ.", answer_hanzi: "粉筆", answer: "funˋ bidˋ"}
+    - en: "As a son or daughter, you must be devoted to your parents."
+      sx: {hanzi: "做人子女儕，愛___爺哀。", pinyin: "zo nginˇ ziiˋ ngˋ saˇ, oi ___ iaˇ oiˊ.", answer_hanzi: "有孝", answer: "iuˊ hau"}
+    - en: "Don't tell me the weather is turning cold again?"
+      sx: {hanzi: "天時___又愛轉冷吔？", pinyin: "tienˊ siiˇ ___ iu oi zonˋ langˊ leˊ?", answer_hanzi: "敢講", answer: "gamˋ gongˋ"}
+
+audio: []
