@@ -118,3 +118,10 @@ Proposed casting, one fixed voice per character. Main speakers by line count: Sa
 3. Licence placement: the audio is CC BY-NC; decide whether it stays private or moves to a public folder or repo with
    its own licence notice (ATTRIBUTION.md).
 4. Round-trip check with the Hakka recogniser (GitHub Actions or Kaggle).
+
+## Voice change (2026-11-10)
+
+The user disliked Sam's voice: Sam and 阿明 swapped voices in both accents. Sixian Sam 朱品諭 → XM, 阿明 XM → 朱品諭;
+Hailu Sam 羅盛滿 → HM, 阿明 HM → 羅盛滿; 林師傅 (Sixian) XM → 周碩興 to avoid sharing Sam's voice in lesson 72.
+1,131 items re-voiced. The previous audio (Sam's old voice) is kept on Hkka-private branch `old-voices-2026-11-08`;
+`tools/cast.yaml` notes the old voice next to each changed line.
