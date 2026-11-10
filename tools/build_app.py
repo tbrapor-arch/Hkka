@@ -345,6 +345,13 @@ def md(text):
 
 
 lesson0 = md(open(os.path.join(ROOT, "course/lessons/000-reading-pinyin.md"), encoding="utf-8").read())
+# the accent bridge, between lesson 100 and 進修 1 (pages written by tools/bridge.py from course/bridge/notes.yaml)
+bridge = []
+for f in sorted(glob.glob(os.path.join(ROOT, "course/bridge/[0-9]-*.md"))):
+    text = open(f, encoding="utf-8").read()
+    title = re.match(r"# (.*)", text).group(1)
+    short = "Overview" if not bridge else re.sub(r"^.*From Sixian to ", "", title).rsplit(" ", 1)[0]
+    bridge.append({"title": title, "short": short, "html": md(text)})
 
 
 # ---------- rare characters: glyphs from Plangothic (SIL OFL), only those the app uses
@@ -404,7 +411,7 @@ def rom_font_css():
     return "\n".join(css)
 
 
-data = {"lessons": lessons, "dict": cards, "lesson0": lesson0, "built": datetime.date.today().isoformat()}
+data = {"lessons": lessons, "dict": cards, "lesson0": lesson0, "bridge": bridge, "built": datetime.date.today().isoformat()}
 payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
 tpl = open(os.path.join(ROOT, "app/index.template.html"), encoding="utf-8").read()
 tpl = tpl.replace("/*__FONTS__*/", rom_font_css() + "\n" + ext_font_css(payload))

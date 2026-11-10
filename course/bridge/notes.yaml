@@ -1,0 +1,198 @@
+# The hand-written part of the bridge lessons. tools/bridge.py adds every table, count and example from the database
+# and stops if a word listed here is not in the data. After editing: python3 -I tools/bridge.py build
+#
+# Rules for this file: a remark may only say what its table shows. Where a remark goes further, it says
+# "general knowledge". Places and speaker ranks come from the MOE dictionary article 107_002 (賴維凱,
+# 臺灣客家話的分布及使用概況). No native speaker has checked these pages.
+
+sentences_en:
+- Is anyone home?
+- Wash your hands before you eat.
+- "You're wearing so little: aren't you cold?"
+- This skirt is very pretty.
+- Thank you!
+- The weather is good today.
+- This road is shorter; that road is longer.
+- He is wearing new trousers to go to his grandmother's (his mother's mother).
+
+overview:
+  intro: |
+    Part 1 gave you Sixian with Hailu under every line. 進修 is Sixian only. Before it starts, these six pages show
+    how to get from the Sixian you know to the other accents of Taiwan: Hailu, South Sixian, Dapu, Raoping and Zhao'an.
+    The aim is to recognise them, not to speak them: to hear *shidˋ* or *shed* and know that it is 食 siid.
+
+    Every number, word and sentence on these pages is taken from the certification lists (115年度), the MOE dictionary
+    and 客語百句. No native speaker has checked the pages: the tables are counts, and the remarks under them are ours.
+
+    Where each accent is spoken (MOE dictionary, article 107_002):
+
+    - **Sixian** has the most speakers: 桃園, 新竹, 苗栗 in the north, 高雄 and 屏東 in the south, 花蓮 and 臺東 in the east.
+    - **Hailu** is second: 新竹, southern 桃園, northern 苗栗, 花蓮.
+    - **Dapu**: 臺中 (東勢, 石岡, 新社, 和平) and 卓蘭 in 苗栗.
+    - **Raoping**: in pockets in 桃園, 新竹, 卓蘭 and 彰化.
+    - **Zhao'an**: 雲林 (二崙, 崙背). It has the fewest speakers of the five.
+  distance: |
+    Read these figures as a ranking. For the four list accents the test is whether the word is written with the same
+    characters; a word with the same characters can still sound quite different. South Sixian is measured in another
+    way (same reading or not), because the certification lists have no southern column.
+  tones: |
+    Read each row across: it is one tone category. A 陰平 word rises in Sixian (ˊ 24), falls in Hailu (ˋ 53), is level in
+    Dapu (+ 33) and low in Raoping and Zhao'an (ˇ 11). The marks are reused with other values from accent to accent, so
+    always read a mark with its accent. Dapu and Zhao'an write ˆ for their low falling tone; the lists type it ^.
+    Where a cell shows one tone, the page of that accent says how regular it is: 去聲 splits in two in Hailu, Raoping
+    and Zhao'an.
+  after: |
+    Pages 1 to 5 take one accent each. They have the same seven sections, and the same eight sentences come back, so
+    you can lay the pages side by side. The eight sentences were recorded in all six accents for 客語百句
+    (客家委員會, 2012 and 2014 sets, easytalk.hakka.gov.tw); the app does not play these recordings yet.
+
+hailu:
+  intro: |
+    You have read Hailu under every Sixian line for 100 lessons, and lesson 0 gave you the tone code. This page checks
+    that code against the whole certification list and adds the rules for consonants and vowels. Hailu is spoken in
+    新竹, southern 桃園, northern 苗栗 and 花蓮, and has the second largest number of speakers (MOE dictionary, article
+    107_002). In the story, 阿舅 in 竹東 speaks it.
+  tones: |
+    Five of the six Sixian tones give one Hailu tone almost every time. The code is a swap: rising and falling change
+    places (ˊ 24 → ˋ 53, ˋ 31 → ˊ 24), low becomes high (ˇ 11 → 55), and the two short tones change places. Only 去聲
+    needs the word.
+  consonants: |
+    Hailu has zh, ch, sh and rh; Sixian has none of them. For z, c, s, your Mandarin does most of the work. rh is the
+    buzzed y of lesson 0: where Sixian starts a syllable with i, Hailu has rh, and the i is often gone (樣 iong → rhong+).
+  vowels: |
+    Most of these rows follow from the consonants. After zh, ch, sh the vowel ii is i (食 siid → shidˋ, 時 siiˇ → shi),
+    and after rh the i is dropped (iong → ong, ia → a, ien → an). Three rows are worth learning as they are:
+    u → iu (手 suˋ → shiuˊ), eu → iau or au (笑 seu → siauˇ, 少 seuˋ → shauˊ) and e → ai (个 ge → gaiˇ).
+  suffix: |
+    Hailu 仔 is er (55). It does not change with the sound before it, as Sixian eˋ does. About one Sixian word in three
+    has no suffix in Hailu: 桌仔 → 桌, 狗仔 → 狗.
+  words: [吾, 若, 同, 故所, 天光日, 既經, 盡, 寒, 寒天, 恁仔細, 粥, 𫣆兜, 肚飢, 筷仔, 番豆, 鼻公, 右片, 有時節, 頭一擺, 譴]
+  words_note: |
+    These are Part 1 words where the Hailu list has another word. Learn the grammar words first: 𠊎 for "my", 摎 for
+    "with", 所以, 韶早. "It rains" is 落水 in Hailu, not 落雨 (grammar inventory §17).
+  sentences: |
+    Sentences 1, 2, 4, 7 and 8 keep every word: only the sounds move. In sentence 3, 寒 is 冷. In sentence 5,
+    恁仔細 is 承蒙你. In sentence 7, 較 is read haˇ.
+  try: [人, 講, 食飯, 朋友, 火車, 學校, 看, 大]
+
+south-sixian:
+  intro: |
+    South Sixian is the Sixian of the south: 高雄 and 屏東 (美濃 in the story, where 鍾伯 and his wife live). The MOE
+    dictionary gives it a column of its own. The certification lists do not, so the measure on this page is different:
+    how many dictionary entries have another reading in the south. Article 107_002 says only that north and south
+    differ in some sounds and some words. What you will notice first is a handful of very frequent words.
+  tones: |
+    The tones are the same six. The differences are single words. 無 at the end of a question is moˊ in the 客語百句
+    recordings (sentences 1 and 3 below), and a few words change tone (票 peuˊ → peu).
+  consonants: |
+    No rule changes. Single words do: 你 is ngˇ in the recordings; 佢 is iˇ and 還 is vanˇ in the dictionary (the
+    recordings keep giˇ).
+  vowels: |
+    One rule covers most of the differences: after i, the vowel e opens to a in about half of the words. ien → ian
+    (年 ngienˇ → ngianˇ, 園 ienˇ → ianˇ), ied → iad (熱 ngied → ngiad), ie → iai (街 gieˊ → giaiˊ).
+  suffix: |
+    仔 is eˋ, as in the north. In a few of the parallel sentences the south has no 仔 where the north has one
+    (揹書包仔 → 揹書包).
+  words:
+  - {sx: 當 dongˊ · 異 i, south: 蓋 goi, en: very}
+  - {sx: 較 ka, south: 過 go, en: more (before an adjective)}
+  - {sx: 恁仔細 anˋ ziiˋ se, south: 多謝 doˊ qia, en: thank you}
+  - {sx: 你 nˇ, south: 你 ngˇ, en: you}
+  - {sx: 在 toˊ, south: 在 teˊ, en: be at}
+  - {sx: 佢 giˇ, south: 佢 iˇ, en: 'he, she'}
+  - {sx: 還 hanˇ, south: 還 vanˇ, en: still}
+  - {sx: 姐婆 jiaˋ poˇ, south: 外阿婆 ngoi aˊ poˇ, en: grandmother (mother's mother)}
+  - {sx: 餔娘 buˊ ngiongˇ, south: 姐仔 jiaˋ eˋ, en: wife}
+  - {sx: 這位 iaˋ vi, south: 這跡位 iaˋ jiagˋ vi, en: here}
+  words_note: |
+    蓋 is the word to remember: it stands before an adjective where the north has 當 or 異. 過 before an adjective is
+    "more", where the north has 較. The last column says where the southern form is found: in how many of the 101
+    southern sentences of 客語百句 that are intact in the data, or in the MOE dictionary.
+  sentences: |
+    Sentence 4 holds the whole page in five syllables: 這領裙蓋鬧. 領 for 條, 蓋 for 當, 鬧 for 靚. Sentence 2 is the same
+    as in the north. Sentences 5 to 8 show the rest: 多謝, 蓋好, 過近 and 過遠, 外阿婆.
+  try: [年, 熱, 街, 花園, 歇, 月]
+
+dapu:
+  intro: |
+    Dapu is spoken in 臺中 (東勢, 石岡, 新社, 和平) and in 卓蘭 in 苗栗 (MOE dictionary, article 107_002). Its consonants are
+    close to Hailu (zh, ch, sh, rh), its tones are its own, and it has no 仔: a word stands alone, or changes its tone.
+  tones: |
+    This is the most regular table of the five pages: one Sixian tone, one Dapu tone, and 去聲 does not split. Two
+    shapes are new. + 33 is level and mid, where Sixian rises. ˇ 113 is low and rises a little at the end. The lists
+    write 去聲 with ˋ; the MOE dictionary leaves it unmarked.
+  consonants: |
+    zh, ch, sh and rh work as in Hailu. The new rule is k: 去 hi → kiˋ, 客 hagˋ → kagˆ, 褲 fu → kuˋ. 你 is hnˇ: a breath,
+    then n.
+  vowels: |
+    Two rows are worth learning: ai → e (弟 taiˊ → te+, 矮 aiˋ → eˆ) and ang → en (冷 langˊ → len+, 聽 tangˊ → ten+).
+    The others are the Hailu ones: ii → i after zh, ch, sh; u → iu (手 suˋ → shiuˆ); the i dropped after rh.
+  suffix: |
+    Dapu has no 仔. Most words only lose it. Some keep a trace: the last syllable takes the rising tone ˊ 35. When you
+    hear a rising tone in Dapu, think of a Sixian word in 仔.
+  words: [就, 屋下, 故所, 暗晡夜, 朝晨, 安到, 歇, 恁樣, 起來, 仰般, 阿婆, 阿公, 痛, 定定, 一息仔, 恁仔細, 自行車, 𫣆兜, 做得]
+  words_note: |
+    The grammar words to learn first: 斯 for 就, 屋家 for 屋下, 恁泥 and 仰脣 for 恁樣 and 仰般, 𫣆等 for 𫣆兜.
+    "Thank you" is 勞瀝.
+  sentences: |
+    Sentences 1 and 8: 屋家 ka+, not 屋下. Sentence 4: 領 is the classifier for the skirt, where Sixian has 條.
+    Sentence 8: 去 kiˋ and 褲 kuˋ, the k rule.
+  try: [人, 講, 食飯, 朋友, 火車, 學校, 看, 大]
+
+raoping:
+  intro: |
+    Raoping is the scattered accent: pockets in 桃園, 新竹, 卓蘭 and 彰化, and in some places it is now spoken only at home
+    (MOE dictionary, article 107_002). The certification lists give one standard form. To a Sixian ear it is close to
+    Hailu with other tones: the same zh, ch, sh, rh, and the same vowels in most words.
+  tones: |
+    Learn the row, not the mark: three of the marks are the Hailu ones with other values. The two short tones do not
+    change places as they do in Hailu: Sixian ˋ 2 stays low and unmarked 5 stays high. 上聲 and one half of 去聲 are both
+    ˋ 53.
+  consonants: |
+    Everything on the Hailu page applies. Raoping adds three things. k, as in Dapu: 去 hi → kiuˋ, 褲 fu → kuˋ,
+    客 hagˋ → kagˋ. v where Sixian starts with i: 雨 iˋ → vuˋ, 圓 ienˇ → vien (the examples all start with yu- in
+    Mandarin). And f in 水 fiˋ and 睡 feˊ.
+  vowels: |
+    Three rows carry most of the difference: ai → e (弟 taiˊ → teˇ, 矮 aiˋ → eˋ), on → an (碗 vonˋ → vanˋ) and
+    ui → i (水 suiˋ → fiˋ). 食 is shed, not shid: half of the Sixian iid syllables are ed in Raoping.
+  suffix: |
+    Raoping keeps the suffix more often than Hailu does, and reads it erˋ.
+  words: [看, 吾, 同, 故所, 天光日, 朝晨, 盡, 拿, 阿婆, 痛, 洗身, 晒, 噭, 譴, 歇睏, 恁仔細, 肚屎, 肚飢, 粥, 番豆, 菸]
+  words_note: |
+    The word to notice first is 䀴 ngiangˋ for "look, see", where Sixian has 看. Eight of the others are the Hailu
+    words: 摎, 所以, 韶早, 最, 承蒙, 閼, 糜, 地豆.
+  sentences: |
+    Sentence 8: 去 is kiuˋ and 褲 is kuˋ, and the grandmother is 姐嬤. Sentence 7: 遠 is vienˋ. Sentence 5: 承蒙你, as in
+    Hailu.
+  try: [人, 講, 食飯, 朋友, 火車, 學校, 水, 大]
+
+zhaoan:
+  intro: |
+    Zhao'an is spoken in 雲林 (二崙, 崙背), with smaller groups elsewhere, and has the fewest speakers of the five list
+    accents (MOE dictionary, article 107_002). It is the far end of the bridge: about one Part 1 word in four is another
+    word, and many short syllables have lost their ending. Its speakers live among Southern Min speakers, and many of
+    its everyday words are the Southern Min ones (general knowledge, not measured here). If you did Tsheh-tû, you
+    already know them.
+  tones: |
+    陰平 is low (ˇ 11) and 陽平 falls (ˋ 53): the opposite of Sixian. 上聲 keeps its shape (31) and is written ˆ. The short
+    tones are the surprise: about a third of the Sixian short syllables have no stop in Zhao'an. They keep the tone and
+    lose the -g: 百 bagˋ → baˊ, 白 pag → pa, 落 log → loo.
+  consonants: |
+    zh, ch, sh and rh work as in Hailu, k as in Dapu and Raoping (去 kuiˆ, 褲 kuˆ), f as in Raoping (水 fiˆ, 睡 fe).
+    The new sound is bb, a voiced b. It stands where Sixian has v (會 voi → bbue, 碗 vonˋ → bbanˆ) and where Raoping has
+    v (雨 iˋ → bbuˆ, 圓 ienˇ → bbienˋ). 你 is henˋ and 佢 is guiˋ.
+  vowels: |
+    oo is the open o, and most Sixian o are oo in Zhao'an. The short syllables in -g lose it: og → oo, ag → a, ug → u.
+    ien is een in a third of the syllables (天 tienˊ → teenˇ), and ii is i or u (事情 sii qinˇ → su cinˋ).
+  suffix: |
+    Zhao'an has almost no 仔. Half of the words lose it, and some take 子 zuˆ in its place (柑子, 包子, 妹子). Where the
+    list keeps 仔, it is read aˋ.
+  words: [當, 該, 看, 還→猶, 吾, 若, 厥, 同, 這下, 乜, 忒, 今晡日, 昨晡日, 天光日, 東西, 共下, 恁仔細, 阿爸, 阿姆, 麼人, 放, 歇, 中意, 辣, 客話]
+  words_note: |
+    This is a selection. Many of these are the Southern Min words (general knowledge, not measured here): 物件 "thing",
+    佮意 "like", 囥 "put", 蹛 "live", 足 and 傷 for "very" and "too", 猶 "still", 嘛 "also". The possessives are regular,
+    pronoun + 个: 𠊎个, 你个, 佢个, where Sixian has 吾, 若, 厥.
+  sentences: |
+    Sentence 1: 屋 is bbuˊ, with no -g. Sentence 3: 著 is zhooˊ, the same loss. Sentence 6: 今日 and 天氣, and 真 for
+    "very". Sentence 7: 遐 gaˊ for "that". Sentence 5: 勞力.
+  try: [人, 講, 食飯, 朋友, 火車, 學校, 水, 大]
