@@ -66,3 +66,5 @@ style of 採茶戲, not a sung one.
   husband, a grandson just admitted to university. Sam plans graduate school. She will wrap 粽仔 for 五月節.
 - P48, Sun 27 May, A-in's diary. Sam has passed his university exam (thread closed). The whole family barbecues at
   the waterfall of P41 (thread of P42 closed). Grandpa hides a cigarette from Grandma. A-min jumps into the pool.
+- P49 (review), Sat 16 Jun, 五月節, lunch at the Liu house. Sam brings 叔婆's 粽仔. A-min starts at the factory
+  "next month" (July). Sam stays in Miaoli for the summer to prepare the November exam. Grandpa smokes less.

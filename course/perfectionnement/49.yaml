@@ -1,0 +1,188 @@
+id: 49
+genre: review
+title:
+  en: "Whatever you do, do it in earnest"
+  sx: {hanzi: "不管做麼个，認真就好", pinyin: "budˋ gonˋ zo maˋ ge, ngin ziinˊ qiu hoˋ"}
+review: true
+setting: >-
+  Saturday 16 June 2029, the Dragon Boat Festival (五月節), lunch at the Liu house. Sam brings the rice dumplings that
+  the old lady up the lane wrapped for him. Review of 進修 43–48: no new words.
+names: [Sam, 阿公, 阿婆, 阿舅, 叔婆, 阿明, 阿英, 苗栗]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Today is the Dragon Boat Festival. At New Year and on feast days the house is full of life!"
+    sx: {hanzi: "今晡日五月節。過年過節，屋下當鬧熱！", pinyin: "gimˊ buˊ ngidˋ ngˋ ngied jiedˋ. go ngienˇ go jiedˋ, vugˋ kaˊ dongˊ nau ngied!"}
+  - n: 2
+    speaker: Sam
+    en: "Grandma, the old lady up the lane wrapped rice dumplings for me, and I've brought some. She says the dried radish has to be chopped very fine."
+    sx: {hanzi: "阿婆，上屋叔婆包粽仔分𠊎，𠊎拿兜仔來。佢講菜脯愛剁到幼幼仔。", pinyin: "aˊ poˇ, song vugˋ sugˋ poˇ bauˊ zung eˋ bunˊ ngaiˇ, ngaiˇ naˊ deuˊ eˋ loiˇ. giˇ gongˋ coi puˋ oi dog do iu iu eˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "How kind of her. These dumplings don't taste bad at all."
+    sx: {hanzi: "佢人恁好。這粽仔个味緒毋會㜮。", pinyin: "giˇ nginˇ anˋ hoˋ. iaˋ zung eˋ ge mi xi mˇ voi lamˊ."}
+  - n: 4
+    speaker: 阿公
+    en: "Girls used to embroider scent bags for the festival; nowadays nobody knows how."
+    sx: {hanzi: "頭擺个細妹仔五月節愛繡香包，這滿無人會吔。", pinyin: "teuˇ baiˋ ge se moi eˋ ngˋ ngied jiedˋ oi xiu hiongˊ bauˊ, iaˋ manˊ moˇ nginˇ voi leˊ."}
+  - n: 5
+    speaker: 阿英
+    en: "Grandpa's ideas are still very traditional."
+    sx: {hanzi: "阿公个觀念還當傳統。", pinyin: "aˊ gungˊ ge gonˊ ngiam hanˇ dongˊ conˇ tungˋ."}
+  - n: 6
+    speaker: 阿明
+    en: "It's so hot: I'm going to have a cold wash."
+    sx: {hanzi: "天時恁熱，𠊎愛去洗冷水。", pinyin: "tienˊ siiˇ anˋ ngied, ngaiˇ oi hi seˋ langˊ suiˋ."}
+  - n: 7
+    speaker: 阿婆
+    en: "Last time you caught a cold, and the medicine did hardly any good. You were told to put on another layer, and you just would not listen."
+    sx: {hanzi: "你上擺寒著，食藥仔乜無麼个效果。喊你著加一領衫，你偏偏毋聽人講。", pinyin: "nˇ song baiˋ honˇ doˋ, siid iog eˋ me moˇ maˋ ge hauˋ goˋ. ham nˇ zogˋ gaˊ idˋ liangˊ samˊ, nˇ pienˊ pienˊ mˇ tangˊ nginˇ gongˋ."}
+  - n: 8
+    speaker: 阿明
+    en: "I'm really sturdy now! Next month I'm going to work at Uncle's factory."
+    sx: {hanzi: "這滿𠊎身體當砸！下隻月𠊎愛去阿舅个工廠做事。", pinyin: "iaˋ manˊ ngaiˇ siinˊ tiˋ dongˊ zabˋ! ha zagˋ ngied ngaiˇ oi hi aˊ kiuˊ ge gungˊ congˋ zo se."}
+  - n: 9
+    speaker: Sam
+    en: "What do you plan to do there?"
+    sx: {hanzi: "你按算做麼个？", pinyin: "nˇ on son zo maˋ ge?"}
+  - n: 10
+    speaker: 阿明
+    en: "Uncle says first I carry materials and sweep the floor, and in the end I learn to make noodles."
+    sx: {hanzi: "阿舅講先扐材料、掃地泥，包尾正學做麵。", pinyin: "aˊ kiuˊ gongˋ xienˊ led coiˇ liau, so ti naiˇ, bauˊ miˊ zang hog zo mien."}
+  - n: 11
+    speaker: 阿公
+    en: "The machines in the factory are very powerful: you must be careful, and don't go touching them when you're told not to."
+    sx: {hanzi: "工廠个機器力量當大，你斯愛細義，毋好強強去摸。", pinyin: "gungˊ congˋ ge giˊ hi lid liong dongˊ tai, nˇ siiˇ oi se ngi, mˇ hoˋ kiongˇ kiongˇ hi miaˊ."}
+  - n: 12
+    speaker: 阿英
+    en: "He isn't deft at anything: the one run off his feet will be the master."
+    sx: {hanzi: "佢做事毋會伶俐，到時無閒到捩捩轉个係師傅。", pinyin: "giˇ zo se mˇ voi langˇ li, do siiˇ moˇ hanˇ do lidˋ lidˋ zonˋ ge he siiˊ fu."}
+  - n: 13
+    speaker: 阿明
+    en: "Sis, are you out of your mind! I've been a runner-up, and the headmaster even gave me a fountain pen."
+    sx: {hanzi: "阿姊，你發麼个神經！𠊎得過亞軍，校長還送𠊎鋼筆。", pinyin: "aˊ jiˋ, nˇ fadˋ maˋ ge siinˇ ginˊ! ngaiˇ dedˋ go aˋ giunˊ, gauˋ zongˋ hanˇ sung ngaiˇ gong bidˋ."}
+  - n: 14
+    speaker: 阿英
+    en: "That was for singing, not for making noodles."
+    sx: {hanzi: "該係合唱，毋係做麵。", pinyin: "ge he hab cong, mˇ he zo mien."}
+  - n: 15
+    speaker: 阿婆
+    en: "That will do, no quarrelling. Whatever you do, do it in earnest."
+    sx: {hanzi: "好吔，莫冤家。不管做麼个，認真就好。", pinyin: "hoˋ leˊ, mog ienˊ gaˊ. budˋ gonˋ zo maˋ ge, ngin ziinˊ qiu hoˋ."}
+  - n: 16
+    speaker: Sam
+    en: "I'm staying in Miaoli this summer to study for the exam in November. This one covers even more ground."
+    sx: {hanzi: "熱天𠊎愛留在苗栗讀書，準備十一月个考試。這擺个範圍還較闊。", pinyin: "ngied tienˊ ngaiˇ oi liuˇ coiˊ meuˇ lid tug suˊ, zunˋ pi siib idˋ ngied ge kauˋ sii. iaˋ baiˋ ge fam viˇ hanˇ ka fadˋ."}
+  - n: 17
+    speaker: 阿公
+    en: "Before your last exam your grandmother got no yes from the blocks at the temple, and you passed all the same."
+    sx: {hanzi: "上擺你考試，若阿婆去廟項跌無筊，你還係過吔。", pinyin: "song baiˋ nˇ kauˋ sii, ngiaˊ aˊ poˇ hi meu hong diedˋ moˇ gau, nˇ hanˇ he go leˊ."}
+  - n: 18
+    speaker: 阿婆
+    en: "That was the gods' protection!"
+    sx: {hanzi: "該係神明庇佑！", pinyin: "ge he siinˇ minˇ bi iu!"}
+  - n: 19
+    speaker: Sam
+    en: "Thank you, Grandma. I don't feel so much pressure now."
+    sx: {hanzi: "多謝阿婆。這下𠊎个心理壓力無恁大吔。", pinyin: "doˊ qia aˊ poˇ. iaˋ ha ngaiˇ ge ximˊ liˊ abˋ lid moˇ anˋ tai leˊ."}
+  - n: 20
+    speaker: 阿公
+    en: "Sam is a decent sort, and modest too."
+    sx: {hanzi: "Sam 當篤實，又自謙。", pinyin: "Sam dongˊ dugˋ siid, iu cii kiamˊ."}
+  - n: 21
+    speaker: 阿婆
+    en: "Your grandfather smokes less these days."
+    sx: {hanzi: "你阿公這滿較少㗘菸吔。", pinyin: "nˇ aˊ gungˊ iaˋ manˊ ka seuˋ bog ienˊ leˊ."}
+  - n: 22
+    speaker: 阿公
+    en: "Luckily your grandmother keeps her eye on me all the time."
+    sx: {hanzi: "該載若阿婆時時看等𠊎。", pinyin: "goiˊ zai ngiaˊ aˊ poˇ siiˇ siiˇ kon denˋ ngaiˇ."}
+  - n: 23
+    speaker: 阿明
+    en: "Grandpa is embarrassed!"
+    sx: {hanzi: "阿公當尷尬！", pinyin: "aˊ gungˊ dongˊ gangˊ gie!"}
+  - n: 24
+    speaker: 阿婆
+    en: "Come, cut the dumplings in half, half each. This dish is to eat with your rice."
+    sx: {hanzi: "來，粽仔對半切，一儕一半。這菜傍飯食。", pinyin: "loiˇ, zung eˋ dui ban qiedˋ, idˋ saˇ idˋ ban. iaˋ coi bongˋ fan siid."}
+  - n: 25
+    speaker: Sam
+    en: "After lunch I'll wash the dishes."
+    sx: {hanzi: "食飽𠊎來洗湯碗盤。", pinyin: "siid bauˋ ngaiˇ loiˇ seˋ tongˊ vonˋ panˇ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      五月節 is the Dragon Boat Festival, the fifth day of the fifth lunar month: 16 June in 2029. This lesson has no
+      new words: it brings back words of 進修 43–48.
+  - ref: 2
+    topic: vocab
+    text: >
+      幼幼仔 "very fine" is from 進修 47, where 上屋叔婆 promised the dumplings. 㜮 in line 3 is "poor, bad" (進修 47).
+  - ref: 4
+    topic: vocab
+    text: >
+      繡香包 is from 進修 43; 這滿 "nowadays" and 觀念 "ideas" (line 5) from 進修 47.
+  - ref: 7
+    topic: vocab
+    text: >
+      效果 "effect" and 偏偏 "wilfully" are from 進修 46: A-min caught his cold after the clam hunt.
+  - ref: 10
+    topic: vocab
+    text: >
+      扐 "carry in one's arms" and 包尾 "in the end" are from 進修 45, the open day at the factory.
+  - ref: 12
+    topic: vocab
+    text: >
+      伶俐 "deft" and 捩捩轉 "spinning round" are from 進修 45.
+  - ref: 13
+    topic: vocab
+    text: >
+      亞軍 "second place" and 鋼筆 "fountain pen" are from 進修 44.
+  - ref: 17
+    topic: vocab
+    text: >
+      跌無筊 and 庇佑 (line 18) are from 進修 43.
+  - ref: 21
+    topic: vocab
+    text: >
+      㗘菸 "smoke", 該載 "luckily", 時時 "all the time" and 尷尬 "embarrassed" are from 進修 48.
+  - ref: 24
+    topic: vocab
+    text: >
+      對半 "in half", 傍飯 "eat with rice" and 洗湯 "wash" (line 25) are from 進修 48.
+
+new_words:
+
+exercises:
+  translate:
+    - en: "This time they are going to the mainland for a trip."
+      source: kaga115
+      sx: {hanzi: "這滿佢兜愛去大陸尞。", pinyin: "iaˋ manˊ giˇ deuˊ oi hi tai liug liau."}
+    - en: "He works very deftly."
+      source: kaga115
+      sx: {hanzi: "佢做事當伶俐。", pinyin: "giˇ zo se dongˊ langˇ li."}
+    - en: "This medicine doesn't work very well."
+      source: kaga115
+      sx: {hanzi: "這藥仔效果無異好。", pinyin: "iaˋ iog eˋ hauˋ goˋ moˇ i hoˋ."}
+    - en: "Second place gets a prize too."
+      source: kaga115
+      sx: {hanzi: "亞軍乜有獎品。", pinyin: "aˋ giunˊ me iuˊ jiongˋ pinˋ."}
+    - en: "Thanks to the gods' protection, he came to no harm."
+      source: kaga115
+      sx: {hanzi: "好得神明庇佑，佢正無事情。", pinyin: "hoˋ dedˋ siinˇ minˇ bi iu, giˇ zang moˇ sii qinˇ."}
+  fill:
+    - en: "Tobacco is no good thing: better not to smoke."
+      sx: {hanzi: "菸毋係好東西，莫___較贏。", pinyin: "ienˊ mˇ he hoˋ dungˊ xiˊ, mog ___ ka iangˇ.", answer_hanzi: "㗘", answer: "bog"}
+    - en: "It is good for a person to be modest."
+      sx: {hanzi: "做人愛___正好。", pinyin: "zo nginˇ oi ___ zang hoˋ.", answer_hanzi: "自謙", answer: "cii kiamˊ"}
+    - en: "He was told to put on another layer before going out, and he just would not listen."
+      sx: {hanzi: "喊佢著加一領衫出門，佢___毋聽人講。", pinyin: "ham giˇ zogˋ gaˊ idˋ liangˊ samˊ cudˋ munˇ, giˇ ___ mˇ tangˊ nginˇ gongˋ.", answer_hanzi: "偏偏", answer: "pienˊ pienˊ"}
+    - en: "This exam covers a lot of ground."
+      sx: {hanzi: "這擺考試个___當闊。", pinyin: "iaˋ baiˋ kauˋ sii ge ___ dongˊ fadˋ.", answer_hanzi: "範圍", answer: "fam viˇ"}
+    - en: "At first he said he would take the day off; in the end he said he would come."
+      sx: {hanzi: "本來講愛請假，___佢又講愛來。", pinyin: "bunˋ loiˇ gongˋ oi qiangˋ gaˋ, ___ giˇ iu gongˋ oi loiˇ.", answer_hanzi: "包尾", answer: "bauˊ miˊ"}
+
+audio: []
