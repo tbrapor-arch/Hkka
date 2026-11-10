@@ -98,69 +98,69 @@ dialogue:
     sx: {hanzi: "佢下班過後還愛打夜學，實在當拚。", pinyin: "giˇ haˊ banˊ go heu hanˇ oi daˋ ia hog, siid cai dongˊ biang."}
   - n: 18
     speaker: 阿明
-    en: "A classmate of mine drew the poster."
-    sx: {hanzi: "吾班有一個同學畫海報。", pinyin: "ngaˊ banˊ iuˊ idˋ ge tungˇ hog fa hoiˋ bo."}
+    en: "A classmate of mine drew the poster. He draws very well, he is always happy in art class, and he wants to be an artist one day."
+    sx: {hanzi: "吾班有一個同學畫海報。佢當會畫圖，逐擺上美術都盡歡喜，將來想做美術家。", pinyin: "ngaˊ banˊ iuˊ idˋ ge tungˇ hog fa hoiˋ bo. giˇ dongˊ voi fa tuˇ, dagˋ baiˋ song miˊ sud du qin fonˊ hiˋ, jiongˊ loiˇ xiongˋ zo miˊ sud gaˊ."}
     check: true
   - n: 19
-    speaker: 阿明
-    en: "He has a real gift for drawing: he could be an artist one day."
-    source: kaga
-    sx: {hanzi: "佢對畫圖當有天分，將來做得做美術家。", pinyin: "giˇ dui fa tuˇ dongˊ iuˊ tienˊ fun, jiongˊ loiˇ zo dedˋ zo miˊ sud gaˊ."}
-  - n: 20
     speaker: 阿明
     en: "On Friday the school invited a painter to give a talk, and people from the education office came to listen. The owner of the photo studio took the pictures: they will be in the school magazine that comes out next month. The painter said:"
     sx: {hanzi: "禮拜五學校請一位畫家來講話，教育局个人乜來聽。翕相館个頭家來攝影，相片會放在下隻月出版个學校雜誌肚。畫家講：", pinyin: "liˊ bai ngˋ hog gauˋ qiangˋ idˋ vi fa gaˊ loiˇ gongˋ fa, gau iugˋ kiug ge nginˇ me loiˇ tangˊ. hibˋ xiong gonˋ ge teuˇ gaˊ loiˇ ngiabˋ iangˋ, xiong pienˋ voi biong coiˊ ha zagˋ ngied cudˋ banˋ ge hog gauˋ cab zii duˋ. fa gaˊ gongˋ:"}
     check: true
-  - n: 21
+  - n: 20
     speaker: 阿明
     en: "Hakka is one kind of Chinese."
     source: kaga115
     sx: {hanzi: "客話係漢語个一種。", pinyin: "hagˋ fa he hon ngiˊ ge idˋ zungˋ."}
-  - n: 22
+  - n: 21
     speaker: 阿明
     en: "He is very successful now, but he said that in his day he did badly in physics and only liked drawing. He also said:"
     sx: {hanzi: "佢這下當有成就，毋過佢講頭擺物理考毋好，淨好畫圖。佢還講：", pinyin: "giˇ iaˋ ha dongˊ iuˊ siinˇ qiu, mˇ go giˇ gongˋ teuˇ baiˋ vud liˊ kauˋ mˇ hoˋ, qiang hau fa tuˇ. giˇ hanˇ gongˋ:"}
     check: true
-  - n: 23
+  - n: 22
     speaker: 阿明
     en: "I was born into a simple family."
     source: kaga115
     sx: {hanzi: "𠊎在單純个家庭出世。", pinyin: "ngaiˇ coiˊ danˊ sunˇ ge gaˊ tinˇ cudˋ se."}
-  - n: 24
+  - n: 23
     speaker: 阿明
     en: "His parents were hard-working and thrifty, and he is a devoted son."
     sx: {hanzi: "厥爺哀當勤儉，佢乜當有孝。", pinyin: "giaˊ iaˇ oiˊ dongˊ kiunˇ kiam, giˇ me dongˊ iuˊ hau."}
     check: true
-  - n: 25
+  - n: 24
     speaker: 阿英
     en: "You're class president, you act and you play the drum: can you keep up with your studies?"
     sx: {hanzi: "你又做班長又做戲又打鼓仔，書讀得來無？", pinyin: "nˇ iu zo banˊ zongˋ iu zo hi iu daˋ guˋ eˇ, suˊ tug dedˋ loiˇ moˇ?"}
     check: true
-  - n: 26
+  - n: 25
     speaker: 阿明
     en: "The more important things must be done first, and quickly."
     source: kaga115
     sx: {hanzi: "較要緊个事情愛遽啊先做。", pinyin: "ka ieu ginˋ ge sii qinˇ oi giagˋ a xienˊ zo."}
-  - n: 27
+  - n: 26
     speaker: 阿英
     en: "You act so well: don't tell me you want to be in a TV serial one day?"
     sx: {hanzi: "你做戲恁慶，敢講下二擺想做連續劇？", pinyin: "nˇ zo hi anˋ kiang, gamˋ gongˋ ha ngi baiˋ xiongˋ zo lienˇ xiug kiagˋ?"}
     check: true
-  - n: 28
+  - n: 27
     speaker: 阿明
     en: "Sis, are you out of your mind! … No, wait: no insults on the radio."
     sx: {hanzi: "阿姊，你發麼个神經！…… 毋著，在電臺做毋得罵人。", pinyin: "aˊ jiˋ, nˇ fadˋ maˋ ge siinˇ ginˊ! … … mˇ cog, coiˊ tien toiˇ zomˇ dedˋ ma nginˇ."}
     check: true
-  - n: 29
+  - n: 28
     speaker: 阿明
     en: "My big sister is ever so gentle."
     source: kaga115
     sx: {hanzi: "阿姊盡溫柔。", pinyin: "aˊ jiˋ qin vunˊ iuˇ."}
+  - n: 29
+    speaker: 阿英
+    en: "Thank you, A-min. This afternoon you and I are going to visit Uncle's factory."
+    sx: {hanzi: "多謝阿明。下晝𠊎同你愛去阿舅个工廠參觀。", pinyin: "doˊ qia aˊ minˇ. haˊ zu ngaiˇ tungˇ nˇ oi hi aˊ kiuˊ ge gungˊ congˋ camˊ gonˊ."}
+    check: true
   - n: 30
     speaker: 阿英
-    en: "Thank you, A-min. Have you got all your things? This afternoon you and I are going to visit Uncle's factory."
-    sx: {hanzi: "多謝阿明。東西帶齊吂？下晝𠊎同你愛去阿舅个工廠參觀。", pinyin: "doˊ qia aˊ minˇ. dungˊ xiˊ dai ceˇ mangˇ? haˊ zu ngaiˇ tungˇ nˇ oi hi aˊ kiuˊ ge gungˊ congˋ camˊ gonˊ."}
-    check: true
+    en: "Have you got all your things?"
+    source: kaga115
+    sx: {hanzi: "東西帶齊吂？", pinyin: "dungˊ xiˊ dai ceˇ mangˇ?"}
 
 notes:
   - ref: 0
@@ -197,7 +197,7 @@ notes:
     topic: vocab
     text: >
       鋼筆 gong bidˋ "fountain pen". 打無名 daˋ moˇ miangˇ "not get a place". 要緊 ieu ginˋ "serious; important": 無要緊 "it
-      doesn't matter"; line 26 has 較要緊个事情 "the more important things".
+      doesn't matter"; line 25 has 較要緊个事情 "the more important things".
   - ref: 15
     topic: vocab
     text: >
@@ -207,45 +207,43 @@ notes:
     text: >
       教練 gau lien "coach"; 體育 tiˋ iugˋ "physical education" (上體育愛先換運動衫). 打夜學 daˋ ia hog in line 17 is "go to night
       school".
-  - ref: 19
+  - ref: 18
     topic: vocab
     text: >
-      美術 miˊ sud "fine art": 美術家 "artist". 天分 tienˊ fun is "gift, talent": 分 is read fun here (MOE; the word is not
-      in the certification lists).
-  - ref: 20
+      美術 miˊ sud "fine art": 上美術 "have art class", 美術家 "artist" (天光日愛上美術，愛記得帶畫筆同畫圖紙).
+  - ref: 19
     topic: vocab
     text: >
       畫家 fa gaˊ "painter". 教育局 gau iugˋ kiug "education office". 翕相館 hibˋ xiong gonˋ "photo studio" (翕相館乜做得洗相片); 攝影
       ngiabˋ iangˋ "take photographs, film". 出版 cudˋ banˋ "publish".
-  - ref: 21
+  - ref: 20
     topic: vocab
     text: >
       漢語 hon ngiˊ "the Chinese language".
-  - ref: 22
+  - ref: 21
     topic: vocab
     text: >
       成就 siinˇ qiu "achievement, success" (老弟這下異有成就). 物理 vud liˊ "physics". 好 before a verb, "be keen on", is read
       hau.
-  - ref: 23
+  - ref: 22
     topic: vocab
     text: >
-      單純 danˊ sunˇ "simple". 勤儉 kiunˇ kiam in line 24 is "hard-working and thrifty"; 有孝 iuˊ hau "devoted to one's
+      單純 danˊ sunˇ "simple". 勤儉 kiunˇ kiam in line 23 is "hard-working and thrifty"; 有孝 iuˊ hau "devoted to one's
       parents" (做人子女儕，愛有孝爺哀).
-  - ref: 27
+  - ref: 26
     topic: grammar
     text: >
       敢講 gamˋ gongˋ opens a question that expects "surely not": 天時敢講又愛轉冷吔？ "don't tell me it is turning cold again?"
       連續劇 lienˇ xiug kiagˋ is a TV serial (阿公當好看連續劇).
-  - ref: 28
+  - ref: 27
     topic: vocab
     text: >
-      發神經 "go crazy": 神經 siinˇ ginˊ alone is an insult, as the list says (好恬恬就罵人，發麼个神經？). 溫柔 vunˊ iuˇ in line 29 is
+      發神經 "go crazy": 神經 siinˇ ginˊ alone is an insult, as the list says (好恬恬就罵人，發麼个神經？). 溫柔 vunˊ iuˇ in line 28 is
       "gentle".
   - ref: 30
     topic: vocab
     text: >
-      齊 ceˇ "complete": 東西帶齊吂？ "have you got everything?" is an official sentence. The open day at 阿舅's factory was
-      announced in 進修 39.
+      齊 ceˇ "complete": 東西帶齊吂？ "have you got everything?" The open day at 阿舅's factory was announced in 進修 39.
 
 new_words:
   - {hanzi: "遊覽", pinyin: "iuˇ lam", en: "go on a trip, tour"}
@@ -270,7 +268,6 @@ new_words:
   - {hanzi: "體育", pinyin: "tiˋ iugˋ", en: "physical education"}
   - {hanzi: "打夜學", pinyin: "daˋ ia hog", en: "go to night school"}
   - {hanzi: "美術", pinyin: "miˊ sud", en: "fine art"}
-  - {hanzi: "天分", pinyin: "tienˊ fun", en: "gift, talent"}
   - {hanzi: "畫家", pinyin: "fa gaˊ", en: "painter"}
   - {hanzi: "教育局", pinyin: "gau iugˋ kiug", en: "education office"}
   - {hanzi: "翕相館", pinyin: "hibˋ xiong gonˋ", en: "photo studio"}
