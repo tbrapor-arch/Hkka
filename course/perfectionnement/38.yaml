@@ -1,0 +1,321 @@
+id: 38
+genre: play
+title:
+  en: "songˊ]壁 | Spoil a son and he climbs the wall"
+  sx: {hanzi: "縱子[上", pinyin: "jiungˋ ziiˋ [ song"}
+review: false
+setting: >-
+  Friday 16 March 2029, the Earth God's birthday (the second day of the second lunar month). A troupe plays a short
+  comic piece in front of the shrine. Grandpa and Sam watch. On stage: a mother, her idle son A-vong, his elder
+  brother's wife, and a niece.
+names: [Sam, 阿公, 阿姆, 阿哥, 阿姑, 伯公下, 阿旺, 阿秀, 阿香, 阿旺哥]
+
+dialogue:
+  - n: 1
+    speaker: 阿公
+    en: "Today is the Earth God's birthday, and there's a play at the shrine. Look: the part that one is playing is the mother."
+    sx: {hanzi: "今晡日伯公生，伯公下有做戲。你看，該儕做个角色係阿姆。", pinyin: "gimˊ buˊ ngidˋ bagˋ gungˊ sangˊ, bagˋ gungˊ haˊ iuˊ zo hi. nˇ kon, ge saˇ zo ge gogˋ sedˋ he aˊ meˊ."}
+    check: true
+  - n: 2
+    speaker: 阿旺姆
+    en: "A-vong! It's noon, and you're still asleep?"
+    sx: {hanzi: "阿旺！當晝吔，你還在該睡目？", pinyin: "aˊ vong! dongˊ zu leˊ, nˇ hanˇ du ge soi mugˋ?"}
+  - n: 3
+    speaker: 阿旺
+    en: "(yawning) Mum, I'm hungry. What is there to eat?"
+    sx: {hanzi: "阿姆，𠊎肚飢吔，有麼个好食？", pinyin: "aˊ meˊ, ngaiˇ duˋ giˊ leˊ, iuˊ maˋ ge hoˋ siid?"}
+  - n: 4
+    speaker: 大嫂
+    en: "(coming in) When you come in, you greet your parents."
+    source: kaga115
+    sx: {hanzi: "入門愛同爺哀問安。", pinyin: "ngib munˇ oi tungˇ iaˇ oiˊ mun onˊ."}
+  - n: 5
+    speaker: 大嫂
+    en: "(pointing at A-vong) He's always going to other people's houses to eat for free."
+    source: kaga115
+    sx: {hanzi: "佢當輒去人屋下白食。", pinyin: "giˇ dongˊ jiab hi nginˇ vugˋ kaˊ pag siid."}
+  - n: 6
+    speaker: 大嫂
+    en: "Someone who eats for free is not much better than a robber! And he doesn't only eat for free, he keeps teasing people too."
+    sx: {hanzi: "白食个人同強盜差無幾多！佢毋單淨白食，還輒輒撩人。", pinyin: "pag siid ge nginˇ tungˇ kiongˇ to caˊ moˇ giˋ doˊ! giˇ mˇ danˊ qiang pag siid, hanˇ jiab jiab liauˇ nginˇ."}
+    check: true
+  - n: 7
+    speaker: 大嫂
+    en: "The way he talks keeps offending people."
+    source: kaga115
+    sx: {hanzi: "佢講話輒輒跌失人。", pinyin: "giˇ gongˋ fa jiab jiab diedˋ siidˋ nginˇ."}
+  - n: 8
+    speaker: 阿旺姆
+    en: "Nonsense! My son is a really good boy: when he sees someone busy, he helps without being asked."
+    sx: {hanzi: "你亂講！吾倈仔正經當有用，看人無閒會自動𢯭手。", pinyin: "nˇ lon gongˋ! ngaˊ lai eˋ ziin ginˊ dongˊ iuˊ iung, kon nginˇ moˇ hanˇ voi cii tung ten suˋ."}
+    check: true
+  - n: 9
+    speaker: 大嫂
+    en: "Parents who spoil a son do him harm."
+    source: kaga
+    sx: {hanzi: "做爺哀个縱子就害子。", pinyin: "zo iaˇ oiˊ ge jiungˋ ziiˋ qiu hoi ziiˋ."}
+  - n: 10
+    speaker: 阿旺
+    en: "Why are you looking so black?"
+    source: kaga115
+    sx: {hanzi: "你仰面色恁難看呢？", pinyin: "nˇ ngiongˋ mien sedˋ anˋ nanˇ kon neˇ?"}
+  - n: 11
+    speaker: 大嫂
+    en: "Your brother gives so much for the family. And you? Idling every day! Listen to your elders' advice!"
+    sx: {hanzi: "你阿哥為著家庭付出當多。你呢？逐日尞！愛聽世大人个勸話！", pinyin: "nˇ aˊ goˊ vi doˋ gaˊ tinˇ fu cudˋ dongˊ doˊ. nˇ neˇ? dagˋ ngidˋ liau! oi tangˊ sii tai nginˇ ge kien va!"}
+    check: true
+  - n: 12
+    speaker: 阿旺姆
+    en: "Don't scold him: he'll bear a grudge."
+    sx: {hanzi: "莫罵佢，佢會恨在心肝肚。", pinyin: "mog ma giˇ, giˇ voi hen coiˊ ximˊ gonˊ duˋ."}
+  - n: 13
+    speaker: 阿秀
+    en: "(running in) Auntie, I'm here! A-vong has a new grey jacket on today, and a bunch of flowers in his hand."
+    sx: {hanzi: "阿姑，𠊎來吔！阿旺哥今晡日著一領老鼠色个新衫，手項還擎等一串花。", pinyin: "aˊ guˊ, ngaiˇ loiˇ leˊ! aˊ vong goˊ gimˊ buˊ ngidˋ zogˋ idˋ liangˊ lo cuˋ sedˋ ge xinˊ samˊ, suˋ hong hanˇ kiaˇ denˋ idˋ con faˊ."}
+    check: true
+  - n: 14
+    speaker: 阿旺姆
+    en: "My niece is here! A-xiu, what did you say?"
+    sx: {hanzi: "吾姪女來吔！阿秀，你講麼个？", pinyin: "ngaˊ ciid ngˋ loiˇ leˊ! aˊ xiu, nˇ gongˋ maˋ ge?"}
+  - n: 15
+    speaker: 阿秀
+    en: "All dressed up like that: where is the date?"
+    source: kaga115
+    sx: {hanzi: "著恁靚，愛去哪約會？", pinyin: "zogˋ anˋ jiangˊ, oi hi nai iogˋ fi?"}
+  - n: 16
+    speaker: 阿旺
+    en: "(practising, to the flowers) I'd like to ask you out to dinner. May I?"
+    source: kaga115
+    sx: {hanzi: "想湊你食飯，做得無？", pinyin: "xiongˋ ceu nˇ siid fan, zo dedˋ moˇ?"}
+  - n: 17
+    speaker: 阿秀
+    en: "Practise more and it will come easily."
+    source: kaga115
+    sx: {hanzi: "多練習就會熟絡。", pinyin: "doˊ lien xib qiu voi sug log."}
+  - n: 18
+    speaker: 阿旺姆
+    en: "Whose daughter? What's her name? I must go and find out."
+    sx: {hanzi: "麼人个妹仔？名姓安到麼个？𠊎愛去打探看啊。", pinyin: "maˋ nginˇ ge moi eˋ? miangˇ xiang onˊ do maˋ ge? ngaiˇ oi hi daˋ tamˋ kon a."}
+    check: true
+  - n: 19
+    speaker: 阿秀
+    en: "I'll give you twenty seconds to think."
+    source: kaga115
+    sx: {hanzi: "𠊎分你二十秒想一下仔。", pinyin: "ngaiˇ bunˊ nˇ ngi siib meuˋ xiongˋ idˋ ha eˋ."}
+  - n: 20
+    speaker: 阿旺
+    en: "It's A-hiong from up the road. She teaches at the school. The two of us are getting closer and closer."
+    sx: {hanzi: "係上背个阿香。佢在學校教人讀書。𠊎兩儕緊行緊近。", pinyin: "he song boi ge aˊ hiongˊ. giˇ coiˊ hog gauˋ gauˊ nginˇ tug suˊ. ngaiˇ liongˋ saˇ ginˋ hangˇ ginˋ kiunˊ."}
+    check: true
+  - n: 21
+    speaker: 大嫂
+    en: "A-hiong is such a promising girl: why would she choose you?"
+    sx: {hanzi: "阿香恁有出息，仰會選擇你？", pinyin: "aˊ hiongˊ anˋ iuˊ cudˋ xidˋ, ngiongˋ voi xienˋ ced nˇ?"}
+    check: true
+  - n: 22
+    speaker: 阿旺
+    en: "Everyone is equal."
+    source: kaga115
+    sx: {hanzi: "逐儕人都係平等个。", pinyin: "dagˋ saˇ nginˇ du he pinˇ denˋ ge."}
+  - n: 23
+    speaker: 阿旺
+    en: "Apart from having no job, I'm fine in every way!"
+    sx: {hanzi: "除忒無頭路以外，𠊎麼个都好！", pinyin: "cuˇ tedˋ moˇ teuˇ lu iˊ ngoi, ngaiˇ maˋ ge du hoˋ!"}
+    check: true
+  - n: 24
+    speaker: 大嫂
+    en: "No job, no money; and with no money, how do you take a wife?"
+    sx: {hanzi: "無頭路就無錢，無錢仰般討餔娘？", pinyin: "moˇ teuˇ lu qiu moˇ qienˇ, moˇ qienˇ ngiongˋ banˊ toˋ buˊ ngiongˇ?"}
+  - n: 25
+    speaker: 大嫂
+    en: "This is something you must get on with and do properly!"
+    source: kaga115
+    sx: {hanzi: "這件事，你愛抽間做好來！", pinyin: "iaˋ kien sii, nˇ oi cuˊ gienˊ zo hoˋ loiˇ!"}
+  - n: 26
+    speaker: 阿旺
+    en: "Once it's said, it must be done at once."
+    source: kaga115
+    sx: {hanzi: "講吔就愛遽遽行動。", pinyin: "gongˋ leˊ qiu oi giagˋ giagˋ hangˇ tung."}
+  - n: 27
+    speaker: 阿旺
+    en: "Tomorrow I'm going to look for a job. Mum, I owe you so much for all these years. When I've made money, I'll build you a three-storey house to live in."
+    sx: {hanzi: "天光日𠊎就去尋頭路。阿姆，這兜年𠊎虧欠你當多。等𠊎賺著錢，起一棟三棧樓个屋分你歇。", pinyin: "tienˊ gongˊ ngidˋ ngaiˇ qiu hi qimˇ teuˇ lu. aˊ meˊ, iaˋ deuˊ ngienˇ ngaiˇ kuiˊ kiam nˇ dongˊ doˊ. denˋ ngaiˇ con doˋ qienˇ, hiˋ idˋ dung samˊ zan leuˇ ge vugˋ bunˊ nˇ hed."}
+    check: true
+  - n: 28
+    speaker: 阿旺姆
+    en: "(to the audience, proudly) He gets things done."
+    source: kaga115
+    sx: {hanzi: "佢做事當煞手。", pinyin: "giˇ zo se dongˊ sadˋ suˋ."}
+  - n: 29
+    speaker: 大嫂
+    en: "A moment ago he was hiding in his room, not daring to show his face, and now he has changed so fast: it's frightening!"
+    sx: {hanzi: "頭先佢還囥在間肚毋敢見人，這下變到恁遽，還得人畏哦！", pinyin: "teuˇ xienˊ giˇ hanˇ kong coiˊ gienˊ duˋ mˇ gamˋ gien nginˇ, iaˋ ha bien do anˋ giagˋ, hanˇ dedˋ nginˇ vi oˊ!"}
+    check: true
+  - n: 30
+    speaker: 阿公
+    en: "The play is over. The children are scrambling for the red rice cakes. Sam, take all of these home with you."
+    sx: {hanzi: "戲做煞吔。細人仔相爭去拿紅粄。Sam，這通棚分你帶轉去。", pinyin: "hi zo sod leˊ. se nginˇ eˋ xiongˊ zangˊ hi naˊ fungˇ banˋ. Sam, iaˋ tungˊ pangˇ bunˊ nˇ dai zonˋ hi."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is an official sentence: 縱子上壁 "spoil a son and he climbs the wall". 縱子 jiungˋ ziiˋ is "spoil one's
+      child"; line 9 has the longer saying 做爺哀个縱子就害子. This is a short comic piece in the style of 採茶戲, written for
+      the course; real 採茶戲 is sung.
+  - ref: 1
+    topic: vocab
+    text: >
+      角色 gogˋ sedˋ "role, part" (佢這擺做个角色係警察). 伯公下 is the Earth God's shrine; 伯公生 is his birthday (進修 37).
+  - ref: 4
+    topic: vocab
+    text: >
+      問安 mun onˊ "pay one's respects, ask after someone's health".
+  - ref: 5
+    topic: vocab
+    text: >
+      白食 pag siid "eat for free, sponge". 強盜 kiongˇ to in line 6 is "robber".
+  - ref: 6
+    topic: grammar
+    text: >
+      毋單淨 … 還 … mˇ danˊ qiang … hanˇ "not only … but also". 撩 liauˇ "tease, provoke" (佢在學校輒輒撩人，故所無麼个朋友). 跌失人 diedˋ
+      siidˋ nginˇ in line 7 is "offend people".
+  - ref: 8
+    topic: vocab
+    text: >
+      有用 iuˊ iung, of a child: "good, sensible, a credit to the family" (厥倈仔正經當有用). 自動 cii tung "of one's own
+      accord; automatic" (這冷氣會自動關忒).
+  - ref: 11
+    topic: vocab
+    text: >
+      付出 fu cudˋ "give, put in (effort, money)". 勸話 kien va "advice, words of warning". 世大人 are the elders of the
+      family.
+  - ref: 12
+    topic: vocab
+    text: >
+      恨 hen "hate, bear a grudge": 恨在心肝肚 "keep it in one's heart" (佢分頭家罵，恨在心肝肚).
+  - ref: 13
+    topic: vocab
+    text: >
+      老鼠色 lo cuˋ sedˋ "grey", literally "mouse colour" (象仔个色係老鼠色). 串 con is the measure for things on a string or in
+      a bunch.
+  - ref: 14
+    topic: vocab
+    text: >
+      姪女 ciid ngˋ "niece (a brother's daughter)". 大嫂 tai soˋ, the speaker's name in this play, is "elder brother's
+      wife".
+  - ref: 15
+    topic: vocab
+    text: >
+      約會 iogˋ fi "date, appointment". 湊 ceu in line 16 is "invite, ask someone along" (湊你去臺北). 熟絡 sug log in line 17
+      is "practised, at ease with it" (捉雞仔佢當熟絡).
+  - ref: 18
+    topic: vocab
+    text: >
+      名姓 miangˇ xiang "name" (老哩！連自家个名姓就毋識). 打探 daˋ tamˋ "find out, make enquiries" (恁久無厥消息，你去打探看啊). 秒 meuˋ in line
+      19 is "second".
+  - ref: 20
+    topic: grammar
+    text: >
+      緊 … 緊 … ginˋ … ginˋ "more and more": 緊行緊近 "closer and closer". 上背 song boi "up the road, to the north"
+      (今晡日上背叔婆做生日). 教人 gauˊ nginˇ "teach" (教人讀書).
+  - ref: 21
+    topic: vocab
+    text: >
+      出息 cudˋ xidˋ "promise, a good future": 有出息 "promising". 選擇 xienˋ ced "choose". 平等 pinˇ denˋ in line 22 is
+      "equal".
+  - ref: 23
+    topic: grammar
+    text: >
+      除忒 … 以外 cuˇ tedˋ … iˊ ngoi "apart from …, except for …" (除忒工作以外，家庭生活乜盡重要). 除忒 alone is in 進修 36.
+  - ref: 25
+    topic: vocab
+    text: >
+      抽間 cuˊ gienˊ "make the time; get on with it". 行動 hangˇ tung in line 26 is "act, action"; with 動 tungˊ it is
+      "move about" (厥腳行動無方便).
+  - ref: 27
+    topic: vocab
+    text: >
+      虧欠 kuiˊ kiam "owe, be in someone's debt". 棧 zan is the measure for the floors of a building (這屋仔正兩棧樓定定).
+  - ref: 28
+    topic: vocab
+    text: >
+      煞手 sadˋ suˋ "decisive, quick to get things done".
+  - ref: 29
+    topic: vocab
+    text: >
+      見人 gien nginˇ "face people, show one's face" (佢囥在間肚，毋敢見人). 得人畏 dedˋ nginˇ vi "frightening".
+  - ref: 30
+    topic: vocab
+    text: >
+      相爭 xiongˊ zangˊ "fight over, scramble for" (佢兩姊妹相爭愛去市場). 通棚 tungˊ pangˇ "all of it, the whole lot" (這通棚分你帶轉去).
+
+new_words:
+  - {hanzi: "角色", pinyin: "gogˋ sedˋ", en: "role, part"}
+  - {hanzi: "問安", pinyin: "mun onˊ", en: "pay one's respects"}
+  - {hanzi: "白食", pinyin: "pag siid", en: "eat for free, sponge"}
+  - {hanzi: "強盜", pinyin: "kiongˇ to", en: "robber"}
+  - {hanzi: "撩", pinyin: "liauˇ", en: "tease, provoke"}
+  - {hanzi: "跌失人", pinyin: "diedˋ siidˋ nginˇ", en: "offend people"}
+  - {hanzi: "有用", pinyin: "iuˊ iung", en: "(of a child) good, sensible; useful"}
+  - {hanzi: "自動", pinyin: "cii tung", en: "of one's own accord; automatic"}
+  - {hanzi: "縱子", pinyin: "jiungˋ ziiˋ", en: "spoil one's child"}
+  - {hanzi: "難看", pinyin: "nanˇ kon", en: "ugly; (of a face) black, sour"}
+  - {hanzi: "付出", pinyin: "fu cudˋ", en: "give, put in (effort, money)"}
+  - {hanzi: "勸話", pinyin: "kien va", en: "advice, words of warning"}
+  - {hanzi: "恨", pinyin: "hen", en: "hate, bear a grudge"}
+  - {hanzi: "老鼠色", pinyin: "lo cuˋ sedˋ", en: "grey"}
+  - {hanzi: "串", pinyin: "con", en: "(measure) string, bunch"}
+  - {hanzi: "姪女", pinyin: "ciid ngˋ", en: "niece (a brother's daughter)"}
+  - {hanzi: "約會", pinyin: "iogˋ fi", en: "date, appointment"}
+  - {hanzi: "湊", pinyin: "ceu", en: "invite, ask along; gather"}
+  - {hanzi: "熟絡", pinyin: "sug log", en: "practised, at ease"}
+  - {hanzi: "名姓", pinyin: "miangˇ xiang", en: "name"}
+  - {hanzi: "打探", pinyin: "daˋ tamˋ", en: "find out, make enquiries"}
+  - {hanzi: "秒", pinyin: "meuˋ", en: "second"}
+  - {hanzi: "上背", pinyin: "song boi", en: "up the road, to the north"}
+  - {hanzi: "教人", pinyin: "gauˊ nginˇ", en: "teach"}
+  - {hanzi: "出息", pinyin: "cudˋ xidˋ", en: "promise, a good future"}
+  - {hanzi: "選擇", pinyin: "xienˋ ced", en: "choose"}
+  - {hanzi: "平等", pinyin: "pinˇ denˋ", en: "equal"}
+  - {hanzi: "抽間", pinyin: "cuˊ gienˊ", en: "make the time, get on with it"}
+  - {hanzi: "行動", pinyin: "hangˇ tung", en: "act; action"}
+  - {hanzi: "虧欠", pinyin: "kuiˊ kiam", en: "owe, be in someone's debt"}
+  - {hanzi: "棧", pinyin: "zan", en: "(measure) floor, storey"}
+  - {hanzi: "煞手", pinyin: "sadˋ suˋ", en: "decisive, quick to get things done"}
+  - {hanzi: "見人", pinyin: "gien nginˇ", en: "face people, show one's face"}
+  - {hanzi: "得人畏", pinyin: "dedˋ nginˇ vi", en: "frightening"}
+  - {hanzi: "相爭", pinyin: "xiongˊ zangˊ", en: "fight over, scramble for"}
+  - {hanzi: "通棚", pinyin: "tungˊ pangˇ", en: "all of it, the whole lot"}
+
+exercises:
+  translate:
+    - en: "Teach people to read."
+      source: kaga115
+      sx: {hanzi: "教人讀書。", pinyin: "gauˊ nginˇ tug suˊ."}
+    - en: "He is hiding in his room and doesn't dare show his face."
+      source: kaga115
+      sx: {hanzi: "佢囥在間肚，毋敢見人。", pinyin: "giˇ kong coiˊ gienˊ duˋ, mˇ gamˋ gien nginˇ."}
+    - en: "Today the old lady up the road has her birthday."
+      source: kaga
+      sx: {hanzi: "今晡日上背叔婆做生日。", pinyin: "gimˊ buˊ ngidˋ song boi sugˋ poˇ zo sangˊ ngidˋ."}
+    - en: "This house has only two floors."
+      source: kaga115
+      sx: {hanzi: "這屋仔正兩棧樓定定。", pinyin: "iaˋ vugˋ eˇ zang liongˋ zan leuˇ tin tin."}
+    - en: "He is a practised hand at catching chickens."
+      source: kaga115
+      sx: {hanzi: "捉雞仔佢當熟絡。", pinyin: "zogˋ gieˊ eˋ giˇ dongˊ sug log."}
+  fill:
+    - en: "The two sisters are fighting over who goes to the market."
+      sx: {hanzi: "佢兩姊妹___愛去市場。", pinyin: "giˇ liongˋ jiˋ moi ___ oi hi sii congˇ.", answer_hanzi: "相爭", answer: "xiongˊ zangˊ"}
+    - en: "Take all of this home with you."
+      sx: {hanzi: "這___分你帶轉去。", pinyin: "iaˋ ___ bunˊ nˇ dai zonˋ hi.", answer_hanzi: "通棚", answer: "tungˊ pangˇ"}
+    - en: "His son really is a good boy."
+      sx: {hanzi: "厥倈仔正經當___。", pinyin: "giaˊ lai eˋ ziin ginˊ dongˊ ___.", answer_hanzi: "有用", answer: "iuˊ iung"}
+    - en: "He gives a great deal for his family."
+      sx: {hanzi: "佢為著家庭___當多。", pinyin: "giˇ vi doˋ gaˊ tinˇ ___ dongˊ doˊ.", answer_hanzi: "付出", answer: "fu cudˋ"}
+    - en: "When you come in, you greet your parents."
+      sx: {hanzi: "入門愛同爺哀___。", pinyin: "ngib munˇ oi tungˇ iaˇ oiˊ ___.", answer_hanzi: "問安", answer: "mun onˊ"}
+
+audio: []
