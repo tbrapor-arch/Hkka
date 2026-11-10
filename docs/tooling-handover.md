@@ -98,7 +98,7 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
 - Then run `make lint` on all lessons. If the new rule gives a false alarm, make the pattern narrower.
 
 ## First batch with the tooling (P36–P42, 10 Nov 2026)
-- Seven lessons, 229 new words (38 per lesson; P1–P35 averaged 35), 40% of the lines are exact official sentences.
+- Seven lessons, 231 new words (38.5 per lesson; P1–P35 averaged 35), 40% of the lines are exact official sentences.
 - Each lesson took three or four runs of the draft tool and lint. No database query was needed while writing, except
   to check a phrase that was not official.
 - 42 planned words were not taught. `course/batches/P36.md` says why, word by word.
