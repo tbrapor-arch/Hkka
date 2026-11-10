@@ -59,8 +59,8 @@ dialogue:
   - n: 10
     speaker: 阿蘭嫂
     en: "阿傑, don't talk and eat at the same time: it's easy to get distracted."
-    sx: {hanzi: "阿傑，莫一頭食，一頭講話，容易分心。", pinyin: "aˊ kiedˋ, mog idˋ teuˇ siid, idˋ teuˇ gongˋ fa, iungˇ i funˊ ximˊ."}
-    hl: {hanzi: "阿傑，莫一頭食，一頭講話，容易分心。", pinyin: "a+ kied, mogˋ rhid teu shidˋ, rhid teu gongˊ faˇ, rhung rhiˇ funˋ simˋ."}
+    sx: {hanzi: "阿傑，莫一頭食，一頭講話，容易分心。", pinyin: "aˊ kied, mog idˋ teuˇ siid, idˋ teuˇ gongˋ fa, iungˇ i funˊ ximˊ."}
+    hl: {hanzi: "阿傑，莫一頭食，一頭講話，容易分心。", pinyin: "a+ kiedˋ, mogˋ rhid teu shidˋ, rhid teu gongˊ faˇ, rhung rhiˇ funˋ simˋ."}
   - n: 11
     speaker: Sam
     en: "I… I don't know."
@@ -181,8 +181,8 @@ exercises:
       sx: {hanzi: "豆腐乳係用豆腐做个。", pinyin: "teu fu iˊ he iung teu fu zo ge."}
       hl: {hanzi: "豆腐乳係用豆腐做个。", pinyin: "teu+ fu+ rhi heˇ rhung+ teu+ fu+ zoˇ gaiˇ."}
     - en: "阿傑 works at a company in 新竹 now? — No, at 阿舅's factory."
-      sx: {hanzi: "阿傑這下在新竹个公司做事無？——毋係，在阿舅个工廠。", pinyin: "aˊ kiedˋ iaˋ ha coiˊ xinˊ zugˋ ge gungˊ siiˊ zo se moˇ? — mˇ he, coiˊ aˊ kiuˊ ge gungˊ congˋ."}
-      hl: {hanzi: "阿傑這下在新竹个公司做事無？——毋係，在阿舅个工廠。", pinyin: "a+ kied liaˊ ha+ coiˋ sinˋ zhug gaiˇ gungˋ siiˋ zoˇ she+ mo? — m heˇ, coiˋ a+ kiuˋ gaiˇ gungˋ chong."}
+      sx: {hanzi: "阿傑這下在新竹个公司做事無？——毋係，在阿舅个工廠。", pinyin: "aˊ kied iaˋ ha coiˊ xinˊ zugˋ ge gungˊ siiˊ zo se moˇ? — mˇ he, coiˊ aˊ kiuˊ ge gungˊ congˋ."}
+      hl: {hanzi: "阿傑這下在新竹个公司做事無？——毋係，在阿舅个工廠。", pinyin: "a+ kiedˋ liaˊ ha+ coiˋ sinˋ zhug gaiˇ gungˋ siiˋ zoˇ she+ mo? — m heˇ, coiˋ a+ kiuˋ gaiˇ gungˋ chong."}
     - en: "Studying and playing on the computer at the same time, you get distracted easily."
       sx: {hanzi: "一頭讀書，一頭搞電腦，容易分心。", pinyin: "idˋ teuˇ tug suˊ, idˋ teuˇ gauˋ tien noˋ, iungˇ i funˊ ximˊ."}
       hl: {hanzi: "一頭讀書，一頭搞電腦，容易分心。", pinyin: "rhid teu tugˋ shuˋ, rhid teu gauˊ tien+ noˊ, rhung rhiˇ funˋ simˋ."}
@@ -199,8 +199,8 @@ exercises:
       hl: {hanzi: "糜傍菜脯，當容易食。", pinyin: "moi bongˊ coiˇ buˊ, dongˋ rhung rhiˇ shidˋ."}
       check: true
     - en: "阿傑's pay isn't much, but he likes it here."
-      sx: {hanzi: "阿傑个薪水無幾多，毋過佢好在這做事。", pinyin: "aˊ kiedˋ ge xinˊ suiˋ moˇ giˋ doˊ, mˇ go giˇ hau coiˊ iaˋ zo se."}
-      hl: {hanzi: "阿傑个薪水無幾多，毋過佢好在這做事。", pinyin: "a+ kied gaiˇ sinˋ shuiˊ mo giˊ doˋ, m goˇ gi hauˇ coiˋ liaˊ zoˇ she+."}
+      sx: {hanzi: "阿傑个薪水無幾多，毋過佢好在這做事。", pinyin: "aˊ kied ge xinˊ suiˋ moˇ giˋ doˊ, mˇ go giˇ hau coiˊ iaˋ zo se."}
+      hl: {hanzi: "阿傑个薪水無幾多，毋過佢好在這做事。", pinyin: "a+ kiedˋ gaiˇ sinˋ shuiˊ mo giˊ doˋ, m goˇ gi hauˇ coiˋ liaˊ zoˇ she+."}
       check: true
   fill:
     - en: "Better and better."

@@ -56,7 +56,7 @@ dialogue:
   - n: 11
     speaker: 阿英
     en: "How did 阿傑's engagement go?"
-    sx: {hanzi: "阿傑過定仰般？", pinyin: "aˊ kiedˋ go tin ngiongˋ banˊ?"}
+    sx: {hanzi: "阿傑過定仰般？", pinyin: "aˊ kied go tin ngiongˋ banˊ?"}
   - n: 12
     speaker: Sam
     en: "Very lively. A-khim served the tea, and everyone stood up and held the cup with both hands."
@@ -64,7 +64,7 @@ dialogue:
   - n: 13
     speaker: Sam
     en: "阿傑 was so nervous his hands shook, and the ring fell on the floor."
-    sx: {hanzi: "阿傑緊張到手都會顫，禁指跌落地泥。", pinyin: "aˊ kiedˋ ginˋ zongˊ do suˋ du voi zunˊ, gim ziiˋ diedˋ log ti naiˇ."}
+    sx: {hanzi: "阿傑緊張到手都會顫，禁指跌落地泥。", pinyin: "aˊ kied ginˋ zongˊ do suˋ du voi zunˊ, gim ziiˋ diedˋ log ti naiˇ."}
   - n: 14
     speaker: 阿明
     en: "And A-khim's younger sister? Did she think the Frenchman was handsome?"

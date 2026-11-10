@@ -34,8 +34,8 @@ dialogue:
   - n: 5
     speaker: 阿婆
     en: "In the old days, a long time ago, 阿太's family was very poor. He had no land at all. So he went up the mountain with nothing but a mattock."
-    sx: {hanzi: "頭擺頭擺，阿太屋下當苦，一垤地都無。佢斯擐一支钁頭上山。", pinyin: "teuˇ baiˋ teuˇ baiˋ, aˊ tai vugˋ kaˊ dongˊ kuˋ, idˋ de ti du moˇ. giˇ siiˊ kuan idˋ giˊ giogˋ teuˇ songˊ sanˊ."}
-    hl: {hanzi: "頭擺頭擺，阿太屋下當苦，一垤地都無。佢斯擐一支钁頭上山。", pinyin: "teu baiˊ teu baiˊ, a+ taiˇ vug haˋ dongˋ kuˊ, rhid deˇ ti+ du+ mo. gi siiˋ kuan+ rhid giˋ giog teu shongˋ sanˋ."}
+    sx: {hanzi: "頭擺頭擺，阿太屋下當苦，一垤地都無。佢斯擐一支钁頭上山。", pinyin: "teuˇ baiˋ teuˇ baiˋ, aˊ tai vugˋ kaˊ dongˊ kuˋ, idˋ de ti du moˇ. giˇ siiˇ kuan idˋ giˊ giogˋ teuˇ songˊ sanˊ."}
+    hl: {hanzi: "頭擺頭擺，阿太屋下當苦，一垤地都無。佢斯擐一支钁頭上山。", pinyin: "teu baiˊ teu baiˊ, a+ taiˇ vug haˋ dongˋ kuˊ, rhid deˇ ti+ du+ mo. gi sii+ kuan+ rhid giˋ giog teu shongˋ sanˋ."}
     check: true
   - n: 6
     speaker: 阿婆
@@ -70,8 +70,8 @@ dialogue:
   - n: 12
     speaker: 阿婆
     en: "Right. Light the incense, burn the paper money for the ancestors. Once we've paid our respects, we'll eat the 艾粄."
-    sx: {hanzi: "好吔，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ bunˊ zuˋ xienˊ. bai hoˋ, siiˊ siid ngie banˋ."}
-    hl: {hanzi: "好咧，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ bunˋ zuˊ sienˋ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
+    sx: {hanzi: "好吔，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˋ leˊ, seuˊ hiongˊ, seuˊ ngiunˇ ziiˋ bunˊ zuˋ xienˊ. bai hoˋ, siiˇ siid ngie banˋ."}
+    hl: {hanzi: "好咧，燒香，燒銀紙分祖先。拜好，斯食艾粄。", pinyin: "hoˊ leˋ, shauˋ hiongˋ, shauˋ ngiun zhiˊ bunˋ zuˊ sienˋ. baiˇ hoˊ, sii+ shidˋ ngieˇ banˊ."}
   - n: 13
     speaker: 阿明
     en: "艾粄! I'm starving!"
@@ -100,7 +100,7 @@ notes:
     topic: grammar
     text: >
       Storytelling. 頭擺頭擺 "long, long ago", 頭擺 (lesson 20) said twice, is how Grandma starts; the doubled form has no
-      official example and is marked for checking. Then the story moves with little words: 斯 siiˊ "so, and then",
+      official example and is marked for checking. Then the story moves with little words: 斯 siiˇ "so, and then",
       the storyteller's 就 (無斯會 "or else"; but 斯會 can also be 斯 + 會 "can", as in 麼个斯會 "can do anything"); 先…過後正… "first…, after that…" (line 6);
       嗄 (lesson 41) for the blow nobody expected (line 7); 後來 "later, after that" (lines 8, 9).
   - ref: 5
@@ -134,7 +134,7 @@ new_words:
   - {hanzi: 苦, pinyin: "kuˋ", en: "poor, hard up", hl: {hanzi: 苦, pinyin: "kuˊ"}}
   - {hanzi: 垤, pinyin: "de", en: "(classifier: a plot, a lump)", hl: {hanzi: 垤, pinyin: "deˇ"}}
   - {hanzi: 地, pinyin: "ti", en: "land, ground", hl: {hanzi: 地, pinyin: "ti+"}}
-  - {hanzi: 斯, pinyin: "siiˊ", en: "so, and then (= 就)", hl: {hanzi: 斯, pinyin: "siiˋ"}}
+  - {hanzi: 斯, pinyin: "siiˇ", en: "so, and then (= 就)", hl: {hanzi: 斯, pinyin: "sii+"}}
   - {hanzi: 钁頭, pinyin: "giogˋ teuˇ", en: "mattock, hoe", hl: {hanzi: 钁頭, pinyin: "giog teu"}}
   - {hanzi: 開山打林, pinyin: "koiˊ sanˊ daˋ naˇ", en: "clear new land (hill and forest)", hl: {hanzi: 開山打林, pinyin: "koiˋ sanˋ daˊ na"}}
   - {hanzi: 茶樹, pinyin: "caˇ su", en: "tea bush", hl: {hanzi: 茶樹, pinyin: "ca shu+"}}
@@ -178,8 +178,8 @@ exercises:
       source: kaga
   fill:
     - en: "We pay our respects first, and then we eat."
-      sx: {hanzi: "先拜，___食。", pinyin: "xienˊ bai, ___ siid.", answer_hanzi: "斯", answer: "siiˊ"}
-      hl: {hanzi: "先拜，___食。", pinyin: "senˋ baiˇ, ___ shidˋ.", answer_hanzi: "斯", answer: "siiˋ"}
+      sx: {hanzi: "先拜，___食。", pinyin: "xienˊ bai, ___ siid.", answer_hanzi: "斯", answer: "siiˇ"}
+      hl: {hanzi: "先拜，___食。", pinyin: "senˋ baiˇ, ___ shidˋ.", answer_hanzi: "斯", answer: "sii+"}
     - en: "Whose grave is this?"
       sx: {hanzi: "這係麼人个___？", pinyin: "iaˋ he maˋ nginˇ ge ___?", answer_hanzi: "墓", answer: "mu"}
       hl: {hanzi: "這係麼人个___？", pinyin: "liaˊ heˇ maˊ ngin gaiˇ ___?", answer_hanzi: "墓", answer: "muˇ"}

@@ -30,8 +30,8 @@ dialogue:
   - n: 4
     speaker: 阿舅
     en: "This is 阿蘭嫂: she works very hard, and she's been here thirty years. That's 阿傑: he only started half a year ago. Your colleagues."
-    sx: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年吔。該係阿傑，佢正來半年。你个同事。", pinyin: "iaˋ he aˊ lanˇ soˋ, giˇ zo se dongˊ ngin ziinˊ, coiˊ iaˋ zo samˊ siib ngienˇ leˊ. ge he aˊ kiedˋ, giˇ zang loiˇ ban ngienˇ. nˇ ge tungˇ sii."}
-    hl: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年咧。該係阿傑，佢正來半年。你个同事。", pinyin: "liaˊ heˇ a+ lan soˊ, gi zoˇ she+ dongˋ ngin+ zhinˋ, coiˋ liaˊ zoˇ samˋ shibˋ ngien leˋ. gai heˇ a+ kied, gi zhangˇ loi banˇ ngien. ngi gaiˇ tung sii+."}
+    sx: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年吔。該係阿傑，佢正來半年。你个同事。", pinyin: "iaˋ he aˊ lanˇ soˋ, giˇ zo se dongˊ ngin ziinˊ, coiˊ iaˋ zo samˊ siib ngienˇ leˊ. ge he aˊ kied, giˇ zang loiˇ ban ngienˇ. nˇ ge tungˇ sii."}
+    hl: {hanzi: "這係阿蘭嫂，佢做事當認真，在這做三十年咧。該係阿傑，佢正來半年。你个同事。", pinyin: "liaˊ heˇ a+ lan soˊ, gi zoˇ she+ dongˋ ngin+ zhinˋ, coiˋ liaˊ zoˇ samˋ shibˋ ngien leˋ. gai heˇ a+ kiedˋ, gi zhangˇ loi banˇ ngien. ngi gaiˇ tung sii+."}
   - n: 5
     speaker: 阿傑
     en: "Hi, Sam! Anything you don't know, just ask me."
@@ -190,8 +190,8 @@ exercises:
       hl: {hanzi: "四點起來，𠊎毋習慣。", pinyin: "siˇ diamˊ hiˊ loi, ngai m sibˋ guanˇ."}
       check: true
     - en: "Every day 阿傑 has a bowl of 粄條 for lunch."
-      sx: {hanzi: "阿傑逐日食晝都會食一碗粄條。", pinyin: "aˊ kiedˋ dagˋ ngidˋ siid zu du voi siid idˋ vonˋ banˋ tiauˇ."}
-      hl: {hanzi: "阿傑逐日食晝都會食一碗粄條。", pinyin: "a+ kied dag ngid shidˋ zhiuˇ du+ voi+ shidˋ rhid vonˊ banˊ tiau."}
+      sx: {hanzi: "阿傑逐日食晝都會食一碗粄條。", pinyin: "aˊ kied dagˋ ngidˋ siid zu du voi siid idˋ vonˋ banˋ tiauˇ."}
+      hl: {hanzi: "阿傑逐日食晝都會食一碗粄條。", pinyin: "a+ kiedˋ dag ngid shidˋ zhiuˇ du+ voi+ shidˋ rhid vonˊ banˊ tiau."}
   fill:
     - en: "You'll get used to it."
       sx: {hanzi: "你會___。", pinyin: "nˇ voi ___.", answer_hanzi: "慣勢", answer: "guan se"}

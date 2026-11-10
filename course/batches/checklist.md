@@ -249,6 +249,10 @@ sentences / MOE examples. All findings below were fixed unless marked "left".
   mended himself in P37: now "last week".
 - **Notes:** MOE gives 粄圓 as the Hailu word, not "the other accents"; 落 has three readings; a course line quoted in
   a note says which lesson it is from.
-- Left: 傑 is read kiedˋ in 14 places of the course and kied in 6 (MOE has only kied). To settle for the whole course.
+- Settled on 11 Nov 2026 for the whole course, from the MOE dictionary (the lists have neither word alone):
+  斯 "then, so" is siiˇ in Sixian and sii+ in Hailu (siiˊ / siiˋ is only 斯文; kaga115 無斯 moˇ siiˇ agrees): 9 Sixian
+  and 4 Hailu lines, the note, the exercise and the new word of lesson 65 corrected. 傑 is kied in Sixian and kiedˋ in
+  Hailu: 阿傑 corrected in 17 Sixian and 6 Hailu lines. 瓦斯 keeps ngaˋ siiˊ (list reading).
+  The synthetic audio of these lines in Hkka-private is now out of date: re-run `tools/tts.py` there.
 - Checked and found right: every other reading of 著, 好, 落, 行, 下, 上, 會, 分, 正, 喊, 歇, 還, 倒, 降, 兩, 煞; the 229
   glosses; every sentence quoted in a note; all weekdays and lunar dates.

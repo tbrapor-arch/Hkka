@@ -12,7 +12,7 @@ dialogue:
 - n: 1
   speaker: 阿舅
   en: Sam, you made it! 阿傑's so nervous his hands are shaking.
-  sx: {hanzi: Sam，你來吔！阿傑緊張到手都會顫。, pinyin: 'Sam, nˇ loiˇ leˊ! aˊ kiedˋ ginˋ zongˊ do suˋ du voi zunˊ.'}
+  sx: {hanzi: Sam，你來吔！阿傑緊張到手都會顫。, pinyin: 'Sam, nˇ loiˇ leˊ! aˊ kied ginˋ zongˊ do suˋ du voi zunˊ.'}
 - n: 2
   speaker: 阿傑
   en: I'm… not nervous.
@@ -102,7 +102,7 @@ dialogue:
 - n: 21
   speaker: 陳伯
   en: 阿傑, I'm giving A-khim into your care. Love her all your life.
-  sx: {hanzi: 阿傑，阿琴交分你吔，你愛惜佢一生人。, pinyin: 'aˊ kiedˋ, aˊ kimˇ gauˊ bunˊ nˇ leˊ, nˇ oi xiagˋ giˇ idˋ senˊ nginˇ.'}
+  sx: {hanzi: 阿傑，阿琴交分你吔，你愛惜佢一生人。, pinyin: 'aˊ kied, aˊ kimˇ gauˊ bunˊ nˇ leˊ, nˇ oi xiagˋ giˇ idˋ senˊ nginˇ.'}
 - n: 22
   speaker: 阿傑
   en: I will. I promise.
@@ -110,7 +110,7 @@ dialogue:
 - n: 23
   speaker: 阿琴个阿姆
   en: 阿傑, you're an honest man. A-khim is lucky.
-  sx: {hanzi: 阿傑，你係老實人，阿琴好命。, pinyin: 'aˊ kiedˋ, nˇ he loˋ siid nginˇ, aˊ kimˇ hoˋ miang.'}
+  sx: {hanzi: 阿傑，你係老實人，阿琴好命。, pinyin: 'aˊ kied, nˇ he loˋ siid nginˇ, aˊ kimˇ hoˋ miang.'}
 - n: 24
   speaker: 阿琴个阿姆
   en: She's our eldest daughter, and we've rather spoilt her.

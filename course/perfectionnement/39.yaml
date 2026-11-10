@@ -130,7 +130,7 @@ dialogue:
   - n: 26
     speaker: 阿舅
     en: "I get in a little earlier than the workers every day. The best thing would be for a young person to take over. A-kied gets things done: I'm thinking of making him the manager."
-    sx: {hanzi: "𠊎逐日比工人早兜仔到。盡好係有後生人來接。阿傑做事當煞手，𠊎想分佢做主管。", pinyin: "ngaiˇ dagˋ ngidˋ biˋ gungˊ nginˇ zoˋ deuˊ eˋ do. qin hoˋ he iuˊ heu sangˊ nginˇ loiˇ jiabˋ. aˊ kiedˋ zo se dongˊ sadˋ suˋ, ngaiˇ xiongˋ bunˊ giˇ zo zuˋ gonˋ."}
+    sx: {hanzi: "𠊎逐日比工人早兜仔到。盡好係有後生人來接。阿傑做事當煞手，𠊎想分佢做主管。", pinyin: "ngaiˇ dagˋ ngidˋ biˋ gungˊ nginˇ zoˋ deuˊ eˋ do. qin hoˋ he iuˊ heu sangˊ nginˇ loiˇ jiabˋ. aˊ kied zo se dongˊ sadˋ suˋ, ngaiˇ xiongˋ bunˊ giˇ zo zuˋ gonˋ."}
     check: true
   - n: 27
     speaker: 阿舅

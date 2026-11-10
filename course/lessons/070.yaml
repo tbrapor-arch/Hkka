@@ -103,8 +103,8 @@ new_words: []
 exercises:
   translate:
     - en: "First cut the grass, then pay respects; once that's done, eat the 艾粄."
-      sx: {hanzi: "先割草，正來拜。拜好，斯食艾粄。", pinyin: "xienˊ godˋ coˋ, zang loiˇ bai. bai hoˋ, siiˊ siid ngie banˋ."}
-      hl: {hanzi: "先割草，正來拜。拜好，斯食艾粄。", pinyin: "senˋ god coˊ, zhangˇ loi baiˇ. baiˇ hoˊ, siiˋ shidˋ ngieˇ banˊ."}
+      sx: {hanzi: "先割草，正來拜。拜好，斯食艾粄。", pinyin: "xienˊ godˋ coˋ, zang loiˇ bai. bai hoˋ, siiˇ siid ngie banˋ."}
+      hl: {hanzi: "先割草，正來拜。拜好，斯食艾粄。", pinyin: "senˋ god coˊ, zhangˇ loi baiˇ. baiˇ hoˊ, sii+ shidˋ ngieˇ banˊ."}
     - en: "阿宏 is taller than A-min, but A-min's class came first."
       sx: {hanzi: "阿宏比阿明較高，毋過阿明个班得著頭名。", pinyin: "aˊ fenˇ biˋ aˊ minˇ ka goˊ, mˇ go aˊ minˇ ge banˊ dedˋ doˋ teuˇ miangˇ."}
       hl: {hanzi: "阿宏比阿明較高，毋過阿明个班得著頭名。", pinyin: "a+ fen biˊ a+ min haˇ goˋ, m goˇ a+ min gaiˇ banˋ ded doˊ teu miang."}

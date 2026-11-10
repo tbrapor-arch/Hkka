@@ -47,7 +47,7 @@ dialogue:
   - n: 9
     speaker: 阿舅
     en: "Still overtime every day. Luckily A-kied gets things done: I've made him the manager."
-    sx: {hanzi: "還係日日加班。好得阿傑做事煞手，𠊎喊佢做主管吔。", pinyin: "hanˇ he ngidˋ ngidˋ gaˊ banˊ. hoˋ dedˋ aˊ kiedˋ zo se sadˋ suˋ, ngaiˇ ham giˇ zo zuˋ gonˋ leˊ."}
+    sx: {hanzi: "還係日日加班。好得阿傑做事煞手，𠊎喊佢做主管吔。", pinyin: "hanˇ he ngidˋ ngidˋ gaˊ banˊ. hoˋ dedˋ aˊ kied zo se sadˋ suˋ, ngaiˇ ham giˇ zo zuˋ gonˋ leˊ."}
     check: true
   - n: 10
     speaker: 阿舅

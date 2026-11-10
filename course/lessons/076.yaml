@@ -39,8 +39,8 @@ dialogue:
   - n: 6
     speaker: 阿姆
     en: "The wok's very hot. Careful, now!"
-    sx: {hanzi: "這鑊仔燒燒，你斯愛細義，莫凴著哦！", pinyin: "iaˋ vog eˋ seuˊ seuˊ, nˇ siiˊ oi se ngi, mog ben doˋ oˊ!"}
-    hl: {hanzi: "這鑊仔燒燒，你斯愛細義，毋好凴著哦！", pinyin: "liaˊ vogˋ er shauˋ shauˋ, ngi siiˋ oiˇ seˇ ngi+, m hoˊ benˇ doˊ oˊ!"}
+    sx: {hanzi: "這鑊仔燒燒，你斯愛細義，莫凴著哦！", pinyin: "iaˋ vog eˋ seuˊ seuˊ, nˇ siiˇ oi se ngi, mog ben doˋ oˊ!"}
+    hl: {hanzi: "這鑊仔燒燒，你斯愛細義，毋好凴著哦！", pinyin: "liaˊ vogˋ er shauˋ shauˋ, ngi sii+ oiˇ seˇ ngi+, m hoˊ benˇ doˊ oˊ!"}
   - n: 7
     speaker: Sam
     en: "Oil first; fry the spring onions till they smell good, then put the pork in."

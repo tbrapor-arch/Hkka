@@ -33,6 +33,7 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 ## Grammar a script cannot see
 - 吾, 若, 厥 go with family, home, school and body parts (吾屋下, 吾老弟). With goods and other nouns write 𠊎个 (𠊎个攤仔).
 - "Small" after a noun is 細細仔 (機關細細仔), not 細細間 or 細細頭. "What is X called" is X 安到麼个名.
+- 斯 "then" is siiˇ (斯文 and 瓦斯 have siiˊ). 阿傑 is aˊ kied.
 - 輪 "take turns" is linˊ (lesson 92), 共下 is kiung ha, 無斯 "or else" is moˇ siiˇ: the draft tool cannot know these.
 - "We": 𫣆兜 includes the listener, 𠊎兜 excludes. Check each one against who is listening (in a letter: writer +
   reader is 𫣆兜).
