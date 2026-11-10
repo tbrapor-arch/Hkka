@@ -1,0 +1,312 @@
+id: 40
+genre: speech
+title:
+  en: "Getting old: the eyes go blurry"
+  sx: {hanzi: "老吔！目珠花花", pinyin: "loˋ leˊ! mugˋ zuˊ faˊ faˊ"}
+review: false
+setting: >-
+  Saturday 31 March 2029, the old people's club in 公館. 黃醫生, the retired family doctor of 進修 24, now eighty-two,
+  gives a short talk on looking after oneself: walking, eating, and keeping one's spirits up.
+names: [黃醫生, 阿公, 阿婆, 阿伯]
+
+dialogue:
+  - n: 1
+    speaker: 黃醫生
+    en: "Grandfathers and grandmothers, good day to you all. I am Dr 黃, and I am eighty-two this year."
+    sx: {hanzi: "各位阿公阿婆，大家好。𠊎係黃醫生，今年八十二歲吔。", pinyin: "gogˋ vi aˊ gungˊ aˊ poˇ, tai gaˊ hoˋ. ngaiˇ he vongˇ iˊ senˊ, gimˊ ngienˇ badˋ siib ngi se leˊ."}
+  - n: 2
+    speaker: 黃醫生
+    en: "Come in closer, so that you can hear properly."
+    source: kaga115
+    sx: {hanzi: "偎兼來，正聽得清楚。", pinyin: "vaˋ giamˊ loiˇ, zang tangˊ dedˋ qinˊ cuˋ."}
+  - n: 3
+    speaker: 黃醫生
+    en: "We're getting old! The eyes go blurry."
+    source: kaga115
+    sx: {hanzi: "老吔！目珠花花。", pinyin: "loˋ leˊ! mugˋ zuˊ faˊ faˊ."}
+  - n: 4
+    speaker: 黃醫生
+    en: "I'm just the same: blurry eyes, slower reactions, and my legs aren't as strong as they used to be."
+    sx: {hanzi: "𠊎自家乜共樣：目珠花花，反應較慢，腳力乜無頭擺恁好。", pinyin: "ngaiˇ qi gaˊ me kiung iong: mugˋ zuˊ faˊ faˊ, fanˋ in ka man, giogˋ lid me moˇ teuˇ baiˋ anˋ hoˋ."}
+    check: true
+  - n: 5
+    speaker: 黃醫生
+    en: "Today I want to talk about three things: walking, eating, and how you feel. Of the three, the most important is how you feel."
+    sx: {hanzi: "今晡日𠊎愛講三項事情：行路、食東西同心情。其中盡重要个係心情。", pinyin: "gimˊ buˊ ngidˋ ngaiˇ oi gongˋ samˊ hong sii qinˇ: hangˇ lu, siid dungˊ xiˊ tungˇ ximˊ qinˇ. kiˇ zungˊ qin cung ieu ge he ximˊ qinˇ."}
+    check: true
+  - n: 6
+    speaker: 黃醫生
+    en: "First, walking. I have an old friend who, since he retired, sits watching television every day."
+    sx: {hanzi: "先講行路。吾有一個老朋友，退休後逐日坐等看電視。", pinyin: "xienˊ gongˋ hangˇ lu. ngaˊ iuˊ idˋ ge loˋ penˇ iuˊ, tui hiuˊ heu dagˋ ngidˋ coˊ denˋ kon tien sii."}
+    check: true
+  - n: 7
+    speaker: 黃醫生
+    en: "His legs are weak: after a few steps he can't go on!"
+    source: kaga115
+    sx: {hanzi: "佢腳力毋好，兩下半就行毋停動吔！", pinyin: "giˇ giogˋ lid mˇ hoˋ, liongˋ ha ban qiu hangˇ mˇ tinˇ tungˊ leˊ!"}
+  - n: 8
+    speaker: 黃醫生
+    en: "Don't walk with a stoop: it makes you look lifeless."
+    source: kaga115
+    sx: {hanzi: "行路毋好痀背，看起來無精神。", pinyin: "hangˇ lu mˇ hoˋ guˊ boi, kon hiˋ loiˇ moˇ jinˊ siinˇ."}
+  - n: 9
+    speaker: 黃醫生
+    en: "Stoop for long, and the spine gives trouble. Some people are lame: they need to keep moving all the same. If there's a park beside your house, go and walk half an hour every day: that's how the thighs stay strong. But take care in summer."
+    sx: {hanzi: "痀背久吔，龍骨會出問題。有个人跛腳，乜共樣愛停動。屋脣項有公園，就逐日去行半點鐘，腳髀正會有力。毋過熱天愛細義。", pinyin: "guˊ boi giuˋ leˊ, liungˇ gudˋ voi cudˋ mun tiˇ. iuˊ ge nginˇ baiˊ giogˋ, me kiung iong oi tinˇ tungˊ. vugˋ sunˇ hong iuˊ gungˊ ienˇ, qiu dagˋ ngidˋ hi hangˇ ban diamˋ zungˊ, giogˋ biˋ zang voi iuˊ lid. mˇ go ngied tienˊ oi se ngi."}
+    check: true
+  - n: 10
+    speaker: 黃醫生
+    en: "When it's this hot, going out in the sun will give you heatstroke."
+    source: kaga115
+    sx: {hanzi: "恁熱，出去晒日頭會翕著。", pinyin: "anˋ ngied, cudˋ hi sai ngidˋ teuˇ voi hibˋ doˋ."}
+  - n: 11
+    speaker: 黃醫生
+    en: "Don't read in the sun: the glare is too hard on the eyes."
+    source: kaga
+    sx: {hanzi: "日頭下毋好看書，忒晟眼。", pinyin: "ngidˋ teuˇ haˊ mˇ hoˋ kon suˊ, tedˋ cangˇ ngienˋ."}
+  - n: 12
+    speaker: 黃醫生
+    en: "And don't look at your phone for too long either: short sight gets worse and worse."
+    sx: {hanzi: "手機仔乜毋好看忒久，近視會緊來緊深。", pinyin: "suˋ giˊ eˋ me mˇ hoˋ kon tedˋ giuˋ, kiun sii voi ginˋ loiˇ ginˋ ciimˊ."}
+    check: true
+  - n: 13
+    speaker: 黃醫生
+    en: "Next, eating. Old people absorb food more slowly: don't eat too much at once, and cut down on salt and sugar."
+    sx: {hanzi: "再過講食東西。老人家吸收較慢，一擺毋好食忒多，鹽同糖愛減少。", pinyin: "zai go gongˋ siid dungˊ xiˊ. loˋ nginˇ gaˊ kibˋ suˊ ka man, idˋ baiˋ mˇ hoˋ siid tedˋ doˊ, iamˇ tungˇ tongˇ oi gamˋ seuˋ."}
+    check: true
+  - n: 14
+    speaker: 黃醫生
+    en: "That old friend of mine loves meat, and drinks three cans of beer a day."
+    sx: {hanzi: "吾該隻老朋友好食肉，一日啉三罐麥酒。", pinyin: "ngaˊ ge zagˋ loˋ penˇ iuˊ hau siid ngiugˋ, idˋ ngidˋ limˊ samˊ gon mag jiuˋ."}
+    check: true
+  - n: 15
+    speaker: 黃醫生
+    en: "When his gout flares up, his toe joints go red and swollen."
+    source: kaga115
+    sx: {hanzi: "佢痛風擎起來，腳趾目又紅又腫。", pinyin: "giˇ tung fungˊ kiaˇ hiˋ loiˇ, giogˋ ziiˋ mugˋ iu fungˇ iu zungˋ."}
+  - n: 16
+    speaker: 黃醫生
+    en: "It's an old complaint of his: he's had it for years."
+    source: kaga115
+    sx: {hanzi: "佢這係老毛病，好多年吔。", pinyin: "giˇ iaˋ he loˋ moˊ piang, hoˋ doˊ ngienˇ leˊ."}
+  - n: 17
+    speaker: 黃醫生
+    en: "Drink plenty of water, and don't hold it in when you need to go. People who smoke are more likely to get cancer: I have a neighbour who smoked for forty years."
+    sx: {hanzi: "愛多啉水，毋好禁尿。哺菸个人較會得著癌症：吾隔壁有一個阿伯，哺菸四十年吔。", pinyin: "oi doˊ limˊ suiˋ, mˇ hoˋ gim ngiau. buˇ ienˊ ge nginˇ ka voi dedˋ doˋ ngamˇ ziin: ngaˊ gagˋ biagˋ iuˊ idˋ ge aˊ bagˋ, buˇ ienˊ xi siib ngienˇ leˊ."}
+    check: true
+  - n: 18
+    speaker: 黃醫生
+    en: "For the sake of his health, he has decided to give up smoking!"
+    source: kaga115
+    sx: {hanzi: "阿伯為著身體健康，決定無愛哺菸哩！", pinyin: "aˊ bagˋ vi doˋ siinˊ tiˋ kien kongˊ, giedˋ tin moˇ oi buˇ ienˊ leˊ!"}
+  - n: 19
+    speaker: 黃醫生
+    en: "He is a man who makes up his mind."
+    source: kaga115
+    sx: {hanzi: "佢做事異煞。", pinyin: "giˇ zo se i sadˋ."}
+  - n: 20
+    speaker: 黃醫生
+    en: "Hospitals today are not what they used to be."
+    sx: {hanzi: "這下个醫院同頭擺無共樣吔。", pinyin: "iaˋ ha ge iˊ ien tungˇ teuˇ baiˋ moˇ kiung iong leˊ."}
+  - n: 21
+    speaker: 黃醫生
+    en: "Nowadays, if you get AIDS, it can be treated."
+    source: kaga115
+    sx: {hanzi: "這下得著愛滋病有好醫吔。", pinyin: "iaˋ ha dedˋ doˋ oi ziiˊ piang iuˊ hoˋ iˊ leˊ."}
+  - n: 22
+    speaker: 黃醫生
+    en: "Cancer too can be treated if it is found early. Even someone with nothing much wrong with them should have a check-up once a year."
+    sx: {hanzi: "癌症早兜仔發現，乜有好醫。身體無麼个毛病个人，乜愛一年檢查一擺。", pinyin: "ngamˇ ziin zoˋ deuˊ eˋ fadˋ hien, me iuˊ hoˋ iˊ. siinˊ tiˋ moˇ maˋ ge moˊ piang ge nginˇ, me oi idˋ ngienˇ giamˋ caˇ idˋ baiˋ."}
+    check: true
+  - n: 23
+    speaker: 黃醫生
+    en: "There was once a man who, even when he felt unwell, refused to see a doctor."
+    sx: {hanzi: "頭擺有一個阿伯，身體毋鬆爽也毋肯看醫生。", pinyin: "teuˇ baiˋ iuˊ idˋ ge aˊ bagˋ, siinˊ tiˋ mˇ sungˊ songˋ ia mˇ henˋ kon iˊ senˊ."}
+    check: true
+  - n: 24
+    speaker: 黃醫生
+    en: "When he dropped dead, the whole family fell apart."
+    source: kaga115
+    sx: {hanzi: "佢一橫忒，歸家屋就四離五散。", pinyin: "giˇ idˋ vang tedˋ, guiˊ gaˊ vugˋ qiu xi liˇ ngˋ sanˋ."}
+  - n: 25
+    speaker: 黃醫生
+    en: "Lastly, how you feel. Between friends there has to be give and take: that is what makes it last."
+    sx: {hanzi: "最後講心情。朋友之間愛有來有去，正會長久。", pinyin: "zui heu gongˋ ximˊ qinˇ. penˇ iuˊ ziiˊ gienˊ oi iuˊ loiˇ iuˊ hi, zang voi congˇ giuˋ."}
+    check: true
+  - n: 26
+    speaker: 黃醫生
+    en: "Go out for a walk often, and now and then have tea with old friends. Some people are afraid of falling and don't dare go out: instead, their legs get weaker and weaker."
+    sx: {hanzi: "不時出門行行啊，下把仔同老朋友共下食茶。有兜人驚跌倒，毋敢出門，顛倒緊來緊無腳力。", pinyin: "budˋ siiˇ cudˋ munˇ hangˇ hangˇ a, ha baˋ eˇ tungˇ loˋ penˇ iuˊ kiung ha siid caˇ. iuˊ deuˊ nginˇ giangˊ diedˋ doˋ, mˇ gamˋ cudˋ munˇ, dienˊ do ginˋ loiˇ ginˋ moˇ giogˋ lid."}
+    check: true
+  - n: 27
+    speaker: 黃醫生
+    en: "With someone who is deaf, we should speak louder and more slowly."
+    sx: {hanzi: "耳聾个人，𫣆兜同佢講話愛較大聲、較慢。", pinyin: "ngiˋ lungˊ ge nginˇ, enˊ deuˊ tungˇ giˇ gongˋ fa oi ka tai sangˊ, ka man."}
+    check: true
+  - n: 28
+    speaker: 黃醫生
+    en: "He stammers when he speaks: you have to listen with more patience."
+    source: kaga115
+    sx: {hanzi: "佢講話會結舌，你愛較有耐心聽。", pinyin: "giˇ gongˋ fa voi giedˋ sad, nˇ oi ka iuˊ nai ximˊ tangˊ."}
+  - n: 29
+    speaker: 黃醫生
+    en: "At home, don't keep finding fault with the young; and when husband and wife quarrel, listen to the other one first."
+    sx: {hanzi: "在屋下毋好緊嫌後生人；兩公婆冤家，愛先聽對方講。", pinyin: "coiˊ vugˋ kaˊ mˇ hoˋ ginˋ hiamˇ heu sangˊ nginˇ; liongˋ gungˊ poˇ ienˊ gaˊ, oi xienˊ tangˊ dui fongˊ gongˋ."}
+    check: true
+  - n: 30
+    speaker: 黃醫生
+    en: "And keep using your head: reading, singing mountain songs, learning something new are all good. Your body is your own!"
+    sx: {hanzi: "頭那殼乜愛緊用：讀書、唱山歌、學新个東西都好。身體係自家个！", pinyin: "teuˇ naˇ hogˋ me oi ginˋ iung: tug suˊ, cong sanˊ goˊ, hog xinˊ ge dungˊ xiˊ du hoˋ. siinˊ tiˋ he qi gaˊ ge!"}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is an official sentence (line 3). 花花 faˊ faˊ, of the eyes: "blurred, dim" (目珠花花). The talk is
+      written for the course; its advice is general knowledge, not medical guidance.
+  - ref: 2
+    topic: vocab
+    text: >
+      兼 giamˊ "close, near": 偎兼來 "come in close" (毋好同佢行忒兼 "don't get too close to him").
+  - ref: 4
+    topic: vocab
+    text: >
+      反應 fanˋ in "reaction, response" (厥反應當遽). 腳力 giogˋ lid "strength of the legs, ability to walk".
+  - ref: 5
+    topic: vocab
+    text: >
+      其中 kiˇ zungˊ "among them, of these".
+  - ref: 8
+    topic: vocab
+    text: >
+      痀背 guˊ boi "stoop, be hunched". 龍骨 liungˇ gudˋ in line 9 is "spine" (龍骨生骨刺). 跛腳 baiˊ giogˋ "lame". 腳髀 giogˋ
+      biˋ "thigh". 脣項 sunˇ hong "beside, at the side" (你睡厥脣項).
+  - ref: 10
+    topic: vocab
+    text: >
+      翕著 hibˋ doˋ "get heatstroke, be overcome by the heat". 晟眼 cangˇ ngienˋ in line 11 is "dazzling, hard on the
+      eyes" (西照日，駛車晟眼當艱苦).
+  - ref: 12
+    topic: vocab
+    text: >
+      深 ciimˊ "deep"; of short sight, "strong". 緊來緊深 "stronger and stronger" (the 緊 … 緊 pattern of 進修 38).
+  - ref: 13
+    topic: vocab
+    text: >
+      吸收 kibˋ suˊ "absorb". 減少 gamˋ seuˋ "reduce, cut down" (今年收入減少異多).
+  - ref: 14
+    topic: vocab
+    text: >
+      罐 gon is the measure for a can or a bottle (一罐麥酒). 腳趾目 giogˋ ziiˋ mugˋ in line 15 is "toe joint". 毛病 moˊ piang
+      in line 16 is "ailment, complaint; fault".
+  - ref: 17
+    topic: vocab
+    text: >
+      禁尿 gim ngiau "hold one's urine". 哺菸 buˇ ienˊ "smoke" (the lists also have 食菸). 癌症 ngamˇ ziin "cancer".
+  - ref: 19
+    topic: pronunciation
+    text: >
+      煞 read sadˋ is "decisive, resolute" (佢做事異煞); 煞手 in 進修 38 has the same reading. Read sod it is "finish, be
+      over" (戲做煞吔).
+  - ref: 21
+    topic: vocab
+    text: >
+      愛滋病 oi ziiˊ piang "AIDS". 有好醫 "can be treated": 有好 + verb "there is a way to, it is possible to".
+  - ref: 22
+    topic: vocab
+    text: >
+      無麼个 moˇ maˋ ge "nothing much; not very" (佢人無麼个鬆爽，故所下晝請假).
+  - ref: 24
+    topic: vocab
+    text: >
+      橫忒 vang tedˋ "drop dead" (literally "fall flat"). 歸家屋 "the whole household".
+  - ref: 25
+    topic: vocab
+    text: >
+      之間 ziiˊ gienˊ "between, among" (這係佢兩儕之間个問題，你毋好插).
+  - ref: 26
+    topic: vocab
+    text: >
+      不時 budˋ siiˇ "often, all the time" (不時會聽著厥聲). 下把仔 ha baˋ eˇ "now and then, sometimes". 顛倒 dienˊ do "on the
+      contrary, instead" (想害人顛倒害著自家).
+  - ref: 27
+    topic: vocab
+    text: >
+      耳聾 ngiˋ lungˊ "deaf". 結舌 giedˋ sad in line 28 is "stammer".
+  - ref: 29
+    topic: vocab
+    text: >
+      嫌 hiamˇ "find fault with, turn up one's nose at" (煮飯毋好食，分屋下人嫌). 對方 dui fongˊ "the other person, the other
+      side".
+  - ref: 30
+    topic: vocab
+    text: >
+      頭那殼 teuˇ naˇ hogˋ "head, skull" (頭那殼當硬).
+
+new_words:
+  - {hanzi: "花花", pinyin: "faˊ faˊ", en: "(of the eyes) blurred, dim"}
+  - {hanzi: "兼", pinyin: "giamˊ", en: "close, near"}
+  - {hanzi: "反應", pinyin: "fanˋ in", en: "reaction, response"}
+  - {hanzi: "腳力", pinyin: "giogˋ lid", en: "strength of the legs"}
+  - {hanzi: "其中", pinyin: "kiˇ zungˊ", en: "among them, of these"}
+  - {hanzi: "痀背", pinyin: "guˊ boi", en: "stoop, be hunched"}
+  - {hanzi: "龍骨", pinyin: "liungˇ gudˋ", en: "spine"}
+  - {hanzi: "跛腳", pinyin: "baiˊ giogˋ", en: "lame"}
+  - {hanzi: "脣項", pinyin: "sunˇ hong", en: "beside, at the side"}
+  - {hanzi: "腳髀", pinyin: "giogˋ biˋ", en: "thigh"}
+  - {hanzi: "翕著", pinyin: "hibˋ doˋ", en: "get heatstroke"}
+  - {hanzi: "晟眼", pinyin: "cangˇ ngienˋ", en: "dazzling, hard on the eyes"}
+  - {hanzi: "深", pinyin: "ciimˊ", en: "deep; (of short sight) strong"}
+  - {hanzi: "吸收", pinyin: "kibˋ suˊ", en: "absorb"}
+  - {hanzi: "減少", pinyin: "gamˋ seuˋ", en: "reduce, cut down"}
+  - {hanzi: "罐", pinyin: "gon", en: "(measure) can, bottle"}
+  - {hanzi: "腳趾目", pinyin: "giogˋ ziiˋ mugˋ", en: "toe joint"}
+  - {hanzi: "毛病", pinyin: "moˊ piang", en: "ailment, complaint; fault"}
+  - {hanzi: "禁尿", pinyin: "gim ngiau", en: "hold one's urine"}
+  - {hanzi: "哺菸", pinyin: "buˇ ienˊ", en: "smoke"}
+  - {hanzi: "癌症", pinyin: "ngamˇ ziin", en: "cancer"}
+  - {hanzi: "煞", pinyin: "sadˋ", en: "decisive, resolute"}
+  - {hanzi: "愛滋病", pinyin: "oi ziiˊ piang", en: "AIDS"}
+  - {hanzi: "無麼个", pinyin: "moˇ maˋ ge", en: "nothing much; not very"}
+  - {hanzi: "橫忒", pinyin: "vang tedˋ", en: "drop dead"}
+  - {hanzi: "之間", pinyin: "ziiˊ gienˊ", en: "between, among"}
+  - {hanzi: "不時", pinyin: "budˋ siiˇ", en: "often, all the time"}
+  - {hanzi: "下把仔", pinyin: "ha baˋ eˇ", en: "now and then, sometimes"}
+  - {hanzi: "顛倒", pinyin: "dienˊ do", en: "on the contrary, instead"}
+  - {hanzi: "耳聾", pinyin: "ngiˋ lungˊ", en: "deaf"}
+  - {hanzi: "結舌", pinyin: "giedˋ sad", en: "stammer"}
+  - {hanzi: "嫌", pinyin: "hiamˇ", en: "find fault with"}
+  - {hanzi: "對方", pinyin: "dui fongˊ", en: "the other person, the other side"}
+  - {hanzi: "頭那殼", pinyin: "teuˇ naˇ hogˋ", en: "head, skull"}
+
+exercises:
+  translate:
+    - en: "The spine grows bone spurs."
+      source: kaga115
+      sx: {hanzi: "龍骨生骨刺。", pinyin: "liungˇ gudˋ sangˊ gudˋ qiugˋ."}
+    - en: "He is lame because he was in a car accident some time ago."
+      source: kaga115
+      sx: {hanzi: "佢因為上擺出車禍，故所正會跛腳。", pinyin: "giˇ inˊ vi song baiˋ cudˋ caˊ fo, gu soˋ zang voi baiˊ giogˋ."}
+    - en: "You often hear his voice."
+      source: kaga115
+      sx: {hanzi: "不時會聽著厥聲。", pinyin: "budˋ siiˇ voi tangˊ doˋ giaˊ sangˊ."}
+    - en: "He meant to harm someone and harmed himself instead."
+      source: kaga115
+      sx: {hanzi: "想害人顛倒害著自家。", pinyin: "xiongˋ hoi nginˇ dienˊ do hoi doˋ qi gaˊ."}
+    - en: "His reactions are very quick."
+      source: kaga115
+      sx: {hanzi: "厥反應當遽。", pinyin: "giaˊ fanˋ in dongˊ giagˋ."}
+  fill:
+    - en: "The skull is very hard."
+      sx: {hanzi: "頭那殼當___。", pinyin: "teuˇ naˇ hogˋ dongˊ ___.", answer_hanzi: "硬", answer: "ngang"}
+    - en: "The two of them have nothing much to say to each other."
+      sx: {hanzi: "佢兩儕___話好講。", pinyin: "giˇ liongˋ saˇ ___ fa hoˋ gongˋ.", answer_hanzi: "無麼个", answer: "moˇ maˋ ge"}
+    - en: "This is a matter between the two of them: don't interfere."
+      sx: {hanzi: "這係佢兩儕___个問題，你毋好插。", pinyin: "iaˋ he giˇ liongˋ saˇ ___ ge mun tiˇ, nˇ mˇ hoˋ cabˋ.", answer_hanzi: "之間", answer: "ziiˊ gienˊ"}
+    - en: "Income has gone down a lot this year."
+      sx: {hanzi: "今年收入___異多。", pinyin: "gimˊ ngienˇ suˊ ngib ___ i doˊ.", answer_hanzi: "減少", answer: "gamˋ seuˋ"}
+    - en: "A can of beer."
+      sx: {hanzi: "一___麥酒。", pinyin: "idˋ ___ mag jiuˋ.", answer_hanzi: "罐", answer: "gon"}
+
+audio: []
