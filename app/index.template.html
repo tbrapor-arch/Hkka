@@ -517,6 +517,7 @@ body.has-mini main { padding-bottom: 11rem; }
 kbd { font-family: var(--f-ui); font-size: .7rem; font-weight: 700; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; opacity: .6; margin-left: .2rem; }
 @media (hover: none) { kbd { display: none; } }
 /* ---- Hakka additions */
+.sd { color: var(--coral); }
 .tm { display: inline-block; font-family: "Noto Sans TC", "Noto Sans CJK TC", "PingFang TC", "Microsoft JhengHei", sans-serif; font-weight: 700; font-size: .8em; margin-left: -.1em; margin-right: 0; }
 .punct + .tm, .tm:first-child { margin-left: 0; }
 .accseg { margin-left: auto; }
@@ -553,7 +554,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem('hkka:' + k); return v ? JSON.parse(v) : d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem('hkka:' + k, JSON.stringify(v)); } catch {} }
 };
-const prefs = Object.assign({ mode: 'both', en: false, acc: 'sx', skin: 'notebook', night: false, active: false, autoplay: true }, store.get('prefs', {}));
+const prefs = Object.assign({ mode: 'both', en: false, acc: 'sx', tones: 'moe', spoken: false, skin: 'notebook', night: false, active: false, autoplay: true }, store.get('prefs', {}));
 const savePrefs = () => store.set('prefs', prefs);
 function applySkin() {
   const r = document.documentElement;
@@ -683,10 +684,34 @@ function nextWave() {
   return null;
 }
 
+// ---------- tone display: MOE marks after the syllable (ˊ ˇ ˋ +), or on the vowel by pitch shape (Glossika-style):
+// rising á, falling à, high ā, low a̱, mid a̟. The same mark means the same shape in Sixian and in Hailu.
+const MOE_MARK = { sx: { 24: 'ˊ', 11: 'ˇ', 31: 'ˋ', 55: '', 2: 'ˋ', 5: '' }, hl: { 53: 'ˋ', 55: '', 24: 'ˊ', 11: 'ˇ', 33: '+', 5: '', 2: 'ˋ' } };
+const SHAPE = { 24: '\u0301', 31: '\u0300', 53: '\u0300', 2: '\u0300', 55: '\u0304', 5: '\u0304', 11: '\u0331', 33: '\u031F' };
+function onVowel(base, v) {
+  const d = SHAPE[v]; if (!d) return esc(base);
+  let i = -1;
+  for (const c of ['a', 'o', 'e']) { i = base.indexOf(c); if (i >= 0) break; }
+  if (i < 0) { if (base.includes('iu')) i = base.indexOf('iu') + 1; else if (base.includes('ui')) i = base.indexOf('ui') + 1; else i = base.search(/[iu]/); }
+  if (i < 0) i = base.search(/[mn]/);
+  if (i < 0) return esc(base);
+  return esc((base.slice(0, i + 1) + d + base.slice(i + 1)).normalize('NFC'));
+}
+function pyHTML(w, acc) {
+  const sy = w.p.split(' '), vals = ((prefs.spoken && w.s) || w.v || '').split('-');
+  if (!w.v || sy.length !== vals.length || (prefs.tones === 'moe' && !(prefs.spoken && w.s))) return rom(w.p);
+  const cit = w.v.split('-');
+  return sy.map((s, i) => {
+    const base = s.replace(/[ˊˇˋ+^]/g, ''), v = vals[i];
+    const out = prefs.tones === 'vowel' ? onVowel(base, v) : rom(base + (MOE_MARK[acc][v] ?? ''));
+    return v !== cit[i] ? `<span class="sd" title="spoken tone">${out}</span>` : out;
+  }).join(' ');
+}
+
 // ---------- tokenised sentence
 const HAN_RE = /[㐀-鿿\u{20000}-\u{3ffff}豈-﫿]/u;
 const TOKS = {};
-function rtHTML(r) { return `<rt><span class="rw">${rom(r)}</span></rt>`; }
+function rtHTML(r, html) { return `<rt><span class="rw">${html ?? rom(r)}</span></rt>`; }
 function tokHTML(tok, key) {
   if (tok.x !== undefined) {
     if (tok.p !== undefined) return prefs.mode === 'rom' ? rom(tok.p) : `<ruby>${esc(tok.x)}${prefs.mode === 'han' ? '' : rtHTML(tok.p)}</ruby>`;   // a line that could not be cut
@@ -696,10 +721,12 @@ function tokHTML(tok, key) {
   const w = tok.w, cls = 'tok ' + (w.id ? cog(w.id)[2] : '');
   TOKS[key] = w;
   const a = `class="${cls}" tabindex="0" role="button" data-tok="${key}"`;
-  if (prefs.mode === 'rom') return `<span ${a}>${rom(w.p)}</span> `;
+  const ph = pyHTML(w, CUR_ACC);
+  if (prefs.mode === 'rom') return `<span ${a}>${ph}</span> `;
   if (prefs.mode === 'han') return `<span ${a}>${esc(w.h)}</span>`;
-  return `<ruby ${a}>${esc(w.h)}${rtHTML(w.p)}</ruby>`;
+  return `<ruby ${a}>${esc(w.h)}${rtHTML(w.p, ph)}</ruby>`;
 }
+let CUR_ACC = 'sx';
 function sentence(b, prefix) { return b.t.map((t, i) => tokHTML(t, prefix + ':' + i)).join(''); }
 function wireTokens(root) {
   $$('.tok', root).forEach(t => {
@@ -715,6 +742,7 @@ function toolbar(L, withActive) {
     ${withActive ? `<label class="toggle"><input type="checkbox" id="opt-active" ${prefs.active ? 'checked' : ''}> Active (EN → Hakka)</label>` : ''}
     <div class="seg" role="group" aria-label="Script">${[['both', '漢字 + pinyin'], ['tap', 'Pinyin on tap'], ['rom', 'Pinyin'], ['han', '漢字']].map(([k, t]) => `<button data-mode="${k}" aria-pressed="${prefs.mode === k}">${t}</button>`).join('')}</div>
     ${L && !L.p2 ? `<div class="seg" role="group" aria-label="Accent">${[['sx', '四縣 Sixian'], ['hl', '海陸 Hailu']].map(([k, t]) => `<button data-acc="${k}" aria-pressed="${accOf(L) === k}">${t}</button>`).join('')}</div>` : ''}
+    <label class="toggle"><input type="checkbox" id="opt-sp" ${prefs.spoken ? 'checked' : ''}> Spoken tones</label>
     <label class="toggle"><input type="checkbox" id="opt-en" ${prefs.en ? 'checked' : ''}> English</label>
     <div class="legend"><span class="k-to">Hakka only</span><span class="k-ff">False friend</span></div></div>`;
 }
@@ -722,6 +750,7 @@ function wireToolbar(rerender) {
   $$('[data-mode]').forEach(b => b.onclick = () => { prefs.mode = b.dataset.mode; savePrefs(); rerender(); });
   $$('[data-acc]').forEach(b => b.onclick = () => { prefs.acc = b.dataset.acc; savePrefs(); rerender(); });
   $('#opt-en').onchange = e => { prefs.en = e.target.checked; savePrefs(); rerender(); };
+  $('#opt-sp').onchange = e => { prefs.spoken = e.target.checked; savePrefs(); rerender(); };
   const a = $('#opt-active'); if (a) a.onchange = e => { prefs.active = e.target.checked; savePrefs(); rerender(); };
 }
 const REVEAL = {};
@@ -740,6 +769,7 @@ function showLesson(L) {
   const active = WAVE || !!prefs.active;
   const chips = WAVE ? [] : [['dlg', L.genre === 'dialogue' || L.genre === 'review' || L.genre === 'play' ? 'Dialogue' : 'Text'], ['sec-notes', 'Notes'], ['sec-words', 'New words'], ['sec-ex', 'Practice']];
   const blk = ln => ln[a] || ln.sx;
+  CUR_ACC = a;
   $('#main').innerHTML = `<div class="col mode-${prefs.mode}">
     <div class="lbar"><button class="icon" data-go="lessons" aria-label="Back to lessons">←</button>
       <span class="where">${WAVE ? '2nd wave · ' : ''}${lname(L.id)} · ${esc(L.title.en)}</span>
@@ -994,10 +1024,13 @@ function showSettings() {
     <div class="card raised setgrid">
       <span class="lab">Look</span>${opt('skin', prefs.skin, [['notebook', 'Notebook'], ['rose', 'Rose']])}
       <span class="lab">Night mode</span>${opt('night', prefs.night ? 'on' : 'off', [['off', 'Off'], ['on', 'On']])}
+      <span class="lab">Tone marks</span>${opt('tones', prefs.tones, [['moe', 'MOE · aˊ aˇ aˋ'], ['vowel', 'On the vowel · á a̱ à ā']])}
+      <span class="lab">Spoken tones</span>${opt('spoken', prefs.spoken ? 'on' : 'off', [['off', 'Citation'], ['on', 'With sandhi']])}
       <span class="lab">Accent (Part 1)</span>${opt('acc', prefs.acc, [['sx', '四縣 Sixian'], ['hl', '海陸 Hailu']])}
       <span class="lab">Practice audio</span>${opt('autoplay', prefs.autoplay ? 'on' : 'off', [['on', 'Play on answer'], ['off', 'Silent']])}
     </div>
-    <p class="sub" style="margin:0;max-width:65ch;font-size:.9rem"><b>Accent</b>: every Part 1 lesson is written in Sixian and in Hailu; this picks the one shown (you can also switch inside a lesson). 進修 is Sixian only.</p>
+    <p class="sub" style="margin:0;max-width:65ch;font-size:.9rem"><b>Tone marks</b>: MOE pinyin (客家語拼音方案) writes the tone after the syllable; it is what the dictionary, the exam and textbooks use. <i>On the vowel</i> draws the pitch shape instead: á rising, à falling, ā high, a̱ low, a̟ mid (Hailu). The same mark keeps the same shape in Sixian and Hailu.<br>
+      <b>Spoken tones</b>: shows tone sandhi (天光日 tienˇ gongˊ ngidˋ: the first ˊ is read low before another ˊ); changed tones are in red. The lessons and the exam spell citation tones.<br><b>Accent</b>: every Part 1 lesson is written in Sixian and in Hailu; this picks the one shown (you can also switch inside a lesson). 進修 is Sixian only.</p>
     ${HOSTED && !STANDALONE ? `<h2><span class="han">安裝</span> Install the app</h2>
     <div class="card"><span>Put 客話 on your home screen: it opens full screen like an app and works offline.</span>
       ${installEvt ? '<div class="row"><button class="btn small" id="install">Install</button></div>'
@@ -1013,7 +1046,7 @@ function showSettings() {
   </div>`;
   $$('[data-set]', m).forEach(b => b.onclick = () => {
     const k = b.dataset.set, v = b.dataset.val;
-    if (k === 'night') prefs.night = v === 'on'; else if (k === 'autoplay') prefs.autoplay = v === 'on'; else prefs[k] = v;
+    if (k === 'night') prefs.night = v === 'on'; else if (k === 'spoken') prefs.spoken = v === 'on'; else if (k === 'autoplay') prefs.autoplay = v === 'on'; else prefs[k] = v;
     savePrefs(); applySkin(); showSettings();
   });
   const ins = $('#install', m); if (ins) ins.onclick = async () => { installEvt.prompt(); await installEvt.userChoice; installEvt = null; showSettings(); };

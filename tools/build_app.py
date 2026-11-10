@@ -30,6 +30,7 @@ import yaml
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import pinyin as py  # noqa: E402
+import sandhi  # noqa: E402
 from lint import CJK, Lexicon  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
@@ -158,7 +159,7 @@ PUN = {"，": ", ", "。": ". ", "！": "! ", "？": "? ", "：": ": ", "、": "
 LATIN = re.compile(r"[A-Za-zÀ-ÿ'’]+(?:[ -][A-Z][a-zÀ-ÿ]+)*")
 
 
-def tokens(hanzi, pinyin, acc, names, known):
+def tokens(hanzi, pinyin, acc, names, known, groups=None):
     """[{w: {h, p, id}} | {x: text}]. Falls back to one token for the whole line if characters and syllables
     cannot be aligned."""
     pin = pinyin
@@ -171,6 +172,30 @@ def tokens(hanzi, pinyin, acc, names, known):
     if len(sylls) != len(chars) or len(shown) != len(chars):
         return [{"x": hanzi, "p": pinyin}]
     keys = [f"{s}{v or ''}" for s, v in sylls]
+    # spoken tones: sandhi inside tone groups; a group ends at punctuation, a name, or a '|' of the `groups` field
+    brk = set()
+    if groups:
+        n = 0
+        for part in re.split(r"(\|)", groups):
+            if part == "|":
+                brk.add(n - 1)
+            else:
+                n += len(py.syllables(re.sub(r"[A-Za-zÀ-ÿ]+(?=\s|$)", lambda m: m.group(0) if py.syllables(m.group(0), acc) else "", part), acc))
+    ci = -1
+    for m in re.finditer(r"[㐀-鿿豈-﫿\U00020000-\U0003ffff]|[^㐀-鿿豈-﫿\U00020000-\U0003ffff]+", hanzi):
+        if CJK.fullmatch(m.group(0)):
+            ci += 1
+        elif m.group(0).strip() and ci >= 0:
+            brk.add(ci)
+    rule = sandhi.apply_hailu if acc == "hailu" else sandhi.apply
+    spoken, grp = [], []
+    for i, sv in enumerate(sylls):
+        grp.append(sv)
+        if i in brk or i == len(sylls) - 1:
+            spoken += rule(grp)
+            grp = []
+    vals = [v or "" for _, v in sylls]
+    svals = [v or "" for _, v in spoken]
     # units: CJK chars (with their syllable index) and the text between them
     units, ci = [], 0
     for m in re.finditer(r"[㐀-鿿豈-﫿\U00020000-\U0003ffff]|[^㐀-鿿豈-﫿\U00020000-\U0003ffff]+", hanzi):
@@ -211,7 +236,10 @@ def tokens(hanzi, pinyin, acc, names, known):
             idx = run[i:i + L]
             h = "".join(chars[j] for j in idx)
             p = " ".join(shown[j] for j in idx)
-            w = {"h": h, "p": p}
+            w = {"h": h, "p": p, "v": "-".join(vals[j] for j in idx)}
+            sv = "-".join(svals[j] for j in idx)
+            if sv != w["v"]:
+                w["s"] = sv
             if kind == "word":
                 w["id"] = card(acc, h, "-".join(keys[j] for j in idx), p)
             out.append({"w": w})
@@ -234,7 +262,7 @@ def tokens(hanzi, pinyin, acc, names, known):
 def block(b, acc, names, known, extra=()):
     if not b or not b.get("hanzi"):
         return None
-    o = {"h": b["hanzi"], "p": b.get("pinyin", ""), "t": tokens(b["hanzi"], b.get("pinyin", ""), acc, names, known)}
+    o = {"h": b["hanzi"], "p": b.get("pinyin", ""), "t": tokens(b["hanzi"], b.get("pinyin", ""), acc, names, known, b.get("groups"))}
     for k in extra:
         if b.get(k):
             o[k] = b[k]
