@@ -95,6 +95,7 @@ dialogue:
 - n: 25
   en: 'Grandma was very suspicious: ''Since when is Grandpa so easy to talk to?'''
   sx: {hanzi: 阿婆當疑狐：「阿公仰會恁好講話？」, pinyin: 'aˊ poˇ dongˊ ngiˇ fuˇ: aˊ gungˊ ngiongˋ voi anˋ hoˋ gongˋ fa?'}
+  ok: [hao-like]
 - n: 26
   en: Sunday 10 September.
   sx: {hanzi: 九月十號，禮拜日。, pinyin: 'giuˋ ngied siib ho, liˊ bai ngidˋ.'}

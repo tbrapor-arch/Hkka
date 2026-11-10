@@ -1,7 +1,43 @@
 # Part 2: 進修 (Perfectionnement), plan
 
 Decided with the user on 8 Nov 2026. Model: Tsheh-tû's `docs/perfectionnement-plan.md` (P1–P70, finished 3 Nov 2026).
-Read `course/batches/checklist.md` in full before writing any lesson.
+Before writing a lesson, read `course/batches/card.md` (one page) and `course/batches/state.md`.
+`course/batches/checklist.md` holds the evidence behind the card.
+
+## Status (10 Nov 2026)
+**P1–P35 written, reviewed by fresh agents, fixed and merged into main.** Lint shows 0 errors.
+- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35).
+- Coverage after P35: 2,862 words taught. 基礎級 100%, 初級 84%, 中級 53%, 中高級 5%.
+- New words per lesson average about 35, short of the 40 target:
+  - P8–P21 averaged 28, because many candidates were already taught in Part 1.
+  - From P22 on, picking words first from the untaught list raised the average.
+- Recycling: 145 of Part 1's 258 exercise-only words are still unused.
+- The 40-word question (raise the line cap to 35, or add a third exercise?) is answered by the word plan below:
+  about 45 planned words per lesson, lessons stay at 20–30 lines and two exercises (P22 and P24 already held 43–45 new
+  words in 26–30 lines). The user can still change this.
+- Story so far: Sam is at 聯合大學 from Sept 2028. Lessons run through New Year 2029, ending with 年初三 in 美濃 (P35).
+- Next: P36 onwards, from late Feb 2029. The 中級 exam is around Nov 2029. The second wave is the app's business
+  (finishing P36 brings back P1): it puts no constraint on the words or the theme of P36.
+
+## Process from P36 on (10 Nov 2026: faster, still one lesson at a time)
+The user found the process slow and costly in usage. The cost was the word hunt for every lesson, the reading of the
+whole checklist, and a review that looked for mechanical errors. These are now done once, or by a script:
+1. **Word plan, once**: `python3 -I tools/packets.py plan` → `course/packets/plan.tsv`. 1,350 words for the 30
+   lessons P36–P69 (reviews: P42, P49, P56, P63, P70): all the untaught 初級 (131) and 中級 (798), then the 421 most
+   frequent 中高級. About 45 per lesson: about 27 of one scene theme and 18 function words dealt out evenly.
+   After P70: 初級 and 中級 100%, 中高級 about 25%.
+2. **One packet per lesson**: `make packet N=36` → `course/packets/P36.md`: the words with readings, glosses and
+   flags, every official sentence with a draft pinyin and a `[clean]` tag when all its words are taught or in the
+   packet, leftovers of earlier packets, 4–5 recycle words. No database query while writing.
+3. **Lint does the mechanical review**: `course/batches/rules.yaml` holds the checklist rules a pattern can catch.
+   Lint also checks `source:` in dialogue and exercises against the right table, exercise-only new words, words used
+   before their declaration, a second reading of declared characters, and the 3-words-per-lesson rule of reviews.
+4. **One-page card** `course/batches/card.md` for what a script cannot check.
+5. **Story state** `course/batches/state.md` (40 lines) replaces re-reading the old briefs.
+6. **Review once per batch of 7**, by a fresh agent, on what lint cannot judge (senses, wording, story, notes).
+   The user approves the batch result, not each lesson.
+
+Handover of the tooling: `docs/tooling-handover.md`.
 
 ## Starting point (8 Nov 2026, after the light revision of Part 1)
 `make coverage`: 1,874 words taught; 基礎級 483/483, 初級 487/841, 中級 311/1,706.
@@ -14,23 +50,23 @@ About 430 of the 中級 words have zero Glossika and corpus frequency: expect th
 |---|---|
 | Spirit | Assimil *Perfectionnement*: longer texts, varied genres and registers, proverbs (師傅話, 諺語) as titles; the aim is vocabulary |
 | Size | 70 lessons, every 7th a review (no new words); second wave from P36 (P(N−35)), inside Part 2 |
-| New words | **about 40 per lesson** → all of 初級 and 中級 (1,749) plus about 650 frequent 中高級 words |
+| New words | **about 40 per lesson** (45 planned from P36) → all of 初級 and 中級, plus the most frequent 中高級 words |
 | Length | 20–30 lines, as in Tsheh-tû |
 | **Accent** | **Sixian only.** No Hailu lines in 進修 (user's decision). Word cards may still show the Hailu form taken automatically from `v_word_parallel`; nothing is written by hand. The app labels Part 2 "Sixian only" |
 | Story | **Sam back in Taiwan** for a second year near Miaoli / Hsinchu; he sits the 中級 certification. The 劉 family, 阿舅 in 竹東 and the 美濃 couple recur. Prose genres (article, tale, news, document…) need no cast |
-| Method | Words first: take 40–60 untaught words (`make coverage`), group them, then find a genre and a scene that hold 30–40; verify every word in one pass before writing; prefer official sentences |
-| Exercises | Two exercises of 5 items each (translate, fill) |
+| Method | Words first. P1–P35: take 40–60 untaught words (`python3 -I tools/coverage.py 1100`), group them by theme, find a genre and a scene that hold 30–40, verify every word with `tools/candidates.py`. From P36: the packet (`make packet N=`) gives the words and their official sentences; `candidates.py` only for a word outside the packet |
+| Exercises | Two exercises of 5 items each (translate, fill); no exercise-only new words |
+| Reviews | Each review lesson reuses at least 3 new words from each of the six lessons before it |
 | Files | `course/perfectionnement/NN.yaml`, `id: N` (internal id 100 + N), field `genre:`, `speaker:` optional in prose; `sx` block only |
-| Review loop | One brief per batch (`course/batches/PNN.md`), a fresh-agent review against the database, fixes, then the checklist is updated |
+| Review loop | One brief per batch (`course/batches/PNN.md`), a fresh-agent review against the database, fixes; then each finding becomes a rule in `rules.yaml` or a line in `card.md`, with its evidence in `checklist.md` |
 | App | "Second notebook" after the grid of 100, as in Tsheh-tû; waits for the app |
 
 ## Recycling Part 1's exercise-only words (decided 8 Nov 2026)
-`course/batches/recycle.tsv` lists the **258 words Part 1 declares but no dialogue uses**: the 106 basic words added
-in the light revision (exercises only) and older exercise-only words. Part 1 is not reopened. Instead, batches P1–P21
-reuse these words on purpose in their texts:
+`course/batches/recycle.tsv` lists the Part 1 words that no dialogue uses: the 106 basic words added in the light
+revision (exercises only) and older exercise-only words. Part 1 is not reopened. Instead, 進修 lessons reuse these words
+on purpose in their texts:
 - they are not new words (no `new_words` entry); a note may point back with "(lesson N)";
-- each batch brief lists the ones it picks up; aim to use every word at least once by P21;
-- regenerate the list after each batch and remove the words used.
+- after each batch, `python3 -I tools/packets.py recycle` removes the words used.
 
 ## Genres
 Tsheh-tû's set: dialogue, article, letter, interview, tale, speech, essay, document, song, news, play, diary, debate,
@@ -42,11 +78,8 @@ story. Hakka additions to use where the words fit:
 - an **exam paper** (the 中級 format: listening, reading, picture description) as a document lesson, in the batch
   where Sam sits the test.
 
-## Tools to port or adapt
-`make lint` and `make coverage` must scan `course/perfectionnement/` and accept lessons with no `hl` block.
-Port from Tsheh-tû as needed: `candidates.py` (one-pass word check), `xrefs.py` (lesson references in notes,
-duplicate `new_words`), `qc_readings.py`, `qc_glosses.py`, `fresh.py` / `taught_later.py`.
-
-## Next
-1. Adapt lint and coverage to `course/perfectionnement/` (Sixian only).
-2. Brief for batch P1–P7 (words first), agreed with the user, then write.
+## Tools
+`tools/lint.py` and `tools/coverage.py` scan `course/perfectionnement/` (Sixian only, 中高級 included).
+`tools/candidates.py` does the one-pass word check. `tools/packets.py` (plan, packet, status, recycle) and
+`course/batches/rules.yaml` were added on 10 Nov 2026; lint now checks exercise `source:` lines.
+Still to port from Tsheh-tû if needed: `xrefs.py`, `qc_readings.py`, `qc_glosses.py`, `fresh.py` / `taught_later.py`.

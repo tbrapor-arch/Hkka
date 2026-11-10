@@ -4,12 +4,13 @@
 # make lookup W=今晡日
 # make sources  render docs/sources.yaml → docs/sources.md
 # make lint      check the lessons; make coverage  what is taught, what comes next
+# make packet N=36  進修: the packet for lesson P36 (words, official sentences, recycle) → course/packets/P36.md
 # make app       build the reader app → app/dist/index.html (one file); make site  installable site → _site/
 PY = python3 -I
 RAW = data/raw
 OUT = data/build
 
-.PHONY: data db lookup clean test sources lint coverage app site
+.PHONY: data db lookup clean test sources lint coverage app site packet
 data:
 	sh data/fetch.sh
 
@@ -36,6 +37,9 @@ lint:
 
 coverage:
 	$(PY) tools/coverage.py
+
+packet:
+	$(PY) tools/packets.py packet $(N)
 
 app:
 	$(PY) tools/build_app.py

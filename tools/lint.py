@@ -14,6 +14,12 @@ Per lesson:
   E  a new word not in the lists for that accent, or already declared in an earlier lesson
   W  a new word not used in the lesson; a word used before it is taught (names excepted)
   W  new-word count outside the syllabus target, or more Hakka-only / false-friend words than the cap (pacing.md)
+進修 (Part 2) only, added 10 Nov 2026 so that reviews no longer have to look for these by hand:
+  E  `source:` (dialogue and exercises) names a table that does not hold the sentence; `abridged: true` = part of one
+  W  a pattern from course/batches/rules.yaml (checklist rules a script can check); `ok: [rule-id]` on the line silences it
+  W  a new word used only in the exercises; a new word whose characters were already used in an earlier lesson
+  W  a new word whose characters are already declared under another reading
+  W  a review lesson that reuses fewer than 3 new words from one of the six lessons before it
 Exit code 1 if any E.
 """
 import glob
@@ -73,6 +79,49 @@ class Lexicon:
         # Official sentences give the southern Sixian (or other accent) variant in brackets: 買豆油轉來（歸來）. A line
         # quoting the sentence without the brackets is still that sentence.
         self.examples |= {re.sub(r"（[^）]*）", "", h) for h in self.examples if "（" in h}
+        # per table, for `source:` (the Sixian sentences of the official lists; MOE examples carry no accent)
+        self.pool = {t: set() for t in ("kaga115", "kaga", "moe", "sentence")}
+        for src, h in con.execute("SELECT source, hanzi FROM example WHERE source = 'moe' OR accent = 'sixian' "
+                                  "UNION SELECT 'sentence', hanzi FROM sentence"):
+            if src in self.pool and h:
+                self.pool[src].update((h, re.sub(r"（[^）]*）", "", h)))
+
+
+def load_rules():
+    p = os.path.join(ROOT, "course/batches/rules.yaml")
+    if not os.path.exists(p):
+        return []
+    rules = (yaml.safe_load(open(p, encoding="utf-8")) or {}).get("rules", [])
+    for r in rules:
+        r["re"] = re.compile(r["hanzi"])
+    return rules
+
+
+def check_source(lex, src, hanzi, abridged):
+    """None if `source: src` is right for this sentence, else the message."""
+    if src not in lex.pool:
+        return f"source: {src} is not a table (kaga115, kaga, moe, sentence)"
+    if hanzi in lex.pool[src]:
+        return None
+    if abridged:
+        if any(hanzi.rstrip("。！？") in h for h in lex.pool[src]):
+            return None
+        return f"abridged: true, but no {src} sentence contains it"
+    other = [t for t in lex.pool if hanzi in lex.pool[t]]
+    if other:
+        return f"marked source: {src} but the sentence is in {', '.join(other)}"
+    return f"marked source: {src} but not an exact official sentence"
+
+
+def char_keys(block, acc):
+    """Tone-value key of each character of a block, or None when characters and syllables do not align."""
+    hanzi, pinyin = block.get("hanzi", ""), block.get("pinyin", "")
+    for latin in re.findall(r"[A-Za-zÀ-ÿ]+", hanzi):
+        pinyin = re.sub(rf"(?<![A-Za-zÀ-ÿ]){latin}(?![A-Za-zÀ-ÿ])", " ", pinyin, count=1)
+    sylls = py.syllables(pinyin, acc)
+    if len(sylls) != len(hanzi_units(hanzi)):
+        return None
+    return [f"{s}{v or ''}" for s, v in sylls]
 
 
 def hanzi_units(h):
@@ -150,6 +199,10 @@ def is_part2(path):
     return os.path.basename(os.path.dirname(os.path.abspath(path))) == "perfectionnement"
 
 
+# The checks on new words added on 10 Nov 2026 start with the lessons written after them: P1–P35 were reviewed by hand
+# and their findings of these kinds (幾久 used in lesson 96 before P1 declares it, 逐 dagˋ / giugˋ) were accepted.
+CHECK_FROM = 36
+
 GENRES = {"dialogue", "article", "letter", "interview", "tale", "speech", "essay", "document", "song", "news",
           "play", "diary", "debate", "story", "review"}
 
@@ -165,6 +218,10 @@ def main():
     files = lesson_files(sys.argv[1:])
     lex = Lexicon()
     syl = load_syllabus()
+    rules = load_rules()
+    earlier = []         # (lesson tag, where, characters, keys) of every Sixian line so far
+    new_by_lesson = {}   # 進修 id → set of (hanzi, key)
+    read_as = defaultdict(dict)   # hanzi → {key: lesson tag}
     taught = {}          # (hanzi, key) → lesson id, Sixian
     errors = 0
 
@@ -210,8 +267,39 @@ def main():
                 if hk not in lex.words["hailu"].get(hl.get("hanzi", ""), ()):
                     say(path, "new_words", "W", f"hl {hl.get('hanzi')} {hl.get('pinyin')}: not in the Hailu lists with this reading")
             new_keys.add((hz, k))
+            if part2 and d.get("id", 0) >= CHECK_FROM:
+                for k0, tag0 in read_as[hz].items():
+                    if k0 != k:
+                        say(path, "new_words", "W", f"{hz} {w.get('pinyin')}: same characters already declared as {k0} "
+                            f"in lesson {tag0}: check that the gloss says which sense this is")
+                if len(hz) > 1 and (hz, k) not in taught:
+                    kk = k.split("-")
+                    for tag0, where0, text0, keys0 in earlier:
+                        i = text0.find(hz)
+                        if i >= 0 and keys0[i:i + len(kk)] == kk:
+                            say(path, "new_words", "W", f"{hz}: already used in lesson {tag0} ({where0}) before it is taught here")
+                            break
+            read_as[hz].setdefault(k, ("P" if part2 else "") + str(d.get("id")))
 
         used = set()
+        used_dialogue = set()
+        lines_here = []
+
+        def check_rules(where, item, block, quoted):
+            text = block.get("hanzi", "")
+            keys = None
+            for r in rules:
+                if (quoted and not r.get("quotes")) or r["id"] in (item.get("ok") or []):
+                    continue
+                for m in r["re"].finditer(text):
+                    if r.get("key"):
+                        keys = keys or char_keys(block, "sixian")
+                        a = len(hanzi_units(text[:m.start()]))
+                        b = a + len(hanzi_units(m.group()))
+                        if not keys or r["key"] not in "-".join(keys[a:b]):
+                            continue
+                    say(path, where, "W", f"rule {r['id']}: {m.group()} — {r['msg']}")
+                    break
 
         def check(where, block, acc_key):
             if not block:
@@ -226,6 +314,10 @@ def main():
                 say(path, where, "E", f"{acc_key} groups must equal pinyin with | added between tone groups")
             if acc == "sixian":
                 used.update(words)
+                ck = char_keys(block, "sixian")
+                if ck:
+                    lines_here.append((where, "".join(hanzi_units(block.get("hanzi", ""))), ck))
+            return words
 
         for line in d.get("dialogue") or []:
             where = f"line {line.get('n', '?')}"
@@ -234,11 +326,19 @@ def main():
             for a in accents:
                 if not (line.get(a) or {}).get("hanzi") or not (line.get(a) or {}).get("pinyin"):
                     say(path, where, "E", f"missing {a} hanzi/pinyin" + ("" if part2 else " (both accents are written alongside)"))
-                check(where, line.get(a), a)
+                ws = check(where, line.get(a), a)
+                if a == "sx":
+                    used_dialogue.update(ws or ())
+            if part2 and line.get("sx"):
+                check_rules(where, line, line["sx"], bool(line.get("source")))
             if part2 and line.get("hl"):
                 say(path, where, "W", "進修 is Sixian only: hl block ignored")
             src = line.get("source")
-            if src and (line.get("sx") or {}).get("hanzi") not in lex.examples:
+            if src and part2:
+                msg = check_source(lex, src, (line.get("sx") or {}).get("hanzi", ""), line.get("abridged"))
+                if msg:
+                    say(path, where, "E", msg)
+            elif src and (line.get("sx") or {}).get("hanzi") not in lex.examples:
                 say(path, where, "E", f"marked source: {src} but not an exact official sentence")
         for kind, items in (d.get("exercises") or {}).items():
             for j, it in enumerate(items or []):
@@ -249,6 +349,12 @@ def main():
                     b["hanzi"] = b.get("hanzi", "").replace("___", b.get("answer_hanzi", ""))
                     b["pinyin"] = b.get("pinyin", "").replace("___", b.get("answer", ""))
                     check(f"exercises.{kind}[{j}]", b, a)
+                    if part2 and a == "sx":
+                        check_rules(f"exercises.{kind}[{j}]", it, b, bool(it.get("source")))
+                        if it.get("source"):
+                            msg = check_source(lex, it["source"], b["hanzi"], it.get("abridged"))
+                            if msg:
+                                say(path, f"exercises.{kind}[{j}]", "E", msg)
 
         for hz, k in sorted(new_keys - used):
             say(path, "new_words", "W", f"{hz}: declared new but not used in the lesson")
@@ -256,6 +362,17 @@ def main():
             say(path, "words", "W", f"{hz} {k}: used before it is taught (add to new_words, or teach it earlier)")
         for k in new_keys:
             taught.setdefault(k, n)
+        if part2:
+            for hz, k in sorted(new_keys & used - used_dialogue) if d.get("id", 0) >= CHECK_FROM else ():
+                say(path, "new_words", "W", f"{hz}: new word used only in the exercises (進修: every new word is in the text)")
+            new_by_lesson[d.get("id")] = set(new_keys)
+            if d.get("review"):
+                for m in range(d.get("id") - 6, d.get("id")):
+                    got = len(new_by_lesson.get(m, set()) & used_dialogue)
+                    if m in new_by_lesson and new_by_lesson[m] and got < 3:
+                        say(path, "dialogue", "W", f"review reuses {got} new word(s) of 進修 {m}; at least 3 from each of the six lessons before")
+        tag = ("P" if part2 else "") + str(d.get("id"))
+        earlier.extend((tag, w0, t0, k0) for w0, t0, k0 in lines_here)
 
         if part2 and not d.get("review") and not 32 <= len(new) <= 55:
             say(path, "new_words", "W", f"{len(new)} new words; 進修 aims at about 40")

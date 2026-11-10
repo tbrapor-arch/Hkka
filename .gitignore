@@ -22,3 +22,4 @@ __pycache__/
 # The app, built by `make app` / the Pages workflow
 app/dist/
 _site/
+course/packets/P*.md

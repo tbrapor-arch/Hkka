@@ -1,0 +1,71 @@
+# Checklist rules a script can check. `make lint` reads this file and warns (W) on every Sixian line or exercise that
+# matches. Each rule comes from a review finding in checklist.md, which keeps the evidence.
+#
+#   hanzi:   regular expression on the line as written (characters and punctuation)
+#   key:     optional. Warn only when the matched characters are read with this tone-value key (逐 read giug2)
+#   quotes:  optional, default false. false = lines with `source:` are skipped (an official sentence is quoted as it is)
+#   msg:     what to write instead, and where the rule comes from
+#
+# A line that breaks a rule on purpose: add `ok: [rule-id]` to the line (or to the exercise item).
+# After each batch review: a finding that a pattern can catch becomes a rule here; the others go into card.md.
+
+rules:
+  # --- readings chosen by sense (lint accepts any listed reading) ---
+  - id: zhu-every
+    hanzi: "逐(?=[日禮項年擺個隻儕暗朝月家條張間])"
+    key: giug2
+    msg: "逐 'every' is dagˋ; giugˋ is 'chase' (batches 4–5)"
+  - id: zai-at
+    hanzi: "(?<![現實存好所自])在(?!該)"
+    key: cai55
+    msg: "在 'be at' is coiˊ in speech; cai is the literary reading (在該 + verb: du ge)"
+  - id: he-match
+    hanzi: "(?<!上合)合(?=八字|婚)"
+    key: gab2
+    msg: "合 'match' is hab; gab only in 上合合 (batches 2–3)"
+  - id: shu-cooked
+    hanzi: "[煮蒸炒煎烳燉焙]熟|熟吔"
+    key: xiug2
+    msg: "熟 'cooked' is sug; xiugˋ is 'ripe' (batches 4–5). Check the sense"
+  - id: hao-like
+    hanzi: "恁好(?=[食啉講看聽睡尞買唱寫讀逞])"
+    key: "an31-ho31"
+    msg: "好 before a verb ('keen to') is hau, also after 恁; hoˋ + verb is 'easy / good to'. Check the sense"
+
+  # --- words ---
+  - {id: what-time, hanzi: "(?<!多)幾點(?!鐘)", msg: "'what time' is 幾多點, not 幾點"}
+  - {id: injection, hanzi: "打針", msg: "an injection is 注射 (打針 unattested, batch 6)"}
+  - {id: young, hanzi: "年輕人", msg: "'young people' is 後生人 (official 54; 年輕人 none)"}
+  - {id: miss, hanzi: "想念", msg: "'I miss you' is 盡想你; 想念 has no official sentence"}
+  - {id: online, hanzi: "網路項", msg: "'online' is 在網路"}
+  - {id: finish-eating, hanzi: "食煞", msg: "'finish eating' is 食飽 (食煞 unattested)"}
+  - {id: drop-in, hanzi: "跌忒在", msg: "跌在, not 跌忒在"}
+  - {id: letter-cl, hanzi: "張信", msg: "一封信仔, not 一張信"}
+  - {id: named, hanzi: "名喊", msg: "names: X 安到 Y; 名喊 is unattested"}
+  - {id: not-worth, hanzi: "無值", msg: "'not worth it' is 毋值; 無值 is unattested"}
+  - {id: abnormal, hanzi: "毋正常", msg: "無正常 (official 0 / 4)"}
+  - {id: to-this-day, hanzi: "到今晡日", msg: "'to this day' is 到今 (36 official; 到今晡日 0)"}
+  - {id: good-points, hanzi: "好个所在", msg: "a calque for 'good points': use 優點 or 好處"}
+  - {id: live, hanzi: "(?<![毋居])住(?![址宿民院戶])", msg: "'live (somewhere)' is 歇 hed; 住 only in compounds (住址, 對毋住)"}
+  - {id: dating, hanzi: "交往", msg: "交往 has no list reading; 'girlfriend' is 女朋友"}
+  - {id: send-to, hanzi: "寄去", msg: "寄到哪位, not 寄去"}
+  - {id: mute, hanzi: "毋會講話", msg: "毋會講話 means 'mute': not 'no good at talking'"}
+  - {id: do-wrong, hanzi: "做毋著", msg: "V毋著 is 'not manage to'; 'do it wrong' is V毋對"}
+  - {id: news-cl, hanzi: "隻新聞", msg: "news items take 條 (一條新聞)"}
+  - {id: problem-cl, hanzi: "條問題", msg: "問題 takes 隻 or 個, not 條"}
+  - {id: together-total, hanzi: "共下[一兩三四五六七八九十百千幾]", msg: "共下 is 'together'; 'in all' is 總共"}
+
+  # --- grammar ---
+  - id: bare-m-adj
+    hanzi: "(?<![係做])毋(?=貴|辣|甜|嚴重|譴|遠|靚|熱|寒|痛|難|簡單|方便|便宜|鹹|酸|苦|忙|閒|淨俐|鬧熱|危險)"
+    msg: "no bare 毋 + adjective: 毋會貴, 無甜 (毋好 'bad' is the one exception)"
+  - {id: never, hanzi: "從來毋(?!識)", msg: "'never': 從來毋識 + verb (6 official); bare 從來毋 + verb has none"}
+  - {id: not-many, hanzi: "(?<![差])毋多(?!謝)", msg: "'not many' after a verb is V無幾多 (賺無幾多錢), not V毋多"}
+  - {id: more-number, hanzi: "多[歇買食讀][一兩三四五六七八九十幾]", msg: "with a number the verb comes first with 加: 歇加兩暗晡"}
+  - {id: add-before-verb, hanzi: "加[買讀識](?!兜)", msg: "adverb after the verb: 買加兜仔, 讀加兜仔書"}
+  - {id: comparative, hanzi: "[高大長細靚貴遽]過[你佢𠊎]", msg: "X A 過 Y is not in the data: 比 + 較 + A (or 比 + A + amount)"}
+  - {id: told-you, hanzi: "𠊎講吔", msg: "'I told you' is 𠊎講過吔 / 𠊎就同你講過吔"}
+  - {id: thanks-alone, hanzi: "恁仔細[你大佢逐各]", msg: "恁仔細 stands alone: nothing follows it (batch 7)"}
+  - {id: predicative, hanzi: "恁[大多]仔个", msg: "恁大仔 / 恁多仔 are predicative only: 皮箱正恁大仔"}
+  - {id: number-cl, hanzi: "[十百千萬][零過]人", msg: "number + 零 / 過 takes its classifier: 兩百零个人, 十過個"}
+  - {id: final-le, hanzi: "了(?=[。！？」]|$)", msg: "the course writes sentence-final 吔 leˊ (MOE quotations keep 了: mark them `source: moe`)"}
