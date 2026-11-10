@@ -3,6 +3,7 @@
 
   python3 -I tools/packets.py plan [--force]   # split the untaught words into one packet per lesson → course/packets/plan.tsv
   python3 -I tools/packets.py packet N         # write course/packets/PNN.md for lesson PN (run just before writing PN)
+  python3 -I tools/packets.py short N          # the packet on one screen: each word with its clean sentences only
   python3 -I tools/packets.py status           # planned / taught per lesson, words left over
   python3 -I tools/packets.py recycle          # after a batch: drop from course/batches/recycle.tsv the words a 進修 text now uses
 
@@ -63,11 +64,13 @@ def lesson_paths():
 class State:
     """What the written lessons teach."""
 
-    def __init__(self):
+    def __init__(self, skip=None):
         self.taught = set()                 # (hanzi, pkey)
         self.declared = defaultdict(list)   # hanzi → [(tag, pinyin)]
         self.written = set()                # 進修 lesson numbers that exist
         for f in lesson_paths():
+            if skip and os.path.abspath(f) == os.path.abspath(skip):
+                continue                    # the lesson being drafted does not teach itself
             d = yaml.safe_load(open(f, encoding="utf-8"))
             p2 = "perfectionnement" in f
             if p2:
@@ -334,6 +337,27 @@ def make_packet(n):
           f"{len(multi)} with 2+ packet words")
 
 
+def short(n):
+    """The packet in a few dozen lines: word, reading, gloss, flags, then its clean official sentences."""
+    path = os.path.join(PDIR, f"P{n:02d}.md")
+    make_packet(n)
+    t = open(path, encoding="utf-8").read()
+    flags = {}
+    for line in t.split("## Official sentences per word")[0].splitlines():
+        c = [x.strip() for x in line.split("|")]
+        if len(c) > 7 and c[1] not in ("word", "---"):
+            flags[c[1]] = c[7]
+    body = t.split("## Official sentences per word")[1].split("## Clean sentences with two")[0]
+    for block in body.strip().split("\n\n"):
+        ls = block.split("\n")
+        head = ls[0].split(" · official")[0].replace("**", "")
+        clean = [x[2:].split(" · ")[0].replace("[clean] ", "") for x in ls[1:] if x.startswith("- [clean]")]
+        other = [x[2:].split(" · ")[0] for x in ls[1:] if x.startswith("- [+")]
+        fl = flags.get(head.split()[0], "")
+        print(head + (f"  ⚑ {fl}" if fl else "") + " || " + (" / ".join(clean[:3]) or "~ " + " / ".join(other[:2])))
+    print(t.split("## Clean sentences with two")[1].strip())
+
+
 def status():
     con, st = sqlite3.connect(DB), State()
     plan = read_plan()
@@ -378,6 +402,8 @@ if __name__ == "__main__":
         make_plan("--force" in a)
     elif a[:1] == ["packet"] and len(a) == 2:
         make_packet(int(a[1].lstrip("Pp")))
+    elif a[:1] == ["short"] and len(a) == 2:
+        short(int(a[1].lstrip("Pp")))
     elif a[:1] == ["status"]:
         status()
     elif a[:1] == ["recycle"]:

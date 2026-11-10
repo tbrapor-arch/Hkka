@@ -1,0 +1,308 @@
+id: 36
+genre: dialogue
+title:
+  en: "Chopsticks only work as a pair"
+  sx: {hanzi: "筷仔愛鬥雙正挾得", pinyin: "kuai eˋ oi deu sungˊ zang giabˋ dedˋ"}
+review: false
+setting: >-
+  Tuesday 27 February 2029, the fifteenth of the first lunar month, late afternoon at the Liu house. Term started
+  last week. Grandma is making rice balls, Grandpa is hanging the lanterns, and A-min is hungry.
+names: [Sam, 阿公, 阿婆, 阿爸, 阿姆, 阿姊, 阿明, 阿英, 阿強]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, you haven't been here for so long! Today is the fifteenth of the first month: tonight we eat rice balls."
+    sx: {hanzi: "Sam 恁久無來吔！今晡日正月半，暗晡夜愛食雪圓仔。", pinyin: "Sam anˋ giuˋ moˇ loiˇ leˊ! gimˊ buˊ ngidˋ zangˊ ngied ban, am buˊ ia oi siid xiedˋ ienˇ eˋ."}
+  - n: 2
+    speaker: Sam
+    en: "Term started this week, so I've been busy. This term I have to pass the university's exam first; only then can I sit the intermediate test."
+    sx: {hanzi: "因爭這禮拜開學，故所較無閒。這學期𠊎愛先通過學校个考試，正做得去考中級。", pinyin: "inˊ zenˊ iaˋ liˊ bai koiˊ hog, gu soˋ ka moˇ hanˇ. iaˋ hog kiˇ ngaiˇ oi xienˊ tungˊ go hog gauˋ ge kauˋ sii, zang zo dedˋ hi kauˋ zungˊ kibˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "In the old days, at New Year and festivals, most people ground their own rice for the cakes."
+    source: kaga
+    sx: {hanzi: "頭擺人過年過節，大部分自家磨粄仔。", pinyin: "teuˇ baiˋ nginˇ go ngienˇ go jiedˋ, tai pu fun qi gaˊ mo banˋ eˋ."}
+  - n: 4
+    speaker: 阿婆
+    en: "I have ground the rice. Come: take a pinch of dough and roll it round between your two hands. Roll it gently; don't squeeze it hard."
+    sx: {hanzi: "米𠊎磨好吔。來，扡一息仔粄，用兩隻手挼圓來。輕輕仔挼，毋好大力撚。", pinyin: "miˋ ngaiˇ mo hoˋ leˊ. loiˇ, iaˋ idˋ xid eˋ banˋ, iung liongˋ zagˋ suˋ noˇ ienˇ loiˇ. kiangˊ kiangˊ eˋ noˇ, mˇ hoˋ tai lid ngienˋ."}
+    check: true
+  - n: 5
+    speaker: 阿明
+    en: "Grandma, look at the ones Sam rolled: one big, one small!"
+    sx: {hanzi: "阿婆，你看 Sam 挼个，一隻大一隻細！", pinyin: "aˊ poˇ, nˇ kon Sam noˇ ge, idˋ zagˋ tai idˋ zagˋ se!"}
+  - n: 6
+    speaker: 阿婆
+    en: "Then you have a try!"
+    source: kaga115
+    sx: {hanzi: "無你就試看啊吔！", pinyin: "moˇ nˇ qiu cii kon a leˊ!"}
+  - n: 7
+    speaker: 阿明
+    en: "The dough is so sticky: I've got it all over both hands."
+    sx: {hanzi: "粄恁黏，搣到𠊎兩隻手都係粄。", pinyin: "banˋ anˋ ngiamˇ, medˋ do ngaiˇ liongˋ zagˋ suˋ du he banˋ."}
+    check: true
+  - n: 8
+    speaker: 阿姆
+    en: "This outfit looks really good: go on, try it on!"
+    source: kaga115
+    sx: {hanzi: "這身衫褲異好看，你做得試著看啊！", pinyin: "iaˋ siinˊ samˊ fu i hoˋ kon, nˇ zo dedˋ cii zogˋ kon a!"}
+  - n: 9
+    speaker: Sam
+    en: "Thank you! I'll try the new clothes on after dinner."
+    sx: {hanzi: "恁仔細！這身新衫褲，𠊎食飽正試著。", pinyin: "anˋ ziiˋ se! iaˋ siinˊ xinˊ samˊ fu, ngaiˇ siid bauˋ zang cii zogˋ."}
+  - n: 10
+    speaker: 阿公
+    en: "A-min, come and help me hang the lanterns. I'll point them out to you: the red ones hang on this side, the yellow ones on that side. This string is ten feet long. Tie it tight, or they will come loose and fall. There's a flame inside the lanterns: don't play with them."
+    sx: {hanzi: "阿明，來𢯭手吊燈籠。𠊎指分你看：紅个吊這片，黃个吊該片。這條索仔有十尺長，愛繫緪來，無會落下來。燈籠肚有火，毋好弄。", pinyin: "aˊ minˇ, loiˇ ten suˋ diau denˊ nungˇ. ngaiˇ ziiˋ bunˊ nˇ kon: fungˇ ge diau iaˋ pienˋ, vongˇ ge diau ge pienˋ. iaˋ tiauˇ sogˋ eˇ iuˊ siib cagˋ congˇ, oi gieˊ henˇ loiˇ, moˇ voi lau haˊ loiˇ. denˊ nungˇ duˋ iuˊ foˋ, mˇ hoˋ nung."}
+    check: true
+  - n: 11
+    speaker: 阿公
+    en: "Stand still, stop moving about."
+    source: kaga115
+    sx: {hanzi: "企等，莫緊停動。", pinyin: "kiˊ denˋ, mog ginˋ tinˇ tungˊ."}
+  - n: 12
+    speaker: 阿婆
+    en: "A-in, go and pick two flowers in the garden, and bring a bundle of incense too: we must honour the ancestors."
+    sx: {hanzi: "阿英，去花園採兩蕊花，還過拿一把香來，愛拜阿公婆。", pinyin: "aˊ inˊ, hi faˊ ienˇ caiˋ liongˋ luiˊ faˊ, hanˇ go naˊ idˋ baˋ hiongˊ loiˇ, oi bai aˊ gungˊ poˇ."}
+    check: true
+  - n: 13
+    speaker: 阿英
+    en: "The garden is full of bugs everywhere. I can't stand bugs!"
+    sx: {hanzi: "花園肚哪仔都係蟲仔，𠊎盡惱蟲仔！", pinyin: "faˊ ienˇ duˋ nai eˋ du he cungˇ eˋ, ngaiˇ qin nauˊ cungˇ eˋ!"}
+  - n: 14
+    speaker: 阿姆
+    en: "What are you rummaging for over there?"
+    source: kaga115
+    sx: {hanzi: "你在該揙麼个東西？", pinyin: "nˇ du ge bienˋ maˋ ge dungˊ xiˊ?"}
+  - n: 15
+    speaker: 阿明
+    en: "I'm hungry. Apart from rice balls, what else is there to eat?"
+    sx: {hanzi: "𠊎肚飢吔。除忒雪圓仔，還有麼个好食？", pinyin: "ngaiˇ duˋ giˊ leˊ. cuˇ tedˋ xiedˋ ienˇ eˋ, hanˇ iuˊ maˋ ge hoˋ siid?"}
+  - n: 16
+    speaker: 阿姆
+    en: "Don't rummage in the corner: Grandpa has put poison down there for the rats."
+    sx: {hanzi: "角項个東西莫揙，阿公放等藥仔愛毒老鼠。", pinyin: "gogˋ hong ge dungˊ xiˊ mog bienˋ, aˊ gungˊ biong denˋ iog eˋ oi teu lo cuˋ."}
+  - n: 17
+    speaker: 阿婆
+    en: "There's sweet potato soup stewing in the big pot: if you're hungry you can have some as a snack."
+    source: kaga
+    sx: {hanzi: "大鑊裡肚燉等有番薯湯，你肚飢做得食點心。", pinyin: "tai vog diˊ duˋ dunˊ denˋ iuˊ fanˊ suˇ tongˊ, nˇ duˋ giˊ zo dedˋ siid diamˋ ximˊ."}
+  - n: 18
+    speaker: 阿英
+    en: "When he eats sweet potatoes he farts and farts."
+    source: kaga115
+    sx: {hanzi: "佢食番薯，緊打屁。", pinyin: "giˇ siid fanˊ suˇ, ginˋ daˋ pi."}
+  - n: 19
+    speaker: 阿明
+    en: "She's laughing at me again! I'm telling Dad!"
+    sx: {hanzi: "阿姊又笑𠊎！𠊎愛投阿爸！", pinyin: "aˊ jiˋ iu seu ngaiˇ! ngaiˇ oi teuˇ aˊ baˊ!"}
+  - n: 20
+    speaker: 阿英
+    en: "The slightest thing and he says he'll tell Dad."
+    source: kaga115
+    sx: {hanzi: "動啊著就講愛投阿爸。", pinyin: "tungˊ a doˋ qiu gongˋ oi teuˇ aˊ baˊ."}
+  - n: 21
+    speaker: 阿婆
+    en: "All right, all right. Dad is splitting firewood out the back: call him in to eat. The rice balls are cooked, and the nine-layer cake is eaten dipped in soy sauce."
+    sx: {hanzi: "好吔，好吔。阿爸在後背破樵，喊佢入來食飯。雪圓仔煮好吔，九層粄蘸豆油來食。", pinyin: "hoˋ leˊ, hoˋ leˊ. aˊ baˊ coiˊ heu boi po ceuˇ, ham giˇ ngib loiˇ siid fan. xiedˋ ienˇ eˋ zuˋ hoˋ leˊ, giuˋ cenˇ banˋ jiamˋ teu iuˇ loiˇ siid."}
+  - n: 22
+    speaker: Sam
+    en: "The rice balls are so slippery, I can't get hold of them."
+    sx: {hanzi: "雪圓仔恁滑，𠊎挾毋著。", pinyin: "xiedˋ ienˇ eˋ anˋ vad, ngaiˇ giabˋ mˇ doˋ."}
+  - n: 23
+    speaker: 阿婆
+    en: "Chopsticks have to make a pair before they can pick anything up."
+    source: kaga115
+    sx: {hanzi: "筷仔愛鬥雙正挾得。", pinyin: "kuai eˋ oi deu sungˊ zang giabˋ dedˋ."}
+  - n: 24
+    speaker: 阿姆
+    en: "A-min, if it's hot, blow on it before you eat. Don't spit it out!"
+    sx: {hanzi: "阿明，燒就歕啊正食，毋好呸出來！", pinyin: "aˊ minˇ, seuˊ qiu punˇ a zang siid, mˇ hoˋ pi cudˋ loiˇ!"}
+    check: true
+  - n: 25
+    speaker: 阿公
+    en: "Tonight the temperature will drop: put on more clothes to go out. After dinner let's all go into town to see the lanterns."
+    sx: {hanzi: "暗晡夜溫度會降下來，出門愛著加兜衫。食飽𫣆大家來去街項看燈籠。", pinyin: "am buˊ ia vunˊ tu voi gong haˊ loiˇ, cudˋ munˇ oi zogˋ gaˊ deuˊ samˊ. siid bauˋ enˊ tai gaˊ loiˇ hi gieˊ hong kon denˊ nungˇ."}
+  - n: 26
+    speaker: 阿明
+    en: "It must be two kilometres from here to town. Can I go on A-kiong's scooter?"
+    sx: {hanzi: "這到街項怕有兩公里遠，𠊎坐阿強个機車去好無？", pinyin: "iaˋ do gieˊ hong pa iuˊ liongˋ gungˊ liˊ ienˋ, ngaiˇ coˊ aˊ kiongˇ ge giˊ caˊ hi hoˋ moˇ?"}
+  - n: 27
+    speaker: 阿公
+    en: "Young people shouldn't copy the ones who race about: it's very dangerous."
+    source: kaga115
+    sx: {hanzi: "後生人毋好學人飆車，當危險。", pinyin: "heu sangˊ nginˇ mˇ hoˋ hog nginˇ beuˊ caˊ, dongˊ nguiˇ hiamˋ."}
+  - n: 28
+    speaker: 阿爸
+    en: "There's a lot of traffic: take care going in and out."
+    source: kaga115
+    sx: {hanzi: "車仔多，出入愛注意。", pinyin: "caˊ eˋ doˊ, cudˋ ngib oi zu i."}
+  - n: 29
+    speaker: 阿婆
+    en: "Don't go yet! Everybody helps at the same time: all the bowls and chopsticks go to the kitchen."
+    sx: {hanzi: "先莫走！大家同時𢯭手，碗同筷仔做下拿去灶下。", pinyin: "xienˊ mog zeuˋ! tai gaˊ tungˇ siiˇ ten suˋ, vonˋ tungˇ kuai eˋ zo ha naˊ hi zo haˊ."}
+    check: true
+  - n: 30
+    speaker: 阿英
+    en: "Today it's your turn to take out the rubbish."
+    source: kaga115
+    sx: {hanzi: "今晡日輪著你倒地圾。", pinyin: "gimˊ buˊ ngidˋ lunˇ doˋ nˇ doˋ ti sebˋ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is an official sentence (line 23): 筷仔愛鬥雙正挾得 "chopsticks must make a pair before they can pick up".
+      鬥雙 deu sungˊ is "make a pair" (進修 34); 挾 giabˋ is "pick up with chopsticks". Grandma says it about chopsticks;
+      people say it about work that needs two.
+  - ref: 1
+    topic: vocab
+    text: >
+      正月半 zangˊ ngied ban is "the fifteenth of the first month", the lantern festival. Its rice balls are 雪圓仔 xiedˋ
+      ienˇ eˋ in Sixian; the MOE dictionary gives 粄圓 as the word of the other accents.
+  - ref: 2
+    topic: grammar
+    text: >
+      因爭 inˊ zenˊ … 故所 … "because …, so …" (因爭考毋好，故所無出去尞). 通過 tungˊ go "pass (an exam), get through" (你愛先通過這擺个考試).
+  - ref: 4
+    topic: vocab
+    text: >
+      Three verbs for the hand. 扡 iaˋ "take with the fingers"; as a measure, "a handful" (一扡米). 挼 noˇ "roll or rub
+      between the palms" (挼雪圓仔). 撚 ngienˋ "squeeze, pinch".
+  - ref: 6
+    topic: grammar
+    text: >
+      試看啊 cii kon a "have a try" (無你就試看啊吔！). 試著 cii zogˋ in line 8 is "try on (clothes)"; 試著看啊 "try it on and see".
+  - ref: 7
+    topic: vocab
+    text: >
+      搣 medˋ "handle, mess about with"; 搣到 + result "get something into a state" (好好一隻人公仔，分佢搣到壞壞). 都係 du he "is all,
+      are all".
+  - ref: 10
+    topic: pronunciation
+    text: >
+      落 has two readings. log "fall, come down" as in 落雨. lau "come loose and drop off", the one here. 繫 gieˊ "tie,
+      fasten" (繫皮帶仔); 緪 henˇ "tight". 尺 cagˋ is the Taiwanese foot, about 30 cm.
+  - ref: 11
+    topic: vocab
+    text: >
+      停動 tinˇ tungˊ "move, stir": 莫緊停動 "stop moving about".
+  - ref: 12
+    topic: vocab
+    text: >
+      Measure words: 蕊 luiˊ for flowers (摘一蕊花分你), 把 baˋ for a bundle held in the hand. 採 caiˋ "pick (flowers, tea)".
+  - ref: 13
+    topic: vocab
+    text: >
+      哪仔 nai eˋ "everywhere" (哪仔就聽得著厥聲). 惱 nauˊ "dislike, can't stand" (佢盡惱黃蚻).
+  - ref: 16
+    topic: pronunciation
+    text: >
+      毒 as a verb, "poison", is teu (毒老鼠). 揙 bienˋ "turn over, rummage" (你在該揙麼个東西？).
+  - ref: 17
+    topic: grammar
+    text: >
+      燉等有 dunˊ denˋ iuˊ: verb + 等 + 有 says that something has been made and is there waiting. 燉 dunˊ "stew, simmer".
+  - ref: 19
+    topic: vocab
+    text: >
+      投 teuˇ "tell on someone, complain to" (動啊著就講愛投阿爸: 動啊著 "at the slightest thing"). 打屁 daˋ pi "fart".
+  - ref: 21
+    topic: vocab
+    text: >
+      破 po "split, cut open" (破樵 "split firewood", 西瓜對半破). 九層粄 "nine-layer cake": 層 cenˇ "layer", also a measure. 蘸
+      jiamˋ "dip" (蘸豆油).
+  - ref: 25
+    topic: vocab
+    text: >
+      降 gong "go down, drop". 怕 pa before a number or a guess is "probably, it must be" (怕有十公斤重). 公里 gungˊ liˊ
+      "kilometre".
+  - ref: 27
+    topic: vocab
+    text: >
+      飆 beuˊ "dash, tear along"; 飆車 "race (a car, a scooter)". 出入 cudˋ ngib "going in and out, coming and going".
+  - ref: 30
+    topic: vocab
+    text: >
+      輪著你 lunˇ doˋ nˇ "it is your turn": 輪 lunˇ "take turns". 做下 zo ha "all, the whole lot" (樹仔做下燒淨淨). 同時 tungˇ siiˇ
+      "at the same time". 倒地圾 doˋ ti sebˋ "take out the rubbish": 倒 doˋ "tip out, pour away".
+
+new_words:
+  - {hanzi: "雪圓仔", pinyin: "xiedˋ ienˇ eˋ", en: "rice balls (tangyuan)"}
+  - {hanzi: "中", pinyin: "zungˊ", en: "middle; intermediate"}
+  - {hanzi: "輪", pinyin: "lunˇ", en: "take turns; be the turn of"}
+  - {hanzi: "因爭", pinyin: "inˊ zenˊ", en: "because"}
+  - {hanzi: "通過", pinyin: "tungˊ go", en: "pass (an exam), get through"}
+  - {hanzi: "磨", pinyin: "mo", en: "grind"}
+  - {hanzi: "扡", pinyin: "iaˋ", en: "take with the fingers; a handful"}
+  - {hanzi: "挼", pinyin: "noˇ", en: "roll or rub between the palms"}
+  - {hanzi: "撚", pinyin: "ngienˋ", en: "squeeze, pinch"}
+  - {hanzi: "試看", pinyin: "cii kon", en: "try, have a go"}
+  - {hanzi: "搣", pinyin: "medˋ", en: "handle, mess about with"}
+  - {hanzi: "都係", pinyin: "du he", en: "is all, are all"}
+  - {hanzi: "異", pinyin: "i", en: "very, quite"}
+  - {hanzi: "試著", pinyin: "cii zogˋ", en: "try on (clothes)"}
+  - {hanzi: "吊", pinyin: "diau", en: "hang"}
+  - {hanzi: "尺", pinyin: "cagˋ", en: "foot (30 cm)"}
+  - {hanzi: "繫", pinyin: "gieˊ", en: "tie, fasten"}
+  - {hanzi: "緪", pinyin: "henˇ", en: "tight"}
+  - {hanzi: "落", pinyin: "lau", en: "come loose and drop off"}
+  - {hanzi: "停動", pinyin: "tinˇ tungˊ", en: "move, stir"}
+  - {hanzi: "指", pinyin: "ziiˋ", en: "point at, point out"}
+  - {hanzi: "弄", pinyin: "nung", en: "play with"}
+  - {hanzi: "採", pinyin: "caiˋ", en: "pick (flowers, tea)"}
+  - {hanzi: "蕊", pinyin: "luiˊ", en: "(measure for flowers)"}
+  - {hanzi: "把", pinyin: "baˋ", en: "(measure) a bundle, a handful"}
+  - {hanzi: "哪仔", pinyin: "nai eˋ", en: "everywhere"}
+  - {hanzi: "惱", pinyin: "nauˊ", en: "dislike, can't stand"}
+  - {hanzi: "揙", pinyin: "bienˋ", en: "turn over, rummage"}
+  - {hanzi: "除忒", pinyin: "cuˇ tedˋ", en: "apart from; get rid of"}
+  - {hanzi: "毒", pinyin: "teu", en: "poison (verb)"}
+  - {hanzi: "燉", pinyin: "dunˊ", en: "stew, simmer"}
+  - {hanzi: "打屁", pinyin: "daˋ pi", en: "fart"}
+  - {hanzi: "投", pinyin: "teuˇ", en: "tell on, complain to; cast (a vote)"}
+  - {hanzi: "破", pinyin: "po", en: "split, cut open"}
+  - {hanzi: "層", pinyin: "cenˇ", en: "layer; (measure) storey"}
+  - {hanzi: "蘸", pinyin: "jiamˋ", en: "dip (in a sauce)"}
+  - {hanzi: "挾", pinyin: "giabˋ", en: "pick up with chopsticks"}
+  - {hanzi: "呸", pinyin: "pi", en: "spit out"}
+  - {hanzi: "降", pinyin: "gong", en: "go down, drop"}
+  - {hanzi: "怕", pinyin: "pa", en: "probably, it must be"}
+  - {hanzi: "公里", pinyin: "gungˊ liˊ", en: "kilometre"}
+  - {hanzi: "飆", pinyin: "beuˊ", en: "dash, tear along"}
+  - {hanzi: "出入", pinyin: "cudˋ ngib", en: "going in and out"}
+  - {hanzi: "同時", pinyin: "tungˇ siiˇ", en: "at the same time"}
+  - {hanzi: "做下", pinyin: "zo ha", en: "all, the whole lot"}
+  - {hanzi: "倒", pinyin: "doˋ", en: "tip out, pour away"}
+
+exercises:
+  translate:
+    - en: "Grind soya beans for tofu."
+      source: kaga115
+      sx: {hanzi: "磨豆腐。", pinyin: "mo teu fu."}
+    - en: "A handful of rice."
+      source: kaga115
+      sx: {hanzi: "一扡米。", pinyin: "idˋ iaˋ miˋ."}
+    - en: "Poison the rats."
+      source: kaga115
+      sx: {hanzi: "毒老鼠。", pinyin: "teu lo cuˋ."}
+    - en: "I'll pick a flower for you."
+      source: kaga115
+      sx: {hanzi: "摘一蕊花分你。", pinyin: "zagˋ idˋ luiˊ faˊ bunˊ nˇ."}
+    - en: "It is five kilometres from here to there."
+      source: kaga115
+      sx: {hanzi: "這到該有五公里遠。", pinyin: "iaˋ do ge iuˊ ngˋ gungˊ liˊ ienˋ."}
+  fill:
+    - en: "Fasten your belt."
+      sx: {hanzi: "___皮帶仔。", pinyin: "___ piˇ dai eˋ.", answer_hanzi: "繫", answer: "gieˊ"}
+    - en: "Cut the watermelon in half."
+      sx: {hanzi: "西瓜對半___。", pinyin: "xiˊ guaˊ dui ban ___.", answer_hanzi: "破", answer: "po"}
+    - en: "A bundle of bamboo."
+      sx: {hanzi: "一___竹仔。", pinyin: "idˋ ___ zugˋ eˇ.", answer_hanzi: "把", answer: "baˋ"}
+    - en: "Get rid of these weeds."
+      sx: {hanzi: "同這草仔___。", pinyin: "tungˇ iaˋ coˋ eˋ ___.", answer_hanzi: "除忒", answer: "cuˇ tedˋ"}
+    - en: "The two of them got here at the same time."
+      sx: {hanzi: "佢兩儕___到這。", pinyin: "giˇ liongˋ saˇ ___ do iaˋ.", answer_hanzi: "同時", answer: "tungˇ siiˇ"}
+
+audio: []
