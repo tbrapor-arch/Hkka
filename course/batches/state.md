@@ -55,3 +55,6 @@ style of 採茶戲, not a sung one.
 - P44, Sat 28 Apr, A-in's radio slot: she interviews A-min about his school's contest week (plays Mon, choirs Wed,
   table tennis; a painter's talk on Fri). His class came second in the choir contest (thread of P30 closed); he got
   a fountain pen. The open day at 阿舅's factory is that afternoon.
+- P45, Sat 28 Apr afternoon, the open day at 阿舅's factory in 竹東 (thread of P39 closed). Thirty-odd children;
+  阿傑 guides, the master cooks noodles, nobody pays. A-min asks to work there in the summer: 阿舅 says yes, come
+  and look around first.

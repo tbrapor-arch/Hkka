@@ -1,0 +1,325 @@
+id: 45
+genre: story
+title:
+  en: "Talk of money spoils good feeling"
+  sx: {hanzi: "講著錢，就會打壞感情", pinyin: "gongˋ doˋ qienˇ, qiu voi daˋ fai gamˋ qinˇ"}
+review: false
+setting: >-
+  Saturday 28 April 2029, afternoon, 阿舅's noodle factory in 竹東, on its open day for children. 阿傑 is the manager now.
+  A-in and A-min have come to help.
+names: [阿舅, 阿傑, 阿英, 阿明, 師傅]
+
+dialogue:
+  - n: 1
+    en: "Saturday 28 April, afternoon. Uncle's factory is open to children, and more than thirty have come. A-in and A-min have come to help too."
+    sx: {hanzi: "四月二十八號，禮拜六下晝。阿舅个工廠開放分細人仔參觀，來三十過個細人仔。阿英同阿明乜來𢯭手。", pinyin: "xi ngied ngi siib badˋ ho, liˊ bai liugˋ haˊ zu. aˊ kiuˊ ge gungˊ congˋ koiˊ fong bunˊ se nginˇ eˋ camˊ gonˊ, loiˇ samˊ siib go ge se nginˇ eˋ. aˊ inˊ tungˇ aˊ minˇ me loiˇ ten suˋ."}
+    check: true
+  - n: 2
+    en: "Uncle goes jogging every morning; today he didn't. A-kied is the manager now, and he is run off his feet."
+    sx: {hanzi: "阿舅逐朝晨會去慢走，今晡日無去。阿傑這下係經理，無閒到捩捩轉。", pinyin: "aˊ kiuˊ dagˋ zeuˊ siinˇ voi hi man zeuˋ, gimˊ buˊ ngidˋ moˇ hi. aˊ kied iaˋ ha he ginˊ liˊ, moˇ hanˇ do lidˋ lidˋ zonˋ."}
+    check: true
+  - n: 3
+    speaker: 阿傑
+    en: "Turn right inside the door and wash your hands first."
+    sx: {hanzi: "入門斡右片，先洗手。", pinyin: "ngib munˇ vadˋ iu pienˋ, xienˊ seˋ suˋ."}
+    check: true
+  - n: 4
+    speaker: 阿傑
+    en: "Remember to turn the tap off tight, so that it doesn't keep dripping."
+    source: kaga115
+    sx: {hanzi: "你愛記得同水龍頭撙緪來，正毋會緊漏水。", pinyin: "nˇ oi gi dedˋ tungˇ suiˋ liungˇ teuˇ zunˋ henˇ loiˇ, zang mˇ voi ginˋ leu suiˋ."}
+  - n: 5
+    en: "The machines give out a loud noise. The master carries a big sack of the makings for noodles in his arms and tips it into the machine."
+    sx: {hanzi: "機器發出當大个聲。師傅扐一大包做麵个材料，倒落機器肚。", pinyin: "giˊ hi fadˋ cudˋ dongˊ tai ge sangˊ. siiˊ fu led idˋ tai bauˊ zo mien ge coiˇ liau, doˋ log giˊ hi duˋ."}
+    check: true
+  - n: 6
+    en: "He works very deftly."
+    source: kaga115
+    sx: {hanzi: "佢做事當伶俐。", pinyin: "giˇ zo se dongˊ langˇ li."}
+  - n: 7
+    speaker: 阿傑
+    en: "He is shaking the dust off: don't go too near."
+    source: kaga115
+    sx: {hanzi: "佢當在該撥塵灰，毋好偎忒兼。", pinyin: "giˇ dongˊ di ge padˋ ciinˇ foiˊ, mˇ hoˋ vaˋ tedˋ giamˊ."}
+  - n: 8
+    speaker: 阿傑
+    en: "The machines have to be serviced once a month: that is what keeps the noodles good. The machines are very powerful, and children must not touch them."
+    sx: {hanzi: "機器逐隻月愛保養一擺，麵个品質正會好。機器个力量當大，細人仔做毋得摸。", pinyin: "giˊ hi dagˋ zagˋ ngied oi boˋ iongˊ idˋ baiˋ, mien ge pinˋ ziidˋ zang voi hoˋ. giˊ hi ge lid liong dongˊ tai, se nginˇ eˋ zomˇ dedˋ miaˊ."}
+    check: true
+  - n: 9
+    en: "One little boy wanted to go and touch a machine."
+    sx: {hanzi: "有一個細倈仔想去摸機器。", pinyin: "iuˊ idˋ ge se lai eˋ xiongˋ hi miaˊ giˊ hi."}
+    check: true
+  - n: 10
+    en: "He was told not to go, and he insisted on going."
+    source: kaga115
+    sx: {hanzi: "喊佢莫去，佢強強愛去。", pinyin: "ham giˇ mog hi, giˇ kiongˇ kiongˇ oi hi."}
+  - n: 11
+    en: "The packing room is upstairs, where the paper bags are stapled shut. The children followed him upstairs."
+    sx: {hanzi: "包麵个所在在樓頂，紙袋仔用釘書機釘起來。細人仔跈等上樓頂。", pinyin: "bauˊ mien ge soˋ cai coiˊ leuˇ dangˋ, ziiˋ toi eˋ iung dang suˊ giˊ dang hiˋ loiˇ. se nginˇ eˋ tenˇ denˋ song leuˇ dangˋ."}
+    check: true
+  - n: 12
+    speaker: 阿傑
+    en: "You must hold on properly."
+    source: kaga115
+    sx: {hanzi: "你斯愛扳好勢來。", pinyin: "nˇ siiˇ oi banˊ hoˋ se loiˇ."}
+  - n: 13
+    speaker: 阿英
+    en: "If you tread on someone by accident, you must say sorry."
+    source: kaga115
+    sx: {hanzi: "無細義躪著人，愛會失禮。", pinyin: "moˇ se ngi nang doˋ nginˇ, oi fi siidˋ liˊ."}
+  - n: 14
+    en: "The factory makes noodles in three colours. The master lifted the lid of the pot and cooked noodles for everyone to taste: the smell made your mouth water."
+    sx: {hanzi: "工廠做个麵有三種色目。師傅掀開鑊蓋煮麵分大家試食，香味當餳人。", pinyin: "gungˊ congˋ zo ge mien iuˊ samˊ zungˋ sedˋ mug. siiˊ fu ienˊ koiˊ vog goi zuˋ mien bunˊ tai gaˊ cii siid, hiongˊ mi dongˊ xiangˇ nginˇ."}
+    check: true
+  - n: 15
+    speaker: 師傅
+    en: "The noodles are done: scoop them out, quick!"
+    sx: {hanzi: "麵煮好吔，遽啊撩起來！", pinyin: "mien zuˋ hoˋ leˊ, giagˋ a liauˊ hiˋ loiˇ!"}
+    check: true
+  - n: 16
+    en: "The children were very hungry: a bowl of noodles was gone in no time. One little girl fed noodles to her baby brother."
+    sx: {hanzi: "細人仔當肚飢，一碗麵兩下半就食淨淨。有一個細阿妹仔飼麵分老弟食。", pinyin: "se nginˇ eˋ dongˊ duˋ giˊ, idˋ vonˋ mien liongˋ ha ban qiu siid qiang qiang. iuˊ idˋ ge se aˊ moi eˋ cii mien bunˊ loˋ taiˊ siid."}
+    check: true
+  - n: 17
+    speaker: 阿英
+    en: "I told you not to eat so fast, and look! Now you've bitten your tongue and it's bleeding!"
+    source: kaga115
+    sx: {hanzi: "同你講毋好食恁遽，你看！這下囓著舌嫲流血哩！", pinyin: "tungˇ nˇ gongˋ mˇ hoˋ siid anˋ giagˋ, nˇ kon! iaˋ ha ngadˋ doˋ sad maˇ liuˇ hiedˋ leˊ!"}
+  - n: 18
+    en: "After eating, A-min learned from the master how to cut noodles."
+    sx: {hanzi: "食飽，阿明同師傅學切麵。", pinyin: "siid bauˋ, aˊ minˇ tungˇ siiˊ fu hog qiedˋ mien."}
+    check: true
+  - n: 19
+    speaker: 師傅
+    en: "The knife is sharp-pointed: you must hold it properly."
+    source: kaga115
+    sx: {hanzi: "刀仔尖尖，你斯愛擎好。", pinyin: "doˊ eˋ jiamˊ jiamˊ, nˇ siiˇ oi kiaˇ hoˋ."}
+  - n: 20
+    en: "A-kied asked Uncle whether to charge for today's noodles. Uncle smiled and said no."
+    sx: {hanzi: "阿傑問阿舅，今晡日个麵愛同人算錢無。阿舅笑笑仔講毋使。", pinyin: "aˊ kied mun aˊ kiuˊ, gimˊ buˊ ngidˋ ge mien oi tungˇ nginˇ son qienˇ moˇ. aˊ kiuˊ seu seu eˋ gongˋ mˇ siiˋ."}
+    check: true
+  - n: 21
+    speaker: 阿舅
+    en: "Talk of money spoils good feeling."
+    source: kaga115
+    sx: {hanzi: "講著錢，就會打壞感情。", pinyin: "gongˋ doˋ qienˇ, qiu voi daˋ fai gamˋ qinˇ."}
+  - n: 22
+    speaker: 阿舅
+    en: "Give every child one packet of noodles, big ones and little ones alike. Being a boss is like being a parent: you have to be fair."
+    sx: {hanzi: "逐個細人仔送一包麵，大細共樣。做頭家同做爺哀共樣，愛平心正好。", pinyin: "dagˋ ge se nginˇ eˋ sung idˋ bauˊ mien, tai se kiung iong. zo teuˇ gaˊ tungˇ zo iaˇ oiˊ kiung iong, oi piangˇ ximˊ zang hoˋ."}
+    check: true
+  - n: 23
+    speaker: 阿傑
+    en: "The things you don't want can be thrown away."
+    source: kaga115
+    sx: {hanzi: "無愛个東西做得拿去攉忒。", pinyin: "moˇ oi ge dungˊ xiˊ zo dedˋ naˊ hi vogˋ tedˋ."}
+  - n: 24
+    en: "The lorry with the materials arrived, and A-kied called to the children to get out of the way."
+    sx: {hanzi: "載材料个車仔來吔，阿傑喊細人仔閃開。", pinyin: "zai coiˇ liau ge caˊ eˋ loiˇ leˊ, aˊ kied ham se nginˇ eˋ samˋ koiˊ."}
+    check: true
+  - n: 25
+    speaker: 阿明
+    en: "Uncle, I'd like to come and work here in the summer."
+    sx: {hanzi: "阿舅，熱天𠊎想來這做事。", pinyin: "aˊ kiuˊ, ngied tienˊ ngaiˇ xiongˋ loiˇ iaˋ zo se."}
+    check: true
+  - n: 26
+    speaker: 阿舅
+    en: "All right: come and have a look around first."
+    sx: {hanzi: "好啊，你先來探看啊。", pinyin: "hoˋ a, nˇ xienˊ loiˇ tamˋ kon a."}
+    check: true
+  - n: 27
+    speaker: 阿舅
+    en: "Without a job, how is a man to make a living?"
+    source: kaga115
+    sx: {hanzi: "無頭路愛仰仔絡食。", pinyin: "moˇ teuˇ lu oi ngiongˋ eˋ logˋ siid."}
+  - n: 28
+    en: "In the end all the noodles in the shop were bought up, and A-in and A-min swept the factory clean, corners and all."
+    sx: {hanzi: "包尾，店肚个麵歸下分人買走，阿英同阿明同工廠个四角掃淨來。", pinyin: "bauˊ miˊ, diam duˋ ge mien guiˊ ha bunˊ nginˇ maiˊ zeuˋ, aˊ inˊ tungˇ aˊ minˇ tungˇ gungˊ congˋ ge xi gogˋ so qiang loiˇ."}
+    check: true
+  - n: 29
+    speaker: 阿舅
+    en: "I'm afraid too many people came today! I really am tired."
+    sx: {hanzi: "今晡日敢怕來忒多人吔！實在係悿。", pinyin: "gimˊ buˊ ngidˋ gamˋ pa loiˇ tedˋ doˊ nginˇ leˊ! siid cai he tiamˋ."}
+    check: true
+  - n: 30
+    speaker: 阿傑
+    en: "Anyway, as long as the children were happy."
+    sx: {hanzi: "總講細人仔歡喜就好。", pinyin: "zungˋ gongˋ se nginˇ eˋ fonˊ hiˋ qiu hoˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 21, an official sentence. 打壞 daˋ fai is "spoil, damage". 著 after a verb, "reach, touch on",
+      is read doˋ: 講著錢 "when the talk comes to money".
+  - ref: 2
+    topic: vocab
+    text: >
+      慢走 man zeuˋ "jog" (佢逐日會去公園慢走): 走 is "run". 捩捩轉 lidˋ lidˋ zonˋ "spin round and round": 無閒到捩捩轉 "run off one's
+      feet" is an official sentence.
+  - ref: 3
+    topic: vocab
+    text: >
+      斡 vadˋ "turn": 斡右片 "turn right" (這條山路斡來斡去，車仔當難駛).
+  - ref: 4
+    topic: vocab
+    text: >
+      撙 zunˋ "turn, twist" (撙水龍頭): 撙緪來 "turn it tight".
+  - ref: 5
+    topic: vocab
+    text: >
+      發出 fadˋ cudˋ "give out". 扐 led "carry in one's arms" (扐一粒大石頭來矺鹹菜).
+  - ref: 6
+    topic: vocab
+    text: >
+      伶俐 langˇ li "deft, quick and clean at work"; of a room, "neat and clean".
+  - ref: 7
+    topic: vocab
+    text: >
+      撥 padˋ "shake off, flap": 撥塵灰 "shake the dust off". The character has other readings for other senses.
+  - ref: 8
+    topic: vocab
+    text: >
+      保養 boˋ iongˊ "maintain, service" (佢摎車仔牽去保養); of the body, "look after". 品質 pinˋ ziidˋ "quality" (這枋茶品質盡好). 力量
+      lid liong "strength, power".
+  - ref: 10
+    topic: vocab
+    text: >
+      強強 kiongˇ kiongˇ "insist on, by force": 佢強強愛去 "he insisted on going".
+  - ref: 11
+    topic: vocab
+    text: >
+      釘 dang is the verb "to nail, to staple" (拿釘書機釘起來); the noun "nail" has another tone.
+  - ref: 12
+    topic: vocab
+    text: >
+      扳 banˊ "hold on to" (坐公車，係無位仔愛扳等扶把，正毋會跌倒).
+  - ref: 13
+    topic: vocab
+    text: >
+      躪 nang "tread on" (恁靚个草坪，毋好落去躪).
+  - ref: 14
+    topic: vocab
+    text: >
+      色目 sedˋ mug "colour" (菊花个色目當多，有白、有紅還有黃). 掀 ienˊ "lift (a lid), turn (a page)" (大家同書掀到下二頁). 餳人 xiangˇ nginˇ
+      "tempting" (桂花个香味當餳人).
+  - ref: 15
+    topic: vocab
+    text: >
+      撩 liauˊ "scoop out, lift out of the pan" (魚仔煎好吔，遽啊撩起來). With the reading liauˇ it is "tease" (進修 38).
+  - ref: 16
+    topic: vocab
+    text: >
+      兩下半 liongˋ ha ban "in no time" (佢當肚飢，一碗粥兩下半就食淨淨). 飼 cii "feed" (飼飯分老妹食).
+  - ref: 17
+    topic: vocab
+    text: >
+      囓 ngadˋ "bite".
+  - ref: 19
+    topic: vocab
+    text: >
+      尖尖 jiamˊ jiamˊ "sharp-pointed".
+  - ref: 20
+    topic: vocab
+    text: >
+      笑笑仔 seu seu eˋ "with a smile" (先生笑笑仔同佢講話).
+  - ref: 22
+    topic: vocab
+    text: >
+      平心 piangˇ ximˊ "fair, even-handed": the official sentence is 做人爺哀愛平心正好 "parents must be fair".
+  - ref: 23
+    topic: vocab
+    text: >
+      攉忒 vogˋ tedˋ "throw away".
+  - ref: 24
+    topic: vocab
+    text: >
+      閃 samˋ "dodge": 閃開 "get out of the way".
+  - ref: 26
+    topic: vocab
+    text: >
+      探 tamˋ "look into, find out" (先去探看啊). 絡食 logˋ siid in line 27 is "look for food", and so "make a living".
+  - ref: 28
+    topic: vocab
+    text: >
+      包尾 bauˊ miˊ "in the end" (本來講愛請假，包尾佢又講愛來). 歸下 guiˊ ha "all, the whole lot" (這糖仔歸下分佢買走). 四角 xi gogˋ "the four
+      corners; square" (若飯桌愛買圓个抑係四角个？).
+  - ref: 29
+    topic: vocab
+    text: >
+      敢怕 gamˋ pa "probably, I'm afraid". 實在係 siid cai he "really".
+  - ref: 30
+    topic: vocab
+    text: >
+      總講 zungˋ gongˋ "anyway, in any case" (出去遊覽總講愛使錢，故所愛準備兜仔錢正好).
+
+new_words:
+  - {hanzi: "慢走", pinyin: "man zeuˋ", en: "jog"}
+  - {hanzi: "捩捩轉", pinyin: "lidˋ lidˋ zonˋ", en: "(busy) spinning round and round"}
+  - {hanzi: "斡", pinyin: "vadˋ", en: "turn (a corner)"}
+  - {hanzi: "撙", pinyin: "zunˋ", en: "turn, twist (a tap, a screw)"}
+  - {hanzi: "發出", pinyin: "fadˋ cudˋ", en: "give out, send out"}
+  - {hanzi: "扐", pinyin: "led", en: "carry in one's arms"}
+  - {hanzi: "伶俐", pinyin: "langˇ li", en: "deft; neat and clean"}
+  - {hanzi: "撥", pinyin: "padˋ", en: "shake off, flap"}
+  - {hanzi: "保養", pinyin: "boˋ iongˊ", en: "maintain, service; look after"}
+  - {hanzi: "品質", pinyin: "pinˋ ziidˋ", en: "quality"}
+  - {hanzi: "力量", pinyin: "lid liong", en: "strength, power"}
+  - {hanzi: "強強", pinyin: "kiongˇ kiongˇ", en: "insist on"}
+  - {hanzi: "釘", pinyin: "dang", en: "to nail, staple"}
+  - {hanzi: "扳", pinyin: "banˊ", en: "hold on to"}
+  - {hanzi: "躪", pinyin: "nang", en: "tread on"}
+  - {hanzi: "色目", pinyin: "sedˋ mug", en: "colour"}
+  - {hanzi: "掀", pinyin: "ienˊ", en: "lift (a lid), turn (a page)"}
+  - {hanzi: "餳人", pinyin: "xiangˇ nginˇ", en: "tempting, attractive"}
+  - {hanzi: "撩", pinyin: "liauˊ", en: "scoop out, lift out"}
+  - {hanzi: "兩下半", pinyin: "liongˋ ha ban", en: "in no time"}
+  - {hanzi: "飼", pinyin: "cii", en: "feed"}
+  - {hanzi: "囓", pinyin: "ngadˋ", en: "bite"}
+  - {hanzi: "尖尖", pinyin: "jiamˊ jiamˊ", en: "sharp-pointed"}
+  - {hanzi: "笑笑仔", pinyin: "seu seu eˋ", en: "with a smile"}
+  - {hanzi: "打壞", pinyin: "daˋ fai", en: "spoil, damage"}
+  - {hanzi: "平心", pinyin: "piangˇ ximˊ", en: "fair, even-handed"}
+  - {hanzi: "攉忒", pinyin: "vogˋ tedˋ", en: "throw away"}
+  - {hanzi: "閃", pinyin: "samˋ", en: "get out of the way, dodge"}
+  - {hanzi: "探", pinyin: "tamˋ", en: "look into, find out"}
+  - {hanzi: "絡食", pinyin: "logˋ siid", en: "look for food; make a living"}
+  - {hanzi: "包尾", pinyin: "bauˊ miˊ", en: "in the end; at the back"}
+  - {hanzi: "歸下", pinyin: "guiˊ ha", en: "all, the whole lot"}
+  - {hanzi: "四角", pinyin: "xi gogˋ", en: "the four corners; square"}
+  - {hanzi: "敢怕", pinyin: "gamˋ pa", en: "probably, I'm afraid"}
+  - {hanzi: "實在係", pinyin: "siid cai he", en: "really"}
+  - {hanzi: "總講", pinyin: "zungˋ gongˋ", en: "anyway, in any case"}
+
+exercises:
+  translate:
+    - en: "He goes jogging in the park every day."
+      source: kaga115
+      sx: {hanzi: "佢逐日會去公園慢走。", pinyin: "giˇ dagˋ ngidˋ voi hi gungˊ ienˇ man zeuˋ."}
+    - en: "This batch of tea is of very good quality."
+      source: kaga115
+      sx: {hanzi: "這枋茶品質盡好。", pinyin: "iaˋ biongˊ caˇ pinˋ ziidˋ qin hoˋ."}
+    - en: "The scent of osmanthus is very tempting."
+      source: kaga115
+      sx: {hanzi: "桂花个香味當餳人。", pinyin: "gui faˊ ge hiongˊ mi dongˊ xiangˇ nginˇ."}
+    - en: "He bought up all these sweets."
+      source: kaga115
+      sx: {hanzi: "這糖仔歸下分佢買走。", pinyin: "iaˋ tongˇ eˋ guiˊ ha bunˊ giˇ maiˊ zeuˋ."}
+    - en: "At first he said he would take the day off; in the end he said he would come."
+      source: kaga115
+      sx: {hanzi: "本來講愛請假，包尾佢又講愛來。", pinyin: "bunˋ loiˇ gongˋ oi qiangˋ gaˋ, bauˊ miˊ giˇ iu gongˋ oi loiˇ."}
+  fill:
+    - en: "Turn the tap."
+      sx: {hanzi: "___水龍頭。", pinyin: "___ suiˋ liungˇ teuˇ.", answer_hanzi: "撙", answer: "zunˋ"}
+    - en: "Such a lovely lawn: don't walk on it."
+      sx: {hanzi: "恁靚个草坪，毋好落去___。", pinyin: "anˋ jiangˊ ge coˋ piangˇ, mˇ hoˋ log hi ___.", answer_hanzi: "躪", answer: "nang"}
+    - en: "The teacher spoke to him with a smile."
+      sx: {hanzi: "先生___同佢講話。", pinyin: "xinˊ sangˊ ___ tungˇ giˇ gongˋ fa.", answer_hanzi: "笑笑仔", answer: "seu seu eˋ"}
+    - en: "He works very deftly."
+      sx: {hanzi: "佢做事當___。", pinyin: "giˇ zo se dongˊ ___.", answer_hanzi: "伶俐", answer: "langˇ li"}
+    - en: "Do you want to buy a round dining table or a square one?"
+      sx: {hanzi: "若飯桌愛買圓个抑係___个？", pinyin: "ngiaˊ fan zogˋ oi maiˊ ienˇ ge ia he ___ ge?", answer_hanzi: "四角", answer: "xi gogˋ"}
+
+audio: []
