@@ -1,0 +1,8 @@
+# Words the plan leaves out for good (hanzi, pinyin as in the list, reason). Read by tools/packets.py plan.
+幾下	giaˊ	one syllable for two characters: lint cannot align it
+該	goiˊ	the list's gloss (容易) and its examples do not agree
+無聊	vuˇ liauˇ	the course teaches moˇ liauˇ (lesson 79)
+除忒…以外	cuˇ tedˋ... iˊ ngoi	a pattern: used and explained in 進修 38, cannot be a new_words entry
+毋單淨…還	mˇ danˊ qiang... hanˇ	a pattern: as above
+緊…緊…	ginˋ... ginˋ...	a pattern: as above
+人間	nginˇ  gienˊ	the only example is 人 + 間房, not the word

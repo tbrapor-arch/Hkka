@@ -44,6 +44,7 @@ ROOT = os.path.dirname(HERE)
 DB = os.path.join(ROOT, "data/build/hakka.db")
 PDIR = os.path.join(ROOT, "course/packets")
 PLAN = os.path.join(PDIR, "plan.tsv")
+SKIP = os.path.join(PDIR, "skip.tsv")
 LAST = 70
 SIZE = 45
 LEVELS = {"基礎級": 0, "初級": 1, "中級": 2, "中高級": 3}
@@ -122,7 +123,7 @@ def make_plan(force=False):
         sys.exit(f"{os.path.relpath(PLAN, ROOT)} exists; use --force to redo it (lessons already written keep their words)")
     con, st = sqlite3.connect(DB), State()
     lessons = todo_lessons(st)
-    words = untaught(con, st)
+    words = [w for w in untaught(con, st) if (w["hanzi"], w["pinyin"]) not in read_skip()]
     must = [w for w in words if w["level"] != "中高級"]
     extra = sorted((w for w in words if w["level"] == "中高級"), key=rank)
     room = len(lessons) * SIZE - len(must)
@@ -161,6 +162,13 @@ def make_plan(force=False):
             if w["category"] not in SPREAD:
                 cats[w["category"]] += 1
         print(f"  P{n}: {len(p)} words · " + ", ".join(f"{c} {k}" for c, k in sorted(cats.items(), key=lambda x: -x[1])))
+
+
+def read_skip():
+    """Words the plan leaves out for good: course/packets/skip.tsv (hanzi, pinyin, reason)."""
+    if not os.path.exists(SKIP):
+        return set()
+    return {(r[0], r[1]) for r in csv.reader(open(SKIP, encoding="utf-8"), delimiter="\t") if len(r) > 1 and not r[0].startswith("#")}
 
 
 def read_plan():
