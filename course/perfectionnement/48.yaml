@@ -1,0 +1,277 @@
+id: 48
+genre: diary
+title:
+  en: "Tobacco is no good thing: better not to smoke"
+  sx: {hanzi: "菸毋係好東西，莫㗘較贏", pinyin: "ienˊ mˇ he hoˋ dungˊ xiˊ, mog bog ka iangˇ"}
+review: false
+setting: >-
+  Sunday 27 May 2029. A-in's diary. Sam has passed his university exam, and the whole family goes to the waterfall
+  of 進修 41 for a barbecue.
+names: [Sam, 阿公, 阿婆, 阿爸, 阿姆, 阿明]
+
+dialogue:
+  - n: 1
+    en: "Sunday 27 May, fine. Sam has passed his exam! He was very moved when he got his marks. The whole family went to barbecue by the waterfall."
+    sx: {hanzi: "五月二十七號，禮拜日，好天。Sam 考試過吔！佢接著成績當激動。屋下人共下去水沖脣烤肉。", pinyin: "ngˋ ngied ngi siib qidˋ ho, liˊ bai ngidˋ, hoˋ tienˊ. Sam kauˋ sii go leˊ! giˇ jiabˋ doˋ siinˇ jidˋ dongˊ gidˋ tung. vugˋ kaˊ nginˇ kiung haˊ hi suiˋ cungˇ sunˇ kauˋ ngiugˋ."}
+    check: true
+  - n: 2
+    en: "In the morning I took too long over my make-up and was nearly too late."
+    sx: {hanzi: "朝晨𠊎化妝忒久，差一息仔來毋掣。", pinyin: "zeuˊ siinˇ ngaiˇ fa zongˊ tedˋ giuˋ, caˊ idˋ xid eˋ loiˇ mˇ cadˋ."}
+    check: true
+  - n: 3
+    en: "In the car Sam looked down at his phone and A-min kept wriggling. Mum said to him:"
+    sx: {hanzi: "在車肚，Sam 低頭看手機仔，阿明蠕蠕動。阿姆同佢講：", pinyin: "coiˊ caˊ duˋ, Sam daiˊ teuˇ kon suˋ giˊ eˋ, aˊ minˇ nugˋ nugˋ tungˊ. aˊ meˊ tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 4
+    en: "Sit properly, or you'll tip over."
+    source: kaga115
+    sx: {hanzi: "你愛坐好，正毋會打孔翹。", pinyin: "nˇ oi coˊ hoˋ, zang mˇ voi daˋ kungˋ kieu."}
+  - n: 5
+    en: "We got to the waterfall. Dad and Sam tied a rope between two trees, to hang a cloth against the sun. Grandpa said:"
+    sx: {hanzi: "到水沖吔。阿爸同 Sam 在兩頭樹仔中央䌈索仔，愛吊一垤布遮日頭。阿公講：", pinyin: "do suiˋ cungˇ leˊ. aˊ baˊ tungˇ Sam coiˊ liongˋ teuˇ su eˋ dungˊ ongˊ tagˋ sogˋ eˇ, oi diau idˋ de bu zaˊ ngidˋ teuˇ. aˊ gungˊ gongˋ:"}
+    check: true
+  - n: 6
+    en: "Pull the rope a bit tighter, so that it doesn't come loose."
+    source: kaga115
+    sx: {hanzi: "同索仔弓緪兜仔，正毋會鬆開。", pinyin: "tungˇ sogˋ eˇ giungˊ henˇ deuˊ eˋ, zang mˇ voi sungˊ koiˊ."}
+  - n: 7
+    en: "Mum and I laid the table. Grandma had brought a lot of dishes."
+    sx: {hanzi: "𠊎同阿姆布置桌仔。阿婆帶當多菜來。", pinyin: "ngaiˇ tungˇ aˊ meˊ bu zii zogˋ eˋ. aˊ poˇ dai dongˊ doˊ coi loiˇ."}
+    check: true
+  - n: 8
+    en: "With this dish to go with it, you can get through three bowls of rice."
+    source: kaga115
+    sx: {hanzi: "這菜傍飯食，做得划三碗飯。", pinyin: "iaˋ coi bongˋ fan siid, zo dedˋ paˇ samˊ vonˋ fan."}
+  - n: 9
+    en: "When the meat was done, A-min had it in his mouth at once. Sam cooked noodles."
+    sx: {hanzi: "肉烤好吔，阿明黏時就落嘴。Sam 煮麵。", pinyin: "ngiugˋ kauˋ hoˋ leˊ, aˊ minˇ ngiamˇ siiˇ qiu log zoi. Sam zuˋ mien."}
+    check: true
+  - n: 10
+    en: "The noodles were cooked too long and went all sticky."
+    source: kaga115
+    sx: {hanzi: "麵煮忒久，煮到膏膏吔。", pinyin: "mien zuˋ tedˋ giuˋ, zuˋ do goˇ goˇ leˊ."}
+  - n: 11
+    en: "Grandpa ate hardly anything: he only picked a few peanuts out of the big bowl."
+    sx: {hanzi: "阿公無麼个食，淨對碗公項撮幾粒仔番豆。", pinyin: "aˊ gungˊ moˇ maˋ ge siid, qiang dui vonˋ gungˊ hong zebˋ giˋ liab eˋ fanˊ teu."}
+    check: true
+  - n: 12
+    en: "Someone was selling ices by the waterfall. A-min said he wanted one."
+    sx: {hanzi: "有人在水沖脣賣冰。阿明講愛食。", pinyin: "iuˊ nginˇ coiˊ suiˋ cungˇ sunˇ mai benˊ. aˊ minˇ gongˋ oi siid."}
+    check: true
+  - n: 13
+    en: "His grandson says he wants to buy something to eat, and out comes his money at once."
+    source: kaga
+    sx: {hanzi: "厥孫仔講愛買食，佢跈等就摟錢。", pinyin: "giaˊ sunˊ eˋ gongˋ oi maiˊ siid, giˇ tenˇ denˋ qiu leuˇ qienˇ."}
+  - n: 14
+    en: "One watermelon cut in half: half for you and half for me."
+    source: kaga
+    sx: {hanzi: "一粒西瓜對半破，你一半𠊎一半。", pinyin: "idˋ liab xiˊ guaˊ dui ban po, nˇ idˋ ban ngaiˇ idˋ ban."}
+  - n: 15
+    en: "With his stomach full and nothing to do, A-min kept pinching me, and tickled the soles of Sam's feet."
+    sx: {hanzi: "阿明食飽無事做，緊捏𠊎，又撓 Sam 个腳底。", pinyin: "aˊ minˇ siid bauˋ moˇ sii zo, ginˋ nedˋ ngaiˇ, iu neuˊ Sam ge giogˋ daiˋ."}
+    check: true
+  - n: 16
+    en: "His pinches really hurt."
+    source: kaga115
+    sx: {hanzi: "佢捏人當痛。", pinyin: "giˇ nedˋ nginˇ dongˊ tung."}
+  - n: 17
+    en: "Don't keep tickling people."
+    source: kaga115
+    sx: {hanzi: "毋好緊撓人。", pinyin: "mˇ hoˋ ginˋ neuˊ nginˇ."}
+  - n: 18
+    en: "Grandpa walked off under the trees to smoke. When he saw Grandma coming he was very embarrassed and tried to hide the cigarette. Grandma said:"
+    sx: {hanzi: "阿公行到樹下㗘菸。看著阿婆行過來，佢當尷尬，想同菸掩等。阿婆講：", pinyin: "aˊ gungˊ hangˇ do su haˊ bog ienˊ. kon doˋ aˊ poˇ hangˇ go loiˇ, giˇ dongˊ gangˊ gie, xiongˋ tungˇ ienˊ amˋ denˋ. aˊ poˇ gongˋ:"}
+    check: true
+  - n: 19
+    en: "Tobacco is no good thing: better not to smoke."
+    source: kaga115
+    sx: {hanzi: "菸毋係好東西，莫㗘較贏。", pinyin: "ienˊ mˇ he hoˋ dungˊ xiˊ, mog bog ka iangˇ."}
+  - n: 20
+    en: "Everyone should get out into nature more."
+    source: kaga115
+    sx: {hanzi: "大家愛多接觸大自然。", pinyin: "tai gaˊ oi doˊ jiabˋ cugˋ tai cii ienˇ."}
+  - n: 21
+    en: "A-min jumped into the pool and said it was a real thrill. Coming out he fell over; luckily he wasn't hurt."
+    sx: {hanzi: "阿明跳落水窟，講當刺激。上來个時節佢跌倒，該載無著傷。", pinyin: "aˊ minˇ tiau log suiˋ fudˋ, gongˋ dongˊ qiugˋ gidˋ. songˊ loiˇ ge siiˇ jiedˋ giˇ diedˋ doˋ, goiˊ zai moˇ cog songˊ."}
+    check: true
+  - n: 22
+    en: "Hair cut short is easier to manage."
+    source: kaga115
+    sx: {hanzi: "頭那毛剪到短短，較好整理。", pinyin: "teuˇ naˇ moˊ jienˋ do donˋ donˋ, ka hoˋ ziinˋ liˊ."}
+  - n: 23
+    en: "Grandpa says this spot has always been cool. We stayed here the whole afternoon."
+    sx: {hanzi: "阿公講這位一旦就當涼。𠊎兜人歸下晝在這尞。", pinyin: "aˊ gungˊ gongˋ iaˋ vi idˋ danˋ qiu dongˊ liongˇ. ngaiˇ deuˊ nginˇ guiˊ haˊ zu coiˊ iaˋ liau."}
+    check: true
+  - n: 24
+    en: "Sam is a very decent sort: after the meal he went and washed the dishes himself. Grandma said to him:"
+    sx: {hanzi: "Sam 係當篤實个人，食飽自家去洗湯碗盤。阿婆同佢講：", pinyin: "Sam he dongˊ dugˋ siid ge nginˇ, siid bauˋ qi gaˊ hi seˋ tongˊ vonˋ panˇ. aˊ poˇ tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 25
+    en: "Take all of this home with you: no need to be so polite."
+    source: kaga115
+    sx: {hanzi: "這做盡分你拿轉去，毋使恁細義。", pinyin: "iaˋ zo qin bunˊ nˇ naˊ zonˋ hi, mˇ siiˋ anˋ se ngi."}
+  - n: 26
+    en: "On the way home, Dad said:"
+    sx: {hanzi: "轉屋个路項，阿爸講：", pinyin: "zonˋ vugˋ ge lu hong, aˊ baˊ gongˋ:"}
+    check: true
+  - n: 27
+    en: "There are accidents at this junction all the time: take care when you go through it."
+    source: kaga115
+    sx: {hanzi: "這路口時時有車禍，經過个時節愛細義。", pinyin: "iaˋ lu heuˋ siiˇ siiˇ iuˊ caˊ fo, ginˊ go ge siiˇ jiedˋ oi se ngi."}
+  - n: 28
+    en: "I had no rest this afternoon: now I'm flagging and can't stop yawning."
+    source: kaga115
+    sx: {hanzi: "𠊎下晝無歇睏，這下精神毋好，緊擘嘴。", pinyin: "ngaiˇ haˊ zu moˇ hiedˋ kun, iaˋ ha jinˊ siinˇ mˇ hoˋ, ginˋ bagˋ zoi."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 19, an official sentence: 㗘 bog "draw on, puff", so 㗘菸 bog ienˊ "smoke" (line 18). The
+      course has said 食菸 since lesson 25; the list glosses 㗘菸 as 抽菸. Grandpa was still smoking in 進修 42.
+  - ref: 1
+    topic: vocab
+    text: >
+      激動 gidˋ tung "moved, worked up". 烤 kauˋ "roast, grill": 烤肉 "barbecue". The waterfall is the one of 進修 41.
+  - ref: 2
+    topic: vocab
+    text: >
+      化妝 fa zongˊ "put on make-up" (做戲个人逐擺上臺就愛化妝). 來毋掣 loiˇ mˇ cadˋ "be too late" (就算你走較遽，乜來毋掣吔).
+  - ref: 3
+    topic: vocab
+    text: >
+      低頭 daiˊ teuˇ "lower one's head" (坐捷運个時節，當多人都會低頭畫手機仔). 蠕蠕動 nugˋ nugˋ tungˊ "wriggle, fidget". 打孔翹 daˋ kungˋ
+      kieu in line 4 is "tip over".
+  - ref: 6
+    topic: vocab
+    text: >
+      弓緪 giungˊ henˇ "pull tight": 緪 "tight" is from 進修 36.
+  - ref: 7
+    topic: vocab
+    text: >
+      布置 bu zii "arrange, lay out". 傍飯 bongˋ fan in line 8 is "eat with rice", said of a dish: 傍 alone is "eat one
+      thing with another" (傍飯、傍麵).
+  - ref: 9
+    topic: vocab
+    text: >
+      落嘴 log zoi "go into the mouth" (嬰兒仔拿著麼个就落嘴). 膏膏 goˇ goˇ in line 10 is "thick and sticky".
+  - ref: 11
+    topic: vocab
+    text: >
+      撮 zebˋ "pick up with the fingertips" and "a pinch" (撮一撮鹽放到湯肚，正有鹹); 撮鹽 is from 進修 46. 番豆 is "peanuts".
+  - ref: 13
+    topic: vocab
+    text: >
+      摟 leuˇ "fish out of a pocket" (𠊎在衫袋肚摟著兩百個銀): 摟錢 "get one's money out". The grandfather is not named: the line
+      is an official sentence.
+  - ref: 14
+    topic: vocab
+    text: >
+      對半 dui ban "in half": 對半破 "cut in half" (進修 41, line 21).
+  - ref: 15
+    topic: vocab
+    text: >
+      捏 nedˋ "pinch". 撓 neuˊ "tickle" (阿姆腳底毋驚撓 "the soles of Mum's feet aren't ticklish").
+  - ref: 18
+    topic: vocab
+    text: >
+      尷尬 gangˊ gie "embarrassed, awkward". 掩等 amˋ denˋ "hide, cover up" (事情分佢掩等，全無人知).
+  - ref: 20
+    topic: vocab
+    text: >
+      接觸 jiabˋ cugˋ "come into contact with".
+  - ref: 21
+    topic: vocab
+    text: >
+      刺激 qiugˋ gidˋ "exciting, a thrill". 該載 goiˊ zai "luckily" (車仔撞壞做得買過，該載人無著傷).
+  - ref: 22
+    topic: vocab
+    text: >
+      短短 donˋ donˋ "short". A-in is thinking of her brother's wet hair.
+  - ref: 23
+    topic: vocab
+    text: >
+      一旦 idˋ danˋ "always, all along" (臺灣南部一旦就當熱). 𠊎兜人 ngaiˇ deuˊ nginˇ "we", the listener not included: 𠊎兜 with 人
+      added, like 你兜人 in 進修 46. 歸下晝 guiˊ haˊ zu "the whole afternoon" (睡歸下晝).
+  - ref: 24
+    topic: vocab
+    text: >
+      篤實 dugˋ siid "honest, decent" (阿哥係當篤實个人). 洗湯 seˋ tongˊ "wash (things)"; it can also mean "bathe".
+  - ref: 25
+    topic: vocab
+    text: >
+      做盡 zo qin "all, the whole lot".
+  - ref: 27
+    topic: vocab
+    text: >
+      時時 siiˇ siiˇ "all the time".
+  - ref: 28
+    topic: vocab
+    text: >
+      擘嘴 bagˋ zoi "open the mouth", and so "yawn".
+
+new_words:
+  - {hanzi: "激動", pinyin: "gidˋ tung", en: "moved, worked up"}
+  - {hanzi: "烤", pinyin: "kauˋ", en: "roast, grill"}
+  - {hanzi: "化妝", pinyin: "fa zongˊ", en: "put on make-up"}
+  - {hanzi: "來毋掣", pinyin: "loiˇ mˇ cadˋ", en: "be too late, not make it in time"}
+  - {hanzi: "低頭", pinyin: "daiˊ teuˇ", en: "lower one's head"}
+  - {hanzi: "蠕蠕動", pinyin: "nugˋ nugˋ tungˊ", en: "wriggle, fidget"}
+  - {hanzi: "打孔翹", pinyin: "daˋ kungˋ kieu", en: "tip over"}
+  - {hanzi: "弓緪", pinyin: "giungˊ henˇ", en: "pull tight"}
+  - {hanzi: "布置", pinyin: "bu zii", en: "arrange, lay out"}
+  - {hanzi: "傍飯", pinyin: "bongˋ fan", en: "eat (a dish) with rice"}
+  - {hanzi: "落嘴", pinyin: "log zoi", en: "go into the mouth"}
+  - {hanzi: "膏膏", pinyin: "goˇ goˇ", en: "thick and sticky"}
+  - {hanzi: "撮", pinyin: "zebˋ", en: "pick up with the fingertips; a pinch"}
+  - {hanzi: "摟", pinyin: "leuˇ", en: "fish out (of a pocket)"}
+  - {hanzi: "對半", pinyin: "dui ban", en: "in half"}
+  - {hanzi: "捏", pinyin: "nedˋ", en: "pinch"}
+  - {hanzi: "撓", pinyin: "neuˊ", en: "tickle"}
+  - {hanzi: "㗘菸", pinyin: "bog ienˊ", en: "smoke (tobacco)"}
+  - {hanzi: "尷尬", pinyin: "gangˊ gie", en: "embarrassed, awkward"}
+  - {hanzi: "掩等", pinyin: "amˋ denˋ", en: "hide, cover up"}
+  - {hanzi: "㗘", pinyin: "bog", en: "draw on, puff (a cigarette)"}
+  - {hanzi: "接觸", pinyin: "jiabˋ cugˋ", en: "come into contact with"}
+  - {hanzi: "刺激", pinyin: "qiugˋ gidˋ", en: "exciting; stimulate"}
+  - {hanzi: "該載", pinyin: "goiˊ zai", en: "luckily"}
+  - {hanzi: "短短", pinyin: "donˋ donˋ", en: "short"}
+  - {hanzi: "一旦", pinyin: "idˋ danˋ", en: "always, all along"}
+  - {hanzi: "𠊎兜人", pinyin: "ngaiˇ deuˊ nginˇ", en: "we (not including the listener)"}
+  - {hanzi: "歸下晝", pinyin: "guiˊ haˊ zu", en: "the whole afternoon"}
+  - {hanzi: "篤實", pinyin: "dugˋ siid", en: "honest, decent"}
+  - {hanzi: "洗湯", pinyin: "seˋ tongˊ", en: "wash (things); bathe"}
+  - {hanzi: "做盡", pinyin: "zo qin", en: "all, the whole lot"}
+  - {hanzi: "時時", pinyin: "siiˇ siiˇ", en: "all the time"}
+  - {hanzi: "擘嘴", pinyin: "bagˋ zoi", en: "open the mouth; yawn"}
+
+exercises:
+  translate:
+    - en: "Cut the watermelon in half."
+      source: kaga115
+      sx: {hanzi: "西瓜對半破。", pinyin: "xiˊ guaˊ dui ban po."}
+    - en: "My elder brother is a very decent man."
+      source: kaga115
+      sx: {hanzi: "阿哥係當篤實个人。", pinyin: "aˊ goˊ he dongˊ dugˋ siid ge nginˇ."}
+    - en: "The south of Taiwan has always been very hot."
+      source: kaga115
+      sx: {hanzi: "臺灣南部一旦就當熱。", pinyin: "toiˇ vanˊ namˇ pu idˋ danˋ qiu dongˊ ngied."}
+    - en: "He kept the matter hidden: nobody knew at all."
+      source: kaga115
+      sx: {hanzi: "事情分佢掩等，全無人知。", pinyin: "sii qinˇ bunˊ giˇ amˋ denˋ, qionˇ moˇ nginˇ diˊ."}
+    - en: "Even if you run faster, it is too late now."
+      source: kaga115
+      sx: {hanzi: "就算你走較遽，乜來毋掣吔。", pinyin: "qiu son nˇ zeuˋ ka giagˋ, me loiˇ mˇ cadˋ leˊ."}
+  fill:
+    - en: "His pinches really hurt."
+      sx: {hanzi: "佢___人當痛。", pinyin: "giˇ ___ nginˇ dongˊ tung.", answer_hanzi: "捏", answer: "nedˋ"}
+    - en: "Sleep the whole afternoon."
+      sx: {hanzi: "睡___。", pinyin: "soi ___.", answer_hanzi: "歸下晝", answer: "guiˊ haˊ zu"}
+    - en: "With this dish to go with it, you can get through three bowls of rice."
+      sx: {hanzi: "這菜___食，做得划三碗飯。", pinyin: "iaˋ coi ___ siid, zo dedˋ paˇ samˊ vonˋ fan.", answer_hanzi: "傍飯", answer: "bongˋ fan"}
+    - en: "A wrecked car can be bought again: luckily nobody was hurt."
+      sx: {hanzi: "車仔撞壞做得買過，___人無著傷。", pinyin: "caˊ eˋ cong faiˋ zo dedˋ maiˊ go, ___ nginˇ moˇ cog songˊ.", answer_hanzi: "該載", answer: "goiˊ zai"}
+    - en: "Whatever a baby gets hold of goes straight into its mouth."
+      sx: {hanzi: "嬰兒仔拿著麼个就___。", pinyin: "oˇ nga eˋ naˊ cog maˋ ge qiu ___.", answer_hanzi: "落嘴", answer: "log zoi"}
+
+audio: []

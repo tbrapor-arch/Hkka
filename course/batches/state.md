@@ -64,3 +64,5 @@ style of 採茶戲, not a sung one.
 - P47, Sat 19 May evening, Sam's room. His exam ended Fri 18 May (pass mark 70, result not known). 上屋叔婆 comes
   to dinner (thread of P42 closed): her surname is 張; a brother (traditional, a new granddaughter), a sister's
   husband, a grandson just admitted to university. Sam plans graduate school. She will wrap 粽仔 for 五月節.
+- P48, Sun 27 May, A-in's diary. Sam has passed his university exam (thread closed). The whole family barbecues at
+  the waterfall of P41 (thread of P42 closed). Grandpa hides a cigarette from Grandma. A-min jumps into the pool.
