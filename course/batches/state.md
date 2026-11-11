@@ -101,3 +101,6 @@ style of 採茶戲, not a sung one.
   resigned after a month; the bag supplier's workers were on strike in October. They bring apples back for 阿舅.
 - P62, Sun 25 Nov (debate) at the Liu house: old-time transport (Grandpa) against today's (A-min), A-in in the
   chair, Sam scoring: a draw. Grandpa's car is thirty years old.
+- P63 (review), Sat 8 Dec, dinner at the Liu house with 阿舅 and 阿傑. Sam has passed the 中級 test (thread
+  closed). 阿傑 wants a shop in Taipei in the end. A-min asks to work at the factory in the winter holidays.
+  上屋叔婆 is better. Grandpa walks every day; his car's battery is flat.

@@ -1,0 +1,183 @@
+id: 63
+genre: review
+title:
+  en: "Those who try get their chance"
+  sx: {hanzi: "肯拚就有機會", pinyin: "henˋ biang qiu iuˊ giˊ fi"}
+review: true
+setting: >-
+  Saturday 8 December 2029, dinner at the Liu house. The results of the intermediate test are out. 阿舅 and 阿傑 have
+  come from 竹東. Review of 進修 57–62: no new words.
+names: [Sam, 阿公, 阿婆, 阿舅, 叔婆, 阿傑, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Listen, everyone! Sam has passed the intermediate test!"
+    sx: {hanzi: "大家聽！Sam 个中級考試過吔！", pinyin: "tai gaˊ tangˊ! Sam ge zungˊ kibˋ kauˋ sii go leˊ!"}
+  - n: 2
+    speaker: Sam
+    en: "When I first saw the result I couldn't believe it. Before the test I had caught a chill and was unwell, and I felt a lot of pressure."
+    sx: {hanzi: "𠊎頭到看著成績，還毋敢信。上滿考試前𠊎感著，人毋好，心理壓力當大。", pinyin: "ngaiˇ teuˇ do kon doˋ siinˇ jidˋ, hanˇ mˇ gamˋ xin. song manˊ kauˋ sii qienˇ ngaiˇ gamˋ doˋ, nginˇ mˇ hoˋ, ximˊ liˊ abˋ lid dongˊ tai."}
+  - n: 3
+    speaker: 阿婆
+    en: "I told you: it was a small thing, no need to worry yet."
+    sx: {hanzi: "𠊎就講，小可仔事情，吂使愁。", pinyin: "ngaiˇ qiu gongˋ, seuˋ koˋ eˇ sii qinˇ, mangˇ siiˋ seuˇ."}
+  - n: 4
+    speaker: 阿公
+    en: "That night I told him the story of the squirrels and the bear, and that was what eased the pressure."
+    sx: {hanzi: "該暗晡𠊎講膨尾鼠同熊个古分佢聽，佢个壓力正減輕。", pinyin: "ge am buˊ ngaiˇ gongˋ pong miˊ cuˋ tungˇ iungˇ ge guˋ bunˊ giˇ tangˊ, giˇ ge abˋ lid zang gamˋ kiangˊ."}
+  - n: 5
+    speaker: 阿明
+    en: "Grandpa tells a story with real skill, but I've heard heaps of stories like that one."
+    sx: {hanzi: "阿公講古當有技巧，毋過該樣个古𠊎聽過一千擔。", pinyin: "aˊ gungˊ gongˋ guˋ dongˊ iuˊ giˊ kauˋ, mˇ go ge iong ge guˋ ngaiˇ tangˊ go idˋ qienˊ damˊ."}
+  - n: 6
+    speaker: 阿英
+    en: "You've no respect! Don't cut in like that in front of Grandpa."
+    sx: {hanzi: "你無大無細！在阿公面前毋好恁樣接嘴。", pinyin: "nˇ moˇ tai moˇ se! coiˊ aˊ gungˊ mien qienˇ mˇ hoˋ anˋ ngiongˇ jiabˋ zoi."}
+  - n: 7
+    speaker: 阿舅
+    en: "Sam, were the questions hard?"
+    sx: {hanzi: "Sam，題目難無？", pinyin: "Sam, tiˇ mug nanˇ moˇ?"}
+  - n: 8
+    speaker: Sam
+    en: "One question asked the meaning of 枵鬼假細義, and another asked who a 妻舅仔 is. I managed to write something for all of them."
+    sx: {hanzi: "有一題問「枵鬼假細義」个意思，還有一題問妻舅仔係麼人。𠊎加加減減都寫出來。", pinyin: "iuˊ idˋ tiˇ mun iauˊ guiˋ gaˋ se ngi ge i sii, hanˇ iuˊ idˋ tiˇ mun qiˊ kiuˊ eˋ he maˋ nginˇ. ngaiˇ gaˊ gaˊ gamˋ gamˋ du xiaˋ cudˋ loiˇ."}
+  - n: 9
+    speaker: 阿傑
+    en: "I know that one! My wife's younger brother is my 妻舅仔: he has only just started work this year."
+    sx: {hanzi: "𠊎知！吾餔娘个老弟就係吾妻舅仔，佢今年正出社會。", pinyin: "ngaiˇ diˊ! ngaˊ buˊ ngiongˇ ge loˋ taiˊ qiu he ngaˊ qiˊ kiuˊ eˋ, giˇ gimˊ ngienˇ zang cudˋ sa fi."}
+  - n: 10
+    speaker: Sam
+    en: "My essay was on Hakka customs: the Lantern Festival, the Dragon Boat Festival, the winter solstice, and gift money and funeral visits."
+    sx: {hanzi: "𠊎个文章寫客家人个風俗：正月半、五月節、冬節，還有包禮同拈香。", pinyin: "ngaiˇ ge vunˇ zongˊ xiaˋ hagˋ gaˊ nginˇ ge fungˊ xiug: zangˊ ngied ban, ngˋ ngied jiedˋ, dungˊ jiedˋ, hanˇ iuˊ bauˊ liˊ tungˇ ngiamˊ hiongˊ."}
+  - n: 11
+    speaker: 阿公
+    en: "You write very fluently now. Straight in your dealings and never careless in your work: that is a Hakka."
+    sx: {hanzi: "你寫到當熟練吔。做人條直，做事毋會儘儘採採，這就係客家人。", pinyin: "nˇ xiaˋ do dongˊ sug lien leˊ. zo nginˇ tiauˇ ciid, zo se mˇ voi qinˋ qinˋ caiˋ caiˋ, iaˋ qiu he hagˋ gaˊ nginˇ."}
+  - n: 12
+    speaker: 阿婆
+    en: "A-kied, how is the stall in Taipei?"
+    sx: {hanzi: "阿傑，臺北个攤仔呢？", pinyin: "aˊ kied, toiˇ bedˋ ge tanˊ eˋ neˇ?"}
+  - n: 13
+    speaker: 阿傑
+    en: "At first there wasn't enough money; now there are more and more customers in the street. In the end I want to rent a shop."
+    sx: {hanzi: "原在資金無罅，這下街項个人客緊來緊多。尾項𠊎想租一間店仔。", pinyin: "ngienˇ cai ziiˊ gimˊ moˇ la, iaˋ ha gieˊ hong ge nginˇ hagˋ ginˋ loiˇ ginˋ doˊ. miˊ hong ngaiˇ xiongˋ zuˊ idˋ gienˊ diam eˋ."}
+  - n: 14
+    speaker: 阿舅
+    en: "Someone resigns, someone goes on strike, and we still get on with it. At least the noodles haven't gone up."
+    sx: {hanzi: "有人辭職，有人罷工，𫣆兜還係煞煞仔做。至少粄條無起價。", pinyin: "iuˊ nginˇ ciiˇ ziidˋ, iuˊ nginˇ pa gungˊ, enˊ deuˊ hanˇ he sadˋ sadˋ eˇ zo. zii seuˋ banˋ tiauˇ moˇ hiˋ ga."}
+  - n: 15
+    speaker: 阿明
+    en: "Uncle, can I come and help in the winter holidays? I won't spend all my time playing."
+    sx: {hanzi: "阿舅，𠊎寒假做得去𢯭手無？𠊎毋會放勢仔搞。", pinyin: "aˊ kiuˊ, ngaiˇ honˇ gaˋ zo dedˋ hi ten suˋ moˇ? ngaiˇ mˇ voi fong se eˋ gauˋ."}
+  - n: 16
+    speaker: 阿英
+    en: "Your room is like a dog's kennel: tidy it first, then we'll talk."
+    sx: {hanzi: "你个間房像狗竇樣仔，先整理好正講。", pinyin: "nˇ ge gienˊ fongˇ qiong gieuˋ deu iong eˋ, xienˊ ziinˋ liˊ hoˋ zang gongˋ."}
+  - n: 17
+    speaker: 阿婆
+    en: "Is the old lady up the lane any better from her old trouble?"
+    sx: {hanzi: "上屋叔婆个老症頭有較好無？", pinyin: "song vugˋ sugˋ poˇ ge loˋ ziin teuˇ iuˊ ka hoˋ moˇ?"}
+  - n: 18
+    speaker: Sam
+    en: "She is. Lately she comes out for a walk now and then, and I look in on her morning and evening."
+    sx: {hanzi: "有較好。這駁仔佢成時會出來散步，𠊎早暗都去看佢。", pinyin: "iuˊ ka hoˋ. iaˋ bogˋ eˇ giˇ sangˇ siiˇ voi cudˋ loiˇ san pu, ngaiˇ zoˋ am du hi kon giˇ."}
+  - n: 19
+    speaker: 阿公
+    en: "I walk every day too, and don't take the car. The car drinks petrol, and petrol is dear."
+    sx: {hanzi: "𠊎乜逐日散步，無坐車仔。車仔忒食油，汽油又貴。", pinyin: "ngaiˇ me dagˋ ngidˋ san pu, moˇ coˊ caˊ eˋ. caˊ eˋ tedˋ siid iuˇ, hi iuˇ iu gui."}
+  - n: 20
+    speaker: 阿明
+    en: "Grandpa is just afraid that car will stop halfway! Its battery went flat long ago."
+    sx: {hanzi: "阿公係驚該臺車仔半路停忒！電池早就無電吔。", pinyin: "aˊ gungˊ he giangˊ ge toiˇ caˊ eˋ ban lu tinˇ tedˋ! tien ciiˇ zoˋ qiu moˇ tien leˊ."}
+  - n: 21
+    speaker: 阿公
+    en: "You young rascal! One ought to know gratitude."
+    sx: {hanzi: "你這隻細人仔！人愛知感謝正好。", pinyin: "nˇ iaˋ zagˋ se nginˇ eˋ! nginˇ oi diˊ gamˋ qia zang hoˋ."}
+  - n: 22
+    speaker: Sam
+    en: "I am very grateful to you all. Without you I would not have passed."
+    sx: {hanzi: "𠊎當感謝大家。無你兜人，𠊎考毋過。", pinyin: "ngaiˇ dongˊ gamˋ qia tai gaˊ. moˇ nˇ deuˊ nginˇ, ngaiˇ kauˋ mˇ go."}
+  - n: 23
+    speaker: 阿婆
+    en: "Those who try get their chance. Come, let's eat! There is sweet corn soup today: help yourselves."
+    sx: {hanzi: "肯拚就有機會。來，食飯！今晡日有包粟湯，請隨意食。", pinyin: "henˋ biang qiu iuˊ giˊ fi. loiˇ, siid fan! gimˊ buˊ ngidˋ iuˊ bauˊ xiugˋ tongˊ, qiangˋ suiˇ i siid."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      This lesson has no new words: it brings back words of 進修 57–62. Sam sat the test in 進修 60.
+  - ref: 2
+    topic: vocab
+    text: >
+      頭到 "the first time" is from 進修 61; 上滿 "last time" from 進修 60; 感著 "catch a chill" and 人毋好 "unwell" from 進修 57.
+  - ref: 3
+    topic: vocab
+    text: >
+      小可仔 "slight" and 吂使 "no need yet" are from 進修 57.
+  - ref: 4
+    topic: vocab
+    text: >
+      膨尾鼠 "squirrel", 熊 "bear" and 減輕 "lighten" are from 進修 58; so are 技巧 "skill" and 該樣 "that kind" in line 5. 一千擔
+      "heaps" is from 進修 62.
+  - ref: 6
+    topic: vocab
+    text: >
+      無大無細 "with no respect for age" and 接嘴 "cut in" are from 進修 60, like 題, 枵鬼假細義, 妻舅仔 and 加加減減 in lines 7 and 8,
+      and 出社會 in line 9.
+  - ref: 10
+    topic: vocab
+    text: >
+      風俗, 正月半, 五月節, 冬節, 包禮 and 拈香 are from 進修 59; so are 熟練, 條直 and 儘儘採採 in line 11.
+  - ref: 13
+    topic: vocab
+    text: >
+      原在 "at first", 資金 "funds", 街項 "in the street", 尾項 "in the end" and 店仔 "shop" are from 進修 61; so are 辭職, 罷工,
+      煞煞仔 and 至少 in line 14.
+  - ref: 15
+    topic: vocab
+    text: >
+      放勢仔 "to one's heart's content" and 狗竇 "kennel" (line 16) are from 進修 57.
+  - ref: 17
+    topic: vocab
+    text: >
+      老症頭 "old ailment" and 這駁仔 "lately" are from 進修 57; 成時 "now and then" and 散步 "go for a walk" from 進修 62; 早暗
+      "morning and evening" from 進修 61.
+  - ref: 19
+    topic: vocab
+    text: >
+      食油 "use a lot of fuel", 汽油 "petrol" and 電池 "battery" (line 20) are from 進修 62. 正好 in line 21 is the title of
+      進修 62.
+  - ref: 23
+    topic: vocab
+    text: >
+      包粟 "sweet corn" is from 進修 57; 隨意 "as one pleases" from 進修 58.
+
+new_words:
+
+exercises:
+  translate:
+    - en: "Sam caught a chill last time; he is better these days."
+      sx: {hanzi: "Sam 上滿感著，這駁仔好吔。", pinyin: "Sam song manˊ gamˋ doˋ, iaˋ bogˋ eˇ hoˋ leˊ."}
+    - en: "A-kied wanted to rent a shop at first, and in the end set up a stall."
+      sx: {hanzi: "阿傑原在想租店仔，尾項擺攤仔。", pinyin: "aˊ kied ngienˇ cai xiongˋ zuˊ diam eˋ, miˊ hong baiˋ tanˊ eˋ."}
+    - en: "Grandpa's story has a bear, squirrels and an owl in it."
+      sx: {hanzi: "阿公講个古，包括熊、膨尾鼠同貓頭鳥。", pinyin: "aˊ gungˊ gongˋ ge guˋ, bauˊ guadˋ iungˇ, pong miˊ cuˋ tungˇ meu teuˇ diauˊ."}
+    - en: "This car drinks petrol, and its battery is flat too."
+      sx: {hanzi: "這臺車仔忒食油，電池乜無電吔。", pinyin: "iaˋ toiˇ caˊ eˋ tedˋ siid iuˇ, tien ciiˇ me moˇ tien leˊ."}
+    - en: "Rice balls at the winter solstice, rice dumplings at the Dragon Boat Festival: these are Hakka customs."
+      sx: {hanzi: "冬節食雪圓仔，五月節䌈粽仔，這係客家人个風俗。", pinyin: "dungˊ jiedˋ siid xiedˋ ienˇ eˋ, ngˋ ngied jiedˋ tagˋ zung eˋ, iaˋ he hagˋ gaˊ nginˇ ge fungˊ xiug."}
+  fill:
+    - en: "A-min's room is like a dog's kennel."
+      sx: {hanzi: "阿明个間房像___樣仔。", pinyin: "aˊ minˇ ge gienˊ fongˇ qiong ___ iong eˋ.", answer_hanzi: "狗竇", answer: "gieuˋ deu"}
+    - en: "The old lady comes out for a walk now and then."
+      sx: {hanzi: "叔婆成時會出來___。", pinyin: "sugˋ poˇ sangˇ siiˇ voi cudˋ loiˇ ___.", answer_hanzi: "散步", answer: "san pu"}
+    - en: "The test had fourteen questions, and Sam answered them all."
+      sx: {hanzi: "考試有十四___，Sam 全部都有寫。", pinyin: "kauˋ sii iuˊ siib xi ___, Sam qionˇ pu du iuˊ xiaˋ.", answer_hanzi: "題", answer: "tiˇ"}
+    - en: "There are more and more customers in the street in Taipei."
+      sx: {hanzi: "臺北___个人客緊來緊多。", pinyin: "toiˇ bedˋ ___ ge nginˇ hagˋ ginˋ loiˇ ginˋ doˊ.", answer_hanzi: "街項", answer: "gieˊ hong"}
+    - en: "At a banquet you give gift money; when someone dies you go and offer incense."
+      sx: {hanzi: "去食酒愛___，人過身愛去拈香。", pinyin: "hi siid jiuˋ oi ___, nginˇ go siinˊ oi hi ngiamˊ hiongˊ.", answer_hanzi: "包禮", answer: "bauˊ liˊ"}
+
+audio: []
