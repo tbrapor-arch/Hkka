@@ -1,4 +1,4 @@
-# Handover: the tooling for writing 進修 lessons (10 Nov 2026)
+# Handover: the tooling for writing 進修 lessons (10 Nov 2026, updated 11 Nov)
 
 For whoever writes P36–P70 next. It explains what was added on 10 Nov 2026, why, and how to use it.
 The plan and the decisions are in `docs/perfectionnement-plan.md`.
@@ -29,9 +29,10 @@ order is poorer.
 | `tools/draft.py` | Writes a lesson from a draft that has no pinyin (added with batch P36–P42) |
 | `course/drafts/PNN.txt` | The draft of one lesson. Not committed (`.gitignore`) |
 | `tools/bridge.py` | The accent bridge: `report`, `build` (see `docs/perfectionnement-plan.md`) |
-| `course/packets/plan.tsv` | The word plan: 1,350 words for P36–P69, about 45 per lesson. Made once. You can edit it by hand |
+| `course/packets/plan.tsv` | The word plan, about 45 words per lesson. Made on 10 Nov for P36–P69, made again on 11 Nov for P50–P69. You can edit it by hand |
+| `course/packets/skip.tsv` | Words the plan leaves out for good, with the reason (幾下, the patterns with …) |
 | `course/packets/PNN.md` | The packet of one lesson. Generated, not committed (`.gitignore`) |
-| `course/batches/rules.yaml` | 37 checklist rules that a pattern can catch. Lint reads it |
+| `course/batches/rules.yaml` | About 44 checklist rules that a pattern can catch. Lint reads it |
 | `course/batches/card.md` | One page: the rules a script cannot check, and the order of work |
 | `course/batches/state.md` | The story so far, in 40 lines. Add three lines per lesson |
 | `tools/lint.py` | New checks for 進修 (list below) |
@@ -121,7 +122,14 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
   of P36–P42 looked at every such word; the next writer must force the reading in the draft.
 - A pattern with … in the middle (除忒…以外) cannot be declared as a new word, so coverage keeps it as untaught.
 
+## Second batch with the tooling (P43–P49, 11 Nov 2026)
+- 213 new words in six lessons (35.5 per lesson), 44% official sentences. Brief: `course/batches/P43.md`.
+- The review found 5 certain errors (two wrong "from lesson N" notes, two readings, one wrong note on a tone) and
+  exercises that copied lines of the text. All fixed; rule `together-tone` and four card lines added.
+- The agent was wrong on three points: check every finding in the data before fixing it.
+- Too many planned words were left over (98), so the plan was made again for P50–P69 (`plan --force`, old rows kept).
+
 ## Next
-1. Batch P43–P49: story from late April 2029 (`course/batches/state.md` has the open threads and the calendar).
-2. Write P43–P48 one at a time, then the review lesson P49.
-3. Fresh-agent review, fixes, new rules, `recycle`, `make coverage`. Show the batch result to the user.
+1. Batch P50–P56: summer 2029 (`course/batches/state.md` has the open threads and the calendar).
+2. Write P50–P55 one at a time, then the review lesson P56.
+3. Fresh-agent review, check its findings, fixes, new rules, `recycle`, `make coverage`. Show the batch result to the user.

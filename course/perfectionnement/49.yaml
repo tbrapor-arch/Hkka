@@ -158,31 +158,26 @@ new_words:
 
 exercises:
   translate:
-    - en: "This time they are going to the mainland for a trip."
-      source: kaga115
-      sx: {hanzi: "這滿佢兜愛去大陸尞。", pinyin: "iaˋ manˊ giˇ deuˊ oi hi tai liug liau."}
-    - en: "He works very deftly."
-      source: kaga115
-      sx: {hanzi: "佢做事當伶俐。", pinyin: "giˇ zo se dongˊ langˇ li."}
-    - en: "This medicine doesn't work very well."
-      source: kaga115
-      sx: {hanzi: "這藥仔效果無異好。", pinyin: "iaˋ iog eˋ hauˋ goˋ moˇ i hoˋ."}
-    - en: "Second place gets a prize too."
-      source: kaga115
-      sx: {hanzi: "亞軍乜有獎品。", pinyin: "aˋ giunˊ me iuˊ jiongˋ pinˋ."}
-    - en: "Thanks to the gods' protection, he came to no harm."
-      source: kaga115
-      sx: {hanzi: "好得神明庇佑，佢正無事情。", pinyin: "hoˋ dedˋ siinˇ minˇ bi iu, giˇ zang moˇ sii qinˇ."}
+    - en: "A-min isn't deft at things."
+      sx: {hanzi: "阿明做事毋會伶俐。", pinyin: "aˊ minˇ zo se mˇ voi langˇ li."}
+    - en: "Grandpa's ideas are very traditional."
+      sx: {hanzi: "阿公个觀念當傳統。", pinyin: "aˊ gungˊ ge gonˊ ngiam dongˊ conˇ tungˋ."}
+    - en: "Sam has passed his exam: he doesn't feel so much pressure now."
+      sx: {hanzi: "Sam 考試過吔，心理壓力無恁大吔。", pinyin: "Sam kauˋ sii go leˊ, ximˊ liˊ abˋ lid moˇ anˋ tai leˊ."}
+    - en: "Grandma watches Grandpa all the time and won't let him smoke."
+      sx: {hanzi: "阿婆時時看等阿公，毋分佢㗘菸。", pinyin: "aˊ poˇ siiˇ siiˇ kon denˋ aˊ gungˊ, mˇ bunˊ giˇ bog ienˊ."}
+    - en: "At the Dragon Boat Festival the house is lively: the dumplings are cut in half, half each."
+      sx: {hanzi: "五月節屋下當鬧熱，粽仔對半切，一儕一半。", pinyin: "ngˋ ngied jiedˋ vugˋ kaˊ dongˊ nau ngied, zung eˋ dui ban qiedˋ, idˋ saˇ idˋ ban."}
   fill:
-    - en: "Tobacco is no good thing: better not to smoke."
-      sx: {hanzi: "菸毋係好東西，莫___較贏。", pinyin: "ienˊ mˇ he hoˋ dungˊ xiˊ, mog ___ ka iangˇ.", answer_hanzi: "㗘", answer: "bog"}
-    - en: "It is good for a person to be modest."
-      sx: {hanzi: "做人愛___正好。", pinyin: "zo nginˇ oi ___ zang hoˋ.", answer_hanzi: "自謙", answer: "cii kiamˊ"}
-    - en: "He was told to put on another layer before going out, and he just would not listen."
-      sx: {hanzi: "喊佢著加一領衫出門，佢___毋聽人講。", pinyin: "ham giˇ zogˋ gaˊ idˋ liangˊ samˊ cudˋ munˇ, giˇ ___ mˇ tangˊ nginˇ gongˋ.", answer_hanzi: "偏偏", answer: "pienˊ pienˊ"}
-    - en: "This exam covers a lot of ground."
-      sx: {hanzi: "這擺考試个___當闊。", pinyin: "iaˋ baiˋ kauˋ sii ge ___ dongˊ fadˋ.", answer_hanzi: "範圍", answer: "fam viˇ"}
-    - en: "At first he said he would take the day off; in the end he said he would come."
-      sx: {hanzi: "本來講愛請假，___佢又講愛來。", pinyin: "bunˋ loiˇ gongˋ oi qiangˋ gaˋ, ___ giˇ iu gongˋ oi loiˇ.", answer_hanzi: "包尾", answer: "bauˊ miˊ"}
+    - en: "Grandpa was smoking under the tree, and was embarrassed when he saw Grandma."
+      sx: {hanzi: "阿公在樹下___菸，看著阿婆就當尷尬。", pinyin: "aˊ gungˊ coiˊ su haˊ ___ ienˊ, kon doˋ aˊ poˇ qiu dongˊ gangˊ gie.", answer_hanzi: "㗘", answer: "bog"}
+    - en: "Sam is a decent sort, and very modest too."
+      sx: {hanzi: "Sam 當篤實，又當___。", pinyin: "Sam dongˊ dugˋ siid, iu dongˊ ___.", answer_hanzi: "自謙", answer: "cii kiamˊ"}
+    - en: "Grandma told him not to go, and he just had to go."
+      sx: {hanzi: "阿婆喊佢莫去，佢___愛去。", pinyin: "aˊ poˇ ham giˇ mog hi, giˇ ___ oi hi.", answer_hanzi: "偏偏", answer: "pienˊ pienˊ"}
+    - en: "The November exam covers even more ground."
+      sx: {hanzi: "十一月个考試___還較闊。", pinyin: "siib idˋ ngied ge kauˋ sii ___ hanˇ ka fadˋ.", answer_hanzi: "範圍", answer: "fam viˇ"}
+    - en: "A-min first carries materials and sweeps the floor, and only at the end learns to make noodles."
+      sx: {hanzi: "阿明先扐材料、掃地泥，___正學做麵。", pinyin: "aˊ minˇ xienˊ led coiˇ liau, so ti naiˇ, ___ zang hog zo mien.", answer_hanzi: "包尾", answer: "bauˊ miˊ"}
 
 audio: []

@@ -56,7 +56,7 @@ dialogue:
     sx: {hanzi: "喊佢莫去，佢強強愛去。", pinyin: "ham giˇ mog hi, giˇ kiongˇ kiongˇ oi hi."}
   - n: 11
     en: "The packing room is upstairs, where the paper bags are stapled shut. The children followed him upstairs."
-    sx: {hanzi: "包麵个所在在樓頂，紙袋仔用釘書機釘起來。細人仔跈等上樓頂。", pinyin: "bauˊ mien ge soˋ cai coiˊ leuˇ dangˋ, ziiˋ toi eˋ iung dang suˊ giˊ dang hiˋ loiˇ. se nginˇ eˋ tenˇ denˋ song leuˇ dangˋ."}
+    sx: {hanzi: "包麵个所在在樓頂，紙袋仔用釘書機釘起來。細人仔跈等上樓頂。", pinyin: "bauˊ mien ge soˋ cai coiˊ leuˇ dangˋ, ziiˋ toi eˋ iung dangˊ suˊ giˊ dangˊ hiˋ loiˇ. se nginˇ eˋ tenˇ denˋ song leuˇ dangˋ."}
     check: true
   - n: 12
     speaker: 阿傑
@@ -178,7 +178,8 @@ notes:
   - ref: 7
     topic: vocab
     text: >
-      撥 padˋ "shake off, flap": 撥塵灰 "shake the dust off". The character has other readings for other senses.
+      撥 padˋ "fan, flap" (the list glosses it 搧): 撥塵灰 "flap the dust away". With other readings 撥 means "pay out" or
+      "push aside".
   - ref: 8
     topic: vocab
     text: >
@@ -191,7 +192,8 @@ notes:
   - ref: 11
     topic: vocab
     text: >
-      釘 dang is the verb "to nail, to staple" (拿釘書機釘起來); the noun "nail" has another tone.
+      釘 dangˊ "to nail, to staple": the list gives this one reading for the noun and the verb. 釘書機 is "stapler" (釘 +
+      書 + 機).
   - ref: 12
     topic: vocab
     text: >
@@ -263,12 +265,12 @@ new_words:
   - {hanzi: "發出", pinyin: "fadˋ cudˋ", en: "give out, send out"}
   - {hanzi: "扐", pinyin: "led", en: "carry in one's arms"}
   - {hanzi: "伶俐", pinyin: "langˇ li", en: "deft; neat and clean"}
-  - {hanzi: "撥", pinyin: "padˋ", en: "shake off, flap"}
+  - {hanzi: "撥", pinyin: "padˋ", en: "fan, flap"}
   - {hanzi: "保養", pinyin: "boˋ iongˊ", en: "maintain, service; look after"}
   - {hanzi: "品質", pinyin: "pinˋ ziidˋ", en: "quality"}
   - {hanzi: "力量", pinyin: "lid liong", en: "strength, power"}
   - {hanzi: "強強", pinyin: "kiongˇ kiongˇ", en: "insist on"}
-  - {hanzi: "釘", pinyin: "dang", en: "to nail, staple"}
+  - {hanzi: "釘", pinyin: "dangˊ", en: "to nail, staple"}
   - {hanzi: "扳", pinyin: "banˊ", en: "hold on to"}
   - {hanzi: "躪", pinyin: "nang", en: "tread on"}
   - {hanzi: "色目", pinyin: "sedˋ mug", en: "colour"}

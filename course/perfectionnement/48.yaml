@@ -12,7 +12,7 @@ names: [Sam, 阿公, 阿婆, 阿爸, 阿姆, 阿明]
 dialogue:
   - n: 1
     en: "Sunday 27 May, fine. Sam has passed his exam! He was very moved when he got his marks. The whole family went to barbecue by the waterfall."
-    sx: {hanzi: "五月二十七號，禮拜日，好天。Sam 考試過吔！佢接著成績當激動。屋下人共下去水沖脣烤肉。", pinyin: "ngˋ ngied ngi siib qidˋ ho, liˊ bai ngidˋ, hoˋ tienˊ. Sam kauˋ sii go leˊ! giˇ jiabˋ doˋ siinˇ jidˋ dongˊ gidˋ tung. vugˋ kaˊ nginˇ kiung haˊ hi suiˋ cungˇ sunˇ kauˋ ngiugˋ."}
+    sx: {hanzi: "五月二十七號，禮拜日，好天。Sam 考試過吔！佢接著成績當激動。屋下人共下去水沖脣烤肉。", pinyin: "ngˋ ngied ngi siib qidˋ ho, liˊ bai ngidˋ, hoˋ tienˊ. Sam kauˋ sii go leˊ! giˇ jiabˋ doˋ siinˇ jidˋ dongˊ gidˋ tung. vugˋ kaˊ nginˇ kiung ha hi suiˋ cungˇ sunˇ kauˋ ngiugˋ."}
     check: true
   - n: 2
     en: "In the morning I took too long over my make-up and was nearly too late."
@@ -191,8 +191,8 @@ notes:
   - ref: 23
     topic: vocab
     text: >
-      一旦 idˋ danˋ "always, all along" (臺灣南部一旦就當熱). 𠊎兜人 ngaiˇ deuˊ nginˇ "we", the listener not included: 𠊎兜 with 人
-      added, like 你兜人 in 進修 46. 歸下晝 guiˊ haˊ zu "the whole afternoon" (睡歸下晝).
+      一旦 idˋ danˋ "always, all along" ([臺灣|toiˇ vanˇ]南部一旦就當熱). 𠊎兜人 ngaiˇ deuˊ nginˇ "we", the listener not included:
+      𠊎兜 with 人 added, like 你兜人 in 進修 46. 歸下晝 guiˊ haˊ zu "the whole afternoon" (睡歸下晝).
   - ref: 24
     topic: vocab
     text: >
@@ -255,7 +255,7 @@ exercises:
       sx: {hanzi: "阿哥係當篤實个人。", pinyin: "aˊ goˊ he dongˊ dugˋ siid ge nginˇ."}
     - en: "The south of Taiwan has always been very hot."
       source: kaga115
-      sx: {hanzi: "臺灣南部一旦就當熱。", pinyin: "toiˇ vanˊ namˇ pu idˋ danˋ qiu dongˊ ngied."}
+      sx: {hanzi: "臺灣南部一旦就當熱。", pinyin: "toiˇ vanˇ namˇ pu idˋ danˋ qiu dongˊ ngied."}
     - en: "He kept the matter hidden: nobody knew at all."
       source: kaga115
       sx: {hanzi: "事情分佢掩等，全無人知。", pinyin: "sii qinˇ bunˊ giˇ amˋ denˋ, qionˇ moˇ nginˇ diˊ."}
@@ -263,12 +263,12 @@ exercises:
       source: kaga115
       sx: {hanzi: "就算你走較遽，乜來毋掣吔。", pinyin: "qiu son nˇ zeuˋ ka giagˋ, me loiˇ mˇ cadˋ leˊ."}
   fill:
-    - en: "His pinches really hurt."
-      sx: {hanzi: "佢___人當痛。", pinyin: "giˇ ___ nginˇ dongˊ tung.", answer_hanzi: "捏", answer: "nedˋ"}
+    - en: "Don't pinch me, it hurts!"
+      sx: {hanzi: "你莫___𠊎，當痛！", pinyin: "nˇ mog ___ ngaiˇ, dongˊ tung!", answer_hanzi: "捏", answer: "nedˋ"}
     - en: "Sleep the whole afternoon."
       sx: {hanzi: "睡___。", pinyin: "soi ___.", answer_hanzi: "歸下晝", answer: "guiˊ haˊ zu"}
-    - en: "With this dish to go with it, you can get through three bowls of rice."
-      sx: {hanzi: "這菜___食，做得划三碗飯。", pinyin: "iaˋ coi ___ siid, zo dedˋ paˇ samˊ vonˋ fan.", answer_hanzi: "傍飯", answer: "bongˋ fan"}
+    - en: "Grandma's dishes go very well with rice."
+      sx: {hanzi: "阿婆煮个菜當好___。", pinyin: "aˊ poˇ zuˋ ge coi dongˊ hoˋ ___.", answer_hanzi: "傍飯", answer: "bongˋ fan"}
     - en: "A wrecked car can be bought again: luckily nobody was hurt."
       sx: {hanzi: "車仔撞壞做得買過，___人無著傷。", pinyin: "caˊ eˋ cong faiˋ zo dedˋ maiˊ go, ___ nginˇ moˇ cog songˊ.", answer_hanzi: "該載", answer: "goiˊ zai"}
     - en: "Whatever a baby gets hold of goes straight into its mouth."

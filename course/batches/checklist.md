@@ -256,3 +256,19 @@ sentences / MOE examples. All findings below were fixed unless marked "left".
   The synthetic audio of these lines in Hkka-private is now out of date: re-run `tools/tts.py` there.
 - Checked and found right: every other reading of 著, 好, 落, 行, 下, 上, 會, 分, 正, 喊, 歇, 還, 倒, 降, 兩, 煞; the 229
   glosses; every sentence quoted in a note; all weekdays and lunar dates.
+
+## Batch 7 (P43–P49), review of 11 Nov 2026
+Fresh agent, read-only. 5 certain findings, all checked against the data before fixing; 3 of its "to check" points
+were wrong and are not applied.
+- 天穿日 "from 進修 36": it is taught in lesson 55 → fixed (P43 note).
+- 釘: kaga115 gives dangˊ for both "nail" and "nail (verb)"; the lesson had dang and a note about another tone → fixed
+  to dangˊ, note rewritten (P45).
+- 無法度 "from lesson 60": it is in 進修 4 → fixed (P46 note).
+- 共下 kiung haˊ in P48 line 1 (same slip as P42) → kiung ha; rule `together-tone` added and tested.
+- 臺灣 toiˇ vanˊ in a P48 exercise → toiˇ vanˇ; card line added.
+- P48: two fill items repeated lines of the text → new items. P49: all ten exercises copied lines of 43–48 → new
+  sentences.
+- Not applied: the 𫣆兜 quote in the P44 note is the kaga115 Sixian sentence (the agent read the kaga 2013 one); the
+  P46 title is a kaga115 sentence; 撥 padˋ is the kaga115 reading (glossed 搧), so the gloss became "fan, flap".
+- Lint warns "already used before it is taught" for 19 words of P43–P48 (過年過節, 法度, 手電筒 …): each was met
+  earlier inside a line or an exercise and is now taught as a word. Accepted, as in batch 6.

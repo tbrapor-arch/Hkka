@@ -68,3 +68,5 @@ style of 採茶戲, not a sung one.
   the waterfall of P41 (thread of P42 closed). Grandpa hides a cigarette from Grandma. A-min jumps into the pool.
 - P49 (review), Sat 16 Jun, 五月節, lunch at the Liu house. Sam brings 叔婆's 粽仔. A-min starts at the factory
   "next month" (July). Sam stays in Miaoli for the summer to prepare the November exam. Grandpa smokes less.
+- Open threads after P49: A-min at the factory from July; Sam's 中級 exam in November; Grandpa smokes less;
+  叔婆 張 and her grandson at university; Sam's cousin wants to study in Taiwan; Sam plans graduate school.

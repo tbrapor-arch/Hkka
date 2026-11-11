@@ -35,6 +35,7 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - "Small" after a noun is 細細仔 (機關細細仔), not 細細間 or 細細頭. "What is X called" is X 安到麼个名.
 - 斯 "then" is siiˇ (斯文 and 瓦斯 have siiˊ). 阿傑 is aˊ kied.
 - 輪 "take turns" is linˊ (lesson 92), 共下 is kiung ha, 無斯 "or else" is moˇ siiˇ: the draft tool cannot know these.
+- 臺灣 is toiˇ vanˇ: the draft tool sometimes writes vanˊ (batch 7). 釘 verb and noun are both dangˊ; 撥 padˋ is "fan, flap".
 - "We": 𫣆兜 includes the listener, 𠊎兜 excludes. Check each one against who is listening (in a letter: writer +
   reader is 𫣆兜).
 - Demonstrative + classifier + noun (這隻柚仔). A bare noun only where an official sentence has it.
@@ -61,11 +62,13 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
   words "general knowledge".
 - Leaflets, rules and opening hours of real institutions are invented: say so in the setting.
 - "Not in the data" only after searching the official sentences and the MOE definitions.
+- "From lesson N / 進修 N": grep the word in that file before writing it (batch 7 had two wrong references).
 - After any insertion, check the line numbers and the "lesson N" references in the notes.
 - Numbered items inside a text run in order.
 
 ## Review lessons (every 7th)
-- No new words. At least 3 new words from each of the six lessons before (lint counts them).
+- No new words. Exercises are new sentences: do not copy lines of the batch.
+- In any lesson, an exercise must not repeat a line of its own text. At least 3 new words from each of the six lessons before (lint counts them).
 - Check the batch calendar before "long time no see" and similar lines.
 
 ## After the batch
