@@ -108,3 +108,6 @@ style of 採茶戲, not a sung one.
   阿梅 is the baby's mother and calls 叔婆 阿姑. Sam built and painted a cot. They live two train stops away.
 - P65, Sat 12 Jan 2030, A-in's radio slot: she interviews Sam about the test. He collects stamps, teaches songs
   at the kindergarten in 公館, stays in Taiwan for the winter holidays and wants to tour the west by train.
+- P66, Mon 4 Feb 2030, 年初二 at the Liu house. Grandpa's youngest daughter (滿姑, lives up north) comes home with
+  her husband (姑丈, just promoted to run a company) and their youngest boy (just started school). Mrs Liu and her
+  sister are at their own parents'. Grandpa and 姑丈 argue about politics (a land requisition, invented).

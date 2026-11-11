@@ -1,0 +1,304 @@
+id: 66
+genre: dialogue
+title:
+  en: "It has been so since ancient times"
+  sx: {hanzi: "自古以來就恁仔", pinyin: "cii guˋ iˊ loiˇ qiu anˋ eˋ"}
+review: false
+setting: >-
+  Monday 4 February 2030, the second day of the lunar New Year, when married daughters go back to their parents'
+  house. At the Liu house, Grandpa's youngest daughter (滿姑 to A-in and A-min) comes home with her husband (姑丈) and
+  their youngest boy. Mrs Liu has gone to her own parents. Sam has come to wish the family a happy New Year. The
+  aunt's family is invented.
+names: [Sam, 阿公, 阿婆, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Today is the second day of the year: your youngest aunt is coming home."
+    sx: {hanzi: "今晡日年初二，若滿姑愛轉來。", pinyin: "gimˊ buˊ ngidˋ ngienˇ cuˊ ngi, ngiaˊ manˊ guˊ oi zonˋ loiˇ."}
+    check: true
+  - n: 2
+    speaker: 阿公
+    en: "It has been so since ancient times."
+    source: kaga115
+    sx: {hanzi: "自古以來就恁仔。", pinyin: "cii guˋ iˊ loiˇ qiu anˋ eˋ."}
+  - n: 3
+    speaker: 阿明
+    en: "My youngest aunt is very fond of me: every time she comes she buys me books. What about Mum and Auntie?"
+    sx: {hanzi: "滿姑當惜𠊎，逐擺來都買書分𠊎。阿姆同阿姨呢？", pinyin: "manˊ guˊ dongˊ xiagˋ ngaiˇ, dagˋ baiˋ loiˇ du maiˊ suˊ bunˊ ngaiˇ. aˊ meˊ tungˇ aˊ iˇ neˇ?"}
+    check: true
+  - n: 4
+    speaker: 阿婆
+    en: "They have gone back to their own parents' house."
+    sx: {hanzi: "佢兜轉外家去吔。", pinyin: "giˇ deuˊ zonˋ ngoi gaˊ hi leˊ."}
+    check: true
+  - n: 5
+    speaker: 滿姑
+    en: "Dad, Mum, happy New Year! My sister-in-law is out, is she? The car broke down halfway, which is why we are so late. This is my youngest boy."
+    sx: {hanzi: "阿爸、阿姆，恭喜！大嫂無在係無？車仔駛到半站仔壞忒，𠊎兜正恁慢到。這係吾滿子。", pinyin: "aˊ baˊ, aˊ meˊ, giungˊ hiˋ! tai soˋ moˇ coiˊ he moˇ? caˊ eˋ siiˋ do ban cam eˋ faiˋ tedˋ, ngaiˇ deuˊ zang anˋ man do. iaˋ he ngaˊ manˊ ziiˋ."}
+    check: true
+  - n: 6
+    speaker: 滿姑
+    en: "My youngest has only just started school and isn't used to it yet: I went to the school specially to have a look."
+    source: kaga115
+    sx: {hanzi: "滿子正入學還毋慣，𠊎䟓䟓去學校看一下。", pinyin: "manˊ ziiˋ zang ngib hog hanˇ mˇ guan, ngaiˇ dangˊ dangˊ hi hog gauˋ kon idˋ ha."}
+  - n: 7
+    speaker: 阿婆
+    en: "When you take a child across a main road, hold its hand."
+    source: kaga115
+    sx: {hanzi: "渡細人仔過大路，手愛牽等。", pinyin: "tu se nginˇ eˋ go tai lu, suˋ oi kienˊ denˋ."}
+  - n: 8
+    speaker: 阿英
+    en: "A-min was the same when he was small."
+    sx: {hanzi: "阿明細个時節乜共樣。", pinyin: "aˊ minˇ se ge siiˇ jiedˋ me kiung iong."}
+    check: true
+  - n: 9
+    speaker: 阿英
+    en: "It was Grandma who brought him up from a baby."
+    source: kaga115
+    sx: {hanzi: "佢係阿婆從細渡到大个。", pinyin: "giˇ he aˊ poˇ qiungˇ se tu do tai ge."}
+  - n: 10
+    speaker: 滿姑
+    en: "Your uncle has been promoted. His boss said:"
+    sx: {hanzi: "若姑丈升吔。厥頭家講：", pinyin: "ngiaˊ guˊ congˊ siinˊ leˊ. giaˊ teuˇ gaˊ gongˋ:"}
+    check: true
+  - n: 11
+    speaker: 滿姑
+    en: "I am handing this company over to you to run."
+    source: kaga115
+    sx: {hanzi: "這公司交分你管理。", pinyin: "iaˋ gungˊ siiˊ gauˊ bunˊ nˇ gonˋ liˊ."}
+  - n: 12
+    speaker: 姑丈
+    en: "The company provides a car as well: the very one that broke down halfway."
+    sx: {hanzi: "公司還提供一臺車仔，就係半站仔壞忒該臺。", pinyin: "gungˊ siiˊ hanˇ tiˇ giungˊ idˋ toiˇ caˊ eˋ, qiu he ban cam eˋ faiˋ tedˋ ge toiˇ."}
+    check: true
+  - n: 13
+    speaker: 滿姑
+    en: "He is very particular about food."
+    source: kaga115
+    sx: {hanzi: "佢對食个十分講究。", pinyin: "giˇ dui siid ge siib funˊ gongˋ giu."}
+  - n: 14
+    speaker: 滿姑
+    en: "Dad, this medicine is for you, and this painting is for you too."
+    sx: {hanzi: "阿爸，這係分你个藥仔，這幅畫乜係分你个。", pinyin: "aˊ baˊ, iaˋ he bunˊ nˇ ge iog eˋ, iaˋ bugˋ fa me he bunˊ nˇ ge."}
+    check: true
+  - n: 15
+    speaker: 阿公
+    en: "What does that medicine do?"
+    source: kaga115
+    sx: {hanzi: "該藥仔有麼个作用？", pinyin: "ge iog eˋ iuˊ maˋ ge zogˋ iung?"}
+  - n: 16
+    speaker: 阿公
+    en: "This painting is very valuable."
+    source: kaga
+    sx: {hanzi: "這幅畫當有價值。", pinyin: "iaˋ bugˋ fa dongˊ iuˊ ga ciid."}
+  - n: 17
+    speaker: 阿明
+    en: "The shape of this box is not pretty."
+    source: kaga115
+    sx: {hanzi: "這盒仔外形毋靚。", pinyin: "iaˋ hab eˋ ngoi hinˇ mˇ jiangˊ."}
+  - n: 18
+    speaker: Sam
+    en: "I know the author of this book."
+    source: kaga115
+    sx: {hanzi: "𠊎識這本書个作者。", pinyin: "ngaiˇ siidˋ iaˋ bunˋ suˊ ge zogˋ zaˋ."}
+  - n: 19
+    speaker: Sam
+    en: "His books reflect the problems of society."
+    sx: {hanzi: "佢个書反映社會个問題。", pinyin: "giˇ ge suˊ fanˋ iangˋ sa fi ge mun tiˇ."}
+    check: true
+  - n: 20
+    speaker: Sam
+    en: "He has been to a great many countries."
+    source: kaga115
+    sx: {hanzi: "佢去過當多國家。", pinyin: "giˇ hi go dongˊ doˊ guedˋ gaˊ."}
+  - n: 21
+    speaker: 阿婆
+    en: "Once the talk turns to politics, your grandfather and your uncle start quarrelling."
+    sx: {hanzi: "講著政治，若阿公同若姑丈就會冤家。", pinyin: "gongˋ doˋ ziin cii, ngiaˊ aˊ gungˊ tungˇ ngiaˊ guˊ congˊ qiu voi ienˊ gaˊ."}
+    check: true
+  - n: 22
+    speaker: 姑丈
+    en: "The government wants to take my family's land to build a main road, and people are marching in Taipei."
+    sx: {hanzi: "政府愛徵收吾屋下个地起大路，臺北有人遊行。", pinyin: "ziin fuˋ oi ziinˊ suˊ ngaˊ vugˋ kaˊ ge ti hiˋ tai lu, toiˇ bedˋ iuˊ nginˇ iuˇ hangˇ."}
+    check: true
+  - n: 23
+    speaker: 阿公
+    en: "That report is not the truth."
+    source: kaga
+    sx: {hanzi: "這報導毋係事實。", pinyin: "iaˋ bo toˊ mˇ he sii siid."}
+  - n: 24
+    speaker: 姑丈
+    en: "You have to accept the facts."
+    source: kaga115
+    sx: {hanzi: "你愛接受事實。", pinyin: "nˇ oi jiabˋ su sii siid."}
+  - n: 25
+    speaker: 阿公
+    en: "His way of doing things is really hateful."
+    source: kaga115
+    sx: {hanzi: "厥做法盡得人惱。", pinyin: "giaˊ zo fabˋ qin dedˋ nginˇ nauˊ."}
+  - n: 26
+    speaker: 姑丈
+    en: "A president's term is four years."
+    source: kaga115
+    sx: {hanzi: "總統一任係四年。", pinyin: "zungˋ tungˋ idˋ im he xi ngienˇ."}
+  - n: 27
+    speaker: 阿婆
+    en: "That will do! Thinking differently doesn't make you enemies. Nowadays you can't even smoke in public places: at home, no quarrelling."
+    sx: {hanzi: "好吔！想法無共樣，毋係敵人。這下連公共場所都做毋得食菸，屋下做毋得冤家。", pinyin: "hoˋ leˊ! xiongˋ fabˋ moˇ kiung iong, mˇ he tid nginˇ. iaˋ ha lienˇ gungˊ kiung congˇ soˋ du zomˇ dedˋ siid ienˊ, vugˋ kaˊ zomˇ dedˋ ienˊ gaˊ."}
+    check: true
+  - n: 28
+    speaker: 滿姑
+    en: "We live up north, where the winters are very cold. By comparison it is warmer here."
+    sx: {hanzi: "𠊎兜歇在北片，寒天當寒。相對來講，這位較燒暖。", pinyin: "ngaiˇ deuˊ hed coiˊ bedˋ pienˋ, honˇ tienˊ dongˊ honˇ. xiongˊ dui loiˇ gongˋ, iaˋ vi ka seuˊ nonˊ."}
+    check: true
+  - n: 29
+    speaker: 滿姑
+    en: "In winter a hot wash feels wonderful."
+    source: kaga115
+    sx: {hanzi: "寒天洗燒水當爽快。", pinyin: "honˇ tienˊ seˋ seuˊ suiˋ dongˊ songˋ kuai."}
+  - n: 30
+    speaker: 阿公
+    en: "Only training every day brings progress."
+    source: kaga115
+    sx: {hanzi: "日日訓練正會進步。", pinyin: "ngidˋ ngidˋ hiun lien zang voi jin pu."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 2, an official sentence: 以來 iˊ loiˇ "since". On the second day of the lunar New Year (4
+      February in 2030) a married woman goes back to her parents' house: 轉外家.
+  - ref: 1
+    topic: vocab
+    text: >
+      滿姑 manˊ guˊ "youngest aunt on the father's side": 滿 "youngest", as in 滿姨 (進修 47) and 滿子 "youngest son" (line
+      6).
+  - ref: 3
+    topic: vocab
+    text: >
+      阿姨 aˊ iˇ "aunt, mother's sister" (恁多阿姨肚，滿姨最靚).
+  - ref: 5
+    topic: vocab
+    text: >
+      大嫂 tai soˋ "eldest brother's wife": to 滿姑, that is A-min's mother. 半站仔 ban cam eˋ "halfway" (腳當軟，到半站仔就行毋停動吔).
+  - ref: 7
+    topic: vocab
+    text: >
+      渡 tu "take along, look after (a child)": 渡細人仔 is "mind the children", and in line 9 "bring up".
+  - ref: 11
+    topic: vocab
+    text: >
+      管理 gonˋ liˊ "manage, run". 提供 tiˇ giungˊ in line 12 is "provide" (這資料係頭家提供个).
+  - ref: 13
+    topic: vocab
+    text: >
+      講究 gongˋ giu "particular, fastidious".
+  - ref: 14
+    topic: vocab
+    text: >
+      幅 bugˋ counts paintings: 一幅畫. 作用 zogˋ iung in line 15 is "effect, function". 外形 ngoi hinˇ in line 17 is
+      "shape, outward form"; 毋靚 is the official sentence's own wording.
+  - ref: 18
+    topic: vocab
+    text: >
+      作者 zogˋ zaˋ "author". 反映 fanˋ iangˋ in line 19 is "reflect". 國家 guedˋ gaˊ in line 20 is "country, state".
+  - ref: 21
+    topic: vocab
+    text: >
+      講著 gongˋ doˋ "when it comes to, speaking of" (講著錢，就會打壞感情, 進修 45). 政治 ziin cii "politics".
+  - ref: 22
+    topic: vocab
+    text: >
+      徵收 ziinˊ suˊ "requisition" (徵收土地). 遊行 iuˇ hangˇ "march, parade". The road and the march are invented.
+  - ref: 23
+    topic: vocab
+    text: >
+      事實 sii siid "fact, truth".
+  - ref: 25
+    topic: vocab
+    text: >
+      得人惱 dedˋ nginˇ nauˊ "hateful, annoying": the opposite of 得人惜.
+  - ref: 26
+    topic: vocab
+    text: >
+      總統 zungˋ tungˋ "president". 任 im counts terms of office: 一任 "one term".
+  - ref: 27
+    topic: vocab
+    text: >
+      敵人 tid nginˇ "enemy". 公共場所 gungˊ kiung congˇ soˋ "public place" (公共場所做毋得食菸).
+  - ref: 28
+    topic: vocab
+    text: >
+      北片 bedˋ pienˋ "the north side". 相對 xiongˊ dui "relative": 相對來講 "by comparison" (相對來講較省錢).
+  - ref: 29
+    topic: vocab
+    text: >
+      當爽快 dongˊ songˋ kuai "very pleasant, very comfortable".
+  - ref: 30
+    topic: vocab
+    text: >
+      訓練 hiun lien "train, training" (佢愛參加新生訓練).
+
+new_words:
+  - {hanzi: "滿姑", pinyin: "manˊ guˊ", en: "youngest aunt (father's side)"}
+  - {hanzi: "以來", pinyin: "iˊ loiˇ", en: "since"}
+  - {hanzi: "阿姨", pinyin: "aˊ iˇ", en: "aunt (mother's sister)"}
+  - {hanzi: "大嫂", pinyin: "tai soˋ", en: "eldest brother's wife"}
+  - {hanzi: "半站仔", pinyin: "ban cam eˋ", en: "halfway"}
+  - {hanzi: "滿子", pinyin: "manˊ ziiˋ", en: "youngest son"}
+  - {hanzi: "渡", pinyin: "tu", en: "take along, look after (a child)"}
+  - {hanzi: "管理", pinyin: "gonˋ liˊ", en: "manage, run"}
+  - {hanzi: "提供", pinyin: "tiˇ giungˊ", en: "provide"}
+  - {hanzi: "講究", pinyin: "gongˋ giu", en: "particular, fastidious"}
+  - {hanzi: "幅", pinyin: "bugˋ", en: "(measure for paintings)"}
+  - {hanzi: "作用", pinyin: "zogˋ iung", en: "effect, function"}
+  - {hanzi: "外形", pinyin: "ngoi hinˇ", en: "shape, outward form"}
+  - {hanzi: "作者", pinyin: "zogˋ zaˋ", en: "author"}
+  - {hanzi: "反映", pinyin: "fanˋ iangˋ", en: "reflect"}
+  - {hanzi: "講著", pinyin: "gongˋ doˋ", en: "when it comes to, speaking of"}
+  - {hanzi: "政治", pinyin: "ziin cii", en: "politics"}
+  - {hanzi: "徵收", pinyin: "ziinˊ suˊ", en: "requisition, levy"}
+  - {hanzi: "遊行", pinyin: "iuˇ hangˇ", en: "march, parade"}
+  - {hanzi: "事實", pinyin: "sii siid", en: "fact, truth"}
+  - {hanzi: "得人惱", pinyin: "dedˋ nginˇ nauˊ", en: "hateful, annoying"}
+  - {hanzi: "總統", pinyin: "zungˋ tungˋ", en: "president"}
+  - {hanzi: "任", pinyin: "im", en: "term of office"}
+  - {hanzi: "敵人", pinyin: "tid nginˇ", en: "enemy"}
+  - {hanzi: "公共場所", pinyin: "gungˊ kiung congˇ soˋ", en: "public place"}
+  - {hanzi: "國家", pinyin: "guedˋ gaˊ", en: "country, state"}
+  - {hanzi: "北片", pinyin: "bedˋ pienˋ", en: "the north side"}
+  - {hanzi: "當爽快", pinyin: "dongˊ songˋ kuai", en: "very pleasant, very comfortable"}
+  - {hanzi: "訓練", pinyin: "hiun lien", en: "train, training"}
+  - {hanzi: "相對", pinyin: "xiongˊ dui", en: "relative, by comparison"}
+
+exercises:
+  translate:
+    - en: "Elect a president."
+      source: kaga115
+      sx: {hanzi: "選總統。", pinyin: "xienˋ zungˋ tungˋ."}
+    - en: "Requisition land."
+      source: kaga115
+      sx: {hanzi: "徵收土地。", pinyin: "ziinˊ suˊ tuˋ ti."}
+    - en: "No smoking in public places."
+      source: kaga115
+      sx: {hanzi: "公共場所做毋得食菸。", pinyin: "gungˊ kiung congˇ soˋ zomˇ dedˋ siid ienˊ."}
+    - en: "Of all my aunts, the youngest is the prettiest."
+      source: kaga115
+      sx: {hanzi: "恁多阿姨肚，滿姨最靚。", pinyin: "anˋ doˊ aˊ iˇ duˋ, manˊ iˇ zui jiangˊ."}
+    - en: "My legs were so weak that halfway there I could walk no further."
+      source: kaga115
+      sx: {hanzi: "腳當軟，到半站仔就行毋停動吔。", pinyin: "giogˋ dongˊ ngionˊ, do ban cam eˋ qiu hangˇ mˇ tinˇ tungˊ leˊ."}
+  fill:
+    - en: "One painting."
+      sx: {hanzi: "一___畫。", pinyin: "idˋ ___ fa.", answer_hanzi: "幅", answer: "bugˋ"}
+    - en: "This material was provided by the boss."
+      sx: {hanzi: "這資料係頭家___个。", pinyin: "iaˋ ziiˊ liau he teuˇ gaˊ ___ ge.", answer_hanzi: "提供", answer: "tiˇ giungˊ"}
+    - en: "By comparison it saves money."
+      sx: {hanzi: "___來講較省錢。", pinyin: "___ loiˇ gongˋ ka sangˋ qienˇ.", answer_hanzi: "相對", answer: "xiongˊ dui"}
+    - en: "Some people are very particular about their clothes, and some are very careless."
+      sx: {hanzi: "有人著衫當___，有人盡儘採。", pinyin: "iuˊ nginˇ zogˋ samˊ dongˊ ___, iuˊ nginˇ qin qinˋ caiˋ.", answer_hanzi: "講究", answer: "gongˋ giu"}
+    - en: "He has to attend the training for new students."
+      sx: {hanzi: "佢愛參加新生___。", pinyin: "giˇ oi camˊ gaˊ xinˊ senˊ ___.", answer_hanzi: "訓練", answer: "hiun lien"}
+
+audio: []
