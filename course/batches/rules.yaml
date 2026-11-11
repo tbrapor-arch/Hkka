@@ -32,6 +32,8 @@ rules:
     key: "an31-ho31"
     msg: "好 before a verb ('keen to') is hau, also after 恁; hoˋ + verb is 'easy / good to'. Check the sense"
 
+  - {id: fond-of-1, hanzi: "當好(?=[揇去尞搞唱])", key: "dong24-ho31", quotes: true, msg: "好 + verb 'be fond of' is hau (batch 9)"}
+  - {id: fond-of-2, hanzi: "盡好(?=[揇去尞搞唱])", key: "qin55-ho31", quotes: true, msg: "好 + verb 'be fond of' is hau (batch 9)"}
   # --- words ---
   - {id: what-time, hanzi: "(?<!多)幾點(?!鐘)", msg: "'what time' is 幾多點, not 幾點"}
   - {id: injection, hanzi: "打針", msg: "an injection is 注射 (打針 unattested, batch 6)"}

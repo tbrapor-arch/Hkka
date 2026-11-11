@@ -202,6 +202,7 @@ def is_part2(path):
 # The checks on new words added on 10 Nov 2026 start with the lessons written after them: P1–P35 were reviewed by hand
 # and their findings of these kinds (幾久 used in lesson 96 before P1 declares it, 逐 dagˋ / giugˋ) were accepted.
 CHECK_FROM = 36
+NEW_FROM = 36         # checks added after batch 9: exercises repeating the text, 'from lesson N' notes
 
 GENRES = {"dialogue", "article", "letter", "interview", "tale", "speech", "essay", "document", "song", "news",
           "play", "diary", "debate", "story", "review"}
@@ -366,6 +367,25 @@ def main():
             for hz, k in sorted(new_keys & used - used_dialogue) if d.get("id", 0) >= CHECK_FROM else ():
                 say(path, "new_words", "W", f"{hz}: new word used only in the exercises (進修: every new word is in the text)")
             new_by_lesson[d.get("id")] = set(new_keys)
+            if d.get("id", 0) >= NEW_FROM:
+                strip = lambda t: re.sub(r"[\s，。！？、：；「」『』…—,.!?:;\"]", "", t or "")
+                text = [strip((l.get("sx") or {}).get("hanzi")) for l in d.get("dialogue") or []]
+                for kind, items in (d.get("exercises") or {}).items():
+                    for j, it in enumerate(items or []):
+                        sx = it.get("sx") or {}
+                        full = strip(sx.get("hanzi", "").replace("___", sx.get("answer_hanzi", "")))
+                        if len(full) >= 5 and any(full == t or (len(full) >= 7 and full in t) for t in text):
+                            say(path, f"exercises.{kind}[{j}]", "W", "repeats a line of the lesson's own text: write a new sentence")
+                where_taught = {}
+                for (hz, _k), m in taught.items():
+                    where_taught.setdefault(hz, m)
+                for note in d.get("notes") or []:
+                    for hz, part, num in re.findall(r"([\u3400-\u9fff\U00020000-\U0002ffff]+)[^.;:()\u3400-\u9fff]*?\b(?:is|are) from (進修|lesson) (\d+)", note.get("text", "")):
+                        want = int(num) + (100 if part == "進修" else 0)
+                        got = where_taught.get(hz)
+                        if got is not None and got != want:
+                            name = f"進修 {got - 100}" if got > 100 else f"lesson {got}"
+                            say(path, f"notes[{note.get('ref')}]", "W", f"{hz} is taught in {name}, not in {part} {num}")
             if d.get("review"):
                 for m in range(d.get("id") - 6, d.get("id")):
                     got = len(new_by_lesson.get(m, set()) & used_dialogue)
