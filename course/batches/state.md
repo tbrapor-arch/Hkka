@@ -106,3 +106,5 @@ style of 採茶戲, not a sung one.
   上屋叔婆 is better. Grandpa walks every day; his car's battery is flat.
 - P64, Sat 22 Dec, at 上屋叔婆's. Her brother's family visits with the baby girl (born May, seven months);
   阿梅 is the baby's mother and calls 叔婆 阿姑. Sam built and painted a cot. They live two train stops away.
+- P65, Sat 12 Jan 2030, A-in's radio slot: she interviews Sam about the test. He collects stamps, teaches songs
+  at the kindergarten in 公館, stays in Taiwan for the winter holidays and wants to tour the west by train.

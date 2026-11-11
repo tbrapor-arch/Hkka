@@ -1,0 +1,309 @@
+id: 65
+genre: interview
+title:
+  en: "I've only had this much: how could that be enough?"
+  sx: {hanzi: "正食恁多仔定定，哪會過願", pinyin: "zang siid an doˊ eˋ tin tin, nai voi go ngien"}
+review: false
+setting: >-
+  Saturday 12 January 2030, A-in's slot on the local radio. Her guest is Sam, who passed the intermediate Hakka test
+  in November. The kindergarten class and the remarks of other people are invented.
+names: [Sam, 阿英, 公館]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Hello everyone! Today's guest is Sam. He is French, and last November he passed the intermediate Hakka test. Sam, was the test hard?"
+    sx: {hanzi: "大家好！今晡日个人客係 Sam。佢係法國人，舊年十一月考過客話中級。Sam，考試難無？", pinyin: "tai gaˊ hoˋ! gimˊ buˊ ngidˋ ge nginˇ hagˋ he Sam. giˇ he fabˋ guedˋ nginˇ, kiu ngienˇ siib idˋ ngied kauˋ go hagˋ fa zungˊ kibˋ. Sam, kauˋ sii nanˇ moˇ?"}
+    check: true
+  - n: 2
+    speaker: Sam
+    en: "The written part of this test is the harder one."
+    source: kaga115
+    sx: {hanzi: "這考試个筆試較難。", pinyin: "iaˋ kauˋ sii ge bidˋ sii ka nanˇ."}
+  - n: 3
+    speaker: Sam
+    en: "Every day I looked at the computer and learned things by heart till my eyes were blurred. Listening and speaking have to be practised by turns."
+    sx: {hanzi: "𠊎逐日看電腦、背書，看到目珠矇。聽同講愛間等練習。", pinyin: "ngaiˇ dagˋ ngidˋ kon tien noˋ, poi suˊ, kon do mugˋ zuˊ mungˇ. tangˊ tungˇ gongˋ oi gam denˋ lien xib."}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "A month before the test I even caught a cold, and didn't dare go to class."
+    sx: {hanzi: "考試前一隻月𠊎還寒著，毋敢去學校。", pinyin: "kauˋ sii qienˇ idˋ zagˋ ngied ngaiˇ hanˇ honˇ doˋ, mˇ gamˋ hi hog gauˋ."}
+    check: true
+  - n: 5
+    speaker: Sam
+    en: "A cold is catching."
+    source: kaga115
+    sx: {hanzi: "寒著會遰人。", pinyin: "honˇ doˋ voi ce nginˇ."}
+  - n: 6
+    speaker: 阿英
+    en: "Don't go buying any old cold medicine to take: if it harms the kidneys, you're in trouble."
+    source: kaga115
+    sx: {hanzi: "寒著个藥水毋好烏白買來食，傷著腰仔就壞哩。", pinyin: "honˇ doˋ ge iog suiˋ mˇ hoˋ vuˊ pag maiˊ loiˇ siid, songˊ doˋ ieuˊ eˋ qiu faiˋ leˊ."}
+  - n: 7
+    speaker: Sam
+    en: "I did see the doctor, and had blood taken too."
+    sx: {hanzi: "𠊎有去看先生，還抽血。", pinyin: "ngaiˇ iuˊ hi kon xinˊ sangˊ, hanˇ cuˊ hiedˋ."}
+    check: true
+  - n: 8
+    speaker: Sam
+    en: "When blood is taken, the nurse tells you to clench your fist."
+    source: kaga115
+    sx: {hanzi: "抽血个時節，護理師會喊你揢等拳頭嫲。", pinyin: "cuˊ hiedˋ ge siiˇ jiedˋ, fu liˊ siiˊ voi ham nˇ kag denˋ kienˇ teuˇ maˇ."}
+  - n: 9
+    speaker: 阿英
+    en: "How do you learn Hakka?"
+    sx: {hanzi: "你仰般學客話？", pinyin: "nˇ ngiongˋ banˊ hog hagˋ fa?"}
+    check: true
+  - n: 10
+    speaker: Sam
+    en: "I read books with pictures, and I listen to comic dialogues too."
+    sx: {hanzi: "𠊎看有圖片个書，乜聽相聲。", pinyin: "ngaiˇ kon iuˊ tuˇ pienˋ ge suˊ, me tangˊ xiong sangˊ."}
+    check: true
+  - n: 11
+    speaker: Sam
+    en: "Comic dialogues are great fun."
+    source: kaga115
+    sx: {hanzi: "相聲當生趣。", pinyin: "xiong sangˊ dongˊ senˊ qi."}
+  - n: 12
+    speaker: Sam
+    en: "This book has a great many readers."
+    source: kaga115
+    sx: {hanzi: "這本書个讀者當多。", pinyin: "iaˋ bunˋ suˊ ge tug zaˋ dongˊ doˊ."}
+  - n: 13
+    speaker: 阿英
+    en: "Some people say foreigners can't learn Hakka: that really is unkind."
+    sx: {hanzi: "有人講外國人學毋會客話，實在當無意思。", pinyin: "iuˊ nginˇ gongˋ ngoi guedˋ nginˇ hog mˇ voi hagˋ fa, siid cai dongˊ moˇ i sii."}
+    check: true
+  - n: 14
+    speaker: Sam
+    en: "When I hear him say that kind of thing, I see red."
+    source: kaga115
+    sx: {hanzi: "聽著佢講這種話，𠊎就火著。", pinyin: "tangˊ doˋ giˇ gongˋ iaˋ zungˋ fa, ngaiˇ qiu foˋ cog."}
+  - n: 15
+    speaker: 阿英
+    en: "My mother goes to flower-arranging class every week. What do you do in your free time?"
+    sx: {hanzi: "吾姆逐禮拜去學插花。你尞个時節做麼个？", pinyin: "ngaˊ meˊ dagˋ liˊ bai hi hog cabˋ faˊ. nˇ liau ge siiˇ jiedˋ zo maˋ ge?"}
+    check: true
+  - n: 16
+    speaker: Sam
+    en: "I collect stamps, and I teach the children at the kindergarten in Gongguan to sing. They love hopscotch."
+    sx: {hanzi: "𠊎集郵，乜在公館个幼稚園教細人仔唱歌仔。佢兜好跳格仔。", pinyin: "ngaiˇ xib iuˇ, me coiˊ gungˊ gonˋ ge iu ziiˊ ienˇ gauˊ se nginˇ eˋ cong goˊ eˋ. giˇ deuˊ hau tiau gagˋ eˇ."}
+    check: true
+  - n: 17
+    speaker: Sam
+    en: "When children play with firecrackers, they are scared and thrilled at once."
+    source: kaga115
+    sx: {hanzi: "細人仔搞紙炮仔，又驚又好。", pinyin: "se nginˇ eˋ gauˋ ziiˋ pau eˋ, iu giangˊ iu hau."}
+  - n: 18
+    speaker: 阿英
+    en: "I hear you used to be a track and field athlete?"
+    sx: {hanzi: "聽講你頭擺係田徑選手？", pinyin: "tangˊ gongˋ nˇ teuˇ baiˋ he tienˇ gang xienˋ suˋ?"}
+    check: true
+  - n: 19
+    speaker: Sam
+    en: "Not true! I took part just once when I was at senior high: I don't like showing off."
+    sx: {hanzi: "無影無跡！𠊎讀高中个時節參加過一擺定定，𠊎毋好展風神。", pinyin: "moˇ iangˋ moˇ jiagˋ! ngaiˇ tug goˊ zungˊ ge siiˇ jiedˋ camˊ gaˊ go idˋ baiˋ tin tin, ngaiˇ mˇ hoˋ dienˋ fungˊ siinˇ."}
+    check: true
+  - n: 20
+    speaker: 阿英
+    en: "Once January is over, the winter holidays begin."
+    source: kaga
+    sx: {hanzi: "新曆一月過忒，就愛放寒假吔。", pinyin: "xinˊ lag idˋ ngied go tedˋ, qiu oi biong honˇ gaˋ leˊ."}
+  - n: 21
+    speaker: Sam
+    en: "Last winter holidays my whole family went abroad."
+    source: kaga115
+    sx: {hanzi: "舊年寒假吾歸家人出國尞。", pinyin: "kiu ngienˇ honˇ gaˋ ngaˊ guiˊ gaˊ nginˇ cudˋ guedˋ liau."}
+  - n: 22
+    speaker: Sam
+    en: "This year I'm staying in Taiwan, and I want to tour the west by train. Money has to be spent evenly."
+    sx: {hanzi: "今年𠊎留在臺灣，想坐火車遶西部。錢愛勻勻仔用。", pinyin: "gimˊ ngienˇ ngaiˇ liuˇ coiˊ toiˇ vanˇ, xiongˋ coˊ foˋ caˊ lauˊ xiˊ pu. qienˇ oi iunˇ iunˇ eˋ iung."}
+    check: true
+  - n: 23
+    speaker: Sam
+    en: "The west of Taiwan is mostly plain."
+    source: kaga115
+    sx: {hanzi: "臺灣西部多平洋。", pinyin: "toiˇ vanˇ xiˊ pu doˊ piangˇ iongˇ."}
+  - n: 24
+    speaker: 阿英
+    en: "Now that you've passed, are your classmates jealous?"
+    sx: {hanzi: "你考過吔，同學有目赤無？", pinyin: "nˇ kauˋ go leˊ, tungˇ hog iuˊ mugˋ cagˋ moˇ?"}
+    check: true
+  - n: 25
+    speaker: Sam
+    en: "No, they even took me out to dinner. Passing the test has given me more confidence. Everyone in Gongguan knows me now: it's as if I were somebody!"
+    sx: {hanzi: "無，佢兜還請𠊎食飯。考過試，增添𠊎个信心。這下公館人都識𠊎，像當有地位樣仔！", pinyin: "moˇ, giˇ deuˊ hanˇ qiangˋ ngaiˇ siid fan. kauˋ go cii, zen tiamˊ ngaiˇ ge xin ximˊ. iaˋ ha gungˊ gonˋ nginˇ du siidˋ ngaiˇ, qiong dongˊ iuˊ ti vi iong eˋ!"}
+    check: true
+  - n: 26
+    speaker: 阿英
+    en: "Come, I'll make a pot of tea. There is only one lamp in here, so mind yourself. What do you have in the morning?"
+    sx: {hanzi: "來，𠊎泡一壺茶。這位淨有一盞電火，你細義。朝晨你食麼个？", pinyin: "loiˇ, ngaiˇ pau idˋ fuˇ caˇ. iaˋ vi qiang iuˊ idˋ zanˋ tien foˋ, nˇ se ngi. zeuˊ siinˇ nˇ siid maˋ ge?"}
+    check: true
+  - n: 27
+    speaker: Sam
+    en: "In the morning I only have milk. In winter I don't dare have anything cold."
+    sx: {hanzi: "𠊎朝晨淨食乳。寒天𠊎毋敢食冷个。", pinyin: "ngaiˇ zeuˊ siinˇ qiang siid nen. honˇ tienˊ ngaiˇ mˇ gamˋ siid langˊ ge."}
+    check: true
+  - n: 28
+    speaker: Sam
+    en: "In winter, eating cold tofu pudding gives you goose flesh."
+    source: kaga
+    sx: {hanzi: "寒天，食冷冷个豆腐花，會起雞嫲皮。", pinyin: "honˇ tienˊ, siid langˊ langˊ ge teu fu faˊ, voi hiˋ gieˊ maˇ piˇ."}
+  - n: 29
+    speaker: 阿英
+    en: "Take all these biscuits home with you. Have you had enough?"
+    sx: {hanzi: "這餅仔通體分你帶轉去。食罅吂？", pinyin: "iaˋ biangˋ eˇ tungˊ tiˋ bunˊ nˇ dai zonˋ hi. siid la mangˇ?"}
+    check: true
+  - n: 30
+    speaker: Sam
+    en: "I've only had this much: how could that be enough?"
+    source: kaga115
+    sx: {hanzi: "正食恁多仔定定，哪會過願。", pinyin: "zang siid an doˊ eˋ tin tin, nai voi go ngien."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 30, an official sentence: 過願 go ngien "satisfying": 哪會過願 "how could that be enough?" Sam
+      passed the test in 進修 63.
+  - ref: 2
+    topic: vocab
+    text: >
+      筆試 bidˋ sii "written test".
+  - ref: 3
+    topic: vocab
+    text: >
+      背書 poi suˊ "learn by heart, recite" (天光日愛考試，遽啊去背書): 背 is read poi here. 目珠矇 mugˋ zuˊ mungˇ "blurred sight". 間等
+      gam denˋ "by turns, alternately" (這青菜同魚仔愛間等食): 間日 "every other day" is from 進修 52.
+  - ref: 5
+    topic: vocab
+    text: >
+      遰 ce "infect, be catching" (分人遰著 "catch it from someone").
+  - ref: 6
+    topic: vocab
+    text: >
+      腰仔 ieuˊ eˋ "kidney" (豬腰仔 is from 進修 46); it is also the waist measurement.
+  - ref: 8
+    topic: vocab
+    text: >
+      拳頭嫲 kienˇ teuˇ maˇ "fist": 揢等拳頭嫲 "clench the fist".
+  - ref: 10
+    topic: vocab
+    text: >
+      圖片 tuˇ pienˋ "picture". 相聲 xiong sangˊ: a comic dialogue for two performers. 讀者 tug zaˋ in line 12 is
+      "reader".
+  - ref: 13
+    topic: vocab
+    text: >
+      無意思 moˇ i sii "unkind, not decent towards someone". 火著 foˋ cog in line 14 is "flare up, get angry".
+  - ref: 15
+    topic: vocab
+    text: >
+      插花 cabˋ faˊ "arrange flowers".
+  - ref: 16
+    topic: vocab
+    text: >
+      集郵 xib iuˇ "collect stamps". 幼稚園 iu ziiˊ ienˇ "kindergarten". 跳格仔 tiau gagˋ eˇ "hopscotch". 好 "be fond of" is
+      read hau.
+  - ref: 17
+    topic: vocab
+    text: >
+      紙炮仔 ziiˋ pau eˋ "firecracker" (打紙炮仔 is from 進修 59).
+  - ref: 18
+    topic: vocab
+    text: >
+      田徑 tienˇ gang "track and field". 展風神 dienˋ fungˊ siinˇ in line 19 is "show off" (佢盡好展風神).
+  - ref: 20
+    topic: vocab
+    text: >
+      寒假 honˇ gaˋ "winter holidays".
+  - ref: 22
+    topic: vocab
+    text: >
+      西部 xiˊ pu "the west" of a country. 勻勻仔 iunˇ iunˇ eˋ "evenly": the list has 錢愛勻勻仔使, with 使 "spend".
+  - ref: 24
+    topic: vocab
+    text: >
+      目赤 mugˋ cagˋ "jealous, envious": "red-eyed".
+  - ref: 25
+    topic: vocab
+    text: >
+      增添 zen tiamˊ "add, increase". 地位 ti vi "standing, position" (佢在社會項當有地位).
+  - ref: 26
+    topic: vocab
+    text: >
+      壺 fuˇ "pot", as a measure; 盞 zanˋ counts lamps (一盞燈).
+  - ref: 27
+    topic: vocab
+    text: >
+      乳 nen "milk": 食乳 "drink milk" (of a baby, "suckle"); 牛乳 is "cow's milk". 雞嫲皮 gieˊ maˇ piˇ in line 28 is "goose
+      flesh", like 寒毛菇 (進修 17).
+  - ref: 29
+    topic: vocab
+    text: >
+      通體 tungˊ tiˋ "all, the whole lot" (這通體分你帶轉去).
+
+new_words:
+  - {hanzi: "筆試", pinyin: "bidˋ sii", en: "written test"}
+  - {hanzi: "背書", pinyin: "poi suˊ", en: "learn by heart, recite"}
+  - {hanzi: "目珠矇", pinyin: "mugˋ zuˊ mungˇ", en: "blurred sight"}
+  - {hanzi: "間等", pinyin: "gam denˋ", en: "by turns, alternately"}
+  - {hanzi: "遰", pinyin: "ce", en: "infect, be catching"}
+  - {hanzi: "腰仔", pinyin: "ieuˊ eˋ", en: "kidney"}
+  - {hanzi: "拳頭嫲", pinyin: "kienˇ teuˇ maˇ", en: "fist"}
+  - {hanzi: "圖片", pinyin: "tuˇ pienˋ", en: "picture"}
+  - {hanzi: "相聲", pinyin: "xiong sangˊ", en: "comic dialogue (crosstalk)"}
+  - {hanzi: "讀者", pinyin: "tug zaˋ", en: "reader"}
+  - {hanzi: "火著", pinyin: "foˋ cog", en: "flare up, get angry"}
+  - {hanzi: "集郵", pinyin: "xib iuˇ", en: "collect stamps"}
+  - {hanzi: "幼稚園", pinyin: "iu ziiˊ ienˇ", en: "kindergarten"}
+  - {hanzi: "跳格仔", pinyin: "tiau gagˋ eˇ", en: "hopscotch"}
+  - {hanzi: "紙炮仔", pinyin: "ziiˋ pau eˋ", en: "firecracker"}
+  - {hanzi: "田徑", pinyin: "tienˇ gang", en: "track and field"}
+  - {hanzi: "展風神", pinyin: "dienˋ fungˊ siinˇ", en: "show off"}
+  - {hanzi: "寒假", pinyin: "honˇ gaˋ", en: "winter holidays"}
+  - {hanzi: "西部", pinyin: "xiˊ pu", en: "the west (of a country)"}
+  - {hanzi: "勻勻仔", pinyin: "iunˇ iunˇ eˋ", en: "evenly"}
+  - {hanzi: "目赤", pinyin: "mugˋ cagˋ", en: "jealous, envious"}
+  - {hanzi: "地位", pinyin: "ti vi", en: "standing, position"}
+  - {hanzi: "壺", pinyin: "fuˇ", en: "pot (measure)"}
+  - {hanzi: "盞", pinyin: "zanˋ", en: "(measure for lamps)"}
+  - {hanzi: "乳", pinyin: "nen", en: "milk"}
+  - {hanzi: "雞嫲皮", pinyin: "gieˊ maˇ piˇ", en: "goose flesh"}
+  - {hanzi: "通體", pinyin: "tungˊ tiˋ", en: "all, the whole lot"}
+  - {hanzi: "過願", pinyin: "go ngien", en: "satisfying, enough to satisfy"}
+  - {hanzi: "無意思", pinyin: "moˇ i sii", en: "unkind, not decent (towards someone)"}
+  - {hanzi: "插花", pinyin: "cabˋ faˊ", en: "arrange flowers"}
+  - {hanzi: "增添", pinyin: "zen tiamˊ", en: "add, increase"}
+
+exercises:
+  translate:
+    - en: "Drink milk; suckle."
+      source: kaga115
+      sx: {hanzi: "食乳。", pinyin: "siid nen."}
+    - en: "So cold that you get goose flesh."
+      source: kaga115
+      sx: {hanzi: "寒到起雞嫲皮。", pinyin: "honˇ do hiˋ gieˊ maˇ piˇ."}
+    - en: "He has a high standing in society."
+      source: kaga115
+      sx: {hanzi: "佢在社會項當有地位。", pinyin: "giˇ coiˊ sa fi hong dongˊ iuˊ ti vi."}
+    - en: "Do you collect stamps? This stamp is for you."
+      source: kaga
+      sx: {hanzi: "你有集郵無？這張郵票分你。", pinyin: "nˇ iuˊ xib iuˇ moˇ? iaˋ zongˊ iuˇ peuˊ bunˊ nˇ."}
+    - en: "His son is now in the top class of kindergarten."
+      source: kaga115
+      sx: {hanzi: "厥倈仔這下在該讀幼稚園大班。", pinyin: "giaˊ lai eˋ iaˋ ha du ge tug iu ziiˊ ienˇ tai banˊ."}
+  fill:
+    - en: "One lamp."
+      sx: {hanzi: "一___燈。", pinyin: "idˋ ___ denˊ.", answer_hanzi: "盞", answer: "zanˋ"}
+    - en: "He loves to show off."
+      sx: {hanzi: "佢盡好___。", pinyin: "giˇ qin hau ___.", answer_hanzi: "展風神", answer: "dienˋ fungˊ siinˇ"}
+    - en: "Eat these vegetables and the fish by turns."
+      sx: {hanzi: "這青菜同魚仔愛___食。", pinyin: "iaˋ qiangˊ coi tungˇ ngˇ eˋ oi ___ siid.", answer_hanzi: "間等", answer: "gam denˋ"}
+    - en: "Track athletes all run so fast."
+      sx: {hanzi: "___選手逐個都走恁遽。", pinyin: "___ xienˋ suˋ dagˋ ge du zeuˋ anˋ giagˋ.", answer_hanzi: "田徑", answer: "tienˇ gang"}
+    - en: "The exam is tomorrow: go and learn your lesson, quick."
+      sx: {hanzi: "天光日愛考試，遽啊去___。", pinyin: "tienˊ gongˊ ngidˋ oi kauˋ sii, giagˋ a hi ___.", answer_hanzi: "背書", answer: "poi suˊ"}
+
+audio: []
