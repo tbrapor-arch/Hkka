@@ -34,6 +34,7 @@ dialogue:
     speaker: 阿明
     en: "The work in modern factories is mostly automated: fast and good."
     sx: {hanzi: "現代工廠个作業，大體都係自動化，又遽又好。", pinyin: "hien toi gungˊ congˋ ge zogˋ ngiab, tai tiˋ du he cii tung fa, iu giagˋ iu hoˋ."}
+    check: true
   - n: 6
     speaker: 阿明
     en: "The electric light is a great invention."

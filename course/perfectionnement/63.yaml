@@ -16,12 +16,12 @@ dialogue:
     sx: {hanzi: "大家聽！Sam 个中級考試過吔！", pinyin: "tai gaˊ tangˊ! Sam ge zungˊ kibˋ kauˋ sii go leˊ!"}
   - n: 2
     speaker: Sam
-    en: "When I first saw the result I couldn't believe it. Before the test I had caught a chill and was unwell, and I felt a lot of pressure."
-    sx: {hanzi: "𠊎頭到看著成績，還毋敢信。上滿考試前𠊎感著，人毋好，心理壓力當大。", pinyin: "ngaiˇ teuˇ do kon doˋ siinˇ jidˋ, hanˇ mˇ gamˋ xin. song manˊ kauˋ sii qienˇ ngaiˇ gamˋ doˋ, nginˇ mˇ hoˋ, ximˊ liˊ abˋ lid dongˊ tai."}
+    en: "When I first saw the result I couldn't believe it. A month before the test I had caught a chill and was unwell, and I felt a lot of pressure."
+    sx: {hanzi: "𠊎頭到看著成績，還毋敢信。考試前一隻月𠊎感著，人毋好，心理壓力當大。", pinyin: "ngaiˇ teuˇ do kon doˋ siinˇ jidˋ, hanˇ mˇ gamˋ xin. kauˋ sii qienˇ idˋ zagˋ ngied ngaiˇ gamˋ doˋ, nginˇ mˇ hoˋ, ximˊ liˊ abˋ lid dongˊ tai."}
   - n: 3
     speaker: 阿婆
-    en: "I told you: it was a small thing, no need to worry yet."
-    sx: {hanzi: "𠊎就講，小可仔事情，吂使愁。", pinyin: "ngaiˇ qiu gongˋ, seuˋ koˋ eˇ sii qinˇ, mangˇ siiˋ seuˇ."}
+    en: "I told you so: only a slight chill, nothing to worry about. It was the same at your last exam."
+    sx: {hanzi: "𠊎就講過吔，小可仔感著定定，毋使愁。上滿你考試，乜係恁樣。", pinyin: "ngaiˇ qiu gongˋ go leˊ, seuˋ koˋ eˇ gamˋ doˋ tin tin, mˇ siiˋ seuˇ. song manˊ nˇ kauˋ sii, me he anˋ ngiongˇ."}
   - n: 4
     speaker: 阿公
     en: "That night I told him the story of the squirrels and the bear, and that was what eased the pressure."
@@ -29,7 +29,7 @@ dialogue:
   - n: 5
     speaker: 阿明
     en: "Grandpa tells a story with real skill, but I've heard heaps of stories like that one."
-    sx: {hanzi: "阿公講古當有技巧，毋過該樣个古𠊎聽過一千擔。", pinyin: "aˊ gungˊ gongˋ guˋ dongˊ iuˊ giˊ kauˋ, mˇ go ge iong ge guˋ ngaiˇ tangˊ go idˋ qienˊ damˊ."}
+    sx: {hanzi: "阿公講古當有技巧，毋過該樣个古一千擔，𠊎聽過吔。", pinyin: "aˊ gungˊ gongˋ guˋ dongˊ iuˊ giˊ kauˋ, mˇ go ge iong ge guˋ idˋ qienˊ damˊ, ngaiˇ tangˊ go leˊ."}
   - n: 6
     speaker: 阿英
     en: "You've no respect! Don't cut in like that in front of Grandpa."
@@ -65,15 +65,15 @@ dialogue:
   - n: 14
     speaker: 阿舅
     en: "Someone resigns, someone goes on strike, and we still get on with it. At least the noodles haven't gone up."
-    sx: {hanzi: "有人辭職，有人罷工，𫣆兜還係煞煞仔做。至少粄條無起價。", pinyin: "iuˊ nginˇ ciiˇ ziidˋ, iuˊ nginˇ pa gungˊ, enˊ deuˊ hanˇ he sadˋ sadˋ eˇ zo. zii seuˋ banˋ tiauˇ moˇ hiˋ ga."}
+    sx: {hanzi: "有人辭職，有人罷工，𠊎兜還係煞煞仔做。至少粄條無起價。", pinyin: "iuˊ nginˇ ciiˇ ziidˋ, iuˊ nginˇ pa gungˊ, ngaiˇ deuˊ hanˇ he sadˋ sadˋ eˇ zo. zii seuˋ banˋ tiauˇ moˇ hiˋ ga."}
   - n: 15
     speaker: 阿明
     en: "Uncle, can I come and help in the winter holidays? I won't spend all my time playing."
-    sx: {hanzi: "阿舅，𠊎寒假做得去𢯭手無？𠊎毋會放勢仔搞。", pinyin: "aˊ kiuˊ, ngaiˇ honˇ gaˋ zo dedˋ hi ten suˋ moˇ? ngaiˇ mˇ voi fong se eˋ gauˋ."}
+    sx: {hanzi: "阿舅，𠊎寒天放尞做得去𢯭手無？𠊎毋會放勢仔搞。", pinyin: "aˊ kiuˊ, ngaiˇ honˇ tienˊ biong liau zo dedˋ hi ten suˋ moˇ? ngaiˇ mˇ voi fong se eˋ gauˋ."}
   - n: 16
     speaker: 阿英
     en: "Your room is like a dog's kennel: tidy it first, then we'll talk."
-    sx: {hanzi: "你个間房像狗竇樣仔，先整理好正講。", pinyin: "nˇ ge gienˊ fongˇ qiong gieuˋ deu iong eˋ, xienˊ ziinˋ liˊ hoˋ zang gongˋ."}
+    sx: {hanzi: "若間房像狗竇樣仔，先整理好正講。", pinyin: "ngiaˊ gienˊ fongˇ qiong gieuˋ deu iong eˋ, xienˊ ziinˋ liˊ hoˋ zang gongˋ."}
   - n: 17
     speaker: 阿婆
     en: "Is the old lady up the lane any better from her old trouble?"
@@ -111,11 +111,11 @@ notes:
   - ref: 2
     topic: vocab
     text: >
-      頭到 "the first time" is from 進修 61; 上滿 "last time" from 進修 60; 感著 "catch a chill" and 人毋好 "unwell" from 進修 57.
+      頭到 "the first time" is from 進修 61; 感著 "catch a chill" and 人毋好 "unwell" from 進修 57.
   - ref: 3
     topic: vocab
     text: >
-      小可仔 "slight" and 吂使 "no need yet" are from 進修 57.
+      小可仔 "slight" is from 進修 57; 上滿 "last time" from 進修 60.
   - ref: 4
     topic: vocab
     text: >
@@ -160,24 +160,24 @@ exercises:
   translate:
     - en: "Sam caught a chill last time; he is better these days."
       sx: {hanzi: "Sam 上滿感著，這駁仔好吔。", pinyin: "Sam song manˊ gamˋ doˋ, iaˋ bogˋ eˇ hoˋ leˊ."}
-    - en: "A-kied wanted to rent a shop at first, and in the end set up a stall."
-      sx: {hanzi: "阿傑原在想租店仔，尾項擺攤仔。", pinyin: "aˊ kied ngienˇ cai xiongˋ zuˊ diam eˋ, miˊ hong baiˋ tanˊ eˋ."}
+    - en: "The driver takes rice noodles to Taipei morning and evening."
+      sx: {hanzi: "司機早暗都載粄條去臺北。", pinyin: "siiˊ giˊ zoˋ am du zai banˋ tiauˇ hi toiˇ bedˋ."}
     - en: "Grandpa's story has a bear, squirrels and an owl in it."
       sx: {hanzi: "阿公講个古，包括熊、膨尾鼠同貓頭鳥。", pinyin: "aˊ gungˊ gongˋ ge guˋ, bauˊ guadˋ iungˇ, pong miˊ cuˋ tungˇ meu teuˇ diauˊ."}
-    - en: "This car drinks petrol, and its battery is flat too."
-      sx: {hanzi: "這臺車仔忒食油，電池乜無電吔。", pinyin: "iaˋ toiˇ caˊ eˋ tedˋ siid iuˇ, tien ciiˇ me moˇ tien leˊ."}
+    - en: "When the battery of A-min's phone is flat, he pouts."
+      sx: {hanzi: "阿明个手機仔電池無電，佢就嘴嘟嘟仔。", pinyin: "aˊ minˇ ge suˋ giˊ eˋ tien ciiˇ moˇ tien, giˇ qiu zoi du du eˋ."}
     - en: "Rice balls at the winter solstice, rice dumplings at the Dragon Boat Festival: these are Hakka customs."
       sx: {hanzi: "冬節食雪圓仔，五月節䌈粽仔，這係客家人个風俗。", pinyin: "dungˊ jiedˋ siid xiedˋ ienˇ eˋ, ngˋ ngied jiedˋ tagˋ zung eˋ, iaˋ he hagˋ gaˊ nginˇ ge fungˊ xiug."}
   fill:
-    - en: "A-min's room is like a dog's kennel."
-      sx: {hanzi: "阿明个間房像___樣仔。", pinyin: "aˊ minˇ ge gienˊ fongˇ qiong ___ iong eˋ.", answer_hanzi: "狗竇", answer: "gieuˋ deu"}
-    - en: "The old lady comes out for a walk now and then."
-      sx: {hanzi: "叔婆成時會出來___。", pinyin: "sugˋ poˇ sangˇ siiˇ voi cudˋ loiˇ ___.", answer_hanzi: "散步", answer: "san pu"}
+    - en: "There is an old kennel on the grass."
+      sx: {hanzi: "草埔項有一隻舊个___。", pinyin: "coˋ puˊ hong iuˊ idˋ zagˋ kiu ge ___.", answer_hanzi: "狗竇", answer: "gieuˋ deu"}
+    - en: "After dinner Grandpa and Grandma go for a walk by the river."
+      sx: {hanzi: "食飽飯，阿公同阿婆去河壩脣___。", pinyin: "siid bauˋ fan, aˊ gungˊ tungˇ aˊ poˇ hi hoˇ ba sunˇ ___.", answer_hanzi: "散步", answer: "san pu"}
     - en: "The test had fourteen questions, and Sam answered them all."
       sx: {hanzi: "考試有十四___，Sam 全部都有寫。", pinyin: "kauˋ sii iuˊ siib xi ___, Sam qionˇ pu du iuˊ xiaˋ.", answer_hanzi: "題", answer: "tiˇ"}
-    - en: "There are more and more customers in the street in Taipei."
-      sx: {hanzi: "臺北___个人客緊來緊多。", pinyin: "toiˇ bedˋ ___ ge nginˇ hagˋ ginˋ loiˇ ginˋ doˊ.", answer_hanzi: "街項", answer: "gieˊ hong"}
-    - en: "At a banquet you give gift money; when someone dies you go and offer incense."
-      sx: {hanzi: "去食酒愛___，人過身愛去拈香。", pinyin: "hi siid jiuˋ oi ___, nginˇ go siinˊ oi hi ngiamˊ hiongˊ.", answer_hanzi: "包禮", answer: "bauˊ liˊ"}
+    - en: "Before the New Year the streets are very lively."
+      sx: {hanzi: "過年前，___當鬧熱。", pinyin: "go ngienˇ qienˇ, ___ dongˊ nau ngied.", answer_hanzi: "街項", answer: "gieˊ hong"}
+    - en: "On A-kied's wedding day Sam gave gift money too."
+      sx: {hanzi: "阿傑結婚該日，Sam 乜有___。", pinyin: "aˊ kied giedˋ funˊ ge ngidˋ, Sam me iuˊ ___.", answer_hanzi: "包禮", answer: "bauˊ liˊ"}
 
 audio: []

@@ -289,3 +289,20 @@ Fresh agent, read-only. Each finding was checked in the data before fixing.
 - The factory makes 粄條 (lesson 53, 進修 39): 進修 45 and 49 said 麵 → fixed; card line added.
 - 臺灣 was declared twice in Part 1 (lesson 52 with vanˊ, lesson 73 with vanˇ): lesson 52 now has toiˇ vanˇ and the
   second declaration is gone. This was the source of the wrong default in the draft tool.
+
+## Batch 9 (P57–P63), review of 11 Nov 2026
+Fresh agent, read-only. Findings checked in the data before fixing.
+- The draft tool swallows a longer word: 大體會 read fi (體會; also in P43) → rule `will-voi`; 共下去 read haˊ in a
+  quoted exercise (下去) → `together-tone` now also runs on quoted lines; 聽毋著, 拗著 with cog (→ doˋ; also in a P47
+  exercise); 當好 + verb with hoˋ (→ hau); 緊喊 with ham (MOE ginˋ hemˊ); 正門 zang (kaga ziin munˇ).
+- 冷淡 langˊ tam and 指教 ziiˋ gau are not in the 115 lists: the sentences were changed.
+- 𫣆兜 said by 阿傑 and 阿舅 about the factory to people outside it → 𠊎兜 (P61 twice, P63).
+- 你个間房 → 若間房 (kaga115 若房間, MOE 若間房). 該位 is "that place": "that person" is 該儕 (11 kaga115).
+- A-in has a job (lesson 100): "a girl from my sister's class" → "from the class next door" (P57).
+- 寒假 was used in the review lesson without being taught → 寒天放尞.
+- 接嘴 is "take up what someone said and go on" (list), not "cut in"; glosses fixed.
+- Notes: 拗 is from 進修 29, 地理先生 from 進修 12; line 4 of P59 has 尞天穿.
+- Sam's essay: P57 said "the Hakka overseas", P59 is on customs → P57 now says traditions, with reading on the
+  Hakka overseas.
+- P63: six exercises copied lines of the batch → new sentences. P58: one fill copied a clause of the text.
+- Flags in a draft are separated by spaces ("check ok:rule-id"); with a comma the tool drops `check`.

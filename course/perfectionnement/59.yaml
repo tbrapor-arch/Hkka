@@ -33,7 +33,7 @@ dialogue:
   - n: 6
     en: "At the Dragon Boat Festival most people wrap rice dumplings to eat."
     source: kaga115
-    sx: {hanzi: "五月節大體會䌈粽仔來食。", pinyin: "ngˋ ngied jiedˋ tai tiˋ fi tagˋ zung eˋ loiˇ siid."}
+    sx: {hanzi: "五月節大體會䌈粽仔來食。", pinyin: "ngˋ ngied jiedˋ tai tiˋ voi tagˋ zung eˋ loiˇ siid."}
   - n: 7
     en: "At the winter solstice you cook rice balls to eat."
     source: kaga
@@ -119,8 +119,8 @@ dialogue:
     sx: {hanzi: "𠊎識个客家人做人條直、大般，子女對爺哀當賢孝，做事毋會儘儘採採。", pinyin: "ngaiˇ siidˋ ge hagˋ gaˊ nginˇ zo nginˇ tiauˇ ciid, tai banˊ, ziiˋ ngˋ dui iaˇ oiˊ dongˊ hienˇ hau, zo se mˇ voi qinˋ qinˋ caiˋ caiˋ."}
     check: true
   - n: 28
-    en: "My written Hakka is not yet fluent: I ask the teacher to correct me."
-    sx: {hanzi: "𠊎寫客話還吂熟練，請先生指教。", pinyin: "ngaiˇ xiaˋ hagˋ fa hanˇ mangˇ sug lien, qiangˋ xinˊ sangˊ ziiˋ gauˊ."}
+    en: "My written Hakka is not yet fluent: I ask the teacher to correct it for me."
+    sx: {hanzi: "𠊎寫客話還吂熟練，請先生同𠊎改。", pinyin: "ngaiˇ xiaˋ hagˋ fa hanˇ mangˇ sug lien, qiangˋ xinˊ sangˊ tungˇ ngaiˇ goiˋ."}
     check: true
   - n: 29
     en: "I wish you good health, and may everything go as you wish!"
@@ -131,8 +131,8 @@ notes:
   - ref: 0
     topic: culture
     text: >
-      The title is line 15, an official sentence: 包禮 bauˊ liˊ is the money given in an envelope at a banquet.
-      Nineteen of the lines are official sentences: this is how Sam prepares the written part of his exam.
+      The title is line 15, an official sentence: 包禮 bauˊ liˊ is "give money in an envelope" at a banquet. Twenty of
+      the lines are official sentences or part of one: this is how Sam prepares the written part of his exam.
   - ref: 1
     topic: vocab
     text: >
@@ -145,7 +145,7 @@ notes:
   - ref: 3
     topic: vocab
     text: >
-      打紙炮仔 daˋ ziiˋ pau eˋ "let off firecrackers": 紙炮仔 is "firecracker". 天穿日 in line 4 is from lesson 55; 掛紙 in line
+      打紙炮仔 daˋ ziiˋ pau eˋ "let off firecrackers": 紙炮仔 is "firecracker". 尞天穿 in line 4 is from lesson 55; 掛紙 in line
       5 is "sweep the tombs".
   - ref: 6
     topic: vocab
@@ -181,7 +181,7 @@ notes:
   - ref: 18
     topic: vocab
     text: >
-      看風水 kon fungˊ suiˋ "read the feng shui": 地理先生 is the geomancer (進修 43).
+      看風水 kon fungˊ suiˋ "read the feng shui": 地理先生 is the geomancer (進修 12).
   - ref: 19
     topic: vocab
     text: >
@@ -260,7 +260,7 @@ exercises:
       sx: {hanzi: "去教堂做禮拜。", pinyin: "hi gau tongˇ zo liˊ bai."}
     - en: "My little sister loves to sleep hugging her doll."
       source: kaga115
-      sx: {hanzi: "老妹當好揇人公仔睡。", pinyin: "loˋ moi dongˊ hoˋ namˋ nginˇ gungˊ eˋ soi."}
+      sx: {hanzi: "老妹當好揇人公仔睡。", pinyin: "loˋ moi dongˊ hau namˋ nginˇ gungˊ eˋ soi."}
     - en: "Children should be devoted to their parents."
       source: kaga115
       sx: {hanzi: "子女愛對爺哀賢孝。", pinyin: "ziiˋ ngˋ oi dui iaˇ oiˊ hienˇ hau."}

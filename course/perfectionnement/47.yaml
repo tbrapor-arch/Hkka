@@ -313,7 +313,7 @@ exercises:
     - en: "How will you settle it this time?"
       sx: {hanzi: "___你愛仰仔解決？", pinyin: "___ nˇ oi ngiongˋ eˋ gieˋ giedˋ?", answer_hanzi: "這滿", answer: "iaˋ manˊ"}
     - en: "The edge of this sheet has been folded by someone."
-      sx: {hanzi: "這張紙个___分人拗著哩。", pinyin: "iaˋ zongˊ ziiˋ ge ___ bunˊ nginˇ auˋ cog leˊ.", answer_hanzi: "邊脣", answer: "bienˊ sunˇ"}
+      sx: {hanzi: "這張紙个___分人拗著哩。", pinyin: "iaˋ zongˊ ziiˋ ge ___ bunˊ nginˇ auˋ doˋ leˊ.", answer_hanzi: "邊脣", answer: "bienˊ sunˇ"}
     - en: "He is a plain, honest man: don't bully him."
       sx: {hanzi: "佢係一個___，你毋好欺負佢。", pinyin: "giˇ he idˋ ge ___, nˇ mˇ hoˋ kiˊ fu giˇ.", answer_hanzi: "老實伯", answer: "loˋ siid bagˋ"}
     - en: "Pour in a tiny bit of oil."

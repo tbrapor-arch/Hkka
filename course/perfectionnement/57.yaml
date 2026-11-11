@@ -87,8 +87,8 @@ dialogue:
     sx: {hanzi: "厥間房像狗竇樣仔。", pinyin: "giaˊ gienˊ fongˇ qiong gieuˋ deu iong eˋ."}
   - n: 16
     speaker: 阿明
-    en: "A girl from my sister's class came to watch me compete."
-    sx: {hanzi: "阿姊該班有一個細妹仔來看𠊎比賽。", pinyin: "aˊ jiˋ ge banˊ iuˊ idˋ ge se moi eˋ loiˇ kon ngaiˇ biˋ soi."}
+    en: "A girl from the class next door came to watch me compete."
+    sx: {hanzi: "隔壁班有一個細妹仔來看𠊎比賽。", pinyin: "gagˋ biagˋ banˊ iuˊ idˋ ge se moi eˋ loiˇ kon ngaiˇ biˋ soi."}
     check: true
   - n: 17
     speaker: 阿英
@@ -147,8 +147,8 @@ dialogue:
     sx: {hanzi: "甜包粟煮湯，當好食。", pinyin: "tiamˇ bauˊ xiugˋ zuˋ tongˊ, dongˊ hoˋ siid."}
   - n: 28
     speaker: Sam
-    en: "Thank you, Grandma. The exam is nearly here, and I don't dare take time off freely. My essay has to be about the Hakka overseas: a hard problem to get over."
-    sx: {hanzi: "多謝阿婆。考試會到吔，𠊎毋敢放勢仔尞。𠊎个文章愛寫海外个客家人，這問題當難克服。", pinyin: "doˊ qia aˊ poˇ. kauˋ sii voi do leˊ, ngaiˇ mˇ gamˋ fong se eˋ liau. ngaiˇ ge vunˇ zongˊ oi xiaˋ hoiˋ ngoi ge hagˋ gaˊ nginˇ, iaˋ mun tiˇ dongˊ nanˇ kiedˋ fug."}
+    en: "Thank you, Grandma. The exam is nearly here, and I don't dare take time off freely. My essay has to be on Hakka traditions, and I still have to read up on the Hakka overseas: a hard problem to get over."
+    sx: {hanzi: "多謝阿婆。考試會到吔，𠊎毋敢放勢仔尞。𠊎个文章愛寫客家人个傳統，還愛讀海外客家人个資料，這問題當難克服。", pinyin: "doˊ qia aˊ poˇ. kauˋ sii voi do leˊ, ngaiˇ mˇ gamˋ fong se eˋ liau. ngaiˇ ge vunˇ zongˊ oi xiaˋ hagˋ gaˊ nginˇ ge conˇ tungˋ, hanˇ oi tug hoiˋ ngoi hagˋ gaˊ nginˇ ge ziiˊ liau, iaˋ mun tiˇ dongˊ nanˇ kiedˋ fug."}
     check: true
   - n: 29
     speaker: 阿婆
@@ -191,7 +191,7 @@ notes:
   - ref: 11
     topic: vocab
     text: >
-      蛤蟆胲 haˇ maˇ goiˊ "chin". 拗著 auˋ doˋ in line 12 is "sprain"; of paper, "fold, crease" (進修 47).
+      蛤蟆胲 haˇ maˇ goiˊ "chin". 拗著 auˋ doˋ in line 12 is "sprain"; of paper, "fold, crease" (拗 is from 進修 29).
   - ref: 13
     topic: vocab
     text: >
@@ -274,7 +274,7 @@ exercises:
       sx: {hanzi: "這駁仔青菜當好價。", pinyin: "iaˋ bogˋ eˇ qiangˊ coi dongˊ hoˋ ga."}
     - en: "Next door they talk very loudly, as if afraid people won't hear."
       source: kaga115
-      sx: {hanzi: "隔壁講話大嫲聲，驚人聽毋著樣仔。", pinyin: "gagˋ biagˋ gongˋ fa tai maˇ sangˊ, giangˊ nginˇ tangˊ mˇ cog iong eˋ."}
+      sx: {hanzi: "隔壁講話大嫲聲，驚人聽毋著樣仔。", pinyin: "gagˋ biagˋ gongˋ fa tai maˇ sangˊ, giangˊ nginˇ tangˊ mˇ doˋ iong eˋ."}
     - en: "There are Hakka overseas too, and some of them still speak Hakka."
       source: kaga115
       sx: {hanzi: "海外乜有客人，有兜仔還會講客話。", pinyin: "hoiˋ ngoi me iuˊ hagˋ nginˇ, iuˊ deuˊ eˋ hanˇ voi gongˋ hagˋ fa."}
@@ -288,8 +288,8 @@ exercises:
       sx: {hanzi: "兩公婆___，共下睡就無講話。", pinyin: "liongˋ gungˊ poˇ ___, kiung ha soi qiu moˇ gongˋ fa.", answer_hanzi: "鬥氣", answer: "deu hi"}
     - en: "The edge of this sheet has been creased by someone."
       sx: {hanzi: "這張紙个邊脣分人___哩。", pinyin: "iaˋ zongˊ ziiˋ ge bienˊ sunˇ bunˊ nginˇ ___ leˊ.", answer_hanzi: "拗著", answer: "auˋ doˋ"}
-    - en: "Business at the snack shop is very slack: the owner sits at the door swatting flies."
-      sx: {hanzi: "點心店生理當冷淡，頭家坐在門口打___。", pinyin: "diamˋ ximˊ diam senˊ liˊ dongˊ langˊ tamˊ, teuˇ gaˊ coˊ coiˊ munˇ heuˋ daˋ ___.", answer_hanzi: "烏蠅", answer: "vuˊ inˇ"}
+    - en: "Flies won't go however you chase them: what a nuisance."
+      sx: {hanzi: "___逐就逐毋走，還得人惱。", pinyin: "___ giugˋ qiu giugˋ mˇ zeuˋ, hanˇ dedˋ nginˇ nauˊ.", answer_hanzi: "烏蠅", answer: "vuˊ inˇ"}
     - en: "The day is still a long way off: it doesn't matter if we don't decide yet."
       sx: {hanzi: "日仔還恁久，___決定無相干。", pinyin: "ngidˋ eˇ hanˇ anˋ giuˋ, ___ giedˋ tin moˇ xiongˊ gonˊ.", answer_hanzi: "吂使", answer: "mangˇ siiˋ"}
 

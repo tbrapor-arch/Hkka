@@ -34,6 +34,7 @@ dialogue:
     speaker: 阿公
     en: "In autumn the hills were covered in silver-grass plumes, and the grapes at the hillside were ripe. The elder squirrel was very selfish: when he found grapes he hid them and shared them with nobody, his own brother included."
     sx: {hanzi: "秋天，滿山个芒花，山脣个葡萄乜熟吔。大个膨尾鼠當自私，尋著葡萄就囥起來，包括老弟都毋分。", pinyin: "qiuˊ tienˊ, manˊ sanˊ ge miongˇ faˊ, sanˊ sunˇ ge puˇ toˇ me xiugˋ leˊ. tai ge pong miˊ cuˋ dongˊ cii siiˊ, qimˇ doˋ puˇ toˇ qiu kong hiˋ loiˇ, bauˊ guadˋ loˋ taiˊ du mˇ bunˊ."}
+    check: true
     ok: [shu-cooked]
   - n: 6
     speaker: 阿明
@@ -52,7 +53,7 @@ dialogue:
     check: true
   - n: 9
     speaker: 阿公
-    en: "Bears are very good at catching fish to eat at the riverside."
+    en: "Bears very often catch fish to eat at the riverside."
     source: kaga115
     sx: {hanzi: "熊盡會在河壩脣捉魚仔來食。", pinyin: "iungˇ qin voi coiˊ hoˇ ba sunˇ zogˋ ngˇ eˋ loiˇ siid."}
   - n: 10
@@ -276,8 +277,8 @@ exercises:
       source: kaga
       sx: {hanzi: "公園肚个松樹生到當靚。", pinyin: "gungˊ ienˇ duˋ ge qiungˇ su sangˊ do dongˊ jiangˊ."}
   fill:
-    - en: "Silver-grass plumes all over the hills."
-      sx: {hanzi: "滿山个___。", pinyin: "manˊ sanˊ ge ___.", answer_hanzi: "芒花", answer: "miongˇ faˊ"}
+    - en: "On the hilltops in autumn the silver-grass plumes are white."
+      sx: {hanzi: "秋天个山頂，___白白。", pinyin: "qiuˊ tienˊ ge sanˊ dangˋ, ___ pag pag.", answer_hanzi: "芒花", answer: "miongˇ faˊ"}
     - en: "You need skill to do a job."
       sx: {hanzi: "做事愛有___。", pinyin: "zo se oi iuˊ ___.", answer_hanzi: "技巧", answer: "giˊ kauˋ"}
     - en: "The beggar-ticks are stuck to my trousers."

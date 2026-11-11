@@ -61,7 +61,8 @@ rules:
   - {id: bag-of, hanzi: "一袋仔", msg: "the measure is 一袋 + noun (買一袋米轉去), not 一袋仔"}
   - {id: not-much-different, hanzi: "差無幾多", msg: "'much the same' is 差毋多 (26 official; 差無幾多 0)"}
   - {id: my-subject, hanzi: "吾有", msg: "吾 is 'my', before a noun; the subject 'I' is 𠊎"}
-  - {id: together-tone, hanzi: "共下", key: "kiung55-ha24", msg: "共下 'together' is kiung ha (batches 6 and 7)"}
+  - {id: will-voi, hanzi: "大體會", key: "tai55-ti31-fi55", quotes: true, msg: "會 'will' is voi; the tool read 體會 (batch 9)"}
+  - {id: together-tone, hanzi: "共下", key: "kiung55-ha24", quotes: true, msg: "共下 'together' is kiung ha (batches 6 and 7)"}
   - {id: marks-fun, hanzi: "扣分", key: "kieu55-bun24", msg: "分 'marks' is funˊ: 扣分 kieu funˊ (batch 8)"}
   - {id: my-body, hanzi: "𠊎个(肩頭|頸根|背囊|肚屎|頭那|目珠|腳|手)(?![機電錶指續])", msg: "body parts take 吾 (吾頸根, 14 official), not 𠊎个 (batch 8)"}
   # --- grammar ---

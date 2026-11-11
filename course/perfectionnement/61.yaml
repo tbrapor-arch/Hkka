@@ -46,7 +46,7 @@ dialogue:
   - n: 8
     speaker: 阿傑
     en: "When we first came there was hardly anyone; it is better now. We just have to get on with it."
-    sx: {hanzi: "頭到來个時節無麼个人，這下有較好。𫣆兜煞煞仔做就著吔。", pinyin: "teuˇ do loiˇ ge siiˇ jiedˋ moˇ maˋ ge nginˇ, iaˋ ha iuˊ ka hoˋ. enˊ deuˊ sadˋ sadˋ eˇ zo qiu cog leˊ."}
+    sx: {hanzi: "頭到來个時節無麼个人，這下有較好。𠊎兜煞煞仔做就著吔。", pinyin: "teuˇ do loiˇ ge siiˇ jiedˋ moˇ maˋ ge nginˇ, iaˋ ha iuˊ ka hoˋ. ngaiˇ deuˊ sadˋ sadˋ eˇ zo qiu cog leˊ."}
     check: true
   - n: 9
     en: "Customers arrive. A-kied says to them:"
@@ -78,7 +78,7 @@ dialogue:
   - n: 15
     speaker: Sam
     en: "Why are there so many pictures in the street? Who is that?"
-    sx: {hanzi: "街項仰恁多相片？該位係麼人？", pinyin: "gieˊ hong ngiongˋ anˋ doˊ xiong pienˋ? ge vi he maˋ nginˇ?"}
+    sx: {hanzi: "街項仰恁多相片？該儕係麼人？", pinyin: "gieˊ hong ngiongˋ anˋ doˊ xiong pienˋ? ge saˇ he maˋ nginˇ?"}
     check: true
   - n: 16
     speaker: 阿傑
@@ -93,7 +93,7 @@ dialogue:
   - n: 18
     speaker: 阿傑
     en: "There is trouble at the factory too. The new clerk resigned after one month. And the company that sells us bags has a problem as well:"
-    sx: {hanzi: "工廠乜有事情。新來个職員做一個月就辭職吔。賣袋仔分𫣆兜个公司乜有問題：", pinyin: "gungˊ congˋ me iuˊ sii qinˇ. xinˊ loiˇ ge ziidˋ ienˇ zo idˋ ge ngied qiu ciiˇ ziidˋ leˊ. mai toi eˋ bunˊ enˊ deuˊ ge gungˊ siiˊ me iuˊ mun tiˇ:"}
+    sx: {hanzi: "工廠乜有事情。新來个職員做一個月就辭職吔。賣袋仔分𠊎兜个公司乜有問題：", pinyin: "gungˊ congˋ me iuˊ sii qinˇ. xinˊ loiˇ ge ziidˋ ienˇ zo idˋ ge ngied qiu ciiˇ ziidˋ leˊ. mai toi eˋ bunˊ ngaiˇ deuˊ ge gungˊ siiˊ me iuˊ mun tiˇ:"}
     check: true
   - n: 19
     speaker: 阿傑

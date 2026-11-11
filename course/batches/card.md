@@ -36,6 +36,9 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - 斯 "then" is siiˇ (斯文 and 瓦斯 have siiˊ). 阿傑 is aˊ kied.
 - 輪 "take turns" is linˊ (lesson 92), 共下 is kiung ha, 無斯 "or else" is moˇ siiˇ: the draft tool cannot know these.
 - 臺灣 is toiˇ vanˇ: the draft tool sometimes writes vanˊ (batch 7). 釘 verb and noun are both dangˊ; 撥 padˋ is "fan, flap".
+- Check these in the tool's output every time: 大體會 (voi), 共下去 (kiung ha hi), V毋著 / V著 result (doˋ), 當好 + verb (hau), 緊喊 (hemˊ).
+- 阿舅 and 阿傑 say 𠊎兜 about the factory to the Lius and Sam. 你个 / 𠊎个 + home is 若間房, 吾屋下. "That person" is 該儕.
+- A-in works (lesson 100): she has colleagues, not classmates.
 - "We": 𫣆兜 includes the listener, 𠊎兜 excludes. Check each one against who is listening (in a letter: writer +
   reader is 𫣆兜).
 - Demonstrative + classifier + noun (這隻柚仔). A bare noun only where an official sentence has it.
