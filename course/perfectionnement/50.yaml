@@ -1,0 +1,268 @@
+id: 50
+genre: diary
+title:
+  en: "Take it slowly, no need to rush"
+  sx: {hanzi: "定定仔來，毋使恁鬥緊", pinyin: "tin tin eˋ loiˇ, mˇ siiˋ anˋ deu ginˋ"}
+review: false
+setting: >-
+  Monday 2 to Saturday 7 July 2029. A-min's diary of his first week at 阿舅's 粄條 factory in 竹東. He stays with 阿舅 and
+  舅姆 during the week. A typhoon passes on Wednesday. The typhoon is invented.
+names: [阿舅, 舅姆, 阿傑, 阿英, 師傅, 竹東]
+
+dialogue:
+  - n: 1
+    en: "Monday 2 July, fine. School is out, and I have come to work at Uncle's factory in Zhudong. I am staying at Uncle's house."
+    sx: {hanzi: "七月二號，禮拜一，好天。學校放尞吔，𠊎來竹東阿舅个工廠做事，歇在阿舅屋下。", pinyin: "qidˋ ngied ngi ho, liˊ bai idˋ, hoˋ tienˊ. hog gauˋ biong liau leˊ, ngaiˇ loiˇ zugˋ dungˊ aˊ kiuˊ ge gungˊ congˋ zo se, hiedˋ coiˊ aˊ kiuˊ vugˋ kaˊ."}
+    check: true
+  - n: 2
+    en: "I am in the habit of keeping a diary."
+    source: kaga115
+    sx: {hanzi: "𠊎有寫日記个習慣。", pinyin: "ngaiˇ iuˊ xiaˋ ngidˋ gi ge xib guan."}
+  - n: 3
+    en: "In the morning I have soya milk and a steamed bun."
+    source: kaga
+    sx: {hanzi: "𠊎朝晨頭食豆乳同饅頭。", pinyin: "ngaiˇ zeuˊ siinˇ teuˇ siid teu nen tungˇ manˇ teuˇ."}
+  - n: 4
+    en: "Auntie says one must eat and drink regularly. In the factory you have to wear gloves and sleeve covers. I worked too fast, and the master said:"
+    sx: {hanzi: "舅姆講飲食愛正常。在工廠愛戴手落仔同手袖仔。𠊎做忒遽，師傅講：", pinyin: "kiuˊ meˊ gongˋ imˋ siid oi ziin songˇ. coiˊ gungˊ congˋ oi dai suˋ labˋ eˇ tungˇ suˋ qiu eˋ. ngaiˇ zo tedˋ giagˋ, siiˊ fu gongˋ:"}
+    check: true
+  - n: 5
+    en: "Take it slowly, no need to rush."
+    source: kaga115
+    sx: {hanzi: "定定仔來，毋使恁鬥緊。", pinyin: "tin tin eˋ loiˇ, mˇ siiˋ anˋ deu ginˋ."}
+  - n: 6
+    en: "Tuesday 3 July. The rice noodles come in three kinds, of different shapes, and every packet has to be tied with a rubber band. Uncle says the quality must go up."
+    sx: {hanzi: "七月三號，禮拜二。粄條分做三類，形仔無共樣，逐包愛用樹奶仔䌈起來。阿舅講愛提高品質。", pinyin: "qidˋ ngied samˊ ho, liˊ bai ngi. banˋ tiauˇ bunˊ zo samˊ lui, hinˇ eˋ moˇ kiung iong, dagˋ bauˊ oi iung su nen eˋ tagˋ hiˋ loiˇ. aˊ kiuˊ gongˋ oi tiˇ goˊ pinˋ ziidˋ."}
+    check: true
+  - n: 7
+    en: "Auntie's lunch box had pig's tongue and pig's blood soup, and pork tenderloin cooked with wine lees."
+    sx: {hanzi: "舅姆个飯包有豬利同豬紅湯，還有用糟嫲落菜个脢條肉。", pinyin: "kiuˊ meˊ ge fan bauˊ iuˊ zuˊ li tungˇ zuˊ fungˇ tongˊ, hanˇ iuˊ iung zoˊ maˇ log coi ge moiˇ tiauˇ ngiugˋ."}
+    check: true
+  - n: 8
+    en: "Pork tenderloin is especially tender."
+    source: kaga115
+    sx: {hanzi: "脢條肉食起來特別嫩。", pinyin: "moiˇ tiauˇ ngiugˋ siid hiˋ loiˇ tid pied nun."}
+  - n: 9
+    en: "Cooking as good as this makes you eat till you burst."
+    source: kaga115
+    sx: {hanzi: "煮到恁好食，會害人撐忒飽。", pinyin: "zuˋ do anˋ hoˋ siid, voi hoi nginˇ cang tedˋ bauˋ."}
+  - n: 10
+    en: "Wednesday 4 July. The typhoon is here! The factory is closed."
+    sx: {hanzi: "七月四號，禮拜三。風搓來吔！工廠無做事。", pinyin: "qidˋ ngied xi ho, liˊ bai samˊ. fungˊ caiˊ loiˇ leˊ! gungˊ congˋ moˇ zo se."}
+    check: true
+  - n: 11
+    en: "On rainy days you have to wear rubber boots."
+    source: kaga115
+    sx: {hanzi: "落雨天愛著水靴仔。", pinyin: "log iˋ tienˊ oi zogˋ suiˋ hioˊ eˋ."}
+  - n: 12
+    en: "The water tower was blown over by the typhoon."
+    source: kaga115
+    sx: {hanzi: "水塔分風搓吹橫忒。", pinyin: "suiˋ tabˋ bunˊ fungˊ caiˊ coiˊ vang tedˋ."}
+  - n: 13
+    en: "It is so stuffy in the room: shall we open the window?"
+    source: kaga115
+    sx: {hanzi: "間肚恁翕，愛開窗門無？", pinyin: "gienˊ duˋ anˋ hibˋ, oi koiˊ cungˊ munˇ moˇ?"}
+  - n: 14
+    en: "In the evening the power went off, and Auntie cooked the rice in a wok."
+    sx: {hanzi: "暗晡頭停電，舅姆用鑊頭煮飯。", pinyin: "am buˊ teuˇ tinˇ tien, kiuˊ meˊ iung vog teuˇ zuˋ fan."}
+    check: true
+  - n: 15
+    en: "When you cook rice in a wok, if the fire is too high, a crust easily forms."
+    source: kaga115
+    sx: {hanzi: "用鑊頭煮飯，火係忒猛，異會結飯𤊶。", pinyin: "iung vog teuˇ zuˋ fan, foˋ he tedˋ mangˊ, i voi giedˋ fan ladˋ."}
+  - n: 16
+    en: "A-kied laughed at me:"
+    sx: {hanzi: "阿傑笑𠊎：", pinyin: "aˊ kied seu ngaiˇ:"}
+    check: true
+  - n: 17
+    en: "You've got a grain of rice stuck at the corner of your mouth."
+    source: kaga115
+    sx: {hanzi: "飯糝黏在嘴角項。", pinyin: "fan samˋ ngiamˇ coiˊ zoi gogˋ hong."}
+  - n: 18
+    en: "Thursday 5 July. The typhoon has gone. Auntie told me to tear the page off the calendar, and said that if you don't brush your teeth after a meal you must at least rinse your mouth."
+    sx: {hanzi: "七月五號，禮拜四。風搓走吔。舅姆喊𠊎去扯日誌，又講食飽無搓牙齒乜愛湯嘴。", pinyin: "qidˋ ngied ngˋ ho, liˊ bai xi. fungˊ caiˊ zeuˋ leˊ. kiuˊ meˊ ham ngaiˇ hi caˋ ngidˋ zii, iu gongˋ siid bauˋ moˇ co ngaˇ ciiˋ me oi tongˊ zoi."}
+    check: true
+  - n: 19
+    en: "The old man next door had his whole vegetable garden washed out."
+    sx: {hanzi: "隔壁阿伯个菜園做盡分水打忒。", pinyin: "gagˋ biagˋ aˊ bagˋ ge coi ienˇ zo qin bunˊ suiˋ daˋ tedˋ."}
+    check: true
+  - n: 20
+    en: "Everyone feels very sorry for him."
+    source: kaga115
+    sx: {hanzi: "大家都盡同情佢。", pinyin: "tai gaˊ du qin tungˇ qinˇ giˇ."}
+  - n: 21
+    en: "The factory's water tower has to be mended, and Uncle is very worried. A-kied said to him:"
+    sx: {hanzi: "工廠个水塔愛整，阿舅當愁。阿傑同佢講：", pinyin: "gungˊ congˋ ge suiˋ tabˋ oi zangˋ, aˊ kiuˊ dongˊ seuˇ. aˊ kied tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 22
+    en: "I'll deal with that myself: no need for you to worry."
+    source: kaga115
+    sx: {hanzi: "該件事𠊎自家會處理，毋使你煩勞。", pinyin: "ge kien sii ngaiˇ qi gaˊ voi cuˋ liˊ, mˇ siiˋ nˇ fanˇ loˇ."}
+  - n: 23
+    en: "Friday 6 July. I haven't been paid yet, and I wanted to go for an ice in the evening, so I said to A-kied:"
+    sx: {hanzi: "七月六號，禮拜五。𠊎還吂領錢，暗晡頭想去食冰，就同阿傑講：", pinyin: "qidˋ ngied liugˋ ho, liˊ bai ngˋ. ngaiˇ hanˇ mangˇ liangˊ qienˇ, am buˊ teuˇ xiongˋ hi siid benˊ, qiu tungˇ aˊ kied gongˋ:"}
+    check: true
+  - n: 24
+    en: "Lend me a hundred dollars first: next week I'll pay you back double."
+    source: kaga
+    sx: {hanzi: "先借𠊎一百箍，下禮拜加倍還你。", pinyin: "xienˊ jia ngaiˇ idˋ bagˋ kieuˊ, ha liˊ bai gaˊ pi vanˇ nˇ."}
+  - n: 25
+    en: "He didn't lend me the money: he took me out for rice noodles instead."
+    sx: {hanzi: "佢無借𠊎錢，顛倒請𠊎去食粄條。", pinyin: "giˇ moˇ jia ngaiˇ qienˇ, dienˊ do qiangˋ ngaiˇ hi siid banˋ tiauˇ."}
+    check: true
+  - n: 26
+    en: "This shop is famous all over the country."
+    source: kaga115
+    sx: {hanzi: "這間店仔在國內當有名。", pinyin: "iaˋ gienˊ diam eˋ coiˊ guedˋ nui dongˊ iuˊ miangˇ."}
+  - n: 27
+    en: "A-kied says a friend of the boss's has made money."
+    sx: {hanzi: "阿傑講，頭家有一個朋友賺著錢。", pinyin: "aˊ kied gongˋ, teuˇ gaˊ iuˊ idˋ ge penˇ iuˊ con doˋ qienˇ."}
+    check: true
+  - n: 28
+    en: "He has built a villa on his own land."
+    source: kaga115
+    sx: {hanzi: "佢在自家个地項起別莊。", pinyin: "giˇ coiˊ qi gaˊ ge ti hong hiˋ pied zongˊ."}
+  - n: 29
+    en: "Saturday 7 July. Home again. At Uncle's I ate my fill at every meal, and I am two kilos heavier. Dad is going to Taipei next week, and my sister said to him:"
+    sx: {hanzi: "七月七號，禮拜六。轉屋吔。在阿舅屋下逐餐都食到當飽，𠊎重兩公斤。阿爸下禮拜愛去臺北，阿姊同佢講：", pinyin: "qidˋ ngied qidˋ ho, liˊ bai liugˋ. zonˋ vugˋ leˊ. coiˊ aˊ kiuˊ vugˋ kaˊ dagˋ conˊ du siid do dongˊ bauˋ, ngaiˇ cungˊ liongˋ gungˊ ginˊ. aˊ baˊ ha liˊ bai oi hi toiˇ bedˋ, aˊ jiˋ tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 30
+    en: "When you go to Taipei, can I tag along?"
+    source: kaga115
+    sx: {hanzi: "你去臺北，做得分𠊎挷衫尾無？", pinyin: "nˇ hi toiˇ bedˋ, zo dedˋ bunˊ ngaiˇ bangˊ samˊ miˊ moˇ?"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 5, an official sentence: 鬥 deu is "fit together" (鬥雙, 進修 36) and "strive, compete"; 鬥緊 is
+      "rush, be in a hurry". 定定仔 "slowly, steadily" is from 進修 24.
+  - ref: 2
+    topic: vocab
+    text: >
+      日記 ngidˋ gi "diary". 饅頭 manˇ teuˇ in line 3 is a plain steamed bun.
+  - ref: 4
+    topic: vocab
+    text: >
+      手落仔 suˋ labˋ eˇ "gloves" (一雙手落仔); 手袖仔 suˋ qiu eˋ "sleeve covers" (戴手袖仔做得抵日頭，也毋驚蚊仔咬).
+  - ref: 6
+    topic: vocab
+    text: >
+      類 lui "kind, class" (樂器種類當多). 形仔 hinˇ eˋ "shape". 樹奶仔 su nen eˋ "rubber band": 樹奶 is "rubber". 提高 tiˇ goˊ
+      "raise".
+  - ref: 7
+    topic: vocab
+    text: >
+      豬利 zuˊ li "pig's tongue": 利 "profit" replaces the word for tongue, which sounds like "lose money". 豬紅 zuˊ
+      fungˇ "pig's blood", 紅 for the same kind of reason. 糟嫲 zoˊ maˇ "wine lees", used to marinate and stew meat. 落菜
+      log coi "go into a dish". 脢條肉 moiˇ tiauˇ ngiugˋ "pork tenderloin". The remark on 利 and 紅 is general knowledge.
+  - ref: 9
+    topic: vocab
+    text: >
+      撐 cang "stuffed, overfull": 撐忒飽 "eat till one bursts".
+  - ref: 11
+    topic: vocab
+    text: >
+      水靴仔 suiˋ hioˊ eˋ "rubber boots". 水塔 suiˋ tabˋ in line 12 is "water tower" (塔 is from 進修 41).
+  - ref: 13
+    topic: vocab
+    text: >
+      間肚 gienˊ duˋ "in the room" (間肚火光光 "the room is brightly lit").
+  - ref: 15
+    topic: vocab
+    text: >
+      飯𤊶 fan ladˋ "rice crust", the browned layer at the bottom of the pot. 飯糝 fan samˋ in line 17 is "a grain of
+      cooked rice".
+  - ref: 18
+    topic: vocab
+    text: >
+      日誌 ngidˋ zii is a tear-off calendar (日誌一日愛扯一頁). 湯嘴 tongˊ zoi "rinse one's mouth".
+  - ref: 20
+    topic: vocab
+    text: >
+      同情 tungˇ qinˇ "feel sorry for, sympathize".
+  - ref: 21
+    topic: vocab
+    text: >
+      整 zangˋ "repair, mend": the list glosses it 修理. 煩勞 fanˇ loˇ in line 22 is "worry; trouble"
+      (出外做頭路，自家愛認真，毋好分爺哀煩勞).
+  - ref: 24
+    topic: vocab
+    text: >
+      倍 pi "times, -fold": 加倍 "double". 還 "give back" is read vanˇ.
+  - ref: 26
+    topic: vocab
+    text: >
+      國內 guedˋ nui "in the country, domestic". 別莊 pied zongˊ in line 28 is "villa".
+  - ref: 29
+    topic: vocab
+    text: >
+      餐 conˊ "meal": 逐餐 "every meal" (一日三餐兩點心 "three meals and two snacks a day").
+  - ref: 30
+    topic: vocab
+    text: >
+      衫尾 samˊ miˊ "the hem of a garment" (該細人仔拉等厥姆个衫尾). 挷衫尾 "pull at someone's hem" is to tag along.
+
+new_words:
+  - {hanzi: "日記", pinyin: "ngidˋ gi", en: "diary"}
+  - {hanzi: "饅頭", pinyin: "manˇ teuˇ", en: "steamed bun (plain)"}
+  - {hanzi: "飲食", pinyin: "imˋ siid", en: "food and drink, eating"}
+  - {hanzi: "手落仔", pinyin: "suˋ labˋ eˇ", en: "gloves"}
+  - {hanzi: "手袖仔", pinyin: "suˋ qiu eˋ", en: "sleeve covers"}
+  - {hanzi: "鬥", pinyin: "deu", en: "fit together; compete, strive"}
+  - {hanzi: "類", pinyin: "lui", en: "kind, class"}
+  - {hanzi: "形仔", pinyin: "hinˇ eˋ", en: "shape"}
+  - {hanzi: "樹奶仔", pinyin: "su nen eˋ", en: "rubber band"}
+  - {hanzi: "提高", pinyin: "tiˇ goˊ", en: "raise"}
+  - {hanzi: "豬利", pinyin: "zuˊ li", en: "pig's tongue"}
+  - {hanzi: "豬紅", pinyin: "zuˊ fungˇ", en: "pig's blood"}
+  - {hanzi: "糟嫲", pinyin: "zoˊ maˇ", en: "wine lees"}
+  - {hanzi: "落菜", pinyin: "log coi", en: "go into a dish (as an ingredient)"}
+  - {hanzi: "脢條肉", pinyin: "moiˇ tiauˇ ngiugˋ", en: "pork tenderloin"}
+  - {hanzi: "撐", pinyin: "cang", en: "stuffed, overfull"}
+  - {hanzi: "水靴仔", pinyin: "suiˋ hioˊ eˋ", en: "rubber boots"}
+  - {hanzi: "水塔", pinyin: "suiˋ tabˋ", en: "water tower"}
+  - {hanzi: "間肚", pinyin: "gienˊ duˋ", en: "in the room"}
+  - {hanzi: "飯𤊶", pinyin: "fan ladˋ", en: "rice crust"}
+  - {hanzi: "飯糝", pinyin: "fan samˋ", en: "grain of cooked rice"}
+  - {hanzi: "日誌", pinyin: "ngidˋ zii", en: "tear-off calendar"}
+  - {hanzi: "湯嘴", pinyin: "tongˊ zoi", en: "rinse one's mouth"}
+  - {hanzi: "同情", pinyin: "tungˇ qinˇ", en: "feel sorry for, sympathize"}
+  - {hanzi: "煩勞", pinyin: "fanˇ loˇ", en: "trouble; worry"}
+  - {hanzi: "倍", pinyin: "pi", en: "times, -fold"}
+  - {hanzi: "國內", pinyin: "guedˋ nui", en: "in the country, domestic"}
+  - {hanzi: "別莊", pinyin: "pied zongˊ", en: "villa"}
+  - {hanzi: "餐", pinyin: "conˊ", en: "meal"}
+  - {hanzi: "衫尾", pinyin: "samˊ miˊ", en: "hem of a garment"}
+  - {hanzi: "整", pinyin: "zangˋ", en: "repair, mend"}
+
+exercises:
+  translate:
+    - en: "A pair of gloves."
+      source: kaga115
+      sx: {hanzi: "一雙手落仔。", pinyin: "idˋ sungˊ suˋ labˋ eˇ."}
+    - en: "Pig's blood soup."
+      source: kaga115
+      sx: {hanzi: "豬紅湯。", pinyin: "zuˊ fungˇ tongˊ."}
+    - en: "One page a day has to be torn off the calendar."
+      source: kaga115
+      sx: {hanzi: "日誌一日愛扯一頁。", pinyin: "ngidˋ zii idˋ ngidˋ oi caˋ idˋ iab."}
+    - en: "That child is holding on to the hem of his mother's dress."
+      source: kaga115
+      sx: {hanzi: "該細人仔拉等厥姆个衫尾。", pinyin: "ge se nginˇ eˋ laiˊ denˋ giaˊ meˊ ge samˊ miˊ."}
+    - en: "When you go away to work, be serious yourself and don't make your parents worry."
+      source: kaga
+      sx: {hanzi: "出外做頭路，自家愛認真，毋好分爺哀煩勞。", pinyin: "cudˋ ngoi zo teuˇ lu, qi gaˊ oi ngin ziinˊ, mˇ hoˋ bunˊ iaˇ oiˊ fanˇ loˇ."}
+  fill:
+    - en: "A tear-off calendar has a page torn off every day."
+      sx: {hanzi: "___愛逐日扯。", pinyin: "___ oi dagˋ ngidˋ caˋ.", answer_hanzi: "日誌", answer: "ngidˋ zii"}
+    - en: "If you don't eat and drink regularly, sooner or later your health will suffer."
+      sx: {hanzi: "___無正常，早慢身體會出問題。", pinyin: "___ moˇ ziin songˇ, zoˋ man siinˊ tiˋ fi cudˋ mun tiˇ.", answer_hanzi: "飲食", answer: "imˋ siid"}
+    - en: "There are many kinds of musical instruments."
+      sx: {hanzi: "樂器種___當多。", pinyin: "ngog hi zungˋ ___ dongˊ doˊ.", answer_hanzi: "類", answer: "lui"}
+    - en: "Sleeve covers keep the sun off, and you needn't fear mosquito bites either."
+      sx: {hanzi: "戴___做得抵日頭，也毋驚蚊仔咬。", pinyin: "dai ___ zo dedˋ daiˋ ngidˋ teuˇ, ia mˇ giangˊ munˊ eˋ ngauˊ.", answer_hanzi: "手袖仔", answer: "suˋ qiu eˋ"}
+    - en: "The room is brightly lit."
+      sx: {hanzi: "___火光光。", pinyin: "___ foˋ gongˊ gongˊ.", answer_hanzi: "間肚", answer: "gienˊ duˋ"}
+
+audio: []

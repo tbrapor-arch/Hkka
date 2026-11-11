@@ -70,3 +70,5 @@ style of 採茶戲, not a sung one.
   "next month" (July). Sam stays in Miaoli for the summer to prepare the November exam. Grandpa smokes less.
 - Open threads after P49: A-min at the factory from July; Sam's 中級 exam in November; Grandpa smokes less;
   叔婆 張 and her grandson at university; Sam's cousin wants to study in Taiwan; Sam plans graduate school.
+- P50, Mon 2 – Sat 7 Jul, A-min's diary: first week at the 粄條 factory, staying with 阿舅 and 舅姆. A typhoon on
+  Wed 4 Jul (invented) blows the factory's water tower over; 阿傑 deals with it. A-min is not paid yet.
