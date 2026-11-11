@@ -111,3 +111,6 @@ style of 採茶戲, not a sung one.
 - P66, Mon 4 Feb 2030, 年初二 at the Liu house. Grandpa's youngest daughter (滿姑, lives up north) comes home with
   her husband (姑丈, just promoted to run a company) and their youngest boy (just started school). Mrs Liu and her
   sister are at their own parents'. Grandpa and 姑丈 argue about politics (a land requisition, invented).
+- P67, Fri 15 Feb 2030, A-in reads the news (all invented): a new education minister, free travel for old
+  people from March, military exercises in March, the old theatre in 公館 to be pulled down, the county sports
+  meeting in March.

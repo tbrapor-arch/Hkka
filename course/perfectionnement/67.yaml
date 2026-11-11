@@ -1,0 +1,271 @@
+id: 67
+genre: news
+title:
+  en: "In a democracy, the people are the masters"
+  sx: {hanzi: "民主國家，人民係主人", pinyin: "minˇ zuˋ guedˋ gaˊ, nginˇ minˇ he zuˋ nginˇ"}
+review: false
+setting: >-
+  Friday 15 February 2030. A-in reads the news on the local radio: this time national news first, then local. Every
+  event, person and plan in it is invented; most of the sentences are official example sentences.
+names: [公館]
+
+dialogue:
+  - n: 1
+    en: "Hello everyone. Today is Friday 15 February. Here is the news. First, national affairs."
+    sx: {hanzi: "大家好，今晡日係二月十五號，禮拜五。這下報新聞。先報國家个大事。", pinyin: "tai gaˊ hoˋ, gimˊ buˊ ngidˋ he ngi ngied siib ngˋ ho, liˊ bai ngˋ. iaˋ ha bo xinˊ vunˇ. xienˊ bo guedˋ gaˊ ge tai sii."}
+    check: true
+  - n: 2
+    en: "The new minister of education took up his post yesterday."
+    sx: {hanzi: "新个教育部長昨晡日上任。", pinyin: "xinˊ ge gau iugˋ pu zongˋ coˊ buˊ ngidˋ songˊ im."}
+    check: true
+  - n: 3
+    en: "His father was once a minister, and retired many years ago."
+    source: kaga
+    sx: {hanzi: "厥爸頭擺做過部長，退休異多年吔。", pinyin: "giaˊ baˊ teuˇ baiˋ zo go pu zongˋ, tui hiuˊ i doˊ ngienˇ leˊ."}
+  - n: 4
+    en: "The minister said that those who teach must have morals, and that this education plan is above party lines: it is national policy."
+    sx: {hanzi: "部長講，教書个人愛有道德；這擺个教育方案無分黨派，係國家政策。", pinyin: "pu zongˋ gongˋ, gauˊ suˊ ge nginˇ oi iuˊ to dedˋ; iaˋ baiˋ ge gau iugˋ fongˊ on moˇ bunˊ dongˋ pai, he guedˋ gaˊ ziin cedˋ."}
+    check: true
+  - n: 5
+    en: "The plan is good as far as it goes, but it needs a little more thought."
+    source: kaga115
+    sx: {hanzi: "這方案好斯好，毋過還愛考慮一下添。", pinyin: "iaˋ fongˊ on hoˋ siiˇ hoˋ, mˇ go hanˇ oi kauˋ li idˋ ha tiamˊ."}
+  - n: 6
+    en: "The minister also said:"
+    sx: {hanzi: "部長還講：", pinyin: "pu zongˋ hanˇ gongˋ:"}
+    check: true
+  - n: 7
+    en: "In a democracy, the people are the masters."
+    source: kaga
+    sx: {hanzi: "民主國家，人民係主人。", pinyin: "minˇ zuˋ guedˋ gaˊ, nginˇ minˇ he zuˋ nginˇ."}
+  - n: 8
+    en: "Those who live on the public purse must serve the people and do their work well."
+    source: kaga
+    sx: {hanzi: "食公家飯个人，愛為人民服務，好好做事。", pinyin: "siid gungˊ gaˊ fan ge nginˇ, oi vi nginˇ minˇ fug vu, hoˋ hoˋ zo se."}
+  - n: 9
+    en: "Those in power must keep the common people in their hearts."
+    source: kaga115
+    sx: {hanzi: "執政个人，定著愛同百姓囥在心肝肚。", pinyin: "ziibˋ ziin ge nginˇ, tin cog oi tungˇ bagˋ xiang kong coiˊ ximˊ gonˊ duˋ."}
+  - n: 10
+    en: "The foreign minister is abroad this week. Taxes are due in May, and the government department asks everyone to remember:"
+    sx: {hanzi: "外交部長這禮拜出國。五月愛納稅，政府个部門請大家記得：", pinyin: "ngoi gauˊ pu zongˋ iaˋ liˊ bai cudˋ guedˋ. ngˋ ngied oi nab soi, ziin fuˋ ge pu munˇ qiangˋ tai gaˊ gi dedˋ:"}
+    check: true
+  - n: 11
+    en: "Citizens have a duty to pay taxes."
+    source: kaga
+    sx: {hanzi: "國民有納稅个義務。", pinyin: "guedˋ minˇ iuˊ nab soi ge ngi vu."}
+  - n: 12
+    en: "The plan for old people to travel free starts next month."
+    sx: {hanzi: "老人家坐車毋使錢个方案，下隻月開始。", pinyin: "loˋ nginˇ gaˊ coˊ caˊ mˇ siiˋ qienˇ ge fongˊ on, ha zagˋ ngied koiˊ ciiˋ."}
+    check: true
+  - n: 13
+    en: "Social welfare is very well provided."
+    source: kaga115
+    sx: {hanzi: "社會福利做到當好。", pinyin: "sa fi fugˋ li zo do dongˊ hoˋ."}
+  - n: 14
+    en: "Next month the army, the navy and the air force hold exercises, and it will be noisier near the air base. An officer said that national defence must be strengthened."
+    sx: {hanzi: "下隻月陸軍、海軍同空軍愛演習，空軍基地脣會較吵。一個軍官講，國防愛加強。", pinyin: "ha zagˋ ngied liug giunˊ, hoiˋ giunˊ tungˇ kungˊ giunˊ oi ienˊ xib, kungˊ giunˊ giˊ ti sunˇ voi ka cauˇ. idˋ ge giunˊ gonˊ gongˋ, guedˋ fongˇ oi gaˊ kiongˇ."}
+    check: true
+  - n: 15
+    en: "Soldiers have a duty to protect the security of the country."
+    source: kaga
+    sx: {hanzi: "軍人有保護國家安全个義務。", pinyin: "giunˊ nginˇ iuˊ boˋ fu guedˋ gaˊ onˊ qionˇ ge ngi vu."}
+  - n: 16
+    en: "Taiwan's army is very well trained."
+    source: kaga
+    sx: {hanzi: "臺灣个陸軍訓練當好。", pinyin: "toiˇ vanˇ ge liug giunˊ hiun lien dongˊ hoˋ."}
+  - n: 17
+    en: "But an old soldier said:"
+    sx: {hanzi: "毋過一位老軍人講：", pinyin: "mˇ go idˋ vi loˋ giunˊ nginˇ gongˋ:"}
+    check: true
+  - n: 18
+    en: "When two countries go to war, it is the common people who suffer: even the winner loses."
+    source: kaga
+    sx: {hanzi: "兩國相㓾，衰過个係百姓，打贏乜係輸。", pinyin: "liongˋ guedˋ xiongˊ ciiˇ, coiˊ go ge he bagˋ xiang, daˋ iangˇ me he suˊ."}
+  - n: 19
+    en: "Now the news from Gongguan. The old theatre in the street is to be pulled down."
+    sx: {hanzi: "這下報公館个新聞。街項个舊戲院愛拆忒。", pinyin: "iaˋ ha bo gungˊ gonˋ ge xinˊ vunˇ. gieˊ hong ge kiu hi ien oi cagˋ tedˋ."}
+    check: true
+  - n: 20
+    en: "Pulling down this old building will take explosives."
+    source: kaga115
+    sx: {hanzi: "這間舊屋拆忒愛用炸藥。", pinyin: "iaˋ gienˊ kiu vugˋ cagˋ tedˋ oi iung za iog."}
+  - n: 21
+    en: "The Gongguan farm covers a large area, and is open to visitors this week."
+    sx: {hanzi: "公館个農場面積當大，這禮拜開放參觀。", pinyin: "gungˊ gonˋ ge nungˇ congˇ mien jidˋ dongˊ tai, iaˋ liˊ bai koiˊ fong camˊ gonˊ."}
+    check: true
+  - n: 22
+    en: "The farm keeps cattle."
+    source: kaga115
+    sx: {hanzi: "農場有畜牛仔。", pinyin: "nungˇ congˇ iuˊ hiugˋ ngiuˇ eˋ."}
+  - n: 23
+    en: "These last few days the weather has been clearly warmer, but the farmers say:"
+    sx: {hanzi: "這幾日天時明顯較燒暖，毋過耕田人講：", pinyin: "iaˋ giˋ ngidˋ tienˊ siiˇ minˇ hienˋ ka seuˊ nonˊ, mˇ go gangˊ tienˇ nginˇ gongˋ:"}
+    check: true
+  - n: 24
+    en: "The grain is not yet full."
+    source: kaga115
+    sx: {hanzi: "這穀還吂飽滿。", pinyin: "iaˋ gugˋ hanˇ mangˇ bauˋ manˊ."}
+  - n: 25
+    en: "The county government wants to develop industry. A child's birth has to be registered: let everyone remember."
+    sx: {hanzi: "縣政府愛發展工業。細人仔出世愛報戶口，逐儕愛記得。", pinyin: "ien ziin fuˋ oi fadˋ zanˋ gungˊ ngiab. se nginˇ eˋ cudˋ se oi bo fu kieuˋ, dagˋ saˇ oi gi dedˋ."}
+    check: true
+  - n: 26
+    en: "Washing your hands often with soap is what kills the virus."
+    source: kaga115
+    sx: {hanzi: "多用茶箍洗手正會消滅病毒。", pinyin: "doˊ iung caˇ guˊ seˋ suˋ zang voi seuˊ mied piang tug."}
+  - n: 27
+    en: "The county sports meeting will be held in March. Yesterday's basketball:"
+    sx: {hanzi: "縣个運動大會三月愛辦。昨晡日个籃球：", pinyin: "ien ge iun tung tai fi samˊ ngied oi pan. coˊ buˊ ngidˋ ge lamˇ kiuˇ:"}
+    check: true
+  - n: 28
+    en: "The match ended level."
+    source: kaga115
+    sx: {hanzi: "這場比賽無輸無贏。", pinyin: "iaˋ congˇ biˋ soi moˇ suˊ moˇ iangˇ."}
+  - n: 29
+    en: "A well-known singer and an actor have got married."
+    sx: {hanzi: "一個有名个歌星同一個做戲个結婚吔。", pinyin: "idˋ ge iuˊ miangˇ ge goˊ senˊ tungˇ idˋ ge zo hi ge giedˋ funˊ leˊ."}
+    check: true
+  - n: 30
+    en: "The two of them were in love for many years before marrying."
+    source: kaga115
+    sx: {hanzi: "佢兩儕戀愛當多年正結婚。", pinyin: "giˇ liongˋ saˇ lien oi dongˊ doˊ ngienˇ zang giedˋ funˊ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 7, an official sentence: 人民 nginˇ minˇ "the people". Nothing in this bulletin is real news.
+  - ref: 2
+    topic: vocab
+    text: >
+      部長 pu zongˋ "minister": 教育部長 "minister of education", 外交部長 "foreign minister" (line 10). 上任 is "take up a
+      post".
+  - ref: 4
+    topic: vocab
+    text: >
+      道德 to dedˋ "morals" (做人做事愛有道德). 方案 fongˊ on "plan, scheme". 黨派 dongˋ pai "party, faction": 無分黨派 "regardless of
+      party". 政策 ziin cedˋ "policy" (國家政策).
+  - ref: 9
+    topic: vocab
+    text: >
+      執政 ziibˋ ziin "be in power, govern". 百姓 is "the common people".
+  - ref: 10
+    topic: vocab
+    text: >
+      外交 ngoi gauˊ "foreign affairs". 部門 pu munˇ "department" (佢在這個部門做經理). 國民 guedˋ minˇ in line 11 is "citizen"; 納稅
+      is from 進修 54.
+  - ref: 13
+    topic: vocab
+    text: >
+      福利 fugˋ li "welfare".
+  - ref: 14
+    topic: vocab
+    text: >
+      陸軍 liug giunˊ "army", 海軍 hoiˋ giunˊ "navy", 空軍 kungˊ giunˊ "air force". 演習 ienˊ xib "exercise, manoeuvres". 基地
+      giˊ ti "base". 軍官 giunˊ gonˊ "officer". 國防 guedˋ fongˇ "national defence". 加強 gaˊ kiongˇ "strengthen"
+      (數學毋好斯愛加強練習！).
+  - ref: 15
+    topic: vocab
+    text: >
+      軍人 giunˊ nginˇ "soldier, serviceman" (軍人重視服從 "soldiers set store by obedience").
+  - ref: 18
+    topic: vocab
+    text: >
+      相㓾 xiongˊ ciiˇ "kill each other", of countries "be at war": 㓾 is "slaughter".
+  - ref: 20
+    topic: vocab
+    text: >
+      炸藥 za iog "explosives".
+  - ref: 21
+    topic: vocab
+    text: >
+      農場 nungˇ congˇ "farm". 面積 mien jidˋ "area".
+  - ref: 23
+    topic: vocab
+    text: >
+      明顯 minˇ hienˋ "clear, obvious". 飽滿 bauˋ manˊ in line 24 is "full, plump", of grain.
+  - ref: 25
+    topic: vocab
+    text: >
+      工業 gungˊ ngiab "industry". 戶口 fu kieuˋ "household registration": 報戶口 "register (a birth)".
+  - ref: 26
+    topic: vocab
+    text: >
+      消滅 seuˊ mied "wipe out, destroy". 茶箍 is "soap"; 毒 in 病毒 "virus" is read tug (進修 64).
+  - ref: 27
+    topic: vocab
+    text: >
+      大會 tai fi "large meeting": 運動大會 "sports meeting". 無輸無贏 moˇ suˊ moˇ iangˇ in line 28 is "level, a draw".
+  - ref: 29
+    topic: vocab
+    text: >
+      歌星 goˊ senˊ "singer, pop star" (這歌星頭擺當有名). 做戲个 zo hi ge "actor": 做戲 is from 進修 44. 戀愛 lien oi in line 30 is
+      "be in love".
+
+new_words:
+  - {hanzi: "部長", pinyin: "pu zongˋ", en: "minister (of government)"}
+  - {hanzi: "方案", pinyin: "fongˊ on", en: "plan, scheme"}
+  - {hanzi: "黨派", pinyin: "dongˋ pai", en: "party, faction"}
+  - {hanzi: "政策", pinyin: "ziin cedˋ", en: "policy"}
+  - {hanzi: "人民", pinyin: "nginˇ minˇ", en: "the people"}
+  - {hanzi: "執政", pinyin: "ziibˋ ziin", en: "be in power"}
+  - {hanzi: "外交", pinyin: "ngoi gauˊ", en: "foreign affairs, diplomacy"}
+  - {hanzi: "部門", pinyin: "pu munˇ", en: "department"}
+  - {hanzi: "國民", pinyin: "guedˋ minˇ", en: "citizen, national"}
+  - {hanzi: "福利", pinyin: "fugˋ li", en: "welfare"}
+  - {hanzi: "陸軍", pinyin: "liug giunˊ", en: "army"}
+  - {hanzi: "海軍", pinyin: "hoiˋ giunˊ", en: "navy"}
+  - {hanzi: "空軍", pinyin: "kungˊ giunˊ", en: "air force"}
+  - {hanzi: "演習", pinyin: "ienˊ xib", en: "(military) exercise"}
+  - {hanzi: "基地", pinyin: "giˊ ti", en: "base"}
+  - {hanzi: "軍官", pinyin: "giunˊ gonˊ", en: "officer"}
+  - {hanzi: "國防", pinyin: "guedˋ fongˇ", en: "national defence"}
+  - {hanzi: "加強", pinyin: "gaˊ kiongˇ", en: "strengthen"}
+  - {hanzi: "軍人", pinyin: "giunˊ nginˇ", en: "soldier"}
+  - {hanzi: "相㓾", pinyin: "xiongˊ ciiˇ", en: "fight and kill each other, be at war"}
+  - {hanzi: "炸藥", pinyin: "za iog", en: "explosives"}
+  - {hanzi: "農場", pinyin: "nungˇ congˇ", en: "farm"}
+  - {hanzi: "面積", pinyin: "mien jidˋ", en: "area"}
+  - {hanzi: "明顯", pinyin: "minˇ hienˋ", en: "clear, obvious"}
+  - {hanzi: "飽滿", pinyin: "bauˋ manˊ", en: "full, plump"}
+  - {hanzi: "工業", pinyin: "gungˊ ngiab", en: "industry"}
+  - {hanzi: "戶口", pinyin: "fu kieuˋ", en: "household registration"}
+  - {hanzi: "消滅", pinyin: "seuˊ mied", en: "wipe out, destroy"}
+  - {hanzi: "大會", pinyin: "tai fi", en: "(large) meeting, rally"}
+  - {hanzi: "無輸無贏", pinyin: "moˇ suˊ moˇ iangˇ", en: "level, a draw"}
+  - {hanzi: "歌星", pinyin: "goˊ senˊ", en: "singer, pop star"}
+  - {hanzi: "做戲个", pinyin: "zo hi ge", en: "actor"}
+  - {hanzi: "戀愛", pinyin: "lien oi", en: "be in love"}
+  - {hanzi: "道德", pinyin: "to dedˋ", en: "morals, morality"}
+
+exercises:
+  translate:
+    - en: "The minister of education."
+      source: kaga115
+      sx: {hanzi: "教育部長。", pinyin: "gau iugˋ pu zongˋ."}
+    - en: "The people are the masters of the country."
+      source: kaga115
+      sx: {hanzi: "人民係國家个主人。", pinyin: "nginˇ minˇ he guedˋ gaˊ ge zuˋ nginˇ."}
+    - en: "This singer used to be very famous."
+      source: kaga115
+      sx: {hanzi: "這歌星頭擺當有名。", pinyin: "iaˋ goˊ senˊ teuˇ baiˋ dongˊ iuˊ miangˇ."}
+    - en: "He is a manager in this department."
+      source: kaga115
+      sx: {hanzi: "佢在這個部門做經理。", pinyin: "giˇ coiˊ iaˋ ge pu munˇ zo ginˊ liˊ."}
+    - en: "Soldiers all have to learn to shoot."
+      source: kaga
+      sx: {hanzi: "軍人都愛學打銃仔。", pinyin: "giunˊ nginˇ du oi hog daˋ cung eˋ."}
+  fill:
+    - en: "When he was called up he drew the army."
+      sx: {hanzi: "做兵抽著___。", pinyin: "zo binˊ cuˊ doˋ ___.", answer_hanzi: "陸軍", answer: "liug giunˊ"}
+    - en: "An air base."
+      sx: {hanzi: "___基地。", pinyin: "___ giˊ ti.", answer_hanzi: "空軍", answer: "kungˊ giunˊ"}
+    - en: "If your maths is poor, you must practise harder!"
+      sx: {hanzi: "數學毋好斯愛___練習！", pinyin: "su hog mˇ hoˋ siiˇ oi ___ lien xib!", answer_hanzi: "加強", answer: "gaˊ kiongˇ"}
+    - en: "In life and in work one must have morals."
+      sx: {hanzi: "做人做事愛有___。", pinyin: "zo nginˇ zo se oi iuˊ ___.", answer_hanzi: "道德", answer: "to dedˋ"}
+    - en: "My aunt teaches at a primary school."
+      sx: {hanzi: "舅姆在___小學教書。", pinyin: "kiuˊ meˊ coiˊ ___ seuˋ hog gauˊ suˊ.", answer_hanzi: "國民", answer: "guedˋ minˇ"}
+
+audio: []
