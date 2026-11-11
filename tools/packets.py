@@ -123,7 +123,7 @@ def make_plan(force=False):
         sys.exit(f"{os.path.relpath(PLAN, ROOT)} exists; use --force to redo it (lessons already written keep their words)")
     con, st = sqlite3.connect(DB), State()
     lessons = todo_lessons(st)
-    words = [w for w in untaught(con, st) if (w["hanzi"], w["pinyin"]) not in read_skip()]
+    words = [w for w in untaught(con, st) if (w["hanzi"], "".join(w["pinyin"].split())) not in read_skip()]
     must = [w for w in words if w["level"] != "中高級"]
     extra = sorted((w for w in words if w["level"] == "中高級"), key=rank)
     room = len(lessons) * SIZE - len(must)
@@ -168,7 +168,7 @@ def read_skip():
     """Words the plan leaves out for good: course/packets/skip.tsv (hanzi, pinyin, reason)."""
     if not os.path.exists(SKIP):
         return set()
-    return {(r[0], r[1]) for r in csv.reader(open(SKIP, encoding="utf-8"), delimiter="\t") if len(r) > 1 and not r[0].startswith("#")}
+    return {(r[0], "".join(r[1].split())) for r in csv.reader(open(SKIP, encoding="utf-8"), delimiter="\t") if len(r) > 1 and not r[0].startswith("#")}
 
 
 def read_plan():
@@ -252,6 +252,8 @@ def make_packet(n):
     cats = {w["category"] for w in mine}
     left = [info[(r["hanzi"], r["pinyin"])] for r in plan
             if int(r["lesson"]) < n and int(r["lesson"]) in st.written and (r["hanzi"], r["pinyin"]) in info]
+    later = {(r["hanzi"], r["pinyin"]) for r in plan if int(r["lesson"]) not in st.written}
+    left = [w for w in left if (w["hanzi"], w["pinyin"]) not in later and (w["hanzi"], "".join(w["pinyin"].split())) not in read_skip()]   # replanned or dropped words
     left.sort(key=lambda w: (w["category"] not in cats,) + rank(w))
     rd = Reader(con, st, [w["hanzi"] for w in mine + left])
     clips = {e for (e,) in con.execute("SELECT entry_id FROM audio_clip WHERE accent = 'sixian' AND kind = 'ex'")}
