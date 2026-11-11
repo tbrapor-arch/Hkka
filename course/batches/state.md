@@ -97,3 +97,5 @@ style of 採茶戲, not a sung one.
   first birthday, wedding (阿傑's, July), funerals, religion, games. The exam is "two weeks" away (about 10–11 Nov).
 - P60, Sat 10 Nov (document): Sam sits the 中級 test. The lesson is the reading part as he remembers it, fourteen
   questions with his answers (the paper is invented). Result not known yet.
+- P61, Sat 17 Nov (story). Sam goes to Taipei with 阿傑 to see the stall: business is picking up. The new clerk
+  resigned after a month; the bag supplier's workers were on strike in October. They bring apples back for 阿舅.

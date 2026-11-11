@@ -1,0 +1,276 @@
+id: 61
+genre: story
+title:
+  en: "Look at anything in the shop you like"
+  sx: {hanzi: "店項个商品儘採看", pinyin: "diam hong ge songˊ pinˋ qinˋ caiˋ kon"}
+review: false
+setting: >-
+  Saturday 17 November 2029. The exam is over, and Sam goes to Taipei with 阿傑 to see the market stall where the
+  factory's 粄條 are sold. The stall, the shops and the election are invented.
+names: [Sam, 阿傑, 阿舅]
+
+dialogue:
+  - n: 1
+    en: "Saturday 17 November. The exam is over, and Sam goes with A-kied to Taipei to see the stall. The driver drives the factory van, loaded with rice noodles."
+    sx: {hanzi: "十一月十七號，禮拜六。考試過忒吔，Sam 跈阿傑去臺北看攤仔。司機駛工廠个車仔，載等粄條。", pinyin: "siib idˋ ngied siib qidˋ ho, liˊ bai liugˋ. kauˋ sii go tedˋ leˊ, Sam tenˇ aˊ kied hi toiˇ bedˋ kon tanˊ eˋ. siiˊ giˊ siiˋ gungˊ congˋ ge caˊ eˋ, zai denˋ banˋ tiauˇ."}
+    check: true
+  - n: 2
+    speaker: 阿傑
+    en: "At first I wanted to rent a shop; in the end I decided on a stall. At least it doesn't take so much money."
+    sx: {hanzi: "原在𠊎想租一間店仔，尾項正決定租攤仔，至少毋使恁多資金。", pinyin: "ngienˇ cai ngaiˇ xiongˋ zuˊ idˋ gienˊ diam eˋ, miˊ hong zang giedˋ tin zuˊ tanˊ eˋ, zii seuˋ mˇ siiˋ anˋ doˊ ziiˊ gimˊ."}
+    check: true
+  - n: 3
+    speaker: 阿傑
+    en: "The company's funds are borrowed."
+    source: kaga115
+    sx: {hanzi: "公司个資金係同人借个。", pinyin: "gungˊ siiˊ ge ziiˊ gimˊ he tungˇ nginˇ jia ge."}
+  - n: 4
+    en: "The stall is in the street, next to a shop selling imported apples."
+    sx: {hanzi: "攤仔在街項，隔壁係一間賣進口蘋果个店仔。", pinyin: "tanˊ eˋ coiˊ gieˊ hong, gagˋ biagˋ he idˋ gienˊ mai jin kieuˋ lin goˋ ge diam eˋ."}
+    check: true
+  - n: 5
+    speaker: 阿傑
+    en: "This shop does very good business."
+    source: kaga115
+    sx: {hanzi: "這店仔生理當好。", pinyin: "iaˋ diam eˋ senˊ liˊ dongˊ hoˋ."}
+  - n: 6
+    speaker: 阿傑
+    en: "Imported apples are very dear."
+    source: kaga
+    sx: {hanzi: "進口个蘋果當貴。", pinyin: "jin kieuˋ ge lin goˋ dongˊ gui."}
+  - n: 7
+    speaker: Sam
+    en: "And your business?"
+    sx: {hanzi: "你个生理呢？", pinyin: "nˇ ge senˊ liˊ neˇ?"}
+    check: true
+  - n: 8
+    speaker: 阿傑
+    en: "When we first came there was hardly anyone; it is better now. We just have to get on with it."
+    sx: {hanzi: "頭到來个時節無麼个人，這下有較好。𫣆兜煞煞仔做就著吔。", pinyin: "teuˇ do loiˇ ge siiˇ jiedˋ moˇ maˋ ge nginˇ, iaˋ ha iuˊ ka hoˋ. enˊ deuˊ sadˋ sadˋ eˇ zo qiu cog leˊ."}
+    check: true
+  - n: 9
+    en: "Customers arrive. A-kied says to them:"
+    sx: {hanzi: "人客來吔。阿傑同佢兜講：", pinyin: "nginˇ hagˋ loiˇ leˊ. aˊ kied tungˇ giˇ deuˊ gongˋ:"}
+    check: true
+  - n: 10
+    speaker: 阿傑
+    en: "Look at anything in the shop you like."
+    source: kaga115
+    sx: {hanzi: "店項个商品儘採看。", pinyin: "diam hong ge songˊ pinˋ qinˋ caiˋ kon."}
+  - n: 11
+    en: "An old lady buys three packets of noodles and gets her receipt. Sam asks her:"
+    sx: {hanzi: "一個阿婆買三包粄條，拿著發票。Sam 問佢：", pinyin: "idˋ ge aˊ poˇ maiˊ samˊ bauˊ banˋ tiauˇ, naˊ doˋ fadˋ peuˊ. Sam mun giˇ:"}
+    check: true
+  - n: 12
+    speaker: Sam
+    en: "Did your receipts win anything in this draw?"
+    source: kaga115
+    sx: {hanzi: "你這期發票有著獎無？", pinyin: "nˇ iaˋ kiˇ fadˋ peuˊ iuˊ cog jiongˋ moˇ?"}
+  - n: 13
+    en: "The old lady smiles and does not answer. A-kied says in a low voice:"
+    sx: {hanzi: "阿婆笑笑仔，無應話。阿傑細聲講：", pinyin: "aˊ poˇ seu seu eˋ, moˇ en fa. aˊ kied se sangˊ gongˋ:"}
+    check: true
+  - n: 14
+    speaker: 阿傑
+    en: "Her family is very rich: whatever they buy, they buy the best."
+    source: kaga115
+    sx: {hanzi: "厥屋下當發，麼个就買最好个。", pinyin: "giaˊ vugˋ kaˊ dongˊ bodˋ, maˋ ge qiu maiˊ zui hoˋ ge."}
+  - n: 15
+    speaker: Sam
+    en: "Why are there so many pictures in the street? Who is that?"
+    sx: {hanzi: "街項仰恁多相片？該位係麼人？", pinyin: "gieˊ hong ngiongˋ anˋ doˊ xiong pienˋ? ge vi he maˋ nginˇ?"}
+    check: true
+  - n: 16
+    speaker: 阿傑
+    en: "Nobody expected him to lose the election for mayor this time."
+    source: kaga115
+    sx: {hanzi: "無想著佢這擺選市長嗄落選。", pinyin: "moˇ xiongˋ doˋ giˇ iaˋ baiˋ xienˋ sii zongˋ sa log xienˋ."}
+  - n: 17
+    speaker: 阿傑
+    en: "Councillors are elected by everyone."
+    source: kaga
+    sx: {hanzi: "議員係大家選出來个。", pinyin: "ngi ienˇ he tai gaˊ xienˋ cudˋ loiˇ ge."}
+  - n: 18
+    speaker: 阿傑
+    en: "There is trouble at the factory too. The new clerk resigned after one month. And the company that sells us bags has a problem as well:"
+    sx: {hanzi: "工廠乜有事情。新來个職員做一個月就辭職吔。賣袋仔分𫣆兜个公司乜有問題：", pinyin: "gungˊ congˋ me iuˊ sii qinˇ. xinˊ loiˇ ge ziidˋ ienˇ zo idˋ ge ngied qiu ciiˇ ziidˋ leˊ. mai toi eˋ bunˊ enˊ deuˊ ge gungˊ siiˊ me iuˊ mun tiˇ:"}
+    check: true
+  - n: 19
+    speaker: 阿傑
+    en: "Last month that company's workers went on strike."
+    source: kaga115
+    sx: {hanzi: "上隻月該公司个工人罷工。", pinyin: "song zagˋ ngied ge gungˊ siiˊ ge gungˊ nginˇ pa gungˊ."}
+  - n: 20
+    en: "At noon the two of them walk along the street."
+    sx: {hanzi: "當晝，兩儕在街項行。", pinyin: "dongˊ zu, liongˋ saˇ coiˊ gieˊ hong hangˇ."}
+    check: true
+  - n: 21
+    speaker: 阿傑
+    en: "This hotel does very good business."
+    source: kaga
+    sx: {hanzi: "這間飯店个生理當好。", pinyin: "iaˋ gienˊ fan diam ge senˊ liˊ dongˊ hoˋ."}
+  - n: 22
+    speaker: 阿傑
+    en: "A new inn has opened at the corner: very grand."
+    source: kaga115
+    sx: {hanzi: "轉角新開一間旅館，異派頭。", pinyin: "zonˋ gogˋ xinˊ koiˊ idˋ gienˊ liˊ gonˋ, i pai teuˇ."}
+  - n: 23
+    speaker: Sam
+    en: "I want to post a letter, but I can't find a single envelope!"
+    source: kaga
+    sx: {hanzi: "𠊎愛寄信仔，毋過尋無半隻信袋仔！", pinyin: "ngaiˇ oi gi xin eˋ, mˇ go qimˇ moˇ ban zagˋ xin toi eˋ!"}
+  - n: 24
+    speaker: 阿傑
+    en: "They sell them over there. And while we're at it, let's buy some apples to take back for Uncle."
+    sx: {hanzi: "該片有賣。續手買兜仔蘋果轉去分阿舅。", pinyin: "ge pienˋ iuˊ mai. sa suˋ maiˊ deuˊ eˋ lin goˋ zonˋ hi bunˊ aˊ kiuˊ."}
+    check: true
+  - n: 25
+    speaker: 阿傑
+    en: "The weather is turning cool: morning and evening you need an extra layer."
+    source: kaga115
+    sx: {hanzi: "天時轉涼，早暗愛著加一領衫。", pinyin: "tienˊ siiˇ zonˋ liongˇ, zoˋ am oi zogˋ gaˊ idˋ liangˊ samˊ."}
+  - n: 26
+    en: "In the afternoon they drive back, Sam sitting at A-kied's side."
+    sx: {hanzi: "下晝轉去，Sam 坐在阿傑側膁。", pinyin: "haˊ zu zonˋ hi, Sam coˊ coiˊ aˊ kied zedˋ iamˋ."}
+    check: true
+  - n: 27
+    en: "There is a festival in the street, and the van cannot squeeze its way out."
+    source: kaga
+    sx: {hanzi: "街項做鬧熱，車仔尖毋得出。", pinyin: "gieˊ hong zo nau ngied, caˊ eˋ jiamˊ mˇ dedˋ cudˋ."}
+  - n: 28
+    speaker: Sam
+    en: "I saw with my own eyes the customers queuing for the noodles: business isn't bad."
+    sx: {hanzi: "𠊎親眼看著人客排列買粄條，生理毋會㜮。", pinyin: "ngaiˇ qinˊ ngienˋ kon doˋ nginˇ hagˋ baiˇ lied maiˊ banˋ tiauˇ, senˊ liˊ mˇ voi lamˊ."}
+    check: true
+  - n: 29
+    speaker: 阿傑
+    en: "In the past I wouldn't have dared think of doing business in Taipei. Now I know: if you do something, you have a chance."
+    sx: {hanzi: "往擺𠊎毋敢想來臺北做生理。這下𠊎知，有做就有機會。", pinyin: "vongˊ baiˋ ngaiˇ mˇ gamˋ xiongˋ loiˇ toiˇ bedˋ zo senˊ liˊ. iaˋ ha ngaiˇ diˊ, iuˊ zo qiu iuˊ giˊ fi."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 10, an official sentence: 商品 songˊ pinˋ "goods". 阿傑's plan for a stall in Taipei is from 進修
+      54.
+  - ref: 1
+    topic: vocab
+    text: >
+      司機 siiˊ giˊ "driver".
+  - ref: 2
+    topic: vocab
+    text: >
+      原在 ngienˇ cai "originally, at first" (佢原在戴這，背尾正徙去別位). 店仔 diam eˋ "shop". 尾項 miˊ hong "in the end"; of place,
+      "at the back". 至少 zii seuˋ "at least". 資金 ziiˊ gimˊ "funds".
+  - ref: 4
+    topic: vocab
+    text: >
+      街項 gieˊ hong "in the street" (今晡日𠊎在街項堵著佢). 進口 jin kieuˋ "import".
+  - ref: 8
+    topic: vocab
+    text: >
+      頭到 teuˇ do "the first time" (頭到食著這品菜); it can also mean "just now". 煞煞仔 sadˋ sadˋ eˇ "promptly, with a will".
+  - ref: 12
+    topic: vocab
+    text: >
+      期 kiˇ "period, issue": 這期發票 "the receipts of this draw". In Taiwan every shop receipt carries a lottery
+      number, drawn every two months (general knowledge). 著獎 cog jiongˋ "win a prize".
+  - ref: 14
+    topic: vocab
+    text: >
+      發 read bodˋ is "rich, prosperous"; in 發燒, 發票, 出發 it is fadˋ.
+  - ref: 16
+    topic: vocab
+    text: >
+      市長 sii zongˋ "mayor". 落選 is "lose an election". 議員 ngi ienˇ in line 17 is "councillor, member of an assembly".
+  - ref: 18
+    topic: vocab
+    text: >
+      辭職 ciiˇ ziidˋ "resign". The new clerk was announced in 進修 54. 罷工 pa gungˊ in line 19 is "go on strike".
+  - ref: 21
+    topic: vocab
+    text: >
+      飯店 fan diam "hotel; restaurant". 旅館 liˊ gonˋ in line 22 is "inn, small hotel"; 派頭 is "grand, showy".
+  - ref: 23
+    topic: vocab
+    text: >
+      信袋仔 xin toi eˋ "envelope".
+  - ref: 24
+    topic: vocab
+    text: >
+      續手 sa suˋ "while one is at it".
+  - ref: 25
+    topic: vocab
+    text: >
+      早暗 zoˋ am "morning and evening". 著 "put on" is read zogˋ.
+  - ref: 26
+    topic: vocab
+    text: >
+      側膁 zedˋ iamˋ "the side of the body", and so "beside" (你坐吾側膁，𠊎教你數學).
+  - ref: 28
+    topic: vocab
+    text: >
+      親眼 qinˊ ngienˋ "with one's own eyes". 毋會㜮 is "not bad" (進修 47).
+  - ref: 29
+    topic: vocab
+    text: >
+      往擺 vongˊ baiˋ "in the past" (往擺無人敢恁樣講).
+
+new_words:
+  - {hanzi: "司機", pinyin: "siiˊ giˊ", en: "driver"}
+  - {hanzi: "原在", pinyin: "ngienˇ cai", en: "originally, at first"}
+  - {hanzi: "店仔", pinyin: "diam eˋ", en: "shop"}
+  - {hanzi: "尾項", pinyin: "miˊ hong", en: "in the end; at the back"}
+  - {hanzi: "至少", pinyin: "zii seuˋ", en: "at least"}
+  - {hanzi: "資金", pinyin: "ziiˊ gimˊ", en: "funds, capital"}
+  - {hanzi: "街項", pinyin: "gieˊ hong", en: "in the street"}
+  - {hanzi: "進口", pinyin: "jin kieuˋ", en: "import"}
+  - {hanzi: "頭到", pinyin: "teuˇ do", en: "the first time; just now"}
+  - {hanzi: "煞煞仔", pinyin: "sadˋ sadˋ eˇ", en: "promptly, with a will"}
+  - {hanzi: "商品", pinyin: "songˊ pinˋ", en: "goods"}
+  - {hanzi: "著獎", pinyin: "cog jiongˋ", en: "win a prize"}
+  - {hanzi: "發", pinyin: "bodˋ", en: "rich"}
+  - {hanzi: "市長", pinyin: "sii zongˋ", en: "mayor"}
+  - {hanzi: "議員", pinyin: "ngi ienˇ", en: "councillor, member of an assembly"}
+  - {hanzi: "辭職", pinyin: "ciiˇ ziidˋ", en: "resign"}
+  - {hanzi: "罷工", pinyin: "pa gungˊ", en: "go on strike"}
+  - {hanzi: "飯店", pinyin: "fan diam", en: "hotel; restaurant"}
+  - {hanzi: "旅館", pinyin: "liˊ gonˋ", en: "inn, small hotel"}
+  - {hanzi: "信袋仔", pinyin: "xin toi eˋ", en: "envelope"}
+  - {hanzi: "續手", pinyin: "sa suˋ", en: "while one is at it"}
+  - {hanzi: "早暗", pinyin: "zoˋ am", en: "morning and evening"}
+  - {hanzi: "側膁", pinyin: "zedˋ iamˋ", en: "side (of the body); beside"}
+  - {hanzi: "親眼", pinyin: "qinˊ ngienˋ", en: "with one's own eyes"}
+  - {hanzi: "往擺", pinyin: "vongˊ baiˋ", en: "in the past"}
+  - {hanzi: "期", pinyin: "kiˇ", en: "period, issue, term"}
+
+exercises:
+  translate:
+    - en: "Buy an envelope."
+      source: kaga115
+      sx: {hanzi: "買一隻信袋仔。", pinyin: "maiˊ idˋ zagˋ xin toi eˋ."}
+    - en: "In the past nobody dared say such a thing."
+      sx: {hanzi: "往擺無人敢恁樣講。", pinyin: "vongˊ baiˋ moˇ nginˇ gamˋ anˋ ngiongˇ gongˋ."}
+    - en: "I ran into him in the street today."
+      source: kaga115
+      sx: {hanzi: "今晡日𠊎在街項堵著佢。", pinyin: "gimˊ buˊ ngidˋ ngaiˇ coiˊ gieˊ hong duˇ doˋ giˇ."}
+    - en: "After the New Year he resigned."
+      source: kaga115
+      sx: {hanzi: "年過忒佢就辭職哩。", pinyin: "ngienˇ go tedˋ giˇ qiu ciiˇ ziidˋ leˊ."}
+    - en: "He asked the driver to take him to the hotel."
+      source: kaga115
+      sx: {hanzi: "佢請司機駛車仔載佢去飯店。", pinyin: "giˇ qiangˋ siiˊ giˊ siiˋ caˊ eˋ zai giˇ hi fan diam."}
+  fill:
+    - en: "Sit beside me and I'll teach you maths."
+      sx: {hanzi: "你坐吾___，𠊎教你數學。", pinyin: "nˇ coˊ ngaˊ ___, ngaiˇ gauˊ nˇ su hog.", answer_hanzi: "側膁", answer: "zedˋ iamˋ"}
+    - en: "These sweets are imported: they are dear."
+      sx: {hanzi: "這糖仔係___个，當貴食。", pinyin: "iaˋ tongˇ eˋ he ___ ge, dongˊ gui siid.", answer_hanzi: "進口", answer: "jin kieuˋ"}
+    - en: "It is the first time I have eaten this dish."
+      sx: {hanzi: "___食著這品菜。", pinyin: "___ siid doˋ iaˋ pinˋ coi.", answer_hanzi: "頭到", answer: "teuˇ do"}
+    - en: "At least he is still very well-behaved."
+      sx: {hanzi: "___佢還異乖。", pinyin: "___ giˇ hanˇ i guaiˊ.", answer_hanzi: "至少", answer: "zii seuˋ"}
+    - en: "He is very lucky: he wins something in every draw."
+      sx: {hanzi: "佢運氣當好，擺擺就抽___。", pinyin: "giˇ iun hi dongˊ hoˋ, baiˋ baiˋ qiu cuˊ ___.", answer_hanzi: "著獎", answer: "cog jiongˋ"}
+
+audio: []

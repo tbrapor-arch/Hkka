@@ -16,7 +16,7 @@ rules:
     key: giug2
     msg: "逐 'every' is dagˋ; giugˋ is 'chase' (batches 4–5)"
   - id: zai-at
-    hanzi: "(?<![現實存好所自])在(?!該)"
+    hanzi: "(?<![現實存好所自原])在(?!該)"
     key: cai55
     msg: "在 'be at' is coiˊ in speech; cai is the literary reading (在該 + verb: du ge)"
   - id: he-match
