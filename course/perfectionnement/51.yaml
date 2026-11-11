@@ -1,0 +1,315 @@
+id: 51
+genre: dialogue
+title:
+  en: "The new in-laws sit at the matchmaker's table"
+  sx: {hanzi: "新親戚同媒人共桌坐", pinyin: "xinˊ qinˊ qidˋ tungˇ moiˇ nginˇ kiung zogˋ coˊ"}
+review: false
+setting: >-
+  Saturday 21 July 2029, 竹東. 阿傑's wedding banquet. The Liu family and Sam are at one table, and 阿舅 comes over to
+  greet them. The talk is about the other guests. The wedding date and the guests are invented.
+names: [Sam, 阿公, 阿婆, 阿舅, 叔婆, 阿傑, 阿英, 阿明, 日本]
+
+dialogue:
+  - n: 1
+    speaker: 阿舅
+    en: "A-kied is getting married today, and the whole family has come, big and small. Sam, you've come to join the fun too!"
+    sx: {hanzi: "今晡日阿傑結婚，屋下大大細細都來吔。Sam，你乜來鬥鬧熱！", pinyin: "gimˊ buˊ ngidˋ aˊ kied giedˋ funˊ, vugˋ kaˊ tai tai se se du loiˇ leˊ. Sam, nˇ me loiˇ deu nau ngied!"}
+    check: true
+  - n: 2
+    speaker: 阿公
+    en: "The number of tables this time must be over a hundred."
+    source: kaga115
+    sx: {hanzi: "這擺个桌數應該會超過一百桌。", pinyin: "iaˋ baiˋ ge zogˋ sii in goiˊ voi ceuˊ go idˋ bagˋ zogˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "The new in-laws sit at the same table as the matchmaker."
+    source: kaga115
+    sx: {hanzi: "新親戚同媒人共桌坐。", pinyin: "xinˊ qinˊ qidˋ tungˇ moiˇ nginˇ kiung zogˋ coˊ."}
+  - n: 4
+    speaker: Sam
+    en: "That old gentleman is showing off his new phone again. Who are the two ladies over there?"
+    sx: {hanzi: "該位阿伯又拿厥新手機仔出來展寶。該片兩個婦人家係麼人？", pinyin: "ge vi aˊ bagˋ iu naˊ giaˊ xinˊ suˋ giˊ eˋ cudˋ loiˇ dienˋ boˋ. ge pienˋ liongˋ ge fu nginˇ gaˊ he maˋ nginˇ?"}
+    check: true
+  - n: 5
+    speaker: 阿婆
+    en: "As it happens, these two sisters-in-law used to work together."
+    source: kaga115
+    sx: {hanzi: "恁堵好，這兩姊嫂較早該下係同事。", pinyin: "anˋ duˋ hoˋ, iaˋ liongˋ ziiˋ soˋ ka zoˋ ge ha he tungˇ sii."}
+  - n: 6
+    speaker: 阿公
+    en: "A-kied's father has a younger brother."
+    sx: {hanzi: "阿傑厥爸有一個老弟。", pinyin: "aˊ kied giaˊ baˊ iuˊ idˋ ge loˋ taiˊ."}
+    check: true
+  - n: 7
+    speaker: 阿公
+    en: "After the two brothers divided the family property, the elder lived at the upper end and the younger at the lower end."
+    source: kaga
+    sx: {hanzi: "佢兩兄弟分家後，大个歇上片，細个歇下片。", pinyin: "giˇ liongˋ hiungˊ ti bunˊ gaˊ heu, tai ge hed song pienˋ, se ge hed haˊ pienˋ."}
+  - n: 8
+    speaker: 阿公
+    en: "He is very easy-going: even with no rice left in the house he wouldn't think to worry."
+    source: kaga115
+    sx: {hanzi: "佢當樂線，屋下無米煮飯吔乜毋知好愁。", pinyin: "giˇ dongˊ log xien, vugˋ kaˊ moˇ miˋ zuˋ fan leˊ me mˇ diˊ hoˋ seuˇ."}
+  - n: 9
+    speaker: 阿婆
+    en: "Don't make things up so: you take something groundless and give it hands and feet."
+    source: kaga115
+    sx: {hanzi: "你莫恁會編，無影無跡講到有手有腳。", pinyin: "nˇ mog anˋ voi bienˊ, moˇ iangˋ moˇ jiagˋ gongˋ do iuˊ suˋ iuˊ giogˋ."}
+  - n: 10
+    speaker: 阿公
+    en: "I'm not making it up! A-kied's father and I always have plenty to say to each other. Don't be so fierce, or people will call you a shrew."
+    sx: {hanzi: "𠊎無編！𠊎同阿傑厥爸當有講。你莫恁惡，人會講你惡嫲。", pinyin: "ngaiˇ moˇ bienˊ! ngaiˇ tungˇ aˊ kied giaˊ baˊ dongˊ iuˊ gongˋ. nˇ mog anˋ ogˋ, nginˇ voi gongˋ nˇ ogˋ maˇ."}
+    check: true
+  - n: 11
+    speaker: 阿舅
+    en: "A-kied works hard, and the factory has given him a certificate of thanks. But someone is saying that after the wedding he'll move to Taipei and stop being manager."
+    sx: {hanzi: "阿傑做事認真，工廠送佢一張感謝狀。毋過有人講佢結婚過後愛搬去臺北，毋做經理吔。", pinyin: "aˊ kied zo se ngin ziinˊ, gungˊ congˋ sung giˇ idˋ zongˊ gamˋ qia cong. mˇ go iuˊ nginˇ gongˋ giˇ giedˋ funˊ go heu oi banˊ hi toiˇ bedˋ, mˇ zo ginˊ liˊ leˊ."}
+    check: true
+  - n: 12
+    speaker: 阿舅
+    en: "Who has been spreading tales? Do you know what ugly things outsiders are saying?"
+    source: kaga115
+    sx: {hanzi: "麼人亂傳話？外背人講到當難聽你知無？", pinyin: "maˋ nginˇ lon conˇ fa? ngoi boi nginˇ gongˋ do dongˊ nanˇ tangˊ nˇ diˊ moˇ?"}
+  - n: 13
+    speaker: 阿英
+    en: "He said it on purpose, for people to hear."
+    source: kaga115
+    sx: {hanzi: "佢挑事講分人聽个。", pinyin: "giˇ tiauˊ sii gongˋ bunˊ nginˇ tangˊ ge."}
+  - n: 14
+    speaker: 阿英
+    en: "Where's A-min? Look, he's sitting at the bride's table!"
+    sx: {hanzi: "阿明呢？你看，佢坐在新娘該桌！", pinyin: "aˊ minˇ neˇ? nˇ kon, giˇ coˊ coiˊ xinˊ ngiongˇ ge zogˋ!"}
+    check: true
+  - n: 15
+    speaker: 阿英
+    en: "The scrounger takes the seat of honour: thick-skinned and shameless."
+    source: kaga115
+    sx: {hanzi: "邋食坐大位，面皮皮仔毋知見笑。", pinyin: "lab siid coˊ tai vi, mien piˇ piˇ eˋ mˇ diˊ gien seu."}
+  - n: 16
+    speaker: 阿明
+    en: "Do you mean I'm not allowed to eat? I work at the factory, and I know A-kied well."
+    sx: {hanzi: "無成𠊎做毋得食？𠊎在工廠做事，同阿傑當熟。", pinyin: "moˇ sangˇ ngaiˇ zomˇ dedˋ siid? ngaiˇ coiˊ gungˊ congˋ zo se, tungˇ aˊ kied dongˊ sug."}
+    check: true
+  - n: 17
+    speaker: Sam
+    en: "This fish is still raw."
+    source: kaga115
+    sx: {hanzi: "這尾魚仔還係生个。", pinyin: "iaˋ miˊ ngˇ eˋ hanˇ he sangˊ ge."}
+  - n: 18
+    speaker: 阿婆
+    en: "The child at the next table keeps asking people for sweets."
+    sx: {hanzi: "隔壁桌該細人仔緊同人討糖仔。", pinyin: "gagˋ biagˋ zogˋ ge se nginˇ eˋ ginˋ tungˇ nginˇ toˋ tongˇ eˋ."}
+    check: true
+  - n: 19
+    speaker: 阿婆
+    en: "A child only greets you when it sees a sweet: how calculating!"
+    source: kaga115
+    sx: {hanzi: "細人仔看著糖仔正會喊人，還現實！", pinyin: "se nginˇ eˋ kon doˋ tongˇ eˋ zang voi ham nginˇ, hanˇ hien siid!"}
+  - n: 20
+    speaker: 阿婆
+    en: "Pestering people all day long, that's what he's good at!"
+    source: kaga115
+    sx: {hanzi: "歸日仔摝人盡會！", pinyin: "guiˊ ngidˋ eˇ lugˋ nginˇ qin voi!"}
+  - n: 21
+    speaker: 阿婆
+    en: "He is full of tricks."
+    source: kaga115
+    sx: {hanzi: "佢盡會作怪。", pinyin: "giˇ qin voi zogˋ guai."}
+  - n: 22
+    speaker: 阿英
+    en: "Just now I said hello to the bride's younger sister."
+    sx: {hanzi: "𠊎頭先同新娘个老妹打招呼。", pinyin: "ngaiˇ teuˇ xienˊ tungˇ xinˊ ngiongˇ ge loˋ moi daˋ zeuˊ fuˊ."}
+    check: true
+  - n: 23
+    speaker: 阿英
+    en: "You talk to her and she takes no notice at all: how odd."
+    source: kaga115
+    sx: {hanzi: "同佢講話全毋插人，恁奇怪。", pinyin: "tungˇ giˇ gongˋ fa qionˇ mˇ cabˋ nginˇ, anˋ kiˇ guai."}
+  - n: 24
+    speaker: Sam
+    en: "Talking of quarrels, we have them where I live too."
+    sx: {hanzi: "講著冤家，𠊎該位乜有。", pinyin: "gongˋ doˋ ienˊ gaˊ, ngaiˇ ge vi me iuˊ."}
+    check: true
+  - n: 25
+    speaker: Sam
+    en: "The couple up the lane have been quarrelling a lot lately, and everyone asked Auntie to go and talk them round."
+    source: kaga115
+    sx: {hanzi: "上屋个兩公婆恁久異會冤家，大家喊叔婆去話開佢兜。", pinyin: "song vugˋ ge liongˋ gungˊ poˇ anˋ giuˋ i voi ienˊ gaˊ, tai gaˊ ham sugˋ poˇ hi va koiˊ giˇ deuˊ."}
+  - n: 26
+    speaker: 阿公
+    en: "Those two are the same age, and they've grown just as tall as each other."
+    source: kaga115
+    sx: {hanzi: "該兩同年，生來平高平高。", pinyin: "ge liongˋ tungˇ ngienˇ, sangˊ loiˇ piangˇ goˊ piangˇ goˊ."}
+  - n: 27
+    speaker: 阿婆
+    en: "The bride is small and very sweet. A-kied and his wife are off to Japan tomorrow."
+    sx: {hanzi: "新娘生來矮細，當得人惜。阿傑兩公婆天光日愛去日本尞。", pinyin: "xinˊ ngiongˇ sangˊ loiˇ aiˋ se, dongˊ dedˋ nginˇ xiagˋ. aˊ kied liongˋ gungˊ poˇ tienˊ gongˊ ngidˋ oi hi ngidˋ bunˋ liau."}
+    check: true
+  - n: 28
+    speaker: 阿婆
+    en: "When you travel abroad you must mark your suitcase, so that you don't pick up the wrong one."
+    source: kaga115
+    sx: {hanzi: "出國旅行皮箱仔愛做號，正毋會拿毋著。", pinyin: "cudˋ guedˋ liˊ hangˇ piˇ xiongˊ eˋ oi zo ho, zang mˇ voi naˊ mˇ cog."}
+  - n: 29
+    speaker: 阿英
+    en: "A-min has signed his name on the red paper."
+    sx: {hanzi: "阿明在紅紙項簽名。", pinyin: "aˊ minˇ coiˊ fungˇ ziiˋ hong qiamˊ miangˇ."}
+    check: true
+  - n: 30
+    speaker: 阿英
+    en: "His writing is so ugly that nobody can read it!"
+    source: kaga115
+    sx: {hanzi: "厥字寫到恁媸，無人看得識！", pinyin: "giaˊ sii xiaˋ do anˋ zeˋ, moˇ nginˇ kon dedˋ siidˋ!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 3, an official sentence: 新親戚 xinˊ qinˊ qidˋ are the relatives a marriage has just brought.
+      阿傑 was engaged in October 2028 (進修 20).
+  - ref: 1
+    topic: vocab
+    text: >
+      大大細細 tai tai se se "everyone in the family, big and small" (尾牙該日，你愛帶屋下大大細細來分𠊎請哦！). 鬥鬧熱 deu nau ngied "join in
+      the fun": 鬥 is from 進修 50.
+  - ref: 2
+    topic: vocab
+    text: >
+      數 sii "number": 桌數 "the number of tables", like 歲數 "age".
+  - ref: 4
+    topic: vocab
+    text: >
+      展寶 dienˋ boˋ "show off what one has".
+  - ref: 5
+    topic: vocab
+    text: >
+      兩姊嫂 liongˋ ziiˋ soˋ: two women married to two brothers (罕得看著佢兩姊嫂共下出門).
+  - ref: 7
+    topic: vocab
+    text: >
+      分家 bunˊ gaˊ: the brothers divide the family property and each sets up his own household. 下片 "the lower end" is
+      read haˊ pienˋ, like 下背 haˊ boi.
+  - ref: 8
+    topic: vocab
+    text: >
+      樂線 log xien "easy-going, never worried".
+  - ref: 9
+    topic: vocab
+    text: >
+      編 bienˊ "make up (a story)": also "compile" (編教材 "compile teaching material"). 無影無跡 is from 進修 47.
+  - ref: 10
+    topic: vocab
+    text: >
+      有講 iuˊ gongˋ "have plenty to talk about". 惡嫲 ogˋ maˇ "a fierce woman, a shrew": the list has no example
+      sentence for it.
+  - ref: 11
+    topic: vocab
+    text: >
+      感謝狀 gamˋ qia cong "certificate of thanks". 傳話 conˇ fa in line 12: "pass on a message", here "spread talk".
+  - ref: 13
+    topic: vocab
+    text: >
+      挑事 tiauˊ sii "on purpose".
+  - ref: 15
+    topic: vocab
+    text: >
+      面皮皮仔 mien piˇ piˇ eˋ "thick-skinned"; 毋知見笑 mˇ diˊ gien seu "shameless". 邋食坐大位 was the title of 進修 23.
+  - ref: 16
+    topic: grammar
+    text: >
+      無成 moˇ sangˇ opens a question that expects "surely not": 這本書無成係佢寫个？ "can it be that he wrote this book?"
+  - ref: 17
+    topic: vocab
+    text: >
+      生个 sangˊ ge "raw", and of an animal "alive".
+  - ref: 19
+    topic: vocab
+    text: >
+      現實 hien siid "reality"; of a person, "calculating, looking to one's own interest".
+  - ref: 20
+    topic: vocab
+    text: >
+      摝人 lugˋ nginˇ "pester people". 作怪 zogˋ guai in line 21 is "play tricks, act up".
+  - ref: 23
+    topic: vocab
+    text: >
+      毋插人 mˇ cabˋ nginˇ "take no notice of people".
+  - ref: 25
+    topic: vocab
+    text: >
+      話 read va is "talk someone round": 話開佢兜 "talk them out of it". The noun 話 "speech" is fa. 上屋叔婆 is the old lady
+      of 進修 37 and 47.
+  - ref: 26
+    topic: vocab
+    text: >
+      同年 tungˇ ngienˇ "of the same age": 兩同年 "two people born in the same year".
+  - ref: 27
+    topic: vocab
+    text: >
+      矮細 aiˋ se "small, short" (背翕翕仔个人看起來較矮細).
+  - ref: 28
+    topic: vocab
+    text: >
+      做號 zo ho "put a mark on". 著 in 拿毋著 is cog "right": "pick up the wrong one".
+  - ref: 30
+    topic: vocab
+    text: >
+      看得 kon dedˋ "can be seen": 看得識 "can read it", 看得著 "can see it" (時鐘仔吊等，一入門就看得著).
+
+new_words:
+  - {hanzi: "大大細細", pinyin: "tai tai se se", en: "everyone in the family, big and small"}
+  - {hanzi: "鬥鬧熱", pinyin: "deu nau ngied", en: "join in the fun"}
+  - {hanzi: "數", pinyin: "sii", en: "number"}
+  - {hanzi: "新親戚", pinyin: "xinˊ qinˊ qidˋ", en: "new in-laws"}
+  - {hanzi: "展寶", pinyin: "dienˋ boˋ", en: "show off (one's treasures)"}
+  - {hanzi: "兩姊嫂", pinyin: "liongˋ ziiˋ soˋ", en: "two sisters-in-law (wives of brothers)"}
+  - {hanzi: "分家", pinyin: "bunˊ gaˊ", en: "divide the family property"}
+  - {hanzi: "樂線", pinyin: "log xien", en: "easy-going, unworried"}
+  - {hanzi: "編", pinyin: "bienˊ", en: "make up (a story); compile"}
+  - {hanzi: "有講", pinyin: "iuˊ gongˋ", en: "have plenty to talk about"}
+  - {hanzi: "惡嫲", pinyin: "ogˋ maˇ", en: "shrew, fierce woman"}
+  - {hanzi: "感謝狀", pinyin: "gamˋ qia cong", en: "certificate of thanks"}
+  - {hanzi: "傳話", pinyin: "conˇ fa", en: "pass on a message; spread talk"}
+  - {hanzi: "挑事", pinyin: "tiauˊ sii", en: "on purpose"}
+  - {hanzi: "面皮皮仔", pinyin: "mien piˇ piˇ eˋ", en: "thick-skinned"}
+  - {hanzi: "毋知見笑", pinyin: "mˇ diˊ gien seu", en: "shameless"}
+  - {hanzi: "無成", pinyin: "moˇ sangˇ", en: "can it be that…, surely not"}
+  - {hanzi: "生个", pinyin: "sangˊ ge", en: "raw; alive"}
+  - {hanzi: "現實", pinyin: "hien siid", en: "calculating; reality"}
+  - {hanzi: "摝人", pinyin: "lugˋ nginˇ", en: "pester people"}
+  - {hanzi: "作怪", pinyin: "zogˋ guai", en: "play tricks"}
+  - {hanzi: "毋插人", pinyin: "mˇ cabˋ nginˇ", en: "take no notice of people"}
+  - {hanzi: "話", pinyin: "va", en: "talk (someone) round"}
+  - {hanzi: "同年", pinyin: "tungˇ ngienˇ", en: "of the same age"}
+  - {hanzi: "矮細", pinyin: "aiˋ se", en: "small, short"}
+  - {hanzi: "做號", pinyin: "zo ho", en: "put a mark on"}
+  - {hanzi: "看得", pinyin: "kon dedˋ", en: "can be seen; worth seeing"}
+
+exercises:
+  translate:
+    - en: "You seldom see the two sisters-in-law go out together."
+      source: kaga115
+      sx: {hanzi: "罕得看著佢兩姊嫂共下出門。", pinyin: "hanˋ dedˋ kon doˋ giˇ liongˋ ziiˋ soˋ kiung ha cudˋ munˇ."}
+    - en: "The clock is hung up: you can see it as soon as you come in."
+      source: kaga115
+      sx: {hanzi: "時鐘仔吊等，一入門就看得著。", pinyin: "siiˇ zungˊ eˋ diau denˋ, idˋ ngib munˇ qiu kon dedˋ doˋ."}
+    - en: "After the two brothers divided the property, they still got on very well."
+      sx: {hanzi: "兩兄弟分家過後，感情還係當好。", pinyin: "liongˋ hiungˊ ti bunˊ gaˊ go heu, gamˋ qinˇ hanˇ he dongˊ hoˋ."}
+    - en: "Grandpa is a great age."
+      source: kaga115
+      sx: {hanzi: "阿公歲數當大。", pinyin: "aˊ gungˊ se sii dongˊ tai."}
+    - en: "Who has been spreading tales?"
+      sx: {hanzi: "麼人亂傳話？", pinyin: "maˋ nginˇ lon conˇ fa?"}
+  fill:
+    - en: "Can it be that he wrote this book?"
+      sx: {hanzi: "這本書___係佢寫个？", pinyin: "iaˋ bunˋ suˊ ___ he giˇ xiaˋ ge?", answer_hanzi: "無成", answer: "moˇ sangˇ"}
+    - en: "The child at the next table is full of tricks."
+      sx: {hanzi: "隔壁桌該細人仔盡會___。", pinyin: "gagˋ biagˋ zogˋ ge se nginˇ eˋ qin voi ___.", answer_hanzi: "作怪", answer: "zogˋ guai"}
+    - en: "A person with a stoop looks shorter."
+      sx: {hanzi: "背翕翕仔个人看起來較___。", pinyin: "baˇ hibˋ hibˋ eˋ ge nginˇ kon hiˋ loiˇ ka ___.", answer_hanzi: "矮細", answer: "aiˋ se"}
+    - en: "On the day of the year-end feast, bring your whole family, big and small, and be my guests!"
+      sx: {hanzi: "尾牙該日，你愛帶屋下___來分𠊎請哦！", pinyin: "miˊ ngaˇ ge ngidˋ, nˇ oi dai vugˋ kaˊ ___ loiˇ bunˊ ngaiˇ qiangˋ oˊ!", answer_hanzi: "大大細細", answer: "tai tai se se"}
+    - en: "He said it on purpose, for people to hear."
+      sx: {hanzi: "佢___講分人聽个。", pinyin: "giˇ ___ gongˋ bunˊ nginˇ tangˊ ge.", answer_hanzi: "挑事", answer: "tiauˊ sii"}
+
+audio: []

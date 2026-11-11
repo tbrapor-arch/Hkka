@@ -72,3 +72,6 @@ style of 採茶戲, not a sung one.
   叔婆 張 and her grandson at university; Sam's cousin wants to study in Taiwan; Sam plans graduate school.
 - P50, Mon 2 – Sat 7 Jul, A-min's diary: first week at the 粄條 factory, staying with 阿舅 and 舅姆. A typhoon on
   Wed 4 Jul (invented) blows the factory's water tower over; 阿傑 deals with it. A-min is not paid yet.
+- P51, Sat 21 Jul, 阿傑's wedding banquet in 竹東 (thread of P20 closed; date invented). Over a hundred tables.
+  A rumour says 阿傑 will move to Taipei and stop being manager: 阿舅 is angry, nothing is confirmed. The couple
+  leave for Japan on Sun 22 Jul. 阿傑's father has a younger brother.
