@@ -11,8 +11,8 @@ names: [Sam, 阿公, 阿太]
 
 dialogue:
   - n: 1
-    en: "This is the story Grandpa told Sam. Grandpa said: my father, your great-grandfather, was born in the year Dingchou, a man of the twentieth century."
-    sx: {hanzi: "這係阿公講分 Sam 聽个故事。阿公講：吾爸，就係若阿太，係丁丑年出世个，二十世紀个人。", pinyin: "iaˋ he aˊ gungˊ gongˋ bunˊ Sam tangˊ ge gu sii. aˊ gungˊ gongˋ: ngaˊ baˊ, qiu he ngiaˊ aˊ tai, he denˊ cuˋ ngienˇ cudˋ se ge, ngi siib sii gi ge nginˇ."}
+    en: "This is the story Grandpa told Sam. Grandpa said: my father, the man you call A-tai, was born in the year Dingsi, a man of the twentieth century."
+    sx: {hanzi: "這係阿公講分 Sam 聽个故事。阿公講：吾爸，就係你喊阿太个人，係丁巳年出世个，二十世紀个人。", pinyin: "iaˋ he aˊ gungˊ gongˋ bunˊ Sam tangˊ ge gu sii. aˊ gungˊ gongˋ: ngaˊ baˊ, qiu he nˇ ham aˊ tai ge nginˇ, he denˊ sii ngienˇ cudˋ se ge, ngi siib sii gi ge nginˇ."}
     check: true
   - n: 2
     en: "When Great-grandfather was five, his mother died."
@@ -44,7 +44,7 @@ dialogue:
     check: true
   - n: 9
     en: "In those days there was no concrete bridge over the river, and as a small boy he poled the ferry with his father."
-    sx: {hanzi: "頭擺河壩無紅毛泥橋，阿太細細仔就同厥爸撐船載人。", pinyin: "teuˇ baiˋ hoˇ ba moˇ fungˇ moˊ naiˇ kieuˇ, aˊ tai se se eˋ qiu tungˇ giaˊ baˊ cang sonˇ zai nginˇ."}
+    sx: {hanzi: "頭擺河壩無紅毛泥橋，阿太還細个時節就同厥爸撐船載人。", pinyin: "teuˇ baiˋ hoˇ ba moˇ fungˇ moˊ naiˇ kieuˇ, aˊ tai hanˇ se ge siiˇ jiedˋ qiu tungˇ giaˊ baˊ cang sonˇ zoi nginˇ."}
     check: true
   - n: 10
     en: "The first time he poled the boat, he was seasick and brought up everything he had eaten."
@@ -71,8 +71,8 @@ dialogue:
     sx: {hanzi: "轉屋，厥爸知吔，佢就分阿爸擗嘴角。", pinyin: "zonˋ vugˋ, giaˊ baˊ diˊ leˊ, giˇ qiu bunˊ aˊ baˊ biag zoi gogˋ."}
     check: true
   - n: 16
-    en: "At twenty, he went into the army."
-    sx: {hanzi: "二十歲，阿太去做兵。", pinyin: "ngi siib se, aˊ tai hi zo binˊ."}
+    en: "As a young man, he was in the army."
+    sx: {hanzi: "後生个時節，阿太入過部隊。", pinyin: "heu sangˊ ge siiˇ jiedˋ, aˊ tai ngib go pu cui."}
     check: true
   - n: 17
     en: "In the army you must keep to the rules."
@@ -91,8 +91,8 @@ dialogue:
     sx: {hanzi: "有一日，炭礦个地泥好恬恬漯一隻大窟，阿太腦之背分石頭搉著，好得神明庇佑，正無事情。", pinyin: "iuˊ idˋ ngidˋ, tan kongˋ ge ti naiˇ hoˋ diamˊ diamˊ labˋ idˋ zagˋ tai fudˋ, aˊ tai noˋ ziiˊ boi bunˊ sag teuˇ kog cog, hoˋ dedˋ siinˇ minˇ bi iu, zang moˇ sii qinˇ."}
     check: true
   - n: 21
-    en: "The truck outside the mine was smashed to pieces too."
-    sx: {hanzi: "炭礦外背个車仔乜撞到綿綿。", pinyin: "tan kongˋ ngoi boi ge caˊ eˋ me cong do mienˇ mienˇ."}
+    en: "The car outside the mine was smashed to bits by stones too."
+    sx: {hanzi: "炭礦外背个車仔乜分石頭打到綿綿。", pinyin: "tan kongˋ ngoi boi ge caˊ eˋ me bunˊ sag teuˇ daˋ do mienˇ mienˇ."}
     check: true
   - n: 22
     en: "In the village there was a young man who owed a great deal of money."
@@ -119,8 +119,8 @@ dialogue:
     sx: {hanzi: "人愛講就分佢講，做人愛對得起自家。", pinyin: "nginˇ oi gongˋ qiu bunˊ giˇ gongˋ, zo nginˇ oi dui dedˋ hiˋ qi gaˊ."}
     check: true
   - n: 28
-    en: "Great-grandfather married my mother, and she bore him two sons, my brother and me. At the Dragon Boat Festival my mother wrapped rice dumplings."
-    sx: {hanzi: "阿太討吾姆，降𠊎兩兄弟。五月節吾姆會䌈粽仔。", pinyin: "aˊ tai toˋ ngaˊ meˊ, giung ngaiˇ liongˋ hiungˊ ti. ngˋ ngied jiedˋ ngaˊ meˊ voi tagˋ zung eˋ."}
+    en: "Great-grandfather married my mother, and she bore him three children. At the Dragon Boat Festival my mother wrapped rice dumplings."
+    sx: {hanzi: "阿太討吾姆，降三個細人仔。五月節吾姆會䌈粽仔。", pinyin: "aˊ tai toˋ ngaˊ meˊ, giung samˊ ge se nginˇ eˋ. ngˋ ngied jiedˋ ngaˊ meˊ voi tagˋ zung eˋ."}
     check: true
   - n: 29
     en: "At the Dragon Boat Festival the Hakka wrap all sorts of dumplings: alkaline dumplings, savoury ones, rice-cake ones."
@@ -139,8 +139,8 @@ dialogue:
     sx: {hanzi: "有一年做大水，紅毛泥橋分水打忒。", pinyin: "iuˊ idˋ ngienˇ zo tai suiˋ, fungˇ moˊ naiˇ kieuˇ bunˊ suiˋ daˋ tedˋ."}
     check: true
   - n: 33
-    en: "Great-grandfather poled the boat again, carrying the villagers across, and for a month took not a cent."
-    sx: {hanzi: "阿太又撐船，載莊頭个人過河壩，一個月無收一個錢。", pinyin: "aˊ tai iu cang sonˇ, zai zongˊ teuˇ ge nginˇ go hoˇ ba, idˋ ge ngied moˇ suˊ idˋ ge qienˇ."}
+    en: "Great-grandfather poled the boat again, carrying the villagers across, and for a whole month took no money."
+    sx: {hanzi: "阿太又撐船，載莊頭个人過河壩，一個月都無收錢。", pinyin: "aˊ tai iu cang sonˇ, zoi zongˊ teuˇ ge nginˇ go hoˇ ba, idˋ ge ngied du moˇ suˊ qienˇ."}
     check: true
   - n: 34
     en: "Great-grandfather died at eighty."
@@ -155,12 +155,12 @@ dialogue:
     sx: {hanzi: "掛紙个時節，𫣆兜愛準備幾下付牲儀，還愛剷祖塔脣个一墩一墩草仔。", pinyin: "gua ziiˋ ge siiˇ jiedˋ, enˊ deuˊ oi zunˋ pi giˋ ha fu senˊ ngiˇ, hanˇ oi canˋ zuˋ tabˋ sunˇ ge idˋ dunˊ idˋ dunˊ coˋ eˋ."}
     check: true
   - n: 37
-    en: "When Sam had heard it all, he said: \"Great-grandfather's life is the fruit of his hard work.\""
-    sx: {hanzi: "Sam 聽忒，講：「阿太个一生，就係佢打拚个成果。」", pinyin: "Sam tangˊ tedˋ, gongˋ: aˊ tai ge idˋ sangˊ, qiu he giˇ daˋ biang ge siinˇ goˋ."}
+    en: "When Sam had heard it all, he said: \"The tea garden behind the house is the fruit of his hard work.\""
+    sx: {hanzi: "Sam 聽忒，講：「屋背个茶園，就係阿太打拚个成果。」", pinyin: "Sam tangˊ tedˋ, gongˋ: vugˋ boi ge caˇ ienˇ, qiu he aˊ tai daˋ biang ge siinˇ goˋ."}
     check: true
   - n: 38
-    en: "Grandpa smiled and said: \"When I was small I was very disobedient, and he called me a bad son. Now that I'm a grandfather myself, I understand his heart.\""
-    sx: {hanzi: "阿公笑笑仔講：「𠊎細个時節當毋聽話，阿太罵𠊎係不孝子。這下𠊎做阿公吔，正知佢个心肝。」", pinyin: "aˊ gungˊ seu seu eˋ gongˋ: ngaiˇ se ge siiˇ jiedˋ dongˊ mˇ tangˊ fa, aˊ tai ma ngaiˇ he budˋ hau ziiˋ. iaˋ ha ngaiˇ zo aˊ gungˊ leˊ, zang diˊ giˇ ge ximˊ gonˊ."}
+    en: "Grandpa smiled and said: \"When I was small I was very disobedient, and he called me a bad son. Now that I'm a grandfather myself, I know he meant it for my good.\""
+    sx: {hanzi: "阿公笑笑仔講：「𠊎細个時節當毋聽話，阿太罵𠊎係不孝子。這下𠊎做阿公吔，正知佢係為𠊎好。」", pinyin: "aˊ gungˊ seu seu eˋ gongˋ: ngaiˇ se ge siiˇ jiedˋ dongˊ mˇ tangˊ fa, aˊ tai ma ngaiˇ he budˋ hau ziiˋ. iaˋ ha ngaiˇ zo aˊ gungˊ leˊ, zang diˊ giˇ he viˇ ngaiˇ hoˋ."}
     check: true
 
 notes:
@@ -172,8 +172,9 @@ notes:
   - ref: 1
     topic: culture
     text: >
-      丁丑 denˊ cuˋ is a year of the sixty-year cycle: 丁 is the fourth Heavenly Stem, 丑 the second Earthly Branch. The
-      last 丁丑 years were 1937 and 1997. 世紀 sii gi is "century".
+      丁巳 denˊ sii is a year of the sixty-year cycle: 丁 is the fourth Heavenly Stem, 巳 the sixth Earthly Branch. 阿太
+      was born in 1917 and died in 1997 (lesson 65: "he died thirty years ago"). 你喊阿太个人 "the man you call A-tai":
+      Sam is not family. 世紀 sii gi is "century".
   - ref: 3
     topic: vocab
     text: >
@@ -187,7 +188,7 @@ notes:
     text: >
       綱 gongˊ counts a litter or batch of animals: 一綱豬子 "a litter of piglets" (豬子 zuˊ ziiˋ). 蠶仔 camˇ eˋ "silkworm";
       桑 songˊ in line 7 is the mulberry. 飼飯 cii fan "feed rice to (a child)": 飼 is from 進修 45. 勻 iunˇ "spread
-      evenly" (摎穀勻開來晒 is official).
+      evenly" (MOE: 你去摎穀勻開來晒).
   - ref: 8
     topic: vocab
     text: >
@@ -262,8 +263,8 @@ notes:
   - ref: 29
     topic: vocab
     text: >
-      焿粽 giˊ zung "alkaline rice dumpling", eaten cold with sugar or honey; 粄粽 is a dumpling of rice-flour dough. 粽
-      zung appears only in compounds in the lists.
+      焿粽 giˊ zung "alkaline rice dumpling", eaten cold with sugar or honey (general knowledge); 粄粽 is a dumpling of
+      rice-flour dough. 粽 zung appears only in compounds in the lists.
   - ref: 31
     topic: vocab
     text: >
@@ -271,8 +272,8 @@ notes:
   - ref: 35
     topic: culture
     text: >
-      不孝男 budˋ hau namˇ: the son of the dead calls himself so in mourning, on the notices and in the rites (the
-      official sentence explains it). 自稱 is "call oneself"; 總 zungˋ "always".
+      不孝男 budˋ hau namˇ: the son of the dead calls himself so in mourning, in mourning (the official sentence
+      explains it; its use on notices is general knowledge). 自稱 is "call oneself"; 總 zungˋ "always".
   - ref: 36
     topic: vocab
     text: >
@@ -281,14 +282,14 @@ notes:
   - ref: 37
     topic: vocab
     text: >
-      成果 siinˇ goˋ "result, fruit of work".
+      成果 siinˇ goˋ "result, fruit of work". 阿太 planted the tea garden (lesson 65).
   - ref: 38
     topic: vocab
     text: >
       不孝子 budˋ hau ziiˋ "unfilial son", a scolding (阿明毋聽話，阿姆罵佢係不孝子).
 
 new_words:
-  - {hanzi: "丁", pinyin: "denˊ", en: "the fourth Heavenly Stem (丁丑, a year name)"}
+  - {hanzi: "丁", pinyin: "denˊ", en: "the fourth Heavenly Stem (丁巳, a year name)"}
   - {hanzi: "世紀", pinyin: "sii gi", en: "century"}
   - {hanzi: "打擊", pinyin: "daˋ gidˋ", en: "blow, shock"}
   - {hanzi: "後哀", pinyin: "heu oiˊ", en: "stepmother"}
@@ -322,7 +323,7 @@ new_words:
   - {hanzi: "付", pinyin: "fu", en: "set (measure)"}
   - {hanzi: "墩", pinyin: "dunˊ", en: "clump (of grass), mound"}
   - {hanzi: "成果", pinyin: "siinˇ goˋ", en: "result, fruit (of work)"}
-  - {hanzi: "丑", pinyin: "cuˋ", en: "the second Earthly Branch (丁丑, a year name)"}
+  - {hanzi: "巳", pinyin: "sii", en: "the sixth Earthly Branch (丁巳, a year name)"}
   - {hanzi: "暈船", pinyin: "hinˇ sonˇ", en: "be seasick"}
   - {hanzi: "噴", pinyin: "pun", en: "spray, spurt"}
   - {hanzi: "遵", pinyin: "zunˊ", en: "follow, obey (遵守 \"keep to\")"}
@@ -338,6 +339,7 @@ new_words:
   - {hanzi: "豬子", pinyin: "zuˊ ziiˋ", en: "piglet"}
   - {hanzi: "桑", pinyin: "songˊ", en: "mulberry"}
   - {hanzi: "不孝子", pinyin: "budˋ hau ziiˋ", en: "unfilial son"}
+  - {hanzi: "載", pinyin: "zoi", en: "carry (by boat or vehicle)"}
 
 exercises:
   translate:
@@ -356,8 +358,8 @@ exercises:
       source: kaga115
       sx: {hanzi: "爺哀連等過身，佢還係當堅強。", pinyin: "iaˇ oiˊ lienˇ denˋ go siinˊ, giˇ hanˇ he dongˊ gienˊ kiongˇ."}
   fill:
-    - en: "He was born in the year Dingchou."
-      sx: {hanzi: "佢係___丑年出世个。", pinyin: "giˇ he ___ cuˋ ngienˇ cudˋ se ge.", answer_hanzi: "丁", answer: "denˊ"}
+    - en: "He was born in the year Dingsi."
+      sx: {hanzi: "佢係___巳年出世个。", pinyin: "giˇ he ___ sii ngienˇ cudˋ se ge.", answer_hanzi: "丁", answer: "denˊ"}
     - en: "This is the twenty-first century."
       sx: {hanzi: "這下係二十一___。", pinyin: "iaˋ ha he ngi siib idˋ ___.", answer_hanzi: "世紀", answer: "sii gi"}
     - en: "This place is so narrow that it barely makes two rooms."
