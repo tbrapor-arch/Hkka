@@ -19,8 +19,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "假期一下就過忒哩。", pinyin: "gaˋ kiˇ idˋ ha qiu go tedˋ leˊ."}
   - n: 3
-    en: "School starts again next Monday. In October the fifth county games will be held; the venue is in Miaoli."
-    sx: {hanzi: "下禮拜一學校開學。十月愛辦第五屆全縣運動會，會場在苗栗。", pinyin: "ha liˊ bai idˋ hog gauˋ koiˊ hog. siib ngied oi pan ti ngˋ gie qionˇ ien iun tung fi, fi congˇ coiˊ meuˇ lid."}
+    en: "School starts again next Monday. In October the fifth county games will be held; the venue is in Miaoli. Some schools are holding their own sports meetings these days first."
+    sx: {hanzi: "下禮拜一學校開學。十月愛辦第五屆全縣運動會，會場在苗栗。有兜學校這幾日先辦自家个運動會。", pinyin: "ha liˊ bai idˋ hog gauˋ koiˊ hog. siib ngied oi pan ti ngˋ gie qionˇ ien iun tung fi, fi congˇ coiˊ meuˇ lid. iuˊ deuˊ hog gauˋ iaˋ giˋ ngidˋ xienˊ pan qi gaˊ ge iun tung fi."}
     check: true
   - n: 4
     en: "The county head attaches great importance to this event."

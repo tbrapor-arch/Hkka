@@ -78,7 +78,7 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "A-min is very sharp: he picks only the light jobs. A-min, go and fry the dried whitebait!"
-    sx: {hanzi: "阿明當精，專門擇輕可仔个事來做。阿明，去炒魚脯仔！", pinyin: "aˊ minˇ dongˊ jinˊ, zonˊ munˇ tog kiangˊ koˋ eˇ ge sii loiˇ zo. aˊ minˇ, hi cauˋ ngˇ puˋ eˇ!"}
+    sx: {hanzi: "阿明當精，專門擇輕可仔个事來做。阿明，去炒魚脯仔！", pinyin: "aˊ minˇ dongˊ jinˊ, zonˊ munˇ tog kiangˊ koˋ eˇ ge se loiˇ zo. aˊ minˇ, hi cauˋ ngˇ puˋ eˇ!"}
     check: true
   - n: 15
     speaker: Sam
@@ -143,7 +143,7 @@ dialogue:
   - n: 27
     speaker: 阿婆
     en: "Oh my! The necklace is round my neck! I put it on this morning. I'm getting old: how embarrassing."
-    sx: {hanzi: "啊！䯋鍊戴在𠊎頸根項！𠊎朝晨就戴好吔。老吔，當敗勢。", pinyin: "a! pad lien dai coiˊ ngaiˇ giangˋ ginˊ hong! ngaiˇ zeuˊ siinˇ qiu dai hoˋ leˊ. loˋ leˊ, dongˊ paiˇ se."}
+    sx: {hanzi: "啊！䯋鍊戴在吾頸根項！𠊎朝晨就戴好吔。老吔，當敗勢。", pinyin: "a! pad lien dai coiˊ ngaˊ giangˋ ginˊ hong! ngaiˇ zeuˊ siinˇ qiu dai hoˋ leˊ. loˋ leˊ, dongˊ paiˇ se."}
     check: true
   - n: 28
     speaker: 阿公
@@ -270,9 +270,8 @@ exercises:
     - en: "Mother has a gold necklace."
       source: kaga
       sx: {hanzi: "阿姆有一條金䯋鍊。", pinyin: "aˊ meˊ iuˊ idˋ tiauˇ gimˊ pad lien."}
-    - en: "He is an optimist."
-      source: kaga115
-      sx: {hanzi: "佢係樂觀个人。", pinyin: "giˇ he log gonˊ ge nginˇ."}
+    - en: "Grandpa has been off tobacco for three weeks and is still very optimistic."
+      sx: {hanzi: "阿公戒菸三禮拜吔，還係當樂觀。", pinyin: "aˊ gungˊ gie ienˊ samˊ liˊ bai leˊ, hanˇ he dongˊ log gonˊ."}
     - en: "How much is this straw mat?"
       source: kaga115
       sx: {hanzi: "這領草蓆愛賣幾多錢？", pinyin: "iaˋ liangˊ coˋ qiag oi mai giˋ doˊ qienˇ?"}
@@ -291,7 +290,7 @@ exercises:
       sx: {hanzi: "這水當___，正到膝頭恁深定定。", pinyin: "iaˋ suiˋ dongˊ ___, zang do qidˋ teuˇ anˋ ciimˊ tin tin.", answer_hanzi: "淺", answer: "qienˋ"}
     - en: "Things of iron rust in time."
       sx: {hanzi: "鐵仔个東西，久吔就會___。", pinyin: "tiedˋ eˇ ge dungˊ xiˊ, giuˋ leˊ qiu voi ___.", answer_hanzi: "生鹵", answer: "sangˊ luˊ"}
-    - en: "Parents must not have favourites."
-      sx: {hanzi: "___做毋得大細心。", pinyin: "___ zomˇ dedˋ tai se ximˊ.", answer_hanzi: "爺哀", answer: "iaˇ oiˊ"}
+    - en: "A-min says Grandma has favourites."
+      sx: {hanzi: "阿明講阿婆___。", pinyin: "aˊ minˇ gongˋ aˊ poˇ ___.", answer_hanzi: "大細心", answer: "tai se ximˊ"}
 
 audio: []

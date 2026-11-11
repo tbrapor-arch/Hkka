@@ -39,6 +39,9 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - "We": 𫣆兜 includes the listener, 𠊎兜 excludes. Check each one against who is listening (in a letter: writer +
   reader is 𫣆兜).
 - Demonstrative + classifier + noun (這隻柚仔). A bare noun only where an official sentence has it.
+- A gain is adjective + 加 + amount (重加兩公斤, 高加幾多公分). Pay is 領月給 or 領工錢; 領錢 alone is a bank withdrawal.
+- A verb-only entry is not a noun: 膏藥仔 goˇ iog eˋ is "apply ointment"; the plaster is 膏藥 gauˊ iog.
+- 會 "will" is voi also inside official sentences (fi only in 運動會, 舞會, 會場, 燈會); V著 "result" is doˋ (擇著, 聽著, 領著).
 - Adjectives are negated with 毋會 or 無. 毋好 "bad" is the one exception.
 - "Talk to X" is 同 X 講話; 同 X 講 is "tell X". "Never" is 從來毋識 + verb, or 毋識 + V過.
 - Advice: 愛多 + verb. Quantity: verb + 加 + amount (歇加兩暗晡, 買加兜仔).
@@ -63,7 +66,8 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
   words "general knowledge".
 - Leaflets, rules and opening hours of real institutions are invented: say so in the setting.
 - "Not in the data" only after searching the official sentences and the MOE definitions.
-- "From lesson N / 進修 N": grep the word in that file before writing it (batch 7 had two wrong references).
+- "From lesson N / 進修 N": N is the lesson whose `new_words` has the word, not one that only uses it. Grep before writing.
+- The English of an official line follows the list's Mandarin gloss (生个 is "alive"; 若 is "your").
 - After any insertion, check the line numbers and the "lesson N" references in the notes.
 - Numbered items inside a text run in order.
 

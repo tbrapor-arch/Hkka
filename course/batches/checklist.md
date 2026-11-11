@@ -272,3 +272,20 @@ were wrong and are not applied.
   P46 title is a kaga115 sentence; 撥 padˋ is the kaga115 reading (glossed 搧), so the gloss became "fan, flap".
 - Lint warns "already used before it is taught" for 19 words of P43–P48 (過年過節, 法度, 手電筒 …): each was met
   earlier inside a line or an exercise and is now taught as a word. Accepted, as in batch 6.
+
+## Batch 8 (P50–P56), review of 11 Nov 2026
+Fresh agent, read-only. Each finding was checked in the data before fixing.
+- Readings: 會 fi for "will" in a P50 exercise; 扣分 with bunˊ (P54, P56; kaga 扣分 kieu funˊ) → rule `marks-fun`;
+  擇著 with cog (gloss 挑上 → doˋ); 背翕翕仔 built from single characters (list: boi him him eˋ) → the exercise was
+  replaced; 事 "work" se in 輕可仔个事.
+- 生个 is "alive" in the lists (活的), not "raw" → English and gloss fixed (P51).
+- 膏藥仔 is a verb (敷藥); the noun is 膏藥 gauˊ iog (kaga115 example) → P52 line 30, word declared from MOE.
+- 𠊎个肩頭, 𠊎頸根項 → 吾 (吾 + body part 14 official / 3 MOE; 𠊎个 + body part 0) → rule `my-body`.
+- 重兩公斤 "weigh two kilos" → 重加兩公斤 (高加 4 official). 領錢 (bank) → 領工錢. 一隻攤仔 (0) → 擺攤仔 (3).
+- 揉肩頭: 揉 is "crumple" in every example → 捶背囊 (2), 捶 declared; 揉 is not taught.
+- Notes: 鬥雙 is from 進修 34, not 36; "Grandpa promised" in 進修 49 was Grandma's remark.
+- Exercises repeating a line of the text: P51 (2), P55 (2), P56 (3 clauses) → new sentences.
+- 鬥緊 was declared in P54 but first used in P50 (its title): now declared in P50.
+- The factory makes 粄條 (lesson 53, 進修 39): 進修 45 and 49 said 麵 → fixed; card line added.
+- 臺灣 was declared twice in Part 1 (lesson 52 with vanˊ, lesson 73 with vanˇ): lesson 52 now has toiˇ vanˇ and the
+  second declaration is gone. This was the source of the wrong default in the draft tool.

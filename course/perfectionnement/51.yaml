@@ -92,7 +92,7 @@ dialogue:
     check: true
   - n: 17
     speaker: Sam
-    en: "This fish is still raw."
+    en: "This fish is still alive."
     source: kaga115
     sx: {hanzi: "這尾魚仔還係生个。", pinyin: "iaˋ miˊ ngˇ eˋ hanˇ he sangˊ ge."}
   - n: 18
@@ -171,7 +171,7 @@ notes:
     topic: vocab
     text: >
       大大細細 tai tai se se "everyone in the family, big and small" (尾牙該日，你愛帶屋下大大細細來分𠊎請哦！). 鬥鬧熱 deu nau ngied "join in
-      the fun": 鬥 is from 進修 50.
+      the fun": 鬥 as in 鬥緊 (進修 50).
   - ref: 2
     topic: vocab
     text: >
@@ -221,7 +221,7 @@ notes:
   - ref: 17
     topic: vocab
     text: >
-      生个 sangˊ ge "raw", and of an animal "alive".
+      生个 sangˊ ge "alive": Sam is looking at the fish tank by the door. "Raw" is 生 alone.
   - ref: 19
     topic: vocab
     text: >
@@ -246,7 +246,7 @@ notes:
   - ref: 27
     topic: vocab
     text: >
-      矮細 aiˋ se "small, short" (背翕翕仔个人看起來較矮細).
+      矮細 aiˋ se "small, short".
   - ref: 28
     topic: vocab
     text: >
@@ -274,7 +274,7 @@ new_words:
   - {hanzi: "面皮皮仔", pinyin: "mien piˇ piˇ eˋ", en: "thick-skinned"}
   - {hanzi: "毋知見笑", pinyin: "mˇ diˊ gien seu", en: "shameless"}
   - {hanzi: "無成", pinyin: "moˇ sangˇ", en: "can it be that…, surely not"}
-  - {hanzi: "生个", pinyin: "sangˊ ge", en: "raw; alive"}
+  - {hanzi: "生个", pinyin: "sangˊ ge", en: "alive"}
   - {hanzi: "現實", pinyin: "hien siid", en: "calculating; reality"}
   - {hanzi: "摝人", pinyin: "lugˋ nginˇ", en: "pester people"}
   - {hanzi: "作怪", pinyin: "zogˋ guai", en: "play tricks"}
@@ -298,18 +298,18 @@ exercises:
     - en: "Grandpa is a great age."
       source: kaga115
       sx: {hanzi: "阿公歲數當大。", pinyin: "aˊ gungˊ se sii dongˊ tai."}
-    - en: "Who has been spreading tales?"
-      sx: {hanzi: "麼人亂傳話？", pinyin: "maˋ nginˇ lon conˇ fa?"}
+    - en: "Someone has been spreading tales, and Uncle is very angry."
+      sx: {hanzi: "有人亂傳話，阿舅當譴。", pinyin: "iuˊ nginˇ lon conˇ fa, aˊ kiuˊ dongˊ kienˋ."}
   fill:
     - en: "Can it be that he wrote this book?"
       sx: {hanzi: "這本書___係佢寫个？", pinyin: "iaˋ bunˋ suˊ ___ he giˇ xiaˋ ge?", answer_hanzi: "無成", answer: "moˇ sangˇ"}
     - en: "The child at the next table is full of tricks."
       sx: {hanzi: "隔壁桌該細人仔盡會___。", pinyin: "gagˋ biagˋ zogˋ ge se nginˇ eˋ qin voi ___.", answer_hanzi: "作怪", answer: "zogˋ guai"}
-    - en: "A person with a stoop looks shorter."
-      sx: {hanzi: "背翕翕仔个人看起來較___。", pinyin: "baˇ hibˋ hibˋ eˋ ge nginˇ kon hiˋ loiˇ ka ___.", answer_hanzi: "矮細", answer: "aiˋ se"}
+    - en: "The bride is small and very sweet."
+      sx: {hanzi: "新娘生來___，當得人惜。", pinyin: "xinˊ ngiongˇ sangˊ loiˇ ___, dongˊ dedˋ nginˇ xiagˋ.", answer_hanzi: "矮細", answer: "aiˋ se"}
     - en: "On the day of the year-end feast, bring your whole family, big and small, and be my guests!"
       sx: {hanzi: "尾牙該日，你愛帶屋下___來分𠊎請哦！", pinyin: "miˊ ngaˇ ge ngidˋ, nˇ oi dai vugˋ kaˊ ___ loiˇ bunˊ ngaiˇ qiangˋ oˊ!", answer_hanzi: "大大細細", answer: "tai tai se se"}
-    - en: "He said it on purpose, for people to hear."
-      sx: {hanzi: "佢___講分人聽个。", pinyin: "giˇ ___ gongˋ bunˊ nginˇ tangˊ ge.", answer_hanzi: "挑事", answer: "tiauˊ sii"}
+    - en: "He picked a quarrel with me on purpose."
+      sx: {hanzi: "佢___同𠊎冤家。", pinyin: "giˇ ___ tungˇ ngaiˇ ienˊ gaˊ.", answer_hanzi: "挑事", answer: "tiauˊ sii"}
 
 audio: []

@@ -95,12 +95,12 @@ dialogue:
     sx: {hanzi: "工廠个水塔愛整，阿舅當愁。阿傑同佢講：", pinyin: "gungˊ congˋ ge suiˋ tabˋ oi zangˋ, aˊ kiuˊ dongˊ seuˇ. aˊ kied tungˇ giˇ gongˋ:"}
     check: true
   - n: 22
-    en: "I'll deal with that myself: no need for you to worry."
+    en: "I'll deal with that myself: no need to trouble you."
     source: kaga115
     sx: {hanzi: "該件事𠊎自家會處理，毋使你煩勞。", pinyin: "ge kien sii ngaiˇ qi gaˊ voi cuˋ liˊ, mˇ siiˋ nˇ fanˇ loˇ."}
   - n: 23
     en: "Friday 6 July. I haven't been paid yet, and I wanted to go for an ice in the evening, so I said to A-kied:"
-    sx: {hanzi: "七月六號，禮拜五。𠊎還吂領錢，暗晡頭想去食冰，就同阿傑講：", pinyin: "qidˋ ngied liugˋ ho, liˊ bai ngˋ. ngaiˇ hanˇ mangˇ liangˊ qienˇ, am buˊ teuˇ xiongˋ hi siid benˊ, qiu tungˇ aˊ kied gongˋ:"}
+    sx: {hanzi: "七月六號，禮拜五。𠊎還吂領工錢，暗晡頭想去食冰，就同阿傑講：", pinyin: "qidˋ ngied liugˋ ho, liˊ bai ngˋ. ngaiˇ hanˇ mangˇ liangˊ gungˊ qienˇ, am buˊ teuˇ xiongˋ hi siid benˊ, qiu tungˇ aˊ kied gongˋ:"}
     check: true
   - n: 24
     en: "Lend me a hundred dollars first: next week I'll pay you back double."
@@ -124,7 +124,7 @@ dialogue:
     sx: {hanzi: "佢在自家个地項起別莊。", pinyin: "giˇ coiˊ qi gaˊ ge ti hong hiˋ pied zongˊ."}
   - n: 29
     en: "Saturday 7 July. Home again. At Uncle's I ate my fill at every meal, and I am two kilos heavier. Dad is going to Taipei next week, and my sister said to him:"
-    sx: {hanzi: "七月七號，禮拜六。轉屋吔。在阿舅屋下逐餐都食到當飽，𠊎重兩公斤。阿爸下禮拜愛去臺北，阿姊同佢講：", pinyin: "qidˋ ngied qidˋ ho, liˊ bai liugˋ. zonˋ vugˋ leˊ. coiˊ aˊ kiuˊ vugˋ kaˊ dagˋ conˊ du siid do dongˊ bauˋ, ngaiˇ cungˊ liongˋ gungˊ ginˊ. aˊ baˊ ha liˊ bai oi hi toiˇ bedˋ, aˊ jiˋ tungˇ giˇ gongˋ:"}
+    sx: {hanzi: "七月七號，禮拜六。轉屋吔。在阿舅屋下逐餐都食到當飽，𠊎重加兩公斤。阿爸下禮拜愛去臺北，阿姊同佢講：", pinyin: "qidˋ ngied qidˋ ho, liˊ bai liugˋ. zonˋ vugˋ leˊ. coiˊ aˊ kiuˊ vugˋ kaˊ dagˋ conˊ du siid do dongˊ bauˋ, ngaiˇ cungˊ gaˊ liongˋ gungˊ ginˊ. aˊ baˊ ha liˊ bai oi hi toiˇ bedˋ, aˊ jiˋ tungˇ giˇ gongˋ:"}
     check: true
   - n: 30
     en: "When you go to Taipei, can I tag along?"
@@ -135,8 +135,8 @@ notes:
   - ref: 0
     topic: culture
     text: >
-      The title is line 5, an official sentence: 鬥 deu is "fit together" (鬥雙, 進修 36) and "strive, compete"; 鬥緊 is
-      "rush, be in a hurry". 定定仔 "slowly, steadily" is from 進修 24.
+      The title is line 5, an official sentence: 鬥緊 deu ginˋ is "rush, be in a hurry": 鬥 is "fit together" (鬥雙, 進修
+      34) and "strive, compete". 定定仔 "slowly, steadily" is from 進修 24.
   - ref: 2
     topic: vocab
     text: >
@@ -184,8 +184,8 @@ notes:
   - ref: 21
     topic: vocab
     text: >
-      整 zangˋ "repair, mend": the list glosses it 修理. 煩勞 fanˇ loˇ in line 22 is "worry; trouble"
-      (出外做頭路，自家愛認真，毋好分爺哀煩勞).
+      整 zangˋ "repair, mend": the list glosses it 修理. 煩勞 fanˇ loˇ in line 22 is "trouble (someone)", and also
+      "worry" (出外做頭路，自家愛認真，毋好分爺哀煩勞).
   - ref: 24
     topic: vocab
     text: >
@@ -209,7 +209,7 @@ new_words:
   - {hanzi: "飲食", pinyin: "imˋ siid", en: "food and drink, eating"}
   - {hanzi: "手落仔", pinyin: "suˋ labˋ eˇ", en: "gloves"}
   - {hanzi: "手袖仔", pinyin: "suˋ qiu eˋ", en: "sleeve covers"}
-  - {hanzi: "鬥", pinyin: "deu", en: "fit together; compete, strive"}
+  - {hanzi: "鬥緊", pinyin: "deu ginˋ", en: "rush, be in a hurry"}
   - {hanzi: "類", pinyin: "lui", en: "kind, class"}
   - {hanzi: "形仔", pinyin: "hinˇ eˋ", en: "shape"}
   - {hanzi: "樹奶仔", pinyin: "su nen eˋ", en: "rubber band"}
@@ -257,7 +257,7 @@ exercises:
     - en: "A tear-off calendar has a page torn off every day."
       sx: {hanzi: "___愛逐日扯。", pinyin: "___ oi dagˋ ngidˋ caˋ.", answer_hanzi: "日誌", answer: "ngidˋ zii"}
     - en: "If you don't eat and drink regularly, sooner or later your health will suffer."
-      sx: {hanzi: "___無正常，早慢身體會出問題。", pinyin: "___ moˇ ziin songˇ, zoˋ man siinˊ tiˋ fi cudˋ mun tiˇ.", answer_hanzi: "飲食", answer: "imˋ siid"}
+      sx: {hanzi: "___無正常，早慢身體會出問題。", pinyin: "___ moˇ ziin songˇ, zoˋ man siinˊ tiˋ voi cudˋ mun tiˇ.", answer_hanzi: "飲食", answer: "imˋ siid"}
     - en: "There are many kinds of musical instruments."
       sx: {hanzi: "樂器種___當多。", pinyin: "ngog hi zungˋ ___ dongˊ doˊ.", answer_hanzi: "類", answer: "lui"}
     - en: "Sleeve covers keep the sun off, and you needn't fear mosquito bites either."

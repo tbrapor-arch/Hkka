@@ -32,8 +32,8 @@ dialogue:
     sx: {hanzi: "敢有較具體个辦法？", pinyin: "gamˋ iuˊ ka ki tiˋ ge pan fabˋ?"}
   - n: 5
     speaker: 阿傑
-    en: "First rent a stall in a Taipei market."
-    sx: {hanzi: "先在臺北个市場租一隻攤仔。", pinyin: "xienˊ coiˊ toiˇ bedˋ ge sii congˇ zuˊ idˋ zagˋ tanˊ eˋ."}
+    en: "First set up a stall in a Taipei market."
+    sx: {hanzi: "先在臺北个市場擺攤仔。", pinyin: "xienˊ coiˊ toiˇ bedˋ ge sii congˇ baiˋ tanˊ eˋ."}
     check: true
   - n: 6
     speaker: 阿傑
@@ -200,7 +200,7 @@ notes:
   - ref: 14
     topic: vocab
     text: >
-      鬥緊 deu ginˋ "rush, be in a hurry": the title of 進修 50. 任務 im vu in line 15 is "task, mission".
+      鬥緊 "rush" is from 進修 50. 任務 im vu in line 15 is "task, mission".
   - ref: 16
     topic: vocab
     text: >
@@ -255,7 +255,6 @@ new_words:
   - {hanzi: "納稅", pinyin: "nab soi", en: "pay taxes"}
   - {hanzi: "欠數", pinyin: "kiam sii", en: "owe money, unpaid bill"}
   - {hanzi: "收數", pinyin: "suˊ sii", en: "collect what is owed"}
-  - {hanzi: "鬥緊", pinyin: "deu ginˋ", en: "rush, be in a hurry"}
   - {hanzi: "任務", pinyin: "im vu", en: "task, mission"}
   - {hanzi: "乘", pinyin: "siin", en: "times, multiply"}
   - {hanzi: "扣", pinyin: "kieu", en: "deduct, dock"}
@@ -299,8 +298,8 @@ exercises:
       sx: {hanzi: "去同頭家換兜仔___。", pinyin: "hi tungˇ teuˇ gaˊ von deuˊ eˋ ___.", answer_hanzi: "零錢", answer: "langˇ qienˇ"}
     - en: "The boss has come to collect what you owe."
       sx: {hanzi: "頭家來尋你___。", pinyin: "teuˇ gaˊ loiˇ qimˇ nˇ ___.", answer_hanzi: "收數", answer: "suˊ sii"}
-    - en: "If your homework isn't done properly, the teacher will certainly take marks off."
-      sx: {hanzi: "若家庭作業無做好，定著會分先生___分。", pinyin: "ngiaˊ gaˊ tinˇ zogˋ ngiab moˇ zo hoˋ, tin cog voi bunˊ xinˊ sangˊ ___ bunˊ.", answer_hanzi: "扣", answer: "kieu"}
+    - en: "Your homework isn't done properly: the teacher is sure to take marks off."
+      sx: {hanzi: "若家庭作業無做好，定著會分先生___分。", pinyin: "ngiaˊ gaˊ tinˇ zogˋ ngiab moˇ zo hoˋ, tin cog voi bunˊ xinˊ sangˊ ___ funˊ.", answer_hanzi: "扣", answer: "kieu"}
     - en: "It hasn't rained for so long that the river level has dropped a great deal."
       sx: {hanzi: "恁久無落雨，河壩水位___異多。", pinyin: "anˋ giuˋ moˇ log iˋ, hoˇ ba suiˋ vi ___ i doˊ.", answer_hanzi: "降低", answer: "gong daiˊ"}
 

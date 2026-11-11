@@ -49,8 +49,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "試著肩頭硬硬樣仔。", pinyin: "cii doˋ gienˊ teuˇ ngang ngang iong eˋ."}
   - n: 9
-    en: "Sam rubbed Grandpa's shoulder."
-    sx: {hanzi: "Sam 同阿公揉肩頭。", pinyin: "Sam tungˇ aˊ gungˊ ngioˊ gienˊ teuˇ."}
+    en: "Sam pounded Grandpa's back for him."
+    sx: {hanzi: "Sam 同阿公捶背囊。", pinyin: "Sam tungˇ aˊ gungˊ cuiˇ boi nongˇ."}
     check: true
   - n: 10
     speaker: 阿公
@@ -100,11 +100,11 @@ dialogue:
   - n: 19
     speaker: 阿婆
     en: "He likes company; I'm the opposite, I like quiet."
-    sx: {hanzi: "佢好鬧熱，𠊎相反，較好恬靜。", pinyin: "giˇ hau nau ngied, ngaiˇ xiongˊ fanˋ, ka hau diamˊ qin."}
+    sx: {hanzi: "佢愛鬧熱，𠊎相反，愛恬靜。", pinyin: "giˇ oi nau ngied, ngaiˇ xiongˊ fanˋ, oi diamˊ qin."}
     check: true
   - n: 20
-    en: "A-min came back from Zhudong, and cried out in pain the moment he came in."
-    sx: {hanzi: "阿明對竹東轉來，一入門就喊痛。", pinyin: "aˊ minˇ dui zugˋ dungˊ zonˋ loiˇ, idˋ ngib munˇ qiu hemˊ tung."}
+    en: "A-min came back in from outside, and cried out in pain the moment he came in."
+    sx: {hanzi: "阿明對外背轉來，一入門就喊痛。", pinyin: "aˊ minˇ dui ngoi boi zonˋ loiˇ, idˋ ngib munˇ qiu hemˊ tung."}
     check: true
   - n: 21
     speaker: 阿明
@@ -153,7 +153,7 @@ dialogue:
   - n: 30
     speaker: 阿公
     en: "Time doesn't run backwards: what's past is past. The plaster is changed every other day, and the smoking stops tomorrow."
-    sx: {hanzi: "時間毋會倒退，事情過忒就算吔。膏藥仔間日換一擺，菸天光日正戒。", pinyin: "siiˇ gienˊ mˇ voi do tui, sii qinˇ go tedˋ qiu son leˊ. goˇ iog eˋ gam ngidˋ von idˋ baiˋ, ienˊ tienˊ gongˊ ngidˋ zang gie."}
+    sx: {hanzi: "時間毋會倒退，事情過忒就算吔。膏藥間日換一擺，菸天光日正戒。", pinyin: "siiˇ gienˊ mˇ voi do tui, sii qinˇ go tedˋ qiu son leˊ. gauˊ iog gam ngidˋ von idˋ baiˋ, ienˊ tienˊ gongˊ ngidˋ zang gie."}
     check: true
 
 notes:
@@ -182,14 +182,15 @@ notes:
     topic: vocab
     text: >
       硬硬 ngang ngang "hard, stiff" (石頭硬硬).
-  - ref: 9
+  - ref: 10
     topic: vocab
     text: >
-      揉 ngioˊ "rub, knead". 爪 zauˋ in line 10 is "scratch" (爪背囊).
+      爪 zauˋ "scratch" (爪背囊). 捶 cuiˇ in line 9 is "pound with the fist": 捶背囊 "pound someone's back" to ease it.
   - ref: 11
     topic: vocab
     text: >
-      膏 goˇ is the verb "smear, apply": 膏藥仔 "put ointment on". In 牙膏 (進修 46) the character is read gauˊ.
+      膏 goˇ is the verb "smear, apply": 膏藥仔 "put ointment on". In 牙膏 (進修 46) and in the noun 膏藥 gauˊ iog "plaster,
+      ointment" (line 30; an MOE word) the character is read gauˊ.
   - ref: 12
     topic: vocab
     text: >
@@ -205,7 +206,7 @@ notes:
   - ref: 15
     topic: vocab
     text: >
-      傷害 songˊ hoi "harm" (恁樣做會傷害大家个感情). Grandpa promised to smoke less in 進修 49.
+      傷害 songˊ hoi "harm" (恁樣做會傷害大家个感情). In 進修 49 Grandma said he was smoking less.
   - ref: 16
     topic: vocab
     text: >
@@ -218,7 +219,7 @@ notes:
   - ref: 18
     topic: vocab
     text: >
-      性格 xin giedˋ "character". 相反 xiongˊ fanˋ in line 19 is "opposite"; 好 "be fond of" is read hau.
+      性格 xin giedˋ "character". 相反 xiongˊ fanˋ in line 19 is "opposite".
   - ref: 21
     topic: vocab
     text: >
@@ -252,9 +253,10 @@ new_words:
   - {hanzi: "捆", pinyin: "kunˋ", en: "tie up, bundle"}
   - {hanzi: "順順仔", pinyin: "sun sun eˋ", en: "steadily, smoothly"}
   - {hanzi: "硬硬", pinyin: "ngang ngang", en: "hard, stiff"}
-  - {hanzi: "揉", pinyin: "ngioˊ", en: "rub, knead"}
+  - {hanzi: "捶", pinyin: "cuiˇ", en: "pound (with the fist)"}
   - {hanzi: "爪", pinyin: "zauˋ", en: "scratch"}
   - {hanzi: "膏", pinyin: "goˇ", en: "smear, apply"}
+  - {hanzi: "膏藥", pinyin: "gauˊ iog", en: "plaster, ointment"}
   - {hanzi: "觀察", pinyin: "gonˊ cadˋ", en: "observe, keep under observation"}
   - {hanzi: "戒", pinyin: "gie", en: "give up (a habit)"}
   - {hanzi: "普遍", pinyin: "puˊ pienˊ", en: "common, widespread"}
@@ -296,7 +298,7 @@ exercises:
     - en: "Doing that will hurt everyone's feelings."
       sx: {hanzi: "恁樣做會___大家个感情。", pinyin: "anˋ ngiongˇ zo voi ___ tai gaˊ ge gamˋ qinˇ.", answer_hanzi: "傷害", answer: "songˊ hoi"}
     - en: "How could you have so little judgement as to pick this one?"
-      sx: {hanzi: "仰會恁無___擇著這隻？", pinyin: "ngiongˋ voi anˋ moˇ ___ tog cog iaˋ zagˋ?", answer_hanzi: "眼光", answer: "ngienˋ gongˊ"}
+      sx: {hanzi: "仰會恁無___擇著這隻？", pinyin: "ngiongˋ voi anˋ moˇ ___ tog doˋ iaˋ zagˋ?", answer_hanzi: "眼光", answer: "ngienˋ gongˊ"}
     - en: "Swat mosquitoes inside the mosquito net."
       sx: {hanzi: "在眠帳裡肚___蚊仔。", pinyin: "coiˊ minˇ zong diˊ duˋ ___ munˊ eˋ.", answer_hanzi: "拔", answer: "pad"}
     - en: "If a young person can't be relied on in what he does, he loses people's trust and will hardly succeed."
