@@ -1,0 +1,370 @@
+id: 71
+genre: story
+title:
+  en: "Great-grandfather's life"
+  sx: {hanzi: "阿太个一生", pinyin: "aˊ tai ge idˋ sangˊ"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. A short story with notes: the life of 阿太, Grandpa's father, as Grandpa told it to
+  Sam one evening and as Sam wrote it down. The people are the course's; the events are invented.
+names: [Sam, 阿公, 阿太]
+
+dialogue:
+  - n: 1
+    en: "This is the story Grandpa told Sam. Grandpa said: my father, your great-grandfather, was born in the year Dingchou, a man of the twentieth century."
+    sx: {hanzi: "這係阿公講分 Sam 聽个故事。阿公講：吾爸，就係若阿太，係丁丑年出世个，二十世紀个人。", pinyin: "iaˋ he aˊ gungˊ gongˋ bunˊ Sam tangˊ ge gu sii. aˊ gungˊ gongˋ: ngaˊ baˊ, qiu he ngiaˊ aˊ tai, he denˊ cuˋ ngienˇ cudˋ se ge, ngi siib sii gi ge nginˇ."}
+    check: true
+  - n: 2
+    en: "When Great-grandfather was five, his mother died."
+    sx: {hanzi: "阿太五歲，厥阿姆就過身。", pinyin: "aˊ tai ngˋ se, giaˊ aˊ meˊ qiu go siinˊ."}
+    check: true
+  - n: 3
+    en: "His mother's death was too great a blow for his father."
+    source: kaga115
+    sx: {hanzi: "阿姆過身對阿爸打擊忒大。", pinyin: "aˊ meˊ go siinˊ dui aˊ baˊ daˋ gidˋ tedˋ tai."}
+  - n: 4
+    en: "Two years later his father married again: a stepmother."
+    sx: {hanzi: "過兩年，厥爸討一個後哀。", pinyin: "go liongˋ ngienˇ, giaˊ baˊ toˋ idˋ ge heu oiˊ."}
+    check: true
+  - n: 5
+    en: "His stepmother loved all the children alike, the first wife's and her own."
+    source: kaga115
+    sx: {hanzi: "厥後哀對子女通棚恁惜，無分前後。", pinyin: "giaˊ heu oiˊ dui ziiˋ ngˋ tungˊ pangˇ anˋ xiagˋ, moˇ bunˊ qienˇ heu."}
+  - n: 6
+    en: "The stepmother raised a litter of piglets and silkworms too. Every day she fed the children, and spread the grain out evenly to dry."
+    sx: {hanzi: "後哀畜一綱豬子，還畜蠶仔。佢逐日飼飯分細人仔食，又摎穀勻開來晒。", pinyin: "heu oiˊ hiugˋ idˋ gongˊ zuˊ ziiˋ, hanˇ hiugˋ camˇ eˋ. giˇ dagˋ ngidˋ cii fan bunˊ se nginˇ eˋ siid, iu lauˊ gugˋ iunˇ koiˊ loiˇ sai."}
+    check: true
+  - n: 7
+    en: "Silkworms eat mulberry leaves."
+    source: kaga115
+    sx: {hanzi: "蠶仔食桑仔葉。", pinyin: "camˇ eˋ siid songˊ eˋ iab."}
+  - n: 8
+    en: "Their house was so small that it barely made two rooms."
+    sx: {hanzi: "佢兜个屋恁細，臨臨仔做兩隻間房。", pinyin: "giˇ deuˊ ge vugˋ anˋ se, limˊ limˊ eˋ zo liongˋ zagˋ gienˊ fongˇ."}
+    check: true
+  - n: 9
+    en: "In those days there was no concrete bridge over the river, and as a small boy he poled the ferry with his father."
+    sx: {hanzi: "頭擺河壩無紅毛泥橋，阿太細細仔就同厥爸撐船載人。", pinyin: "teuˇ baiˋ hoˇ ba moˇ fungˇ moˊ naiˇ kieuˇ, aˊ tai se se eˋ qiu tungˇ giaˊ baˊ cang sonˇ zai nginˇ."}
+    check: true
+  - n: 10
+    en: "The first time he poled the boat, he was seasick and brought up everything he had eaten."
+    sx: {hanzi: "頭一擺撐船，佢暈船，食落肚个東西翻淨淨。", pinyin: "teuˇ idˋ baiˋ cang sonˇ, giˇ hinˇ sonˇ, siid log duˋ ge dungˊ xiˊ ponˊ qiang qiang."}
+    check: true
+  - n: 11
+    en: "Great-grandfather was not much good at school: his brush writing got a B, and his tests often got a C."
+    sx: {hanzi: "阿太讀書毋係當慶，寫个大字打著乙等，考試輒輒打著丙等。", pinyin: "aˊ tai tug suˊ mˇ he dongˊ kiang, xiaˋ ge tai sii daˋ cog iedˋ denˋ, kauˋ sii jiab jiab daˋ cog biangˋ denˋ."}
+    check: true
+  - n: 12
+    en: "The teacher was hot-tempered, and spluttered as he talked. Once the teacher asked him:"
+    sx: {hanzi: "先生較急性，講話講到口涎渣緊噴。有一擺先生問佢：", pinyin: "xinˊ sangˊ ka gibˋ xin, gongˋ fa gongˋ do heuˋ lanˊ zaˊ ginˋ pun. iuˊ idˋ baiˋ xinˊ sangˊ mun giˇ:"}
+    check: true
+  - n: 13
+    en: "What is a hundred divided by ten?"
+    source: kaga115
+    sx: {hanzi: "一百除十係幾多？", pinyin: "idˋ bagˋ cuˇ siib he giˋ doˊ?"}
+  - n: 14
+    en: "He thought for a long time and still couldn't answer. When the teacher told him to hurry, he said: \"Plenty of time! Take it slowly.\""
+    sx: {hanzi: "阿太想恁久，還答毋出。先生喊佢遽啊答，佢就講：「吂得時！定定仔來。」", pinyin: "aˊ tai xiongˋ anˋ giuˋ, hanˇ dabˋ mˇ cudˋ. xinˊ sangˊ ham giˇ giagˋ a dabˋ, giˇ qiu gongˋ: mangˇ dedˋ siiˇ! tin tin eˋ loiˇ."}
+    check: true
+  - n: 15
+    en: "When he got home his father heard of it, and slapped him across the mouth."
+    sx: {hanzi: "轉屋，厥爸知吔，佢就分阿爸擗嘴角。", pinyin: "zonˋ vugˋ, giaˊ baˊ diˊ leˊ, giˇ qiu bunˊ aˊ baˊ biag zoi gogˋ."}
+    check: true
+  - n: 16
+    en: "At twenty, he went into the army."
+    sx: {hanzi: "二十歲，阿太去做兵。", pinyin: "ngi siib se, aˊ tai hi zo binˊ."}
+    check: true
+  - n: 17
+    en: "In the army you must keep to the rules."
+    source: kaga115
+    sx: {hanzi: "在部隊裡肚愛遵守規矩。", pinyin: "coiˊ pu cui diˊ duˋ oi zunˊ suˋ guiˊ giˋ."}
+  - n: 18
+    en: "Every morning before dawn, everyone gathered at the reviewing stand."
+    sx: {hanzi: "逐朝晨天吂光，大家到司令臺集合。", pinyin: "dagˋ zeuˊ siinˇ tienˊ mangˇ gongˊ, tai gaˊ do siiˊ lin toiˇ xib hab."}
+    check: true
+  - n: 19
+    en: "After he left the army he went to work in the coal mine. He was a man of great strength of mind, and his word could be relied on."
+    sx: {hanzi: "退伍過後，阿太去炭礦做事。佢做人當堅強，講話有準則。", pinyin: "tui ngˋ go heu, aˊ tai hi tan kongˋ zo se. giˇ zo nginˇ dongˊ gienˊ kiongˇ, gongˋ fa iuˊ zunˋ zedˋ."}
+    check: true
+  - n: 20
+    en: "One day the ground of the mine suddenly fell in, leaving a great hole. A stone hit him on the back of the head; thanks to the gods' protection, he came to no harm."
+    sx: {hanzi: "有一日，炭礦个地泥好恬恬漯一隻大窟，阿太腦之背分石頭搉著，好得神明庇佑，正無事情。", pinyin: "iuˊ idˋ ngidˋ, tan kongˋ ge ti naiˇ hoˋ diamˊ diamˊ labˋ idˋ zagˋ tai fudˋ, aˊ tai noˋ ziiˊ boi bunˊ sag teuˇ kog cog, hoˋ dedˋ siinˇ minˇ bi iu, zang moˇ sii qinˇ."}
+    check: true
+  - n: 21
+    en: "The truck outside the mine was smashed to pieces too."
+    sx: {hanzi: "炭礦外背个車仔乜撞到綿綿。", pinyin: "tan kongˋ ngoi boi ge caˊ eˋ me cong do mienˇ mienˇ."}
+    check: true
+  - n: 22
+    en: "In the village there was a young man who owed a great deal of money."
+    sx: {hanzi: "莊頭有一個後生人欠人當多錢。", pinyin: "zongˊ teuˇ iuˊ idˋ ge heu sangˊ nginˇ kiam nginˇ dongˊ doˊ qienˇ."}
+    check: true
+  - n: 23
+    en: "His debts drove him to the end of his road."
+    source: kaga115
+    sx: {hanzi: "佢分債務逼到無路好行。", pinyin: "giˇ bunˊ zai vu bedˋ do moˇ lu hoˋ hangˇ."}
+  - n: 24
+    en: "Great-grandfather said to him:"
+    sx: {hanzi: "阿太同佢講：", pinyin: "aˊ tai tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 25
+    en: "Killing yourself solves no problem."
+    source: kaga115
+    sx: {hanzi: "自殺係無法度解決問題个。", pinyin: "cii sadˋ he moˇ fabˋ tu gieˋ giedˋ mun tiˇ ge."}
+  - n: 26
+    en: "He lent him money, and took him to work at the mine. Some people said behind his back that he was a fool. He smiled and said:"
+    sx: {hanzi: "阿太借錢分佢，還帶佢去炭礦做事。有人在背後講阿太當戇。阿太笑笑仔講：", pinyin: "aˊ tai jia qienˇ bunˊ giˇ, hanˇ dai giˇ hi tan kongˋ zo se. iuˊ nginˇ coiˊ boi heuˊ gongˋ aˊ tai dongˊ ngong. aˊ tai seu seu eˋ gongˋ:"}
+    check: true
+  - n: 27
+    en: "Let people talk if they want to: a man must be able to face himself."
+    sx: {hanzi: "人愛講就分佢講，做人愛對得起自家。", pinyin: "nginˇ oi gongˋ qiu bunˊ giˇ gongˋ, zo nginˇ oi dui dedˋ hiˋ qi gaˊ."}
+    check: true
+  - n: 28
+    en: "Great-grandfather married my mother, and she bore him two sons, my brother and me. At the Dragon Boat Festival my mother wrapped rice dumplings."
+    sx: {hanzi: "阿太討吾姆，降𠊎兩兄弟。五月節吾姆會䌈粽仔。", pinyin: "aˊ tai toˋ ngaˊ meˊ, giung ngaiˇ liongˋ hiungˊ ti. ngˋ ngied jiedˋ ngaˊ meˊ voi tagˋ zung eˋ."}
+    check: true
+  - n: 29
+    en: "At the Dragon Boat Festival the Hakka wrap all sorts of dumplings: alkaline dumplings, savoury ones, rice-cake ones."
+    source: kaga115
+    sx: {hanzi: "客人在五月節會䌈粽仔，有焿粽、鹹粽、粄粽這兜。", pinyin: "hagˋ nginˇ coiˊ ngˋ ngied jiedˋ voi tagˋ zung eˋ, iuˊ giˊ zung, hamˇ zung, banˋ zung iaˋ deuˊ."}
+  - n: 30
+    en: "In summer, when he came back from the mine, he would first have a bowl of shaved ice."
+    sx: {hanzi: "熱天，阿太對炭礦轉來，先食一碗冰。", pinyin: "ngied tienˊ, aˊ tai dui tan kongˋ zonˋ loiˇ, xienˊ siid idˋ vonˋ benˊ."}
+    check: true
+  - n: 31
+    en: "An ice in hot weather cools you right through."
+    source: kaga115
+    sx: {hanzi: "熱天食冰透心涼。", pinyin: "ngied tienˊ siid benˊ teu ximˊ liongˇ."}
+  - n: 32
+    en: "One year there was a flood, and the concrete bridge was washed away."
+    sx: {hanzi: "有一年做大水，紅毛泥橋分水打忒。", pinyin: "iuˊ idˋ ngienˇ zo tai suiˋ, fungˇ moˊ naiˇ kieuˇ bunˊ suiˋ daˋ tedˋ."}
+    check: true
+  - n: 33
+    en: "Great-grandfather poled the boat again, carrying the villagers across, and for a month took not a cent."
+    sx: {hanzi: "阿太又撐船，載莊頭个人過河壩，一個月無收一個錢。", pinyin: "aˊ tai iu cang sonˇ, zai zongˊ teuˇ ge nginˇ go hoˇ ba, idˋ ge ngied moˇ suˊ idˋ ge qienˇ."}
+    check: true
+  - n: 34
+    en: "Great-grandfather died at eighty."
+    sx: {hanzi: "阿太八十歲過身。", pinyin: "aˊ tai badˋ siib se go siinˊ."}
+    check: true
+  - n: 35
+    en: "When a parent dies, the son always thinks he has not been filial enough, and so calls himself \"the unfilial son\"."
+    source: kaga115
+    sx: {hanzi: "爺哀過身，做倈仔个總認為係自家不孝，故所自稱不孝男。", pinyin: "iaˇ oiˊ go siinˊ, zo lai eˋ ge zungˋ ngin viˇ he qi gaˊ budˋ hau, gu soˋ cii ciinˊ budˋ hau namˇ."}
+  - n: 36
+    en: "At the tomb-sweeping festival we prepare several sets of offerings, and clear the clumps of grass round the family tomb."
+    sx: {hanzi: "掛紙个時節，𫣆兜愛準備幾下付牲儀，還愛剷祖塔脣个一墩一墩草仔。", pinyin: "gua ziiˋ ge siiˇ jiedˋ, enˊ deuˊ oi zunˋ pi giˋ ha fu senˊ ngiˇ, hanˇ oi canˋ zuˋ tabˋ sunˇ ge idˋ dunˊ idˋ dunˊ coˋ eˋ."}
+    check: true
+  - n: 37
+    en: "When Sam had heard it all, he said: \"Great-grandfather's life is the fruit of his hard work.\""
+    sx: {hanzi: "Sam 聽忒，講：「阿太个一生，就係佢打拚个成果。」", pinyin: "Sam tangˊ tedˋ, gongˋ: aˊ tai ge idˋ sangˊ, qiu he giˇ daˋ biang ge siinˇ goˋ."}
+    check: true
+  - n: 38
+    en: "Grandpa smiled and said: \"When I was small I was very disobedient, and he called me a bad son. Now that I'm a grandfather myself, I understand his heart.\""
+    sx: {hanzi: "阿公笑笑仔講：「𠊎細个時節當毋聽話，阿太罵𠊎係不孝子。這下𠊎做阿公吔，正知佢个心肝。」", pinyin: "aˊ gungˊ seu seu eˋ gongˋ: ngaiˇ se ge siiˇ jiedˋ dongˊ mˇ tangˊ fa, aˊ tai ma ngaiˇ he budˋ hau ziiˋ. iaˋ ha ngaiˇ zo aˊ gungˊ leˊ, zang diˊ giˇ ge ximˊ gonˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      An extra lesson, outside the 70: a short story told in prose, with notes. It teaches 50 words, many of them 初級
+      and 中級 words that found no place in the lessons. 阿太 is Grandpa's father; he survived a mine accident in 進修 43.
+  - ref: 1
+    topic: culture
+    text: >
+      丁丑 denˊ cuˋ is a year of the sixty-year cycle: 丁 is the fourth Heavenly Stem, 丑 the second Earthly Branch. The
+      last 丁丑 years were 1937 and 1997. 世紀 sii gi is "century".
+  - ref: 3
+    topic: vocab
+    text: >
+      打擊 daˋ gidˋ "blow, shock". The sentence is official.
+  - ref: 4
+    topic: vocab
+    text: >
+      後哀 heu oiˊ "stepmother". In line 5, 無分前後 is "without distinguishing the first wife's children from her own".
+  - ref: 6
+    topic: vocab
+    text: >
+      綱 gongˊ counts a litter or batch of animals: 一綱豬子 "a litter of piglets" (豬子 zuˊ ziiˋ). 蠶仔 camˇ eˋ "silkworm";
+      桑 songˊ in line 7 is the mulberry. 飼飯 cii fan "feed rice to (a child)": 飼 is from 進修 45. 勻 iunˇ "spread
+      evenly" (摎穀勻開來晒 is official).
+  - ref: 8
+    topic: vocab
+    text: >
+      臨臨仔 limˊ limˊ eˋ "barely, only just".
+  - ref: 9
+    topic: vocab
+    text: >
+      紅毛泥橋 fungˇ moˊ naiˇ kieuˇ "concrete bridge": 紅毛泥 "red-haired (Dutch) mud" is the old word for cement. 撐船 cang
+      sonˇ "pole a boat" (這條河壩無橋，愛撐船正過得去).
+  - ref: 10
+    topic: vocab
+    text: >
+      暈船 hinˇ sonˇ "be seasick"; 翻 ponˊ "vomit, bring up" (the list's sense 嘔、吐). The second half of the line is an
+      official sentence.
+  - ref: 11
+    topic: vocab
+    text: >
+      乙 iedˋ and 丙 biangˋ are the second and third Heavenly Stems, used as grades: 乙等 "B", 丙等 "C".
+  - ref: 12
+    topic: vocab
+    text: >
+      急性 gibˋ xin "hot-tempered, impatient". 口涎渣 heuˋ lanˊ zaˊ "spittle sprayed while talking"; 噴 pun "spray".
+  - ref: 13
+    topic: vocab
+    text: >
+      除 cuˇ "divide": 一百除十 "a hundred divided by ten".
+  - ref: 14
+    topic: vocab
+    text: >
+      吂得時 mangˇ dedˋ siiˇ "it's early yet, there's plenty of time": the official sentence is 吂得時啦！定定仔來。 Here it is
+      cheek to a teacher.
+  - ref: 15
+    topic: vocab
+    text: >
+      擗 biag "slap with the flat of the hand": 擗嘴角 "slap across the mouth".
+  - ref: 17
+    topic: vocab
+    text: >
+      部隊 pu cui "army unit; the army". 遵 zunˊ: 遵守 "keep to (rules)".
+  - ref: 18
+    topic: vocab
+    text: >
+      司令臺 siiˊ lin toiˇ: the stand from which a parade or a school assembly is addressed. 集合 xib hab "gather".
+  - ref: 19
+    topic: vocab
+    text: >
+      堅強 gienˊ kiongˇ "strong (in mind)". 準則 zunˋ zedˋ "principle, standard": 講話有準則 "his word can be relied on" (the
+      opposite of 該人講話無準則).
+  - ref: 20
+    topic: vocab
+    text: >
+      漯 labˋ "cave in, sink": 漯一隻大窟 "fall in, leaving a big hole" (窟 fudˋ "hole, pit"). 腦之背 noˋ ziiˊ boi "the back
+      of the head"; 搉 kog "knock, hit". 庇佑 is from 進修 43.
+  - ref: 21
+    topic: vocab
+    text: >
+      綿綿 mienˇ mienˇ "smashed to bits" (歸臺車仔撞到綿綿).
+  - ref: 23
+    topic: vocab
+    text: >
+      逼 bedˋ "force, drive": 逼到無路好行 "driven to the end of the road". 債務 zai vu "debts".
+  - ref: 25
+    topic: culture
+    text: >
+      自殺 cii sadˋ "suicide, kill oneself": the official sentence says it solves no problem. In this story, help
+      comes from a neighbour, a loan and a job. Anyone who thinks of it today can call a helpline: in Taiwan 1925,
+      in France 3114.
+  - ref: 27
+    topic: grammar
+    text: >
+      "Let them talk" is 人愛講就分佢講. 對得起自家 "be able to face oneself".
+  - ref: 29
+    topic: vocab
+    text: >
+      焿粽 giˊ zung "alkaline rice dumpling", eaten cold with sugar or honey; 粄粽 is a dumpling of rice-flour dough. 粽
+      zung appears only in compounds in the lists.
+  - ref: 31
+    topic: vocab
+    text: >
+      透心涼 teu ximˊ liongˇ "cool right through".
+  - ref: 35
+    topic: culture
+    text: >
+      不孝男 budˋ hau namˇ: the son of the dead calls himself so in mourning, on the notices and in the rites (the
+      official sentence explains it). 自稱 is "call oneself"; 總 zungˋ "always".
+  - ref: 36
+    topic: vocab
+    text: >
+      付 fu counts sets: 幾下付牲儀 "several sets of offerings" (牲儀 senˊ ngiˇ). 墩 dunˊ "clump of grass, mound": 一墩一墩
+      "clump after clump". 祖塔 is from 進修 43.
+  - ref: 37
+    topic: vocab
+    text: >
+      成果 siinˇ goˋ "result, fruit of work".
+  - ref: 38
+    topic: vocab
+    text: >
+      不孝子 budˋ hau ziiˋ "unfilial son", a scolding (阿明毋聽話，阿姆罵佢係不孝子).
+
+new_words:
+  - {hanzi: "丁", pinyin: "denˊ", en: "the fourth Heavenly Stem (丁丑, a year name)"}
+  - {hanzi: "世紀", pinyin: "sii gi", en: "century"}
+  - {hanzi: "打擊", pinyin: "daˋ gidˋ", en: "blow, shock"}
+  - {hanzi: "後哀", pinyin: "heu oiˊ", en: "stepmother"}
+  - {hanzi: "綱", pinyin: "gongˊ", en: "(measure for a litter of animals)"}
+  - {hanzi: "蠶仔", pinyin: "camˇ eˋ", en: "silkworm"}
+  - {hanzi: "飼飯", pinyin: "cii fan", en: "feed (someone) rice, feed a child"}
+  - {hanzi: "勻", pinyin: "iunˇ", en: "spread evenly"}
+  - {hanzi: "臨臨仔", pinyin: "limˊ limˊ eˋ", en: "barely, only just"}
+  - {hanzi: "紅毛泥橋", pinyin: "fungˇ moˊ naiˇ kieuˇ", en: "concrete bridge"}
+  - {hanzi: "撐船", pinyin: "cang sonˇ", en: "pole a boat"}
+  - {hanzi: "翻", pinyin: "ponˊ", en: "vomit, bring up"}
+  - {hanzi: "乙", pinyin: "iedˋ", en: "second grade, B"}
+  - {hanzi: "丙", pinyin: "biangˋ", en: "third grade, C"}
+  - {hanzi: "急性", pinyin: "gibˋ xin", en: "hot-tempered, impatient"}
+  - {hanzi: "口涎渣", pinyin: "heuˋ lanˊ zaˊ", en: "spittle (sprayed while talking)"}
+  - {hanzi: "除", pinyin: "cuˇ", en: "divide"}
+  - {hanzi: "吂得時", pinyin: "mangˇ dedˋ siiˇ", en: "there is plenty of time, it's early yet"}
+  - {hanzi: "擗", pinyin: "biag", en: "slap"}
+  - {hanzi: "部隊", pinyin: "pu cui", en: "army unit, the army"}
+  - {hanzi: "司令臺", pinyin: "siiˊ lin toiˇ", en: "reviewing stand"}
+  - {hanzi: "堅強", pinyin: "gienˊ kiongˇ", en: "strong (of mind)"}
+  - {hanzi: "準則", pinyin: "zunˋ zedˋ", en: "principle, standard"}
+  - {hanzi: "漯", pinyin: "labˋ", en: "cave in, sink"}
+  - {hanzi: "腦之背", pinyin: "noˋ ziiˊ boi", en: "back of the head"}
+  - {hanzi: "綿綿", pinyin: "mienˇ mienˇ", en: "smashed to bits"}
+  - {hanzi: "逼", pinyin: "bedˋ", en: "force, drive"}
+  - {hanzi: "自殺", pinyin: "cii sadˋ", en: "kill oneself"}
+  - {hanzi: "焿粽", pinyin: "giˊ zung", en: "alkaline rice dumpling"}
+  - {hanzi: "透心涼", pinyin: "teu ximˊ liongˇ", en: "cool right through"}
+  - {hanzi: "不孝男", pinyin: "budˋ hau namˇ", en: "the unfilial son (said of oneself in mourning)"}
+  - {hanzi: "付", pinyin: "fu", en: "set (measure)"}
+  - {hanzi: "墩", pinyin: "dunˊ", en: "clump (of grass), mound"}
+  - {hanzi: "成果", pinyin: "siinˇ goˋ", en: "result, fruit (of work)"}
+  - {hanzi: "丑", pinyin: "cuˋ", en: "the second Earthly Branch (丁丑, a year name)"}
+  - {hanzi: "暈船", pinyin: "hinˇ sonˇ", en: "be seasick"}
+  - {hanzi: "噴", pinyin: "pun", en: "spray, spurt"}
+  - {hanzi: "遵", pinyin: "zunˊ", en: "follow, obey (遵守 \"keep to\")"}
+  - {hanzi: "集合", pinyin: "xib hab", en: "gather, assemble"}
+  - {hanzi: "搉", pinyin: "kog", en: "knock, hit"}
+  - {hanzi: "窟", pinyin: "fudˋ", en: "hole, pit"}
+  - {hanzi: "債務", pinyin: "zai vu", en: "debt"}
+  - {hanzi: "粽", pinyin: "zung", en: "rice dumpling (in compounds)"}
+  - {hanzi: "不孝", pinyin: "budˋ hau", en: "unfilial"}
+  - {hanzi: "稱", pinyin: "ciinˊ", en: "call (自稱 \"call oneself\")"}
+  - {hanzi: "總", pinyin: "zungˋ", en: "always"}
+  - {hanzi: "牲儀", pinyin: "senˊ ngiˇ", en: "offerings (for a rite)"}
+  - {hanzi: "豬子", pinyin: "zuˊ ziiˋ", en: "piglet"}
+  - {hanzi: "桑", pinyin: "songˊ", en: "mulberry"}
+  - {hanzi: "不孝子", pinyin: "budˋ hau ziiˋ", en: "unfilial son"}
+
+exercises:
+  translate:
+    - en: "A litter of piglets."
+      source: kaga115
+      sx: {hanzi: "一綱豬子。", pinyin: "idˋ gongˊ zuˊ ziiˋ."}
+    - en: "The glass jar is smashed to bits."
+      source: kaga115
+      sx: {hanzi: "玻璃盎仔爛到綿綿。", pinyin: "boˊ liˇ angˊ eˋ lan do mienˇ mienˇ."}
+    - en: "That man's word can't be relied on."
+      source: kaga115
+      sx: {hanzi: "該人講話無準則。", pinyin: "ge nginˇ gongˋ fa moˇ zunˋ zedˋ."}
+    - en: "This house is the fruit of Great-grandfather's hard work."
+      sx: {hanzi: "這間屋係阿太打拚个成果。", pinyin: "iaˋ gienˊ vugˋ he aˊ tai daˋ biang ge siinˇ goˋ."}
+    - en: "His parents died one after the other, yet he is still very strong."
+      source: kaga115
+      sx: {hanzi: "爺哀連等過身，佢還係當堅強。", pinyin: "iaˇ oiˊ lienˇ denˋ go siinˊ, giˇ hanˇ he dongˊ gienˊ kiongˇ."}
+  fill:
+    - en: "He was born in the year Dingchou."
+      sx: {hanzi: "佢係___丑年出世个。", pinyin: "giˇ he ___ cuˋ ngienˇ cudˋ se ge.", answer_hanzi: "丁", answer: "denˊ"}
+    - en: "This is the twenty-first century."
+      sx: {hanzi: "這下係二十一___。", pinyin: "iaˋ ha he ngi siib idˋ ___.", answer_hanzi: "世紀", answer: "sii gi"}
+    - en: "This place is so narrow that it barely makes two rooms."
+      sx: {hanzi: "這位恁狹，___做兩隻間房。", pinyin: "iaˋ vi anˋ hab, ___ zo liongˋ zagˋ gienˊ fongˇ.", answer_hanzi: "臨臨仔", answer: "limˊ limˊ eˋ"}
+    - en: "He is rather impatient."
+      sx: {hanzi: "佢較___。", pinyin: "giˇ ka ___.", answer_hanzi: "急性", answer: "gibˋ xin"}
+    - en: "A clump of grass."
+      sx: {hanzi: "一墩___仔。", pinyin: "idˋ dunˊ ___ eˋ.", answer_hanzi: "草", answer: "coˋ"}
+
+audio: []

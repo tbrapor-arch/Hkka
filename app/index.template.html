@@ -627,7 +627,7 @@ function renderTabs(cur) {
 const TOTAL = 100, PART2 = 100, PTOTAL = 70;
 const isP = id => id > PART2;
 const lnum = id => isP(id) ? 'P' + (id - PART2) : String(id);
-const lname = id => isP(id) ? `進修 ${id - PART2}` : `Lesson ${id}`;
+const lname = id => id > PART2 + PTOTAL ? `外篇 ${id - PART2 - PTOTAL}` : isP(id) ? `進修 ${id - PART2}` : `Lesson ${id}`;
 const waveOff = id => isP(id) ? 35 : 49;
 const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
 // the accent shown: Hailu only exists in Part 1
@@ -672,6 +672,7 @@ function showLessons() {
       <span class="sub" style="font-size:.85rem">${pdone} done · ${pwritten} of ${PTOTAL} written</span></section>
     ${(DATA.bridge || []).length ? `<button class="item" data-go="bridge-0"><span class="no">橋</span><span><span class="tt">其他腔調</span><br><span class="ts">Bridge · from Sixian to Hailu, South Sixian, Dapu, Raoping, Zhao'an · ${DATA.bridge.length} pages, before 進修 1</span></span><span class="chev">›</span></button>` : ''}
     <div class="lgrid pgrid">${p2.map(id => tile(byId, id, next)).join('')}</div>
+    ${(() => { const ex = DATA.lessons.filter(l => l.id > PART2 + PTOTAL).map(l => l.id); return ex.length ? `<p class="sub" style="margin:0"><span class="han">外篇</span> Extra stories, outside the 70: short stories with notes for the last 初級 and 中級 words.</p><div class="lgrid pgrid">${ex.map(id => tile(byId, id, next)).join('')}</div>` : ''; })()}
     <details class="journal"><summary><span class="han">日記</span> Journal (${journal.length})</summary>
       ${journal.length ? `<ul>${journal.map(([d, n, k]) => { const l = byId[n]; return `<li><time>${fmtDate(d)}</time><button class="linkish" data-go="${k}-${n}">${k === 'wave' ? 'Second wave · ' : ''}${lname(n)} · ${esc(l ? l.title.en : '')}</button></li>`; }).join('')}</ul>`
         : '<p class="sub">Lessons you finish show up here with their date.</p>'}</details>

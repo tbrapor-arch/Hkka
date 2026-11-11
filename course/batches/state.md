@@ -121,3 +121,7 @@ style of 採茶戲, not a sung one.
 - P70 (last lesson, review), Sat 2 Mar 2030, dinner at the Liu house with 上屋叔婆. 阿傑 has opened a shop in
   Taipei (thread closed). Grandpa: six months without tobacco. Sam stays in Taiwan and will sit the exam for
   graduate school. Last line of the course: 講客話，𠊎還吂過願！
+- 外篇 1 (id 171, extra): the life of 阿太, told by Grandpa (invented): born 1937, a stepmother, the ferry, the army,
+  the coal mine, helping an indebted young man; died at eighty.
+- 外篇 2 (id 172, extra): March 2030, 阿傑 takes the 粄條 to a food fair in France; Lucie helps; a French company
+  wants to buy every month.

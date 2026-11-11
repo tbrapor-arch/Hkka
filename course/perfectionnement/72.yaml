@@ -1,0 +1,262 @@
+id: 72
+genre: story
+title:
+  en: "Rice noodles go west"
+  sx: {hanzi: "粄條去西方", pinyin: "banˋ tiauˇ hi xiˊ fongˊ"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. A short story with notes: in March 2030 阿傑 takes the factory's 粄條 to a food fair in
+  France, where Sam's sister Lucie, who speaks only French, helps him. The fair and the events are invented.
+names: [Sam, 阿舅, 阿傑, Lucie]
+
+dialogue:
+  - n: 1
+    en: "In March, A-kied wanted to sell the rice noodles to Westerners. Uncle, who is more cautious, said:"
+    sx: {hanzi: "三月，阿傑想愛同粄條賣分西方人。阿舅較保守，佢講：", pinyin: "samˊ ngied, aˊ kied xiongˋ oi tungˇ banˋ tiauˇ mai bunˊ xiˊ fongˊ nginˇ. aˊ kiuˊ ka boˋ suˋ, giˇ gongˋ:"}
+    check: true
+  - n: 2
+    en: "Western and Eastern cultures differ a great deal."
+    source: kaga115
+    sx: {hanzi: "西方摎東方个文化差當多。", pinyin: "xiˊ fongˊ lauˊ dungˊ fongˊ ge vunˇ fa caˊ dongˊ doˊ."}
+  - n: 3
+    en: "A-kied said: \"This is the twenty-first century, not the old days.\" So Uncle said no more."
+    sx: {hanzi: "阿傑講：「這下係二十一世紀，毋係頭擺。」阿舅就無𫝘過講。", pinyin: "aˊ kied gongˋ: iaˋ ha he ngi siib idˋ sii gi, mˇ he teuˇ baiˋ. aˊ kiuˊ qiu moˇ ang go gongˋ."}
+    check: true
+  - n: 4
+    en: "If I say it again, he'll get angry."
+    source: kaga115
+    sx: {hanzi: "係𫝘過講，佢斯會譴。", pinyin: "he ang go gongˋ, giˇ siiˇ voi kienˋ."}
+  - n: 5
+    en: "The French company wanted the factory's papers. A-kied said:"
+    sx: {hanzi: "法國个公司愛工廠个資料。阿傑講：", pinyin: "fabˋ guedˋ ge gungˊ siiˊ oi gungˊ congˋ ge ziiˊ liau. aˊ kied gongˋ:"}
+    check: true
+  - n: 6
+    en: "Fax the papers over, and I'll let you know when they arrive."
+    source: kaga115
+    sx: {hanzi: "資料傳真過來，收著會同你講。", pinyin: "ziiˊ liau conˇ ziinˊ go loiˇ, suˊ doˋ voi tungˇ nˇ gongˋ."}
+  - n: 7
+    en: "The noodles were packed into one huge crate and sent by ship. When Uncle saw it, he said:"
+    sx: {hanzi: "粄條裝做一大箱，坐船過去。阿舅看著講：", pinyin: "banˋ tiauˇ zongˊ zo idˋ tai xiongˊ, coˊ sonˇ go hi. aˊ kiuˊ kon doˋ gongˋ:"}
+    check: true
+  - n: 8
+    en: "\"That must weigh fifty tons!\""
+    sx: {hanzi: "「這怕有五十噸重哦！」", pinyin: "iaˋ pa iuˊ ngˋ siib dunˋ cungˊ oˊ!"}
+    check: true
+  - n: 9
+    en: "A-kied said it wasn't that heavy, only two tons. Oil keeps going up now, so shipping goods costs more too."
+    sx: {hanzi: "阿傑講無恁重，正兩噸。這下石油緊起價，坐船載貨乜愛較貴。", pinyin: "aˊ kied gongˋ moˇ anˋ cungˊ, zang liongˋ dunˋ. iaˋ ha sag iuˇ ginˋ hiˋ ga, coˊ sonˇ zoi fo me oi ka gui."}
+    check: true
+  - n: 10
+    en: "A-kied went through departures at the airport and flew fourteen hours to Europe. On the earth there are seven great land masses: the seven continents. Sam's sister Lucie was waiting for him in France."
+    sx: {hanzi: "阿傑在機場出境，坐十四點鐘个飛行機到歐洲。地球項有七大片大陸，就係七大洲。Sam 屋下个 Lucie 在法國等佢。", pinyin: "aˊ kied coiˊ giˊ congˇ cudˋ gin, coˊ siib xi diamˋ zungˊ ge biˊ hangˇ giˊ do euˊ zuˊ. ti kiuˇ hong iuˊ qidˋ tai pienˋ tai liug, qiu he qidˋ tai zuˊ. Sam vugˋ kaˊ ge Lucie coiˊ fabˋ guedˋ denˋ giˇ."}
+    check: true
+  - n: 11
+    en: "Lucie speaks only French, and A-kied only Hakka and Mandarin: talking was hard for the two of them."
+    sx: {hanzi: "Lucie 淨會講法國話，阿傑淨會講客話同華語，兩儕講話有障礙。", pinyin: "Lucie qiang voi gongˋ fabˋ guedˋ fa, aˊ kied qiang voi gongˋ hagˋ fa tungˇ faˇ ngiˊ, liongˋ saˇ gongˋ fa iuˊ zong ngoi."}
+    check: true
+  - n: 12
+    en: "Overcome the barrier in your mind."
+    source: kaga115
+    sx: {hanzi: "克服心理个障礙。", pinyin: "kiedˋ fug ximˊ liˊ ge zong ngoi."}
+  - n: 13
+    en: "The two of them talked with their hands, and still made themselves understood."
+    sx: {hanzi: "佢兩儕比手畫腳，乜做得溝通。", pinyin: "giˇ liongˋ saˇ biˋ suˋ fa giogˋ, me zo dedˋ gieuˊ tungˊ."}
+    check: true
+  - n: 14
+    en: "On the first day of the fair, A-kied cooked rice noodles for people to taste."
+    sx: {hanzi: "大會个第一日，阿傑煮粄條分人試食。", pinyin: "tai fi ge ti idˋ ngidˋ, aˊ kied zuˋ banˋ tiauˇ bunˊ nginˇ cii siid."}
+    check: true
+  - n: 15
+    en: "The French said rice noodles look much like pasta but taste different. Someone asked how to cook them."
+    sx: {hanzi: "法國人講粄條个形體同麵差毋多，味緒就無共樣。有人問用法。", pinyin: "fabˋ guedˋ nginˇ gongˋ banˋ tiauˇ ge hinˇ tiˋ tungˇ mien caˊ mˇ doˊ, mi xi qiu moˇ kiung iong. iuˊ nginˇ mun iung fabˋ."}
+    check: true
+  - n: 16
+    en: "A-kied laughed: \"My noodles aren't medicine! But the instructions are on the back of the packet too.\""
+    sx: {hanzi: "阿傑笑講：「𠊎个粄條毋係藥仔！毋過袋仔後背乜有寫用法。」", pinyin: "aˊ kied seu gongˋ: ngaiˇ ge banˋ tiauˇ mˇ he iog eˋ! mˇ go toi eˋ heu boi me iuˊ xiaˋ iung fabˋ."}
+    check: true
+  - n: 17
+    en: "The man at the next stall was selling lamb."
+    sx: {hanzi: "隔壁擺攤仔个人賣羊肉。", pinyin: "gagˋ biagˋ baiˋ tanˊ eˋ ge nginˇ mai iongˇ ngiugˋ."}
+    check: true
+  - n: 18
+    en: "Their lamb doesn't smell gamey: it's very good."
+    source: kaga115
+    sx: {hanzi: "厥羊肉毋會臭臊，當好食。", pinyin: "giaˊ iongˇ ngiugˋ mˇ voi cu soˊ, dongˊ hoˋ siid."}
+  - n: 19
+    en: "A-kied bought a leather bag as a present for Lucie."
+    sx: {hanzi: "阿傑買一隻皮包仔送 Lucie。", pinyin: "aˊ kied maiˊ idˋ zagˋ piˇ bauˊ eˋ sung Lucie."}
+    check: true
+  - n: 20
+    en: "This leather bag is very hard-wearing: it still isn't worn out."
+    source: kaga115
+    sx: {hanzi: "這皮包仔十分耐用，到今吂壞。", pinyin: "iaˋ piˇ bauˊ eˋ siib funˊ nai iung, do gimˊ mangˇ faiˋ."}
+  - n: 21
+    en: "One man told A-kied the noodles were good, then turned round and told people:"
+    sx: {hanzi: "有一個人在阿傑面前講粄條好食，轉身就同人講：", pinyin: "iuˊ idˋ ge nginˇ coiˊ aˊ kied mien qienˇ gongˋ banˋ tiauˇ hoˋ siid, zonˋ siinˊ qiu tungˇ nginˇ gongˋ:"}
+    check: true
+  - n: 22
+    en: "\"Eastern food: Westerners can't get used to it.\""
+    sx: {hanzi: "「東方人个東西，西方人食毋慣。」", pinyin: "dungˊ fongˊ nginˇ ge dungˊ xiˊ, xiˊ fongˊ nginˇ siid mˇ guan."}
+    check: true
+  - n: 23
+    en: "Outwardly he says they are good; in his heart he doesn't think so."
+    sx: {hanzi: "佢表面講好食，心肝肚毋係恁樣想。", pinyin: "giˇ beuˋ mien gongˋ hoˋ siid, ximˊ gonˊ duˋ mˇ he anˋ ngiongˇ xiongˋ."}
+    check: true
+  - n: 24
+    en: "But the noodles sold out. More than half the people who tasted them bought two packets."
+    sx: {hanzi: "毋過粄條賣到淨淨。來試食个人，半額以上都買兩包。", pinyin: "mˇ go banˋ tiauˇ mai do qiang qiang. loiˇ cii siid ge nginˇ, ban ngiagˋ iˊ song du maiˊ liongˋ bauˊ."}
+    check: true
+  - n: 25
+    en: "On the third day, the French company asked A-kied: \"Has anyone a more concrete idea?\""
+    sx: {hanzi: "第三日，法國个公司同阿傑講：「大家還有較進一步个想法無？」", pinyin: "ti samˊ ngidˋ, fabˋ guedˋ ge gungˊ siiˊ tungˇ aˊ kied gongˋ: tai gaˊ hanˇ iuˊ ka jin idˋ pu ge xiongˋ fabˋ moˇ?"}
+    check: true
+  - n: 26
+    en: "A-kied's noodles won everyone's approval, and the company wanted to buy every month."
+    sx: {hanzi: "阿傑个粄條受著大家个肯定，公司想逐隻月買。", pinyin: "aˊ kied ge banˋ tiauˇ su cog tai gaˊ ge kienˋ tin, gungˊ siiˊ xiongˋ dagˋ zagˋ ngied maiˊ."}
+    check: true
+  - n: 27
+    en: "Before coming back, A-kied went for a walk in the streets with Lucie. There was a heap of dog mess on the pavement, and he nearly stepped in it."
+    sx: {hanzi: "轉來前，阿傑同 Lucie 去街項行。路項有一垺狗屎，阿傑差一息仔就踏著。", pinyin: "zonˋ loiˇ qienˇ, aˊ kied tungˇ Lucie hi gieˊ hong hangˇ. lu hong iuˊ idˋ puˇ gieuˋ siiˋ, aˊ kied caˊ idˋ xid eˋ qiu tab cog."}
+    check: true
+  - n: 28
+    en: "A-kied says that what he is after is not money, but for many people to eat good rice noodles."
+    sx: {hanzi: "阿傑講，佢追求个毋係錢，係分當多人食著好食个粄條。", pinyin: "aˊ kied gongˋ, giˇ duiˊ kiuˇ ge mˇ he qienˇ, he bunˊ dongˊ doˊ nginˇ siid cog hoˋ siid ge banˋ tiauˇ."}
+    check: true
+  - n: 29
+    en: "Uncle was delighted to hear it: \"Learn the good things! Not like those who take drugs.\""
+    sx: {hanzi: "阿舅聽著當歡喜：「好个就愛學！毋好學人食毒。」", pinyin: "aˊ kiuˊ tangˊ cog dongˊ fonˊ hiˋ: hoˋ ge qiu oi hog! mˇ hoˋ hog nginˇ siid tug."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The second extra lesson: a short story with notes. 阿傑 opened his shop in Taipei in 進修 70; here the noodles go
+      abroad. Lucie is Sam's sister, who came to Taiwan in lesson 97.
+  - ref: 1
+    topic: vocab
+    text: >
+      西方 xiˊ fongˊ "the West", 東方 dungˊ fongˊ "the East" (line 2). 保守 boˋ suˋ "cautious, conservative" (佢這儕人較保守).
+  - ref: 3
+    topic: vocab
+    text: >
+      𫝘過 ang go "again, once more": 無𫝘過講 "said no more". 世紀 is from 進修 71.
+  - ref: 6
+    topic: vocab
+    text: >
+      傳真 conˇ ziinˊ "fax", noun and verb.
+  - ref: 8
+    topic: vocab
+    text: >
+      噸 dunˋ "ton". The official sentence ends in 喔; the course writes 哦.
+  - ref: 9
+    topic: vocab
+    text: >
+      石油 sag iuˇ "oil, petroleum" (阿拉伯出產石油). 載貨 zoi fo "carry goods".
+  - ref: 10
+    topic: vocab
+    text: >
+      出境 cudˋ gin "leave the country": at an airport, "go through departures" (機場入境出境个海關). 洲 zuˊ "continent": 歐洲 euˊ
+      zuˊ "Europe", 亞洲 "Asia". The sentence about the seven continents is official.
+  - ref: 11
+    topic: vocab
+    text: >
+      障礙 zong ngoi "obstacle, barrier": 講話有障礙 "find it hard to talk to each other". Line 12 is official: 克服心理个障礙.
+  - ref: 13
+    topic: vocab
+    text: >
+      比手畫腳 is "talk with one's hands"; 溝通 "communicate" (official: 佢兩儕講个話無共樣，比手畫腳，也做得溝通).
+  - ref: 15
+    topic: vocab
+    text: >
+      形體 hinˇ tiˋ "shape, form". 用法 iung fabˋ "directions for use".
+  - ref: 17
+    topic: vocab
+    text: >
+      羊肉 iongˇ ngiugˋ "mutton, lamb". 臭臊 cu soˊ in line 18 is the strong smell of mutton.
+  - ref: 19
+    topic: vocab
+    text: >
+      耐用 nai iung "durable, hard-wearing".
+  - ref: 21
+    topic: vocab
+    text: >
+      表面 beuˋ mien "the surface; outwardly" (line 23). The list's sentence is 佢表面項係恁樣講，私底下就毋知吔！
+  - ref: 24
+    topic: vocab
+    text: >
+      半額 ban ngiagˋ "half (of the people)": 半額以上 "more than half" (半額个人都無意見).
+  - ref: 25
+    topic: vocab
+    text: >
+      進一步 jin idˋ pu "further, more concrete": the official sentence is 大家還有較進一步个想法無？
+  - ref: 26
+    topic: vocab
+    text: >
+      肯定 kienˋ tin "approval, recognition": 受著大家个肯定 "win everyone's approval" (受 su "receive").
+  - ref: 27
+    topic: vocab
+    text: >
+      垺 puˇ "heap", as a measure: 一垺屎 (屎 siiˋ). Paris pavements are known for it (general knowledge).
+  - ref: 28
+    topic: vocab
+    text: >
+      追求 duiˊ kiuˇ "pursue, seek".
+  - ref: 29
+    topic: vocab
+    text: >
+      食毒 siid tug "take drugs": 毒 is read tug (進修 64). The official sentence is 好个毋學，學人食毒！
+
+new_words:
+  - {hanzi: "西方", pinyin: "xiˊ fongˊ", en: "the West"}
+  - {hanzi: "保守", pinyin: "boˋ suˋ", en: "cautious, conservative"}
+  - {hanzi: "東方", pinyin: "dungˊ fongˊ", en: "the East"}
+  - {hanzi: "𫝘過", pinyin: "ang go", en: "again, once more"}
+  - {hanzi: "傳真", pinyin: "conˇ ziinˊ", en: "fax"}
+  - {hanzi: "噸", pinyin: "dunˋ", en: "ton"}
+  - {hanzi: "石油", pinyin: "sag iuˇ", en: "oil, petroleum"}
+  - {hanzi: "出境", pinyin: "cudˋ gin", en: "leave the country, go through departures"}
+  - {hanzi: "洲", pinyin: "zuˊ", en: "continent (歐洲 \"Europe\")"}
+  - {hanzi: "障礙", pinyin: "zong ngoi", en: "obstacle, barrier"}
+  - {hanzi: "形體", pinyin: "hinˇ tiˋ", en: "shape, form"}
+  - {hanzi: "用法", pinyin: "iung fabˋ", en: "directions for use"}
+  - {hanzi: "臭臊", pinyin: "cu soˊ", en: "gamey, smelling of mutton"}
+  - {hanzi: "耐用", pinyin: "nai iung", en: "durable, hard-wearing"}
+  - {hanzi: "表面", pinyin: "beuˋ mien", en: "the surface, outwardly"}
+  - {hanzi: "半額", pinyin: "ban ngiagˋ", en: "half (of a number of people)"}
+  - {hanzi: "進一步", pinyin: "jin idˋ pu", en: "further, more concrete"}
+  - {hanzi: "肯定", pinyin: "kienˋ tin", en: "approval, recognition; affirm"}
+  - {hanzi: "垺", pinyin: "puˇ", en: "heap (measure)"}
+  - {hanzi: "追求", pinyin: "duiˊ kiuˇ", en: "pursue, seek"}
+  - {hanzi: "食毒", pinyin: "siid tug", en: "take drugs"}
+  - {hanzi: "羊肉", pinyin: "iongˇ ngiugˋ", en: "mutton, lamb"}
+  - {hanzi: "受", pinyin: "su", en: "receive"}
+  - {hanzi: "屎", pinyin: "siiˋ", en: "dung, droppings"}
+  - {hanzi: "載貨", pinyin: "zoi fo", en: "carry goods"}
+
+exercises:
+  translate:
+    - en: "He is rather conservative."
+      source: kaga115
+      sx: {hanzi: "佢這儕人較保守。", pinyin: "giˇ iaˋ saˇ nginˇ ka boˋ suˋ."}
+    - en: "Oil is getting dearer and dearer."
+      sx: {hanzi: "石油緊來緊貴。", pinyin: "sag iuˇ ginˋ loiˇ ginˋ gui."}
+    - en: "Uncle wants to understand French taste further."
+      sx: {hanzi: "阿舅想愛進一步了解法國人个口味。", pinyin: "aˊ kiuˊ xiongˋ oi jin idˋ pu liauˋ gieˋ fabˋ guedˋ nginˇ ge heuˋ mi."}
+    - en: "Belts nowadays are very hard-wearing."
+      sx: {hanzi: "這下个褲搭仔當耐用。", pinyin: "iaˋ ha ge fu dabˋ eˋ dongˊ nai iung."}
+    - en: "Half the customers who came were young people."
+      sx: {hanzi: "來个人客，半額係後生人。", pinyin: "loiˇ ge nginˇ hagˋ, ban ngiagˋ he heu sangˊ nginˇ."}
+  fill:
+    - en: "Barred from leaving the country."
+      sx: {hanzi: "限制___。", pinyin: "han zii ___.", answer_hanzi: "出境", answer: "cudˋ gin"}
+    - en: "His research won everyone's recognition."
+      sx: {hanzi: "厥研究受著大家个___。", pinyin: "giaˊ ngienˇ giu su cog tai gaˊ ge ___.", answer_hanzi: "肯定", answer: "kienˋ tin"}
+    - en: "Uncle didn't ask again."
+      sx: {hanzi: "阿舅無___問。", pinyin: "aˊ kiuˊ moˇ ___ mun.", answer_hanzi: "𫝘過", answer: "ang go"}
+    - en: "Not learning the good things, but copying people who take drugs!"
+      sx: {hanzi: "好个毋學，學人___！", pinyin: "hoˋ ge mˇ hog, hog nginˇ ___!", answer_hanzi: "食毒", answer: "siid tug"}
+    - en: "Some people don't like the gamey smell of mutton."
+      sx: {hanzi: "有兜人驚羊肉___。", pinyin: "iuˊ deuˊ nginˇ giangˊ iongˇ ngiugˋ ___.", answer_hanzi: "臭臊", answer: "cu soˊ"}
+
+audio: []
