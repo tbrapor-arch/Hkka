@@ -50,6 +50,7 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 ## People and story
 - 上屋叔婆 is the old woman up Sam's lane (P37); 黃醫生 is the retired doctor of 公館 (P24, P40); 阿傑 manages 阿舅's
   factory from April 2029 (P42).
+- 阿舅's factory in 竹東 makes 粄條, not 麵 (lesson 53, 進修 39). His wife is 舅姆.
 - Sam (French, surname Martin) calls Mrs Liu 伯姆. 阿姆 is for A-in and A-min. Sam has a sister, Lucie.
 - 阿太 is Grandpa's father. 姐婆 is the maternal grandmother. 頭家 is the owner, not the waiter.
 - Sam spent the winter of 2026–27 with the Lius: nothing in Part 2 is his "first" winter or New Year in Taiwan.

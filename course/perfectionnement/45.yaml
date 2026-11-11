@@ -5,8 +5,8 @@ title:
   sx: {hanzi: "講著錢，就會打壞感情", pinyin: "gongˋ doˋ qienˇ, qiu voi daˋ fai gamˋ qinˇ"}
 review: false
 setting: >-
-  Saturday 28 April 2029, afternoon, 阿舅's noodle factory in 竹東, on its open day for children. 阿傑 is the manager now.
-  A-in and A-min have come to help.
+  Saturday 28 April 2029, afternoon, 阿舅's flat rice noodle (粄條) factory in 竹東, on its open day for children. 阿傑 is
+  the manager now. A-in and A-min have come to help.
 names: [阿舅, 阿傑, 阿英, 阿明, 師傅]
 
 dialogue:
@@ -30,7 +30,7 @@ dialogue:
     sx: {hanzi: "你愛記得同水龍頭撙緪來，正毋會緊漏水。", pinyin: "nˇ oi gi dedˋ tungˇ suiˋ liungˇ teuˇ zunˋ henˇ loiˇ, zang mˇ voi ginˋ leu suiˋ."}
   - n: 5
     en: "The machines give out a loud noise. The master carries a big sack of the makings for noodles in his arms and tips it into the machine."
-    sx: {hanzi: "機器發出當大个聲。師傅扐一大包做麵个材料，倒落機器肚。", pinyin: "giˊ hi fadˋ cudˋ dongˊ tai ge sangˊ. siiˊ fu led idˋ tai bauˊ zo mien ge coiˇ liau, doˋ log giˊ hi duˋ."}
+    sx: {hanzi: "機器發出當大个聲。師傅扐一大包做粄條个材料，倒落機器肚。", pinyin: "giˊ hi fadˋ cudˋ dongˊ tai ge sangˊ. siiˊ fu led idˋ tai bauˊ zo banˋ tiauˇ ge coiˇ liau, doˋ log giˊ hi duˋ."}
     check: true
   - n: 6
     en: "He works very deftly."
@@ -44,7 +44,7 @@ dialogue:
   - n: 8
     speaker: 阿傑
     en: "The machines have to be serviced once a month: that is what keeps the noodles good. The machines are very powerful, and children must not touch them."
-    sx: {hanzi: "機器逐隻月愛保養一擺，麵个品質正會好。機器个力量當大，細人仔做毋得摸。", pinyin: "giˊ hi dagˋ zagˋ ngied oi boˋ iongˊ idˋ baiˋ, mien ge pinˋ ziidˋ zang voi hoˋ. giˊ hi ge lid liong dongˊ tai, se nginˇ eˋ zomˇ dedˋ miaˊ."}
+    sx: {hanzi: "機器逐隻月愛保養一擺，粄條个品質正會好。機器个力量當大，細人仔做毋得摸。", pinyin: "giˊ hi dagˋ zagˋ ngied oi boˋ iongˊ idˋ baiˋ, banˋ tiauˇ ge pinˋ ziidˋ zang voi hoˋ. giˊ hi ge lid liong dongˊ tai, se nginˇ eˋ zomˇ dedˋ miaˊ."}
     check: true
   - n: 9
     en: "One little boy wanted to go and touch a machine."
@@ -56,7 +56,7 @@ dialogue:
     sx: {hanzi: "喊佢莫去，佢強強愛去。", pinyin: "ham giˇ mog hi, giˇ kiongˇ kiongˇ oi hi."}
   - n: 11
     en: "The packing room is upstairs, where the paper bags are stapled shut. The children followed him upstairs."
-    sx: {hanzi: "包麵个所在在樓頂，紙袋仔用釘書機釘起來。細人仔跈等上樓頂。", pinyin: "bauˊ mien ge soˋ cai coiˊ leuˇ dangˋ, ziiˋ toi eˋ iung dangˊ suˊ giˊ dangˊ hiˋ loiˇ. se nginˇ eˋ tenˇ denˋ song leuˇ dangˋ."}
+    sx: {hanzi: "包粄條个所在在樓頂，紙袋仔用釘書機釘起來。細人仔跈等上樓頂。", pinyin: "bauˊ banˋ tiauˇ ge soˋ cai coiˊ leuˇ dangˋ, ziiˋ toi eˋ iung dangˊ suˊ giˊ dangˊ hiˋ loiˇ. se nginˇ eˋ tenˇ denˋ song leuˇ dangˋ."}
     check: true
   - n: 12
     speaker: 阿傑
@@ -70,16 +70,16 @@ dialogue:
     sx: {hanzi: "無細義躪著人，愛會失禮。", pinyin: "moˇ se ngi nang doˋ nginˇ, oi fi siidˋ liˊ."}
   - n: 14
     en: "The factory makes noodles in three colours. The master lifted the lid of the pot and cooked noodles for everyone to taste: the smell made your mouth water."
-    sx: {hanzi: "工廠做个麵有三種色目。師傅掀開鑊蓋煮麵分大家試食，香味當餳人。", pinyin: "gungˊ congˋ zo ge mien iuˊ samˊ zungˋ sedˋ mug. siiˊ fu ienˊ koiˊ vog goi zuˋ mien bunˊ tai gaˊ cii siid, hiongˊ mi dongˊ xiangˇ nginˇ."}
+    sx: {hanzi: "工廠做个粄條有三種色目。師傅掀開鑊蓋煮粄條分大家試食，香味當餳人。", pinyin: "gungˊ congˋ zo ge banˋ tiauˇ iuˊ samˊ zungˋ sedˋ mug. siiˊ fu ienˊ koiˊ vog goi zuˋ banˋ tiauˇ bunˊ tai gaˊ cii siid, hiongˊ mi dongˊ xiangˇ nginˇ."}
     check: true
   - n: 15
     speaker: 師傅
     en: "The noodles are done: scoop them out, quick!"
-    sx: {hanzi: "麵煮好吔，遽啊撩起來！", pinyin: "mien zuˋ hoˋ leˊ, giagˋ a liauˊ hiˋ loiˇ!"}
+    sx: {hanzi: "粄條煮好吔，遽啊撩起來！", pinyin: "banˋ tiauˇ zuˋ hoˋ leˊ, giagˋ a liauˊ hiˋ loiˇ!"}
     check: true
   - n: 16
     en: "The children were very hungry: a bowl of noodles was gone in no time. One little girl fed noodles to her baby brother."
-    sx: {hanzi: "細人仔當肚飢，一碗麵兩下半就食淨淨。有一個細阿妹仔飼麵分老弟食。", pinyin: "se nginˇ eˋ dongˊ duˋ giˊ, idˋ vonˋ mien liongˋ ha ban qiu siid qiang qiang. iuˊ idˋ ge se aˊ moi eˋ cii mien bunˊ loˋ taiˊ siid."}
+    sx: {hanzi: "細人仔當肚飢，一碗粄條兩下半就食淨淨。有一個細阿妹仔飼粄條分老弟食。", pinyin: "se nginˇ eˋ dongˊ duˋ giˊ, idˋ vonˋ banˋ tiauˇ liongˋ ha ban qiu siid qiang qiang. iuˊ idˋ ge se aˊ moi eˋ cii banˋ tiauˇ bunˊ loˋ taiˊ siid."}
     check: true
   - n: 17
     speaker: 阿英
@@ -88,7 +88,7 @@ dialogue:
     sx: {hanzi: "同你講毋好食恁遽，你看！這下囓著舌嫲流血哩！", pinyin: "tungˇ nˇ gongˋ mˇ hoˋ siid anˋ giagˋ, nˇ kon! iaˋ ha ngadˋ doˋ sad maˇ liuˇ hiedˋ leˊ!"}
   - n: 18
     en: "After eating, A-min learned from the master how to cut noodles."
-    sx: {hanzi: "食飽，阿明同師傅學切麵。", pinyin: "siid bauˋ, aˊ minˇ tungˇ siiˊ fu hog qiedˋ mien."}
+    sx: {hanzi: "食飽，阿明同師傅學切粄條。", pinyin: "siid bauˋ, aˊ minˇ tungˇ siiˊ fu hog qiedˋ banˋ tiauˇ."}
     check: true
   - n: 19
     speaker: 師傅
@@ -97,7 +97,7 @@ dialogue:
     sx: {hanzi: "刀仔尖尖，你斯愛擎好。", pinyin: "doˊ eˋ jiamˊ jiamˊ, nˇ siiˇ oi kiaˇ hoˋ."}
   - n: 20
     en: "A-kied asked Uncle whether to charge for today's noodles. Uncle smiled and said no."
-    sx: {hanzi: "阿傑問阿舅，今晡日个麵愛同人算錢無。阿舅笑笑仔講毋使。", pinyin: "aˊ kied mun aˊ kiuˊ, gimˊ buˊ ngidˋ ge mien oi tungˇ nginˇ son qienˇ moˇ. aˊ kiuˊ seu seu eˋ gongˋ mˇ siiˋ."}
+    sx: {hanzi: "阿傑問阿舅，今晡日个粄條愛同人算錢無。阿舅笑笑仔講毋使。", pinyin: "aˊ kied mun aˊ kiuˊ, gimˊ buˊ ngidˋ ge banˋ tiauˇ oi tungˇ nginˇ son qienˇ moˇ. aˊ kiuˊ seu seu eˋ gongˋ mˇ siiˋ."}
     check: true
   - n: 21
     speaker: 阿舅
@@ -107,7 +107,7 @@ dialogue:
   - n: 22
     speaker: 阿舅
     en: "Give every child one packet of noodles, big ones and little ones alike. Being a boss is like being a parent: you have to be fair."
-    sx: {hanzi: "逐個細人仔送一包麵，大細共樣。做頭家同做爺哀共樣，愛平心正好。", pinyin: "dagˋ ge se nginˇ eˋ sung idˋ bauˊ mien, tai se kiung iong. zo teuˇ gaˊ tungˇ zo iaˇ oiˊ kiung iong, oi piangˇ ximˊ zang hoˋ."}
+    sx: {hanzi: "逐個細人仔送一包粄條，大細共樣。做頭家同做爺哀共樣，愛平心正好。", pinyin: "dagˋ ge se nginˇ eˋ sung idˋ bauˊ banˋ tiauˇ, tai se kiung iong. zo teuˇ gaˊ tungˇ zo iaˇ oiˊ kiung iong, oi piangˇ ximˊ zang hoˋ."}
     check: true
   - n: 23
     speaker: 阿傑
@@ -135,7 +135,7 @@ dialogue:
     sx: {hanzi: "無頭路愛仰仔絡食。", pinyin: "moˇ teuˇ lu oi ngiongˋ eˋ logˋ siid."}
   - n: 28
     en: "In the end all the noodles in the shop were bought up, and A-in and A-min swept the factory clean, corners and all."
-    sx: {hanzi: "包尾，店肚个麵歸下分人買走，阿英同阿明同工廠个四角掃淨來。", pinyin: "bauˊ miˊ, diam duˋ ge mien guiˊ ha bunˊ nginˇ maiˊ zeuˋ, aˊ inˊ tungˇ aˊ minˇ tungˇ gungˊ congˋ ge xi gogˋ so qiang loiˇ."}
+    sx: {hanzi: "包尾，店肚个粄條歸下分人買走，阿英同阿明同工廠个四角掃淨來。", pinyin: "bauˊ miˊ, diam duˋ ge banˋ tiauˇ guiˊ ha bunˊ nginˇ maiˊ zeuˋ, aˊ inˊ tungˇ aˊ minˇ tungˇ gungˊ congˋ ge xi gogˋ so qiang loiˇ."}
     check: true
   - n: 29
     speaker: 阿舅

@@ -49,7 +49,7 @@ dialogue:
   - n: 10
     speaker: 阿明
     en: "Uncle says first I carry materials and sweep the floor, and in the end I learn to make noodles."
-    sx: {hanzi: "阿舅講先扐材料、掃地泥，包尾正學做麵。", pinyin: "aˊ kiuˊ gongˋ xienˊ led coiˇ liau, so ti naiˇ, bauˊ miˊ zang hog zo mien."}
+    sx: {hanzi: "阿舅講先扐材料、掃地泥，包尾正學做粄條。", pinyin: "aˊ kiuˊ gongˋ xienˊ led coiˇ liau, so ti naiˇ, bauˊ miˊ zang hog zo banˋ tiauˇ."}
   - n: 11
     speaker: 阿公
     en: "The machines in the factory are very powerful: you must be careful, and don't go touching them when you're told not to."
@@ -65,7 +65,7 @@ dialogue:
   - n: 14
     speaker: 阿英
     en: "That was for singing, not for making noodles."
-    sx: {hanzi: "該係合唱，毋係做麵。", pinyin: "ge he hab cong, mˇ he zo mien."}
+    sx: {hanzi: "該係合唱，毋係做粄條。", pinyin: "ge he hab cong, mˇ he zo banˋ tiauˇ."}
   - n: 15
     speaker: 阿婆
     en: "That will do, no quarrelling. Whatever you do, do it in earnest."
@@ -178,6 +178,6 @@ exercises:
     - en: "The November exam covers even more ground."
       sx: {hanzi: "十一月个考試___還較闊。", pinyin: "siib idˋ ngied ge kauˋ sii ___ hanˇ ka fadˋ.", answer_hanzi: "範圍", answer: "fam viˇ"}
     - en: "A-min first carries materials and sweeps the floor, and only at the end learns to make noodles."
-      sx: {hanzi: "阿明先扐材料、掃地泥，___正學做麵。", pinyin: "aˊ minˇ xienˊ led coiˇ liau, so ti naiˇ, ___ zang hog zo mien.", answer_hanzi: "包尾", answer: "bauˊ miˊ"}
+      sx: {hanzi: "阿明先扐材料、掃地泥，___正學做粄條。", pinyin: "aˊ minˇ xienˊ led coiˇ liau, so ti naiˇ, ___ zang hog zo banˋ tiauˇ.", answer_hanzi: "包尾", answer: "bauˊ miˊ"}
 
 audio: []
