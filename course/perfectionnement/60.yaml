@@ -1,0 +1,264 @@
+id: 60
+genre: document
+title:
+  en: "When you meet someone you know, you must greet them"
+  sx: {hanzi: "同熟事人相堵頭，定著愛相借問", pinyin: "tungˇ sug sii nginˇ xiongˊ duˇ teuˇ, tin cog oi xiongˊ jia mun"}
+review: false
+setting: >-
+  Saturday 10 November 2029. Sam sits the intermediate Hakka test. This is the reading part as he remembers it: a
+  sentence, a question, and his answer. The paper is the course's invention and does not copy the form of the real
+  test; the sentences are official example sentences.
+names: [Sam, 日本]
+
+dialogue:
+  - n: 1
+    en: "Intermediate test, 10 November. Read the sentence and answer the question. Even for a question you can't do, write at least something."
+    sx: {hanzi: "中級考試，十一月十號。看句仔，回答問題。毋會个題目乜愛加加減減寫兜仔。", pinyin: "zungˊ kibˋ kauˋ sii, siib idˋ ngied siib ho. kon gi eˋ, fiˇ dabˋ mun tiˇ. mˇ voi ge tiˇ mug me oi gaˊ gaˊ gamˋ gamˋ xiaˋ deuˊ eˋ."}
+    check: true
+  - n: 2
+    en: "Parents must be fair and must never favour one child over another."
+    source: kaga
+    sx: {hanzi: "做人爺哀愛平心，絕對毋好大細目。", pinyin: "zo nginˇ iaˇ oiˊ oi piangˇ ximˊ, qied dui mˇ hoˋ tai se mugˋ."}
+  - n: 3
+    en: "Question 1. What does 大細目 mean? Answer: the same as 大細心, not being fair to the children."
+    sx: {hanzi: "第一題。問：「大細目」係麼个意思？答：就係大細心，對細人仔無平心。", pinyin: "ti idˋ tiˇ. mun: tai se mugˋ he maˋ ge i sii? dabˋ: qiu he tai se ximˊ, dui se nginˇ eˋ moˇ piangˇ ximˊ."}
+    check: true
+  - n: 4
+    en: "When they heard it was free, everyone rushed to take part."
+    source: kaga115
+    sx: {hanzi: "聽著係毋使錢个，大家相賽去參加。", pinyin: "tangˊ doˋ he mˇ siiˋ qienˇ ge, tai gaˊ xiongˊ coi hi camˊ gaˊ."}
+  - n: 5
+    en: "Question 2. Why did everyone rush to go? Answer: because it was free, and everybody wanted to join the fun."
+    sx: {hanzi: "第二題。問：大家做麼个相賽去？答：因為毋使錢，逐儕都想去襯鬧熱。", pinyin: "ti ngi tiˇ. mun: tai gaˊ zo maˋ ge xiongˊ coi hi? dabˋ: inˊ vi mˇ siiˋ qienˇ, dagˋ saˇ du xiongˋ hi cen nau ngied."}
+    check: true
+  - n: 6
+    en: "If you want to eat, eat: no need to play polite when you are starving."
+    source: kaga
+    sx: {hanzi: "愛食就食，毋使在該枵鬼假細義。", pinyin: "oi siid qiu siid, mˇ siiˋ du ge iauˊ guiˋ gaˋ se ngi."}
+  - n: 7
+    en: "Question 3. What is a person like who is 枵鬼假細義? Answer: he wants it at heart and says \"no need\" with his mouth."
+    sx: {hanzi: "第三題。問：「枵鬼假細義」个人仰般？答：心肚想愛，嘴講毋使。", pinyin: "ti samˊ tiˇ. mun: iauˊ guiˋ gaˋ se ngi ge nginˇ ngiongˋ banˊ? dabˋ: ximˊ duˋ xiongˋ oi, zoi gongˋ mˇ siiˋ."}
+    check: true
+  - n: 8
+    en: "He did something wrong, and took the scolding in silence, not daring to answer back at all."
+    source: kaga115
+    sx: {hanzi: "佢做毋著事情，恬恬分人罵，全毋敢應話。", pinyin: "giˇ zo mˇ cog sii qinˇ, diamˊ diamˊ bunˊ nginˇ ma, qionˇ mˇ gamˋ en fa."}
+  - n: 9
+    en: "Question 4. Why doesn't he answer? Answer: he knows he is in the wrong and doesn't dare cut in."
+    sx: {hanzi: "第四題。問：佢仰毋應話？答：佢知自家毋著，毋敢接嘴。", pinyin: "ti xi tiˇ. mun: giˇ ngiongˋ mˇ en fa? dabˋ: giˇ diˊ qi gaˊ mˇ cog, mˇ gamˋ jiabˋ zoi."}
+    check: true
+  - n: 10
+    en: "When you meet someone you know, you must greet them."
+    source: kaga
+    sx: {hanzi: "同熟事人相堵頭，定著愛相借問。", pinyin: "tungˇ sug sii nginˇ xiongˊ duˇ teuˇ, tin cog oi xiongˊ jia mun."}
+  - n: 11
+    en: "Question 5. What should you do when you meet? Answer: say hello, and not be disrespectful."
+    sx: {hanzi: "第五題。問：相堵頭个時節愛仰般？答：愛同人打招呼，毋好無大無細。", pinyin: "ti ngˋ tiˇ. mun: xiongˊ duˇ teuˇ ge siiˇ jiedˋ oi ngiongˋ banˊ? dabˋ: oi tungˇ nginˇ daˋ zeuˊ fuˊ, mˇ hoˋ moˇ tai moˇ se."}
+    check: true
+  - n: 12
+    en: "I am the eldest at home, and after me there are three younger sisters."
+    source: kaga115
+    sx: {hanzi: "在屋下𠊎座大，下背還有三個老妹。", pinyin: "coiˊ vugˋ kaˊ ngaiˇ co tai, haˊ boi hanˇ iuˊ samˊ ge loˋ moi."}
+  - n: 13
+    en: "Question 6. How many children are there in the family? Answer: four."
+    sx: {hanzi: "第六題。問：佢屋下有幾多個細人仔？答：四個。", pinyin: "ti liugˋ tiˇ. mun: giˇ vugˋ kaˊ iuˊ giˋ doˊ ge se nginˇ eˋ? dabˋ: xi ge."}
+    check: true
+  - n: 14
+    en: "To feed and clothe his family, he works himself to the bone to earn money."
+    source: kaga115
+    sx: {hanzi: "為著屋下大細个食著，佢拚命賺錢。", pinyin: "vi doˋ vugˋ kaˊ tai se ge siid zogˋ, giˇ biang miang con qienˇ."}
+  - n: 15
+    en: "Question 7. Why does he work himself to the bone? Answer: for his family. Anyone who has gone out into the world knows that."
+    sx: {hanzi: "第七題。問：佢做麼个拚命？答：為著屋下人。出社會个人逐儕都知。", pinyin: "ti qidˋ tiˇ. mun: giˇ zo maˋ ge biang miang? dabˋ: vi doˋ vugˋ kaˊ nginˇ. cudˋ sa fi ge nginˇ dagˋ saˇ du diˊ."}
+    check: true
+  - n: 16
+    en: "Every year a great many visitors come specially to see the lantern fair."
+    source: kaga115
+    sx: {hanzi: "逐年䟓䟓來看燈會个遊客當多。", pinyin: "dagˋ ngienˇ dangˊ dangˊ loiˇ kon denˊ fi ge iuˇ hagˋ dongˊ doˊ."}
+  - n: 17
+    en: "Question 8. What does 䟓䟓來 mean? Answer: to come for this one thing only."
+    sx: {hanzi: "第八題。問：「䟓䟓來」係麼个意思？答：淨為著這件事來。", pinyin: "ti badˋ tiˇ. mun: dangˊ dangˊ loiˇ he maˋ ge i sii? dabˋ: qiang vi doˋ iaˋ kien sii loiˇ."}
+    check: true
+  - n: 18
+    en: "He is a very warm-hearted man: ask him for help and he is there at once."
+    source: kaga115
+    sx: {hanzi: "佢做人盡熱心，尋佢𢯭手馬上就到。", pinyin: "giˇ zo nginˇ qin ngied ximˊ, qimˇ giˇ ten suˋ maˊ song qiu do."}
+  - n: 19
+    en: "Question 9. When will he come? Answer: at once. He and his friends are like brothers."
+    sx: {hanzi: "第九題。問：佢哪久會到？答：馬上。佢同朋友个感情像兄弟仔樣仔。", pinyin: "ti giuˋ tiˇ. mun: giˇ nai giuˋ voi do? dabˋ: maˊ song. giˇ tungˇ penˇ iuˊ ge gamˋ qinˇ qiong hiungˊ ti eˋ iong eˋ."}
+    check: true
+  - n: 20
+    en: "Japan is to the north of Taiwan."
+    source: kaga
+    sx: {hanzi: "日本在臺灣个北方。", pinyin: "ngidˋ bunˋ coiˊ toiˇ vanˇ ge bedˋ fongˊ."}
+  - n: 21
+    en: "Question 10. On which side of Japan is Taiwan? Answer: to the south."
+    sx: {hanzi: "第十題。問：臺灣在日本个哪片？答：南片。", pinyin: "ti siib tiˇ. mun: toiˇ vanˇ coiˊ ngidˋ bunˋ ge nai pienˋ? dabˋ: namˇ pienˋ."}
+    check: true
+  - n: 22
+    en: "You want to go out for the day and you don't start early: aren't you afraid of the traffic?"
+    source: kaga115
+    sx: {hanzi: "愛出去尞還毋趕早，毋驚塞車係無？", pinyin: "oi cudˋ hi liau hanˇ mˇ gonˋ zoˋ, mˇ giangˊ sedˋ caˊ he moˇ?"}
+  - n: 23
+    en: "Question 11. Why start early? Answer: if you don't, you get stuck in traffic. Last time I was stuck for two hours."
+    sx: {hanzi: "第十一題。問：做麼个愛趕早？答：無趕早會塞車。上滿𠊎就塞兩點鐘。", pinyin: "ti siib idˋ tiˇ. mun: zo maˋ ge oi gonˋ zoˋ? dabˋ: moˇ gonˋ zoˋ voi sedˋ caˊ. song manˊ ngaiˇ qiu cedˋ liongˋ diamˋ zungˊ."}
+    check: true
+  - n: 24
+    en: "When my little brother is in a bad mood, he pouts."
+    source: kaga115
+    sx: {hanzi: "老弟心情毋好就嘴嘟嘟仔。", pinyin: "loˋ taiˊ ximˊ qinˇ mˇ hoˋ qiu zoi du du eˋ."}
+  - n: 25
+    en: "Question 12. Why is the little brother pouting? Answer: he is in a bad mood."
+    sx: {hanzi: "第十二題。問：老弟仰會嘴嘟嘟仔？答：心情毋好。", pinyin: "ti siib ngi tiˇ. mun: loˋ taiˊ ngiongˋ voi zoi du du eˋ? dabˋ: ximˊ qinˇ mˇ hoˋ."}
+    check: true
+  - n: 26
+    en: "This top has a very novel design."
+    source: kaga115
+    sx: {hanzi: "這領衫設計到當新色。", pinyin: "iaˋ liangˊ samˊ sadˋ gie do dongˊ xinˊ sedˋ."}
+  - n: 27
+    en: "How dreadful! How can this top cost so much?"
+    source: kaga115
+    sx: {hanzi: "還冤枉！這領衫仰會恁貴？", pinyin: "hanˇ ienˊ vongˋ! iaˋ liangˊ samˊ ngiongˋ voi anˋ gui?"}
+  - n: 28
+    en: "Question 13. What is this top like? Answer: very novel, but too dear."
+    sx: {hanzi: "第十三題。問：這領衫仰般？答：當新色，毋過忒貴。", pinyin: "ti siib samˊ tiˇ. mun: iaˋ liangˊ samˊ ngiongˋ banˊ? dabˋ: dongˊ xinˊ sedˋ, mˇ go tedˋ gui."}
+    check: true
+  - n: 29
+    en: "My wife's brother is a university professor."
+    source: kaga115
+    sx: {hanzi: "吾妻舅仔係大學个教授。", pinyin: "ngaˊ qiˊ kiuˊ eˋ he tai hog ge gau su."}
+  - n: 30
+    en: "Question 14. Who is a 妻舅仔? Answer: one's wife's brother."
+    sx: {hanzi: "第十四題。問：妻舅仔係麼人？答：餔娘个兄弟。", pinyin: "ti siib xi tiˇ. mun: qiˊ kiuˊ eˋ he maˋ nginˇ? dabˋ: buˊ ngiongˇ ge hiungˊ ti."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 10, an official sentence: 相堵頭 xiongˊ duˇ teuˇ "meet, run into each other"; 相借問 is "greet
+      each other". The real 中級 test has listening, speaking, reading and writing parts; this paper only borrows the
+      idea.
+  - ref: 1
+    topic: vocab
+    text: >
+      加加減減 gaˊ gaˊ gamˋ gamˋ "more or less, at least a little" (加加減減做兜仔): 加減 is from 進修 47.
+  - ref: 3
+    topic: vocab
+    text: >
+      題 tiˇ "question (of a test)": 第一題 "question 1"; 答 dabˋ "answer". 大細目 tai se mugˋ "favouritism", the same as
+      大細心 (進修 55).
+  - ref: 4
+    topic: vocab
+    text: >
+      相賽 xiongˊ coi "vie with each other, rush to". 襯鬧熱 cen nau ngied in line 5 is "join in the fun", like 鬥鬧熱 (進修
+      51).
+  - ref: 6
+    topic: vocab
+    text: >
+      枵鬼假細義 iauˊ guiˋ gaˋ se ngi: "the starving ghost plays polite", said of someone who wants a thing and pretends
+      not to.
+  - ref: 8
+    topic: vocab
+    text: >
+      應話 en fa "answer back, reply". 接嘴 jiabˋ zoi in line 9 is "cut in, take up what someone has said".
+  - ref: 11
+    topic: vocab
+    text: >
+      無大無細 moˇ tai moˇ se "with no respect for age or rank".
+  - ref: 12
+    topic: vocab
+    text: >
+      座大 co tai "be the eldest of the children".
+  - ref: 14
+    topic: vocab
+    text: >
+      拚命 biang miang "go all out, at the risk of one's life". 食著 "food and clothing": 著 is read zogˋ. 出社會 cudˋ sa fi
+      in line 15 is "go out into the world to work".
+  - ref: 16
+    topic: vocab
+    text: >
+      䟓䟓 dangˊ dangˊ "specially, for that purpose alone" (滿子正入學還毋慣，𠊎䟓䟓去學校看一下).
+  - ref: 18
+    topic: vocab
+    text: >
+      馬上 maˊ song "at once". 兄弟仔 hiungˊ ti eˋ in line 19: friends as close as brothers (佢兩儕个感情好到像兄弟仔樣仔).
+  - ref: 20
+    topic: vocab
+    text: >
+      北方 bedˋ fongˊ "the north".
+  - ref: 22
+    topic: vocab
+    text: >
+      趕早 gonˋ zoˋ "make an early start". 上滿 song manˊ in line 23 is "last time" (上滿同佢共下去食酒): compare 這滿 "this time"
+      (進修 47).
+  - ref: 24
+    topic: vocab
+    text: >
+      嘴嘟嘟仔 zoi du du eˋ "pouting".
+  - ref: 26
+    topic: vocab
+    text: >
+      新色 xinˊ sedˋ "novel, new in style". 冤枉 ienˊ vongˋ in line 27 is "wrong someone"; as an exclamation, "what a
+      waste, how dreadful".
+  - ref: 29
+    topic: vocab
+    text: >
+      妻舅仔 qiˊ kiuˊ eˋ "wife's brother".
+
+new_words:
+  - {hanzi: "加加減減", pinyin: "gaˊ gaˊ gamˋ gamˋ", en: "more or less, at least a little"}
+  - {hanzi: "大細目", pinyin: "tai se mugˋ", en: "favouritism"}
+  - {hanzi: "相賽", pinyin: "xiongˊ coi", en: "vie with each other, rush to"}
+  - {hanzi: "襯鬧熱", pinyin: "cen nau ngied", en: "join in the fun"}
+  - {hanzi: "枵鬼假細義", pinyin: "iauˊ guiˋ gaˋ se ngi", en: "pretend not to want what one is longing for"}
+  - {hanzi: "應話", pinyin: "en fa", en: "answer back, reply"}
+  - {hanzi: "接嘴", pinyin: "jiabˋ zoi", en: "cut in, take up what was said"}
+  - {hanzi: "相堵頭", pinyin: "xiongˊ duˇ teuˇ", en: "meet, run into each other"}
+  - {hanzi: "無大無細", pinyin: "moˇ tai moˇ se", en: "with no respect for age or rank"}
+  - {hanzi: "座大", pinyin: "co tai", en: "be the eldest (of the children)"}
+  - {hanzi: "拚命", pinyin: "biang miang", en: "risk one's life, go all out"}
+  - {hanzi: "出社會", pinyin: "cudˋ sa fi", en: "go out into the world (to work)"}
+  - {hanzi: "䟓䟓", pinyin: "dangˊ dangˊ", en: "specially, on purpose"}
+  - {hanzi: "馬上", pinyin: "maˊ song", en: "at once"}
+  - {hanzi: "兄弟仔", pinyin: "hiungˊ ti eˋ", en: "(close as) brothers"}
+  - {hanzi: "北方", pinyin: "bedˋ fongˊ", en: "the north"}
+  - {hanzi: "趕早", pinyin: "gonˋ zoˋ", en: "make an early start"}
+  - {hanzi: "上滿", pinyin: "song manˊ", en: "last time"}
+  - {hanzi: "嘴嘟嘟仔", pinyin: "zoi du du eˋ", en: "pouting"}
+  - {hanzi: "新色", pinyin: "xinˊ sedˋ", en: "novel, new in style"}
+  - {hanzi: "冤枉", pinyin: "ienˊ vongˋ", en: "wrong (someone); what a waste, how dreadful"}
+  - {hanzi: "妻舅仔", pinyin: "qiˊ kiuˊ eˋ", en: "wife's brother"}
+  - {hanzi: "題", pinyin: "tiˇ", en: "question (in a test)"}
+  - {hanzi: "答", pinyin: "dabˋ", en: "answer"}
+
+exercises:
+  translate:
+    - en: "As soon as the rain is over, I'll set off at once."
+      source: kaga
+      sx: {hanzi: "雨一過，𠊎馬上出發。", pinyin: "iˋ idˋ go, ngaiˇ maˊ song cudˋ fadˋ."}
+    - en: "Last time I went to a banquet with him."
+      source: kaga115
+      sx: {hanzi: "上滿同佢共下去食酒。", pinyin: "song manˊ tungˇ giˇ kiung haˊ hi siid jiuˋ."}
+    - en: "The two of them are as close as brothers."
+      source: kaga115
+      sx: {hanzi: "佢兩儕个感情好到像兄弟仔樣仔。", pinyin: "giˇ liongˋ saˇ ge gamˋ qinˇ hoˋ do qiong hiungˊ ti eˋ iong eˋ."}
+    - en: "Everyone had just finished the discussion when he cut in again."
+      source: kaga115
+      sx: {hanzi: "大家正討論煞，佢又接嘴來講。", pinyin: "tai gaˊ zang toˋ lun sod, giˇ iu jiabˋ zoi loiˇ gongˋ."}
+    - en: "At break, everyone races to the slide."
+      source: kaga
+      sx: {hanzi: "下課時節，大家相賽去溜滑梯。", pinyin: "ha ko siiˇ jiedˋ, tai gaˊ xiongˊ coi hi liu vad toiˊ."}
+  fill:
+    - en: "Do at least a little."
+      sx: {hanzi: "加加___做兜仔。", pinyin: "gaˊ gaˊ ___ zo deuˊ eˋ.", answer_hanzi: "減減", answer: "gamˋ gamˋ"}
+    - en: "The front door of this house faces north: in winter you can't open it."
+      sx: {hanzi: "這間屋仔正門向___，寒天開門就毋得。", pinyin: "iaˋ gienˊ vugˋ eˇ zang munˇ hiong ___, honˇ tienˊ koiˊ munˇ qiu mˇ dedˋ.", answer_hanzi: "北方", answer: "bedˋ fongˊ"}
+    - en: "I kept calling you and you didn't answer: I thought you hadn't heard!"
+      sx: {hanzi: "緊喊你，就無___，話著你無聽著呢！", pinyin: "ginˋ ham nˇ, qiu moˇ ___, va doˋ nˇ moˇ tangˊ doˋ neˇ!", answer_hanzi: "應話", answer: "en fa"}
+    - en: "His wife's brother has only just graduated this year and has no job yet."
+      sx: {hanzi: "厥___今年正大學畢業，吂有食頭路。", pinyin: "giaˊ ___ gimˊ ngienˇ zang tai hog bidˋ ngiab, mangˇ iuˊ siid teuˇ lu.", answer_hanzi: "妻舅仔", answer: "qiˊ kiuˊ eˋ"}
+    - en: "When prices fall nobody wants the goods; when they rise everyone fights for them."
+      sx: {hanzi: "東西一落價無人愛，一起價___搶。", pinyin: "dungˊ xiˊ idˋ log ga moˇ nginˇ oi, idˋ hiˋ ga ___ qiongˋ.", answer_hanzi: "相賽", answer: "xiongˊ coi"}
+
+audio: []

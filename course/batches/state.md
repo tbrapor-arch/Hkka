@@ -95,3 +95,5 @@ style of 採茶戲, not a sung one.
   an owl; the selfish squirrel learns to share. Grandma gives Sam a lukewarm wash and a cotton top.
 - P59, Sun 28 Oct (essay). Sam's class essay "Hakka customs", built on memorised official sentences: festivals,
   first birthday, wedding (阿傑's, July), funerals, religion, games. The exam is "two weeks" away (about 10–11 Nov).
+- P60, Sat 10 Nov (document): Sam sits the 中級 test. The lesson is the reading part as he remembers it, fourteen
+  questions with his answers (the paper is invented). Result not known yet.
