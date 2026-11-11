@@ -1,0 +1,279 @@
+id: 59
+genre: essay
+title:
+  en: "A small gift is better than a breach of manners"
+  sx: {hanzi: "包禮少少仔，贏過失禮", pinyin: "bauˊ liˊ seuˋ seuˋ eˋ, iangˇ go siidˋ liˊ"}
+review: false
+setting: >-
+  Sunday 28 October 2029. The essay Sam has written for his Hakka culture class, "Hakka customs", two weeks before
+  the intermediate exam. He wrote it around sentences he has learned by heart.
+names: [Sam, 阿公, 阿婆, 阿傑]
+
+dialogue:
+  - n: 1
+    en: "Hakka customs, by Sam. Since I came to Taiwan to study, I have seen many traditional Hakka customs."
+    sx: {hanzi: "客家人个風俗。Sam 寫。𠊎來臺灣讀書，看著當多客家人个傳統風俗。", pinyin: "hagˋ gaˊ nginˇ ge fungˊ xiug. Sam xiaˋ. ngaiˇ loiˇ toiˇ vanˇ tug suˊ, kon doˋ dongˊ doˊ hagˋ gaˊ nginˇ ge conˇ tungˋ fungˊ xiug."}
+    check: true
+  - n: 2
+    en: "At the Lantern Festival there are lantern fairs everywhere."
+    source: kaga115
+    sx: {hanzi: "正月半，各地都有燈會。", pinyin: "zangˊ ngied ban, gogˋ ti du iuˊ denˊ fi."}
+  - n: 3
+    en: "The children let off firecrackers in the yard."
+    source: kaga115
+    sx: {hanzi: "細人仔在禾埕項打紙炮仔。", pinyin: "se nginˇ eˋ coiˊ voˇ tangˇ hong daˋ ziiˋ pau eˋ."}
+  - n: 4
+    en: "The Hakka have the custom of resting on Tianchuan Day."
+    source: kaga115
+    sx: {hanzi: "客人有尞天穿个風俗。", pinyin: "hagˋ nginˇ iuˊ liau tienˊ conˊ ge fungˊ xiug."}
+  - n: 5
+    en: "Once the Lantern Festival is past, the Hakka may begin to sweep the tombs!"
+    source: kaga115
+    sx: {hanzi: "客人在正月半過，就做得開始掛紙哩！", pinyin: "hagˋ nginˇ coiˊ zangˊ ngied ban go, qiu zo dedˋ koiˊ ciiˋ gua ziiˋ leˊ!"}
+  - n: 6
+    en: "At the Dragon Boat Festival most people wrap rice dumplings to eat."
+    source: kaga115
+    sx: {hanzi: "五月節大體會䌈粽仔來食。", pinyin: "ngˋ ngied jiedˋ tai tiˋ fi tagˋ zung eˋ loiˇ siid."}
+  - n: 7
+    en: "At the winter solstice you cook rice balls to eat."
+    source: kaga
+    sx: {hanzi: "冬節愛煮雪圓仔食。", pinyin: "dungˊ jiedˋ oi zuˋ xiedˋ ienˇ eˋ siid."}
+  - n: 8
+    en: "Farming has to follow the solar terms."
+    sx: {hanzi: "耕田愛照節氣來做事。", pinyin: "gangˊ tienˇ oi zeu jiedˋ hi loiˇ zo se."}
+    abridged: true
+  - n: 9
+    en: "From birth to old age there are many customs too. When a child is one year old, the family keeps its first birthday."
+    sx: {hanzi: "一個人對出世到老，乜有當多風俗。細人仔滿一歲，屋下人同佢做對歲。", pinyin: "idˋ ge nginˇ dui cudˋ se do loˋ, me iuˊ dongˊ doˊ fungˊ xiug. se nginˇ eˋ manˊ idˋ se, vugˋ kaˊ nginˇ tungˇ giˇ zo dui se."}
+    check: true
+  - n: 10
+    en: "Before a wedding, the two families must first sit down and talk."
+    sx: {hanzi: "結婚以前，兩家人愛先坐下來講。", pinyin: "giedˋ funˊ iˊ qienˇ, liongˋ gaˊ nginˇ oi xienˊ coˊ haˊ loiˇ gongˋ."}
+    check: true
+  - n: 11
+    en: "Once the two families have settled everything, all is well."
+    source: kaga115
+    sx: {hanzi: "兩家人講定疊就好。", pinyin: "liongˋ gaˊ nginˇ gongˋ tin tiab qiu hoˋ."}
+  - n: 12
+    en: "In July this year I went to my friend A-kied's wedding banquet."
+    sx: {hanzi: "今年七月，𠊎去食朋友阿傑个酒。", pinyin: "gimˊ ngienˇ qidˋ ngied, ngaiˇ hi siid penˇ iuˊ aˊ kied ge jiuˋ."}
+    check: true
+  - n: 13
+    en: "The two of them get on very well, and everyone has high hopes of this marriage."
+    source: kaga115
+    sx: {hanzi: "佢兩儕當相好，大家異看好這段婚姻。", pinyin: "giˇ liongˋ saˇ dongˊ xiongˊ hoˋ, tai gaˊ i kon hoˋ iaˋ ton funˊ imˊ."}
+  - n: 14
+    en: "When you go to a banquet, you must give a gift of money."
+    source: kaga115
+    sx: {hanzi: "去食酒，愛包禮。", pinyin: "hi siid jiuˋ, oi bauˊ liˊ."}
+  - n: 15
+    en: "A small gift is better than a breach of manners."
+    source: kaga115
+    sx: {hanzi: "包禮少少仔，贏過失禮。", pinyin: "bauˊ liˊ seuˋ seuˋ eˋ, iangˇ go siidˋ liˊ."}
+  - n: 16
+    en: "After someone dies, relatives and friends go to offer incense."
+    source: kaga115
+    sx: {hanzi: "人過身後，厥親戚朋友會去拈香。", pinyin: "nginˇ go siinˊ heu, giaˊ qinˊ qidˋ penˇ iuˊ voi hi ngiamˊ hiongˊ."}
+  - n: 17
+    en: "When someone in the family dies, you wear mourning."
+    source: kaga115
+    sx: {hanzi: "屋下有人過身愛戴孝。", pinyin: "vugˋ kaˊ iuˊ nginˇ go siinˊ oi dai hau."}
+  - n: 18
+    en: "You ask a geomancer to come and read the feng shui."
+    source: kaga115
+    sx: {hanzi: "請地理先生來看風水。", pinyin: "qiangˋ ti liˊ xinˊ sangˊ loiˇ kon fungˊ suiˋ."}
+  - n: 19
+    en: "Every people has its own religious beliefs."
+    source: kaga115
+    sx: {hanzi: "各民族就有佢兜自家个宗教信仰。", pinyin: "gogˋ minˇ cug qiu iuˊ giˇ deuˊ qi gaˊ ge zungˊ gau xin ngiongˋ."}
+  - n: 20
+    en: "Grandpa is a Buddhist."
+    source: kaga115
+    sx: {hanzi: "阿公信佛教。", pinyin: "aˊ gungˊ xin fud gau."}
+  - n: 21
+    en: "On the first and the fifteenth of every month, Grandma goes to the temple to offer incense."
+    source: kaga115
+    sx: {hanzi: "阿婆堵著初一、十五都會去廟項行香。", pinyin: "aˊ poˇ duˇ doˋ cuˊ idˋ, siib ngˋ du voi hi meu hong hangˇ hiongˊ."}
+  - n: 22
+    en: "Christians go to church every week."
+    source: kaga
+    sx: {hanzi: "信基督教个人，逐禮拜愛去教堂。", pinyin: "xin giˊ dugˋ gau ge nginˇ, dagˋ liˊ bai oi hi gau tongˇ."}
+  - n: 23
+    en: "Some people go to a diviner when they are in difficulty; young people today trust science more."
+    sx: {hanzi: "有兜人堵著困難會去問卜，這下个後生人較信科學。", pinyin: "iuˊ deuˊ nginˇ duˇ doˋ kun nanˇ voi hi mun bugˋ, iaˋ ha ge heu sangˊ nginˇ ka xin koˊ hog."}
+    check: true
+  - n: 24
+    en: "Children used to fly kites, skip rope and swim in the river, and little girls played with dolls."
+    sx: {hanzi: "頭擺个細人仔放紙鷂仔、跳索仔、在河壩洗身仔，細妹仔搞人公仔。", pinyin: "teuˇ baiˋ ge se nginˇ eˋ biong ziiˋ ieu eˋ, tiau sogˋ eˇ, coiˊ hoˇ ba seˋ siinˊ eˋ, se moi eˋ gauˋ nginˇ gungˊ eˋ."}
+    check: true
+  - n: 25
+    en: "Old people love going to the opera."
+    sx: {hanzi: "老人家好看戲。", pinyin: "loˋ nginˇ gaˊ hau kon hi."}
+    check: true
+  - n: 26
+    en: "They get so lost in the play that they even cry along with the actors."
+    source: kaga115
+    sx: {hanzi: "看戲看戇忒吔，還會跈等做戲个噭。", pinyin: "kon hi kon ngong tedˋ leˊ, hanˇ voi tenˇ denˋ zo hi ge gieu."}
+  - n: 27
+    en: "The Hakka I know are straightforward and open-handed, the children are devoted to their parents, and nothing is done carelessly."
+    sx: {hanzi: "𠊎識个客家人做人條直、大般，子女對爺哀當賢孝，做事毋會儘儘採採。", pinyin: "ngaiˇ siidˋ ge hagˋ gaˊ nginˇ zo nginˇ tiauˇ ciid, tai banˊ, ziiˋ ngˋ dui iaˇ oiˊ dongˊ hienˇ hau, zo se mˇ voi qinˋ qinˋ caiˋ caiˋ."}
+    check: true
+  - n: 28
+    en: "My written Hakka is not yet fluent: I ask the teacher to correct me."
+    sx: {hanzi: "𠊎寫客話還吂熟練，請先生指教。", pinyin: "ngaiˇ xiaˋ hagˋ fa hanˇ mangˇ sug lien, qiangˋ xinˊ sangˊ ziiˋ gauˊ."}
+    check: true
+  - n: 29
+    en: "I wish you good health, and may everything go as you wish!"
+    source: kaga
+    sx: {hanzi: "祝福你，身體康健，萬事如意！", pinyin: "zugˋ fugˋ nˇ, siinˊ tiˋ kongˊ kien, van sii iˇ i!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 15, an official sentence: 包禮 bauˊ liˊ is the money given in an envelope at a banquet.
+      Nineteen of the lines are official sentences: this is how Sam prepares the written part of his exam.
+  - ref: 1
+    topic: vocab
+    text: >
+      風俗 fungˊ xiug "custom" (傳統風俗 "traditional customs").
+  - ref: 2
+    topic: vocab
+    text: >
+      正月半 zangˊ ngied ban "the Lantern Festival", the fifteenth of the first month (the day of 進修 36). 會 in 燈會
+      "lantern fair" is read fi.
+  - ref: 3
+    topic: vocab
+    text: >
+      打紙炮仔 daˋ ziiˋ pau eˋ "let off firecrackers": 紙炮仔 is "firecracker". 天穿日 in line 4 is from lesson 55; 掛紙 in line
+      5 is "sweep the tombs".
+  - ref: 6
+    topic: vocab
+    text: >
+      五月節 ngˋ ngied jiedˋ "the Dragon Boat Festival"; 䌈粽仔 tagˋ zung eˋ "wrap rice dumplings".
+  - ref: 7
+    topic: vocab
+    text: >
+      冬節 dungˊ jiedˋ "the winter solstice" (冬節該日，日仔盡短 "on the day of the winter solstice the day is shortest"). 雪圓仔
+      are the rice balls of 進修 36.
+  - ref: 8
+    topic: vocab
+    text: >
+      節氣 jiedˋ hi: the twenty-four solar terms of the farming calendar. The official example has two sentences; this
+      is the second.
+  - ref: 9
+    topic: vocab
+    text: >
+      對歲 dui se "first birthday": 做對歲 "keep the first birthday" (進修 43, line 19).
+  - ref: 11
+    topic: vocab
+    text: >
+      定疊 tin tiab "settled, all arranged".
+  - ref: 13
+    topic: vocab
+    text: >
+      婚姻 funˊ imˊ "marriage". 阿傑's wedding is in 進修 51.
+  - ref: 16
+    topic: vocab
+    text: >
+      拈香 ngiamˊ hiongˊ "offer incense to the dead", so "pay one's respects". 戴孝 dai hau in line 17 is "wear
+      mourning".
+  - ref: 18
+    topic: vocab
+    text: >
+      看風水 kon fungˊ suiˋ "read the feng shui": 地理先生 is the geomancer (進修 43).
+  - ref: 19
+    topic: vocab
+    text: >
+      民族 minˇ cug "a people, a nation"; 宗教 zungˊ gau "religion". 信仰 is from 進修 43.
+  - ref: 20
+    topic: vocab
+    text: >
+      佛教 fud gau "Buddhism". 行香 hangˇ hiongˊ in line 21 is "offer incense at a temple". 教堂 gau tongˇ in line 22 is
+      "church".
+  - ref: 23
+    topic: vocab
+    text: >
+      問卜 mun bugˋ "consult a diviner". 科學 koˊ hog "science".
+  - ref: 24
+    topic: vocab
+    text: >
+      放紙鷂仔 biong ziiˋ ieu eˋ "fly a kite"; 跳索仔 tiau sogˋ eˇ "skip rope"; 洗身仔 seˋ siinˊ eˋ "swim" (洗身 is "wash,
+      bathe"); 人公仔 nginˇ gungˊ eˋ "doll, puppet".
+  - ref: 25
+    topic: vocab
+    text: >
+      看戲 kon hi "watch a play or opera". 好 "be fond of" is read hau.
+  - ref: 27
+    topic: vocab
+    text: >
+      條直 tiauˇ ciid "straightforward" (佢做人條直，有借定著會還). 大般 tai banˊ "open-handed, not shy". 賢孝 hienˇ hau "devoted to
+      one's parents": 有孝 is from 進修 44. 儘儘採採 qinˋ qinˋ caiˋ caiˋ "carelessly, any old how": 儘採 doubled.
+  - ref: 28
+    topic: vocab
+    text: >
+      熟練 sug lien "practised, fluent".
+
+new_words:
+  - {hanzi: "風俗", pinyin: "fungˊ xiug", en: "custom"}
+  - {hanzi: "正月半", pinyin: "zangˊ ngied ban", en: "the Lantern Festival (15th of the first month)"}
+  - {hanzi: "打紙炮仔", pinyin: "daˋ ziiˋ pau eˋ", en: "let off firecrackers"}
+  - {hanzi: "五月節", pinyin: "ngˋ ngied jiedˋ", en: "the Dragon Boat Festival"}
+  - {hanzi: "䌈粽仔", pinyin: "tagˋ zung eˋ", en: "wrap rice dumplings"}
+  - {hanzi: "冬節", pinyin: "dungˊ jiedˋ", en: "the winter solstice"}
+  - {hanzi: "節氣", pinyin: "jiedˋ hi", en: "solar term"}
+  - {hanzi: "對歲", pinyin: "dui se", en: "first birthday"}
+  - {hanzi: "定疊", pinyin: "tin tiab", en: "settled, all arranged"}
+  - {hanzi: "婚姻", pinyin: "funˊ imˊ", en: "marriage"}
+  - {hanzi: "包禮", pinyin: "bauˊ liˊ", en: "give a gift of money"}
+  - {hanzi: "拈香", pinyin: "ngiamˊ hiongˊ", en: "offer incense (to the dead)"}
+  - {hanzi: "戴孝", pinyin: "dai hau", en: "wear mourning"}
+  - {hanzi: "看風水", pinyin: "kon fungˊ suiˋ", en: "read the feng shui"}
+  - {hanzi: "民族", pinyin: "minˇ cug", en: "a people, nation"}
+  - {hanzi: "宗教", pinyin: "zungˊ gau", en: "religion"}
+  - {hanzi: "佛教", pinyin: "fud gau", en: "Buddhism"}
+  - {hanzi: "行香", pinyin: "hangˇ hiongˊ", en: "offer incense (at a temple)"}
+  - {hanzi: "教堂", pinyin: "gau tongˇ", en: "church"}
+  - {hanzi: "問卜", pinyin: "mun bugˋ", en: "consult a diviner"}
+  - {hanzi: "科學", pinyin: "koˊ hog", en: "science"}
+  - {hanzi: "放紙鷂仔", pinyin: "biong ziiˋ ieu eˋ", en: "fly a kite"}
+  - {hanzi: "跳索仔", pinyin: "tiau sogˋ eˇ", en: "skip rope"}
+  - {hanzi: "洗身仔", pinyin: "seˋ siinˊ eˋ", en: "swim"}
+  - {hanzi: "人公仔", pinyin: "nginˇ gungˊ eˋ", en: "doll, puppet"}
+  - {hanzi: "看戲", pinyin: "kon hi", en: "watch a play or opera"}
+  - {hanzi: "條直", pinyin: "tiauˇ ciid", en: "straightforward"}
+  - {hanzi: "大般", pinyin: "tai banˊ", en: "open-handed, not shy"}
+  - {hanzi: "賢孝", pinyin: "hienˇ hau", en: "filial, devoted"}
+  - {hanzi: "儘儘採採", pinyin: "qinˋ qinˋ caiˋ caiˋ", en: "carelessly, any old how"}
+  - {hanzi: "熟練", pinyin: "sug lien", en: "practised, fluent"}
+
+exercises:
+  translate:
+    - en: "At the Dragon Boat Festival people eat rice dumplings."
+      source: kaga115
+      sx: {hanzi: "五月節食粽仔。", pinyin: "ngˋ ngied jiedˋ siid zung eˋ."}
+    - en: "Let's go and fly a kite."
+      source: kaga115
+      sx: {hanzi: "來去放紙鷂仔。", pinyin: "loiˇ hi biong ziiˋ ieu eˋ."}
+    - en: "Go to church for the service."
+      source: kaga115
+      sx: {hanzi: "去教堂做禮拜。", pinyin: "hi gau tongˇ zo liˊ bai."}
+    - en: "My little sister loves to sleep hugging her doll."
+      source: kaga115
+      sx: {hanzi: "老妹當好揇人公仔睡。", pinyin: "loˋ moi dongˊ hoˋ namˋ nginˇ gungˊ eˋ soi."}
+    - en: "Children should be devoted to their parents."
+      source: kaga115
+      sx: {hanzi: "子女愛對爺哀賢孝。", pinyin: "ziiˋ ngˋ oi dui iaˇ oiˊ hienˇ hau."}
+  fill:
+    - en: "They are letting off firecrackers outside: it is very noisy."
+      sx: {hanzi: "外背___，當吵。", pinyin: "ngoi boi ___, dongˊ cauˇ.", answer_hanzi: "打紙炮仔", answer: "daˋ ziiˋ pau eˋ"}
+    - en: "He is a straightforward man: what he borrows he always returns."
+      sx: {hanzi: "佢做人___，有借定著會還。", pinyin: "giˇ zo nginˇ ___, iuˊ jia tin cog voi vanˇ.", answer_hanzi: "條直", answer: "tiauˇ ciid"}
+    - en: "Shall we play at skipping?"
+      sx: {hanzi: "𫣆來搞___好無？", pinyin: "enˊ loiˇ gauˋ ___ hoˋ moˇ?", answer_hanzi: "跳索仔", answer: "tiau sogˋ eˇ"}
+    - en: "If you do things any old how, people will find fault with you!"
+      sx: {hanzi: "做事___，斯會分人嫌哦！", pinyin: "zo se ___, siiˇ voi bunˊ nginˇ hiamˇ oˊ!", answer_hanzi: "儘儘採採", answer: "qinˋ qinˋ caiˋ caiˋ"}
+    - en: "His friend's father died, and he went to pay his respects."
+      sx: {hanzi: "厥朋友个阿爸過身，佢去___。", pinyin: "giaˊ penˇ iuˊ ge aˊ baˊ go siinˊ, giˇ hi ___.", answer_hanzi: "拈香", answer: "ngiamˊ hiongˊ"}
+
+audio: []

@@ -93,3 +93,5 @@ style of 採茶戲, not a sung one.
   上屋叔婆 is unwell (an old ailment). Sam's essay topic: the Hakka overseas.
 - P58, Sun 14 Oct evening (tale). Grandpa tells feverish Sam and A-min an invented tale: twin squirrels, a bear,
   an owl; the selfish squirrel learns to share. Grandma gives Sam a lukewarm wash and a cotton top.
+- P59, Sun 28 Oct (essay). Sam's class essay "Hakka customs", built on memorised official sentences: festivals,
+  first birthday, wedding (阿傑's, July), funerals, religion, games. The exam is "two weeks" away (about 10–11 Nov).
