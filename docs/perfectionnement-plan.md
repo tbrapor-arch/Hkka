@@ -4,10 +4,11 @@ Decided with the user on 8 Nov 2026. Model: Tsheh-tû's `docs/perfectionnement-p
 Before writing a lesson, read `course/batches/card.md` (one page) and `course/batches/state.md`.
 `course/batches/checklist.md` holds the evidence behind the card.
 
-## Status (11 Nov 2026)
-**P1–P49 written, reviewed by fresh agents, fixed and merged into main.** Lint shows 0 errors. The accent bridge (six
+## Status (11 Nov 2026, evening)
+**P1–P63 written, reviewed by fresh agents, fixed and merged into main.** Lint shows 0 errors. The accent bridge (six
 pages between lesson 100 and 進修 1) is on main too: see "Accent bridge" below.
-- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35), `P36.md` (P36–P42), `P43.md` (P43–P49).
+- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35), `P36.md` (P36–P42), `P43.md` (P43–P49), `P50.md` (P50–P63).
+- Coverage after P63: 3,639 words taught. 初級 95%, 中級 86%, 中高級 10%.
 - Coverage after P49: 3,306 words taught. 初級 92%, 中級 73%, 中高級 7%.
 - Coverage after P42: 3,093 words taught. 基礎級 100%, 初級 92%, 中級 61%, 中高級 6% (after P35: 2,862; 84%, 53%, 5%).
 - New words per lesson average about 35, short of the 40 target:
@@ -19,8 +20,12 @@ pages between lesson 100 and 進修 1) is on main too: see "Accent bridge" below
   words in 26–30 lines). The user can still change this.
 - P36–P41 average 38.5 new words (231 in six lessons); 40% of their lines are exact official sentences.
 - P43–P48 average 35.5 (213); 44% official sentences. The plan was made again for P50–P69 on 11 Nov 2026.
-- Story so far: Sam is at 聯合大學 from Sept 2028. P49 is Sat 16 Jun 2029, 五月節 (`course/batches/state.md`).
-- Next: P50 onwards, summer 2029 (A-min works at the factory from July; 中元 24 Aug; 中秋 22 Sep). The 中級 exam is in Nov 2029. The second wave is the app's business
+- P50–P55 average 28.7 and P57–P62 27.0; 56–58% official sentences. The words left are rare ones with one official
+  sentence each. Left for P64–P69: 35 初級 and 230 中級 (44 per lesson): see `course/batches/P50.md` for the choice to make.
+- Story so far: Sam is at 聯合大學 from Sept 2028. He passed the 中級 test (sat on 10 Nov 2029). P63 is Sat 8 Dec 2029
+  (`course/batches/state.md`).
+- Next: P64–P69 and the last review P70: winter 2029–30 (冬節 21 Dec, lunar New Year 3 Feb 2030), the end of Sam's
+  second year. The second wave is the app's business
   (finishing P36 brings back P1): it puts no constraint on the words or the theme of P36.
 
 ## Process from P36 on (10 Nov 2026: faster, still one lesson at a time)

@@ -129,7 +129,15 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
 - The agent was wrong on three points: check every finding in the data before fixing it.
 - Too many planned words were left over (98), so the plan was made again for P50–P69 (`plan --force`, old rows kept).
 
+## Third and fourth batches (P50–P63, 11 Nov 2026)
+- 334 new words in twelve lessons (28 per lesson), 57% official sentences. Brief: `course/batches/P50.md`.
+- The reviews found wrong readings inside exercises (會 fi, 扣分 bunˊ, V著 cog), 𠊎个 + body part, a verb entry
+  used as a noun, wrong "from 進修 N" notes and exercises copying the text. Rules `marks-fun` and `my-body` added.
+- A word is declared in the first lesson that uses it; a word taught inside a longer word needs a line where it
+  stands alone.
+- 臺灣 was declared twice in Part 1 with two readings: fixed (toiˇ vanˇ), which also fixed the draft tool's default.
+
 ## Next
-1. Batch P50–P56: summer 2029 (`course/batches/state.md` has the open threads and the calendar).
-2. Write P50–P55 one at a time, then the review lesson P56.
-3. Fresh-agent review, check its findings, fixes, new rules, `recycle`, `make coverage`. Show the batch result to the user.
+1. Batch P64–P70: winter 2029–30 (`course/batches/state.md` has the open threads and the calendar).
+2. Decide first how many words per lesson: 265 初級 and 中級 words are left for six lessons (`course/batches/P50.md`).
+3. Write P64–P69 one at a time, then the last review lesson P70. Fresh-agent review, fixes, `recycle`, `make coverage`.
