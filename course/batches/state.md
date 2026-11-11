@@ -91,3 +91,5 @@ style of 採茶戲, not a sung one.
 - P57, Sun 14 Oct, the Liu house. Sam has a cold and a fever, a month before the exam; he stays the night. A-min
   came second in the long jump at the school sports (Sat 13 Oct), banged his chin and sprained his hand.
   上屋叔婆 is unwell (an old ailment). Sam's essay topic: the Hakka overseas.
+- P58, Sun 14 Oct evening (tale). Grandpa tells feverish Sam and A-min an invented tale: twin squirrels, a bear,
+  an owl; the selfish squirrel learns to share. Grandma gives Sam a lukewarm wash and a cotton top.

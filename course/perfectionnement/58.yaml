@@ -1,0 +1,290 @@
+id: 58
+genre: tale
+title:
+  en: "One should not be so selfish"
+  sx: {hanzi: "做人毋好恁自私", pinyin: "zo nginˇ mˇ hoˋ anˋ cii siiˊ"}
+review: false
+setting: >-
+  Sunday 14 October 2029, evening, the Liu house. Sam has a fever and cannot sleep, so Grandpa tells him and A-min a
+  tale. The tale is the course's invention, built around official sentences.
+names: [Sam, 阿公, 阿婆, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿公
+    en: "Sam has a fever and can't sleep, so I'll tell you both a story. Long, long ago there was a great pine tree in the hills."
+    sx: {hanzi: "Sam 發燒睡毋落覺，𠊎講一隻古分你兜聽。頭擺頭擺，山肚有一頭大松樹。", pinyin: "Sam fadˋ seuˊ soi mˇ log gau, ngaiˇ gongˋ idˋ zagˋ guˋ bunˊ nˇ deuˊ tangˊ. teuˇ baiˋ teuˇ baiˋ, sanˊ duˋ iuˊ idˋ teuˇ tai qiungˇ su."}
+    check: true
+  - n: 2
+    speaker: 阿公
+    en: "Pine needles are sharp."
+    source: kaga115
+    sx: {hanzi: "松樹葉仔尖尖。", pinyin: "qiungˇ su iab eˋ jiamˊ jiamˊ."}
+  - n: 3
+    speaker: 阿公
+    en: "Two squirrels lived up in the tree."
+    sx: {hanzi: "樹頂歇等兩隻膨尾鼠。", pinyin: "su dangˋ hed denˋ liongˋ zagˋ pong miˊ cuˋ."}
+    check: true
+  - n: 4
+    speaker: 阿公
+    en: "The two of them were twins: no wonder they looked so alike."
+    source: kaga115
+    sx: {hanzi: "佢兩儕係雙生仔，難怪生到恁相像。", pinyin: "giˇ liongˋ saˇ he sungˊ sangˊ eˋ, nanˇ guai sangˊ do anˋ xiongˊ qiong."}
+  - n: 5
+    speaker: 阿公
+    en: "In autumn the hills were covered in silver-grass plumes, and the grapes at the hillside were ripe. The elder squirrel was very selfish: when he found grapes he hid them and shared them with nobody, his own brother included."
+    sx: {hanzi: "秋天，滿山个芒花，山脣个葡萄乜熟吔。大个膨尾鼠當自私，尋著葡萄就囥起來，包括老弟都毋分。", pinyin: "qiuˊ tienˊ, manˊ sanˊ ge miongˇ faˊ, sanˊ sunˇ ge puˇ toˇ me xiugˋ leˊ. tai ge pong miˊ cuˋ dongˊ cii siiˊ, qimˇ doˋ puˇ toˇ qiu kong hiˋ loiˇ, bauˊ guadˋ loˋ taiˊ du mˇ bunˊ."}
+    ok: [shu-cooked]
+  - n: 6
+    speaker: 阿明
+    en: "Were there giraffes in the hills?"
+    sx: {hanzi: "山肚有長頸鹿無？", pinyin: "sanˊ duˋ iuˊ congˇ giangˋ lug moˇ?"}
+    check: true
+  - n: 7
+    speaker: 阿明
+    en: "A giraffe has a long neck and can reach the higher leaves."
+    source: kaga115
+    sx: {hanzi: "長頸鹿頸根長，食得著較高个樹葉仔。", pinyin: "congˇ giangˋ lug giangˋ ginˊ congˇ, siid dedˋ doˋ ka goˊ ge su iab eˋ."}
+  - n: 8
+    speaker: 阿公
+    en: "No giraffes! There was a bear in the hills."
+    sx: {hanzi: "無長頸鹿！山肚有熊。", pinyin: "moˇ congˇ giangˋ lug! sanˊ duˋ iuˊ iungˇ."}
+    check: true
+  - n: 9
+    speaker: 阿公
+    en: "Bears are very good at catching fish to eat at the riverside."
+    source: kaga115
+    sx: {hanzi: "熊盡會在河壩脣捉魚仔來食。", pinyin: "iungˇ qin voi coiˊ hoˇ ba sunˇ zogˋ ngˇ eˋ loiˇ siid."}
+  - n: 10
+    speaker: 阿公
+    en: "The owl only comes out to look for food at night."
+    source: kaga
+    sx: {hanzi: "貓頭鳥暗晡頭正出來絡食。", pinyin: "meu teuˇ diauˊ am buˊ teuˇ zang cudˋ loiˇ logˋ siid."}
+  - n: 11
+    speaker: 阿公
+    en: "These last few days the weather has not been normal: the temperature is high and a hot wind is blowing as well."
+    source: kaga115
+    sx: {hanzi: "這幾日个天時無正常，溫度高又過起燒風。", pinyin: "iaˋ giˋ ngidˋ ge tienˊ siiˇ moˇ ziin songˇ, vunˊ tu goˊ iu go hiˋ seuˊ fungˊ."}
+  - n: 12
+    speaker: 阿公
+    en: "The dragonflies are flying about overhead: it is probably going to rain."
+    source: kaga115
+    sx: {hanzi: "天頂揚尾仔緊飛，怕會落雨哩。", pinyin: "tienˊ dangˋ iongˇ miˊ eˋ ginˋ biˊ, pa voi log iˋ leˊ."}
+  - n: 13
+    speaker: 阿公
+    en: "Down came the rain! The younger squirrel fell over the bank. Below the bank was a pool, full of tadpoles and crabs."
+    sx: {hanzi: "落大雨吔！細个膨尾鼠跌落崁下。崁下有一隻水窟，肚項異多𧊅𬠖仔同毛蟹。", pinyin: "log tai iˋ leˊ! se ge pong miˊ cuˋ diedˋ log kam haˊ. kam haˊ iuˊ idˋ zagˋ suiˋ fudˋ, duˋ hong i doˊ guaiˋ ngiam eˋ tungˇ moˊ haiˋ."}
+    check: true
+  - n: 14
+    speaker: 阿公
+    en: "The elder one cried and cried, and went to find the bear. The bear said: \"I am very willing to help.\" The owl asked the bear:"
+    sx: {hanzi: "大个緊噭，去尋熊。熊講：「𠊎當樂意𢯭手。」貓頭鳥問熊：", pinyin: "tai ge ginˋ gieu, hi qimˇ iungˇ. iungˇ gongˋ: ngaiˇ dongˊ log i ten suˋ. meu teuˇ diauˊ mun iungˇ:"}
+    check: true
+  - n: 15
+    speaker: 阿公
+    en: "If you slide down from up there, won't it be frightening?"
+    source: kaga
+    sx: {hanzi: "你對該頂高溜下來，會得人驚無？", pinyin: "nˇ dui ge dangˋ goˊ liu haˊ loiˇ, voi dedˋ nginˇ giangˊ moˇ?"}
+  - n: 16
+    speaker: 阿公
+    en: "The bear was not afraid. It was dark by then, and the fireflies came to light the way. The bear slid down, got covered in beggar-ticks all over, and brought the little squirrel up."
+    sx: {hanzi: "熊毋驚。天暗吔，火焰蟲飛來照路。熊溜下來，歸身黏等蝦公夾，同細个膨尾鼠帶上來。", pinyin: "iungˇ mˇ giangˊ. tienˊ am leˊ, foˋ iam cungˇ biˊ loiˇ zeu lu. iungˇ liu haˊ loiˇ, guiˊ siinˊ ngiamˇ denˋ haˇ gungˊ giab, tungˇ se ge pong miˊ cuˋ dai songˊ loiˇ."}
+    check: true
+  - n: 17
+    speaker: 阿公
+    en: "The elder squirrel brought out the grapes and said: \"Please help yourselves, don't stand on ceremony.\" The bear said:"
+    sx: {hanzi: "大个膨尾鼠拿葡萄出來講：「請隨意食，毋使細義。」熊講：", pinyin: "tai ge pong miˊ cuˋ naˊ puˇ toˇ cudˋ loiˇ gongˋ: qiangˋ suiˇ i siid, mˇ siiˋ se ngi. iungˇ gongˋ:"}
+    check: true
+  - n: 18
+    speaker: 阿公
+    en: "Grapes are very nourishing."
+    source: kaga115
+    sx: {hanzi: "葡萄當有營養。", pinyin: "puˇ toˇ dongˊ iuˊ inˇ iongˊ."}
+  - n: 19
+    speaker: 阿公
+    en: "The bear offered the squirrels fish in return. The squirrel said:"
+    sx: {hanzi: "熊乜請膨尾鼠食魚仔。膨尾鼠講：", pinyin: "iungˇ me qiangˋ pong miˊ cuˋ siid ngˇ eˋ. pong miˊ cuˋ gongˋ:"}
+    check: true
+  - n: 20
+    speaker: 阿公
+    en: "This fish smells very fishy."
+    source: kaga115
+    sx: {hanzi: "這魚仔盡臭腥。", pinyin: "iaˋ ngˇ eˋ qin cu xiangˊ."}
+  - n: 21
+    speaker: 阿公
+    en: "So the owl laughed at him:"
+    sx: {hanzi: "貓頭鳥就笑佢：", pinyin: "meu teuˇ diauˊ qiu seu giˇ:"}
+    check: true
+  - n: 22
+    speaker: 阿公
+    en: "One should not be so selfish."
+    source: kaga115
+    sx: {hanzi: "做人毋好恁自私。", pinyin: "zo nginˇ mˇ hoˋ anˋ cii siiˊ."}
+  - n: 23
+    speaker: Sam
+    en: "That was a very good story. Grandpa tells stories with real skill."
+    sx: {hanzi: "這隻古當好聽。阿公講古當有技巧。", pinyin: "iaˋ zagˋ guˋ dongˊ hoˋ tangˊ. aˊ gungˊ gongˋ guˋ dongˊ iuˊ giˊ kauˋ."}
+    check: true
+  - n: 24
+    speaker: 阿明
+    en: "That kind of story I heard when I was little."
+    sx: {hanzi: "該樣个古，𠊎細个時節聽過吔。", pinyin: "ge iong ge guˋ, ngaiˇ se ge siiˇ jiedˋ tangˊ go leˊ."}
+    check: true
+  - n: 25
+    speaker: 阿婆
+    en: "That will do: Sam needs to rest. The water is heated."
+    sx: {hanzi: "好吔，Sam 愛歇睏。水燒好吔。", pinyin: "hoˋ leˊ, Sam oi hiedˋ kun. suiˋ seuˊ hoˋ leˊ."}
+    check: true
+  - n: 26
+    speaker: 阿婆
+    en: "Lukewarm water is just right for a wash."
+    source: kaga115
+    sx: {hanzi: "半燒冷个水，洗身堵堵好。", pinyin: "ban seuˊ langˊ ge suiˋ, seˋ siinˊ duˋ duˋ hoˋ."}
+  - n: 27
+    speaker: 阿婆
+    en: "This top is made of cotton."
+    source: kaga115
+    sx: {hanzi: "這領衫係棉仔做个。", pinyin: "iaˋ liangˊ samˊ he mienˇ eˋ zo ge."}
+  - n: 28
+    speaker: Sam
+    en: "Thank you, Grandma. After hearing that story I feel much less pressure."
+    sx: {hanzi: "多謝阿婆。聽忒這隻古，𠊎个壓力減輕當多。", pinyin: "doˊ qia aˊ poˇ. tangˊ tedˋ iaˋ zagˋ guˋ, ngaiˇ ge abˋ lid gamˋ kiangˊ dongˊ doˊ."}
+    check: true
+  - n: 29
+    speaker: 阿公
+    en: "Tomorrow night it will be the story of the scarab beetle."
+    sx: {hanzi: "天光日暗晡講金蛄仔个古。", pinyin: "tienˊ gongˊ ngidˋ am buˊ gongˋ gimˊ guˊ eˋ ge guˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 22, an official sentence: 自私 cii siiˊ "selfish". The tale is not a traditional one: the
+      course made it up to hold the animal words. 講古 is "tell a story".
+  - ref: 1
+    topic: vocab
+    text: >
+      松樹 qiungˇ su "pine tree". 膨尾鼠 pong miˊ cuˋ in line 3 is "squirrel": the "puffed-tail mouse".
+  - ref: 4
+    topic: vocab
+    text: >
+      雙生仔 sungˊ sangˊ eˋ "twins" (佢兩姊妹係雙生仔).
+  - ref: 5
+    topic: vocab
+    text: >
+      芒花 miongˇ faˊ: the plumes of silver grass, which whiten the hills in autumn. 葡萄 puˇ toˇ "grapes". 熟 "ripe" is
+      read xiugˋ; "cooked" is sug (lesson 29). 包括 bauˊ guadˋ "include".
+  - ref: 7
+    topic: vocab
+    text: >
+      長頸鹿 congˇ giangˋ lug "giraffe": the "long-necked deer". 熊 iungˇ in line 8 is "bear".
+  - ref: 10
+    topic: vocab
+    text: >
+      貓頭鳥 meu teuˇ diauˊ "owl". 絡食 "look for food" is from 進修 45.
+  - ref: 11
+    topic: vocab
+    text: >
+      燒風 seuˊ fungˊ "hot wind". 揚尾仔 iongˇ miˊ eˋ in line 12 is "dragonfly" (揚尾仔愛食蚊仔同烏蠅).
+  - ref: 13
+    topic: vocab
+    text: >
+      崁下 kam haˊ "below a bank or cliff". 𧊅𬠖仔 guaiˋ ngiam eˋ "tadpole"; 毛蟹 moˊ haiˋ "crab".
+  - ref: 14
+    topic: vocab
+    text: >
+      樂意 log i "willing, glad to" (𠊎當樂意聽你講). 溜下來 liu haˊ loiˇ in line 15 is "slide down".
+  - ref: 16
+    topic: vocab
+    text: >
+      火焰蟲 foˋ iam cungˇ "firefly". 蝦公夾 haˇ gungˊ giab: a weed whose seeds stick to clothes (蝦公夾黏在褲項).
+  - ref: 17
+    topic: vocab
+    text: >
+      隨意 suiˇ i "as one pleases": 請隨意 is said to a guest at table (請隨意挾菜食，毋使細義).
+  - ref: 20
+    topic: vocab
+    text: >
+      臭腥 cu xiangˊ "fishy-smelling".
+  - ref: 23
+    topic: vocab
+    text: >
+      技巧 giˊ kauˋ "skill, technique" (做事愛有技巧).
+  - ref: 24
+    topic: vocab
+    text: >
+      該樣 ge iong "that kind" (該樣東西無人想愛買).
+  - ref: 26
+    topic: vocab
+    text: >
+      半燒冷 ban seuˊ langˊ "lukewarm", half hot and half cold. 棉仔 mienˇ eˋ in line 27 is "cotton".
+  - ref: 28
+    topic: vocab
+    text: >
+      減輕 gamˋ kiangˊ "lighten, reduce" (減輕厥心肚个壓力). 壓力 is from 進修 43.
+  - ref: 29
+    topic: vocab
+    text: >
+      金蛄仔 gimˊ guˊ eˋ "chafer, scarab beetle" (青菜葉仔分金蛄仔食到一空一空仔 "the chafers have eaten the leaves full of holes").
+
+new_words:
+  - {hanzi: "松樹", pinyin: "qiungˇ su", en: "pine tree"}
+  - {hanzi: "膨尾鼠", pinyin: "pong miˊ cuˋ", en: "squirrel"}
+  - {hanzi: "雙生仔", pinyin: "sungˊ sangˊ eˋ", en: "twins"}
+  - {hanzi: "芒花", pinyin: "miongˇ faˊ", en: "silver-grass plumes"}
+  - {hanzi: "葡萄", pinyin: "puˇ toˇ", en: "grapes"}
+  - {hanzi: "熟", pinyin: "xiugˋ", en: "ripe"}
+  - {hanzi: "自私", pinyin: "cii siiˊ", en: "selfish"}
+  - {hanzi: "包括", pinyin: "bauˊ guadˋ", en: "include"}
+  - {hanzi: "長頸鹿", pinyin: "congˇ giangˋ lug", en: "giraffe"}
+  - {hanzi: "熊", pinyin: "iungˇ", en: "bear"}
+  - {hanzi: "貓頭鳥", pinyin: "meu teuˇ diauˊ", en: "owl"}
+  - {hanzi: "燒風", pinyin: "seuˊ fungˊ", en: "hot wind"}
+  - {hanzi: "揚尾仔", pinyin: "iongˇ miˊ eˋ", en: "dragonfly"}
+  - {hanzi: "崁下", pinyin: "kam haˊ", en: "below a bank or cliff"}
+  - {hanzi: "𧊅𬠖仔", pinyin: "guaiˋ ngiam eˋ", en: "tadpole"}
+  - {hanzi: "毛蟹", pinyin: "moˊ haiˋ", en: "crab"}
+  - {hanzi: "樂意", pinyin: "log i", en: "willing, glad to"}
+  - {hanzi: "溜下來", pinyin: "liu haˊ loiˇ", en: "slide down"}
+  - {hanzi: "火焰蟲", pinyin: "foˋ iam cungˇ", en: "firefly"}
+  - {hanzi: "蝦公夾", pinyin: "haˇ gungˊ giab", en: "beggar-ticks (a weed whose seeds stick to clothes)"}
+  - {hanzi: "隨意", pinyin: "suiˇ i", en: "as one pleases"}
+  - {hanzi: "臭腥", pinyin: "cu xiangˊ", en: "fishy-smelling"}
+  - {hanzi: "技巧", pinyin: "giˊ kauˋ", en: "skill, technique"}
+  - {hanzi: "該樣", pinyin: "ge iong", en: "that kind"}
+  - {hanzi: "半燒冷", pinyin: "ban seuˊ langˊ", en: "lukewarm"}
+  - {hanzi: "棉仔", pinyin: "mienˇ eˋ", en: "cotton"}
+  - {hanzi: "減輕", pinyin: "gamˋ kiangˊ", en: "lighten, reduce"}
+  - {hanzi: "金蛄仔", pinyin: "gimˊ guˊ eˋ", en: "scarab beetle, chafer"}
+
+exercises:
+  translate:
+    - en: "The two sisters are twins."
+      source: kaga115
+      sx: {hanzi: "佢兩姊妹係雙生仔。", pinyin: "giˇ liongˋ jiˋ moi he sungˊ sangˊ eˋ."}
+    - en: "Dragonflies eat mosquitoes and flies."
+      source: kaga
+      sx: {hanzi: "揚尾仔愛食蚊仔同烏蠅。", pinyin: "iongˇ miˊ eˋ oi siid munˊ eˋ tungˇ vuˊ inˇ."}
+    - en: "I am very glad to listen to you."
+      source: kaga115
+      sx: {hanzi: "𠊎當樂意聽你講。", pinyin: "ngaiˇ dongˊ log i tangˊ nˇ gongˋ."}
+    - en: "Nobody wants to buy that kind of thing."
+      source: kaga115
+      sx: {hanzi: "該樣東西無人想愛買。", pinyin: "ge iong dungˊ xiˊ moˇ nginˇ xiongˋ oi maiˊ."}
+    - en: "The pine trees in the park have grown very fine."
+      source: kaga
+      sx: {hanzi: "公園肚个松樹生到當靚。", pinyin: "gungˊ ienˇ duˋ ge qiungˇ su sangˊ do dongˊ jiangˊ."}
+  fill:
+    - en: "Silver-grass plumes all over the hills."
+      sx: {hanzi: "滿山个___。", pinyin: "manˊ sanˊ ge ___.", answer_hanzi: "芒花", answer: "miongˇ faˊ"}
+    - en: "You need skill to do a job."
+      sx: {hanzi: "做事愛有___。", pinyin: "zo se oi iuˊ ___.", answer_hanzi: "技巧", answer: "giˊ kauˋ"}
+    - en: "The beggar-ticks are stuck to my trousers."
+      sx: {hanzi: "蝦公夾黏在___項。", pinyin: "haˇ gungˊ giab ngiamˇ coiˊ ___ hong.", answer_hanzi: "褲", answer: "fu"}
+    - en: "Did you buy the grapes in the fridge?"
+      sx: {hanzi: "冰箱肚个___係毋係你買个？", pinyin: "benˊ xiongˊ duˋ ge ___ he mˇ he nˇ maiˊ ge?", answer_hanzi: "葡萄", answer: "puˇ toˇ"}
+    - en: "Please help yourselves to the dishes: don't stand on ceremony."
+      sx: {hanzi: "請___挾菜食，毋使細義。", pinyin: "qiangˋ ___ giabˋ coi siid, mˇ siiˋ se ngi.", answer_hanzi: "隨意", answer: "suiˇ i"}
+
+audio: []
