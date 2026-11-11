@@ -138,7 +138,7 @@ dialogue:
   - n: 26
     speaker: 叔婆
     en: "On the day of the winter solstice the day is shortest. Eat rice balls at the solstice and you are a year older."
-    source: kaga115
+    check: true
     sx: {hanzi: "冬節該日，日仔盡短。冬節食雪圓仔，就加一歲。", pinyin: "dungˊ jiedˋ ge ngidˋ, ngidˋ eˇ qin donˋ. dungˊ jiedˋ siid xiedˋ ienˇ eˋ, qiu gaˊ idˋ se."}
 
 notes:
