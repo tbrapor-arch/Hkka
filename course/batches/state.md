@@ -114,3 +114,5 @@ style of 採茶戲, not a sung one.
 - P67, Fri 15 Feb 2030, A-in reads the news (all invented): a new education minister, free travel for old
   people from March, military exercises in March, the old theatre in 公館 to be pulled down, the county sports
   meeting in March.
+- P68, Mon 18 – Thu 21 Feb 2030, Sam's travel diary down the west of Taiwan by train: a fishing village, a big
+  city (a bricklayer who rents, a film being shot), an old teahouse, the fields. No town is named.

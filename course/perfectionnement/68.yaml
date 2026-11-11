@@ -1,0 +1,272 @@
+id: 68
+genre: diary
+title:
+  en: "This road twists and turns: who knows where it leads?"
+  sx: {hanzi: "這條路彎彎斡斡，毋知透到哪去？", pinyin: "iaˋ tiauˇ lu vanˊ vanˊ vadˋ vadˋ, mˇ diˊ teu do nai hi?"}
+review: false
+setting: >-
+  Monday 18 to Thursday 21 February 2030, the winter holidays. Sam's diary of his train trip down the west of
+  Taiwan. He names no town; the people he meets are invented.
+names: [Sam]
+
+dialogue:
+  - n: 1
+    en: "Monday 18 February. I am touring the west of Taiwan by train. The train reached the first stop at ten exactly: a village by the sea. The shore is all tiny pebbles."
+    sx: {hanzi: "二月十八號，禮拜一。𠊎坐火車遶臺灣西部。火車準準十點到頭一站，係海脣个莊頭。海脣全係細細粒仔个石頭。", pinyin: "ngi ngied siib badˋ ho, liˊ bai idˋ. ngaiˇ coˊ foˋ caˊ lauˊ toiˇ vanˇ xiˊ pu. foˋ caˊ zunˋ zunˋ siib diamˋ do teuˇ idˋ zam, he hoiˋ sunˇ ge zongˊ teuˇ. hoiˋ sunˇ qionˇ he se se liab eˋ ge sag teuˇ."}
+    check: true
+  - n: 2
+    en: "Many boats are moored at the quay."
+    source: kaga115
+    sx: {hanzi: "碼頭停當多船仔。", pinyin: "maˊ teuˇ tinˇ dongˊ doˊ sonˇ eˋ."}
+  - n: 3
+    en: "Fishermen depend on the heavens for their living."
+    source: kaga115
+    sx: {hanzi: "漁民靠天食飯。", pinyin: "ngˇ minˇ ko tienˊ siid fan."}
+  - n: 4
+    en: "A dark-skinned old fisherman told me about his son."
+    sx: {hanzi: "一個烏肉个老漁民同𠊎講厥倈仔个事情。", pinyin: "idˋ ge vuˊ ngiugˋ ge loˋ ngˇ minˇ tungˇ ngaiˇ gongˋ giaˊ lai eˋ ge sii qinˇ."}
+    check: true
+  - n: 5
+    en: "A voyage at sea lasts a month and a half at the least."
+    source: kaga115
+    sx: {hanzi: "行船一轉至少個半月。", pinyin: "hangˇ sonˇ idˋ zonˋ zii seuˋ ge ban ngied."}
+  - n: 6
+    en: "At night I stayed at an inn by the quay. Yesterday's tea was on the table, and I didn't dare drink it."
+    sx: {hanzi: "暗晡𠊎歇在碼頭脣个旅館。桌頂有昨晡日个茶，𠊎毋敢食。", pinyin: "am buˊ ngaiˇ hiedˋ coiˊ maˊ teuˇ sunˇ ge liˊ gonˋ. zogˋ dangˋ iuˊ coˊ buˊ ngidˋ ge caˇ, ngaiˇ mˇ gamˋ siid."}
+    check: true
+  - n: 7
+    en: "Tea left overnight is more poisonous than a snake."
+    source: kaga115
+    sx: {hanzi: "隔夜茶毒過蛇。", pinyin: "gagˋ ia caˇ tug go saˇ."}
+  - n: 8
+    en: "The plughole of the sink is blocked: nothing goes through at all."
+    source: kaga115
+    sx: {hanzi: "水槽空仔塞著，全毋會通。", pinyin: "suiˋ coˇ kungˊ eˋ sedˋ doˋ, qionˇ mˇ voi tungˊ."}
+  - n: 9
+    en: "Tuesday 19 February. The further south, the warmer the weather. I reached a big city. This district is all new buildings, square as boxes."
+    sx: {hanzi: "二月十九號，禮拜二。緊行緊南方，天時較燒暖。𠊎到一隻大城市。這區全係新起个屋，四四角角。", pinyin: "ngi ngied siib giuˋ ho, liˊ bai ngi. ginˋ hangˇ ginˋ namˇ fongˊ, tienˊ siiˇ ka seuˊ nonˊ. ngaiˇ do idˋ zagˋ tai sangˇ sii. iaˋ kiˊ qionˇ he xinˊ hiˋ ge vugˋ, xi xi gogˋ gogˋ."}
+    check: true
+  - n: 10
+    en: "At the station exit I met a man."
+    sx: {hanzi: "𠊎在車站出口堵著一個人。", pinyin: "ngaiˇ coiˊ caˊ zam cudˋ kieuˋ duˇ doˋ idˋ ge nginˇ."}
+    check: true
+  - n: 11
+    en: "He is a master bricklayer whose whole trade is building houses for people."
+    source: kaga115
+    sx: {hanzi: "佢係泥水師傅，專門同人起屋。", pinyin: "giˇ he naiˇ suiˋ siiˊ fu, zonˊ munˇ tungˇ nginˇ hiˋ vugˋ."}
+  - n: 12
+    en: "Prices keep rising, and wages are as low as ever."
+    source: kaga115
+    sx: {hanzi: "物價緊起，薪水共樣恁少。", pinyin: "vud ga ginˋ hiˋ, xinˊ suiˋ kiung iong anˋ seuˋ."}
+  - n: 13
+    en: "He says he can't afford to buy a house himself and can only live in a rented one."
+    sx: {hanzi: "佢講自家買毋起屋，淨做得租屋仔歇。", pinyin: "giˇ gongˋ qi gaˊ maiˊ mˇ hiˋ vugˋ, qiang zo dedˋ zuˊ vugˋ eˇ hed."}
+    check: true
+  - n: 14
+    en: "This lane is so narrow that only one car can get through."
+    source: kaga115
+    sx: {hanzi: "這巷仔狹狹仔，淨一臺車仔過得。", pinyin: "iaˋ hong eˋ hab hab eˋ, qiang idˋ toiˇ caˊ eˋ go dedˋ."}
+  - n: 15
+    en: "I came out of that lane, lost my way at the crossroads and asked an old lady."
+    sx: {hanzi: "𠊎行出該條巷，在十字路口尋無路，問一個阿婆。", pinyin: "ngaiˇ hangˇ cudˋ ge tiauˇ hong, coiˊ siib sii lu heuˋ qimˇ moˇ lu, mun idˋ ge aˊ poˇ."}
+    check: true
+  - n: 16
+    en: "This road twists and turns: who knows where it leads?"
+    source: kaga115
+    sx: {hanzi: "這條路彎彎斡斡，毋知透到哪去？", pinyin: "iaˋ tiauˇ lu vanˊ vanˊ vadˋ vadˋ, mˇ diˊ teu do nai hi?"}
+  - n: 17
+    en: "There is a bench to sit on over there."
+    source: kaga115
+    sx: {hanzi: "該跡位仔有凳仔好坐。", pinyin: "ge jiagˋ vi eˋ iuˊ den eˋ hoˋ coˊ."}
+  - n: 18
+    en: "They were shooting a film at the roadside, and the guard would not let people pass. There was a huge advertisement on the wall."
+    sx: {hanzi: "路脣有人拍電影，警衛毋分人過。壁項有當大个廣告。", pinyin: "lu sunˇ iuˊ nginˇ pogˋ tien iangˋ, ginˋ vi mˇ bunˊ nginˇ go. biagˋ hong iuˊ dongˊ tai ge gongˋ go."}
+    check: true
+  - n: 19
+    en: "This director has made a great many films."
+    source: kaga115
+    sx: {hanzi: "這導演拍當多電影。", pinyin: "iaˋ to ienˊ pogˋ dongˊ doˊ tien iangˋ."}
+  - n: 20
+    en: "This advertisement must have cost quite a bit of money, mustn't it?"
+    source: kaga115
+    sx: {hanzi: "這廣告花忒毋會少錢哦？", pinyin: "iaˋ gongˋ go faˊ tedˋ mˇ voi seuˋ qienˇ oˊ?"}
+  - n: 21
+    en: "Wednesday 20 February. In the afternoon I had tea in an old teahouse."
+    sx: {hanzi: "二月二十號，禮拜三。下晝𠊎在一間老茶館食茶。", pinyin: "ngi ngied ngi siib ho, liˊ bai samˊ. haˊ zu ngaiˇ coiˊ idˋ gienˊ loˋ caˇ gonˋ siid caˇ."}
+    check: true
+  - n: 22
+    en: "Teahouses and wine shops are where the rich take their ease; farmers seldom go."
+    source: kaga
+    sx: {hanzi: "茶館酒樓係有錢人閒尞个所在，耕田人盡少去。", pinyin: "caˇ gonˋ jiuˋ leuˇ he iuˊ qienˇ nginˇ hanˇ liau ge soˋ cai, gangˊ tienˇ nginˇ qin seuˋ hi."}
+  - n: 23
+    en: "After so many years of living in a house, it needs doing up once in a long while."
+    source: kaga115
+    sx: {hanzi: "屋仔戴恁多年，久久愛修整一到。", pinyin: "vugˋ eˇ dai anˋ doˊ ngienˇ, giuˋ giuˋ oi xiuˊ zangˋ idˋ do."}
+  - n: 24
+    en: "The owner says the government is going to set up a station here and build a highway, to develop the place. The hotel has a swimming pool; in winter nobody swims."
+    sx: {hanzi: "頭家講政府愛在這位設一隻車站，起一條公路，建設地方。旅館有游泳池，寒天無人洗身仔。", pinyin: "teuˇ gaˊ gongˋ ziin fuˋ oi coiˊ iaˋ vi sadˋ idˋ zagˋ caˊ zam, hiˋ idˋ tiauˇ gungˊ lu, gien sadˋ ti fongˊ. liˊ gonˋ iuˊ iuˇ iunˋ ciiˇ, honˇ tienˊ moˇ nginˇ seˋ siinˊ eˋ."}
+    check: true
+  - n: 25
+    en: "At New Year and on feast days the motorway is jammed again and again."
+    source: kaga115
+    sx: {hanzi: "過年過節高速公路不時會塞車。", pinyin: "go ngienˇ go jiedˋ goˊ sugˋ gungˊ lu budˋ siiˇ voi sedˋ caˊ."}
+  - n: 26
+    en: "The air is bad: my eyes smart and keep watering."
+    source: kaga115
+    sx: {hanzi: "空氣毋好，目澀澀仔緊流目汁。", pinyin: "kungˊ hi mˇ hoˋ, mugˋ sebˋ sebˋ eˋ ginˋ liuˇ mugˋ ziibˋ."}
+  - n: 27
+    en: "Thursday 21 February. Before going home, I went to look at the fields."
+    sx: {hanzi: "二月二十一號，禮拜四。轉屋前，𠊎去看田。", pinyin: "ngi ngied ngi siib idˋ ho, liˊ bai xi. zonˋ vugˋ qienˇ, ngaiˇ hi kon tienˇ."}
+    check: true
+  - n: 28
+    en: "Those who farm have to raise their own rice seedlings."
+    source: kaga115
+    sx: {hanzi: "耕種人愛自家委秧仔。", pinyin: "gangˊ zung nginˇ oi qi gaˊ ve iongˊ eˋ."}
+  - n: 29
+    en: "Pig dealers take Mondays off."
+    source: kaga115
+    sx: {hanzi: "豬販仔尞拜一。", pinyin: "zuˊ fan eˋ liau bai idˋ."}
+  - n: 30
+    en: "When it comes to travelling, I am always keen. In a bookshop I asked: \"Does the shop sell a map of Taiwan?\""
+    sx: {hanzi: "講著旅行，𠊎就當有願頭。在書店𠊎問：「書店曾有賣臺灣地圖？」", pinyin: "gongˋ doˋ liˊ hangˇ, ngaiˇ qiu dongˊ iuˊ ngien teuˇ. coiˊ suˊ diam ngaiˇ mun: suˊ diam qienˇ iuˊ mai toiˇ vanˇ ti tuˇ?"}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 16, an official sentence: 透到 teu do "lead to, go through to". Sam planned this trip in 進修
+      65.
+  - ref: 1
+    topic: vocab
+    text: >
+      準準 zunˋ zunˋ "exactly, spot on". 細細粒仔 se se liab eˋ "tiny", of grains and pebbles.
+  - ref: 2
+    topic: vocab
+    text: >
+      碼頭 maˊ teuˇ "quay, pier". 漁民 ngˇ minˇ in line 3 is "fisherman": 靠天食飯 "live by the grace of the heavens".
+  - ref: 4
+    topic: vocab
+    text: >
+      烏肉 vuˊ ngiugˋ "dark-skinned". 行船 hangˇ sonˇ in line 5 is "go to sea" as a living.
+  - ref: 7
+    topic: vocab
+    text: >
+      隔夜 gagˋ ia "left overnight". 毒 tug is "poisonous" here: the saying is in the lists. 塞著 sedˋ doˋ in line 8 is
+      "blocked".
+  - ref: 9
+    topic: vocab
+    text: >
+      南方 namˇ fongˊ "the south". 區 kiˊ "district, area" (這地區輒輒做大水). 四四角角 xi xi gogˋ gogˋ "square, box-shaped": 四角 is
+      from 進修 45. 起屋 "build a house" is from 進修 12.
+  - ref: 10
+    topic: vocab
+    text: >
+      出口 cudˋ kieuˋ "exit"; as a verb, "utter" (佢嘴當壞，輒輒出口傷人).
+  - ref: 12
+    topic: vocab
+    text: >
+      物價 vud ga "prices". 租屋仔 zuˊ vugˋ eˇ in line 13 is "rent a house": 歇 "live" is read hed.
+  - ref: 14
+    topic: vocab
+    text: >
+      巷 hong "lane": 巷仔 is the usual word. 路口 lu heuˋ in line 15 is "junction": 十字路口 "crossroads".
+  - ref: 17
+    topic: vocab
+    text: >
+      該跡位仔 ge jiagˋ vi eˋ "over there, that spot".
+  - ref: 18
+    topic: vocab
+    text: >
+      警衛 ginˋ vi "guard". 廣告 gongˋ go "advertisement". 導演 to ienˊ in line 19 is "film director".
+  - ref: 21
+    topic: vocab
+    text: >
+      茶館 caˇ gonˋ "teahouse".
+  - ref: 23
+    topic: vocab
+    text: >
+      修整 xiuˊ zangˋ "repair, do up": 整 is from 進修 50. 戴 "live in" is the official sentence's word.
+  - ref: 24
+    topic: vocab
+    text: >
+      設 sadˋ "set up, install". 公路 gungˊ lu "highway": 高速公路 "motorway" (line 25). 建設 gien sadˋ "build up, develop".
+      游泳池 iuˇ iunˋ ciiˇ "swimming pool"; 洗身仔 "swim" is from 進修 59.
+  - ref: 26
+    topic: vocab
+    text: >
+      澀 sebˋ "rough, astringent": 目澀澀仔 "eyes smarting".
+  - ref: 28
+    topic: vocab
+    text: >
+      委秧仔 ve iongˊ eˋ "sow and raise rice seedlings". 豬販仔 zuˊ fan eˋ in line 29 is "pig dealer".
+  - ref: 30
+    topic: vocab
+    text: >
+      願頭 ngien teuˇ "keenness, craving" (講著去蹶山，佢就當有願頭). 曾有 qienˇ iuˊ opens a question, "is there…?": the list has
+      書店曾有賣這本書？
+
+new_words:
+  - {hanzi: "準準", pinyin: "zunˋ zunˋ", en: "exactly, spot on"}
+  - {hanzi: "細細粒仔", pinyin: "se se liab eˋ", en: "tiny (of grains, pebbles)"}
+  - {hanzi: "碼頭", pinyin: "maˊ teuˇ", en: "quay, pier"}
+  - {hanzi: "漁民", pinyin: "ngˇ minˇ", en: "fisherman"}
+  - {hanzi: "烏肉", pinyin: "vuˊ ngiugˋ", en: "dark-skinned"}
+  - {hanzi: "行船", pinyin: "hangˇ sonˇ", en: "go to sea, sail (as a living)"}
+  - {hanzi: "隔夜", pinyin: "gagˋ ia", en: "left overnight"}
+  - {hanzi: "塞著", pinyin: "sedˋ doˋ", en: "blocked"}
+  - {hanzi: "南方", pinyin: "namˇ fongˊ", en: "the south"}
+  - {hanzi: "區", pinyin: "kiˊ", en: "district, area"}
+  - {hanzi: "四四角角", pinyin: "xi xi gogˋ gogˋ", en: "square, box-shaped"}
+  - {hanzi: "出口", pinyin: "cudˋ kieuˋ", en: "exit; utter"}
+  - {hanzi: "物價", pinyin: "vud ga", en: "prices"}
+  - {hanzi: "租屋仔", pinyin: "zuˊ vugˋ eˇ", en: "rent a house"}
+  - {hanzi: "巷", pinyin: "hong", en: "lane"}
+  - {hanzi: "路口", pinyin: "lu heuˋ", en: "junction"}
+  - {hanzi: "透到", pinyin: "teu do", en: "lead to, go through to"}
+  - {hanzi: "該跡位仔", pinyin: "ge jiagˋ vi eˋ", en: "over there, that spot"}
+  - {hanzi: "警衛", pinyin: "ginˋ vi", en: "guard"}
+  - {hanzi: "廣告", pinyin: "gongˋ go", en: "advertisement"}
+  - {hanzi: "導演", pinyin: "to ienˊ", en: "(film) director"}
+  - {hanzi: "茶館", pinyin: "caˇ gonˋ", en: "teahouse"}
+  - {hanzi: "修整", pinyin: "xiuˊ zangˋ", en: "repair, do up"}
+  - {hanzi: "設", pinyin: "sadˋ", en: "set up, install"}
+  - {hanzi: "建設", pinyin: "gien sadˋ", en: "build up, develop"}
+  - {hanzi: "游泳池", pinyin: "iuˇ iunˋ ciiˇ", en: "swimming pool"}
+  - {hanzi: "公路", pinyin: "gungˊ lu", en: "highway"}
+  - {hanzi: "澀", pinyin: "sebˋ", en: "rough, astringent; (of eyes) smarting"}
+  - {hanzi: "委秧仔", pinyin: "ve iongˊ eˋ", en: "raise rice seedlings"}
+  - {hanzi: "豬販仔", pinyin: "zuˊ fan eˋ", en: "pig dealer"}
+  - {hanzi: "願頭", pinyin: "ngien teuˇ", en: "keenness, craving"}
+  - {hanzi: "曾有", pinyin: "qienˇ iuˊ", en: "is there…? has there been…?"}
+
+exercises:
+  translate:
+    - en: "Infrastructure."
+      source: kaga115
+      sx: {hanzi: "基礎建設。", pinyin: "giˊ cuˋ gien sadˋ."}
+    - en: "This area is often flooded."
+      source: kaga115
+      sx: {hanzi: "這地區輒輒做大水。", pinyin: "iaˋ ti kiˊ jiab jiab zo tai suiˋ."}
+    - en: "He has a wicked tongue: what he says often wounds people."
+      source: kaga115
+      sx: {hanzi: "佢嘴當壞，輒輒出口傷人。", pinyin: "giˇ zoi dongˊ faiˋ, jiab jiab cudˋ kieuˋ songˊ nginˇ."}
+    - en: "With a machine installed here it is very handy."
+      source: kaga115
+      sx: {hanzi: "設一臺機器在這，當方便。", pinyin: "sadˋ idˋ toiˇ giˊ hi coiˊ iaˋ, dongˊ fongˊ pien."}
+    - en: "Go straight along this little road and it leads to the motorway."
+      source: kaga115
+      sx: {hanzi: "這條細路仔直直行，會透到高速公路。", pinyin: "iaˋ tiauˇ se lu eˋ ciid ciid hangˇ, voi teu do goˊ sugˋ gungˊ lu."}
+  fill:
+    - en: "If prices are stable, people's lives are settled."
+      sx: {hanzi: "___係穩定，人民生活就安定。", pinyin: "___ he vunˋ tin, nginˇ minˇ senˊ fad qiu onˊ tin.", answer_hanzi: "物價", answer: "vud ga"}
+    - en: "This toothpaste is advertised on television."
+      sx: {hanzi: "這種牙膏，電視有___。", pinyin: "iaˋ zungˋ ngaˇ gauˊ, tien sii iuˊ ___.", answer_hanzi: "廣告", answer: "gongˋ go"}
+    - en: "When it comes to hiking in the hills, he is always keen."
+      sx: {hanzi: "講著去蹶山，佢就當有___。", pinyin: "gongˋ doˋ hi kied sanˊ, giˇ qiu dongˊ iuˊ ___.", answer_hanzi: "願頭", answer: "ngien teuˇ"}
+    - en: "Does the bookshop sell this book?"
+      sx: {hanzi: "書店___賣這本書？", pinyin: "suˊ diam ___ mai iaˋ bunˋ suˊ?", answer_hanzi: "曾有", answer: "qienˇ iuˊ"}
+    - en: "His blood vessel got blocked, and later he had a stroke."
+      sx: {hanzi: "佢血管___，背尾就中風吔。", pinyin: "giˇ hiedˋ gonˋ ___, boi miˊ qiu zung fungˊ leˊ.", answer_hanzi: "塞著", answer: "sedˋ doˋ"}
+
+audio: []
