@@ -1,0 +1,314 @@
+id: 69
+genre: story
+title:
+  en: "This tea leaves a sweet aftertaste"
+  sx: {hanzi: "這茶食吔嘴尾會甘", pinyin: "iaˋ caˇ siid leˊ zoi miˊ voi gamˊ"}
+review: false
+setting: >-
+  Sunday 24 February 2030, the day before school starts again. Big cleaning at the Liu house. Sam, back from his
+  trip, comes to help and brings tea.
+names: [Sam, 阿公, 阿婆, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    en: "Sunday 24 February. School starts tomorrow, and the house is having a big clean. A-in is outside hanging up the washing."
+    sx: {hanzi: "二月二十四號，禮拜日。天光日開學，屋下大拚掃。阿英在外背拔衫褲。", pinyin: "ngi ngied ngi siib xi ho, liˊ bai ngidˋ. tienˊ gongˊ ngidˋ koiˊ hog, vugˋ kaˊ tai biang so. aˊ inˊ coiˊ ngoi boi bad samˊ fu."}
+    check: true
+  - n: 2
+    speaker: 阿婆
+    en: "Who is that banging on the door?"
+    source: kaga115
+    sx: {hanzi: "麼人在該碰門？", pinyin: "maˋ nginˇ du ge pongˊ munˇ?"}
+  - n: 3
+    speaker: Sam
+    en: "It's me! I'm back from my trip, and I've brought a packet of tea for Grandpa."
+    sx: {hanzi: "係𠊎！𠊎旅行轉來吔，帶一包茶分阿公。", pinyin: "he ngaiˇ! ngaiˇ liˊ hangˇ zonˋ loiˇ leˊ, dai idˋ bauˊ caˇ bunˊ aˊ gungˊ."}
+    check: true
+  - n: 4
+    speaker: 阿公
+    en: "Please hold this suitcase up for me: I want to put it up on the shelf."
+    source: kaga
+    sx: {hanzi: "請你同𠊎托等這隻皮箱，𠊎愛上上去架仔頂項。", pinyin: "qiangˋ nˇ tungˇ ngaiˇ togˋ denˋ iaˋ zagˋ piˇ xiongˊ, ngaiˇ oi songˋ songˊ hi ga eˋ dangˋ hong."}
+  - n: 5
+    speaker: 阿公
+    en: "There is a hole in the wall, which A-min poked playing ball. I'm going to plaster it flat."
+    sx: {hanzi: "壁項有一隻空，係阿明搞球仔揰个。𠊎愛同佢抹平來。", pinyin: "biagˋ hong iuˊ idˋ zagˋ kungˊ, he aˊ minˇ gauˋ kiuˇ eˋ dungˋ ge. ngaiˇ oi tungˇ giˇ madˋ piangˇ loiˇ."}
+    check: true
+  - n: 6
+    speaker: 阿公
+    en: "You mustn't throw a ball about in the classroom."
+    source: kaga115
+    sx: {hanzi: "做毋得在教室肚擲球仔。", pinyin: "zomˇ dedˋ coiˊ gau siidˋ duˋ deb kiuˇ eˋ."}
+  - n: 7
+    speaker: 阿公
+    en: "The same goes for the house! A-min, climb up the ladder and unscrew that dead light bulb."
+    sx: {hanzi: "屋肚乜共樣！阿明，跋上梯仔，同該隻壞忒个電火捩下來。", pinyin: "vugˋ duˋ me kiung iong! aˊ minˇ, bagˋ songˊ toiˊ eˋ, tungˇ ge zagˋ faiˋ tedˋ ge tien foˋ lidˋ haˊ loiˇ."}
+    check: true
+  - n: 8
+    speaker: 阿婆
+    en: "The hanging lamp is swinging to and fro in the wind."
+    source: kaga115
+    sx: {hanzi: "吊燈分風吹啊去晃啊晃仔。", pinyin: "diau denˊ bunˊ fungˊ coiˊ a hi gongˇ a gongˇ eˋ."}
+  - n: 9
+    speaker: 阿婆
+    en: "Sprinkle water on the floor before you sweep. A-min has hundreds of books: the ones he doesn't want must be sorted out."
+    sx: {hanzi: "地泥愛先潑水正掃。阿明个書有歸百冊，無愛个愛擇出來。", pinyin: "ti naiˇ oi xienˊ padˋ suiˋ zang so. aˊ minˇ ge suˊ iuˊ guiˊ bagˋ cagˋ, moˇ oi ge oi tog cudˋ loiˇ."}
+    check: true
+  - n: 10
+    speaker: 阿婆
+    en: "You mustn't throw rubbish just anywhere."
+    source: kaga115
+    sx: {hanzi: "做毋得儘採擲地圾。", pinyin: "zomˇ dedˋ qinˋ caiˋ deb ti sebˋ."}
+  - n: 11
+    speaker: 阿英
+    en: "A-min hasn't finished his holiday homework, and he even got wrong how many hundred million people there are in the world."
+    sx: {hanzi: "阿明个寒假作業還吂寫好，世界有幾多億人都寫毋著。", pinyin: "aˊ minˇ ge honˇ gaˋ zogˋ ngiab hanˇ mangˇ xiaˋ hoˋ, sii gie iuˊ giˋ doˊ i nginˇ du xiaˋ mˇ cog."}
+    check: true
+  - n: 12
+    speaker: 阿英
+    en: "Once it is written down, you can't alter it."
+    source: kaga115
+    sx: {hanzi: "寫落去就做毋得塗改。", pinyin: "xiaˋ log hi qiu zomˇ dedˋ tuˇ goiˋ."}
+  - n: 13
+    speaker: 阿公
+    en: "Pupils nowadays have to learn English right from the start of primary school."
+    source: kaga115
+    sx: {hanzi: "這下个學生仔對讀小學起勢，就愛學英文。", pinyin: "iaˋ ha ge hog sangˊ eˋ dui tug seuˋ hog hiˋ sii, qiu oi hog inˊ vunˇ."}
+  - n: 14
+    en: "The telephone rings. A-in picks it up and says:"
+    sx: {hanzi: "電話響吔。阿英接起來講：", pinyin: "tien fa hiongˋ leˊ. aˊ inˊ jiabˋ hiˋ loiˇ gongˋ:"}
+    check: true
+  - n: 15
+    speaker: 阿英
+    en: "Mum is in the middle of cooking: could you ring again in five minutes?"
+    source: kaga115
+    sx: {hanzi: "阿姆當當在該煮飯，過五分鐘正打來做得無？", pinyin: "aˊ meˊ dongˊ dongˊ di ge zuˋ fan, go ngˋ funˊ zungˊ zang daˋ loiˇ zo dedˋ moˇ?"}
+  - n: 16
+    speaker: 阿婆
+    en: "For lunch there is capon, there is fish, and radish cake as well. Grandma's soup is excellent."
+    sx: {hanzi: "當晝有閹雞、有魚，還過菜頭粄。阿婆煮个湯當湛。", pinyin: "dongˊ zu iuˊ iamˊ gieˊ, iuˊ ngˇ, hanˇ go coi teuˇ banˋ. aˊ poˇ zuˋ ge tongˊ dongˊ zam."}
+    check: true
+  - n: 17
+    speaker: 阿婆
+    en: "Add a ladle of water."
+    source: kaga115
+    sx: {hanzi: "加一勺水落去。", pinyin: "gaˊ idˋ sog suiˋ log hi."}
+  - n: 18
+    en: "A-min waits to eat with his mouth open."
+    sx: {hanzi: "阿明嘴擘擘等食。", pinyin: "aˊ minˇ zoi bagˋ bagˋ denˋ siid."}
+    check: true
+  - n: 19
+    speaker: 阿婆
+    en: "The top is too small: you've stretched it till the seam has burst."
+    source: kaga115
+    sx: {hanzi: "衫忒細領，分你弓到暴線縫。", pinyin: "samˊ tedˋ se liangˊ, bunˊ nˇ giungˊ do bau xien pung."}
+  - n: 20
+    speaker: 阿婆
+    en: "Bring me a needle. Tomorrow I'll go and buy a bolt of cloth and make you a new one."
+    sx: {hanzi: "拿一枚針來。天光日𠊎去買一疋布，同你做新衫。", pinyin: "naˊ idˋ moiˇ ziimˊ loiˇ. tienˊ gongˊ ngidˋ ngaiˇ hi maiˊ idˋ pidˋ bu, tungˇ nˇ zo xinˊ samˊ."}
+    check: true
+  - n: 21
+    speaker: 阿英
+    en: "Making clothes yourself doesn't pay: buying them is cheaper."
+    sx: {hanzi: "自家做衫算毋和，買个較便宜。", pinyin: "qi gaˊ zo samˊ son mˇ foˇ, maiˊ ge ka pienˇ ngiˇ."}
+    check: true
+  - n: 22
+    en: "The young man from next door comes to borrow the ladder. A-min calls him \"uncle\". Sam asks why."
+    sx: {hanzi: "隔壁个後生人來借梯仔。阿明喊佢阿叔。Sam 問做麼个。", pinyin: "gagˋ biagˋ ge heu sangˊ nginˇ loiˇ jia toiˊ eˋ. aˊ minˇ ham giˇ aˊ sugˋ. Sam mun zo maˋ ge."}
+    check: true
+  - n: 23
+    speaker: 阿明
+    en: "He is one generation above me, so I have to call him uncle."
+    source: kaga115
+    sx: {hanzi: "佢大𠊎一重，故所愛喊佢阿叔。", pinyin: "giˇ tai ngaiˇ idˋ cungˇ, gu soˋ oi ham giˇ aˊ sugˋ."}
+  - n: 24
+    speaker: 阿公
+    en: "How many units of electricity did we use this month? And there should be a warning notice by the ladder."
+    sx: {hanzi: "這隻月用幾多磅電？梯仔該位愛貼一張標語。", pinyin: "iaˋ zagˋ ngied iung giˋ doˊ bongˇ tien? toiˊ eˋ ge vi oi diabˋ idˋ zongˊ peuˊ ngiˊ."}
+    check: true
+  - n: 25
+    speaker: 阿公
+    en: "Dangerous places have warning notices."
+    source: kaga115
+    sx: {hanzi: "危險个位所會有警告標語。", pinyin: "nguiˇ hiamˋ ge vi soˋ voi iuˊ ginˋ go peuˊ ngiˊ."}
+  - n: 26
+    speaker: 阿婆
+    en: "A-min, go and have a wash."
+    sx: {hanzi: "阿明，去洗身。", pinyin: "aˊ minˇ, hi seˋ siinˊ."}
+    check: true
+  - n: 27
+    speaker: 阿婆
+    en: "When you wash your feet, scrub clean between the toes as well."
+    source: kaga115
+    sx: {hanzi: "洗身腳該下，腳趾罅乜愛鑪淨來。", pinyin: "seˋ siinˊ giogˋ ge ha, giogˋ ziiˋ la me oi lu qiang loiˇ."}
+  - n: 28
+    speaker: 阿英
+    en: "Let's go to the pictures tonight."
+    sx: {hanzi: "暗晡來去看電影。", pinyin: "am buˊ loiˇ hi kon tien iangˋ."}
+    check: true
+  - n: 29
+    speaker: 阿英
+    en: "This film is very exciting."
+    source: kaga115
+    sx: {hanzi: "這齣電影當刺激。", pinyin: "iaˋ cudˋ tien iangˋ dongˊ qiugˋ gidˋ."}
+  - n: 30
+    speaker: 阿公
+    en: "This tea leaves a sweet aftertaste: it really is good tea."
+    source: kaga115
+    sx: {hanzi: "這茶食吔嘴尾會甘，有影係好茶。", pinyin: "iaˋ caˇ siid leˊ zoi miˊ voi gamˊ, iuˊ iangˋ he hoˋ caˇ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is the first half of line 30, an official sentence: 甘 gamˊ is the sweetness that comes after a
+      bitter taste. Sam is back from the trip of 進修 68.
+  - ref: 1
+    topic: vocab
+    text: >
+      拔 bad "hang up, drape" (拔衫褲); with the reading pad it is "beat lightly" (進修 52).
+  - ref: 2
+    topic: vocab
+    text: >
+      碰門 pongˊ munˇ "bang on a door".
+  - ref: 4
+    topic: vocab
+    text: >
+      托等 togˋ denˋ "hold up from below". 上上去 songˋ songˊ hi "put up on a high place": the list writes the first 上
+      with the tone ˋ.
+  - ref: 5
+    topic: vocab
+    text: >
+      揰 dungˋ "poke, jab" (揰一隻空 "poke a hole"). 抹 madˋ "plaster, smear": 抹平來 "smooth it flat".
+  - ref: 6
+    topic: vocab
+    text: >
+      擲 deb "throw".
+  - ref: 7
+    topic: vocab
+    text: >
+      跋 bagˋ "climb up". 捩 lidˋ "twist, turn": 捩下來 "unscrew"; 捩捩轉 is from 進修 45.
+  - ref: 8
+    topic: vocab
+    text: >
+      晃 gongˇ "swing, sway": 晃啊晃仔 "swinging to and fro".
+  - ref: 9
+    topic: vocab
+    text: >
+      潑水 padˋ suiˋ "sprinkle water, throw water". 冊 cagˋ counts volumes: 歸百冊 "hundreds of volumes".
+  - ref: 11
+    topic: vocab
+    text: >
+      億 i "hundred million". 塗改 tuˇ goiˋ in line 12 is "alter what is written".
+  - ref: 13
+    topic: vocab
+    text: >
+      起勢 hiˋ sii "start, beginning": 對…起勢 "starting from…".
+  - ref: 15
+    topic: grammar
+    text: >
+      當當在該 + verb: "be right in the middle of". 當在該 + verb is "be doing"; doubling 當 makes it stronger.
+  - ref: 16
+    topic: vocab
+    text: >
+      閹雞 iamˊ gieˊ "capon" (過年㓾一隻閹雞來敬天公). 還過 hanˇ go "and also, as well". 湛 zam "excellent, very good".
+  - ref: 17
+    topic: vocab
+    text: >
+      勺 sog "ladle", as a measure.
+  - ref: 18
+    topic: vocab
+    text: >
+      嘴擘擘 zoi bagˋ bagˋ "with one's mouth open": 擘嘴 is from 進修 48.
+  - ref: 19
+    topic: vocab
+    text: >
+      暴線縫 bau xien pung: a seam bursts open.
+  - ref: 20
+    topic: vocab
+    text: >
+      枚 moiˇ counts needles (一枚針); 疋 pidˋ is a bolt of cloth (一疋布仔).
+  - ref: 21
+    topic: vocab
+    text: >
+      算毋和 son mˇ foˇ "not worth it, it doesn't pay" (這買賣算毋和，應該會了錢).
+  - ref: 23
+    topic: vocab
+    text: >
+      重 cungˇ counts generations in a family: 大𠊎一重 "one generation above me". The character has other readings:
+      cungˊ "heavy" (lesson 30).
+  - ref: 24
+    topic: vocab
+    text: >
+      磅 bongˇ is a unit on a meter: 幾多磅電？ "how many units of electricity?" 標語 peuˊ ngiˊ "notice, slogan".
+  - ref: 27
+    topic: vocab
+    text: >
+      鑪 lu "rub, scrub". 腳趾 is from 進修 64; 罅 here is "the gap between".
+  - ref: 29
+    topic: vocab
+    text: >
+      齣 cudˋ counts plays and films: 一齣戲.
+
+new_words:
+  - {hanzi: "拔", pinyin: "bad", en: "hang up, drape"}
+  - {hanzi: "碰門", pinyin: "pongˊ munˇ", en: "bang on a door"}
+  - {hanzi: "托等", pinyin: "togˋ denˋ", en: "hold up, support from below"}
+  - {hanzi: "揰", pinyin: "dungˋ", en: "poke, jab"}
+  - {hanzi: "抹", pinyin: "madˋ", en: "plaster, smear"}
+  - {hanzi: "擲", pinyin: "deb", en: "throw"}
+  - {hanzi: "跋", pinyin: "bagˋ", en: "climb up"}
+  - {hanzi: "捩", pinyin: "lidˋ", en: "twist, turn"}
+  - {hanzi: "晃", pinyin: "gongˇ", en: "swing, sway"}
+  - {hanzi: "潑水", pinyin: "padˋ suiˋ", en: "sprinkle water, throw water"}
+  - {hanzi: "冊", pinyin: "cagˋ", en: "volume, copy (measure for books)"}
+  - {hanzi: "億", pinyin: "i", en: "hundred million"}
+  - {hanzi: "塗改", pinyin: "tuˇ goiˋ", en: "alter (what is written)"}
+  - {hanzi: "起勢", pinyin: "hiˋ sii", en: "start, beginning"}
+  - {hanzi: "閹雞", pinyin: "iamˊ gieˊ", en: "capon"}
+  - {hanzi: "上上去", pinyin: "songˋ songˊ hi", en: "put up on (a high place)"}
+  - {hanzi: "還過", pinyin: "hanˇ go", en: "and also, as well"}
+  - {hanzi: "湛", pinyin: "zam", en: "excellent, very good"}
+  - {hanzi: "勺", pinyin: "sog", en: "ladle (measure)"}
+  - {hanzi: "嘴擘擘", pinyin: "zoi bagˋ bagˋ", en: "with one's mouth open"}
+  - {hanzi: "暴線縫", pinyin: "bau xien pung", en: "(of a seam) burst"}
+  - {hanzi: "枚", pinyin: "moiˇ", en: "(measure for needles)"}
+  - {hanzi: "疋", pinyin: "pidˋ", en: "bolt (of cloth)"}
+  - {hanzi: "算毋和", pinyin: "son mˇ foˇ", en: "not worth it, not pay"}
+  - {hanzi: "重", pinyin: "cungˇ", en: "generation (measure)"}
+  - {hanzi: "磅", pinyin: "bongˇ", en: "unit (of electricity, water)"}
+  - {hanzi: "標語", pinyin: "peuˊ ngiˊ", en: "notice, slogan"}
+  - {hanzi: "鑪", pinyin: "lu", en: "rub, scrub"}
+  - {hanzi: "齣", pinyin: "cudˋ", en: "(measure for plays and films)"}
+  - {hanzi: "甘", pinyin: "gamˊ", en: "sweet (aftertaste)"}
+
+exercises:
+  translate:
+    - en: "A play."
+      source: kaga115
+      sx: {hanzi: "一齣戲。", pinyin: "idˋ cudˋ hi."}
+    - en: "A bolt of cloth."
+      source: kaga115
+      sx: {hanzi: "一疋布仔。", pinyin: "idˋ pidˋ bu eˋ."}
+    - en: "Turn it once round."
+      source: kaga115
+      sx: {hanzi: "捩一圈。", pinyin: "lidˋ idˋ kienˊ."}
+    - en: "China's population passed one thousand three hundred million long ago."
+      source: kaga
+      sx: {hanzi: "中國人口早就超過十三億吔。", pinyin: "zungˊ guedˋ nginˇ kieuˋ zoˋ qiu ceuˊ go siib samˊ i leˊ."}
+    - en: "At New Year a capon is killed as an offering to the Lord of Heaven."
+      source: kaga115
+      sx: {hanzi: "過年㓾一隻閹雞來敬天公。", pinyin: "go ngienˇ ciiˇ idˋ zagˋ iamˊ gieˊ loiˇ gin tienˊ gungˊ."}
+  fill:
+    - en: "The teaching material has six volumes."
+      sx: {hanzi: "教材有六___。", pinyin: "gau coiˇ iuˊ liugˋ ___.", answer_hanzi: "冊", answer: "cagˋ"}
+    - en: "A lot of young people can play billiards nowadays."
+      sx: {hanzi: "這下當多後生人會___球仔。", pinyin: "iaˋ ha dongˊ doˊ heu sangˊ nginˇ voi ___ kiuˇ eˋ.", answer_hanzi: "揰", answer: "dungˋ"}
+    - en: "This deal doesn't pay: it will probably lose money."
+      sx: {hanzi: "這買賣___，應該會了錢。", pinyin: "iaˋ maiˊ mai ___, in goiˊ voi leˊ qienˇ.", answer_hanzi: "算毋和", answer: "son mˇ foˇ"}
+    - en: "When the seam of a garment bursts, it must be sewn up with needle and thread."
+      sx: {hanzi: "衫褲___就愛用針線攣好來。", pinyin: "samˊ fu ___ qiu oi iung ziimˊ xien lionˇ hoˋ loiˇ.", answer_hanzi: "暴線縫", answer: "bau xien pung"}
+    - en: "The soup is too salty: add two ladles of water."
+      sx: {hanzi: "湯忒鹹吔，加兩___水。", pinyin: "tongˊ tedˋ hamˇ leˊ, gaˊ liongˋ ___ suiˋ.", answer_hanzi: "勺", answer: "sog"}
+
+audio: []

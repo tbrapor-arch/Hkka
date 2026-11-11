@@ -116,3 +116,5 @@ style of 採茶戲, not a sung one.
   meeting in March.
 - P68, Mon 18 – Thu 21 Feb 2030, Sam's travel diary down the west of Taiwan by train: a fishing village, a big
   city (a bricklayer who rents, a film being shot), an old teahouse, the fields. No town is named.
+- P69, Sun 24 Feb 2030, big cleaning at the Liu house the day before school starts. Sam is back from his trip with
+  tea for Grandpa. A-min's top has burst a seam; Grandma will make him a new one.
