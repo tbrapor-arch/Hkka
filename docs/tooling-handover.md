@@ -140,8 +140,11 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
 ## Last batch (P64–P70, 11 Nov 2026)
 - 193 new words in six lessons (32 per lesson), 51% official sentences. Brief: `course/batches/P64.md`.
 - Lint now also checks "X is from 進修 N" notes against `new_words` and exercises that repeat their own text.
-- Part 2 is finished. Still to do: re-voice the synthetic audio of the changed lines in Hkka-private; decide
-  whether the 66 words left out get two extra lessons or a list in the app.
+- Part 2 is finished. Two extra stories (外篇 1–2, files 71.yaml and 72.yaml, app ids 171–172) teach 52 of the 66
+  words left out.
+- Audio (11 Nov 2026): `Hkka-private/tools/tts.py --lessons 1-100,101-172` now voices 進修 too (Sixian only, files
+  P01-…). 2,979 files were made: the changed Part 1 lines and all of Part 2. Published to Hkka-audio; the site was
+  rebuilt. The Part 2 cast is in `tools/cast.yaml` (provisional, as for Part 1).
 
 ## Before the last batch (kept for the record)
 1. Batch P64–P70: winter 2029–30 (`course/batches/state.md` has the open threads and the calendar).
