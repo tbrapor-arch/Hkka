@@ -137,7 +137,13 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
   stands alone.
 - 臺灣 was declared twice in Part 1 with two readings: fixed (toiˇ vanˇ), which also fixed the draft tool's default.
 
-## Next
+## Last batch (P64–P70, 11 Nov 2026)
+- 193 new words in six lessons (32 per lesson), 51% official sentences. Brief: `course/batches/P64.md`.
+- Lint now also checks "X is from 進修 N" notes against `new_words` and exercises that repeat their own text.
+- Part 2 is finished. Still to do: re-voice the synthetic audio of the changed lines in Hkka-private; decide
+  whether the 66 words left out get two extra lessons or a list in the app.
+
+## Before the last batch (kept for the record)
 1. Batch P64–P70: winter 2029–30 (`course/batches/state.md` has the open threads and the calendar).
 2. Decide first how many words per lesson: 265 初級 and 中級 words are left for six lessons (`course/batches/P50.md`).
 3. Write P64–P69 one at a time, then the last review lesson P70. Fresh-agent review, fixes, `recycle`, `make coverage`.

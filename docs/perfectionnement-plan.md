@@ -4,10 +4,12 @@ Decided with the user on 8 Nov 2026. Model: Tsheh-tû's `docs/perfectionnement-p
 Before writing a lesson, read `course/batches/card.md` (one page) and `course/batches/state.md`.
 `course/batches/checklist.md` holds the evidence behind the card.
 
-## Status (11 Nov 2026, evening)
-**P1–P63 written, reviewed by fresh agents, fixed and merged into main.** Lint shows 0 errors. The accent bridge (six
+## Status (11 Nov 2026, end of the course)
+**P1–P70 written, reviewed by fresh agents, fixed and merged into main.** Lint shows 0 errors. The accent bridge (six
 pages between lesson 100 and 進修 1) is on main too: see "Accent bridge" below.
-- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35), `P36.md` (P36–P42), `P43.md` (P43–P49), `P50.md` (P50–P63).
+- Briefs and progress tables: `course/batches/P01.md` (P1–P7), `P08.md` (P8–P21), `P22.md` (P22–P35), `P36.md` (P36–P42), `P43.md` (P43–P49), `P50.md` (P50–P63), `P64.md` (P64–P70).
+- Coverage after P70 (end): 3,832 words taught. 基礎級 100%, 初級 98%, 中級 95%, 中高級 11%. The 87 初級 and
+  中級 entries not taught are listed in `course/batches/P64.md`, with the reason.
 - Coverage after P63: 3,639 words taught. 初級 95%, 中級 86%, 中高級 10%.
 - Coverage after P49: 3,306 words taught. 初級 92%, 中級 73%, 中高級 7%.
 - Coverage after P42: 3,093 words taught. 基礎級 100%, 初級 92%, 中級 61%, 中高級 6% (after P35: 2,862; 84%, 53%, 5%).
