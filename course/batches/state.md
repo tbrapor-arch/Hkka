@@ -85,3 +85,6 @@ style of 採茶戲, not a sung one.
   bicycle) starts in October. A shop in the street owes the factory money.
 - P55, Sat 22 Sep, 八月半 at the Liu house (play). Grandma's wedding necklace is "lost" and is round her neck.
   Grandpa has not smoked for three weeks (since about 1 Sep) and has got thinner. A-in tells him his ideas are old.
+- P56 (review), Sun 30 Sep, tea at the Liu house. Grandpa: one month without tobacco, shoulder better. 阿傑 has
+  his stall and sign in Taipei; capital is short. A-min did badly in maths; school sports coming (long jump,
+  volleyball). Sam studies every other day for the November exam.

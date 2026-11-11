@@ -1,0 +1,180 @@
+id: 56
+genre: review
+title:
+  en: "Gold does not rust"
+  sx: {hanzi: "金仔毋會生鹵", pinyin: "gimˊ eˋ mˇ voi sangˊ luˊ"}
+review: true
+setting: >-
+  Sunday 30 September 2029, afternoon tea at the Liu house. Sam has come over; A-min is doing his homework at the
+  table. Review of 進修 50–55: no new words.
+names: [Sam, 阿公, 阿婆, 阿舅, 阿傑, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, come and have some tea. This isn't strong tea: you won't lie awake tonight."
+    sx: {hanzi: "Sam，來食茶。這毋係釅茶，你暗晡頭毋會睡毋落覺。", pinyin: "Sam, loiˇ siid caˇ. iaˋ mˇ he ngiamˇ caˇ, nˇ am buˊ teuˇ mˇ voi soi mˇ log gau."}
+  - n: 2
+    speaker: Sam
+    en: "Thank you. Grandma is wearing her necklace again today, and this time it didn't go missing."
+    sx: {hanzi: "恁仔細。阿婆今晡日乜戴䯋鍊，這擺無毋見忒。", pinyin: "anˋ ziiˋ se. aˊ poˇ gimˊ buˊ ngidˋ me dai pad lien, iaˋ baiˋ moˇ mˇ gien tedˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "Don't laugh at me. Nowadays I look properly every morning before I leave my room."
+    sx: {hanzi: "你莫笑𠊎。𠊎這滿逐朝晨先看真來，正出間房。", pinyin: "nˇ mog seu ngaiˇ. ngaiˇ iaˋ manˊ dagˋ zeuˊ siinˇ xienˊ kon ziinˊ loiˇ, zang cudˋ gienˊ fongˇ."}
+  - n: 4
+    speaker: 阿公
+    en: "I've been off tobacco for a month. The doctor has had a look and says my shoulder is not stiff any more."
+    sx: {hanzi: "𠊎戒菸一個月吔。先生觀察過，講𠊎个肩頭毋會硬硬吔。", pinyin: "ngaiˇ gie ienˊ idˋ ge ngied leˊ. xinˊ sangˊ gonˊ cadˋ go, gongˋ ngaiˇ ge gienˊ teuˇ mˇ voi ngang ngang leˊ."}
+  - n: 5
+    speaker: 阿英
+    en: "Grandpa really has what it takes! But his trousers are still hanging loose."
+    sx: {hanzi: "阿公當有才調！毋過厥褲還係落落。", pinyin: "aˊ gungˊ dongˊ iuˊ coiˇ tiau! mˇ go giaˊ fu hanˇ he lau lau."}
+  - n: 6
+    speaker: 阿公
+    en: "Never mind: I eat an extra bowl of rice at every meal, and I'll fill out again."
+    sx: {hanzi: "無要緊，𠊎逐餐食加一碗飯，就會撐轉來。", pinyin: "moˇ ieu ginˋ, ngaiˇ dagˋ conˊ siid gaˊ idˋ vonˋ fan, qiu voi cang zonˋ loiˇ."}
+  - n: 7
+    speaker: Sam
+    en: "A-min, have you had your pay?"
+    sx: {hanzi: "阿明，你个工錢領著吂？", pinyin: "aˊ minˇ, nˇ ge gungˊ qienˇ liangˊ doˋ mangˇ?"}
+  - n: 8
+    speaker: 阿明
+    en: "I have. A-kied said I'd taken too many days off and it would be docked: it turned out to be a joke."
+    sx: {hanzi: "領著吔。阿傑講𠊎請假忒多，愛扣錢，原來係講笑。", pinyin: "liangˊ doˋ leˊ. aˊ kied gongˋ ngaiˇ qiangˋ gaˋ tedˋ doˊ, oi kieu qienˇ, ngienˇ loiˇ he gongˋ seu."}
+  - n: 9
+    speaker: 阿英
+    en: "As soon as he was paid he went off to show it around, and even paid for his classmates."
+    sx: {hanzi: "佢領著錢就去展寶，還同同學墊錢。", pinyin: "giˇ liangˊ doˋ qienˇ qiu hi dienˋ boˋ, hanˇ tungˇ tungˇ hog tiabˋ qienˇ."}
+  - n: 10
+    speaker: 阿明
+    en: "I did not! All my money is saved. My sister is saying that on purpose."
+    sx: {hanzi: "𠊎無！𠊎个錢做盡存起來吔。阿姊挑事恁樣講。", pinyin: "ngaiˇ moˇ! ngaiˇ ge qienˇ zo qin sunˇ hiˋ loiˇ leˊ. aˊ jiˋ tiauˊ sii anˋ ngiongˇ gongˋ."}
+  - n: 11
+    speaker: 阿婆
+    en: "No quarrelling. A-kied has gone to Taipei to sell the rice noodles: are they selling well?"
+    sx: {hanzi: "莫冤家。阿傑去臺北推銷粄條，銷路好無？", pinyin: "mog ienˊ gaˊ. aˊ kied hi toiˇ bedˋ tuiˊ seuˊ banˋ tiauˇ, seuˊ lu hoˋ moˇ?"}
+  - n: 12
+    speaker: 阿公
+    en: "Uncle says the sign is up, but there isn't enough capital yet, and spending has to come down."
+    sx: {hanzi: "阿舅講看板吊出來吔，毋過資本還無罅，支出愛降低。", pinyin: "aˊ kiuˊ gongˋ kanˊ bangˋ diau cudˋ loiˇ leˊ, mˇ go ziiˊ bunˋ hanˇ moˇ la, ziiˊ cudˋ oi gong daiˊ."}
+  - n: 13
+    speaker: 阿婆
+    en: "A-kied works steadily and never rushes. With him there, Uncle needn't worry."
+    sx: {hanzi: "阿傑做事順順仔，毋會鬥緊。有佢在，阿舅毋使煩勞。", pinyin: "aˊ kied zo se sun sun eˋ, mˇ voi deu ginˋ. iuˊ giˇ coiˊ, aˊ kiuˊ mˇ siiˋ fanˇ loˇ."}
+  - n: 14
+    speaker: Sam
+    en: "A-min, what are you entering in the school sports?"
+    sx: {hanzi: "阿明，學校个運動會你愛參加麼个？", pinyin: "aˊ minˇ, hog gauˋ ge iun tung fi nˇ oi camˊ gaˊ maˋ ge?"}
+  - n: 15
+    speaker: 阿明
+    en: "Long jump and volleyball. The teacher says it is a very big challenge, and coming first earns a reward."
+    sx: {hanzi: "跳遠同排球。先生講這係當大个挑戰，得著第一名有獎勵。", pinyin: "tiau ienˋ tungˇ paiˇ kiuˇ. xinˊ sangˊ gongˋ iaˋ he dongˊ tai ge tiauˊ zan, dedˋ doˋ ti idˋ miangˇ iuˊ jiongˋ li."}
+  - n: 16
+    speaker: 阿英
+    en: "He did badly in maths, and yesterday he was still sulking by himself in his room."
+    sx: {hanzi: "佢个數學無考好，昨晡日還自家在間肚發閼。", pinyin: "giˇ ge su hog moˇ kauˋ hoˋ, coˊ buˊ ngidˋ hanˇ qi gaˊ coiˊ gienˊ duˋ bodˋ adˋ."}
+  - n: 17
+    speaker: 阿明
+    en: "That time the teacher took off too many marks!"
+    sx: {hanzi: "該擺係先生扣分扣忒多！", pinyin: "ge baiˋ he xinˊ sangˊ kieu bunˊ kieu tedˋ doˊ!"}
+  - n: 18
+    speaker: 阿公
+    en: "Do you mean the teacher has favourites? You didn't study: don't blame other people."
+    sx: {hanzi: "無成先生會大細心？自家無讀書，毋好罵別人。", pinyin: "moˇ sangˇ xinˊ sangˊ voi tai se ximˊ? qi gaˊ moˇ tug suˊ, mˇ hoˋ ma ped nginˇ."}
+  - n: 19
+    speaker: Sam
+    en: "In November I sit the intermediate exam. These days I study every other day; unlike A-min, I don't dare take it easy."
+    sx: {hanzi: "𠊎十一月愛考中級。這滿𠊎間日讀一擺書，同阿明相反，毋敢樂線。", pinyin: "ngaiˇ siib idˋ ngied oi kauˋ zungˊ kibˋ. iaˋ manˊ ngaiˇ gam ngidˋ tug idˋ baiˋ suˊ, tungˇ aˊ minˇ xiongˊ fanˋ, mˇ gamˋ log xien."}
+  - n: 20
+    speaker: 阿婆
+    en: "You have a very steady character. Come: these two cakes are the same size, one each for you and A-min."
+    sx: {hanzi: "你个性格當實在。來，這兩垤餅仔平大，你同阿明一儕一垤。", pinyin: "nˇ ge xin giedˋ dongˊ siid cai. loiˇ, iaˋ liongˋ de biangˋ eˇ piangˇ tai, nˇ tungˇ aˊ minˇ idˋ saˇ idˋ de."}
+  - n: 21
+    speaker: 阿明
+    en: "Grandma, is there any cold rice left? I'd like some rice crust."
+    sx: {hanzi: "阿婆，冷飯還有無？𠊎想食飯𤊶。", pinyin: "aˊ poˇ, langˊ fan hanˇ iuˊ moˇ? ngaiˇ xiongˋ siid fan ladˋ."}
+  - n: 22
+    speaker: 阿婆
+    en: "You have only just eaten, and you want more! You must eat regularly."
+    sx: {hanzi: "你正食飽，還愛食！飲食愛正常。", pinyin: "nˇ zang siid bauˋ, hanˇ oi siid! imˋ siid oi ziin songˇ."}
+  - n: 23
+    speaker: 阿公
+    en: "Gold doesn't rust, and a youngster doesn't come to harm by eating. Let him eat."
+    sx: {hanzi: "金仔毋會生鹵，後生人乜毋會食壞。分佢食。", pinyin: "gimˊ eˋ mˇ voi sangˊ luˊ, heu sangˊ nginˇ me mˇ voi siid faiˋ. bunˊ giˇ siid."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      This lesson has no new words: it brings back words of 進修 50–55. The title is what Grandpa says at the end of
+      進修 55.
+  - ref: 1
+    topic: vocab
+    text: >
+      釅茶 "strong tea", 睡毋落覺 "cannot get to sleep", 䯋鍊 "necklace" (line 2) and 看真 "look properly" (line 3) are from
+      進修 55.
+  - ref: 4
+    topic: vocab
+    text: >
+      戒 "give up", 觀察 "observe" and 硬硬 "stiff" are from 進修 52. 才調 "ability" and 落落 "loose" in line 5 are from 進修 55.
+  - ref: 6
+    topic: vocab
+    text: >
+      餐 "meal" and 撐 "stuffed, overfull" are from 進修 50: 撐轉來 is "fill out again".
+  - ref: 8
+    topic: vocab
+    text: >
+      扣 "deduct" is from 進修 54; 展寶 "show off" (line 9) and 挑事 "on purpose" (line 10) from 進修 51; 墊錢 from 進修 54.
+  - ref: 11
+    topic: vocab
+    text: >
+      推銷, 銷路, 看板, 資本, 支出 and 降低 (line 12) are from 進修 54.
+  - ref: 13
+    topic: vocab
+    text: >
+      順順仔 "steadily" is from 進修 52; 鬥緊 "rush" from 進修 54; 煩勞 "worry" from 進修 50.
+  - ref: 15
+    topic: vocab
+    text: >
+      跳遠, 排球, 挑戰 and 獎勵 are from 進修 53; so are 數學 and 發閼 "sulk" in line 16. 間肚 "in the room" is from 進修 50.
+  - ref: 18
+    topic: vocab
+    text: >
+      無成 "can it be that…" is from 進修 51; 大細心 "favouritism" from 進修 55.
+  - ref: 19
+    topic: vocab
+    text: >
+      間日 "every other day", 相反 "opposite" and 性格 "character" (line 20) are from 進修 52; 樂線 "easy-going" from 進修 51.
+  - ref: 21
+    topic: vocab
+    text: >
+      冷飯 is from 進修 55; 飯𤊶 "rice crust" and 飲食 (line 22) from 進修 50. 生鹵 "rust" is from 進修 55.
+
+new_words:
+
+exercises:
+  translate:
+    - en: "Grandpa has been off tobacco for a month and is very cheerful these days."
+      sx: {hanzi: "阿公戒菸一個月吔，這滿當樂觀。", pinyin: "aˊ gungˊ gie ienˊ idˋ ge ngied leˊ, iaˋ manˊ dongˊ log gonˊ."}
+    - en: "A-kied has hung up a sign in Taipei and is selling Uncle's rice noodles."
+      sx: {hanzi: "阿傑在臺北吊看板，推銷阿舅个粄條。", pinyin: "aˊ kied coiˊ toiˇ bedˋ diau kanˊ bangˋ, tuiˊ seuˊ aˊ kiuˊ ge banˋ tiauˇ."}
+    - en: "A-min did badly in maths and is sulking by himself in his room."
+      sx: {hanzi: "阿明个數學無考好，自家在間肚發閼。", pinyin: "aˊ minˇ ge su hog moˇ kauˋ hoˋ, qi gaˊ coiˊ gienˊ duˋ bodˋ adˋ."}
+    - en: "These two moon cakes are the same size: Grandma has no favourites."
+      sx: {hanzi: "這兩垤月餅平大，阿婆無大細心。", pinyin: "iaˋ liongˋ de ngied biangˋ piangˇ tai, aˊ poˇ moˇ tai se ximˊ."}
+    - en: "After the typhoon, the factory's water tower has to be mended."
+      sx: {hanzi: "風搓過後，工廠个水塔愛整。", pinyin: "fungˊ caiˊ go heu, gungˊ congˋ ge suiˋ tabˋ oi zangˋ."}
+  fill:
+    - en: "Grandma's necklace was not in the drawer: it was round her neck."
+      sx: {hanzi: "阿婆个___無在拖箱角，戴在厥頸根項。", pinyin: "aˊ poˇ ge ___ moˇ coiˊ toˊ xiongˊ gogˋ, dai coiˊ giaˊ giangˋ ginˊ hong.", answer_hanzi: "䯋鍊", answer: "pad lien"}
+    - en: "When A-min got his pay, A-kied said some would be docked: it was a joke."
+      sx: {hanzi: "阿明領著工錢，阿傑講愛___錢，係講笑。", pinyin: "aˊ minˇ liangˊ doˋ gungˊ qienˇ, aˊ kied gongˋ oi ___ qienˇ, he gongˋ seu.", answer_hanzi: "扣", answer: "kieu"}
+    - en: "Sam studies every other day, preparing for the November exam."
+      sx: {hanzi: "Sam ___讀一擺書，準備十一月个考試。", pinyin: "Sam ___ tug idˋ baiˋ suˊ, zunˋ pi siib idˋ ngied ge kauˋ sii.", answer_hanzi: "間日", answer: "gam ngidˋ"}
+    - en: "If you drink strong tea in the evening, you can't get to sleep."
+      sx: {hanzi: "暗晡頭食___，會睡毋落覺。", pinyin: "am buˊ teuˇ siid ___, voi soi mˇ log gau.", answer_hanzi: "釅茶", answer: "ngiamˇ caˇ"}
+    - en: "The school sports have high jump, long jump and volleyball."
+      sx: {hanzi: "學校个運動會有跳高、___同排球。", pinyin: "hog gauˋ ge iun tung fi iuˊ tiau goˊ, ___ tungˇ paiˇ kiuˇ.", answer_hanzi: "跳遠", answer: "tiau ienˋ"}
+
+audio: []
