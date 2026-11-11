@@ -12,8 +12,8 @@ names: [Sam, 阿英, 公館]
 dialogue:
   - n: 1
     speaker: 阿英
-    en: "Hello everyone! Today's guest is Sam. He is French, and last November he passed the intermediate Hakka test. Sam, was the test hard?"
-    sx: {hanzi: "大家好！今晡日个人客係 Sam。佢係法國人，舊年十一月考過客話中級。Sam，考試難無？", pinyin: "tai gaˊ hoˋ! gimˊ buˊ ngidˋ ge nginˇ hagˋ he Sam. giˇ he fabˋ guedˋ nginˇ, kiu ngienˇ siib idˋ ngied kauˋ go hagˋ fa zungˊ kibˋ. Sam, kauˋ sii nanˇ moˇ?"}
+    en: "Hello everyone! Today's guest is Sam. He is French, and in November he passed the intermediate Hakka test. Sam, was the test hard?"
+    sx: {hanzi: "大家好！今晡日个人客係 Sam。佢係法國人，十一月考過客話中級。Sam，考試難無？", pinyin: "tai gaˊ hoˋ! gimˊ buˊ ngidˋ ge nginˇ hagˋ he Sam. giˇ he fabˋ guedˋ nginˇ, siib idˋ ngied kauˋ go hagˋ fa zungˊ kibˋ. Sam, kauˋ sii nanˇ moˇ?"}
     check: true
   - n: 2
     speaker: Sam
@@ -103,7 +103,7 @@ dialogue:
   - n: 19
     speaker: Sam
     en: "Not true! I took part just once when I was at senior high: I don't like showing off."
-    sx: {hanzi: "無影無跡！𠊎讀高中个時節參加過一擺定定，𠊎毋好展風神。", pinyin: "moˇ iangˋ moˇ jiagˋ! ngaiˇ tug goˊ zungˊ ge siiˇ jiedˋ camˊ gaˊ go idˋ baiˋ tin tin, ngaiˇ mˇ hoˋ dienˋ fungˊ siinˇ."}
+    sx: {hanzi: "無影無跡！𠊎讀高中个時節參加過一擺定定，𠊎無愛展風神。", pinyin: "moˇ iangˋ moˇ jiagˋ! ngaiˇ tug goˊ zungˊ ge siiˇ jiedˋ camˊ gaˊ go idˋ baiˋ tin tin, ngaiˇ moˇ oi dienˋ fungˊ siinˇ."}
     check: true
   - n: 20
     speaker: 阿英
@@ -111,14 +111,14 @@ dialogue:
     source: kaga
     sx: {hanzi: "新曆一月過忒，就愛放寒假吔。", pinyin: "xinˊ lag idˋ ngied go tedˋ, qiu oi biong honˇ gaˋ leˊ."}
   - n: 21
-    speaker: Sam
+    speaker: 阿英
     en: "Last winter holidays my whole family went abroad."
     source: kaga115
     sx: {hanzi: "舊年寒假吾歸家人出國尞。", pinyin: "kiu ngienˇ honˇ gaˋ ngaˊ guiˊ gaˊ nginˇ cudˋ guedˋ liau."}
   - n: 22
     speaker: Sam
     en: "This year I'm staying in Taiwan, and I want to tour the west by train. Money has to be spent evenly."
-    sx: {hanzi: "今年𠊎留在臺灣，想坐火車遶西部。錢愛勻勻仔用。", pinyin: "gimˊ ngienˇ ngaiˇ liuˇ coiˊ toiˇ vanˇ, xiongˋ coˊ foˋ caˊ lauˊ xiˊ pu. qienˇ oi iunˇ iunˇ eˋ iung."}
+    sx: {hanzi: "今年𠊎留在臺灣，想坐火車遶西部。錢愛勻勻仔使。", pinyin: "gimˊ ngienˇ ngaiˇ liuˇ coiˊ toiˇ vanˇ, xiongˋ coˊ foˋ caˊ lauˊ xiˊ pu. qienˇ oi iunˇ iunˇ eˋ siiˋ."}
     check: true
   - n: 23
     speaker: Sam
@@ -133,17 +133,17 @@ dialogue:
   - n: 25
     speaker: Sam
     en: "No, they even took me out to dinner. Passing the test has given me more confidence. Everyone in Gongguan knows me now: it's as if I were somebody!"
-    sx: {hanzi: "無，佢兜還請𠊎食飯。考過試，增添𠊎个信心。這下公館人都識𠊎，像當有地位樣仔！", pinyin: "moˇ, giˇ deuˊ hanˇ qiangˋ ngaiˇ siid fan. kauˋ go cii, zen tiamˊ ngaiˇ ge xin ximˊ. iaˋ ha gungˊ gonˋ nginˇ du siidˋ ngaiˇ, qiong dongˊ iuˊ ti vi iong eˋ!"}
+    sx: {hanzi: "無，佢兜還請𠊎食飯。考過試，增添𠊎个信心。這下公館人都識𠊎，像當有地位樣仔！", pinyin: "moˇ, giˇ deuˊ hanˇ qiangˋ ngaiˇ siid fan. kauˋ go sii, zen tiamˊ ngaiˇ ge xin ximˊ. iaˋ ha gungˊ gonˋ nginˇ du siidˋ ngaiˇ, qiong dongˊ iuˊ ti vi iong eˋ!"}
     check: true
   - n: 26
     speaker: 阿英
-    en: "Come, I'll make a pot of tea. There is only one lamp in here, so mind yourself. What do you have in the morning?"
-    sx: {hanzi: "來，𠊎泡一壺茶。這位淨有一盞電火，你細義。朝晨你食麼个？", pinyin: "loiˇ, ngaiˇ pau idˋ fuˇ caˇ. iaˋ vi qiang iuˊ idˋ zanˋ tien foˋ, nˇ se ngi. zeuˊ siinˇ nˇ siid maˋ ge?"}
+    en: "Come, I'll make a pot of tea. There is only one lamp in here, so mind yourself. What do you have in the morning? Do you drink milk like a baby?"
+    sx: {hanzi: "來，𠊎泡一壺茶。這位淨有一盞電火，你細義。朝晨你食麼个？像嬰兒仔共樣食乳無？", pinyin: "loiˇ, ngaiˇ pau idˋ fuˇ caˇ. iaˋ vi qiang iuˊ idˋ zanˋ tien foˋ, nˇ se ngi. zeuˊ siinˇ nˇ siid maˋ ge? qiong oˇ nga eˋ kiung iong siid nen moˇ?"}
     check: true
   - n: 27
     speaker: Sam
     en: "In the morning I only have milk. In winter I don't dare have anything cold."
-    sx: {hanzi: "𠊎朝晨淨食乳。寒天𠊎毋敢食冷个。", pinyin: "ngaiˇ zeuˊ siinˇ qiang siid nen. honˇ tienˊ ngaiˇ mˇ gamˋ siid langˊ ge."}
+    sx: {hanzi: "𠊎朝晨淨食牛乳。寒天𠊎毋敢食冷个。", pinyin: "ngaiˇ zeuˊ siinˇ qiang siid ngiuˇ nen. honˇ tienˊ ngaiˇ mˇ gamˋ siid langˊ ge."}
     check: true
   - n: 28
     speaker: Sam
@@ -221,7 +221,7 @@ notes:
   - ref: 22
     topic: vocab
     text: >
-      西部 xiˊ pu "the west" of a country. 勻勻仔 iunˇ iunˇ eˋ "evenly": the list has 錢愛勻勻仔使, with 使 "spend".
+      西部 xiˊ pu "the west" of a country. 勻勻仔 iunˇ iunˇ eˋ "evenly": 使 "spend" is read siiˋ.
   - ref: 24
     topic: vocab
     text: >
@@ -237,8 +237,8 @@ notes:
   - ref: 27
     topic: vocab
     text: >
-      乳 nen "milk": 食乳 "drink milk" (of a baby, "suckle"); 牛乳 is "cow's milk". 雞嫲皮 gieˊ maˇ piˇ in line 28 is "goose
-      flesh", like 寒毛菇 (進修 17).
+      乳 nen "milk": 食乳 is said of a baby, "suckle"; an adult drinks 牛乳 "cow's milk". 雞嫲皮 gieˊ maˇ piˇ in line 28 is
+      "goose flesh", like 寒毛菇 (進修 17).
   - ref: 29
     topic: vocab
     text: >
@@ -279,7 +279,7 @@ new_words:
 
 exercises:
   translate:
-    - en: "Drink milk; suckle."
+    - en: "(Of a baby) suckle."
       source: kaga115
       sx: {hanzi: "食乳。", pinyin: "siid nen."}
     - en: "So cold that you get goose flesh."

@@ -85,8 +85,8 @@ dialogue:
     sx: {hanzi: "阿姆當當在該煮飯，過五分鐘正打來做得無？", pinyin: "aˊ meˊ dongˊ dongˊ di ge zuˋ fan, go ngˋ funˊ zungˊ zang daˋ loiˇ zo dedˋ moˇ?"}
   - n: 16
     speaker: 阿婆
-    en: "For lunch there is capon, there is fish, and radish cake as well. Grandma's soup is excellent."
-    sx: {hanzi: "當晝有閹雞、有魚，還過菜頭粄。阿婆煮个湯當湛。", pinyin: "dongˊ zu iuˊ iamˊ gieˊ, iuˊ ngˇ, hanˇ go coi teuˇ banˋ. aˊ poˇ zuˋ ge tongˊ dongˊ zam."}
+    en: "For lunch there is capon, there is fish, and radish cake as well."
+    sx: {hanzi: "當晝有閹雞、有魚，還過菜頭粄。", pinyin: "dongˊ zu iuˊ iamˊ gieˊ, iuˊ ngˇ, hanˇ go coi teuˇ banˋ."}
     check: true
   - n: 17
     speaker: 阿婆
@@ -94,8 +94,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "加一勺水落去。", pinyin: "gaˊ idˋ sog suiˋ log hi."}
   - n: 18
-    en: "A-min waits to eat with his mouth open."
-    sx: {hanzi: "阿明嘴擘擘等食。", pinyin: "aˊ minˇ zoi bagˋ bagˋ denˋ siid."}
+    en: "A-min waits to eat with his mouth open, and says: \"Grandma's soup is excellent!\""
+    sx: {hanzi: "阿明嘴擘擘等食，講：「阿婆煮个湯當湛！」", pinyin: "aˊ minˇ zoi bagˋ bagˋ denˋ siid, gongˋ: aˊ poˇ zuˋ ge tongˊ dongˊ zam!"}
     check: true
   - n: 19
     speaker: 阿婆
@@ -138,7 +138,7 @@ dialogue:
     check: true
   - n: 27
     speaker: 阿婆
-    en: "When you wash your feet, scrub clean between the toes as well."
+    en: "When you have a bath, scrub clean between your toes as well."
     source: kaga115
     sx: {hanzi: "洗身腳該下，腳趾罅乜愛鑪淨來。", pinyin: "seˋ siinˊ giogˋ ge ha, giogˋ ziiˋ la me oi lu qiang loiˇ."}
   - n: 28
@@ -211,7 +211,8 @@ notes:
   - ref: 16
     topic: vocab
     text: >
-      閹雞 iamˊ gieˊ "capon" (過年㓾一隻閹雞來敬天公). 還過 hanˇ go "and also, as well". 湛 zam "excellent, very good".
+      閹雞 iamˊ gieˊ "capon" (過年㓾一隻閹雞來敬天公). 還過 hanˇ go "and also, as well". 湛 zam in line 18 is "excellent, very
+      good".
   - ref: 17
     topic: vocab
     text: >
@@ -308,7 +309,7 @@ exercises:
       sx: {hanzi: "這買賣___，應該會了錢。", pinyin: "iaˋ maiˊ mai ___, in goiˊ voi leˊ qienˇ.", answer_hanzi: "算毋和", answer: "son mˇ foˇ"}
     - en: "When the seam of a garment bursts, it must be sewn up with needle and thread."
       sx: {hanzi: "衫褲___就愛用針線攣好來。", pinyin: "samˊ fu ___ qiu oi iung ziimˊ xien lionˇ hoˋ loiˇ.", answer_hanzi: "暴線縫", answer: "bau xien pung"}
-    - en: "The soup is too salty: add two ladles of water."
-      sx: {hanzi: "湯忒鹹吔，加兩___水。", pinyin: "tongˊ tedˋ hamˇ leˊ, gaˊ liongˋ ___ suiˋ.", answer_hanzi: "勺", answer: "sog"}
+    - en: "Add a spoonful of sugar."
+      sx: {hanzi: "加一___糖落去。", pinyin: "gaˊ idˋ ___ tongˇ log hi.", answer_hanzi: "勺", answer: "sog"}
 
 audio: []

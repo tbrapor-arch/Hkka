@@ -24,7 +24,7 @@ dialogue:
     sx: {hanzi: "厥爸頭擺做過部長，退休異多年吔。", pinyin: "giaˊ baˊ teuˇ baiˋ zo go pu zongˋ, tui hiuˊ i doˊ ngienˇ leˊ."}
   - n: 4
     en: "The minister said that those who teach must have morals, and that this education plan is above party lines: it is national policy."
-    sx: {hanzi: "部長講，教書个人愛有道德；這擺个教育方案無分黨派，係國家政策。", pinyin: "pu zongˋ gongˋ, gauˊ suˊ ge nginˇ oi iuˊ to dedˋ; iaˋ baiˋ ge gau iugˋ fongˊ on moˇ bunˊ dongˋ pai, he guedˋ gaˊ ziin cedˋ."}
+    sx: {hanzi: "部長講，教書个人愛有道德；這擺个教育方案無分黨派，係國家政策。", pinyin: "pu zongˋ gongˋ, gauˊ suˊ ge nginˇ oi iuˊ to dedˋ; iaˋ baiˋ ge gau iugˋ fongˊ on moˇ funˊ dongˋ pai, he guedˋ gaˊ ziin cedˋ."}
     check: true
   - n: 5
     en: "The plan is good as far as it goes, but it needs a little more thought."
@@ -99,13 +99,13 @@ dialogue:
     source: kaga115
     sx: {hanzi: "農場有畜牛仔。", pinyin: "nungˇ congˇ iuˊ hiugˋ ngiuˇ eˋ."}
   - n: 23
-    en: "These last few days the weather has been clearly warmer, but the farmers say:"
-    sx: {hanzi: "這幾日天時明顯較燒暖，毋過耕田人講：", pinyin: "iaˋ giˋ ngidˋ tienˊ siiˇ minˇ hienˋ ka seuˊ nonˊ, mˇ go gangˊ tienˇ nginˇ gongˋ:"}
+    en: "These last few days the weather has been clearly warmer, and the farmers have begun raising rice seedlings."
+    sx: {hanzi: "這幾日天時明顯較燒暖，耕田人開始委秧仔。", pinyin: "iaˋ giˋ ngidˋ tienˊ siiˇ minˇ hienˋ ka seuˊ nonˊ, gangˊ tienˇ nginˇ koiˊ ciiˋ ve iongˊ eˋ."}
     check: true
   - n: 24
-    en: "The grain is not yet full."
-    source: kaga115
-    sx: {hanzi: "這穀還吂飽滿。", pinyin: "iaˋ gugˋ hanˇ mangˇ bauˋ manˊ."}
+    en: "Last August the flood came before the grain was full."
+    sx: {hanzi: "舊年八月个穀還吂飽滿就做大水。", pinyin: "kiu ngienˇ badˋ ngied ge gugˋ hanˇ mangˇ bauˋ manˊ qiu zo tai suiˋ."}
+    check: true
   - n: 25
     en: "The county government wants to develop industry. A child's birth has to be registered: let everyone remember."
     sx: {hanzi: "縣政府愛發展工業。細人仔出世愛報戶口，逐儕愛記得。", pinyin: "ien ziin fuˋ oi fadˋ zanˋ gungˊ ngiab. se nginˇ eˋ cudˋ se oi bo fu kieuˋ, dagˋ saˇ oi gi dedˋ."}
@@ -115,8 +115,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "多用茶箍洗手正會消滅病毒。", pinyin: "doˊ iung caˇ guˊ seˋ suˋ zang voi seuˊ mied piang tug."}
   - n: 27
-    en: "The county sports meeting will be held in March. Yesterday's basketball:"
-    sx: {hanzi: "縣个運動大會三月愛辦。昨晡日个籃球：", pinyin: "ien ge iun tung tai fi samˊ ngied oi pan. coˊ buˊ ngidˋ ge lamˇ kiuˇ:"}
+    en: "The sports meeting of the Gongguan school will be held in March. Yesterday's basketball:"
+    sx: {hanzi: "公館學校个運動大會三月愛辦。昨晡日个籃球：", pinyin: "gungˊ gonˋ hog gauˋ ge iun tung tai fi samˊ ngied oi pan. coˊ buˊ ngidˋ ge lamˇ kiuˇ:"}
     check: true
   - n: 28
     en: "The match ended level."
@@ -144,8 +144,8 @@ notes:
   - ref: 4
     topic: vocab
     text: >
-      道德 to dedˋ "morals" (做人做事愛有道德). 方案 fongˊ on "plan, scheme". 黨派 dongˋ pai "party, faction": 無分黨派 "regardless of
-      party". 政策 ziin cedˋ "policy" (國家政策).
+      道德 to dedˋ "morals" (做人做事愛有道德). 方案 fongˊ on "plan, scheme". 黨派 dongˋ pai "party, faction": 無[分|funˊ]黨派
+      "regardless of party". 政策 ziin cedˋ "policy" (國家政策).
   - ref: 9
     topic: vocab
     text: >
@@ -184,7 +184,8 @@ notes:
   - ref: 23
     topic: vocab
     text: >
-      明顯 minˇ hienˋ "clear, obvious". 飽滿 bauˋ manˊ in line 24 is "full, plump", of grain.
+      明顯 minˇ hienˋ "clear, obvious". 委秧仔 ve iongˊ eˋ "sow and raise rice seedlings". 飽滿 bauˋ manˊ in line 24 is
+      "full, plump", of grain.
   - ref: 25
     topic: vocab
     text: >
@@ -238,15 +239,16 @@ new_words:
   - {hanzi: "做戲个", pinyin: "zo hi ge", en: "actor"}
   - {hanzi: "戀愛", pinyin: "lien oi", en: "be in love"}
   - {hanzi: "道德", pinyin: "to dedˋ", en: "morals, morality"}
+  - {hanzi: "委秧仔", pinyin: "ve iongˊ eˋ", en: "raise rice seedlings"}
 
 exercises:
   translate:
     - en: "The minister of education."
       source: kaga115
       sx: {hanzi: "教育部長。", pinyin: "gau iugˋ pu zongˋ."}
-    - en: "The people are the masters of the country."
+    - en: "National policy."
       source: kaga115
-      sx: {hanzi: "人民係國家个主人。", pinyin: "nginˇ minˇ he guedˋ gaˊ ge zuˋ nginˇ."}
+      sx: {hanzi: "國家政策。", pinyin: "guedˋ gaˊ ziin cedˋ."}
     - en: "This singer used to be very famous."
       source: kaga115
       sx: {hanzi: "這歌星頭擺當有名。", pinyin: "iaˋ goˊ senˊ teuˇ baiˋ dongˊ iuˊ miangˇ."}
@@ -265,7 +267,7 @@ exercises:
       sx: {hanzi: "數學毋好斯愛___練習！", pinyin: "su hog mˇ hoˋ siiˇ oi ___ lien xib!", answer_hanzi: "加強", answer: "gaˊ kiongˇ"}
     - en: "In life and in work one must have morals."
       sx: {hanzi: "做人做事愛有___。", pinyin: "zo nginˇ zo se oi iuˊ ___.", answer_hanzi: "道德", answer: "to dedˋ"}
-    - en: "My aunt teaches at a primary school."
-      sx: {hanzi: "舅姆在___小學教書。", pinyin: "kiuˊ meˊ coiˊ ___ seuˋ hog gauˊ suˊ.", answer_hanzi: "國民", answer: "guedˋ minˇ"}
+    - en: "She teaches at a primary school."
+      sx: {hanzi: "佢在___小學教書。", pinyin: "giˇ coiˊ ___ seuˋ hog gauˊ suˊ.", answer_hanzi: "國民", answer: "guedˋ minˇ"}
 
 audio: []

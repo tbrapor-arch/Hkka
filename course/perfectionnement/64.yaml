@@ -23,13 +23,13 @@ dialogue:
     sx: {hanzi: "天時一變，風溼病就擎起來。", pinyin: "tienˊ siiˇ idˋ bien, fungˊ siibˋ piang qiu kiaˇ hiˋ loiˇ."}
   - n: 3
     speaker: 叔婆
-    en: "My arm hurts and I can't do a thing. Have you put the baby's cot together yet?"
-    sx: {hanzi: "吾手骨痛，做毋得事。你同嬰兒仔个眠床鬥起來吂？", pinyin: "ngaˊ suˋ gudˋ tung, zomˇ dedˋ se. nˇ tungˇ oˇ nga eˋ ge minˇ congˇ deu hiˋ loiˇ mangˇ?"}
+    en: "My arm hurts and I can't do anything. Have you put the baby's cot together yet?"
+    sx: {hanzi: "吾手骨痛，麼个事都做毋來。你同嬰兒仔个眠床鬥起來吂？", pinyin: "ngaˊ suˋ gudˋ tung, maˋ ge se du zo mˇ loiˇ. nˇ tungˇ oˇ nga eˋ ge minˇ congˇ deu hiˋ loiˇ mangˇ?"}
     check: true
   - n: 4
     speaker: Sam
-    en: "It's together, and yesterday I painted it too. This paint is not poisonous."
-    sx: {hanzi: "鬥好吔，昨晡日還同佢油漆過。這油漆無毒。", pinyin: "deu hoˋ leˊ, coˊ buˊ ngidˋ hanˇ tungˇ giˇ iuˇ qidˋ go. iaˋ iuˇ qidˋ moˇ tug."}
+    en: "It's together, and yesterday I painted it too. This kind of paint is not poisonous."
+    sx: {hanzi: "鬥好吔，昨晡日還同佢油漆過。這種油漆無毒。", pinyin: "deu hoˋ leˊ, coˊ buˊ ngidˋ hanˇ tungˇ giˇ iuˇ qidˋ go. iaˋ zungˋ iuˇ qidˋ moˇ tug."}
     check: true
   - n: 5
     speaker: Sam
@@ -40,7 +40,7 @@ dialogue:
     speaker: 叔婆
     en: "Oh no! Soy sauce on my white top: it will never wash out!"
     source: kaga115
-    sx: {hanzi: "壞哩！白衫著著豆油，洗毋淨吔哪！", pinyin: "faiˋ leˊ! pag samˊ cog doˋ teu iuˇ, seˋ mˇ qiang leˊ nai!"}
+    sx: {hanzi: "壞哩！白衫著著豆油，洗毋淨吔哪！", pinyin: "faiˋ leˊ! pag samˊ dauˇ doˋ teu iuˇ, seˋ mˇ qiang leˊ nai!"}
   - n: 7
     speaker: 叔婆
     en: "I am grating radish with the grater and making soup with pig's liver, and I bought a cut of pork too."
@@ -73,8 +73,8 @@ dialogue:
     sx: {hanzi: "目眉毛彎彎。", pinyin: "mugˋ miˇ moˊ vanˊ vanˊ."}
   - n: 13
     speaker: 阿梅
-    en: "She is seven months old. Hardly any hair on her head yet, dribbling all the time, and sucking her own toes all day."
-    sx: {hanzi: "佢七個月吔。頭那還無麼个毛，口涎水緊流，歸日食自家个腳趾。", pinyin: "giˇ qidˋ ge ngied leˊ. teuˇ naˇ hanˇ moˇ maˋ ge moˊ, heuˋ lanˊ suiˋ ginˋ liuˇ, guiˊ ngidˋ siid qi gaˊ ge giogˋ ziiˋ."}
+    en: "She is seven months old. Hardly any hair on her head yet, dribbling all the time, and playing with her own toes all day."
+    sx: {hanzi: "佢七個月吔。頭那還無麼个毛，口涎水緊流，歸日搞自家个腳趾。", pinyin: "giˇ qidˋ ge ngied leˊ. teuˇ naˇ hanˇ moˇ maˋ ge moˊ, heuˋ lanˊ suiˋ ginˋ liuˇ, guiˊ ngidˋ gauˋ qi gaˊ ge giogˋ ziiˋ."}
     check: true
   - n: 14
     speaker: Sam
@@ -168,7 +168,8 @@ notes:
   - ref: 6
     topic: vocab
     text: >
-      著著 cog doˋ "get (something) on, be hit by": the first 著 is cog, the second doˋ.
+      著著 dauˇ doˋ "get something sticky on, be stained with" (the list glosses it 沾染到糊狀物). The same characters read
+      cog doˋ mean "catch (an illness)".
   - ref: 7
     topic: vocab
     text: >
@@ -185,8 +186,8 @@ notes:
   - ref: 10
     topic: vocab
     text: >
-      籮 loˇ "basket", as a measure (一籮米). 桍 kuaˋ counts branches. 梅花 moiˇ faˊ "plum blossom". 阿梅 calls the old lady
-      阿姑, "father's sister".
+      籮 loˇ "basket", as a measure (一籮米). 桍 kuaˋ counts branches. 梅花 moiˇ faˊ "plum blossom". 阿梅 is the brother's
+      daughter-in-law (進修 47): she calls the old lady 阿姑, "father's sister", as her husband does.
   - ref: 11
     topic: vocab
     text: >
@@ -233,7 +234,7 @@ new_words:
   - {hanzi: "鬥", pinyin: "deu", en: "fit together, assemble"}
   - {hanzi: "油漆", pinyin: "iuˇ qidˋ", en: "paint; to paint"}
   - {hanzi: "毒", pinyin: "tug", en: "poison; poisonous"}
-  - {hanzi: "著著", pinyin: "cog doˋ", en: "get (something) on; catch"}
+  - {hanzi: "著著", pinyin: "dauˇ doˋ", en: "get (something sticky) on, be stained with"}
   - {hanzi: "刷", pinyin: "sodˋ", en: "grate"}
   - {hanzi: "豬肝", pinyin: "zuˊgonˊ", en: "pig's liver"}
   - {hanzi: "料", pinyin: "liau", en: "(measure for a cut of pork)"}
@@ -272,8 +273,8 @@ exercises:
     - en: "My little brother has a grain of rice stuck on his cheek."
       source: kaga115
       sx: {hanzi: "老弟面頰卵項黏等飯糝。", pinyin: "loˋ taiˊ mien gabˋ lonˋ hong ngiamˇ denˋ fan samˋ."}
-    - en: "Cut by the knife, the hand keeps bleeding."
-      sx: {hanzi: "分刀仔割著，手緊出血。", pinyin: "bunˊ doˊ eˋ godˋ doˋ, suˋ ginˋ cudˋ hiedˋ."}
+    - en: "A health check involves taking blood."
+      sx: {hanzi: "身體檢查愛抽血。", pinyin: "siinˊ tiˋ giamˋ caˇ oi cuˊ hiedˋ."}
     - en: "Don't talk nonsense, or someone will tear your mouth for you."
       source: kaga115
       sx: {hanzi: "你莫亂講話，會分人擘嘴角。", pinyin: "nˇ mog lon gongˋ fa, voi bunˊ nginˇ bagˋ zoi gogˋ."}

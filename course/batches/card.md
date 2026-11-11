@@ -38,6 +38,8 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - 臺灣 is toiˇ vanˇ: the draft tool sometimes writes vanˊ (batch 7). 釘 verb and noun are both dangˊ; 撥 padˋ is "fan, flap".
 - Check these in the tool's output every time: 大體會 (voi), 共下去 (kiung ha hi), V毋著 / V著 result (doˋ), 當好 + verb (hau), 緊喊 (hemˊ).
 - 阿舅 and 阿傑 say 𠊎兜 about the factory to the Lius and Sam. 你个 / 𠊎个 + home is 若間房, 吾屋下. "That person" is 該儕.
+- Measure + 攤仔 is wrong: say 擺攤仔. A shop is 開, not 設. 食乳 is for babies; adults 食牛乳.
+- A review lesson's exercises: write each one fresh, then check it against every line of the six lessons before.
 - A-in works (lesson 100): she has colleagues, not classmates.
 - "We": 𫣆兜 includes the listener, 𠊎兜 excludes. Check each one against who is listening (in a letter: writer +
   reader is 𫣆兜).

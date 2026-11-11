@@ -43,8 +43,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "水槽空仔塞著，全毋會通。", pinyin: "suiˋ coˇ kungˊ eˋ sedˋ doˋ, qionˇ mˇ voi tungˊ."}
   - n: 9
-    en: "Tuesday 19 February. The further south, the warmer the weather. I reached a big city. This district is all new buildings, square as boxes."
-    sx: {hanzi: "二月十九號，禮拜二。緊行緊南方，天時較燒暖。𠊎到一隻大城市。這區全係新起个屋，四四角角。", pinyin: "ngi ngied siib giuˋ ho, liˊ bai ngi. ginˋ hangˇ ginˋ namˇ fongˊ, tienˊ siiˇ ka seuˊ nonˊ. ngaiˇ do idˋ zagˋ tai sangˇ sii. iaˋ kiˊ qionˇ he xinˊ hiˋ ge vugˋ, xi xi gogˋ gogˋ."}
+    en: "Tuesday 19 February. The further south the train goes, the warmer the weather gets. I reached a big city. This district is all new buildings, square as boxes."
+    sx: {hanzi: "二月十九號，禮拜二。火車緊行緊向南方，天時緊來緊燒暖。𠊎到一隻大城市。這區全係新起个屋，四四角角。", pinyin: "ngi ngied siib giuˋ ho, liˊ bai ngi. foˋ caˊ ginˋ hangˇ ginˋ hiong namˇ fongˊ, tienˊ siiˇ ginˋ loiˇ ginˋ seuˊ nonˊ. ngaiˇ do idˋ zagˋ tai sangˇ sii. iaˋ kiˊ qionˇ he xinˊ hiˋ ge vugˋ, xi xi gogˋ gogˋ."}
     check: true
   - n: 10
     en: "At the station exit I met a man."
@@ -91,8 +91,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "這廣告花忒毋會少錢哦？", pinyin: "iaˋ gongˋ go faˊ tedˋ mˇ voi seuˋ qienˇ oˊ?"}
   - n: 21
-    en: "Wednesday 20 February. In the afternoon I had tea in an old teahouse."
-    sx: {hanzi: "二月二十號，禮拜三。下晝𠊎在一間老茶館食茶。", pinyin: "ngi ngied ngi siib ho, liˊ bai samˊ. haˊ zu ngaiˇ coiˊ idˋ gienˊ loˋ caˇ gonˋ siid caˇ."}
+    en: "Wednesday 20 February. In the afternoon I had tea in an old teahouse; the tea was a little astringent."
+    sx: {hanzi: "二月二十號，禮拜三。下晝𠊎在一間老茶館食茶，茶有兜仔澀。", pinyin: "ngi ngied ngi siib ho, liˊ bai samˊ. haˊ zu ngaiˇ coiˊ idˋ gienˊ loˋ caˇ gonˋ siid caˇ, caˇ iuˊ deuˊ eˋ sebˋ."}
     check: true
   - n: 22
     en: "Teahouses and wine shops are where the rich take their ease; farmers seldom go."
@@ -113,7 +113,7 @@ dialogue:
   - n: 26
     en: "The air is bad: my eyes smart and keep watering."
     source: kaga115
-    sx: {hanzi: "空氣毋好，目澀澀仔緊流目汁。", pinyin: "kungˊ hi mˇ hoˋ, mugˋ sebˋ sebˋ eˋ ginˋ liuˇ mugˋ ziibˋ."}
+    sx: {hanzi: "空氣毋好，目澀澀仔緊流目汁。", pinyin: "kungˊ hi mˇ hoˋ, mugˋ sebˋ sebˋ eˇ ginˋ liuˇ mugˋ ziibˋ."}
   - n: 27
     en: "Thursday 21 February. Before going home, I went to look at the fields."
     sx: {hanzi: "二月二十一號，禮拜四。轉屋前，𠊎去看田。", pinyin: "ngi ngied ngi siib idˋ ho, liˊ bai xi. zonˋ vugˋ qienˇ, ngaiˇ hi kon tienˇ."}
@@ -199,7 +199,7 @@ notes:
   - ref: 28
     topic: vocab
     text: >
-      委秧仔 ve iongˊ eˋ "sow and raise rice seedlings". 豬販仔 zuˊ fan eˋ in line 29 is "pig dealer".
+      委秧仔 is from 進修 67. 豬販仔 zuˊ fan eˋ in line 29 is "pig dealer".
   - ref: 30
     topic: vocab
     text: >
@@ -235,7 +235,6 @@ new_words:
   - {hanzi: "游泳池", pinyin: "iuˇ iunˋ ciiˇ", en: "swimming pool"}
   - {hanzi: "公路", pinyin: "gungˊ lu", en: "highway"}
   - {hanzi: "澀", pinyin: "sebˋ", en: "rough, astringent; (of eyes) smarting"}
-  - {hanzi: "委秧仔", pinyin: "ve iongˊ eˋ", en: "raise rice seedlings"}
   - {hanzi: "豬販仔", pinyin: "zuˊ fan eˋ", en: "pig dealer"}
   - {hanzi: "願頭", pinyin: "ngien teuˇ", en: "keenness, craving"}
   - {hanzi: "曾有", pinyin: "qienˇ iuˊ", en: "is there…? has there been…?"}

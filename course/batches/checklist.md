@@ -306,3 +306,20 @@ Fresh agent, read-only. Findings checked in the data before fixing.
   Hakka overseas.
 - P63: six exercises copied lines of the batch → new sentences. P58: one fill copied a clause of the text.
 - Flags in a draft are separated by spaces ("check ok:rule-id"); with a comma the tool drops `check`.
+
+## Batch 10 (P64–P70), review of 11 Nov 2026
+Fresh agent (Opus: the Fable limit was reached), read-only. Findings checked in the data before fixing.
+- 著著 in 白衫著著豆油 is dauˇ doˋ "stained with" (kaga115 沾染到糊狀物), not cog doˋ "catch" → word and note fixed.
+- 無分黨派: 分 "distinguish" is funˊ. 考過試 split: 試 sii. 目澀澀仔: the list ends eˇ.
+- 舊年十一月 said on 12 Jan 2030, before the lunar New Year → 十一月 (card: 今年/舊年 change at the lunar New Year).
+- 食乳 is said of babies (MOE, 9 examples) → Sam drinks 牛乳; 食乳 kept for a joke about babies.
+- 毋好 + verb read hoˋ is "don't"; "not like to" → 無愛. 做毋得事 (0) → 麼个事都做毋來.
+- Official lines given to someone they do not fit: Sam's family abroad last winter (Sam was in Taiwan) → A-in says it;
+  舅姆 a teacher → 佢; a flood sentence in February → reworded.
+- 吾新衫 → 𠊎个新衫; 一隻攤仔 → 擺攤仔 (second time: batch 8); 設 + 店 (0) → 開店.
+- English: 這報導 "this report"; 洗身腳 "when you bathe".
+- Story: the county games were in October (P53) → the March meeting is the school's; A-in's line about her mother
+  and aunt; a 9½-month baby "walks" → laughs and cries.
+- P70: nine of ten exercises copied lines of the batch → all new. The lint check only catches exact copies of the
+  lesson's own lines.
+- 委秧仔 was used in P67 and declared in P68 → declared in P67.

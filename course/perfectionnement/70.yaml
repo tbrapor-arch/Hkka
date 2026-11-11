@@ -17,7 +17,7 @@ dialogue:
   - n: 2
     speaker: 叔婆
     en: "Thank you. As soon as the weather changes my rheumatism flares up and my arm hurts, and Sam comes every day to make my tea."
-    sx: {hanzi: "恁仔細。天時一變，吾風溼病就擎起來，手骨痛，Sam 逐日來同𠊎炙茶。", pinyin: "anˋ ziiˋ se. tienˊ siiˇ idˋ bien, ngaˊ fungˊ siibˋ piang qiu kiaˇ hiˋ loiˇ, suˋ gudˋ tung, Sam dagˋ ngidˋ loiˇ tungˇ ngaiˇ zagˋ caˇ."}
+    sx: {hanzi: "恁仔細。天時一變，風溼病就擎起來，手骨痛，Sam 逐日來同𠊎炙茶。", pinyin: "anˋ ziiˋ se. tienˊ siiˇ idˋ bien, fungˊ siibˋ piang qiu kiaˇ hiˋ loiˇ, suˋ gudˋ tung, Sam dagˋ ngidˋ loiˇ tungˇ ngaiˇ zagˋ caˇ."}
   - n: 3
     speaker: 阿公
     en: "Sam, what did you see on your tour of the west?"
@@ -44,8 +44,8 @@ dialogue:
     sx: {hanzi: "公共場所做毋得食菸，屋下乜共樣。𠊎戒半年吔！", pinyin: "gungˊ kiung congˇ soˋ zomˇ dedˋ siid ienˊ, vugˋ kaˊ me kiung iong. ngaiˇ gie ban ngienˇ leˊ!"}
   - n: 9
     speaker: 叔婆
-    en: "My brother's granddaughter can walk now. Rosy cheeks, curved eyebrows, and she has stopped dribbling."
-    sx: {hanzi: "吾老弟个孫女會行路吔。佢面頰卵紅紅，目眉毛彎彎，口涎水無流吔。", pinyin: "ngaˊ loˋ taiˊ ge sunˊ ngˋ voi hangˇ lu leˊ. giˇ mien gabˋ lonˋ fungˇ fungˇ, mugˋ miˇ moˊ vanˊ vanˊ, heuˋ lanˊ suiˋ moˇ liuˇ leˊ."}
+    en: "My brother's granddaughter laughs and cries now. Rosy cheeks, curved eyebrows, and she has stopped dribbling."
+    sx: {hanzi: "吾老弟个孫女會笑會噭吔。佢面頰卵紅紅，目眉毛彎彎，口涎水無流吔。", pinyin: "ngaˊ loˋ taiˊ ge sunˊ ngˋ voi seu voi gieu leˊ. giˇ mien gabˋ lonˋ fungˇ fungˇ, mugˋ miˇ moˊ vanˊ vanˊ, heuˋ lanˊ suiˋ moˇ liuˇ leˊ."}
   - n: 10
     speaker: Sam
     en: "I put that cot together, and painted it too."
@@ -65,7 +65,7 @@ dialogue:
   - n: 14
     speaker: 阿明
     en: "Grandma, what about my new top? The old one has burst its seam."
-    sx: {hanzi: "阿婆，吾新衫呢？舊个暴線縫吔。", pinyin: "aˊ poˇ, ngaˊ xinˊ samˊ neˇ? kiu ge bau xien pung leˊ."}
+    sx: {hanzi: "阿婆，𠊎个新衫呢？舊个暴線縫吔。", pinyin: "aˊ poˇ, ngaiˇ ge xinˊ samˊ neˇ? kiu ge bau xien pung leˊ."}
   - n: 15
     speaker: 阿婆
     en: "The bolt of cloth is bought, and I'll make it this week. Making it yourself doesn't pay, but it looks nicer."
@@ -73,11 +73,11 @@ dialogue:
   - n: 16
     speaker: 阿公
     en: "Uncle rang just now: A-kied has set up a shop in Taipei. It is at a junction, very easy to see."
-    sx: {hanzi: "阿舅頭先打電話來：阿傑在臺北設一間店仔吔，店仔在路口，當明顯。", pinyin: "aˊ kiuˊ teuˇ xienˊ daˋ tien fa loiˇ: aˊ kied coiˊ toiˇ bedˋ sadˋ idˋ gienˊ diam eˋ leˊ, diam eˋ coiˊ lu heuˋ, dongˊ minˇ hienˋ."}
+    sx: {hanzi: "阿舅頭先打電話來：阿傑在臺北開一間店仔吔，店仔在路口，當明顯。", pinyin: "aˊ kiuˊ teuˇ xienˊ daˋ tien fa loiˇ: aˊ kied coiˊ toiˇ bedˋ koiˊ idˋ gienˊ diam eˋ leˊ, diam eˋ coiˊ lu heuˋ, dongˊ minˇ hienˋ."}
   - n: 17
     speaker: Sam
     en: "When I went to Taipei that time he only had a stall. This is what his hard work has earned."
-    sx: {hanzi: "該擺𠊎去臺北，佢正有一隻攤仔定定。這係佢打拚个成績。", pinyin: "ge baiˋ ngaiˇ hi toiˇ bedˋ, giˇ zang iuˊ idˋ zagˋ tanˊ eˋ tin tin. iaˋ he giˇ daˋ biang ge siinˇ jidˋ."}
+    sx: {hanzi: "該擺𠊎去臺北，佢還係擺攤仔定定。這係佢打拚个成績。", pinyin: "ge baiˋ ngaiˇ hi toiˇ bedˋ, giˇ hanˇ he baiˋ tanˊ eˋ tin tin. iaˋ he giˇ daˋ biang ge siinˇ jidˋ."}
   - n: 18
     speaker: 阿英
     en: "Sam, when you finish your studies, will you go back to France?"
@@ -152,7 +152,7 @@ notes:
   - ref: 16
     topic: vocab
     text: >
-      設 "set up" and 路口 are from 進修 68; 明顯 "clear" from 進修 67.
+      路口 is from 進修 68; 明顯 "clear" from 進修 67.
   - ref: 19
     topic: vocab
     text: >
@@ -166,26 +166,26 @@ new_words:
 
 exercises:
   translate:
-    - en: "The old lady's rheumatism has flared up, and Sam makes tea for her."
-      sx: {hanzi: "叔婆个風溼病擎起來，Sam 同佢炙茶。", pinyin: "sugˋ poˇ ge fungˊ siibˋ piang kiaˇ hiˋ loiˇ, Sam tungˇ giˇ zagˋ caˇ."}
-    - en: "A-kied has set up a shop at a junction in Taipei."
-      sx: {hanzi: "阿傑在臺北个路口設一間店仔。", pinyin: "aˊ kied coiˊ toiˇ bedˋ ge lu heuˋ sadˋ idˋ gienˊ diam eˋ."}
-    - en: "A-min did badly in the written test and must do more learning by heart."
-      sx: {hanzi: "阿明筆試考毋好，愛加強背書。", pinyin: "aˊ minˇ bidˋ sii kauˋ mˇ hoˋ, oi gaˊ kiongˇ poi suˊ."}
-    - en: "The fishermen say prices keep rising and life at sea is very hard."
-      sx: {hanzi: "漁民講物價緊起，行船當辛苦。", pinyin: "ngˇ minˇ gongˋ vud ga ginˋ hiˋ, hangˇ sonˇ dongˊ xinˊ kuˋ."}
-    - en: "The baby has rosy cheeks and curved eyebrows."
-      sx: {hanzi: "嬰兒仔面頰卵紅紅，目眉毛彎彎。", pinyin: "oˇ nga eˋ mien gabˋ lonˋ fungˇ fungˇ, mugˋ miˇ moˊ vanˊ vanˊ."}
+    - en: "The fishermen say prices keep rising and renting is very hard."
+      sx: {hanzi: "漁民講物價緊起，租屋仔當辛苦。", pinyin: "ngˇ minˇ gongˋ vud ga ginˋ hiˋ, zuˊ vugˋ eˇ dongˊ xinˊ kuˋ."}
+    - en: "This painting is square and very easy to see on the wall."
+      sx: {hanzi: "這幅畫外形四四角角，掛在壁項當明顯。", pinyin: "iaˋ bugˋ fa ngoi hinˇ xi xi gogˋ gogˋ, gua coiˊ biagˋ hong dongˊ minˇ hienˋ."}
+    - en: "The baby plays with her toes all day and keeps dribbling."
+      sx: {hanzi: "嬰兒仔歸日搞自家个腳趾，口涎水緊流。", pinyin: "oˇ nga eˋ guiˊ ngidˋ gauˋ qi gaˊ ge giogˋ ziiˋ, heuˋ lanˊ suiˋ ginˋ liuˇ."}
+    - en: "The uncle is very particular about food, so cooking is hard work for the youngest aunt."
+      sx: {hanzi: "姑丈對食个當講究，滿姑煮菜當辛苦。", pinyin: "guˊ congˊ dui siid ge dongˊ gongˋ giu, manˊ guˊ zuˋ coi dongˊ xinˊ kuˋ."}
+    - en: "In the winter holidays A-min collects stamps, and learns flower arranging as well."
+      sx: {hanzi: "阿明寒假去集郵，還過學插花。", pinyin: "aˊ minˇ honˇ gaˋ hi xib iuˇ, hanˇ go hog cabˋ faˊ."}
   fill:
-    - en: "This pot of tea leaves a sweet aftertaste."
-      sx: {hanzi: "這___茶食吔嘴尾會甘。", pinyin: "iaˋ ___ caˇ siid leˊ zoi miˊ voi gamˊ.", answer_hanzi: "壺", answer: "fuˇ"}
-    - en: "Grandma has bought a bolt of cloth to make A-min a new top."
-      sx: {hanzi: "阿婆買一___布，愛同阿明做新衫。", pinyin: "aˊ poˇ maiˊ idˋ ___ bu, oi tungˇ aˊ minˇ zo xinˊ samˊ.", answer_hanzi: "疋", answer: "pidˋ"}
-    - en: "When the talk turns to politics, Grandpa and the children's uncle quarrel."
-      sx: {hanzi: "講著___，阿公同姑丈就會冤家。", pinyin: "gongˋ doˋ ___, aˊ gungˊ tungˇ guˊ congˊ qiu voi ienˊ gaˊ.", answer_hanzi: "政治", answer: "ziin cii"}
-    - en: "Sam is very capable, but he never shows off."
-      sx: {hanzi: "Sam 當會做事，毋過毋會___。", pinyin: "Sam dongˊ voi zo se, mˇ go mˇ voi ___.", answer_hanzi: "展風神", answer: "dienˋ fungˊ siinˇ"}
-    - en: "Ever since he came to Taiwan, Sam has spoken Hakka every day."
-      sx: {hanzi: "自從來臺灣___，Sam 逐日講客話。", pinyin: "cii qiungˇ loiˇ toiˇ vanˇ ___, Sam dagˋ ngidˋ gongˋ hagˋ fa.", answer_hanzi: "以來", answer: "iˊ loiˇ"}
+    - en: "Give this pot of tea to the old lady to take home."
+      sx: {hanzi: "這___茶分叔婆帶轉去。", pinyin: "iaˋ ___ caˇ bunˊ sugˋ poˇ dai zonˋ hi.", answer_hanzi: "壺", answer: "fuˇ"}
+    - en: "Grandma's clothes have soy sauce on them."
+      sx: {hanzi: "阿婆个衫褲分豆油___。", pinyin: "aˊ poˇ ge samˊ fu bunˊ teu iuˇ ___.", answer_hanzi: "著著", answer: "dauˇ doˋ"}
+    - en: "The basketball match ended level."
+      sx: {hanzi: "籃球比賽打到___。", pinyin: "lamˇ kiuˇ biˋ soi daˋ do ___.", answer_hanzi: "無輸無贏", answer: "moˇ suˊ moˇ iangˇ"}
+    - en: "From the time he came to Taiwan, Sam has spoken Hakka every day."
+      sx: {hanzi: "Sam 對來臺灣___，就逐日講客話。", pinyin: "Sam dui loiˇ toiˇ vanˇ ___, qiu dagˋ ngidˋ gongˋ hagˋ fa.", answer_hanzi: "起勢", answer: "hiˋ sii"}
+    - en: "How many units of electricity were used this month?"
+      sx: {hanzi: "這隻月个電用幾多___？", pinyin: "iaˋ zagˋ ngied ge tien iung giˋ doˊ ___?", answer_hanzi: "磅", answer: "bongˇ"}
 
 audio: []

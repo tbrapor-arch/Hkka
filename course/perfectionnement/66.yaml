@@ -24,13 +24,13 @@ dialogue:
     sx: {hanzi: "自古以來就恁仔。", pinyin: "cii guˋ iˊ loiˇ qiu anˋ eˋ."}
   - n: 3
     speaker: 阿明
-    en: "My youngest aunt is very fond of me: every time she comes she buys me books. What about Mum and Auntie?"
-    sx: {hanzi: "滿姑當惜𠊎，逐擺來都買書分𠊎。阿姆同阿姨呢？", pinyin: "manˊ guˊ dongˊ xiagˋ ngaiˇ, dagˋ baiˋ loiˇ du maiˊ suˊ bunˊ ngaiˇ. aˊ meˊ tungˇ aˊ iˇ neˇ?"}
+    en: "My youngest aunt is very fond of me: every time she comes she buys me books. What about Mum?"
+    sx: {hanzi: "滿姑當惜𠊎，逐擺來都買書分𠊎。阿姆呢？", pinyin: "manˊ guˊ dongˊ xiagˋ ngaiˇ, dagˋ baiˋ loiˇ du maiˊ suˊ bunˊ ngaiˇ. aˊ meˊ neˇ?"}
     check: true
   - n: 4
     speaker: 阿婆
-    en: "They have gone back to their own parents' house."
-    sx: {hanzi: "佢兜轉外家去吔。", pinyin: "giˇ deuˊ zonˋ ngoi gaˊ hi leˊ."}
+    en: "She and her sister have gone back to their parents' house."
+    sx: {hanzi: "佢同阿姨轉外家去吔。", pinyin: "giˇ tungˇ aˊ iˇ zonˋ ngoi gaˊ hi leˊ."}
     check: true
   - n: 5
     speaker: 滿姑
@@ -124,7 +124,7 @@ dialogue:
     check: true
   - n: 23
     speaker: 阿公
-    en: "That report is not the truth."
+    en: "This report is not the truth."
     source: kaga
     sx: {hanzi: "這報導毋係事實。", pinyin: "iaˋ bo toˊ mˇ he sii siid."}
   - n: 24
@@ -281,9 +281,8 @@ exercises:
     - en: "Requisition land."
       source: kaga115
       sx: {hanzi: "徵收土地。", pinyin: "ziinˊ suˊ tuˋ ti."}
-    - en: "No smoking in public places."
-      source: kaga115
-      sx: {hanzi: "公共場所做毋得食菸。", pinyin: "gungˊ kiung congˇ soˋ zomˇ dedˋ siid ienˊ."}
+    - en: "He has a great many enemies in society."
+      sx: {hanzi: "佢在社會項有當多敵人。", pinyin: "giˇ coiˊ sa fi hong iuˊ dongˊ doˊ tid nginˇ."}
     - en: "Of all my aunts, the youngest is the prettiest."
       source: kaga115
       sx: {hanzi: "恁多阿姨肚，滿姨最靚。", pinyin: "anˋ doˊ aˊ iˇ duˋ, manˊ iˇ zui jiangˊ."}
