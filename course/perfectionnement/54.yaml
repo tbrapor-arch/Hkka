@@ -1,0 +1,307 @@
+id: 54
+genre: dialogue
+title:
+  en: "Without capital, how do you do business?"
+  sx: {hanzi: "無資本，愛仰仔做生理？", pinyin: "moˇ ziiˊ bunˋ, oi ngiongˋ eˋ zo senˊ liˊ?"}
+review: false
+setting: >-
+  Saturday 8 September 2029, the office of 阿舅's 粄條 factory in 竹東. 阿傑 is back from Japan with a plan. A-min, who
+  worked there in July and August, comes for his last pay. The figures are invented.
+names: [阿舅, 阿傑, 阿明, 日本]
+
+dialogue:
+  - n: 1
+    speaker: 阿舅
+    en: "A-kied, someone says you are moving to Taipei."
+    sx: {hanzi: "阿傑，有人講你愛搬去臺北。", pinyin: "aˊ kied, iuˊ nginˇ gongˋ nˇ oi banˊ hi toiˇ bedˋ."}
+    check: true
+  - n: 2
+    speaker: 阿傑
+    en: "There's nothing in it! What I want is to go to Taipei and sell our rice noodles."
+    sx: {hanzi: "無影無跡！𠊎係想去臺北推銷𫣆兜个粄條。", pinyin: "moˇ iangˋ moˇ jiagˋ! ngaiˇ he xiongˋ hi toiˇ bedˋ tuiˊ seuˊ enˊ deuˊ ge banˋ tiauˇ."}
+    check: true
+  - n: 3
+    speaker: 阿傑
+    en: "This product sells well."
+    source: kaga115
+    sx: {hanzi: "這產品銷路好。", pinyin: "iaˋ sanˋ pinˋ seuˊ lu hoˋ."}
+  - n: 4
+    speaker: 阿舅
+    en: "Have you a more concrete plan?"
+    source: kaga115
+    sx: {hanzi: "敢有較具體个辦法？", pinyin: "gamˋ iuˊ ka ki tiˋ ge pan fabˋ?"}
+  - n: 5
+    speaker: 阿傑
+    en: "First rent a stall in a Taipei market."
+    sx: {hanzi: "先在臺北个市場租一隻攤仔。", pinyin: "xienˊ coiˊ toiˇ bedˋ ge sii congˇ zuˊ idˋ zagˋ tanˊ eˋ."}
+    check: true
+  - n: 6
+    speaker: 阿傑
+    en: "In business you have to hang your sign out, or the customers won't know."
+    source: kaga
+    sx: {hanzi: "做生理看板愛吊出來，人客正會知。", pinyin: "zo senˊ liˊ kanˊ bangˋ oi diau cudˋ loiˇ, nginˇ hagˋ zang voi diˊ."}
+  - n: 7
+    speaker: 阿舅
+    en: "Without capital, how do you do business?"
+    source: kaga115
+    sx: {hanzi: "無資本，愛仰仔做生理？", pinyin: "moˇ ziiˊ bunˋ, oi ngiongˋ eˋ zo senˊ liˊ?"}
+  - n: 8
+    speaker: 阿傑
+    en: "When last month's accounts were closed, the factory had made money. And spending can still come down a little."
+    sx: {hanzi: "上隻月結算，工廠有賺錢。支出還做得降低兜仔。", pinyin: "song zagˋ ngied giedˋ son, gungˊ congˋ iuˊ con qienˇ. ziiˊ cudˋ hanˇ zo dedˋ gong daiˊ deuˊ eˋ."}
+    check: true
+  - n: 9
+    speaker: 阿舅
+    en: "Around a festival, spending is higher."
+    source: kaga115
+    sx: {hanzi: "過節該下支出較多。", pinyin: "go jiedˋ ge ha ziiˊ cudˋ ka doˊ."}
+  - n: 10
+    speaker: 阿舅
+    en: "Oil is going up again."
+    source: kaga115
+    sx: {hanzi: "油又愛起價吔。", pinyin: "iuˇ iu oi hiˋ ga leˊ."}
+  - n: 11
+    speaker: 阿舅
+    en: "The money for the taxes has to be put by too. And that shop in the street still owes us."
+    sx: {hanzi: "納稅个錢乜愛準備。街項該間店還有欠數。", pinyin: "nab soi ge qienˇ me oi zunˋ pi. gieˊ hong ge gienˊ diam hanˇ iuˊ kiam sii."}
+    check: true
+  - n: 12
+    speaker: 阿舅
+    en: "They have owed so long: when are they going to pay?"
+    source: kaga115
+    sx: {hanzi: "欠數欠恁久，哪久愛還？", pinyin: "kiam sii kiam anˋ giuˋ, nai giuˋ oi vanˇ?"}
+  - n: 13
+    speaker: 阿傑
+    en: "I'll go and collect tomorrow."
+    sx: {hanzi: "天光日𠊎去收數。", pinyin: "tienˊ gongˊ ngidˋ ngaiˇ hi suˊ sii."}
+    check: true
+  - n: 14
+    speaker: 阿舅
+    en: "It isn't time yet: take it slowly, no need to rush."
+    source: kaga115
+    sx: {hanzi: "時間吂到，你定定仔來，毋使鬥緊。", pinyin: "siiˇ gienˊ mangˇ do, nˇ tin tin eˋ loiˇ, mˇ siiˋ deu ginˋ."}
+  - n: 15
+    speaker: 阿舅
+    en: "This is a very important job."
+    source: kaga115
+    sx: {hanzi: "這擺任務當重要。", pinyin: "iaˋ baiˋ im vu dongˊ cung ieu."}
+  - n: 16
+    speaker: 阿明
+    en: "Uncle, I've come for my pay. In August I worked twenty days at six hundred a day: six hundred times twenty is twelve thousand."
+    sx: {hanzi: "阿舅，𠊎來領工錢。八月𠊎做二十日，一日六百，六百乘二十係一萬二。", pinyin: "aˊ kiuˊ, ngaiˇ loiˇ liangˊ gungˊ qienˇ. badˋ ngied ngaiˇ zo ngi siib ngidˋ, idˋ ngidˋ liugˋ bagˋ, liugˋ bagˋ siin ngi siib he idˋ van ngi."}
+    check: true
+  - n: 17
+    speaker: 阿傑
+    en: "He took too many days off, and the boss docked his pay."
+    source: kaga
+    sx: {hanzi: "佢請假忒多，分頭家扣月給。", pinyin: "giˇ qiangˋ gaˋ tedˋ doˊ, bunˊ teuˇ gaˊ kieu ngied gibˋ."}
+  - n: 18
+    speaker: 阿明
+    en: "I never took a day off! My work clothes are still here."
+    sx: {hanzi: "𠊎無請假！𠊎个做事衫還在這。", pinyin: "ngaiˇ moˇ qiangˋ gaˋ! ngaiˇ ge zo se samˊ hanˇ coiˊ iaˋ."}
+    check: true
+  - n: 19
+    speaker: 阿明
+    en: "The work clothes look rather old."
+    source: kaga115
+    sx: {hanzi: "做事衫看起來舊舊。", pinyin: "zo se samˊ kon hiˋ loiˇ kiu kiu."}
+  - n: 20
+    speaker: 阿舅
+    en: "We're only joking. Here is your pay, and a gift voucher too."
+    sx: {hanzi: "同你講笑定定。這係你个工錢，還有一張禮券。", pinyin: "tungˇ nˇ gongˋ seu tin tin. iaˋ he nˇ ge gungˊ qienˇ, hanˇ iuˊ idˋ zongˊ liˊ kienˋ."}
+    check: true
+  - n: 21
+    speaker: 阿明
+    en: "This voucher is only worth two hundred dollars."
+    source: kaga115
+    sx: {hanzi: "這禮券正值兩百個銀。", pinyin: "iaˋ liˊ kienˋ zang dad liongˋ bagˋ ge ngiunˇ."}
+  - n: 22
+    speaker: 阿傑
+    en: "When you pay with a big note, remember to get your change."
+    source: kaga
+    sx: {hanzi: "用大票買東西，愛記得找錢。", pinyin: "iung tai peuˊ maiˊ dungˊ xiˊ, oi gi dedˋ zauˋ qienˇ."}
+  - n: 23
+    speaker: 阿傑
+    en: "Such a basic thing: does it really still have to be taught?"
+    source: kaga115
+    sx: {hanzi: "這恁基本个事情，敢還愛人教？", pinyin: "iaˋ anˋ giˊ bunˋ ge sii qinˇ, gamˋ hanˇ oi nginˇ gauˊ?"}
+  - n: 24
+    speaker: 阿明
+    en: "I'm taking the bus home, and I have no small change."
+    sx: {hanzi: "𠊎愛坐車轉去，無零錢。", pinyin: "ngaiˇ oi coˊ caˊ zonˋ hi, moˇ langˇ qienˇ."}
+    check: true
+  - n: 25
+    speaker: 阿傑
+    en: "I'll pay for your ticket for now. You should save your pay."
+    sx: {hanzi: "車票𠊎先同你墊錢。你个工錢愛存起來。", pinyin: "caˊ peuˊ ngaiˇ xienˊ tungˇ nˇ tiabˋ qienˇ. nˇ ge gungˊ qienˇ oi sunˇ hiˋ loiˇ."}
+    check: true
+  - n: 26
+    speaker: 阿傑
+    en: "Buying into a fund is an investment too."
+    source: kaga115
+    sx: {hanzi: "買基金乜係投資。", pinyin: "maiˊ giˊ gimˊ me he teuˇ ziiˊ."}
+  - n: 27
+    speaker: 阿舅
+    en: "Next month a new clerk is coming to do the office work: a very able one, I hear."
+    sx: {hanzi: "下隻月有一個新職員來做行政，聽講當優秀。", pinyin: "ha zagˋ ngied iuˊ idˋ ge xinˊ ziidˋ ienˇ loiˇ zo hangˇ ziin, tangˊ gongˋ dongˊ iuˊ xiu."}
+    check: true
+  - n: 28
+    speaker: 阿舅
+    en: "He studied statistics."
+    source: kaga115
+    sx: {hanzi: "佢係學統計个。", pinyin: "giˇ he hog tungˋ gie ge."}
+  - n: 29
+    speaker: 阿舅
+    en: "His means of transport is a bicycle."
+    source: kaga115
+    sx: {hanzi: "厥交通工具係自行車。", pinyin: "giaˊ gauˊ tungˊ gungˊ kiˋ he cii hangˇ caˊ."}
+  - n: 30
+    speaker: 阿舅
+    en: "A-kied is very thorough in all he does: I am really lucky to have him here."
+    sx: {hanzi: "阿傑辦事盡工夫，有佢在這，𠊎實在當幸運。", pinyin: "aˊ kied pan sii qin gungˊ fuˊ, iuˊ giˇ coiˊ iaˋ, ngaiˇ siid cai dongˊ hen iun."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 7, an official sentence: 資本 ziiˊ bunˋ "capital". The rumour about 阿傑 is from 進修 51.
+  - ref: 2
+    topic: vocab
+    text: >
+      推銷 tuiˊ seuˊ "sell, promote". 銷路 seuˊ lu in line 3 is "sales, the market for a product" (這東西銷路闊，係因為價錢公當又好用).
+  - ref: 4
+    topic: vocab
+    text: >
+      具體 ki tiˋ "concrete".
+  - ref: 6
+    topic: vocab
+    text: >
+      看板 kanˊ bangˋ "signboard" (風搓同看板吹到街尾).
+  - ref: 8
+    topic: vocab
+    text: >
+      結算 giedˋ son "close the accounts". 降低 gong daiˊ "lower, reduce" (恁久無落雨，河壩水位降低異多): 降 is read gong here, giung
+      in "give birth".
+  - ref: 9
+    topic: vocab
+    text: >
+      支出 ziiˊ cudˋ "spending, expenses". 起價 hiˋ ga in line 10 is "go up in price". The Mid-Autumn Festival is on 22
+      September in 2029.
+  - ref: 11
+    topic: vocab
+    text: >
+      納稅 nab soi "pay taxes" (五月愛納稅). 欠數 kiam sii "owe money; an unpaid bill" (欠數毋好欠過年 "a debt should not be carried
+      past the New Year"): 數 sii is "account" here. 收數 suˊ sii in line 13 is "collect what is owed".
+  - ref: 12
+    topic: vocab
+    text: >
+      還 "pay back" is read vanˇ.
+  - ref: 14
+    topic: vocab
+    text: >
+      鬥緊 deu ginˋ "rush, be in a hurry": the title of 進修 50. 任務 im vu in line 15 is "task, mission".
+  - ref: 16
+    topic: vocab
+    text: >
+      乘 siin "times": 三乘六係十八 "three times six is eighteen".
+  - ref: 17
+    topic: vocab
+    text: >
+      扣 kieu "deduct": 扣月給 "dock the monthly pay", 扣分 "take marks off".
+  - ref: 18
+    topic: vocab
+    text: >
+      做事衫 zo se samˊ "work clothes": 做事 "work" is read zo se.
+  - ref: 20
+    topic: vocab
+    text: >
+      禮券 liˊ kienˋ "gift voucher".
+  - ref: 22
+    topic: vocab
+    text: >
+      找錢 zauˋ qienˇ "give change" (你仰恁戇！買東西毋知好找錢！). 基本 giˊ bunˋ in line 23 is "basic".
+  - ref: 24
+    topic: vocab
+    text: >
+      零錢 langˇ qienˇ "small change" (去同頭家換兜仔零錢). 墊錢 tiabˋ qienˇ in line 25 is "pay for someone for the time being".
+  - ref: 26
+    topic: vocab
+    text: >
+      基金 giˊ gimˊ "fund".
+  - ref: 27
+    topic: vocab
+    text: >
+      職員 ziidˋ ienˇ "clerk, employee" (阿哥在學校做職員). 行政 hangˇ ziin "administration". 優秀 iuˊ xiu "excellent, able". 統計
+      tungˋ gie in line 28 is "statistics".
+  - ref: 29
+    topic: vocab
+    text: >
+      工具 gungˊ kiˋ "tool": 交通工具 "means of transport".
+  - ref: 30
+    topic: vocab
+    text: >
+      工夫 gungˊ fuˊ "thorough, careful over details". 幸運 hen iun "lucky".
+
+new_words:
+  - {hanzi: "推銷", pinyin: "tuiˊ seuˊ", en: "sell, promote"}
+  - {hanzi: "銷路", pinyin: "seuˊ lu", en: "sales, market (for a product)"}
+  - {hanzi: "具體", pinyin: "ki tiˋ", en: "concrete"}
+  - {hanzi: "看板", pinyin: "kanˊ bangˋ", en: "signboard"}
+  - {hanzi: "資本", pinyin: "ziiˊ bunˋ", en: "capital"}
+  - {hanzi: "結算", pinyin: "giedˋ son", en: "close the accounts"}
+  - {hanzi: "支出", pinyin: "ziiˊ cudˋ", en: "spending, expenses"}
+  - {hanzi: "起價", pinyin: "hiˋ ga", en: "go up in price"}
+  - {hanzi: "納稅", pinyin: "nab soi", en: "pay taxes"}
+  - {hanzi: "欠數", pinyin: "kiam sii", en: "owe money, unpaid bill"}
+  - {hanzi: "收數", pinyin: "suˊ sii", en: "collect what is owed"}
+  - {hanzi: "鬥緊", pinyin: "deu ginˋ", en: "rush, be in a hurry"}
+  - {hanzi: "任務", pinyin: "im vu", en: "task, mission"}
+  - {hanzi: "乘", pinyin: "siin", en: "times, multiply"}
+  - {hanzi: "扣", pinyin: "kieu", en: "deduct, dock"}
+  - {hanzi: "做事衫", pinyin: "zo se samˊ", en: "work clothes"}
+  - {hanzi: "禮券", pinyin: "liˊ kienˋ", en: "gift voucher"}
+  - {hanzi: "找錢", pinyin: "zauˋ qienˇ", en: "give change"}
+  - {hanzi: "基本", pinyin: "giˊ bunˋ", en: "basic"}
+  - {hanzi: "零錢", pinyin: "langˇ qienˇ", en: "small change"}
+  - {hanzi: "墊錢", pinyin: "tiabˋ qienˇ", en: "pay for someone for the time being"}
+  - {hanzi: "基金", pinyin: "giˊ gimˊ", en: "fund"}
+  - {hanzi: "職員", pinyin: "ziidˋ ienˇ", en: "clerk, employee"}
+  - {hanzi: "行政", pinyin: "hangˇ ziin", en: "administration"}
+  - {hanzi: "統計", pinyin: "tungˋ gie", en: "statistics"}
+  - {hanzi: "工具", pinyin: "gungˊ kiˋ", en: "tool, means"}
+  - {hanzi: "工夫", pinyin: "gungˊ fuˊ", en: "thorough, careful"}
+  - {hanzi: "降低", pinyin: "gong daiˊ", en: "lower, reduce"}
+  - {hanzi: "優秀", pinyin: "iuˊ xiu", en: "excellent, able"}
+  - {hanzi: "幸運", pinyin: "hen iun", en: "lucky"}
+
+exercises:
+  translate:
+    - en: "Three times five is fifteen."
+      source: kaga
+      sx: {hanzi: "三乘五係十五。", pinyin: "samˊ siin ngˋ he siib ngˋ."}
+    - en: "A debt should not be carried past the New Year."
+      source: kaga115
+      sx: {hanzi: "欠數毋好欠過年。", pinyin: "kiam sii mˇ hoˋ kiam go ngienˇ."}
+    - en: "My elder brother is a clerk at a school."
+      source: kaga115
+      sx: {hanzi: "阿哥在學校做職員。", pinyin: "aˊ goˊ coiˊ hog gauˋ zo ziidˋ ienˇ."}
+    - en: "The typhoon blew the signboard to the end of the street."
+      source: kaga115
+      sx: {hanzi: "風搓同看板吹到街尾。", pinyin: "fungˊ caiˊ tungˇ kanˊ bangˋ coiˊ do gieˊ miˊ."}
+    - en: "He won the first prize this time: he really is lucky."
+      source: kaga115
+      sx: {hanzi: "佢得著這擺个頭獎，實在當幸運。", pinyin: "giˇ dedˋ doˋ iaˋ baiˋ ge teuˇ jiongˋ, siid cai dongˊ hen iun."}
+  fill:
+    - en: "Taxes are paid in May."
+      sx: {hanzi: "五月愛___。", pinyin: "ngˋ ngied oi ___.", answer_hanzi: "納稅", answer: "nab soi"}
+    - en: "Go and get some small change from the shopkeeper."
+      sx: {hanzi: "去同頭家換兜仔___。", pinyin: "hi tungˇ teuˇ gaˊ von deuˊ eˋ ___.", answer_hanzi: "零錢", answer: "langˇ qienˇ"}
+    - en: "The boss has come to collect what you owe."
+      sx: {hanzi: "頭家來尋你___。", pinyin: "teuˇ gaˊ loiˇ qimˇ nˇ ___.", answer_hanzi: "收數", answer: "suˊ sii"}
+    - en: "If your homework isn't done properly, the teacher will certainly take marks off."
+      sx: {hanzi: "若家庭作業無做好，定著會分先生___分。", pinyin: "ngiaˊ gaˊ tinˇ zogˋ ngiab moˇ zo hoˋ, tin cog voi bunˊ xinˊ sangˊ ___ bunˊ.", answer_hanzi: "扣", answer: "kieu"}
+    - en: "It hasn't rained for so long that the river level has dropped a great deal."
+      sx: {hanzi: "恁久無落雨，河壩水位___異多。", pinyin: "anˋ giuˋ moˇ log iˋ, hoˇ ba suiˋ vi ___ i doˊ.", answer_hanzi: "降低", answer: "gong daiˊ"}
+
+audio: []

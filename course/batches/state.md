@@ -80,3 +80,6 @@ style of 採茶戲, not a sung one.
   smoking "last year". A-min comes back from 竹東 for the weekend.
 - P53, Fri 31 Aug, A-in reads the local news: school starts Mon 3 Sep; the fifth county games in October (invented);
   this year's top university candidate is from Miaoli (invented); graduates find jobs hard to get.
+- P54, Sat 8 Sep, the factory office. The rumour of P51 is false: 阿傑 stays, and wants to sell the 粄條 in Taipei
+  from a market stall. A-min gets his August pay (20 days at 600) and a voucher. A new clerk (statistics, comes by
+  bicycle) starts in October. A shop in the street owes the factory money.
