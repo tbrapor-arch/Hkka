@@ -118,3 +118,6 @@ style of 採茶戲, not a sung one.
   city (a bricklayer who rents, a film being shot), an old teahouse, the fields. No town is named.
 - P69, Sun 24 Feb 2030, big cleaning at the Liu house the day before school starts. Sam is back from his trip with
   tea for Grandpa. A-min's top has burst a seam; Grandma will make him a new one.
+- P70 (last lesson, review), Sat 2 Mar 2030, dinner at the Liu house with 上屋叔婆. 阿傑 has opened a shop in
+  Taipei (thread closed). Grandpa: six months without tobacco. Sam stays in Taiwan and will sit the exam for
+  graduate school. Last line of the course: 講客話，𠊎還吂過願！

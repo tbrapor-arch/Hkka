@@ -1,0 +1,191 @@
+id: 70
+genre: review
+title:
+  en: "Speaking Hakka: I haven't had enough yet"
+  sx: {hanzi: "講客話，𠊎還吂過願", pinyin: "gongˋ hagˋ fa, ngaiˇ hanˇ mangˇ go ngien"}
+review: true
+setting: >-
+  Saturday 2 March 2030, dinner at the Liu house. Sam has brought the old lady from up the lane (上屋叔婆). The last
+  lesson of the course. Review of 進修 64–69: no new words.
+names: [Sam, 阿公, 阿婆, 叔婆, 阿舅, 阿傑, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Auntie, do sit down! This pot of tea is the one Sam brought back from his trip: it leaves a sweet aftertaste."
+    sx: {hanzi: "叔婆，請坐！這壺茶係 Sam 旅行帶轉來个，食吔嘴尾會甘。", pinyin: "sugˋ poˇ, qiangˋ coˊ! iaˋ fuˇ caˇ he Sam liˊ hangˇ dai zonˋ loiˇ ge, siid leˊ zoi miˊ voi gamˊ."}
+  - n: 2
+    speaker: 叔婆
+    en: "Thank you. As soon as the weather changes my rheumatism flares up and my arm hurts, and Sam comes every day to make my tea."
+    sx: {hanzi: "恁仔細。天時一變，吾風溼病就擎起來，手骨痛，Sam 逐日來同𠊎炙茶。", pinyin: "anˋ ziiˋ se. tienˊ siiˇ idˋ bien, ngaˊ fungˊ siibˋ piang qiu kiaˇ hiˋ loiˇ, suˋ gudˋ tung, Sam dagˋ ngidˋ loiˇ tungˇ ngaiˇ zagˋ caˇ."}
+  - n: 3
+    speaker: 阿公
+    en: "Sam, what did you see on your tour of the west?"
+    sx: {hanzi: "Sam，你遶臺灣西部，看著麼个？", pinyin: "Sam, nˇ lauˊ toiˇ vanˇ xiˊ pu, kon doˋ maˋ ge?"}
+  - n: 4
+    speaker: Sam
+    en: "I saw fishermen at the quay, had tea in a teahouse, and lost my way in a lane as well. Prices keep rising, and life is hard for people who rent."
+    sx: {hanzi: "𠊎在碼頭看著漁民，在茶館食茶，還過在巷肚尋無路。物價緊起，租屋仔个人當辛苦。", pinyin: "ngaiˇ coiˊ maˊ teuˇ kon doˋ ngˇ minˇ, coiˊ caˇ gonˋ siid caˇ, hanˇ go coiˊ hong duˋ qimˇ moˇ lu. vud ga ginˋ hiˋ, zuˊ vugˋ eˇ ge nginˇ dongˊ xinˊ kuˋ."}
+  - n: 5
+    speaker: 阿明
+    en: "Grandpa, what Sam says is a fact. The news also says the country must build more."
+    sx: {hanzi: "阿公，Sam 講个係事實。新聞乜講國家愛加強建設。", pinyin: "aˊ gungˊ, Sam gongˋ ge he sii siid. xinˊ vunˇ me gongˋ guedˋ gaˊ oi gaˊ kiongˇ gien sadˋ."}
+  - n: 6
+    speaker: 阿公
+    en: "It is only when the talk turns to politics that your uncle and I quarrel. No ministers or presidents today."
+    sx: {hanzi: "講著政治，𠊎同若姑丈正會冤家。今晡日毋講部長、總統。", pinyin: "gongˋ doˋ ziin cii, ngaiˇ tungˇ ngiaˊ guˊ congˊ zang voi ienˊ gaˊ. gimˊ buˊ ngidˋ mˇ gongˋ pu zongˋ, zungˋ tungˋ."}
+  - n: 7
+    speaker: 阿英
+    en: "Grandpa is very particular these days: he can't even bear to look at a tobacco advertisement."
+    sx: {hanzi: "阿公這下當講究：連食菸个廣告都看毋得。", pinyin: "aˊ gungˊ iaˋ ha dongˊ gongˋ giu: lienˇ siid ienˊ ge gongˋ go du kon mˇ dedˋ."}
+  - n: 8
+    speaker: 阿公
+    en: "No smoking in public places, and the same goes at home. I've been off it for half a year!"
+    sx: {hanzi: "公共場所做毋得食菸，屋下乜共樣。𠊎戒半年吔！", pinyin: "gungˊ kiung congˇ soˋ zomˇ dedˋ siid ienˊ, vugˋ kaˊ me kiung iong. ngaiˇ gie ban ngienˇ leˊ!"}
+  - n: 9
+    speaker: 叔婆
+    en: "My brother's granddaughter can walk now. Rosy cheeks, curved eyebrows, and she has stopped dribbling."
+    sx: {hanzi: "吾老弟个孫女會行路吔。佢面頰卵紅紅，目眉毛彎彎，口涎水無流吔。", pinyin: "ngaˊ loˋ taiˊ ge sunˊ ngˋ voi hangˇ lu leˊ. giˇ mien gabˋ lonˋ fungˇ fungˇ, mugˋ miˇ moˊ vanˊ vanˊ, heuˋ lanˊ suiˋ moˇ liuˇ leˊ."}
+  - n: 10
+    speaker: Sam
+    en: "I put that cot together, and painted it too."
+    sx: {hanzi: "該張眠床係𠊎鬥个，油漆乜係𠊎。", pinyin: "ge zongˊ minˇ congˇ he ngaiˇ deu ge, iuˇ qidˋ me he ngaiˇ."}
+  - n: 11
+    speaker: 阿明
+    en: "Sam can do everything, and never shows off. I did badly in my written test, and the teacher told me to do more learning by heart."
+    sx: {hanzi: "Sam 麼个都會，還毋會展風神。𠊎个筆試考毋好，先生喊𠊎加強背書。", pinyin: "Sam maˋ ge du voi, hanˇ mˇ voi dienˋ fungˊ siinˇ. ngaiˇ ge bidˋ sii kauˋ mˇ hoˋ, xinˊ sangˊ ham ngaiˇ gaˊ kiongˇ poi suˊ."}
+  - n: 12
+    speaker: 阿英
+    en: "You play with firecrackers and look at pictures all day: you'll ruin your eyes. Only training every day brings progress."
+    sx: {hanzi: "你歸日搞紙炮仔、看圖片，會看到目珠矇。日日訓練正會進步。", pinyin: "nˇ guiˊ ngidˋ gauˋ ziiˋ pau eˋ, kon tuˇ pienˋ, voi kon do mugˋ zuˊ mungˇ. ngidˋ ngidˋ hiun lien zang voi jin pu."}
+  - n: 13
+    speaker: 阿婆
+    en: "Don't scold him. A-min, go and add a ladle of water to the pot: I'm going to make soup. That capon is excellent."
+    sx: {hanzi: "莫罵佢。阿明，去加一勺水落鑊，𠊎愛煮湯。該隻閹雞當湛。", pinyin: "mog ma giˇ. aˊ minˇ, hi gaˊ idˋ sog suiˋ log vog, ngaiˇ oi zuˋ tongˊ. ge zagˋ iamˊ gieˊ dongˊ zam."}
+  - n: 14
+    speaker: 阿明
+    en: "Grandma, what about my new top? The old one has burst its seam."
+    sx: {hanzi: "阿婆，吾新衫呢？舊个暴線縫吔。", pinyin: "aˊ poˇ, ngaˊ xinˊ samˊ neˇ? kiu ge bau xien pung leˊ."}
+  - n: 15
+    speaker: 阿婆
+    en: "The bolt of cloth is bought, and I'll make it this week. Making it yourself doesn't pay, but it looks nicer."
+    sx: {hanzi: "一疋布買轉來吔，這禮拜就做。自家做算毋和，毋過較靚。", pinyin: "idˋ pidˋ bu maiˊ zonˋ loiˇ leˊ, iaˋ liˊ bai qiu zo. qi gaˊ zo son mˇ foˇ, mˇ go ka jiangˊ."}
+  - n: 16
+    speaker: 阿公
+    en: "Uncle rang just now: A-kied has set up a shop in Taipei. It is at a junction, very easy to see."
+    sx: {hanzi: "阿舅頭先打電話來：阿傑在臺北設一間店仔吔，店仔在路口，當明顯。", pinyin: "aˊ kiuˊ teuˇ xienˊ daˋ tien fa loiˇ: aˊ kied coiˊ toiˇ bedˋ sadˋ idˋ gienˊ diam eˋ leˊ, diam eˋ coiˊ lu heuˋ, dongˊ minˇ hienˋ."}
+  - n: 17
+    speaker: Sam
+    en: "When I went to Taipei that time he only had a stall. This is what his hard work has earned."
+    sx: {hanzi: "該擺𠊎去臺北，佢正有一隻攤仔定定。這係佢打拚个成績。", pinyin: "ge baiˋ ngaiˇ hi toiˇ bedˋ, giˇ zang iuˊ idˋ zagˋ tanˊ eˋ tin tin. iaˋ he giˇ daˋ biang ge siinˇ jidˋ."}
+  - n: 18
+    speaker: 阿英
+    en: "Sam, when you finish your studies, will you go back to France?"
+    sx: {hanzi: "Sam，你讀忒書，愛轉法國無？", pinyin: "Sam, nˇ tug tedˋ suˊ, oi zonˋ fabˋ guedˋ moˇ?"}
+  - n: 19
+    speaker: Sam
+    en: "Not yet. I plan to stay here and sit the exam for graduate school. By comparison, I am happier here."
+    sx: {hanzi: "還吂。𠊎按算留在這考研究所。相對來講，𠊎在這較歡喜。", pinyin: "hanˇ mangˇ. ngaiˇ on son liuˇ coiˊ iaˋ kauˋ ngienˇ giu soˋ. xiongˊ dui loiˇ gongˋ, ngaiˇ coiˊ iaˋ ka fonˊ hiˋ."}
+  - n: 20
+    speaker: 叔婆
+    en: "Good! I brought up three children from babies, and now Sam is like my youngest son."
+    sx: {hanzi: "好！𠊎從細渡大三個細人仔，這下 Sam 像吾滿子樣仔。", pinyin: "hoˋ! ngaiˇ qiungˇ se tu tai samˊ ge se nginˇ eˋ, iaˋ ha Sam qiong ngaˊ manˊ ziiˋ iong eˋ."}
+  - n: 21
+    speaker: Sam
+    en: "Ever since I came here, everyone has been so good to me. And I haven't learned enough Hakka yet."
+    sx: {hanzi: "自從來這以來，大家都當惜𠊎。客話𠊎還吂學罅。", pinyin: "cii qiungˇ loiˇ iaˋ iˊ loiˇ, tai gaˊ du dongˊ xiagˋ ngaiˇ. hagˋ fa ngaiˇ hanˇ mangˇ hog la."}
+  - n: 22
+    speaker: 阿公
+    en: "You've passed the intermediate test: still not enough?"
+    sx: {hanzi: "你考過中級吔，還毋罅？", pinyin: "nˇ kauˋ go zungˊ kibˋ leˊ, hanˇ mˇ la?"}
+  - n: 23
+    speaker: Sam
+    en: "I've only learned this much: how could that be enough? Speaking Hakka: I haven't had enough yet!"
+    sx: {hanzi: "正學恁多仔定定，哪會過願。講客話，𠊎還吂過願！", pinyin: "zang hog an doˊ eˋ tin tin, nai voi go ngien. gongˋ hagˋ fa, ngaiˇ hanˇ mangˇ go ngien!"}
+  - n: 24
+    speaker: 阿婆
+    en: "That's the way. Come, everyone, let's eat!"
+    sx: {hanzi: "恁樣就著吔。來，大家食飯！", pinyin: "anˋ ngiongˇ qiu cog leˊ. loiˇ, tai gaˊ siid fan!"}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      This is the last lesson. It has no new words: it brings back words of 進修 64–69. Sam's answer in line 23
+      follows the title of 進修 65.
+  - ref: 1
+    topic: vocab
+    text: >
+      壺 "pot" is from 進修 65; 甘 "sweet aftertaste" from 進修 69.
+  - ref: 2
+    topic: vocab
+    text: >
+      擎起來 "flare up", 手骨 "arm" and 炙茶 "make tea" are from 進修 64.
+  - ref: 4
+    topic: vocab
+    text: >
+      碼頭, 漁民, 茶館, 巷, 物價 and 租屋仔 are from 進修 68; 還過 "as well" from 進修 69.
+  - ref: 5
+    topic: vocab
+    text: >
+      事實 "fact" and 國家 are from 進修 66; 加強 "strengthen" from 進修 67; 建設 from 進修 68.
+  - ref: 6
+    topic: vocab
+    text: >
+      講著 "when it comes to", 政治, 姑丈 and 總統 are from 進修 66; 部長 from 進修 67.
+  - ref: 7
+    topic: vocab
+    text: >
+      講究 "particular" and 公共場所 (line 8) are from 進修 66; 廣告 from 進修 68.
+  - ref: 9
+    topic: vocab
+    text: >
+      面頰卵, 目眉毛 and 口涎水 are from 進修 64, like 鬥 "put together" and 油漆 in line 10.
+  - ref: 11
+    topic: vocab
+    text: >
+      展風神 "show off", 筆試, 背書, 紙炮仔 and 圖片 (line 12) are from 進修 65; 訓練 from 進修 66.
+  - ref: 13
+    topic: vocab
+    text: >
+      勺, 閹雞, 湛, 暴線縫 (line 14), 疋 and 算毋和 (line 15) are from 進修 69.
+  - ref: 16
+    topic: vocab
+    text: >
+      設 "set up" and 路口 are from 進修 68; 明顯 "clear" from 進修 67.
+  - ref: 19
+    topic: vocab
+    text: >
+      相對 "by comparison", 渡 "bring up", 滿子 (line 20) and 以來 (line 21) are from 進修 66.
+  - ref: 23
+    topic: vocab
+    text: >
+      過願 "satisfying" is from 進修 65.
+
+new_words:
+
+exercises:
+  translate:
+    - en: "The old lady's rheumatism has flared up, and Sam makes tea for her."
+      sx: {hanzi: "叔婆个風溼病擎起來，Sam 同佢炙茶。", pinyin: "sugˋ poˇ ge fungˊ siibˋ piang kiaˇ hiˋ loiˇ, Sam tungˇ giˇ zagˋ caˇ."}
+    - en: "A-kied has set up a shop at a junction in Taipei."
+      sx: {hanzi: "阿傑在臺北个路口設一間店仔。", pinyin: "aˊ kied coiˊ toiˇ bedˋ ge lu heuˋ sadˋ idˋ gienˊ diam eˋ."}
+    - en: "A-min did badly in the written test and must do more learning by heart."
+      sx: {hanzi: "阿明筆試考毋好，愛加強背書。", pinyin: "aˊ minˇ bidˋ sii kauˋ mˇ hoˋ, oi gaˊ kiongˇ poi suˊ."}
+    - en: "The fishermen say prices keep rising and life at sea is very hard."
+      sx: {hanzi: "漁民講物價緊起，行船當辛苦。", pinyin: "ngˇ minˇ gongˋ vud ga ginˋ hiˋ, hangˇ sonˇ dongˊ xinˊ kuˋ."}
+    - en: "The baby has rosy cheeks and curved eyebrows."
+      sx: {hanzi: "嬰兒仔面頰卵紅紅，目眉毛彎彎。", pinyin: "oˇ nga eˋ mien gabˋ lonˋ fungˇ fungˇ, mugˋ miˇ moˊ vanˊ vanˊ."}
+  fill:
+    - en: "This pot of tea leaves a sweet aftertaste."
+      sx: {hanzi: "這___茶食吔嘴尾會甘。", pinyin: "iaˋ ___ caˇ siid leˊ zoi miˊ voi gamˊ.", answer_hanzi: "壺", answer: "fuˇ"}
+    - en: "Grandma has bought a bolt of cloth to make A-min a new top."
+      sx: {hanzi: "阿婆買一___布，愛同阿明做新衫。", pinyin: "aˊ poˇ maiˊ idˋ ___ bu, oi tungˇ aˊ minˇ zo xinˊ samˊ.", answer_hanzi: "疋", answer: "pidˋ"}
+    - en: "When the talk turns to politics, Grandpa and the children's uncle quarrel."
+      sx: {hanzi: "講著___，阿公同姑丈就會冤家。", pinyin: "gongˋ doˋ ___, aˊ gungˊ tungˇ guˊ congˊ qiu voi ienˊ gaˊ.", answer_hanzi: "政治", answer: "ziin cii"}
+    - en: "Sam is very capable, but he never shows off."
+      sx: {hanzi: "Sam 當會做事，毋過毋會___。", pinyin: "Sam dongˊ voi zo se, mˇ go mˇ voi ___.", answer_hanzi: "展風神", answer: "dienˋ fungˊ siinˇ"}
+    - en: "Ever since he came to Taiwan, Sam has spoken Hakka every day."
+      sx: {hanzi: "自從來臺灣___，Sam 逐日講客話。", pinyin: "cii qiungˇ loiˇ toiˇ vanˇ ___, Sam dagˋ ngidˋ gongˋ hagˋ fa.", answer_hanzi: "以來", answer: "iˊ loiˇ"}
+
+audio: []
