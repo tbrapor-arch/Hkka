@@ -1,0 +1,286 @@
+id: 62
+genre: debate
+title:
+  en: "One ought to know gratitude"
+  sx: {hanzi: "人愛知感謝正好", pinyin: "nginˇ oi diˊ gamˋ qia zang hoˋ"}
+review: false
+setting: >-
+  Sunday 25 November 2029, the Liu house. A-in holds a family debate: was getting about better in the old days, or
+  is it better now? Grandpa speaks for the old days and A-min for today; Sam keeps the score.
+names: [Sam, 阿公, 阿婆, 阿英, 阿明, 日本]
+
+dialogue:
+  - n: 1
+    speaker: 阿英
+    en: "Today we are having a debate. The question is: was getting about better in the old days, or is it better now? Grandpa speaks for the old days, A-min for today, and Sam gives the marks."
+    sx: {hanzi: "今晡日𫣆兜來辯論。題目係：頭擺个交通較好，還係這下个較好？阿公講頭擺，阿明講這下，Sam 打分數。", pinyin: "gimˊ buˊ ngidˋ enˊ deuˊ loiˇ pien lun. tiˇ mug he: teuˇ baiˋ ge gauˊ tungˊ ka hoˋ, hanˇ he iaˋ ha ge ka hoˋ? aˊ gungˊ gongˋ teuˇ baiˋ, aˊ minˇ gongˋ iaˋ ha, Sam daˋ funˊ su."}
+    check: true
+  - n: 2
+    speaker: 阿公
+    en: "The locomotives of the old days burned coal."
+    source: kaga
+    sx: {hanzi: "頭擺个火車嫲燒石炭。", pinyin: "teuˇ baiˋ ge foˋ caˊ maˇ seuˊ sag tan."}
+  - n: 3
+    speaker: 阿公
+    en: "The trains went more slowly, but there was no din, and you could look out. People used to get up before dawn and go on foot, and they were healthier."
+    sx: {hanzi: "火車行較慢，毋過無噪音，還看得著外背。頭擺人天吂光就䟘起來，用腳行路，身體較好。", pinyin: "foˋ caˊ hangˇ ka man, mˇ go moˇ so imˊ, hanˇ kon dedˋ doˋ ngoi boi. teuˇ baiˋ nginˇ tienˊ mangˇ gongˊ qiu hong hiˋ loiˇ, iung giogˋ hangˇ lu, siinˊ tiˋ ka hoˋ."}
+    check: true
+  - n: 4
+    speaker: 阿明
+    en: "In Japan a great many people go to work by electric train."
+    source: kaga115
+    sx: {hanzi: "日本當多人坐電車上班。", pinyin: "ngidˋ bunˋ dongˊ doˊ nginˇ coˊ tien caˊ songˊ banˊ."}
+  - n: 5
+    speaker: 阿明
+    en: "The work in modern factories is mostly automated: fast and good."
+    sx: {hanzi: "現代工廠个作業，大體都係自動化，又遽又好。", pinyin: "hien toi gungˊ congˋ ge zogˋ ngiab, tai tiˋ du he cii tung fa, iu giagˋ iu hoˋ."}
+  - n: 6
+    speaker: 阿明
+    en: "The electric light is a great invention."
+    source: kaga115
+    sx: {hanzi: "電火係偉大个發明。", pinyin: "tien foˋ he viˊ tai ge fadˋ minˇ."}
+  - n: 7
+    speaker: 阿公
+    en: "Everything nowadays needs batteries: with no power it is useless."
+    sx: {hanzi: "這下个東西全愛電池，無電就無用。", pinyin: "iaˋ ha ge dungˊ xiˊ qionˇ oi tien ciiˇ, moˇ tien qiu moˇ iung."}
+    check: true
+  - n: 8
+    speaker: 阿公
+    en: "A torch needs batteries to give light."
+    source: kaga115
+    sx: {hanzi: "手電筒愛有電池正會光。", pinyin: "suˋ tien tungˇ oi iuˊ tien ciiˇ zang voi gongˊ."}
+  - n: 9
+    speaker: 阿英
+    en: "You have to be careful with electrical appliances."
+    source: kaga115
+    sx: {hanzi: "用電器愛注意。", pinyin: "iung tien hi oi zu i."}
+  - n: 10
+    speaker: 阿明
+    en: "And what about Grandpa's car?"
+    sx: {hanzi: "阿公个車仔呢？", pinyin: "aˊ gungˊ ge caˊ eˋ neˇ?"}
+    check: true
+  - n: 11
+    speaker: 阿明
+    en: "This car has been driven for thirty years and uses more and more petrol: it probably needs replacing."
+    source: kaga115
+    sx: {hanzi: "這臺車仔駛三十年吔，緊來緊食油，怕愛換過一臺。", pinyin: "iaˋ toiˇ caˊ eˋ siiˋ samˊ siib ngienˇ leˊ, ginˋ loiˇ ginˋ siid iuˇ, pa oi von go idˋ toiˇ."}
+  - n: 12
+    speaker: 阿公
+    en: "Petrol keeps going up these days."
+    source: kaga115
+    sx: {hanzi: "汽油這駁仔緊起價。", pinyin: "hi iuˇ iaˋ bogˋ eˇ ginˋ hiˋ ga."}
+  - n: 13
+    speaker: 阿英
+    en: "Now and then Grandpa walks to the old people's club by himself to sit and chat."
+    source: kaga115
+    sx: {hanzi: "阿公成時會自家行去老人會坐尞。", pinyin: "aˊ gungˊ sangˇ siiˇ voi qi gaˊ hangˇ hi loˋ nginˇ fi coˊ liau."}
+  - n: 14
+    speaker: 阿公
+    en: "In the old days many people washed their things in the water of the irrigation channel."
+    source: kaga115
+    sx: {hanzi: "頭擺當多人用圳溝水洗湯東西。", pinyin: "teuˇ baiˋ dongˊ doˊ nginˇ iung zun gieuˊ suiˋ seˋ tongˊ dungˊ xiˊ."}
+  - n: 15
+    speaker: 阿公
+    en: "And now?"
+    sx: {hanzi: "這下呢？", pinyin: "iaˋ ha neˇ?"}
+    check: true
+  - n: 16
+    speaker: 阿公
+    en: "The workmen dig up the road, and by mishap they cut the water pipe."
+    source: kaga115
+    sx: {hanzi: "工人挖大路，毋堵好同水管挖斷忒。", pinyin: "gungˊ nginˇ vagˋ tai lu, mˇ duˋ hoˋ tungˇ suiˋ gonˋ vagˋ tonˊ tedˋ."}
+  - n: 17
+    speaker: 阿明
+    en: "To go abroad, a ship takes longer."
+    source: kaga115
+    sx: {hanzi: "愛出國，坐輪船較久。", pinyin: "oi cudˋ guedˋ, coˊ lunˇ sonˇ ka giuˋ."}
+  - n: 18
+    speaker: 阿公
+    en: "Some people don't dare fly and would rather go by ship."
+    source: kaga
+    sx: {hanzi: "有人毋敢坐飛行機，甘願坐輪船。", pinyin: "iuˊ nginˇ mˇ gamˋ coˊ biˊ hangˇ giˊ, gamˊ ngien coˊ lunˇ sonˇ."}
+  - n: 19
+    speaker: Sam
+    en: "When a typhoon comes, all the flights are cancelled."
+    source: kaga115
+    sx: {hanzi: "風搓來，所有个班機都停忒。", pinyin: "fungˊ caiˊ loiˇ, soˋ iuˊ ge banˊ giˊ du tinˇ tedˋ."}
+  - n: 20
+    speaker: 阿明
+    en: "Children in the old days had nowhere to play."
+    sx: {hanzi: "頭擺个細人仔無所在好搞。", pinyin: "teuˇ baiˋ ge se nginˇ eˋ moˇ soˋ cai hoˋ gauˋ."}
+    check: true
+  - n: 21
+    speaker: 阿明
+    en: "Walking on the railway line is a very dangerous thing."
+    source: kaga
+    sx: {hanzi: "在火車路項散步，係當危險个一件事。", pinyin: "coiˊ foˋ caˊ lu hong san pu, he dongˊ nguiˇ hiamˋ ge idˋ kien sii."}
+  - n: 22
+    speaker: 阿英
+    en: "Children today are no better."
+    sx: {hanzi: "這下个細人仔乜無較好。", pinyin: "iaˋ ha ge se nginˇ eˋ me moˇ ka hoˋ."}
+    check: true
+  - n: 23
+    speaker: 阿英
+    en: "The moment my little brother is home from school, he is glued to the television."
+    source: kaga115
+    sx: {hanzi: "老弟一下課轉來就掌等電視。", pinyin: "loˋ taiˊ idˋ ha ko zonˋ loiˇ qiu zongˋ denˋ tien sii."}
+  - n: 24
+    speaker: 阿明
+    en: "Grandpa, do you know how to use this clothes dryer?"
+    sx: {hanzi: "阿公，這焙衫機你知愛仰仔使用無？", pinyin: "aˊ gungˊ, iaˋ poi samˊ giˊ nˇ diˊ oi ngiongˋ eˋ siiˋ iung moˇ?"}
+    check: true
+  - n: 25
+    speaker: 阿公
+    en: "Things should be used with care."
+    source: kaga115
+    sx: {hanzi: "東西愛儆惜使用。", pinyin: "dungˊ xiˊ oi kiang xiagˋ siiˋ iung."}
+  - n: 26
+    speaker: 阿公
+    en: "You can give him reasons by the cartload: to this day he doesn't see sense."
+    source: kaga115
+    sx: {hanzi: "道理講到一千擔，佢到今還毋知分醒。", pinyin: "to liˊ gongˋ do idˋ qienˊ damˊ, giˇ do gimˊ hanˇ mˇ diˊ funˊ xiangˋ."}
+  - n: 27
+    speaker: Sam
+    en: "Both sides have a point: the marks are equal."
+    sx: {hanzi: "兩片都有道理，分數平多。", pinyin: "liongˋ pienˋ du iuˊ to liˊ, funˊ su piangˇ doˊ."}
+    check: true
+  - n: 28
+    speaker: 阿婆
+    en: "One ought to know gratitude."
+    source: kaga115
+    sx: {hanzi: "人愛知感謝正好。", pinyin: "nginˇ oi diˊ gamˋ qia zang hoˋ."}
+  - n: 29
+    speaker: 阿明
+    en: "Let's go and play ball this afternoon."
+    source: kaga115
+    sx: {hanzi: "下晝來去打球仔。", pinyin: "haˊ zu loiˇ hi daˋ kiuˇ eˋ."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 28, an official sentence: 正好 zang hoˋ after a clause is "only then is it right", so "one
+      ought to".
+  - ref: 1
+    topic: vocab
+    text: >
+      辯論 "debate" is from 進修 13. 交通 is "transport, traffic".
+  - ref: 2
+    topic: vocab
+    text: >
+      火車嫲 foˋ caˊ maˇ "locomotive"; 石炭 sag tan "coal" (the mine of 進修 41 was a 炭礦).
+  - ref: 3
+    topic: vocab
+    text: >
+      噪音 so imˊ "noise". 䟘 hong "get up": 䟘起來, 䟘床 "get out of bed" (朝晨䟘起來愛洗嘴).
+  - ref: 4
+    topic: vocab
+    text: >
+      電車 tien caˊ "electric train, tram". 自動化 cii tung fa in line 5 is "automation".
+  - ref: 6
+    topic: vocab
+    text: >
+      偉大 viˊ tai "great"; 發明 fadˋ minˇ "invention", and the verb "invent".
+  - ref: 7
+    topic: vocab
+    text: >
+      電池 tien ciiˇ "battery" (時鐘仔个電池無電哩). 電器 tien hi in line 9 is "electrical appliance".
+  - ref: 11
+    topic: vocab
+    text: >
+      食油 siid iuˇ "use a lot of fuel": the car "eats oil". 汽油 hi iuˇ in line 12 is "petrol"; 起價 is from 進修 54.
+  - ref: 13
+    topic: vocab
+    text: >
+      成時 sangˇ siiˇ "now and then". 會 in 老人會 "old people's club" is read fi.
+  - ref: 14
+    topic: vocab
+    text: >
+      圳溝 zun gieuˊ "irrigation channel". 洗湯 "wash" is from 進修 48.
+  - ref: 16
+    topic: vocab
+    text: >
+      挖 vagˋ "dig". 毋堵好 mˇ duˋ hoˋ "by mishap, carelessly" (工人挖大路，毋堵好同水管挖斷忒).
+  - ref: 17
+    topic: vocab
+    text: >
+      輪船 lunˇ sonˇ "ship, steamer". 班機 banˊ giˊ in line 19 is "scheduled flight".
+  - ref: 21
+    topic: vocab
+    text: >
+      火車路 foˋ caˊ lu "railway line". 散步 san pu "go for a walk".
+  - ref: 23
+    topic: vocab
+    text: >
+      掌 zongˋ "watch over, mind" (掌牛仔 "mind the cattle"): 掌等電視 is "sit glued to the television".
+  - ref: 24
+    topic: vocab
+    text: >
+      使用 siiˋ iung "use". 焙衫機 is "clothes dryer".
+  - ref: 26
+    topic: vocab
+    text: >
+      一千擔 idˋ qienˊ damˊ "a thousand loads": any amount of something (這係異平常个東西，吾屋下一千擔). 分醒 funˊ xiangˋ
+      "clear-headed": 毋知分醒 "not see sense"; 分 is read funˊ here.
+  - ref: 29
+    topic: vocab
+    text: >
+      來去 loiˇ hi + verb is "let's go and…" (來去放紙鷂仔).
+
+new_words:
+  - {hanzi: "火車嫲", pinyin: "foˋ caˊ maˇ", en: "locomotive"}
+  - {hanzi: "石炭", pinyin: "sag tan", en: "coal"}
+  - {hanzi: "噪音", pinyin: "so imˊ", en: "noise"}
+  - {hanzi: "䟘", pinyin: "hong", en: "get up"}
+  - {hanzi: "電車", pinyin: "tien caˊ", en: "electric train, tram"}
+  - {hanzi: "自動化", pinyin: "cii tung fa", en: "automation"}
+  - {hanzi: "偉大", pinyin: "viˊ tai", en: "great"}
+  - {hanzi: "發明", pinyin: "fadˋ minˇ", en: "invention; invent"}
+  - {hanzi: "電池", pinyin: "tien ciiˇ", en: "battery"}
+  - {hanzi: "電器", pinyin: "tien hi", en: "electrical appliance"}
+  - {hanzi: "食油", pinyin: "siid iuˇ", en: "use a lot of fuel"}
+  - {hanzi: "汽油", pinyin: "hi iuˇ", en: "petrol"}
+  - {hanzi: "成時", pinyin: "sangˇ siiˇ", en: "now and then"}
+  - {hanzi: "圳溝", pinyin: "zun gieuˊ", en: "irrigation channel"}
+  - {hanzi: "挖", pinyin: "vagˋ", en: "dig"}
+  - {hanzi: "毋堵好", pinyin: "mˇ duˋ hoˋ", en: "by mishap, carelessly"}
+  - {hanzi: "輪船", pinyin: "lunˇ sonˇ", en: "(steam)ship"}
+  - {hanzi: "班機", pinyin: "banˊ giˊ", en: "(scheduled) flight"}
+  - {hanzi: "火車路", pinyin: "foˋ caˊ lu", en: "railway line"}
+  - {hanzi: "散步", pinyin: "san pu", en: "go for a walk"}
+  - {hanzi: "掌", pinyin: "zongˋ", en: "watch over, mind"}
+  - {hanzi: "使用", pinyin: "siiˋ iung", en: "use"}
+  - {hanzi: "一千擔", pinyin: "idˋ qienˊ damˊ", en: "cartloads of, any amount"}
+  - {hanzi: "正好", pinyin: "zang hoˋ", en: "only then is it right; ought to"}
+  - {hanzi: "來去", pinyin: "loiˇ hi", en: "let's go and…"}
+
+exercises:
+  translate:
+    - en: "Carry the child on your back and go for a walk."
+      source: kaga115
+      sx: {hanzi: "背細人仔去散步。", pinyin: "baˇ se nginˇ eˋ hi san pu."}
+    - en: "The clock's battery is flat."
+      source: kaga115
+      sx: {hanzi: "時鐘仔个電池無電哩。", pinyin: "siiˇ zungˊ eˋ ge tien ciiˇ moˇ tien leˊ."}
+    - en: "When you get up in the morning you must brush your teeth."
+      source: kaga115
+      sx: {hanzi: "朝晨䟘起來愛洗嘴。", pinyin: "zeuˊ siinˇ hong hiˋ loiˇ oi seˋ zoi."}
+    - en: "What kind of petrol does your car take?"
+      source: kaga
+      sx: {hanzi: "你个車仔係用哪種汽油？", pinyin: "nˇ ge caˊ eˋ he iung nai zungˋ hi iuˇ?"}
+    - en: "He fell over by mishap and broke his arm!"
+      source: kaga115
+      sx: {hanzi: "毋堵好跌啊倒，手骨嗄斷忒！", pinyin: "mˇ duˋ hoˋ diedˋ a doˋ, suˋ gudˋ sa tonˊ tedˋ!"}
+  fill:
+    - en: "My sister is glued to her phone all day."
+      sx: {hanzi: "阿姊歸日___等手機仔。", pinyin: "aˊ jiˋ guiˊ ngidˋ ___ denˋ suˋ giˊ eˋ.", answer_hanzi: "掌", answer: "zongˋ"}
+    - en: "This invention is really quite wonderful."
+      sx: {hanzi: "這___實在異奇妙。", pinyin: "iaˋ ___ siid cai i kiˇ meu.", answer_hanzi: "發明", answer: "fadˋ minˇ"}
+    - en: "The two of them love to go for a walk by the lake."
+      sx: {hanzi: "佢兩儕盡好去湖脣___。", pinyin: "giˇ liongˋ saˇ qin hau hi fuˇ sunˇ ___.", answer_hanzi: "散步", answer: "san pu"}
+    - en: "It is a very ordinary thing: we have heaps at home, you're not the only one."
+      sx: {hanzi: "這係異平常个東西，吾屋下___，毋係你正有。", pinyin: "iaˋ he i pinˇ songˇ ge dungˊ xiˊ, ngaˊ vugˋ kaˊ ___, mˇ he nˇ zang iuˊ.", answer_hanzi: "一千擔", answer: "idˋ qienˊ damˊ"}
+    - en: "Let's go and fly a kite."
+      sx: {hanzi: "___放紙鷂仔。", pinyin: "___ biong ziiˋ ieu eˋ.", answer_hanzi: "來去", answer: "loiˇ hi"}
+
+audio: []

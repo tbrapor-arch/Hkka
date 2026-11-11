@@ -99,3 +99,5 @@ style of 採茶戲, not a sung one.
   questions with his answers (the paper is invented). Result not known yet.
 - P61, Sat 17 Nov (story). Sam goes to Taipei with 阿傑 to see the stall: business is picking up. The new clerk
   resigned after a month; the bag supplier's workers were on strike in October. They bring apples back for 阿舅.
+- P62, Sun 25 Nov (debate) at the Liu house: old-time transport (Grandpa) against today's (A-min), A-in in the
+  chair, Sam scoring: a draw. Grandpa's car is thirty years old.
