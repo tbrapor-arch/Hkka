@@ -78,3 +78,5 @@ style of 採茶戲, not a sung one.
 - P52, Sun 5 Aug, the Liu garden. Sam helps Grandpa hoe weeds. Grandpa has a stiff shoulder (the doctor is
   "observing" it) and promises to give up smoking "tomorrow"; Grandma does not believe him. Sam's father gave up
   smoking "last year". A-min comes back from 竹東 for the weekend.
+- P53, Fri 31 Aug, A-in reads the local news: school starts Mon 3 Sep; the fifth county games in October (invented);
+  this year's top university candidate is from Miaoli (invented); graduates find jobs hard to get.

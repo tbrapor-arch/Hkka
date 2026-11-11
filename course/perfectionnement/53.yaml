@@ -1,0 +1,249 @@
+id: 53
+genre: news
+title:
+  en: "The holidays are over in a flash"
+  sx: {hanzi: "假期一下就過忒哩", pinyin: "gaˋ kiˇ idˋ ha qiu go tedˋ leˊ"}
+review: false
+setting: >-
+  Friday 31 August 2029. A-in reads the local news on the radio, three days before school starts again. The county
+  games, the baseball children, the top candidate and the weather are invented.
+names: [苗栗]
+
+dialogue:
+  - n: 1
+    en: "Hello everyone. Today is Friday 31 August. Here is the news."
+    sx: {hanzi: "大家好，今晡日係八月三十一號，禮拜五。這下報新聞。", pinyin: "tai gaˊ hoˋ, gimˊ buˊ ngidˋ he badˋ ngied samˊ siib idˋ ho, liˊ bai ngˋ. iaˋ ha bo xinˊ vunˇ."}
+    check: true
+  - n: 2
+    en: "The holidays are over in a flash."
+    source: kaga115
+    sx: {hanzi: "假期一下就過忒哩。", pinyin: "gaˋ kiˇ idˋ ha qiu go tedˋ leˊ."}
+  - n: 3
+    en: "School starts again next Monday. In October the fifth county games will be held; the venue is in Miaoli."
+    sx: {hanzi: "下禮拜一學校開學。十月愛辦第五屆全縣運動會，會場在苗栗。", pinyin: "ha liˊ bai idˋ hog gauˋ koiˊ hog. siib ngied oi pan ti ngˋ gie qionˇ ien iun tung fi, fi congˇ coiˊ meuˇ lid."}
+    check: true
+  - n: 4
+    en: "The county head attaches great importance to this event."
+    source: kaga115
+    sx: {hanzi: "縣長當重視這擺个活動。", pinyin: "ien zongˋ dongˊ cung sii iaˋ baiˋ ge fad tung."}
+  - n: 5
+    en: "The sports ground is buzzing today: it turns out it has been lent for a sports meeting."
+    source: kaga115
+    sx: {hanzi: "操場今晡日鬧熱煎煎，原來係借人辦運動會。", pinyin: "cauˊ congˇ gimˊ buˊ ngidˋ nau ngied jienˊ jienˊ, ngienˇ loiˇ he jia nginˇ pan iun tung fi."}
+  - n: 6
+    en: "There are a lot of people playing ball on the court."
+    source: kaga
+    sx: {hanzi: "球場項有當多人在該打球仔。", pinyin: "kiuˇ congˇ hong iuˊ dongˊ doˊ nginˇ du ge daˋ kiuˇ eˋ."}
+  - n: 7
+    en: "There will be high jump, long jump, volleyball and baseball. The school that comes first gets a reward."
+    sx: {hanzi: "比賽有跳高、跳遠、排球同野球。得著第一名个學校有獎勵。", pinyin: "biˋ soi iuˊ tiau goˊ, tiau ienˋ, paiˇ kiuˇ tungˇ iaˊ kiuˇ. dedˋ doˋ ti idˋ miangˇ ge hog gauˋ iuˊ jiongˋ li."}
+    check: true
+  - n: 8
+    en: "On a four-hundred-metre track you have to run seven and a half laps to make three thousand metres."
+    source: kaga
+    sx: {hanzi: "四百公尺个操場愛走七轉半，正有三千公尺。", pinyin: "xi bagˋ gungˊ cagˋ ge cauˊ congˇ oi zeuˋ qidˋ zonˋ ban, zang iuˊ samˊ qienˊ gungˊ cagˋ."}
+  - n: 9
+    en: "One pupil said:"
+    sx: {hanzi: "一個學生仔講：", pinyin: "idˋ ge hog sangˊ eˋ gongˋ:"}
+    check: true
+  - n: 10
+    en: "My school's track has seven lanes."
+    source: kaga115
+    sx: {hanzi: "吾學校个跑道有七路。", pinyin: "ngaˊ hog gauˋ ge pauˊ to iuˊ qidˋ lu."}
+  - n: 11
+    en: "This is a very big challenge."
+    source: kaga115
+    sx: {hanzi: "這係當大个挑戰。", pinyin: "iaˋ he dongˊ tai ge tiauˊ zan."}
+  - n: 12
+    en: "Taiwanese baseball is famous all over the world."
+    source: kaga
+    sx: {hanzi: "臺灣人打野球，世界有名。", pinyin: "toiˇ vanˇ nginˇ daˋ iaˊ kiuˇ, sii gie iuˊ miangˇ."}
+  - n: 13
+    en: "Miaoli's children's baseball is especially famous too."
+    sx: {hanzi: "苗栗个細人仔野球乜脫體有名。", pinyin: "meuˇ lid ge se nginˇ eˋ iaˊ kiuˇ me todˋ tiˋ iuˊ miangˇ."}
+    check: true
+  - n: 14
+    en: "They are very good: they went abroad to compete and came first!"
+    source: kaga115
+    sx: {hanzi: "佢兜人當慶，出國比賽打第一！", pinyin: "giˇ deuˊ nginˇ dongˊ kiang, cudˋ guedˋ biˋ soi daˋ ti idˋ!"}
+  - n: 15
+    en: "This year's top candidate in the university entrance exam is from Miaoli. He only left senior high in June, and did very well in both geography and mathematics."
+    sx: {hanzi: "今年考大學个榜首係苗栗人，佢六月正對高中卒業，地理同數學都考到當好。", pinyin: "gimˊ ngienˇ kauˋ tai hog ge bongˋ suˋ he meuˇ lid nginˇ, giˇ liugˋ ngied zang dui goˊ zungˊ zudˋ ngiab, ti liˊ tungˇ su hog du kauˋ do dongˊ hoˋ."}
+    check: true
+  - n: 16
+    en: "Coming top is no easy thing."
+    source: kaga115
+    sx: {hanzi: "榜首無恁該考。", pinyin: "bongˋ suˋ moˇ anˋ goiˊ kauˋ."}
+  - n: 17
+    en: "He is very interested in mathematics."
+    source: kaga115
+    sx: {hanzi: "佢對數學當有興趣。", pinyin: "giˇ dui su hog dongˊ iuˊ him qi."}
+  - n: 18
+    en: "But he says that at university he wants to study chemistry:"
+    sx: {hanzi: "毋過佢講大學愛讀化學：", pinyin: "mˇ go giˇ gongˋ tai hog oi tug fa hog:"}
+    check: true
+  - n: 19
+    en: "Chemistry is a field of knowledge with very wide uses."
+    source: kaga115
+    sx: {hanzi: "化學係一門運用當闊个學問。", pinyin: "fa hog he idˋ munˇ iun iung dongˊ fadˋ ge hog mun."}
+  - n: 20
+    en: "His classmate did not do well."
+    sx: {hanzi: "厥同學無考好。", pinyin: "giaˊ tungˇ hog moˇ kauˋ hoˋ."}
+    check: true
+  - n: 21
+    en: "He did badly in the exam and is sulking by himself."
+    source: kaga
+    sx: {hanzi: "佢考試考毋好，自家在該發閼。", pinyin: "giˇ kauˋ sii kauˋ mˇ hoˋ, qi gaˊ du ge bodˋ adˋ."}
+  - n: 22
+    en: "Next month the university in Miaoli is holding a dance on campus. One student said:"
+    sx: {hanzi: "苗栗个大學下隻月愛在校園辦舞會。一個大學生講：", pinyin: "meuˇ lid ge tai hog ha zagˋ ngied oi coiˊ gauˋ ienˇ pan vuˋ fi. idˋ ge tai hog sangˊ gongˋ:"}
+    check: true
+  - n: 23
+    en: "To make work easier, I want to learn a foreign language."
+    source: kaga115
+    sx: {hanzi: "為著做事利便，𠊎愛學外語。", pinyin: "vi doˋ zo se li pien, ngaiˇ oi hog ngoi ngiˊ."}
+  - n: 24
+    en: "But the young people who graduated this year are not finding jobs easily. One young man is like this:"
+    sx: {hanzi: "毋過今年卒業个後生人尋頭路無恁該。有一個後生人恁樣：", pinyin: "mˇ go gimˊ ngienˇ zudˋ ngiab ge heu sangˊ nginˇ qimˇ teuˇ lu moˇ anˋ goiˊ. iuˊ idˋ ge heu sangˊ nginˇ anˋ ngiongˇ:"}
+    check: true
+  - n: 25
+    en: "His job hunt is not going well, and lately he has been very low."
+    source: kaga115
+    sx: {hanzi: "尋頭路毋順利，佢恁久个心情異慍悴。", pinyin: "qimˇ teuˇ lu mˇ sun li, giˇ anˋ giuˋ ge ximˊ qinˇ i vudˋ zudˋ."}
+  - n: 26
+    en: "The county government starts classes in September: grinding ink and writing with the brush, and playing the gong. On Sunday there is opera in front of the temple; it will not end until midnight."
+    sx: {hanzi: "縣政府九月開課，教人擂墨寫大字、打銅鑼。禮拜日廟前做戲，到半夜正煞棚。", pinyin: "ien ziin fuˋ giuˋ ngied koiˊ ko, gauˊ nginˇ luiˇ med xiaˋ tai sii, daˋ tungˇ loˇ. liˊ bai ngidˋ meu qienˇ zo hi, do ban ia zang sod pangˇ."}
+    check: true
+  - n: 27
+    en: "Tomorrow will still be very hot."
+    sx: {hanzi: "天光日還係當熱。", pinyin: "tienˊ gongˊ ngidˋ hanˇ he dongˊ ngied."}
+    check: true
+  - n: 28
+    en: "In such hot weather, keeping the windows tight shut will stifle you!"
+    source: kaga115
+    sx: {hanzi: "恁熱个天時還同窗門關密密，會翕死哦！", pinyin: "anˋ ngied ge tienˊ siiˇ hanˇ tungˇ cungˊ munˇ guanˊ med med, voi hibˋ xiˋ oˊ!"}
+  - n: 29
+    en: "That is the end of the news. Thank you all."
+    sx: {hanzi: "新聞報到這，多謝大家。", pinyin: "xinˊ vunˇ bo do iaˋ, doˊ qia tai gaˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 2, an official sentence: 假期 gaˋ kiˇ "holidays". 一下就 is "in a moment".
+  - ref: 3
+    topic: vocab
+    text: >
+      屆 gie counts sessions and terms: 第五屆 "the fifth". 會場 fi congˇ "venue" (這會場嶄然闊). 重視 cung sii in line 4 is
+      "attach importance to".
+  - ref: 5
+    topic: vocab
+    text: >
+      操場 cauˊ congˇ "sports ground"; 球場 kiuˇ congˇ (line 6) "court, pitch". 鬧熱煎煎 is "buzzing with life".
+  - ref: 7
+    topic: vocab
+    text: >
+      跳高 tiau goˊ "high jump", 跳遠 tiau ienˋ "long jump", 排球 paiˇ kiuˇ "volleyball", 野球 iaˊ kiuˇ "baseball". 獎勵
+      jiongˋ li "reward" (這玩具係獎勵你个).
+  - ref: 10
+    topic: vocab
+    text: >
+      跑道 pauˊ to "running track": 七路 "seven lanes". 挑戰 tiauˊ zan in line 11 is "challenge".
+  - ref: 13
+    topic: vocab
+    text: >
+      脫體 todˋ tiˋ "especially, exceptionally" (脫體有名). 佢兜人 giˇ deuˊ nginˇ in line 14 is "they": 佢兜 with 人 added, like
+      你兜人 (進修 46).
+  - ref: 15
+    topic: vocab
+    text: >
+      榜首 bongˋ suˋ "the top candidate" of an exam. 卒業 zudˋ ngiab "graduate" (阿姊上禮拜卒業哩): the course has said 畢業 so
+      far. 地理 ti liˊ "geography": the same word is "geomancy" in 進修 43. 數學 su hog "mathematics".
+  - ref: 19
+    topic: vocab
+    text: >
+      化學 fa hog "chemistry".
+  - ref: 21
+    topic: vocab
+    text: >
+      發閼 bodˋ adˋ "sulk, be cross without saying so".
+  - ref: 22
+    topic: vocab
+    text: >
+      校園 gauˋ ienˇ "campus" (大學个校園較大). 舞會 vuˋ fi "dance, ball". 外語 ngoi ngiˊ in line 23 is "foreign language".
+  - ref: 25
+    topic: vocab
+    text: >
+      慍悴 vudˋ zudˋ "low, gloomy".
+  - ref: 26
+    topic: vocab
+    text: >
+      墨 med "ink": 擂墨 "grind the ink stick" (擂墨寫大字). 銅鑼 tungˇ loˇ "gong" (打銅鑼). 煞棚 sod pangˇ "(of a show) end": 棚 is
+      the stage.
+  - ref: 28
+    topic: vocab
+    text: >
+      密密 med med "tight shut" (關密密); also "without a break" (佢密密同人借錢).
+
+new_words:
+  - {hanzi: "假期", pinyin: "gaˋ kiˇ", en: "holidays"}
+  - {hanzi: "屆", pinyin: "gie", en: "(measure for sessions, terms)"}
+  - {hanzi: "會場", pinyin: "fi congˇ", en: "venue, hall of a meeting"}
+  - {hanzi: "重視", pinyin: "cung sii", en: "attach importance to"}
+  - {hanzi: "操場", pinyin: "cauˊ congˇ", en: "sports ground"}
+  - {hanzi: "球場", pinyin: "kiuˇ congˇ", en: "court, pitch"}
+  - {hanzi: "跳高", pinyin: "tiau goˊ", en: "high jump"}
+  - {hanzi: "跳遠", pinyin: "tiau ienˋ", en: "long jump"}
+  - {hanzi: "排球", pinyin: "paiˇ kiuˇ", en: "volleyball"}
+  - {hanzi: "野球", pinyin: "iaˊ kiuˇ", en: "baseball"}
+  - {hanzi: "獎勵", pinyin: "jiongˋ li", en: "reward"}
+  - {hanzi: "跑道", pinyin: "pauˊ to", en: "running track; lane"}
+  - {hanzi: "挑戰", pinyin: "tiauˊ zan", en: "challenge"}
+  - {hanzi: "脫體", pinyin: "todˋ tiˋ", en: "especially, exceptionally"}
+  - {hanzi: "佢兜人", pinyin: "giˇ deuˊ nginˇ", en: "they"}
+  - {hanzi: "榜首", pinyin: "bongˋ suˋ", en: "top candidate"}
+  - {hanzi: "卒業", pinyin: "zudˋ ngiab", en: "graduate"}
+  - {hanzi: "地理", pinyin: "ti liˊ", en: "geography; geomancy"}
+  - {hanzi: "數學", pinyin: "su hog", en: "mathematics"}
+  - {hanzi: "化學", pinyin: "fa hog", en: "chemistry"}
+  - {hanzi: "發閼", pinyin: "bodˋ adˋ", en: "sulk"}
+  - {hanzi: "校園", pinyin: "gauˋ ienˇ", en: "campus"}
+  - {hanzi: "舞會", pinyin: "vuˋ fi", en: "dance, ball"}
+  - {hanzi: "外語", pinyin: "ngoi ngiˊ", en: "foreign language"}
+  - {hanzi: "慍悴", pinyin: "vudˋ zudˋ", en: "low, gloomy"}
+  - {hanzi: "墨", pinyin: "med", en: "ink stick, ink"}
+  - {hanzi: "銅鑼", pinyin: "tungˇ loˇ", en: "gong"}
+  - {hanzi: "煞棚", pinyin: "sod pangˇ", en: "(of a show) end"}
+  - {hanzi: "密密", pinyin: "med med", en: "tight shut; without a break"}
+
+exercises:
+  translate:
+    - en: "Play baseball."
+      source: kaga115
+      sx: {hanzi: "打野球。", pinyin: "daˋ iaˊ kiuˇ."}
+    - en: "A university campus is bigger."
+      source: kaga115
+      sx: {hanzi: "大學个校園較大。", pinyin: "tai hog ge gauˋ ienˇ ka tai."}
+    - en: "This toy is a reward for you."
+      source: kaga115
+      sx: {hanzi: "這玩具係獎勵你个。", pinyin: "iaˋ nguanˇ kiˋ he jiongˋ li nˇ ge."}
+    - en: "My elder sister graduated last week."
+      source: kaga115
+      sx: {hanzi: "阿姊上禮拜卒業哩。", pinyin: "aˊ jiˋ song liˊ bai zudˋ ngiab leˊ."}
+    - en: "In PE this week my class is learning volleyball."
+      source: kaga115
+      sx: {hanzi: "吾班級這禮拜个體育課係學打排球。", pinyin: "ngaˊ banˊ kibˋ iaˋ liˊ bai ge tiˋ iugˋ ko he hog daˋ paiˇ kiuˇ."}
+  fill:
+    - en: "The high jump competition."
+      sx: {hanzi: "___比賽。", pinyin: "___ biˋ soi.", answer_hanzi: "跳高", answer: "tiau goˊ"}
+    - en: "The school is going to hold a graduation dance."
+      sx: {hanzi: "學校愛辦畢業___。", pinyin: "hog gauˋ oi pan bidˋ ngiab ___.", answer_hanzi: "舞會", answer: "vuˋ fi"}
+    - en: "This venue is really big."
+      sx: {hanzi: "這___嶄然闊。", pinyin: "iaˋ ___ zamˋ ienˇ fadˋ.", answer_hanzi: "會場", answer: "fi congˇ"}
+    - en: "Run five laps of the sports ground."
+      sx: {hanzi: "走___五輪。", pinyin: "zeuˋ ___ ngˋ linˊ.", answer_hanzi: "操場", answer: "cauˊ congˇ"}
+    - en: "He keeps borrowing money from people: I wonder whether he pays it back."
+      sx: {hanzi: "佢___同人借錢，毋知有還無？", pinyin: "giˇ ___ tungˇ nginˇ jia qienˇ, mˇ diˊ iuˊ vanˇ moˇ?", answer_hanzi: "密密", answer: "med med"}
+
+audio: []
