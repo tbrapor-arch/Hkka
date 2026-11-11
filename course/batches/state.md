@@ -88,3 +88,6 @@ style of 採茶戲, not a sung one.
 - P56 (review), Sun 30 Sep, tea at the Liu house. Grandpa: one month without tobacco, shoulder better. 阿傑 has
   his stall and sign in Taipei; capital is short. A-min did badly in maths; school sports coming (long jump,
   volleyball). Sam studies every other day for the November exam.
+- P57, Sun 14 Oct, the Liu house. Sam has a cold and a fever, a month before the exam; he stays the night. A-min
+  came second in the long jump at the school sports (Sat 13 Oct), banged his chin and sprained his hand.
+  上屋叔婆 is unwell (an old ailment). Sam's essay topic: the Hakka overseas.

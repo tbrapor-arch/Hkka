@@ -1,0 +1,296 @@
+id: 57
+genre: dialogue
+title:
+  en: "It's a small thing: why get worked up?"
+  sx: {hanzi: "小可仔事情，緊張麼个？", pinyin: "seuˋ koˋ eˇ sii qinˇ, ginˋ zongˊ maˋ ge?"}
+review: false
+setting: >-
+  Sunday 14 October 2029, the Liu house, the day after A-min's school sports. Sam arrives with a cold, a month
+  before his exam. A-min can hardly walk.
+names: [Sam, 阿公, 阿婆, 叔婆, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Sam, your stubble is so long, and you look worn out. Are you unwell?"
+    sx: {hanzi: "Sam，你鬚菇恁長，又無精神。人毋好係無？", pinyin: "Sam, nˇ xiˊ guˊ anˋ congˇ, iu moˇ jinˊ siinˇ. nginˇ mˇ hoˋ he moˇ?"}
+    check: true
+  - n: 2
+    speaker: Sam
+    en: "With the weather cold one moment and hot the next, it is easy to catch a chill."
+    source: kaga115
+    sx: {hanzi: "天時一下寒一下熱，毋堵好就會感著。", pinyin: "tienˊ siiˇ idˋ ha honˇ idˋ ha ngied, mˇ duˋ hoˋ qiu voi gamˋ doˋ."}
+  - n: 3
+    speaker: Sam
+    en: "I'm so hot that my armpits keep sweating."
+    source: kaga115
+    sx: {hanzi: "𠊎熱到手脥下緊流汗。", pinyin: "ngaiˇ ngied do suˋ kiab haˊ ginˋ liuˇ hon."}
+  - n: 4
+    speaker: 阿婆
+    en: "You've got a fever! Stay here tonight."
+    sx: {hanzi: "你發燒吔！暗晡歇在這。", pinyin: "nˇ fadˋ seuˊ leˊ! am buˊ hiedˋ coiˊ iaˋ."}
+    check: true
+  - n: 5
+    speaker: 阿婆
+    en: "There is plenty of space upstairs: you can put a lot of things there."
+    source: kaga115
+    sx: {hanzi: "樓頂个空間當闊，你做得放當多東西。", pinyin: "leuˇ dangˋ ge kungˊ gienˊ dongˊ fadˋ, nˇ zo dedˋ biong dongˊ doˊ dungˊ xiˊ."}
+  - n: 6
+    speaker: Sam
+    en: "It's a small thing: why get worked up?"
+    source: kaga115
+    sx: {hanzi: "小可仔事情，緊張麼个？", pinyin: "seuˋ koˋ eˇ sii qinˇ, ginˋ zongˊ maˋ ge?"}
+  - n: 7
+    speaker: Sam
+    en: "The old lady up the lane hasn't been well lately either: it's her old trouble."
+    sx: {hanzi: "上屋叔婆這駁仔乜人毋好，係老症頭。", pinyin: "song vugˋ sugˋ poˇ iaˋ bogˋ eˇ me nginˇ mˇ hoˋ, he loˋ ziin teuˇ."}
+    check: true
+  - n: 8
+    speaker: 阿英
+    en: "The two of them live opposite each other."
+    source: kaga115
+    sx: {hanzi: "佢兩儕戴兩對面。", pinyin: "giˇ liongˋ saˇ dai liongˋ dui mien."}
+  - n: 9
+    speaker: 阿明
+    en: "Ouch! Yesterday was the school sports, and I came second in the long jump."
+    sx: {hanzi: "啊！昨晡日運動會，𠊎跳遠得著第二名。", pinyin: "a! coˊ buˊ ngidˋ iun tung fi, ngaiˇ tiau ienˋ dedˋ doˋ ti ngi miangˇ."}
+    check: true
+  - n: 10
+    speaker: 阿明
+    en: "I walked too much yesterday: when I got up this morning my legs were still stiff."
+    source: kaga115
+    sx: {hanzi: "昨晡日行忒悿，朝晨䟘床，還撐腿撐腿。", pinyin: "coˊ buˊ ngidˋ hangˇ tedˋ tiamˋ, zeuˊ siinˇ hong congˇ, hanˇ cang tuiˋ cang tuiˋ."}
+  - n: 11
+    speaker: 阿明
+    en: "I banged my chin by accident, and it hurts like anything!"
+    source: kaga115
+    sx: {hanzi: "吾蛤蟆胲無細義去撞著，痛到會死！", pinyin: "ngaˊ haˇ maˇ goiˊ moˇ se ngi hi cong doˋ, tung do voi xiˋ!"}
+  - n: 12
+    speaker: 阿明
+    en: "And I've sprained my hand."
+    sx: {hanzi: "手乜拗著。", pinyin: "suˋ me auˋ doˋ."}
+    check: true
+  - n: 13
+    speaker: 阿英
+    en: "He is terrified of injections: the needle hasn't even gone in and he is already crying at the top of his voice."
+    source: kaga115
+    sx: {hanzi: "佢當驚注射，針仔還吂鼓落去，佢就噭到大嫲聲。", pinyin: "giˇ dongˊ giangˊ zu sa, ziimˊ eˋ hanˇ mangˇ guˋ log hi, giˇ qiu gieu do tai maˇ sangˊ."}
+  - n: 14
+    speaker: 阿英
+    en: "After playing ball you're covered in sweat: you must have a wash, or you'll smell of sweat all over."
+    source: kaga115
+    sx: {hanzi: "打球過，歸身汗，一定愛洗身，正毋會歸身仔臭汗酸。", pinyin: "daˋ kiuˇ go, guiˊ siinˊ hon, idˋ tin oi seˋ siinˊ, zang mˇ voi guiˊ siinˊ eˋ cu hon sonˊ."}
+  - n: 15
+    speaker: 阿英
+    en: "His room is like a dog's kennel."
+    source: kaga115
+    sx: {hanzi: "厥間房像狗竇樣仔。", pinyin: "giaˊ gienˊ fongˇ qiong gieuˋ deu iong eˋ."}
+  - n: 16
+    speaker: 阿明
+    en: "A girl from my sister's class came to watch me compete."
+    sx: {hanzi: "阿姊該班有一個細妹仔來看𠊎比賽。", pinyin: "aˊ jiˋ ge banˊ iuˊ idˋ ge se moi eˋ loiˇ kon ngaiˇ biˋ soi."}
+    check: true
+  - n: 17
+    speaker: 阿英
+    en: "She has double eyelids and very big eyes."
+    source: kaga115
+    sx: {hanzi: "佢係雙瞼目，目珠當大蕊。", pinyin: "giˇ he sungˊ ngiamˊ mugˋ, mugˋ zuˊ dongˊ tai luiˊ."}
+  - n: 18
+    speaker: 阿婆
+    en: "That will do. A-min, what about your maths homework?"
+    sx: {hanzi: "好吔。阿明，你个數學作業呢？", pinyin: "hoˋ leˊ. aˊ minˇ, nˇ ge su hog zogˋ ngiab neˇ?"}
+    check: true
+  - n: 19
+    speaker: 阿英
+    en: "Have you no brains? Such a simple thing, and you still can't see it."
+    source: kaga115
+    sx: {hanzi: "無腦屎係無？恁簡單个事，你到今還看毋真。", pinyin: "moˇ noˋ siiˋ he moˇ? anˋ gienˋ danˊ ge sii, nˇ do gimˊ hanˇ kon mˇ ziinˊ."}
+  - n: 20
+    speaker: 阿明
+    en: "Where's Grandpa?"
+    sx: {hanzi: "阿公呢？", pinyin: "aˊ gungˊ neˇ?"}
+    check: true
+  - n: 21
+    speaker: 阿英
+    en: "When those two fall out, it is over very quickly."
+    source: kaga115
+    sx: {hanzi: "佢兩公婆鬥氣，異遽就過忒。", pinyin: "giˇ liongˋ gungˊ poˇ deu hi, i giagˋ qiu go tedˋ."}
+  - n: 22
+    speaker: 阿婆
+    en: "If you are unhappy about something, you can say so."
+    source: kaga115
+    sx: {hanzi: "有麼个不滿，你做得講出來。", pinyin: "iuˊ maˋ ge budˋ manˊ, nˇ zo dedˋ gongˋ cudˋ loiˇ."}
+  - n: 23
+    speaker: 阿婆
+    en: "Flies are such a nuisance: chase it away, quick."
+    source: kaga115
+    sx: {hanzi: "烏蠅當得人惱，遽啊逐走佢。", pinyin: "vuˊ inˇ dongˊ dedˋ nginˇ nauˊ, giagˋ a giugˋ zeuˋ giˇ."}
+  - n: 24
+    speaker: 阿婆
+    en: "There is a moth flying under the lamp."
+    source: kaga115
+    sx: {hanzi: "電火下有蝶仔在該飛。", pinyin: "tien foˋ haˊ iuˊ iag eˋ du ge biˊ."}
+  - n: 25
+    speaker: 阿婆
+    en: "On rainy days winged termites fly everywhere."
+    source: kaga115
+    sx: {hanzi: "落雨天，水蟻仔滿哪飛。", pinyin: "log iˋ tienˊ, suiˋ ngie eˋ manˊ nai biˊ."}
+  - n: 26
+    speaker: 阿婆
+    en: "Sam, have some soup."
+    sx: {hanzi: "Sam，食兜仔湯。", pinyin: "Sam, siid deuˊ eˋ tongˊ."}
+    check: true
+  - n: 27
+    speaker: 阿婆
+    en: "Sweet corn makes a very good soup."
+    source: kaga
+    sx: {hanzi: "甜包粟煮湯，當好食。", pinyin: "tiamˇ bauˊ xiugˋ zuˋ tongˊ, dongˊ hoˋ siid."}
+  - n: 28
+    speaker: Sam
+    en: "Thank you, Grandma. The exam is nearly here, and I don't dare take time off freely. My essay has to be about the Hakka overseas: a hard problem to get over."
+    sx: {hanzi: "多謝阿婆。考試會到吔，𠊎毋敢放勢仔尞。𠊎个文章愛寫海外个客家人，這問題當難克服。", pinyin: "doˊ qia aˊ poˇ. kauˋ sii voi do leˊ, ngaiˇ mˇ gamˋ fong se eˋ liau. ngaiˇ ge vunˇ zongˊ oi xiaˋ hoiˋ ngoi ge hagˋ gaˊ nginˇ, iaˋ mun tiˇ dongˊ nanˇ kiedˋ fug."}
+    check: true
+  - n: 29
+    speaker: 阿婆
+    en: "There is still a month: no need to worry yet."
+    sx: {hanzi: "還有一個月，吂使愁。", pinyin: "hanˇ iuˊ idˋ ge ngied, mangˇ siiˋ seuˇ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 6, an official sentence: 小可仔 seuˋ koˋ eˇ "slight, small".
+  - ref: 1
+    topic: vocab
+    text: >
+      鬚菇 xiˊ guˊ "stubble, short beard" (刨鬚菇 "shave" is from 進修 16). 人毋好 nginˇ mˇ hoˋ "unwell": 人 here is "one's
+      body, one's state".
+  - ref: 2
+    topic: vocab
+    text: >
+      感著 gamˋ doˋ "catch a chill". 手脥下 suˋ kiab haˊ in line 3 is "armpit".
+  - ref: 5
+    topic: vocab
+    text: >
+      空間 kungˊ gienˊ "space, room".
+  - ref: 7
+    topic: vocab
+    text: >
+      這駁仔 iaˋ bogˋ eˇ "lately, these days" (這駁仔青菜當好價); 一駁仔 "a while" is from 進修 43. 老症頭 loˋ ziin teuˇ "an old
+      ailment". 上屋叔婆 is from 進修 37 and 47.
+  - ref: 8
+    topic: vocab
+    text: >
+      兩對面 liongˋ dui mien "opposite each other": 戴 "live" is the word of the official sentence; the course has said
+      歇.
+  - ref: 10
+    topic: vocab
+    text: >
+      撐腿 cang tuiˋ: legs stiff after too much effort. 䟘床 is "get out of bed".
+  - ref: 11
+    topic: vocab
+    text: >
+      蛤蟆胲 haˇ maˇ goiˊ "chin". 拗著 auˋ doˋ in line 12 is "sprain"; of paper, "fold, crease" (進修 47).
+  - ref: 13
+    topic: vocab
+    text: >
+      大嫲聲 tai maˇ sangˊ "very loud" (隔壁講話大嫲聲，驚人聽毋著樣仔). 注射 is "injection".
+  - ref: 14
+    topic: vocab
+    text: >
+      臭汗酸 cu hon sonˊ "the sour smell of sweat".
+  - ref: 15
+    topic: vocab
+    text: >
+      狗竇 gieuˋ deu "dog's kennel": said of an untidy room.
+  - ref: 17
+    topic: vocab
+    text: >
+      雙瞼目 sungˊ ngiamˊ mugˋ "double eyelids".
+  - ref: 19
+    topic: vocab
+    text: >
+      腦屎 noˋ siiˋ "brains": 無腦屎 "brainless" is rude, as between brother and sister here.
+  - ref: 21
+    topic: vocab
+    text: >
+      鬥氣 deu hi "fall out and sulk at each other". 不滿 budˋ manˊ in line 22 is "dissatisfied; a grievance".
+  - ref: 23
+    topic: vocab
+    text: >
+      烏蠅 vuˊ inˇ "fly". 逐 "chase" is read giugˋ; 逐 "every" is dagˋ. 蝶仔 iag eˋ in line 24 is "moth, butterfly". 水蟻仔
+      suiˋ ngie eˋ in line 25 are the winged termites that swarm before rain.
+  - ref: 27
+    topic: vocab
+    text: >
+      包粟 bauˊ xiugˋ "maize, sweet corn".
+  - ref: 28
+    topic: vocab
+    text: >
+      放勢仔 fong se eˋ "freely, to one's heart's content" (時間當多，你做你放勢仔搞). 海外 hoiˋ ngoi "overseas" (海外乜有客人，有兜仔還會講客話).
+      克服 kiedˋ fug "overcome".
+  - ref: 29
+    topic: grammar
+    text: >
+      吂使 mangˇ siiˋ "no need yet": 吂 "not yet" + 使, like 毋使 "no need".
+
+new_words:
+  - {hanzi: "鬚菇", pinyin: "xiˊ guˊ", en: "stubble, short beard"}
+  - {hanzi: "人毋好", pinyin: "nginˇ mˇ hoˋ", en: "unwell"}
+  - {hanzi: "感著", pinyin: "gamˋ doˋ", en: "catch a chill"}
+  - {hanzi: "手脥下", pinyin: "suˋ kiab haˊ", en: "armpit"}
+  - {hanzi: "空間", pinyin: "kungˊ gienˊ", en: "space"}
+  - {hanzi: "小可仔", pinyin: "seuˋ koˋ eˇ", en: "slight, small"}
+  - {hanzi: "這駁仔", pinyin: "iaˋ bogˋ eˇ", en: "lately, these days"}
+  - {hanzi: "老症頭", pinyin: "loˋ ziin teuˇ", en: "old ailment"}
+  - {hanzi: "兩對面", pinyin: "liongˋ dui mien", en: "opposite each other"}
+  - {hanzi: "撐腿", pinyin: "cang tuiˋ", en: "stiff legs (from tiredness)"}
+  - {hanzi: "蛤蟆胲", pinyin: "haˇ maˇ goiˊ", en: "chin"}
+  - {hanzi: "拗著", pinyin: "auˋ doˋ", en: "sprain (a hand)"}
+  - {hanzi: "大嫲聲", pinyin: "tai maˇ sangˊ", en: "very loud"}
+  - {hanzi: "臭汗酸", pinyin: "cu hon sonˊ", en: "smell of sweat"}
+  - {hanzi: "狗竇", pinyin: "gieuˋ deu", en: "dog's kennel"}
+  - {hanzi: "雙瞼目", pinyin: "sungˊ ngiamˊ mugˋ", en: "double eyelids"}
+  - {hanzi: "腦屎", pinyin: "noˋ siiˋ", en: "brains"}
+  - {hanzi: "鬥氣", pinyin: "deu hi", en: "fall out, sulk at each other"}
+  - {hanzi: "不滿", pinyin: "budˋ manˊ", en: "dissatisfied"}
+  - {hanzi: "烏蠅", pinyin: "vuˊ inˇ", en: "fly"}
+  - {hanzi: "蝶仔", pinyin: "iag eˋ", en: "moth, butterfly"}
+  - {hanzi: "水蟻仔", pinyin: "suiˋ ngie eˋ", en: "winged termite"}
+  - {hanzi: "包粟", pinyin: "bauˊ xiugˋ", en: "maize, sweet corn"}
+  - {hanzi: "放勢仔", pinyin: "fong se eˋ", en: "freely, to one's heart's content"}
+  - {hanzi: "海外", pinyin: "hoiˋ ngoi", en: "overseas"}
+  - {hanzi: "克服", pinyin: "kiedˋ fug", en: "overcome"}
+  - {hanzi: "吂使", pinyin: "mangˇ siiˋ", en: "no need yet"}
+
+exercises:
+  translate:
+    - en: "The corn tastes very sweet."
+      source: kaga115
+      sx: {hanzi: "包粟食起來盡甜。", pinyin: "bauˊ xiugˋ siid hiˋ loiˇ qin tiamˇ."}
+    - en: "Vegetables are fetching a good price these days."
+      source: kaga115
+      sx: {hanzi: "這駁仔青菜當好價。", pinyin: "iaˋ bogˋ eˇ qiangˊ coi dongˊ hoˋ ga."}
+    - en: "Next door they talk very loudly, as if afraid people won't hear."
+      source: kaga115
+      sx: {hanzi: "隔壁講話大嫲聲，驚人聽毋著樣仔。", pinyin: "gagˋ biagˋ gongˋ fa tai maˇ sangˊ, giangˊ nginˇ tangˊ mˇ cog iong eˋ."}
+    - en: "There are Hakka overseas too, and some of them still speak Hakka."
+      source: kaga115
+      sx: {hanzi: "海外乜有客人，有兜仔還會講客話。", pinyin: "hoiˋ ngoi me iuˊ hagˋ nginˇ, iuˊ deuˊ eˋ hanˇ voi gongˋ hagˋ fa."}
+    - en: "There is plenty of time: go and play to your heart's content."
+      source: kaga115
+      sx: {hanzi: "時間當多，你做你放勢仔搞。", pinyin: "siiˇ gienˊ dongˊ doˊ, nˇ zo nˇ fong se eˋ gauˋ."}
+  fill:
+    - en: "Deeply dissatisfied at heart."
+      sx: {hanzi: "心肝肚十分___。", pinyin: "ximˊ gonˊ duˋ siib funˊ ___.", answer_hanzi: "不滿", answer: "budˋ manˊ"}
+    - en: "When husband and wife fall out, they sleep side by side without a word."
+      sx: {hanzi: "兩公婆___，共下睡就無講話。", pinyin: "liongˋ gungˊ poˇ ___, kiung ha soi qiu moˇ gongˋ fa.", answer_hanzi: "鬥氣", answer: "deu hi"}
+    - en: "The edge of this sheet has been creased by someone."
+      sx: {hanzi: "這張紙个邊脣分人___哩。", pinyin: "iaˋ zongˊ ziiˋ ge bienˊ sunˇ bunˊ nginˇ ___ leˊ.", answer_hanzi: "拗著", answer: "auˋ doˋ"}
+    - en: "Business at the snack shop is very slack: the owner sits at the door swatting flies."
+      sx: {hanzi: "點心店生理當冷淡，頭家坐在門口打___。", pinyin: "diamˋ ximˊ diam senˊ liˊ dongˊ langˊ tamˊ, teuˇ gaˊ coˊ coiˊ munˇ heuˋ daˋ ___.", answer_hanzi: "烏蠅", answer: "vuˊ inˇ"}
+    - en: "The day is still a long way off: it doesn't matter if we don't decide yet."
+      sx: {hanzi: "日仔還恁久，___決定無相干。", pinyin: "ngidˋ eˇ hanˇ anˋ giuˋ, ___ giedˋ tin moˇ xiongˊ gonˊ.", answer_hanzi: "吂使", answer: "mangˇ siiˋ"}
+
+audio: []
