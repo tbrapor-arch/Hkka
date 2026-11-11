@@ -254,6 +254,7 @@ def make_packet(n):
             if int(r["lesson"]) < n and int(r["lesson"]) in st.written and (r["hanzi"], r["pinyin"]) in info]
     later = {(r["hanzi"], r["pinyin"]) for r in plan if int(r["lesson"]) not in st.written}
     left = [w for w in left if (w["hanzi"], w["pinyin"]) not in later and (w["hanzi"], "".join(w["pinyin"].split())) not in read_skip()]   # replanned or dropped words
+    left = list({(w["hanzi"], w["pinyin"]): w for w in left}.values())
     left.sort(key=lambda w: (w["category"] not in cats,) + rank(w))
     rd = Reader(con, st, [w["hanzi"] for w in mine + left])
     clips = {e for (e,) in con.execute("SELECT entry_id FROM audio_clip WHERE accent = 'sixian' AND kind = 'ex'")}

@@ -1,0 +1,305 @@
+id: 52
+genre: story
+title:
+  en: "Work steadily: haste only slows you down"
+  sx: {hanzi: "做事順順仔做就好，愛遽顛倒慢", pinyin: "zo se sun sun eˋ zo qiu hoˋ, oi giagˋ dienˊ do man"}
+review: false
+setting: >-
+  Sunday 5 August 2029, the Liu house. Sam comes to help Grandpa tidy the vegetable garden. Grandpa has a stiff
+  shoulder, and Grandma has something to say about his smoking.
+names: [Sam, 阿公, 阿婆, 阿明, 竹東]
+
+dialogue:
+  - n: 1
+    en: "Sunday 5 August. Sam has come to help Grandpa tidy the vegetable garden. The old man next door walks by and stops for a word with Grandpa."
+    sx: {hanzi: "八月五號，禮拜日。Sam 來𢯭手阿公整理菜園。隔壁阿伯行過，頓腳同阿公講兩句話。", pinyin: "badˋ ngied ngˋ ho, liˊ bai ngidˋ. Sam loiˇ ten suˋ aˊ gungˊ ziinˋ liˊ coi ienˇ. gagˋ biagˋ aˊ bagˋ hangˇ go, dunˋ giogˋ tungˇ aˊ gungˊ gongˋ liongˋ gi fa."}
+    check: true
+  - n: 2
+    speaker: 阿公
+    en: "Hoeing weeds under the sun is hard work."
+    source: kaga115
+    sx: {hanzi: "在日頭下剷草當辛苦。", pinyin: "coiˊ ngidˋ teuˇ haˊ canˋ coˋ dongˊ xinˊ kuˋ."}
+  - n: 3
+    speaker: 阿公
+    en: "I left my broom here: who has taken it away?"
+    source: kaga115
+    sx: {hanzi: "吾掃把放這，麼人同𠊎擎走吔？", pinyin: "ngaˊ so baˋ biong iaˋ, maˋ nginˇ tungˇ ngaiˇ kiaˇ zeuˋ leˊ?"}
+  - n: 4
+    speaker: 阿婆
+    en: "The broom is in the corner of the main room: go and fetch it for me."
+    source: kaga
+    sx: {hanzi: "掃把放在廳下角項，你去拿來分𠊎。", pinyin: "so baˋ biong coiˊ tangˊ haˊ gogˋ hong, nˇ hi naˊ loiˇ bunˊ ngaiˇ."}
+  - n: 5
+    en: "Sam tied the cut weeds into a bundle, working very fast."
+    sx: {hanzi: "Sam 同剷下來个草捆做一把，捆到當遽。", pinyin: "Sam tungˇ canˋ haˊ loiˇ ge coˋ kunˋ zo idˋ baˋ, kunˋ do dongˊ giagˋ."}
+    check: true
+  - n: 6
+    speaker: 阿公
+    en: "If the firewood isn't tied properly, how are you going to carry it?"
+    source: kaga115
+    sx: {hanzi: "樵無捆好，愛仰仔擎？", pinyin: "ceuˇ moˇ kunˋ hoˋ, oi ngiongˋ eˋ kiaˇ?"}
+  - n: 7
+    speaker: 阿公
+    en: "Just work steadily: if you want to go fast you end up slower."
+    source: kaga115
+    sx: {hanzi: "做事順順仔做就好，愛遽顛倒慢。", pinyin: "zo se sun sun eˋ zo qiu hoˋ, oi giagˋ dienˊ do man."}
+  - n: 8
+    speaker: 阿公
+    en: "My shoulder feels rather stiff."
+    source: kaga115
+    sx: {hanzi: "試著肩頭硬硬樣仔。", pinyin: "cii doˋ gienˊ teuˇ ngang ngang iong eˋ."}
+  - n: 9
+    en: "Sam rubbed Grandpa's shoulder."
+    sx: {hanzi: "Sam 同阿公揉肩頭。", pinyin: "Sam tungˇ aˊ gungˊ ngioˊ gienˊ teuˇ."}
+    check: true
+  - n: 10
+    speaker: 阿公
+    en: "My back is itching: scratch it for me, will you?"
+    source: kaga115
+    sx: {hanzi: "背囊當癢，同𠊎爪一下仔好無？", pinyin: "boi nongˇ dongˊ iongˊ, tungˇ ngaiˇ zauˋ idˋ ha eˋ hoˋ moˇ?"}
+  - n: 11
+    speaker: 阿婆
+    en: "When the ointment goes on, you must bear it even if it hurts."
+    source: kaga115
+    sx: {hanzi: "膏藥仔，會痛乜愛忍耐。", pinyin: "goˇ iog eˋ, voi tung me oi ngiunˊ nai."}
+  - n: 12
+    speaker: 阿婆
+    en: "The doctor says his illness still needs watching."
+    source: kaga115
+    sx: {hanzi: "先生講厥病還愛再過觀察。", pinyin: "xinˊ sangˊ gongˋ giaˊ piang hanˇ oi zai go gonˊ cadˋ."}
+  - n: 13
+    speaker: 阿婆
+    en: "Smoking is bad for the body: you must give it up!"
+    source: kaga115
+    sx: {hanzi: "食菸對身體毋好，愛戒忒去！", pinyin: "siid ienˊ dui siinˊ tiˋ mˇ hoˋ, oi gie tedˋ hi!"}
+  - n: 14
+    speaker: Sam
+    en: "In France people who smoke are very common too. My father gave up last year."
+    sx: {hanzi: "在法國，食菸个人乜當普遍。吾爸舊年戒忒吔。", pinyin: "coiˊ fabˋ guedˋ, siid ienˊ ge nginˇ me dongˊ puˊ pienˊ. ngaˊ baˊ kiu ngienˇ gie tedˋ leˊ."}
+    check: true
+  - n: 15
+    speaker: 阿公
+    en: "I know tobacco harms the body. All right, I've decided to give up: when this packet is finished I'll smoke no more."
+    sx: {hanzi: "𠊎知菸會傷害身體。好，𠊎決定愛戒菸，這包食忒就無愛食吔。", pinyin: "ngaiˇ diˊ ienˊ voi songˊ hoi siinˊ tiˋ. hoˋ, ngaiˇ giedˋ tin oi gie ienˊ, iaˋ bauˊ siid tedˋ qiu moˇ oi siid leˊ."}
+    check: true
+  - n: 16
+    speaker: 阿婆
+    en: "This man is all fine words: you can't rely on him."
+    source: kaga115
+    sx: {hanzi: "這儕人，淨賣嘴花，倚恃毋得。", pinyin: "iaˋ saˇ nginˇ, qiang mai zoi faˊ, iˋ sii mˇ dedˋ."}
+  - n: 17
+    speaker: 阿公
+    en: "Your grandmother is a sharp one. How could I have had so little judgement when I was young?"
+    sx: {hanzi: "你阿婆當慶腳。𠊎後生時節仰會恁無眼光？", pinyin: "nˇ aˊ poˇ dongˊ kiang giogˋ. ngaiˇ heu sangˊ siiˇ jiedˋ ngiongˋ voi anˋ moˇ ngienˋ gongˊ?"}
+    check: true
+  - n: 18
+    speaker: 阿婆
+    en: "His character is very different from mine."
+    source: kaga115
+    sx: {hanzi: "厥性格同𠊎異無共樣。", pinyin: "giaˊ xin giedˋ tungˇ ngaiˇ i moˇ kiung iong."}
+  - n: 19
+    speaker: 阿婆
+    en: "He likes company; I'm the opposite, I like quiet."
+    sx: {hanzi: "佢好鬧熱，𠊎相反，較好恬靜。", pinyin: "giˇ hau nau ngied, ngaiˇ xiongˊ fanˋ, ka hau diamˊ qin."}
+    check: true
+  - n: 20
+    en: "A-min came back from Zhudong, and cried out in pain the moment he came in."
+    sx: {hanzi: "阿明對竹東轉來，一入門就喊痛。", pinyin: "aˊ minˇ dui zugˋ dungˊ zonˋ loiˇ, idˋ ngib munˇ qiu hemˊ tung."}
+    check: true
+  - n: 21
+    speaker: 阿明
+    en: "I got my hand caught in the door."
+    source: kaga115
+    sx: {hanzi: "手分門夾著。", pinyin: "suˋ bunˊ munˇ giab doˋ."}
+  - n: 22
+    speaker: 阿明
+    en: "Are Grandpa and Grandma quarrelling again?"
+    sx: {hanzi: "阿公同阿婆又在該冤家係無？", pinyin: "aˊ gungˊ tungˇ aˊ poˇ iu du ge ienˊ gaˊ he moˇ?"}
+    check: true
+  - n: 23
+    speaker: Sam
+    en: "Actually, it isn't like that."
+    source: kaga115
+    sx: {hanzi: "實際上毋係恁樣。", pinyin: "siid ji song mˇ he anˋ ngiongˇ."}
+  - n: 24
+    speaker: Sam
+    en: "The two of them look very close."
+    source: kaga115
+    sx: {hanzi: "佢兩儕看起來親暱暱仔。", pinyin: "giˇ liongˋ saˇ kon hiˋ loiˇ qinˊ nagˋ nagˋ eˇ."}
+  - n: 25
+    speaker: 阿婆
+    en: "The weather is so fine: take the quilt outside and give it a beating."
+    source: kaga115
+    sx: {hanzi: "天時恁好，被骨拿去外背拔拔啊。", pinyin: "tienˊ siiˇ anˋ hoˋ, piˊ gudˋ naˊ hi ngoi boi pad pad a."}
+  - n: 26
+    speaker: 阿婆
+    en: "That dog is very fierce: don't go near it."
+    source: kaga
+    sx: {hanzi: "該條狗仔當惡，毋好接近佢。", pinyin: "ge tiauˇ gieuˋ eˇ dongˊ ogˋ, mˇ hoˋ jiabˋ kiun giˇ."}
+  - n: 27
+    en: "At lunch, Grandpa said:"
+    sx: {hanzi: "當晝食飯，阿公講：", pinyin: "dongˊ zu siid fan, aˊ gungˊ gongˋ:"}
+    check: true
+  - n: 28
+    speaker: 阿公
+    en: "This dish tastes rather bland."
+    source: kaga115
+    sx: {hanzi: "這品菜食起來淡淡。", pinyin: "iaˋ pinˋ coi siid hiˋ loiˇ tamˊ tamˊ."}
+  - n: 29
+    speaker: 阿婆
+    en: "If your mouth has no taste, you must see the doctor and take medicine."
+    source: kaga
+    sx: {hanzi: "嘴淡淡，定著愛去看先生，食藥仔。", pinyin: "zoi tamˊ tamˊ, tin cog oi hi kon xinˊ sangˊ, siid iog eˋ."}
+  - n: 30
+    speaker: 阿公
+    en: "Time doesn't run backwards: what's past is past. The plaster is changed every other day, and the smoking stops tomorrow."
+    sx: {hanzi: "時間毋會倒退，事情過忒就算吔。膏藥仔間日換一擺，菸天光日正戒。", pinyin: "siiˇ gienˊ mˇ voi do tui, sii qinˇ go tedˋ qiu son leˊ. goˇ iog eˋ gam ngidˋ von idˋ baiˋ, ienˊ tienˊ gongˊ ngidˋ zang gie."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 7, an official sentence: 順順仔 sun sun eˋ "steadily, smoothly". 顛倒 "on the contrary" is from
+      進修 40.
+  - ref: 1
+    topic: vocab
+    text: >
+      頓腳 dunˋ giogˋ "stop walking, pause" (頭前在迎神，𫣆兜頓腳看一下仔).
+  - ref: 2
+    topic: vocab
+    text: >
+      剷 canˋ "hoe off, shovel off": 剷草 "hoe weeds".
+  - ref: 3
+    topic: vocab
+    text: >
+      擎走 kiaˇ zeuˋ "take away". 角項 gogˋ hong in line 4 is "corner" (嘴角項 "at the corner of the mouth", 進修 50).
+  - ref: 5
+    topic: vocab
+    text: >
+      捆 kunˋ "tie up, bundle" (一雙筷仔一拗就斷，十雙筷仔捆做一把，就無恁該拗斷吔).
+  - ref: 8
+    topic: vocab
+    text: >
+      硬硬 ngang ngang "hard, stiff" (石頭硬硬).
+  - ref: 9
+    topic: vocab
+    text: >
+      揉 ngioˊ "rub, knead". 爪 zauˋ in line 10 is "scratch" (爪背囊).
+  - ref: 11
+    topic: vocab
+    text: >
+      膏 goˇ is the verb "smear, apply": 膏藥仔 "put ointment on". In 牙膏 (進修 46) the character is read gauˊ.
+  - ref: 12
+    topic: vocab
+    text: >
+      觀察 gonˊ cadˋ "observe, keep under observation".
+  - ref: 13
+    topic: vocab
+    text: >
+      戒 gie "give up (a habit)": 戒菸, 戒酒 (阿爸決定愛戒酒).
+  - ref: 14
+    topic: vocab
+    text: >
+      普遍 puˊ pienˊ "common, widespread" (一般人普遍會恁樣講).
+  - ref: 15
+    topic: vocab
+    text: >
+      傷害 songˊ hoi "harm" (恁樣做會傷害大家个感情). Grandpa promised to smoke less in 進修 49.
+  - ref: 16
+    topic: vocab
+    text: >
+      倚恃毋得 iˋ sii mˇ dedˋ "not to be relied on". 賣嘴花 is "talk sweetly, with nothing behind it".
+  - ref: 17
+    topic: vocab
+    text: >
+      慶腳 kiang giogˋ "sharp, formidable": the list says it is mostly said of women, and not as praise. 眼光 ngienˋ
+      gongˊ "judgement, an eye for things" (仰會恁無眼光擇著這隻？).
+  - ref: 18
+    topic: vocab
+    text: >
+      性格 xin giedˋ "character". 相反 xiongˊ fanˋ in line 19 is "opposite"; 好 "be fond of" is read hau.
+  - ref: 21
+    topic: vocab
+    text: >
+      夾 giab "pinch, catch between two things". "Pick up with chopsticks" is 挾 giabˋ (進修 36).
+  - ref: 23
+    topic: vocab
+    text: >
+      實際 siid ji "actual": 實際上 "in fact". 親暱暱仔 qinˊ nagˋ nagˋ eˇ in line 24 is "very close, affectionate".
+  - ref: 25
+    topic: vocab
+    text: >
+      拔 pad "beat lightly, pat" (在眠帳裡肚拔蚊仔). 被骨 is "quilt".
+  - ref: 26
+    topic: vocab
+    text: >
+      接近 jiabˋ kiun "go near, approach".
+  - ref: 28
+    topic: vocab
+    text: >
+      淡淡 tamˊ tamˊ "bland, weak in taste": 嘴淡淡 "have no taste in one's mouth".
+  - ref: 30
+    topic: vocab
+    text: >
+      倒退 do tui "go backwards". 間日 gam ngidˋ "every other day" (頭那毛間日洗一到就好).
+
+new_words:
+  - {hanzi: "頓腳", pinyin: "dunˋ giogˋ", en: "stop (walking), pause"}
+  - {hanzi: "剷", pinyin: "canˋ", en: "hoe off, shovel"}
+  - {hanzi: "擎走", pinyin: "kiaˇ zeuˋ", en: "take away"}
+  - {hanzi: "角項", pinyin: "gogˋ hong", en: "corner"}
+  - {hanzi: "捆", pinyin: "kunˋ", en: "tie up, bundle"}
+  - {hanzi: "順順仔", pinyin: "sun sun eˋ", en: "steadily, smoothly"}
+  - {hanzi: "硬硬", pinyin: "ngang ngang", en: "hard, stiff"}
+  - {hanzi: "揉", pinyin: "ngioˊ", en: "rub, knead"}
+  - {hanzi: "爪", pinyin: "zauˋ", en: "scratch"}
+  - {hanzi: "膏", pinyin: "goˇ", en: "smear, apply"}
+  - {hanzi: "觀察", pinyin: "gonˊ cadˋ", en: "observe, keep under observation"}
+  - {hanzi: "戒", pinyin: "gie", en: "give up (a habit)"}
+  - {hanzi: "普遍", pinyin: "puˊ pienˊ", en: "common, widespread"}
+  - {hanzi: "傷害", pinyin: "songˊ hoi", en: "harm"}
+  - {hanzi: "倚恃毋得", pinyin: "iˋ sii mˇ dedˋ", en: "not to be relied on"}
+  - {hanzi: "慶腳", pinyin: "kiang giogˋ", en: "sharp, formidable (of a woman)"}
+  - {hanzi: "眼光", pinyin: "ngienˋ gongˊ", en: "judgement, eye"}
+  - {hanzi: "性格", pinyin: "xin giedˋ", en: "character"}
+  - {hanzi: "相反", pinyin: "xiongˊ fanˋ", en: "opposite"}
+  - {hanzi: "夾", pinyin: "giab", en: "pinch, catch (between two things)"}
+  - {hanzi: "實際", pinyin: "siid ji", en: "actual, real"}
+  - {hanzi: "親暱暱仔", pinyin: "qinˊ nagˋ nagˋ eˇ", en: "very close, affectionate"}
+  - {hanzi: "拔", pinyin: "pad", en: "beat lightly, pat"}
+  - {hanzi: "接近", pinyin: "jiabˋ kiun", en: "go near, approach"}
+  - {hanzi: "淡淡", pinyin: "tamˊ tamˊ", en: "bland, weak (in taste)"}
+  - {hanzi: "倒退", pinyin: "do tui", en: "go backwards"}
+  - {hanzi: "間日", pinyin: "gam ngidˋ", en: "every other day"}
+
+exercises:
+  translate:
+    - en: "Scratch someone's back."
+      source: kaga115
+      sx: {hanzi: "爪背囊。", pinyin: "zauˋ boi nongˇ."}
+    - en: "The stone is hard."
+      source: kaga115
+      sx: {hanzi: "石頭硬硬。", pinyin: "sag teuˇ ngang ngang."}
+    - en: "It is enough to wash your hair every other day."
+      source: kaga115
+      sx: {hanzi: "頭那毛間日洗一到就好。", pinyin: "teuˇ naˇ moˊ gam ngidˋ seˋ idˋ do qiu hoˋ."}
+    - en: "Most people generally say it that way."
+      source: kaga115
+      sx: {hanzi: "一般人普遍會恁樣講。", pinyin: "idˋ banˊ nginˇ puˊ pienˊ voi anˋ ngiongˇ gongˋ."}
+    - en: "They are welcoming the gods up ahead: let's stop and watch for a moment."
+      source: kaga115
+      sx: {hanzi: "頭前在迎神，𫣆兜頓腳看一下仔。", pinyin: "teuˇ qienˇ coiˊ ngiangˇ siinˇ, enˊ deuˊ dunˋ giogˋ kon idˋ ha eˋ."}
+  fill:
+    - en: "Father has decided to give up drinking."
+      sx: {hanzi: "阿爸決定愛___酒。", pinyin: "aˊ baˊ giedˋ tin oi ___ jiuˋ.", answer_hanzi: "戒", answer: "gie"}
+    - en: "Doing that will hurt everyone's feelings."
+      sx: {hanzi: "恁樣做會___大家个感情。", pinyin: "anˋ ngiongˇ zo voi ___ tai gaˊ ge gamˋ qinˇ.", answer_hanzi: "傷害", answer: "songˊ hoi"}
+    - en: "How could you have so little judgement as to pick this one?"
+      sx: {hanzi: "仰會恁無___擇著這隻？", pinyin: "ngiongˋ voi anˋ moˇ ___ tog cog iaˋ zagˋ?", answer_hanzi: "眼光", answer: "ngienˋ gongˊ"}
+    - en: "Swat mosquitoes inside the mosquito net."
+      sx: {hanzi: "在眠帳裡肚___蚊仔。", pinyin: "coiˊ minˇ zong diˊ duˋ ___ munˊ eˋ.", answer_hanzi: "拔", answer: "pad"}
+    - en: "If a young person can't be relied on in what he does, he loses people's trust and will hardly succeed."
+      sx: {hanzi: "後生人做事，係分人___，就會無信用，異難成功。", pinyin: "heu sangˊ nginˇ zo se, he bunˊ nginˇ ___, qiu voi moˇ xin iung, i nanˇ siinˇ gungˊ.", answer_hanzi: "倚恃毋得", answer: "iˋ sii mˇ dedˋ"}
+
+audio: []
