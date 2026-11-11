@@ -83,3 +83,5 @@ style of 採茶戲, not a sung one.
 - P54, Sat 8 Sep, the factory office. The rumour of P51 is false: 阿傑 stays, and wants to sell the 粄條 in Taipei
   from a market stall. A-min gets his August pay (20 days at 600) and a voucher. A new clerk (statistics, comes by
   bicycle) starts in October. A shop in the street owes the factory money.
+- P55, Sat 22 Sep, 八月半 at the Liu house (play). Grandma's wedding necklace is "lost" and is round her neck.
+  Grandpa has not smoked for three weeks (since about 1 Sep) and has got thinner. A-in tells him his ideas are old.

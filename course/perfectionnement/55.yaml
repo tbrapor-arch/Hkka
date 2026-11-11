@@ -1,0 +1,297 @@
+id: 55
+genre: play
+title:
+  en: "Look properly, and don't mistake it"
+  sx: {hanzi: "你斯愛看真來，莫看毋著", pinyin: "nˇ siiˇ oi kon ziinˊ loiˇ, mog kon mˇ cog"}
+review: false
+setting: >-
+  Saturday 22 September 2029, the Mid-Autumn Festival (八月半), at the Liu house. A short comic piece: Grandma cannot
+  find the necklace she wants to wear, and the whole house looks for it while she cooks.
+names: [Sam, 阿公, 阿婆, 阿英, 阿明]
+
+dialogue:
+  - n: 1
+    speaker: 阿婆
+    en: "Today is the Mid-Autumn Festival and I want to wear my necklace. Oh dear, the necklace isn't in the drawer!"
+    sx: {hanzi: "今晡日八月半，𠊎愛戴䯋鍊。啊，䯋鍊無在拖箱角！", pinyin: "gimˊ buˊ ngidˋ badˋ ngied ban, ngaiˇ oi dai pad lien. a, pad lien moˇ coiˊ toˊ xiongˊ gogˋ!"}
+    check: true
+  - n: 2
+    speaker: 阿英
+    en: "Grandma's rings are all kept in the drawer."
+    source: kaga115
+    sx: {hanzi: "阿婆个禁指做下囥在拖箱角。", pinyin: "aˊ poˇ ge gim ziiˋ zo ha kong coiˊ toˊ xiongˊ gogˋ."}
+  - n: 3
+    speaker: 阿婆
+    en: "It is the necklace I was married in: I have always kept it put away. The drawer is very shallow, and I've even looked in the cracks."
+    sx: {hanzi: "該係𠊎行嫁个䯋鍊，一直囥等。拖箱角當淺，連縫仔𠊎都尋過吔。", pinyin: "ge he ngaiˇ hangˇ ga ge pad lien, idˋ ciid kong denˋ. toˊ xiongˊ gogˋ dongˊ qienˋ, lienˇ pung eˋ ngaiˇ du qimˇ go leˊ."}
+    check: true
+  - n: 4
+    speaker: 阿明
+    en: "It's because the light isn't on that the room is pitch dark."
+    source: kaga115
+    sx: {hanzi: "因爭電火吂開，故所間項烏疏疏仔。", pinyin: "inˊ zenˊ tien foˋ mangˇ koiˊ, gu soˋ gienˊ hong vuˊ soˇ soˇ eˋ."}
+  - n: 5
+    speaker: 阿公
+    en: "Look properly, and don't mistake it."
+    source: kaga115
+    sx: {hanzi: "你斯愛看真來，莫看毋著。", pinyin: "nˇ siiˇ oi kon ziinˊ loiˇ, mog kon mˇ cog."}
+  - n: 6
+    speaker: Sam
+    en: "I've looked under the straw mat and in the corner: nothing at all. In the corner there is only a pickling jar."
+    sx: {hanzi: "𠊎尋草蓆下，又尋壁角，全無。壁角淨有一隻醃缸。", pinyin: "ngaiˇ qimˇ coˋ qiag haˊ, iu qimˇ biagˋ gogˋ, qionˇ moˇ. biagˋ gogˋ qiang iuˊ idˋ zagˋ amˊ gongˊ."}
+    check: true
+  - n: 7
+    speaker: 阿公
+    en: "The pickled mustard greens from the jar are very good."
+    source: kaga
+    sx: {hanzi: "醃缸滷个鹹菜盡好食。", pinyin: "amˊ gongˊ luˊ ge hamˇ coi qin hoˋ siid."}
+  - n: 8
+    speaker: 阿婆
+    en: "No time to look now: I have to cook."
+    sx: {hanzi: "無閒尋吔，𠊎愛煮菜。", pinyin: "moˇ hanˇ qimˇ leˊ, ngaiˇ oi zuˋ coi."}
+    check: true
+  - n: 9
+    speaker: 阿婆
+    en: "The wok must be really hot before the fish goes in."
+    source: kaga115
+    sx: {hanzi: "鑊頭烈，魚仔正好落鑊。", pinyin: "vog teuˇ ladˋ, ngˇ eˋ zang hoˋ log vog."}
+  - n: 10
+    speaker: 阿婆
+    en: "\"Four stews and four stir-fries\" is the traditional Hakka banquet."
+    source: kaga
+    sx: {hanzi: "四炆四炒係客人傳統个料理。", pinyin: "xi vunˇ xi cauˋ he hagˋ nginˇ conˇ tungˋ ge liau liˊ."}
+  - n: 11
+    speaker: 阿明
+    en: "The fried vegetable fritters smell so good."
+    source: kaga115
+    sx: {hanzi: "烰菜當香。", pinyin: "poˇ coi dongˊ hiongˊ."}
+  - n: 12
+    speaker: 阿婆
+    en: "Fritters are good, but you mustn't eat too many."
+    source: kaga
+    sx: {hanzi: "烰菜好食，但係毋好食忒多。", pinyin: "poˇ coi hoˋ siid, tan he mˇ hoˋ siid tedˋ doˊ."}
+  - n: 13
+    speaker: 阿英
+    en: "Cold rice fried with egg is very good."
+    source: kaga115
+    sx: {hanzi: "用冷飯來炒卵，當好食。", pinyin: "iung langˊ fan loiˇ cauˋ lonˋ, dongˊ hoˋ siid."}
+  - n: 14
+    speaker: 阿英
+    en: "A-min is very sharp: he picks only the light jobs. A-min, go and fry the dried whitebait!"
+    sx: {hanzi: "阿明當精，專門擇輕可仔个事來做。阿明，去炒魚脯仔！", pinyin: "aˊ minˇ dongˊ jinˊ, zonˊ munˇ tog kiangˊ koˋ eˇ ge sii loiˇ zo. aˊ minˇ, hi cauˋ ngˇ puˋ eˇ!"}
+    check: true
+  - n: 15
+    speaker: Sam
+    en: "I couldn't get to sleep last night, and today I've been yawning all day."
+    source: kaga115
+    sx: {hanzi: "𠊎昨暗晡睡毋落覺，今晡日歸日擘嘴擘鼻。", pinyin: "ngaiˇ coˊ am buˊ soi mˇ log gau, gimˊ buˊ ngidˋ guiˊ ngidˋ bagˋ zoi bagˋ pi."}
+  - n: 16
+    speaker: 阿公
+    en: "If you drink strong tea in the evening, you get restless and can't sleep."
+    source: kaga
+    sx: {hanzi: "暗晡頭食釅茶，會反躁睡毋得。", pinyin: "am buˊ teuˇ siid ngiamˇ caˇ, voi fanˋ cau soi mˇ dedˋ."}
+  - n: 17
+    speaker: 阿公
+    en: "I've been off tobacco for three weeks, and I can't sleep either. Look, I've got thinner: my trousers hang loose."
+    sx: {hanzi: "𠊎戒菸三禮拜吔，乜睡毋落覺。你看，𠊎有較瘦，褲著起來落落。", pinyin: "ngaiˇ gie ienˊ samˊ liˊ bai leˊ, me soi mˇ log gau. nˇ kon, ngaiˇ iuˊ ka ceu, fu zogˋ hiˋ loiˇ lau lau."}
+    check: true
+  - n: 18
+    speaker: 阿婆
+    en: "If you really can do it, do it for everyone to see."
+    source: kaga115
+    sx: {hanzi: "係有才調，就愛做分大家看。", pinyin: "he iuˊ coiˇ tiau, qiu oi zo bunˊ tai gaˊ kon."}
+  - n: 19
+    speaker: Sam
+    en: "He is an optimist."
+    source: kaga115
+    sx: {hanzi: "佢係樂觀个人。", pinyin: "giˇ he log gonˊ ge nginˇ."}
+  - n: 20
+    speaker: 阿英
+    en: "Grandpa, giving up smoking is very good. But when you say girls needn't study so much, there you are wrong."
+    sx: {hanzi: "阿公，戒菸當好。毋過你講細妹人毋使讀恁多書，該就毋著吔。", pinyin: "aˊ gungˊ, gie ienˊ dongˊ hoˋ. mˇ go nˇ gongˋ se moi nginˇ mˇ siiˋ tug anˋ doˊ suˊ, ge qiu mˇ cog leˊ."}
+    check: true
+  - n: 21
+    speaker: 阿英
+    en: "With such old ideas you won't keep up with the times."
+    source: kaga115
+    sx: {hanzi: "思想恁老，會跈毋著時代。", pinyin: "siiˊ xiongˋ anˋ loˋ, voi tenˇ mˇ doˋ siiˇ toi."}
+  - n: 22
+    speaker: 阿婆
+    en: "The food is ready. Come, let's share out the moon cakes first."
+    sx: {hanzi: "菜煮好吔。來，月餅先分分啊。", pinyin: "coi zuˋ hoˋ leˊ. loiˇ, ngied biangˋ xienˊ bunˊ bunˊ a."}
+    check: true
+  - n: 23
+    speaker: 阿婆
+    en: "These two cakes are the same size: one each."
+    source: kaga115
+    sx: {hanzi: "這兩垤餅仔平大，你兜一儕一垤。", pinyin: "iaˋ liongˋ de biangˋ eˇ piangˇ tai, nˇ deuˊ idˋ saˇ idˋ de."}
+  - n: 24
+    speaker: 阿明
+    en: "My sister's piece is bigger!"
+    sx: {hanzi: "阿姊該垤較大！", pinyin: "aˊ jiˋ ge de ka tai!"}
+    check: true
+  - n: 25
+    speaker: 阿明
+    en: "Parents must not have favourites."
+    source: kaga115
+    sx: {hanzi: "爺哀做毋得大細心。", pinyin: "iaˇ oiˊ zomˇ dedˋ tai se ximˊ."}
+  - n: 26
+    speaker: Sam
+    en: "Grandma, there's something shining at your neck: what is it?"
+    sx: {hanzi: "阿婆，你頸根項金金，該係麼个？", pinyin: "aˊ poˇ, nˇ giangˋ ginˊ hong gimˊ gimˊ, ge he maˋ ge?"}
+    check: true
+  - n: 27
+    speaker: 阿婆
+    en: "Oh my! The necklace is round my neck! I put it on this morning. I'm getting old: how embarrassing."
+    sx: {hanzi: "啊！䯋鍊戴在𠊎頸根項！𠊎朝晨就戴好吔。老吔，當敗勢。", pinyin: "a! pad lien dai coiˊ ngaiˇ giangˋ ginˊ hong! ngaiˇ zeuˊ siinˇ qiu dai hoˋ leˊ. loˋ leˊ, dongˊ paiˇ se."}
+    check: true
+  - n: 28
+    speaker: 阿公
+    en: "Things made of iron rust."
+    source: kaga115
+    sx: {hanzi: "鐵仔做个東西會生鹵。", pinyin: "tiedˋ eˇ zo ge dungˊ xiˊ voi sangˊ luˊ."}
+  - n: 29
+    speaker: 阿公
+    en: "Gold doesn't rust, but people do grow old. Come, have some 膨風 tea and some rice noodles."
+    sx: {hanzi: "金仔毋會生鹵，人就會老。來，食膨風茶，食米篩目。", pinyin: "gimˊ eˋ mˇ voi sangˊ luˊ, nginˇ qiu voi loˋ. loiˇ, siid pong fungˊ caˇ, siid miˋ qiˊ mugˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 5, an official sentence: 看真 kon ziinˊ "see clearly, look properly"; 看毋著 is "see wrongly,
+      mistake" (著 cog "right"). 八月半 is the Mid-Autumn Festival, 22 September in 2029.
+  - ref: 1
+    topic: vocab
+    text: >
+      䯋鍊 pad lien "necklace". 無在 moˇ coiˊ "not be there" (老人家無在廳下，在裡背煮飯); of a person it can also mean "be no more".
+      拖箱角 toˊ xiongˊ gogˋ "the inside of a drawer".
+  - ref: 3
+    topic: vocab
+    text: >
+      淺 qienˋ "shallow" (這水當淺，正到膝頭恁深定定). 縫仔 pung eˋ "crack, gap". 行嫁 is "get married", said of a woman.
+  - ref: 4
+    topic: vocab
+    text: >
+      烏疏疏仔 vuˊ soˇ soˇ eˋ "pitch dark"; of a person or thing, "filthy" (搞到歸身烏疏疏仔).
+  - ref: 6
+    topic: vocab
+    text: >
+      草蓆 coˋ qiag "straw mat". 壁角 biagˋ gogˋ "the corner of a room". 醃缸 amˊ gongˊ "earthenware pickling jar".
+  - ref: 9
+    topic: vocab
+    text: >
+      鑊頭 vog teuˇ "wok, cooking pot". 落鑊 log vog "go into the wok". 烈 here is "very hot".
+  - ref: 10
+    topic: culture
+    text: >
+      炆 vunˇ "stew slowly over a low fire". 四炆四炒, four stewed dishes and four stir-fried ones, is the set menu of a
+      Hakka banquet; the sentence is official.
+  - ref: 11
+    topic: vocab
+    text: >
+      烰菜 poˇ coi: vegetables (sweet potato, carrot, taro) in batter, deep-fried.
+  - ref: 13
+    topic: vocab
+    text: >
+      冷飯 langˊ fan "cold rice, leftover rice".
+  - ref: 14
+    topic: vocab
+    text: >
+      輕可仔 kiangˊ koˋ eˇ "light, easy". 魚脯仔 ngˇ puˋ eˇ "dried whitebait" (魚脯仔炒到酥酥、香香 "fried till crisp and
+      fragrant").
+  - ref: 15
+    topic: vocab
+    text: >
+      睡毋落覺 soi mˇ log gau "cannot get to sleep". 釅茶 ngiamˇ caˇ in line 16 is "strong tea".
+  - ref: 17
+    topic: vocab
+    text: >
+      落落 lau lau "loose, hanging": 落 is read lau here. Grandpa promised to give up smoking in 進修 52.
+  - ref: 18
+    topic: vocab
+    text: >
+      才調 coiˇ tiau "ability". 樂觀 log gonˊ in line 19 is "optimistic".
+  - ref: 21
+    topic: vocab
+    text: >
+      思想 siiˊ xiongˋ "thinking, ideas". 跈毋著 "cannot keep up with": 著 is read doˋ here.
+  - ref: 23
+    topic: vocab
+    text: >
+      平大 piangˇ tai "the same size"; of people, "the same age" (佢兩儕平大，共樣係十五歲). 餅仔 is from lesson 11.
+  - ref: 25
+    topic: vocab
+    text: >
+      大細心 tai se ximˊ "favouritism": treating the big one and the small one differently.
+  - ref: 28
+    topic: vocab
+    text: >
+      生鹵 sangˊ luˊ "rust".
+  - ref: 29
+    topic: culture
+    text: >
+      膨風茶 pong fungˊ caˇ is the tea also called 東方美人茶, "Oriental Beauty" (the list says so). 米篩目 miˋ qiˊ mugˋ are
+      thick rice noodles pressed through a sieve.
+
+new_words:
+  - {hanzi: "䯋鍊", pinyin: "pad lien", en: "necklace"}
+  - {hanzi: "無在", pinyin: "moˇ coiˊ", en: "not be there; be no more"}
+  - {hanzi: "拖箱角", pinyin: "toˊ xiongˊ gogˋ", en: "inside of a drawer"}
+  - {hanzi: "淺", pinyin: "qienˋ", en: "shallow"}
+  - {hanzi: "縫仔", pinyin: "pung eˋ", en: "crack, gap"}
+  - {hanzi: "烏疏疏仔", pinyin: "vuˊ soˇ soˇ eˋ", en: "pitch dark; filthy"}
+  - {hanzi: "看真", pinyin: "kon ziinˊ", en: "see clearly, look properly"}
+  - {hanzi: "草蓆", pinyin: "coˋ qiag", en: "straw mat"}
+  - {hanzi: "壁角", pinyin: "biagˋ gogˋ", en: "corner (of a room)"}
+  - {hanzi: "醃缸", pinyin: "amˊ gongˊ", en: "earthenware pickling jar"}
+  - {hanzi: "鑊頭", pinyin: "vog teuˇ", en: "wok, pot"}
+  - {hanzi: "落鑊", pinyin: "log vog", en: "go into the wok"}
+  - {hanzi: "炆", pinyin: "vunˇ", en: "stew slowly"}
+  - {hanzi: "烰菜", pinyin: "poˇ coi", en: "vegetable fritters"}
+  - {hanzi: "冷飯", pinyin: "langˊ fan", en: "cold rice, leftover rice"}
+  - {hanzi: "輕可仔", pinyin: "kiangˊ koˋ eˇ", en: "light, easy"}
+  - {hanzi: "魚脯仔", pinyin: "ngˇ puˋ eˇ", en: "dried whitebait"}
+  - {hanzi: "睡毋落覺", pinyin: "soi mˇ log gau", en: "cannot get to sleep"}
+  - {hanzi: "釅茶", pinyin: "ngiamˇ caˇ", en: "strong tea"}
+  - {hanzi: "落落", pinyin: "lau lau", en: "loose, hanging"}
+  - {hanzi: "才調", pinyin: "coiˇ tiau", en: "ability"}
+  - {hanzi: "樂觀", pinyin: "log gonˊ", en: "optimistic"}
+  - {hanzi: "思想", pinyin: "siiˊ xiongˋ", en: "thinking, ideas"}
+  - {hanzi: "平大", pinyin: "piangˇ tai", en: "the same size; the same age"}
+  - {hanzi: "大細心", pinyin: "tai se ximˊ", en: "favouritism"}
+  - {hanzi: "生鹵", pinyin: "sangˊ luˊ", en: "rust"}
+  - {hanzi: "膨風茶", pinyin: "pong fungˊ caˇ", en: "膨風 tea (Oriental Beauty)"}
+  - {hanzi: "米篩目", pinyin: "miˋ qiˊ mugˋ", en: "thick rice noodles"}
+
+exercises:
+  translate:
+    - en: "Mother has a gold necklace."
+      source: kaga
+      sx: {hanzi: "阿姆有一條金䯋鍊。", pinyin: "aˊ meˊ iuˊ idˋ tiauˇ gimˊ pad lien."}
+    - en: "He is an optimist."
+      source: kaga115
+      sx: {hanzi: "佢係樂觀个人。", pinyin: "giˇ he log gonˊ ge nginˇ."}
+    - en: "How much is this straw mat?"
+      source: kaga115
+      sx: {hanzi: "這領草蓆愛賣幾多錢？", pinyin: "iaˋ liangˊ coˋ qiag oi mai giˋ doˊ qienˇ?"}
+    - en: "The old lady isn't in the main room: she is cooking at the back."
+      source: kaga115
+      sx: {hanzi: "老人家無在廳下，在裡背煮飯。", pinyin: "loˋ nginˇ gaˊ moˇ coiˊ tangˊ haˊ, coiˊ diˊ boi zuˋ fan."}
+    - en: "The two of them are the same age: both are fifteen."
+      source: kaga115
+      sx: {hanzi: "佢兩儕平大，共樣係十五歲。", pinyin: "giˇ liongˋ saˇ piangˇ tai, kiung iong he siib ngˋ se."}
+  fill:
+    - en: "He played till he was filthy all over."
+      sx: {hanzi: "搞到歸身___。", pinyin: "gauˋ do guiˊ siinˊ ___.", answer_hanzi: "烏疏疏仔", answer: "vuˊ soˇ soˇ eˋ"}
+    - en: "I drank a cup of coffee in the daytime, and at night I couldn't get to sleep."
+      sx: {hanzi: "日時頭啉忒一杯咖啡，暗晡頭就___。", pinyin: "ngidˋ siiˇ teuˇ limˊ tedˋ idˋ biˊ gaˊ biˊ, am buˊ teuˇ qiu ___.", answer_hanzi: "睡毋落覺", answer: "soi mˇ log gau"}
+    - en: "This water is very shallow: it only comes up to the knee."
+      sx: {hanzi: "這水當___，正到膝頭恁深定定。", pinyin: "iaˋ suiˋ dongˊ ___, zang do qidˋ teuˇ anˋ ciimˊ tin tin.", answer_hanzi: "淺", answer: "qienˋ"}
+    - en: "Things of iron rust in time."
+      sx: {hanzi: "鐵仔个東西，久吔就會___。", pinyin: "tiedˋ eˇ ge dungˊ xiˊ, giuˋ leˊ qiu voi ___.", answer_hanzi: "生鹵", answer: "sangˊ luˊ"}
+    - en: "Parents must not have favourites."
+      sx: {hanzi: "___做毋得大細心。", pinyin: "___ zomˇ dedˋ tai se ximˊ.", answer_hanzi: "爺哀", answer: "iaˇ oiˊ"}
+
+audio: []
