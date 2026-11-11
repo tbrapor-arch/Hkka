@@ -1,0 +1,292 @@
+id: 64
+genre: dialogue
+title:
+  en: "The sun is on your bottom: time to get up"
+  sx: {hanzi: "日頭晒屎胐，好䟘起來哩", pinyin: "ngidˋ teuˇ sai sii vudˋ, hoˋ hong hiˋ loiˇ leˊ"}
+review: false
+setting: >-
+  Saturday 22 December 2029, the day after the winter solstice (冬節), at the house of the old lady up the lane
+  (上屋叔婆). Her brother's family comes to see her with the baby born in May. Sam, who lives opposite, has put a cot
+  together for the baby. 阿梅 is the baby's mother.
+names: [Sam, 叔婆, 阿梅]
+
+dialogue:
+  - n: 1
+    speaker: 叔婆
+    en: "Sam, my brother's whole family is coming today. They live in the village just ahead, in neighbourhood eight: two stops by train and you are there."
+    sx: {hanzi: "Sam，吾老弟歸屋下人今晡日愛來。佢兜歇在頭前該隻莊頭个八鄰，坐火車過兩站就到。", pinyin: "Sam, ngaˊ loˋ taiˊ guiˊ vugˋ kaˊ nginˇ gimˊ buˊ ngidˋ oi loiˇ. giˇ deuˊ hed coiˊ teuˇ qienˇ ge zagˋ zongˊ teuˇ ge badˋ linˇ, coˊ foˋ caˊ go liongˋ zam qiu do."}
+    check: true
+  - n: 2
+    speaker: 叔婆
+    en: "As soon as the weather changes, my rheumatism flares up."
+    source: kaga115
+    sx: {hanzi: "天時一變，風溼病就擎起來。", pinyin: "tienˊ siiˇ idˋ bien, fungˊ siibˋ piang qiu kiaˇ hiˋ loiˇ."}
+  - n: 3
+    speaker: 叔婆
+    en: "My arm hurts and I can't do a thing. Have you put the baby's cot together yet?"
+    sx: {hanzi: "吾手骨痛，做毋得事。你同嬰兒仔个眠床鬥起來吂？", pinyin: "ngaˊ suˋ gudˋ tung, zomˇ dedˋ se. nˇ tungˇ oˇ nga eˋ ge minˇ congˇ deu hiˋ loiˇ mangˇ?"}
+    check: true
+  - n: 4
+    speaker: Sam
+    en: "It's together, and yesterday I painted it too. This paint is not poisonous."
+    sx: {hanzi: "鬥好吔，昨晡日還同佢油漆過。這油漆無毒。", pinyin: "deu hoˋ leˊ, coˊ buˊ ngidˋ hanˇ tungˇ giˇ iuˇ qidˋ go. iaˋ iuˇ qidˋ moˇ tug."}
+    check: true
+  - n: 5
+    speaker: Sam
+    en: "I got paint on my clothes: I'm afraid it won't wash out."
+    source: kaga115
+    sx: {hanzi: "衫褲分油漆膏著，怕洗毋淨哩。", pinyin: "samˊ fu bunˊ iuˇ qidˋ goˇ doˋ, pa seˋ mˇ qiang leˊ."}
+  - n: 6
+    speaker: 叔婆
+    en: "Oh no! Soy sauce on my white top: it will never wash out!"
+    source: kaga115
+    sx: {hanzi: "壞哩！白衫著著豆油，洗毋淨吔哪！", pinyin: "faiˋ leˊ! pag samˊ cog doˋ teu iuˇ, seˋ mˇ qiang leˊ nai!"}
+  - n: 7
+    speaker: 叔婆
+    en: "I am grating radish with the grater and making soup with pig's liver, and I bought a cut of pork too."
+    sx: {hanzi: "𠊎用刷仔刷菜頭，豬肝煮湯，還買一料豬肉。", pinyin: "ngaiˇ iung sodˋ eˋ sodˋ coi teuˇ, zuˊgonˊ zuˋ tongˊ, hanˇ maiˊ idˋ liau zuˊ ngiugˋ."}
+    check: true
+  - n: 8
+    speaker: 叔婆
+    en: "The rice is in the rice tub. I used to manage the money of the house, and do the cooking too; now I am old."
+    sx: {hanzi: "飯在飯盆頭肚吔。頭擺屋下个錢係𠊎掌管，煮食乜係𠊎，這下老吔。", pinyin: "fan coiˊ fan punˇ teuˇ duˋ leˊ. teuˇ baiˋ vugˋ kaˊ ge qienˇ he ngaiˇ zongˋ gonˋ, zuˋ siid me he ngaiˇ, iaˋ ha loˋ leˊ."}
+    check: true
+  - n: 9
+    speaker: 叔婆
+    en: "The guests are here: quick, go and make tea for them."
+    source: kaga115
+    sx: {hanzi: "人客來哩，遽啊去炙茶分人食。", pinyin: "nginˇ hagˋ loiˇ leˊ, giagˋ a hi zagˋ caˇ bunˊ nginˇ siid."}
+  - n: 10
+    speaker: 阿梅
+    en: "Auntie, here is a basket of tangerines, and a branch of plum blossom."
+    sx: {hanzi: "阿姑，這係一籮柑仔，還有一桍梅花。", pinyin: "aˊ guˊ, iaˋ he idˋ loˇ gamˊ eˋ, hanˇ iuˊ idˋ kuaˋ moiˇ faˊ."}
+    check: true
+  - n: 11
+    speaker: 叔婆
+    en: "Thank you. How the baby has grown! Rosy cheeks: so sweet."
+    sx: {hanzi: "恁仔細。嬰兒仔大吔！面頰卵紅紅，當得人惜。", pinyin: "anˋ ziiˋ se. oˇ nga eˋ tai leˊ! mien gabˋ lonˋ fungˇ fungˇ, dongˊ dedˋ nginˇ xiagˋ."}
+    check: true
+  - n: 12
+    speaker: 叔婆
+    en: "Curved eyebrows."
+    source: kaga115
+    sx: {hanzi: "目眉毛彎彎。", pinyin: "mugˋ miˇ moˊ vanˊ vanˊ."}
+  - n: 13
+    speaker: 阿梅
+    en: "She is seven months old. Hardly any hair on her head yet, dribbling all the time, and sucking her own toes all day."
+    sx: {hanzi: "佢七個月吔。頭那還無麼个毛，口涎水緊流，歸日食自家个腳趾。", pinyin: "giˇ qidˋ ge ngied leˊ. teuˇ naˇ hanˇ moˇ maˋ ge moˊ, heuˋ lanˊ suiˋ ginˋ liuˇ, guiˊ ngidˋ siid qi gaˊ ge giogˋ ziiˋ."}
+    check: true
+  - n: 14
+    speaker: Sam
+    en: "Her foot is only three inches long!"
+    sx: {hanzi: "厥腳正三寸長！", pinyin: "giaˊ giogˋ zang samˊ cun congˇ!"}
+    check: true
+  - n: 15
+    speaker: 阿梅
+    en: "When a baby is a bit bigger it can have rice paste."
+    source: kaga115
+    sx: {hanzi: "嬰兒仔較大兜仔就做得食粳吔。", pinyin: "oˇ nga eˋ ka tai deuˊ eˋ qiu zo dedˋ siid gangˊ leˊ."}
+  - n: 16
+    speaker: 叔婆
+    en: "You've put so many clothes on her: she'll be far too hot."
+    sx: {hanzi: "你同佢著恁多衫，會昶燒。", pinyin: "nˇ tungˇ giˇ zogˋ anˋ doˊ samˊ, voi tiongˋ seuˊ."}
+    check: true
+  - n: 17
+    speaker: 阿梅
+    en: "And the one underneath is too small already."
+    sx: {hanzi: "裡背該領還忒細吔。", pinyin: "diˊ boi ge liangˊ hanˇ tedˋ se leˊ."}
+    check: true
+  - n: 18
+    speaker: 阿梅
+    en: "The top is so short that her navel is showing."
+    source: kaga115
+    sx: {hanzi: "衫恁短，肚臍走出來哩。", pinyin: "samˊ anˋ donˋ, duˋ qiˇ zeuˋ cudˋ loiˇ leˊ."}
+  - n: 19
+    speaker: 阿梅
+    en: "Oh, she has wet herself! Her bottom is all wet."
+    sx: {hanzi: "啊，佢拉尿吔！屎胐溼溼。", pinyin: "a, giˇ laiˇ ngiau leˊ! sii vudˋ siibˋ siibˋ."}
+    check: true
+  - n: 20
+    speaker: 叔婆
+    en: "In the old days there was a chamber pot in the bedroom, and no netting on the windows either: so many mosquitoes. Things are very convenient now."
+    sx: {hanzi: "頭擺間房肚放一隻尿桶，窗門乜無網仔，蚊仔當多。這下當利便。", pinyin: "teuˇ baiˋ gienˊ fongˇ duˋ biong idˋ zagˋ ngiau tungˋ, cungˊ munˇ me moˇ miongˋ eˋ, munˊ eˋ dongˊ doˊ. iaˋ ha dongˊ li pien."}
+    check: true
+  - n: 21
+    speaker: 叔婆
+    en: "Sam, there is sugar cane by the ditch behind the house: go and break off a length."
+    sx: {hanzi: "Sam，屋背溝脣有甘蔗，你去拗一截來。", pinyin: "Sam, vugˋ boi gieuˊ sunˇ iuˊ gamˊ za, nˇ hi auˋ idˋ jiedˋ loiˇ."}
+    check: true
+  - n: 22
+    speaker: 阿梅
+    en: "He has cut his hand with the knife, and it keeps bleeding."
+    source: kaga115
+    sx: {hanzi: "厥手分刀仔割著，緊出血。", pinyin: "giaˊ suˋ bunˊ doˊ eˋ godˋ doˋ, ginˋ cudˋ hiedˋ."}
+  - n: 23
+    speaker: 叔婆
+    en: "Never mind, the medicine is in the drawer. Look, the baby still has rice paste at the corner of her mouth."
+    sx: {hanzi: "無要緊，藥仔在拖箱角。你看，嬰兒仔嘴角還黏等粳。", pinyin: "moˇ ieu ginˋ, iog eˋ coiˊ toˊ xiongˊ gogˋ. nˇ kon, oˇ nga eˋ zoi gogˋ hanˇ ngiamˇ denˋ gangˊ."}
+    check: true
+  - n: 24
+    en: "The baby takes her nap in the new cot. At two o'clock the old lady says to her:"
+    sx: {hanzi: "嬰兒仔在新眠床項睡當晝。兩點吔，叔婆同佢講：", pinyin: "oˇ nga eˋ coiˊ xinˊ minˇ congˇ hong soi dongˊ zu. liongˋ diamˋ leˊ, sugˋ poˇ tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 25
+    speaker: 叔婆
+    en: "The sun is on your bottom: time to get up."
+    source: kaga115
+    sx: {hanzi: "日頭晒屎胐，好䟘起來哩。", pinyin: "ngidˋ teuˇ sai sii vudˋ, hoˋ hong hiˋ loiˇ leˊ."}
+  - n: 26
+    speaker: 叔婆
+    en: "On the day of the winter solstice the day is shortest. Eat rice balls at the solstice and you are a year older."
+    source: kaga115
+    sx: {hanzi: "冬節該日，日仔盡短。冬節食雪圓仔，就加一歲。", pinyin: "dungˊ jiedˋ ge ngidˋ, ngidˋ eˇ qin donˋ. dungˊ jiedˋ siid xiedˋ ienˇ eˋ, qiu gaˊ idˋ se."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The title is line 25, an official sentence said to a late riser: 屎胐 sii vudˋ "bottom, buttocks". 冬節 was on 21
+      December in 2029 (進修 59); line 26 is the official sentence about it. The baby was born in May (進修 47).
+  - ref: 1
+    topic: vocab
+    text: >
+      莊頭 zongˊ teuˇ "village". 鄰 linˇ is the smallest unit of a village or town: 八鄰 "neighbourhood eight"; it is the
+      鄰 of 鄰舍 "neighbour". 站 zam counts stops: 過兩站 "two stops on".
+  - ref: 2
+    topic: vocab
+    text: >
+      擎起來 kiaˇ hiˋ loiˇ, of an illness, "flare up". 風溼病 is "rheumatism".
+  - ref: 3
+    topic: vocab
+    text: >
+      手骨 suˋ gudˋ "arm" (毋堵好跌啊倒，手骨嗄斷忒！). 鬥 deu "fit together, assemble": 鬥起來 "put together"; 鬥緊 is from 進修 50.
+  - ref: 4
+    topic: vocab
+    text: >
+      油漆 iuˇ qidˋ "paint", noun and verb. 毒 tug "poison; poisonous" (有毒); in 毒 teu the character is the verb "to
+      poison" (進修 36).
+  - ref: 6
+    topic: vocab
+    text: >
+      著著 cog doˋ "get (something) on, be hit by": the first 著 is cog, the second doˋ.
+  - ref: 7
+    topic: vocab
+    text: >
+      刷 sodˋ "grate into shreds": 刷仔 is the grater. 豬肝 zuˊ gonˊ "pig's liver". 料 liau is the measure for a cut of
+      pork: 一料豬肉.
+  - ref: 8
+    topic: vocab
+    text: >
+      飯盆頭 fan punˇ teuˇ: the wide tub the cooked rice is kept in. 掌管 zongˋ gonˋ "manage, be in charge of".
+  - ref: 9
+    topic: vocab
+    text: >
+      炙茶 zagˋ caˇ "make tea", by boiling water over the fire.
+  - ref: 10
+    topic: vocab
+    text: >
+      籮 loˇ "basket", as a measure (一籮米). 桍 kuaˋ counts branches. 梅花 moiˇ faˊ "plum blossom". 阿梅 calls the old lady
+      阿姑, "father's sister".
+  - ref: 11
+    topic: vocab
+    text: >
+      面頰卵 mien gabˋ lonˋ "cheek". 目眉毛 mugˋ miˇ moˊ in line 12 is "eyebrows".
+  - ref: 13
+    topic: vocab
+    text: >
+      毛 moˊ "hair, fur" (頭那毛 is from Part 1). 口涎水 heuˋ lanˊ suiˋ "saliva, dribble". 腳趾 giogˋ ziiˋ "toe".
+  - ref: 14
+    topic: vocab
+    text: >
+      寸 cun "inch", a tenth of a 尺.
+  - ref: 15
+    topic: vocab
+    text: >
+      粳 gangˊ "rice paste" for a baby; also "paste, glue".
+  - ref: 16
+    topic: vocab
+    text: >
+      昶 tiongˋ before an adjective is "too, over-": 昶燒 "too hot". 著 "put on" is read zogˋ.
+  - ref: 18
+    topic: vocab
+    text: >
+      肚臍 duˋ qiˇ "navel". 拉尿 laiˇ ngiau in line 19 is "wet oneself": 屙尿 (lesson 12) is the plain word for "pee".
+  - ref: 20
+    topic: vocab
+    text: >
+      尿桶 ngiau tungˋ "chamber pot". 網 miongˋ "net": 網仔 here is the netting on a window.
+  - ref: 21
+    topic: vocab
+    text: >
+      溝 gieuˊ "ditch". 截 jiedˋ counts lengths of something long: 一截甘蔗 "a length of sugar cane" (甘蔗拗兩截).
+  - ref: 22
+    topic: vocab
+    text: >
+      出血 cudˋ hiedˋ "bleed". 嘴角 zoi gogˋ in line 23 is "the corner of the mouth".
+
+new_words:
+  - {hanzi: "莊頭", pinyin: "zongˊ teuˇ", en: "village"}
+  - {hanzi: "鄰", pinyin: "linˇ", en: "neighbourhood (a unit of a village)"}
+  - {hanzi: "站", pinyin: "zam", en: "stop, station (measure)"}
+  - {hanzi: "擎起來", pinyin: "kiaˇ hiˋ loiˇ", en: "(of an illness) flare up"}
+  - {hanzi: "手骨", pinyin: "suˋ gudˋ", en: "arm"}
+  - {hanzi: "鬥", pinyin: "deu", en: "fit together, assemble"}
+  - {hanzi: "油漆", pinyin: "iuˇ qidˋ", en: "paint; to paint"}
+  - {hanzi: "毒", pinyin: "tug", en: "poison; poisonous"}
+  - {hanzi: "著著", pinyin: "cog doˋ", en: "get (something) on; catch"}
+  - {hanzi: "刷", pinyin: "sodˋ", en: "grate"}
+  - {hanzi: "豬肝", pinyin: "zuˊgonˊ", en: "pig's liver"}
+  - {hanzi: "料", pinyin: "liau", en: "(measure for a cut of pork)"}
+  - {hanzi: "炙茶", pinyin: "zagˋ caˇ", en: "make tea"}
+  - {hanzi: "籮", pinyin: "loˇ", en: "basket (measure)"}
+  - {hanzi: "桍", pinyin: "kuaˋ", en: "(measure for branches)"}
+  - {hanzi: "梅花", pinyin: "moiˇ faˊ", en: "plum blossom"}
+  - {hanzi: "面頰卵", pinyin: "mien gabˋ lonˋ", en: "cheek"}
+  - {hanzi: "目眉毛", pinyin: "mugˋ miˇ moˊ", en: "eyebrows"}
+  - {hanzi: "毛", pinyin: "moˊ", en: "hair, fur"}
+  - {hanzi: "口涎水", pinyin: "heuˋ lanˊ suiˋ", en: "saliva, dribble"}
+  - {hanzi: "腳趾", pinyin: "giogˋ ziiˋ", en: "toe"}
+  - {hanzi: "寸", pinyin: "cun", en: "inch"}
+  - {hanzi: "粳", pinyin: "gangˊ", en: "rice paste; paste"}
+  - {hanzi: "昶", pinyin: "tiongˋ", en: "too, over-"}
+  - {hanzi: "肚臍", pinyin: "duˋ qiˇ", en: "navel"}
+  - {hanzi: "拉尿", pinyin: "laiˇ ngiau", en: "wet oneself"}
+  - {hanzi: "屎胐", pinyin: "sii vudˋ", en: "bottom, buttocks"}
+  - {hanzi: "尿桶", pinyin: "ngiau tungˋ", en: "chamber pot"}
+  - {hanzi: "網", pinyin: "miongˋ", en: "net"}
+  - {hanzi: "溝", pinyin: "gieuˊ", en: "ditch"}
+  - {hanzi: "截", pinyin: "jiedˋ", en: "length, section (measure)"}
+  - {hanzi: "出血", pinyin: "cudˋ hiedˋ", en: "bleed"}
+  - {hanzi: "嘴角", pinyin: "zoi gogˋ", en: "corner of the mouth"}
+  - {hanzi: "飯盆頭", pinyin: "fan punˇ teuˇ", en: "wide rice tub"}
+  - {hanzi: "掌管", pinyin: "zongˋ gonˋ", en: "manage, be in charge of"}
+
+exercises:
+  translate:
+    - en: "Her eyebrows are curved and very pretty."
+      source: kaga
+      sx: {hanzi: "佢个目眉毛彎彎，當靚。", pinyin: "giˇ ge mugˋ miˇ moˊ vanˊ vanˊ, dongˊ jiangˊ."}
+    - en: "This top is too short: your navel will show."
+      source: kaga
+      sx: {hanzi: "這領衫忒短，肚臍會走出來。", pinyin: "iaˋ liangˊ samˊ tedˋ donˋ, duˋ qiˇ voi zeuˋ cudˋ loiˇ."}
+    - en: "My little brother has a grain of rice stuck on his cheek."
+      source: kaga115
+      sx: {hanzi: "老弟面頰卵項黏等飯糝。", pinyin: "loˋ taiˊ mien gabˋ lonˋ hong ngiamˇ denˋ fan samˋ."}
+    - en: "Cut by the knife, the hand keeps bleeding."
+      sx: {hanzi: "分刀仔割著，手緊出血。", pinyin: "bunˊ doˊ eˋ godˋ doˋ, suˋ ginˋ cudˋ hiedˋ."}
+    - en: "Don't talk nonsense, or someone will tear your mouth for you."
+      source: kaga115
+      sx: {hanzi: "你莫亂講話，會分人擘嘴角。", pinyin: "nˇ mog lon gongˋ fa, voi bunˊ nginˇ bagˋ zoi gogˋ."}
+  fill:
+    - en: "Two more stops and we are in Taipei."
+      sx: {hanzi: "過兩___就到臺北哩。", pinyin: "go liongˋ ___ qiu do toiˇ bedˋ leˊ.", answer_hanzi: "站", answer: "zam"}
+    - en: "You haven't even warmed your seat: why the hurry to go home?"
+      sx: {hanzi: "___吂坐燒，仰恁緊愛轉屋下？", pinyin: "___ mangˇ coˊ seuˊ, ngiongˋ anˋ ginˋ oi zonˋ vugˋ kaˊ?", answer_hanzi: "屎胐", answer: "sii vudˋ"}
+    - en: "People today make tea on gas; in the old days they used charcoal."
+      sx: {hanzi: "現代人___用瓦斯，頭擺人用火炭。", pinyin: "hien toi nginˇ ___ iung ngaˋ siiˊ, teuˇ baiˋ nginˇ iung foˋ tan.", answer_hanzi: "炙茶", answer: "zagˋ caˇ"}
+    - en: "Don't carry the chamber pot into the room: the smell is very strong."
+      sx: {hanzi: "尿桶莫擐到___，臭味當重。", pinyin: "ngiau tungˋ mog kuan do ___, cu mi dongˊ cungˊ.", answer_hanzi: "間項", answer: "gienˊ hong"}
+    - en: "Things with hair on them can't be eaten as they are."
+      sx: {hanzi: "有___个東西做毋得直接食。", pinyin: "iuˊ ___ ge dungˊ xiˊ zomˇ dedˋ ciid jiabˋ siid.", answer_hanzi: "毛", answer: "moˊ"}
+
+audio: []

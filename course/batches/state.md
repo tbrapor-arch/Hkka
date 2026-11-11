@@ -104,3 +104,5 @@ style of 採茶戲, not a sung one.
 - P63 (review), Sat 8 Dec, dinner at the Liu house with 阿舅 and 阿傑. Sam has passed the 中級 test (thread
   closed). 阿傑 wants a shop in Taipei in the end. A-min asks to work at the factory in the winter holidays.
   上屋叔婆 is better. Grandpa walks every day; his car's battery is flat.
+- P64, Sat 22 Dec, at 上屋叔婆's. Her brother's family visits with the baby girl (born May, seven months);
+  阿梅 is the baby's mother and calls 叔婆 阿姑. Sam built and painted a cot. They live two train stops away.
