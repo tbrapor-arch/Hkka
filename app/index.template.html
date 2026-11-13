@@ -587,6 +587,7 @@ const cog = id => COG[(DATA.dict[id] || {}).cog] || ['', '', ''];
 const PUNCT = { '，': ', ', '。': '. ', '！': '! ', '？': '? ', '：': ': ', '、': ', ', '；': '; ', '「': '“', '」': '”', '『': '‘', '』': '’', '（': '(', '）': ')', '……': '… ' };
 const ICONS = {
   lessons: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21a2 2 0 0 1 2-2h13"/></svg>',
+  books: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path d="M12 6c-2-1.5-5-2-8-2v14c3 0 6 .5 8 2 2-1.5 5-2 8-2V4c-3 0-6 .5-8 2z"/><path d="M12 6v14"/></svg>',
   review: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="6" y="3" width="13" height="16" rx="2"/><path d="M3 7v12a2 2 0 0 0 2 2h10"/></svg>',
   settings: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>',
 };
@@ -603,6 +604,7 @@ function route() {
   if ((m = h.match(/^(lesson|wave)-(\d+)$/))) { const L = DATA.lessons.find(l => l.id === +m[2]); if (L) { WAVE = m[1] === 'wave'; store.set('last', L.id); return showLesson(L); } }
   if (h === 'review') return showReview();
   if (h === 'settings') return showSettings();
+  if (/^books?(-|$)/.test(h)) return Priv.show(h);
   showLessons();
 }
 function go(h) { if (location.hash === '#' + h) { route(); window.scrollTo(0, 0); } else location.hash = h; }
@@ -615,10 +617,10 @@ addEventListener('hashchange', () => {
   if (onHome && homeY) window.scrollTo(0, homeY); else window.scrollTo(0, 0);
 });
 function wireGo(root) { $$('[data-go]', root).forEach(b => b.onclick = () => go(b.dataset.go)); }
-function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave|bridge)/.test(h) ? 'lessons' : h; }
+function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave|bridge)/.test(h) ? 'lessons' : /^books?(-|$)/.test(h) ? 'books' : h; }
 function renderTabs(cur) {
   const due = dueCards().length;
-  const tabs = [['lessons', 'Lessons'], ['review', due ? `Practice · ${due}` : 'Practice'], ['settings', 'Settings']];
+  const tabs = [['lessons', 'Lessons'], ['review', due ? `Practice · ${due}` : 'Practice'], ...(Priv.on ? [['books', 'Books']] : []), ['settings', 'Settings']];
   $('#tabs').innerHTML = tabs.map(([k, t]) => `<button class="tab" data-tab="${k}" aria-current="${cur === k}">${ICONS[k]}<span>${t}</span></button>`).join('');
   $$('[data-tab]', $('#tabs')).forEach(b => b.onclick = () => { const k = b.dataset.tab; if (k === 'review') sess = null; if (k === 'lessons') resetHome = true; go(k); });
 }
@@ -1058,6 +1060,12 @@ function showSettings() {
       <span class="sub" style="font-size:.9rem">Progress is kept in this browser only. Save a copy to move it to another phone or computer.</span>
       <div class="row"><button class="btn small" id="exp">Save progress file</button><button class="btn small line" id="imp">Load progress file</button>
         <input type="file" id="imp-file" accept=".json,application/json" hidden></div></div>
+    <h2><span class="han">私人書庫</span> Private library</h2>
+    <div class="card">${Priv.token
+      ? `<span>${Priv.on ? 'This device opens your private library: the <b>Books</b> tab is on.' : 'A token is saved, but it does not open the private library (wrong token, expired, or no connection yet).'}</span>
+         <div class="row"><button class="btn small line" id="priv-check">Check again</button><button class="btn small quiet" id="priv-off">Remove the token from this device</button></div>`
+      : `<span class="sub" style="font-size:.9rem">Optional, for the owner: a GitHub token that can read the private companion repository adds a <b>Books</b> tab. The token stays in this browser.</span>
+         <form class="row" id="priv-form"><input id="priv-token" type="password" autocomplete="off" placeholder="GitHub token" aria-label="GitHub token" style="flex:1;min-width:12rem;padding:.45rem .7rem;border:1.5px solid var(--soft-line);border-radius:999px;background:var(--surface);color:var(--text);font:inherit"><button class="btn small">Save</button></form>`}</div>
     <h2><span class="han">來源</span> Sources</h2>
     <div class="card"><span class="sub" style="font-size:.9rem">Word lists and example sentences: 客家委員會 客語能力認證詞彙 (115年度 and 102年版). Dictionary: 教育部《臺灣客家語常用詞辭典》. Course text: CC BY-SA. Rare characters: Plangothic (SIL OFL). Built ${esc(DATA.built)}.</span></div>
   </div>`;
@@ -1066,6 +1074,9 @@ function showSettings() {
     if (k === 'night') prefs.night = v === 'on'; else if (k === 'spoken') prefs.spoken = v === 'on'; else if (k === 'autoplay') prefs.autoplay = v === 'on'; else prefs[k] = v;
     savePrefs(); applySkin(); showSettings();
   });
+  const pf = $('#priv-form', m); if (pf) pf.onsubmit = async e => { e.preventDefault(); const t = $('#priv-token', m).value.trim(); if (!t) return; store.set('privToken', t); const ok = await Priv.check(); toast(ok ? 'Private library opened' : 'This token does not open the private library'); showSettings(); };
+  const pc = $('#priv-check', m); if (pc) pc.onclick = async () => { const ok = await Priv.check(); toast(ok ? 'Private library opened' : 'Still closed'); showSettings(); };
+  const po = $('#priv-off', m); if (po) po.onclick = () => { store.set('privToken', ''); store.set('privOn', false); toast('Token removed from this device'); showSettings(); };
   const ins = $('#install', m); if (ins) ins.onclick = async () => { installEvt.prompt(); await installEvt.userChoice; installEvt = null; showSettings(); };
   $('#exp', m).onclick = () => {
     const blob = new Blob([JSON.stringify({ app: 'hkka', v: 1, doneAt, waveAt, deck, days: [...studyDays], prefs }, null, 1)], { type: 'application/json' });
@@ -1110,6 +1121,62 @@ async function playAll(L, a, btn) {
 let toastT = 0;
 function toast(msg) { const t = $('#toast'); t.textContent = msg; t.hidden = false; clearTimeout(toastT); toastT = setTimeout(() => t.hidden = true, 2200); }
 
+// ---------- private library. Nothing of it is in this public page: the "Books" tab appears only on a device whose
+// GitHub token (Settings) can read the owner's private repository; the reader module and its content come from there.
+const Priv = {
+  REPO: 'tbrapor-arch/Hkka-private', DIR: 'reader/', CACHE: 'hkka-private', index: null, loaded: null,
+  get token() { return store.get('privToken', ''); },
+  get on() { return !!this.token && store.get('privOn', false); },
+  // is the token allowed to read the private repository? (offline: keep the last answer)
+  async check() {
+    if (!this.token) { store.set('privOn', false); return false; }
+    try {
+      const r = await fetch(`https://api.github.com/repos/${this.REPO}`, { headers: { Accept: 'application/vnd.github+json', Authorization: 'Bearer ' + this.token }, cache: 'no-store' });
+      if (r.ok || [401, 403, 404].includes(r.status)) store.set('privOn', r.ok);
+    } catch {}
+    return this.on;
+  },
+  async raw(path) {
+    const r = await fetch(`https://api.github.com/repos/${this.REPO}/contents/${path.split('/').map(encodeURIComponent).join('/')}?ref=main`, { headers: { Accept: 'application/vnd.github.raw', Authorization: 'Bearer ' + this.token }, cache: 'no-store' });
+    if (!r.ok) throw new Error(r.status === 404 ? 'not found: ' + path : 'GitHub error ' + r.status);
+    return r;
+  },
+  // a file of the module, kept in the browser cache under its content hash (from index.json) so it works offline
+  async file(path) {
+    const sha = this.index && this.index.files && this.index.files[path];
+    const key = `https://private.invalid/${path}?${sha || 'x'}`;
+    let c = null; try { c = await caches.open(this.CACHE); } catch {}
+    const hit = c && sha && await c.match(key);
+    if (hit) return hit;
+    const r = await this.raw(this.DIR + path);
+    if (c && sha) { try { await c.put(key, r.clone()); } catch {} }
+    return r;
+  },
+  urls: {},
+  async media(path) { if (!this.urls[path]) this.urls[path] = this.file(path).then(r => r.blob()).then(b => URL.createObjectURL(b)); return this.urls[path]; },
+  async load() {
+    if (this.loaded) return this.loaded;
+    return this.loaded = (async () => {
+      let c = null; try { c = await caches.open(this.CACHE); } catch {}
+      try { const r = await this.raw(this.DIR + 'index.json'); this.index = await r.clone().json(); if (c) await c.put('https://private.invalid/index.json', r); }
+      catch (e) { const hit = c && await c.match('https://private.invalid/index.json'); if (!hit) throw e; this.index = await hit.json(); }
+      const css = document.createElement('style'); css.textContent = await (await this.file('app.css')).text(); document.head.append(css);
+      const js = await (await this.file('app.js')).text();
+      await new Promise((res, rej) => { const sc = document.createElement('script'); sc.src = URL.createObjectURL(new Blob([js], { type: 'text/javascript' })); sc.onload = res; sc.onerror = rej; document.head.append(sc); });
+      if (window.PrivModule) await window.PrivModule.init(this);
+    })().catch(e => { this.loaded = null; throw e; });
+  },
+  async show(h) {
+    renderTabs('books');
+    const here = location.hash, head = '<div class="head"><span class="eyebrow">Books</span><h1>讀書</h1></div>';
+    if (!this.on) { $('#main').innerHTML = `<div class="col">${head}<p class="sub">Not available on this device.</p></div>`; return; }
+    if (!window.PrivModule) $('#main').innerHTML = `<div class="col">${head}<p class="sub">Loading…</p></div>`;
+    try { await this.load(); if (location.hash === here) window.PrivModule.route(h); }
+    catch (e) { $('#main').innerHTML = `<div class="col">${head}<div class="card raised"><b>Could not load the private library</b><span class="sub">${esc(e.message || e)}. It needs the internet the first time; after that it works offline.</span><button class="btn small" style="align-self:start" data-go="books">Try again</button></div></div>`; wireGo($('#main')); }
+  },
+};
 applySkin();
 route();
+// the Books tab: check (quietly) whether this device's token opens the private repository
+if (Priv.token) { const was = Priv.on; Priv.check().then(on => { if (on !== was) { if (currentTab() === 'books') route(); else renderTabs(currentTab()); } }); }
 </script>

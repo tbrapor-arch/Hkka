@@ -34,6 +34,8 @@ HAKKA_PRIVATE=../Hkka-private make db   # also load the private Glossika sentenc
 `make site` adds the manifest, icons and offline service worker in `_site/`. On every push to `main`, the workflow
 `.github/workflows/pages.yml` builds it from the open sources and publishes it on GitHub Pages
 (https://tbrapor-arch.github.io/Hkka/), where it can be installed on a phone's home screen.
+An optional **Books** tab is not part of this repository: it appears only on a device whose GitHub token (Settings ›
+Private library) can read the owner's private companion repository, and loads its module and content from there.
 Lessons (Part 1 in Sixian and Hailu, 進修 in Sixian), tap-a-word cards from the lists and the MOE dictionary,
 notes, exercises, a Leitner word-card practice, progress saved in the browser. Audio comes from the public repo
 [Hkka-audio](https://github.com/tbrapor-arch/Hkka-audio): the 客委會 recordings of the list words and their examples,
