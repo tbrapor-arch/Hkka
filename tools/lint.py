@@ -25,7 +25,6 @@ Exit code 1 if any E.
 import glob
 import os
 import re
-import sqlite3
 import sys
 from collections import defaultdict
 
@@ -34,57 +33,16 @@ import yaml
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import pinyin as py  # noqa: E402
+import cards  # noqa: E402
+from cards import ACC, CJK, PARTICLES, Lexicon  # noqa: E402,F401  (shared with the app and the books reader)
 
 ROOT = os.path.dirname(HERE)
 DB = os.path.join(ROOT, "data/build/hakka.db")
-CJK = re.compile(r"[㐀-鿿豈-﫿\U00020000-\U0003ffff]")
-ACC = {"sx": "sixian", "hl": "hailu"}
 HARD = {"false-friend", "hakka-only"}
-# Particles the lists only contain inside longer entries: 啊 in 動啊着 tungˊ a doˋ / tungˋ a+ doˊ, 睞啊過 (kaga), and
-# in the MOE example sentences 嗒看啊, 試看啊, 看看啊 (VV啊 and V看啊, lesson 36).
-PARTICLES = {"sixian": {"啊": "a55", "吔": "le24"}, "hailu": {"啊": "a33"}}
-# 吔: the 115年度 lists write the sentence-final particle 吔 in Sixian (about 650 sentences, against 6 with 了) but give
-# it no reading; the course reads it as MOE's 了 leˊ (le24). Hailu writes 咧 leˋ, which the lists have as a word.
 
 
 def caps(n):
     return 6 if n <= 27 else 8 if n <= 48 else 10
-
-
-class Lexicon:
-    def __init__(self):
-        con = sqlite3.connect(DB)
-        self.words = {a: defaultdict(set) for a in ACC.values()}
-        self.inv = {a: set() for a in ACC.values()}
-        for acc in ACC.values():
-            q = ("SELECT hanzi, pkey FROM entry WHERE source IN ('kaga115','kaga') AND accent=? AND pkey != '' "
-                 "UNION SELECT e.hanzi, r.pkey FROM entry e JOIN reading r ON r.entry_id = e.id WHERE r.accent=? "
-                 "UNION SELECT v.hanzi, e.pkey FROM variant v JOIN entry e ON e.id = v.entry_id WHERE e.accent=? AND v.hanzi IS NOT NULL "
-                 "UNION SELECT e.hanzi, v.pkey FROM variant v JOIN entry e ON e.id = v.entry_id WHERE e.accent=? AND v.pkey IS NOT NULL")
-            for hz, k in con.execute(q, (acc, acc, acc, acc)):
-                if hz and k:
-                    self.words[acc][hz].add(k)
-                    stem = hz.strip("…").replace("...", "")   # a pattern entry (當在該…, 拜…): its stem is a word too
-                    if stem and stem != hz and len(stem) == len(k.split("-")):
-                        self.words[acc][stem].add(k)
-                    self.inv[acc].update(re.sub(r"\d+$", "", s) for s in k.split("-"))
-            for hz, k in PARTICLES[acc].items():   # attested only inside listed phrases, never as a headword
-                self.words[acc][hz].add(k)
-            py.set_inventory(self.inv[acc], acc)
-        self.maxlen = max(len(h) for h in self.words["sixian"])
-        self.info = {}
-        for hz, k, cog, lvl in con.execute("SELECT hanzi, pkey, cognate, level FROM entry WHERE source='kaga115' AND accent='sixian'"):
-            self.info.setdefault((hz, k), (cog, lvl))
-        self.examples = {h for (h,) in con.execute("SELECT hanzi FROM example UNION SELECT hanzi FROM sentence")}
-        # Official sentences give the southern Sixian (or other accent) variant in brackets: 買豆油轉來（歸來）. A line
-        # quoting the sentence without the brackets is still that sentence.
-        self.examples |= {re.sub(r"（[^）]*）", "", h) for h in self.examples if "（" in h}
-        # per table, for `source:` (the Sixian sentences of the official lists; MOE examples carry no accent)
-        self.pool = {t: set() for t in ("kaga115", "kaga", "moe", "sentence")}
-        for src, h in con.execute("SELECT source, hanzi FROM example WHERE source = 'moe' OR accent = 'sixian' "
-                                  "UNION SELECT 'sentence', hanzi FROM sentence"):
-            if src in self.pool and h:
-                self.pool[src].update((h, re.sub(r"（[^）]*）", "", h)))
 
 
 def load_rules():
@@ -147,45 +105,21 @@ def segment(lex, acc, hanzi, pinyin, names, known=frozenset()):
             msgs.append(("E", f"{s}: not a {acc} syllable"))
     keys = [f"{s}{v or ''}" for s, v in sylls]
     text = "".join(chars)
-    N = len(chars)
-    best = [None] * (N + 1); best[0] = (0, [])
-    for i in range(N):
-        if best[i] is None:
+    # one cut for the lint, the app and the books (tools/cards.py); Hailu: any listed word counts as known
+    path = cards.cut(lex, acc, text, keys, names, known if acc == "sixian" else None)
+    for i, L, kind, item in path:
+        if kind == "name":
             continue
-        cost0, path = best[i]
-        opts = []
-        name = next((nm for nm in sorted(names, key=len, reverse=True) if text.startswith(nm, i)), None)
-        if name:
-            opts.append((len(name), 0, None))
-        for L in range(1, min(lex.maxlen, N - i) + 1):
-            w, k = text[i:i + L], "-".join(keys[i:i + L])
-            if k in lex.words[acc].get(w, ()):
-                # taught/new word: 1; untaught word: 9 per character + 1 (a whole untaught word still beats its
-                # characters one by one, but never beats a cut into taught words)
-                opts.append((L, 1 if (w, k) in known or acc != "sixian" else 9 * L + 1, (w, k)))
-        # AABB reduplication of a listed AB word (清清楚楚, 歡歡喜喜): counts as a use of AB (lesson 95)
-        if N - i >= 4 and text[i] == text[i + 1] and text[i + 2] == text[i + 3] and keys[i] == keys[i + 1] \
-                and keys[i + 2] == keys[i + 3]:
-            w, k = text[i] + text[i + 2], f"{keys[i]}-{keys[i + 2]}"
-            if k in lex.words[acc].get(w, ()):
-                opts.append((4, 1 if (w, k) in known or acc != "sixian" else 9 * 4 + 1, (w, k)))
-        if not any(L == 1 for L, _, _ in opts):
-            opts.append((1, 100, ("?", i)))
-        for L, c, item in opts:
-            cand = (cost0 + c, path + ([item] if item else []))
-            if best[i + L] is None or cand[0] < best[i + L][0]:
-                best[i + L] = cand
-    for item in best[N][1]:
-        if item[0] == "?":
-            j = item[1]; c, k = chars[j], keys[j]
+        if kind == "char":
+            c, k = item
             found = lex.words[acc].get(c)
             if not found:
                 msgs.append(("E", f"{c} not found in the {acc} lists or the MOE dictionary"))
             else:
                 msgs.append(("W", f"{c} {k}: reading not attested alone in {acc} (lists: {', '.join(sorted(found)[:4])})"))
-            out.append((c, k))
-        else:
-            out.append(item)
+        elif item[1] not in lex.words[acc].get(item[0], ()):
+            msgs.append(("W", f"{item[0]} {item[1]}: a supplement word (course/supplement.yaml), in no list"))
+        out.append(item)
     return out, msgs
 
 

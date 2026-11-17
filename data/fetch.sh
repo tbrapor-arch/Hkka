@@ -25,3 +25,9 @@ if [ ! -d raw/plangothic/package ]; then
   (cd raw/plangothic && npm pack @free-fonts/plangothic@1.0.0 --silent >/dev/null && tar xzf free-fonts-plangothic-1.0.0.tgz)
 fi
 echo "ok  plangothic @ 1.0.0"
+# CC-CEDICT (CC BY-SA 4.0, MDBG) as JSON: pinyin and English for every Mandarin word the app shows (tools/zh_words.py).
+if [ ! -f raw/cedict/package/cedict.json ]; then
+  mkdir -p raw/cedict
+  (cd raw/cedict && npm pack cedict-json@1.3.20251213 --silent >/dev/null && tar xzf cedict-json-1.3.20251213.tgz)
+fi
+echo "ok  cedict-json @ 1.3.20251213"

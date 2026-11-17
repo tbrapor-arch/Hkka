@@ -25,6 +25,8 @@ Romanisation throughout is the Ministry of Education's 臺灣客家語拼音方�
 | Iansui, Noto Sans TC, Atkinson Hyperlegible, Nunito | Google Fonts | SIL OFL 1.1 | Loaded from Google Fonts. |
 | Word and example recordings (Hkka-audio `clips/`) | 客家委員會 Hakka Affairs Council | 政府資料開放授權條款-第1版 | Played on word cards and examples. |
 | Synthetic voice (Hkka-audio `tts/`) | generated with VoxHakka, `formospeech/yourtts-htia-240704` (United Link, National United University) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), not the course licence | Titles, dialogue lines, exercise answers, new words without a recording. |
+| CC-CEDICT (`data/raw/cedict`, npm cedict-json 1.3.20251213) | MDBG and the CC-CEDICT contributors | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Pinyin and English on the 華語 · Mandarin sheet: a tap on any Mandarin word of the app (`tools/zh_words.py`). |
+| complete-hsk-vocabulary (`data/raw/complete-hsk-vocabulary`) | drkameleon | MIT | HSK level of Mandarin cognates; the pinyin and the cut of Mandarin words. |
 | App design and code | adapted from Tsheh-tû (tbrapor-arch/tsehtu) | as this repository | |
 
 ## Private, local-only

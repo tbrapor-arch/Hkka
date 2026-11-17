@@ -21,7 +21,7 @@ make db                   # → data/build/hakka.db, data/build/sixian_core.csv
 make lookup W=今晡日       # Hakka characters, or a Mandarin gloss (今天)
 make lookup W=gimˊbuˊngidˋ # MOE pinyin, tone marks or numbers (gim24bu24ngid2); no tone = any tone
 make test                 # romanisation and sandhi tests
-make lint                 # check the lessons (both accents)
+make lint                 # check the lessons (both accents), then the readings (tools/verify_words.py)
 make coverage             # what the lessons cover, what to teach next
 make sources              # docs/sources.yaml → docs/sources.md
 sh data/fetch_gov.sh      # on your own machine: 115年度 certification tables into reference/gov/115/

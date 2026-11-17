@@ -3,14 +3,15 @@
 #                HAKKA_PRIVATE=../Hkka-private make db  also loads the private Glossika sentences (local only)
 # make lookup W=今晡日
 # make sources  render docs/sources.yaml → docs/sources.md
-# make lint      check the lessons; make coverage  what is taught, what comes next
+# make lint      check the lessons, then tools/verify_words.py (readings of new words and the supplement)
+# make verify    the reading check alone (ALL=1: every suspect); make coverage  what is taught, what comes next
 # make packet N=36  進修: the packet for lesson P36 (words, official sentences, recycle) → course/packets/P36.md
 # make app       build the reader app → app/dist/index.html (one file); make site  installable site → _site/
 PY = python3 -I
 RAW = data/raw
 OUT = data/build
 
-.PHONY: data db lookup clean test sources lint coverage app site packet
+.PHONY: data db lookup clean test sources lint verify coverage app site packet
 data:
 	sh data/fetch.sh
 
@@ -34,6 +35,10 @@ sources:
 
 lint:
 	$(PY) tools/lint.py
+	$(PY) tools/verify_words.py
+
+verify:
+	$(PY) tools/verify_words.py $(if $(ALL),--all)
 
 coverage:
 	$(PY) tools/coverage.py

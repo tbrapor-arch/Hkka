@@ -1,0 +1,10 @@
+# Words no list has (115年度, 2013 lists, MOE dictionary), with the reading and English the course gives them.
+# ONE file for the whole course: tools/cards.py loads it, so lint, the app and the books reader cut and explain these
+# words the same way. A lesson that uses one gets a lint warning (no list attests it); tools/verify_words.py checks
+# every reading here against the readings the dictionaries give each character.
+# The private books keep their own file with the same format (Hkka-private/books/supplement.yaml).
+#
+# words:    Sixian   hanzi: [pinyin with tone marks, English]
+# hailu:    Hailu    hanzi: [pinyin, English]
+words: {}
+hailu: {}

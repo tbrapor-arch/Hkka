@@ -25,13 +25,14 @@ import sqlite3
 import sys
 import unicodedata
 
-import yaml
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import pinyin as py  # noqa: E402
 import sandhi  # noqa: E402
-from lint import CJK, Lexicon  # noqa: E402
+import cards as cardlib  # noqa: E402  (cut + card, shared with lint and the books reader)
+from cards import CJK, Lexicon  # noqa: E402
+import zh_words  # noqa: E402  (Mandarin words, shared with the books reader; same rule as Tsheh-tû)
 
 ROOT = os.path.dirname(HERE)
 DIST = os.path.join(ROOT, "app/dist")
@@ -65,92 +66,44 @@ def pkey(pinyin, acc):
 
 
 # ---------- lessons (Part 1 then 進修), in course order
-part1 = sorted(glob.glob(os.path.join(ROOT, "course/lessons/[0-9]*.yaml")))
-part2 = sorted(glob.glob(os.path.join(ROOT, "course/perfectionnement/[0-9]*.yaml")))
-raw = []
-for f in part1 + part2:
-    d = yaml.safe_load(open(f, encoding="utf-8"))
-    d["_p2"] = f in part2
-    d["_lid"] = 100 + d["id"] if d["_p2"] else d["id"]
-    raw.append(d)
+raw = cardlib.load_lessons(ROOT)
 
 
 def label(d):
     return f"進修 {d['id']}" if d["_p2"] else f"Lesson {d['id']}"
 
 
-# course glosses and where each word is taught: (acc, hanzi, key) -> (English, lesson label)
-taught = {}
-for d in raw:
-    for w in d.get("new_words") or []:
-        for b, acc in ACC.items():
-            blk = w if b == "sx" else w.get("hl")
-            if not blk or not blk.get("pinyin"):
-                continue
-            k = pkey(blk["pinyin"], acc)
-            taught.setdefault((acc, blk["hanzi"], k), (w.get("en") or "", label(d), d["_lid"]))
+# course glosses and where each word is taught: (acc, hanzi, key) -> (English, lesson label, lesson id)
+taught = cardlib.taught_words(raw)
 
-# ---------- word cards
-cards = {}
+# ---------- word cards (tools/cards.py), plus the audio only the app has
+C = cardlib.Cards(lex, con, taught)
+cards = C.cards
 TTS_WORDS = {}
 for v in TTS.values():
     if v.get("kind") == "word" and v.get("file"):
         acc = v["file"].split("/")[0]
         TTS_WORDS.setdefault((acc, v["hanzi"], pkey(v["pinyin"], acc)), v["file"])
+AUDIO_DONE = set()
 
 
 def card(acc, h, k, shown):
-    cid = f"{acc}|{h}|{k}"
-    if cid in cards:
+    cid = C.card(acc, h, k, shown)
+    if cid in AUDIO_DONE:
         return cid
-    c = {"h": h, "p": shown, "a": acc}
-    row = con.execute("SELECT id, source, pinyin, level, mandarin, english, category, cognate, src_id FROM entry "
-                      "WHERE hanzi=? AND pkey=? AND accent=? AND source IN ('kaga115','kaga') "
-                      "ORDER BY source='kaga115' DESC LIMIT 1", (h, k, acc)).fetchone()
-    eid = None
-    if row:
-        eid, src, p, lvl, mand, en, cat, cog, sid = row
-        clip = CLIPS.get(f"{acc}|{sid}") if src == "kaga115" else None
-        if clip:
-            for kk, fld in (("w", "clip"), ("x", "exclip")):
-                f = clip.get(kk) and take("clips/" + clip[kk])
-                if f:
-                    c[fld] = f
-        c.update(src=src, p=p or shown)
-        if lvl:
-            c["lvl"] = lvl
-        if mand:
-            c["m"] = mand
-        if en:
-            c["en"] = en
-        if cat:
-            c["cat"] = cat
-        if cog:
-            c["cog"] = cog
-    else:
-        r = con.execute("SELECT e.id, r.pinyin, e.mandarin FROM entry e JOIN reading r ON r.entry_id=e.id "
-                        "WHERE e.source='moe' AND e.hanzi=? AND r.accent=? AND r.pkey=? LIMIT 1", (h, acc, k)).fetchone()
-        if r:
-            eid, p, mand = r
-            c.update(src="moe", p=p or shown)
-            if mand:
-                c["m"] = mand
-            defs = [s for (s,) in con.execute("SELECT definition_zh FROM sense WHERE entry_id=? ORDER BY ord", (eid,)) if s]
-            if defs:
-                c["def"] = defs[:4]
-    t = taught.get((acc, h, k))
-    if t:
-        c["g"], c["at"], c["atid"] = t
-    if eid:
-        ex = con.execute("SELECT hanzi, pinyin, mandarin, english FROM example WHERE entry_id=? AND hanzi!='' "
-                         "ORDER BY (accent=?) DESC, id LIMIT 1", (eid, acc)).fetchone()
-        if ex:
-            c["ex"] = {k2: v for k2, v in zip(("h", "p", "m", "en"), ex) if v}
+    AUDIO_DONE.add(cid)
+    c = cards[cid]
+    src, sid = C.meta[cid]
+    clip = CLIPS.get(f"{acc}|{sid}") if src == "kaga115" else None
+    if clip:
+        for kk, fld in (("w", "clip"), ("x", "exclip")):
+            f = clip.get(kk) and take("clips/" + clip[kk])
+            if f:
+                c[fld] = f
     if not c.get("clip") and (acc, h, k) in TTS_WORDS:      # no recording: the synthetic voice of the new word
         f = take("tts/" + TTS_WORDS[(acc, h, k)])
         if f:
             c["clip"], c["synth"] = f, 1
-    cards[cid] = c
     return cid
 
 
@@ -211,28 +164,8 @@ def tokens(hanzi, pinyin, acc, names, known, groups=None):
         if not run:
             return
         text = "".join(chars[i] for i in run)
-        N = len(run)
-        best = [None] * (N + 1)
-        best[0] = (0, [])
-        for i in range(N):
-            if best[i] is None:
-                continue
-            c0, path = best[i]
-            opts = []
-            nm = next((n for n in sorted(names, key=len, reverse=True) if text.startswith(n, i)), None)
-            if nm:
-                opts.append((len(nm), 0, "name"))
-            for L in range(1, min(lex.maxlen, N - i) + 1):
-                w, k = text[i:i + L], "-".join(keys[run[i]:run[i] + L])
-                if k in lex.words[acc].get(w, ()):
-                    opts.append((L, 1 if (w, k) in known else 9 * L + 1, "word"))
-            if not any(L == 1 for L, _, _ in opts):
-                opts.append((1, 100, "char"))
-            for L, c, kind in opts:
-                cand = (c0 + c, path + [(i, L, kind)])
-                if best[i + L] is None or cand[0] < best[i + L][0]:
-                    best[i + L] = cand
-        for i, L, kind in best[N][1]:
+        path = cardlib.cut(lex, acc, text, [keys[j] for j in run], names, known if acc == "sixian" else None)
+        for i, L, kind, item in path:
             idx = run[i:i + L]
             h = "".join(chars[j] for j in idx)
             p = " ".join(shown[j] for j in idx)
@@ -240,8 +173,9 @@ def tokens(hanzi, pinyin, acc, names, known, groups=None):
             sv = "-".join(svals[j] for j in idx)
             if sv != w["v"]:
                 w["s"] = sv
-            if kind == "word":
-                w["id"] = card(acc, h, "-".join(keys[j] for j in idx), p)
+            if kind == "word":    # item: the word of the lexicon (for AABB 清清楚楚, the listed AB word 清楚)
+                ws = p if len(item[0]) == L else f"{shown[idx[0]]} {shown[idx[2]]}"
+                w["id"] = card(acc, item[0], item[1], ws)
             out.append({"w": w})
         run.clear()
 
@@ -412,9 +346,30 @@ def rom_font_css():
 
 
 data = {"lessons": lessons, "dict": cards, "lesson0": lesson0, "bridge": bridge, "built": datetime.date.today().isoformat()}
+# ---- Mandarin (華語) words: every Mandarin text the app shows is tappable (zhLine() in the template). One shared table
+# of the words used, {word: 'pinyin<TAB>English' lines} (tools/zh_words.py); the browser cuts each text again with the
+# same rule. Texts: the cards' Mandarin gloss, MOE definitions and example translations, and the Han text right after
+# "Mandarin " / 華語 in notes (fmt() in the template).
+zh_texts = [c[f] for c in cards.values() for f in ("m",) if c.get(f)]
+zh_texts += [d for c in cards.values() for d in c.get("def") or []]
+zh_texts += [c["ex"]["m"] for c in cards.values() if c.get("ex") and c["ex"].get("m")]
+zh_texts += re.findall(r"(?:Mandarin |華語)([㐀-鿿豈-﫿\U00020000-\U0003ffff]+)",
+                       json.dumps([n for L in lessons for n in L["notes"]], ensure_ascii=False))
+zh_texts = list(dict.fromkeys(t for t in zh_texts if t))
+if zh_words.available():
+    _zl = zh_words.Lexicon()
+    for t in zh_texts:
+        _zl.add(t)
+    data["zh"] = _zl.table()
+    _zbad = zh_words.check(zh_texts, data["zh"])
+    print(f"Mandarin words: {len(data['zh'])} in the shared table ({len(json.dumps(data['zh'], ensure_ascii=False).encode()) // 1024} KB) "
+          f"for {len(zh_texts)} texts; {_zbad} cut differently by the browser's rule")
+    if _zbad:
+        raise SystemExit("zh_words: the browser would cut some Mandarin texts differently (see above)")
 payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
 tpl = open(os.path.join(ROOT, "app/index.template.html"), encoding="utf-8").read()
-tpl = tpl.replace("/*__FONTS__*/", rom_font_css() + "\n" + ext_font_css(payload))
+# glyphs: the app's texts; the CC-CEDICT senses of the Mandarin table ("variant of 𠀋") are left out (12 more font chunks)
+tpl = tpl.replace("/*__FONTS__*/", rom_font_css() + "\n" + ext_font_css(json.dumps({k: v for k, v in data.items() if k != "zh"}, ensure_ascii=False)))
 os.makedirs(DIST, exist_ok=True)
 out = os.path.join(DIST, "index.html")
 html = tpl.replace("/*__DATA__*/null", payload.replace("<", "\\u003c"))
