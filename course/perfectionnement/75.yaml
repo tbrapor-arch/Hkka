@@ -120,7 +120,7 @@ dialogue:
     check: true
   - n: 28
     en: "A-gui was scared to death and kept shouting for help."
-    sx: {hanzi: "阿貴驚到會死，緊喊救命。", pinyin: "aˊ gui giangˊ do voi xiˋ, ginˋ ham giu miang."}
+    sx: {hanzi: "阿貴驚到會死，緊喊救命。", pinyin: "aˊ gui giangˊ do voi xiˋ, ginˋ hemˊ giu miang."}
     check: true
   - n: 29
     en: "Someone heard and pulled him out, and at once he fainted."
@@ -128,7 +128,7 @@ dialogue:
     check: true
   - n: 30
     en: "At dawn A-gui came to, but his eyes could not see: he had gone blind."
-    sx: {hanzi: "天光个時節，阿貴醒過來，目珠看毋著東西：佢青瞑哩。", pinyin: "tienˊ gongˊ ge siiˇ jiedˋ, aˊ gui xiangˋ go loiˇ, mugˋ zuˊ kon mˇ doˋ dungˊ xiˊ: giˇ qiangˊ miangˊ leˊ."}
+    sx: {hanzi: "天光个時節，阿貴醒過來，目珠看毋著東西：佢青瞑吔。", pinyin: "tienˊ gongˊ ge siiˇ jiedˋ, aˊ gui xiangˋ go loiˇ, mugˋ zuˊ kon mˇ doˋ dungˊ xiˊ: giˇ qiangˊ miangˊ leˊ."}
     check: true
   - n: 31
     en: "The blind have the sharper ears."

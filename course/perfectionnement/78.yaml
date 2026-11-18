@@ -40,7 +40,7 @@ dialogue:
     check: true
   - n: 8
     en: "Then Grandma taught me to fry fish. I turned the heat up too high, and she said:"
-    sx: {hanzi: "轉來，阿婆教𠊎煎魚。𠊎火開忒大，阿婆講：", pinyin: "zonˋ loiˇ, aˊ poˇ gauˊ ngaiˇ jienˊ ngˇ. ngaiˇ foˋ koiˊ tedˋ tai, aˊ poˇ gongˋ:"}
+    sx: {hanzi: "續下來，阿婆教𠊎煎魚。𠊎火開忒大，阿婆講：", pinyin: "sa haˊ loiˇ, aˊ poˇ gauˊ ngaiˇ jienˊ ngˇ. ngaiˇ foˋ koiˊ tedˋ tai, aˊ poˇ gongˋ:"}
     check: true
   - n: 9
     en: "Your fire's too fierce! You've burnt the fish."
@@ -61,7 +61,7 @@ dialogue:
     sx: {hanzi: "湯正煮啊好，燒熝熝仔，等一下正食。", pinyin: "tongˊ zang zuˋ a hoˋ, seuˊ lug lug eˋ, denˋ idˋ ha zang siid."}
   - n: 13
     en: "A-min came in from outside, smelt the soup and said how good it smelt. Grandma laughed:"
-    sx: {hanzi: "阿明對外背轉來，鼻著湯个味，就講好香。阿婆笑講：", pinyin: "aˊ minˇ dui ngoi boi zonˋ loiˇ, pi doˋ tongˊ ge mi, qiu gongˋ hoˋ hiongˊ. aˊ poˇ seu gongˋ:"}
+    sx: {hanzi: "阿明對外背轉來，鼻著湯个味，就講當香。阿婆笑講：", pinyin: "aˊ minˇ dui ngoi boi zonˋ loiˇ, pi doˋ tongˊ ge mi, qiu gongˋ dongˊ hiongˊ. aˊ poˇ seu gongˋ:"}
     check: true
   - n: 14
     en: "Big eyes are good for seeing, a big nose is good for smelling."
@@ -125,11 +125,11 @@ dialogue:
     sx: {hanzi: "電線頂高企等一隻阿啾箭。", pinyin: "tien xien dangˋ goˊ kiˊ denˋ idˋ zagˋ aˊ jiuˊ jien."}
   - n: 29
     en: "In the evening 叔婆 came to my room to see me. She lives alone and is lonely, and loves to have visitors."
-    sx: {hanzi: "暗晡叔婆來𠊎个間房尋𠊎。佢一個人歇，孤栖孤栖，盡好人去看佢。", pinyin: "am buˊ sugˋ poˇ loiˇ ngaiˇ ge gienˊ fongˇ qimˇ ngaiˇ. giˇ idˋ ge nginˇ hed, guˊ xiˊ guˊ xiˊ, qin hau nginˇ hi kon giˇ."}
+    sx: {hanzi: "暗晡叔婆來吾間房尋𠊎。佢一個人歇，孤栖孤栖，盡好人去看佢。", pinyin: "am buˊ sugˋ poˇ loiˇ ngaˊ gienˊ fongˇ qimˇ ngaiˇ. giˇ idˋ ge nginˇ hed, guˊ xiˊ guˊ xiˊ, qin hau nginˇ hi kon giˇ."}
     check: true
   - n: 30
     en: "In my room the table was thick with dust and things lay all over the place. 叔婆 laughed:"
-    sx: {hanzi: "𠊎个間房桌項塵灰了了，東西四四散散。叔婆笑講：", pinyin: "ngaiˇ ge gienˊ fongˇ zogˋ hong ciinˇ foiˊ liauˋ liauˋ, dungˊ xiˊ xi xi san san. sugˋ poˇ seu gongˋ:"}
+    sx: {hanzi: "吾間房桌項塵灰了了，東西四四散散。叔婆笑講：", pinyin: "ngaˊ gienˊ fongˇ zogˋ hong ciinˇ foiˊ liauˋ liauˋ, dungˊ xiˊ xi xi san san. sugˋ poˇ seu gongˋ:"}
     check: true
   - n: 31
     en: "What are you looking for? How did you get the whole room into such a mess?"

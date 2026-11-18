@@ -79,7 +79,7 @@ dialogue:
     abridged: true
   - n: 17
     en: "Thursday 13 June. Grandpa woke me terribly early. The rice in the next field has been cut, and the harvest is good this year. Grandpa and I went into the field to tie the straw."
-    sx: {hanzi: "六月十三號，禮拜四。阿公七早八早就喊𠊎䟘床。隔壁个田割禾哩，今年个收成當好。阿公摎𠊎去田項紮禾稈。", pinyin: "liugˋ ngied siib samˊ ho, liˊ bai xi. aˊ gungˊ qidˋ zoˋ badˋ zoˋ qiu ham ngaiˇ hong congˇ. gagˋ biagˋ ge tienˇ godˋ voˇ leˊ, gimˊ ngienˇ ge suˊ siinˇ dongˊ hoˋ. aˊ gungˊ lauˊ ngaiˇ hi tienˇ hong zadˋ voˇ gonˋ."}
+    sx: {hanzi: "六月十三號，禮拜四。阿公七早八早就喊𠊎䟘床。隔壁个田割禾吔，今年个收成當好。阿公摎𠊎去田項紮禾稈。", pinyin: "liugˋ ngied siib samˊ ho, liˊ bai xi. aˊ gungˊ qidˋ zoˋ badˋ zoˋ qiu ham ngaiˇ hong congˇ. gagˋ biagˋ ge tienˇ godˋ voˇ leˊ, gimˊ ngienˇ ge suˊ siinˇ dongˊ hoˋ. aˊ gungˊ lauˊ ngaiˇ hi tienˇ hong zadˋ voˇ gonˋ."}
     check: true
   - n: 18
     en: "Grandpa said that in the old days a man would come to the village just to castrate the cockerels."
@@ -308,6 +308,8 @@ exercises:
     - en: "Staying up too often causes problems."
       sx: {hanzi: "噩夜忒多會產生問題。", pinyin: "ngog ia tedˋ doˊ voi sanˋ senˊ mun tiˇ."}
     - en: "Mum gets up terribly early every day to exercise."
+      source: kaga
+      abridged: true
       sx: {hanzi: "阿姆逐日七早八早就䟘起來運動。", pinyin: "aˊ meˊ dagˋ ngidˋ qidˋ zoˋ badˋ zoˋ qiu hong hiˋ loiˇ iun tung."}
     - en: "Grandma ties the straw."
       sx: {hanzi: "阿婆紮禾稈。", pinyin: "aˊ poˇ zadˋ voˇ gonˋ."}

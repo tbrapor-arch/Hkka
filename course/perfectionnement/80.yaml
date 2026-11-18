@@ -131,7 +131,7 @@ dialogue:
     sx: {hanzi: "倈仔講：「阿爸，人講麼个，你見擺都聽。」", pinyin: "lai eˋ gongˋ: aˊ baˊ, nginˇ gongˋ maˋ ge, nˇ gien baiˋ du tangˊ."}
     check: true
   - n: 31
-    en: "People today are the same: they hear what others say every day, and keep changing."
+    en: "People today are the same: they hear what others say every day, and every so often they change."
     sx: {hanzi: "這下个人乜係恁樣，日日聽人講，三不二時就改變。", pinyin: "iaˋ ha ge nginˇ me he anˋ ngiongˇ, ngidˋ ngidˋ tangˊ nginˇ gongˋ, samˊ budˋ ngi siiˇ qiu goiˋ bien."}
     check: true
   - n: 32

@@ -44,7 +44,7 @@ dialogue:
     sx: {hanzi: "頭下還看佢在這，一轉首就無看著人。", pinyin: "teuˇ ha hanˇ kon giˇ coiˊ iaˋ, idˋ zonˋ suˋ qiu moˇ kon doˋ nginˇ."}
   - n: 9
     en: "She searched and called, her heart tight in her chest, frantic with worry."
-    sx: {hanzi: "阿姆緊尋緊喊，心肝頭拶拶，又心焦又愁勞博激。", pinyin: "aˊ meˊ ginˋ qimˇ ginˋ ham, ximˊ gonˊ teuˇ zad zad, iu ximˊ zeuˊ iu seuˇ loˇ bogˋ gidˋ."}
+    sx: {hanzi: "阿姆緊尋緊喊，心肝頭拶拶，又心焦又愁勞博激。", pinyin: "aˊ meˊ ginˋ qimˇ ginˋ hemˊ, ximˊ gonˊ teuˇ zad zad, iu ximˊ zeuˊ iu seuˇ loˇ bogˋ gidˋ."}
     check: true
   - n: 10
     en: "Meanwhile, an old man selling rice cakes said:"
@@ -56,7 +56,7 @@ dialogue:
     sx: {hanzi: "該細人仔毋知做麼个，噭到抽胲另命，過去試看啊哩。", pinyin: "ge se nginˇ eˋ mˇ diˊ zo maˋ ge, gieu do cuˊ goiˊ nang miang, go hi cii kon a leˊ."}
   - n: 12
     en: "The old man asked A-hu his name; A-hu, his eyes full of tears, shook his head and said nothing."
-    sx: {hanzi: "阿伯問阿湖喊麼个名，阿湖目汁含等，拂頭毋講。", pinyin: "aˊ bagˋ mun aˊ fuˇ ham maˋ ge miangˇ, aˊ fuˇ mugˋ ziibˋ hamˇ denˋ, fin teuˇ mˇ gongˋ."}
+    sx: {hanzi: "阿伯問阿湖安到麼个名，阿湖目汁含等，拂頭毋講。", pinyin: "aˊ bagˋ mun aˊ fuˇ onˊ do maˋ ge miangˇ, aˊ fuˇ mugˋ ziibˋ hamˇ denˋ, fin teuˇ mˇ gongˋ."}
     check: true
   - n: 13
     en: "When he asked if he had lost his mother, A-hu nodded at last."

@@ -83,9 +83,9 @@ dialogue:
     sx: {hanzi: "頭一隻月，生理做毋成。阿舅笑講：", pinyin: "teuˇ idˋ zagˋ ngied, senˊ liˊ zo mˇ sangˇ. aˊ kiuˊ seu gongˋ:"}
     check: true
   - n: 19
-    en: "Last year nothing he did came off; this year his luck has turned, and everything goes well."
+    en: "You good-for-nothing: what great career are you after?"
     source: kaga115
-    sx: {hanzi: "佢舊年做麼个都毋成，今年交運，做麼个都順序。", pinyin: "giˇ kiu ngienˇ zo maˋ ge du mˇ sangˇ, gimˊ ngienˇ gauˊ iun, zo maˋ ge du sun xi."}
+    sx: {hanzi: "你這毋成腳士，愛做麼个大頭路？", pinyin: "nˇ iaˋ mˇ sangˇ giogˋ sii, oi zo maˋ ge tai teuˇ lu?"}
   - n: 20
     en: "Every month I still go back to Zhudong to make noodles at the factory, because:"
     sx: {hanzi: "𠊎逐隻月還係轉竹東，在工廠做粄條，因為：", pinyin: "ngaiˇ dagˋ zagˋ ngied hanˇ he zonˋ zugˋ dungˊ, coiˊ gungˊ congˋ zo banˋ tiauˇ, inˊ vi:"}
@@ -148,7 +148,7 @@ dialogue:
     sx: {hanzi: "事情係交代分佢，絕對會從頭到尾落力做到好。", pinyin: "sii qinˇ he gauˊ toi bunˊ giˇ, qied dui voi qiungˇ teuˇ do miˊ log lid zo do hoˋ."}
   - n: 35
     en: "And Uncle is the key figure of this shop. Without him I'd be in trouble."
-    sx: {hanzi: "還有阿舅，佢係這間店个大腳士。阿舅毋在，𠊎就麻煩哩。", pinyin: "hanˇ iuˊ aˊ kiuˊ, giˇ he iaˋ gienˊ diam ge tai giogˋ sii. aˊ kiuˊ mˇ coiˊ, ngaiˇ qiu maˇ fanˇ leˊ."}
+    sx: {hanzi: "還有阿舅，佢係這間店个大腳士。阿舅毋在，𠊎就麻煩吔。", pinyin: "hanˇ iuˊ aˊ kiuˊ, giˇ he iaˋ gienˊ diam ge tai giogˋ sii. aˊ kiuˊ mˇ coiˊ, ngaiˇ qiu maˇ fanˇ leˊ."}
     check: true
   - n: 36
     en: "They say every trade has its hardships. But I believe:"
@@ -209,7 +209,7 @@ notes:
   - ref: 18
     topic: vocab
     text: >
-      毋成 mˇ sangˇ "come to nothing; not up to much" (official: 你這毋成腳士，愛做麼个大頭路？).
+      毋成 mˇ sangˇ "come to nothing; not up to much": 阿舅's teasing in line 19 is official (毋成腳士 "a useless fellow").
   - ref: 21
     topic: vocab
     text: >
@@ -311,6 +311,8 @@ exercises:
       source: kaga115
       sx: {hanzi: "你這無愛，該也無愛，算來想愛仰仔？", pinyin: "nˇ iaˋ moˇ oi, ge ia moˇ oi, son loiˇ xiongˋ oi ngiongˋ eˋ?"}
     - en: "You go first: I'll follow behind."
+      source: kaga115
+      abridged: true
       sx: {hanzi: "你先行，𠊎後背跈等來。", pinyin: "nˇ xienˊ hangˇ, ngaiˇ heu boi tenˇ denˋ loiˇ."}
   fill:
     - en: "This shirt is nothing special, and they want two thousand dollars for it."

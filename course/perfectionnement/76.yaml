@@ -147,8 +147,8 @@ dialogue:
     source: kaga115
     sx: {hanzi: "溼氣重，樹仔當遽歿忒。", pinyin: "siibˋ hi cungˊ, su eˋ dongˊ giagˋ mudˋ tedˋ."}
   - n: 35
-    en: "Last item: yesterday afternoon, when the rain stopped, someone saw:"
-    sx: {hanzi: "最後一條新聞：昨晡日下晝，雨停个時節，有人看著：", pinyin: "zui heu idˋ tiauˇ xinˊ vunˇ: coˊ buˊ ngidˋ haˊ zu, iˋ tinˇ ge siiˇ jiedˋ, iuˊ nginˇ kon doˋ:"}
+    en: "Last item: this morning, when the rain stopped, someone saw:"
+    sx: {hanzi: "最後一條新聞：今晡日朝晨，雨停个時節，有人看著：", pinyin: "zui heu idˋ tiauˇ xinˊ vunˇ: gimˊ buˊ ngidˋ zeuˊ siinˇ, iˋ tinˇ ge siiˇ jiedˋ, iuˊ nginˇ kon doˋ:"}
     check: true
   - n: 36
     en: "Children playing in the mud, covered in it from head to toe."
@@ -197,7 +197,7 @@ notes:
   - ref: 13
     topic: vocab
     text: >
-      上下 songˊ haˊ "about, or so" after an amount (MOE: 這尾魚仔差毋多有兩斤上下); also "pass by" (official: 有上下愛入來坐 "drop in
+      上下 songˊ haˊ "about, or so" after an amount (kaga115, whose gloss has 左右: 這尾石斑仔，差毋多有兩斤上下); also "pass by" (official: 有上下愛入來坐 "drop in
       when you pass"). 高加兩公尺 "two metres higher": adjective + 加 + amount.
   - ref: 14
     topic: vocab
