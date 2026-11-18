@@ -137,3 +137,6 @@ style of 採茶戲, not a sung one.
 - 外篇 8 (id 178, extra, letter), Sun 18 Aug 2030: Sam writes to 鍾伯 and 鍾伯姆. For two weeks Grandma has taught
   him Hakka cooking (fried fish, burnt; pork soup); Grandpa reads with a magnifying glass, has a stiff neck, polishes
   his old car. 叔婆 visits Sam's messy room and sees Lucie's photo. He invites the Zhongs for the tung blossom in April.
+- 外篇 9 (id 179, extra, speech), Sat 7 Sep 2030, Taipei: 阿傑's speech at a dinner for half a year of his shop. He
+  opened it in partnership with a friend; he and his wife live in a ready-built house nearby; he still goes back to
+  竹東 every month to make noodles; an old man eats there every day; he is learning a little French.
