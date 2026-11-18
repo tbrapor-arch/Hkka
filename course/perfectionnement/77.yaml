@@ -1,0 +1,352 @@
+id: 77
+genre: story
+title:
+  en: "Parents' love for a child is like the Yangtze"
+  sx: {hanzi: "爺娘惜子長江水", pinyin: "iaˇ ngiongˇ xiagˋ ziiˋ congˇ gongˊ suiˋ"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. A short story invented for the course: a small boy is lost at a village fair, is
+  found, and his parents quarrel and make it up. No character of the course.
+names: [阿湖]
+
+dialogue:
+  - n: 1
+    en: "A-hu is six this year. He is an only son, his parents' darling."
+    sx: {hanzi: "阿湖今年六歲，係單丁子，係爺哀个心肝仔。", pinyin: "aˊ fuˇ gimˊ ngienˇ liugˋ se, he danˊ denˊ ziiˋ, he iaˇ oiˊ ge ximˊ gonˊ eˋ."}
+    check: true
+  - n: 2
+    en: "A-hu is very shy: when he sees people he hangs his head and dares not look at them."
+    source: kaga115
+    sx: {hanzi: "阿湖盡驚見笑，看著人就頭犁犁仔，毋敢看人。", pinyin: "aˊ fuˇ qin giangˊ gien seu, kon doˋ nginˇ qiu teuˇ laiˇ laiˇ eˋ, mˇ gamˋ kon nginˇ."}
+  - n: 3
+    en: "But at home he is not so shy. Sometimes his father says to him:"
+    sx: {hanzi: "毋過在屋下，佢就無恁驚見笑。阿爸成下仔會講佢：", pinyin: "mˇ go coiˊ vugˋ kaˊ, giˇ qiu moˇ anˋ giangˊ gien seu. aˊ baˊ sangˇ ha eˋ voi gongˋ giˇ:"}
+    check: true
+  - n: 4
+    en: "So big now, and still so babyish: for shame."
+    source: kaga115
+    sx: {hanzi: "恁大人吔，還嬌尸撥撥，還見笑。", pinyin: "anˋ tai nginˇ leˊ, hanˇ gieuˊ siiˊ bad bad, hanˇ gien seu."}
+  - n: 5
+    en: "One day there was a fair in the village, and his mother took him round the streets."
+    sx: {hanzi: "有一日，莊頭迎鬧熱，阿姆帶佢去逛街。", pinyin: "iuˊ idˋ ngidˋ, zongˊ teuˇ ngiangˇ nau ngied, aˊ meˊ dai giˇ hi ongˇ gieˊ."}
+    check: true
+  - n: 6
+    en: "On Saturday evenings especially many people come out to stroll in the streets."
+    source: kaga115
+    sx: {hanzi: "拜六暗晡出來逛街个人特別多。", pinyin: "bai liugˋ am buˊ cudˋ loiˇ ongˇ gieˊ ge nginˇ tid pied doˊ."}
+  - n: 7
+    en: "His mother was buying something at a stall. She stepped away only for a moment, turned her head, and A-hu was gone."
+    sx: {hanzi: "阿姆在攤仔買東西，行開一下仔定定，斡頭，阿湖就無看著人吔。", pinyin: "aˊ meˊ coiˊ tanˊ eˋ maiˊ dungˊ xiˊ, hangˇ koiˊ idˋ ha eˋ tin tin, vadˋ teuˇ, aˊ fuˇ qiu moˇ kon doˋ nginˇ leˊ."}
+    check: true
+  - n: 8
+    en: "A moment ago he was here; turn your head, and he's gone."
+    source: kaga115
+    sx: {hanzi: "頭下還看佢在這，一轉首就無看著人。", pinyin: "teuˇ ha hanˇ kon giˇ coiˊ iaˋ, idˋ zonˋ suˋ qiu moˇ kon doˋ nginˇ."}
+  - n: 9
+    en: "She searched and called, her heart tight in her chest, frantic with worry."
+    sx: {hanzi: "阿姆緊尋緊喊，心肝頭拶拶，又心焦又愁勞博激。", pinyin: "aˊ meˊ ginˋ qimˇ ginˋ ham, ximˊ gonˊ teuˇ zad zad, iu ximˊ zeuˊ iu seuˇ loˇ bogˋ gidˋ."}
+    check: true
+  - n: 10
+    en: "Meanwhile, an old man selling rice cakes said:"
+    sx: {hanzi: "該時節，有一個賣粄个阿伯講：", pinyin: "ge siiˇ jiedˋ, iuˊ idˋ ge mai banˋ ge aˊ bagˋ gongˋ:"}
+    check: true
+  - n: 11
+    en: "That child is crying his heart out, who knows why: let's go and see."
+    source: kaga
+    sx: {hanzi: "該細人仔毋知做麼个，噭到抽胲另命，過去試看啊哩。", pinyin: "ge se nginˇ eˋ mˇ diˊ zo maˋ ge, gieu do cuˊ goiˊ nang miang, go hi cii kon a leˊ."}
+  - n: 12
+    en: "The old man asked A-hu his name; A-hu, his eyes full of tears, shook his head and said nothing."
+    sx: {hanzi: "阿伯問阿湖喊麼个名，阿湖目汁含等，拂頭毋講。", pinyin: "aˊ bagˋ mun aˊ fuˇ ham maˋ ge miangˇ, aˊ fuˇ mugˋ ziibˋ hamˇ denˋ, fin teuˇ mˇ gongˋ."}
+    check: true
+  - n: 13
+    en: "When he asked if he had lost his mother, A-hu nodded at last."
+    sx: {hanzi: "阿伯問佢係毋係尋毋著阿姆，佢正頷頭。", pinyin: "aˊ bagˋ mun giˇ he mˇ he qimˇ mˇ doˋ aˊ meˊ, giˇ zang ngamˋ teuˇ."}
+    check: true
+  - n: 14
+    en: "The old man gave him a sweet; with the sweet in his mouth, A-hu stopped crying."
+    sx: {hanzi: "阿伯分佢一粒糖仔，阿湖含等糖仔，正毋噭吔。", pinyin: "aˊ bagˋ bunˊ giˇ idˋ liab tongˇ eˋ, aˊ fuˇ hamˇ denˋ tongˇ eˋ, zang mˇ gieu leˊ."}
+    check: true
+  - n: 15
+    en: "The young man from the next stall came over."
+    sx: {hanzi: "隔壁攤仔个後生人行過來。", pinyin: "gagˋ biagˋ tanˊ eˋ ge heu sangˊ nginˇ hangˇ go loiˇ."}
+    check: true
+  - n: 16
+    en: "He looks fierce and glares at everyone, but he is a very good man."
+    source: kaga115
+    sx: {hanzi: "佢生來異惡相，見看人就眼鬥鬥仔，毋過佢人盡好。", pinyin: "giˇ sangˊ loiˇ i ogˋ xiongˊ, gien kon nginˇ qiu ngienˋ deu deu eˋ, mˇ go giˇ nginˇ qin hoˋ."}
+  - n: 17
+    en: "He went into the temple and had a message broadcast."
+    sx: {hanzi: "佢去廟肚，喊人廣播。", pinyin: "giˇ hi meu duˋ, ham nginˇ gongˋ boˊ."}
+    check: true
+  - n: 18
+    en: "When his mother heard the broadcast she ran, red in the face, out of breath."
+    sx: {hanzi: "阿姆聽著廣播，走到面紅濟炸，敨氣毋順。", pinyin: "aˊ meˊ tangˊ doˋ gongˋ boˊ, zeuˋ do mien fungˇ ji za, teuˋ hi mˇ sun."}
+    check: true
+  - n: 19
+    en: "As soon as she saw A-hu she hugged him and cried, tears streaming down her face."
+    sx: {hanzi: "佢一看著阿湖，就揇等佢，噭到目汁濫泔。", pinyin: "giˇ idˋ kon doˋ aˊ fuˇ, qiu namˋ denˋ giˇ, gieu do mugˋ ziibˋ lamˇ gamˊ."}
+    check: true
+  - n: 20
+    en: "She cried with tears streaming down her face: it wrung your heart to see."
+    source: kaga115
+    sx: {hanzi: "佢噭到目汁濫泔，看著斯異毋盼得。", pinyin: "giˇ gieu do mugˋ ziibˋ lamˇ gamˊ, kon doˋ siiˇ i mˇ pan dedˋ."}
+  - n: 21
+    en: "His mother nodded to the old man and the young man and thanked them. The young man smiled broadly and said it was nothing."
+    sx: {hanzi: "阿姆同阿伯同該後生人頷頭，講多謝。後生人笑弛弛仔，講毋使細義。", pinyin: "aˊ meˊ tungˇ aˊ bagˋ tungˇ ge heu sangˊ nginˇ ngamˋ teuˇ, gongˋ doˊ qia. heu sangˊ nginˇ seu ieˊ ieˊ eˋ, gongˋ mˇ siiˋ se ngi."}
+    check: true
+  - n: 22
+    en: "Back home, when his father heard about it, he was furious."
+    sx: {hanzi: "轉到屋下，阿爸聽講這件事，火氣當大。", pinyin: "zonˋ do vugˋ kaˊ, aˊ baˊ tangˊ gongˋ iaˋ kien sii, foˋ hi dongˊ tai."}
+    check: true
+  - n: 23
+    en: "He said she had been careless, and the more he spoke, the louder he got, in a rage."
+    sx: {hanzi: "佢講阿姆無細義，緊講緊大聲，砰砰滾。", pinyin: "giˇ gongˋ aˊ meˊ moˇ se ngi, ginˋ gongˋ ginˋ tai sangˊ, bang bang gunˋ."}
+    check: true
+  - n: 24
+    en: "His father spoke to her, but his mother kept a stony face and would not answer."
+    sx: {hanzi: "阿爸同阿姆講話，阿姆面逼逼，無愛搭佢。", pinyin: "aˊ baˊ tungˇ aˊ meˊ gongˋ fa, aˊ meˊ mien bedˋ bedˋ, moˇ oi dabˋ giˇ."}
+    check: true
+  - n: 25
+    en: "His father asked her to bring the tea, but she looked the other way. His father said:"
+    sx: {hanzi: "阿爸喊佢拿茶來，佢嗄目珠看等別位。阿爸講：", pinyin: "aˊ baˊ ham giˇ naˊ caˇ loiˇ, giˇ sa mugˋ zuˊ kon denˋ ped vi. aˊ baˊ gongˋ:"}
+    check: true
+  - n: 26
+    en: "Ask her to help and she ignores you: there's no dealing with her."
+    source: kaga115
+    sx: {hanzi: "喊佢𢯭手做事，佢嗄眼睚睚仔，實在無結煞。", pinyin: "ham giˇ ten suˋ zo se, giˇ sa ngienˋ ngaiˇ ngaiˇ eˋ, siid cai moˇ gadˋ sadˋ."}
+  - n: 27
+    en: "His mother turned and went into the kitchen, and A-hu followed her in. She said:"
+    sx: {hanzi: "阿姆轉身入灶下，阿湖跈等入去。阿姆講：", pinyin: "aˊ meˊ zonˋ siinˊ ngib zo haˊ, aˊ fuˇ tenˇ denˋ ngib hi. aˊ meˊ gongˋ:"}
+    check: true
+  - n: 28
+    en: "This soup is very hot: move away a bit, or you'll get scalded."
+    source: kaga115
+    sx: {hanzi: "這湯當燒，你行開兜仔，正毋會熝著。", pinyin: "iaˋ tongˊ dongˊ seuˊ, nˇ hangˇ koiˊ deuˊ eˋ, zang mˇ voi lug doˋ."}
+  - n: 29
+    en: "A-hu was afraid of his father: when he saw him he dodged away and lay face down on the bed."
+    sx: {hanzi: "阿湖驚阿爸，看著佢就閃走，伏等在眠床項。", pinyin: "aˊ fuˇ giangˊ aˊ baˊ, kon doˋ giˇ qiu samˋ zeuˋ, pug denˋ coiˊ minˇ congˇ hong."}
+    check: true
+  - n: 30
+    en: "At dinner a fly kept buzzing around. His father said:"
+    sx: {hanzi: "食夜个時節，有一隻烏蠅飛來飛去。阿爸講：", pinyin: "siid ia ge siiˇ jiedˋ, iuˊ idˋ zagˋ vuˊ inˇ biˊ loiˇ biˊ hi. aˊ baˊ gongˋ:"}
+    check: true
+  - n: 31
+    en: "Flies are so annoying: quick, chase it away."
+    source: kaga115
+    sx: {hanzi: "烏蠅當得人惱，遽啊逐走佢。", pinyin: "vuˊ inˇ dongˊ dedˋ nginˇ nauˊ, giagˋ a giugˋ zeuˋ giˇ."}
+  - n: 32
+    en: "Only then did A-hu speak up: \"Dad, don't scold Mum. I was the one who wandered off.\""
+    sx: {hanzi: "阿湖這下正開聲講：「阿爸，莫罵阿姆，係𠊎自家走開个。」", pinyin: "aˊ fuˇ iaˋ ha zang koiˊ sangˊ gongˋ: aˊ baˊ, mog ma aˊ meˊ, he ngaiˇ qi gaˊ zeuˋ koiˊ ge."}
+    check: true
+  - n: 33
+    en: "He said too that he had been very frightened then, but:"
+    sx: {hanzi: "佢又講，該下佢當驚，毋過：", pinyin: "giˇ iu gongˋ, ge ha giˇ dongˊ giangˊ, mˇ go:"}
+    check: true
+  - n: 34
+    en: "I held back my tears and didn't dare cry out."
+    source: kaga115
+    sx: {hanzi: "𠊎目汁含等，毋敢噭出來。", pinyin: "ngaiˇ mugˋ ziibˋ hamˇ denˋ, mˇ gamˋ gieu cudˋ loiˇ."}
+  - n: 35
+    en: "His father, hearing this, sat staring into space, and his anger vanished at once."
+    sx: {hanzi: "阿爸聽著，坐等發琢愕，火氣一下就無吔。", pinyin: "aˊ baˊ tangˊ doˋ, coˊ denˋ bodˋ dogˋ ngogˋ, foˋ hi idˋ ha qiu moˇ leˊ."}
+    check: true
+  - n: 36
+    en: "He hugged A-hu and said to his mother: \"I was wrong just now.\" His mother smiled too."
+    sx: {hanzi: "佢揇等阿湖，同阿姆講：「頭先係𠊎毋著。」阿姆乜笑吔。", pinyin: "giˇ namˋ denˋ aˊ fuˇ, tungˇ aˊ meˊ gongˋ: teuˇ xienˊ he ngaiˇ mˇ cog. aˊ meˊ me seu leˊ."}
+    check: true
+  - n: 37
+    en: "That night A-hu fell asleep lying on his father's chest."
+    sx: {hanzi: "該暗晡，阿湖伏等在阿爸个胸脯項睡忒。", pinyin: "ge am buˊ, aˊ fuˇ pug denˋ coiˊ aˊ baˊ ge hiungˊ puˇ hong soi tedˋ."}
+    check: true
+  - n: 38
+    en: "The next day the whole family went to the fair again, as happy as can be."
+    sx: {hanzi: "第二日，佢兜一家人又去看迎鬧熱，歡喜靂天。", pinyin: "ti ngi ngidˋ, giˇ deuˊ idˋ gaˊ nginˇ iu hi kon ngiangˇ nau ngied, fonˊ hiˋ lagˋ tienˊ."}
+    check: true
+  - n: 39
+    en: "As the old people say, parents' love for a child is like the Yangtze."
+    sx: {hanzi: "老人家講，爺娘惜子長江水。", pinyin: "loˋ nginˇ gaˊ gongˋ, iaˇ ngiongˇ xiagˋ ziiˋ congˇ gongˊ suiˋ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The seventh extra lesson: a short story with no character of the course. The title is the first half of a
+      saying (kaga, 諺): 爺娘惜子長江水，子想爺娘擔竿長 "parents' love for a child is as long as the Yangtze; a child's thought for
+      its parents is as long as a carrying pole". 爺娘 "father and mother" is MOE; 長江 "the Yangtze".
+  - ref: 1
+    topic: vocab
+    text: >
+      單丁子 danˊ denˊ ziiˋ "only son" (official: 阿祿伯係單丁子，佢無阿哥，也無老弟). 心肝仔 ximˊ gonˊ eˋ "darling, precious child".
+  - ref: 2
+    topic: vocab
+    text: >
+      頭犁犁仔 teuˇ laiˇ laiˇ eˋ "with head hung low"; the opposite is 頭臥臥仔 (the list).
+  - ref: 4
+    topic: vocab
+    text: >
+      嬌尸撥撥 gieuˊ siiˊ bad bad "babyish, always wanting to be fussed over".
+  - ref: 5
+    topic: vocab
+    text: >
+      迎鬧熱 "village fair, procession for the gods". 逛街 ongˇ gieˊ "stroll round the streets".
+  - ref: 7
+    topic: vocab
+    text: >
+      斡頭 vadˋ teuˇ "turn one's head; turn back", of people and of cars (official: 斡頭做佢走 "turned and walked off"). 行開
+      hangˇ koiˊ "step away" (line 28).
+  - ref: 9
+    topic: vocab
+    text: >
+      拶拶 zad zad "tight, packed"; 心肝頭拶拶 "a heavy heart" (official: 同佢冤家過後，𠊎心肝頭拶拶). 心焦 ximˊ zeuˊ "anxious, missing
+      someone" (official: 離開屋下幾下日，無看著親人，就會心焦). 愁勞博激 seuˇ loˇ bogˋ gidˋ "worried and agitated".
+  - ref: 11
+    topic: vocab
+    text: >
+      抽胲另命 cuˊ goiˊ nang miang "at the top of one's voice": 噭到抽胲另命 "cry one's heart out".
+  - ref: 12
+    topic: vocab
+    text: >
+      目汁含等 mugˋ ziibˋ hamˇ denˋ "with tears in one's eyes" (line 34). 拂頭 fin teuˇ "shake one's head" (official:
+      見湊佢去食魚生，佢就拂頭).
+  - ref: 13
+    topic: vocab
+    text: >
+      頷頭 ngamˋ teuˇ "nod" (official: 見相堵頭，佢會同人頷頭，當有禮貌).
+  - ref: 14
+    topic: vocab
+    text: >
+      含等 hamˇ denˋ "hold in the mouth" (official: 佢含等糖仔緊講話).
+  - ref: 16
+    topic: vocab
+    text: >
+      見 gien + verb "every time": 見看人 "whenever he sees someone" (the list's translation: 每次). 眼鬥鬥仔 ngienˋ deu deu
+      eˋ "glaring, as if spoiling for a fight".
+  - ref: 18
+    topic: vocab
+    text: >
+      面紅濟炸 mien fungˇ ji za "red in the face" (official: 佢運動正轉來，這下面紅濟炸). 敨氣 teuˋ hi "breathe" (official: 阿公敨氣毋順
+      "Grandpa had trouble breathing").
+  - ref: 19
+    topic: vocab
+    text: >
+      目汁濫泔 mugˋ ziibˋ lamˇ gamˊ "with tears streaming down".
+  - ref: 21
+    topic: vocab
+    text: >
+      笑弛弛仔 seu ieˊ ieˊ eˋ "smiling broadly" (official: 阿婆揇孫仔，暢到笑弛弛仔).
+  - ref: 22
+    topic: vocab
+    text: >
+      火氣 foˋ hi "anger, temper"; also "internal heat" in Chinese medicine (official: 𠊎恁久火氣大，緊爛嘴).
+  - ref: 23
+    topic: vocab
+    text: >
+      砰砰滾 bang bang gunˋ "in a rage" (official: 這後生人動啊著就砰砰滾).
+  - ref: 24
+    topic: vocab
+    text: >
+      面逼逼 mien bedˋ bedˋ "with a stony face" (official: 人同佢講話，佢面逼逼無愛搭人).
+  - ref: 26
+    topic: vocab
+    text: >
+      眼睚睚仔 ngienˋ ngaiˇ ngaiˇ eˋ "ignoring, not responding". 無結煞 moˇ gadˋ sadˋ "there's no dealing with (him, her)"
+      (MOE).
+  - ref: 27
+    topic: vocab
+    text: >
+      轉身 zonˋ siinˊ "turn round" (official: 間房恁狹，轉身就毋得).
+  - ref: 29
+    topic: vocab
+    text: >
+      閃走 samˋ zeuˋ "dodge, keep out of the way" (official: 佢這禮拜毋知仰仔，看著先生就閃走). 伏等 pug denˋ "lying face down" (line
+      37).
+  - ref: 31
+    topic: vocab
+    text: >
+      逐走 giugˋ zeuˋ "chase away".
+  - ref: 32
+    topic: vocab
+    text: >
+      開聲 koiˊ sangˊ "speak up, make a sound" (official: 便所裡背怕有人，吂入去愛先開聲); 開聲噭 "burst out crying".
+  - ref: 35
+    topic: vocab
+    text: >
+      發琢愕 bodˋ dogˋ ngogˋ "stare blankly, be in a daze" (official: 遽啊去赴上班，莫在該發琢愕).
+  - ref: 37
+    topic: vocab
+    text: >
+      胸脯 hiungˊ puˇ "chest".
+  - ref: 38
+    topic: vocab
+    text: >
+      歡喜靂天 fonˊ hiˋ lagˋ tienˊ "overjoyed" (official: 佢兩儕搞到歡喜靂天，毋知晝暗).
+
+new_words:
+  - {hanzi: "爺娘", pinyin: "iaˇ ngiongˇ", en: "father and mother (MOE)"}
+  - {hanzi: "長江", pinyin: "congˇ gongˊ", en: "the Yangtze"}
+  - {hanzi: "單丁子", pinyin: "danˊ denˊ ziiˋ", en: "only son"}
+  - {hanzi: "心肝仔", pinyin: "ximˊ gonˊ eˋ", en: "darling, precious child"}
+  - {hanzi: "頭犁犁仔", pinyin: "teuˇ laiˇ laiˇ eˋ", en: "with head hung low"}
+  - {hanzi: "嬌尸撥撥", pinyin: "gieuˊ siiˊ bad bad", en: "babyish, always wanting to be fussed over"}
+  - {hanzi: "逛街", pinyin: "ongˇ gieˊ", en: "stroll round the streets"}
+  - {hanzi: "斡頭", pinyin: "vadˋ teuˇ", en: "turn one's head; turn back"}
+  - {hanzi: "拶拶", pinyin: "zad zad", en: "tight, packed; heavy (of the heart)"}
+  - {hanzi: "心焦", pinyin: "ximˊ zeuˊ", en: "anxious, missing someone"}
+  - {hanzi: "愁勞博激", pinyin: "seuˇ loˇ bogˋ gidˋ", en: "worried and agitated"}
+  - {hanzi: "抽胲另命", pinyin: "cuˊ goiˊ nang miang", en: "(cry) at the top of one's voice"}
+  - {hanzi: "目汁含等", pinyin: "mugˋ ziibˋ hamˇ denˋ", en: "with tears in one's eyes"}
+  - {hanzi: "拂頭", pinyin: "fin teuˇ", en: "shake one's head"}
+  - {hanzi: "頷頭", pinyin: "ngamˋ teuˇ", en: "nod"}
+  - {hanzi: "含等", pinyin: "hamˇ denˋ", en: "hold in the mouth"}
+  - {hanzi: "見", pinyin: "gien", en: "every time (見看 \"every time one sees\")"}
+  - {hanzi: "眼鬥鬥仔", pinyin: "ngienˋ deu deu eˋ", en: "glaring"}
+  - {hanzi: "面紅濟炸", pinyin: "mien fungˇ ji za", en: "red in the face"}
+  - {hanzi: "敨氣", pinyin: "teuˋ hi", en: "breathe"}
+  - {hanzi: "目汁濫泔", pinyin: "mugˋ ziibˋ lamˇ gamˊ", en: "with tears streaming down"}
+  - {hanzi: "笑弛弛仔", pinyin: "seu ieˊ ieˊ eˋ", en: "smiling broadly"}
+  - {hanzi: "火氣", pinyin: "foˋ hi", en: "anger, temper"}
+  - {hanzi: "砰砰滾", pinyin: "bang bang gunˋ", en: "in a rage"}
+  - {hanzi: "面逼逼", pinyin: "mien bedˋ bedˋ", en: "with a stony face"}
+  - {hanzi: "眼睚睚仔", pinyin: "ngienˋ ngaiˇ ngaiˇ eˋ", en: "ignoring, not responding"}
+  - {hanzi: "無結煞", pinyin: "moˇ gadˋ sadˋ", en: "there's no dealing with (MOE)"}
+  - {hanzi: "轉身", pinyin: "zonˋ siinˊ", en: "turn round"}
+  - {hanzi: "行開", pinyin: "hangˇ koiˊ", en: "move away, step aside"}
+  - {hanzi: "閃走", pinyin: "samˋ zeuˋ", en: "dodge, keep out of the way"}
+  - {hanzi: "伏等", pinyin: "pug denˋ", en: "lying face down"}
+  - {hanzi: "逐走", pinyin: "giugˋ zeuˋ", en: "chase away"}
+  - {hanzi: "開聲", pinyin: "koiˊ sangˊ", en: "speak up, make a sound"}
+  - {hanzi: "發琢愕", pinyin: "bodˋ dogˋ ngogˋ", en: "stare blankly, be in a daze"}
+  - {hanzi: "胸脯", pinyin: "hiungˊ puˇ", en: "chest"}
+  - {hanzi: "歡喜靂天", pinyin: "fonˊ hiˋ lagˋ tienˊ", en: "overjoyed"}
+
+exercises:
+  translate:
+    - en: "I'd said barely two words to him when he turned and walked off: who knows what he's angry about."
+      source: kaga115
+      sx: {hanzi: "同佢講無兩句話佢就斡頭走，毋知在該譴麼个。", pinyin: "tungˇ giˇ gongˋ moˇ liongˋ gi fa giˇ qiu vadˋ teuˇ zeuˋ, mˇ diˊ du ge kienˋ maˋ ge."}
+    - en: "Grandma hugs her grandchild, beaming with joy."
+      source: kaga115
+      sx: {hanzi: "阿婆揇孫仔，暢到笑弛弛仔。", pinyin: "aˊ poˇ namˋ sunˊ eˋ, tiong do seu ieˊ ieˊ eˋ."}
+    - en: "When people talk to him, he keeps a stony face and won't answer."
+      source: kaga115
+      sx: {hanzi: "人同佢講話，佢面逼逼無愛搭人。", pinyin: "nginˇ tungˇ giˇ gongˋ fa, giˇ mien bedˋ bedˋ moˇ oi dabˋ nginˇ."}
+    - en: "As soon as the summer holidays come, all the pupils go off to play, overjoyed."
+      source: kaga115
+      sx: {hanzi: "學生仔一到避暑，做下歡喜靂天去遶尞。", pinyin: "hog sangˊ eˋ idˋ do pidˋ cuˋ, zo ha fonˊ hiˋ lagˋ tienˊ hi lauˊ liau."}
+    - en: "Who knows what's the matter with him this week: when he sees the teacher he dodges away."
+      source: kaga115
+      sx: {hanzi: "佢這禮拜毋知仰仔，看著先生就閃走。", pinyin: "giˇ iaˋ liˊ bai mˇ diˊ ngiongˋ eˋ, kon doˋ xinˊ sangˊ qiu samˋ zeuˋ."}
+  fill:
+    - en: "A-hu is an only son: everyone has spoilt him since he was small."
+      sx: {hanzi: "阿湖係___，從細就得人惜。", pinyin: "aˊ fuˇ he ___, qiungˇ se qiu dedˋ nginˇ xiagˋ.", answer_hanzi: "單丁子", answer: "danˊ denˊ ziiˋ"}
+    - en: "He didn't understand, so he shook his head."
+      sx: {hanzi: "佢聽毋識，就___。", pinyin: "giˇ tangˊ mˇ siidˋ, qiu ___.", answer_hanzi: "拂頭", answer: "fin teuˇ"}
+    - en: "Asked if he wanted to go, he nodded and said yes."
+      sx: {hanzi: "問佢愛去無，佢___講好。", pinyin: "mun giˇ oi hi moˇ, giˇ ___ gongˋ hoˋ.", answer_hanzi: "頷頭", answer: "ngamˋ teuˇ"}
+    - en: "A car is coming: quick, step aside!"
+      sx: {hanzi: "車仔來吔，遽遽___！", pinyin: "caˊ eˋ loiˇ leˊ, giagˋ giagˋ ___!", answer_hanzi: "行開", answer: "hangˇ koiˊ"}
+    - en: "My body has been overheated lately: I keep getting mouth ulcers."
+      sx: {hanzi: "𠊎恁久___大，緊爛嘴。", pinyin: "ngaiˇ anˋ giuˋ ___ tai, ginˋ lan zoi.", answer_hanzi: "火氣", answer: "foˋ hi"}
+
+audio: []
