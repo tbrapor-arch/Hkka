@@ -1,0 +1,374 @@
+id: 74
+genre: essay
+title:
+  en: "In the old days people were thrifty"
+  sx: {hanzi: "頭擺人盡做家", pinyin: "teuˇ baiˋ nginˇ qin zo gaˊ"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. Grandpa writes down his childhood in the 1950s for A-in's radio slot (July 2030):
+  the mud-brick house, his father at the coal mine, his grandmother, hunger and work in the fields. The people are
+  the course's; the events are invented.
+names: [阿英, 阿婆, 阿爸, 阿姆]
+
+dialogue:
+  - n: 1
+    en: "A-in asked me to write down some things from my childhood, to tell everyone on her programme."
+    sx: {hanzi: "阿英喊𠊎寫兜仔細時節个事情，在佢个節目講分大家聽。", pinyin: "aˊ inˊ ham ngaiˇ xiaˋ deuˊ eˋ se siiˇ jiedˋ ge sii qinˇ, coiˊ giˇ ge jiedˋ mug gongˋ bunˊ tai gaˊ tangˊ."}
+    check: true
+  - n: 2
+    en: "When I was small, we were very poor. Houses in the old days were not built of concrete."
+    sx: {hanzi: "𠊎細細仔个時節，屋下當窮。老時个屋仔，毋係紅毛泥起个。", pinyin: "ngaiˇ se se eˋ ge siiˇ jiedˋ, vugˋ kaˊ dongˊ kiungˇ. loˋ siiˇ ge vugˋ eˇ, mˇ he fungˇ moˊ naiˇ hiˋ ge."}
+    check: true
+  - n: 3
+    en: "The mud-brick houses people lived in long ago were built of mud: they made the bricks and laid the walls."
+    source: kaga115
+    sx: {hanzi: "頭擺人歇个泥磚屋，係用泥打磚結壁起起來个。", pinyin: "teuˇ baiˋ nginˇ hed ge naiˇ zonˊ vugˋ, he iung naiˇ daˋ zonˊ giedˋ biagˋ hiˋ hiˋ loiˇ ge."}
+  - n: 4
+    en: "In the middle of our house there was a courtyard."
+    sx: {hanzi: "吾屋下中央有一隻天井。", pinyin: "ngaˊ vugˋ kaˊ dungˊ ongˊ iuˊ idˋ zagˋ tienˊ jiangˋ."}
+    check: true
+  - n: 5
+    en: "In summer, after dinner, Father would take a low stool out to the courtyard and sit in the cool."
+    source: moe
+    sx: {hanzi: "熱天時，阿爸食飽夜會搬張矮凳仔去天井坐等尞涼。", pinyin: "ngied tienˊ siiˇ, aˊ baˊ siid bauˋ ia voi banˊ zongˊ aiˋ den eˋ hi tienˊ jiangˋ coˊ denˋ liau liongˇ."}
+  - n: 6
+    en: "Year in, year out Father worked at the coal mine, and came home only at dusk."
+    sx: {hanzi: "阿爸透長年在炭礦做事，臨暗仔正轉夜。", pinyin: "aˊ baˊ teu congˇ ngienˇ coiˊ tan kongˋ zo se, limˇ am eˋ zang zonˋ ia."}
+    check: true
+  - n: 7
+    en: "My little sister waited at the door for Father to come home to dinner."
+    source: kaga115
+    sx: {hanzi: "老妹在門口等阿爸轉夜食飯。", pinyin: "loˋ moi coiˊ munˇ heuˋ denˋ aˊ baˊ zonˋ ia siid fan."}
+  - n: 8
+    en: "Some of the coal dug out at the mine went to feed the trains."
+    sx: {hanzi: "炭礦挖出來个石炭，有兜送去分火車燒。", pinyin: "tan kongˋ vagˋ cudˋ loiˇ ge sag tan, iuˊ deuˊ sung hi bunˊ foˋ caˊ seuˊ."}
+    check: true
+  - n: 9
+    en: "Trains in those days burned coal, and the black smoke carried soot."
+    source: kaga115
+    sx: {hanzi: "頭擺个火車燒石炭，烏煙會有火燂煤。", pinyin: "teuˇ baiˋ ge foˋ caˊ seuˊ sag tan, vuˊ ienˊ voi iuˊ foˋ tamˇ moiˇ."}
+  - n: 10
+    en: "Grandmother was Father's stepmother; all her life she was so thrifty."
+    sx: {hanzi: "阿婆係阿爸个後哀，佢一生人都恁做家。", pinyin: "aˊ poˇ he aˊ baˊ ge heu oiˊ, giˇ idˋ senˊ nginˇ du anˋ zo gaˊ."}
+    check: true
+  - n: 11
+    en: "Grandmother was very thrifty: even old, tough celery she picked over and ate."
+    source: kaga115
+    sx: {hanzi: "阿婆當做家，老鋸鋸仔个芹菜也擇起來食。", pinyin: "aˊ poˇ dongˊ zo gaˊ, loˋ gi gi eˋ ge kiunˇ coi ia tog hiˋ loiˇ siid."}
+  - n: 12
+    en: "In the old days people had not enough rice, and could only cook rice with sweet potato to get by."
+    source: kaga115
+    sx: {hanzi: "頭擺人米毋罅食，僅可煮番薯飯來過餐。", pinyin: "teuˇ baiˋ nginˇ miˋ mˇ la siid, giunˋ koˋ zuˋ fanˊ suˇ fan loiˇ go conˊ."}
+  - n: 13
+    en: "We brothers and sisters ate fast, because:"
+    sx: {hanzi: "𠊎兜兄弟姊妹食飯當遽，因為：", pinyin: "ngaiˇ deuˊ hiungˊ ti jiˋ moi siid fan dongˊ giagˋ, inˊ vi:"}
+    check: true
+  - n: 14
+    en: "Come late and there's nothing left: you watch the others eat with longing eyes."
+    source: kaga115
+    sx: {hanzi: "慢來，無好食，眼擘擘仔看人食。", pinyin: "man loiˇ, moˇ hoˋ siid, ngienˋ bagˋ bagˋ eˋ kon nginˇ siid."}
+  - n: 15
+    en: "Cloth in the old days did not wear well, and the poor went about in rags all year round."
+    source: kaga115
+    sx: {hanzi: "頭擺个布做衫異毋耐著，窮人長年透天都著到爛擐爛擐。", pinyin: "teuˇ baiˋ ge bu zo samˊ i mˇ nai zogˋ, kiungˇ nginˇ congˇ ngienˇ teu tienˊ du zogˋ do lan kuan lan kuan."}
+  - n: 16
+    en: "Children even had lice in their hair."
+    sx: {hanzi: "細人仔頭那毛肚還會生蝨嫲。", pinyin: "se nginˇ eˋ teuˇ naˇ moˊ duˋ hanˇ voi sangˊ sedˋ maˇ."}
+    check: true
+  - n: 17
+    en: "Few people get lice nowadays."
+    source: kaga
+    sx: {hanzi: "這下當少人發蝨嫲吔。", pinyin: "iaˋ ha dongˊ seuˋ nginˇ bodˋ sedˋ maˇ leˊ."}
+  - n: 18
+    en: "In the old days, if children did not behave, their parents would beat them with a little cane."
+    source: kaga115
+    sx: {hanzi: "頭擺个細人仔係毋聽話，爺哀會拿竹修仔修人。", pinyin: "teuˇ baiˋ ge se nginˇ eˋ he mˇ tangˊ fa, iaˇ oiˊ voi naˊ zugˋ xiuˊ eˋ xiuˊ nginˇ."}
+  - n: 19
+    en: "Whenever he had time, Father went to the riverbank to clear land for a field."
+    sx: {hanzi: "阿爸有閒就去河壩脣開田。", pinyin: "aˊ baˊ iuˊ hanˇ qiu hi hoˇ ba sunˇ koiˊ tienˇ."}
+    check: true
+  - n: 20
+    en: "He carried earth to fill the ground, and built a stone bank by the river so that floods would not wash the field away."
+    sx: {hanzi: "佢擔泥來屯泥，又在河壩脣結石䃗，大水正毋會打忒田。", pinyin: "giˇ damˊ naiˇ loiˇ tunˇ naiˇ, iu coiˊ hoˇ ba sunˇ giedˋ sag bogˋ, tai suiˋ zang mˇ voi daˋ tedˋ tienˇ."}
+    check: true
+  - n: 21
+    en: "The soil of this field was rich and deep: whatever he planted grew well."
+    sx: {hanzi: "這坵田个泥肉肥又賁，種麼个就當會生。", pinyin: "iaˋ kiuˊ tienˇ ge naiˇ ngiugˋ piˇ iu punˊ, zung maˋ ge qiu dongˊ voi sangˊ."}
+    check: true
+  - n: 22
+    en: "He was very tough: however heavy the load, he shouldered it."
+    source: kaga115
+    sx: {hanzi: "佢盡堅耐，擔頭較重乜㧡起來。", pinyin: "giˇ qin gienˊ ngai, damˊ teuˇ ka cungˊ me kaiˊ hiˋ loiˇ."}
+  - n: 23
+    en: "At harvest time there were not enough people to help, so everyone worked in turn on each other's fields."
+    source: kaga115
+    sx: {hanzi: "割禾時節，尋無恁多人𢯭手，大家愛換工來做。", pinyin: "godˋ voˇ siiˇ jiedˋ, qimˇ moˇ anˋ doˊ nginˇ ten suˋ, tai gaˊ oi von gungˊ loiˇ zo."}
+  - n: 24
+    en: "About harvesting one field, Father said:"
+    sx: {hanzi: "割一坵田，阿爸講：", pinyin: "godˋ idˋ kiuˊ tienˇ, aˊ baˊ gongˋ:"}
+    check: true
+  - n: 25
+    en: "This won't take the whole day: half a day or so and it's done."
+    source: kaga115
+    sx: {hanzi: "這毋使用著歸日仔，差毋多一晝邊就做得好。", pinyin: "iaˋ mˇ siiˋ iung doˋ guiˊ ngidˋ eˇ, caˊ mˇ doˊ idˋ zu bienˊ qiu zo dedˋ hoˋ."}
+  - n: 26
+    en: "Between friends there must be give and take: then it lasts."
+    source: kaga115
+    sx: {hanzi: "朋友之間愛有來有去，正會長久。", pinyin: "penˇ iuˊ ziiˊ gienˊ oi iuˊ loiˇ iuˊ hi, zang voi congˇ giuˋ."}
+  - n: 27
+    en: "Back from the harvest, my little sister and I slept so deeply we snored."
+    sx: {hanzi: "割禾轉來，𠊎同老妹睡到牽覺。", pinyin: "godˋ voˇ zonˋ loiˇ, ngaiˇ tungˇ loˋ moi soi do kienˊ gau."}
+    check: true
+  - n: 28
+    en: "On New Year's Eve, every household eats the reunion dinner."
+    source: kaga115
+    sx: {hanzi: "年三十暗晡，家家屋屋都在該食團圓飯。", pinyin: "ngienˇ samˊ siib am buˊ, gaˊ gaˊ vugˋ vugˋ du du ge siid tonˇ ienˇ fan."}
+  - n: 29
+    en: "It was the one evening in the year when we had meat to eat."
+    sx: {hanzi: "𠊎兜一年淨該暗晡正有肉好食。", pinyin: "ngaiˇ deuˊ idˋ ngienˇ qiang ge am buˊ zang iuˊ ngiugˋ hoˋ siid."}
+    check: true
+  - n: 30
+    en: "Father told me long ago:"
+    sx: {hanzi: "阿爸早早就同𠊎講過：", pinyin: "aˊ baˊ zoˋ zoˋ qiu tungˇ ngaiˇ gongˋ go:"}
+    check: true
+  - n: 31
+    en: "A young man must be tough in his work: that is how he succeeds."
+    source: kaga
+    sx: {hanzi: "後生人做事愛堅耐，正會成功。", pinyin: "heu sangˊ nginˇ zo se oi gienˊ ngai, zang voi siinˇ gungˊ."}
+  - n: 32
+    en: "If the children you raise are hard-working and make something of themselves, that is the family's good fortune."
+    source: kaga115
+    sx: {hanzi: "畜个大細若係煞猛增志，斯係屋下个福氣。", pinyin: "hiugˋ ge tai se na he sadˋ mangˊ zen zii, siiˇ he vugˋ kaˊ ge fugˋ hi."}
+  - n: 33
+    en: "Father made me a desk out of planks."
+    sx: {hanzi: "阿爸用枋仔同𠊎做一張書桌仔。", pinyin: "aˊ baˊ iung biongˊ eˋ tungˇ ngaiˇ zo idˋ zongˊ suˊ zogˋ eˋ."}
+    check: true
+  - n: 34
+    en: "This desk is made of planks."
+    source: kaga115
+    sx: {hanzi: "這張書桌仔係用枋仔做个。", pinyin: "iaˋ zongˊ suˊ zogˋ eˋ he iung biongˊ eˋ zo ge."}
+  - n: 35
+    en: "My wife says I am like Father: very thrifty, I can't bear to throw away old things."
+    sx: {hanzi: "吾老婆講𠊎同阿爸共樣，十分做家，老時个東西都毋盼得攉忒。", pinyin: "ngaˊ loˋ poˇ gongˋ ngaiˇ tungˇ aˊ baˊ kiung iong, siib funˊ zo gaˊ, loˋ siiˇ ge dungˊ xiˊ du mˇ pan dedˋ vogˋ tedˋ."}
+    check: true
+  - n: 36
+    en: "When Grandmother was old, she would sometimes sigh that she had worked so hard when young and never earned enough to eat."
+    sx: {hanzi: "阿婆老吔，成時會道嘆，後生時節當做又賺無好食。", pinyin: "aˊ poˇ loˋ leˊ, sangˇ siiˇ voi to tan, heu sangˊ siiˇ jiedˋ dongˊ zo iu con moˇ hoˋ siid."}
+    check: true
+  - n: 37
+    en: "In the old days people were thrifty: with money left over they bought fields, with grain left over they built houses."
+    source: kaga
+    sx: {hanzi: "頭擺人盡做家，有伸錢就買田，有伸穀就起屋。", pinyin: "teuˇ baiˋ nginˇ qin zo gaˊ, iuˊ cunˊ qienˇ qiu maiˊ tienˇ, iuˊ cunˊ gugˋ qiu hiˋ vugˋ."}
+    abridged: true
+  - n: 38
+    en: "Day after day, year after year, Father grew older and older, and his face more and more wrinkled."
+    source: kaga115
+    sx: {hanzi: "日見日，年視年，阿爸人緊來緊老，面皮緊來緊皺。", pinyin: "ngidˋ gien ngidˋ, ngienˇ sii ngienˇ, aˊ baˊ nginˇ ginˋ loiˇ ginˋ loˋ, mien piˇ ginˋ loiˇ ginˋ jiu."}
+  - n: 39
+    en: "The tea garden behind the house is still there, and on the hill stands a hundred-year-old tree."
+    sx: {hanzi: "這下屋背个茶園還在，山頂有一頭百年老樹。", pinyin: "iaˋ ha vugˋ boi ge caˇ ienˇ hanˇ coiˊ, sanˊ dangˋ iuˊ idˋ teuˇ bagˋ ngienˇ loˋ su."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The fourth extra lesson: Grandpa's own text about his childhood in the 1950s (he was born in 1949, lesson 65),
+      written for A-in's radio slot. His father, 阿太, is the man of 外篇 1. The title is the first half of a saying
+      (kaga, 諺), quoted whole in line 37.
+  - ref: 2
+    topic: vocab
+    text: >
+      老時 loˋ siiˇ "the old days": official 佢十分做家，屋下裡肚有兜老時个家具都毋盼得攉忒 "he is very thrifty: he can't bear to throw away
+      some old furniture".
+  - ref: 3
+    topic: vocab
+    text: >
+      打磚 daˋ zonˊ "make bricks"; 磚 "brick" (MOE). 泥磚屋 "mud-brick house". 結壁 "lay a wall".
+  - ref: 4
+    topic: vocab
+    text: >
+      天井 tienˊ jiangˋ "courtyard": the open space in the middle of a traditional house (official: 大樓肚留隻天井 "leave a
+      light well in a building").
+  - ref: 5
+    topic: vocab
+    text: >
+      An MOE example (no recording). 食飽夜 "after dinner" and 矮凳仔 "low stool" are MOE words. 尞涼 "sit in the cool" is
+      from lesson 69.
+  - ref: 6
+    topic: vocab
+    text: >
+      透長年 teu congˇ ngienˇ "year in, year out" (official: 佢透長年在外國做生理). 轉夜 zonˋ ia "come home from work in the
+      evening"; 轉晝 is the same at noon. 炭礦 "coal mine" is from 進修 41.
+  - ref: 9
+    topic: vocab
+    text: >
+      火燂煤 foˋ tamˇ moiˇ "soot". 石炭 "coal" is from 進修 62.
+  - ref: 10
+    topic: vocab
+    text: >
+      後哀 "stepmother" is from 外篇 1: 阿太's mother died when he was five.
+  - ref: 11
+    topic: vocab
+    text: >
+      做家 zo gaˊ "thrifty, careful with the household": 老鋸鋸仔个芹菜也擇起來食 "she even picked over the old, tough celery and
+      ate it".
+  - ref: 12
+    topic: vocab
+    text: >
+      僅可 giunˋ koˋ "can only, have no choice but". 番薯飯 "rice cooked with sweet potato".
+  - ref: 14
+    topic: vocab
+    text: >
+      無好食 moˇ hoˋ siid "have nothing to eat"; the list adds 無錢好使 "have no money to spend", 無電視好看. 眼擘擘仔 "with longing
+      eyes".
+  - ref: 15
+    topic: vocab
+    text: >
+      耐 nai "last, be durable" (耐用, 外篇 2): 毋耐著 "does not wear well". 長年透天 congˇ ngienˇ teu tienˊ "all year round",
+      also 一年透天. 著 zogˋ "wear".
+  - ref: 17
+    topic: vocab
+    text: >
+      蝨嫲 sedˋ maˇ "louse". 發 is read bodˋ here, as in the names of ailments in MOE (發癬, 發痧, 發瘤仔).
+  - ref: 18
+    topic: vocab
+    text: >
+      竹修仔 zugˋ xiuˊ eˋ "thin cane" for punishing children; 修 xiuˊ "punish" (MOE 整治). Another official sentence:
+      世大人就擎竹修仔捋.
+  - ref: 19
+    topic: vocab
+    text: >
+      開田 koiˊ tienˇ "clear land for a field" (official: 阿爸有閒就去河壩脣開田).
+  - ref: 20
+    topic: vocab
+    text: >
+      屯泥 tunˇ naiˇ "fill with earth" (MOE: 屯平 "fill up level"). 結石䃗 giedˋ sag bogˋ "build a stone bank": the list
+      gives no sentence and MOE has none, so the line is the course's.
+  - ref: 21
+    topic: vocab
+    text: >
+      泥肉 naiˇ ngiugˋ "topsoil, the soil plants feed on". The line shortens the official 這坵田个泥肉肥又賁，無論蒔禾抑係種菜就當會生: no
+      list gives a reading for 蒔.
+  - ref: 22
+    topic: vocab
+    text: >
+      堅耐 gienˊ ngai "tough, persevering" (the list also gives gienˊ nai). 擔頭 damˊ teuˇ "load on a carrying pole;
+      burden": 擔頭較重乜㧡起來 "however heavy the load, he shoulders it".
+  - ref: 23
+    topic: vocab
+    text: >
+      換工 von gungˊ "exchange labour": neighbours work on each other's fields in turn.
+  - ref: 25
+    topic: vocab
+    text: >
+      一晝邊 idˋ zu bienˊ "half a day or so" (official: 昨晡日做一晝邊，今晡日做半日).
+  - ref: 26
+    topic: vocab
+    text: >
+      長久 congˇ giuˋ "lasting" (official: 做生理愛講信用，正會長久).
+  - ref: 27
+    topic: vocab
+    text: >
+      牽覺 kienˊ gau "snore in deep sleep" (official: 睡到牽覺).
+  - ref: 28
+    topic: vocab
+    text: >
+      家家屋屋 gaˊ gaˊ vugˋ vugˋ "every household" (official: 年頷下仔家家屋屋都在該大拚掃).
+  - ref: 30
+    topic: vocab
+    text: >
+      早早 zoˋ zoˋ "long ago, long since", with 就 (official: 早早就同你講過，你就毋信).
+  - ref: 32
+    topic: vocab
+    text: >
+      增志 zen zii "hard-working, make something of oneself". 畜 "raise (children)".
+  - ref: 33
+    topic: vocab
+    text: >
+      枋仔 biongˊ eˋ "plank" (official: 刨枋仔 "plane a plank").
+  - ref: 36
+    topic: vocab
+    text: >
+      道嘆 to tan "sigh, lament": the official sentence begins 阿婆成時會道嘆; 老吔 is added.
+  - ref: 37
+    topic: vocab
+    text: >
+      伸 cunˊ "be left over" (lesson 39): 有伸錢 "have money left over".
+  - ref: 38
+    topic: vocab
+    text: >
+      日見日 ngidˋ gien ngidˋ "day after day", 年視年 ngienˇ sii ngienˇ "year after year". 皺 jiu "wrinkled" (皺皺, 外篇 3).
+  - ref: 39
+    topic: vocab
+    text: >
+      百年 bagˋ ngienˇ "a hundred years": official 山頂有一頭百年老樹. The tea garden is 阿太's (外篇 1).
+
+new_words:
+  - {hanzi: "磚", pinyin: "zonˊ", en: "brick"}
+  - {hanzi: "打磚", pinyin: "daˋ zonˊ", en: "make bricks"}
+  - {hanzi: "天井", pinyin: "tienˊ jiangˋ", en: "courtyard (inside a house)"}
+  - {hanzi: "矮凳仔", pinyin: "aiˋ den eˋ", en: "low stool (MOE)"}
+  - {hanzi: "食飽夜", pinyin: "siid bauˋ ia", en: "after dinner (MOE)"}
+  - {hanzi: "透長年", pinyin: "teu congˇ ngienˇ", en: "year in, year out"}
+  - {hanzi: "轉夜", pinyin: "zonˋ ia", en: "come home from work in the evening"}
+  - {hanzi: "火燂煤", pinyin: "foˋ tamˇ moiˇ", en: "soot"}
+  - {hanzi: "做家", pinyin: "zo gaˊ", en: "thrifty, careful with the household"}
+  - {hanzi: "僅可", pinyin: "giunˋ koˋ", en: "only can, have no choice but"}
+  - {hanzi: "無好食", pinyin: "moˇ hoˋ siid", en: "have nothing to eat"}
+  - {hanzi: "耐", pinyin: "nai", en: "durable, last (毋耐著 \"does not wear well\")"}
+  - {hanzi: "長年透天", pinyin: "congˇ ngienˇ teu tienˊ", en: "all year round"}
+  - {hanzi: "蝨嫲", pinyin: "sedˋ maˇ", en: "louse"}
+  - {hanzi: "竹修仔", pinyin: "zugˋ xiuˊ eˋ", en: "thin cane (for punishing children)"}
+  - {hanzi: "修", pinyin: "xiuˊ", en: "punish, beat (a child) (MOE)"}
+  - {hanzi: "開田", pinyin: "koiˊ tienˇ", en: "clear land for a field"}
+  - {hanzi: "屯泥", pinyin: "tunˇ naiˇ", en: "fill with earth"}
+  - {hanzi: "結石䃗", pinyin: "giedˋ sag bogˋ", en: "build a stone bank"}
+  - {hanzi: "泥肉", pinyin: "naiˇ ngiugˋ", en: "topsoil, soil"}
+  - {hanzi: "擔頭", pinyin: "damˊ teuˇ", en: "load (carried on a pole); burden"}
+  - {hanzi: "堅耐", pinyin: "gienˊ ngai", en: "tough, persevering"}
+  - {hanzi: "換工", pinyin: "von gungˊ", en: "exchange labour"}
+  - {hanzi: "一晝邊", pinyin: "idˋ zu bienˊ", en: "half a day or so"}
+  - {hanzi: "長久", pinyin: "congˇ giuˋ", en: "lasting, long"}
+  - {hanzi: "牽覺", pinyin: "kienˊ gau", en: "snore (in deep sleep)"}
+  - {hanzi: "早早", pinyin: "zoˋ zoˋ", en: "long ago, long since"}
+  - {hanzi: "增志", pinyin: "zen zii", en: "hard-working, make something of oneself"}
+  - {hanzi: "枋仔", pinyin: "biongˊ eˋ", en: "plank"}
+  - {hanzi: "老時", pinyin: "loˋ siiˇ", en: "old times, the old days"}
+  - {hanzi: "道嘆", pinyin: "to tan", en: "sigh, lament"}
+  - {hanzi: "日見日", pinyin: "ngidˋ gien ngidˋ", en: "day after day"}
+  - {hanzi: "年視年", pinyin: "ngienˇ sii ngienˇ", en: "year after year"}
+  - {hanzi: "皺", pinyin: "jiu", en: "wrinkled"}
+  - {hanzi: "百年", pinyin: "bagˋ ngienˇ", en: "a hundred years"}
+  - {hanzi: "家家屋屋", pinyin: "gaˊ gaˊ vugˋ vugˋ", en: "every household"}
+
+exercises:
+  translate:
+    - en: "At dusk we go home from work, ready for dinner."
+      source: kaga115
+      sx: {hanzi: "臨暗仔轉夜，準備食飯哩。", pinyin: "limˇ am eˋ zonˋ ia, zunˋ pi siid fan leˊ."}
+    - en: "In business you must keep your word: then it lasts."
+      source: kaga115
+      sx: {hanzi: "做生理愛講信用，正會長久。", pinyin: "zo senˊ liˊ oi gongˋ xin iung, zang voi congˇ giuˋ."}
+    - en: "Never mind you, I've nothing to eat myself!"
+      source: kaga115
+      sx: {hanzi: "莫講你，𠊎自家乜無好食！", pinyin: "mog gongˋ nˇ, ngaiˇ qi gaˊ me moˇ hoˋ siid!"}
+    - en: "The capital is small: no way to run a big business, we can only start small."
+      source: kaga
+      sx: {hanzi: "資本毋大，無辦法做大生理，僅可細細仔做啊起。", pinyin: "ziiˊ bunˋ mˇ tai, moˇ pan fabˋ zo tai senˊ liˊ, giunˋ koˋ se se eˋ zo a hiˋ."}
+    - en: "Leaving a light well in the building made it much brighter inside."
+      source: kaga115
+      sx: {hanzi: "大樓肚留隻天井，樓肚个光線改善當多。", pinyin: "tai leuˇ duˋ liuˇ zagˋ tienˊ jiangˋ, leuˇ duˋ ge gongˊ xien goiˋ san dongˊ doˊ."}
+  fill:
+    - en: "Grandma is very thrifty: she can't bear to throw anything away."
+      sx: {hanzi: "阿婆當___，麼个都毋盼得攉忒。", pinyin: "aˊ poˇ dongˊ ___, maˋ ge du mˇ pan dedˋ vogˋ tedˋ.", answer_hanzi: "做家", answer: "zo gaˊ"}
+    - en: "The neighbours are harvesting: let's go and exchange labour with them."
+      sx: {hanzi: "隔壁割禾，𫣆兜去同佢___。", pinyin: "gagˋ biagˋ godˋ voˇ, enˊ deuˊ hi tungˇ giˇ ___.", answer_hanzi: "換工", answer: "von gungˊ"}
+    - en: "Grandpa snores when he sleeps."
+      sx: {hanzi: "阿公睡目會___。", pinyin: "aˊ gungˊ soi mugˋ voi ___.", answer_hanzi: "牽覺", answer: "kienˊ gau"}
+    - en: "This table is made of planks."
+      sx: {hanzi: "這張桌仔係用___做个。", pinyin: "iaˋ zongˊ zogˋ eˋ he iung ___ zo ge.", answer_hanzi: "枋仔", answer: "biongˊ eˋ"}
+    - en: "Be persevering in your work: don't think of giving up."
+      sx: {hanzi: "做事愛___，毋好想放忒。", pinyin: "zo se oi ___, mˇ hoˋ xiongˋ biong tedˋ.", answer_hanzi: "堅耐", answer: "gienˊ ngai"}
+
+audio: []

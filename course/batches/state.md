@@ -129,3 +129,6 @@ style of 採茶戲, not a sung one.
   the graduate school exam (application photo, research plan, late nights). Grandpa buys sugar cane and ties straw
   after the neighbour's harvest; A-min wins a big prize in a school draw. Sat: 叔婆 says her brother spoils his
   children and now his granddaughter. Sunday lunch at the Lius'.
+- 外篇 4 (id 174, extra, essay): Grandpa's text about his childhood in the 1950s for A-in's radio slot: the mud-brick
+  house with a courtyard, his father at the coal mine, his thrifty step-grandmother, sweet-potato rice, lice, the
+  field his father cleared by the river, harvests by exchange of labour; a little sister; the desk his father made.
