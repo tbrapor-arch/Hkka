@@ -130,7 +130,7 @@ Hailu Sam 羅盛滿 → HM, 阿明 HM → 羅盛滿; 林師傅 (Sixian) XM → �
 
 Same procedure as for 進修 1–70 and 外篇 1–2 (`HKKA=… tts311/bin/python Hkka-private/tools/tts.py --space space
 --lessons 1-100,101-180`, environment as above). 420 files made: 419 for 外篇 3–10 (ids 173–180, files P73–P80:
-8 titles, 303 lines, 80 exercise answers, 29 new words; the other 240 new words have a real 客委會 clip), plus
+8 titles, 302 lines, 80 exercise answers, 29 new words; the other 240 new words have a real 客委會 clip), plus
 進修 46 line 2 re-voiced after its text fix (吾間房). 8,966 files unchanged (cache). 34 minutes of new audio.
 - Cast: prose (diary, memoir, tale, news, story, letter, fable) in the narrator voice XF, as 外篇 1–2 and the prose
   進修 lessons; 外篇 9 (阿傑's speech) has `speaker: 阿傑` on every line → HM, as the speeches of 進修 30 and 40.
