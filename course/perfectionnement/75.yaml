@@ -1,0 +1,359 @@
+id: 75
+genre: tale
+title:
+  en: "It is not that Heaven does not repay: the day has not yet come"
+  sx: {hanzi: "日仔吂到，毋係天公毋報", pinyin: "ngidˋ eˇ mangˇ do, mˇ he tienˊ gungˊ mˇ bo"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. A tale (invented, in the manner of the 伯公 stories): a bully who mocks the earth
+  god's shrine is punished, and mends his ways. No character of the course.
+names: [阿貴]
+
+dialogue:
+  - n: 1
+    en: "Long ago there was a village, and in the village there was a shrine to the earth god."
+    sx: {hanzi: "頭擺有一隻莊頭，莊頭有一間伯公下。", pinyin: "teuˇ baiˋ iuˊ idˋ zagˋ zongˊ teuˇ, zongˊ teuˇ iuˊ idˋ gienˊ bagˋ gungˊ haˊ."}
+    check: true
+  - n: 2
+    en: "Whenever the villagers had something on their minds, they went to the shrine"
+    sx: {hanzi: "莊頭个人有麼个事情，就去伯公下，", pinyin: "zongˊ teuˇ ge nginˇ iuˊ maˋ ge sii qinˇ, qiu hi bagˋ gungˊ haˊ,"}
+    check: true
+  - n: 3
+    en: "and bowed with three sticks of incense."
+    source: kaga115
+    sx: {hanzi: "擎三支香拜喏。", pinyin: "kiaˇ samˊ giˊ hiongˊ bai iaˊ."}
+  - n: 4
+    en: "In the village there was a young man called A-gui. He was a fierce one, and everyone was afraid of him."
+    sx: {hanzi: "莊頭有一儕後生人，安到阿貴，佢惡豺豺仔，大家都驚佢。", pinyin: "zongˊ teuˇ iuˊ idˋ saˇ heu sangˊ nginˇ, onˊ do aˊ gui, giˇ ogˋ saiˇ saiˇ eˋ, tai gaˊ du giangˊ giˇ."}
+    check: true
+  - n: 5
+    en: "A-gui and his friends were hooligans."
+    sx: {hanzi: "阿貴同佢个朋友係鱸鰻仔。", pinyin: "aˊ gui tungˇ giˇ ge penˇ iuˊ he luˇ manˇ eˋ."}
+    check: true
+  - n: 6
+    en: "Those hooligans often ran riot in the market, and everyone loathed them."
+    source: kaga115
+    sx: {hanzi: "該兜鱸鰻仔輒常在市場橫打直過，大家全當惱佢。", pinyin: "ge deuˊ luˇ manˇ eˋ jiab songˇ coiˊ sii congˇ vangˇ daˋ ciid go, tai gaˊ qionˇ dongˊ nauˊ giˇ."}
+  - n: 7
+    en: "A-gui did no work himself: he only gave his friends orders. He said:"
+    sx: {hanzi: "阿貴自家毋做事，淨會喊朋友去做。佢講：", pinyin: "aˊ gui qi gaˊ mˇ zo se, qiang voi ham penˇ iuˊ hi zo. giˇ gongˋ:"}
+    check: true
+  - n: 8
+    en: "The clever give orders, the foolish do the work."
+    source: kaga115
+    sx: {hanzi: "精人使嘴，戇人出力。", pinyin: "jinˊ nginˇ siiˋ zoi, ngong nginˇ cudˋ lid."}
+  - n: 9
+    en: "They were a shifty lot: who knew what they were up to."
+    source: kaga115
+    sx: {hanzi: "該兜人沒沒術術，毋知愛去做麼个。", pinyin: "ge deuˊ nginˇ mud mud sud sud, mˇ diˊ oi hi zo maˋ ge."}
+  - n: 10
+    en: "A-gui also loved to tell lies and to mock people."
+    sx: {hanzi: "阿貴又盡愛講花蓼，又愛誚㸐人。", pinyin: "aˊ gui iu qin oi gongˋ faˊ liauˊ, iu oi seuˊ nadˋ nginˇ."}
+    check: true
+  - n: 11
+    en: "When he saw people bowing at the shrine he laughed at them for fools: \"The earth god is made of mud: what's the use of praying to him?\""
+    sx: {hanzi: "佢看著人去伯公下拜喏，就笑人戇。佢講：「伯公係泥做个，有麼个好拜？」", pinyin: "giˇ kon doˋ nginˇ hi bagˋ gungˊ haˊ bai iaˊ, qiu seu nginˇ ngong. giˇ gongˋ: bagˋ gungˊ he naiˇ zo ge, iuˊ maˋ ge hoˋ bai?"}
+    check: true
+  - n: 12
+    en: "When the villagers heard it, they said:"
+    sx: {hanzi: "莊頭个人聽著，講：", pinyin: "zongˊ teuˇ ge nginˇ tangˊ doˋ, gongˋ:"}
+    check: true
+  - n: 13
+    en: "He dares do even that? How wicked can he be!"
+    source: kaga115
+    sx: {hanzi: "這種事情佢乜敢做？仰會恁夭壽！", pinyin: "iaˋ zungˋ sii qinˇ giˇ me gamˋ zo? ngiongˋ voi anˋ ieuˊ su!"}
+  - n: 14
+    en: "An old man said to A-gui:"
+    sx: {hanzi: "有一個老人家同阿貴講：", pinyin: "iuˊ idˋ ge loˋ nginˇ gaˊ tungˇ aˊ gui gongˋ:"}
+    check: true
+  - n: 15
+    en: "Don't say mocking things carelessly: all you earn is people's dislike."
+    source: kaga115
+    sx: {hanzi: "誚㸐人个話，毋好儘採講，搏人惱就有。", pinyin: "seuˊ nadˋ nginˇ ge fa, mˇ hoˋ qinˋ caiˋ gongˋ, bogˋ nginˇ nauˊ qiu iuˊ."}
+  - n: 16
+    en: "What you say must have grounds: you can't talk wildly."
+    source: kaga115
+    sx: {hanzi: "講話愛有根據，做毋得濫糝講。", pinyin: "gongˋ fa oi iuˊ ginˊ giˋ, zomˇ dedˋ lamˋ samˋ gongˋ."}
+  - n: 17
+    en: "Think first, then act: don't rush in headlong."
+    source: kaga115
+    sx: {hanzi: "做事情愛先想清楚正去做，毋好礱礱舂舂。", pinyin: "zo sii qinˇ oi xienˊ xiongˋ qinˊ cuˋ zang hi zo, mˇ hoˋ lungˇ lungˇ zungˊ zungˊ."}
+  - n: 18
+    en: "Do so many bad things and the gods will punish you."
+    source: kaga
+    sx: {hanzi: "做恁多壞事，會分神明責罰。", pinyin: "zo anˋ doˊ faiˋ sii, voi bunˊ siinˇ minˇ jidˋ fad."}
+  - n: 19
+    en: "Everyone knew what A-gui was like:"
+    sx: {hanzi: "阿貴這人，大家都知：", pinyin: "aˊ gui iaˋ nginˇ, tai gaˊ du diˊ:"}
+    check: true
+  - n: 20
+    en: "He was not a man you could speak to: at the least thing he turned nasty."
+    source: kaga115
+    sx: {hanzi: "佢斯無分人講个，動啊著就變面。", pinyin: "giˇ siiˇ moˇ bunˊ nginˇ gongˋ ge, tungˊ a doˋ qiu bien mien."}
+  - n: 21
+    en: "He said: \"Stop talking rubbish. I'm not afraid: I have friends to give me courage.\""
+    sx: {hanzi: "佢講：「你莫在該屙膿滑血。𠊎無驚，有朋友同𠊎做膽。」", pinyin: "giˇ gongˋ: nˇ mog du ge oˊ nungˇ vad hiedˋ. ngaiˇ moˇ giangˊ, iuˊ penˇ iuˊ tungˇ ngaiˇ zo damˋ."}
+    check: true
+  - n: 22
+    en: "Behind the shrine there was a river, and people said:"
+    sx: {hanzi: "伯公下後背有一條河壩，大家講：", pinyin: "bagˋ gungˊ haˊ heu boi iuˊ idˋ tiauˇ hoˇ ba, tai gaˊ gongˋ:"}
+    check: true
+  - n: 23
+    en: "They say there are water snakes in there: who knows if it's true?"
+    source: kaga115
+    sx: {hanzi: "聽講該水竇肚有水蛇，毋知有影無？", pinyin: "tangˊ gongˋ ge suiˋ deu duˋ iuˊ suiˋ saˇ, mˇ diˊ iuˊ iangˋ moˇ?"}
+  - n: 24
+    en: "One night A-gui was going home alone along the path halfway up the hill."
+    sx: {hanzi: "有一暗晡，阿貴一儕對半山排个路轉屋下。", pinyin: "iuˊ idˋ am buˊ, aˊ gui idˋ saˇ dui ban sanˊ paiˇ ge lu zonˋ vugˋ kaˊ."}
+    check: true
+  - n: 25
+    en: "A path that is not walked for a long time grows moss."
+    source: kaga115
+    sx: {hanzi: "路係久無行，就會生溜苔。", pinyin: "lu he giuˋ moˇ hangˇ, qiu voi sangˊ liuˊ toiˇ."}
+  - n: 26
+    en: "At midnight he passed the graves, and the further he walked, the more uneasy he felt."
+    source: kaga115
+    sx: {hanzi: "佢半夜行過塚埔，緊行緊發痴驚。", pinyin: "giˇ ban ia hangˇ go cungˋ puˊ, ginˋ hangˇ ginˋ bodˋ ciiˊ giangˊ."}
+  - n: 27
+    en: "As bad luck would have it, he stepped on the moss and fell into the water."
+    sx: {hanzi: "好死毋死，佢踏著溜苔，跌落水竇肚。", pinyin: "hoˋ xiˋ mˇ xiˋ, giˇ tab doˋ liuˊ toiˇ, diedˋ log suiˋ deu duˋ."}
+    check: true
+  - n: 28
+    en: "A-gui was scared to death and kept shouting for help."
+    sx: {hanzi: "阿貴驚到會死，緊喊救命。", pinyin: "aˊ gui giangˊ do voi xiˋ, ginˋ ham giu miang."}
+    check: true
+  - n: 29
+    en: "Someone heard and pulled him out, and at once he fainted."
+    sx: {hanzi: "有人聽著，同佢救起來，佢一下就失魂忒去。", pinyin: "iuˊ nginˇ tangˊ doˋ, tungˇ giˇ giu hiˋ loiˇ, giˇ idˋ ha qiu siidˋ funˇ tedˋ hi."}
+    check: true
+  - n: 30
+    en: "At dawn A-gui came to, but his eyes could not see: he had gone blind."
+    sx: {hanzi: "天光个時節，阿貴醒過來，目珠看毋著東西：佢青瞑哩。", pinyin: "tienˊ gongˊ ge siiˇ jiedˋ, aˊ gui xiangˋ go loiˇ, mugˋ zuˊ kon mˇ doˋ dungˊ xiˊ: giˇ qiangˊ miangˊ leˊ."}
+    check: true
+  - n: 31
+    en: "The blind have the sharper ears."
+    source: kaga
+    sx: {hanzi: "青瞑个人顛倒耳公當利。", pinyin: "qiangˊ miangˊ ge nginˇ dienˊ do ngiˋ gungˊ dongˊ li."}
+  - n: 32
+    en: "He heard the neighbours talking about him:"
+    sx: {hanzi: "佢聽著隔壁个人講佢：", pinyin: "giˇ tangˊ doˋ gagˋ biagˋ ge nginˇ gongˋ giˇ:"}
+    check: true
+  - n: 33
+    en: "That one's no good: everyone knows his past."
+    source: kaga115
+    sx: {hanzi: "該人毋係好東西，厥歷史大家就知知。", pinyin: "ge nginˇ mˇ he hoˋ dungˊ xiˊ, giaˊ lag saiˋ tai gaˊ qiu diˊ diˊ."}
+  - n: 34
+    en: "He was so angry he nearly went mad."
+    source: kaga
+    sx: {hanzi: "佢譴到強強會發癲吔。", pinyin: "giˇ kienˋ do kiongˇ kiongˇ voi bodˋ dienˊ leˊ."}
+  - n: 35
+    en: "At first he blamed the earth god; later he understood that he himself was in the wrong."
+    sx: {hanzi: "佢先怪怨伯公，後來正知係自家毋著。", pinyin: "giˇ xienˊ guai ien bagˋ gungˊ, heu loiˇ zang diˊ he qi gaˊ mˇ cog."}
+    check: true
+  - n: 36
+    en: "Every morning he went to bow at the shrine; he dared not tell lies any more, and no longer went about with those good-for-nothing friends."
+    sx: {hanzi: "佢逐日朝晨去伯公下拜喏，毋敢再講花蓼，乜毋再同該兜不褡不膝个朋友合共下。", pinyin: "giˇ dagˋ ngidˋ zeuˊ siinˇ hi bagˋ gungˊ haˊ bai iaˊ, mˇ gamˋ zai gongˋ faˊ liauˊ, me mˇ zai tungˇ ge deuˊ budˋ dabˋ budˋ qidˋ ge penˇ iuˊ hab kiung ha."}
+    check: true
+  - n: 37
+    en: "He toiled in the fields, year after year."
+    sx: {hanzi: "佢在田項勞碌，一年過一年。", pinyin: "giˇ coiˊ tienˇ hong loˇ lugˋ, idˋ ngienˇ go idˋ ngienˇ."}
+    check: true
+  - n: 38
+    en: "Three years later his eyes slowly began to see again. People said it was as if he had come back to life."
+    sx: {hanzi: "過三年，佢个目珠慢慢看得著吔。大家講佢像返生樣仔。", pinyin: "go samˊ ngienˇ, giˇ ge mugˋ zuˊ man man kon dedˋ doˋ leˊ. tai gaˊ gongˋ giˇ qiong fanˋ sangˊ iong eˋ."}
+    check: true
+  - n: 39
+    en: "Once, when A-gui showed himself, the whole village quarrelled; now people say:"
+    sx: {hanzi: "頭擺阿貴一出來，莊頭就冤家泌背；這下大家講：", pinyin: "teuˇ baiˋ aˊ gui idˋ cudˋ loiˇ, zongˊ teuˇ qiu ienˊ gaˊ bi boi; iaˋ ha tai gaˊ gongˋ:"}
+    check: true
+  - n: 40
+    en: "It is not that Heaven does not repay: the day has not yet come."
+    sx: {hanzi: "日仔吂到，毋係天公毋報。", pinyin: "ngidˋ eˇ mangˇ do, mˇ he tienˊ gungˊ mˇ bo."}
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The fifth extra lesson: a tale invented for the course in the manner of the stories about 伯公, the earth god
+      whose small shrines (伯公下, lesson 22) stand at the edge of Hakka villages (general knowledge). The title is a
+      saying of the MOE dictionary (an entry, with no recording), quoted in line 40: retribution comes, only later.
+  - ref: 3
+    topic: vocab
+    text: >
+      拜喏 bai iaˊ "bow with joined hands" before the gods (official: 逐日朝晨，阿公都會擐神茶去伯公下拜喏).
+  - ref: 4
+    topic: vocab
+    text: >
+      惡豺豺仔 ogˋ saiˇ saiˇ eˋ "fierce, vicious-looking", of people and animals (official: 這狗仔惡豺豺仔).
+  - ref: 6
+    topic: vocab
+    text: >
+      橫打直過 vangˇ daˋ ciid go "run riot, do as one pleases"; the list also gives "go straight ahead unhindered". 鱸鰻仔
+      "hooligan".
+  - ref: 8
+    topic: vocab
+    text: >
+      使嘴 siiˋ zoi "give orders (with the mouth only)": a saying, the clever talk and the fools work.
+  - ref: 9
+    topic: vocab
+    text: >
+      沒沒術術 mud mud sud sud "shifty, underhand".
+  - ref: 10
+    topic: vocab
+    text: >
+      講花蓼 gongˋ faˊ liauˊ "tell lies" (official: 佢做人硬直，絕對毋會講花蓼). 誚㸐 seuˊ nadˋ "mock, sneer at" (line 15).
+  - ref: 13
+    topic: vocab
+    text: >
+      夭壽 ieuˊ su "short-lived": a curse, and an exclamation at something wicked (official: 該隻夭壽子 "that wretch").
+  - ref: 15
+    topic: vocab
+    text: >
+      搏 bogˋ "earn, get" (MOE 博取): 搏人惱就有 "all you get is people's dislike". 儘採 "carelessly".
+  - ref: 16
+    topic: vocab
+    text: >
+      濫糝 lamˋ samˋ "wildly, at random": 濫糝講 "talk wildly".
+  - ref: 17
+    topic: vocab
+    text: >
+      礱礱舂舂 lungˇ lungˇ zungˊ zungˊ "headlong, rashly".
+  - ref: 18
+    topic: vocab
+    text: >
+      責罰 jidˋ fad "punish": in the list, punishment by the gods.
+  - ref: 20
+    topic: vocab
+    text: >
+      變面 bien mien "turn nasty, fall out". 動啊著 "at the least thing" (the list: 動不動).
+  - ref: 21
+    topic: vocab
+    text: >
+      屙膿滑血 oˊ nungˇ vad hiedˋ "talk rubbish": official 你莫在該屙膿滑血，講麼个食兩粒烏豆仔就會後生二十歲. 做膽 zo damˋ "give courage"
+      (official: 好得有你做膽).
+  - ref: 23
+    topic: vocab
+    text: >
+      水竇肚 suiˋ deu duˋ "in the water".
+  - ref: 24
+    topic: vocab
+    text: >
+      半山排 ban sanˊ paiˇ "halfway up the hill" (official: 該片半山排種恁多檳榔).
+  - ref: 25
+    topic: vocab
+    text: >
+      溜苔 liuˊ toiˇ "moss".
+  - ref: 26
+    topic: vocab
+    text: >
+      塚埔 cungˋ puˊ "graveyard". 發痴驚 bodˋ ciiˊ giangˊ "feel uneasy, frightened for no reason".
+  - ref: 27
+    topic: vocab
+    text: >
+      好死毋死 hoˋ xiˋ mˇ xiˋ "as bad luck would have it" (official: 今晡日衫著較少，好死毋死，辦公室个冷氣開到恁冷).
+  - ref: 28
+    topic: vocab
+    text: >
+      驚到會死 giangˊ do voi xiˋ "scared to death" (official: 講著地動，大家驚到會死).
+  - ref: 29
+    topic: vocab
+    text: >
+      失魂 siidˋ funˇ "faint": 失魂忒去, as in the official 佢對梯排項跌下來，一下就失魂忒去.
+  - ref: 30
+    topic: vocab
+    text: >
+      青瞑 qiangˊ miangˊ "blind".
+  - ref: 33
+    topic: vocab
+    text: >
+      歷史 lag saiˋ "someone's past" is a word borrowed from Minnan (the list says so); 歷史 lid siiˋ "history" is from
+      lesson 73.
+  - ref: 34
+    topic: vocab
+    text: >
+      發癲 bodˋ dienˊ "go mad". 譴 "be angry".
+  - ref: 35
+    topic: vocab
+    text: >
+      怪怨 guai ien "blame" (official: 作當係恁樣，你乜莫怪怨佢).
+  - ref: 36
+    topic: vocab
+    text: >
+      不褡不膝 budˋ dabˋ budˋ qidˋ "disreputable, good-for-nothing": the list explains it as neither a bib nor a knee
+      cloth.
+  - ref: 37
+    topic: vocab
+    text: >
+      勞碌 loˇ lugˋ "toil" (official: 屋下恁多兄弟姊妹，就佢盡勞碌).
+  - ref: 38
+    topic: vocab
+    text: >
+      返生 fanˋ sangˊ "come back to life" (official, of weeds: 剷草定著愛斬草除根，日後正毋會返生).
+  - ref: 39
+    topic: vocab
+    text: >
+      冤家泌背 ienˊ gaˊ bi boi "quarrel bitterly" (official: 舞到歸莊人冤家泌背).
+
+new_words:
+  - {hanzi: "拜喏", pinyin: "bai iaˊ", en: "bow with joined hands (to the gods)"}
+  - {hanzi: "惡豺豺仔", pinyin: "ogˋ saiˇ saiˇ eˋ", en: "fierce, vicious-looking"}
+  - {hanzi: "橫打直過", pinyin: "vangˇ daˋ ciid go", en: "run riot, act as one pleases"}
+  - {hanzi: "使嘴", pinyin: "siiˋ zoi", en: "give orders (and do nothing)"}
+  - {hanzi: "沒沒術術", pinyin: "mud mud sud sud", en: "shifty, underhand"}
+  - {hanzi: "講花蓼", pinyin: "gongˋ faˊ liauˊ", en: "tell lies"}
+  - {hanzi: "誚㸐", pinyin: "seuˊ nadˋ", en: "mock, sneer at"}
+  - {hanzi: "夭壽", pinyin: "ieuˊ su", en: "wicked; short-lived (a curse)"}
+  - {hanzi: "搏", pinyin: "bogˋ", en: "earn, get (MOE 博取)"}
+  - {hanzi: "濫糝", pinyin: "lamˋ samˋ", en: "wildly, at random"}
+  - {hanzi: "礱礱舂舂", pinyin: "lungˇ lungˇ zungˊ zungˊ", en: "headlong, rashly"}
+  - {hanzi: "責罰", pinyin: "jidˋ fad", en: "punish (of the gods)"}
+  - {hanzi: "變面", pinyin: "bien mien", en: "turn nasty, fall out"}
+  - {hanzi: "屙膿滑血", pinyin: "oˊ nungˇ vad hiedˋ", en: "talk rubbish, lie outrageously"}
+  - {hanzi: "做膽", pinyin: "zo damˋ", en: "give courage, embolden"}
+  - {hanzi: "水竇肚", pinyin: "suiˋ deu duˋ", en: "in the water"}
+  - {hanzi: "半山排", pinyin: "ban sanˊ paiˇ", en: "halfway up the hill"}
+  - {hanzi: "溜苔", pinyin: "liuˊ toiˇ", en: "moss"}
+  - {hanzi: "塚埔", pinyin: "cungˋ puˊ", en: "graveyard"}
+  - {hanzi: "發痴驚", pinyin: "bodˋ ciiˊ giangˊ", en: "feel uneasy, be frightened for no reason"}
+  - {hanzi: "好死毋死", pinyin: "hoˋ xiˋ mˇ xiˋ", en: "as bad luck would have it"}
+  - {hanzi: "驚到會死", pinyin: "giangˊ do voi xiˋ", en: "scared to death"}
+  - {hanzi: "失魂", pinyin: "siidˋ funˇ", en: "faint"}
+  - {hanzi: "青瞑", pinyin: "qiangˊ miangˊ", en: "blind"}
+  - {hanzi: "歷史", pinyin: "lag saiˋ", en: "someone's past, background (borrowed from Minnan)"}
+  - {hanzi: "發癲", pinyin: "bodˋ dienˊ", en: "go mad"}
+  - {hanzi: "怪怨", pinyin: "guai ien", en: "blame"}
+  - {hanzi: "不褡不膝", pinyin: "budˋ dabˋ budˋ qidˋ", en: "good-for-nothing, disreputable"}
+  - {hanzi: "勞碌", pinyin: "loˇ lugˋ", en: "toil, work hard"}
+  - {hanzi: "返生", pinyin: "fanˋ sangˊ", en: "come back to life"}
+  - {hanzi: "冤家泌背", pinyin: "ienˊ gaˊ bi boi", en: "quarrel bitterly"}
+
+exercises:
+  translate:
+    - en: "What you two say doesn't fit at all: one of you is lying."
+      source: kaga115
+      sx: {hanzi: "你兩儕講个完全落毋著，定著有一儕講花蓼。", pinyin: "nˇ liongˋ saˇ gongˋ ge vanˇ qionˇ log mˇ cog, tin cog iuˊ idˋ saˇ gongˋ faˊ liauˊ."}
+    - en: "This dog looks so vicious that everyone is afraid of being bitten."
+      source: kaga115
+      sx: {hanzi: "這狗仔惡豺豺仔，大家都驚分佢咬著。", pinyin: "iaˋ gieuˋ eˇ ogˋ saiˇ saiˇ eˋ, tai gaˊ du giangˊ bunˊ giˇ ngauˊ cog."}
+    - en: "Every morning Grandpa takes tea for the gods to the earth god's shrine and bows."
+      source: kaga115
+      sx: {hanzi: "逐日朝晨，阿公都會擐神茶去伯公下拜喏。", pinyin: "dagˋ ngidˋ zeuˊ siinˇ, aˊ gungˊ du voi kuan siinˇ caˇ hi bagˋ gungˊ haˊ bai iaˊ."}
+    - en: "That man takes offence easily: he may turn nasty at any moment."
+      source: kaga115
+      sx: {hanzi: "該隻人盡生毛面，可能隨時會變面。", pinyin: "ge zagˋ nginˇ qin sangˊ moˊ mien, koˋ nenˇ suiˇ siiˇ voi bien mien."}
+    - en: "He fell off the ladder and fainted at once."
+      source: kaga115
+      sx: {hanzi: "佢對梯排項跌下來，一下就失魂忒去。", pinyin: "giˇ dui toiˊ paiˇ hong diedˋ haˊ loiˇ, idˋ ha qiu siidˋ funˇ tedˋ hi."}
+  fill:
+    - en: "He is honest: he would never tell a lie."
+      sx: {hanzi: "佢做人硬直，絕對毋會___。", pinyin: "giˇ zo nginˇ ngang ciid, qied dui mˇ voi ___.", answer_hanzi: "講花蓼", answer: "gongˋ faˊ liauˊ"}
+    - en: "Luckily you gave me courage, so the contest went well this time."
+      sx: {hanzi: "好得有你___，這擺个比賽正會恁順序。", pinyin: "hoˋ dedˋ iuˊ nˇ ___, iaˋ baiˋ ge biˋ soi zang voi anˋ sun xi.", answer_hanzi: "做膽", answer: "zo damˋ"}
+    - en: "When earthquakes are mentioned, everyone is scared to death."
+      sx: {hanzi: "講著地動，大家___。", pinyin: "gongˋ doˋ ti tungˊ, tai gaˊ ___.", answer_hanzi: "驚到會死", answer: "giangˊ do voi xiˋ"}
+    - en: "That money is the children's school fees: don't be disgraceful and think of gambling it."
+      sx: {hanzi: "該筆錢係子女个學費，你莫___想拿去賭徼。", pinyin: "ge bidˋ qienˇ he ziiˋ ngˋ ge hog fi, nˇ mog ___ xiongˋ naˊ hi duˋ gieuˋ.", answer_hanzi: "不褡不膝", answer: "budˋ dabˋ budˋ qidˋ"}
+    - en: "Don't rush into things: think first."
+      sx: {hanzi: "做事毋好___，愛先想清楚。", pinyin: "zo se mˇ hoˋ ___, oi xienˊ xiongˋ qinˊ cuˋ.", answer_hanzi: "礱礱舂舂", answer: "lungˇ lungˇ zungˊ zungˊ"}
+
+audio: []
