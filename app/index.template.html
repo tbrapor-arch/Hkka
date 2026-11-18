@@ -684,7 +684,7 @@ function showLessons() {
       <span class="sub" style="font-size:.85rem">${pdone} done · ${pwritten} of ${PTOTAL} written</span></section>
     ${(DATA.bridge || []).length ? `<button class="item" data-go="bridge-0"><span class="no">橋</span><span><span class="tt">其他腔調</span><br><span class="ts">Bridge · from Sixian to Hailu, South Sixian, Dapu, Raoping, Zhao'an · ${DATA.bridge.length} pages, before 進修 1</span></span><span class="chev">›</span></button>` : ''}
     <div class="lgrid pgrid">${p2.map(id => tile(byId, id, next)).join('')}</div>
-    ${(() => { const ex = DATA.lessons.filter(l => l.id > PART2 + PTOTAL).map(l => l.id); return ex.length ? `<p class="sub" style="margin:0"><span class="han">外篇</span> Extra stories, outside the 70: short stories with notes for the last 初級 and 中級 words.</p><div class="lgrid pgrid">${ex.map(id => tile(byId, id, next)).join('')}</div>` : ''; })()}
+    ${(() => { const ex = DATA.lessons.filter(l => l.id > PART2 + PTOTAL).map(l => l.id); return ex.length ? `<p class="sub" style="margin:0"><span class="han">外篇</span> Extra stories, outside the 70: short texts with notes for the last 初級 and 中級 words and for the advanced words real Hakka texts use.</p><div class="lgrid pgrid">${ex.map(id => tile(byId, id, next)).join('')}</div>` : ''; })()}
     <details class="journal"><summary><span class="han">日記</span> Journal (${journal.length})</summary>
       ${journal.length ? `<ul>${journal.map(([d, n, k]) => { const l = byId[n]; return `<li><time>${fmtDate(d)}</time><button class="linkish" data-go="${k}-${n}">${k === 'wave' ? 'Second wave · ' : ''}${lname(n)} · ${esc(l ? l.title.en : '')}</button></li>`; }).join('')}</ul>`
         : '<p class="sub">Lessons you finish show up here with their date.</p>'}</details>

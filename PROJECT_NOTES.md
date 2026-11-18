@@ -6,14 +6,14 @@ session starting from here trusts it.
 
 - **Repos.** `Hkka` (public: course, database build, app), `Hkka-private` (private: Glossika, the owner's books and
   the Books tab of the app, audio tools), `Hkka-audio` (public: recordings and synthetic voice the app copies).
-- **Course: complete.** `make lint`: 172 files, 0 errors. `make coverage`: 3,909 words taught; 基礎級 100%,
-  初級 99%, 中級 98%, 中高級 11%.
+- **Course: complete.** `make lint`: 180 files, 0 errors. `make coverage`: 4,177 words taught; 基礎級 100%,
+  初級 99%, 中級 99%, 中高級 18% (高級 5%).
   - Part 1, `course/lessons/001–100.yaml`: Sixian with Hailu written alongside every line. Story: Sam with the 劉
     family in Miaoli, Nov 2026 – Nov 2027.
   - Accent bridge, `course/bridge/`: six pages between lesson 100 and 進修 1 (`tools/bridge.py`).
-  - Part 2 進修, `course/perfectionnement/01–70.yaml` (Sixian only), plus 外篇 1–2 (`71.yaml`, `72.yaml`, app ids
-    171–172). Method and tools: `docs/perfectionnement-plan.md`, `docs/tooling-handover.md`.
-  - 857 lines carry `check: true`, waiting for a native speaker.
+  - Part 2 進修, `course/perfectionnement/01–70.yaml` (Sixian only), plus 外篇 1–10 (`71–80.yaml`, app ids
+    171–180; 外篇 4–10 teach the attested 中高級 and 高級 words, `course/batches/P74.md`). Method and tools: `docs/perfectionnement-plan.md`, `docs/tooling-handover.md`.
+  - 1,055 lines carry `check: true`, waiting for a native speaker.
 - **Audio.** 客委會 recordings cut per word for all Sixian list words; VoxHakka synthetic voice for every lesson line
   (Part 1 both accents, Part 2 Sixian). `docs/audio.md`, `docs/voice-handover.md`.
 - **App.** `make app` → `app/dist/index.html`, `make site` → `_site/`. The Books tab appears only with a token that

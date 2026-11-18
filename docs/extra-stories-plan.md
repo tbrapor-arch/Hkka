@@ -48,6 +48,9 @@ After 外篇 3 (which teaches 七早八早, 毋多知仔, 一𥍉目): 126 中�
 2. **7–8 extra stories of about 30 words each** for the attested list, the words grouped by what fits one scene
    (category is a start: 時空與情狀副詞 and the doubled adjectives need a narrator; 外在活動與動作 a working scene).
    Skip `SEG` words unless their official sentence holds them; read the hits of `POLY` words before choosing a sense.
+   Done 18 Nov 2026: 外篇 4–10 (ids 174–180; essay, tale, news, story, letter, speech, fable), 233 new words, 210 of
+   them attested (`course/batches/P74.md`). Left on the list: the 8 `SEG` words, 亮亮 (`SEG?`), and 吊頸, 一條線, 人老,
+   圓墳, 金斗盎, 無核卵 (reasons in P74.md). 中高級 12% → 18%, 高級 2% → 5%.
 3. **The remaining attested words as cards**: the official sentence and its recording, no story.
 4. Later: a **"met in my books"** list from the private Books tab (跳童 …): words the user meets while reading, ranked
    by that rather than by the corpus. Built in Hkka-private only.

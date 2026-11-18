@@ -143,6 +143,9 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
 - Lint now also checks "X is from 進修 N" notes against `new_words` and exercises that repeat their own text.
 - Part 2 is finished. Two extra stories (外篇 1–2, files 71.yaml and 72.yaml, app ids 171–172) teach 52 of the 66
   words left out.
+- 外篇 3 (id 173) and 外篇 4–10 (ids 174–180, 18 Nov 2026): the last 初級 and 中級 words, then 210 words of the
+  attested list (`tools/attested.py`), one story per packet with the same draft → lint process. Brief:
+  `course/batches/P74.md`. Audio for 173–180 is not made yet.
 - Audio (11 Nov 2026): `Hkka-private/tools/tts.py --lessons 1-100,101-172` now voices 進修 too (Sixian only, files
   P01-…). 2,979 files were made: the changed Part 1 lines and all of Part 2. Published to Hkka-audio; the site was
   rebuilt. The Part 2 cast is in `tools/cast.yaml` (provisional, as for Part 1).
