@@ -30,6 +30,11 @@ pages between lesson 100 and 進修 1) is on main too: see "Accent bridge" below
   second year. The second wave is the app's business
   (finishing P36 brings back P1): it puts no constraint on the words or the theme of P36.
 
+## Extra stories (外篇, after P70)
+外篇 1–2 (ids 171–172) teach most of the words P64–P70 left out. The next ones are planned in
+`docs/extra-stories-plan.md`: 外篇 3 for the last 初級 and 中級 words, then stories built on the attested-word list
+(`tools/attested.py` → `course/packets/attested.tsv`), which replaces raw corpus frequency for the 中高級 and 高級 words.
+
 ## Process from P36 on (10 Nov 2026: faster, still one lesson at a time)
 The user found the process slow and costly in usage. The cost was the word hunt for every lesson, the reading of the
 whole checklist, and a review that looked for mechanical errors. These are now done once, or by a script:

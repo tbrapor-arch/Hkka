@@ -37,6 +37,7 @@ order is poorer.
 | `course/batches/state.md` | The story so far, in 40 lines. Add three lines per lesson |
 | `tools/lint.py` | New checks for 進修 (list below) |
 | `Makefile` | `make packet N=36` |
+| `tools/attested.py` | The attested-word list for the extra stories → `course/packets/attested.tsv` (18 Nov 2026, `docs/extra-stories-plan.md`) |
 
 ## How to write one lesson
 1. `python3 -I tools/packets.py short 43`, then read `course/batches/card.md` and `course/batches/state.md`.
