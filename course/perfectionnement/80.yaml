@@ -1,0 +1,331 @@
+id: 80
+genre: tale
+title:
+  en: "A mouth has two lips"
+  sx: {hanzi: "一張嘴兩層皮", pinyin: "idˋ zongˊ zoi liongˋ cenˇ piˇ"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. A fable, retold for the course after Aesop's "The miller, his son and the donkey",
+  with an ox: a father and son on the way to market try to please every passer-by. No character of the course.
+names: []
+
+dialogue:
+  - n: 1
+    en: "Long ago an old man and his son were leading an ox to market to sell."
+    sx: {hanzi: "頭擺有一個老人家，同佢个倈仔牽一條牛去街路賣。", pinyin: "teuˇ baiˋ iuˊ idˋ ge loˋ nginˇ gaˊ, tungˇ giˇ ge lai eˋ kienˊ idˋ tiauˇ ngiuˇ hi gieˊ lu mai."}
+    check: true
+  - n: 2
+    en: "The son was a fine-looking boy, in a new jacket. The weather was turning cold, and the old man told him:"
+    sx: {hanzi: "倈仔生來幼秀，著一領新个面衫。天時轉寒，老人家同佢講：", pinyin: "lai eˋ sangˊ loiˇ iu xiu, zogˋ idˋ liangˊ xinˊ ge mien samˊ. tienˊ siiˇ zonˋ honˇ, loˋ nginˇ gaˊ tungˇ giˇ gongˋ:"}
+    check: true
+  - n: 3
+    en: "It's turning cold: quick, put on another jacket."
+    source: kaga
+    sx: {hanzi: "天時轉寒，遽遽拿一領面衫加等。", pinyin: "tienˊ siiˇ zonˋ honˇ, giagˋ giagˋ naˊ idˋ liangˊ mien samˊ gaˊ denˋ."}
+  - n: 4
+    en: "The son walked very slowly, and the old man said again:"
+    sx: {hanzi: "倈仔行路行到盡慢，老人家又講：", pinyin: "lai eˋ hangˇ lu hangˇ do qin man, loˋ nginˇ gaˊ iu gongˋ:"}
+    check: true
+  - n: 5
+    en: "Don't be so slow about things: hurry up a bit."
+    source: kaga115
+    sx: {hanzi: "做事情莫恁慢板，愛遽兜仔。", pinyin: "zo sii qinˇ mog anˋ man banˋ, oi giagˋ deuˊ eˋ."}
+  - n: 6
+    en: "People came and went along the road, and when they saw the two of them, everyone had something different to say."
+    sx: {hanzi: "路項个人來來去去，出出入入，看著佢兜，就十嘴九屎胐。", pinyin: "lu hong ge nginˇ loiˇ loiˇ hi hi, cudˋ cudˋ ngib ngib, kon doˋ giˇ deuˊ, qiu siib zoi giuˋ sii vudˋ."}
+    check: true
+  - n: 7
+    en: "Someone laughed at them for fools: they have an ox and don't ride it, why walk?"
+    sx: {hanzi: "有人笑佢兜戇：有牛毋騎，愛使行路？", pinyin: "iuˊ nginˇ seu giˇ deuˊ ngong: iuˊ ngiuˇ mˇ kiˇ, oi siiˋ hangˇ lu?"}
+    check: true
+  - n: 8
+    en: "The old man thought it over and over, and told his son to ride the ox."
+    sx: {hanzi: "老人家想去想轉，就喊倈仔騎牛。", pinyin: "loˋ nginˇ gaˊ xiongˋ hi xiongˋ zonˋ, qiu ham lai eˋ kiˇ ngiuˇ."}
+    check: true
+  - n: 9
+    en: "They hadn't gone far when an old man held forth, spluttering:"
+    sx: {hanzi: "行無幾遠，有一個阿伯講到口涎波潑：", pinyin: "hangˇ moˇ giˋ ienˋ, iuˊ idˋ ge aˊ bagˋ gongˋ do heuˋ lanˊ poˊ bad:"}
+    check: true
+  - n: 10
+    en: "You good-for-nothing child, you're a nuisance every time."
+    source: kaga115
+    sx: {hanzi: "你這無人親像个細人仔，見擺就摝死人。", pinyin: "nˇ iaˋ moˇ nginˇ qinˊ qiong ge se nginˇ eˋ, gien baiˋ qiu lugˋ xiˋ nginˇ."}
+  - n: 11
+    en: "\"The young one rides and the old man walks: is there no justice?\""
+    sx: {hanzi: "「後生人騎牛，老人家行路，還有天理無？」", pinyin: "heu sangˊ nginˇ kiˇ ngiuˇ, loˋ nginˇ gaˊ hangˇ lu, hanˇ iuˊ tienˊ liˊ moˇ?"}
+    check: true
+  - n: 12
+    en: "The son was ashamed; he got down and let the old man ride."
+    sx: {hanzi: "倈仔當見笑，落牛，換老人家騎。", pinyin: "lai eˋ dongˊ gien seu, log ngiuˇ, von loˋ nginˇ gaˊ kiˇ."}
+    check: true
+  - n: 13
+    en: "A little further on, two women talked and grumbled on and on:"
+    sx: {hanzi: "又行無幾遠，有兩個婦人家，緊講緊唸，唸唸唸唸：", pinyin: "iu hangˇ moˇ giˋ ienˋ, iuˊ liongˋ ge fu nginˇ gaˊ, ginˋ gongˋ ginˋ ngiam, ngiamˇ ngiamˇ ngiam ngiam:"}
+    check: true
+  - n: 14
+    en: "\"They're both people: the old one rides and the young one walks. It's a pity to see.\""
+    sx: {hanzi: "「平平係人，老个騎牛，細个行路，看著當毋盼得。」", pinyin: "piangˇ piangˇ he nginˇ, loˋ ge kiˇ ngiuˇ, se ge hangˇ lu, kon doˋ dongˊ mˇ pan dedˋ."}
+    check: true
+  - n: 15
+    en: "They looked down on the old man, and spat on the ground."
+    sx: {hanzi: "佢兜看無這個老人家，又對地泥下呸口涎。", pinyin: "giˇ deuˊ kon moˇ iaˋ ge loˋ nginˇ gaˊ, iu dui ti naiˇ ha pi heuˋ lanˊ."}
+    check: true
+  - n: 16
+    en: "The old man had something wrong with his legs: he walked with a limp."
+    sx: {hanzi: "老人家个腳有各樣，行路跛啊跛仔。", pinyin: "loˋ nginˇ gaˊ ge giogˋ iuˊ gogˋ iong, hangˇ lu baiˊ a baiˊ eˋ."}
+    check: true
+  - n: 17
+    en: "There was nothing he could do: he told his son to get up and ride too."
+    sx: {hanzi: "佢無奈何，喊倈仔乜上來騎。", pinyin: "giˇ moˇ nai hoˇ, ham lai eˋ me song loiˇ kiˇ."}
+    check: true
+  - n: 18
+    en: "With both of them on its back, the ox grew terribly tired and could hardly breathe."
+    sx: {hanzi: "兩儕人一抹煞騎在牛背項，牛行到不勝悿，敨氣毋順。", pinyin: "liongˋ saˇ nginˇ idˋ madˋ sadˋ kiˇ coiˊ ngiuˇ boi hong, ngiuˇ hangˇ do budˋ siin tiamˋ, teuˋ hi mˇ sun."}
+    check: true
+  - n: 19
+    en: "A man staggering drunk saw them and said:"
+    sx: {hanzi: "一個食到醉摸摸仔个人看著，講：", pinyin: "idˋ ge siid do zui miaˊ miaˊ eˋ ge nginˇ kon doˋ, gongˋ:"}
+    check: true
+  - n: 20
+    en: "\"Such a big ox, and the two of you riding it! The ox can't take it!\""
+    sx: {hanzi: "「恁大一條牛，你兜還合兩儕騎，牛奈毋何哦！」", pinyin: "anˋ tai idˋ tiauˇ ngiuˇ, nˇ deuˊ hanˇ gagˋ liongˋ saˇ kiˇ, ngiuˇ nai mˇ hoˇ oˊ!"}
+    check: true
+  - n: 21
+    en: "As luck would have it, a crowd heard what he said, and everyone agreed with him."
+    sx: {hanzi: "無堵好，佢講个話分一群人聽著，大家都講佢著。", pinyin: "moˇ duˋ hoˋ, giˇ gongˋ ge fa bunˊ idˋ kiunˇ nginˇ tangˊ doˋ, tai gaˊ du gongˋ giˇ cog."}
+    check: true
+  - n: 22
+    en: "When he heard these hurtful words, he jumped with rage."
+    source: kaga115
+    sx: {hanzi: "佢聽著這兜傷人个話，譴到蹦跳。", pinyin: "giˇ tangˊ doˋ iaˋ deuˊ songˊ nginˇ ge fa, kienˋ do bangˋ tiauˇ."}
+  - n: 23
+    en: "Riding or walking: what difference did it make? It was as if he had no ideas of his own."
+    sx: {hanzi: "騎牛同行路，到底有麼个所爭？佢親像無自家个想法。", pinyin: "kiˇ ngiuˇ tungˇ hangˇ lu, do daiˋ iuˊ maˋ ge soˋ zangˊ? giˇ qinˊ qiong moˇ qi gaˊ ge xiongˋ fabˋ."}
+    check: true
+  - n: 24
+    en: "The two of them got down, tied the ox's legs, and carried it on a bamboo pole."
+    sx: {hanzi: "兩儕人落牛，同牛个腳縛起來，用竹篙㧡等行。", pinyin: "liongˋ saˇ nginˇ log ngiuˇ, tungˇ ngiuˇ ge giogˋ piog hiˋ loiˇ, iung zugˋ goˊ kaiˊ denˋ hangˇ."}
+    check: true
+  - n: 25
+    en: "They had not carried it far before they could carry it no more. Someone said:"
+    sx: {hanzi: "㧡無幾遠，就㧡毋贏。有人講：", pinyin: "kaiˊ moˇ giˋ ienˋ, qiu kaiˊ mˇ iangˇ. iuˊ nginˇ gongˋ:"}
+    check: true
+  - n: 26
+    en: "You're dawdling so: when will the job ever be done?"
+    source: kaga115
+    sx: {hanzi: "你恁摸挲，事頭哪久正做得好？", pinyin: "nˇ anˋ mo so, se teuˇ nai giuˋ zang zo dedˋ hoˋ?"}
+  - n: 27
+    en: "On the bridge, everyone came to look and laughed out loud. The ox was terrified, kicked and rolled, fell into the river and was swept away."
+    sx: {hanzi: "行到橋項，大家都來看，笑到當大聲。牛驚到會死，緊踢緊滾，跌落河壩，分水沖走吔。", pinyin: "hangˇ do kieuˇ hong, tai gaˊ du loiˇ kon, seu do dongˊ tai sangˊ. ngiuˇ giangˊ do voi xiˋ, ginˋ tedˋ ginˋ gunˋ, diedˋ log hoˇ ba, bunˊ suiˋ cungˇ zeuˋ leˊ."}
+    check: true
+  - n: 28
+    en: "The old man was heavy-hearted, and his son was fuming."
+    sx: {hanzi: "老人家心頭拶拶，倈仔乜氣勃勃仔。", pinyin: "loˋ nginˇ gaˊ ximˊ teuˇ zad zad, lai eˋ me hi pud pud eˋ."}
+    check: true
+  - n: 29
+    en: "Back home, the old man took it out on his son."
+    sx: {hanzi: "轉到屋下，老人家尋倈仔出水。", pinyin: "zonˋ do vugˋ kaˊ, loˋ nginˇ gaˊ qimˇ lai eˋ cudˋ suiˋ."}
+    check: true
+  - n: 30
+    en: "The son said: \"Father, whatever people say, you listen to it every time.\""
+    sx: {hanzi: "倈仔講：「阿爸，人講麼个，你見擺都聽。」", pinyin: "lai eˋ gongˋ: aˊ baˊ, nginˇ gongˋ maˋ ge, nˇ gien baiˋ du tangˊ."}
+    check: true
+  - n: 31
+    en: "People today are the same: they hear what others say every day, and keep changing."
+    sx: {hanzi: "這下个人乜係恁樣，日日聽人講，三不二時就改變。", pinyin: "iaˋ ha ge nginˇ me he anˋ ngiongˇ, ngidˋ ngidˋ tangˊ nginˇ gongˋ, samˊ budˋ ngi siiˇ qiu goiˋ bien."}
+    check: true
+  - n: 32
+    en: "Mostly, people who talk need answer for nothing: sometimes they say good, sometimes bad."
+    sx: {hanzi: "人講話旦勢毋使負責，成下仔講好，成下仔講壞。", pinyin: "nginˇ gongˋ fa danˋ sii mˇ siiˋ fu jidˋ, sangˇ ha eˋ gongˋ hoˋ, sangˇ ha eˋ gongˋ faiˋ."}
+    check: true
+  - n: 33
+    en: "If you try to please everyone, someone will always say you are wrong."
+    sx: {hanzi: "你想愛分人人都歡喜，總係會有人講你毋著。", pinyin: "nˇ xiongˋ oi bunˊ nginˇ nginˇ du fonˊ hiˋ, zungˋ he voi iuˊ nginˇ gongˋ nˇ mˇ cog."}
+    check: true
+  - n: 34
+    en: "As the old people say: \"A mouth has two lips: good or bad, it says what it likes.\""
+    sx: {hanzi: "老人家講：「一張嘴兩層皮，講好講壞由在佢。」", pinyin: "loˋ nginˇ gaˊ gongˋ: idˋ zongˊ zoi liongˋ cenˇ piˇ, gongˋ hoˋ gongˋ faiˋ iuˇ cai giˇ."}
+    check: true
+    ok: [zai-at]
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The tenth extra lesson: Aesop's fable of the miller, his son and the donkey, told with an ox. The title is the
+      first half of a saying in the MOE dictionary (an entry, no recording), quoted in line 34; 由在 "be up to" is
+      read iuˇ cai there.
+  - ref: 2
+    topic: vocab
+    text: >
+      幼秀 iu xiu "fine-looking, delicate"; also "slow and careful" (official: 這細妹仔生來幼秀，講話又當軟聲). 面衫 mien samˊ "jacket,
+      outer garment" (official: 出門定著愛著領面衫).
+  - ref: 5
+    topic: vocab
+    text: >
+      慢板 man banˋ "slow (in doing things)".
+  - ref: 6
+    topic: vocab
+    text: >
+      來來去去 loiˇ loiˇ hi hi "coming and going", 出出入入 cudˋ cudˋ ngib ngib "going in and out" (official:
+      臺北捷運个人逐日來來去去，就像泥竇肚个蟻公出出入入). 十嘴九屎胐 siib zoi giuˋ sii vudˋ "ten mouths and nine opinions": everyone has
+      something different to say.
+  - ref: 7
+    topic: vocab
+    text: >
+      愛使 oi siiˋ "why bother, what need" in a question (official: 這愛使你教？淨看一下就學會吔).
+  - ref: 8
+    topic: vocab
+    text: >
+      想去想轉 xiongˋ hi xiongˋ zonˋ "think over and over" (official: 這件事情，𠊎想去想轉，總感覺毋妥當).
+  - ref: 9
+    topic: vocab
+    text: >
+      口涎波潑 heuˋ lanˊ poˊ bad "spluttering, holding forth" (official: 講个人講到口涎波潑，聽个人聽到嘴勺勺仔).
+  - ref: 10
+    topic: vocab
+    text: >
+      親像 qinˊ qiong "like, as if"; 無人親像 "good-for-nothing" (the list: 不像話). 見擺 gien baiˋ "every time" (line 30).
+  - ref: 13
+    topic: vocab
+    text: >
+      唸唸唸唸 ngiamˇ ngiamˇ ngiam ngiam "grumbling on and on" (official: 佢透日唸唸唸唸，毋知講麼个東西).
+  - ref: 14
+    topic: vocab
+    text: >
+      平平 piangˇ piangˇ "equally, alike" (official: 平平係你降个，仰差到恁多？); the same characters at 高級 are "flat, level" (of
+      land).
+  - ref: 15
+    topic: vocab
+    text: >
+      看無 kon moˇ "look down on"; also "cannot see" (official: 你頭那毛剪恁短，𠊎看無麼个慣). 呸口涎 pi heuˋ lanˊ "spit"; also "scorn"
+      (official: 為著環境衛生，毋好儘採呸口涎).
+  - ref: 16
+    topic: vocab
+    text: >
+      各樣 gogˋ iong "something wrong (with the body)"; also "all kinds of": the line follows the official
+      阿爸个腳有各樣，行路跛啊跛仔.
+  - ref: 18
+    topic: vocab
+    text: >
+      一抹煞 idˋ madˋ sadˋ "all, altogether" (official: 這一抹煞分你). 不勝 budˋ siin "very, terribly" (official:
+      真實愛去過太魯閣，正知該風景不勝靚).
+  - ref: 19
+    topic: vocab
+    text: >
+      醉摸摸仔 zui miaˊ miaˊ eˋ "staggering drunk".
+  - ref: 20
+    topic: vocab
+    text: >
+      還合 hanˇ gagˋ "moreover, even" (official: 佢毋單煞猛還合知上下). 奈毋何 nai mˇ hoˇ "cannot cope, cannot bear"; 奈得何 "can
+      cope" (official: 阿姆歸日企等做事，厥兩支腳怕會奈毋何).
+  - ref: 21
+    topic: vocab
+    text: >
+      無堵好 moˇ duˋ hoˋ "as luck would have it, unluckily" (official: 恁無堵好！阿良佢歸家人出國去尞哩).
+  - ref: 22
+    topic: vocab
+    text: >
+      蹦跳 bangˋ tiauˇ "jump with rage".
+  - ref: 23
+    topic: vocab
+    text: >
+      所爭 soˋ zangˊ "difference; something wrong" (official: 用細心細意个態度做事情，較毋會有所爭).
+  - ref: 24
+    topic: vocab
+    text: >
+      縛 piog "tie up" (MOE). 㧡 "carry on the shoulder".
+  - ref: 26
+    topic: vocab
+    text: >
+      摸挲 mo so "dawdling".
+  - ref: 28
+    topic: vocab
+    text: >
+      心頭拶拶 ximˊ teuˇ zad zad "heavy-hearted" (official: 恁多災難連續發生，大家都感覺心頭拶拶). 氣勃勃仔 hi pud pud eˋ "fuming" (official:
+      字簿仔分老弟扯爛，想啊著佢就氣勃勃仔).
+  - ref: 29
+    topic: vocab
+    text: >
+      出水 cudˋ suiˋ "take it out on someone"; also "let out water" (official: 這弓蕉放到過潦，出水吔).
+  - ref: 31
+    topic: vocab
+    text: >
+      日日 ngidˋ ngidˋ "every day"; 年年 "every year". 三不二時 samˊ budˋ ngi siiˇ "now and then" (official:
+      阿全嫂搬走了後，三不二時還會倒轉來尞).
+  - ref: 32
+    topic: vocab
+    text: >
+      旦勢 danˋ sii "mostly, as a rule" (official: 這下係工業社會，一般人家半晝前後旦勢無人在). 成下仔 "sometimes" is from 外篇 7.
+  - ref: 33
+    topic: vocab
+    text: >
+      總係會 zungˋ he voi "will always" (official: 食飽夜，阿爸總係會同阿姆共下去散步).
+
+new_words:
+  - {hanzi: "牛", pinyin: "ngiuˇ", en: "ox, cattle"}
+  - {hanzi: "幼秀", pinyin: "iu xiu", en: "fine-looking, delicate; slow and careful"}
+  - {hanzi: "面衫", pinyin: "mien samˊ", en: "jacket, outer garment"}
+  - {hanzi: "慢板", pinyin: "man banˋ", en: "slow (in doing things)"}
+  - {hanzi: "來來去去", pinyin: "loiˇ loiˇ hi hi", en: "coming and going"}
+  - {hanzi: "出出入入", pinyin: "cudˋ cudˋ ngib ngib", en: "going in and out"}
+  - {hanzi: "十嘴九屎胐", pinyin: "siib zoi giuˋ sii vudˋ", en: "everyone with a different opinion"}
+  - {hanzi: "愛使", pinyin: "oi siiˋ", en: "why bother, what need (in questions)"}
+  - {hanzi: "想去想轉", pinyin: "xiongˋ hi xiongˋ zonˋ", en: "think over and over"}
+  - {hanzi: "口涎波潑", pinyin: "heuˋ lanˊ poˊ bad", en: "spluttering, holding forth"}
+  - {hanzi: "親像", pinyin: "qinˊ qiong", en: "like, as if"}
+  - {hanzi: "見擺", pinyin: "gien baiˋ", en: "every time"}
+  - {hanzi: "唸唸唸唸", pinyin: "ngiamˇ ngiamˇ ngiam ngiam", en: "grumbling on and on"}
+  - {hanzi: "平平", pinyin: "piangˇ piangˇ", en: "equally, alike"}
+  - {hanzi: "看無", pinyin: "kon moˇ", en: "look down on; not see"}
+  - {hanzi: "呸口涎", pinyin: "pi heuˋ lanˊ", en: "spit"}
+  - {hanzi: "各樣", pinyin: "gogˋ iong", en: "something wrong, a defect; all kinds of"}
+  - {hanzi: "一抹煞", pinyin: "idˋ madˋ sadˋ", en: "all, altogether"}
+  - {hanzi: "不勝", pinyin: "budˋ siin", en: "very, terribly"}
+  - {hanzi: "醉摸摸仔", pinyin: "zui miaˊ miaˊ eˋ", en: "staggering drunk"}
+  - {hanzi: "還合", pinyin: "hanˇ gagˋ", en: "moreover, even"}
+  - {hanzi: "奈毋何", pinyin: "nai mˇ hoˇ", en: "cannot cope, cannot bear"}
+  - {hanzi: "無堵好", pinyin: "moˇ duˋ hoˋ", en: "as luck would have it, unluckily"}
+  - {hanzi: "心頭拶拶", pinyin: "ximˊ teuˇ zad zad", en: "heavy-hearted"}
+  - {hanzi: "所爭", pinyin: "soˋ zangˊ", en: "difference"}
+  - {hanzi: "縛", pinyin: "piog", en: "tie up (MOE)"}
+  - {hanzi: "摸挲", pinyin: "mo so", en: "dawdling"}
+  - {hanzi: "蹦跳", pinyin: "bangˋ tiauˇ", en: "jump with rage"}
+  - {hanzi: "氣勃勃仔", pinyin: "hi pud pud eˋ", en: "fuming"}
+  - {hanzi: "出水", pinyin: "cudˋ suiˋ", en: "take it out on someone"}
+  - {hanzi: "日日", pinyin: "ngidˋ ngidˋ", en: "every day"}
+  - {hanzi: "三不二時", pinyin: "samˊ budˋ ngi siiˇ", en: "now and then, every so often"}
+  - {hanzi: "旦勢", pinyin: "danˋ sii", en: "mostly, as a rule"}
+  - {hanzi: "總係會", pinyin: "zungˋ he voi", en: "will always"}
+  - {hanzi: "由在", pinyin: "iuˇ cai", en: "be up to (MOE)"}
+
+exercises:
+  translate:
+    - en: "The speaker held forth, spluttering; the listeners listened open-mouthed."
+      source: kaga115
+      sx: {hanzi: "講个人講到口涎波潑，聽个人聽到嘴勺勺仔。", pinyin: "gongˋ ge nginˇ gongˋ do heuˋ lanˊ poˊ bad, tangˊ ge nginˇ tangˊ do zoi sog sog eˋ."}
+    - en: "Every time he plays and loses, he can't accept it."
+      source: kaga115
+      sx: {hanzi: "佢見擺搞，輸忒就毋甘願。", pinyin: "giˇ gien baiˋ gauˋ, suˊ tedˋ qiu mˇ gamˊ ngien."}
+    - en: "You gave birth to both of them: how can they be so different?"
+      source: kaga115
+      sx: {hanzi: "平平係你降个，仰差到恁多？", pinyin: "piangˇ piangˇ he nˇ giung ge, ngiongˋ caˊ do anˋ doˊ?"}
+    - en: "Mum stands all day at work: her legs may not bear it."
+      source: kaga115
+      sx: {hanzi: "阿姆歸日企等做事，厥兩支腳怕會奈毋何。", pinyin: "aˊ meˊ guiˊ ngidˋ kiˊ denˋ zo se, giaˊ liongˋ giˊ giogˋ pa voi nai mˇ hoˇ."}
+    - en: "After dinner, Dad always goes for a walk with Mum."
+      source: kaga115
+      sx: {hanzi: "食飽夜，阿爸總係會同阿姆共下去散步。", pinyin: "siid bauˋ ia, aˊ baˊ zungˋ he voi tungˇ aˊ meˊ kiung ha hi san pu."}
+  fill:
+    - en: "Only training every day brings progress."
+      sx: {hanzi: "___訓練正會進步。", pinyin: "___ hiun lien zang voi jin pu.", answer_hanzi: "日日", answer: "ngidˋ ngidˋ"}
+    - en: "What need of you to teach me? One look and I've learnt it."
+      sx: {hanzi: "這___你教？淨看一下就學會吔。", pinyin: "iaˋ ___ nˇ gauˊ? qiang kon idˋ ha qiu hog voi leˊ.", answer_hanzi: "愛使", answer: "oi siiˋ"}
+    - en: "You've lost a lot of weight lately: is something wrong?"
+      sx: {hanzi: "你這恁久瘦盡多，到底哪位有___？", pinyin: "nˇ iaˋ anˋ giuˋ ceu qin doˊ, do daiˋ nai vi iuˊ ___?", answer_hanzi: "所爭", answer: "soˋ zangˊ"}
+    - en: "Before calculators, shopkeepers mostly did their sums on an abacus."
+      sx: {hanzi: "吂有計算機以前，店頭人___用算盤算數。", pinyin: "mangˇ iuˊ gie son giˊ iˊ qienˇ, diam teuˇ nginˇ ___ iung son panˇ son sii.", answer_hanzi: "旦勢", answer: "danˋ sii"}
+    - en: "He dawdles at everything: everyone has to wait for him."
+      sx: {hanzi: "佢做事當___，大家都愛等佢。", pinyin: "giˇ zo se dongˊ ___, tai gaˊ du oi denˋ giˇ.", answer_hanzi: "摸挲", answer: "mo so"}
+
+audio: []
