@@ -132,3 +132,5 @@ style of 採茶戲, not a sung one.
 - 外篇 4 (id 174, extra, essay): Grandpa's text about his childhood in the 1950s for A-in's radio slot: the mud-brick
   house with a courtyard, his father at the coal mine, his thrifty step-grandmother, sweet-potato rice, lice, the
   field his father cleared by the river, harvests by exchange of labour; a little sister; the desk his father made.
+- 外篇 6 (id 176, extra, news), Mon 29 Jul 2030: A-in reads the local news the morning after a typhoon (all
+  invented): a tree falls on a car in 公館, a landslide, a sinkhole, twelve hurt, trains stopped three hours.

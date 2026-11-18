@@ -1,0 +1,342 @@
+id: 76
+genre: news
+title:
+  en: "After the typhoon"
+  sx: {hanzi: "風搓過後", pinyin: "fungˊ caiˊ go heu"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. Monday 29 July 2030. A-in reads the local news on the radio the morning after a
+  typhoon. The typhoon and everything in the news are invented; most sentences are official example sentences.
+names: [公館]
+
+dialogue:
+  - n: 1
+    en: "Hello everyone. Today is Monday 29 July. Here is the news."
+    sx: {hanzi: "大家好，今晡日係七月二十九號，禮拜一。這下報新聞。", pinyin: "tai gaˊ hoˋ, gimˊ buˊ ngidˋ he qidˋ ngied ngi siib giuˋ ho, liˊ bai idˋ. iaˋ ha bo xinˊ vunˇ."}
+    check: true
+  - n: 2
+    en: "Last night's typhoon was very strong: it rained hard all night."
+    sx: {hanzi: "昨暗晡个風搓當大，歸暗晡都在該落大雨。", pinyin: "coˊ am buˊ ge fungˊ caiˊ dongˊ tai, guiˊ am buˊ du du ge log tai iˋ."}
+    check: true
+  - n: 3
+    en: "When the typhoon came, many people were in the middle of dinner."
+    sx: {hanzi: "風搓來个時節，當多人當當在該食夜。", pinyin: "fungˊ caiˊ loiˇ ge siiˇ jiedˋ, dongˊ doˊ nginˇ dongˊ dongˊ du ge siid ia."}
+    check: true
+  - n: 4
+    en: "A man who was coming home from work said:"
+    sx: {hanzi: "一個下班轉屋下个人講：", pinyin: "idˋ ge haˊ banˊ zonˋ vugˋ kaˊ ge nginˇ gongˋ:"}
+    check: true
+  - n: 5
+    en: "The wind and rain were so strong that, umbrella or not, you got soaked to the skin."
+    source: kaga115
+    sx: {hanzi: "風雨忒大，就算擎遮仔還係歸身仔涿到潦潦。", pinyin: "fungˊ iˋ tedˋ tai, qiu son kiaˇ zaˊ eˋ hanˇ he guiˊ siinˊ eˋ dugˋ do lauˇ lauˇ."}
+  - n: 6
+    en: "A driver said:"
+    sx: {hanzi: "一個駛車个人講：", pinyin: "idˋ ge siiˋ caˊ ge nginˇ gongˋ:"}
+    check: true
+  - n: 7
+    en: "In the heavy rain the whole road was a blur: you couldn't see how many cars were coming ahead."
+    source: kaga115
+    sx: {hanzi: "落大雨，歸路仔濛濛，看毋清楚頭前有幾多臺車仔來。", pinyin: "log tai iˋ, guiˊ lu eˋ mungˇ mungˇ, kon mˇ qinˊ cuˋ teuˇ qienˇ iuˊ giˋ doˊ toiˇ caˊ eˋ loiˇ."}
+  - n: 8
+    en: "In Gongguan a car was driving along normally when, without warning, a tree came down."
+    sx: {hanzi: "公館有一臺車仔駛到好好，無提無防，一頭樹仔倒下來。", pinyin: "gungˊgonˋ iuˊ idˋ toiˇ caˊ eˋ siiˋ do hoˋ hoˋ, moˇ tiˇ moˇ fongˇ, idˋ teuˇ su eˋ doˋ haˊ loiˇ."}
+    check: true
+  - n: 9
+    en: "The driver was cut by the glass, and his whole hand was covered in blood."
+    sx: {hanzi: "駛車个人分玻璃刺著，歸隻手血漬漬仔。", pinyin: "siiˋ caˊ ge nginˇ bunˊ boˊ liˇ qiugˋ doˋ, guiˊ zagˋ suˋ hiedˋ jid jid eˋ."}
+    check: true
+  - n: 10
+    en: "He is now in hospital."
+    sx: {hanzi: "佢這下在醫院。", pinyin: "giˇ iaˋ ha coiˊ iˊ ien."}
+    check: true
+  - n: 11
+    en: "His hand is bandaged, and eating is very awkward."
+    source: kaga115
+    sx: {hanzi: "厥手纏等好帶，食飯盡毋方便。", pinyin: "giaˊ suˋ canˇ denˋ hoˊ daiˋ, siid fan qin mˇ fongˊ pien."}
+  - n: 12
+    en: "In the hills, there was a landslide at a village; luckily nobody was hurt."
+    sx: {hanzi: "山項有一隻莊頭推山，好得無人受傷。", pinyin: "sanˊ hong iuˊ idˋ zagˋ zongˊ teuˇ tuiˇ sanˊ, hoˋ dedˋ moˇ nginˇ su songˊ."}
+    check: true
+  - n: 13
+    en: "The river rose by about two metres."
+    sx: {hanzi: "河壩水高加兩公尺上下。", pinyin: "hoˇ ba suiˋ goˊ gaˊ liongˋ gungˊ cagˋ songˊ haˊ."}
+    check: true
+  - n: 14
+    en: "The streets are covered in mud and branches. From one end of the road to the other, branches and bamboo poles lie every which way."
+    sx: {hanzi: "街路項滿坪係泥漿同樹椏。對路頭行到路尾，樹椏同竹篙橫架直架。", pinyin: "gieˊ lu hong manˊ piangˇ he naiˇ jiongˊ tungˇ su aˊ. dui lu teuˇ hangˇ do lu miˊ, su aˊ tungˇ zugˋ goˊ vangˇ ga ciid ga."}
+    check: true
+  - n: 15
+    en: "A hundred-year-old tree has fallen in the middle of the main road."
+    sx: {hanzi: "大路在中央有一頭百年老樹倒下來。", pinyin: "tai lu di dungˊ ongˊ iuˊ idˋ teuˇ bagˋ ngienˇ loˋ su doˋ haˊ loiˇ."}
+    check: true
+  - n: 16
+    en: "In that lane a patch of ground suddenly sank into a big hole."
+    source: kaga115
+    sx: {hanzi: "該條巷路項有一搭地泥，好恬恬漯一隻大窟。", pinyin: "ge tiauˇ hong lu hong iuˊ idˋ dab ti naiˇ, hoˋ diamˊ diamˊ labˋ idˋ zagˋ tai fudˋ."}
+  - n: 17
+    en: "The reporter went up close and saw that there really was a bicycle in the hole."
+    sx: {hanzi: "記者行兼一看，窟肚斷真有一臺腳踏車。", pinyin: "gi zaˋ hangˇ giamˊ idˋ kon, fudˋ duˋ don ziinˊ iuˊ idˋ toiˇ giogˋ tab caˊ."}
+    check: true
+  - n: 18
+    en: "The things in the market were blown all over the place too."
+    sx: {hanzi: "菜市場个東西，乜分風吹到四四散散。", pinyin: "coi sii congˇ ge dungˊ xiˊ, me bunˊ fungˊ coiˊ do xi xi san san."}
+    check: true
+  - n: 19
+    en: "Tiles came off some roofs, and some things left out in the open were washed away."
+    sx: {hanzi: "有兜屋頂个瓦㪐忒，有兜放在天下个東西分水沖走。", pinyin: "iuˊ deuˊ vugˋ dangˋ ge ngaˋ ludˋ tedˋ, iuˊ deuˊ biong coiˊ tienˊ haˊ ge dungˊ xiˊ bunˊ suiˋ cungˇ zeuˋ."}
+    check: true
+  - n: 20
+    en: "An old man who grows tangerines said his orchard is over there in the hollow of the hill ahead."
+    sx: {hanzi: "一個種柑仔个阿伯講，佢个柑仔園在頭前个山坳該搭仔。", pinyin: "idˋ ge zung gamˊ eˋ ge aˊ bagˋ gongˋ, giˇ ge gamˊ eˋ ienˇ coiˊ teuˇ qienˇ ge sanˊ auˊ ge dab eˋ."}
+    check: true
+  - n: 21
+    en: "The tangerines have fallen all over the ground. He said:"
+    sx: {hanzi: "柑仔跌到滿坪。佢講：", pinyin: "gamˊ eˋ diedˋ do manˊ piangˇ. giˇ gongˋ:"}
+    check: true
+  - n: 22
+    en: "This is serious: what am I to do?"
+    source: kaga115
+    sx: {hanzi: "這件事情當大條，愛仰般處理？", pinyin: "iaˋ kien sii qinˇ dongˊ tai tiauˇ, oi ngiongˋ banˊ cuˋ liˊ?"}
+  - n: 23
+    en: "An old man fell and sprained his ankle: he needs a walking stick to walk steadily."
+    sx: {hanzi: "有一個阿伯跌倒，腳偏著，愛擎怙杖仔正行得穩。", pinyin: "iuˊ idˋ ge aˊ bagˋ diedˋ doˋ, giogˋ pienˊ doˋ, oi kiaˇ ku congˋ eˇ zang hangˇ dedˋ vunˋ."}
+    check: true
+  - n: 24
+    en: "A young man stepped on a nail while clearing the road."
+    sx: {hanzi: "有一個後生人拚路个時節，腳分鐵釘仔刺著。", pinyin: "iuˊ idˋ ge heu sangˊ nginˇ biang lu ge siiˇ jiedˋ, giogˋ bunˊ tiedˋ dangˊ eˋ qiugˋ doˋ."}
+    check: true
+  - n: 25
+    en: "A nail went into his foot, and he lost a lot of blood."
+    source: kaga115
+    sx: {hanzi: "厥腳分鐵釘仔刺著，出當多血。", pinyin: "giaˊ giogˋ bunˊ tiedˋ dangˊ eˋ qiugˋ doˋ, cudˋ dongˊ doˊ hiedˋ."}
+  - n: 26
+    en: "In all, twelve people were hurt."
+    sx: {hanzi: "總下有十二儕人受傷。", pinyin: "zungˋ ha iuˊ siib ngi saˇ nginˇ su songˊ."}
+    check: true
+  - n: 27
+    en: "This typhoon really was a big one. The local government has taken on more hands to clear the roads with everyone."
+    sx: {hanzi: "這擺个風搓確實當大。政府加添人手，同大家拚路。", pinyin: "iaˋ baiˋ ge fungˊ caiˊ kogˋ siid dongˊ tai. ziin fuˋ gaˊ tiamˊ nginˇ suˋ, tungˇ tai gaˊ biang lu."}
+    check: true
+  - n: 28
+    en: "Some people's cars were flooded, and now they stall and jerk all the way."
+    sx: {hanzi: "有人个車仔浸過水，這下駛起來，歸路仔迪迪凸凸。", pinyin: "iuˊ nginˇ ge caˊ eˋ jim go suiˋ, iaˋ ha siiˋ hiˋ loiˇ, guiˊ lu eˋ tid tid tud tud."}
+    check: true
+  - n: 29
+    en: "His car must have a problem: it stops and starts all the way, he'll have to take it to be repaired!"
+    source: kaga115
+    sx: {hanzi: "厥車仔怕有問題，歸路仔迪迪凸凸，愛駛去分人整哩！", pinyin: "giaˊ caˊ eˋ pa iuˊ mun tiˇ, guiˊ lu eˋ tid tid tud tud, oi siiˋ hi bunˊ nginˇ zangˋ leˊ!"}
+  - n: 30
+    en: "The trains stopped for three hours this morning; they are running again now."
+    sx: {hanzi: "火車今晡日朝晨頓恬三點鐘，這下又開吔。", pinyin: "foˋ caˊ gimˊ buˊ ngidˋ zeuˊ siinˇ dunˋ diamˊ samˊ diamˋ zungˊ, iaˋ ha iu koiˊ leˊ."}
+    check: true
+  - n: 31
+    en: "A builder said:"
+    sx: {hanzi: "一個師傅講：", pinyin: "idˋ ge siiˊ fu gongˋ:"}
+    check: true
+  - n: 32
+    en: "When you build a house, first lay the foundations: if the base is solid, the house will be steady and safer in an earthquake."
+    source: kaga115
+    sx: {hanzi: "起屋愛先打地基，底係實疊，起个屋正會穩，地動來較安全。", pinyin: "hiˋ vugˋ oi xienˊ daˋ ti giˊ, daiˋ he siid tiab, hiˋ ge vugˋ zang voi vunˋ, ti tungˊ loiˇ ka onˊ qionˇ."}
+  - n: 33
+    en: "Next, the weather. It will stay very damp this week, and food goes mouldy more easily."
+    sx: {hanzi: "續下來報天氣。這禮拜天氣還係當溼，食物較會生菇。", pinyin: "sa haˊ loiˇ bo tienˊ hi. iaˋ liˊ bai tienˊ hi hanˇ he dongˊ siibˋ, siid vud ka voi sangˊ guˊ."}
+    check: true
+  - n: 34
+    en: "When it's damp, timber soon rots."
+    source: kaga115
+    sx: {hanzi: "溼氣重，樹仔當遽歿忒。", pinyin: "siibˋ hi cungˊ, su eˋ dongˊ giagˋ mudˋ tedˋ."}
+  - n: 35
+    en: "Last item: yesterday afternoon, when the rain stopped, someone saw:"
+    sx: {hanzi: "最後一條新聞：昨晡日下晝，雨停个時節，有人看著：", pinyin: "zui heu idˋ tiauˇ xinˊ vunˇ: coˊ buˊ ngidˋ haˊ zu, iˋ tinˇ ge siiˇ jiedˋ, iuˊ nginˇ kon doˋ:"}
+    check: true
+  - n: 36
+    en: "Children playing in the mud, covered in it from head to toe."
+    source: kaga115
+    sx: {hanzi: "細人仔搞泥漿，舞到一頭一面就係泥。", pinyin: "se nginˇ eˋ gauˋ naiˇ jiongˊ, muˋ do idˋ teuˇ idˋ mien qiu he naiˇ."}
+  - n: 37
+    en: "That was today's news. Thank you all."
+    sx: {hanzi: "這係今晡日个新聞，多謝大家。", pinyin: "iaˋ he gimˊ buˊ ngidˋ ge xinˊ vunˇ, doˊ qia tai gaˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The sixth extra lesson: the local news the morning after a typhoon, read by A-in, as in 進修 67. The typhoon and
+      all the news are invented.
+  - ref: 3
+    topic: vocab
+    text: >
+      當當 dongˊ dongˊ "in the middle of (doing)", with 在該 + verb (official: 阿姆當當在該煮飯，過五分鐘正打來做得無？).
+  - ref: 5
+    topic: vocab
+    text: >
+      潦潦 lauˇ lauˇ "soaked through", mostly by rain: 涿到潦潦 "drenched".
+  - ref: 7
+    topic: vocab
+    text: >
+      濛濛 mungˇ mungˇ "blurred, misty".
+  - ref: 8
+    topic: vocab
+    text: >
+      無提無防 moˇ tiˇ moˇ fongˇ "suddenly, without warning": the line follows the official 車仔駛到好好，無提無防，一隻狗仔對巷仔舂出來.
+  - ref: 9
+    topic: vocab
+    text: >
+      刺著 qiugˋ doˋ "be pricked, be cut". 血漬漬仔 hiedˋ jid jid eˋ "covered in blood" (official: 阿姆無細義切著手，歸隻砧枋血漬漬仔).
+  - ref: 11
+    topic: vocab
+    text: >
+      纏 canˇ "wind round": 纏等好帶 "bandaged". 好帶 hoˊ daiˋ "bandage".
+  - ref: 12
+    topic: vocab
+    text: >
+      推山 tuiˇ sanˊ "landslide" (official: 地動最驚推山埋人个災害 "in an earthquake, the worst fear is landslides burying
+      people").
+  - ref: 13
+    topic: vocab
+    text: >
+      上下 songˊ haˊ "about, or so" after an amount (MOE: 這尾魚仔差毋多有兩斤上下); also "pass by" (official: 有上下愛入來坐 "drop in
+      when you pass"). 高加兩公尺 "two metres higher": adjective + 加 + amount.
+  - ref: 14
+    topic: vocab
+    text: >
+      滿坪 manˊ piangˇ "all over the ground". 泥漿 naiˇ jiongˊ "mud". 路頭 lu teuˇ "beginning of a road; journey"
+      (official: 這位到該位，愛三日个路頭). 橫架直架 vangˇ ga ciid ga "lying every which way" (official: 這兜竹篙橫架直架，愛放好勢來).
+  - ref: 15
+    topic: vocab
+    text: >
+      在中央 di dungˊ ongˊ "right in the middle" (official: 草坪項青溜溜仔，在中央有一頭樹仔).
+  - ref: 16
+    topic: vocab
+    text: >
+      一搭 idˋ dab "a patch, a spot": 這一搭該一搭 "here a patch, there a patch". 漯 "sink, cave in".
+  - ref: 17
+    topic: vocab
+    text: >
+      斷真 don ziinˊ "really, sure enough" (official: 行兼一看，厥面項斷真有當多烏蠅屎).
+  - ref: 18
+    topic: vocab
+    text: >
+      四四散散 xi xi san san "scattered everywhere" (official: 廳下个玩具四四散散，遽遽收揫來！).
+  - ref: 19
+    topic: vocab
+    text: >
+      㪐忒 ludˋ tedˋ "come off, fall out" (official: 吾牙齒搖搖，怕係愛㪐忒哩！). 天下 tienˊ haˊ "outdoors, in the open" (official:
+      阿祿伯做生日，天下排桌請人); 天下 is also "the world".
+  - ref: 20
+    topic: vocab
+    text: >
+      山坳 sanˊ auˊ "hollow in the hills". 該搭仔 ge dab eˋ "over there (a small, near place)": the line follows the
+      official 佢个柑仔園在頭前个山坳該搭仔.
+  - ref: 22
+    topic: vocab
+    text: >
+      大條 tai tiauˇ "serious (of a matter)"; the list adds "arrogant". Official also: 港口有大條船仔出入 "big ships".
+  - ref: 23
+    topic: vocab
+    text: >
+      怙杖仔 ku congˋ eˇ "walking stick" (official: 厥腳偏著，歸半個月擎怙杖仔).
+  - ref: 25
+    topic: vocab
+    text: >
+      鐵釘仔 tiedˋ dangˊ eˋ "nail".
+  - ref: 26
+    topic: vocab
+    text: >
+      總下 zungˋ ha "in all, altogether" (official: 這本書總下有兩百頁).
+  - ref: 27
+    topic: vocab
+    text: >
+      確實 kogˋ siid "really, indeed". 加添 gaˊ tiamˊ "add, increase" (official: 一張桌先放兩罐酒，毋罅正加添).
+  - ref: 29
+    topic: vocab
+    text: >
+      迪迪凸凸 tid tid tud tud "stopping and starting"; the list adds "stammering".
+  - ref: 30
+    topic: vocab
+    text: >
+      頓恬 dunˋ diamˊ "stop (when moving)" (official: 看著先生落來，學生仔通體頓恬).
+  - ref: 32
+    topic: vocab
+    text: >
+      地基 ti giˊ "foundations" (MOE). 實疊 siid tiab "solid, firm".
+  - ref: 33
+    topic: vocab
+    text: >
+      續下來 sa haˊ loiˇ "next, then" (official: 佢講煞，續下來換你). 生菇 sangˊ guˊ "go mouldy" (official: 這柑仔生菇，食毋得吔).
+  - ref: 34
+    topic: vocab
+    text: >
+      氣 hi "air, vapour": 溼氣 "damp". 歿忒 mudˋ tedˋ "rot away".
+
+new_words:
+  - {hanzi: "當當", pinyin: "dongˊ dongˊ", en: "in the middle of (doing)"}
+  - {hanzi: "潦潦", pinyin: "lauˇ lauˇ", en: "soaked through"}
+  - {hanzi: "濛濛", pinyin: "mungˇ mungˇ", en: "blurred, misty"}
+  - {hanzi: "無提無防", pinyin: "moˇ tiˇ moˇ fongˇ", en: "suddenly, without warning"}
+  - {hanzi: "刺著", pinyin: "qiugˋ doˋ", en: "be pricked, be cut"}
+  - {hanzi: "血漬漬仔", pinyin: "hiedˋ jid jid eˋ", en: "covered in blood"}
+  - {hanzi: "纏", pinyin: "canˇ", en: "wind round, bind"}
+  - {hanzi: "好帶", pinyin: "hoˊ daiˋ", en: "bandage"}
+  - {hanzi: "推山", pinyin: "tuiˇ sanˊ", en: "landslide"}
+  - {hanzi: "上下", pinyin: "songˊ haˊ", en: "about, or so (with an amount)"}
+  - {hanzi: "滿坪", pinyin: "manˊ piangˇ", en: "all over the ground"}
+  - {hanzi: "泥漿", pinyin: "naiˇ jiongˊ", en: "mud"}
+  - {hanzi: "路頭", pinyin: "lu teuˇ", en: "beginning of a road"}
+  - {hanzi: "橫架直架", pinyin: "vangˇ ga ciid ga", en: "lying every which way"}
+  - {hanzi: "在中央", pinyin: "di dungˊ ongˊ", en: "in the middle"}
+  - {hanzi: "一搭", pinyin: "idˋ dab", en: "a patch, a spot"}
+  - {hanzi: "瓦", pinyin: "ngaˋ", en: "tile"}
+  - {hanzi: "斷真", pinyin: "don ziinˊ", en: "really, indeed"}
+  - {hanzi: "四四散散", pinyin: "xi xi san san", en: "scattered everywhere"}
+  - {hanzi: "㪐忒", pinyin: "ludˋ tedˋ", en: "come off"}
+  - {hanzi: "天下", pinyin: "tienˊ haˊ", en: "outdoors, in the open"}
+  - {hanzi: "山坳", pinyin: "sanˊ auˊ", en: "hollow in the hills"}
+  - {hanzi: "該搭仔", pinyin: "ge dab eˋ", en: "over there"}
+  - {hanzi: "大條", pinyin: "tai tiauˇ", en: "serious (of a matter)"}
+  - {hanzi: "怙杖仔", pinyin: "ku congˋ eˇ", en: "walking stick"}
+  - {hanzi: "鐵釘仔", pinyin: "tiedˋ dangˊ eˋ", en: "nail"}
+  - {hanzi: "總下", pinyin: "zungˋ ha", en: "in all, altogether"}
+  - {hanzi: "確實", pinyin: "kogˋ siid", en: "really, indeed"}
+  - {hanzi: "加添", pinyin: "gaˊ tiamˊ", en: "add, increase"}
+  - {hanzi: "迪迪凸凸", pinyin: "tid tid tud tud", en: "stopping and starting"}
+  - {hanzi: "頓恬", pinyin: "dunˋ diamˊ", en: "stop (when moving)"}
+  - {hanzi: "地基", pinyin: "ti giˊ", en: "foundations (MOE)"}
+  - {hanzi: "實疊", pinyin: "siid tiab", en: "solid, firm"}
+  - {hanzi: "續下來", pinyin: "sa haˊ loiˇ", en: "next, then"}
+  - {hanzi: "生菇", pinyin: "sangˊ guˊ", en: "go mouldy"}
+  - {hanzi: "歿忒", pinyin: "mudˋ tedˋ", en: "rot away"}
+  - {hanzi: "氣", pinyin: "hi", en: "air, vapour: 溼氣 \"damp\""}
+
+exercises:
+  translate:
+    - en: "On the way home from work I was caught in a downpour, and was soaked through in a moment."
+      source: kaga115
+      sx: {hanzi: "下班个時節堵著浩洪斗雨，一下仔歸身涿到潦潦。", pinyin: "haˊ banˊ ge siiˇ jiedˋ duˇ doˋ heˊ fungˇ deuˋ iˋ, idˋ ha eˋ guiˊ siinˊ dugˋ do lauˇ lauˇ."}
+    - en: "These bamboo poles are lying every which way: put them away properly."
+      source: kaga115
+      sx: {hanzi: "這兜竹篙橫架直架，愛放好勢來。", pinyin: "iaˋ deuˊ zugˋ goˊ vangˇ ga ciid ga, oi biong hoˋ se loiˇ."}
+    - en: "My tooth is loose: I think it's going to come out!"
+      source: kaga115
+      sx: {hanzi: "吾牙齒搖搖，怕係愛㪐忒哩！", pinyin: "ngaˊ ngaˇ ciiˋ ieuˇ ieuˇ, pa he oi ludˋ tedˋ leˊ!"}
+    - en: "When he has finished, it's your turn."
+      source: kaga115
+      sx: {hanzi: "佢講煞，續下來換你。", pinyin: "giˇ gongˋ sod, sa haˊ loiˇ von nˇ."}
+    - en: "The questions in this exam were easy: I could write all of them."
+      source: kaga
+      sx: {hanzi: "這擺考試个問答題當簡單，𠊎總下會寫。", pinyin: "iaˋ baiˋ kauˋ sii ge mun dabˋ tiˇ dongˊ gienˋ danˊ, ngaiˇ zungˋ ha voi xiaˋ."}
+  fill:
+    - en: "The needle is sharp: hold it carefully and don't prick yourself."
+      sx: {hanzi: "針尖尖，你斯愛擎好，毋好___。", pinyin: "ziimˊ jiamˊ jiamˊ, nˇ siiˇ oi kiaˇ hoˋ, mˇ hoˋ ___.", answer_hanzi: "刺著", answer: "qiugˋ doˋ"}
+    - en: "Mum is in the middle of cooking: could you call back in five minutes?"
+      sx: {hanzi: "阿姆___在該煮飯，過五分鐘正打來做得無？", pinyin: "aˊ meˊ ___ du ge zuˋ fan, go ngˋ funˊ zungˊ zang daˋ loiˇ zo dedˋ moˇ?", answer_hanzi: "當當", answer: "dongˊ dongˊ"}
+    - en: "The toys are scattered all over the living room: tidy them up quickly!"
+      sx: {hanzi: "廳下个玩具___，遽遽收揫來！", pinyin: "tangˊ haˊ ge nguanˇ kiˋ ___, giagˋ giagˋ suˊ qiuˊ loiˇ!", answer_hanzi: "四四散散", answer: "xi xi san san"}
+    - en: "Up close, his face really did have lots of freckles."
+      sx: {hanzi: "行兼一看，厥面項___有當多烏蠅屎。", pinyin: "hangˇ giamˊ idˋ kon, giaˊ mien hong ___ iuˊ dongˊ doˊ vuˊ inˇ siiˋ.", answer_hanzi: "斷真", answer: "don ziinˊ"}
+    - en: "Put two bottles of wine on each table first, and add more if it's not enough."
+      sx: {hanzi: "一張桌先放兩罐酒，毋罅正___。", pinyin: "idˋ zongˊ zogˋ xienˊ biong liongˋ gon jiuˋ, mˇ la zang ___.", answer_hanzi: "加添", answer: "gaˊ tiamˊ"}
+
+audio: []
