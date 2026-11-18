@@ -134,3 +134,6 @@ style of 採茶戲, not a sung one.
   field his father cleared by the river, harvests by exchange of labour; a little sister; the desk his father made.
 - 外篇 6 (id 176, extra, news), Mon 29 Jul 2030: A-in reads the local news the morning after a typhoon (all
   invented): a tree falls on a car in 公館, a landslide, a sinkhole, twelve hurt, trains stopped three hours.
+- 外篇 8 (id 178, extra, letter), Sun 18 Aug 2030: Sam writes to 鍾伯 and 鍾伯姆. For two weeks Grandma has taught
+  him Hakka cooking (fried fish, burnt; pork soup); Grandpa reads with a magnifying glass, has a stiff neck, polishes
+  his old car. 叔婆 visits Sam's messy room and sees Lucie's photo. He invites the Zhongs for the tung blossom in April.

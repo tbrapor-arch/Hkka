@@ -1,0 +1,345 @@
+id: 78
+genre: letter
+title:
+  en: "Mention food, and even the tail runs straight"
+  sx: {hanzi: "講著有好食，尾都會走直", pinyin: "gongˋ doˋ iuˊ hoˋ siid, miˊ du voi zeuˋ ciid"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. Sunday 18 August 2030. Sam writes to 鍾伯 and 鍾伯姆 in 美濃 (as in 進修 46): Grandma has
+  been teaching him Hakka cooking, and he tells of the Liu house and of 上屋叔婆. The events are invented.
+names: [Sam, Lucie, 鍾伯, 鍾伯姆, 美濃, 苗栗, 阿公, 阿婆, 阿明, 叔婆]
+
+dialogue:
+  - n: 1
+    en: "Uncle Zhong, Aunt Zhong: how are you both?"
+    sx: {hanzi: "鍾伯、鍾伯姆：你兜人好無？", pinyin: "zungˊ bagˋ, zungˊ bagˋ meˊ: nˇ deuˊ nginˇ hoˋ moˇ?"}
+    check: true
+  - n: 2
+    en: "It is August now and very hot. For the last two weeks Grandma has been teaching me to cook Hakka food. She says:"
+    sx: {hanzi: "這下係八月，天時當熱。這兩禮拜，阿婆教𠊎煮客家菜。阿婆講：", pinyin: "iaˋ ha he badˋ ngied, tienˊ siiˇ dongˊ ngied. iaˋ liongˋ liˊ bai, aˊ poˇ gauˊ ngaiˇ zuˋ hagˋ gaˊ coi. aˊ poˇ gongˋ:"}
+    check: true
+  - n: 3
+    en: "The Hakka are the best cooks, and their stir-fried pork is the best of all."
+    source: kaga115
+    sx: {hanzi: "客人煮食一等慶，炒个炒肉一等好食。", pinyin: "hagˋ nginˇ zuˋ siid idˋ denˋ kiang, cauˋ ge cauˋ ngiugˋ idˋ denˋ hoˋ siid."}
+  - n: 4
+    en: "Grandma knows good food: she knows how everything must be cooked to taste good."
+    sx: {hanzi: "阿婆當知食，麼个東西仰般煮正好食，佢全部知。", pinyin: "aˊ poˇ dongˊ diˊ siid, maˋ ge dungˊ xiˊ ngiongˋ banˊ zuˋ zang hoˋ siid, giˇ qionˇ pu diˊ."}
+    check: true
+  - n: 5
+    en: "On Wednesday there was a bun on the table that A-min had left uneaten for two days. Grandma said:"
+    sx: {hanzi: "禮拜三，桌項有一隻包仔，係阿明放兩日無食个。阿婆講：", pinyin: "liˊ bai samˊ, zogˋ hong iuˊ idˋ zagˋ bauˊ eˋ, he aˊ minˇ biong liongˋ ngidˋ moˇ siid ge. aˊ poˇ gongˋ:"}
+    check: true
+  - n: 6
+    en: "Not eating a bun while it's fresh and leaving it to go mouldy: what a waste."
+    source: kaga115
+    sx: {hanzi: "包仔萋萋毋食，放到生菇，實在還打爽。", pinyin: "bauˊ eˋ qiˊ qiˊ mˇ siid, biong do sangˊ guˊ, siid cai hanˇ daˋ songˋ."}
+  - n: 7
+    en: "I asked her: \"So it can't be eaten any more?\""
+    sx: {hanzi: "𠊎問佢：「這食毋得吔係無？」", pinyin: "ngaiˇ mun giˇ: iaˋ siid mˇ dedˋ leˊ he moˇ?"}
+    check: true
+  - n: 8
+    en: "Then Grandma taught me to fry fish. I turned the heat up too high, and she said:"
+    sx: {hanzi: "轉來，阿婆教𠊎煎魚。𠊎火開忒大，阿婆講：", pinyin: "zonˋ loiˇ, aˊ poˇ gauˊ ngaiˇ jienˊ ngˇ. ngaiˇ foˋ koiˊ tedˋ tai, aˊ poˇ gongˋ:"}
+    check: true
+  - n: 9
+    en: "Your fire's too fierce! You've burnt the fish."
+    source: kaga115
+    sx: {hanzi: "若火忒猛哩！魚仔分你煎到臭火𤊶。", pinyin: "ngiaˊ foˋ tedˋ mangˊ leˊ! ngˇ eˋ bunˊ nˇ jienˊ do cu foˋ ladˋ."}
+  - n: 10
+    en: "Next time, Grandma taught me to make soup:"
+    sx: {hanzi: "第二擺，阿婆教𠊎煮湯：", pinyin: "ti ngi baiˋ, aˊ poˇ gauˊ ngaiˇ zuˋ tongˊ:"}
+    check: true
+  - n: 11
+    en: "Slice the pork thin, scald it for a moment, and it's ready to eat."
+    source: kaga115
+    sx: {hanzi: "豬肉切薄薄仔，熝一下仔就做得食。", pinyin: "zuˊ ngiugˋ qiedˋ pog pog eˋ, lug idˋ ha eˋ qiu zo dedˋ siid."}
+    abridged: true
+  - n: 12
+    en: "The soup has only just been cooked and is piping hot: eat it in a moment."
+    source: kaga115
+    sx: {hanzi: "湯正煮啊好，燒熝熝仔，等一下正食。", pinyin: "tongˊ zang zuˋ a hoˋ, seuˊ lug lug eˋ, denˋ idˋ ha zang siid."}
+  - n: 13
+    en: "A-min came in from outside, smelt the soup and said how good it smelt. Grandma laughed:"
+    sx: {hanzi: "阿明對外背轉來，鼻著湯个味，就講好香。阿婆笑講：", pinyin: "aˊ minˇ dui ngoi boi zonˋ loiˇ, pi doˋ tongˊ ge mi, qiu gongˋ hoˋ hiongˊ. aˊ poˇ seu gongˋ:"}
+    check: true
+  - n: 14
+    en: "Big eyes are good for seeing, a big nose is good for smelling."
+    source: kaga115
+    sx: {hanzi: "目珠大好看光，鼻公大好鼻香。", pinyin: "mugˋ zuˊ tai hoˋ kon gongˊ, pi gungˊ tai hoˋ pi hiongˊ."}
+  - n: 15
+    en: "Mention food, and even the tail runs straight."
+    sx: {hanzi: "講著有好食，尾都會走直。", pinyin: "gongˋ doˋ iuˊ hoˋ siid, miˊ du voi zeuˋ ciid."}
+    check: true
+  - n: 16
+    en: "A-min said he had been playing ball all day, and also:"
+    sx: {hanzi: "阿明講佢歸日打球，又講：", pinyin: "aˊ minˇ gongˋ giˇ guiˊ ngidˋ daˋ kiuˇ, iu gongˋ:"}
+    check: true
+  - n: 17
+    en: "I've missed three meals: I'm so hungry I'm weak."
+    source: kaga115
+    sx: {hanzi: "三餐無食，餓到軟怠怠仔。", pinyin: "samˊ conˊ moˇ siid, ngo do ngionˊ taiˋ taiˋ eˇ."}
+  - n: 18
+    en: "Grandpa taught me to make tea:"
+    sx: {hanzi: "阿公教𠊎泡茶：", pinyin: "aˊ gungˊ gauˊ ngaiˇ pau caˇ:"}
+    check: true
+  - n: 19
+    en: "Make tea with boiling water, and the flavour comes out sooner."
+    source: kaga
+    sx: {hanzi: "泡茶愛用滾水，正較遽出味。", pinyin: "pau caˇ oi iung gunˋ suiˋ, zang ka giagˋ cudˋ mi."}
+  - n: 20
+    en: "Grandpa now reads the paper with a magnifying glass. When he has been sitting a long time, Grandma says:"
+    sx: {hanzi: "阿公這下看報紙愛用膨鏡。佢坐恁久，阿婆講：", pinyin: "aˊ gungˊ iaˋ ha kon bo ziiˋ oi iung pong giang. giˇ coˊ anˋ giuˋ, aˊ poˇ gongˋ:"}
+    check: true
+  - n: 21
+    en: "When your neck feels stiff, go and have it massaged: you'll feel better."
+    source: kaga115
+    sx: {hanzi: "頸根試著硬鉸硬鉸，去分人推推啊會較鬆爽。", pinyin: "giangˋ ginˊ cii doˋ ngang gau ngang gau, hi bunˊ nginˇ toiˊ toiˊ a voi ka sungˊ songˋ."}
+  - n: 22
+    en: "Grandpa complained that the soup was too salty, and the fish too dry. Grandma said of him:"
+    sx: {hanzi: "阿公嫌湯忒鹹，又嫌魚仔忒燥。阿婆講佢：", pinyin: "aˊ gungˊ hiamˇ tongˊ tedˋ hamˇ, iu hiamˇ ngˇ eˋ tedˋ zauˊ. aˊ poˇ gongˋ giˇ:"}
+    check: true
+  - n: 23
+    en: "Whatever you do, he finds fault: he really is hard to please."
+    source: kaga115
+    sx: {hanzi: "做麼个就嫌到臭屎，正經難服侍。", pinyin: "zo maˋ ge qiu hiamˇ do cu siiˋ, ziin ginˊ nanˇ fug sii."}
+  - n: 24
+    en: "On Saturday Grandpa washed his old car."
+    sx: {hanzi: "禮拜六，阿公洗佢个舊車仔。", pinyin: "liˊ bai liugˋ, aˊ gungˊ seˋ giˇ ge kiu caˊ eˋ."}
+    check: true
+  - n: 25
+    en: "That old car was polished till it shone, as if it were new."
+    source: kaga115
+    sx: {hanzi: "該臺舊車仔捽到金若若仔，像新个樣仔。", pinyin: "ge toiˇ kiu caˊ eˋ cud do gimˊ na na eˋ, qiong xinˊ ge iong eˋ."}
+  - n: 26
+    en: "In the afternoon Grandma sent me to the grocer's for a bottle of soy sauce. I put the money in my trouser pocket and went on foot."
+    sx: {hanzi: "下晝阿婆喊𠊎去雜貨店買一罐豆油。𠊎同錢囥在褲袋仔，行路去。", pinyin: "haˊ zu aˊ poˇ ham ngaiˇ hi cab fo diam maiˊ idˋ gon teu iuˇ. ngaiˇ tungˇ qienˇ kong coiˊ fu toi eˋ, hangˇ lu hi."}
+    check: true
+  - n: 27
+    en: "It was so hot that halfway there I stopped to rest under a tree."
+    sx: {hanzi: "天時恁熱，行到半路，𠊎在樹下停腳。", pinyin: "tienˊ siiˇ anˋ ngied, hangˇ do ban lu, ngaiˇ coiˊ su haˊ tinˇ giogˋ."}
+    check: true
+  - n: 28
+    en: "A drongo was perched on the wire overhead."
+    source: kaga
+    sx: {hanzi: "電線頂高企等一隻阿啾箭。", pinyin: "tien xien dangˋ goˊ kiˊ denˋ idˋ zagˋ aˊ jiuˊ jien."}
+  - n: 29
+    en: "In the evening 叔婆 came to my room to see me. She lives alone and is lonely, and loves to have visitors."
+    sx: {hanzi: "暗晡叔婆來𠊎个間房尋𠊎。佢一個人歇，孤栖孤栖，盡好人去看佢。", pinyin: "am buˊ sugˋ poˇ loiˇ ngaiˇ ge gienˊ fongˇ qimˇ ngaiˇ. giˇ idˋ ge nginˇ hed, guˊ xiˊ guˊ xiˊ, qin hau nginˇ hi kon giˇ."}
+    check: true
+  - n: 30
+    en: "In my room the table was thick with dust and things lay all over the place. 叔婆 laughed:"
+    sx: {hanzi: "𠊎个間房桌項塵灰了了，東西四四散散。叔婆笑講：", pinyin: "ngaiˇ ge gienˊ fongˇ zogˋ hong ciinˇ foiˊ liauˋ liauˋ, dungˊ xiˊ xi xi san san. sugˋ poˇ seu gongˋ:"}
+    check: true
+  - n: 31
+    en: "What are you looking for? How did you get the whole room into such a mess?"
+    source: kaga115
+    sx: {hanzi: "你在該尋麼个？仰搣到歸隻間鬞交交仔？", pinyin: "nˇ du ge qimˇ maˋ ge? ngiongˋ medˋ do guiˊ zagˋ gienˊ nungˇ gauˇ gauˇ eˋ?"}
+  - n: 32
+    en: "I showed her a photo of my sister Lucie. 叔婆 said the two of us look exactly alike, and also:"
+    sx: {hanzi: "𠊎分佢看吾老妹 Lucie 个相片。叔婆講𠊎兩儕生來共樣共樣，又講：", pinyin: "ngaiˇ bunˊ giˇ kon ngaˊ loˋ moi Lucie ge xiong pienˋ. sugˋ poˇ gongˋ ngaiˇ liongˋ saˇ sangˊ loiˇ kiung iong kiung iong, iu gongˋ:"}
+    check: true
+  - n: 33
+    en: "Your sister's skin is so fair."
+    source: kaga
+    sx: {hanzi: "老妹个皮膚白淨白淨。", pinyin: "loˋ moi ge piˇ fuˊ pag qiang pag qiang."}
+  - n: 34
+    en: "I said Lucie is very bright and good at her studies."
+    sx: {hanzi: "𠊎講 Lucie 盡精靈，讀書當慶。", pinyin: "ngaiˇ gongˋ Lucie qin jinˊ linˇ, tug suˊ dongˊ kiang."}
+    check: true
+  - n: 35
+    en: "I've been learning to cook, fussing this way and that, and what I cook is still not as good as Grandma's."
+    sx: {hanzi: "𠊎學煮菜，搣來搣去，煮个還係無阿婆煮个好食。", pinyin: "ngaiˇ hog zuˋ coi, medˋ loiˇ medˋ hi, zuˋ ge hanˇ he moˇ aˊ poˇ zuˋ ge hoˋ siid."}
+    check: true
+  - n: 36
+    en: "When 叔婆 had gone, I kept thinking of my family, and lay wide awake till dawn."
+    sx: {hanzi: "叔婆轉去以後，𠊎緊想屋下个人，兩粒目珠目金金仔到天光。", pinyin: "sugˋ poˇ zonˋ hi iˊ heu, ngaiˇ ginˋ xiongˋ vugˋ kaˊ ge nginˇ, liongˋ liab mugˋ zuˊ mugˋ gimˊ gimˊ eˋ do tienˊ gongˊ."}
+    check: true
+  - n: 37
+    en: "Next April, will you come to Miaoli to see the tung blossom?"
+    sx: {hanzi: "天光年四月，你兜人來苗栗看油桐花好無？", pinyin: "tienˊ gongˊ ngienˇ xi ngied, nˇ deuˊ nginˇ loiˇ meuˇ lid kon iuˇ tungˇ faˊ hoˋ moˇ?"}
+    check: true
+  - n: 38
+    en: "When the tung trees flower, the whole hillside is a sheet of white."
+    source: kaga115
+    sx: {hanzi: "油桐花開，滿山排一片蓬白。", pinyin: "iuˇ tungˇ faˊ koiˊ, manˊ sanˊ paiˇ idˋ pienˋ pung pag."}
+  - n: 39
+    en: "I wish you both peace and all that goes well. Sam"
+    sx: {hanzi: "祝你兜人平安順序。Sam", pinyin: "zugˋ nˇ deuˊ nginˇ pinˇ onˊ sun xi. Sam"}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The eighth extra lesson: a letter from Sam to 鍾伯 and 鍾伯姆, as in 進修 46. The title is a saying of the MOE
+      dictionary (an entry, no recording), quoted in line 15: at the mention of food, even a dog's tail runs
+      straight.
+  - ref: 3
+    topic: vocab
+    text: >
+      一等 idˋ denˋ "most, best" (official: 客家料理一等好食). 慶 "skilful". 炒肉 "stir-fried pork".
+  - ref: 4
+    topic: vocab
+    text: >
+      知食 diˊ siid "know good food".
+  - ref: 6
+    topic: vocab
+    text: >
+      萋萋 qiˊ qiˊ "fresh", of food not yet cooked (official: 買著萋萋个魚仔). 打爽 "a waste". 生菇 "go mouldy" is from 外篇 6.
+  - ref: 7
+    topic: vocab
+    text: >
+      食毋得 siid mˇ dedˋ "cannot be eaten" (official: 柑仔綿忒，食毋得吔！); 食得 "can be eaten".
+  - ref: 9
+    topic: vocab
+    text: >
+      臭火𤊶 cu foˋ ladˋ "burnt"; the list adds 臭火燒 (official: 煮飯煮忒過火，會臭火𤊶).
+  - ref: 11
+    topic: vocab
+    text: >
+      薄薄仔 pog pog eˋ "thin" (official: 外背有一息仔涼涼，愛著加一領薄薄仔个衫). The official sentence begins 例如.
+  - ref: 12
+    topic: vocab
+    text: >
+      燒熝熝仔 seuˊ lug lug eˋ "piping hot".
+  - ref: 14
+    topic: vocab
+    text: >
+      鼻香 pi hiongˊ "smell (something fragrant)": an official sentence, said as a saying.
+  - ref: 15
+    topic: vocab
+    text: >
+      尾 miˊ "tail". 走直 "run straight".
+  - ref: 17
+    topic: vocab
+    text: >
+      軟怠怠仔 ngionˊ taiˋ taiˋ eˇ "weak, limp".
+  - ref: 19
+    topic: vocab
+    text: >
+      出味 cudˋ mi "release its flavour" (official: 蒜頭磡綿來，正會出味).
+  - ref: 20
+    topic: vocab
+    text: >
+      膨鏡 pong giang "magnifying glass".
+  - ref: 21
+    topic: vocab
+    text: >
+      硬鉸 ngang gau "stiff" (of joints kept too long in one position): official 你係緊毋停動，手腳就會緊硬鉸.
+  - ref: 23
+    topic: vocab
+    text: >
+      服侍 fug sii "serve, look after"; 難服侍 "hard to please" (official: 厥姆開刀，佢愛服侍厥姆).
+  - ref: 25
+    topic: vocab
+    text: >
+      金若若仔 gimˊ na na eˋ "shining, gleaming". Grandpa's car is thirty years old (進修 62).
+  - ref: 26
+    topic: vocab
+    text: >
+      雜貨店 cab fo diam "grocer's" (official: 你去雜貨店買一罐豆油轉來好無?). 褲袋仔 fu toi eˋ "trouser pocket"; 衫袋仔 "shirt pocket".
+  - ref: 27
+    topic: vocab
+    text: >
+      停腳 tinˇ giogˋ "stop for a rest"; also "settle" (official: 這盆水還汶汶，愛先放分佢停腳正來用).
+  - ref: 28
+    topic: vocab
+    text: >
+      阿啾箭 aˊ jiuˊ jien "black drongo" (official: 阿啾箭會打鷂婆，耕種人當愛 "drongos chase hawks; farmers love them").
+  - ref: 29
+    topic: vocab
+    text: >
+      孤栖孤栖 guˊ xiˊ guˊ xiˊ "lonely". 好 hau + verb "like to". 叔婆 lives alone (進修 37).
+  - ref: 30
+    topic: vocab
+    text: >
+      了了 liauˋ liauˋ "thick with, all over": the list's example is 桌項塵灰了了.
+  - ref: 31
+    topic: vocab
+    text: >
+      鬞交交仔 nungˇ gauˇ gauˇ eˋ "in a mess"; also of hair and of a job (the list).
+  - ref: 32
+    topic: vocab
+    text: >
+      共樣共樣 kiung iong kiung iong "exactly alike" (official: 佢兩儕係雙生仔，難怪生來共樣共樣).
+  - ref: 33
+    topic: vocab
+    text: >
+      白淨 pag qiang "fair-skinned" (official: 阿嫂生來當白淨). 老妹 here is "your sister".
+  - ref: 34
+    topic: vocab
+    text: >
+      精靈 jinˊ linˇ "bright, clever": the line follows the official 厥妹仔生來盡精靈，讀書當慶.
+  - ref: 35
+    topic: vocab
+    text: >
+      搣來搣去 medˋ loiˇ medˋ hi "fuss this way and that" (official: 搣來搣去還毋係共樣，早知就先轉吔).
+  - ref: 36
+    topic: vocab
+    text: >
+      目金金仔 mugˋ gimˊ gimˊ eˋ "wide-eyed" (official: 銀樓个金條盡餳人，大家看到目金金仔毋想走); the line follows kaga 兩粒目珠目金金仔到天光.
+  - ref: 38
+    topic: vocab
+    text: >
+      蓬白 pung pag "a sheet of white". The tung blossom season in April and May is general knowledge.
+
+new_words:
+  - {hanzi: "一等", pinyin: "idˋ denˋ", en: "most, best"}
+  - {hanzi: "知食", pinyin: "diˊ siid", en: "know good food"}
+  - {hanzi: "萋萋", pinyin: "qiˊ qiˊ", en: "fresh (of food not yet cooked)"}
+  - {hanzi: "食毋得", pinyin: "siid mˇ dedˋ", en: "cannot be eaten"}
+  - {hanzi: "臭火𤊶", pinyin: "cu foˋ ladˋ", en: "burnt"}
+  - {hanzi: "薄薄仔", pinyin: "pog pog eˋ", en: "thin"}
+  - {hanzi: "燒熝熝仔", pinyin: "seuˊ lug lug eˋ", en: "piping hot"}
+  - {hanzi: "鼻香", pinyin: "pi hiongˊ", en: "smell (something fragrant)"}
+  - {hanzi: "軟怠怠仔", pinyin: "ngionˊ taiˋ taiˋ eˇ", en: "weak, limp"}
+  - {hanzi: "出味", pinyin: "cudˋ mi", en: "release its flavour"}
+  - {hanzi: "膨鏡", pinyin: "pong giang", en: "magnifying glass"}
+  - {hanzi: "硬鉸", pinyin: "ngang gau", en: "stiff (of joints)"}
+  - {hanzi: "服侍", pinyin: "fug sii", en: "serve, look after; please"}
+  - {hanzi: "金若若仔", pinyin: "gimˊ na na eˋ", en: "shining, gleaming"}
+  - {hanzi: "雜貨店", pinyin: "cab fo diam", en: "grocer's"}
+  - {hanzi: "褲袋仔", pinyin: "fu toi eˋ", en: "trouser pocket"}
+  - {hanzi: "停腳", pinyin: "tinˇ giogˋ", en: "stop for a rest"}
+  - {hanzi: "阿啾箭", pinyin: "aˊ jiuˊ jien", en: "black drongo (bird)"}
+  - {hanzi: "孤栖孤栖", pinyin: "guˊ xiˊ guˊ xiˊ", en: "lonely"}
+  - {hanzi: "了了", pinyin: "liauˋ liauˋ", en: "thick with, all over"}
+  - {hanzi: "鬞交交仔", pinyin: "nungˇ gauˇ gauˇ eˋ", en: "in a mess"}
+  - {hanzi: "共樣共樣", pinyin: "kiung iong kiung iong", en: "exactly alike"}
+  - {hanzi: "白淨", pinyin: "pag qiang", en: "fair-skinned"}
+  - {hanzi: "精靈", pinyin: "jinˊ linˇ", en: "bright, clever"}
+  - {hanzi: "搣來搣去", pinyin: "medˋ loiˇ medˋ hi", en: "fuss this way and that"}
+  - {hanzi: "目金金仔", pinyin: "mugˋ gimˊ gimˊ eˋ", en: "wide awake, eyes wide open"}
+  - {hanzi: "蓬白", pinyin: "pung pag", en: "a sheet of white"}
+
+exercises:
+  translate:
+    - en: "Cook the rice too long and it burns."
+      source: kaga115
+      sx: {hanzi: "煮飯煮忒過火，會臭火𤊶。", pinyin: "zuˋ fan zuˋ tedˋ go foˋ, voi cu foˋ ladˋ."}
+    - en: "The tangerines have gone soft: they can't be eaten!"
+      source: kaga115
+      sx: {hanzi: "柑仔綿忒，食毋得吔！", pinyin: "gamˊ eˋ mienˇ tedˋ, siid mˇ dedˋ leˊ!"}
+    - en: "If you never move, your arms and legs get stiffer and stiffer."
+      source: kaga115
+      sx: {hanzi: "你係緊毋停動，手腳就會緊硬鉸。", pinyin: "nˇ he ginˋ mˇ tinˇ tungˊ, suˋ giogˋ qiu voi ginˋ ngang gau."}
+    - en: "They are twins: no wonder they look exactly alike."
+      source: kaga115
+      sx: {hanzi: "佢兩儕係雙生仔，難怪生來共樣共樣。", pinyin: "giˇ liongˋ saˇ he sungˊ sangˊ eˋ, nanˇ guai sangˊ loiˇ kiung iong kiung iong."}
+    - en: "Trousers with pockets make it easier to carry things."
+      source: kaga
+      sx: {hanzi: "著有褲袋仔个褲，袋東西較方便。", pinyin: "zogˋ iuˊ fu toi eˋ ge fu, toi dungˊ xiˊ ka fongˊ pien."}
+  fill:
+    - en: "Hakka food is the best."
+      sx: {hanzi: "客家料理___好食。", pinyin: "hagˋ gaˊ liau liˊ ___ hoˋ siid.", answer_hanzi: "一等", answer: "idˋ denˋ"}
+    - en: "Buy your fish fresh."
+      sx: {hanzi: "魚仔愛買___个。", pinyin: "ngˇ eˋ oi maiˊ ___ ge.", answer_hanzi: "萋萋", answer: "qiˊ qiˊ"}
+    - en: "We've walked so long: let's stop for a rest."
+      sx: {hanzi: "行恁久，𫣆兜___一下。", pinyin: "hangˇ anˋ giuˋ, enˊ deuˊ ___ idˋ ha.", answer_hanzi: "停腳", answer: "tinˇ giogˋ"}
+    - en: "Grandma reads the paper with a magnifying glass."
+      sx: {hanzi: "阿婆看報紙愛用___。", pinyin: "aˊ poˇ kon bo ziiˋ oi iung ___.", answer_hanzi: "膨鏡", answer: "pong giang"}
+    - en: "A-min is good at his studies: he is very bright."
+      sx: {hanzi: "阿明讀書當慶，人當___。", pinyin: "aˊ minˇ tug suˊ dongˊ kiang, nginˇ dongˊ ___.", answer_hanzi: "精靈", answer: "jinˊ linˇ"}
+
+audio: []
