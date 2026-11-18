@@ -46,7 +46,7 @@ dialogue:
     en: "Welcome! Come, Sam, this is your room."
     zh: "歡迎！來，Sam，這是你的房間。"
     sx: {hanzi: "歡迎！來，Sam，這係若間房。", pinyin: "fonˊ ngiangˇ! loiˇ, Sam, iaˋ he ngiaˊ gienˊ fongˇ."}
-    hl: {hanzi: "歡迎！來，Sam，這係若个間房。", pinyin: "fonˋ ngiang! loi, Sam, liaˊ heˇ ngia gaiˇ gienˋ fong."}
+    hl: {hanzi: "歡迎！來，Sam，這係若間房。", pinyin: "fonˋ ngiang! loi, Sam, liaˊ heˇ ngia gienˋ fong."}
   - n: 8
     speaker: 阿明
     en: "That one's mine."
@@ -106,7 +106,8 @@ notes:
     topic: vocab
     text: >
       間房 gienˊ fongˇ is "bedroom", Mandarin 房間 the other way round. 若間房 "your room": 若 straight before the
-      noun. Before ordinary things you can also add 个 (若个間房); before family words, never.
+      noun, as in the official sentences (若間房, 厥間房; none has 若个間房). Before other things 个 can come in
+      (吾个書 "my book"); before family words, never.
   - ref: 8
     topic: grammar
     text: >
@@ -125,8 +126,9 @@ notes:
   - ref: 0
     topic: hailu
     text: >
-      Hailu says 𠊎婆, 𠊎公 (𠊎 before a family word, no 吾), and "your" is 若个 ngia gaiˇ. Its 个 is gaiˇ, its 該 gai,
-      its 這 liaˊ. Before a family word Hailu also uses plain 若 (若公 "your grandpa"). 阿 is a+ (mid level) in every Hailu kinship word.
+      Hailu says 𠊎婆, 𠊎公 (𠊎 before a family word, no 吾), and "your" is often 若个 ngia gaiˇ (若个李仔). Its 个 is
+      gaiˇ, its 該 gai, its 這 liaˊ. Before a family word, and in 若間房 (official: 若間房幾大？ "How big is your
+      room?"), Hailu uses plain 若 (若公 "your grandpa"). 阿 is a+ (mid level) in every Hailu kinship word.
 
 new_words:
   - {hanzi: 阿婆, pinyin: "aˊ poˇ", en: "grandmother (father's mother)", hl: {hanzi: 阿婆, pinyin: "a+ po"}}

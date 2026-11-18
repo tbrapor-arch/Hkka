@@ -117,7 +117,10 @@ notes:
     topic: hailu
     text: >
       Hailu pairs so far: 恁仔細 / 承蒙 (thank you), 天光日 / 韶早 (tomorrow), 粥 / 糜 (congee), 吾婆 / 𠊎婆 (my
-      grandma), 若 / 若个 (your, before things). The rest is the same words in the Hailu sounds: sh, zh, ch, rh, and
+      grandma), 若 / 若个 (your, before things). "My room" is 吾間房 in Sixian (as 若間房, 厥間房) but 𠊎个間房 in
+      Hailu: where the Sixian official sentences have 厥間房 twice, the Hailu ones have 佢个間房 (the Hailu lists also
+      have 厥間房 twice and 若間房 once). Neither accent has an
+      official sentence for "my room" itself, so the Hailu form is marked for checking. The rest is the same words in the Hailu sounds: sh, zh, ch, rh, and
       the tone code of Lesson 0, §8.
 
 new_words: []
@@ -128,8 +131,9 @@ exercises:
       sx: {hanzi: "阿公無在屋下，佢去買茶吔。", pinyin: "aˊ gungˊ moˇ coiˊ vugˋ kaˊ, giˇ hi maiˊ caˇ leˊ."}
       hl: {hanzi: "阿公無在屋下，佢去買茶咧。", pinyin: "a+ gungˋ mo coiˋ vug haˋ, gi hiˇ maiˋ ca leˋ."}
     - en: "This is my room, that's my brother's."
-      sx: {hanzi: "這係𠊎个間房，該係吾老弟个。", pinyin: "iaˋ he ngaiˇ ge gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge."}
+      sx: {hanzi: "這係吾間房，該係吾老弟个。", pinyin: "iaˋ he ngaˊ gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge."}
       hl: {hanzi: "這係𠊎个間房，該係𠊎老弟个。", pinyin: "liaˊ heˇ ngai gaiˇ gienˋ fong, gai heˇ ngai loˊ taiˋ gaiˇ."}
+      check: true
     - en: "Is there any tea? I want to drink tea."
       sx: {hanzi: "有茶無？𠊎愛食茶。", pinyin: "iuˊ caˇ moˇ? ngaiˇ oi siid caˇ."}
       hl: {hanzi: "有茶無？𠊎愛食茶。", pinyin: "rhiuˋ ca mo? ngai oiˇ shidˋ ca."}

@@ -353,3 +353,16 @@ Fresh agent, alone, against the database after lint showed 0 errors. Full table:
   見看(著)人 "every time" (4 kaga115 translations 每次 / 每每), 無結煞 (16 official sentences), 當在該 dongˊ di ge
   (kaga115 entry), 開洋 (the kaga115 gloss is general), 合共下, 在田項勞碌, 尋人出水, 無奈何, 生理做毋成 (MOE).
 
+
+## "My room" in Part 1 and the early 進修 (18 Nov 2026)
+- Official sentences with 間房 and a possessor. Sixian: 厥間房 4, 阿明个間房 1, 人(个)間房 2; nothing with 𠊎, 你, 吾 or
+  若. Hailu: 佢个間房 2 (kaga115 佢个間房整理到當揫亼, 佢个間房像狗竇樣: the same sentences have 厥間房 in Sixian),
+  厥間房 2, 若間房 1 (kaga115 若間房幾大？), 阿明个間房 1. 若个間房 0 / 0, 你个間房 0 / 0, 𠊎(个)間房 0 / 0.
+  With 房間: kaga115 Sixian 若房間幾大 (1); 你个房間, 吾房間 0 / 0.
+- Hailu "my" + home is bare 𠊎 (𠊎屋下 41 Hailu / 1 Sixian; 吾屋下 36 / 1), and Hailu 𠊎个 is common (71 / 15).
+  No first-person room in either accent, so the Hailu form follows the 佢个間房 pattern and keeps `check: true`.
+- Fixed: lesson 7 translate 2 Sixian 𠊎个間房 → 吾間房 (吾 is taught in lesson 1, 間房 in lesson 2), Hailu kept
+  𠊎个間房 + `check: true`; lesson 2 line 7 Hailu 若个間房 → 若間房 (the kaga115 Hailu wording), notes of lesson 2
+  corrected (they offered 若个間房); 進修 7 line 6 你个房間 → 若房間; 進修 17 lines 2–3 𠊎間房 → 吾間房, 你間房 → 若間房.
+  Rule `my-room` now also catches bare 𠊎 / 你 and 房間: (𠊎|你|佢)个?(間房|房間). Left: 阿英个間房 (lesson 25, as
+  kaga 阿明个間房), 自家个間房 (外篇 3, MOE 逐日收拾自家个間房), 吾房間 (進修 4: 吾 + room, as 若房間).

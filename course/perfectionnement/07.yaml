@@ -34,7 +34,7 @@ dialogue:
   - n: 6
     speaker: 阿姆
     en: "Sam, how's your room?"
-    sx: {hanzi: "Sam，你个房間仰般？", pinyin: "Sam, nˇ ge fongˇ gienˊ ngiongˋ banˊ?"}
+    sx: {hanzi: "Sam，若房間仰般？", pinyin: "Sam, ngiaˊ fongˇ gienˊ ngiongˋ banˊ?"}
   - n: 7
     speaker: Sam
     en: "After the big clean, it's neat and tidy. But that cockroach under the sofa is still there."

@@ -67,7 +67,7 @@ rules:
   - {id: together-tone, hanzi: "共下", key: "kiung55-ha24", quotes: true, msg: "共下 'together' is kiung ha (batches 6 and 7)"}
   - {id: marks-fun, hanzi: "扣分", key: "kieu55-bun24", msg: "分 'marks' is funˊ: 扣分 kieu funˊ (batch 8)"}
   - {id: my-body, hanzi: "𠊎个(肩頭|頸根|背囊|肚屎|頭那|目珠|腳|手)(?![機電錶指續])", msg: "body parts take 吾 (吾頸根, 14 official), not 𠊎个 (batch 8)"}
-  - {id: my-room, hanzi: "(𠊎|你|佢)个間房", msg: "'my room' is 吾間房 (also 若間房, 厥間房: kaga115 厥間房整理到當揫亼, MOE 若間房); 𠊎个間房 has no official sentence (外篇 3–10 review)"}
+  - {id: my-room, hanzi: "(𠊎|你|佢)个?(間房|房間)", msg: "'my room' is 吾間房 (also 若間房, 厥間房: kaga115 厥間房整理到當揫亼, kaga115 若房間幾大, MOE 若間房); 𠊎个間房, 𠊎間房, 你个房間 have no official sentence (外篇 3–10 review, 18 Nov)"}
   - {id: shout-hem, hanzi: "(?<=緊)喊|喊(?=救)", key: "ham55", quotes: true, msg: "喊 'shout, call out' is hemˊ (MOE 緊喊 ginˋ hemˊ); ham is 'tell someone to' (外篇 3–10 review)"}
   # --- grammar ---
   - id: bare-m-adj
