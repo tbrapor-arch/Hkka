@@ -34,6 +34,7 @@ pages between lesson 100 and 進修 1) is on main too: see "Accent bridge" below
 外篇 1–2 (ids 171–172) teach most of the words P64–P70 left out. The next ones are planned in
 `docs/extra-stories-plan.md`: 外篇 3 for the last 初級 and 中級 words, then stories built on the attested-word list
 (`tools/attested.py` → `course/packets/attested.tsv`), which replaces raw corpus frequency for the 中高級 and 高級 words.
+外篇 3 (id 173, 18 Nov 2026) is written: 初級 99% (836/841), 中級 99% (1,698/1,706), 中高級 12%.
 
 ## Process from P36 on (10 Nov 2026: faster, still one lesson at a time)
 The user found the process slow and costly in usage. The cost was the word hunt for every lesson, the reading of the

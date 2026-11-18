@@ -6,5 +6,6 @@
 #
 # words:    Sixian   hanzi: [pinyin with tone marks, English]
 # hailu:    Hailu    hanzi: [pinyin, English]
-words: {}
+words:
+  有求必應: [iuˊ kiuˇ bidˋ in, grant every request]
 hailu: {}

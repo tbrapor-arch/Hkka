@@ -1,0 +1,328 @@
+id: 73
+genre: diary
+title:
+  en: "At midnight a thousand roads; at daybreak, still grinding tofu"
+  sx: {hanzi: "半夜想該千條路，天光本本磨豆腐", pinyin: "ban ia xiongˋ ge qienˊ tiauˇ lu, tienˊ gongˊ bunˋ bunˋ mo teu fu"}
+review: false
+setting: >-
+  Extra lesson, outside the 70. Monday 10 to Sunday 16 June 2030, Sam's diary of a week of study for the graduate
+  school exam; he stays at the Liu house for the week, and on Saturday goes back to his own room. The people are the
+  course's; the events are invented.
+names: [Sam, 阿公, 阿婆, 阿明, 叔婆, 阿明牯]
+
+dialogue:
+  - n: 1
+    en: "Monday 10 June. The graduate school application needs a photo, so I went to have one taken."
+    sx: {hanzi: "六月十號，禮拜一。研究所个報名愛相片，𠊎去翕相。", pinyin: "liugˋ ngied siib ho, liˊ bai idˋ. ngienˇ giu soˋ ge bo miangˇ oi xiong pienˋ, ngaiˇ hi hibˋ xiong."}
+    check: true
+  - n: 2
+    en: "The photographer said:"
+    sx: {hanzi: "翕相个師傅講：", pinyin: "hibˋ xiong ge siiˊ fu gongˋ:"}
+    check: true
+  - n: 3
+    en: "When you take a photo, you must check whether the background suits."
+    source: kaga115
+    sx: {hanzi: "翕相該下，愛看背景有相襯無。", pinyin: "hibˋ xiong ge ha, oi kon boi ginˋ iuˊ xiongˊ cen moˇ."}
+  - n: 4
+    en: "He told me to stand in front of a white wall. To apply, I also have to give my full name and my sex."
+    sx: {hanzi: "佢喊𠊎企在白色个壁頭前。報名還愛寫姓名同性別。", pinyin: "giˇ ham ngaiˇ kiˊ coiˊ pag sedˋ ge biagˋ teuˇ qienˇ. bo miangˇ hanˇ oi xiaˋ xiang miangˇ tungˇ xin pied."}
+    check: true
+  - n: 5
+    en: "Tuesday 11 June. This week I'm staying at Grandpa's to study. When I came back in the evening, Grandma was busy cooking."
+    sx: {hanzi: "六月十一號，禮拜二。這禮拜𠊎歇在阿公屋下讀書。暗晡𠊎轉來个時節，阿婆當在該煮菜。", pinyin: "liugˋ ngied siib idˋ ho, liˊ bai ngi. iaˋ liˊ bai ngaiˇ hiedˋ coiˊ aˊ gungˊ vugˋ kaˊ tug suˊ. am buˊ ngaiˇ zonˋ loiˇ ge siiˇ jiedˋ, aˊ poˇ dongˊ di ge zuˋ coi."}
+    check: true
+  - n: 6
+    en: "Food on the table must be kept under a food cover."
+    source: kaga115
+    sx: {hanzi: "菜放桌項，愛用菜弇仔弇等。", pinyin: "coi biong zogˋ hong, oi iung coi kiemˇ eˋ giemˇ denˋ."}
+    abridged: true
+  - n: 7
+    en: "Grandma saw that I looked tired and asked whether I had stayed up late again. She said:"
+    sx: {hanzi: "阿婆看𠊎無精神，問𠊎係毋係又噩夜。佢講：", pinyin: "aˊ poˇ kon ngaiˇ moˇ jinˊ siinˇ, mun ngaiˇ he mˇ he iu ngog ia. giˇ gongˋ:"}
+    check: true
+  - n: 8
+    en: "Staying up late again and again is bad for the liver."
+    sx: {hanzi: "輒輒噩夜，對肝毋好。", pinyin: "jiab jiab ngog ia, dui gonˊ mˇ hoˋ."}
+    check: true
+  - n: 9
+    en: "She put fish in my bowl and said:"
+    sx: {hanzi: "佢挾魚分𠊎食，講：", pinyin: "giˇ giabˋ ngˇ bunˊ ngaiˇ siid, gongˋ:"}
+    check: true
+  - n: 10
+    en: "Eat well, and the brain works well."
+    source: kaga115
+    sx: {hanzi: "營養足，腦就好。", pinyin: "inˇ iongˊ jiugˋ, noˋ qiu hoˋ."}
+  - n: 11
+    en: "A-min laughed that studying had made me skinny. Grandma said the skinny one was A-min, and looked at his face:"
+    sx: {hanzi: "阿明笑講，𠊎讀書讀到變扁身。阿婆講扁身个係阿明，又看佢个面：", pinyin: "aˊ minˇ seu gongˋ, ngaiˇ tug suˊ tug do bien bienˋ siinˊ. aˊ poˇ gongˋ bienˋ siinˊ ge he aˊ minˇ, iu kon giˇ ge mien:"}
+    check: true
+  - n: 12
+    en: "A-min has lots of fine down on his face."
+    source: kaga115
+    sx: {hanzi: "阿明牯个面項有當多幼幼仔个寒毛。", pinyin: "aˊ minˇ guˋ ge mien hong iuˊ dongˊ doˊ iu iu eˋ ge honˇ moˊ."}
+  - n: 13
+    en: "Wednesday 12 June. Grandpa brought home two sugar canes. I didn't know how to eat them, and swallowed the fibre. Grandpa laughed:"
+    sx: {hanzi: "六月十二號，禮拜三。阿公買兩枝甘蔗轉來。𠊎毋知愛仰般食，同粕吞落肚。阿公笑講：", pinyin: "liugˋ ngied siib ngi ho, liˊ bai samˊ. aˊ gungˊ maiˊ liongˋ giˊ gamˊ za zonˋ loiˇ. ngaiˇ mˇ diˊ oi ngiongˋ banˊ siid, tungˇ pogˋ tunˊ log duˋ. aˊ gungˊ seu gongˋ:"}
+    check: true
+  - n: 14
+    en: "When you eat sugar cane, you spit out the fibre."
+    source: kaga115
+    sx: {hanzi: "食甘蔗愛哯粕。", pinyin: "siid gamˊ za oi lienˋ pogˋ."}
+  - n: 15
+    en: "A-min came home from school: there had been a prize draw, and he had been lucky. Grandma said:"
+    sx: {hanzi: "阿明對學校轉來，講學校有抽獎，佢个運氣當好。阿婆講：", pinyin: "aˊ minˇ dui hog gauˋ zonˋ loiˇ, gongˋ hog gauˋ iuˊ cuˊ jiongˋ, giˇ ge iun hi dongˊ hoˋ. aˊ poˇ gongˋ:"}
+    check: true
+  - n: 16
+    en: "He's won a big prize: he's very happy!"
+    source: kaga115
+    sx: {hanzi: "佢著著大獎，盡暢哦！", pinyin: "giˇ cog doˋ tai jiongˋ, qin tiong oˊ!"}
+    abridged: true
+  - n: 17
+    en: "Thursday 13 June. Grandpa woke me terribly early. The rice in the next field has been cut, and the harvest is good this year. Grandpa and I went into the field to tie the straw."
+    sx: {hanzi: "六月十三號，禮拜四。阿公七早八早就喊𠊎䟘床。隔壁个田割禾哩，今年个收成當好。阿公摎𠊎去田項紮禾稈。", pinyin: "liugˋ ngied siib samˊ ho, liˊ bai xi. aˊ gungˊ qidˋ zoˋ badˋ zoˋ qiu ham ngaiˇ hong congˇ. gagˋ biagˋ ge tienˇ godˋ voˇ leˊ, gimˊ ngienˇ ge suˊ siinˇ dongˊ hoˋ. aˊ gungˊ lauˊ ngaiˇ hi tienˇ hong zadˋ voˇ gonˋ."}
+    check: true
+  - n: 18
+    en: "Grandpa said that in the old days a man would come to the village just to castrate the cockerels."
+    sx: {hanzi: "阿公講，頭擺有師傅專門來莊頭閹雞仔。", pinyin: "aˊ gungˊ gongˋ, teuˇ baiˋ iuˊ siiˊ fu zonˊ munˇ loiˇ zongˊ teuˇ iamˊ gieˊ eˋ."}
+    check: true
+  - n: 19
+    en: "Friday 14 June. I was writing my research plan, and before I knew it, it was midnight."
+    sx: {hanzi: "六月十四號，禮拜五。𠊎寫研究計畫，毋多知仔就半夜吔。", pinyin: "liugˋ ngied siib xi ho, liˊ bai ngˋ. ngaiˇ xiaˋ ngienˇ giu gie vag, mˇ doˊ diˊ eˋ qiu ban ia leˊ."}
+    check: true
+    ok: [not-many]
+  - n: 20
+    en: "However I wrote it, it was no good: I crumpled the paper and threw it away."
+    sx: {hanzi: "寫來寫去都寫毋好，𠊎同紙揉到皺皺，擲忒。", pinyin: "xiaˋ loiˇ xiaˋ hi du xiaˋ mˇ hoˋ, ngaiˇ tungˇ ziiˋ ngioˊ do jiu jiu, deb tedˋ."}
+    check: true
+  - n: 21
+    en: "I know staying up late causes problems, but with my head on the pillow I couldn't sleep, and kept thinking about graduate school and what I'll do later."
+    sx: {hanzi: "𠊎知噩夜會產生問題，毋過頭那放在枕頭項，睡毋落覺，緊想研究所，想後來愛做麼个。", pinyin: "ngaiˇ diˊ ngog ia voi sanˋ senˊ mun tiˇ, mˇ go teuˇ naˇ biong coiˊ ziimˋ teuˇ hong, soi mˇ log gau, ginˋ xiongˋ ngienˇ giu soˋ, xiongˋ heu loiˇ oi zo maˋ ge."}
+    check: true
+  - n: 22
+    en: "At midnight you think up a thousand roads; at daybreak you're still grinding tofu."
+    source: kaga
+    sx: {hanzi: "半夜想該千條路，天光本本磨豆腐。", pinyin: "ban ia xiongˋ ge qienˊ tiauˇ lu, tienˊ gongˊ bunˋ bunˋ mo teu fu."}
+    abridged: true
+  - n: 23
+    en: "Saturday 15 June."
+    sx: {hanzi: "六月十五號，禮拜六。", pinyin: "liugˋ ngied siib ngˋ ho, liˊ bai liugˋ."}
+  - n: 24
+    en: "I stayed up late last night: at noon I really must have a nap."
+    source: kaga115
+    sx: {hanzi: "𠊎昨暗晡噩夜吔，當晝定著愛眠一下正做得。", pinyin: "ngaiˇ coˊ am buˊ ngog ia leˊ, dongˊ zu tin cog oi minˇ idˋ ha zang zo dedˋ."}
+  - n: 25
+    en: "In the afternoon I went back to my room, and then went to see Shu-po. She talked about her brother:"
+    sx: {hanzi: "下晝𠊎轉去自家个間房，再去叔婆屋下。佢講厥老弟个事情：", pinyin: "haˊ zu ngaiˇ zonˋ hi qi gaˊ ge gienˊ fongˇ, zai hi sugˋ poˇ vugˋ kaˊ. giˇ gongˋ giaˊ loˋ taiˊ ge sii qinˇ:"}
+    check: true
+  - n: 26
+    en: "He grants his children every wish: he's like their servant."
+    source: kaga115
+    sx: {hanzi: "佢對子兒有求必應，做到奴才樣。", pinyin: "giˇ dui ziiˋ iˇ iuˊ kiuˇ bidˋ in, zo do nungˇ coiˇ iong."}
+  - n: 27
+    en: "Now he's the same with his granddaughter."
+    sx: {hanzi: "這下對孫女乜恁樣。", pinyin: "iaˋ ha dui sunˊ ngˋ me anˋ ngiongˇ."}
+    check: true
+  - n: 28
+    en: "Having said that, she laughed: \"I shouldn't talk about people behind their backs. Don't let a certain someone hear.\""
+    sx: {hanzi: "叔婆講到這，笑講：「𠊎毋好在背後說人，莫分某人聽著。」", pinyin: "sugˋ poˇ gongˋ do iaˋ, seu gongˋ: ngaiˇ mˇ hoˋ coiˊ boi heuˊ sodˋ nginˇ, mog bunˊ meuˊ nginˇ tangˊ doˋ."}
+    check: true
+  - n: 29
+    en: "I hadn't sat long before I got up to go. Shu-po said:"
+    sx: {hanzi: "坐無幾久，𠊎就企起來愛走。叔婆講：", pinyin: "coˊ moˇ gidˋ giuˋ, ngaiˇ qiu kiˊ hiˋ loiˇ oi zeuˋ. sugˋ poˇ gongˋ:"}
+    check: true
+  - n: 30
+    en: "Why in such a hurry to go?"
+    source: kaga115
+    sx: {hanzi: "做麼个緊緊愛走？", pinyin: "zo maˋ ge ginˋ ginˋ oi zeuˋ?"}
+  - n: 31
+    en: "Sunday 16 June. I went to Grandpa's for lunch. A-min came back from the market carrying a big bag of fruit. He said:"
+    sx: {hanzi: "六月十六號，禮拜日。𠊎去阿公屋下食晝。阿明對市場轉來，擐等一大袋果子。佢講：", pinyin: "liugˋ ngied siib liugˋ ho, liˊ bai ngidˋ. ngaiˇ hi aˊ gungˊ vugˋ kaˊ siid zu. aˊ minˇ dui sii congˇ zonˋ loiˇ, kuan denˋ idˋ tai toi goˋ ziiˋ. giˇ gongˋ:"}
+    check: true
+  - n: 32
+    en: "Fruit is in season and the market is full of it, pineapples, watermelons and so on: Mum told me to buy a few."
+    source: kaga115
+    sx: {hanzi: "因為水果大出，市場有當多，比將黃梨、西瓜，阿姆喊𠊎加減買兜仔轉來。", pinyin: "inˊ vi suiˋ goˋ tai cudˋ, sii congˇ iuˊ dongˊ doˊ, biˋ jiongˊ vongˇ liˇ, xiˊ guaˊ, aˊ meˊ ham ngaiˇ gaˊ gamˋ maiˊ deuˊ eˋ zonˋ loiˇ."}
+  - n: 33
+    en: "In the blink of an eye, a week has gone. I didn't study much this week: not everything went as I wished."
+    sx: {hanzi: "一𥍉目，一禮拜過忒吔。這禮拜讀書讀無幾多，毋係樣樣都如意。", pinyin: "idˋ ngiabˋ mugˋ, idˋ liˊ bai go tedˋ leˊ. iaˋ liˊ bai tug suˊ tug moˇ giˋ doˊ, mˇ he iong iong du iˇ i."}
+    check: true
+  - n: 34
+    en: "Tonight I'm thinking up a thousand roads again. Tomorrow, it's back to study."
+    sx: {hanzi: "今暗晡𠊎又想該千條路。天光日，本本愛讀書。", pinyin: "gimˊ am buˊ ngaiˇ iu xiongˋ ge qienˊ tiauˇ lu. tienˊ gongˊ ngidˋ, bunˋ bunˋ oi tug suˊ."}
+    check: true
+
+notes:
+  - ref: 0
+    topic: culture
+    text: >
+      The third extra lesson: a week of Sam's diary in June 2030, three months after 進修 70. The title is a saying
+      (kaga, 諺): plans made in bed at night come to nothing in the morning.
+  - ref: 3
+    topic: vocab
+    text: >
+      背景 boi ginˋ "background (of a picture)". 相襯 "go well together, match" (MOE).
+  - ref: 4
+    topic: vocab
+    text: >
+      性別 xin pied "sex (male or female)": official 有兜動物無分性別 "some animals have no sex".
+  - ref: 6
+    topic: vocab
+    text: >
+      弇 kiemˇ "cover (the object)": 菜弇仔 "food cover", 雞弇 "chicken coop". The second 弇 (弇等) is the verb giemˇ
+      "cover", from 進修 2. The official sentence goes on: 雞弇.
+  - ref: 7
+    topic: vocab
+    text: >
+      噩夜 ngog ia "stay up late" (official: 𠊎昨暗晡噩夜吔, line 24).
+  - ref: 8
+    topic: vocab
+    text: >
+      肝 gonˊ "liver": the line is adapted from the kaga sentence 常常噩夜，對肝毋好 (輒輒 for 常常). Official: 若肝毋好，莫恁仔輒輒噩夜. 豬肝
+      is from 進修 64.
+  - ref: 10
+    topic: vocab
+    text: >
+      腦 noˋ "brain". 足 "enough". 電腦 and 頭腦 are older words.
+  - ref: 11
+    topic: vocab
+    text: >
+      扁身 bienˋ siinˊ "thin and flat-bodied": the list gives no sentence, the line is the course's.
+  - ref: 12
+    topic: vocab
+    text: >
+      寒毛 honˇ moˊ "fine body hair, down" (寒毛菇 "goose pimples", 進修 17). 阿明牯: 牯 guˋ after a boy's name, as the
+      official sentence has it.
+  - ref: 13
+    topic: vocab
+    text: >
+      粕 "fibre, dregs" left after chewing (MOE). 仰般 "how".
+  - ref: 14
+    topic: vocab
+    text: >
+      哯 lienˋ "spit out": 食甘蔗愛哯粕 (official: 樹奶糖哯到衛生紙項 "spit the chewing gum into a tissue").
+  - ref: 15
+    topic: vocab
+    text: >
+      著著 cog doˋ "catch (an illness); win (a prize)": 著著大獎 "win the big prize". Not 著著 dauˇ doˋ "get smeared with"
+      (進修 64). The official example begins 佢著著急性腸胃炎 "he has caught acute gastroenteritis". 抽獎 "prize draw".
+  - ref: 16
+    topic: vocab
+    text: >
+      盡 "very". 暢 "happy" is from lesson 41.
+  - ref: 17
+    topic: vocab
+    text: >
+      七早八早 "terribly early" (official: 阿姆逐日七早八早就䟘起來運動). 紮 zadˋ "tie up": 紮禾稈 "tie straw into bundles", 紮髻鬃 "put
+      one's hair up", 紮花燈 "make lanterns" (all official). The harvest of the first rice crop in early summer is
+      general knowledge.
+  - ref: 18
+    topic: vocab
+    text: >
+      閹 iamˊ "castrate": 閹雞仔 "castrate a cockerel" (official). 閹雞 "capon" is from 進修 69. General knowledge: a capon
+      grows bigger and more tender.
+  - ref: 19
+    topic: vocab
+    text: >
+      毋多知仔 "before one knows it" (official: 毋多知仔就愛讀小學吔).
+  - ref: 20
+    topic: vocab
+    text: >
+      揉 ngioˊ "crumple": 揉到皺皺 "crumpled up" (official), 皺皺 "creased". In the official examples 揉 is always
+      "crumple", never "massage".
+  - ref: 21
+    topic: vocab
+    text: >
+      產生 sanˋ senˊ "cause, give rise to": official 這藥品產生當多問題.
+  - ref: 24
+    topic: vocab
+    text: >
+      定著 "definitely", 眠 "nap": the whole line is official.
+  - ref: 26
+    topic: vocab
+    text: >
+      子兒 "sons and daughters, children". 有求必應 "grant every request"; 奴才 nungˇ coiˇ "servant, slave". 叔婆's brother
+      wanted a grandson (進修 47) and has a granddaughter (進修 64).
+  - ref: 28
+    topic: vocab
+    text: >
+      說人 sodˋ nginˇ "talk about people (praise or criticize them)". The list's sentence is a saying: 誰人背後無人說，哪個人前不說人
+      "who is not talked about behind his back, who does not talk about others to their face?" The course has no
+      reading for 誰, so the saying is not a line. 某人 meuˊ nginˇ "someone; a certain person (everyone knows who)":
+      official 這案仔同某人有關係.
+  - ref: 30
+    topic: vocab
+    text: >
+      緊緊 ginˋ ginˋ "in a hurry": 做麼个緊緊愛走 "why the rush?". Not 緊…緊… "the more … the more".
+  - ref: 32
+    topic: vocab
+    text: >
+      比將 biˋ jiongˊ "for example" (also 比論). 黃梨 vongˇ liˇ "pineapple". 大出 "be in season, plentiful" is from 進修 32.
+  - ref: 33
+    topic: vocab
+    text: >
+      如意 iˇ i "as one wishes" (萬事如意, lesson 52). 一𥍉目 idˋ ngiabˋ mugˋ "in the blink of an eye" (official:
+      臺北到新竹，一𥍉目就到吔).
+
+new_words:
+  - {hanzi: "背景", pinyin: "boi ginˋ", en: "background"}
+  - {hanzi: "相襯", pinyin: "xiongˊ cen", en: "go well together, match (MOE)"}
+  - {hanzi: "性別", pinyin: "xin pied", en: "sex (male or female)"}
+  - {hanzi: "弇", pinyin: "kiemˇ", en: "cover (object): 菜弇仔 \"food cover\""}
+  - {hanzi: "噩夜", pinyin: "ngog ia", en: "stay up late"}
+  - {hanzi: "肝", pinyin: "gonˊ", en: "liver"}
+  - {hanzi: "足", pinyin: "jiugˋ", en: "enough, sufficient"}
+  - {hanzi: "腦", pinyin: "noˋ", en: "brain"}
+  - {hanzi: "扁身", pinyin: "bienˋ siinˊ", en: "thin and flat-bodied"}
+  - {hanzi: "寒毛", pinyin: "honˇ moˊ", en: "fine body hair, down"}
+  - {hanzi: "粕", pinyin: "pogˋ", en: "fibre, dregs (after chewing)"}
+  - {hanzi: "哯", pinyin: "lienˋ", en: "spit out"}
+  - {hanzi: "著著", pinyin: "cog doˋ", en: "catch (an illness); win (a prize)"}
+  - {hanzi: "抽獎", pinyin: "cuˊ jiongˋ", en: "prize draw"}
+  - {hanzi: "七早八早", pinyin: "qidˋ zoˋ badˋ zoˋ", en: "terribly early"}
+  - {hanzi: "紮", pinyin: "zadˋ", en: "tie up, bind"}
+  - {hanzi: "禾稈", pinyin: "voˇ gonˋ", en: "rice straw"}
+  - {hanzi: "閹", pinyin: "iamˊ", en: "castrate"}
+  - {hanzi: "毋多知仔", pinyin: "mˇ doˊ diˊ eˋ", en: "before one knows it"}
+  - {hanzi: "揉", pinyin: "ngioˊ", en: "crumple"}
+  - {hanzi: "皺皺", pinyin: "jiu jiu", en: "creased, crumpled"}
+  - {hanzi: "產生", pinyin: "sanˋ senˊ", en: "cause, give rise to"}
+  - {hanzi: "子兒", pinyin: "ziiˋ iˇ", en: "sons and daughters"}
+  - {hanzi: "奴才", pinyin: "nungˇ coiˇ", en: "servant, slave"}
+  - {hanzi: "必", pinyin: "bidˋ", en: "certainly (in 有求必應, MOE)"}
+  - {hanzi: "應", pinyin: "in", en: "respond, grant (in 有求必應 and 答應, MOE)"}
+  - {hanzi: "說人", pinyin: "sodˋ nginˇ", en: "talk about people (praise or criticize)"}
+  - {hanzi: "某人", pinyin: "meuˊ nginˇ", en: "someone, a certain person"}
+  - {hanzi: "如意", pinyin: "iˇ i", en: "as one wishes"}
+  - {hanzi: "緊緊", pinyin: "ginˋ ginˋ", en: "in a hurry"}
+  - {hanzi: "比將", pinyin: "biˋ jiongˊ", en: "for example"}
+  - {hanzi: "黃梨", pinyin: "vongˇ liˇ", en: "pineapple"}
+  - {hanzi: "果", pinyin: "goˋ", en: "fruit (in 水果)"}
+  - {hanzi: "眠", pinyin: "minˇ", en: "nap, sleep"}
+  - {hanzi: "一𥍉目", pinyin: "idˋ ngiabˋ mugˋ", en: "in the blink of an eye"}
+
+exercises:
+  translate:
+    - en: "Some animals have no sex."
+      source: kaga115
+      sx: {hanzi: "有兜動物無分性別。", pinyin: "iuˊ deuˊ tung vud moˇ bunˊ xin pied."}
+    - en: "Staying up too often causes problems."
+      sx: {hanzi: "噩夜忒多會產生問題。", pinyin: "ngog ia tedˋ doˊ voi sanˋ senˊ mun tiˇ."}
+    - en: "Mum gets up terribly early every day to exercise."
+      sx: {hanzi: "阿姆逐日七早八早就䟘起來運動。", pinyin: "aˊ meˊ dagˋ ngidˋ qidˋ zoˋ badˋ zoˋ qiu hong hiˋ loiˇ iun tung."}
+    - en: "Grandma ties the straw."
+      sx: {hanzi: "阿婆紮禾稈。", pinyin: "aˊ poˇ zadˋ voˇ gonˋ."}
+    - en: "A-min crumpled up the photo."
+      sx: {hanzi: "阿明同相片揉到皺皺。", pinyin: "aˊ minˇ tungˇ xiong pienˋ ngioˊ do jiu jiu."}
+  fill:
+    - en: "The market is full of fruit: pineapples, watermelons and so on."
+      sx: {hanzi: "市場有當多果子，___黃梨、西瓜。", pinyin: "sii congˇ iuˊ dongˊ doˊ goˋ ziiˋ, ___ vongˇ liˇ, xiˊ guaˊ.", answer_hanzi: "比將", answer: "biˋ jiongˊ"}
+    - en: "A-min spat out the fish bone."
+      sx: {hanzi: "阿明同魚骨___出來。", pinyin: "aˊ minˇ tungˇ ngˇ gudˋ ___ cudˋ loiˇ.", answer_hanzi: "哯", answer: "lienˋ"}
+    - en: "In the blink of an eye, summer is here."
+      sx: {hanzi: "___，熱天就到吔。", pinyin: "___, ngied tienˊ qiu do leˊ.", answer_hanzi: "一𥍉目", answer: "idˋ ngiabˋ mugˋ"}
+    - en: "Every parent loves their children."
+      sx: {hanzi: "做爺哀个人都惜___。", pinyin: "zo iaˇ oiˊ ge nginˇ du xiagˋ ___.", answer_hanzi: "子兒", answer: "ziiˋ iˇ"}
+    - en: "Grandpa teaches me to tie straw."
+      sx: {hanzi: "阿公教𠊎___禾稈。", pinyin: "aˊ gungˊ gauˊ ngaiˇ ___ voˇ gonˋ.", answer_hanzi: "紮", answer: "zadˋ"}
+
+audio: []

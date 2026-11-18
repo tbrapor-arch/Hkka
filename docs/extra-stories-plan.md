@@ -40,9 +40,11 @@ Single characters with R ≥ 2 go to `course/packets/attested-single.tsv`: their
 `attested-single.tsv`. Without the private module: 124 中高級, 99 高級. The 46 words the heuristics flagged were all
 read in context: 8 are artefacts (出頭, 講親, 著著, 結結, 粒粒, 到家, 打石, 過水), 亮亮 stays in doubt, the rest are
 real (當當 is 當當在該 + verb, "in the middle of doing").
+After 外篇 3 (which teaches 七早八早, 毋多知仔, 一𥍉目): 126 中高級, 99 高級.
 
 ## Plan
 1. **外篇 3** (id 173): the 初級 and 中級 words still untaught (`make coverage`), plus a few attested words that fit.
+   Done 18 Nov 2026 (`course/batches/P64.md`, "外篇 3"): 初級 and 中級 99% after it.
 2. **7–8 extra stories of about 30 words each** for the attested list, the words grouped by what fits one scene
    (category is a start: 時空與情狀副詞 and the doubled adjectives need a narrator; 外在活動與動作 a working scene).
    Skip `SEG` words unless their official sentence holds them; read the hits of `POLY` words before choosing a sense.

@@ -125,3 +125,7 @@ style of 採茶戲, not a sung one.
   the coal mine, helping an indebted young man; died at eighty.
 - 外篇 2 (id 172, extra): March 2030, 阿傑 takes the 粄條 to a food fair in France; Lucie helps; a French company
   wants to buy every month.
+- 外篇 3 (id 173, extra), Mon 10 – Sun 16 Jun 2030, Sam's diary: he stays at the Liu house for a week to study for
+  the graduate school exam (application photo, research plan, late nights). Grandpa buys sugar cane and ties straw
+  after the neighbour's harvest; A-min wins a big prize in a school draw. Sat: 叔婆 says her brother spoils his
+  children and now his granddaughter. Sunday lunch at the Lius'.
