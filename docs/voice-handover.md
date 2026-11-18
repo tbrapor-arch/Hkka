@@ -125,3 +125,18 @@ The user disliked Sam's voice: Sam and 阿明 swapped voices in both accents. Si
 Hailu Sam 羅盛滿 → HM, 阿明 HM → 羅盛滿; 林師傅 (Sixian) XM → 周碩興 to avoid sharing Sam's voice in lesson 72.
 1,131 items re-voiced. The previous audio (Sam's old voice) is kept on Hkka-private branch `old-voices-2026-11-08`;
 `tools/cast.yaml` notes the old voice next to each changed line.
+
+## 外篇 3–10 voiced (2026-11-18)
+
+Same procedure as for 進修 1–70 and 外篇 1–2 (`HKKA=… tts311/bin/python Hkka-private/tools/tts.py --space space
+--lessons 1-100,101-180`, environment as above). 420 files made: 419 for 外篇 3–10 (ids 173–180, files P73–P80:
+8 titles, 303 lines, 80 exercise answers, 29 new words; the other 240 new words have a real 客委會 clip), plus
+進修 46 line 2 re-voiced after its text fix (吾間房). 8,966 files unchanged (cache). 34 minutes of new audio.
+- Cast: prose (diary, memoir, tale, news, story, letter, fable) in the narrator voice XF, as 外篇 1–2 and the prose
+  進修 lessons; 外篇 9 (阿傑's speech) has `speaker: 阿傑` on every line → HM, as the speeches of 進修 30 and 40.
+  No new character, `cast.yaml` unchanged.
+- Checks: every item has a file of non-zero length; no syllable missing from the IPA table (no fallback); Latin
+  names read as before (Sam sam, Lucie lu xi: 外篇 8 lines 32, 34, 39; 外篇 9 line 29); no digits in the lines.
+  Median 0.35 s per syllable (old 進修 lines 0.33); the only items outside 0.5–2× are one-syllable words (about 1 s,
+  as the old one-syllable words).
+- Nobody has listened to these files yet.

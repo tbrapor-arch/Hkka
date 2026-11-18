@@ -145,10 +145,15 @@ The three "P36 on" checks skip P1–P35 because their findings there were review
   words left out.
 - 外篇 3 (id 173) and 外篇 4–10 (ids 174–180, 18 Nov 2026): the last 初級 and 中級 words, then 210 words of the
   attested list (`tools/attested.py`), one story per packet with the same draft → lint process. Brief:
-  `course/batches/P74.md`. Audio for 173–180 is not made yet.
+  `course/batches/P74.md`. Audio for 173–180 was made on 18 Nov 2026 (below).
 - Audio (11 Nov 2026): `Hkka-private/tools/tts.py --lessons 1-100,101-172` now voices 進修 too (Sixian only, files
   P01-…). 2,979 files were made: the changed Part 1 lines and all of Part 2. Published to Hkka-audio; the site was
   rebuilt. The Part 2 cast is in `tools/cast.yaml` (provisional, as for Part 1).
+- Audio (18 Nov 2026): the same run with `--lessons 1-100,101-180` voiced 外篇 3–10 (P73–P80, 419 files: titles,
+  lines, exercise answers, the 29 new words without a 客委會 clip; 240 new words use the real clip) and re-voiced
+  進修 46 line 2 after its text fix; 8,966 files came from the cache. About 34 minutes of audio. The 外篇 are prose
+  in the narrator voice (XF), as 外篇 1–2, except 外篇 9, 阿傑's speech: its lines carry `speaker: 阿傑` (voice HM),
+  as the 進修 speeches 30 and 40. `cast.yaml` unchanged. Published to Hkka-audio; the site was rebuilt.
 
 ## Before the last batch (kept for the record)
 1. Batch P64–P70: winter 2029–30 (`course/batches/state.md` has the open threads and the calendar).
