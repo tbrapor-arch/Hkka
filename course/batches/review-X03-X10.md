@@ -52,7 +52,7 @@ Doubts the writer listed in `P74.md` that the data settles:
 
 | Line | Finding | Evidence | Severity | Done |
 |---|---|---|---|---|
-| ex. translate 3 | 阿姆逐日七早八早就䟘起來運動 is a kaga sentence quoted with no `source:` | `example` (kaga): 阿姆逐日七早八早就䟘起來運動。; 322 of 400 translate items in 進修 carry `source:` | CERTAIN | fixed: `source: kaga` |
+| ex. translate 3 | 阿姆逐日七早八早就䟘起來運動 is a kaga sentence quoted with no `source:` | `example` (kaga): 阿姆逐日七早八早就䟘起來運動。; 322 of 400 translate items in 進修 carry `source:` | CERTAIN | fixed: `source: kaga`, `abridged: true` (the kaga sentence ends 運動(做事)) |
 | 17 | 割禾哩: sentence-final 哩 in the course's own line | checklist (recounted): the course writes 吔 leˊ; no other own line of 進修 1–70 has 哩 | LIKELY | fixed: 割禾吔; rule `final-li` |
 | 28 | 說人 for "talk about people behind their backs" (gossip) | kaga115 說人 "稱說（稱讚人）" (praise); only kaga 2013 says "批評人或稱讚人". The one sentence is the saying 誰人背後無人說，哪個人前不說人 | DOUBT | left, `check: true`. Ask: can 背後說人 mean "speak ill of people behind their backs"? |
 | 11 | 讀書讀到變扁身 "studying has made me skinny" | 扁身 kaga115 "身體及臀部扁而瘦的體型" is a build, no sentence; "become 扁身" unattested | DOUBT | left, `check: true`. Ask: can one "become" 扁身 by losing weight? |
@@ -134,4 +134,6 @@ Checked and right: 無奈何 (7 official), 尋人出水 (kaga115 滿哪尋人出
 ## Rules and card lines added
 - `rules.yaml`: `shout-hem` (緊喊 / 喊救命 read ham), `final-li` (sentence-final 哩 in an own line). Evidence in
   `checklist.md`, "外篇 3–10 review".
-- `card.md`: "'Then, next' in a narrative is 續下來 or 後來; 轉來 is 'come back'", and "Exclamations: 當香, 盡香, not 好香".
+- `card.md`, one line: 轉來 is "come back", never "then" (續下來, 後來 "later"); "smells good" is 當香 / 盡香, not 好香.
+- `final-li` also flagged four fill items of 進修 39, 47, 57 and 64: each is an official kaga115 sentence with its own
+  哩, so they carry `ok: [final-li]`. `make lint`: 0 errors, the same 182 warnings as before (the ones P74.md explains).

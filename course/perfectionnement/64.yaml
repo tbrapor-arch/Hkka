@@ -280,6 +280,7 @@ exercises:
       sx: {hanzi: "你莫亂講話，會分人擘嘴角。", pinyin: "nˇ mog lon gongˋ fa, voi bunˊ nginˇ bagˋ zoi gogˋ."}
   fill:
     - en: "Two more stops and we are in Taipei."
+      ok: [final-li]
       sx: {hanzi: "過兩___就到臺北哩。", pinyin: "go liongˋ ___ qiu do toiˇ bedˋ leˊ.", answer_hanzi: "站", answer: "zam"}
     - en: "You haven't even warmed your seat: why the hurry to go home?"
       sx: {hanzi: "___吂坐燒，仰恁緊愛轉屋下？", pinyin: "___ mangˇ coˊ seuˊ, ngiongˋ anˋ ginˋ oi zonˋ vugˋ kaˊ?", answer_hanzi: "屎胐", answer: "sii vudˋ"}

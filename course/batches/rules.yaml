@@ -67,6 +67,7 @@ rules:
   - {id: together-tone, hanzi: "共下", key: "kiung55-ha24", quotes: true, msg: "共下 'together' is kiung ha (batches 6 and 7)"}
   - {id: marks-fun, hanzi: "扣分", key: "kieu55-bun24", msg: "分 'marks' is funˊ: 扣分 kieu funˊ (batch 8)"}
   - {id: my-body, hanzi: "𠊎个(肩頭|頸根|背囊|肚屎|頭那|目珠|腳|手)(?![機電錶指續])", msg: "body parts take 吾 (吾頸根, 14 official), not 𠊎个 (batch 8)"}
+  - {id: shout-hem, hanzi: "(?<=緊)喊|喊(?=救)", key: "ham55", quotes: true, msg: "喊 'shout, call out' is hemˊ (MOE 緊喊 ginˋ hemˊ); ham is 'tell someone to' (外篇 3–10 review)"}
   # --- grammar ---
   - id: bare-m-adj
     hanzi: "(?<![係做])毋(?=貴|辣|甜|嚴重|譴|遠|靚|熱|寒|痛|難|簡單|方便|便宜|鹹|酸|苦|忙|閒|淨俐|鬧熱|危險)"
@@ -81,3 +82,4 @@ rules:
   - {id: predicative, hanzi: "恁[大多]仔个", msg: "恁大仔 / 恁多仔 are predicative only: 皮箱正恁大仔"}
   - {id: number-cl, hanzi: "[十百千萬][零過]人", msg: "number + 零 / 過 takes its classifier: 兩百零个人, 十過個"}
   - {id: final-le, hanzi: "了(?=[。！？」]|$)", msg: "the course writes sentence-final 吔 leˊ (MOE quotations keep 了: mark them `source: moe`)"}
+  - {id: final-li, hanzi: "哩(?=[，。！？；：」]|$)", msg: "the course writes sentence-final 吔 leˊ in its own lines; 哩 stays only in quoted official sentences (外篇 3–10 review)"}

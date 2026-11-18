@@ -27,6 +27,8 @@ What a script cannot check. `make lint` checks the rest (`rules.yaml`). The evid
 - Before writing "our own phrase", check that no taught word already covers it.
 - 歇: hed "live (long term)", hiedˋ "stay (guest, a few nights)". 喊: ham "tell someone to", hemˊ "shout".
 - 好 + verb: hau "like to, keen to", hoˋ "easy to, good to; may". 頭擺 "formerly"; 頭一擺 "the first time".
+- 轉來 is "come back", never "then": "next, then" in a story is 續下來 (後來 "later"). "Smells good" is 當香 / 盡香:
+  好 + adjective for "so" is Mandarin (好香 0 official).
 - 頭先 "just now"; "at first" is 一開始. 黏時 "at once"; "suddenly" is 好恬恬. 識 "know (a person); ever", not "can" (會).
 - 還好 + adjective is "very". "Not bad" is 會做得. Gloss 盡 every time ("very" or "most").
 

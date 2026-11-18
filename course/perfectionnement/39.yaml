@@ -285,6 +285,7 @@ exercises:
       sx: {hanzi: "佢在這間公司做會計。", pinyin: "giˇ coiˊ iaˋ gienˊ gungˊ siiˊ zo fi gie."}
   fill:
     - en: "The New Year is over: time to start work."
+      ok: [final-li]
       sx: {hanzi: "年過忒愛___哩。", pinyin: "ngienˇ go tedˋ oi ___ leˊ.", answer_hanzi: "起工", answer: "hiˋ gungˊ"}
     - en: "Tonight I have to do overtime."
       sx: {hanzi: "暗晡夜愛___。", pinyin: "am buˊ ia oi ___.", answer_hanzi: "加班", answer: "gaˊ banˊ"}

@@ -323,3 +323,27 @@ Fresh agent (Opus: the Fable limit was reached), read-only. Findings checked in 
 - P70: nine of ten exercises copied lines of the batch → all new. The lint check only catches exact copies of the
   lesson's own lines.
 - 委秧仔 was used in P67 and declared in P68 → declared in P67.
+
+## 外篇 3–10 (P73–P80), review of 18 Nov 2026
+Fresh agent, alone, against the database after lint showed 0 errors. Full table: `review-X03-X10.md`. 6 certain and
+10 likely findings fixed, 14 doubts left with `check: true` and a question for a native speaker.
+- 喊 "shout, call out" is hemˊ: MOE 緊喊 ginˋhemˊ "一直叫喊", 喊 hemˊ "大聲叫喚"; ham is "tell someone to". 緊喊救命
+  (外篇 5) and 緊尋緊喊 (外篇 7) had ham → rule `shout-hem` (緊喊, 喊救…).
+- Sentence-final 哩 in the course's own lines: three, all in the 外篇 (割禾哩, 青瞑哩, 麻煩哩); no own line of 進修 1–70
+  has one → 吔, rule `final-li`. Official sentences quoted in fill items keep their 哩 (`ok: [final-li]` in 進修 39, 47,
+  57, 64).
+- 轉來 for "then" (外篇 8): the 10 official sentences with 轉來， all mean "come back" → 續下來 (kaga115 佢講煞，續下來換你).
+- 好香 "smells so good": 0 official as an exclamation; 當香 (kaga 該間店仔賣个仙貝當香), 盡香 (2 kaga).
+- 喊麼个名 0 / 0, 安到麼个名 2 official (kaga115 若倈仔安到麼个名？): the card's rule, broken in 外篇 7.
+- 𠊎个間房 0 / 0; kaga115 厥間房整理到當揫亼, MOE 若間房 → 吾間房 (外篇 8; 進修 46 still has 𠊎个間房).
+- An official sentence must fit the story: 外篇 9 had 阿舅 say "last year nothing he did came off, this year
+  everything goes well" after "the first month went badly", about 阿傑's good 2029 → kaga115 你這毋成腳士，愛做麼个大頭路？
+- Translate items that quote an official sentence carry `source:` (322 of 400 do): 外篇 3 (kaga, abridged: the kaga
+  sentence ends 運動(做事)) and 外篇 9 (kaga115, the second sentence of 囥（庰）在門後背。你先行，…).
+- Notes: lesson 65 gives no age for Grandpa (he is 78 in lesson 40, winter 2026); 堅耐 gienˊ nai is kaga 2013 only;
+  上下 "about" has a kaga115 example (這尾石斑仔，差毋多有兩斤上下) and gloss (左右).
+- English follows the gloss: 三不二時 is "now and then" (偶而), not "keep (doing)".
+- Settled by the data, not errors: 發 bodˋ in ailments (about 25 list words: 發瘡仔, 發痔仔, 發癬), 用著 doˋ (用到),
+  見看(著)人 "every time" (4 kaga115 translations 每次 / 每每), 無結煞 (16 official sentences), 當在該 dongˊ di ge
+  (kaga115 entry), 開洋 (the kaga115 gloss is general), 合共下, 在田項勞碌, 尋人出水, 無奈何, 生理做毋成 (MOE).
+

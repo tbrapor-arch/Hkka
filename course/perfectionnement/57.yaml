@@ -287,6 +287,7 @@ exercises:
     - en: "When husband and wife fall out, they sleep side by side without a word."
       sx: {hanzi: "兩公婆___，共下睡就無講話。", pinyin: "liongˋ gungˊ poˇ ___, kiung ha soi qiu moˇ gongˋ fa.", answer_hanzi: "鬥氣", answer: "deu hi"}
     - en: "The edge of this sheet has been creased by someone."
+      ok: [final-li]
       sx: {hanzi: "這張紙个邊脣分人___哩。", pinyin: "iaˋ zongˊ ziiˋ ge bienˊ sunˇ bunˊ nginˇ ___ leˊ.", answer_hanzi: "拗著", answer: "auˋ doˋ"}
     - en: "Flies won't go however you chase them: what a nuisance."
       sx: {hanzi: "___逐就逐毋走，還得人惱。", pinyin: "___ giugˋ qiu giugˋ mˇ zeuˋ, hanˇ dedˋ nginˇ nauˊ.", answer_hanzi: "烏蠅", answer: "vuˊ inˇ"}
