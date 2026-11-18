@@ -140,3 +140,15 @@ Same procedure as for 進修 1–70 and 外篇 1–2 (`HKKA=… tts311/bin/pytho
   Median 0.35 s per syllable (old 進修 lines 0.33); the only items outside 0.5–2× are one-syllable words (about 1 s,
   as the old one-syllable words).
 - Nobody has listened to these files yet.
+
+## "My room" fixes and 進修 4 line 28 (2026-11-18, evening)
+
+Same command as above. 6 files made, 9,381 unchanged (cache); no file removed (no line was deleted).
+- Re-voiced after the text fixes of Hkka 164c32e: `sixian/ex/007-t02` (吾間房), `hailu/002-07` (若間房),
+  `sixian/P07-06` (若房間), `sixian/P17-02` (吾間房), `sixian/P17-03` (若間房). Hailu `ex/007-t02` kept its text
+  (𠊎个間房, now `check: true`), so it was not re-voiced.
+- `sixian/P04-28` (第一課：字母。A、B、C。) failed since 11 Nov ("no IPA for b c"). `tools/cast.yaml` `names` now reads
+  capital letters as English letter names with Hakka syllables, tone 55: A e (Hakka has no ei), B bi, C xi (Hailu si),
+  as the -cie of Lucie. Whole-word and case-sensitive: no other item has a capital letter alone.
+- Checks: no failed item left in the manifest, no fallback; 0.33–0.45 s per syllable. Published to Hkka-private and
+  Hkka-audio; the site was rebuilt. Nobody has listened yet: P04-28 (the letters) and hailu/002-07 first.
