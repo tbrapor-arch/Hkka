@@ -7,7 +7,7 @@ review: false
 setting: >-
   Extra lesson, outside the 70. Saturday 7 September 2030, in Taipei. 阿傑's shop (進修 70) has been open half a year;
   at a dinner for his staff, friends and 阿舅, he makes a short speech. The events are invented.
-names: [阿傑, 阿舅, 竹東, 臺北, Lucie]
+names: [阿傑, 阿舅, 竹東, 臺北, Lucie, Sam]
 
 dialogue:
   - n: 1
@@ -63,8 +63,8 @@ dialogue:
     source: kaga
     sx: {hanzi: "該家个店面排到盡排場。", pinyin: "ge gaˊ ge diam mien paiˇ do qin paiˇ congˇ."}
   - n: 14
-    en: "Ours is small, but the noodles are good."
-    sx: {hanzi: "𫣆兜个店仔細細仔，毋過粄條好食。", pinyin: "enˊ deuˊ ge diam eˋ se se eˋ, mˇ go banˋ tiauˇ hoˋ siid."}
+    en: "Mine is small, but the noodles are good."
+    sx: {hanzi: "𠊎个店仔細細仔，毋過粄條好食。", pinyin: "ngaiˇ ge diam eˋ se se eˋ, mˇ go banˋ tiauˇ hoˋ siid."}
     check: true
   - n: 15
     en: "On opening day everyone was rushed off their feet. My wife was dashing about, and I was in a frantic muddle."
@@ -95,70 +95,78 @@ dialogue:
     source: kaga115
     sx: {hanzi: "這事，係久無做，就會生疏。", pinyin: "iaˋ sii, he giuˋ moˇ zo, qiu voi sangˊ soˊ."}
   - n: 22
-    en: "Our noodles sell well, and the factory in Zhudong gains from it too."
-    sx: {hanzi: "𫣆兜个粄條賣到好，竹東个工廠乜有好打幫。", pinyin: "enˊ deuˊ ge banˋ tiauˇ mai do hoˋ, zugˋ dungˊ ge gungˊ congˋ me iuˊ hoˋ daˋ bongˊ."}
+    en: "The shop's noodles sell well, and the factory in Zhudong gains from it too."
+    sx: {hanzi: "店仔个粄條賣到好，竹東个工廠乜有好打幫。", pinyin: "diam eˋ ge banˋ tiauˇ mai do hoˋ, zugˋ dungˊ ge gungˊ congˋ me iuˊ hoˋ daˋ bongˊ."}
     check: true
   - n: 23
-    en: "There is an old man who comes only for our noodles, every single day."
-    sx: {hanzi: "有一個阿伯，專專來食𫣆兜个粄條，逐日都來。", pinyin: "iuˊ idˋ ge aˊ bagˋ, zonˊ zonˊ loiˇ siid enˊ deuˊ ge banˋ tiauˇ, dagˋ ngidˋ du loiˇ."}
-    check: true
+    en: "To run a shop you must be trustworthy: only then do regular customers keep coming back."
+    source: kaga
+    sx: {hanzi: "開店做生理愛有信用，主顧正會輒輒來交關。", pinyin: "koiˊ diam zo senˊ liˊ oi iuˊ xin iung, zuˋ gu zang voi jiab jiab loiˇ gauˊ guanˊ."}
   - n: 24
+    en: "There is an old man who comes only for the noodles, every single day."
+    sx: {hanzi: "有一個阿伯，專專來食粄條，逐日都來。", pinyin: "iuˊ idˋ ge aˊ bagˋ, zonˊ zonˊ loiˇ siid banˋ tiauˇ, dagˋ ngidˋ du loiˇ."}
+    check: true
+  - n: 25
     en: "He gets so absorbed in his noodles that if you talk to him he doesn't hear."
     sx: {hanzi: "佢食粄條食到當入文，同佢講話，佢就無聽著。", pinyin: "giˇ siid banˋ tiauˇ siid do dongˊ ngib vunˇ, tungˇ giˇ gongˋ fa, giˇ qiu moˇ tangˊ doˋ."}
     check: true
-  - n: 25
-    en: "The shop has foreign customers too. To find a job these days, you need at least some English."
-    sx: {hanzi: "店仔乜有外國人客。這下尋頭路，多少仔愛會講英語。", pinyin: "diam eˋ me iuˊ ngoi guedˋ nginˇ hagˋ. iaˋ ha qimˇ teuˇ lu, doˊ seuˋ eˇ oi voi gongˋ inˊ ngiˊ."}
-    check: true
   - n: 26
+    en: "The shop has foreign customers too."
+    sx: {hanzi: "店仔乜有外國人客。", pinyin: "diam eˋ me iuˊ ngoi guedˋ nginˇ hagˋ."}
+    check: true
+  - n: 27
+    en: "To find a job these days, you need at least some English."
+    source: kaga115
+    sx: {hanzi: "這下尋頭路，多少仔愛會講英語。", pinyin: "iaˋ ha qimˇ teuˇ lu, doˊ seuˋ eˇ oi voi gongˋ inˊ ngiˊ."}
+  - n: 28
     en: "Learning one more language does no harm: one day it will come in useful."
     source: kaga115
     sx: {hanzi: "多學一種語言毋會差，另擺總會用得著。", pinyin: "doˊ hog idˋ zungˋ ngiˊ ngienˇ mˇ voi caˊ, nang baiˋ zungˋ voi iung dedˋ doˋ."}
-  - n: 27
-    en: "I've learnt a little French too, just enough to know roughly what's what. Uncle says of my French:"
-    sx: {hanzi: "𠊎乜學兜仔法國話，普普仔知麼个係麼个。阿舅講𠊎學法國話：", pinyin: "ngaiˇ me hog deuˊ eˋ fabˋ guedˋ fa, puˋ puˋ eˇ diˊ maˋ ge he maˋ ge. aˊ kiuˊ gongˋ ngaiˇ hog fabˋ guedˋ fa:"}
-    check: true
-  - n: 28
-    en: "You've taught him so many times, and he still doesn't understand a thing."
-    source: kaga115
-    sx: {hanzi: "教佢恁多擺，佢還係全全聽毋識。", pinyin: "gauˊ giˇ anˋ doˊ baiˋ, giˇ hanˇ he qionˇ qionˇ tangˊ mˇ siidˋ."}
   - n: 29
-    en: "But not learning well doesn't matter:"
-    sx: {hanzi: "毋過，學毋好乜無相干：", pinyin: "mˇ go, hog mˇ hoˋ me moˇ xiongˊ gonˊ:"}
+    en: "I've been learning a little French with Lucie too, and I can roughly follow it. But Lucie tells Sam:"
+    sx: {hanzi: "𠊎乜同 Lucie 學兜仔法國話，普普仔聽得識。毋過 Lucie 同 Sam 講：", pinyin: "ngaiˇ me tungˇ Lucie hog deuˊ eˋ fabˋ guedˋ fa, puˋ puˋ eˇ tangˊ dedˋ siidˋ. mˇ go Lucie tungˇ Sam gongˋ:"}
     check: true
   - n: 30
+    en: "I've taught him so many times, and he still doesn't understand a thing."
+    source: kaga115
+    sx: {hanzi: "教佢恁多擺，佢還係全全聽毋識。", pinyin: "gauˊ giˇ anˋ doˊ baiˋ, giˇ hanˇ he qionˇ qionˇ tangˊ mˇ siidˋ."}
+  - n: 31
+    en: "Not learning well doesn't matter, though:"
+    sx: {hanzi: "學毋好乜無相干：", pinyin: "hog mˇ hoˋ me moˇ xiongˊ gonˊ:"}
+    check: true
+  - n: 32
     en: "A mistake is a lesson learnt, and being able to teach others by it is rather a good thing."
     source: kaga115
     sx: {hanzi: "做毋著就準學經驗，做得教精人也係拗蠻好个。", pinyin: "zo mˇ cog qiu zunˋ hog ginˊ ngiam, zo dedˋ gauˊ jinˊ nginˇ ia he auˊ manˇ hoˋ ge."}
-  - n: 31
-    en: "All in all, business these six months has been all right."
-    sx: {hanzi: "算來，這半年个生理做得過。", pinyin: "son loiˇ, iaˋ ban ngienˇ ge senˊ liˊ zo dedˋ go."}
-    check: true
-  - n: 32
-    en: "Now the shop has found its feet, and everyone knows what they have to do."
-    sx: {hanzi: "這下店仔个事情有落著，大家各各都知愛做麼个。", pinyin: "iaˋ ha diam eˋ ge sii qinˇ iuˊ log cog, tai gaˊ gogˋ gogˋ du diˊ oi zo maˋ ge."}
-    check: true
   - n: 33
-    en: "Our cook works very hard:"
-    sx: {hanzi: "𫣆兜个師傅當煞猛：", pinyin: "enˊ deuˊ ge siiˊ fu dongˊ sadˋ mangˊ:"}
+    en: "All in all, business these six months has been all right, and now everyone knows what they have to do."
+    sx: {hanzi: "算來，這半年个生理做得過，這下大家各各都知愛做麼个。", pinyin: "son loiˇ, iaˋ ban ngienˇ ge senˊ liˊ zo dedˋ go, iaˋ ha tai gaˊ gogˋ gogˋ du diˊ oi zo maˋ ge."}
     check: true
   - n: 34
+    en: "At first we looked for a cook for a month and still had nothing settled."
+    sx: {hanzi: "頭下碼尋師傅，尋一隻月都還無落著。", pinyin: "teuˇ ha maˊ qimˇ siiˊ fu, qimˇ idˋ zagˋ ngied du hanˇ moˇ log cog."}
+    check: true
+  - n: 35
+    en: "The cook we found later works very hard:"
+    sx: {hanzi: "後來尋著个師傅當煞猛：", pinyin: "heu loiˇ qimˇ doˋ ge siiˊ fu dongˊ sadˋ mangˊ:"}
+    check: true
+  - n: 36
     en: "Give him a job, and he will work hard at it from start to finish and do it well."
     source: kaga115
     sx: {hanzi: "事情係交代分佢，絕對會從頭到尾落力做到好。", pinyin: "sii qinˇ he gauˊ toi bunˊ giˇ, qied dui voi qiungˇ teuˇ do miˊ log lid zo do hoˋ."}
-  - n: 35
+  - n: 37
     en: "And Uncle is the key figure of this shop. Without him I'd be in trouble."
     sx: {hanzi: "還有阿舅，佢係這間店个大腳士。阿舅毋在，𠊎就麻煩吔。", pinyin: "hanˇ iuˊ aˊ kiuˊ, giˇ he iaˋ gienˊ diam ge tai giogˋ sii. aˊ kiuˊ mˇ coiˊ, ngaiˇ qiu maˇ fanˇ leˊ."}
     check: true
-  - n: 36
+  - n: 38
     en: "They say every trade has its hardships. But I believe:"
     sx: {hanzi: "人講百般頭路百般難。毋過𠊎相信：", pinyin: "nginˇ gongˋ bagˋ banˊ teuˇ lu bagˋ banˊ nanˇ. mˇ go ngaiˇ xiongˊ xin:"}
     check: true
-  - n: 37
+  - n: 39
     en: "Work hard, and you will succeed."
     source: kaga115
     sx: {hanzi: "煞猛兜仔做，總會成功。", pinyin: "sadˋ mangˊ deuˊ eˋ zo, zungˋ voi siinˇ gungˊ."}
-  - n: 38
+  - n: 40
     en: "Please give yourselves a hand, and thank you all! After dinner, those who have things to do can leave first."
     sx: {hanzi: "請大家搭手，多謝大家！食飽，有事个人做得先行。", pinyin: "qiangˋ tai gaˊ dab suˋ, doˊ qia tai gaˊ! siid bauˋ, iuˊ sii ge nginˇ zo dedˋ xienˊ hangˇ."}
     check: true
@@ -169,12 +177,13 @@ notes:
     text: >
       The ninth extra lesson: 阿傑's speech for half a year of his Taipei shop (opened before 2 March 2030, 進修 70).
       The title is the second half of a saying in the MOE dictionary (an entry, no recording); its first half is
-      coarse. 百般 "all kinds of".
+      coarse. 百般 "all kinds of". 阿傑 speaks to staff and guests together, so he avoids 𫣆兜 "we (with you)" and says
+      店仔, 𠊎个店仔.
   - ref: 3
     topic: vocab
     text: >
-      頭下碼 teuˇ ha maˊ "at first"; the list also gives 頭下, 起勢, 初下碼. 腳士 giogˋ sii "role, person": 新腳士 "novice", 大腳士
-      "key figure" (line 35, official: 佢係這隻活動个大腳士，無佢斯麻煩哩).
+      頭下碼 teuˇ ha maˊ "at first"; the list also gives 頭下, 起勢, 初下碼. 腳士 giogˋ sii "role, person": 新腳士 "novice", 毋成腳士
+      "good-for-nothing" (line 19), 大腳士 "key figure" (line 37, official: 佢係這隻活動个大腳士，無佢斯麻煩哩).
   - ref: 5
     topic: vocab
     text: >
@@ -217,49 +226,56 @@ notes:
   - ref: 22
     topic: vocab
     text: >
-      打幫 daˋ bongˊ "benefit, gain from"; 無好打幫 "get no help from it" (the list).
+      打幫 daˋ bongˊ "benefit, gain from"; 有好打幫 as in the official 厥屋下食水果多多少少有好打幫.
   - ref: 23
     topic: vocab
     text: >
-      專專 zonˊ zonˊ "only, single-mindedly" (official: 阿仙哥个魚箱仔肚項麼个就無，專專畜該河壩蝦).
+      主顧 zuˋ gu "regular customer, patron" (kaga 中級). 交關 "buy at a shop, patronise".
   - ref: 24
     topic: vocab
     text: >
-      入文 ngib vunˇ "absorbed": the line follows the official 佢看電視看到當入文，喊佢幾下到就無聽著.
+      專專 zonˊ zonˊ "only, single-mindedly" (official: 阿仙哥个魚箱仔肚項麼个就無，專專畜該河壩蝦).
   - ref: 25
     topic: vocab
     text: >
-      多少仔 doˊ seuˋ eˇ "some, a little".
-  - ref: 26
-    topic: vocab
-    text: >
-      另擺 nang baiˋ "another time, later". 總會 zungˋ voi "will surely" (line 37).
+      入文 ngib vunˇ "absorbed": the line follows the official 佢看電視看到當入文，喊佢幾下到就無聽著.
   - ref: 27
     topic: vocab
     text: >
-      普普仔 puˋ puˋ eˇ "roughly" (official: 阿文仔搬走盡久吔，這下還普普仔知佢生來無盡高).
+      多少仔 doˊ seuˋ eˇ "some, a little".
   - ref: 28
     topic: vocab
     text: >
-      全全 qionˇ qionˇ "completely, (not) at all".
+      另擺 nang baiˋ "another time, later". 總會 zungˋ voi "will surely" (line 39).
+  - ref: 29
+    topic: vocab
+    text: >
+      普普仔 puˋ puˋ eˇ "roughly" (official: 阿文仔搬走盡久吔，這下還普普仔知佢生來無盡高). Lucie, Sam's sister, helped 阿傑 at the food fair
+      in France (外篇 2); that she teaches him French is the story's invention. Line 30 is her complaint to Sam,
+      quoted by 阿傑 as a joke against himself.
   - ref: 30
     topic: vocab
     text: >
-      拗蠻 auˊ manˇ "rather, quite" (official: 一袋紅毛泥五十公斤，拗蠻仔重). 準 "count as".
-  - ref: 31
-    topic: vocab
-    text: >
-      算來 son loiˇ "all in all; after all" (official: 你這無愛，該也無愛，算來想愛仰仔？).
+      全全 qionˇ qionˇ "completely, (not) at all".
   - ref: 32
     topic: vocab
     text: >
-      落著 log cog "settled outcome": 有落著 "settled", 無落著 "unsettled" (official: 阿明這駁仔尋頭路，到今還無落著). 各各 gogˋ gogˋ "each,
-      every one".
+      拗蠻 auˊ manˇ "rather, quite" (official: 一袋紅毛泥五十公斤，拗蠻仔重). 準 "count as".
+  - ref: 33
+    topic: vocab
+    text: >
+      算來 son loiˇ "all in all; after all" (official: 你這無愛，該也無愛，算來想愛仰仔？). 各各 gogˋ gogˋ "each, every one" (official:
+      出年駕以後，大家就各各去做頭路哩).
   - ref: 34
     topic: vocab
     text: >
+      落著 log cog "settled outcome, result": the official sentences have only 無落著 "nothing settled yet"
+      (阿明這駁仔尋頭路，到今還無落著), and the line follows them.
+  - ref: 36
+    topic: vocab
+    text: >
       從頭到尾 qiungˇ teuˇ do miˊ "from start to finish".
-  - ref: 38
+  - ref: 40
     topic: vocab
     text: >
       搭手 dab suˋ "clap hands" (official: 大家搭手歡迎新同學). 先行 xienˊ hangˇ "go first, leave first" (official: 你先行，𠊎後背跈等來).
@@ -289,9 +305,10 @@ new_words:
   - {hanzi: "全全", pinyin: "qionˇ qionˇ", en: "completely, at all"}
   - {hanzi: "拗蠻", pinyin: "auˊ manˇ", en: "rather, quite"}
   - {hanzi: "算來", pinyin: "son loiˇ", en: "all in all; after all"}
-  - {hanzi: "落著", pinyin: "log cog", en: "settled outcome"}
+  - {hanzi: "落著", pinyin: "log cog", en: "settled outcome, result (無落著 \"nothing settled yet\")"}
   - {hanzi: "各各", pinyin: "gogˋ gogˋ", en: "each, every one"}
   - {hanzi: "從頭到尾", pinyin: "qiungˇ teuˇ do miˊ", en: "from start to finish"}
+  - {hanzi: "主顧", pinyin: "zuˋ gu", en: "regular customer, patron"}
   - {hanzi: "百般", pinyin: "bagˋ banˊ", en: "all kinds of (MOE)"}
   - {hanzi: "搭手", pinyin: "dab suˋ", en: "clap hands"}
   - {hanzi: "先行", pinyin: "xienˊ hangˇ", en: "go first, leave first"}

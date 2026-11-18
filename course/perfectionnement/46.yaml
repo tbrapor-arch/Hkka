@@ -15,8 +15,8 @@ dialogue:
     sx: {hanzi: "鍾伯、鍾伯姆：你兜人好無？恁久無寫信仔，失禮。", pinyin: "zungˊ bagˋ, zungˊ bagˋ meˊ: nˇ deuˊ nginˇ hoˋ moˇ? anˋ giuˋ moˇ xiaˋ xin eˋ, siidˋ liˊ."}
     check: true
   - n: 2
-    en: "It is May and Miaoli is getting hotter and hotter. My room faces west and is very hot in the afternoon, though the mornings are still cool."
-    sx: {hanzi: "五月吔，苗栗緊來緊熱。𠊎个間房向西片，下晝當熱，毋過朝晨還涼涼。", pinyin: "ngˋ ngied leˊ, meuˇ lid ginˋ loiˇ ginˋ ngied. ngaiˇ ge gienˊ fongˇ hiong xiˊ pienˋ, haˊ zu dongˊ ngied, mˇ go zeuˊ siinˇ hanˇ liongˇ liongˇ."}
+    en: "It is May and Miaoli is getting hotter and hotter. My room faces west and is very hot in the afternoon, though the mornings are a little cool."
+    sx: {hanzi: "五月吔，苗栗緊來緊熱。吾間房向西片，下晝當熱，毋過朝晨有一息仔涼涼。", pinyin: "ngˋ ngied leˊ, meuˇ lid ginˋ loiˇ ginˋ ngied. ngaˊ gienˊ fongˇ hiong xiˊ pienˋ, haˊ zu dongˊ ngied, mˇ go zeuˊ siinˇ iuˊ idˋ xid eˋ liongˇ liongˇ."}
     check: true
   - n: 3
     en: "The mornings are rather cool: an extra waistcoat is just right."
@@ -144,7 +144,9 @@ notes:
   - ref: 2
     topic: vocab
     text: >
-      西片 xiˊ pienˋ "the west side" (日頭對西片落山 "the sun sets in the west").
+      西片 xiˊ pienˋ "the west side" (日頭對西片落山 "the sun sets in the west"). The line follows kaga 這隻間房向西，下晝頭當熱
+      ("this room faces west and is very hot in the afternoon"); "my room" is 吾間房, as kaga115 厥間房 "his room" (not
+      𠊎个間房, which no official sentence has), and 有一息仔涼涼 as kaga115 外背有一息仔涼涼.
   - ref: 3
     topic: vocab
     text: >

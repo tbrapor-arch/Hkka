@@ -335,7 +335,13 @@ Fresh agent, alone, against the database after lint showed 0 errors. Full table:
 - 轉來 for "then" (外篇 8): the 10 official sentences with 轉來， all mean "come back" → 續下來 (kaga115 佢講煞，續下來換你).
 - 好香 "smells so good": 0 official as an exclamation; 當香 (kaga 該間店仔賣个仙貝當香), 盡香 (2 kaga).
 - 喊麼个名 0 / 0, 安到麼个名 2 official (kaga115 若倈仔安到麼个名？): the card's rule, broken in 外篇 7.
-- 𠊎个間房 0 / 0; kaga115 厥間房整理到當揫亼, MOE 若間房 → 吾間房 (外篇 8; 進修 46 still has 𠊎个間房).
+- 𠊎个間房 0 / 0; kaga115 厥間房整理到當揫亼, MOE 若間房 → 吾間房 (外篇 8 and 進修 46 line 2) → rule `my-room`
+  ((𠊎|你|佢)个間房: no other hit in 進修 or the 外篇; Part 1 lesson 7 has one, but the rules do not read Part 1).
+  進修 46 line 2 now follows kaga 這隻間房向西，下晝頭當熱; 還涼涼 (0 / 0) → 有一息仔涼涼 (kaga115 外背有一息仔涼涼).
+- 外篇 9 rewritten after the review: 𫣆兜 (4 lines, said to staff and guests) → 店仔, 𠊎个店仔; 知麼个係麼个 (0 / 0) →
+  普普仔聽得識 (聽得識 3 official); the quote 教佢恁多擺… is now Lucie's (she teaches; 阿舅 does not); 有落著 (0 / 0) →
+  無落著, as the 2 official sentences (尋頭路，到今還無落著); added kaga 開店做生理愛有信用，主顧正會輒輒來交關 and kaga115
+  這下尋頭路，多少仔愛會講英語 as lines of their own.
 - An official sentence must fit the story: 外篇 9 had 阿舅 say "last year nothing he did came off, this year
   everything goes well" after "the first month went badly", about 阿傑's good 2029 → kaga115 你這毋成腳士，愛做麼个大頭路？
 - Translate items that quote an official sentence carry `source:` (322 of 400 do): 外篇 3 (kaga, abridged: the kaga

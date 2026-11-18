@@ -19,7 +19,7 @@ attested either way; the question for a native speaker is given. The last column
 | 外篇 6 (76) | 0 | 1 | 2 | fair: many course lines, but each follows an official pattern |
 | 外篇 7 (77) | 1 | 1 | 1 | fair |
 | 外篇 8 (78) | 0 | 3 | 2 | fair: the letter frame has the most calques (好香, 轉來 "then", 𠊎个間房) |
-| 外篇 9 (79) | 1 | 2 | 4 | weakest: the speech's own lines are the least attested (𫣆兜, 有落著, 知麼个係麼个) |
+| 外篇 9 (79) | 1 | 2 | 4 | weakest: the speech's own lines are the least attested (𫣆兜, 有落著, 知麼个係麼个); rewritten after the review, all four doubts resolved |
 | 外篇 10 (80) | 1 | 0 | 2 | fair: 29 course lines, but their patterns are attested (尋人出水, 無奈何, 毋贏, 還合) |
 | **Total** | **6** | **10** | **14** | |
 
@@ -101,7 +101,7 @@ the title (kaga 爺娘惜子長江水，子想爺娘擔竿長).
 |---|---|---|---|---|
 | 8 | 轉來，阿婆教𠊎煎魚 "Then Grandma taught me": 轉來 is "come back" | the 10 official sentences with 轉來， all mean "come back" (佢對德國轉來，…); "next" is 續下來 (外篇 6; kaga115 佢講煞，續下來換你) | LIKELY | fixed: 續下來 |
 | 13 | 就講好香 "said it smelt so good" | exclamative 好香 0 official; 當香 (kaga 該間店仔賣个仙貝當香), 盡香 (2 kaga) | LIKELY | fixed: 當香 |
-| 29, 30 | 𠊎个間房 "my room" | 𠊎个間房 0 / 0; kaga115 厥間房整理到當揫亼; MOE 若間房; card: 你个/𠊎个 + home is 若間房 (batch 9) | LIKELY | fixed: 吾間房 (also in 進修 46, outside this review: left) |
+| 29, 30 | 𠊎个間房 "my room" | 𠊎个間房 0 / 0; kaga115 厥間房整理到當揫亼; MOE 若間房; card: 你个/𠊎个 + home is 若間房 (batch 9) | LIKELY | fixed: 吾間房; 進修 46 line 2 fixed too (follows kaga 這隻間房向西，下晝頭當熱); rule `my-room` |
 | 29 | 盡好人去看佢 "loves to have visitors": 好 hau + a clause | 好人去 0 / 0; 好 hau is followed by a verb in the data | DOUBT | left, `check: true`. Ask: is 盡好人去看佢 natural? |
 | 33 | kaga 老妹个皮膚白淨白淨 in 叔婆's mouth for "your sister" | the kaga sentence is about one's own sister; 若老妹 would be "your sister" | DOUBT | left (official sentence). Ask: can 叔婆 say 老妹 of Sam's sister? |
 
@@ -112,10 +112,10 @@ the title (kaga 爺娘惜子長江水，子想爺娘擔竿長).
 | ex. translate 5 | 你先行，𠊎後背跈等來 is the second half of a kaga115 example, quoted with no `source:` | `example` (kaga115): 囥（庰）在門後背。你先行，𠊎後背跈等來。 | CERTAIN | fixed: `source: kaga115`, `abridged: true` |
 | 19 | 阿舅: "last year nothing he did came off; this year his luck has turned, everything goes well", after "the first month went badly"; 阿傑's 2029 went well (進修 61 business picking up, 進修 63) | internal and state.md | LIKELY | fixed: the kaga115 sentence 你這毋成腳士，愛做麼个大頭路？ (Uncle teasing; 毋成 kept) |
 | 35 | 𠊎就麻煩哩: final 哩 in an own line | as 外篇 3 line 17 | LIKELY | fixed: 吔 |
-| 14, 22, 23, 33 | 𫣆兜 (inclusive) in a speech to staff, friends and 阿舅 about "our shop" | card: 阿傑 says 𠊎兜 to people outside the business; here part of the audience is the staff | DOUBT | left, `check: true`. Ask: with staff and guests listening, 𫣆兜 or 𠊎兜? |
-| 27 | 普普仔知麼个係麼个 "know roughly what's what" | 知麼个係麼个 0 / 0 | DOUBT | left, `check: true`. Ask: idiomatic? |
-| 27–28 | 阿舅講𠊎學法國話：教佢恁多擺… "you've taught him so many times": 阿舅 does not teach French | internal | DOUBT | left. Ask: can the quote be read as 阿舅 speaking for the teacher? |
-| 32 | 有落著 "has found its feet" | 落著 only in 無落著 (kaga115 到今還無落著); 有落著 0 / 0 | DOUBT | left, `check: true`. Ask: is 有落著 said? |
+| 14, 22, 23, 33 | 𫣆兜 (inclusive) in a speech to staff, friends and 阿舅 about "our shop" | card: 阿傑 says 𠊎兜 to people outside the business; here part of the audience is the staff | DOUBT | resolved (rewrite): no "we" left; 𠊎个店仔 (line 14), 店仔个粄條 (22), 專專來食粄條 (24), 後來尋著个師傅 (35); note 0 says why |
+| 27 | 普普仔知麼个係麼个 "know roughly what's what" | 知麼个係麼个 0 / 0 | DOUBT | resolved (rewrite): 普普仔聽得識 (聽得識: kaga 大家正聽得識), now line 29, `check: true` |
+| 27–28 | 阿舅講𠊎學法國話：教佢恁多擺… "you've taught him so many times": 阿舅 does not teach French | internal | DOUBT | resolved (rewrite): 阿傑 learns with Lucie (外篇 2), and the kaga115 quote is hers, to Sam (lines 29–30); note 29 says the lessons are invented |
+| 32 | 有落著 "has found its feet" | 落著 only in 無落著 (kaga115 到今還無落著); 有落著 0 / 0 | DOUBT | resolved (rewrite): line 34 頭下碼尋師傅，尋一隻月都還無落著, on the official pattern; `check: true` |
 
 Checked and right: 生理做毋成 (MOE 你个生理乜做毋成), 有好打幫 (kaga115 厥屋下食水果多多少少有好打幫), 無幾遠, 開洋
 (see summary), 做毋著 mˇ cog in line 30 (official gloss 犯錯), the title (MOE entry 條條馬膦臭汗臊，百般頭路百般難).
@@ -137,3 +137,12 @@ Checked and right: 無奈何 (7 official), 尋人出水 (kaga115 滿哪尋人出
 - `card.md`, one line: 轉來 is "come back", never "then" (續下來, 後來 "later"); "smells good" is 當香 / 盡香, not 好香.
 - `final-li` also flagged four fill items of 進修 39, 47, 57 and 64: each is an official kaga115 sentence with its own
   哩, so they carry `ok: [final-li]`. `make lint`: 0 errors, the same 182 warnings as before (the ones P74.md explains).
+
+## After the review (18 Nov 2026)
+- 外篇 9 rewritten around official sentences (same title, genre, scene and all 30 new words, plus 主顧 from a kaga
+  sentence): 38 → 40 lines, official sentences 12 (32%) → 14 (35%), `check: true` 26 → 26 (the two new own lines
+  replace the 有落著 and 知麼个係麼个 wording; four 𫣆兜 lines lost the doubt). Its four doubts are resolved (table above).
+- 進修 46 line 2: 吾間房, on kaga 這隻間房向西，下晝頭當熱; rule `my-room` (no other hit in 進修 or the 外篇).
+- The doubts of 外篇 3, 6, 7, 8 and 10 are left as they are: no exact official sentence removes them (searched:
+  背後講 (2, but 說人 must stay in the line), 扁身 0, 拚路 0, 推山 1 (subject a hill), 同 X 同 Y + verb 0,
+  好 hau + clause 0, 分 + person + 歡喜 0, 一抹煞 of people 0). They still need a native speaker.
